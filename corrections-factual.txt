@@ -664,7 +664,8 @@ Gerard Huet/Pawan Goyal
 =======================================
 98. Apr 14, 2014
 'tavy/a' changed to 'tavy^a' for several (75)
-records.  See updlogs/log_20140413-01.txt for list.
+records.  See updlogs/log_20140413-01.txt for list. 
+(Nov. 1, 2014. see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/29 for the list)
 This requested by Peter Scharf, who provides the
 following comment:
 The grave accent mark is the typical way of Romanizing the svarita accent 
