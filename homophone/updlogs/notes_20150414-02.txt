@@ -1,0 +1,56 @@
+;------------------------------------------------------------
+; Case 001 urvyA
+hom=0
+<H1C><h><hc3>100</hc3><key1>urvyA</key1><hc1>1</hc1><key2>urvy/A</key2><hom>1</hom></h><body>  <lex>ind.</lex> <p><ab>instr.</ab> of the <ab>fem.</ab></p> <c>far_,_far_off_,_to_a_distance</c> <ls>RV.</ls> <ls>VS.</ls> <ls>TS.</ls>  </body><tail><pc>217,3</pc> <L>37302.1</L></tail></H1C>
+hom=2
+<H2><h><hc3>110</hc3><key1>urvyA</key1><hc1>2</hc1><key2>urvy/A</key2><hom>2</hom></h><body> <lex>f.</lex> <p><c>for_<hom>1</hom>.</c>~<see/>~<s>/uru</s></p> <c>amplitude_,_vastness</c> <ls>S3Br._i_,_5_,_1_,_17.</ls> </body><tail><mul/> <MW>025809</MW> <pc>218,1</pc> <L>37390</L></tail></H2>
+;------------------------------------------------------------
+; Case 002 kulyA
+hom=0
+<H2B><h><hc3>110</hc3><key1>kulyA</key1><hc1>2</hc1><key2>kuly/A</key2><hom>1</hom></h><body>  <lex>f.</lex> <p>perhaps</p> <c>_custom_or_habit_of_a_family</c> <ls>AV._xi_,_3_,_13</ls>  </body><tail><mat/> <pc>295,3</pc> <L>53091</L></tail></H2B>
+hom=2
+<H2><h><hc3>110</hc3><key1>kulyA</key1><hc1>2</hc1><key2>kuly/A</key2><hom>2</hom></h><body> <lex>f.</lex> <c>a_small_river_,_canal_,_channel_for_irrigation_,_ditch_,_dyke_or_trench</c> <ls>RV.</ls> <ls>VS.</ls> <ls>AV.</ls> <etc/> </body><tail><pc>296,2</pc> <L>53222</L></tail></H2>
+;------------------------------------------------------------
+; Case 003 kzapA
+hom=0
+<H1C><h><hc3>100</hc3><key1>kzapA</key1><hc1>1</hc1><key2>kzap/A</key2><hom>1</hom></h><body> <lex>ind.</lex> <ab>instr.</ab> <c>at_night</c> <ls>RV.</ls>  </body><tail><pc>326,1</pc> <L>58996.2</L></tail></H1C>
+hom=2
+<H2><h><hc3>110</hc3><key1>kzapA</key1><hc1>2</hc1><key2>kzap/A</key2><hom>2</hom></h><body> <lex>f.</lex> <p><ls>Naigh._i_,_7</ls>~;~<c>for_<hom>1</hom>.</c>~<s>ksk<sr1/></s>~<see/>~<hom>4.</hom>~<s>kz/ap</s></p> <c>night</c> <ls>RV._iv_,_53_,_7</ls> <p><ab>instr.</ab>~ <ab>pl.</ab>~<s><sr1/>p/ABis</s></p> <ls>AitBr._i_,_13</ls> <ls>MBh.</ls> <etc/> </body><tail><pc>326,1</pc> <L>58998</L></tail></H2>
+hom=0
+<H1><h><hc3>004</hc3><key1>kzapA</key1><hc1>1</hc1><key2>kzap/A</key2></h><body> <see type="nonhier"/> <hom>4.</hom> <s>kz/ap</s>. </body><tail><mul/> <MW>039153</MW> <pc>326,2</pc> <L>59027</L></tail></H1>
+;------------------------------------------------------------
+; Case 004 gavyA
+hom=0
+<H2B><h><hc3>102</hc3><key1>gavyA</key1><hc1>2</hc1><key2>g/avyA</key2><hom>1</hom></h><body>  <lex>f.</lex> <c>a_cow-herd</c> <ls>Pa1n2._4-2_,_50</ls>  </body><tail> <pc>351,3</pc> <L>64416.20</L></tail></H2B>
+hom=2
+<H2><h><hc3>110</hc3><key1>gavyA</key1><hc1>2</hc1><key2>gavy/A</key2><hom>2</hom></h><body> <lex>f.</lex> <p><c>fr._<hom>1</hom>.</c>~<s>gavya</s></p> <c>desire_for_or_delight_in_cows_,_<ls>viii_,_46_,_10_and_ix_,_64_,_4</ls></c> <p><ab>instr.</ab>~<s><sr1/>vy/A</s></p> </body><tail><pc>351,3</pc> <L>64423</L></tail></H2>
+;------------------------------------------------------------
+; Case 005 jaraRA
+hom=0
+<H2B><h><hc3>110</hc3><key1>jaraRA</key1><hc1>2</hc1><key2>jaraR/A</key2><hom>1</hom></h><body>  <lex>f.</lex> <c>old_age</c> <ls>RV._vii_,_30_,_4_;_x_,_37_and_39</ls>  </body><tail><mat/> <pc>413,3</pc> <L>77627</L></tail></H2B>
+hom=2
+<H2><h><hc3>110</hc3><key1>jaraRA</key1><hc1>2</hc1><key2>jar/aRA</key2><hom>2</hom></h><body> <lex>f.</lex> <c>dry_wood<p>?</p></c> <ls>RV._i_,_141_,_7</ls> </body><tail><pc>413,3</pc> <L>77630</L></tail></H2>
+;------------------------------------------------------------
+; Case 006 jAlikA
+hom=0
+<H2B><h><hc3>110</hc3><key1>jAlikA</key1><hc1>2</hc1><key2>jAlikA</key2><hom>1</hom></h><body>  <lex>f.</lex> <c>a_net_<p>for_catching_birds_<etc1/></p></c> <ls>Katha1s._lxi</ls> <p><cf/>~<s>mfga-jAlikA</s></p>  </body><tail><mat/> <pc>420,1</pc> <L>79109</L></tail></H2B>
+hom=2
+<H1><h><hc3>110</hc3><key1>jAlikA</key1><hc1>1</hc1><key2>jAlikA</key2><hom>2</hom></h><body> <lex>f.</lex> <eq/> <s>jal<sr1/></s> <ls>W.</ls> </body><tail><mul/> <MW>051401</MW> <pc>420,1</pc> <L>79150</L></tail></H1>
+;------------------------------------------------------------
+; Case 007 dAsI
+hom=0
+<H2B><h><hc3>110</hc3><key1>dAsI</key1><hc1>2</hc1><key2>dAsI</key2><hom>1</hom></h><body> <lex>f.</lex> <c>a_female_servant_or_slave</c> <ls>AV.</ls> <ls>S3Br.</ls> <ls>Mn.</ls> <ls>MBh.</ls> <etc/> </body><tail><pc>477,1</pc> <L>91928</L></tail></H2B>
+hom=2
+<H2><h><hc3>112</hc3><key1>dAsI</key1><hc1>2</hc1><key2>dAsI</key2><hom>2</hom></h><body> <p><c>also</c>~<s><sr1/>sIka</s>~ <ab>ifc.</ab></p> <lex>f.</lex> <c>of_1.</c> <s>dAsa</s> <p><qv/></p>. </body><tail><MW>059322</MW> <pc>477,2</pc> <L>91967</L></tail></H2>
+;------------------------------------------------------------
+; Case 008 pASI
+hom=0
+<H1B><h><hc3>110</hc3><key1>pASI</key1><hc1>1</hc1><key2>p/ASI</key2><hom>1</hom></h><body> <lex>f.</lex> <c>a_rope_,_fetter</c> <ls>S3is3._xviii_,_57</ls> <p><cf/>~<c>also_<hom>2</hom>.</c>~<s>pASI</s></p>. </body><tail><MW>079035</MW> <pc>623,3</pc> <L>123326</L></tail></H1B>
+hom=2
+<H1><h><hc3>110</hc3><key1>pASI</key1><hc1>1</hc1><key2>pASI</key2><hom>2</hom></h><body> <lex>f.</lex> <p><c>for_<hom>1</hom>.</c>~<see/>~<c>under</c>~<s>pASa</s></p> <c>a_stone</c> <ls>Kaus3._83_;_85</ls> <p><ab>v.l.</ab>~<s>p/asI</s>~;~<cf/>~<s>pAz/aRa</s>~,~<s>pAzI</s></p>. </body><tail><mul/> <MW>079082</MW> <pc>624,1</pc> <L>123392</L></tail></H1>
+;------------------------------------------------------------
+; Case 009 sADyA
+hom=0
+<H2B><h><hc3>110</hc3><key1>sADyA</key1><hc1>2</hc1><key2>sADyA</key2><hom>1</hom></h><body> <lex>f.</lex> <c>N._of_a_daughter_of_<as0>Daksha</as0><as1><s>dakza</s></as1>_and_wife_of_<as0>Dharma</as0><as1><s>Darma</s></as1>_or_<as0>Manu</as0><as1><s>manu</s></as1>_<p>regarded_as_the_mother_of_the_<asp0>Sa1dhyas</asp0><as1><s>sADya</s>s</as1></p></c> <ls>Hariv.</ls> <ls>Pur.</ls> </body><tail><mat/> <pc>1202,1</pc> <L>241758</L></tail></H2B>
+hom=2
+<H2><h><hc3>200</hc3><key1>sADyA</key1><hc1>2</hc1><key2>sADy/A</key2><hom>2</hom></h><body> <lex>ind.</lex> <p><c>for_1.</c>~<see/>~<c>under</c>~<s>sADy/a</s></p> <eq/> <s>sADuy/A</s> <ls>TS.</ls> <ls>TBr.</ls> </body><tail><mul/> <MW>151832</MW> <pc>1202,1</pc> <L>241792</L></tail></H2>

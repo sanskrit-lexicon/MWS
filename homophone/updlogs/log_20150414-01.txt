@@ -1,0 +1,18 @@
+Update
+<L>22093</L>X
+<H1><h><hc3>501</hc3><key1>AkAra</key1><hc1>1</hc1><key2>A-kAra</key2><hom>1</hom></h><body> <s><sr1/>raRa</s> , <etc/> <see type="nonhier"/> <s>A-<root/>kf</s>. </body><tail><mul/> <MW>016079</MW> <pc>126,3</pc> <L>22093</L></tail></H1>
+Update
+<L>27642</L>X
+<H1><h><hc3>004</hc3><key1>ASrava</key1><hc1>1</hc1><key2>A-Srava</key2><hom>1</hom></h><body> <see type="nonhier"/> <s>A-<root/>Sru</s>. </body><tail><mul/> <MW>019614</MW> <pc>158,2</pc> <L>27642</L></tail></H1>
+Update
+<L>43899</L>X
+<H2><h><hc3>006</hc3><key1>kAnta</key1><hc1>2</hc1><key2>kAnta</key2><hom>1</hom></h><body> <etc/> <see type="nonhier"/> <ab>s.v.</ab> </body><tail><mul/> <MW>029959</MW> <pc>252,2</pc> <L>43899</L></tail></H2>
+Update
+<L>186497</L>?
+<H2><h><hc3>000</hc3><key1>vayasa</key1><hc1>2</hc1><key2>vayas/a</key2></h><body> <p><ab>ifc.</ab></p> = <hom>3</hom>. <s>vayas</s> <p><see/>~<s>uttara-</s>~,~<s>pUrva-</s>~,~<s>maDyama-v<sr1/></s></p>. </body><tail><mul/> <MW>118962</MW> <pc>920,3</pc> <L>186497</L></tail></H2>
+Update
+<L>193960</L>?
+<H3><h><hc3>006</hc3><key1>vikarman</key1><hc1>3</hc1><key2>vi-<sr/>karman</key2></h><body> <etc/> <see type="nonhier"/> <c><pcol>p._950_,_col._1</pcol>.</c> </body><tail><mul/> <MW>123552</MW> <pc>954,2</pc> <L>193960</L></tail></H3>
+Update
+<L>199732</L>?
+<H2B><h><hc3>100</hc3><key1>viliptA</key1><hc1>2</hc1><key2>vi-liptA</key2></h><body> <lex>f.</lex> <see type="nonhier"/> <c><pcol>p._952_,_col._2</pcol></c> </body><tail><pc>985,2</pc> <L>199732</L></tail></H2B>

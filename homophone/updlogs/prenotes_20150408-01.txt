@@ -1,0 +1,170 @@
+These are preliminary and contextual notes for the corrections of 
+20150408.  The 'old' records, with some additional notes, are in
+notes_20150408-01.txt.  The 'official' corrections (the 'NEW' records) are
+in log_20150408-01.txt.
+
+There are 22 cases under consideration.
+
+** 1 aDri H1A H1 3857 4713 : 0 : 4713
+aDri,H1A,3858.5
+aDri,H1,4713
+3858.3 is among the 'adri' cases.
+Delete it, and insert a copy at 4713.1 
+** 2 AcCAdya H2 H3A 23000 23000.01 : 0 : 23000 
+from extract_keys.txt:
+AcCAdya,H2,23000
+AcCAdayitvA,H2,23000.01
+AcCAdya,H3A,23000.1
+Solution:  This is an 'AND' type case.
+AcCAdya,H2,23000
+AcCAdya,H2A,23000.01
+AcCAdayitvA,H2,23000.1
+AcCAdayitvA,H2A,23000.11
+** 3 AdivarAha H3 H3A 23869 23871 : 0 : 23869
+AdivarAha,H3,23869
+AdivarAha,H3A,23870
+AdivArAha,H3,23871  -> 23871.1
+AdivarAha,H3A,23871.1  -> 23871 (from supplement) N. of Boja
+
+** 4 qiRqika H1A H1 81400 81402.1 : 0 : 81402.1
+qiRqika,H1A,81402  -> H1
+qiRqika,H1,81402.1 -> H1A (from supplement)
+
+** 5 tilakalka H3 H4A 85222 85223 : 0 : 85222
+tilakalka,H3,85222
+tilakalkaja,H4,85223  
+tilakalka,H4A,85224  -> tilakalkaja
+
+** 6 devaDizRya H3 H3A 95752 95752.1 : 0 : 95752
+devaDizRya,H3,95752
+devaDUpa,H3,95752.1
+devaDizRya,H3A,95753  headword is devaDUpa
+
+** 7 dvibarhas H3 H3A 98579 98579.1 : 0 : 98579
+dvibarhas,H3,98579
+dvibarhAs,H3,98579.1  interchange 98579.1 and 98580
+dvibarhas,H3A,98580
+
+** 8 nanu H4A H1 102645 103414 : 0 : 103414
+nanu,H4A,102645.1 -> H3  
+
+nanu,H1,103414
+nanu,H1A,103414.1
+
+** 9 nirapekza H3 H4A 106591 106595 : 0 : 106591
+nirapekza,H3,106591
+nirapekza,H3A,106592
+nirapekzam,H3C,106593
+nirapekzA,H3B,106594
+nirapekzatA,H4,106594.1
+nirapekzatva,H4,106594.2
+nirapekzita,H4,106595
+nirapekza,H4A,106596  -> nirapekzita
+
+** 10 nEka H3 H4A H1 102698 102709 112498 : 0 0 : 102698 112498
+nEka,H3,102698
+
+nEkarzi,H4,102709
+nEka,H4A,102710 -> nEkarzi
+
+nEstriMSika,H3,112497
+nEka,H1,112498
+nEkata,H1,112499
+
+** 11 nOkarRa H3 H4A 112621 112623 : 0 : 112621
+nOkarRa,H3,112621
+nOkarRI,H3B,112622
+nOkarRaDAra,H4,112623
+nOkarRa,H4A,112624  -> nOkarRaDAra
+
+** 12 pArzRivAh H3 H3A 123126 123126.1 : 0 : 123126
+pArzRivAh,H3,123126
+pArzRivah,H3,123126.1  interchange 123126.1 and 123127
+pArzRivAh,H3A,123127
+pArzRivah,H3A,123127.1
+
+** 13 puraSCada H3 H3A 125901 125901.3 : 0 : 125901
+puraSCada,H3,125901
+purAvfttAKyAna,H4,125901.2 -> completely wrong location, this and next
+purAvfttAKyAnakaTana,H4,125901.3
+puraSCada,H3A,125902
+
+delete 125901.2,.3 and move after purAvfttakaTA at 125979.1,.2
+purAvfttakaTA,H4,125979
+
+
+** 14 pfzWavAh H3 H3A 128869 128869.1 : 0 : 128869
+Two headwords, pfzwavah and pfzwavAh - (short-long variants), with 3 defns.
+
+pfzWavAh,H3,128869
+pfzWavah,H3,128869.1 -> 128870.1
+pfzWavAh,H3A,128870 -> 128869.1
+pfzWavah,H3A,128870.1 -> 128871
+pfzWavAh,H3A,128871 -> 128870
+pfzWavah,H3A,128871.1 
+
+pfzWavAha,H3,128872
+
+** 15 rasajYatA H4 H4A 175571 175571.1 : 0 : 175571
+rasajYatA,H4,175571
+rasajYatva,H4,175571.1 interchange 175571.1 and 2
+rasajYatA,H4A,175572
+insert 175572.1 for 2nd sense of rasajYatva
+
+** 16 vaRwAla H1 H1A 185355 185355.02 : 0 : 185355
+Three variants (vaRwAla, vaRWAla, vaRqAla), each with three senses
+vaRwAla,H1,185355
+vaRWAla,H1,185355.01 -> 185355.1
+vaRqAla,H1,185355.02 -> 185355.2
+vaRwAla,H1A,185355.1 -> 185355.01
+vaRwAla,H1A,185355.2 -> 185355.02
+insert vaRWAla,H1A,185355.11 and vaRWAla,H1A,185355.12
+insert vaRqAla,H1A,185355.21 and vaRqAla,H1A,185355.22
+
+** 17 vanita H2A H2 185302 186089 : 0 : 186089
+vaRita,H2,185302
+vanita,H2A,185303 -> vaRita
+
+vanita,H2,186089
+vanita,H2A,186090
+
+vanitA,H2B,186091
+vanitA,H2B,186092
+vanitA,H2,186093
+
+** 18 vyalIkatA H4 H4A 208261 208261.1 : 0 : 208261
+vyalIkatA,H4,208261
+vyalIkatva,H4,208261.1 interchange this and next
+vyalIkatA,H4A,208262
+insert 208252.1 vyalIkatva,H4a 
+** 19 saMvahana H3 H3A 226128 226141 : 0 : 226128
+saMvaha,H2,226126
+saMvaha,H2A,226127
+saMvahana,H3,226128
+saMvahana,H3A,226129
+
+saMvAhana,H3,226141
+saMvahana,H3A,226142 -> saMvAhana
+saMvahana,H3A,226143 -> saMvAhana
+
+** 20 saptika H2 H3A 232786 234416 : 0 : 232786
+saptArza,H2,232785
+saptika,H2,232786
+saptin,H2,232787
+
+samAptika,H3,234416
+saptika,H3A,234417 -> samAptika
+
+** 21 savyAhfti H3 H3A 239653 239654.1 : 0 : 239653
+savyAhfti,H3,239653
+savyAhftipraRavaka,H4,239654
+savraRa,H3,239654.1
+savyAhfti,H3A,239655 -> savraRa
+
+** 22 sumnAyu H2 H2A 248496 248496.1 : 0 : 248496
+sumnayu, sumnAyu a short-long pair, with 2 senses  reorder
+sumnAyu,H2,248496
+sumnayu,H2,248496.1 -> 248497
+sumnAyu,H2A,248497 -> 248496.1
+sumnayu,H2A,248497.1
+

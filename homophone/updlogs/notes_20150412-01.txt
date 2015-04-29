@@ -1,0 +1,36 @@
+;------------------------------------------------------------
+; Case 001 AkAra
+hom=0
+<H1><h><hc3>501</hc3><key1>AkAra</key1><hc1>1</hc1><key2>A-kAra</key2></h><body> <s><sr1/>raRa</s> , <etc/> <see type="nonhier"/> <s>A-<root/>kf</s>. </body><tail><mul/> <MW>016079</MW> <pc>126,3</pc> <L>22093</L></tail></H1>
+hom=1
+<H2><h><hc3>110</hc3><key1>AkAra</key1><hc1>2</hc1><key2>A-kAra</key2><hom>1</hom></h><body> <lex>m.</lex> <p><ab>ifc.</ab>~ <lex type="hwifc">f<p><s>A</s></p>.</lex>~<ls>R._i_,_28_,_24</ls>~<ls>Ragh._xii_,_41</ls></p> <c>form_,_figure_,_shape_,_stature_,_appearance_,_external_gesture_or_aspect_of_the_body_,_expression_of_the_face_<p>as_furnishing_a_clue_to_the_disposition_of_mind</p></c> <ls>Mn.</ls> <ls>MBh._<etc1/></ls> </body><tail><MW>016166</MW> <pc>127,2</pc> <L>22207</L></tail></H2>
+;------------------------------------------------------------
+; Case 002 ASrava
+hom=0
+<H1><h><hc3>004</hc3><key1>ASrava</key1><hc1>1</hc1><key2>A-Srava</key2></h><body> <see type="nonhier"/> <s>A-<root/>Sru</s>. </body><tail><mul/> <MW>019614</MW> <pc>158,2</pc> <L>27642</L></tail></H1>
+hom=1
+<H2><h><hc3>110</hc3><key1>ASrava</key1><hc1>2</hc1><key2>A-Srava</key2><hom>1</hom></h><body> <lex>mfn.</lex> <c>listening_to_,_obedient_,_compliant</c> <ls>Ragh.</ls> <ls>Das3.</ls> <ls>L.</ls> </body><tail><pc>158,3</pc> <L>27711</L></tail></H2>
+;------------------------------------------------------------
+; Case 003 kAnta
+hom=0
+<H2><h><hc3>006</hc3><key1>kAnta</key1><hc1>2</hc1><key2>kAnta</key2></h><body> <etc/> <see type="nonhier"/> <ab>s.v.</ab> </body><tail><mul/> <MW>029959</MW> <pc>252,2</pc> <L>43899</L></tail></H2>
+hom=1
+<H1><h><hc3>110</hc3><key1>kAnta</key1><hc1>1</hc1><key2>kAnta</key2><hom>1</hom></h><body> <lex>mf<p><s>A</s></p>n.</lex> <p><c>fr.</c>~<root/><hom>2</hom>.~<s>kam</s></p> , <c>desired_,_loved_,_dear_,_pleasing_,_agreeable_,_lovely_,_beautiful</c> </body><tail><pc>270,3</pc> <L>47717</L></tail></H1>
+;------------------------------------------------------------
+; Case 004 vayasa
+hom=1
+<H2><h><hc3>110</hc3><key1>vayasa</key1><hc1>2</hc1><key2>vayas/a</key2><hom>1</hom></h><body> <lex>m.</lex> = <s>v/ayas</s>2 , <c>a_bird</c> <ls>TS.</ls> </body><tail><mul/> <MW>118947</MW> <pc>920,2</pc> <L>186472</L></tail></H2>
+hom=0
+<H2><h><hc3>000</hc3><key1>vayasa</key1><hc1>2</hc1><key2>vayas/a</key2></h><body> <p><ab>ifc.</ab></p> = <hom>3</hom>. <s>vayas</s> <p><see/>~<s>uttara-</s>~,~<s>pUrva-</s>~,~<s>maDyama-v<sr1/></s></p>. </body><tail><mul/> <MW>118962</MW> <pc>920,3</pc> <L>186497</L></tail></H2>
+;------------------------------------------------------------
+; Case 005 vikarman
+hom=1
+<H3><h><hc3>110</hc3><key1>vikarman</key1><hc1>3</hc1><key2>v/i--karman</key2><hom>1</hom></h><body> <lex>n.</lex> <p><c>for_2.</c>~<see/>~<s>vi-</s>~<root/>~<s>kf</s></p> <c>prohibited_or_unlawful_act_,_fraud</c> <ls>Mn.</ls> <ls>MBh.</ls> <etc/> </body><tail><pc>950,1</pc> <L>192872</L></tail></H3>
+hom=0
+<H3><h><hc3>006</hc3><key1>vikarman</key1><hc1>3</hc1><key2>vi-<sr/>karman</key2></h><body> <etc/> <see type="nonhier"/> <c><pcol>p._950_,_col._1</pcol>.</c> </body><tail><mul/> <MW>123552</MW> <pc>954,2</pc> <L>193960</L></tail></H3>
+;------------------------------------------------------------
+; Case 006 viliptA
+hom=1
+<H3><h><hc3>110</hc3><key1>viliptA</key1><hc1>3</hc1><key2>v/i--liptA</key2><hom>1</hom></h><body> <OR group="193489,viliptA;193490,viliptikA"/> <lex>f.</lex> <c>a_second_<p>=_1<fs/>3600_of_a_degree</p></c> <ls>Gan2it.</ls> </body><tail><MW>123296</MW> <pc>952,2</pc> <L>193489</L></tail></H3>
+hom=0
+<H2B><h><hc3>100</hc3><key1>viliptA</key1><hc1>2</hc1><key2>vi-liptA</key2></h><body> <lex>f.</lex> <see type="nonhier"/> <c><pcol>p._952_,_col._2</pcol></c> </body><tail><pc>985,2</pc> <L>199732</L></tail></H2B>

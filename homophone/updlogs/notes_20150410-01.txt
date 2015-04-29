@@ -1,0 +1,1026 @@
+;------------------------------------------------------------
+; Case 001 aDyuzita
+hom=0 ok
+<H2><h><hc3>004</hc3><key1>aDyuzita</key1><hc1>2</hc1><key2>aDy-uzita</key2></h><body> <see type="nonhier"/> <ab>s.v.</ab> </body><tail><mul/> <MW>003102</MW> <pc>22,1</pc> <L>4387</L></tail></H2>
+hom=1 ok
+<H1><h><hc3>110</hc3><key1>aDyuzita</key1><hc1>1</hc1><key2>aDy-uzita</key2><hom>1</hom></h><body>  <lex>mfn.</lex> <p><root/>2.~<s>vas</s></p>  </body><tail><pc>23,3</pc> <L>4692</L></tail></H1>
+OK. Will remove <hom>1</hom> in removeHom step
+<H1C><h><hc3>110</hc3><key1>aDyuzite</key1><hc1>1</hc1><key2>aDy-uzi<sr1/>te</key2><hom>1</hom></h><body> <lex>ind.</lex> <ab>loc.</ab> <c>at_daybreak</c> <ls>MBh.</ls>  </body><tail><pc>23,3</pc> <L>4692.1</L></tail></H1C>
+
+recast as <H1>, since this is <hom>2</hom> remove type="inh"
+<H1A><h><hc3>100</hc3><key1>aDyuzita</key1><hc1>1</hc1><key2>aDy-uzita</key2><hom>2</hom></h><body> <lex type="inh">mfn.</lex> <p><root/>5.~<s>vas</s></p> <c>inhabited</c> </body><tail><pc>23,3</pc> <L>4693</L></tail></H1A>
+ok 
+<H1A><h><hc3>100</hc3><key1>aDyuzita</key1><hc1>1</hc1><key2>aDy-uzita</key2></h><body> <lex type="inh">mfn.</lex> <c>occupied.</c> </body><tail><mul/> <MW>003319</MW> <pc>23,3</pc> <L>4694</L></tail></H1A>
+
+;------------------------------------------------------------
+; Case 002 ana
+hom=1  '<hom>1</hom>' refers to 'an'  (L=4781) not to 'ana'. So remove it here
+<H1><h><hc3>000</hc3><key1>ana</key1><hc1>1</hc1><key2>ana</key2><hom>1</hom></h><body><OR group="4781,an;4781.1,ana"/> <c>or</c> <s>an</s> , <c>_the_substitute_for_<hom>3</hom>.</c> <s>a</s> , <c>or</c> <s>a</s> <c>privative.</c> </body><tail><mul/> <MW>003380</MW> <pc>24,1</pc> <L>4781.1</L></tail></H1>
+hom=0 ok
+<H2><h><hc3>110</hc3><key1>ana</key1><hc1>2</hc1><key2>an/a</key2></h><body> <lex>m.</lex> <c>breath_,_respiration</c> <ls>S3Br.</ls> <ls>ChUp.</ls> </body><tail><MW>003382</MW> <pc>24,1</pc> <L>4783</L></tail></H2>
+;------------------------------------------------------------
+; Case 003 apasyA
+hom=1
+<H2><h><hc3>110</hc3><key1>apasyA</key1><hc1>2</hc1><key2>apasy/A</key2><hom>1</hom></h><body> <lex>f.</lex> <c>activity</c> <ls>RV._v_,_44_,_8_;_vii_,_45_,_2</ls> <p><cf/>~<s>sv-apasy/A</s>~,~<c>for_2.</c>~<s>apasy/A</s>~<see/>~<c>2.</c>~<s>apasy/a</s>~<c>below.</c></p> </body><tail><mul/> <MW>007107</MW> <pc>53,1</pc> <L>9824</L></tail></H2>
+Change to <H2>, since this is <hom>2</hom> of apasyA. 
+<H2B><h><hc3>100</hc3><key1>apasyA</key1><hc1>2</hc1><key2>apasy/A</key2><hom>2</hom></h><body> <lex>f.</lex> <c>a_kind_of_brick_<p>twenty_are_used_in_building_the_sacrificial_altar</p></c> <ls>S3Br.</ls> <ls>Ka1tyS3r.</ls> </body><tail><mul/> <MW>007110</MW> <pc>53,1</pc> <L>9828</L></tail></H2B>
+;------------------------------------------------------------
+; Case 004 apekzya
+hom=1  Remove <c>2.</c>  (it is hom for next record)
+<H2><h><hc3>004</hc3><key1>apekzya</key1><hc1>2</hc1><key2>ape<srs/>kzya</key2><hom>1</hom></h><body> <eq/> <s>ape<srs/>kzaRIya</s>. <c>2.</c> </body><tail><MW>007547</MW> <pc>56,3</pc> <L>10384</L></tail></H2>
+hom=0  Change to <hom>2</hom>
+<H2><h><hc3>200</hc3><key1>apekzya</key1><hc1>3</hc1><key2>ape<srs/>kzya</key2></h><body> <ab>ind.p.</ab> <c>with_regard_or_reference_to.</c> </body><tail><mul/> <MW>007548</MW> <pc>56,3</pc> <L>10385</L></tail></H2>
+;------------------------------------------------------------
+; Case 005 aBiBU 
+hom=1 ok
+<H1><h><hc3>501</hc3><key1>aBiBU</key1><hc1>1</hc1><key2>aBi-<root>BU</root></key2><hom>1</hom></h><body> <c><to/>to_overcome_,_overpower_,_predominate_,_conquer_,_surpass_,_overspread</c> <msc/> <c><to/>to_attack_,_defeat_,_humiliate</c> <msc/> <c><to/>to_approach_,_come_near_to</c> <p><ab>acc.</ab></p> <ls>RV._iv.31_,_3</ls> <ls>AV.</ls> <msc/> <c><to/>to_be_victorious_or_prospering_in</c> <p><ab>loc.</ab></p> <ls>RV._v_,_37_,_5.</ls> </body><tail><mul/> <MW>008755</MW> <pc>66,3</pc> <L>11961</L><mscverb/></tail></H1>
+
+hom=0 aBiBu and aBiBU (hom=2) are two alternates
+Here is the original coding
+This one not useful as is. 
+<H2><h><hc3>000</hc3><key1>aBiBu</key1><hc1>2</hc1><key2>aBi-B/u</key2></h><body> <c>or_2.</c> </body><tail><MW>008763</MW> <pc>67,1</pc> <L>11974</L></tail></H2>
+pertains to both
+<H2><h><hc3>110</hc3><key1>aBiBU</key1><hc1>3</hc1><key2>aBi-B/U</key2></h><body> <lex>mfn.</lex> <c>one_who_surpasses_,_a_superior_</c> <p><c>with_or_without</c>~ <ab>acc.</ab></p> <ls>RV.</ls> <ls>AV.</ls> <ls>VS.</ls> </body><tail><pc>67,1</pc> <L>11975</L></tail></H2>
+pertains to both
+<H3A><h><hc3>100</hc3><key1>aBiBU</key1><hc1>3</hc1><key2>aBi-B/U</key2></h><body> <lex type="inh">mfn.</lex>  <p><c>Compar.</c>~<s>aBiB/Utara</s>~<ls>RV._viii_,_97_,_10</ls></p> </body><tail><pc>67,1</pc> <L>11976</L></tail></H3A>
+aBiBu only
+<H3B><h><hc3>110</hc3><key1>aBiBu</key1><hc1>3</hc1><key2>aBi-Bu</key2></h><body> <lex>m.</lex> <c>N._of_a_month</c> <ls>Ka1t2h.</ls> </body><tail><pc>67,1</pc> <L>11977</L></tail></H3B>
+aBiBU only
+<H3B><h><hc3>100</hc3><key1>aBiBU</key1><hc1>3</hc1><key2>aBi-B/U</key2></h><body> <lex>m.</lex> <p><s>/Us</s></p> <c>N._of_a_die</c> <ls>TS.</ls> <ls>Ka1t2h.</ls> </body><tail><pc>67,1</pc> <L>11978</L></tail></H3B>
+aBiBU only
+<H3B><h><hc3>100</hc3><key1>aBiBU</key1><hc1>3</hc1><key2>aBi-B/U</key2></h><body>  <lex type="inh">m.</lex> <c>of_a_prince_of_the_<asp0>Na1gas</asp0><as1><s>nAga</s>s</as1></c> <ls>Pa1rGr2.</ls>  </body><tail><mul/> <MW>008764</MW> <pc>67,1</pc> <L>11979</L></tail></H3B>
+
+These are rearranged so aBiBu parts come first and aBiBU parts are second;
+also in the first record of each group and OR element inserted:
+<OR group="11974,aBiBu;11977,aBiBU"/>
+11974
+<H2><h><hc3>110</hc3><key1>aBiBu</key1><hc1>3</hc1><key2>aBi-B/u</key2></h><body><OR group="11974,aBiBu;11977,aBiBU"/> <lex>mfn.</lex> <c>one_who_surpasses_,_a_superior_</c> <p><c>with_or_without</c>~ <ab>acc.</ab></p> <ls>RV.</ls> <ls>AV.</ls> <ls>VS.</ls> </body><tail><pc>67,1</pc> <L>11974</L></tail></H2>
+11975
+<H2A><h><hc3>100</hc3><key1>aBiBu</key1><hc1>3</hc1><key2>aBi-B/u</key2></h><body> <lex type="inh">mfn.</lex>  <p><c>Compar.</c>~<s>aBiB/Utara</s>~<ls>RV._viii_,_97_,_10</ls></p> </body><tail><pc>67,1</pc> <L>11975</L></tail></H2A>
+11976
+<H2B><h><hc3>110</hc3><key1>aBiBu</key1><hc1>3</hc1><key2>aBi-B/u</key2></h><body> <lex>m.</lex> <c>N._of_a_month</c> <ls>Ka1t2h.</ls> </body><tail><pc>67,1</pc> <L>11976</L></tail></H2B>
+and now for the aBuBU parts
+11977  Insert <hom>2</hom>
+<H2><h><hc3>110</hc3><key1>aBiBU</key1><hc1>3</hc1><key2>aBi-B/U</key2><hom>2</hom></h><body><OR group="11974,aBiBu;11977,aBiBU"/> <lex>mfn.</lex> <c>one_who_surpasses_,_a_superior_</c> <p><c>with_or_without</c>~ <ab>acc.</ab></p> <ls>RV.</ls> <ls>AV.</ls> <ls>VS.</ls> </body><tail><pc>67,1</pc> <L>11977</L></tail></H2>
+11978
+<H2A><h><hc3>100</hc3><key1>aBiBU</key1><hc1>3</hc1><key2>aBi-B/U</key2></h><body> <lex type="inh">mfn.</lex>  <p><c>Compar.</c>~<s>aBiB/Utara</s>~<ls>RV._viii_,_97_,_10</ls></p> </body><tail><pc>67,1</pc> <L>11978</L></tail></H2A>
+11979
+<H2B><h><hc3>100</hc3><key1>aBiBU</key1><hc1>3</hc1><key2>aBi-B/U</key2></h><body> <lex>m.</lex> <p><s>/Us</s></p> <c>N._of_a_die</c> <ls>TS.</ls> <ls>Ka1t2h.</ls> </body><tail><pc>67,1</pc> <L>11970</L></tail></H2B>
+11979.1  (new record)
+<H2B><h><hc3>100</hc3><key1>aBiBU</key1><hc1>3</hc1><key2>aBi-B/U</key2></h><body>  <lex type="inh">m.</lex> <c>of_a_prince_of_the_<asp0>Na1gas</asp0><as1><s>nAga</s>s</as1></c> <ls>Pa1rGr2.</ls>  </body><tail><mul/> <MW>008764</MW> <pc>67,1</pc> <L>11979.1</L></tail></H2B>
+
+;------------------------------------------------------------
+; Case 006 aBisaMKyA
+hom=1 ok
+<H1><h><hc3>501</hc3><key1>aBisaMKyA</key1><hc1>1</hc1><key2>aBi-saM-<root>KyA</root></key2><hom>1</hom></h><body> <p><ab>perf.</ab>~ <ab>Pass.</ab>~<c>p.</c>~<s>-KyAta</s></p> <c>to_enumerate</c> <ls>R.</ls> </body><tail><mul/> <MW>009344</MW> <pc>72,2</pc> <L>12741</L></tail></H1>
+hom=0  Promote to <H2> since <hom>2</hom> needs to be added
+<H2B><h><hc3>110</hc3><key1>aBisaMKyA</key1><hc1>2</hc1><key2>aBi-saMKyA</key2></h><body> <lex>f.</lex> <c>number</c> <ls>MBh._i_,_617.</ls> </body><tail><mul/> <MW>009345</MW> <pc>72,2</pc> <L>12743</L></tail></H2B>
+;------------------------------------------------------------
+; Case 007 aramati
+hom=0
+<H3><h><hc3>000</hc3><key1>aramati</key1><hc1>3</hc1><key2>ara--mati</key2></h><body>  <p><s>ar/a</s></p> <see type="nonhier"/> <ab>s.v.</ab> <s>/aram</s>. </body><tail><MW>011043</MW> <pc>86,2</pc> <L>15018.1</L></tail></H3>
+hom=1
+<H2><h><hc3>110</hc3><key1>aramati</key1><hc1>2</hc1><key2>a-r/amati</key2><hom>1</hom></h><body> <lex>mfn.</lex> <c>without_relaxation_or_repose</c> <ls>RV._ii_,_38_,_4_and_viii_,_31_,_12.</ls> </body><tail><mul/> <MW>011145</MW> <pc>87,1</pc> <L>15148</L></tail></H2>
+hom=0  add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>aramati</key1><hc1>3</hc1><key2>ar/amati</key2></h><body>  <lex>f.</lex> <c><quote>_readiness_to_serve_,_obedience_,_devotion</quote>_<p>generally_personified_as</p> _a_goddess_protecting_the_worshippers_of_the_gods_and_pious_works_in_general</c> <ls>RV.</ls>  </body><tail><mul/>  <pc>87,1</pc> <L>15175</L></tail></H3>
+;------------------------------------------------------------
+; Case 008 aruz
+hom=1
+<H1><h><hc3>110</hc3><key1>aruz</key1><hc1>1</hc1><key2>a-ruz</key2><hom>1</hom></h><body> <lex>mfn.</lex> <c>not_angry_,_good-tempered</c> <ls>Pan5cat.</ls> </body><tail><mul/> <MW>011377</MW> <pc>88,3</pc> <L>15493</L></tail></H1>
+hom=0  In this case, MW scan doesn't show a <hom>2</hom> here --- we introduce
+   in for consistency.  
+<H2><h><hc3>000</hc3><key1>aruz</key1><hc1>2</hc1><key2>aruz</key2></h><body> <p><c>in</c>~ <ab>comp.</ab>~<c>for</c>~<s>/arus</s></p>. </body><tail><MW>011386</MW> <pc>88,3</pc> <L>15508</L></tail></H2>
+;------------------------------------------------------------
+; Case 009 arcya
+hom=1 ok, but remove the _2., which is hom for next record
+<H2><h><hc3>110</hc3><key1>arcya</key1><hc1>2</hc1><key2>arcya</key2><hom>1</hom></h><body> <lex>mfn.</lex> <c>to_be_honoured_or_worshipped._2.</c> </body><tail><MW>011554</MW> <pc>90,1</pc> <L>15737</L></tail></H2>
+hom=0 add <hom>2</hom>
+<H3><h><hc3>200</hc3><key1>arcya</key1><hc1>3</hc1><key2>arcya</key2></h><body> <ab>ind.p.</ab> <see type="nonhier"/> <root/><s>arc</s> </body><tail><mul/> <MW>011555</MW> <pc>90,1</pc> <L>15738</L></tail></H3>
+;------------------------------------------------------------
+; Case 010 avedya
+hom=1
+<H2><h><hc3>110</hc3><key1>avedya</key1><hc1>2</hc1><key2>a-vedya</key2><hom>1</hom></h><body> <lex>mfn.</lex> <c>not_to_be_known_,_unascertainable</c> <ls>MBh._xii_,_11765</ls> </body><tail><pc>111,1</pc> <L>19196</L></tail></H2>
+hom=0 MW missing <hom>2</hom>
+<H1><h><hc3>110</hc3><key1>avedya</key1><hc1>1</hc1><key2>a-vedya</key2></h><body> <lex>mf<p><s>A</s></p>n.</lex> <p><root/>3.~<s>vid</s></p> , <c>not_to_be_married</c> <ls>Mn._x_,_24</ls> </body><tail><pc>111,1</pc> <L>19200</L></tail></H1>
+;------------------------------------------------------------
+; Case 011 AkAra   No change
+hom=0  no hom mentioned
+<H1><h><hc3>501</hc3><key1>AkAra</key1><hc1>1</hc1><key2>A-kAra</key2></h><body> <s><sr1/>raRa</s> , <etc/> <see type="nonhier"/> <s>A-<root/>kf</s>. </body><tail><mul/> <MW>016079</MW> <pc>126,3</pc> <L>22093</L></tail></H1>
+hom=1  No  hom=2 form is found. No change made
+<H2><h><hc3>110</hc3><key1>AkAra</key1><hc1>2</hc1><key2>A-kAra</key2><hom>1</hom></h><body> <lex>m.</lex> <p><ab>ifc.</ab>~ <lex type="hwifc">f<p><s>A</s></p>.</lex>~<ls>R._i_,_28_,_24</ls>~<ls>Ragh._xii_,_41</ls></p> <c>form_,_figure_,_shape_,_stature_,_appearance_,_external_gesture_or_aspect_of_the_body_,_expression_of_the_face_<p>as_furnishing_a_clue_to_the_disposition_of_mind</p></c> <ls>Mn.</ls> <ls>MBh._<etc1/></ls> </body><tail><MW>016166</MW> <pc>127,2</pc> <L>22207</L></tail></H2>
+;------------------------------------------------------------
+; Case 012 ADfz
+hom=1
+<H1><h><hc3>506</hc3><key1>ADfz</key1><hc1>1</hc1><key2>A-<root>Dfz</root></key2><hom>1</hom></h><body> <vlex>P.</vlex> <p><ab>perf.</ab> <c>3.</c>~ <ab>sg.</ab>~<s>/A-daDarza</s>~ <ab>Pot.</ab>~<s>/A-daDarzIt</s>~ <ab>Subj.</ab>~ <ab>aor.</ab>~<c>3.</c>~ <ab>sg.</ab>~<s>-daD/arzat</s>~,~<etc/></p> <c>_to_assail_,_attack_,_injure_,_overcome</c> <ls>RV.</ls> <ls>AV.</ls> </body><tail><mul/> <MW>017538</MW> <pc>139,1</pc> <L>24239</L></tail></H1>
+hom=0  Insert <hom>2</hom> missing in digitization
+<H2><h><hc3>000</hc3><key1>ADfz</key1><hc1>2</hc1><key2>A-D/fz</key2></h><body> <p><c>only</c>~ <ab>dat.</ab>~<b><s><sr1/>e</s>~<c>used_as_<ab>Inf.</ab></c>~<ls>RV.</ls>~<ls>AV._vi_,_33_,_2</ls></b>~<c>and</c>~ <ab>abl.</ab>~<b><s><sr1/>as</s>~<ls>RV._ii_,_1_,_9</ls></b></p>, <c>assault_,_attack.</c> </body><tail><mul/> <MW>017543</MW> <pc>139,2</pc> <L>24252</L></tail></H2>
+;------------------------------------------------------------
+; Case 013 ApAda  
+hom=1  Ac  Correction record (24895.01) says that <hom>1</hom> is an error.
+  We correct this error by removing <hom>1</hom>
+<H2><h><hc3>110</hc3><key1>ApAda</key1><hc1>2</hc1><key2>A-pAda</key2><hom>1</hom></h><body> <lex>m.</lex> <c>reward_,_remuneration</c> <ls>ChUp.</ls> </body><tail><pc>143,1</pc> <L>24893</L></tail></H2>
+hom=0
+<H1><h><hc3>006</hc3><key1>ApAda</key1><hc1>1</hc1><key2>A-pAda</key2></h><body> <etc/> <see type="nonhier"/> <c>under_1.</c> <s>A-<root/>pad</s>. </body><tail><mul/> <MW>018001</MW> <pc>143,2</pc> <L>24969</L></tail></H1>
+;------------------------------------------------------------
+; Case 014 ASrava
+hom=0
+<H1><h><hc3>004</hc3><key1>ASrava</key1><hc1>1</hc1><key2>A-Srava</key2></h><body> <see type="nonhier"/> <s>A-<root/>Sru</s>. </body><tail><mul/> <MW>019614</MW> <pc>158,2</pc> <L>27642</L></tail></H1>
+hom=1
+<H2><h><hc3>110</hc3><key1>ASrava</key1><hc1>2</hc1><key2>A-Srava</key2><hom>1</hom></h><body> <lex>mfn.</lex> <c>listening_to_,_obedient_,_compliant</c> <ls>Ragh.</ls> <ls>Das3.</ls> <ls>L.</ls> </body><tail><pc>158,3</pc> <L>27711</L></tail></H2>
+This correction record has a <hom>2</hom>, which is added
+<H2A><h><hc3>000</hc3><key1>ASrava</key1><hc1>1</hc1><key2>A-Srava</key2></h><body> <ab>w.r.</ab> for <s>A</s>-<s>srava</s>, see <ab>col.</ab> 3.</body><tail><pc>1320,2</pc><L supL="320580">27712.1</L></tail></H2A>
+;------------------------------------------------------------
+; Case 015 udak   
+hom=0
+<H1><h><hc3>006</hc3><key1>udak</key1><hc1>1</hc1><key2>udak</key2></h><body> <etc/> <see type="nonhier"/> <c>below.</c> </body><tail><mul/> <MW>022490</MW> <pc>184,1</pc> <L>32243</L></tail></H1>
+hom=1
+<H2><h><hc3>000</hc3><key1>udak</key1><hc1>2</hc1><key2>/udak</key2><hom>1</hom></h><body> <p><c>in</c>~ <ab>comp.</ab>~<c>for</c>~<s>/udac</s>~<c>below</c>~;~<c>for_2.</c>~<see type="nonhier"/>~<c><ab>col.</ab>2</c></p> <c>.</c> </body><tail><MW>022501</MW> <pc>184,1</pc> <L>32261</L></tail></H2>
+hom=0  Promote to <H2>, since <hom>2</hom> needs to be added
+also add <see/> <s>udac</s>
+<H2B><h><hc3>200</hc3><key1>udak</key1><hc1>2</hc1><key2>/ud-ak</key2></h><body>  <lex>ind.</lex> <p><c>2.</c>~<s>/udak</s>~;~<c>for_1.</c>~<see/>~<c><ab>col.</ab>1</c></p> <c>above</c>  </body><tail><pc>184,2</pc><mul/>  <L>32301.4</L></tail></H2B>
+and promote these to H2A
+<H2B><h><hc3>200</hc3><key1>udak</key1><hc1>2</hc1><key2>/ud-ak</key2></h><body> <lex type="inh">ind.</lex> <c>northward</c> <ls>RV.</ls> <ls>VS.</ls> <ls>S3Br.</ls> <ls>Ka1tyS3r.</ls> <ls>Mn.</ls> <etc/>  </body><tail><pc>184,2</pc><mul/>  <L>32301.5</L></tail></H2B>
+
+<H2B><h><hc3>200</hc3><key1>udak</key1><hc1>2</hc1><key2>/ud-ak</key2></h><body> <lex type="inh">ind.</lex> <c>subsequently</c> <ls>L.</ls>  </body><tail><pc>184,2</pc><mul/> <MW>022532</MW> <L>32301.6</L></tail></H2B>
+
+;------------------------------------------------------------
+; Case 016 ezwa
+hom=1
+<H2><h><hc3>101</hc3><key1>ezwa</key1><hc1>2</hc1><key2>/e<srs/>zwa</key2><hom>1</hom></h><body>  <lex>mfn.</lex> <p><s>A</s>~<c>+</c>~<s>izwa</s></p> <c>obtained_by_offerings_or_oblations</c> <ls>VS._v_,_7</ls>  </body><tail><mul/>  <pc>148,1</pc> <L>25727</L></tail></H2>
+hom=0  MW scan has forgotten to put in <hom>2</hom>, we add it 
+<H2><h><hc3>110</hc3><key1>ezwa</key1><hc1>2</hc1><key2>/e<srs/>zwa</key2></h><body> <lex>mfn.</lex> <p><c>or_fr.</c>~<s>A-<root/>iz</s></p> , <c>that_which_is_desired_or_asked_for</c> <ls>RV._i_,_184_,_2.</ls> </body><tail><mul/> <MW>027628</MW> <pc>232,3</pc> <L>40245</L></tail></H2>
+;------------------------------------------------------------
+; Case 017 karaka
+hom=1 
+<H2><h><hc3>102</hc3><key1>karaka</key1><hc1>2</hc1><key2>karaka</key2><hom>1</hom></h><body>  <lex>m.</lex> <p><c>for_2.</c>~<see/>~<c><ab>col.</ab>3</c></p> <c>a_water-vessel_<p><ab>esp.</ab>_one_used_by_students_or_ascetics</p></c> <ls>MBh.</ls> <ls>R.</ls>  </body><tail> <pc>254,1</pc> <L>44234</L></tail></H2>
+hom=0 missing <hom>2</hom> typo
+<H2><h><hc3>102</hc3><key1>karaka</key1><hc1>2</hc1><key2>karaka</key2></h><body>  <lex>m.</lex> <p><c>for_1.</c>~<see/>~<c><ab>col.</ab>1</c></p> <c>hail</c>  </body><tail> <pc>254,3</pc> <L>44387</L></tail></H2>
+;------------------------------------------------------------
+; Case 018 kAnta  NO CHANGE  (no hom=2 found;)
+hom=0
+<H2><h><hc3>006</hc3><key1>kAnta</key1><hc1>2</hc1><key2>kAnta</key2></h><body> <etc/> <see type="nonhier"/> <ab>s.v.</ab> </body><tail><mul/> <MW>029959</MW> <pc>252,2</pc> <L>43899</L></tail></H2>
+hom=1 Add <hom> in entry
+<H1><h><hc3>110</hc3><key1>kAnta</key1><hc1>1</hc1><key2>kAnta</key2><hom>1</hom></h><body> <lex>mf<p><s>A</s></p>n.</lex> <p><c>fr.</c>~<root/>2.~<s>kam</s></p> , <c>desired_,_loved_,_dear_,_pleasing_,_agreeable_,_lovely_,_beautiful</c> </body><tail><pc>270,3</pc> <L>47717</L></tail></H1>
+;------------------------------------------------------------
+; Case 019 kAlarAtri
+hom=1 hom ok.  Add text of entry from 49172
+<H3><h><hc3>110</hc3><key1>kAlarAtri</key1><hc1>3</hc1><key2>kAla--rAtri</key2><hom>1</hom></h><body> <lex>f.</lex> </body><tail><MW>033046</MW> <pc>277,2</pc> <L>49171</L></tail></H3>
+Interchange 49172, 49173.  Change r9172 to kalarAtri
+<H3><h><hc3>110</hc3><key1>kAlarAtrI</key1><hc1>3</hc1><key2>kAla--rAtrI</key2></h><body> <lex>f.</lex> <c>a_dark_night</c> <ls>W.</ls> </body><tail><pc>277,2</pc> <L>49172</L></tail></H3>
+<H3A><h><hc3>100</hc3><key1>kAlarAtrI</key1><hc1>3</hc1><key2>kAla--rAtrI</key2></h><body> <lex type="inh">f.</lex>  <p><c>for_2.</c>~<s>-rAtri</s>~<see/>~<c><pcol>p._278_,_col._3</pcol>.</c></p> </body><tail><MW>033047</MW> <pc>277,2</pc> <L>49173</L></tail></H3A>
+
+hom=0  typo. add missing <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>kAlarAtri</key1><hc1>3</hc1><key2>kAl/a--rAtri</key2></h><body> <lex>f.</lex> <c>the_night_of_all-destroying_time_,_night_of_destruction_at_the_end_of_the_world_<p>often_personified_and_identified_with_<as0>Durga1</as0><as1><s>durgA</s></as1>_or_with_one_of_her_<asp0>S3aktis</asp0><as1><s>Sakti</s>s</as1></p></c> <ls>MBh.</ls> <ls>R.</ls> <etc/> </body><tail><pc>278,3</pc> <L>49499</L></tail></H3>
+;------------------------------------------------------------
+; Case 020 kAlikA  scan err? No hom=2 found.  But there is a <hom>2</hom> of
+  kAlaka, which shows f. form kAlikA (L=49598)  I added a 49598.1 kAlikA for
+  this purpose
+<H2><h><hc3>110</hc3><key1>kAlaka</key1><hc1>2</hc1><key2>kAlaka</key2><hom>2</hom></h><body> <lex>mf<p><s>ikA</s></p>n.</lex> <c>to_be_paid_monthly_</c> <p><c>as_interest</c>~,~<s>vfdDi</s></p>. </body><tail><mul/> <MW>033306</MW> <pc>279,1</pc> <L>49598</L></tail></H2>
+
+hom=0
+<H2B><h><hc3>100</hc3><key1>kAlikA</key1><hc1>2</hc1><key2>kAlikA</key2><hom>1</hom></h><body> <lex>f.</lex> <c>blackness_or_black_colour</c> <ls>L.</ls> </body><tail><mat/> <pc>277,3</pc> <L>49255</L></tail></H2B>
+hom=1
+<H2><h><hc3>000</hc3><key1>kAlikA</key1><hc1>2</hc1><key2>kAlikA</key2><hom>1</hom></h><body> <p><c>f._of_1.</c>~<s>kAlaka</s>~<qv/></p> </body><tail><MW>033107</MW> <pc>277,3</pc> <L>49300</L></tail></H2>
+hom=0
+<H2><h><hc3>004</hc3><key1>kAlikA</key1><hc1>2</hc1><key2>kAlikA</key2></h><body> <see type="nonhier"/> <c><pcol>p._277_,_col._3</pcol>.</c> </body><tail><mul/> <MW>033343</MW> <pc>279,2</pc> <L>49658</L></tail></H2>
+;------------------------------------------------------------
+; Case 021 kuSAsana
+hom=1
+<H3><h><hc3>110</hc3><key1>kuSAsana</key1><hc1>3</hc1><key2>ku--SAsana</key2><hom>1</hom></h><body> <lex>n.</lex> <c>a_bad_doctrine_,_heterodoxy.</c> </body><tail><MW>034333</MW> <pc>286,3</pc> <L>51202</L></tail></H3>
+
+hom=0  typo. add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>kuSAsana</key1><hc1>3</hc1><key2>kuSA<srs/>sana</key2></h><body> <lex>n.</lex> <c>a_small_mat_of_sacred_grass_<p>on_which_a_<as0 type="ns">Bra1hman</as0><as1>Brahman</as1>_sits_when_performing_his_devotion</p></c> </body><tail><pc>297,1</pc> <L>53372</L></tail></H3>
+remove _2. (Hom) from end of prior record
+<H3A><h><hc3>100</hc3><key1>kuSASva</key1><hc1>3</hc1><key2>kuSA<srs/>Sva</key2></h><body> <lex type="inh">m.</lex>  <p><c>also</c>~ <ab>v.l.</ab>~<c>for</c>~<s>kuSAmba</s>~<qv/>~</p> <ls>R._2.</ls> </body><tail><MW>035655</MW> <pc>297,1</pc> <L>53371</L></tail></H3A>
+
+;------------------------------------------------------------
+; Case 022 girISa
+hom=0 typo. Missing <hom>1</hom>
+<H3><h><hc3>110</hc3><key1>girISa</key1><hc1>3</hc1><key2>g/ir--ISa</key2></h><body> <lex>m.</lex> <quote><c>_lord_of</c>_speech_</quote>_,_N._of_<as0>Br2ihaspati</as0><as1><s>bfhaspati</s></as1>_<p>regent_of_the_planet_Jupiter</p> <ls>L.</ls> </body><tail><MW>042901</MW> <pc>355,1</pc> <L>65068</L></tail></H3>
+correct -1. in prior record
+<H1B><h><hc3>100</hc3><key1>gir</key1><hc1>1</hc1><key2>g/ir</key2><hom>1</hom></h><body>  <lex type="inh">f.</lex> <c>a_kind_of_mystical_syllable</c> <ls>Ra1matUp.</ls>; <p><b><ab>cf.</ab>~<c><ab>Hib.</ab></c>~<etym>gair</etym>~,~<c><quote>_an_outcry_,_shout_</quote></c>~~;~~<c><ab>Gk.</ab>_<gk>1</gk>.</c></b></p> <c>_-_1.</c>  </body><tail><MW>042900</MW> <pc>355,1</pc> <L>65067</L></tail></H1B>
+
+hom=0 typo. Missing <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>girISa</key1><hc1>3</hc1><key2>girI<srs/>Sa</key2></h><body> <lex>m.</lex> <p><eq/>~<s><sr1/>rI<srs/>ndra</s></p> <c>a_high_mountain</c> </body><tail><pc>355,3</pc> <L>65256</L></tail></H3>
+correct -2 in prior record
+<H3A><h><hc3>100</hc3><key1>girIndra</key1><hc1>3</hc1><key2>girI<srs/>ndra</key2></h><body> <lex type="inh">m.</lex>  <p><eq/>~<s><sr1/>ri</s></p> <c>the_number_<quote>_eight._</quote>_2.</c> </body><tail><MW>043032</MW> <pc>355,3</pc> <L>65255</L></tail></H3A>
+
+hom=1  Purely referential.  Split. put <hom>1</hom> into body
+
+<H2><h><hc3>004</hc3><key1>girISa</key1><hc1>2</hc1><key2>gir-ISa</key2></h><body> (<s>gir-ISa</s> and <s>girI<srs/>Sa</s>) <see type="nonhier"/> <hom>1.</hom> <s>g/ir</s> and <hom>3.</hom> <s>gir/i</s>. </body><tail><MW>043040</MW> <pc>355,3</pc> <L>65274</L></tail></H2>
+;------------------------------------------------------------
+; Case 023 caturikA
+hom=1
+<H2><h><hc3>110</hc3><key1>caturikA</key1><hc1>2</hc1><key2>caturikA</key2><hom>1</hom></h><body> <lex>f.</lex> <p>~<eq/>~<s><sr1/>tuzka</s></p> <c>a_quadrangular_courtyard_<p>used_for_guests</p></c> <ls>Pan5cad._iv_,_76_;_v_,_45.</ls> </body><tail><mul/> <MW>046714</MW> <pc>385,2</pc> <L>71342</L></tail></H2>
+hom=0  Change to <H2> and insert <hom>2</hom>
+<H2B><h><hc3>110</hc3><key1>caturikA</key1><hc1>2</hc1><key2>caturikA</key2></h><body>  <lex>f.</lex> <c>N._of_a_woman</c> <ls>S3ak._vi_,_8<fs/>9</ls>_<p>in_<as0 type="ns">Pra1kr2it</as0><as1>Prakrit</as1></p>_and_<ls>13<fs/>14</ls> <ls>Katha1s._vi_,_53_;_ciii_,_20.</ls>  </body><tail><mul/> <MW>046803</MW> <mat/> <pc>386,2</pc> <L>71501</L></tail></H2B>
+;------------------------------------------------------------
+; Case 024 citti
+hom=1
+<H2><h><hc3>110</hc3><key1>citti</key1><hc1>2</hc1><key2>c/itti</key2><hom>1</hom></h><body> <lex>f.</lex> <c>thinking_,_thought_,_understanding_,_wisdom</c> <ls>RV._ii_,_21_,_6_;_x_,_85_,_7</ls> <ls>VS.</ls> <ls>TBr._ii</ls> <ls>S3a1n3khS3r.</ls> <ls>Kaus3._42</ls> </body><tail><pc>396,1</pc> <L>73625</L></tail></H2>
+
+hom=0  typo Add missing <hom>2</hom>
+<H2><h><hc3>110</hc3><key1>citti</key1><hc1>3</hc1><key2>citt/i</key2></h><body> 2. <lex>f.</lex> <c>crackling</c> <ls>i_,_164_,_29.</ls></body><tail><mul/> <MW>048365</MW> <pc>398,1</pc> <L>74091</L></tail></H2>
+
+hom=1 Purely referential. Remove <hom>1</hom> from <h>
+<H1><h><hc3>000</hc3><key1>citti</key1><hc1>1</hc1><key2>c/itti</key2><hom>1</hom></h><body> <c>2.</c> <s>citt/i</s>. <see type="nonhier"/> <root/>4.~<s>cit</s> <c>and_6.</c> <s>cit</s>. </body><tail><MW>048373</MW> <pc>398,1</pc> <L>74099</L></tail></H1>
+;------------------------------------------------------------
+; Case 025 Canda
+hom=1 ok
+<H2><h><hc3>110</hc3><key1>Canda</key1><hc1>2</hc1><key2>Canda</key2><hom>1</hom></h><body> <lex>mfn.</lex> <eq/> <s><sr1/>nna</s> <ls>L._<ab>Sch.</ab></ls> </body><tail><mul/> <MW>049242</MW> <pc>404,2</pc> <L>75511</L></tail></H2>
+
+hom=0  typo. Insert <hom>2</hom>
+<H2><h><hc3>110</hc3><key1>Canda</key1><hc1>2</hc1><key2>C/anda</key2></h><body> <lex>mfn.</lex> <c>pleasing_,_alluring_,_inviting</c> <ls>RV._i_,_92_,_6_;_viii_,_7_,_36</ls> </body><tail><pc>404,3</pc> <L>75559</L></tail></H2>
+
+hom=1  Referential. Remove <hom>1</hom> from <h>
+<H1><h><hc3>000</hc3><key1>Canda</key1><hc1>1</hc1><key2>Canda</key2><hom>1</hom></h><body> <c>and_2</c> <see type="nonhier"/> <root/>1. <c>and</c> <root/>3.~<s>Cad</s>. </body><tail><mul/> <MW>049354</MW> <pc>405,2</pc> <L>75689</L></tail></H1>
+;------------------------------------------------------------
+; Case 026 janasTa
+hom=1
+<H3><h><hc3>110</hc3><key1>janasTa</key1><hc1>3</hc1><key2>j/ana--sTa</key2><hom>1</hom></h><body> <lex>mfn.</lex> <c>abiding_among_men</c> <ls>BhP._vii_,_15_,_56</ls> </body><tail><pc>410,3</pc> <L>76819</L></tail></H3>
+
+hom=0 typo. Missing <hom>2</hom>
+<H3><h><hc3>112</hc3><key1>janasTa</key1><hc1>3</hc1><key2>jana-sTa</key2></h><body> <p><c>fr.</c>~<s><sr1/>naH-</s></p> <lex>mfn.</lex> <c>abiding_in_the_<as0>Janas</as0><as1><s>janas</s></as1>_<p>or_<as0>Jana-loka</as0><as1><s>jana-loka</s></as1></p></c> <ls>VP._i_,_3_,_24.</ls> </body><tail><mul/> <MW>050103</MW> <pc>411,1</pc> <L>76921</L></tail></H3>
+ prev rec. remove final _2.
+<H2><h><hc3>110</hc3><key1>janas</key1><hc1>2</hc1><key2>j/anas</key2></h><body> <lex>n.</lex> <c>race_,_class_of_beings_</c> <p><c><ab>Lat.</ab></c>~<etym>genus</etym></p> <ls>RV._ii_,_2_,_4</ls> <eq/> <s>jana-loka</s> <ls>Veda7ntas.</ls> <ls>BhP._iii_,_13_,_25_and_43._2.</ls> </body><tail><MW>050102</MW> <pc>411,1</pc> <L>76920</L></tail></H2>
+
+;------------------------------------------------------------
+; Case 027 jU
+hom=1  ok
+<H1><h><hc3>503</hc3><key1>jU</key1><hc1>1</hc1><key2>jU</key2><hom>1</hom></h><body> <vlex type="root"></vlex> <p><cf/>~<root/>~<s>jinv</s></p> , <vlex>cl.1.A1.</vlex> <vlex>cl.9. P.</vlex>  <s>j/avate</s>_,_<s>jun/Ati</s> <p><root/>~<s>ju</s>~ <vlex>cl.1 P.</vlex>~<s>javati</s>~<ls>Dha1tup._xxii_,_60</ls>~ <ab>v.l.</ab>~;~<c>a_<as0>Sautra</as0><as1><s>sOtra</s></as1>_root</c>~<ls>Pa1n2._3-2_,_177_;_3_,_97_and_4_,_80</ls>~<ls>Ka1s3.</ls>~;~ <ab>Subj.</ab>~<c>2.</c>~ <ab>sg.</ab>~<s>jun/As</s>~;~<ab>aor.</ab>~ <ab>Subj.</ab>~<s>jUjuvat</s>~;~ <ab>pf.</ab>~<c>3.</c>~ <ab>pl.</ab>~<s>jUjuvur</s></p> <c><to/>to_press_forwards_,_hurry_on_,_be_quick</c> <ls>RV._iii_,_33_,_1</ls> <ls>S3Br._x</ls> <msc/> <c><to/>to_impel_quickly_,_urge_or_drive_on_,_incite</c> <ls>RV.</ls> <ls>TS._vi</ls> <msc/> <c><to/>to_scare</c> <ls>RV._i_,_169_,_3</ls> <msc/> <c><to/>to_excite_,_promote_,_animate_,_inspire</c> <ls>RV.</ls> :  <ab>Caus.</ab> <ab>aor.</ab> <s>ajIjavat</s> <ls>Pa1n2._7-4_,_80_<ab>Sch.</ab></ls>: <ab>Caus.</ab> <ab>Desid.</ab> <s>jijavayizati</s> <ls>ib.</ls> <ls>Ka1s3.</ls> <msc/> <cf/> <s>pra-</s>. </body><tail><mul/> <MW>051969</MW> <pc>424,2</pc> <L>80068</L><mscverb/></tail></H1>
+
+hom=0 typo missing <hom>2</hom>
+<H2><h><hc3>110</hc3><key1>jU</key1><hc1>2</hc1><key2>j/U</key2></h><body> <lex>mfn.</lex> <p><ls>Pa1n2._3-2_,_177_and_178</ls>~<ab>Va1rtt._2</ab></p>_quick_,_speedy_,_<p><lex type="hwalt">m.</lex></p> <c>_courser</c> <ls>RV._i_,_134_,_1_and_140_,_4</ls> </body><tail><pc>424,2</pc> <L>80070</L></tail></H2>
+;------------------------------------------------------------
+; Case 028 taqAkA
+hom=1 ok 
+<H2><h><hc3>110</hc3><key1>taqAkA</key1><hc1>2</hc1><key2>taqAkA</key2><hom>1</hom></h><body> <lex>f.</lex> <c>a_stroke</c> <ls>L.</ls> </body><tail><pc>432,1</pc> <L>81686</L></tail></H2>
+
+hom=0 typo. missing <hom>2</hom>.  Change to <H2> since <hom> present
+<H1B><h><hc3>100</hc3><key1>taqAkA</key1><hc1>1</hc1><key2>taqAkA</key2></h><body> <lex>f.</lex> <c>a_shore</c> <ls>L.</ls> </body><tail><MW>053072</MW> <pc>432,2</pc> <L>81710</L></tail></H1B>
+;------------------------------------------------------------
+; Case 029 tas
+hom=1   hom ok, but remove final '_2.', as this is hom for next
+<H1><h><hc3>500</hc3><key1>tas</key1><hc1>1</hc1><key2>tas</key2><hom>1</hom></h><body> <vlex type="root"></vlex> <vlex>cl.4.</vlex> <s><sr1/>syati</s> , <c><to/>to_fade_away_,_perish</c> <ls>Dha1tup._xxvi_,_103</ls> <msc/> <p><cf/>~<root/>~<s>taMs</s></p> <c><to/>to_cast_upwards_<p>or_<quote>_to_throw_down_</quote></p></c> <ls>ib.</ls> <p><ls>Vop.</ls></p> <msc/> <c><to/>to_throw</c> <ls>Pa1n2._3-4_,_61</ls> <ls>Ka1s3._2.</ls> </body><tail><MW>054200</MW> <pc>441,2</pc> <L>83653</L><mscverb/></tail></H1>
+
+hom=0 typo missing <hom>2</hom>  Also, Change to H2
+<H3><h><hc3>110</hc3><key1>tas</key1><hc1>3</hc1><key2>tas</key2></h><body> <lex>mfn.</lex> <c><quote>_throwing_</quote></c> </body><tail><pc>441,2</pc> <L>83654</L></tail></H3>
+;------------------------------------------------------------
+; Case 030 tud
+hom=1
+<H1><h><hc3>500</hc3><key1>tud</key1><hc1>1</hc1><key2>tud</key2><hom>1</hom></h><body> <vlex type="root"></vlex> <vlex>cl.6 P.</vlex> <s><sr1/>d/ati</s> <p><ab>p.</ab>~ <lex type="part">f.</lex>~<s><sr1/>datI</s>~<c>or</c>~<s><sr1/>dantI</s>~<ls>Pa1n2._6-1_,_173</ls>~<ls>Ka1s3.</ls>~;~ <ab>pf.</ab>~<s>tut/oda</s>~;~ <ab>fut.</ab>~<c>2nd</c>~<s>totsyati</s>~<c>or</c>~<s>tottA</s>~,~<ls>vii_,_2_,_10</ls>~<ls>Ka1r.</ls>~;~ <ab>aor.</ab>~<s>atOtsIt</s></p> <c><to/>to_push_,_strike_,_goad_,_bruise_,_sting_,_vex</c> <ls>RV.</ls> <etc/> <msc/> <ab>Pass.</ab> <c>to_pain_<p>said_of_a_wound</p></c> <ls>Car._vi_,_13</ls> : <ab>Caus.</ab> <see/> <s>todita</s> <msc/>  <p><b><ab>cf.</ab>~<s>t/ottra</s>~<etc/>~~;~~<c><gk>1</gk>_<etc1/>_;_<ab>Lat.</ab></c>~<etym>tundo</etym>.</b></p> </body><tail><MW>055542</MW> <pc>450,2</pc> <L>85879</L></tail></H1>
+
+
+hom=0 typo Missing <hom>2</hom>. Also, change to H2
+<H3><h><hc3>110</hc3><key1>tud</key1><hc1>3</hc1><key2>tud</key2></h><body> <lex>mfn.</lex> <ab>ifc.</ab> <c><quote>_pricking_</quote></c> <see/> <s>vraRa-</s>. </body><tail><mul/> <MW>055544</MW> <pc>450,2</pc> <L>85881</L></tail></H3>
+
+remove '_2.' from prev. record.  Also, change from H3 to H2
+<H3><h><hc3>504</hc3><key1>tudAdi</key1><hc1>3</hc1><key2>tud--Adi</key2></h><body> <c>the_roots_of</c> <vlex type="nhw">cl.6.</vlex> <p><c>beginning_with</c>~<s>tud</s></p> <ls>Pa1n2._3-1_,_77._2.</ls> </body><tail><MW>055543</MW> <pc>450,2</pc> <L>85880</L></tail></H3>
+
+;------------------------------------------------------------
+; Case 031 tfz
+hom=1 hom ok. Remove final _2.
+<H1><h><hc3>500</hc3><key1>tfz</key1><hc1>1</hc1><key2>tfz</key2><hom>1</hom></h><body> <vlex type="root"></vlex> <vlex>cl.4.</vlex> <s><sr1/>zyati</s> <p><ab>p.</ab>~<s>t/fzyat</s>~ <vlex>A1.</vlex>~<s><sr1/>zAR/a</s>~ <ab>pf.</ab>~<s>tAtfzAR/a</s>~<ls>RV.</ls>~<b><s>tat<sr1/></s>~,~<ls>vi_,_15_,_5</ls></b>~;~<c>3.</c>~ <ab>pl.</ab>~<s>tAtfz/ur</s>~,~<ls>x_,_15_,_9</ls>~;~ <ab>aor.</ab>~ <ab>Subj.</ab>~<s>tfzat</s>~<ls>AV._ii_,_29_,_4</ls>~;~ <ab>ind.p.</ab>~<s><sr1/>zwv/A</s>~,~<ls>xix_,_34_,_6</ls>~;~<s><sr1/>zitvA</s>~<c>and</c>~<s>tarzitvA</s>~<ls>Pa1n2._1-2_,_25</ls></p> <c><to/>to_be_thirsty_,_thirst_,_thirst_for</c> <ls>RV._<etc1/></ls> : <ab>Caus.</ab> <p><ab>aor.</ab>~<c>1.</c>~ <ab>pl.</ab>~<s>atItfzAma</s></p> <c>to_cause_to_thirst_,_<ls>iv_,_34_,_11</ls></c> <msc/> <p><b><ab>cf.</ab>~<c><ab>Goth.</ab></c>~<etym>thars</etym>~,~<etym>thaursus</etym>~~;~~<c><gk>1</gk></c></b></p> <c>_2.</c> </body><tail><MW>056161</MW> <pc>454,1</pc> <L>86774</L><mscverb/></tail></H1>
+
+hom=0  typo Missing <hom>2</hom>. Also, change to H2.
+<H3><h><hc3>110</hc3><key1>tfz</key1><hc1>3</hc1><key2>tfz</key2></h><body> <lex>mfn.</lex> <c><quote>_longing_for_</quote></c> <see/> <s>arTa-</s> </body><tail><pc>454,1</pc> <L>86775</L></tail></H3>
+
+For consistency, also must change these three to H2B
+<H3B><h><hc3>110</hc3><key1>tfz</key1><hc1>3</hc1><key2>tfz</key2></h><body> <lex>f.</lex> <p><ls>Siddh.stry._23</ls></p> <c>_thirst</c> <ls>MBh._xiv</ls> <ls>Sus3r.</ls> <ls>VarBr2.</ls> <etc/> </body><tail><pc>454,1</pc> <L>86776</L></tail></H3B>
+<H3B><h><hc3>110</hc3><key1>tfz</key1><hc1>3</hc1><key2>tfz</key2></h><body> <lex type="inh">f.</lex> <c>strong_desire</c> <ls>L.</ls> </body><tail><mat/> <pc>454,1</pc> <L>86777</L></tail></H3B>
+<H3B><h><hc3>110</hc3><key1>tfz</key1><hc1>3</hc1><key2>tfz</key2></h><body> <lex type="inh">f.</lex> <c>Desire_as_daughter_of_Love</c> <ls>L.</ls> </body><tail><mul/> <MW>056162</MW> <mat/> <pc>454,1</pc> <L>86778</L></tail></H3B>
+
+;------------------------------------------------------------
+; Case 032 daDa
+hom=0 ok
+<H2><h><hc3>110</hc3><key1>daDa</key1><hc1>2</hc1><key2>daDa</key2></h><body> <lex>mfn.</lex> <ls>iii_,_i_,_139</ls>_<quote>_giving_</quote> <see/> <s>iqA-</s>_,_<s>ilA-</s>. </body><tail><mul/> <MW>058029</MW> <pc>468,1</pc> <L>89900</L></tail></H2>
+
+hom=1  typo key1 wrong, shld be daDi
+<H2><h><hc3>110</hc3><key1>daDa</key1><hc1>2</hc1><key2>d/aDa</key2><hom>1</hom></h><body> <lex>mfn.</lex> <p><c>2_,_171</c>~<ab>Va1rtt._3</ab></p>_<quote>_giving_</quote> <ls>RV._x_,_46_,_1</ls> </body><tail><pc>468,1</pc> <L>89902</L></tail></H2>
+
+similarly daDa -> daDi for these two. Also, go ahead and remove <hom>1</hom>
+  for the HxA,B cases
+<H2A><h><hc3>100</hc3><key1>daDa</key1><hc1>2</hc1><key2>d/aDa</key2><hom>1</hom></h><body> <lex type="inh">mfn.</lex> <c>preserving_</c> <p><c>with</c>~ <ab>acc.</ab></p> <ls>Vop.</ls> </body><tail><pc>468,1</pc> <L>89903</L></tail></H2A>
+
+<H2B><h><hc3>110</hc3><key1>daDa</key1><hc1>2</hc1><key2>d/aDa</key2><hom>1</hom></h><body> <lex>n.</lex> <c>a_house</c> <ls>L.</ls> </body><tail><mul/> <MW>058031</MW> <pc>468,1</pc> <L>89904</L></tail></H2B>
+
+;------------------------------------------------------------
+; Case 033 dAyaka
+hom=1
+<H2><h><hc3>110</hc3><key1>dAyaka</key1><hc1>2</hc1><key2>dAyaka</key2><hom>1</hom></h><body> <lex>mf<p><s>ikA</s></p>n.</lex> <c>giving_,_granting_,_bestowing</c> </body><tail><pc>474,2</pc> <L>91344</L></tail></H2>
+
+hom=0  SCAN ERR. <hom>2</hom> missing
+<H2><h><hc3>110</hc3><key1>dAyaka</key1><hc1>2</hc1><key2>dAyaka</key2></h><body> <lex>m.</lex> <c>heir_,_kinsman</c> <ls>Gr2S.</ls> </body><tail><mul/> <MW>058968</MW> <pc>474,3</pc> <L>91423</L></tail></H2>
+;------------------------------------------------------------
+; Case 034 dIDiti
+hom=1 ok
+<H2><h><hc3>110</hc3><key1>dIDiti</key1><hc1>2</hc1><key2>d/IDiti</key2><hom>1</hom></h><body> <lex>f.</lex> <c>brightness_,_splendour_,_light_,_a_ray</c> <ls>Naigh._i_,_5</ls> <ls>MBh.</ls> <ls>Ka1lid.</ls> <etc/> </body><tail><pc>481,1</pc> <L>92749</L></tail></H2>
+
+hom=0 typo. missing <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>dIDiti</key1><hc1>3</hc1><key2>d/IDiti</key2></h><body> <lex>f.</lex> <c>religious_reflection_,_devotion_,_inspiration</c> <ls>RV._i_,_186_,_11_<etc1/></ls> </body><tail><mul/> <MW>059898</MW> <pc>481,1</pc> <L>92761</L></tail></H3>
+;------------------------------------------------------------
+; Case 035 dyotana
+hom=1
+<H2><h><hc3>110</hc3><key1>dyotana</key1><hc1>2</hc1><key2>dy/otana</key2><hom>1</hom></h><body> or <s>dyotan/a</s>,  <lex>mf<p><s>A</s>~<c>or</c>~<s>I</s></p>n.</lex> <c>shining_,_glittering</c> <ls>RV.</ls> </body><tail><pc>500,2</pc> <L>97425</L></tail></H2>
+hom=0  typo. Implied <hom>2</hom> for this as well as previous record dyota
+<H2><h><hc3>004</hc3><key1>dyotana</key1><hc1>3</hc1><key2>dyo<sr/>tana</key2></h><body><AND group="97462,dyota;97463,dyotana"/> <see type="nonhier"/> <s>hrid-d<sr1/></s>. </body><tail><mul/> <MW>062957</MW> <pc>500,2</pc> <L>97463</L></tail></H2>
+;------------------------------------------------------------
+; Case 036 DAyu
+hom=1
+<H2><h><hc3>110</hc3><key1>DAyu</key1><hc1>2</hc1><key2>D/Ayu</key2><hom>1</hom></h><body> <lex>mfn.</lex> <c>giving_,_liberal_<p><as0>Indra</as0><as1><s>indra</s></as1></p></c> <ls>RV._iii_,_30_,_7.</ls> </body><tail><mul/> <MW>065181</MW> <pc>514,3</pc> <L>100879</L></tail></H2>
+
+hom=0 typo <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>DAyu</key1><hc1>3</hc1><key2>DAy/u</key2></h><body> <lex>mfn.</lex> <c>voracious</c> <ls>RV._vii_,_36_,_4.</ls> </body><tail><mul/> <MW>065197</MW> <pc>514,3</pc> <L>100901</L></tail></H3>
+
+remove 2. from prev record
+<H3><h><hc3>004</hc3><key1>DAyin</key1><hc1>3</hc1><key2>DAyin</key2></h><body> <see/> <s>amfta-D<sr1/></s> <p><ab>add.</ab></p> <c>2.</c> </body><tail><MW>065196</MW> <pc>514,3</pc> <L>100900</L></tail></H3>
+
+;------------------------------------------------------------
+; Case 037 DvaYj
+hom=1  hom=1 applies to Dvaj, not DvaYj
+<H1><h><hc3>505</hc3><key1>DvaYj</key1><hc1>1</hc1><key2>DvaYj</key2><hom>1</hom></h><body><OR group="102415,Dvaj;102415.1,DvaYj"/> <vlex type="root"></vlex> <c>or</c> <s>Dvaj</s> <vlex>cl.1 P.</vlex> <s>Dvajati</s>_,_<s>DvaYjati</s> , <c><to/>to_go_,_move</c> <ls>Dha1tup._vii_,_44_;_45</ls> <p><c1>prob.</c1>~ <vlex type="hwalt">Nom.</vlex>~<c1>fr._next</c1></p>. </body><tail><mul/> <MW>066129</MW> <pc>522,1</pc> <L>102415.1</L></tail></H1>
+hom=0 ok
+<H1><h><hc3>000</hc3><key1>DvaYj</key1><hc1>1</hc1><key2>DvaYj</key2></h><body> <s><sr1/>jati</s> <see/> <c>1.</c> <s>Dvaj</s>. </body><tail><mul/> <MW>066169</MW> <pc>522,2</pc> <L>102494</L></tail></H1>
+;------------------------------------------------------------
+; Case 038 navagraha
+hom=1 ok
+<H3><h><hc3>110</hc3><key1>navagraha</key1><hc1>3</hc1><key2>n/ava--graha</key2><hom>1</hom></h><body> <lex>mfn.</lex> <p><c>for_2.</c>~<see/>~<c>4.</c>~<s>n/ava</s></p> <c>recently_caught._<as0>Kad</as0><as1><s>kad</s></as1>.</c> </body><tail><MW>067418</MW> <pc>530,3</pc> <L>104492</L></tail></H3>
+
+hom=0 typo add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>navagraha</key1><hc1>3</hc1><key2>n/ava--graha</key2></h><body> <lex>m. <ab>pl.</ab></lex> <c>the_9_planets</c> <p><ab>i.e.</ab>~<c>sun_,_moon_,_5_planets_with_<as0>Ra1hu</as0><as1><s>rAhu</s></as1>_and_<as0>Ketu</as0><as1><s>ketu</s></as1></c></p> <ls>W.</ls> </body><tail><pc>531,2</pc> <L>104627</L></tail></H3>
+
+remove _2. from prev. record
+<H3><h><hc3>110</hc3><key1>navaguRita</key1><hc1>3</hc1><key2>n/ava--guRita</key2></h><body> <lex>mfn.</lex> <c>multiplied_by_9</c> <ls>L._2.</ls> </body><tail><MW>067530</MW> <pc>531,2</pc> <L>104626</L></tail></H3>
+
+;------------------------------------------------------------
+; Case 039 navatva
+hom=1 ok
+<H3><h><hc3>110</hc3><key1>navatva</key1><hc1>3</hc1><key2>n/ava--tva</key2><hom>1</hom></h><body> <lex>n.</lex> <p><c>for_2.</c>~<see/>~<c>4.</c>~<s>nava</s></p> <ab>id.</ab> <ls>Ra1jat.</ls> </body><tail><MW>067429</MW> <pc>530,3</pc> <L>104503</L></tail></H3>
+
+hom=0 typo missing <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>navatva</key1><hc1>3</hc1><key2>n/ava--tva</key2></h><body> <lex>n.</lex> <c>an_aggregate_of_9</c> <ls>Sarvad.</ls> </body><tail><MW>067539</MW> <pc>531,2</pc> <L>104637</L></tail></H3>
+
+remove -2. from prev record
+<H3><h><hc3>110</hc3><key1>navatAntava</key1><hc1>3</hc1><key2>n/ava--tAntava</key2></h><body> <lex>mf<p><s>I</s></p>n.</lex> <c>consisting_of_9_threads_,_<ls>Gr2ihya1s.</ls>_-2.</c> </body><tail><MW>067538</MW> <pc>531,2</pc> <L>104636</L></tail></H3>
+
+;------------------------------------------------------------
+; Case 040 nAnA
+hom=0  SCAN OMISSION add <hom>2</hom>. Also, change to H2, not H1B
+<H1B><h><hc3>110</hc3><key1>nAnA</key1><hc1>1</hc1><key2>nAnA</key2></h><body> <lex>f.</lex> <c>coin_</c> <p><c>=</c>~<eq/>~<s>nARaka</s></p> <ls>Hcat.</ls> </body><tail><mul/> <MW>068097</MW> <pc>535,1</pc> <L>105507</L></tail></H1B>
+
+hom=1  ok
+<H1><h><hc3>200</hc3><key1>nAnA</key1><hc1>1</hc1><key2>n/AnA</key2><hom>1</hom></h><body>  <lex>ind.</lex> <p><ls>Pa1n2._5-2_,_27</ls>~;~ <ab>g.</ab>~<s>svarAdi</s></p> <c>differently_,_variously_,_distinctly_,_separately_,_<p><c1>often_used_as_an</c1>~ <ab>adj.</ab>~<c1>=_various_,_different_,_distinct_from_<b><c2>with</c2>~ <ab>instr.</ab>~ <ab>e.g.</ab>~<s>viSvaM na</s>~<s>nAnA</s>~<s>SamBunA</s>~,~<c2><quote>_the_Universe_is_not_distinct_from_<abE>S3</abE><as0>S3ambhuna1</as0><as1><s>SamBunA</s></as1>_</quote></c2>~<ls>Vop.</ls>~;~<c2>rarely</c2>~ <lex type="hwalt">mfn.</lex>~ <ab>e.g.</ab>~<s>nArIzu nAnAsu</s>~<ls>Pan5car.</ls></b></c1>~<c1><ab>esp.</ab>_in</c1>~ <ab>comp.</ab>~;~<cf/>~<c1>below</c1></p></c> <ls>RV.</ls> <etcetc/>  </body><tail> <pc>535,1</pc> <L>105511</L></tail></H1>
+;------------------------------------------------------------
+; Case 041 nicft
+hom=1.  Remove _2. from end
+<H1><h><hc3>501</hc3><key1>nicft</key1><hc1>1</hc1><key2>ni-<root>cft</root></key2><hom>1</hom></h><body> <vlex>P.</vlex> <s>-cft/ati</s> , <c><to/>to_infix_,_insert</c> <ls>Kaus3._2.</ls> </body><tail><MW>069695</MW> <pc>546,3</pc> <L>108244</L></tail></H1>
+
+hom=0 typo add <hom>2</hom> Also change to H2
+<H3><h><hc3>110</hc3><key1>nicft</key1><hc1>3</hc1><key2>ni-cft</key2></h><body> <lex>f.</lex> <c>a_defective_metre</c> <ls>Nida1nas.</ls> <p><ab>w.r.</ab>~<s>ni-vft</s></p>. </body><tail><mul/> <MW>069696</MW> <pc>546,3</pc> <L>108245</L></tail></H3>
+;------------------------------------------------------------
+; Case 042 nirAkAra
+hom=1
+<H3><h><hc3>110</hc3><key1>nirAkAra</key1><hc1>3</hc1><key2>nir--AkAra</key2><hom>1</hom></h><body> <lex>mfn.</lex> <c>formless_,_shapeless_,_incorporeal</c> <p><s>brahman</s></p> , <c>making_no_appearance_or_show_,_insignificant_,_unimportant</c> <ls>MBh.</ls> <ls>R.</ls> <etc/> </body><tail><pc>540,1</pc> <L>106688</L></tail></H3>
+
+hom=0 typo Add <hom>2</hom>
+<H3><h><hc3>112</hc3><key1>nirAkAra</key1><hc1>3</hc1><key2>nir-A-<sr/>kAra</key2></h><body> <p><c>for_1.</c>~<see/>~<c><pcol>p._540_,_col._1</pcol></c></p> <lex>m.</lex> <c>rebuke_,_reproach_,_censure</c> <ls>L.</ls> </body><tail><MW>070334</MW> <pc>553,2</pc> <L>109327</L></tail></H3>
+
+remove _2. from prev. record
+<H3A><h><hc3>100</hc3><key1>nirAkartf</key1><hc1>3</hc1><key2>nir-A-<sr/>kartf</key2></h><body> <lex type="inh">mfn.</lex> <c>contemner_,_despiser_<p><ab>esp.</ab>_of_the_<as0>Veda</as0><as1><s>veda</s></as1>_and_religion</p></c> <ls>MBh._2.</ls> </body><tail><MW>070333</MW> <pc>553,2</pc> <L>109326</L></tail></H3A>
+
+;------------------------------------------------------------
+; Case 043 nirAkftin
+hom=1
+<H3><h><hc3>110</hc3><key1>nirAkftin</key1><hc1>3</hc1><key2>nir--Akftin</key2><hom>1</hom></h><body> <lex>mfn.</lex> <c>making_no_show_<etc1/></c> <eq/> <s>-AkAra</s> <p>above_</p> <ls>MBh.</ls> <p><ab>v.l.</ab>~<s>kfti</s></p>. </body><tail><MW>068844</MW> <pc>540,1</pc> <L>106706</L></tail></H3>
+
+hom=0 type add <hom>2</hom>
+<H3><h><hc3>102</hc3><key1>nirAkftin</key1><hc1>3</hc1><key2>nir-A-<sr/>kftin</key2></h><body>  <lex>mfn.</lex> <p><c>for_1.</c>~<see/>~<c><pcol>p._540_,_col._1</pcol></c></p> <c>one_who_has_forgotten_what_he_has_learned</c> <p><s>anirAk<sr1/></s></p> <ls>A1s3vS3r.</ls>  </body><tail> <pc>553,2</pc> <L>109337</L></tail></H3>
+
+remove _2. from prev record
+<H3B><h><hc3>100</hc3><key1>nirAkfti</key1><hc1>3</hc1><key2>nir-A-<sr/>kfti</key2></h><body>  <lex>m.</lex> <c>N._of_a_son_of_the_first_<as0>Manu</as0><as1><s>manu</s></as1>_<as0>Sa1varn2i</as0><as1><s>sAvarRi</s></as1></c> <ls>Hariv._2_.</ls>  </body><tail><MW>070336</MW> <pc>553,2</pc> <L>109336.4</L></tail></H3B>
+
+;------------------------------------------------------------
+; Case 044 nirAyata
+hom=1 ok
+<H3><h><hc3>110</hc3><key1>nirAyata</key1><hc1>3</hc1><key2>nir--Ayata</key2><hom>1</hom></h><body> <lex>mfn.</lex> <c>unextended_,_contracted_,_compact</c> <ls>W.</ls> </body><tail><pc>540,2</pc> <L>106766</L></tail></H3>
+
+hom=0 typo <hom>2</hom>
+<H3><h><hc3>102</hc3><key1>nirAyata</key1><hc1>3</hc1><key2>nir-A-<sr/>yata</key2></h><body>  <lex>mfn.</lex> <p><c>for_1.</c>~<see/>~<c><pcol>p._540_,_col._2</pcol></c></p> <c>stretched_out_,_extended</c>  </body><tail><mul/>  <pc>553,3</pc> <L>109354</L></tail></H3>
+
+remove _2. from prev. record
+<H1><h><hc3>506</hc3><key1>nirAyam</key1><hc1>1</hc1><key2>nir-A-<root>yam</root></key2></h><body> <vlex>P.</vlex> <s>-yacCati</s> <p><ab>ind.p.</ab>~<s>-yatya</s></p> , <c><to/>to_bring_or_get_out</c> <ls>AV.</ls> <ls>S3Br._2.</ls> </body><tail><MW>070352</MW> <pc>553,3</pc> <L>109353</L></tail></H1>
+
+;------------------------------------------------------------
+; Case 045 nirUQa
+hom=1
+<H3><h><hc3>110</hc3><key1>nirUQa</key1><hc1>3</hc1><key2>nir--UQa</key2><hom>1</hom></h><body> <lex>mfn.</lex> <c>unmarried</c> <ls>W.</ls> </body><tail><MW>068958</MW> <pc>540,3</pc> <L>106917</L></tail></H3>
+
+hom=0 typo <hom>2</hom> missing
+<H3><h><hc3>100</hc3><key1>nirUQa</key1><hc1>3</hc1><key2>ni-<sr/>rUQa</key2></h><body>  <lex>mfn.</lex> <p><cf/>~<s>nir-UQa</s>~,~<c><pcol>p._540_,_col._3</pcol></c></p> <c>grown_up</c> <ls>BhP.</ls>  </body><tail><mul/>  <pc>554,1</pc> <L>109450</L></tail></H3>
+also, correct prior record - remove _2.
+<H1><h><hc3>501</hc3><key1>niruh</key1><hc1>1</hc1><key2>ni-<root>ruh</root></key2></h><body> <c>Caus.</c> <s>-ropayati</s> , <c>to_transplant_,_transfer_from</c> <p><ab>abl.</ab></p> <c>to</c> <p><ab>loc.</ab></p> <ls>Ra1jat._2.</ls> </body><tail><MW>070402</MW> <pc>554,1</pc> <L>109449</L></tail></H1>
+
+hom=0 typo <hom>3</hom> missing
+<H3><h><hc3>110</hc3><key1>nirUQa</key1><hc1>3</hc1><key2>nir-<sr/>UQa</key2></h><body> <lex>mfn.</lex> <c>drawn_out_,_put_aside_,_separate</c> <ls>Gaut.</ls> </body><tail><pc>554,2</pc> <L>109471</L></tail></H3>
+
+also, correct prior record - remove _3.
+<H1><h><hc3>501</hc3><key1>nirUh</key1><hc1>1</hc1><key2>nir-<root>Uh<hom>1</hom></root></key2></h><body> <vlex>P. A1.</vlex> <s>-Uhati</s>_,_<s><sr1/>te</s> , <p><ab>inf.</ab>~<s>n/ir-Uhitav/E</s>~<ls>S3Br.</ls>~ <ab>ind.p.</ab>~<s>-uhya</s>~<ls>ib.</ls>~;~ <ab>Pass.</ab>~<ab>pr. p.</ab>~<s>uhyamAna</s>~<ls>Ka1tyS3r.</ls></p>, <c><to/>to_push_or_draw_out_,_put_aside_or_apart_,_remove</c> <ls>AV.</ls> <ls>S3Br.</ls> <ls>S3rS.</ls> :  <ab>Caus.</ab> <s>-Uhayati</s> , <c><to/>to_cause_to_draw_out_or_purge</c> <ls>Sus3r._3.</ls> </body><tail><MW>070413</MW> <pc>554,2</pc> <L>109470</L></tail></H1>
+
+;------------------------------------------------------------
+; Case 046 nirUhaRa
+hom=1
+<H3><h><hc3>110</hc3><key1>nirUhaRa</key1><hc1>3</hc1><key2>nir-<sr/>UhaRa</key2><hom>1</hom></h><body> <lex>n.</lex> <c>causing_to_purge_with_a_clyster</c> <ls>Sus3r.</ls> </body><tail><pc>554,2</pc> <L>109482</L></tail></H3>
+
+hom=0 typo <hom>2</hom> missing
+<H3><h><hc3>110</hc3><key1>nirUhaRa</key1><hc1>3</hc1><key2>nir-UhaRa</key2></h><body> <lex>n.</lex> <c>ascertainment</c> <ls>W.</ls> </body><tail><mul/> <MW>070420</MW> <pc>554,2</pc> <L>109488</L></tail></H3>
+
+also, remove _2. from prev rec
+<H1B><h><hc3>110</hc3><key1>nirUha</key1><hc1>1</hc1><key2>nir-Uha</key2><hom>3</hom></h><body> <lex>mfn.</lex> <eq/> <s>niS-cita</s> <ls>L._2.</ls> </body><tail><MW>070419</MW> <pc>554,2</pc> <L>109487</L></tail></H1B>
+
+;------------------------------------------------------------
+; Case 047 nirdahana   
+hom=1
+<H3><h><hc3>110</hc3><key1>nirdahana</key1><hc1>3</hc1><key2>nir--dahana</key2><hom>1</hom></h><body> <lex>mfn.</lex> <p><c>for_2.</c>~<see/>~<s>nir-dah</s></p> <c>not_burning</c> <ls>W.</ls> </body><tail><MW>069012</MW> <pc>541,2</pc> <L>107037</L></tail></H3>
+
+hom=0  scan omission. Add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>nirdahana</key1><hc1>3</hc1><key2>nir-<sr/>dahana</key2></h><body> <lex>mf<p><s>/I</s></p>n.</lex> <c>burning_up_,_consuming</c> <ls>AV.</ls> </body><tail><pc>555,2</pc> <L>109623</L></tail></H3>
+
+;------------------------------------------------------------
+; Case 048 nirbADa
+hom=1
+<H3><h><hc3>110</hc3><key1>nirbADa</key1><hc1>3</hc1><key2>nir--bADa</key2><hom>1</hom></h><body> <lex>mfn.</lex> <c>free_from_vexation_or_annoyance</c> <ls>Katha1s.</ls> </body><tail><MW>069043</MW> <pc>541,2</pc> <L>107099</L></tail></H3>
+
+hom=0  scan omission. Add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>nirbADa</key1><hc1>3</hc1><key2>nir-<sr/>bAD/a</key2></h><body> <lex>m.</lex> <c>a_knob_,_prominence_<p>as_that_which_keeps_off_or_defends_?</p></c> <ls>TS.</ls> <ls>S3Br.</ls> <p><s><sr1/>Da-<root/>kf</s>~,~<c><b>prob.</b>_to_set_aside_,_remove</c>~<ls>TS.</ls>~;~  <phw><dL>109706.1</dL><s><sr1/>Datv/a</s>~ <lex type="phw">n.</lex></phw>  ~<ls>ib.</ls></p> </body><tail><MW>070554</MW> <pc>555,3</pc> <L>109706</L></tail></H3>
+;------------------------------------------------------------
+; Case 049 nirBeda
+hom=1
+<H3><h><hc3>110</hc3><key1>nirBeda</key1><hc1>3</hc1><key2>nir--Beda</key2><hom>1</hom></h><body> <lex>mf<p><s>A</s></p>n.</lex> <c>uninterrupted</c> <ls>Hariv.</ls> </body><tail><MW>069061</MW> <pc>541,3</pc> <L>107134</L></tail></H3>
+
+hom=0 scan omission. Add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>nirBeda</key1><hc1>3</hc1><key2>nir-<sr/>Beda</key2></h><body> <lex>m.</lex> <c>breaking_asunder_,_splitting_,_bursting_<p>trans._and_intrans.</p></c> <ls>R.</ls> <ls>Sus3r.</ls> </body><tail><pc>556,1</pc> <L>109738</L></tail></H3>
+;------------------------------------------------------------
+; Case 050 niryukti
+hom=1
+<H3><h><hc3>110</hc3><key1>niryukti</key1><hc1>3</hc1><key2>nir--yukti</key2><hom>1</hom></h><body> <lex>f.</lex> <c>want_of_union_or_connection_<p><ab>esp.</ab>_in_gram.</p></c> </body><tail><pc>542,1</pc> <L>107231</L></tail></H3>
+
+hom=0 typo Add <hom>2</hom>
+<H3><h><hc3>112</hc3><key1>niryukti</key1><hc1>3</hc1><key2>nir-<sr/>yukti</key2></h><body> <p><c>for_1.</c>~<see/>~<c><pcol>p._542_,_col._1</pcol></c></p> <lex>f.</lex> <p>with_<asp0>Jainas</asp0><as1><s>jEna</s>s</as1></p> <c>_explanation_of_a_sacred_text</c> <p><cf/>~<s>nir-ukti</s></p>. </body><tail><MW>070659</MW> <pc>557,1</pc> <L>109879</L></tail></H3>
+
+remove 2. from prev:
+<H1A><h><hc3>110</hc3><key1>niryukta</key1><hc1>1</hc1><key2>nir-yukta</key2></h><body> <lex type="inh">mfn.</lex> <c><p>in_music</p>_limited_as_to_metre_and_measure</c> <p><ab>v.l.</ab>~<s>ni-y<sr1/></s></p>. <c>2.</c> </body><tail><MW>070658</MW> <pc>557,1</pc> <L>109878</L></tail></H1A>
+
+;------------------------------------------------------------
+; Case 051 nirvAcya
+hom=1
+<H3><h><hc3>110</hc3><key1>nirvAcya</key1><hc1>3</hc1><key2>nir--vAcya</key2><hom>1</hom></h><body> <lex>mfn.</lex> <c>unobjectionable_,_blameless</c> </body><tail><pc>542,1</pc> <L>107278</L></tail></H3>
+
+hom=0 typo Add <hom>2</hom>
+<H3><h><hc3>112</hc3><key1>nirvAcya</key1><hc1>3</hc1><key2>nir-<sr/>vAcya</key2></h><body> <p><c>for_1.</c>~<see/>~<c><pcol>p._542_,_col._1</pcol></c></p> <lex>mfn.</lex> <c>to_be_explained_,_<ls>RPra1t.</ls></c> <ls>Mallin.</ls> </body><tail><mul/> <MW>070687</MW> <pc>557,1</pc> <L>109920</L></tail></H3>
+
+remove 2. from prev:
+<H3><h><hc3>110</hc3><key1>nirvacanIya</key1><hc1>3</hc1><key2>nir-<sr/>vacanIya</key2></h><body> <lex>m.</lex> <eq/> <c>next</c> <p><cf/>~<s>a-nirv<sr1/></s></p>. <c>2.</c> </body><tail><MW>070686</MW> <pc>557,1</pc> <L>109919</L></tail></H3>
+
+;------------------------------------------------------------
+; Case 052 nirvAda
+hom=1
+<H3><h><hc3>110</hc3><key1>nirvAda</key1><hc1>3</hc1><key2>nir--vAda</key2><hom>1</hom></h><body> <lex>m.</lex> <c>absence_of_dispute_or_railing</c> <ls>W.</ls> </body><tail><MW>069135</MW> <pc>542,1</pc> <L>107284</L></tail></H3>
+
+hom=0 typo Add <hom>2</hom>
+<H3><h><hc3>102</hc3><key1>nirvAda</key1><hc1>3</hc1><key2>nir-<sr/>vAda</key2></h><body>  <lex>m.</lex> <p><c>for_1.</c>~<see/>~<c><pcol>p._542_,_col._1</pcol></c></p> <c>obloquy_,_censure</c> <ls>MBh.</ls> <ls>Ragh.</ls>  </body><tail><mul/>  <pc>557,2</pc> <L>109923</L></tail></H3>
+
+remove 2. from prev:
+<H1><h><hc3>506</hc3><key1>nirvad</key1><hc1>1</hc1><key2>nir-<root>vad</root></key2></h><body> <vlex>P. A1.</vlex> <s>-vadati</s>_,_<s><sr1/>te</s> <p><ab>aor.</ab>~<s>-avAdizam</s>~,~<s>-vAdizwam</s></p> , <c><to/>to_order_off_,_warn_off_,_expel_or_drive_away</c> <ls>VS.</ls> <msc/> <c><to/>to_speak_out_,_utter</c> <ls>AV.</ls> <msc/> <c><to/>to_abuse_,_revile</c> <ls>MBh.</ls> <msc/> <c><to/>to_deny</c> <ls>MW._2.</ls> </body><tail><MW>070689</MW> <pc>557,2</pc> <L>109922</L><mscverb/></tail></H1>
+
+;------------------------------------------------------------
+; Case 053 nirvAsana
+hom=1
+<H3><h><hc3>110</hc3><key1>nirvAsana</key1><hc1>3</hc1><key2>nir--vAsana</key2><hom>1</hom></h><body> <lex>mfn.</lex> <c>without_fancy_or_imagination</c> <ls>Sa1h.</ls> </body><tail><MW>069139</MW> <pc>542,1</pc> <L>107288</L></tail></H3>
+
+hom=0 typo and scan error (scan shows 1., not 2.): add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>nirvAsana</key1><hc1>3</hc1><key2>nir-<sr/>vAsana</key2></h><body> <lex>n.</lex> <p>fr._<ab>Caus.</ab></p> <c>_expelling_from_home_,_banishment</c> <ls>MBh.</ls> <ls>R.</ls> <etc/> </body><tail><pc>557,2</pc> <L>109950</L></tail></H3>
+
+remove 1. from prev
+<H3A><h><hc3>100</hc3><key1>nirvAsa</key1><hc1>3</hc1><key2>nir-<sr/>vAsa</key2></h><body> <lex type="inh">m.</lex> <c>killing_,_slaughter</c> <ls>L._1.</ls> </body><tail><MW>070708</MW> <pc>557,2</pc> <L>109949</L></tail></H3A>
+
+;------------------------------------------------------------
+; Case 054 nirvftti
+hom=1
+<H3><h><hc3>110</hc3><key1>nirvftti</key1><hc1>3</hc1><key2>nir--vftti</key2><hom>1</hom></h><body> <lex>mfn.</lex> <c>having_no_occupation_,_destitute</c> <ls>W.</ls> </body><tail><MW>069174</MW> <pc>542,2</pc> <L>107359</L></tail></H3>
+
+hom=0 typo Add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>nirvftti</key1><hc1>3</hc1><key2>nir-<sr/>vftti</key2></h><body> <lex>f.</lex> <c>originating_,_development_,_growth_,_completion_,_termination</c> <ls>Mn.</ls> <ls>MBh._<etc1/>_</ls> <p><c>often</c>~ <ab>w.r.</ab>~<c>for</c>~<s>nivftti</s>~,~<c>or</c>~<s>nirvfti</s></p>. </body><tail><mul/> <MW>070763</MW> <pc>558,1</pc> <L>110085</L></tail></H3>
+
+remove 2. from prev:
+<H4><h><hc3>100</hc3><key1>nirvfttaSatru</key1><hc1>3</hc1><key2>nir-<sr/>vftta---Satru</key2></h><body> <lex>m.</lex>  <ab>w.r.</ab> <c>for</c> <s>nivftta-S<sr1/></s>. <c>2.</c>  </body><tail><MW>070762</MW> <pc>558,1</pc> <L>110084</L></tail></H4>
+;------------------------------------------------------------
+; Case 055 nirveda
+hom=1
+<H3><h><hc3>110</hc3><key1>nirveda</key1><hc1>3</hc1><key2>nir--veda</key2><hom>1</hom></h><body> <lex>mfn.</lex> <c>not_having_the_<asp0>Vedas</asp0><as1><s>veda</s>s</as1>_,_infidel_,_unscriptural</c> <ls>W.</ls> </body><tail><MW>069178</MW> <pc>542,2</pc> <L>107363</L></tail></H3>
+
+hom=0 typo Add <hom>2</hom>
+<H3><h><hc3>102</hc3><key1>nirveda</key1><hc1>3</hc1><key2>nir-<sr/>ved/a</key2></h><body>  <lex>m.</lex> <p><c>for_1.</c>~<see/>~<c><pcol>p._542_,_col._3</pcol></c></p> <ab>id.</ab> , <c>complete_indifference_,_disregard_of_worldly_objects</c> <ls>S3Br.</ls> <ls>Up.</ls> <ls>MBh.</ls> <etc/>  </body><tail><mul/>  <pc>557,3</pc> <L>110029</L></tail></H3>
+
+remove 2. from prev:
+<H3><h><hc3>110</hc3><key1>nirvid</key1><hc1>3</hc1><key2>nir-<sr/>vid</key2></h><body> <lex>f.</lex> <c>despondency_,_despair</c> <ls>Katha1s._2.</ls> </body><tail><MW>070737</MW> <pc>557,3</pc> <L>110028</L></tail></H3>
+
+hom=0 ok. Referential.  Add <hom> in body
+<H1><h><hc3>000</hc3><key1>nirveda</key1><hc1>1</hc1><key2>nir-veda</key2></h><body> <c>1._and_2.</c> <s>nir-veda</s>. <see type="nonhier"/> <c><pcol>p._542_,_col._2</pcol>_,_and</c> <s>nir-vid</s>. </body><tail><mul/> <MW>070766</MW> <pc>558,1</pc> <L>110089</L></tail></H1>
+;------------------------------------------------------------
+; Case 056 nIta
+hom=1
+<H2><h><hc3>110</hc3><key1>nIta</key1><hc1>2</hc1><key2>nIt/a</key2><hom>1</hom></h><body> <lex>mfn.</lex> <p><c>for_2.</c>~<see/>~<c>4.</c>~<s>nI<srs/></s></p> <c>led_,_guided_,_brought_<etc1/></c> <ls>RV.</ls> <etcetc/> </body><tail><pc>565,1</pc> <L>111193</L></tail></H2>
+
+hom=0  typo Add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>nIta</key1><hc1>3</hc1><key2>nI<srs/>t/a</key2></h><body> <lex>mfn.</lex> <c>entered_,_gone_or_come_to</c> <p><s>mftyorantikam</s></p> <ls>RV.</ls> <ls>AV.</ls> </body><tail><mul/> <MW>071501</MW> <pc>565,2</pc> <L>111265</L></tail></H3>
+
+remove _2. from prev:
+<H1><h><hc3>506</hc3><key1>nI</key1><hc1>1</hc1><key2>nI</key2><hom>4</hom></h><body> <vlex type="root"></vlex> <vlex>P.</vlex> <s>ny-eti</s> <p><c>3.</c>~ <ab>pl.</ab>~<s>ni-yanti</s>~;~<ab>p.</ab>~<s>-yat</s>~;~ <ab>impf.</ab>~<s>ny-Ayan</s>~ <ab>ind.p.</ab>~<s>nI<srs/>tya</s></p> , <c><to/>to_go_into</c> <p><cf/>~<s>nyAya</s></p> , <c>enter_,_come_or_fall_into_,_incur</c> <p><ab>acc.</ab></p> <ls>RV.</ls> <ls>AV.</ls> <ls>TS.</ls> <ls>S3Br.</ls> <msc/> <c><to/>to_undergo_the_nature_of</c> <ab>i.e.</ab> <c><to/>to_be_changed_into</c> <p><s><sr1/>BAvam</s></p> <ls>RPra1t._2.</ls> </body><tail><MW>071500</MW> <pc>565,2</pc> <L>111264</L><mscverb/></tail></H1>
+
+hom=0  ok Referential
+<H1><h><hc3>000</hc3><key1>nIta</key1><hc1>1</hc1><key2>nIta</key2></h><body> <s>nIti</s> <etc/> <see type="nonhier"/> <root/><s>nI</s>. </body><tail><mul/> <MW>071579</MW> <pc>565,3</pc> <L>111368</L></tail></H1>
+;------------------------------------------------------------
+; Case 057 nIraja
+hom=1
+<H3><h><hc3>110</hc3><key1>nIraja</key1><hc1>3</hc1><key2>nI--raja</key2><hom>1</hom></h><body> <lex>mfn.</lex> <c>free_from_dust</c> <ls>MBh.</ls> </body><tail><pc>543,3</pc> <L>107699</L></tail></H3>
+
+hom=0 typo Add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>nIraja</key1><hc1>3</hc1><key2>nIr/a--ja</key2></h><body> <lex>mn.</lex> <p><c>for_1.</c>~<see/>~<c><pcol>p._543_,_col._3</pcol></c></p>_<quote>_<abE>w</abE>water-born_</quote> <c>_,_a_water_lily_,_lotus</c> <ls>MBh.</ls> <ls>Ka1v.</ls> <etc/> </body><tail><pc>566,1</pc> <L>111389</L></tail></H3>
+
+remove _2. from prev:
+<H3><h><hc3>110</hc3><key1>nIracara</key1><hc1>3</hc1><key2>nIr/a--cara</key2></h><body> <lex>m.</lex> <c><quote>_moving_in_<abE>w</abE>water_</quote>_,_a_fish_or_any_aquatic_animal</c> <ls>Bha1m._2.</ls> </body><tail><MW>071589</MW> <pc>566,1</pc> <L>111388</L></tail></H3>
+
+;------------------------------------------------------------
+; Case 058 nIrada
+hom=1
+<H3><h><hc3>110</hc3><key1>nIrada</key1><hc1>3</hc1><key2>nI--rada</key2><hom>1</hom></h><body> <lex>mfn.</lex> <c>toothless</c> <ls>Ka1v.</ls> </body><tail><MW>069379</MW> <pc>543,3</pc> <L>107712</L></tail></H3>
+
+hom=0 typo Add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>nIrada</key1><hc1>3</hc1><key2>nIr/a--da</key2></h><body> <lex>m.</lex> <p><c>for_<hom>1</hom>.</c>~<see/>~<c><pcol>p._543_,_col._3</pcol></c></p>_<quote>_w-giver_</quote> <c>_,_a_cloud</c> <ls>Ka1v.</ls> </body><tail><pc>566,1</pc> <L>111398</L></tail></H3>
+
+remove _2. from prev:
+<H3><h><hc3>110</hc3><key1>nIratIraja</key1><hc1>3</hc1><key2>nIr/a--tIraja</key2></h><body> <lex>m.</lex> <c><quote>_<abE>w</abE>water-shore-born_</quote>_,_<as0>Kus3a</as0><as1><s>kuSa</s></as1>_grass</c> <ls>L._2.</ls> </body><tail><MW>071593</MW> <pc>566,1</pc> <L>111397</L></tail></H3>
+;------------------------------------------------------------
+; Case 059 nU
+hom=1   This is a record not in scan.  It has been added to the digitization
+  due to the parenthetical reference to nU (in fg veda) under 1-nu)
+  It should NOT have a <hom>=1, 
+<H1><h><hc3>200</hc3><key1>nU</key1><hc1>1</hc1><key2>n/U</key2><hom>1</hom></h><body>  <lex>ind.</lex> <see/> <s>nu</s></body><tail><pc>567,1</pc><mul/>  <L>111758.4</L></tail></H1>
+
+hom=0  ok.  An alternate of 4-nu.  There is no <hom> ass. to nU
+<H1><h><hc3>505</hc3><key1>nU</key1><hc1>1</hc1><key2>nU</key2></h><body><OR group="111762,nu;111762.1,nU"/> <vlex type="root"></vlex> <c>or</c> <s>nu</s> <vlex>cl.2.6.</vlex> <vlex>P.</vlex> <p><ls>Dha1t._xxiv_,_26_;_xxviii_,_104</ls></p> <s>nOti</s>_,_<s>nuvati</s> , <p><ab>pres.</ab>~<c>also</c>~<s>n/avate</s>~,~<s><sr1/>ti</s>~<ls>RV.</ls>~<etc/>~;~<ab>p.</ab>~ <vlex>P.</vlex>~<s>nuv/at</s>~,~<s>n/avat</s>~ <vlex>A1.</vlex>~<s>n/avamAna</s>~<ls>RV.</ls>~;~ <ab>pf.</ab>~<s>nunAva</s>~<ls>Ka1v.</ls>~;~ <ab>aor.</ab>~<s>/anUnot</s>~,~<s>/anUzi</s>~,~<s><sr1/>zata</s>~,~<s>anavizwa</s>~<ls>RV.</ls>~;~<s>anOzit</s>,<s>anAvit</s>,<s>anuvIt</s>~ <ab>Gr.</ab>~;~ <ab>fut.</ab>~<s>navizyati</s>~,~<s>nuv<sr1/></s>~;~<s>navitA</s>,<s>nuv<sr1/></s>~<ls>ib.</ls>~;~ <ab>ind.p.</ab>~<s>-nutya</s>~,~<s>-nAvam</s>~<ls>Br.</ls>~;~ <ab>inf.</ab>~<s>lavitum</s>~ <ab>v.l.</ab>~<s>nuv<sr1/></s>~<ls>Bhat2t2.</ls></p> , <c><to/>to_sound_,_shout_,_exult</c> <msc/> <c>praise_,_commend</c> <ls>RV.</ls> <c><etc1/>_<etc1/>:</c> <ab>Pass.</ab> <s>nUyate</s> <ls>MBh.</ls> <c><etc1/>:</c> <ab>Caus.</ab> <s>nAvayati</s> <ab>aor.</ab> <s>anUnavat</s> <ab>Gr.</ab>: <ab>Desid.</ab> <s>nunUzati</s> <ls>ib.</ls> <msc/> <ab>Desid.</ab> <c>of_<ab>Caus.</ab></c> <s>nunAvayizati</s> <ls>ib.</ls> :  <c> <ab>Intens.</ab></c> <s>n/onavIti</s>_,_<s>nonumas</s> <p><ab>impf.</ab>~<s>anonavur</s>~ <ab>Subj.</ab>~<s>n/avInot</s>~;~ <ab>pf.</ab>~<s>n/onAva</s>~,~<s>nonuvur</s>~<ls>RV.</ls>~;~<s>nonUyate</s>,<s>nonoti</s>~ <ab>Gr.</ab></p> , <c><to/>to_sound_loudly_,_roar_,_thunder</c> <ls>RV.</ls> </body><tail><mul/> <MW>071804</MW> <pc>567,2</pc> <L>111762.1</L><mscverb/></tail></H1>
+;------------------------------------------------------------
+; Case 060 nyaYc 
+hom=1
+<H1><h><hc3>506</hc3><key1>nyaYc</key1><hc1>1</hc1><key2>ny-<root>aYc</root></key2><hom>1</hom></h><body> <vlex>P.</vlex> <s>-aYcati</s> , <c><to/>to_sink_,_bend_or_hang_down</c> <ls>Ba1lar.</ls> <ls>Katha1s.</ls> <msc/> <c><to/>to_pass_away_,_fade_,_perish</c> <ls>Bha1m.</ls> :  <ab>Caus.</ab> <s>-aYcayati</s> , <c><to/>to_press_down_or_in</c> <ls>HParis3.</ls> </body><tail><MW>072420</MW> <pc>571,3</pc> <L>112673</L><mscverb/></tail></H1>
+
+hom=0  typo Add <hom>2</hom>
+<H2><h><hc3>102</hc3><key1>nyaYc</key1><hc1>2</hc1><key2>ny-/aYc</key2></h><body>  <lex>mf<p><s>n/Ici</s></p>n</lex> <p><c>fr.</c>~<s>ni+</s>~<s>aYc</s></p><p><s>ny-ak</s></p>. <c>going_or_directed_downwards_,_bent_down</c> <ls>RV.</ls> <etcetc/>  </body><tail><mul/>  <pc>571,3</pc> <L>112723</L></tail></H2>
+;------------------------------------------------------------
+; Case 061 paYc
+hom=1  Wrong.  hom=1 refers to pac, not paYn
+<H1><h><hc3>505</hc3><key1>paYc</key1><hc1>1</hc1><key2>paYc</key2><hom>1</hom></h><body><OR group="113411,pac;113411.1,paYc"/> <vlex type="root"></vlex> <c>or</c> <s>pac</s> <vlex>cl.1 P. A1.</vlex> <s>pacati</s>_,_<s><sr1/>te</s> , <c>or</c> <s>paYcati</s>_,_<s><sr1/>te</s> , <c><to/>to_spread_out_,_make_clear_or_evident</c> <ls>Dha1tup._vi_,_14</ls> : <ab>Caus.</ab> <s>-paYcayati</s> <ls>xxxii_,_108</ls> <see/> <s>pra-paYcaya</s>. </body><tail><mul/> <MW>072900</MW> <pc>575,1</pc> <L>113411.1</L></tail></H1>
+
+hom=0  ok.  But correct <root/>1. -> <hom>1</hom>.
+<H1><h><hc3>004</hc3><key1>paYc</key1><hc1>1</hc1><key2>paYc</key2></h><body> <see/> <root/>1.~<s>pac</s> , <c><ab>col.</ab>1.</c> </body><tail><mul/> <MW>072978</MW> <pc>575,3</pc> <L>113534</L></tail></H1>
+;------------------------------------------------------------
+; Case 062 parAR
+hom=1  ok. but remove _2.
+<H1><h><hc3>501</hc3><key1>parAR</key1><hc1>1</hc1><key2>parA<srs/>R</key2><hom>1</hom></h><body> <p><vlex type="preverb"><s>parA-<root>an</root></s></vlex></p> <vlex>P.</vlex> <s>parA<srs/>Riti</s> <p><ab>Desid.</ab>~<s>parA<srs/>RiRizati</s></p> <ls>Pa1n2._8-4_,_19_<etc1/>_2.</ls> </body><tail><MW>074956</MW> <pc>590,1</pc> <L>116845</L></tail></H1>
+
+hom=0  typo Add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>parAR</key1><hc1>3</hc1><key2>parA<srs/>R</key2></h><body> <lex>mfn.</lex> <ls>ib._20.</ls> </body><tail><MW>074957</MW> <pc>590,1</pc> <L>116846</L></tail></H3>
+;------------------------------------------------------------
+; Case 063 parivarDita
+hom=1
+<H1><h><hc3>110</hc3><key1>parivarDita</key1><hc1>1</hc1><key2>pari-varDita</key2><hom>1</hom></h><body> <lex>mfn.</lex> <p><root/>~<s>varD</s></p> <c>cut_,_excavated</c> <ls>MW.</ls> </body><tail><mul/> <MW>076028</MW> <pc>600,2</pc> <L>118500</L></tail></H1>
+
+hom=0  typo Add <hom>2</hom>
+<H3><h><hc3>102</hc3><key1>parivarDita</key1><hc1>3</hc1><key2>pari-varDita</key2></h><body>  <lex>mfn.</lex> <p><c>for_1.</c>~<see/>~<c>p.600</c></p> <c>increased_,_augmented_,_grown_,_swollen_<p>as_the_sea</p></c> <ls>Ka1lid.</ls>  </body><tail> <pc>601,3</pc> <L>118706</L></tail></H3>
+
+remove -2. from prev:
+<H3A><h><hc3>100</hc3><key1>parivarDana</key1><hc1>3</hc1><key2>pari-varDana</key2></h><body> <lex type="inh">n.</lex> <c>breeding_,_rearing_<p>as_of_cattle</p></c> <ls>Mn._ix_,_331._2.</ls> </body><tail><MW>076134</MW> <pc>601,3</pc> <L>118705</L></tail></H3A>
+
+;------------------------------------------------------------
+; Case 064 parzaRi
+hom=1 ok, but remove -2. at end
+<H1><h><hc3>110</hc3><key1>parzaRi</key1><hc1>1</hc1><key2>parz/aRi</key2><hom>1</hom></h><body> <lex>mfn.</lex> <p><root/>1.~<s>pf</s></p> <c>carrying_over_or_across_<p>as_a_ship</p></c> <ls>RV._i_,_131_,_2._2.</ls> </body><tail><MW>077034</MW> <pc>609,3</pc> <L>120092</L></tail></H1>
+
+hom=0 typo Add <hom>2</hom>
+<H3><h><hc3>000</hc3><key1>parzaRi</key1><hc1>3</hc1><key2>parz/aRi</key2></h><body> <c><ab>Ved.</ab></c> <ab>inf.</ab> <c>of</c> <root/>1.~<s>pf</s> <ls>ib._x_,_126_,_3.</ls> </body><tail><MW>077035</MW> <pc>609,3</pc> <L>120093</L></tail></H3>
+;------------------------------------------------------------
+; Case 065 puMsavat
+hom=1 ok but remove 2. at end
+<H3><h><hc3>110</hc3><key1>puMsavat</key1><hc1>3</hc1><key2>puMsa--vat</key2><hom>1</hom></h><body> <lex>mfn.</lex> <c>having_a_son</c> <ls>S3a1n3khGr2.</ls> <p><cf/>~<s>puMs-vat</s></p> <c>2.</c> </body><tail><MW>080144</MW> <pc>631,1</pc> <L>125105</L></tail></H3>
+
+hom=0 typo Add <hom>2</hom>
+<H3><h><hc3>200</hc3><key1>puMsavat</key1><hc1>3</hc1><key2>puMsa--vat</key2></h><body> <lex>ind.</lex> <c>like_<p>with</p>_a_man</c> <ls>HParis3.</ls> </body><tail><mul/> <MW>080145</MW> <pc>631,1</pc> <L>125106</L></tail></H3>
+;------------------------------------------------------------
+; Case 066 prajajYi
+hom=1
+<H3><h><hc3>110</hc3><key1>prajajYi</key1><hc1>3</hc1><key2>pra-jajYi</key2><hom>1</hom></h><body> <lex>mfn.</lex> <p><c>for_<hom>2</hom>.</c>~<see/>~<c>under</c>~<s>pra-jYA</s></p> <c>able_to_beget</c> <p><see/>~<hom>1</hom>.~<s>a-prajajYi</s></p>. </body><tail><MW>083700</MW> <pc>658,2</pc> <L>130833</L></tail></H3>
+
+hom=0 typo Add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>prajajYi</key1><hc1>3</hc1><key2>pra-<sr/>j/ajYi</key2></h><body> <lex>mfn.</lex> <p><c>for_1.</c>~<see/>~<s>pra-<root/>jan</s></p> <c>knowing_,_conversant_with</c> <ls>S3Br.</ls> </body><tail><mul/> <MW>083801</MW> <pc>659,1</pc> <L>130974</L></tail></H3>
+
+remove 2. from prev:
+<H1><h><hc3>506</hc3><key1>prajYA</key1><hc1>1</hc1><key2>pra-<root>jYA</root></key2></h><body> <vlex>P.</vlex> <s>-jAnAti</s> , <c><to/>to_know_,_understand_<p><ab>esp.</ab>_a_way_or_mode_of_action</p>_,_discern_,_distinguish_,_know_about_,_be_acquainted_with</c> <p><ab>acc.</ab></p> <ls>RV.</ls> <etcetc/> <msc/> <c><to/>to_find_out_,_discover_,_perceive_,_learn</c> <ls>MBh.</ls> <ls>Ka1v.</ls> <c><etc1/>:_<ab>Caus.</ab></c> <s>-jYA<shortlong/>payati</s> , <c><to/>to_show_or_point_out_<p>the_way</p></c> <ls>S3Br.</ls> <msc/> <c><to/>to_summon_,_invite</c> <ls>Lalit._2.</ls> </body><tail><MW>083800</MW> <pc>659,1</pc> <L>130973</L><mscverb/></tail></H1>
+
+;------------------------------------------------------------
+; Case 067 prajApa
+hom=1
+<H3><h><hc3>110</hc3><key1>prajApa</key1><hc1>3</hc1><key2>praj/A--pa</key2><hom>1</hom></h><body> <lex>mfn.</lex> <p><c>for_2.</c>~<see/>~<s>pra-<root/>jap</s></p> <c>protecting_subjects</c> <ls>Nalac.</ls> </body><tail><pc>658,2</pc> <L>130883</L></tail></H3>
+
+hom=0 typo Add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>prajApa</key1><hc1>3</hc1><key2>pra-<sr/>jApa</key2></h><body> <lex>mfn.</lex> <p><c>for_1.</c>~<see/>~<c>under</c>~<s>pra-jA</s></p> <c>muttering_prayers_,_praying</c> <ls>Nalac.</ls> </body><tail><mul/> <MW>083766</MW> <pc>658,3</pc> <L>130928</L></tail></H3>
+
+remove 2. from prev:
+<H1><h><hc3>506</hc3><key1>prajap</key1><hc1>1</hc1><key2>pra-<root>jap</root></key2></h><body> <vlex>P.</vlex> <s>-japati</s> , <c><to/>to_recite_in_a_low_tone_,_whisper_,_mutter</c> <ls>MBh._2.</ls> </body><tail><MW>083765</MW> <pc>658,3</pc> <L>130927</L></tail></H1>
+;------------------------------------------------------------
+; Case 068 prativAraRa
+hom=1
+<H3><h><hc3>110</hc3><key1>prativAraRa</key1><hc1>3</hc1><key2>prati--vAraRa</key2><hom>1</hom></h><body> <lex>m.</lex> <p><c>for_2.</c>~<see/>~<c>under</c>~<s>prati-<root/>vf</s></p> <c>a_hostile_elephant.</c> <ls>Hariv.</ls> </body><tail><pc>663,2</pc> <L>131826</L></tail></H3>
+
+hom=0 typo Add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>prativAraRa</key1><hc1>3</hc1><key2>prati-<sr/>vAraRa</key2></h><body> <lex>mfn.</lex> <p><c>for_1.</c>~<see/>~<c><pcol>p._663_,_col._2</pcol></c></p> <c>_keeping_or_warding_off_,_opposing._preventing</c> <ls>MBh.</ls> </body><tail><pc>670,2</pc> <L>133108</L></tail></H3>
+
+remove 2. from prev:
+<H3><h><hc3>110</hc3><key1>prativAra</key1><hc1>3</hc1><key2>prati-<sr/>vAra</key2></h><body> <lex>m.</lex> <c>warding_off_,_resisting</c> <p><s>a-prativ<sr1/></s></p> <ls>Sus3r._2.</ls> </body><tail><MW>085083</MW> <pc>670,2</pc> <L>133107</L></tail></H3>
+;------------------------------------------------------------
+; Case 069 Bf
+hom=1
+<H1><h><hc3>500</hc3><key1>Bf</key1><hc1>1</hc1><key2>Bf</key2><hom>1</hom></h><body> <vlex type="root"></vlex> <vlex>cl.1 P. A1.</vlex> <p><ls>Dha1tup._xxii_,_1</ls></p> <s>B/arati</s>_,_<s><sr1/>te</s> <msc/> <vlex>cl.3 P. A1.</vlex> <p><ls>xxv_,_5</ls></p> <s>b/iBarti</s> <p><s>biB/arti</s>~<c>only</c>~<ls>RV._iv_,_50_,_7</ls></p> , <s>biBfte</s> <msc/> <vlex>cl.2 P.</vlex> <s>B/arti</s> <ls>RV._i_,_173_,_6_.</ls> <p><ab>p.</ab>~ <vlex>P.</vlex>~<s>b/iBrat</s>~,~<qv/>~;~ <vlex>A1.</vlex>~<s>biBrARa</s>~<c>with_act._meaning</c>~<ls>Ragh.</ls>~,~<s>biBramARa</s>~<c>with_pass._<abE>m</abE>meaning</c>~<ls>RV.</ls>~;~ <ab>pf.</ab>~<s>jaB/Ara</s>~,~<s>jaB/arat</s>~;~<s>jaBre</s>,<s>ajaBartana</s>~<ls>ib.</ls>~;~<s>baBAra</s>,<s>baBfma</s>~<ls>Br.</ls>~<etc/>~;~<ab>p.</ab>~<s>baBrAR/a</s>~<c>with_pass._meaning</c>~<ls>RV.</ls>~;~<s>biBarAmbaBUva</s>~<ls>Ragh.</ls>~,~<s><sr1/>rAm-Asa</s>~<ls>Bhat2t2.</ls>~;~ <ab>aor.</ab>~<s>aBAr</s>~<ls>RV.</ls>~;~<s>Bart/am</s>,<s>Bft/am</s>~<ls>Br.</ls>~;~<s>aBfta</s>~ <ab>Gr.</ab>~;~<s>aBArzam</s>~ <ab>Subj.</ab>~<s>Barzat</s>~<ls>RV.</ls>~;~<s>aBArizam</s>~<ls>AV.</ls>~;~ <ab>Prec.</ab>~<s>BriyAsam</s>~,~<s><sr1/>yAt</s>~<ls>Br.</ls>~;~ <ab>fut.</ab>~<s>Barizyati</s>~ <ab>cond.</ab>~<s>/aBarizyat</s>~<ls>RV.</ls>~;~<s>Bart/A</s>~<ls>S3Br.</ls>~;~ <ab>inf.</ab>~<s>B/artum</s>~,~<s>B/artave</s>~,~<s>B/artav/E</s>~,~<c>Ved.</c>~;~<s>B/araDyE</s>~<ls>RV.</ls>~;~ <ab>ind.p.</ab>~<s>-B/ftya</s>~<ls>ib.</ls>~<etc/></p> <c>,_<to/>to_bear_,_carry_,_convey_,_hold</c> <p><quote>_on_</quote>_or_<quote>_in_</quote>~ <ab>loc.</ab></p> <ls>RV.</ls> <etcetc/> <msc/> <c><to/>to_wear</c> <ab>i.e.</ab> <c>let_grow</c> <p>hair_,_beard_,_nails</p> <ls>Mn.</ls> <ls>MBh.</ls> <etc/> <msc/> <c><to/>to_balance_,_hold_in_equipoise</c> <p>as_a_pair_of_scales</p> <ls>Vishn2.</ls> <msc/> <c><to/>to_bear</c> <ab>i.e.</ab> <c>contain_,_possess_,_have_,_keep</c> <p>also_<quote>_keep_in_mind_</quote></p> <ls>RV.</ls> <etcetc/> <msc/> <c><to/>to_support_,_maintain_,_cherish_,_foster</c> <ls>ib.</ls> <msc/> <c><to/>to_hire_,_pay</c> <ls>MBh.</ls> <msc/> <c><to/>to_carry_off_or_along</c> <p><vlex>A1.</vlex>~<s>Barate</s>~,~<c><quote>_for_one's_self_</quote></c>~ <ab>i.e.</ab>~<c>gain_,_obtain_,_or_=</c>~<etym>ferri</etym>~<quote>_to_be_borne_along_</quote></p> <ls>RV.</ls> <ls>AV.</ls> <msc/> <c><to/>to_bring_,_offer_,_procure_,_grant_,_bestow</c> <ls>RV.</ls> <etcetc/> <msc/> <c><to/>to_endure_,_experience_,_suffer_,_undergo</c> <ls>ib.</ls> <msc/> <c><to/>to_lift_up_,_raise</c> <p><c>the_voice_or_a_sound</c>~;~ <vlex>A1.</vlex>~<s>Barate</s>~,~<c>also_</c> <quote>_to_rise_,_be_heard_</quote></p> <ls>RV.</ls> <msc/> <c><to/>to_fill</c> <p>the_stomach</p> <ls>Pan5cat.</ls> <msc/> <p><c>with</c>~<s>garBam</s></p> <c><to/>to_conceive_,_become_pregnant</c> <p><ab>cf.</ab>~<c>under</c>~<root/><s>Df</s></p> <ls>RV.</ls> <msc/> <p><c>with</c>~<s>kzitim</s></p> <c><to/>to_take_care_of_,_rule_,_govern</c> <ls>Ra1jat.</ls> <msc/> <p><c>with</c>~,~<s>AjYAm</s></p> <c><to/>to_submit_to_,_obey</c> <ls>ib.</ls> <msc/> <p><c>with</c>~<s>UrjAm</s></p> <c><to/>to_exert_,_employ</c> <ls>Bhat2t2.</ls> :  <ab>Pass.</ab> <s>Briy/ate</s> <p><c><ab>ep.</ab>_also</c>~<s><sr1/>ti</s>~;~ <ab>aor.</ab>~<s>aBAri</s></p> , <c><to/>to_be_borne_<etc1/></c> <ls>RV.</ls> <c><etc1/>_<etc1/>:</c> <ab>Caus.</ab> <s>BArayati</s> <p><ab>aor.</ab>~<s>abIBarat</s></p> , <c>to_cause_to_bear_<etc1/></c> <msc/> <c><to/>to_engage_for_hire</c> <ls>MBh.</ls> :  <ab>Desid.</ab> <s>b/uBUrzati</s> <p><ls>S3Br.</ls>~<ls>Ma1rkP.</ls></p> , <s>biBarizati</s> <p><ls>Pa1n2._8-2_,_49</ls></p> <c>_,_to_wish_to_bear_or_support_or_maintain:</c> <ab>Intens.</ab> <s>b/ariBarti</s> <p><c>3.</c>~ <ab>pl.</ab>~<s><sr1/>Brati</s>~<ls>RV.</ls>_,_where_also_2.~ <ab>du.</ab>~<s>jarBft/aH</s></p> , <s>barIBarti</s> <p><ls>Ka1v.</ls></p> , <c><to/>to_bear_repeatedly_or_continually_,_carry_hither_and_thither.</c> <b><c><ab>cf.</ab>_<ab>Zd.</ab></c>~<etym>bar</etym>~~;~~<c><ab>Gk.</ab>_<gk>1</gk>_;_<ab>Lat.</ab></c>~<etym>fero</etym>~<c>;_<ab>Slav.</ab></c>~<etym>brati</etym>~<c>;_<ab>Goth.</ab></c>~<etym>bai4ran</etym>~;<c><ab>Germ.</ab></c>~<etym>beran</etym>~,~<etym>ge-ba0ren</etym>~<c>;_<ab>Eng.</ab></c>~<etym>bear</etym>.</b> </body><tail><mul/> <MW>097108</MW> <pc>764,3</pc> <L>152494</L><mscverb/></tail></H1>
+hom=0 typo Add <hom>2</hom>
+<H2><h><hc3>000</hc3><key1>Bf</key1><hc1>2</hc1><key2>Bf</key2></h><body> <p><c>1.</c>~<see type="nonhier"/>~<c><pcol>p._764_,_col._3</pcol></c></p> <c>_,_in</c> <ab>comp.</ab> <c>for</c> <s>BrU</s>. </body><tail><MW>097906</MW> <pc>770,3</pc> <L>153803</L></tail></H2>
+;------------------------------------------------------------
+; Case 070 manT
+hom=1  no. hom=1 refers to maT, not manT
+<H1><h><hc3>505</hc3><key1>manT</key1><hc1>1</hc1><key2>manT</key2><hom>1</hom></h><body><OR group="155187,maT;155187.1,manT"/> <vlex type="root"></vlex> <c>or</c> <s>maT</s> <p><qv/></p> <vlex>cl.1.9.</vlex> <vlex>P.</vlex> <p><ls>Dha1tup._xx_,_18_,_iii_,_5_and_xxxi_,_40</ls></p> <s>mA<srs/>Tati</s>_,_<s>m/anTati</s>_,_<s>maTn/Ati</s> <p><c>Ved._and_<ab>ep.</ab>_also</c>~ <vlex>A1.</vlex>~<s>m/aTate</s>~,~<s>m/anTate</s>~<c>and</c>~<s>maTnIte</s>~;~ <ab>Impv.</ab>~<s>maTnaDvam</s>~<ls>MBh.</ls>~;~ <ab>pf.</ab>~<s>mamATa</s>~<ls>AV.</ls>~;~<c>3.</c>~ <ab>pl.</ab>~<s>mamaTuH</s>~<ls>Vop.</ls>~;~<s>meTuH</s>,<s>meTire</s>~<ls>Br.</ls>~;~<s>mamanTa</s>,<s><sr1/>nTuH</s>~<ls>MBh.</ls>~;~ <ab>aor.</ab>~<s>maTIt</s>~<ls>RV.</ls>~;~<s>amanTizwAm</s>~<ls>ib.</ls>~;~<s>amaTizata</s>~<ls>Br.</ls>~;~ <ab>fut.</ab>~<s>maTizyati</s>~,~<s><sr1/>te</s>~<s>manTizyati</s>~<ls>Br.</ls>~<etc/>~;~<s>maTitA</s>~<ls>MBh.</ls>~;~ <ab>inf.</ab>~<s>maTitum</s>~<ls>MBh.</ls>~<etc/>~;~<s><sr1/>tos</s>~<ls>Br.</ls>~;~<s>m/anTitav/E</s>~<ls>MaitrS.</ls>~;~ <ab>ind.p.</ab>~<s>maTitv/A</s>~,~<s>-m/aTya</s>~<ls>Br.</ls>~<etc/>~;~<s>manTitvA</s>~,~<ls>Pa1n2._1-2_,_33</ls>~;~<s>-manTya</s>~<c>and</c>~<s>-mATam</s>~ <ls>MBh.</ls>~<etc/></p> <c>._to_stir_or_whirl_round</c> <ls>RV.</ls> <etcetc/> <msc/> <p><c>with</c>~<s>agnim</s></p> , <c><to/>to_produce_fire_by_rapidly_whirling_round_or_rotating_a_dry_stick</c> <p><s>araRi</s></p> <c>in_another_dry_stick_prepared_to_receive_it</c> <ls>ib.</ls> <msc/> <p><c>with</c>~<s>araRim</s></p> , <c><to/>to_rotate_the_stick_for_producing_fire</c> <ls>MBh.</ls> <ls>Ka1v.</ls> <ls>Pur.</ls> <msc/> <p><c>with</c>~<s>Urum</s>~,~<s>hastam</s>~<etc/></p> <c>_,_<to/>to_use_friction_upon_any_part_of_the_body_with_the_object_of_producing_offspring_from_it</c> <ls>Hariv.</ls> <ls>BhP.</ls> <msc/> <c><to/>to_churn</c> <p>milk_into_butter</p> <c>,_produce_by_churning</c> <ls>TS.</ls> <etcetc/> <p><c>also_with_two</c>~ <ab>acc.</ab>~ <ab>e.g.</ab>~<s>suDAM</s>~<s>kzIra-niDim maTnAti</s>~,~<c><quote>_he_churns_nectar_out_of_the_ocean_of_milk_</quote></c>~<ls>Siddh.</ls>~<c>on</c>~<ls>Pa1n2._1-4_,_51</ls></p> <msc/> <c><to/>to_mix_,_mingle</c> <ls>Sus3r.</ls> <msc/> <c><to/>to_stir_up_,_shake_,_agitate_,_trouble_disturb_,_afflict_,_distress_,_hurt_,_destroy</c> <ls>AV.</ls> <c><etc1/>_<etc1/>:</c> <ab>Pass.</ab> <s>maTy/ate</s> <p><c><ab>ep.</ab>_also</c>~<s><sr1/>ti</s></p> , <c>to_be_stirred_up_or_churned_<etc1/></c> <ls>RV.</ls> <c><etc1/>_<etc1/>:</c> <ab>Caus.</ab> <s>manTayati</s> <p><ls>La1t2y.</ls></p> , <s>mA<shortlong/>Tayati</s> <p><ls>MBh.</ls></p> , <c><to/>to_cause_to_be_stirred_up_or_churned_<etc1/>:</c> <ab>Desid.</ab> <s>mimaTizati</s>_,_<s>mimanTizati</s> <ab>Gr.</ab>: <c> <ab>Intens.</ab></c> <s>mAmaTyate</s>_,_<s>mAmantti</s> <etc/> <ls>ib.</ls> <b><c><ab>cf.</ab>_<ab>Gk.</ab>_<gk>1</gk>_;_<ab>Lat.</ab></c>~<etym>mentha</etym>~,~<etym>menta</etym>~<c>;_Lit.</c>~<etym>mentu4re</etym>~<c>;_<ab>Germ.</ab></c>~<etym>minza</etym>~,~<etym>Minze</etym>~<c>;_<ab>Angl.Sax.</ab></c>~<etym>minte</etym>~<c>;_<ab>Eng.</ab></c>~<etym>mint</etym>.</b> </body><tail><mul/> <MW>098770</MW> <pc>777,1</pc> <L>155187.1</L><mscverb/></tail></H1>
+
+hom=0  ok. 
+<H1><h><hc3>000</hc3><key1>manT</key1><hc1>1</hc1><key2>manT</key2></h><body> <vlex type="root"></vlex><c>strong_form_of</c> <root/>1.~<s>maT</s> <qv/> </body><tail><mul/> <MW>100297</MW> <pc>787,1</pc> <L>157544</L></tail></H1>
+;------------------------------------------------------------
+; Case 071 mandu
+hom=1
+<H2><h><hc3>110</hc3><key1>mandu</key1><hc1>2</hc1><key2>mand/u</key2><hom>1</hom></h><body> <lex>mfn.</lex> <p><c>for_2.</c>~<see/>~<c><pcol>p._788_,_col._3</pcol></c></p> <c>_joyous_,_cheerful_,_pleased</c> <ls>ib.</ls> </body><tail><mul/> <MW>100357</MW> <pc>787,3</pc> <L>157662</L></tail></H2>
+
+hom=0 typo Add <hom>2</hom>
+<H2><h><hc3>000</hc3><key1>mandu</key1><hc1>2</hc1><key2>mandu</key2></h><body> <p><c>for_1.</c>~<see type="nonhier"/>~<c><pcol>p._787_,_col._3</pcol></c></p> <c>_prob.</c> <eq/> <s>mandurA</s> <c>in</c> <ab>comp.</ab> </body><tail><MW>100497</MW> <pc>788,3</pc> <L>157892</L></tail></H2>
+
+hom=0 ok.
+<H1><h><hc3>000</hc3><key1>mandu</key1><hc1>1</hc1><key2>mandu</key2></h><body> <c>1._2.</c> <s>mandu</s>_,_<s>mandura</s>_,_<s><sr1/>rA</s> <etc/> <see type="nonhier"/> <c>above.</c> </body><tail><mul/> <MW>100515</MW> <pc>788,3</pc> <L>157912</L></tail></H1>
+;------------------------------------------------------------
+; Case 072 mAnasAra
+hom=1
+<H3><h><hc3>110</hc3><key1>mAnasAra</key1><hc1>3</hc1><key2>m/Ana--sAra</key2><hom>1</hom></h><body>  <lex>m.</lex> <c>or</c> <lex type="hw">n.</lex> <c>a_high_degree_of_pride</c> <ls>Das3.</ls>  </body><tail><pc>809,2</pc> <L>162772</L></tail></H3>
+
+hom=0 typo Add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>mAnasAra</key1><hc1>3</hc1><key2>m/Ana--sAra</key2></h><body> <lex>m.</lex> <c>N._of_<ab>wk.</ab>_on_architecture_<p>or_of_a_sage_,_its_reputed_author</p></c> <ls>IW._185.</ls> </body><tail><MW>103410</MW> <pc>809,3</pc> <L>162860</L></tail></H3>
+;------------------------------------------------------------
+; Case 073 med
+hom=1 no.  hom=1 refers to mid (not med)
+<H1><h><hc3>003</hc3><key1>med</key1><hc1>1</hc1><key2>med</key2><hom>1</hom></h><body><OR group="164437,mid;164437.1,med"/> <vlex type="root"></vlex> <c>or</c> <s>mid</s> , <c><vlex>cl.1. P. A1.</vlex>_=</c> <root/><s>miT</s> <p><quote>_to_understand_</quote>_or_<quote>_to_kill_</quote></p> <ls>Dha1tup._xxi_,_7.</ls> </body><tail><mul/> <MW>104416</MW> <pc>817,2</pc> <L>164437.1</L></tail></H1>
+hom=0
+<H1><h><hc3>000</hc3><key1>med</key1><hc1>1</hc1><key2>med</key2></h><body> <vlex type="root"></vlex><c>strong_form_of</c> <root/><s>mid</s>. </body><tail><mul/> <MW>106705</MW> <pc>832,3</pc> <L>167792</L></tail></H1>
+;------------------------------------------------------------
+; Case 073a mind
+hom=2 no. hom=2 refers to mid (not mind)
+<H1><h><hc3>505</hc3><key1>mind</key1><hc1>1</hc1><key2>mind</key2><hom>2</hom></h><body><OR group="164438,mid;164438.1,mind"/> <vlex type="root"></vlex> <c>or</c> <s>mid</s> <vlex>cl.1 A1.</vlex> or <vlex>cl.4 P.</vlex> <p><ls>Dha1tup._xviii_,_3_and_xxvi_,_133</ls></p> <s>m/edate</s> <c>or</c> <s>m/edyati</s> <p><c>of_the_former_only_3.</c>~ <ab>sg.</ab>~ <ab>Impv.</ab>~<s>med/atAm</s>~<ls>RV._x_,_93_,_11</ls>~;~ <ab>pf.</ab>~<s>mimeda</s>~,~<s>mimide</s>~;~ <ab>aor.</ab>~<s>amidat</s>~,~<s>amedizwa</s>~;~ <ab>fut.</ab>~<s>meditA</s>~,~<s>medizyati</s>~,~<s><sr1/>te</s>~;~ <ab>ind.p.</ab>~<s>miditvA</s>~<c>or</c>~<s>meditvA</s>~ <ab>Gr.</ab>~;~ <ab>Pass.</ab>~,~<s>midyate</s>~ <ab>impers.</ab>~<ls>Pa1n2._7-3_,_82_<ab>Sch.</ab></ls></p> , <c><to/>to_grow_fat</c> <ls>RV.</ls> <ls>TS.</ls> <ls>Br.</ls> <msc/> <vlex>cl.10 P.</vlex> <p><ls>Dha1tup._xxxii_,_8</ls></p> <s>mindayati</s> <c>or</c> <s>medayati</s> <p><cf/>~<ls>MBh._viii_,_1992_and</ls>~<s>mitra</s></p> <msc/> <c>the_latter_also_as_<ab>Caus.</ab>_<quote>_to_make_fat_</quote></c> <ls>RV._vi_,_28_,_6.</ls> </body><tail><mul/> <MW>104417</MW> <pc>817,2</pc> <L>164438.1</L><mscverb/></tail></H1>
+
+;------------------------------------------------------------
+; Case 074 rahas
+hom=1
+<H2><h><hc3>110</hc3><key1>rahas</key1><hc1>2</hc1><key2>rahas</key2><hom>1</hom></h><body> <lex>n.</lex> <p><c>for_2.</c>~<see/>~<c>p.871_,_col_,_1</c></p> <c>_swiftness_,_speed_,_velocity</c> <ls>BhP.</ls> </body><tail><mul/> <MW>110302</MW> <pc>859,3</pc> <L>173041</L></tail></H2>
+
+hom=0  typo Add <hom>2</hom>
+<H2><h><hc3>110</hc3><key1>rahas</key1><hc1>2</hc1><key2>rahas</key2></h><body> <lex>n.</lex> <p><c>for_1.</c>~<see/>~<c><pcol>p._859_,_col._3</pcol></c></p> <c>_a_lonely_or_deserted_place_,_loneliness_,_solitude_,_privacy_,_secrecy_,_retirement</c> <p>  <phw><dL>175942.1</dL><s>rahas</s>~ <lex type="phw">ind.</lex></phw>  ~,~  <phw><dL>175942.2</dL><s><sr1/>si</s>~ <lex type="phw">ind.</lex></phw>  ~<c>and</c>~  <phw><dL>175942.3</dL><s><sr1/>ssu</s>~ <lex type="phw">ind.</lex></phw>  ~<c>privately_,_in_secret</c></p> <ls>Mn.</ls> <ls>MBh.</ls> <etc/> </body><tail><pc>871,1</pc> <L>175940</L></tail></H2>
+;------------------------------------------------------------
+; Case 075 ropita
+hom=1
+<H2><h><hc3>110</hc3><key1>ropita</key1><hc1>2</hc1><key2>ropita</key2><hom>1</hom></h><body> <lex>mfn.</lex> <c>bewildered_,_perplexed</c> <ls>W.</ls> </body><tail><mul/> <MW>114699</MW> <pc>889,2</pc> <L>179845</L></tail></H2>
+
+hom=0 scan error. missing hom.  Add <hom>2</hom>
+<H2><h><hc3>110</hc3><key1>ropita</key1><hc1>2</hc1><key2>ropita</key2></h><body> <lex>mfn.</lex> <c>caused_to_grow_,_raised_,_elevated_<etc1/></c> </body><tail><pc>889,2</pc> <L>179863</L></tail></H2>
+;------------------------------------------------------------
+; Case 076 loq
+hom=1 no. hom=1 refers to low, not loq
+<H1><h><hc3>504</hc3><key1>loq</key1><hc1>1</hc1><key2>loq</key2><hom>1</hom></h><body><OR group="183604,low;183604.1,loq"/> <vlex type="root"></vlex> <p><c>or</c>~<s>low</s></p> <vlex>cl.1 P.</vlex> <s>lowati</s> <c>or</c> <s>loqati</s> , <c><to/>to_be_mad_or_foolish</c> <ls>Dha1tup._ix_,_74.</ls> </body><tail><mul/> <MW>117083</MW> <pc>907,3</pc> <L>183604.1</L></tail></H1>
+
+hom=0
+<H1><h><hc3>004</hc3><key1>loq</key1><hc1>1</hc1><key2>loq</key2></h><body> <vlex type="root"></vlex><see/> <root/>1.~<s>low</s>. </body><tail><mul/> <MW>117090</MW> <pc>908,1</pc> <L>183612</L></tail></H1>
+;------------------------------------------------------------
+; Case 077 loma
+hom=1
+<H2><h><hc3>208</hc3><key1>loma</key1><hc1>2</hc1><key2>loma</key2><hom>1</hom></h><body> <c>in</c> <ab>comp.</ab> <c>for</c> <s>loman</s>. </body><tail><MW>117114</MW> <pc>908,1</pc> <L>183643</L></tail></H2>
+
+hom=0  typo Add <hom>2</hom>
+<H2><h><hc3>011</hc3><key1>loma</key1><hc1>3</hc1><key2>loma</key2></h><body>  <lex>mfn.</lex> <p><ab>ifc.</ab></p> <eq/> <s>loman</s> <p><see/>~<s>aja-lom/a</s></p>  </body><tail><mul/>  <pc>908,2</pc> <L>183691</L></tail></H2>
+
+remove 2. from prev.
+<H3><h><hc3>110</hc3><key1>lomAvalI</key1><hc1>3</hc1><key2>lomA<srs/>va<sr/>lI</key2></h><body><OR group="183689,lomAvali;183690,lomAvalI"/> <lex>f.</lex> <c>the_line_of_hair_from_the_breast_to_the_navel</c> <ls>MW._2.</ls> </body><tail><pc>Page908,2</pc> <MW>117153</MW> <L>183690</L></tail></H3>
+
+;------------------------------------------------------------
+; Case 078 vayasa
+hom=1
+<H2><h><hc3>110</hc3><key1>vayasa</key1><hc1>2</hc1><key2>vayas/a</key2><hom>1</hom></h><body> <lex>m.</lex> = <s>v/ayas</s>2 , <c>a_bird</c> <ls>TS.</ls> </body><tail><mul/> <MW>118947</MW> <pc>920,2</pc> <L>186472</L></tail></H2>
+
+hom=0 scan missing hom. Add <hom>2</hom>
+<H2><h><hc3>000</hc3><key1>vayasa</key1><hc1>2</hc1><key2>vayas/a</key2></h><body> <p><ab>ifc.</ab></p> = <s>vayas</s>3 <p><see type="nonhier"/>~<s>uttara-</s>~,~<s>pUrva-</s>~,~<s>maDyama-v<sr1/></s></p>. </body><tail><mul/> <MW>118962</MW> <pc>920,3</pc> <L>186497</L></tail></H2>
+;------------------------------------------------------------
+; Case 079 varaRa
+hom=1
+<H2><h><hc3>110</hc3><key1>varaRa</key1><hc1>2</hc1><key2>varaRa</key2><hom>1</hom></h><body> <lex>m.</lex> <c>a_rampart_,_mound</c> <ls>L.</ls> </body><tail><pc>921,1</pc> <L>186571</L></tail></H2>
+
+hom=0 typo Add <hom>2</hom>
+<H2><h><hc3>110</hc3><key1>varaRa</key1><hc1>2</hc1><key2>varaRa</key2></h><body> <lex>n.</lex> <c>the_act_of_choosing_,_wishing_wooing_,_choice_of_a_bride</c> <ls>Ka1tyS3r.</ls> <ls>MBh.</ls> <etc/> </body><tail><pc>923,1</pc> <L>187032</L></tail></H2>
+
+hom=0 ok. Referential
+<H2><h><hc3>006</hc3><key1>varaRa</key1><hc1>3</hc1><key2>varaRa</key2></h><body> <etc/> <see type="nonhier"/> <c><pcol>p._921_,_col._1</pcol>.</c> </body><tail><mul/> <MW>128314</MW> <pc>1007,2</pc> <L>203981</L></tail></H2>
+;------------------------------------------------------------
+; Case 080 varDApanaka
+hom=1
+<H2><h><hc3>110</hc3><key1>varDApanaka</key1><hc1>2</hc1><key2>varDApanaka</key2><hom>1</hom></h><body> <lex>n.</lex> <c>the_cutting_of_the_umbilical_cord_,_<p>or</p>_a_ceremony_commemorating_it</c> <ls>Pan5cat.</ls> </body><tail><mul/> <MW>119646</MW> <pc>926,1</pc> <L>187692</L></tail></H2>
+
+hom=0 scan missing hom. Add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>varDApanaka</key1><hc1>3</hc1><key2>varDApa<sr/>naka</key2></h><body> <lex>n.</lex> <ab>id.</ab> </body><tail><pc>926,2</pc> <L>187777</L></tail></H3>
+;------------------------------------------------------------
+; Case 081 vAmanI
+hom=1
+<H3><h><hc3>110</hc3><key1>vAmanI</key1><hc1>3</hc1><key2>vAm/a--nI</key2><hom>1</hom></h><body> <lex>mfn.</lex> <p><c>for_2.</c>~<see/>~<c><pcol>p._942_,_col._1</pcol></c></p> <c>_bringing_wealth</c> <ls>ChUp.</ls> </body><tail><pc>941,2</pc> <L>191008</L></tail></H3>
+
+hom=0  ok. 
+<H1B><h><hc3>100</hc3><key1>vAmanI</key1><hc1>1</hc1><key2>vAman/I</key2></h><body> <lex>f.</lex> <c>a_female_dwarf</c> <ls>W.</ls> </body><tail><pc>Page942,1</pc> <mat/> <L>191121</L></tail></H1B>
+
+hom=0 typo.  add <hom>2</hom>
+<H2><h><hc3>000</hc3><key1>vAmanI</key1><hc1>2</hc1><key2>vAmanI</key2></h><body> <p><c>for_1.</c>~<see type="nonhier"/>~<c><pcol>p._941_,_col._2</pcol></c></p> <c>_,_in</c> <ab>comp.</ab> <c>for</c> <s>vAmana</s>. </body><tail><MW>121844</MW> <pc>942,1</pc> <L>191169</L></tail></H2>
+;------------------------------------------------------------
+; Case 082 vikarman  NO change. Question
+ vikarman 192872
+  Has <hom>1</hom> and reference to hom=2 under vi-kf,
+  but in vikarman under vi-kf, the reference is back to 192872.
+  Thus, hom=1 in 192872 seems an error.
+
+hom=1  
+<H3><h><hc3>110</hc3><key1>vikarman</key1><hc1>3</hc1><key2>v/i--karman</key2><hom>1</hom></h><body> <lex>n.</lex> <p><c>for_2.</c>~<see/>~<s>vi-</s>~<root/>~<s>kf</s></p> <c>prohibited_or_unlawful_act_,_fraud</c> <ls>Mn.</ls> <ls>MBh.</ls> <etc/> </body><tail><pc>950,1</pc> <L>192872</L></tail></H3>
+hom=0
+<H3><h><hc3>006</hc3><key1>vikarman</key1><hc1>3</hc1><key2>vi-<sr/>karman</key2></h><body> <etc/> <see type="nonhier"/> <c><pcol>p._950_,_col._1</pcol>.</c> </body><tail><mul/> <MW>123552</MW> <pc>954,2</pc> <L>193960</L></tail></H3>
+;------------------------------------------------------------
+; Case 083 vicaraRa
+hom=1
+<H3><h><hc3>110</hc3><key1>vicaraRa</key1><hc1>3</hc1><key2>v/i--caraRa</key2><hom>1</hom></h><body> <lex>mfn.</lex> <p><c>for_2.</c>~<see/>~<s>vi-<root/>car</s></p> <c>footless</c> <ls>MBh.</ls> </body><tail><MW>122968</MW> <pc>950,2</pc> <L>192985</L></tail></H3>
+
+hom=0 typo. Add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>vicaraRa</key1><hc1>3</hc1><key2>vi-<sr/>caraRa</key2></h><body> <lex>n.</lex> <p><c>for_1.</c>~<see/>~<c><pcol>p._950_,_col._2</pcol></c></p> <c>_wandering_,_motion</c> <ls>Sus3r.</ls> </body><tail><MW>123809</MW> <pc>958,2</pc> <L>194710</L></tail></H3>
+
+remove _2. from prev
+<H3><h><hc3>110</hc3><key1>vicara</key1><hc1>3</hc1><key2>vi-<sr/>cara</key2></h><body> <lex>mfn.</lex> <c>wandered_or_swerved_from</c> <p><ab>abl.</ab></p> <ls>MBh._v_,_812._2.</ls> </body><tail><MW>123808</MW> <pc>958,2</pc> <L>194709</L></tail></H3>
+
+;------------------------------------------------------------
+; Case 084 vidagDa
+hom=1
+<H3><h><hc3>110</hc3><key1>vidagDa</key1><hc1>3</hc1><key2>v/i--dagDa</key2><hom>1</hom></h><body> <lex>mfn.</lex> <p><c>for_2.</c>~<see/>~<s>vi-<root/>dah</s></p> <c>undigested</c> <ls>W.</ls> </body><tail><MW>123043</MW> <pc>950,3</pc> <L>193106</L></tail></H3>
+
+hom=0  ok. purely referential
+<H1><h><hc3>004</hc3><key1>vidagDa</key1><hc1>1</hc1><key2>v/i-dagDa</key2></h><body> <see type="nonhier"/> <s>vi-<root/>dah</s> <c>below.</c> </body><tail><mul/> <MW>124556</MW> <pc>965,2</pc> <L>196024</L></tail></H1>
+
+hom=0 scan missing hom=2. Add <hom>2</hom>
+<H2><h><hc3>110</hc3><key1>vidagDa</key1><hc1>2</hc1><key2>v/i-dagDa</key2></h><body> <lex>mfn.</lex> <c>burnt_up_,_consumed</c> <ls>S3Br.</ls> <ls>Kaus3.</ls> </body><tail><pc>Page965,3</pc> <L>196075</L></tail></H2>
+;------------------------------------------------------------
+; Case 085 viDa
+hom=1
+<H2><h><hc3>110</hc3><key1>viDa</key1><hc1>2</hc1><key2>viDa</key2><hom>1</hom></h><body> <lex>m.</lex> <c>piercing_,_perforating</c> <ls>L.</ls> <p><c>for_other_meanings</c>~<see/>~<c>2.</c>~<s>viDa</s>~,~<c><ab>col.</ab>3</c></p> <c>.</c> </body><tail><mul/> <MW>124758</MW> <pc>967,2</pc> <L>196472</L></tail></H2>
+
+hom=0 typo . Add <hom>2</hom>
+<H2><h><hc3>102</hc3><key1>viDa</key1><hc1>2</hc1><key2>viDa</key2></h><body>  <lex>mn.</lex>  <c>of</c> <s>viDA</s> <p><ab>ifc.</ab></p> <p><c>for_1.</c>~<see/>~<c><ab>col.</ab>2</c></p> </body><tail><mul/>  <pc>967,3</pc> <L>196487</L></tail></H2>
+;------------------------------------------------------------
+; Case 086 vipralApa
+hom=1
+<H3><h><hc3>110</hc3><key1>vipralApa</key1><hc1>3</hc1><key2>v/i--pralApa</key2><hom>1</hom></h><body> <lex>mfn.</lex> <p><c>for_2.</c>~<see/>~<c>under</c>~<s>vi-pra-<root/>lap</s></p> <c>free_from_mere_chatter_<p>as_truth</p></c> <ls>MBh.</ls> </body><tail><MW>123180</MW> <pc>951,2</pc> <L>193294</L></tail></H3>
+
+hom=0 typo Add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>vipralApa</key1><hc1>3</hc1><key2>vi-pra-lApa</key2></h><body> <lex>m.</lex> <p><c>for_1.</c>~<see/>~<c><pcol>p._951_,_col._2</pcol></c></p> <c>_discussion_,_explanation</c> <ls>MBh.</ls> </body><tail><pc>Page976,1</pc> <L>197954</L></tail></H3>
+
+remove _2. from prev
+<H3><h><hc3>110</hc3><key1>vipralapta</key1><hc1>3</hc1><key2>vi-pra-lapta</key2></h><body> <lex>n.</lex> <c>discussion_,_debate_,_disquisition</c> <ls>MBh._2.</ls> </body><tail><MW>125507</MW> <pc>975,3</pc> <L>197953</L></tail></H3>
+
+;------------------------------------------------------------
+; Case 087 vimati
+hom=0 typo. Add <hom>1</hom>
+<H3><h><hc3>110</hc3><key1>vimati</key1><hc1>3</hc1><key2>v/i--mati</key2></h><body> <lex>mfn.</lex> <p><c>for_2.</c>~<see/>~<s>vi<root/>man</s></p> <c>of_different_opinion</c> <p>  <phw><dL>193338.2</dL><s>-man</s>~ <lex type="phw">m.</lex></phw>  ~<c>difference_of_opinion_,_disagreement</c></p> <ab>g.</ab> <s>dfQA<srs/>di</s> </body><tail><pc>951,3</pc> <L>193337</L></tail></H3>
+
+hom=1 Remove <hom>1</hom>, as this is purely referential, and to multiple vimati's
+<H1><h><hc3>000</hc3><key1>vimati</key1><hc1>1</hc1><key2>vi-mati</key2><hom>1</hom></h><body> <s>vi-matsara</s> <etc/> <see type="nonhier"/> <c><pcol>p._951_,_col._3</pcol>.</c> <c>For</c> <s>vi-mati</s>2 <see type="nonhier"/> <c><ab>col.</ab>3.</c> </body><tail><mul/> <MW>125758</MW> <pc>979,2</pc> <L>198609</L></tail></H1>
+
+hom=0 typo. Add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>vimati</key1><hc1>3</hc1><key2>vi-<sr/>mati</key2></h><body> <lex>mfn.</lex> <c>of_different_opinion</c> <ab>g.</ab> <s>dfQA<srs/>di</s> </body><tail><pc>979,3</pc> <L>198630</L></tail></H3>
+
+remove _2. from prev.
+<H2B><h><hc3>110</hc3><key1>vimata</key1><hc1>2</hc1><key2>vi-mata</key2></h><body> <lex type="inh">m.</lex> <c>orn._<p>?</p>_N._of_a_place_on_the_river_<as0>Go-mati1</as0><as1><s>go-matI</s></as1></c> <ls>R._2.</ls> </body><tail><MW>125772</MW> <mat/> <pc>979,3</pc> <L>198629</L></tail></H2B>
+
+;------------------------------------------------------------
+; Case 088 vimUQa
+hom=1
+<H3><h><hc3>110</hc3><key1>vimUQa</key1><hc1>3</hc1><key2>v/i--mUQa</key2><hom>1</hom></h><body> <lex>mfn.</lex> <p><c>for_2.</c>~<see/>~<s>vi-<root/>muh</s></p> <c>not_foolish</c> </body><tail><pc>952,1</pc> <L>193392</L></tail></H3>
+
+hom=0 scan missing hom=2. Add <hom>2</hom>
+<H2><h><hc3>011</hc3><key1>vimUQa</key1><hc1>2</hc1><key2>vi-mUQa</key2></h><body>  <lex>mfn.</lex> <ab>id.</ab> <ls>MBh.</ls> <ls>Ka1v.</ls> <etc/>  </body><tail> <pc>980,3</pc> <L>198850</L></tail></H2>
+;------------------------------------------------------------
+; Case 089 vilakzaRa
+hom=1 
+<H3><h><hc3>110</hc3><key1>vilakzaRa</key1><hc1>3</hc1><key2>v/i--lakzaRa</key2><hom>1</hom></h><body> <lex>mf<p><s>A</s></p>n.</lex> <p><c>for_2.</c>~<see/>~<s>vi-<root/>lakz</s></p> <c>having_different_marks_,_varying_in_character_,_different_,_differing_from</c> <p><ab>abl.</ab>~<c>or</c>~ <ab>comp.</ab>~;~  <phw><dL>193480.1</dL><s>-tA</s>~,~ <lex type="phw">f.</lex></phw>  ~;~  <phw><dL>193480.2</dL><s>-tva</s>~ <lex type="phw">n.</lex></phw>  </p> <ls>Nr2isUp.</ls> <ls>Sus3r.</ls> <ls>Sa1h.</ls> <etc/> </body><tail><pc>952,1</pc> <L>193477</L></tail></H3>
+
+hom=0 type add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>vilakzaRa</key1><hc1>3</hc1><key2>vi-<sr/>lakzaRa</key2></h><body> <lex>n.</lex> <p><c>for_1.</c>~<see/>~<c><pcol>p._952_,_col._1</pcol></c></p> <c>_the_act_of_distinguishing_,_perceiving_,_seeing_,_observing</c> <ls>W._2.</ls> </body><tail><MW>126125</MW> <pc>984,3</pc> <L>199556</L></tail></H3>
+
+remove _2. from prev:
+<H1><h><hc3>506</hc3><key1>vilakz</key1><hc1>1</hc1><key2>vi-<root>lakz</root></key2></h><body> <vlex>P. A1.</vlex> <s>-lakzayati</s>_,_<s><sr1/>te</s> , <c><to/>to_distinguish_,_discern_,_observe_,_perceive_,_mark_,_notice</c> <ls>MBh.</ls> <ls>BhP.</ls> <msc/> <c><to/>to_lose_sight_of_ones_aim_or_object_,_become_bewildered_or_perplexed_or_embarrassed</c> <ls>MBh.</ls> <ls>Pan5cat._2.</ls> </body><tail><MW>126124</MW> <pc>984,3</pc> <L>199555</L><mscverb/></tail></H1>
+
+;------------------------------------------------------------
+; Case 090 vilakzita
+hom=1
+<H3><h><hc3>110</hc3><key1>vilakzita</key1><hc1>3</hc1><key2>v/i--lakzita</key2><hom>1</hom></h><body> <lex>mfn.</lex> <p><c>for_2.</c>~<see/>~<s>vi-<root/>lakz</s></p> <c>undistinguished_,_undiscriminated_,_unmarked</c> <ls>W.</ls> </body><tail><MW>123292</MW> <pc>952,2</pc> <L>193482</L></tail></H3>
+
+hom=0 type add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>vilakzita</key1><hc1>3</hc1><key2>vi-<sr/>lakzita</key2></h><body> <lex>mfn.</lex> <p><c>for_1_-see</c>~<ls>ib._,_<ab>col.</ab>2</ls></p> <c>distinguished_,_marked_by</c> <p><ab>instr.</ab>~<c>or</c>~ <ab>comp.</ab></p> <ls>BhP.</ls> </body><tail><pc>984,3</pc> <L>199557</L></tail></H3>
+;------------------------------------------------------------
+; Case 091 viliptA  NO CHANGE - but Question
+hom=1 : Similar to vikarman above. hom=1 seems to an error.
+<H3><h><hc3>110</hc3><key1>viliptA</key1><hc1>3</hc1><key2>v/i--liptA</key2><hom>1</hom></h><body> <OR group="193489,viliptA;193490,viliptikA"/> <lex>f.</lex> <c>a_second_<p>=_1<fs/>3600_of_a_degree</p></c> <ls>Gan2it.</ls> </body><tail><MW>123296</MW> <pc>952,2</pc> <L>193489</L></tail></H3>
+
+hom=0
+<H2B><h><hc3>100</hc3><key1>viliptA</key1><hc1>2</hc1><key2>vi-liptA</key2></h><body> <lex>f.</lex> <see type="nonhier"/> <c><pcol>p._952_,_col._2</pcol></c> </body><tail><pc>985,2</pc> <L>199732</L></tail></H2B>
+
+;------------------------------------------------------------
+; case 091a viliptikA
+remove hom=1, which refers to viliptA
+<H3><h><hc3>110</hc3><key1>viliptikA</key1><hc1>3</hc1><key2>v/i--lip<sr/>tikA</key2><hom>1</hom></h><body><OR group="193489,viliptA;193490,viliptikA"/> <lex>f.</lex> <c>a_second_<p>=_1<fs/>3600_of_a_degree</p></c> <ls>Gan2it.</ls> </body><tail><MW>123297</MW> <pc>952,2</pc> <L>193490</L></tail></H3>
+
+;------------------------------------------------------------
+; Case 092 viSvavid
+hom=1 ok.  remove _2. at end
+<H3><h><hc3>110</hc3><key1>viSvavid</key1><hc1>3</hc1><key2>v/iSva--v/id</key2><hom>1</hom></h><body> <lex>mfn.</lex> <c>knowing_everything_,_omniscient</c> <ls>RV.</ls> <ls>TS.</ls> <ls>S3vetUp._<etc1/>_-2.</ls> </body><tail><MW>126835</MW> <pc>993,3</pc> <L>201324</L></tail></H3>
+
+hom=0 typo. Add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>viSvavid</key1><hc1>3</hc1><key2>v/iSva--v/id</key2></h><body> <lex>mfn.</lex> <c>all-possessing</c> <ls>RV.</ls> </body><tail><MW>126836</MW> <pc>993,3</pc> <L>201325</L></tail></H3>
+;------------------------------------------------------------
+; Case 093 visparDA
+hom=1
+<H3><h><hc3>110</hc3><key1>visparDA</key1><hc1>3</hc1><key2>v/i--sparDA</key2><hom>1</hom></h><body> <lex>f.</lex> <p><c>for_2.</c>~<see/>~<c>under</c>~<s>vi-<root/>sparD</s></p> <c>absence_of_envy_or_emulation</c> <ls>MW.</ls> </body><tail><MW>123418</MW> <pc>953,1</pc> <L>193710</L></tail></H3>
+
+hom=0 typo. Add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>visparDA</key1><hc1>3</hc1><key2>vi-<sr/>sparDA</key2></h><body> <lex>f.</lex> <p><c>for_1.</c>~<see/>~<c><pcol>p._953_,_col._1</pcol></c></p> <c>_emulation_,_rivalry</c> <ls>MBh.</ls> <p><c>Cf.</c>~<s>vi-zparDas</s>~<c>and</c>~<s><sr1/>DA</s>~,~<c><pcol>p._1000_,_col._2</pcol>.</c></p> </body><tail><mul/> <MW>127718</MW> <pc>1001,3</pc> <L>202921</L></tail></H3>
+;------------------------------------------------------------
+; Case 094 vismaya
+hom=0 typo. Add <hom>1</hom>
+<H3><h><hc3>110</hc3><key1>vismaya</key1><hc1>3</hc1><key2>v/i--smaya</key2></h><body> <lex>mfn.</lex> <p><c>for_2.</c>~<see/>~<s>vi-<root/>smi</s></p> <c>free_from_pride_or_arrogance</c> <ls>BhP.</ls> <ls>S3is3.</ls> </body><tail><MW>123420</MW> <pc>953,1</pc> <L>193712</L></tail></H3>
+
+hom=1 Scan err.  Should be hom=2. Also text err 'for 2.' -> 'for 1.'
+<H2><h><hc3>110</hc3><key1>vismaya</key1><hc1>2</hc1><key2>vi-smaya</key2><hom>1</hom></h><body> <lex>m.</lex> <p><c>for_2.</c>~<see/>~<c><pcol>p._953_,_col._1</pcol></c></p>_wonder_,_surprise_,_amazement_,_bewilderment_,_perplexity_<p><c>in</c>~ <ab>rhet.</ab>~<c>one_of_the</c>~<s>sTAyi-BAva</s>s~<qv/></p> <ls>MBh.</ls> <ls>Ka1v.</ls> <ls>Das3ar.</ls> </body><tail><pc>1002,2</pc> <L>202986</L></tail></H2>
+;------------------------------------------------------------
+; Case 095 vfh
+hom=1  typo. hom=1 refers to bfh. Remove <hom>1</hom>
+<H1><h><hc3>003</hc3><key1>vfh</key1><hc1>1</hc1><key2>vfh</key2><hom>1</hom></h><body><OR group="146034,bfh;146034.1,vfh"/> <vlex type="root"></vlex> <c>or</c> <s>bfh</s> , <vlex>cl.6. P.</vlex> <p><ls>Dha1tup._xxviii_,_57</ls></p> <s>brih/ati</s> <msc/> <s>vfh/ati</s> <p><ab>pf.</ab>~<s>babarha</s>,<s>vav/arha</s>~;~ <ab>fut.</ab>~<s>varkzyati</s>~,~<s>varhizyati</s>~;~<s>varQA</s>,<s>varhitA</s>~;~ <ab>aor.</ab>~<s>barhIt</s>~,~<s>avfkzat</s>~;~ <ab>ind.p.</ab>~<s>vriQvA</s>~,~<s>varhitvA</s>~,~<s>v/fhya</s>~,~<s>barham</s>~,~<s>v/arham</s>~;~<c>Ved.</c>~ <ab>inf.</ab>~<s>vfhas</s>:~ <ab>Pass.</ab>~<s>vfhyate</s>~<pc>Page735,3</pc>~;~ <ab>aor.</ab>~<s>varhi</s></p> , <c><to/>to_tear_,_pluck_,_root_up_<p><c1>without_a</c1>~ <ab>prep.</ab>~<c1>only_with</c1>~<s>mUlam</s>~<ls>TS.</ls>~<ls>A1past.</ls></p>:</c> <ab>Caus.</ab> <s>barh/ayati</s> <p><see/>~<s>ni-<root/>bfh</s></p>: <ab>Desid.</ab> <s>vivfkzati</s>_,_<s>vivarhizati</s> <ab>Gr.</ab>: <c> <ab>Intens.</ab></c> <s>varIvarQi</s>_,_<s>varIvfhyate</s> <ls>ib.</ls> </body><tail><pc>735,2</pc><mul/> <MW>092917</MW> <L>146034.1</L><mscverb/></tail></H1>
+
+hom=0  ok.
+<H1><h><hc3>004</hc3><key1>vfh</key1><hc1>1</hc1><key2>vfh</key2></h><body> <vlex type="root"></vlex><see/> <root/>1. <c>2.</c> <s>bfh</s> <etc/> </body><tail><mul/> <MW>129134</MW> <pc>1013,2</pc> <L>205267</L></tail></H1>
+;------------------------------------------------------------
+; Case 096 vyUQa
+hom=1
+<H2><h><hc3>110</hc3><key1>vyUQa</key1><hc1>2</hc1><key2>vy-UQa</key2><hom>1</hom></h><body> <lex>mfn.</lex> <p><c>for_2.</c>~<see/>~<c>under</c>~<s>vy-<root/>Uh</s></p> <c>led_home_,_married</c> <ls>Katha1s.</ls> <ls>BhP.</ls> </body><tail><mul/> <MW>126344</MW> <pc>987,3</pc> <L>200095</L></tail></H2>
+
+hom=0 typo add <hom>2</hom>
+<H2><h><hc3>102</hc3><key1>vyUQa</key1><hc1>2</hc1><key2>vy-/UQa</key2></h><body> <lex>mfn.</lex> <OR group="210303,vyUQa;210304,vyU|a"/> <p><c>for_1.</c>~<s>vy-UQa</s>~<see/>~<c><pcol>p._987_,_col._3</pcol></c></p>  <c>pushed_or_moved_apart_,_divided_,_distributed_,_arranged</c> <ls>Mn.</ls> <ls>MBh.</ls> <etc/>  </body><tail> <pc>1041,1</pc> <L>210303</L></tail></H2>
+
+;------------------------------------------------------------
+; Case 096a vyU|a
+ Remove reference to 1 vyUQa.
+<H2><h><hc3>102</hc3><key1>vyU|a</key1><hc1>3</hc1><key2>vy-U|a</key2></h><body><OR group="210303,vyUQa;210304,vyU|a"/>  <lex>mfn.</lex> <p><c>for_1.</c>~<s>vy-UQa</s>~<see/>~<c><pcol>p._987_,_col._3</pcol></c></p>  <c>pushed_or_moved_apart_,_divided_,_distributed_,_arranged</c> <ls>Mn.</ls> <ls>MBh.</ls> <etc/>  </body><tail><mul/>  <pc>1041,1</pc> <L>210304</L></tail></H2>
+
+;------------------------------------------------------------
+; Case 097 saMvaraRa
+hom=1
+<H3><h><hc3>110</hc3><key1>saMvaraRa</key1><hc1>3</hc1><key2>saM-<sr/>v/araRa</key2><hom>1</hom></h><body> <lex>mf<p><s>I</s></p>n.</lex> <c>covering_,_containing_,_<ls>Pracan2d2.</ls></c> </body><tail><pc>1116,1</pc> <L>226326</L></tail></H3>
+
+hom=0 typo add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>saMvaraRa</key1><hc1>3</hc1><key2>saM-<sr/>varaRa</key2></h><body> <lex>n.</lex> <ab>id.</ab> </body><tail><pc>1116,2</pc> <L>226368</L></tail></H3>
+
+remove _2. from prev:
+<H2><h><hc3>110</hc3><key1>saMvara</key1><hc1>2</hc1><key2>saM-vara</key2><hom>2</hom></h><body> <lex>m.</lex> <c>choosing_,_election_,_choice_</c> <p><c>of</c>~ <ab>v.l.</ab>~<c>for</c>~<s>svayaM-vara</s></p> <ls>MBh._vii_,_6033._2.</ls> </body><tail><MW>142455</MW> <pc>1116,2</pc> <L>226367</L></tail></H2>
+
+;------------------------------------------------------------
+; Case 098 saMvft
+hom=1
+<H2><h><hc3>110</hc3><key1>saMvft</key1><hc1>2</hc1><key2>saM-vft</key2><hom>1</hom></h><body> <lex>mfn.</lex> <c>covering</c> <ls>TS.</ls> </body><tail><mul/> <MW>142451</MW> <pc>1116,2</pc> <L>226346</L></tail></H2>
+
+hom=0 scan has no hom.  Add <hom>2</hom>
+<H1><h><hc3>501</hc3><key1>saMvft</key1><hc1>1</hc1><key2>saM-<root>vft</root></key2></h><body> <vlex>A1.</vlex> <s>-vartate</s> <p><ab>pf.</ab>~<ab>p.</ab>~<s>-vavftv/as</s>~<qv/>~;~<ab>Ved.</ab>~ <ab>inf.</ab>~<s>-v/ftas</s>~;~ <ab>ind.</ab>~<s>-vartam</s></p> , <c><to/>to_turn_or_go_towards_,_approach_near_to_,_arrive_at</c> <ls>RV.</ls> <ls>AV.</ls> <ls>R.</ls> <msc/> <c><to/>to_go_against_,_attack</c> <p><ab>acc.</ab></p> <ls>MBh.</ls> <msc/> <c><to/>to_meet_,_encounter_<p>as_foes</p></c> <ls>RV._iv_,_24_,_4</ls> <msc/> <c><to/>to_come_together_,_be_rolled_together_,_be_conglomerated</c> <ls>Pan5cavBr.</ls> <ls>Kaus3.</ls> <msc/> <p><c>also_with</c>~<s>miTas</s></p> <c>to_have_sexual_intercourse_together</c> <ls>S3Br.</ls> <ls>A1past.</ls> <msc/> <c><to/>to_take_shape_,_come_into_being_,_be_produced_,_arise_from</c> <p><ab>abl.</ab></p> <ls>RV.</ls> <etcetc/> <msc/> <c><to/>to_come_round_or_about_,_come_to_pass_,_happen_,_occur_,_take_place_,_be_fulfilled_<p>as_time</p></c> <ls>MBh.</ls> <ls>Ka1v.</ls> <msc/> <etc/> <msc/> <c><to/>to_begin_,_commence</c> <ls>R.</ls> <msc/> <c><to/>to_be_,_exist</c> <ls>ChUp.</ls> <ls>MBh.</ls> <etc/> <msc/> <c><to/>to_become_,_grow_,_get_</c> <p><c>with</c>~ <ab>nom.</ab></p> <ls>R.</ls> <ls>Ragh.</ls> <msc/> <c><to/>to_be_conducive_to_,_serve_for</c> <p><ab>dat.</ab></p> <ls>Lalit.</ls> :  <ab>Caus.</ab> <s>vartayati</s> , <c>to_cause_to_turn_or_revolve_,_roll</c> <p><ab>lit.</ab>~<c>and</c>~ <ab>fig.</ab></p> <ls>RV.</ls> <etcetc/> <msc/> <c><to/>to_turn_towards_or_hither</c> <ls>RV.</ls> <msc/> <c><to/>to_clench_<p>the_fist</p></c> <ls>Hariv.</ls> <msc/> <c><to/>to_wrap_up_,_envelop</c> <ls>MBh.</ls> <msc/> <c><to/>to_crumple_up_,_crush_,_destroy</c> <ls>MBh.</ls> <ls>R.</ls> <msc/> <c><to/>to_bring_about_,_accomplish_,_perform_,_execute</c> <ls>Hariv.</ls> <ls>R.</ls> <ls>BhP.</ls> <msc/> <c><to/>to_fulfil_,_satisfy_<p>a_wish</p></c> <ls>R.</ls> <msc/> <c><to/>to_think_of._find_out_<p>a_remedy</p></c> <ls>Car.</ls> :  <ab>Desid.</ab> <s>-v/ivftsati</s> , <c>to_wish_to_have_sexual_intercourse_with</c> <p><ab>acc.</ab></p> <ls>AV.</ls> </body><tail><mul/> <MW>142467</MW> <pc>1116,2</pc> <L>226390</L><mscverb/></tail></H1>
+;------------------------------------------------------------
+; Case 099 sadaSaraTa
+hom=1  hom=1 applies to sa-daSa, not sadaSaraTa. Remove <hom>1</hom>
+<H4><h><hc3>100</hc3><key1>sadaSaraTa</key1><hc1>3</hc1><key2>sa--daSa---raTa</key2><hom>1</hom></h><body> <lex>mfn.</lex>  <see type="nonhier"/> <c>below.</c>  </body><tail><MW>144825</MW> <pc>1139,2</pc> <L>230694</L></tail></H4>
+
+hom=0  ok. No hom needed.
+<H3><h><hc3>110</hc3><key1>sadaSaraTa</key1><hc1>3</hc1><key2>sa--daSa-raTa</key2></h><body> <lex>mf<p><s>A</s></p>n.</lex> <c>having_<as0>Das3a-ratha</as0><as1><s>daSa-raTa</s></as1></c> <p><qv/></p> <ls>R.</ls> </body><tail><MW>144829</MW> <pc>1139,2</pc> <L>230699</L></tail></H3>
+;------------------------------------------------------------
+; case 099a
+hom=1 hom=1 applies to sa-daSa, not sadaSabanDaka. Remove <hom>1</hom>
+<H4><h><hc3>100</hc3><key1>sadaSabanDaka</key1><hc1>3</hc1><key2>sa--daSa---banDaka</key2><hom>1</hom></h><body> <lex>mfn.</lex> <c>that_to_which_a_tenth_part_is_added</c> <ls>Ya1jn5._ii_,_76</ls> </body><tail><pc>1139,2</pc> <L>230693</L></tail></H4>
+
+;------------------------------------------------------------
+; Case 100 samaya
+hom=1
+<H2><h><hc3>506</hc3><key1>samaya</key1><hc1>2</hc1><key2>samaya</key2><hom>1</hom></h><body> <vlex type="root"></vlex> <vlex>P.</vlex> <s><sr1/>yati</s> <p><c>for_2.</c>~<see/>~<s>sam-<root/>i</s></p> , <c><to/>to_level_,_regulate</c> <ls>L.</ls> </body><tail><mul/> <MW>146449</MW> <pc>1153,2</pc> <L>233271</L></tail></H2>
+
+hom=0  ok. Referential
+<H1><h><hc3>006</hc3><key1>samaya</key1><hc1>1</hc1><key2>sam-aya</key2></h><body> <etc/> <see type="nonhier"/> <c><pcol>p._1164_,_col._1</pcol>.</c> </body><tail><mul/> <MW>146803</MW> <pc>1156,3</pc> <L>233741</L></tail></H1>
+
+hom=0 scan missing hom=2.  Add <hom>2</hom>
+<H2><h><hc3>110</hc3><key1>samaya</key1><hc1>2</hc1><key2>sam-ay/a</key2></h><body> <lex>m.</lex> <p><ab>ifc.</ab>~ <lex type="hwifc">f<p><s>A</s></p>.</lex></p> <c>coming_together_,_meeting_or_a_place_of_meeting</c> <ls>AV.</ls> <ls>S3Br.</ls> </body><tail><pc>1164,1</pc> <L>234792</L></tail></H2>
+;------------------------------------------------------------
+; Case 101 sAdi
+hom=1
+<H2><h><hc3>110</hc3><key1>sAdi</key1><hc1>2</hc1><key2>sAdi</key2><hom>1</hom></h><body> <lex>m.</lex> <p><c>for_2.</c>~<see/>~ <ab>s.v.</ab></p> <c>a_horseman</c> <ls>MBh.</ls> </body><tail><pc>1139,1</pc> <L>230662</L></tail></H2>
+
+hom=0 scan missing hom.  Add <hom>2</hom>
+<H1><h><hc3>110</hc3><key1>sAdi</key1><hc1>1</hc1><key2>sA<srs/>di</key2></h><body> <lex>mfn.</lex> <c>having_a_beginning</c> <p>  <phw><dL>241478.1</dL><s>-tva</s>~ <lex type="phw">n.</lex></phw>  </p> <ls>Kap.</ls> </body><tail><mul/> <MW>151684</MW> <pc>1200,3</pc> <L>241478</L></tail></H1>
+
+hom=0  ok. Referential
+<H1><h><hc3>000</hc3><key1>sAdi</key1><hc1>1</hc1><key2>sAdi</key2></h><body> <s>sAdita</s>,<s>sAdin</s> <etc/> <see type="nonhier"/> <c><pcol>p._1139_,_col._1</pcol>.</c> </body><tail><mul/> <MW>151686</MW> <pc>1200,3</pc> <L>241480</L></tail></H1>
+;------------------------------------------------------------
+; Case 102 sArasa
+hom=1
+<H2><h><hc3>110</hc3><key1>sArasa</key1><hc1>2</hc1><key2>sArasa</key2><hom>1</hom></h><body> <lex>mf<p><s>I</s></p>n.</lex> <p><c>fr.</c>~<s>saras</s></p> <c>relating_or_belonging_to_or_coming_from_a_pond_or_lake</c> <ls>Ka1v.</ls> <ls>VarBr2S.</ls> <ls>Sus3r.</ls> </body><tail><pc>1209,1</pc> <L>243019</L></tail></H2>
+hom=0 typo add <hom>2</hom>
+<H1><h><hc3>110</hc3><key1>sArasa</key1><hc1>1</hc1><key2>sA<srs/>rasa</key2></h><body> <lex>mfn.</lex> <c>crying_,_calling</c> <ls>Nalo7d.</ls> </body><tail><mul/> <MW>152680</MW> <pc>1209,1</pc> <L>243037</L></tail></H1>
+;------------------------------------------------------------
+; Case 103 sukftya
+hom=1. ok. Remove _2.
+<H3><h><hc3>510</hc3><key1>sukftya</key1><hc1>3</hc1><key2>s/u--kftya</key2><hom>1</hom></h><body> <vlex>Nom.</vlex> <vlex>P.</vlex> <s><sr1/>yati</s> <p><c>fr.</c>~<s>-kft</s></p> <ls>Pat._-2_.</ls> </body><tail><MW>154254</MW> <pc>1220,3</pc> <L>245530</L></tail></H3>
+
+hom=0 typo Add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>sukftya</key1><hc1>3</hc1><key2>s/u--kftya</key2></h><body> <lex>n.</lex> <c>a_good_work_to_be_done_,_duty</c> <ls>BhP.</ls> </body><tail><pc>1220,3</pc> <L>245531</L></tail></H3>
+;------------------------------------------------------------
+; Case 104 suKya
+hom=1. ok. Remove _2.
+<H2><h><hc3>110</hc3><key1>suKya</key1><hc1>2</hc1><key2>suKya</key2><hom>1</hom></h><body> <lex>mfn.</lex> <c>belonging_to_pleasure_,_pleasurable</c> <ls>MW._2.</ls> </body><tail><pc>Page1222,2</pc> <MW>154557</MW> <L>245947</L></tail></H2>
+hom=0 typo Add <hom>2</hom>
+<H2><h><hc3>510</hc3><key1>suKya</key1><hc1>3</hc1><key2>suKya</key2></h><body> <vlex>Nom.</vlex> <vlex>P.</vlex> <s><sr1/>yati</s> <p><see/>~<root/>~<s>suK</s></p>. </body><tail><mul/> <MW>154558</MW> <pc>1222,2</pc> <L>245948</L></tail></H2>
+;------------------------------------------------------------
+; Case 105 sutavat
+hom=1
+<H3><h><hc3>110</hc3><key1>sutavat</key1><hc1>3</hc1><key2>sut/a--vat</key2><hom>1</hom></h><body> <lex>mfn.</lex> <p><c>for_2.</c>~<see/>~<c>under_3.</c>~<s>suta</s></p> <c>containing_the_word</c> <s>suta</s> <p><s>atI</s>~ <lex type="hwinfo">f.</lex>~<quote><c>_a_verse_<abE>c</abE>containing_the_word</c>~<s>suta</s>~</quote></p> <ls>AitBr.</ls> </body><tail><pc>1219,2</pc> <L>245253</L></tail></H3>
+
+hom=0 typo Add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>sutavat</key1><hc1>3</hc1><key2>suta--vat</key2></h><body> <lex>mfn.</lex> <p><c>for_1.</c>~<see/>~<c>under_2.</c>~<s>suta</s></p> <c>possessing_sons_or_children</c> <ls>VarBr2S.</ls> </body><tail><pc>1219,3</pc> <L>245304</L></tail></H3>
+
+remove _2. of prev record:
+<H3><h><hc3>110</hc3><key1>sutapAdukA</key1><hc1>3</hc1><key2>suta--pAdukA</key2></h><body><OR group="245302,sutapAdikA;245303,sutapAdukA"/> <lex>f.</lex> <c>a_species_of_<bot>Mimosa</bot></c> <ls>L._2.</ls> </body><tail><MW>154159</MW> <pc>1219,3</pc> <L>245303</L></tail></H3>
+
+hom=0  ok Referential
+<H1><h><hc3>000</hc3><key1>sutavat</key1><hc1>1</hc1><key2>suta-vat</key2></h><body> <s>suta-soma</s> <etc/> <see type="nonhier"/> <c><pcol>p._1219_,_col._2</pcol>.</c> </body><tail><mul/> <MW>154973</MW> <pc>1225,3</pc> <L>246884</L></tail></H1>
+;------------------------------------------------------------
+; Case 106 surottama
+hom=1
+<H3><h><hc3>110</hc3><key1>surottama</key1><hc1>3</hc1><key2>suro<srs/>ttama</key2><hom>1</hom></h><body> <lex>m.</lex> <p><c>for_2.</c>~<s>suro<srs/>t<sr1/></s>~<see/>~<c><pcol>p._1236_,_col._1</pcol></c></p> <c>_chief_of_the_gods</c> <ls>MBh.</ls> </body><tail><pc>1235,2</pc> <L>249597</L></tail></H3>
+
+hom=0 typo Add <hom>2</hom>
+<H3><h><hc3>112</hc3><key1>surottama</key1><hc1>3</hc1><key2>suro<srs/>ttama</key2></h><body> <p>prob.</p> <lex>n.</lex> <p><c>for_1.</c>~<s>suro<srs/>tt<sr1/></s>~<see/>~<c><pcol>p._1235_,_col._2</pcol></c></p> <c>_the_scum_of_<as0>Sura1</as0><as1><s>surA</s></as1></c> <ls>Gobh.</ls> <p><ab>Sch.</ab>~<quote>_excellent_water_</quote></p> <c>.</c> </body><tail><MW>156366</MW> <pc>1236,1</pc> <L>249764</L></tail></H3>
+
+remove _2. from prev.
+<H3><h><hc3>111</hc3><key1>surAhuti</key1><hc1>3</hc1><key2>s/urA<srs/><sr1/>hut/i</key2></h><body> <p><s><sr1/>rA<srs/>h<sr1/></s></p> <lex>f.</lex> <c>libation_of_<as0>Sura1</as0><as1><s>surA</s></as1></c> <ls>S3Br._2.</ls> </body><tail><MW>156365</MW> <pc>1236,1</pc> <L>249763</L></tail></H3>
+
+;------------------------------------------------------------
+; Case 107 suvid
+hom=1
+<H3><h><hc3>110</hc3><key1>suvid</key1><hc1>3</hc1><key2>su--vid</key2><hom>1</hom></h><body> <lex>m.</lex> <p><root/>1.~<s>vid</s></p> <c><quote>_knowing_well_</quote>_,_a_<as0>Jina</as0><as1><s>jina</s></as1></c> <ls>Gal.</ls> </body><tail><pc>1233,2</pc> <L>249034</L></tail></H3>
+
+hom=0  typo add <hom>2</hom>
+<H3><h><hc3>110</hc3><key1>suvid</key1><hc1>3</hc1><key2>su--vid</key2></h><body> <lex>m.</lex> <p><root/>3.~<s>vid</s></p> <c>procuring_or_granting_well_</c> <p><c>in</c>~<s>viSva-suvid</s>~<qv/></p> </body><tail><MW>155971</MW> <pc>1233,2</pc> <L>249036</L></tail></H3>
+
+remove _2. from prev:
+<H3B><h><hc3>110</hc3><key1>suvid</key1><hc1>3</hc1><key2>su--vid</key2><hom>1</hom></h><body> <lex>f.</lex> <c>a_shrewd_or_clever_woman</c> <ls>L._2.</ls> </body><tail><MW>155970</MW> <pc>1233,2</pc> <L>249035</L></tail></H3B>
+
+;------------------------------------------------------------
+; Case 108 stam
+hom=1  refers to 'sam' Remove <hom>1</hom>  
+<H1><h><hc3>505</hc3><key1>stam</key1><hc1>1</hc1><key2>stam</key2><hom>1</hom></h><body><OR group="232986,sam;232986.1,stam"/> <vlex type="root"></vlex> <c>or</c> <s>sam</s> <vlex>cl.1 P.</vlex> <s>samati</s> <c>or</c> <s>stamati</s> , <c><to/>to_be_disturbed</c> <p><ab>accord.</ab>~<c>to_some_<quote>_to_be_undisturbed_</quote></c>~;~<cf/>~<root/>~<s>Sam</s></p> <ls>Dha1tup._xix_,_82</ls> <msc/> <vlex>cl.10 P.</vlex> <s>samayati</s> <c>or</c> <s>stamayati</s> , <c><to/>to_be_agitated_or_disturbed</c> <ls>Vop.</ls> </body><tail><mul/> <MW>146275</MW> <pc>1152,1</pc> <L>232986.1</L><mscverb/></tail></H1>
+
+hom=0  ok. Referential
+<H1><h><hc3>004</hc3><key1>stam</key1><hc1>1</hc1><key2>stam</key2></h><body> <vlex type="root"></vlex><see/> <root/>1.~<s>sam</s> , <c><pcol>p._1152_,_col._1</pcol>.</c> </body><tail><mul/> <MW>159400</MW> <pc>1257,3</pc> <L>254431</L></tail></H1>
+;------------------------------------------------------------
+; Case 109 sras
+hom=1 refers to sraMs.  Remove <hom>1</hom> for sras.
+<H1><h><hc3>504</hc3><key1>sras</key1><hc1>1</hc1><key2>sras</key2><hom>1</hom></h><body><OR group="257528,sraMs;257528.1,sras"/> <vlex type="root"></vlex> <p><c>or</c>~<s>sraMs</s>~;~<c>sometimes_written</c>~<s>SraMS</s>~<c>or</c>~<s>SraMs</s></p> <vlex>cl.1 A1.</vlex> <p><ls>Dha1tup._xviii_,_15</ls></p> <s>sraMsate</s> <p><c><c1><ab>ep.</ab>_and</c1>~<ab>mc.</ab>_also</c>~<s><sr1/>ti</s>~;~ <ab>pf.</ab>~<s>sesraMsa</s>~,~<s><sr1/>MsuH</s>~<ls>Br.</ls>~;~<c>3.</c>~ <ab>pl.</ab>~<s>-sraMsire</s>~<ls>Hariv.</ls>~;~ <ab>aor.</ab>~<s>asrat</s>~<ls>Br.</ls>~;~<s>asrasat</s>,<s>srasema</s>~<ls>RV.</ls>~;~<s>asraMsizwa</s>~<ls>Br.</ls>~;~ <ab>fut.</ab>~<s>sraMsitA</s>~,~<s>sraMsizyate</s>~ <ab>Gr.</ab>~;~<c>Ved.</c>~ <ab>inf.</ab>~<s>-sr/asas</s>~;~<s>sraMsitum</s>~ <ab>Gr.</ab>~;~ <ab>ind.p.</ab>~<s>sraMsitvA</s>~,~<s>srastvA</s>~<ls>ib.</ls>~;~<s>-sraMsya</s>,<s>-srasya</s>~<ls>Br.</ls>~<etc/></p> <c>_,_<to/>to_fall_,_drop_,_fall_down_,_slip_off_,_get_loose_from</c> <p><ab>abl.</ab></p> <ls>VS.</ls> <etcetc/> <msc/> <c><to/>to_fall_asunder_or_to_pieces</c> <ls>TBr.</ls> <msc/> <c><to/>to_hang_down_,_dangle_,_droop</c> <ls>Ragh.</ls> <msc/> <c><to/>to_be_broken_,_perish_,_cease</c> <ls>Sa1h.</ls> <msc/> <c><to/>to_go</c> <ls>Naigh._ii_,_14</ls> :  <ab>Pass.</ab> <s>srasyate</s> <p><ab>aor.</ab>~<s>asraMsi</s></p> <ab>Gr.</ab>: <ab>Caus.</ab> <s>sraMsayati</s> <p><ab>aor.</ab>~<s>asisrasat</s>~;~ <ab>Pass.</ab>~<s>sraMsyate</s></p> , <c><to/>to_cause_to_fall_down_,_loosen</c> <ls>AV.</ls> <ls>R.</ls> <etc/> <msc/> <c><to/>to_let_hang_<p>the_belly</p></c> <ls>AV.</ls> <msc/> <c><to/>to_disturb_,_remove_,_destroy</c> <ls>Sus3r.</ls> :  <ab>Desid.</ab> <s>sisraMsizate</s> <ab>Gr.</ab>: <c> <ab>Intens.</ab></c> <s>sanIsrasyate</s>_,_<s>sanIsraMsti</s> <ls>ib.</ls> <p><cf/>~<c>next</c></p> <c>.</c> </body><tail><mul/> <MW>161477</MW> <pc>1273,3</pc> <L>257528.1</L><mscverb/></tail></H1>
+
+hom=0  ok. no hom.
+<H2><h><hc3>110</hc3><key1>sras</key1><hc1>2</hc1><key2>sras</key2></h><body> <lex>mfn.</lex> <c>falling_,_dropping</c> <p><ab>ifc.</ab>~;~<see/>~<s>vi-sras</s>~,~<s>su-sras</s></p>. </body><tail><mul/> <MW>161486</MW> <pc>1273,3</pc> <L>257543</L></tail></H2>
+
+hom=0  ok. Referential
+<H1><h><hc3>000</hc3><key1>sras</key1><hc1>1</hc1><key2>sras</key2></h><body> <s>srasta</s> <etc/> <see type="nonhier"/> <c><pcol>p._1273_,_col._3</pcol>.</c> </body><tail><mul/> <MW>161531</MW> <pc>1274,1</pc> <L>257604</L></tail></H1>
+;------------------------------------------------------------
+; Case 110 svavat
+hom=1. ok. Remove _-2.
+<H3><h><hc3>111</hc3><key1>svavat</key1><hc1>3</hc1><key2>sv/a--vat</key2><hom>1</hom></h><body> <p><s>sv/a-</s></p> <lex>mfn.</lex> <c>possessing_property_,_wealthy</c> <p>  <phw><dL>258196.1</dL><s>-tA</s>~ <lex type="phw">f.</lex></phw>  </p> <ls>TS.</ls> <ls>Jaim.</ls> <p><c>for</c>~<s>svavAn</s>~ <ab>nom.</ab>~<c>of</c>~<s>sv-avas</s>~<see/>~<c>p.1282</c></p> <c>._-2.</c> </body><tail><MW>161835</MW> <pc>1276,3</pc> <L>258196</L></tail></H3>
+
+hom=0 typo add <hom>2</hom>
+<H3><h><hc3>200</hc3><key1>svavat</key1><hc1>3</hc1><key2>sv/a--vat</key2></h><body> <lex>ind.</lex> <c>as_if_it_were_<abE>o</abE>one's_own_property</c> <ls>Gaut.</ls> </body><tail><MW>161836</MW> <pc>1276,3</pc> <L>258197</L></tail></H3>

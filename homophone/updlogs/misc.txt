@@ -1,0 +1,35 @@
+Apr 11, 2015
+Misc notes/questions
+
+1. nirdagDa 
+in scan shows <hom>2</hom>.  But acc. to digitization
+there is just one nirdagDa, and no hom marked.
+
+2. vikarman 192872
+  Has <hom>1</hom> and reference to hom=2 under vi-kf,
+  but in vikarman under vi-kf, the reference is back to 192872.
+  Thus, hom=1 in 192872 seems an error.
+
+3. viliptA 193489.  Similar to vikarman.
+   hom=1 seems to an error.
+
+4. aBirAmam 12183  H2C
+   Appears as 'hom=0', even tho. correctly marked as hom=1
+
+5. urvyA 37302.1 H1C To be marked as hom=1.
+
+6. newHom will think these are hom=0, since these are Hx[BC], and marked hom=h
+  This is a prob. with newHom
+ kulyA 53091 H2B. hom=1
+ kzapA 58996.2 H1C hom=1
+ gavyA 64416.20 H2B hom=1
+ guhA 66267 H2B hom=2
+ guhA 66259.2 H2C hom=1
+ guhA 66271 H2C hom=3
+ jaraRA 77627 H2B hom=1
+ jAlikA 79109 H2B hom=1
+ dAsI  91928 H2B hom=1
+ sADyA 241758 H2B hom=1 (hom=1 missing from scan, but appropriate)
+7. dAsI-kf  Marked as hom=1.  There is only 1 record.  Next record is
+   dasI 91967 hom=2.  which in effect points to 91928 H2B dAsI (f. of dAsa)
+8. parisaMKyA  numerical homs 1,2 added (not in scan) 
