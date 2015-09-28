@@ -710,4 +710,42 @@ the Devanagari shows (in slp1 form) 'ayurveda' instead of the correct
 Ref: https://github.com/sanskrit-lexicon/MWS/issues/23
 Marcis Gasuns
 =======================================
+For discussion of 103-108, 
+ see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/125
+103. Sep 27, 2015
+L=25875, hw = AyuHpati.
+f. inI -> f. tnI . The feminine of pati is patnI
+ejf
+=======================================
+104. Sep 27, 2015
+L=169540, hw = yazwf.
+f. trI -> f. wrI . The feminine of yazwf is yazwrI
+ejf
+=======================================
+104. Sep 27, 2015
+L = 183105 , hw = lolat.
+f. anti -> f. antI.  The feminine of participle lolat is lolantI
+ejf
+=======================================
+105. Sep 27, 2015
+L = 99898, hw = Dartf.
+f. tF -> f. trI. The feminine of Dartf is DartrI.
+ejf
+=======================================
+106. Sep 27, 2015
+L = 143879.1, hw = bahuvelam
+mfn. -> ind.   bahuvelam is an adverb, not an adjective.
+ejf
+=======================================
+107. Sep 27, 2015
+L = 8039.12, hw = antaHstomaBAgam
+mfn. -> ind. antaHstomaBAgam is an adverb, not an adjective.
+ejf
+=======================================
+108. Sep 27, 2015
+L = 27709, hw = ASiraduG
+ASiraduG -> ASiraduGa.  The 2nd word in this compound is 'duGa' (milking)
+ejf
+=======================================
+=======================================
 =======================================
