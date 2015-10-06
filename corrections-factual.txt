@@ -747,5 +747,12 @@ L = 27709, hw = ASiraduG
 ASiraduG -> ASiraduGa.  The 2nd word in this compound is 'duGa' (milking)
 ejf
 =======================================
+109. Oct 6, 2015
+L = 97387, hw = dyOSaMsita. Change spelling to dyOsamSita.
+Also changed AV. x,3,25 to AV. x,5,25.
+This agrees with text in aversion of Atharva, and with PWG spelling, which 
+MW likely copied. 
+See discussion at see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/125
+Marcis Gasuns, Zilton Andrade Filho, Jim Funderburk
 =======================================
 =======================================
