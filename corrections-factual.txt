@@ -755,4 +755,21 @@ MW likely copied.
 See discussion at see https://github.com/sanskrit-lexicon/CORRECTIONS/issues/125
 Marcis Gasuns, Zilton Andrade Filho, Jim Funderburk
 =======================================
+110. Oct 21, 2015
+For discussion of these changes, see 
+https://github.com/sanskrit-lexicon/CORRECTIONS/issues/129
+Marcis Gasuns.
+L = 264155, hw = hemakUWya changed to hemakUwya
+L = 258629, hw = svayamprasIrRa changed to svayampraSIrRa
+L = 251393, hw = sUpesARa changed to sUpeSARa
+L = 248480, hw = sumadaMsu changed to sumadaMSu
+L = 231084, hw = sanAjUr changed to sanAjur
+L = 225066 and 225067, hw = zaqaMsa changed to zaqaMSa
+L = 225067.1, hw = zaqaMsatA changed to zaqaMSatA
+L = 216255, hw = SAvAsOca changed to SAvASOca
+L = 214092, hw = SalalIpisaNga changed to SalalIpiSaNga
+L = 213746.1, hw = SaratparvaSasin changed to SaratparvaSaSin
+L = 211500 and 211501, hw = SaNkukarResvara changed to SaNkukarReSvara
+L = 196015, hw = vividvAs changed to vividvas
+=======================================
 =======================================
