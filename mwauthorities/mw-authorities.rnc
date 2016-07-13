@@ -1,0 +1,23 @@
+MWauthorities = element MWauthorities { attlist.common, entry* }
+entry =
+  element entry {
+    attlist.entry, abbr, expandMW, expandNorm?, addedInfo?
+  }
+abbr = element abbr { attlist.common, Text.model }
+expandMW = element expandMW { attlist.common, Authority.model }
+expandNorm = element expandNorm { attlist.common, Authority.model }
+addedInfo = element addedInfo { attlist.common, Authority.model }
+au = element au { attlist.common, Text.model }
+ti = element ti { attlist.common, Text.model }
+subti = element subti { attlist.common, Text.model }
+litcat = element litcat { attlist.common, Text.model }
+slp = element slp { attlist.slp, text }
+
+Authority.model = (text | au | ti | subti | litcat | slp)*
+Text.model = (text | slp)*
+
+attlist.common &= empty
+attlist.entry &= attribute type { "au" | "ti" | "subti" | "litcat" }
+attlist.slp &= attribute cap { "false" | "true" }?
+
+start = MWauthorities
