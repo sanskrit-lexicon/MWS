@@ -8,3 +8,15 @@ Peter Scharf and Malcolm Hyman of [The Sanskrit Library](www.sanskritlibrary.org
 This xml document follows the structure as specified in the Relax NG schema mw-authorities.rng; which, I think, is derived from the compact syntax form of mw-authorities.rnc.
 
 
+The linkmwauthorities_init.txt file contains the link between the literary
+source abbreviations appearing in monier.xml and the records appearing in 
+MWWorksAuthorsCurrentMarkup3.xml.
+There are three tab-delimited fields:
+* ls (literary source) abbreviation appearing in monier.xml
+* a count (probably not maintained) of the number of instances of the
+  ls abbreviation in monier.xml
+* the abbreviation appearing in MWWorksAuthorsCurrentMarkup3.xml.
+
+The correlation was established several years ago primarily on the basis
+of formal similarity between the spelling of the two abbreviations.
+
