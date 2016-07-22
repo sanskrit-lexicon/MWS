@@ -7,6 +7,12 @@ Peter Scharf and Malcolm Hyman of [The Sanskrit Library](www.sanskritlibrary.org
 
 This xml document follows the structure as specified in the Relax NG schema mw-authorities.rng; which, I think, is derived from the compact syntax form of mw-authorities.rnc.
 
+The mwauthorities_init.txt file is a  slightly simplified version of MWWorksAuthorsCurrentMarkup3.xml.  It was originally created by an xsl transformation of
+the xml file, but also includes two revisions for 
+
+* the author Kielhorn
+* the title kOzItaki-brAhmaRa
+
 
 The linkmwauthorities_init.txt file contains the link between the literary
 source abbreviations appearing in monier.xml and the records appearing in 
