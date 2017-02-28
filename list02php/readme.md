@@ -9,4 +9,6 @@ browser to index.php.
 The program makes calls to a development version of an API at the Cologne
 server and returns data into an iframe.
 
+As of this revision, the program does NOT work properly with a 'div' instead
+of an 'iframe'.
 

@@ -1,0 +1,251 @@
+<!DOCTYPE html> <!-- html5 -->
+<html>
+<head>
+<META charset="UTF-8">
+<title>basic04a</title>
+
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.css">
+
+<!-- links to jquery, using CDNs -->
+<script type="text/javascript" src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<!-- jquery-ui is used -->
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+<script type="text/javascript" src="dictnames.js"></script>
+<script type="text/javascript" src="cookieUpdate.js"></script>
+<style>
+body {
+ color: black; background-color:#DBE4ED;
+}
+#key {
+ font-family: Trebuchet MS,Tahoma,Verdana,Arial,sans-serif,siddhanta_deva;
+ font-size: 14pt; 
+ font-weight: bold;
+}
+@font-face { 
+ /*src: url(../fonts/siddhanta.ttf);*/
+ src: url(http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/fonts/siddhanta.ttf);
+ font-family: siddhanta_deva;
+}
+.ui-widget {
+ font-family: Trebuchet MS,Tahoma,Verdana,Arial,sans-serif,siddhanta_deva;
+ font-weight: bold;
+}
+#dataframe1 {
+ color: black; background-color: white;
+ width: 600px;
+ height: 200px;
+ /* resize doesn't work on Firefox. 
+  On Chrome, the size may be increased, but not decreased*/
+ resize: both;
+ overflow: auto;
+}
+#dataframe2 {
+ color: black; background-color: white;
+ width: 600px;
+ height: 200px;
+ /* resize doesn't work on Firefox. 
+  On Chrome, the size may be increased, but not decreased*/
+ resize: both;
+ overflow: auto;
+}
+
+#accentdiv,#outputdiv,#inputdiv,#dictionary1,#dictionary2 input,label {display:block;}
+
+#preferences {
+ position:absolute;
+ left:100px;
+ top: 15px;
+}
+#preferences td {
+ background-color:white;
+ padding-left:5px;
+ padding-right:5px;
+ text-align:center;
+}
+#citationdiv{
+ padding-bottom:5px;
+}
+</style>
+<script> 
+$(document).ready(function() {
+ $('#key').keypress(function (e) {
+  if(e.which == 13)  // the enter key code
+   {e.preventDefault();
+    basicDisplay('1');
+    basicDisplay('2');
+   }
+ }); // end keypress
+ $('#input,#output,#dict1,#dict2,#accent').change(function(event) {
+  cookieUpdate(true);   
+ });
+ $('#dict1').change(function(event) {
+  cookieUpdate(true);   
+  document.title= $('#dict1').val() + $('#dict2').val() + " basic04a"; 
+ });
+ $('#dict2').change(function(event) {
+  cookieUpdate(true);   
+  document.title= $('#dict1').val() + $('#dict2').val() + " basic04a"; 
+ });
+ basicDisplay = function (idict) {
+  var dataframe = '#dataframe' + idict;
+  jQuery(dataframe).html('<p>Searching</p>'); // clear
+  var key = $('#key').val();
+  var dict = $('#dict' + idict).val();
+  var input = $('#input').val();
+  var output = $('#output').val();
+  var accent = $('#accent').val();
+  // TODO: check for valid inputs before ajax call
+  var urlbase="http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/getword.php";
+  var url =  urlbase +  
+   "?key=" +escape(key) + 
+   "&output=" +escape(output) +
+   "&dict=" + escape(dict) +
+   "&accent=" + escape(accent) +
+   "&input=" + escape(input);
+     jQuery.ajax({
+     dataType: "jsonp",
+     url: url,
+     /*data: data */ 
+     error:function(jqXHR,textStatus,errorThrown){
+      jQuery(dataframe).html('<p>No data found</p>');
+     },
+     success:function(data) {
+      jQuery(dataframe).html(data);
+     }
+    });
+ }; // basicDisplay
+cookieUpdate = CologneDisplays.dictionaries.cookieUpdate;
+cookieUpdate(false);  // for initializing cookie
+ document.title= $('#dict1').val() + $('#dict2').val() + " basic04a"; 
+$("#dict1").autocomplete( { 
+  source : CologneDisplays.dictionaries.dictshow,
+  autoFocus: true,
+ }); // end autocomplete dictionary
+$("#dict2").autocomplete( { 
+  source : CologneDisplays.dictionaries.dictshow,
+  autoFocus: true,
+ }); // end autocomplete dictionary
+
+
+/* This is based on the example at
+https://jqueryui.com/autocomplete/#remote-jsonp
+and is required to avoid cross-domain problems.  The server program also
+requires some code for this purpose.
+*/
+$("#key").autocomplete({
+  source: function(request,response) {
+   $.ajax({
+   url:"http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/getsuggest.php",
+   datatype:"jsonp",
+   data: {
+    //q: request.term
+    term: request.term,
+    dict: $('#dict1').val(),  // have to assume same for dict2
+    input: $('#input').val()
+   },
+   success: function(data) {
+    console.log('getsuggest success');
+    response(data);  // 'response' is passed in as source argument
+   }
+   }); // ajax
+  },
+  delay : 500, // 500 ms delay
+  minLength : 2, // user must type at least 2 characters
+  select: function(event,ui) {
+   if (ui.item) {
+   $("#key").val(ui.item.value);
+    basicDisplay('1');
+    basicDisplay('2');
+   }
+  },
+  autoFocus: true,
+}); //key-autocomplete
+
+}); // end ready
+ </script>
+<script> // see MWScan/2014/web/webtcdev/main_webtc.js
+</script>
+</head>
+<body>
+ <div id="logo">
+     <a href="http://www.sanskrit-lexicon.uni-koeln.de/">
+      <img id="unilogo" src="http://www.sanskrit-lexicon.uni-koeln.de/images/cologne_univ_seal.gif"
+           alt="University of Cologne" width="60" height="60" 
+           title="Cologne Sanskrit Lexicon"/>
+      </a>
+ </div>
+
+<table id="preferences">
+<tr>
+<td>
+ <div id="dictionary1">
+ <label for="dict1code">dictionary1</label>
+ <input type="text" name="dict1code" size="4" id="dict1" value="" />
+ </div>
+</td>
+<td>
+ <div id="dictionary2">
+ <label for="dict2code">dictionary2</label>
+ <input type="text" name="dict2code" size="4" id="dict2" value="" />
+ </div>
+</td>
+<td>
+ <div id="inputdiv">
+  <label for="input">input</label>
+  <select name="input" id="input">
+   <option value='hk' selected='selected'>KH <!--Kyoto-Harvard--></option>
+   <option value='slp1'>SLP1</option>
+   <option value='itrans'>ITRANS</option>
+   <option value='deva'>Devanagari</option>
+   <option value='roman'>IAST</option>
+  </select>
+ </div>
+</td><td>
+ <div id="outputdiv">
+  <label for="output">output</label>
+  <select name="output" id="output">
+   <option value='deva'>Devanagari</option>
+   <option value='hk'>KH <!--Kyoto-Harvard--></option>
+   <option value='slp1'>SLP1</option>
+   <option value='itrans'>ITRANS</option>
+   <option value='roman' selected='selected'>IAST</option>
+  </select>
+ </div>
+</td><td>
+ <div id="accentdiv">  <!-- possibly should be per dictionary -->
+  <label for="accent">accent?</label>
+ <select name="accent" id="accent">
+  <option value="yes">Show</option>
+  <option value="no" selected="selected">Hide</option>
+ </select>
+ </div>
+</td></tr>
+</table> <!-- preferences -->
+ <div id="citationdiv">
+  citation:&nbsp;
+  <input type="text" name="key" size="20" id="key" value="" 
+    style="height:2.0em"/>
+ </div>
+
+ <div id="disp">
+  <!-- Requesting data will change the src attribute of this iframe -->
+  <div id="dataframe1">  
+  </div>
+  <div id="dataframe2">  
+  </div>
+ 
+ </div>
+ <div class="font_preload" style="opacity: 0">
+  <!-- attempt to preload the siddhanta font 
+   ref: http://stackoverflow.com/questions/1330825/preloading-font-face-fonts
+   -->
+    <span style="font-family: siddhanta-deva;"></span>
+</div>
+<script type="text/javascript">
+
+</script>
+</body>
+</html>
