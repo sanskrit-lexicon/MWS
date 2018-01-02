@@ -1,0 +1,754 @@
+; a listing of the 'Genuine' roots from MW1899
+; These are the headwords that appear in large Devanagari in the text.
+; There are 4 fields, tab-delimited.  
+; First field is cologne record id (L-number within Cologne digitization)
+; Second field is the headword (root) in SLP1 spelling
+; Third field is homonym number, if any.
+; Fourth field:  significance not known at this time (01-01-2018).
+9	aMS		1
+107	aMh	1	1
+114	aMh	2	1
+134	ak		1
+423	akz		3
+762	ag		4
+1348	aG		6
+1408	aNk		7
+1491	aNK		7
+1492	aNg		7
+1752	aNG		8
+1767	ac	1	8
+1927	aj		9
+2250	aYc	1	1
+2267	aYj		1
+2337	aw		1
+2358	aww		1
+2383	aW		1
+2386	aq	1	1
+2388	aqq		1
+2390	aR		1
+2447	aRW		1
+2490	at	2	1
+3575	ad	1	1
+4782	an	2	2
+7900	ant		4
+8399	and		4
+8411	anD		4
+13687	aBr		7
+13748	am	3	8
+14390	amb		8
+14564	amB		8
+15701	arc	1	8
+15739	arj	1	9
+15839	arT		9
+16095	ard		9
+16352	arb		9
+16408	arv		9
+16483	arh		9
+16510	al		9
+16938	av		9
+19412	aS	1	1
+19416	aS	2	1
+20163	az		1
+20353	as	1	1
+20354	as	2	1
+21629	ah	1	1
+21630	ah	2	1
+24743	Ap	1	1
+25983	Ar	1	1
+27851	As	2	1
+28539	i	5	1
+28635	iK		1
+28637	iNK		1
+28638	iNg		1
+28677	iw		1
+28845	ind		1
+29258	inD		1
+29294	inv		1
+29342	ir		1
+29396	il		1
+29439	iz	1	1
+29516	iz	3	1
+29546	izUya		1
+29695	Ikz		1
+29713	IK		1
+29714	INK		1
+29717	Ij		1
+29721	Iq	1	1
+29747	Int		1
+29761	Ir		1
+29797	Irzy		1
+29820	Il		1
+29827	IS	1	1
+29921	Iz	1	1
+29985	Ih		1
+30001	u	4	1
+30072	ukz	1	1
+30098	uK		1
+30208	uNK		1
+30209	uc		1
+30535	uC	1	1
+30536	uC	2	1
+30600	ujJ		1
+30615	uYC		1
+30626	uW		1
+32059	ud	2	1
+33764	uDras	1	1
+33765	uDras	2	1
+37050	ubj		2
+37051	uB		2
+324500	uB		1
+37438	ulaq		2
+37688	uz	1	2
+37931	uh		2
+38000	Uy		2
+38037	Urj	1	2
+38079	UrRu		2
+38104	Urd		2
+38324	Urv		2
+38333	Uz		2
+38375	Uh	1	2
+38392	Uh	2	2
+38410	f	4	2
+38696	fc	1	2
+38773	fC		2
+38776	fj		2
+38847	fYj	1	2
+38849	fYj	2	2
+38854	fR		2
+38911	ft		2
+38930	fD		2
+38955	fP		2
+39001	fz	1	2
+39039	fz	2	2
+39975	ej		2
+39986	eW		2
+40096	eD		2
+40241	ez	1	2
+40606	oK		2
+40621	oj		2
+40663	oR		2
+40721	olaRq		2
+41369	kaMs		2
+41405	kak		2
+41598	kaK		2
+41600	kag		2
+41602	kaNk		2
+41710	kac		2
+41817	kaj		2
+41835	kaYc		2
+41893	kaw	1	2
+41894	kaw	2	2
+42169	kaww		2
+42177	kaW		2
+42258	kaq		2
+42287	kaqq		2
+42288	kaR		2
+42355	kaRw		2
+42456	kaRW		2
+42560	kaRq		2
+42681	katT		2
+42690	katr		2
+42692	kaT		2
+42779	kad	1	2
+42917	kan		2
+43192	kand		2
+43736	kab		2
+43768	kam	2	2
+43913	kamp		2
+43959	kamb		2
+44777	karj		2
+44778	karR		2
+45580	kal	2	2
+45581	kal	3	2
+46728	kaz		2
+46861	kas	1	2
+47271	kANkz		2
+49812	kAS		2
+50091	kAs	1	2
+50788	kIrt		2
+51417	kuc		2
+51450	kuYc		2
+51471	kuYj		2
+51515	kuw		2
+51676	kuww		2
+52017	kuts		2
+52041	kuT		2
+52181	kup	1	2
+53477	kuz		2
+53796	kUj		2
+53917	kUq	2	2
+53919	kUR		2
+54039	kUrd		3
+54148	kf	1	3
+54683	kf	2	3
+54777	kft	2	3
+54810	kft	3	3
+54858	kfp	2	3
+55010	kfS		3
+55083	kfz	1	3
+55567	kF	1	3
+57713	kraT		3
+57730	krand		3
+57749	kram		3
+58088	krI	1	3
+58135	krIq		3
+58231	kruD	1	3
+58298	kruS		3
+58538	klaT		3
+58542	kland		3
+58545	klam		3
+58564	klid		3
+58692	kvaR		3
+58702	kvaT		3
+58898	kzad	1	3
+58968	kzap	1	3
+59030	kzam	1	3
+59141	kzar		3
+59234	kzal	2	3
+59266	kzi	1	3
+59272	kzi	2	3
+59376	kzi	4	3
+59502	kzip	1	3
+59841	kzu	1	3
+59877	kzud	1	3
+60072	kzuD	1	3
+60118	kzup		3
+60128	kzuB	1	3
+60470	kzE		3
+60596	kzRu		3
+60659	kzvel		3
+60863	Kac		3
+60884	KaYj	1	3
+61072	KaRq		3
+61265	Kan		3
+61509	Karj		3
+61663	Kall		3
+61789	KAd		3
+61905	Kid		3
+61977	Kud		3
+62077	KE		3
+62523	gaR		3
+62868	gad		3
+63409	gam	1	3
+63862	garj		3
+63914	gard		3
+64179	garh		3
+64198	gal	1	3
+64493	gA	1	3
+65024	gAh		3
+65341	gu	3	3
+65392	guYj		3
+65883	guD		3
+65966	gumP		3
+66258	guh	1	3
+66407	gUrD		3
+66434	gfD		3
+66808	gF	1	3
+66809	gF	2	3
+66852	gE		3
+68437	graT		3
+68546	gras	1	3
+68591	grah		3
+69145	glah		3
+69170	glE		3
+69219	Gaw		3
+69346	Gaww		3
+69692	Gas		3
+69841	Guz	1	3
+69925	GUrR		3
+69935	Gf	1	3
+70114	Gfz	2	3
+70246	GrA		3
+70764	caYc		3
+70830	caw		3
+71515	can	2	3
+72173	car		3
+72401	carc		3
+72562	carv		3
+72587	cal		3
+73474	cit	4	3
+74627	cumb	2	4
+74801	cUrR		4
+74874	cUz		4
+75390	Cad	1	4
+75556	Cad	3	4
+75712	Cal		4
+75907	Cid		4
+76102	Cfd		4
+76187	jakz	2	4
+76735	jan		4
+77153	jap		4
+78427	jAgf		4
+79180	ji	1	4
+79399	jinv		4
+79622	jIv		4
+80005	jur	1	4
+80017	juz	1	4
+80120	jf	2	4
+80153	jF	1	4
+80318	jYA	1	4
+80523	jyA	1	4
+80857	jvar		4
+80890	jval		4
+81442	qI		4
+81523	QOk		4
+81602	takz	1	4
+81685	taq		4
+82220	tan	2	4
+82226	tan	3	4
+82608	tap	2	4
+82867	tam		4
+83341	tark		4
+83427	tarj		4
+84753	tij		4
+85813	tuj	2	4
+85879	tud	1	4
+86105	tul		4
+86265	tuz		4
+86723	tfp	1	4
+86774	tfz	1	4
+86817	tF		4
+87337	tyaj	1	4
+87510	tras	2	4
+89316	dakz		4
+90246	dam	1	4
+90700	dal		4
+91164	dah	1	4
+91212	dA	1	4
+91425	dA	4	4
+91851	dAS	1	4
+92229	div	2	4
+92472	diS	1	4
+92642	dih	1	4
+92769	dIp		4
+94747	duz	2	4
+94848	duh	2	4
+95068	dfMh		4
+95246	dfp	2	4
+95263	dfS	1	4
+95496	dF		4
+97391	dyut	1	5
+97755	drA	2	5
+97846	dru	2	5
+97951	druh	1	5
+98962	dviz	2	5
+99257	Dan	2	5
+99639	Danv		5
+99700	Dam		5
+100554	Dav		5
+100607	DA	1	5
+101159	DAv	1	5
+101170	DAv	2	5
+101184	Di	1	5
+101212	Diz	1	5
+101254	DI	1	5
+101481	DU	1	5
+101815	Df		5
+101933	Dfz		5
+102003	De		5
+102185	DyE		5
+102398	DvaMs		5
+102497	Dvan	2	5
+102614	Dvf		5
+102824	nakz		5
+103176	naw		5
+103308	nad		5
+103420	nand		5
+103699	naB	1	5
+103825	nam		5
+104307	nard		5
+104757	naS	1	5
+104760	naS	2	5
+104854	nah	1	5
+105448	nAT		5
+108251	nij		5
+108659	nind		5
+111189	nI	2	5
+111762	nu	4	5
+111772	nud		5
+112031	nft	1	5
+113414	pac	2	5
+113507	paj		5
+114263	paw		5
+114524	paW		5
+114550	paR		5
+114698	pat	2	5
+115170	pad	2	5
+115833	pan	2	5
+120516	paS	1	6
+120795	pA	1	6
+120935	pA	3	6
+122352	pAy		6
+123508	piC		6
+123559	piYj		6
+124422	piS	1	6
+124541	piz		6
+124606	pI	2	6
+124649	pIq		6
+124968	pIy		6
+125192	puw		6
+125645	puT		6
+126760	puz	2	6
+127307	pU	1	6
+127377	pUj		6
+127469	pUy		6
+128300	pf	1	6
+128314	pfc	1	6
+128909	pF		6
+129743	pyE		6
+130824	praC		6
+134465	praT	1	6
+138761	prA	1	7
+140436	prI	1	7
+140856	pru		7
+140858	pruT		7
+140871	pruz	1	7
+141468	plu		7
+141564	pluz		7
+141584	psA	1	7
+141623	PaR		7
+142512	banD		7
+144318	bAD		7
+145569	buD		7
+146034	bfh	1	7
+146037	bfh	2	7
+147490	brU		7
+147534	Bakz		7
+147598	Baj		7
+147928	BaYj	1	7
+148185	BaR		7
+148252	Band		7
+148908	Barts		7
+149277	Baz		7
+149289	Bas	1	7
+149418	BA	1	7
+150479	BAz	1	7
+150552	BAs	1	7
+150663	Bikz		7
+150727	Bid	1	7
+150969	BI	1	7
+151217	Buj	1	7
+151348	Buj	3	7
+151434	Bur		7
+151456	BU	1	7
+152466	BUz		7
+152494	Bf	1	7
+153448	BraMS		7
+153489	Brajj		7
+153524	Bram		7
+153678	BrAj	1	7
+153766	BrI		7
+153856	Brez		7
+153892	maMh		7
+153911	makamakAya		7
+154347	majj		7
+154854	maRq		7
+155187	maT	1	7
+155288	mad	2	7
+156626	man		7
+157643	mand	1	7
+157684	mand	2	7
+159151	mah	1	7
+161693	mA	2	8
+161697	mA	3	8
+163363	mArg		8
+164084	mi	1	8
+164311	miT		8
+164438	mid	2	8
+164465	mil		8
+164547	miz	1	8
+164576	mih	1	8
+164607	mI	1	8
+164715	mIl		8
+164724	mIv	1	8
+165082	muc	2	8
+165450	mud	2	8
+165763	murC		8
+165859	muz	2	8
+166006	muh	1	8
+166607	mf		8
+166791	mfg		8
+167121	mfj	1	8
+167161	mfq		8
+167219	mfd	1	8
+167410	mfD	1	8
+167423	mfS	1	8
+167430	mfz	1	8
+168318	mokz		8
+168870	mnA		8
+168872	myakz		8
+168873	mrakz		8
+168881	mrad		8
+168891	mruc		8
+168901	mluc		8
+168905	mleC		8
+168938	mlE		8
+169114	yaj	1	8
+169552	yat	2	8
+170253	yaB		8
+170258	yam		8
+171002	yas		8
+171018	yA	1	8
+171236	yAc		8
+171682	yu	1	8
+171694	yu	2	8
+171731	yuj	1	8
+172012	yuD	1	8
+172139	yup		8
+173028	raMh		8
+173050	rakz	1	8
+173266	rac		8
+173342	raYj		8
+174063	raw		8
+174075	raR	1	8
+174197	raR	2	8
+174789	rad		8
+174809	raD		8
+174860	rap		8
+174863	rapS		8
+174867	raP		8
+174870	raB		8
+174928	ram		8
+175478	ras	1	8
+175485	ras	2	8
+175925	rah		8
+176008	rA	1	8
+176246	rAj	1	8
+177153	rAD		8
+177844	rAs	1	8
+177953	riK		8
+177954	riNK		8
+177968	riNg		8
+177975	ric		8
+178040	rip		8
+178088	riP		8
+178103	riB		8
+178131	riS		8
+178139	riz	1	8
+178173	rih		8
+178179	rI	1	8
+178213	ru	1	8
+178231	ru	3	8
+178244	ruc	1	8
+178446	ruj	1	8
+178489	ruW		8
+178506	rud	1	8
+178751	ruD	1	8
+178755	ruD	2	8
+178856	rup	1	8
+178902	ruS		8
+178916	ruz	1	8
+178960	ruh	1	8
+179276	rUz		8
+179363	rej	1	8
+180331	lakz		8
+180704	lag		8
+181121	laNG		8
+181156	lajj		8
+181338	lap	1	8
+181359	laB		8
+181488	lamb	1	8
+181587	lal		8
+181985	laz		8
+181992	las	1	8
+182054	lA	1	8
+182184	lAYC		9
+182337	liK		9
+182615	lip		9
+182704	liS	1	9
+182726	lih	1	9
+182753	lI	1	9
+182888	luYc		9
+182902	luw	2	9
+182907	luW	1	9
+182908	luW	2	9
+182922	luq		9
+182926	luRw		9
+182956	lup	1	9
+183010	luB		9
+183058	lul		9
+183125	lU	1	9
+183229	lok		9
+183561	loc		9
+184521	vakz		9
+184615	vac		9
+185127	vaYc		9
+185343	vaRw		9
+185521	vad		9
+185579	vaD		9
+185710	van	1	9
+186179	vand		9
+186277	vap	1	9
+186291	vap	2	9
+186417	vam		9
+187289	varR		9
+187679	varD		9
+188075	val		9
+188205	valg		9
+188394	vaS		9
+188560	vas	2	9
+188997	vas	3	9
+188998	vas	4	9
+189096	vas	5	9
+189238	vah	1	9
+189436	vA	2	9
+190461	vAYC		9
+192249	vAS		9
+192285	vAs	2	9
+192697	vAh	1	9
+194682	vic		9
+194956	vij	1	9
+195626	vid	1	9
+195939	vid	3	9
+197416	vip	1	9
+200376	viS	1	9
+201614	viz	1	9
+201878	viz	4	9
+203329	vI	1	1
+203453	vIj		1
+203469	vIq		1
+203978	vf	1	1
+204040	vf	2	1
+204309	vfj	1	1
+204340	vft	1	1
+204573	vfD		1
+204858	vfz		1
+205271	ve	1	1
+206222	ven		1
+206315	vell		1
+206478	vezw		1
+206544	vE	1	1
+208354	vyac		1
+208633	vyaT		1
+208671	vyaD		1
+210345	vye		1
+210432	vraj		1
+210711	vraSc		1
+210765	vrIq		1
+210822	vlI		1
+210841	SaMs		1
+210897	Sak		1
+211426	SaNk		1
+211740	SaW	4	1
+212483	Sad	2	1
+212543	Sap	3	1
+212651	Sabd		1
+212911	Sam	1	1
+214531	Sas	1	1
+215926	SAl		1
+216290	SAs	1	1
+216481	Si	1	1
+216517	Sikz		1
+216845	SiYj		1
+218104	Siz	2	1
+218170	SI	1	1
+218177	SIk		1
+218655	SIl	1	1
+219184	Suc	1	1
+219366	SuD		1
+219616	SuB	1	1
+219943	Suz	1	1
+220027	Suz	3	1
+220772	SfD		1
+220783	SF		1
+221333	So		1
+221945	Scut	1	1
+221953	SnaT		1
+222309	SyE		1
+222382	SraT		1
+222401	Sram	1	1
+222686	SrA		1
+222829	Sri	1	1
+222857	SrI	1	1
+223393	Sru	1	1
+223994	SlaT		1
+224011	SlAG		1
+224043	Sliz	2	1
+224373	Svas	1	1
+224480	Svi		1
+225563	zWiv		1
+228852	sac	1	1
+229218	saYj	2	1
+230505	sad	2	1
+231023	san	1	1
+232210	sap	1	1
+239787	sas		1
+239967	sah	1	1
+241500	sAD	1	1
+241986	sAntv		1
+243722	si	1	1
+244032	sic	1	1
+244298	siD	2	1
+244301	siD	3	1
+244996	siv		1
+245241	su	3	1
+250630	suh		1
+250729	sU	1	1
+250739	sU	2	1
+251301	sUd	1	1
+251838	sf		1
+251924	sfj	1	1
+252008	sfp		1
+252262	sev		1
+252524	so	1	1
+254077	skand		1
+254241	skamB		1
+254257	sku		1
+254272	sKal		1
+254307	stan		1
+254463	stamB		1
+254590	stiG		1
+254632	stu	1	1
+254799	stuB	1	1
+254842	stf	1	1
+255154	sTag		1
+255316	sTA	1	1
+256200	snA	1	1
+256298	snih	1	1
+256456	snu	1	1
+256488	spand		1
+256521	sparD		1
+256550	spaS		1
+256588	spf	1	1
+256602	spfS	1	1
+256712	spfh	1	1
+256812	sPAy		1
+256860	sPuw		1
+256968	sPur	1	1
+257015	sPul		1
+257075	smi		1
+257112	smf	2	1
+257403	syand		1
+257528	sraMs	1	1
+257618	sriv		1
+257621	sru		1
+258776	svaj		1
+258787	svad		1
+258909	svan	1	1
+258948	svap	1	1
+259802	svid	2	1
+259868	svf		1
+260291	had		1
+260297	han	1	1
+261643	hary		1
+262056	has	1	1
+262501	hA	2	1
+262507	hA	3	1
+262717	hi	1	1
+262731	hiMs	1	1
+263406	hIq		1
+263443	hu	1	1
+263626	hf	1	1
+263654	hf	2	1
+263915	hfz		1
+264415	hez	1	1
+264643	hnu		1
+264681	hras		1
+264747	hrAd		1
+264772	hrI	1	1
+264815	hrez		1
+264823	hlag		1
+264827	hlAd		1
+264858	hval		1
+264863	hvf		1
+264875	hve		1
