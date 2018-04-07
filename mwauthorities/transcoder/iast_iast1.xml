@@ -1,0 +1,22 @@
+<fsm start='INIT' inputDecoding='UTF-8' outputEncoding='UTF-8'>
+<!--  Conversion of Non-standard IAST appearing in MW to standard.
+   This is applied to text in <ls> and <as0> and <asp0> tags.
+   Some non-standard forms remain unconverted (circumflex diacritics):
+    â Â î û    ê ô  for ā Ā ī ū    e o 
+   and ṉ for ṃ
+-->
+<e> <s>INIT</s> <in>ṡ</in> <out>ś</out> </e> 
+<e> <s>INIT</s> <in>Ṡ</in> <out>Ś</out> </e> 
+<e> <s>INIT</s> <in>sh</in> <out>ṣ</out> </e> 
+<e> <s>INIT</s> <in>Sh</in> <out>Ṣ</out> </e> 
+<e> <s>INIT</s> <in>ḷ</in> <out>ḻ</out> </e> <!-- only Iḷā -> -->
+<e> <s>INIT</s> <in>ṛi</in> <out>ṛ</out> </e> 
+<e> <s>INIT</s> <in>Ṛi</in> <out>Ṛ</out> </e> 
+
+<!-- There are no instances of these conversions
+  in Cologne digitization of MW99 -->
+<e> <s>INIT</s> <in>ṛī</in> <out>ṝ</out> </e> 
+<e> <s>INIT</s> <in>lṛi</in> <out>ḷ</out> </e> 
+<e> <s>INIT</s> <in>lṛī</in> <out>ḹ</out> </e> 
+
+</fsm>

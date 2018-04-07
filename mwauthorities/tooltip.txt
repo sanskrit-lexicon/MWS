@@ -1,0 +1,678 @@
+01:01	Abhinav.	Abhinava-gupta	Author
+01:02	Ācāranirṇ.	Ācāranirṇaya	Title
+01:02x	Ācār.	Ācāranirṇaya	Title
+01:03	AdbhBr.	Adbhuta-brāhmaṇa	Title
+01:04	Ādi-p.	Ādi-parvan of the Mahābhārata	subtitle
+01:05	AgSaṃh.	Agastya-saṃhitā	Title
+01:06	AgP.	Agni-purāṇa	Title
+01:07	AitĀr.	Aitareya-āraṇyaka	Title
+01:08	AitBr.	Aitareya-brāhmaṇa	Title
+01:09	AitUp.	Aitareya-upaniṣad	Title
+01:10	Alaṃkārak.	Alaṃkārakaustubha	Title
+01:11	Alaṃkāras.	1 Alaṃkārasarvasva, by Ruyyaka	Title
+01:12	Alaṃkāras.2	2 Alaṃkārasarvasva, by Maṅkhaka	Title
+01:13	Alaṃkāraś.	Alaṃkāraśekhara, by Keśava-miśra	Title
+01:14	Alaṃkārat.	Alaṃkāratilaka	Title
+01:15	Alaṃkārav.	Alaṃkāravimarśinī, by Jayaratha	Title
+01:16	Amar.	Amaru-śataka	Title
+01:17	AmṛtabUp.	Amṛtabindu-upaniṣad	Title
+01:17x	AmṛtUp.	Amṛtabindu-upaniṣad	Title
+01:18	Ānand.	Ānanda-laharī	Title
+01:18x	Ānandal.	Ānanda-laharī	Title
+01:19	Anaṅgar.	Anaṅgaraṅga	Title
+01:20	AnSaṃh.	Ananta-saṃhitā	Title
+01:21	Anarghar.	Anargharāghava	Title
+01:21x	Anargh.	Anargharāghava	Title
+01:22	Anukr.	Anukramaṇikās	Literary category
+01:23	Anup.	Anupada-sūtra	Title
+01:24	Āp.	Āpastamba-dharma-sūtra	Title
+01:25	ĀpŚr.	Āpastamba-śrauta-sūtra	Title
+01:25x	Āpast.Śr.	Āpastamba-śrauta-sūtra	Title
+01:26	ĀpY.	Āpastamba-yajñaparibhāṣā-sūtra	Title
+01:27	A.	Apte's The Practical Sanskrit-English Dictionary	Title
+01:28	ĀrṣBr.	Ārṣeya-brāhmaṇa	Title
+01:29	ĀruṇUp.	Āruṇeya-upaniṣad	Title
+01:30	Āryabh.	Āryabhaṭa	Author
+01:31	Āryav.	Āryavidyā-sudhākara	Title
+01:32	Aṣṭâṅg.	Aṣṭāṅga-hṛdaya	Title
+01:33	AṣṭāvS.	Aṣṭāvakra-saṃhitā	Title
+01:33x	Aṣṭāv.	Aṣṭāvakra-saṃhitā	Title
+01:34	ĀśvP.	Āśvalāyana-gṛhya-pariśiṣṭa	Title
+01:35	ĀśvGṛ.	Āśvalāyana-gṛhya-sūtra	Title
+01:36	ĀśvMantraS.	Āśvalāyana-śākhoktā-mantra-saṃhitā	Title
+01:37	ĀśvŚr.	Āśvalāyana-śrauta-sūtra	Title
+01:38	AtharvaśUp.	Atharvaśikhā-upaniṣad	Title
+01:39	AV.	Atharva-veda	Title
+01:40	AV.Paipp.	Atharva-veda, Paippalāda-śākhā	Title
+01:41	AV.Pariś.	Atharva-veda-pariśiṣṭa	Title
+01:41x	APariś.	Atharva-veda-pariśiṣṭa	Title
+01:41y	AVPar.	Atharva-veda-pariśiṣṭa	Title
+01:41z	AVPariś.	Atharva-veda-pariśiṣṭa	Title
+01:42	APrāt.	Atharva-veda-prātiśākhya	Title
+01:43	AV.Prāy.	Atharva-veda-prāyaścitta	Title
+01:44	ĀtmUp.	Ātma-upaniṣadkhaṇḍa 3	subtitle
+01:45	ĀtrAnukr.	Ātreya-anukramaṇikā	Title
+01:46	Avadānaś.	Avadānaśataka	Title
+01:47	Bādar.	Bādarāyaṇa's Brahma-sūtra	Title
+01:47x	Bād.	Bādarāyaṇa's Brahma-sūtra	Title
+01:48	Bādar. Gov.	Govindānanda's Bhāṣyaratnaprabhā on Bādarāyaṇa's Brahma-sūtras	Title
+01:49	Bādar.,Sch..	Śaṃkara's Śārīraka-mīmāṃsā on Bādarāyaṇa's Brahma-sūtras	Title
+01:50	Bālar.	Bālarāmāyaṇa	Title
+01:50x	Bāl.	Bālarāmāyaṇa	Title
+01:51	Baudh.	Baudhāyana-dharma-śāstra	Title
+01:52	BaudhP.	Baudhāyana-pitṛmedha-sūtra	Title
+01:53	Bhadrab.	Bhadrabāhu-caritra	Title
+01:54	Bhag.	Bhagavad-gītā	Title
+01:55	BhP.	Bhāgavata-purāṇa	Title
+01:55x	Bh.	Bhāgavata-purāṇa	Title
+01:55y	BhāgP.	Bhāgavata-purāṇa	Title
+01:56	Bhagavatīg.	Bhagavatī-gītā	Title
+01:57	Bhaktâm.	Bhaktāmara-stotra	Title
+02:01	Bhām.	Bhāminī-vilāsa	Title
+02:02	Bharaṭ.	Bharaṭaka-dvātriṃśikā	Title
+02:03	Bhar.	Bharata-nāṭya-śāstra	Title
+02:04	Bhpañcad.	Bhāratītīrtha's Pañcadaśī	Title
+02:05	Bhartṛ.	Bhartṛhari	Author
+02:06	Bhāṣāp.	Bhāṣāpariccheda	Title
+02:07	Bhāṣik.	Bhāśika-sūtra	Title
+02:08	Bhaṭṭ.	Bhaṭṭi-kāvya	Title
+02:09	Bhpr.	Bhāvaprakāśa	Title
+02:10	BhavP.	Bhaviṣya-purāṇa, khaṇḍa 1 & 2: Bhaviṣya-purāṇa & Bhaviṣyottara-purāṇa	Title
+02:11	Bhoj.	Bhoja	Author
+02:12	Bhojapr.	Bhojaprabandha	Title
+02:13	Bījag.	Bījagaṇita	subtitle
+02:13x	Bīj.	Bījagaṇita	subtitle
+02:14	BRD.	Böhtlingk & Roth's Sanskrit-Wörterbuch	Title
+02:14x	BR.	Böhtlingk & Roth's Sanskrit-Wörterbuch	Title
+02:15	BrahmabUp.	Brahmabindu-upaniṣad	Title
+02:16	Br.	Brāhmaṇa	Literary category
+02:17	BrahmâṇḍaP.	Brahmāṇḍa-purāṇa	Title
+02:18	BrahmaP.	Brahma-purāṇa	Title
+02:19	Brahmas.	Brahmasiddhānta	Title
+02:20	BrahmUp.	Brahma-upaniṣad	Title
+02:21	BrahmavP.	Brahmavaivarta-purāṇa	Title
+02:22	BrahmavUp.	Brahmavidyā-upaniṣad	Title
+02:23	BrahmôttKh.	Brahmottara-khaṇḍa, from the Skanda-purāṇa	subtitle
+02:24	BṛĀrUp.	Bṛhad-āraṇyaka-upaniṣad	Title
+02:25	Bṛh.	Bṛhad-devatā	Title
+02:26	BṛNārP.	Bṛhan-nāradīya-purāṇa, 38 adhyāya	subtitle
+02:27	Bcar.	Buddha-carita	Title
+02:28	Buddh.	Buddhist literature	Literary category
+02:29	Campak.	Campaka-śreṣṭhi-kathānaka	Title
+02:30	Cāṇ.	Cāṇakya	Author
+02:31	Caṇḍ.	Caṇḍa-kauśika	Title
+02:32	Car.	Caraka	Author
+02:33	Caraṇ.	Caraṇa-vyūha	Title
+02:34	Caurap.	Caurapañcāśikā	Title
+02:35	Chandaḥs.	Chandaḥ-sūtra	Title
+02:36	ChUp.	Chāndogya-upaniṣad	Title
+02:37	Chandom.	Chandomañjarī	Title
+02:38	Col.	Colebrooke	Author
+02:38x	Colebr.	Colebrooke	Author
+02:39	CūlUp.	Cūlikā-upaniṣad	Title
+02:40	DaivBr.	Daivata-brāhmaṇa	Title
+02:41	Damayantī-kathā.	Nalacampū	Title
+02:42	Daś.	Daśakumāra-carita	Title
+02:42x	Daśak.	Daśakumāra-carita	Title
+02:43	Daśar.	Daśarūpa	Title
+02:44	Dāṭhādh.	Dāṭhādhātu-vaṃśa	Title
+02:45	Dāyabh.	Dāyabhāga	Title
+02:46	Dāyat.	Dāyatattva	Title
+02:47	Devatādhyāya.	Daivata-brāhmaṇa	Title
+02:48	DevībhP.	Devī-bhāgavata-purāṇa	Title
+02:49	Devīm.	Devī-māhātmya	Title
+02:49x	Dev.	Devī-māhātmya	Title
+02:50	Dhanaṃj.	Dhanaṃjaya-vijaya	Title
+02:51	Dhanv.	Dhanvantari	Author
+02:52	Dharmas.	Dharmasaṃgraha	Title
+02:53	Dharmaśarm.	Dharmaśarmābhyudaya	Title
+02:53x	Dharmaś.	Dharmaśarmābhyudaya	Title
+02:54	Dharmav.	Dharmaviveka	Title
+02:55	Dhātup.	Dhātupāṭha	Title
+02:55x	Dhāt.	Dhātupāṭha	Title
+02:56	Dhūrtan.	Dhūrtanartaka	Title
+02:57	Dhūrtas.	Dhūrtasamāgama	Title
+02:58	DhyānabUp.	Dhyānabindu-upaniṣad	Title
+02:59	Dīp.	Dīpikā	Title
+02:60	Divyāv.	Divyāvadāna	Title
+02:60X	Divyâv.	Divyāvadāna	Title
+02:61	Drāhy.	Drāhyāyaṇa	Author
+02:62	Durgāv.	Durgāvilāsa	Title
+02:63	Dūtâṅg.	Dūtāṅgada	Title
+02:64	Gal.	Demetrius Galanos's Lexiko: sanskritikes, anglikes, hellenikes	Title
+02:65	Gaṇar.	Gaṇaratna-mahodadhi	Title
+02:65x	Gaṇaratnâv.	Gaṇaratna-mahodadhi	Title
+02:66	GaṇP.	Gaṇeśa-purāṇa	Title
+03:01	Gaṇit.	Gaṇitādhyāya	subtitle
+03:02	GarbhUp.	Garbha-upaniṣad	Title
+03:03	GārgīS.	Gārgī-saṃhitā	Title
+03:04	GāruḍaP.	Gāruḍa-purāṇa	Title
+03:04x	GarP.	Gāruḍa-purāṇa	Title
+03:05	GarUp.	Garuḍa-upaniṣad	Title
+03:06	Gāthāsaṃgr.	Gāthāsaṃgraha	Title
+03:07	Gauragaṇ.	Gauragaṇoddeśa	Title
+03:08	Gaut.	Gautama-dharma-śāstra	Title
+03:09	GayāMāh.	Gayā-māhātmya	Title
+03:10	Ghaṭ.	Ghaṭakarpara	Title
+03:11	Gīt.	Gīta-govinda	Title
+03:12	GobhŚrāddh.	Gobhila-śrāddha-kalpa	Title
+03:12x	Gobh.	Gobhila-śrāddha-kalpa	Title
+03:13	Gol.	Golādhyāya	subtitle
+03:14	GopBr.	Gopatha-brāhmaṇa	Title
+03:15	Gorakṣ.	Gorakṣa-śataka	Title
+03:16	Grahay.	Grahayajña-tattva	subtitle
+03:17	Gmn.	Grassmann	Author
+03:18x	GṛŚrS.	Gṛhya-sūtra and Śrauta-sūtra	Literary category
+03:18y	ŚrGṛS.	Gṛhya-sūtra and Śrauta-sūtra	Literary category
+03:19	Gṛhyās.	Gṛhyāsaṃgraha	Title
+03:20	GṛS.	Gṛhya-sūtra	Literary category
+03:20x	GS.	Gṛhya-sūtra	Literary category
+03:21	Hāl.	Hāla	Author
+03:22	HaṃsUp.	Haṃsa-upaniṣad	Title
+03:23	Harav.	Haravijaya	Title
+03:23x	Haravij.	Haravijaya	Title
+03:24	Hār.	Hārīta	Author
+03:25	Hariv.	Harivaṃśa	Title
+03:26	Hcar.	Harṣacarita	Title
+03:27	Hāsy.	Hāsyārṇava	Title
+03:28	Hāyan.	Hāyana-ratna, by Balabhadra	Title
+03:29	Hemac.	Hemacandra	Author
+03:30	HPariś.	Hemacandra's Pariśiṣṭaparvan	Title
+03:31	HYog.	Hemacandra's Yoga-śāstra	Title
+03:31x	HYogaś.	Hemacandra's Yoga-śāstra	Title
+03:32	Hcat.	Hemādri's Caturvarga-cintāmaṇi	Title
+03:33	HirGṛ.	Hiraṇyakeśin-gṛhya-sūtra	Title
+03:34	HirP.	Hiraṇyakeśin-pitṛmedha-sūtra	Title
+03:35	Hit.	Hitopadeśa	Title
+03:36	Horāś.	Horāśāstra	Title
+03:37	IW.	Indian Wisdom, by Sir M. Monier-Williams	Title
+03:38	ĪśUp.	Īśa-upaniṣad	Title
+03:38x	ĪśaUp.	Īśa-upaniṣad	Title
+03:39	JābālUp.	Jābāla-upaniṣad	Title
+03:39x	JābālaUp.	Jābāla-upaniṣad	Title
+03:40	Jaim.	Jaimini	Author
+03:41	JaimBh.	Jaimini-bhārata, Āśvamedhika-parvan	subtitle
+03:41x	JaimBhār.	Jaimini-bhārata, Āśvamedhika-parvan	subtitle
+03:42	JaimBr.	Jaiminīya-brāhmaṇa	Title
+03:43	JaimUp.	Jaiminīya-upaniṣad	Title
+03:44	Jain.	Jaina literature	Literary category
+03:45	Jātakam.	Jātakamālā	Title
+03:45x	Jāt.	Jātakamālā	Title
+03:45y	Jātak.	Jātakamālā	Title
+03:46	Jyot.	Jyotiṣa	Literary category
+03:47	Kād.	Kādambarī	Title
+03:48	KaivUp.	Kaivalya-upaniṣad	Title
+03:49	Kaiy.	Kaiyaṭa, Kaiyyaṭa	Author
+03:50	Kālac.	Kālacakra	Title
+03:51	Kālakâc.	Kālakācārya-kathānaka	Title
+03:52	Kālanirṇ.	Kālanirṇaya	Title
+03:53	Kālid.	Kālidāsa	Author
+03:54	KālP.	Kālikā-purāṇa	Title
+03:55	KalkiP.	Kalki-purāṇa	Title
+03:56	Kalpas.	Kalpa-sūtra	Literary category
+03:57	Kalpat.	Kalpataru	Title
+03:58	Kalyāṇam.	Kalyāṇamandira-stotra	Title
+03:59	Kām.	Kāmandakīya-nītisāra	Title
+03:60	Kaṇ.	Kaṇāda's Vaiśeṣika-sūtra	Title
+03:61	KaṇṭhUp.	Kaṇṭhaśruti-upaniṣad	Title
+03:62	KapSaṃh.	Kapila-saṃhitā, from the Skanda-purāṇa	Title
+03:63	KapS.	Kapila'sSāṃkhya-pravacana	Title
+04:01	Kapiṣṭh.	Kapiṣṭhala-saṃhitā	Title
+04:02	Kāraṇḍ.	Kāraṇḍa-vyūha	Title
+04:03	Kāraṇḍ.2.	metrical recension of the text Kāraṇḍa-vyūha	Title
+04:04	Karmapr.	Karmapradīpa	Title
+04:05	Kāś.	Kāśikā-vṛtti	Title
+04:06	KāśīKh.	Kāśī khaṇḍa, from the Skanda-purāṇa	subtitle
+04:07	Kāt.	Kātantra	Title
+04:08	Kāṭh.	Kāṭhaka	Literary category
+04:09	KāṭhGṛ.	Kāṭhaka-gṛhya-sūtra	Title
+04:10	Kathârṇ.	Kathārṇava	Title
+04:11	Kathās.	Kathāsaritsāgara	Title
+04:12	KaṭhUp.	Kaṭha-upaniṣad	Title
+04:13	Kāty.	Kātyāyana	Author
+04:14	KātyŚr.	Kātyāyana-śrauta-sūtra	Title
+04:15	KauṣĀr.	Kauṣītaki-āraṇyaka	Title
+04:16	KauṣBr.	Kauṣītaki-brāhmaṇa	Title
+04:17	KauṣUp.	Kauṣītaki-upaniṣad	Title
+04:18	Kauś.	Kauśika-sūtra	Title
+04:19	Kautukar.	Kautukaratnākara	Title
+04:20	Kautukas.	Kautukasarvasva	Title
+04:21	Kavik.	Kavikalpa-latā	Title
+04:22	Kavikalpat.	Kavikalpataru	Title
+04:23	Kāvyac.	Kāvyacandrikā	Title
+04:24	Kāvyâd.	Kāvyādarśa	Title
+04:25	Kāvyak.	Kāvyakalpa-latā	Title
+04:26	Kāv.	Kāvya literature	Literary category
+04:27	Kpr.	Kāvyaprakāśa	Title
+04:27x	Kāvyapr.	Kāvyaprakāśa	Title
+04:28	Kayy.	Kayyaṭa	Author
+04:29	Ked.	Kedāra's Vṛtti-ratnākara	Title
+04:30	KenUp.	Kena-upaniṣad	Title
+04:30x	KenaUp.	Kena-upaniṣad	Title
+04:31	Khaṇḍapr.	Khaṇḍapraśasti	Title
+04:32	Kir.	Kirātārjunīya	Title
+04:33	Koṣṭhīpr.	Koṣṭhīpradīpa	Title
+04:34	Kramadīp.	Kramadīpikā	Title
+04:35	Kṛṣis.	Kṛṣisaṃgraha	Title
+04:36	Kṛs2ṇakarṇ.	Kṛṣṇakarṇāmṛta	Title
+04:37	Kriyāy.	Kriyāyoga-sāra in the Padma-purāṇa	subtitle
+04:38	Kṣem.	Kṣemendra	Author
+04:39	Kṣitîś.	Kṣitīśa-vaṃśāvalī-carita	Title
+04:40	KṣurUp.	Kṣurikā-upaniṣad	Title
+04:41	Kulad.	Kuladīpikā	Title
+04:42	Kulârṇ.	Kulārṇava-tantra	Title
+04:43	Kull.	Manvarthamuktāvalī, KullūkaBhaṭṭa's commentary on Manu-smṛti	Title
+04:44	Kum.	Kumāra-sambhava	Title
+04:45	KūrmaP.	Kūrma-purāṇa	Title
+04:46	Kuṭṭanīm.	Kuṭṭanīmata	Title
+04:47	Kuval.	Kuvalayānanda	Title
+04:47x	Kuv.	Kuvalayānanda	Title
+04:48	Laghuj.	Laghujātaka, by Varāha-mihira	Title
+04:49	Laghuk.	Laghukaumudī	Title
+04:50	Lalit.	Lalita-vistara	Title
+04:51	Laṅkāvat.	Laṅkāvatāra-sūtra	Title
+04:52	Lāṭy.	Lāṭyāyana	Author
+04:53	L.	Lexicographers, esp. such as Amarasiṃha, Halāyudha, Hemacandra, &c.	Author
+04:54	Līl.	Līlāvatī of Bhāskara	Title
+04:54x	Līlāv.	Līlāvatī of Bhāskara	Title
+04:55	LiṅgaP.	Liṅga-purāṇa	Title
+04:56	Ml.	Macdonell's dictionary, &c.	Title
+04:56x	ML.	Macdonell's dictionary, &c.	Title
+04:57	Madanav.	Madanavinoda	Title
+04:58	Madhus.	Madhusūdana	Author
+04:59	MāghaMāh.	Māgha-māhātmya in the Padma-purāṇa	subtitle
+04:60	MBh.	Mahābhārata	Title
+04:60x	Mbh.	Mahābhārata	Title
+04:61	MahānārāyaṇaUp..	Mahānārāyaṇa-upaniṣad see Nārāyaṇa-upaniṣad	Title
+04:62	Mahān.	Mahānāṭaka	Title
+04:63	Mcar.	Mahāvīra-caritra	Title
+05:01	Mahīdh.	Mahīdhara	Author
+05:02	MaitrS.	Maitrāyaṇī-saṃhitā	Title
+05:02x	Maitr.	Maitrāyaṇī-saṃhitā	Title
+05:03	MaitrUp.	Maitrī-upaniṣad	Title
+05:04	Malamāsat.	Malamāsatattva	Title
+05:05	Mālatīm.	Mālatīmādhava	Title
+05:06	Mālav.	Mālavikāgnimitra	Title
+05:07	Mallapr.	Mallaprakāśa	Title
+05:08	Mall.	Mallinātha	Author
+05:08x	Mallin.	Mallinātha	Author
+05:09	MānGṛ.	Mānava-gṛhya-sūtra	Title
+05:09x	MānGṛS.	Mānava-gṛhya-sūtra	Title
+05:09y	MānGṛŚrS.	Mānava-gṛhya-sūtra	Title
+05:10	MānŚr.	Mānava-śrauta-sūtra	Title
+05:11	MānS.	Mānavīya-samhitā of the Saura-purāṇa	subtitle
+05:12	MāṇḍŚ.	Māṇḍūkī-śikṣā	Title
+05:13	MāṇḍUp.	Māṇḍūkya-upaniṣad, 12 Mantras	Title
+05:14	MāṇḍUpGauḍ.	Māṇḍūkya-upaniṣad, Gauḍapāda's Kārikā	Title
+05:15	MantraBr.	Mantra-brāhmaṇa	Title
+05:16	Mantram.	Mantramahodadhi	Title
+05:17	Mn.	Manu-smṛti	Title
+05:18	MārkP.	Mārkaṇḍeya-purāṇa	Title
+05:18x	Mārk.	Mārkaṇḍeya-purāṇa	Title
+05:19	Maś.	Maśaka	Author
+05:20	MathMāh.	Mathurā-māhātmya	Title
+05:21	MatsyaP.	Matsya-purāṇa	Title
+05:22	Matsyas.	Matsyasūkta in Śabdakalpadruma	Title
+05:23	Megh.	Meghadūta	Title
+05:24	Megh.*.	Meghadūta, 15 additional verses	Title
+05:25	MW.	Monier-Williams' Sanskrit-English Dictionary, 1st edition with marginal notes	Title
+05:26	MWB.	Monier-Williams' Buddhism in its connexion with Brāhmaṇism & Hindūism: and in its contrast with Christianity	Title
+05:27	Mṛcch.	Mṛcchakaṭikā	Title
+05:28	Mudr.	Mudrārākṣasa	Title
+05:29	MuktUp.	Muktikā-upaniṣad	Title
+05:30	MuṇḍUp.	Muṇḍaka-upaniṣad	Title
+05:31	NādabUp.	Nādabindu-upaniṣad	Title
+05:32	Nāḍīpr.	Nāḍīprakāśa in Śabdakalpadruma	Title
+05:33	Nāg.	Nāgānanda	Title
+05:34	Naigh.	Naighaṇṭuka, commented on by Yāska	subtitle
+05:35	Naiṣ.	Naiṣadha-carita	Title
+05:36	Nalac.	Nalacampū or Damayantīkathā	Title
+05:37	Nalôd.	Nalodaya	Title
+05:38	Nal.	Nalopākhyāna	subtitle
+05:38x	N.	Nalopākhyāna	subtitle
+05:39	NandiP.	Nandi-purāṇa	Title
+05:40	NārS.	Nārada-saṃhitā	Title
+05:41	Nār.	Nārada-smṛti, Nāradīya-dharma-śāstra	Title
+05:42	NārP.	Nāradīya-purāṇa	Title
+05:43	NarasP.	Narasiṃha-purāṇa	Title
+05:44	NārUp.	Nārāyaṇa-upaniṣad	Title
+05:44x	MahānārUp.	Nārāyaṇa-upaniṣad	Title
+05:45	Nāṭyaś.	Nāṭyaśāstra	Title
+05:46	NBD.	Böhtlingk's Sanskrit-Wörterbuch in kürzerer fassung	Title
+05:47	Nid.	Mādhava-nidāna	Title
+05:48	Nid,Sch..	Nidāna,Sch.i.e.Vācaspati's Comm.	Title
+05:49	Nidānas.	Nidāna-sūtra	Title
+05:50	Npr.	Nighaṇṭuprakāśa	Title
+05:50x	Nigh.	Nighaṇṭuprakāśa	Title
+05:51	Nīlak.	Nīlakaṇṭha	Author
+05:51x	Nīl.	Nīlakaṇṭha	Author
+05:52	NīlP.	Nīlamata-purāṇa	Title
+05:53	NīlarUp.	Nīlarudra-upaniṣad	Title
+05:54	Nirṇayas.	Nirṇayasindhu	Title
+05:55	Nir.	Nirukta, by Yāska	Title
+05:56	Nītis.	Kāmandakīya-nītisāra	Title
+05:56x	Nīt.	Kāmandakīya-nītisāra	Title
+05:57	NṛsUp.	Nṛsiṃha-tāpanīya-upaniṣad	Title
+05:58	Nyāyad.	Nyāya	Literary category
+05:59	Nyāyak.	Nyāyakośa	Title
+05:60	Nyāyam.	Nyāyamālā-vistara	Title
+06:01	Padap.	Padapāṭha	Title
+06:02	PadmaP.	Padma-purāṇa	Title
+06:03	Padyas.	Padyasaṃgraha	Title
+06:04	Pañcad.	Pañcadaṇḍacchattra-prabandha	Title
+06:05	Pañcad.2.	Pañcadaṇḍacchattra-prabandha, metrical recension	Title
+06:06	Pañcadaśī, see Bhpañcad.	Bhāratītīrtha's Pañcadaśī	Title
+06:07	Pañcar.	Pañcarātra	Title
+06:08	Pañcat.	Pañcatantra	Title
+06:08x	Pañc.	Pañcatantra	Title
+06:09	Pāṇ.	Pāṇini	Author
+06:10	PāṇŚ.	Pāṇinīya-śikṣā	Title
+06:11	Pāpabuddhidharm.	Pāpabuddhidharmabuddhikathānaka	Title
+06:12	Param.	Paramārtha-sāra	Title
+06:13	Parāś.	Parāśara-smṛti	Title
+06:14	PārGṛ.	Pāraskara-gṛhya-sūtra	Title
+06:14x	PārGṛS.	Pāraskara-gṛhya-sūtra	Title
+06:15	Paraśur.	Paraśurāma-prakāśa	Title
+06:16	Paribh.	Paribhāṣendu-śekhara	Title
+06:17	Pārśvan.	Pārśvanātha-caritra	Title
+06:18	Pārvat.	Pārvatī-pariṇaya	Title
+06:19	Pat.	Patañjali	Author
+06:20	Phetk.	Phetkāriṇī-tantra	Title
+06:21	PhiṭS.	Phiṭ-sūtra	Title
+06:22	PiṇḍUp.	Piṇḍa-upaniṣad	Title
+06:23	Piṅg.	Piṅgala Scholiast, i.e. Halāyudha	Author
+06:24	Prab.	Prabodha-candrodaya	Title
+06:24x	Prabh.	Prabodha-candrodaya	Title
+06:25	Pracaṇḍ.	Pracaṇḍa-pāṇḍava	Title
+06:26	Pradyumn.	Pradyumna-vijaya	Title
+06:27	Prah.	Prahasana-nāṭaka	Title
+06:28	Prajāp.	Prajāpati-dharma-sūtra	Title
+06:29	PrāṇUp.	Prāṇāgnihotra-upaniṣad	Title
+06:30	Prasaṅg.	Prasaṅgābharaṇa	Title
+06:30x	Prasaṅgâbh.	Prasaṅgābharaṇa	Title
+06:31	Prasannar.	Prasannarāghava	Title
+06:31x	Prasann.	Prasannarāghava	Title
+06:32	PraśnUp.	Praśna-upaniṣad	Title
+06:32x	PraśnaUp.	Praśna-upaniṣad	Title
+06:33	Pratāp.	Pratāparudrīya	Title
+06:33x	Pratāpar.	Pratāparudrīya	Title
+06:34	PratijñāS.	Pratijñā-sūtra	Title
+06:34x	Pratijñās.	Pratijñā-sūtra	Title
+06:35	Prāt.	Prātiśākhya	Literary category
+06:36	Pravar.	Pravara texts	Literary category
+06:37	Prāyaśc.	Prāyaścitta-tattva	Title
+06:37X	Prâyaśc.	Prāyaścitta-tattva	Title
+06:38	Prayog.	Prayogāmṛta	Title
+06:39	Prayogar.	Prayogaratna	Title
+06:40	Priy.	Priyadarśikā	Title
+06:40x	Priyad.	Priyadarśikā	Title
+06:41	Pur.	Purāṇas	Literary category
+06:42	PSarv.	Purāṇa-sarvasva	Title
+06:43	Puruṣôtt.	Puruṣottama-tattva	Title
+06:44	Puṣpas.	Puṣpa-sūtra	Title
+07:01	Rāghav.	Rāghavapāṇḍavīya	Title
+07:01x	Rāgh.	Rāghavapāṇḍavīya	Title
+07:02	Ragh.	Raghuvaṃśa	Title
+07:03	Rājat.	Rājataraṃgiṇī	Title
+07:03x	Rāj.	Rājataraṃgiṇī	Title
+07:04	Rāmag.	Rāmagītā	Title
+07:05	Rāmapūjās.	Rāmapūjāsaraṇi	Title
+07:05x	Rāmapūjāsar.	Rāmapūjāsaraṇi	Title
+07:06	RāmatUp.	Rāmatāpanīya-upaniṣad	Title
+07:06x	Rāmat.	Rāmatāpanīya-upaniṣad	Title
+07:07	RāmUp.	Rāma-upaniṣad	Title
+07:08	R.	Rāmāyaṇa	Title
+07:09	Rāsal.	Rāsalīlā	Title
+07:10	Rasar.	Rasaratnākara	Title
+07:11	Rasat.	Rasataraṃgiṇī	Title
+07:12	Rasêndrac.	Rasendracintāmaṇi	Title
+07:13	Rasik.	Rasikaramaṇa	Title
+07:14	Ratir.	Ratirahasya	Title
+07:15	Ratnâ.	Ratnāvalī	Title
+07:15x	Ratn.	Ratnāvalī	Title
+07:15y	Ratnāv.	Ratnāvalī	Title
+07:15z	Ratnâv.	Ratnāvalī	Title
+07:16	RTL.	Religious Thought and Life in India, also called 'Brāhmanism and Hindūism,' by Sir M. Monier-Williams	Title
+07:17	RevāKh.	Revā-khaṇḍa	Title
+07:18	RV.	Ṛg-veda	Title
+07:19	Ṛtus.	Ṛtusaṃhāra	Title
+07:19x	Ṛt.	Ṛtusaṃhāra	Title
+07:20	Romakas.	Romakasiddhānta	Title
+07:21	Rudray.	Rudrayāmala	Title
+07:22	RAnukr.	ṚV-anukramaṇikā	Title
+07:22x	RVAnukr.	ṚV-anukramaṇikā	Title
+07:23	RPrāt.	Ṛg-veda-prātiśākhya	Title
+07:24	Śabdak.	Śabdakalpa-druma	Title
+07:25	SaddhP.	Saddharma-puṇḍarīka	Title
+07:26	Sadukt.	Sadukti-karṇāmṛta	Title
+07:27	Sāh.	Sāhitya-darpaṇa	Title
+07:28	SahyKh.	Sahyādri khaṇḍa, from the Skanda-purāṇa	subtitle
+07:29	Śākaṭ.	Śākaṭāyana	Author
+07:29x	Śāk.	Śākaṭāyana	Author
+07:30	Śāktân.	Śāktānanda-taraṃgiṇī	Title
+07:31	Śaktir.	Śaktiratnākara	Title
+07:32	Śak.	Śakuntalā	Title
+07:33	SV.	Sāma-veda	Title
+07:34	SVĀr.	Sāma-veda-āraṇyaka	Title
+07:35	SāmavBr.	Sāma-vidhāna-brāhmaṇa	Title
+07:36	ŚambhMāh.	Śambhalagrāma-māhātmya	Title
+07:37	Saṃgīt.	Saṃgīta-sārasaṃgraha	Title
+07:37x	Saṃg.	Saṃgīta-sārasaṃgraha	Title
+07:37y	Saṃgītas.	Saṃgīta-sārasaṃgraha	Title
+07:38	SaṃhUp.	Saṃhitā-upaniṣad-brāhmaṇa	Title
+07:38x	SaṃhitUp.	Saṃhitā-upaniṣad-brāhmaṇa	Title
+07:38y	Saṃhitop.	Saṃhitā-upaniṣad-brāhmaṇa	Title
+07:39	Śaṃkar.	Śaṃkara-vijaya	Title
+07:40	Sāṃkhyak.	Sāṃkhyakārikā	Title
+07:40x	Sāṅkhyak.	Sāṃkhyakārikā	Title
+08:01	Sāṃkhyapr.	Sāṃkhyapravacana	Title
+08:02	SŚaṃkar.	Saṃkṣepa-śaṃkara-vijaya	Title
+08:02x	SŚaṃk.	Saṃkṣepa-śaṃkara-vijaya	Title
+08:03	Saṃskārak.	Saṃskārakaustubha	Title
+08:04	ŚāṅkhBr.	Śāṅkhāyana-brāhmaṇa	Title
+08:05	ŚāṅkhGṛ.	Śāṅkhāyana-gṛhya-sūtra	Title
+08:06	ŚāṅkhŚr.	Śāṅkhāyana-śrauta-sūtra	Title
+08:07	Śāntik.	Śāntikalpa	Title
+08:08	Śāntiś.	Śāntiśataka	Title
+08:09	Śārad.	Śāradā-tilaka	Title
+08:10	Sarasv.	Sarasvatī-kaṇṭhābharaṇa, by Bhoja	Title
+08:11	Sarasv.2.	Sarasvatī-kaṇṭhābharaṇa, by Kṣemendra	Title
+08:12	ŚārṅgP.	Śārṅgadhara-paddhati	Title
+08:13	ŚārṅgS.	Śārṅgadhara-saṃhitā	Title
+08:14	Sarvad.	Sarvadarśana-saṃgraha	Title
+08:14x	Sarv.	Sarvadarśana-saṃgraha	Title
+08:15	SarvUp.	Sarva-upaniṣat-sāra	Title
+08:16	ŚBr.	Śatapatha-brāhmaṇa	Title
+08:17	ŚatarUp.	Śatarudriya-upaniṣad	Title
+08:18	Śatr.	Śatruṃjaya-māhātmya	Title
+08:19	SauraP.	Saura-purāṇa	Title
+08:20	Sāy.	Sāyaṇa	Author
+08:21	Setub.	Setubandha	Title
+08:22	Ṣaḍguruś.	Ṣaḍguruśiṣya	Title
+08:23	ṢaḍvBr.	Ṣaḍviṃśa-brāhmaṇa	Title
+08:24	Siddh.	Siddhānta-kaumudī	Title
+08:25	Siddhântaś.	Siddhāntaśiromaṇi	Title
+08:25x	SiddhŚir.	Siddhāntaśiromaṇi	Title
+08:26	Śikṣ.	Śikṣā	Literary category
+08:27	Śikṣāp.	Śikṣāpattrī	Title
+08:28	Śīl.	Śīlāṅka	Author
+08:29	Siṉhâs.	Siṃhāsana-dvātriṃśikā or Vikramāditya-caritra, Jaina recension	Title
+08:30	Siṃhās.2.	Siṃhāsana-dvātriṃśikā, metrical recension of the Ind. Off., E.I.H.2897	Title
+08:31	Siṃhās.3.	Siṃhāsana-dvātriṃśikā, recension of E.I.H.2523	Title
+08:32	ŚiraUp.	Śira-upaniṣad	Title
+08:33	Śiś.	Śiśupāla-vadha	Title
+08:34	Śivag.	Śivagītā, ascribed to the Padma-purāṇa	subtitle
+08:35	ŚivaP.	Śiva-purāṇa	Title
+08:35x	ŚivP.	Śiva-purāṇa	Title
+08:36	SkandaP.	Skanda-purāṇa	Title
+08:37	Smṛtik.	Smṛtikaumudī	Title
+08:38	Smṛtit.	Smṛtitattva; the numbers xxix & xxx mark the additional texts Graha-yajña and Tīrtha-yātrā	Title
+09:01	Śrāddhak.	Śrāddhakalpa-bhāṣya	Title
+09:01x	Kalpabh.	Śrāddhakalpa-bhāṣya	Title
+09:02x	Śr.	Śrauta-sūtra	Literary category
+09:02y	ŚrS.	Śrauta-sūtra	Literary category
+09:03	Śrīkaṇṭh.	Śrīkaṇṭha-carita	Title
+09:04	ŚrīmMāh.	Śrīmāla-māhātmya	Title
+09:05	Śṛṅgār.	Śṛṅgāra-tilaka	Title
+09:05x	Śṛṅgārat.	Śṛṅgāra-tilaka	Title
+09:06	Śrutab.	Śrutabodha	Title
+09:06x	Śrut.	Śrutabodha	Title
+09:07	Subh.	Subhāṣitāvali	Title
+09:07x	Subhāṣ.	Subhāṣitāvali	Title
+09:08	Śukas.	Śukasaptati	Title
+09:08x	Śuk.	Śukasaptati	Title
+09:09	Sukh.	Sukhāvatī-vyūha	Title
+09:10	Śulbas.	Śulba-sūtra	Literary category
+09:10x	Śulb.	Śulba-sūtra	Literary category
+09:11	Suparṇ.	Suparṇādhyāya	Title
+09:12	Sūryad.	Sūryadeva-yajvan	Title
+09:13	Sūryapr.	Sūryaprajñapti	Title
+09:13x	Sūryap.	Sūryaprajñapti	Title
+09:14	Sūryas.	Sūryasiddhānta	Title
+09:15	Suśr.	Suśruta	Title
+09:15x	Śuśr.	Suśruta	Title
+09:16	Suvarṇapr.	Suvarṇaprabhāsa	Title
+09:17	Svapnac.	Svapnacintāmaṇi	Title
+09:18	ŚvetUp.	Śvetāśvatara-upaniṣad	Title
+09:19	TĀr.	Taittirīya-āraṇyaka	Title
+09:19x	TaittĀr.	Taittirīya-āraṇyaka	Title
+09:20	TBr.	Taittirīya-brāhmaṇa	Title
+09:20x	TB.	Taittirīya-brāhmaṇa	Title
+09:21	TPrāt.	Taittirīya-prātiśākhya	Title
+09:22	TS.	Taittirīya-saṃhitā	Title
+09:23	TUp.	Taittirīya-upaniṣad	Title
+09:24	Tāj.	Tājaka	Literary category
+09:25	TāṇḍyaBr.	Tāṇḍya-brāhmaṇa	Title
+09:25x	TāṇḍBr.	Tāṇḍya-brāhmaṇa	Title
+09:26	Tantras.	Tantrasāra	Title
+09:26x	Tantra.	Tantrasāra	Title
+09:27	T.	TārānāthaTarkavācaspati's Vācaspatyam, Sanskrit dictionary	Title
+09:28	Tarkas.	Tarkasaṃgraha	Title
+09:29	Tattvas.	Tattvasamāsa	Title
+09:30	TejobUp.	Tejobindu-upaniṣad	Title
+09:31	Tīrtha-yātrā.	Tīrtha-yātrā see Smṛtitattva under Smṛtit	subtitle
+09:32	Tithyād.	Tithyāditya	Title
+09:33	Ṭoḍar.	Ṭoḍarānanda	Title
+09:34	Uṇk.	Uṇādikalpa	Title
+09:35	Uṇ,Sch..	Uṇādi-sūtra,Sch.i.e.Ujjvaladatta	Author
+09:36	Uṇ.	Uṇādi-sūtra	Title
+09:37	Uṇvṛ.	Uṇādi-vṛtti	Title
+09:38	Up.	Upaniṣad	Literary category
+09:39	Upap.	Upapurāṇa	Literary category
+09:40	UtkalaKh.	Utkala khaṇḍa	subtitle
+09:41	Uttamac.	Uttamacaritra-kathānaka, prose version	Title
+09:42	Uttamac.2	2 Uttamacaritra in about 700 verses	Title
+09:43	Uttarar.	Uttararāma-carita	Title
+09:43x	Uttar.	Uttararāma-carita	Title
+09:44	Vāgbh.	Vāgbhaṭālaṃkāra	Title
+09:45	VahniP.	Vahni-purāṇa	Title
+10:01	Vait.	Vaitāna-sūtra	Title
+10:01x	Vaitān.	Vaitāna-sūtra	Title
+10:02	VS.	Vājasaneyi-saṃhitā	Title
+10:03	VPrāt.	Vājasaneyi-saṃhitā-prātiśākhya	Title
+10:04	Vajracch.	Vajracchedikā	Title
+10:05	Vajras.	Vajrasūci	Title
+10:05x	Vajr.	Vajrasūci	Title
+10:06	VāmP.	Vāmana-purāṇa	Title
+10:07	Vām.	Vāmana's Kāvyālaṃkāravṛtti	Title
+10:08	VBr.	Vaṃśa-brāhmaṇa	Title
+10:09	VarBṛ.	Varāha-mihira's Bṛhajjātaka	Title
+10:10	VarBṛS.	Varāha-mihira's Bṛhat-saṃhitā	Title
+10:11	VarYogay.	Varāha-mihira's Yogayātrā	Title
+10:12	VarP.	Varāha-purāṇa	Title
+10:12x	VārP.	Varāha-purāṇa	Title
+10:13	Vārāhīt.	Vārāhītantra	Title
+10:14	Vasantar.	Vasantarāja's Śākuna	Title
+10:15	Vāsant.	Vāsantikā	Title
+10:16	Vās.	Vāsavadattā	Title
+10:16x	Vāsav.	Vāsavadattā	Title
+10:17	Vas.	Vasiṣṭha	Author
+10:18	Vāstuv.	Vāstuvidyā	Literary category
+10:19	Vātsyāy.	Vātsyāyana	Author
+10:19x	Vātsy.	Vātsyāyana	Author
+10:20	VāyuP.	Vāyu-purāṇa	Title
+10:21	Vedântap.	Vedāntaparibhāṣā	Title
+10:21x	Vedântaparibh.	Vedāntaparibhāṣā	Title
+10:22	Vedāntas.	Vedāntasāra	Title
+10:22X	Vedântas.	Vedāntasāra	Title
+10:22x	Vedânt.	Vedāntasāra	Title
+10:23	Vet.	Vetāla-pañcaviṃśatikā	Title
+10:24	Viddh.	Viddhaśālabhañjikā	Title
+10:25	Vcar.	Vikramāṅkadeva-carita, by Bilhaṇa	Title
+10:26	Vikr.	Vikramorvaśī	Title
+10:27	Vīrac.	Vīracarita	Title
+10:28	VP.	Viṣṇu-purāṇa	Title
+10:28x	ViṣṇuP.	Viṣṇu-purāṇa	Title
+10:29	Viṣṇ.	Viṣṇu-smṛti, Viṣṇu-sūtra, Vaiṣṇava-dharma-śāstra	Title
+10:29x	Viṣṇus.	Viṣṇu-smṛti, Viṣṇu-sūtra, Vaiṣṇava-dharma-śāstra	Title
+10:30	Viśvan.	ViśvanāthaDaivajña	Author
+10:31	Vop.	Vopadeva	Author
+10:32	Vṛṣabhān.	Vṛṣabhānujā-nāṭikā, by Mathurā-dāsa	Title
+10:32X	Vṛṣabhân.	Vṛṣabhānujā-nāṭikā, by Mathurā-dāsa	Title
+10:32x	Vṛṣabh.	Vṛṣabhānujā-nāṭikā, by Mathurā-dāsa	Title
+10:33	Vyavahārat.	Vyavahāratattva	Title
+10:34	W.	Horace H. Wilson	Author
+10:35	Yājñ.	Yājñavalkya	Author
+10:36	Yājñ.,Sch..	Vijñāneśvara's Mitākṣarā, commentary on Yājñavalkya-dharma-śāstra	Title
+10:37	YogaśUp.	Yogaśikhā-upaniṣad	Title
+10:37x	ŚikhUp.	Yogaśikhā-upaniṣad	Title
+10:38	Yogas.	Yoga-sūtra	Title
+10:39	YogatUp.	Yogatattva-upaniṣad	Title
+10:40	Yogavās.	Yogavāsiṣṭha-sāra	Title
+11:01	Āpast.	Āpastamba	Author
+11:02	ĀpGṛ.	Āpastamba-gṛhya-sūtra	Title
+11:03	AdhyR.	AdhyātmaRāmāyaṇa	Title
+11:04	Ait.	Aitareya	Title
+11:05	Cat.	Catalogue(s)	Title
+11:06	Haṭhapr.	Haṭha-pra-dīpikā	Title
+11:07	Il.	Iliad	Title
+11:08	Inscr.	Inscriptions	Title
+11:09	IndSt.	Indische Studien by A. Weber	Title
+11:10	Kap.	Kapila	Author
+11:11	Lokapr.	Loka-prakāśa	Title
+11:12	Nyāyas.	Nyāyasūtra	Title
+11:13	PañcavBr.	Pañca-viṃśa-brāhmaṇa	Title
+11:14	Śārṅg.	Śārṅgadhara	Author
+11:15	Śaṃk.	Śaṃkarācārya	Author
+11:16	Śiva.	Śiva-sūtra	Title
+11:17	Var.	Varāha-mihira	Author
+11:18	Veṇīs.	Veṇī-saṃhāra	Title
+11:19	Vratapr.	Vrata-prakāśa	Title
+11:20	Ār.	Āraṇyaka	Literary category
+11:21	Dāyakramas.	Dāya-krama-saṃgraha	Title
+11:22	Dattakac.	Dattakacandrikā	Title
+11:23	Deśīn.	Deśī-nāma-mālā	Title
+11:24	Gaṇap.	Gaṇa-pāṭha	Title
+11:25	GobhGṛ.	Gobhila'sGṛhya-sūtra	Title
+11:26	Hastar.	Hasta-ratnāvalī	Title
+11:27	Jñātādh.	Jñātā-dharma-kathā	Title
+11:28	KāṭhAnukr.	Kāṭhaka anukramaṇī	Title
+11:29	Kusum.	Kusumāñjali	Title
+11:30	LāṭyŚr.	Lāṭyāyana-śrauta-sūtra	Title
+11:31	Mahāvy.	Mahā-vyutpatti	Title
+11:32	SV.Pariś.	Soma-veda-pariśiṣṭa	Title
+11:33	Āśv.	Āśvalāyana	Author
+11:34	DrāhyŚr.	Drāhyāyaṇa-śrauta-sūtra	Title
+11:35	Mit.	Mitākṣarā	Title
+11:36	Ratnak.	Ratnakoṣa	Title
+11:37	Śaṃkaracetov.	Śaṃkara-cetovilāsa	Title
+11:38	Śrāddhac.	Śrāddha-candrikā	Title
+11:39	Śūdradh.	Śūdra-dharma-tattva	Title
+11:40	SaṃnyUp.	Saṃnyāsa-upaniṣad	Title
+11:41	TAnukr.	Taittirīya-anukramaṇī	Title
+11:42	TaṇḍināmUp.	Taṇḍinām-upaniṣad	Title
+11:43	TśUp.	Triśikhi-brāhmaṇa-upaniṣad	Title
+11:44	Udbh.	Udbhaṭa	Author
+11:45	Upal.	Upalekha	Literary category
+11:46	V.	Vārāhas	Literary category
+11:47	Vākyap.	Vākyapadīya	Title
+11:48	Vaidyajīv.	Vaidyajīvana	Title
+11:48x	Vaidyaj.	Vaidyajīvana	Title
+11:49	Vallabh.	Vallabha	Author
+11:50	Vidvanm.	Vidvan--moda-taraṃgiṇī	Title
+11:51	YajurV.	Yajur-veda	Literary category
+11:52	K.	Kielhorn	Author
+11:53	Śāṇḍ.	Śāṇḍilya-bhaktisūtra [Cologne Addition]	Title
+11:54	Alaṃkārar.	Alaṃkāraratnākara	Title
+11:55?	Kār.	Hari-kārikās, the kārikās of Bhartṛ-hari	Title
+11:56	Madanap.	Madanapārijāta	Title

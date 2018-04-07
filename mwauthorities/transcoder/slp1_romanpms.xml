@@ -1,0 +1,331 @@
+<fsm start='SKT' inputDecoding='UTF-8' outputEncoding='UTF-8'>
+<!-- modified Nov 24, 2013 
+ This file is essentially from pms.
+ ejf adapted his coding.
+ The file contains all the <e> elements from pms, slightly adjusted
+ to be processed by the php transcoder program.
+  <e n='215'> <in>{a^}</in> <out>A\u0302</out> <cl>char</cl></e>
+  is converted to
+  <e n='215'> <s>SKT</s> <in>{a^}</in> <out>A\u0302</out></e>
+  It remains to be seen whether this gives desired output.
+
+-->
+<!-- SLP1 to Roman using combining diacritic in accordance with preferred Unicode policy -->
+<!-- Anything in brackets will be passed through with brackets removed. -->
+<!-- PMS 2012-08-09: changed double uppercase to uppercase + lowercase for uppercase aspirates -->
+<!-- PMS 2012-08-09: corrected retroflex l, lh to l+underdot and vocalic r, l to r, l+underring -->
+<!-- PMS 2012-08-09: added jihvamuliya Z and upadhmaniya V -->
+<!-- PMS 2012-08-09: regrouped characters in Sanskrit alphabetic order and renumbered -->
+<!-- PMS 2012-08-09: accents made live; svarita maps to circumflex with double circumflex over diphthongs, backslash to grave -->
+<!-- PMS 2012-08-10: added uppercase accents -->
+<!-- PMS 2012-08-14: added mapping of simple nasalization and accent modifiers -->
+<e n='0'> <s>SKT</s> <in>a</in> <out>a</out> </e>
+<e n='1'> <s>SKT</s> <in>{a}</in> <out>A</out> </e>
+<e n='2'> <s>SKT</s> <in>A</in> <out>a\u0304</out> </e>
+<e n='3'> <s>SKT</s> <in>{A}</in> <out>A\u0304</out> </e>
+
+<e n='4'> <s>SKT</s> <in>i</in> <out>i</out> </e>
+<e n='5'> <s>SKT</s> <in>{i}</in> <out>I</out> </e>
+<e n='6'> <s>SKT</s> <in>I</in> <out>i\u0304</out> </e>
+<e n='7'> <s>SKT</s> <in>{I}</in> <out>I\u0304</out> </e>
+<!-- Preceded by a vowel -->
+<!--e n='8'> <in>({?[aAiIuUfFxXeEoO]}?)i</in> <out>\1i\u0308</out></e-->
+<!-- xxxxx ask Ralph -->
+<!--e n='8'> <in>i</in> <out>i\u0308</out></e-->
+<!-- Latin lowercase letter i + diaeresis \u0308 -->
+<!--e n='9'> <in>{i}</in> <out>I\u0308</out></e-->
+<!-- Latin uppercase letter I + diaeresis \u0308 -->
+<!--e n='10'> <in>I</in> <out>i\u0304\u0308</out></e-->
+<!-- Latin lowercase letter i + \u0304 macron + diaeresis \u0308 -->
+<!--e n='11'> <in>{I}</in> <out>I\u0304\u0308</out></e-->
+<!-- Latin uppercase letter I + \u0304 macron + diaeresis \u0308 -->
+
+<e n='12'> <s>SKT</s> <in>u</in> <out>u</out> </e>
+<e n='13'> <s>SKT</s> <in>{u}</in> <out>U</out> </e>
+<e n='14'> <s>SKT</s> <in>U</in> <out>u\u0304</out> </e>
+<e n='15'> <s>SKT</s> <in>{U}</in> <out>U\u0304</out> </e>
+<!-- Preceded by a vowel -->
+<!--e n='16'> <s>SKT</s> <in>u</in> <out>u\u0308</out></e-->
+<!-- Latin lowercase letter u + diaeresis \u0308 -->
+<!--e n='17'> <s>SKT</s> <in>{u}</in> <out>U\u0308</out></e-->
+<!-- Latin uppercase letter U + diaeresis \u0308 -->
+<!--e n='18'> <s>SKT</s> <in>U</in> <out>u\u0304\u0308</out></e-->
+<!-- Latin lowercase letter u + \u0304 macron + diaeresis \u0308 -->
+<!--e n='19'> <s>SKT</s> <in>{U}</in> <out>U\u0304\u0308</out></e-->
+<!-- Latin uppercase letter U + \u0304 macron + diaeresis \u0308 -->
+
+<e n='20'> <s>SKT</s> <in>f</in> <out>r\u0325</out> </e>
+<e n='21'> <s>SKT</s> <in>{f}</in> <out>R\u0325</out> </e>
+<e n='22'> <s>SKT</s> <in>F</in> <out>r\u0325\u0304</out> </e>
+<e n='23'> <s>SKT</s> <in>{F}</in> <out>R\u0325\u0304</out> </e>
+<!-- \u0325 combining ring below + \u0304 macron -->
+
+<e n='24'> <s>SKT</s> <in>x</in> <out>l\u0325</out> </e>
+<e n='25'> <s>SKT</s> <in>{x}</in> <out>L\u0325</out> </e>
+<e n='26'> <s>SKT</s> <in>X</in> <out>l\u0325\u0304</out> </e>
+<e n='27'> <s>SKT</s> <in>{X}</in> <out>L\u0325\u0304</out> </e>
+<!-- l or L + \u0325 combining ring below + \u0304 macron -->
+
+<e n='28'> <s>SKT</s> <in>e</in> <out>e</out> </e>
+<e n='29'> <s>SKT</s> <in>{e}</in> <out>E</out> </e>
+<e n='30'> <s>SKT</s> <in>E</in> <out>ai</out> </e>
+<e n='31'> <s>SKT</s> <in>{E}</in> <out>Ai</out> </e>
+
+<e n='32'> <s>SKT</s> <in>o</in> <out>o</out> </e>
+<e n='33'> <s>SKT</s> <in>{o}</in> <out>O</out> </e>
+<e n='34'> <s>SKT</s> <in>O</in> <out>au</out> </e>
+<e n='35'> <s>SKT</s> <in>{O}</in> <out>Au</out> </e>
+
+<e n='36'> <s>SKT</s> <in>k</in> <out>k</out> </e>
+<e n='37'> <s>SKT</s> <in>{k}</in> <out>K</out> </e>
+<e n='38'> <s>SKT</s> <in>K</in> <out>kh</out> </e>
+<e n='39'> <s>SKT</s> <in>{K}</in> <out>Kh</out> </e>
+<e n='40'> <s>SKT</s> <in>g</in> <out>g</out> </e>
+<e n='41'> <s>SKT</s> <in>{g}</in> <out>G</out> </e>
+<e n='42'> <s>SKT</s> <in>G</in> <out>gh</out> </e>
+<e n='43'> <s>SKT</s> <in>{G}</in> <out>Gh</out> </e>
+<e n='44'> <s>SKT</s> <in>N</in> <out>n\u0307</out> </e>
+<e n='45'> <s>SKT</s> <in>{N}</in> <out>N\u0307</out> </e><!-- combining dot above -->
+
+<e n='46'> <s>SKT</s> <in>c</in> <out>c</out> </e>
+<e n='47'> <s>SKT</s> <in>{c}</in> <out>C</out> </e>
+<e n='48'> <s>SKT</s> <in>C</in> <out>ch</out> </e>
+<e n='49'> <s>SKT</s> <in>{C}</in> <out>Ch</out> </e>
+<e n='50'> <s>SKT</s> <in>j</in> <out>j</out> </e>
+<e n='51'> <s>SKT</s> <in>{j}</in> <out>J</out> </e>
+<e n='52'> <s>SKT</s> <in>J</in> <out>jh</out> </e>
+<e n='53'> <s>SKT</s> <in>{J}</in> <out>Jh</out> </e>
+<e n='54'> <s>SKT</s> <in>Y</in> <out>n\u0303</out> </e>
+<e n='55'> <s>SKT</s> <in>{Y}</in> <out>N\u0303</out> </e>
+
+<e n='56'> <s>SKT</s> <in>w</in> <out>t\u0323</out> </e>
+<e n='57'> <s>SKT</s> <in>{w}</in> <out>T\u0323</out> </e>
+<e n='58'> <s>SKT</s> <in>W</in> <out>t\u0323h</out> </e>
+<e n='59'> <s>SKT</s> <in>{W}</in> <out>T\u0323h</out> </e>
+<e n='60'> <s>SKT</s> <in>q</in> <out>d\u0323</out> </e>
+<e n='61'> <s>SKT</s> <in>{q}</in> <out>D\u0323</out> </e>
+<e n='62'> <s>SKT</s> <in>L</in> <out>l\u0323</out> </e>
+<e n='63'> <s>SKT</s> <in>{L}</in> <out>L\u0323</out> </e>
+<!-- lowercase l + dot below; uppercase L + dot below -->
+<e n='64'> <s>SKT</s> <in>Q</in> <out>d\u0323h</out> </e>
+<e n='65'> <s>SKT</s> <in>{Q}</in> <out>D\u0323h</out> </e>
+<e n='66'> <s>SKT</s> <in>|</in> <out>l\u0323h</out> </e>
+<e n='67'> <s>SKT</s> <in>{|}</in> <out>L\u0323h</out> </e>
+<!-- lowercase l + dot below + h; uppercase L + dot below + h -->
+<e n='68'> <s>SKT</s> <in>R</in> <out>n\u0323</out> </e>
+<e n='69'> <s>SKT</s> <in>{R}</in> <out>N\u0323</out> </e>
+
+<e n='70'> <s>SKT</s> <in>t</in> <out>t</out> </e>
+<e n='71'> <s>SKT</s> <in>{t}</in> <out>T</out> </e>
+<e n='72'> <s>SKT</s> <in>T</in> <out>th</out> </e>
+<e n='73'> <s>SKT</s> <in>{T}</in> <out>Th</out> </e>
+<e n='74'> <s>SKT</s> <in>d</in> <out>d</out> </e>
+<e n='75'> <s>SKT</s> <in>{d}</in> <out>D</out> </e>
+<e n='76'> <s>SKT</s> <in>D</in> <out>dh</out> </e>
+<e n='77'> <s>SKT</s> <in>{D}</in> <out>Dh</out> </e>
+<e n='78'> <s>SKT</s> <in>n</in> <out>n</out> </e>
+<e n='79'> <s>SKT</s> <in>{n}</in> <out>N</out> </e>
+
+<e n='80'> <s>SKT</s> <in>p</in> <out>p</out> </e>
+<e n='81'> <s>SKT</s> <in>{p}</in> <out>P</out> </e>
+<e n='82'> <s>SKT</s> <in>P</in> <out>ph</out> </e>
+<e n='83'> <s>SKT</s> <in>{P}</in> <out>Ph</out> </e>
+<e n='84'> <s>SKT</s> <in>b</in> <out>b</out> </e>
+<e n='85'> <s>SKT</s> <in>{b}</in> <out>B</out> </e>
+<e n='86'> <s>SKT</s> <in>B</in> <out>bh</out> </e>
+<e n='87'> <s>SKT</s> <in>{B}</in> <out>Bh</out> </e>
+<e n='88'> <s>SKT</s> <in>m</in> <out>m</out> </e>
+<e n='89'> <s>SKT</s> <in>{m}</in> <out>M</out> </e>
+
+<e n='90'> <s>SKT</s> <in>y</in> <out>y</out> </e>
+<e n='91'> <s>SKT</s> <in>{y}</in> <out>Y</out> </e>
+<e n='92'> <s>SKT</s> <in>r</in> <out>r</out> </e>
+<e n='93'> <s>SKT</s> <in>{r}</in> <out>R</out> </e>
+<e n='94'> <s>SKT</s> <in>l</in> <out>l</out> </e>
+<e n='95'> <s>SKT</s> <in>{l}</in> <out>L</out> </e>
+<e n='96'> <s>SKT</s> <in>v</in> <out>v</out> </e>
+<e n='97'> <s>SKT</s> <in>{v}</in> <out>V</out> </e>
+
+<e n='98'> <s>SKT</s> <in>S</in> <out>s\u0301</out> </e>
+<e n='99'> <s>SKT</s> <in>{S}</in> <out>S\u0301</out> </e>
+<e n='100'> <s>SKT</s> <in>z</in> <out>s\u0323</out> </e>
+<e n='101'> <s>SKT</s> <in>{z}</in> <out>S\u0323</out> </e>
+<e n='102'> <s>SKT</s> <in>s</in> <out>s</out> </e>
+<e n='103'> <s>SKT</s> <in>{s}</in> <out>S</out> </e>
+<e n='104'> <s>SKT</s> <in>h</in> <out>h</out> </e>
+<e n='105'> <s>SKT</s> <in>{h}</in> <out>H</out> </e>
+
+<e n='106'> <s>SKT</s> <in>H</in> <out>h\u0323</out> </e>
+<e n='107'> <s>SKT</s> <in>{H}</in> <out>H\u0323</out> </e>
+<e n='108'> <s>SKT</s> <in>Z</in> <out>h\u0331</out> </e>
+<e n='109'> <s>SKT</s> <in>{Z}</in> <out>H\u0331</out> </e><!-- combining macron below -->
+<e n='110'> <s>SKT</s> <in>V</in> <out>h\u032c</out> </e>
+<e n='111'> <s>SKT</s> <in>{V}</in> <out>H\u032c</out> </e><!-- combining caron below -->
+<e n='112'> <s>SKT</s> <in>M</in> <out>m\u0307</out> </e>
+<e n='113'> <s>SKT</s> <in>{M}</in> <out>M\u0307</out> </e><!-- combining dot above -->
+
+<e n='114'> <s>SKT</s> <in>'</in> <out>\u2019</out> </e><!-- apostrophe (single curly close quote) -->
+<e n='115'> <s>SKT</s> <in>~</in> <out>\u0303</out> </e><!-- combining tilde -->
+<e n='116'> <s>SKT</s> <in>/</in> <out>\u0301</out> </e><!-- combining acute -->
+<e n='117'> <s>SKT</s> <in>^</in> <out>\u0302</out> </e><!-- combining circumflex -->
+<e n='118'> <s>SKT</s> <in>\</in> <out>\u0300</out> </e><!-- combining grave -->
+<e n='119'> <s>SKT</s> <in>?</in> <out>?</out> </e><!-- PMS: indicates a doubtful reading. -->
+<!--e n='119'> <s>SKT</s> <in>hack1</in> <out></out></e-->
+
+<e n='120'> <s>SKT</s> <in>\u0020</in> <out>\u0020</out> </e>
+<e n='121'> <s>SKT</s> <in>\u0009</in> <out>\u0009</out> </e>
+<e n='122'> <s>SKT</s> <in>\u000d</in> <out>\u000d</out> </e>
+<e n='123'> <s>SKT</s> <in>\u000a</in> <out>\u000a</out> </e>
+
+<e n='124'> <s>SKT</s> <in>-</in> <out>-</out> </e>
+<e n='125'> <s>SKT</s> <in>.</in> <out>.</out> </e>
+<!-- e n='126'> <s>SKT</s> <in>,</in> <out>,</out> </e -->
+<!-- e n='127'> <s>SKT</s> <in>;</in> <out>;</out> </e -->
+
+<e n='130'> <s>SKT</s> <in>0</in> <out>0</out> </e>
+<e n='131'> <s>SKT</s> <in>1</in> <out>1</out> </e>
+<e n='132'> <s>SKT</s> <in>2</in> <out>2</out> </e>
+<e n='133'> <s>SKT</s> <in>3</in> <out>3</out> </e>
+<e n='134'> <s>SKT</s> <in>4</in> <out>4</out> </e>
+<e n='135'> <s>SKT</s> <in>5</in> <out>5</out> </e>
+<e n='136'> <s>SKT</s> <in>6</in> <out>6</out> </e>
+<e n='137'> <s>SKT</s> <in>7</in> <out>7</out> </e>
+<e n='138'> <s>SKT</s> <in>8</in> <out>8</out> </e>
+<e n='139'> <s>SKT</s> <in>9</in> <out>9</out> </e>
+
+<!-- accents follow LIES spec of slp1 -->
+<e n='141'> <s>SKT</s> <in>a/</in> <out>a\u0301</out> </e>
+<e n='142'> <s>SKT</s> <in>i/</in> <out>i\u0301</out> </e>
+<e n='143'> <s>SKT</s> <in>u/</in> <out>u\u0301</out> </e>
+<e n='144'> <s>SKT</s> <in>f/</in> <out>r\u0325\u0301</out> </e><!-- r + combining ring below + acute -->
+<e n='145'> <s>SKT</s> <in>x/</in> <out>l\u0325\u0301</out> </e><!-- l + combining ring below + acute -->
+<e n='146'> <s>SKT</s> <in>A/</in> <out>a\u0304\u0301</out> </e>
+<e n='147'> <s>SKT</s> <in>I/</in> <out>i\u0304\u0301</out> </e>
+<e n='148'> <s>SKT</s> <in>U/</in> <out>u\u0304\u0301</out> </e>
+<e n='149'> <s>SKT</s> <in>F/</in> <out>r\u0325\u0304\u0301</out> </e><!-- r + combining ring below + macron + acute -->
+<e n='150'> <s>SKT</s> <in>X/</in> <out>l\u0325\u0304\u0301</out> </e><!-- l + combining ring below + macron + acute -->
+<e n='151'> <s>SKT</s> <in>e/</in> <out>e\u0301</out> </e>
+<e n='152'> <s>SKT</s> <in>o/</in> <out>o\u0301</out> </e>
+<e n='153'> <s>SKT</s> <in>E/</in> <out>ai\u0301</out> </e>
+<e n='154'> <s>SKT</s> <in>O/</in> <out>au\u0301</out> </e>
+
+<!-- svarita mapped to circumflex accent -->
+<e n='155'> <s>SKT</s> <in>a^</in> <out>a\u0302</out> </e>
+<e n='156'> <s>SKT</s> <in>i^</in> <out>i\u0302</out> </e>
+<e n='157'> <s>SKT</s> <in>u^</in> <out>u\u0302</out> </e>
+<e n='158'> <s>SKT</s> <in>f^</in> <out>r\u0325\u0302</out> </e><!-- r + combining ring below + circumflex -->
+<e n='159'> <s>SKT</s> <in>x^</in> <out>l\u0325\u0302</out> </e><!-- l + combining ring below + circumflex -->
+<e n='160'> <s>SKT</s> <in>A^</in> <out>a\u0304\u0302</out> </e>
+<e n='161'> <s>SKT</s> <in>I^</in> <out>i\u0304\u0302</out> </e>
+<e n='162'> <s>SKT</s> <in>U^</in> <out>u\u0304\u0302</out> </e>
+<e n='163'> <s>SKT</s> <in>F^</in> <out>r\u0325\u0304\u0302</out> </e><!-- r + combining ring below + macron + circumflex -->
+<e n='164'> <s>SKT</s> <in>X^</in> <out>l\u0325\u0304\u0302</out> </e><!-- l + combining ring below + macron + circumflex -->
+<e n='165'> <s>SKT</s> <in>e^</in> <out>e\u0302</out> </e>
+<e n='166'> <s>SKT</s> <in>o^</in> <out>u\u0302</out> </e>
+<!-- ejf: these don't display properly
+<e n='167'> <s>SKT</s> <in>E^</in> <out>a\u1dcdi</out> </e>
+<e n='168'> <s>SKT</s> <in>O^</in> <out>a\u1dcdu</out> </e>
+-->
+<!-- \u0302 displays combining '^'.  It is put over the last letter of
+ the diphthong, in conformity with E\, O\ and E/,O/. 
+-->
+<e n='167'> <s>SKT</s> <in>E^</in> <out>ai\u0302</out> </e>
+<e n='168'> <s>SKT</s> <in>O^</in> <out>au\u0302</out> </e>
+
+<!-- \u1dcd combining double circumflex above -->
+
+<!-- grave accent mark mapped to backslash -->
+<e n='169'> <s>SKT</s> <in>a\</in> <out>a\u0300</out> </e>
+<e n='170'> <s>SKT</s> <in>i\</in> <out>i\u0300</out> </e>
+<e n='171'> <s>SKT</s> <in>u\</in> <out>u\u0300</out> </e>
+<e n='172'> <s>SKT</s> <in>f\</in> <out>r\u0325\u0300</out> </e><!-- r + combining ring below + grave -->
+<e n='173'> <s>SKT</s> <in>x\</in> <out>l\u0325\u0300</out> </e><!-- l + combining ring below + grave -->
+<e n='174'> <s>SKT</s> <in>A\</in> <out>a\u0304\u0300</out> </e>
+<e n='175'> <s>SKT</s> <in>I\</in> <out>i\u0304\u0300</out> </e>
+<e n='176'> <s>SKT</s> <in>U\</in> <out>u\u0304\u0300</out> </e>
+<e n='177'> <s>SKT</s> <in>F\</in> <out>r\u0325\u0304\u0300</out> </e><!-- r + combining ring below + macron + grave -->
+<e n='178'> <s>SKT</s> <in>X\</in> <out>l\u0325\u0304\u0300</out> </e><!-- l + combining ring below + macron + grave -->
+<e n='179'> <s>SKT</s> <in>e\</in> <out>e\u0300</out> </e>
+<e n='180'> <s>SKT</s> <in>o\</in> <out>o\u0300</out> </e>
+<e n='181'> <s>SKT</s> <in>E\</in> <out>ai\u0300</out> </e>
+<e n='182'> <s>SKT</s> <in>O\</in> <out>au\u0300</out> </e>
+
+<!-- Capital letter accented and nasalized vowels and semivowels -->
+<e n='201'> <s>SKT</s> <in>{a/}</in> <out>A\u0301</out> </e>
+<e n='202'> <s>SKT</s> <in>{i/}</in> <out>I\u0301</out> </e>
+<e n='203'> <s>SKT</s> <in>{u/}</in> <out>U\u0301</out> </e>
+<e n='204'> <s>SKT</s> <in>{f/}</in> <out>R\u0325\u0301</out> </e><!-- R + combining ring below + acute -->
+<e n='205'> <s>SKT</s> <in>{x/}</in> <out>L\u0325\u0301</out> </e><!-- L + combining ring below + acute -->
+<e n='206'> <s>SKT</s> <in>{A/}</in> <out>A\u0304\u0301</out> </e>
+<e n='207'> <s>SKT</s> <in>{I/}</in> <out>I\u0304\u0301</out> </e>
+<e n='208'> <s>SKT</s> <in>{U/}</in> <out>U\u0304\u0301</out> </e>
+<e n='209'> <s>SKT</s> <in>{F/}</in> <out>R\u0325\u0304\u0301</out> </e><!-- R + combining ring below + macron + acute -->
+<e n='210'> <s>SKT</s> <in>{X/}</in> <out>L\u0325\u0304\u0301</out> </e><!-- L + combining ring below + macron + acute -->
+<e n='211'> <s>SKT</s> <in>{e/}</in> <out>E\u0301</out> </e>
+<e n='212'> <s>SKT</s> <in>{o/}</in> <out>O\u0301</out> </e>
+<e n='213'> <s>SKT</s> <in>{E/}</in> <out>Ai\u0301</out> </e>
+<e n='214'> <s>SKT</s> <in>{O/}</in> <out>Au\u0301</out> </e>
+
+<!-- svarita mapped to circumflex accent -->
+<e n='215'> <s>SKT</s> <in>{a^}</in> <out>A\u0302</out> </e>
+<e n='216'> <s>SKT</s> <in>{i^}</in> <out>I\u0302</out> </e>
+<e n='217'> <s>SKT</s> <in>{u^}</in> <out>U\u0302</out> </e>
+<e n='218'> <s>SKT</s> <in>{f^}</in> <out>R\u0325\u0302</out> </e><!-- R + combining ring below + circumflex -->
+<e n='219'> <s>SKT</s> <in>{x^}</in> <out>L\u0325\u0302</out> </e><!-- L + combining ring below + circumflex -->
+<e n='220'> <s>SKT</s> <in>{A^}</in> <out>A\u0304\u0302</out> </e>
+<e n='221'> <s>SKT</s> <in>{I^}</in> <out>I\u0304\u0302</out> </e>
+<e n='222'> <s>SKT</s> <in>{U^}</in> <out>U\u0304\u0302</out> </e>
+<e n='223'> <s>SKT</s> <in>{F^}</in> <out>R\u0325\u0304\u0302</out> </e><!-- R + combining ring below + macron + circumflex -->
+<e n='224'> <s>SKT</s> <in>{X^}</in> <out>L\u0325\u0304\u0302</out> </e><!-- L + combining ring below + macron + circumflex -->
+<e n='225'> <s>SKT</s> <in>{e^}</in> <out>E\u0302</out> </e>
+<e n='226'> <s>SKT</s> <in>{o^}</in> <out>O\u0302</out> </e>
+<e n='227'> <s>SKT</s> <in>{E^}</in> <out>A\u1dcdi</out> </e>
+<e n='228'> <s>SKT</s> <in>{O^}</in> <out>A\u1dcdu</out> </e>
+<!-- \u1dcd combining double circumflex above -->
+
+<!-- grave accent mark mapped to backslash -->
+<e n='229'> <s>SKT</s> <in>{a\}</in> <out>A\u0300</out> </e>
+<e n='230'> <s>SKT</s> <in>{i\}</in> <out>I\u0300</out> </e>
+<e n='231'> <s>SKT</s> <in>{u\}</in> <out>U\u0300</out> </e>
+<e n='232'> <s>SKT</s> <in>{f\}</in> <out>R\u0325\u0300</out> </e><!-- R + combining ring below + grave -->
+<e n='233'> <s>SKT</s> <in>{x\}</in> <out>L\u0325\u0300</out> </e><!-- L + combining ring below + grave -->
+<e n='234'> <s>SKT</s> <in>{A\}</in> <out>A\u0304\u0300</out> </e>
+<e n='235'> <s>SKT</s> <in>{I\}</in> <out>I\u0304\u0300</out> </e>
+<e n='236'> <s>SKT</s> <in>{U\}</in> <out>U\u0304\u0300</out> </e>
+<e n='237'> <s>SKT</s> <in>{F\}</in> <out>R\u0325\u0304\u0300</out> </e><!-- R + combining ring below + macron + grave -->
+<e n='238'> <s>SKT</s> <in>{X\}</in> <out>L\u0325\u0304\u0300</out> </e><!-- L + combining ring below + macron + grave -->
+<e n='239'> <s>SKT</s> <in>{e\}</in> <out>E\u0300</out> </e>
+<e n='240'> <s>SKT</s> <in>{o\}</in> <out>O\u0300</out> </e>
+<e n='241'> <s>SKT</s> <in>{E\}</in> <out>Ai\u0300</out> </e>
+<e n='242'> <s>SKT</s> <in>{O\}</in> <out>Au\u0300</out> </e>
+
+<!-- Nasalized vowels and semivowels and the only precomposed nasalized vowel combinations with accents -->
+<e n='251'> <s>SKT</s> <in>{a~}</in> <out>A\u0303</out>  </e><!-- A + tilde -->
+<e n='252'> <s>SKT</s> <in>a~</in> <out>a\u0303</out>  </e><!-- a + tilde -->
+<e n='253'> <s>SKT</s> <in>{i~}</in> <out>I\u0303</out>  </e><!-- I + tilde -->
+<e n='254'> <s>SKT</s> <in>i~</in> <out>i\u0303</out>  </e><!-- i + tilde -->
+<e n='255'> <s>SKT</s> <in>{u~}</in> <out>U\u0303</out>  </e><!-- U + tilde -->
+<e n='256'> <s>SKT</s> <in>u~</in> <out>u\u0303</out>  </e><!-- u + tilde -->
+<e n='257'> <s>SKT</s> <in>{u/~}</in> <out>U\u0303\u0301</out>  </e><!-- U + tilde + acute -->
+<e n='258'> <s>SKT</s> <in>u/~</in> <out>u\u0303\u0301</out>  </e><!-- u + tilde + acute -->
+<e n='259'> <s>SKT</s> <in>{e~}</in> <out>E\u0303</out>  </e><!-- E + tilde -->
+<e n='260'> <s>SKT</s> <in>e~</in> <out>e\u0303</out>  </e><!-- e + tilde -->
+<e n='261'> <s>SKT</s> <in>{o~}</in> <out>O\u0303</out>  </e><!-- O + tilde -->
+<e n='262'> <s>SKT</s> <in>o~</in> <out>o\u0303</out>  </e><!-- o + tilde -->
+<e n='263'> <s>SKT</s> <in>{o/~}</in> <out>O\u0303\u0301</out>  </e><!-- O + tilde + acute -->
+<e n='264'> <s>SKT</s> <in>o/~</in> <out>o\u0303\u0301</out>  </e><!-- o + tilde + acute -->
+<e n='265'> <s>SKT</s> <in>{E~}</in> <out>Ai\u0303</out>  </e><!-- A + i tilde -->
+<e n='266'> <s>SKT</s> <in>E~</in> <out>ai\u0303</out>  </e><!-- a + i tilde -->
+<e n='267'> <s>SKT</s> <in>{O~}</in> <out>Au\u0303</out>  </e><!-- A + u tilde -->
+<e n='268'> <s>SKT</s> <in>O~</in> <out>au\u0303</out>  </e><!-- a + u tilde -->
+<e n='269'> <s>SKT</s> <in>{O/~}</in> <out>Au\u0303\u0301</out>  </e><!-- A + u + tilde + acute -->
+<e n='270'> <s>SKT</s> <in>O/~</in> <out>au\u0303\u0301</out>  </e><!-- a + u + tilde + acute -->
+<e n='271'> <s>SKT</s> <in>{y~}</in> <out>Y\u0303</out>  </e><!-- Y + tilde -->
+<e n='272'> <s>SKT</s> <in>y~</in> <out>y\u0303</out>  </e><!-- y + tilde -->
+<e n='273'> <s>SKT</s> <in>{v~}</in> <out>V\u0303</out>  </e><!-- V + tilde -->
+<e n='274'> <s>SKT</s> <in>v~</in> <out>v\u0303</out>  </e><!-- v + tilde -->
+<e n='275'> <s>SKT</s> <in>{l~}</in> <out>L\u0303</out>  </e><!-- L + tilde -->
+<e n='276'> <s>SKT</s> <in>l~</in> <out>l\u0303</out>  </e><!-- l + tilde -->
+
+<e> <s>SKT</s> <in>M\</in> <out>m\u0307</out> </e> <!-- \u0300 grave -->
+</fsm>
