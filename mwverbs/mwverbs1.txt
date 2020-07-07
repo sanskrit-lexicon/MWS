@@ -3894,6 +3894,7 @@ cetanIBU:74060:preverb::cetanI+BU
 cetAya:74072:verb::
 cetIkf:74076:preverb::cetI+kf
 cint:74105:verb:10,1:
+cimicimAya:74204:verb::
 ciraya:74331:verb:Ā:
 cirAya:74332:verb:PĀ:
 ciri:74340:verb:5:
@@ -6911,6 +6912,7 @@ maYc:154395:verb:1Ā:
 maYj:154426:verb:10P:
 maYjaraya:154432:verb:P:
 maYjarIkf:154456:preverb:P:maYjarI+kf
+mawamawAya:154549:verb::
 maW:154558:verb:1P:
 maWaya:154569:verb:P:
 maR:154588:verb:1P:
@@ -7356,6 +7358,7 @@ lavaRIya:181969:verb:P:
 laS:181980:verb:10P:
 laz:181985:verb:1,4P,4Ā,10P:
 las:181992:verb:1P,10:
+lahalahAya:182048:verb::
 lA:182054:verb:2P:
 lAK:182095:verb:1P:
 lAG:182098:verb:1Ā:
@@ -7632,6 +7635,7 @@ vicUrRIBU:194884:preverb:P:vi+cUrRI+BU
 vicft:194885:preverb:P:vi+cft
 vicezw:194891:preverb:PĀ:vi+cezw
 vicCad:194905&194906:preverb::vi+Cad
+vicCAy:194915:verb::
 vicCid:194917:preverb:P:vi+Cid
 vicCo:194949:preverb::vi+Co
 vicyu:194950:preverb::vi+cyu
@@ -8445,6 +8449,7 @@ SarAya:213608:verb:Ā:
 SarIkf:213615:preverb:P:SarI+kf
 SaraRIkf:213692:preverb:Ā:SaraRI+kf
 SaraccandrAya:213730:verb:P:
+SaraSarAya:213806:verb::
 SarIrIBU:213936:preverb:P:SarIrI+BU
 Sarb:214005:verb:1P:
 Sarmaya:214029:verb:P:
@@ -8484,6 +8489,7 @@ SiTilAya:216953:verb:Ā:
 SiTilIkf:216959:preverb:PĀ:SiTilI+kf
 SiTilIBU:216961:preverb:P:SiTilI+BU
 Sim:217043:verb:4P:
+SimiSimAya:217055:verb::
 Sirasya:217150:verb:P:
 SiroBUzaRAya:217186:verb:Ā:
 SiriSirA:217236:verb:0P:
@@ -8514,6 +8520,7 @@ SItIBU:218517:preverb:P:SItI+BU
 SIB:218537:verb:1Ā:
 SIrRIkf:218583:preverb:P:SIrRI+kf
 SIl:218655:verb:1P,10P:
+SIlaya:218725:verb::
 Su:218744:verb:1P:
 Suk:218748:verb:1P:
 SukIBU:218869:preverb:P:SukI+BU
@@ -8660,6 +8667,7 @@ zag:224899:verb:0:
 zaG:224899.1:verb:0:
 zac:224899.2:verb:0:
 zaww:224902:verb:10P:
+zaRqaya:224917:verb::
 zaRqIya:224924:verb::
 zaRQaya:224934:verb:P:
 zaRQIya:224936:verb:P:

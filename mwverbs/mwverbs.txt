@@ -4009,6 +4009,7 @@ cetanIBU:74060:gati::cetanI+BU
 cetAya:74072:nom::
 cetIkf:74076:gati::cetI+kf
 cint:74105:root:10,1:
+cimicimAya:74204:root::
 ciraya:74331:nom:Ā:
 cirAya:74332:nom:PĀ:
 ciri:74340:root:5:
@@ -7137,6 +7138,7 @@ maYc:154395:root:1Ā:
 maYj:154426:root:10P:
 maYjaraya:154432:nom:P:
 maYjarIkf:154456:gati:P:maYjarI+kf
+mawamawAya:154549:root::
 maW:154558:root:1P:
 maWaya:154569:nom:P:
 maR:154588:root:1P:
@@ -7615,6 +7617,7 @@ lavaRIya:181969:nom:P:
 laS:181980:root:10P:
 laz:181985:genuineroot:1,4P,4Ā,10P:
 las:181992:genuineroot:1P,10:
+lahalahAya:182048:root::
 lA:182054:genuineroot:2P:
 lAK:182095:root:1P:
 lAG:182098:root:1Ā:
@@ -7902,6 +7905,7 @@ vicft:194885:pre:P:vi+cft
 vicezw:194891:pre:PĀ:vi+cezw
 vicCad:194905:pre::vi+Cad
 vicCad:194906:pre::vi+Cad
+vicCAy:194915:root::
 vicCid:194917:pre:P:vi+Cid
 vicCo:194949:pre::vi+Co
 vicyu:194950:pre::vi+cyu
@@ -8748,6 +8752,7 @@ SarAya:213608:nom:Ā:
 SarIkf:213615:gati:P:SarI+kf
 SaraRIkf:213692:gati:Ā:SaraRI+kf
 SaraccandrAya:213730:nom:P:
+SaraSarAya:213806:root::
 SarIrIBU:213936:gati:P:SarIrI+BU
 Sarb:214005:root:1P:
 Sarmaya:214029:nom:P:
@@ -8787,6 +8792,7 @@ SiTilAya:216953:nom:Ā:
 SiTilIkf:216959:gati:PĀ:SiTilI+kf
 SiTilIBU:216961:gati:P:SiTilI+BU
 Sim:217043:root:4P:
+SimiSimAya:217055:root::
 Sirasya:217150:nom:P:
 SiroBUzaRAya:217186:nom:Ā:
 SiriSirA:217236:root:0P:
@@ -8819,6 +8825,7 @@ SItIBU:218517:gati:P:SItI+BU
 SIB:218537:root:1Ā:
 SIrRIkf:218583:gati:P:SIrRI+kf
 SIl:218655:genuineroot:1P,10P:
+SIlaya:218725:root::
 Su:218744:root:1P:
 Suk:218748:root:1P:
 SukIBU:218869:gati:P:SukI+BU
@@ -8976,6 +8983,7 @@ zag:224899:root:0:
 zaG:224899.1:root:0:
 zac:224899.2:root:0:
 zaww:224902:root:10P:
+zaRqaya:224917:root::
 zaRqIya:224924:root::
 zaRQaya:224934:nom:P:
 zaRQIya:224936:nom:P:
