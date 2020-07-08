@@ -1,0 +1,26 @@
+MWVerb WARNING: duplicate root Ap:24817:preverb::A+Ap
+MWVerb WARNING: duplicate root Ar:25985:preverb:am:A+f
+MWVerb WARNING: duplicate root As:27875:preverb:am:A+as
+MWVerb WARNING: duplicate root ez:40243:preverb:am:A+Iz
+MWVerb WARNING: duplicate root nI:111264:preverb:0a:ni+i
+MWVerb WARNING: duplicate root prez:141085:preverb:am:pra+iz
+MWVerb WARNING: duplicate root vI:203350:preverb:4ma:vi+i
+MWVerb WARNING: duplicate root vIr:203563:preverb::vi+Ir
+MWVerb WARNING: duplicate root vyac:208360:preverb:am:vi+ac
+MWVerb WARNING: duplicate root vyaj:208362:preverb:a:vi+aj
+10188 mwverbs read from ../mwverbs/mwverbs2.txt
+ap90: 1839 verbs. Skip 1772 preverbs, 75 nomw
+ben: 2038 verbs. Skip 0 preverbs, 12 nomw
+bur: 3511 verbs. Skip 2294 preverbs, 10 nomw
+cae: 1068 verbs. Skip 0 preverbs, 10 nomw
+ccs: 1000 verbs. Skip 0 preverbs, 9 nomw
+gra: 882 verbs. Skip 0 preverbs, 24 nomw
+krm: 2046 verbs. Skip 0 preverbs, 15 nomw
+md: 986 verbs. Skip 0 preverbs, 6 nomw
+pwg: 2596 verbs. Skip 0 preverbs, 42 nomw
+pw: 2725 verbs. Skip 0 preverbs, 94 nomw
+skd: 2297 verbs. Skip 0 preverbs, 31 nomw
+stc: 634 verbs. Skip 3249 preverbs, 0 nomw
+vcp: 2306 verbs. Skip 0 preverbs, 39 nomw
+wil: 1714 verbs. Skip 0 preverbs, 41 nomw
+3076 records written to verbs1_merge2.txt
