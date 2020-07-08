@@ -8,8 +8,8 @@ The work here is to aggregate that analysis over the dictionaries.
 
 ## Inputs
 In earlier work, we generated files named `xxx_verb_filter_map.txt` for
-14 dictionaries xxx:
-ap90, ben, bur, cae, ccs, gra, krm, md, pwg, pwk, skd, stc, vcp, wil
+16 dictionaries xxx:
+ap90, ben, bur, cae, ccs, gra, krm, md, pwg, pwk, skd, stc, vcp, wil, shs, yat
 
 For example, for ap90, the file [ap90_verb_filter_map.txt](https://github.com/sanskrit-lexicon/AP90/blob/master/verbs01/ap90_verb_filter_map.txt) is in repository AP90.
 
@@ -42,7 +42,7 @@ This file has  5 fields, ':' separated:
 
 
 ## verbs1_merge.py
-verbs1_merge.py provides various summaries based on the 14 xxx_verb_filter_map.txt files and the mwverbs2.txt file.
+verbs1_merge.py provides various summaries based on the  xxx_verb_filter_map.txt files and the mwverbs2.txt file.
 
 The summaries include only the verbs  (i.e. excludes the prefixed verbs),
 and include only those verbs which have been mapped to an MW verb.
@@ -51,13 +51,13 @@ and include only those verbs which have been mapped to an MW verb.
 
 ### verbs1_merge0.txt
 ```
-python verbs1_merge.py 0 verbs1_merge0.txt ../mwverbs/mwverbs2.txt ap90,ben,bur,cae,ccs,gra,krm,md,pwg,pw,skd,stc,vcp,wil ../../ > verbs1_merge_log.txt
+python verbs1_merge.py 0 verbs1_merge0.txt ../mwverbs/mwverbs2.txt ap90,ben,bur,cae,ccs,gra,krm,md,pwg,pw,skd,stc,vcp,wil,shs,yat ../../ > verbs1_merge_log.txt
 ```
 There is a line for each mw verb X for which there is a verb Y in some dictionary which is mapped to X.
 
 Here is a typical line of the merge0 file
 ```
-mw=aMS;9:ap90=aMS;3:ben=aMS;2:bur=aMS;1988:pwg=aMSay;13:pwg=aMSApay;17:pw=aMSay;16:skd=aMSa;5:vcp=aMSa;4:wil=aMSa;5
+mw=aMS;9:ap90=aMS;3:ben=aMS;2:bur=aMS;1988:pwg=aMSay;13:pwg=aMSApay;17:pw=aMSay;16:skd=aMSa;5:vcp=aMSa;4:wil=aMSa;5:shs=aMSa;4:yat=aMSa;3
 ```
 The verbs which map onto the  mw verb AMS  (with mw Cologne id of '9'), are
 * the ap90 verb aMS (cologne id=3)
@@ -69,18 +69,20 @@ The verbs which map onto the  mw verb AMS  (with mw Cologne id of '9'), are
 * the skd  verb aMSa  (id=5)
 * the vcp  verb aMSa  (id=4)
 * the wil  verb aMSa  (id=5)
+* the shs  verb aMSa  (id=4)
+* the yat  verb aMSa  (id=3)
 
 If a dictionary doesn't appear in this list, that means that no verb in that
 dictionary is mapped to aMS. For instance, there is no verb in md dictionary
 that maps to mw verb aMS.
 
-Currently, 3076 mw verbs appear in this list.
+Currently, 3078 mw verbs appear in this list.
 
 mw verb spelling has only one vowel  (so exclude nominatives and preverbs)
 
 ### verbs1_merge1_1v.html
 ```
-python verbs1_merge.py 1h,1v verbs1_merge1_1v.html ../mwverbs/mwverbs2.txt ap90,ben,bur,cae,ccs,gra,krm,md,pwg,pw,skd,stc,vcp,wil ../../ > verbs1_merge_log.txt
+python verbs1_merge.py 1h,1v verbs1_merge1_1v.html ../mwverbs/mwverbs2.txt ap90,ben,bur,cae,ccs,gra,krm,md,pwg,pw,skd,stc,vcp,wil,shs,yat ../../ > verbs1_merge_log.txt
 ```
 
 The '1v' is to indicate that this listing only includes mw verbs whose 
@@ -96,7 +98,7 @@ click on  [this link](https://sanskrit-lexicon.github.io/verbs/verbs01/verbs1_me
 
 ### verbs1_merge2.txt
 ```
-python verbs1_merge.py 2 verbs1_merge2.txt ../mwverbs/mwverbs2.txt ap90,ben,bur,cae,ccs,gra,krm,md,pwg,pw,skd,stc,vcp,wil ../../ > verbs1_merge_log.txt
+python verbs1_merge.py 2 verbs1_merge2.txt ../mwverbs/mwverbs2.txt ap90,ben,bur,cae,ccs,gra,krm,md,pwg,pw,skd,stc,vcp,wil,shs,yat ../../ > verbs1_merge_log.txt
 
 ```
 

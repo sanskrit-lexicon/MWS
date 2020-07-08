@@ -102,7 +102,27 @@ def joindups(dictrecs,dictlo):
    dictrec.Ls.append(L)
  return recs
 
+dict_filter_map_filenamed = {
+'ap90':'../../AP90/verbs01/ap90_verb_filter_map.txt',
+'ben':'../../BEN/verbs01/ben_verb_filter_map.txt',
+'bur':'../../BUR/verbs01/bur_verb_filter_map.txt',
+'cae':'../../CAE/verbs01/cae_verb_filter_map.txt',
+'ccs':'../../CCS/verbs01/ccs_verb_filter_map.txt',
+'gra':'../../GRA/verbs01/gra_verb_filter_map.txt',
+'krm':'../../KRM/verbs01/krm_verb_filter_map.txt',
+'md':'../../MD/verbs01/md_verb_filter_map.txt',
+'pwg':'../../PWG/verbs01a/pwg_verb_filter_map.txt',
+'pw':'../../PWK/verbs01/pw_verb_filter_map.txt',
+'skd':'../../SKD/verbs01/skd_verb_filter_map.txt',
+'stc':'../../STC/verbs01/stc_verb_filter_map.txt',
+'vcp':'../../VCP/verbs01/vcp_verb_filter_map.txt',
+'wil':'../../WIL/verbs01/wil_verb_filter_map.txt',
+'yat':'../../WIL/verbs01-yat/yat_verb_filter_map.txt',
+'shs':'../../WIL/verbs01-shs/shs_verb_filter_map.txt',
+
+}
 def init_dictinfo(mwrecs,dictlo,dictparent):
+ """
  dictup = dictlo.upper()
  if dictlo == 'pw':
   dictup = 'PWK'
@@ -110,6 +130,9 @@ def init_dictinfo(mwrecs,dictlo,dictparent):
  if dictlo == 'pwg':
   verbdir='verbs01a'
  filein = '%s%s/%s/%s_verb_filter_map.txt' %(dictparent,dictup,verbdir,dictlo)
+ print("'%s':'%s'," %(dictlo,filein))
+ """
+ filein = dict_filter_map_filenamed[dictlo]
  dictrecs = init_dictverbs(filein,dictlo)
  dictrecs1 = joindups(dictrecs,dictlo)
 
