@@ -27,4 +27,4 @@ shs: 1754 verbs. Skip 0 preverbs, 44 nomw
 shs initinfo. MW verb not found: SvF Svf ['41306']
 shs initinfo. MW verb not found: sTiG zwiD ['41514']
 yat: 1693 verbs. Skip 0 preverbs, 45 nomw
-3078 records written to verbs1_merge2.txt
+1950 records written to verbs1_merge1_1vmw.html

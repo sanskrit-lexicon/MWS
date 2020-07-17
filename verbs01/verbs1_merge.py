@@ -230,12 +230,21 @@ def write1(fileout,mwrecs,dictcodes,filter_opt):
    f.write(out + '\n')
  print(n,"records written to",fileout)
 
+def dalglob1_link(hwstr):
+ """ assume hws is just a string.  But possible is is x / y / z ...
+ """
+ hws = hwstr.split(' / ')
+ hw = hws[0]
+ cologneurl="https://sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/sample/dalglob1.php"
+ href = "%s?key=%s&input=slp1&output=roman" % (cologneurl,hw)
+ url = '<a href="%s" target="_dalglob1">%s</a>' %(href,hw)
+ return url
 def write1h_helper_k1_L(k1,L):
   ans =  '%s;%s' %(k1,L)
   ans = k1
   return ans
 
-def write1h(fileout,mwrecs,dictcodes,filter_opt):
+def write1h(fileout,mwrecs,dictcodes,filter_opt,option):
  # create html table, one column for each dictionary
  n = 0
  outlines = []
@@ -298,7 +307,13 @@ th {
   if not mwverb_passes_filter(rec,filter_opt):
    continue
   outarr = []
-  outarr.append(write1_helper_k1_L(rec.k1,rec.Lnums))
+  # first is the headword for MW
+  x = write1_helper_k1_L(rec.k1,rec.Lnums)  # same as rec.k1
+  if (option == '1hmw'):
+   x1 = dalglob1_link(x)
+  else:
+   x1 = x
+  outarr.append(x1)
   n1 = 0
   for dictcode in dictcodes:
    dictverbs = rec.dictinfo[dictcode]
@@ -413,8 +428,8 @@ if __name__=="__main__":
   write0(fileout,mwrecs,dictcodes,filter_opt)
  elif option == '1':  # markdown output table
   write1(fileout,mwrecs,dictcodes,filter_opt)
- elif option == '1h': # html output table
-  write1h(fileout,mwrecs,dictcodes,filter_opt)
+ elif option in ['1h','1hmw']: # html output table
+  write1h(fileout,mwrecs,dictcodes,filter_opt,option)
  elif option == '2':
   write2(fileout,mwrecs,dictcodes,filter_opt)
  else:
