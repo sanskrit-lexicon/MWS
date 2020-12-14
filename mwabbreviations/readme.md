@@ -30,3 +30,14 @@ Each entry shows the
 * There are a few cases (such as mfn, cl., P., etc.) where the abbreviation
   of the text is implied by some other markup than `<ab>` in the digitization.
 
+### abbrv.html
+This file is a copy of file from Cologne server at
+docs/monier/abbrv.html.
+
+It has no current use.
+
+### The current *official* list of mw abbreviations
+The abbreviations for MW that are used for tooltips in the displays
+is in csl-pywork repository. Namely:
+https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/distinctfiles/mw/pywork/mwab/mwab_input.txt.
+
