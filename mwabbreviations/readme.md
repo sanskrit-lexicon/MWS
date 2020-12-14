@@ -30,9 +30,9 @@ Each entry shows the
 * There are a few cases (such as mfn, cl., P., etc.) where the abbreviation
   of the text is implied by some other markup than `<ab>` in the digitization.
 
-### abbrv.html
+### abbr.html
 This file is a copy of file from Cologne server at
-docs/monier/abbrv.html.
+docs/monier/abbr.html.
 
 It has no current use.
 
