@@ -1,0 +1,88 @@
+; Case 1 : 92125.1:dina:dëna:
+310624 old <s>dina</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>peren-dinus</etym>, <etym>nUndinus</etym> &c.; <ab>Got.</ab> <etym>sin-teins</etym>; <ab>Lit.</ab> <etym>dëna</etym>; <ab>O.Pr.</ab> <ab>acc.</ab> <ab>sg.</ab> <etym>deinan</etym>; <ab>Slav.</ab> <etym>dṛnī</etym>.]
+310624 new <s>dina</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>peren-dinus</etym>, <etym>nUndinus</etym> &c.; <ab>Got.</ab> <etym>sin-teins</etym>; <ab>Lit.</ab> <etym>dëna</etym>; <ab>O.Pr.</ab> <ab>acc.</ab> <ab>sg.</ab> <etym>deinan</etym>; <ab>Slav.</ab> <etym>dṛnī</etym>.]
+;
+; Case 2 : 92229:div:dyvas:
+310953 old <div n="to"/>to shine, be bright [<ab>Zd.</ab> <etym>dīv</etym>; (?) <ab>Lit.</ab> <etym>dyvas</etym>] <ls>BhP. iii, 20, 22</ls>;
+310953 new <div n="to"/>to shine, be bright [<ab>Zd.</ab> <etym>dīv</etym>; (?) <ab>Lit.</ab> <etym>dyvas</etym>] <ls>BhP. iii, 20, 22</ls>;
+;
+; Case 3 : 93282.05:du:davyti:
+314475 old <s>du</s> ¦ [<ab>cf.</ab> <lang n="greek">δαίω</lang>. for <lang n="greek">δαϝιω</lang>; <lang n="greek">δύη</lang>, pain; <ab>Lit.</ab> <etym>davyti</etym>, to torment; Sl. <etym>daviti</etym>, to worry.]
+314475 new <s>du</s> ¦ [<ab>cf.</ab> <lang n="greek">δαίω</lang>. for <lang n="greek">δαϝιω</lang>; <lang n="greek">δύη</lang>, pain; <ab>Lit.</ab> <etym>davyti</etym>, to torment; Sl. <etym>daviti</etym>, to worry.]
+;
+; Case 4 : 93282.55:dU:davyti:
+314486 old <s>dU</s> ¦ [<ab>cf.</ab> <lang n="greek">δαίω</lang>. for <lang n="greek">δαϝιω</lang>; <lang n="greek">δύη</lang>, pain; <ab>Lit.</ab> <etym>davyti</etym>, to torment; Sl. <etym>daviti</etym>, to worry.]
+314486 new <s>dU</s> ¦ [<ab>cf.</ab> <lang n="greek">δαίω</lang>. for <lang n="greek">δαϝιω</lang>; <lang n="greek">δύη</lang>, pain; <ab>Lit.</ab> <etym>davyti</etym>, to torment; Sl. <etym>daviti</etym>, to worry.]
+;
+; Case 5 : 95540.55:deva:dḗvas:
+321905 old <s>deva</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>dīvus</etym>, <etym>deus</etym>; <ab>Lit.</ab> <etym>dḗvas</etym>; Old <ab>Pruss.</ab> <etym>deiwas</etym>.]
+321905 new <s>deva</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>dīvus</etym>, <etym>deus</etym>; <ab>Lit.</ab> <etym>dḗvas</etym>; Old <ab>Pruss.</ab> <etym>deiwas</etym>.]
+;
+; Case 6 : 98312.1:dvAr:dúrys:
+330968 old <s>dvAr</s> ¦ [<ab>cf.</ab> <hom>1.</hom> <s>dur</s>, 1. <s>dura</s> and <s>dvAra</s>; <ab>Gk.</ab> <lang n="greek">θύρα</lang>; <ab>Lat.</ab> <etym>fores</etym>; <ab>Slav.</ab> <etym>dvĭrĭ</etym>; <ab>Lit.</ab> <etym>dúrys</etym>; <ab>Got.</ab> <etym>daur</etym>; Old <ab>Sax.</ab> <etym>dor</etym> &c.]
+330968 new <s>dvAr</s> ¦ [<ab>cf.</ab> <hom>1.</hom> <s>dur</s>, 1. <s>dura</s> and <s>dvAra</s>; <ab>Gk.</ab> <lang n="greek">θύρα</lang>; <ab>Lat.</ab> <etym>fores</etym>; <ab>Slav.</ab> <etym>dvĭrĭ</etym>; <ab>Lit.</ab> <etym>dúrys</etym>; <ab>Got.</ab> <etym>daur</etym>; Old <ab>Sax.</ab> <etym>dor</etym> &c.]
+;
+; Case 7 : 101933.1:Dfz:dristu:
+342890 old <s>Dfz</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>dareS</etym>; <ab>Gk.</ab> <lang n="greek">θάρσος</lang>, <lang n="greek">θαρσίω</lang>; <ab>Lit.</ab> <etym>dristu</etym>; <ab>Goth.</ab> <etym>ga-dars</etym>, <ab>Angl.Sax.</ab> <etym>dors-te</etym>, <ab>Engl.</ab> <etym>durs-t</etym>.]
+342890 new <s>Dfz</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>dareS</etym>; <ab>Gk.</ab> <lang n="greek">θάρσος</lang>, <lang n="greek">θαρσίω</lang>; <ab>Lit.</ab> <etym>dristu</etym>; <ab>Goth.</ab> <etym>ga-dars</etym>, <ab>Angl.Sax.</ab> <etym>dors-te</etym>, <ab>Engl.</ab> <etym>durs-t</etym>.]
+;
+; Case 8 : 102941.1:naKa:nágas:
+346522 old <s>naKa</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὄνυξ</lang>, stem <lang n="greek">ὀ-νυχ</lang>; <ab>Lat.</ab> <etym>unguis</etym>; <ab>Lit.</ab> <etym>nágas</etym>; <ab>Slav.</ab> <etym>nogŭtĭ</etym>; <ab>Angl.Sax.</ab> <etym>naegel</etym>; <ab>Eng.</ab> <etym>nail</etym>; <ab>Germ.</ab> <etym>Nagel</etym>.]
+346522 new <s>naKa</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὄνυξ</lang>, stem <lang n="greek">ὀ-νυχ</lang>; <ab>Lat.</ab> <etym>unguis</etym>; <ab>Lit.</ab> <etym>nágas</etym>; <ab>Slav.</ab> <etym>nogŭtĭ</etym>; <ab>Angl.Sax.</ab> <etym>naegel</etym>; <ab>Eng.</ab> <etym>nail</etym>; <ab>Germ.</ab> <etym>Nagel</etym>.]
+;
+; Case 9 : 120543.1:paSu:pecu:
+406762 old <s>paSu</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>pasu</etym>; <ab>Lit.</ab> <etym>pecu</etym>; Old <ab>Pruss.</ab> <etym>pecku</etym>; <ab>Goth.</ab> <etym>faíhu</etym>; <ab>Germ.</ab> <etym>fihu</etym>, <etym>vihe</etym>, <etym>Vieh</etym>; <ab>Angl.Sax.</ab> <etym>feoh</etym>; <ab>Eng.</ab> <etym>fee</etym>.]
+406762 new <s>paSu</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>pasu</etym>; <ab>Lit.</ab> <etym>pecu</etym>; Old <ab>Pruss.</ab> <etym>pecku</etym>; <ab>Goth.</ab> <etym>faíhu</etym>; <ab>Germ.</ab> <etym>fihu</etym>, <etym>vihe</etym>, <etym>Vieh</etym>; <ab>Angl.Sax.</ab> <etym>feoh</etym>; <ab>Eng.</ab> <etym>fee</etym>.]
+;
+; Case 10 : 120781.1:pasas:pisá:
+407563 old <s>pasas</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">πέος</lang> for <lang n="greek">πέσος</lang>; <ab>Lat.</ab> <etym>pēnis</etym> for <etym>pesnis</etym>; <ab>Lit.</ab> <etym>pisá</etym>, <etym>písti</etym>.]
+407563 new <s>pasas</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">πέος</lang> for <lang n="greek">πέσος</lang>; <ab>Lat.</ab> <etym>pēnis</etym> for <etym>pesnis</etym>; <ab>Lit.</ab> <etym>pisá</etym>, <etym>písti</etym>.]
+;
+; Case 11 : 128909.1:pF:pílti:
+433989 old <s>pF</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">πίμπλημι</lang>; <ab>Lat.</ab> <etym>plere</etym>, <etym>plenus</etym>; <ab>Lit.</ab> <etym>pílti</etym>, <etym>pílnas</etym>; <ab>Slav.</ab> <etym>plŭnŭ</etym>; <ab>Goth.</ab> <etym>fulls</etym>; <ab>Germ.</ab> <etym>voll</etym>; <ab>Eng.</ab> <etym>full</etym>.]
+433989 new <s>pF</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">πίμπλημι</lang>; <ab>Lat.</ab> <etym>plere</etym>, <etym>plenus</etym>; <ab>Lit.</ab> <etym>pílti</etym>, <etym>pílnas</etym>; <ab>Slav.</ab> <etym>plŭnŭ</etym>; <ab>Goth.</ab> <etym>fulls</etym>; <ab>Germ.</ab> <etym>voll</etym>; <ab>Eng.</ab> <etym>full</etym>.]
+;
+; Case 12 : 129263.1:pota:pautas:
+435097 old <s>pota</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>putus</etym>; <ab>Lit.</ab> <etym>pautas</etym>.]
+435097 new <s>pota</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>putus</etym>; <ab>Lit.</ab> <etym>pautas</etym>.]
+;
+; Case 13 : 142512.1:banD:béndras:
+479672 old <s>banD</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>band</etym>; <ab>Gk.</ab> <lang n="greek">πενθερός</lang>, <lang n="greek">πεῖσμα</lang>; <ab>Lat.</ab> <etym>foedus</etym>, <etym>fides</etym>; <ab>Lit.</ab> <etym>béndras</etym>; <ab>Goth.</ab> <ab>Angl.Sax.</ab> <etym>bindan</etym>; <ab>Germ.</ab> <etym>binden</etym>; <ab>Eng.</ab> <etym>bind</etym>.]
+479672 new <s>banD</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>band</etym>; <ab>Gk.</ab> <lang n="greek">πενθερός</lang>, <lang n="greek">πεῖσμα</lang>; <ab>Lat.</ab> <etym>foedus</etym>, <etym>fides</etym>; <ab>Lit.</ab> <etym>béndras</etym>; <ab>Goth.</ab> <ab>Angl.Sax.</ab> <etym>bindan</etym>; <ab>Germ.</ab> <etym>binden</etym>; <ab>Eng.</ab> <etym>bind</etym>.]
+;
+; Case 14 : 155187.05:maT:mentúre:
+520990 old <s>maT</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">μίνθη</lang>; <ab>Lat.</ab> <etym>mentha</etym>, <etym>menta</etym>; <ab>Lit.</ab> <etym>mentúre</etym>; <ab>Germ.</ab> <etym>minza</etym>, <etym>Minze</etym>; <ab>Angl.Sax.</ab> <etym>minte</etym>; <ab>Eng.</ab> <etym>mint</etym>.]
+520990 new <s>maT</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">μίνθη</lang>; <ab>Lat.</ab> <etym>mentha</etym>, <etym>menta</etym>; <ab>Lit.</ab> <etym>mentúre</etym>; <ab>Germ.</ab> <etym>minza</etym>, <etym>Minze</etym>; <ab>Angl.Sax.</ab> <etym>minte</etym>; <ab>Eng.</ab> <etym>mint</etym>.]
+;
+; Case 15 : 155187.55:manT:mentúre:
+521024 old <s>manT</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">μίνθη</lang>; <ab>Lat.</ab> <etym>mentha</etym>, <etym>menta</etym>; <ab>Lit.</ab> <etym>mentúre</etym>; <ab>Germ.</ab> <etym>minza</etym>, <etym>Minze</etym>; <ab>Angl.Sax.</ab> <etym>minte</etym>; <ab>Eng.</ab> <etym>mint</etym>.]
+521024 new <s>manT</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">μίνθη</lang>; <ab>Lat.</ab> <etym>mentha</etym>, <etym>menta</etym>; <ab>Lit.</ab> <etym>mentúre</etym>; <ab>Germ.</ab> <etym>minza</etym>, <etym>Minze</etym>; <ab>Angl.Sax.</ab> <etym>minte</etym>; <ab>Eng.</ab> <etym>mint</etym>.]
+;
+; Case 16 : 171366.1:yAtf:jentḗ:
+574453 old <s>yAtf</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">εἰνάτηρ</lang>; <ab>Lat.</ab> <etym>janitrices</etym>; <ab>Lit.</ab> <etym>jentḗ</etym>; <ab>Slav.</ab> <etym>jetry</etym>.]
+574453 new <s>yAtf</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">εἰνάτηρ</lang>; <ab>Lat.</ab> <etym>janitrices</etym>; <ab>Lit.</ab> <etym>jentḗ</etym>; <ab>Slav.</ab> <etym>jetry</etym>.]
+;
+; Case 17 : 185521.1:vad:vadínti:
+620197 old <s>vad</s> ¦ [<ab>cf.</ab> <ab>Lit.</ab> <etym>vadínti</etym>.]
+620197 new <s>vad</s> ¦ [<ab>cf.</ab> <ab>Lit.</ab> <etym>vadínti</etym>.]
+;
+; Case 18 : 224195.55:Svan:szú:
+745947 old <s>Svan</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>spā</etym>; <ab>Gk.</ab> <lang n="greek">κύων</lang>; <ab>Lat.</ab> <etym>canis</etym>; <ab>Lit.</ab> <etym>szú</etym>; <ab>Goth.</ab> <etym>hunds</etym>; <ab>Eng.</ab> <etym>hound</etym>; <ab>Germ.</ab> <etym>Hund</etym>.]
+745947 new <s>Svan</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>spā</etym>; <ab>Gk.</ab> <lang n="greek">κύων</lang>; <ab>Lat.</ab> <etym>canis</etym>; <ab>Lit.</ab> <etym>szú</etym>; <ab>Goth.</ab> <etym>hunds</etym>; <ab>Eng.</ab> <etym>hound</etym>; <ab>Germ.</ab> <etym>Hund</etym>.]
+;
+; Case 19 : 256812.1:sPAy:spëti:
+853723 old <s>sPAy</s> ¦ [?<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">σφηλός</lang>; <ab>Lit.</ab> <etym>spëti</etym>; <ab>Slav.</ab> <etym>spĕti</etym>.]
+853723 new <s>sPAy</s> ¦ [?<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">σφηλός</lang>; <ab>Lit.</ab> <etym>spëti</etym>; <ab>Slav.</ab> <etym>spĕti</etym>.]
+;
+; Case 20 : 260066.1:haMsa:żasís:
+864350 old <s>haMsa</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">χήν</lang>; <ab>Lat.</ab> <etym>anser</etym> for <etym>hanser</etym>; <ab>Lit.</ab> <etym>żasís</etym>; <ab>Germ.</ab> <etym>Gans</etym>; <ab>Angl.Sax.</ab> <etym>gôs</etym>; <ab>Eng.</ab> <etym>goose</etym>.]
+864350 new <s>haMsa</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">χήν</lang>; <ab>Lat.</ab> <etym>anser</etym> for <etym>hanser</etym>; <ab>Lit.</ab> <etym>żasís</etym>; <ab>Germ.</ab> <etym>Gans</etym>; <ab>Angl.Sax.</ab> <etym>gôs</etym>; <ab>Eng.</ab> <etym>goose</etym>.]
+;
+; Case 21 : 260297.1:han:genu:
+865102 old <s>han</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">θείνω</lang>, <lang n="greek">θάνατος</lang>; <lang n="greek">φόνος</lang>, <lang n="greek">ἔπεφνον</lang> <lang n="greek">πέφαται</lang>; <ab>Lat.</ab> <etym>de-fendere</etym>, <etym>of-fendere</etym>; <ab>Lit.</ab> <etym>genu</etym>, <etym>gíti</etym>; <ab>Slav.</ab> <etym>gŭnati</etym>.]
+865102 new <s>han</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">θείνω</lang>, <lang n="greek">θάνατος</lang>; <lang n="greek">φόνος</lang>, <lang n="greek">ἔπεφνον</lang> <lang n="greek">πέφαται</lang>; <ab>Lat.</ab> <etym>de-fendere</etym>, <etym>of-fendere</etym>; <ab>Lit.</ab> <etym>genu</etym>, <etym>gíti</etym>; <ab>Slav.</ab> <etym>gŭnati</etym>.]
+;
+; Case 22 : 262971.55:hima:żëmà:
+873672 old <s>hima</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>zima</etym>; <ab>Gk.</ab> (<lang n="greek">δύς</lang>) <lang n="greek">χιμος</lang>; <lang n="greek">χιών</lang>, <lang n="greek">χειμών</lang>; <ab>Lat.</ab> <etym>bīmus</etym> for <etym>bihimus</etym>; <etym>hiems</etym>; <ab>Slav.</ab> <etym>zima</etym> <ab>Lit.</ab> <etym>żëmà</etym>]
+873672 new <s>hima</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>zima</etym>; <ab>Gk.</ab> (<lang n="greek">δύς</lang>) <lang n="greek">χιμος</lang>; <lang n="greek">χιών</lang>, <lang n="greek">χειμών</lang>; <ab>Lat.</ab> <etym>bīmus</etym> for <etym>bihimus</etym>; <etym>hiems</etym>; <ab>Slav.</ab> <etym>zima</etym> <ab>Lit.</ab> <etym>żëmà</etym>]
+;
