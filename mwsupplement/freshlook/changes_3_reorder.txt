@@ -1,0 +1,148 @@
+; ------------------------------------------------------------
+; Case 0001. L=215, key=akalya. 3 entries, 1 supplement entries REORDER
+; ------------------------------------------------------------
+<L>215<pc>2,1<k1>akalya<k2>a-kalya<e>1
+<s>a-kalya</s> ¦ <lex>mf(<s>A</s>)n.</lex> ill, sick<info lex="m:f#A:n"/>
+<LEND>
+<L>215.1<pc>2,1<k1>akalya<k2>a-kalya<e>1A
+¦  true (?), <ls>L.</ls><info lex="inh"/>
+<LEND>
+; SUPPLEMENT Additional sense
+<L>216<pc>1308,1<k1>akalya<k2>a-kalya<e>1A
+¦ not to be guessed, <ls>Daś.</ls><info n="sup"/>
+<LEND>
+; ------------------------------------------------------------
+; Case 0005. L=390, key=akrama. 3 entries, 1 supplement entries REORDER
+; ------------------------------------------------------------
+<L>390<pc>2,3<k1>akrama<k2>a-krama<e>1
+<s>a-krama</s> ¦ <lex>mfn.</lex> not happening successively, happening at once, <ls>Yogas.</ls><info lex="m:f:n"/>
+<LEND>
+; SUPPLEMENT
+<L>391<pc>1308,2<k1>akramam<k2>a-kramam<e>1C
+<s>a-kramam</s> ¦ <lex>ind.</lex> not by degrees, simultaneously, <ls>Naiṣ.</ls><info n="sup"/><info lex="ind"/>
+<LEND>
+<L>391.1<pc>2,3<k1>akrama<k2>a-krama<e>1B
+<s>a-krama</s> ¦ <lex>m.</lex> want of order, confusion.<info lex="m"/>
+<LEND>
+; ------------------------------------------------------------
+; Case 0011. L=1993, key=ajaloman. 3 entries, 1 supplement entries REORDER
+; ------------------------------------------------------------
+<L>1993<pc>9,3<k1>ajaloman<k2>aja/—loman<e>3
+<s>aja/—loman</s> ¦ <lex>m.</lex>  Cowage, <bot>Carpopogon Pruriens</bot><info or="1993,ajaloman;1995,ajalomI"/><info lex="m"/>
+<LEND>
+<L>1993.1<pc>9,3<k1>ajaloman<k2>aja/—loma/n<e>3B
+<s>aja/—loma/n</s> ¦ <lex>n.</lex> goat's hair, <ls>ŚBr. &c.</ls><info lex="n"/>
+<LEND>
+; SUPPLEMENT  adjectival sense
+<L>1994<pc>1309,2<k1>ajaloman<k2>aja—loman<e>3B
+<s>aja—loman</s> ¦ <lex>mf(<s>mnI</s>)n.</lex> hairy as a goat, <ls>MaitrS.</ls><info n="sup"/><info lex="m:f#mnI:n"/>
+<LEND>
+; ------------------------------------------------------------
+; Case 0018. L=3654, key=adas. 3 entries, 1 supplement entries REORDER
+; ------------------------------------------------------------
+<L>3654<pc>18,1<k1>adas<k2>ada/s<e>1
+<s>ada/s</s> ¦ <ab>nom.</ab> <lex>mf.</lex> <s>asO/</s> (<ab>voc.</ab> <s>a/sO</s>, <ls>MaitrS.</ls>) (<lex type="hwalt">n.</lex> <s>ada/s</s>), (opposed to <s>ida/m</s> <ab>q.v.</ab>), that, a certain<info lexcat="LEXID=pron,STEM=adas"/>
+<LEND>
+<L>3654.1<pc>18,1<k1>adas<k2>adas<e>1B
+<s>adas</s> ¦ (<s>adas</s>) <lex>ind.</lex> thus, so, there.<info lex="ind"/>
+<LEND>
+; SUPPLEMENT Additional adverbial sense
+<L>3654.2<pc>1310,1<k1>adas<k2>ada/s<e>1A
+¦ then, <ls>AV. xii, 1, 55</ls>.<info n="sup"/>
+<LEND>
+; ------------------------------------------------------------
+; Case 0022. L=5595, key=anAyatana. 3 entries, 1 supplement entries REORDER
+; ------------------------------------------------------------
+<L>5595<pc>28,2<k1>anAyatana<k2>a/n-Ayatana<e>1
+<s>a/n-Ayatana</s> ¦ <lex>n.</lex> or <s>an-Ayatana/</s> that which is not really a resting-place or an altar, <ls>ŚBr.</ls><info lex="n"/>
+<LEND>
+<L>5595.1<pc>28,2<k1>anAyatana<k2>a/n-Ayatana<e>1B
+<s>a/n-Ayatana</s> ¦ <lex>mfn.</lex> (<s>an-Ayatana/</s>) having no resting-place or altar, <ls>AV.</ls><info lex="m:f:n"/>
+<LEND>
+; SUPPLEMENT additional adjectival sense
+<L>5595.2<pc>1311,2<k1>anAyatana<k2>an-Ayatana<e>1A
+¦ groundless, <ls>Divyâv.</ls><info n="sup"/>
+<LEND>
+; ------------------------------------------------------------
+; Case 0058. L=21590, key=asvArTa. 3 entries, 1 supplement entries REORDER
+; ------------------------------------------------------------
+<L>21590<pc>123,3<k1>asvArTa<k2>a-svArTa<h>a<e>3
+<s>a-svA<srs/>rTa</s> <hom>a</hom> ¦ <lex>mfn.</lex> not fit for a proper object, useless, <ls>BhP.</ls><info lex="m:f:n"/>
+<LEND>
+; SUPPLEMENT
+<L>21590.1<pc>1318,3<k1>asvArTa<k2>a-svArTa<e>3A
+¦  useless, <ls>BhP.</ls><info n="sup"/><info lex="inh"/>
+<LEND>
+<L>21591<pc>123,3<k1>asvArTa<k2>a-svArTa<e>3A
+¦  unselfish, disinterested, <ls>L.</ls><info lex="inh"/>
+<LEND>
+; ------------------------------------------------------------
+; Case 0066. L=25376, key=ABogin. 3 entries, 1 supplement entries REORDER
+; ------------------------------------------------------------
+<L>25376<pc>146,1<k1>ABogin<k2>ABogin<h>2<e>2
+<hom>2.</hom> <s>ABogin</s> ¦ <lex>mfn.</lex> enjoying, eating, <ls>T.</ls><info lex="m:f:n"/>
+<LEND>
+<L>25377<pc>146,1<k1>ABogin<k2>ABogin<e>2A
+¦  (for <hom>1.</hom> <s>ABogin</s> See <s>A</s>- √ <hom>1.</hom> <s>Buj</s>.)<info lex="inh"/>
+<LEND>
+; SUPPLEMENT This should be after first homonym:  L=25343
+; Also need to add <hom>1</hom> 
+; and <h>1  to meta line
+<L>25377.1<pc>1319,3<k1>ABogin<k2>ABogin<e>2A
+¦ 1 (also) of great extent, <ls>Subh.</ls><info n="sup"/>
+<LEND>
+; ------------------------------------------------------------
+; Case 0103. L=47343, key=kAjala. 3 entries, 1 supplement entries REORDER
+; ------------------------------------------------------------
+<L>47343<pc>268,2<k1>kAjala<k2>kA-jala<e>1
+<s>kA-jala</s> ¦ <lex>n.</lex> (See <hom>2.</hom> <s>kA</s>) a little water, <ls>Vop. vi, 95</ls><info lex="n"/>
+<LEND>
+; SUPPLEMENT  additional n. sense
+; l change to 1A
+<L>47343.1<pc>1324,2<k1>kAjala<k2>kAjala<e>1A
+<s>kAjala</s> ¦ <lex>n.</lex> unguent (for <s>kajjala</s>, <ab>q.v.</ab>?), <ls>Daś.</ls><info n="sup"/><info lex="n"/>
+<LEND>
+<L>47344<pc>268,2<k1>kAjala<k2>kA-jala<e>1B
+<s>kA-jala</s> ¦ <lex>mfn.</lex> waterless, <s1 slp1="caraka">Caraka</s1>, <ls>vi, 2.</ls><info lex="m:f:n"/>
+<LEND>
+; ------------------------------------------------------------
+; Case 0105. L=48591, key=kArin. 3 entries, 1 supplement entries REORDER
+; ------------------------------------------------------------
+<L>48591<pc>274,3<k1>kArin<k2>kArin<h>1<e>2
+<hom>1.</hom> <s>kArin</s> ¦ <lex>mfn.</lex> (<ls>Pāṇ. 5-2, 72</ls>) doing, making, effecting, producing, acting, an actor, <ls>Yājñ.</ls>; <ls>MBh.</ls> &c. (mostly <ab>ifc.</ab> <ls>ŚBr.</ls>; <ls>Mn.</ls> &c.)<info lex="m:f:n"/>
+<LEND>
+; SUPPLEMENT this additional adj. sense to go after 48591
+; also 2B -> 2A
+<L>48591.1<pc>1324,3<k1>kArin<k2>kArin<e>2A
+¦ <hom>1.</hom> (<ab>accord.</ab> to some in <ls>RV.</ls> also, <s>kAri/n</s>, ‘conquering, victorious’).<info n="sup"/>
+<LEND>
+<L>48592<pc>274,3<k1>kArin<k2>kArin<e>2B
+<s>kArin</s> ¦ <lex>m.</lex> a mechanic, tradesman, <ls>L.</ls><info lex="m"/>
+<LEND>
+; ------------------------------------------------------------
+; Case 0129. L=85525, key=tIkzRIyas. 3 entries, 1 supplement entries REORDER
+; ------------------------------------------------------------
+<L>85525<pc>449,1<k1>tIkzRIyas<k2>tI/kzRIyas<e>3
+<s>tI/kzRIyas</s> ¦ <lex>mfn.</lex> Compar. sharper, <ls>AV. iii, 19, 4</ls><info lex="m:f:n"/>
+<LEND>
+; SUPPLEMENT
+<L>85525.1<pc>1328,2<k1>tIkzRIyas<k2>tI/kzRIyas<e>3A
+¦  sharper, <ls>AV.</ls><info n="sup"/><info lex="inh"/>
+<LEND>
+<L>85526<pc>449,1<k1>tIkzRIyas<k2>tI/kzRIyas<e>3A
+¦  <ab>cf.</ab> <s>te/hzRizWam</s>.<info lex="inh"/>
+<LEND>
+; ------------------------------------------------------------
+; Case 0139. L=106262, key=nAsika. 3 entries, 1 supplement entries REORDER
+; ------------------------------------------------------------
+<L>106262<pc>538,2<k1>nAsika<k2>nAsika<e>2
+<s>nAsika</s> ¦ <lex>m.</lex> or <lex type="hw">n.</lex> <ab>N.</ab> of a place (<ab>cf.</ab> below and <s>nAsikya</s>)<info lex="m:n"/>
+<LEND>
+; SUPPLEMENT  additional m. sense
+; also change 2B to 2A
+<L>106262.1<pc>1329,3<k1>nAsika<k2>nAsika<e>2A
+<s>nAsika</s> ¦ <ab>N.</ab> of a sacred town in Western India on the <s1 slp1="godAvarI">Godāvarī</s1> (called <ns>Nāsik</ns>, because <s1 slp1="lakzmaRa">Lakṣmaṇa</s1> here cut off the nose of <s1 slp1="rAvaRa">Rāvaṇa</s1>'s sister, the female <s1 slp1="rAkzasa">Rākṣasa</s1> <s1 slp1="SUrpa-RaKA">Śūrpa-ṇakhā</s1>, <ab>q.v.</ab>), <ls>IW. 353</ls>.<info n="sup"/>
+<LEND>
+<L>106263<pc>538,2<k1>nAsika<k2>nAsika<e>2A
+¦  in some <ab>comp.</ab> = <s>°sikA</s>.<info lex="inh"/>
+<LEND>
