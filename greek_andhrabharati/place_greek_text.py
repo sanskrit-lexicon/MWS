@@ -50,7 +50,7 @@ def extract_greek_AB(ABFile, logFile):
             # <gk>ἀ</gk>, <gk>ἀν</gk> -> ἀ,ἀν
             greekWords = greekWords.replace('<gk>', '')
             greekWords = greekWords.replace('</gk>', '')
-            gk = greekWords.replace(', ', '')
+            gk = re.sub('[ ]*', '', greekWords)
             print(k1 + ':' + pc + ':' + gk)
             flog.write(k1 + ':' + pc + ':' + gk + '\n')
     flog.close()
