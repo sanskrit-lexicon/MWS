@@ -39,10 +39,28 @@ def extract_greek(baseFile, logFile):
     flog.close()
 
 
+def extract_greek_AB(ABFile, logFile):
+    flog = codecs.open(logFile, 'w', 'utf-8')
+    with codecs.open(ABFile, 'r', 'utf-8') as fin:
+        for lin in fin:
+            lin = lin.rstrip()
+            [hwtype, pc, k1, greekWords] = lin.split('\t')
+            # aMh [2] -> aMh
+            k1 = re.sub('[^A-Za-z]*', '', k1)
+            # <gk>ἀ</gk>, <gk>ἀν</gk> -> ἀ,ἀν
+            greekWords = greekWords.replace('<gk>', '')
+            greekWords = greekWords.replace('</gk>', '')
+            gk = greekWords.replace(', ', '')
+            print(k1 + ':' + pc + ':' + gk)
+            flog.write(k1 + ':' + pc + ':' + gk + '\n')
+    flog.close()
+
+
 if __name__ == "__main__":
     baseFile = os.path.join('..', '..', 'csl-orig', 'v02', 'mw', 'mw.txt')
-    greekFile = 'MW_Gk_words.txt'
+    ABFile = 'MW_Gk_words.txt'
     outFile = 'mw1.txt'
     logFile1 = 'log_greek.txt'
-    extract_greek(baseFile, logFile1)
+    # extract_greek(baseFile, logFile1)
     logFile2 = 'log_greek_AB.txt'
+    extract_greek_AB(ABFile, logFile2)
