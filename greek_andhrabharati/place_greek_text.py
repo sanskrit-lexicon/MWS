@@ -16,6 +16,7 @@ Output files -
 """
 import os
 import codecs
+import re
 from parseheadline import parseheadline
 
 
@@ -28,14 +29,13 @@ def extract_greek(baseFile, logFile):
         for lin in fin:
             if lin.startswith('<L>'):
                 meta = parseheadline(lin)
-                lnum = meta['L']
                 pc = meta['pc']
                 k1 = meta['k1']
             if '<lang n="greek">' in lin:
-                print(';' + k1 + ':' + lnum + ':' + pc)
-                print(lin)
-                flog.write(';' + k1 + ':' + lnum + ':' + pc + '\n')
-                flog.write(lin)
+                greekData = re.findall('<lang n="greek">([^<]*)</lang>', lin)
+                gk = ','.join(greekData)
+                print(k1 + ':' + pc + ':' + gk)
+                flog.write(k1 + ':' + pc + ':' + gk + '\n')
     flog.close()
 
 
@@ -43,5 +43,6 @@ if __name__ == "__main__":
     baseFile = os.path.join('..', '..', 'csl-orig', 'v02', 'mw', 'mw.txt')
     greekFile = 'MW_Gk_words.txt'
     outFile = 'mw1.txt'
-    logFile = 'log_greek.txt'
-    extract_greek(baseFile, logFile)
+    logFile1 = 'log_greek.txt'
+    extract_greek(baseFile, logFile1)
+    logFile2 = 'log_greek_AB.txt'
