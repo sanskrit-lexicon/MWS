@@ -46,7 +46,8 @@ def extract_greek_AB(ABFile, logFile):
             lin = lin.rstrip()
             [hwtype, pc, k1, greekWords] = lin.split('\t')
             # aMh [2] -> aMh
-            k1 = re.sub('[^A-Za-z]*', '', k1)
+            k1 = re.sub(r'\[[0-9a-z]\]*$', '', k1)
+            k1 = k1.rstrip()
             # <gk>ἀ</gk>, <gk>ἀν</gk> -> ἀ,ἀν
             greekWords = greekWords.replace('<gk>', '')
             greekWords = greekWords.replace('</gk>', '')
