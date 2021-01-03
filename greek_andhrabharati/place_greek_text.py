@@ -53,7 +53,8 @@ def extract_greek_AB(ABFile, logFile):
             # <gk>ἀ</gk>, <gk>ἀν</gk> -> ἀ,ἀν
             greekWords = greekWords.replace('<gk>', '')
             greekWords = greekWords.replace('</gk>', '')
-            gk = re.sub('[ ]*', '', greekWords)
+            greekWords = greekWords.strip()
+            gk = re.sub(',[ ]*', ',', greekWords)
             print(k1 + ':' + pc + ':' + gk)
             flog.write(k1 + ':' + pc + ':' + gk + '\n')
     flog.close()
@@ -99,7 +100,7 @@ if __name__ == "__main__":
     ABFile = 'MW_Gk_words.txt'
     outFile = 'mw1.txt'
     logFile1 = 'log_greek.txt'
-    extract_greek(baseFile, logFile1)
+    # extract_greek(baseFile, logFile1)
     logFile2 = 'log_greek_AB.txt'
     extract_greek_AB(ABFile, logFile2)
     diffMd = 'greek_diff.md'
