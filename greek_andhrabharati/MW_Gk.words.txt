@@ -1,0 +1,733 @@
+<H1>	1,1	a [3]	<gk>ἀ</gk>, <gk>ἀν</gk>
+<H2B>	1,2	aMsa	<gk>ὦμος</gk>, <gk>ἄσιλλα</gk>
+<H2B>	1,2	aMhu	<gk>ἐγγύς</gk>
+<H2A>	1,2	aMhas	<gk>ἄχνυμαι</gk>, <gk>ἄχος</gk>, <gk>ἄγος</gk>
+<H1>	1,2	aMh [2]	<gk>ἄχος</gk>, <gk>ἐγγύς</gk>
+<H2A>	3,1	akza	<gk>ἄξων</gk>
+<H1B>	3,3	akzi 	<gk>ὄσσε</gk>, <gk>ὄκταλλος</gk>
+<H1C>	6,2	agre	<gk>ἄκρον</gk>
+<H2A>	7,1	aNka	<gk>ἀγκάς</gk>, <gk>ἀγκάλη</gk>, <gk>ἀγκών</gk>, <gk>ὄγκος</gk>
+<H2B>	7,2	aNkuSA	<gk>ἄγκιστρον</gk>
+<H2B>	7,2	aNkuSI	<gk>ἄγκιστρον</gk>
+<H2>	7,2	aNkas	<gk>ἄγκος</gk>
+<H2>	8,2	aNgira	<gk>ἄγγελος</gk>, <gk>ἄγγαρος</gk>
+<H2A>	9,2	aja	<gk>αἴξ</gk>, <gk>αἰγός</gk>
+<H1>	9,2	aj	<gk>ἄγω</gk>
+<H2>	10,3	ajra	<gk>ἀγρός</gk>
+<H1>	10,3	ajma [b]	<gk>ὄγμος</gk>
+<H1>	12,2	ati	<gk>ἔτι</gk>, <gk>ἀντί</gk>
+<H1>	17,3	ad [1]	<gk>ἔδω</gk>
+<H1>	24,1	an [2]	<gk>ἄνεμος</gk>
+<H1>	26,1	anaPA	<gk>ἀναφή</gk>
+<H1>	27,2	anaSva	<gk>ἄνιππος</gk>
+<H1B>	42,3	anta	<gk>ἄντα</gk>, <gk>ἀντί</gk>
+<H1A>	44,2	anti	<gk>ἀντί</gk>
+<H1>	44,3	antra	<gk>ἔντερον</gk>
+<H1>	45,1	anDas [2]	<gk>ἄνθος</gk>
+<H1A>	45,2	anya	<gk>ἄλλος</gk>, <gk>ἄλγο-ς</gk>, <gk>ἔνιοι</gk>
+<H1A>	47,3	ap	<gk>δ</gk>
+<H1A>	47,3	ap	<gk>ἀφρός</gk>
+<H1A>	47,3	apa	<gk>ἀπό</gk>
+<H1>	48,3	apaciti [3]	<gk>ἀπότισις</gk>
+<H1>	55,1	api	<gk>ἐπί</gk>
+<H1>	59,3	apsas	<gk>orκόλπος</gk>
+<H1A>	61,1	aBi	<gk>ἀμφί</gk>
+<H1A>	79,3	aBra	<gk>ὄμβρος</gk>
+<H3B>	81,3	amitraGAta	<gk>*᾿αμιτροχάτης</gk>
+<H1A>	84,1	amBas	<gk>ὄμβρος</gk>
+<H2>	84,1	amBfRa	<gk>ὄβριμος</gk>, <gk>ὄμβριμος</gk>
+<H1A>	87,1	aram	<gk>ἄρα</gk>
+<H1A>	88,1	aritf	<gk>ἐρέτης</gk>, <gk>ἐρετμόν</gk>
+<H1B>	93,1	arBa	<gk>ὀρφανός</gk>
+<H1>	93,3	arh	<gk>ἄρχω</gk>
+<H1>	96,1	ava [3]	<gk>αὐ</gk>, <gk>αὐτός</gk>, <gk>αὖ</gk>, <gk>αὖθι</gk>
+<H1>	96,1	av	<gk>ἀίω</gk>
+<H1B>	107,2	avi	<gk>ὄϊ-ς-s</gk>
+<H2B>	114,2	aSmanta	<gk>κάμινος</gk>
+<H1B>	114,3	aSvA	<gk>ἵππος</gk>
+<H1>	114,3	aSru	<gk>δάκρυ</gk>
+<H1>	116,2	azwan	<gk>ὀκτώ</gk>
+<H1>	117,1	as [1]	<gk>ἐσ-τί</gk>
+<H1A>	122,3	astra	<gk>ἄστρον</gk>, <gk>ἀστήρ</gk>
+<H1A>	122,3	asTi	<gk>ὀστέον</gk>
+<H1A>	123,2	asma	<gk>ἡμᾶς</gk>
+<H2B>	124,1	asvapna	<gk>ἄϋπνος</gk>
+<H1A>	124,2	aham	<gk>ἐγώ</gk>
+<H3>	124,3	ahorAtra [a]	<gk>νυχθήμερον</gk>
+<H1A>	125,1	ahi	<gk>ἔχι-ς</gk>, <gk>ἔχιδνα</gk>, <gk>ἔγχελυς</gk>, <gk>ὄφις</gk>
+<H2>	125,2	ahirbuDnyas 	<gk>ὄφις</gk>, <gk>Πύθων</gk>
+<H1>	128,1	Akokera	<gk>Αἰγόκερως</gk>
+<H1A>	129,3	Agas	<gk>ἄγος</gk>
+<H1A>	135,1	Atman	<gk>ἀϋτμήν</gk>, <gk>ἀτμός</gk>
+<H1>	142,2	Ap [1]	<gk>ἄφενος</gk>, <gk>ἀφνειός</gk>
+<H1>	144,1	Apoklima	<gk>ἀπόκλιμα</gk>
+<H1B>	146,2	Ama	<gk>ὠμός</gk>
+<H2B>	149,1	Ayus	<gk>αἰές</gk>, <gk>αἰών</gk>
+<H1B>	149,2	Ara	<gk>*῎αρης</gk>
+<H2A>	150,1	ArAma	<gk>ἠρέμα</gk>, <gk>ἔρημος</gk>
+<H1>	152,1	ArtnI	<gk>κορώνη</gk>
+<H1>	155,3	Avis	<gk>ἐξ</gk>
+<H1C>	157,3	ASu	<gk>ὠκύς</gk>, <gk>ὤκιστος</gk>
+<H2>	157,3	ASayAna	<gk>ὠκεανός</gk>
+<H1>	159,3	As [2]	<gk>ἧ</gk>, <gk>(σ)</gk>, <gk>-μαι</gk>, <gk>ἧς</gk>, <gk>ται</gk>
+<H1>	161,3	AsPujit	<gk>*᾿αφροδίτη</gk>
+<H1>	163,3	i [5]	<gk> εἶ-μι</gk>, <gk>ἴ-μεν</gk>
+<H1>	164,1	iK [a]	<gk>εἴκω</gk>, <gk>οἴχομαι</gk>
+<H1>	165,2	itTa	<gk>ἰχθύς</gk>
+<H1A>	166,2	indra	<gk>γ</gk>
+<H1B>	167,3	iBI	<gk> ἐλ-έφας</gk>
+<H1>	167,3	inD	<gk>αἴθω</gk>, <gk>ἰθαρός</gk>, <gk>αἰθήρ</gk>, <gk>Αἴτνη</gk>
+<H1>	168,2	il	<gk>ἐλάω</gk>
+<H2A>	168,3	izu	<gk>ἰός</gk>
+<H1>	169,1	iz [3]	<gk>ἰό-της</gk>, <gk>ἵμερος</gk>
+<H2B>	169,2	izira	<gk>ἱερός</gk>
+<H1A>	169,3	iha	<gk>ἰθα</gk>, <gk>ἰθαι</gk>, <gk>ἰθα-γενής</gk>, <gk>ἰθαι-γενής</gk>
+<H2A>	170,2	IdfSa	<gk>λικ</gk>, <gk>ὑμῆλιξ</gk>, <gk>λικο</gk>, <gk>τηλίκο-ς</gk>
+<H2A>	170,2	IdfSaka	<gk>λικ</gk>, <gk>ὑμῆλιξ</gk>, <gk>λικο</gk>, <gk>τηλίκο-ς</gk>
+<H1>	172,1	ukz [1]	<gk>ὑγρός</gk>, <gk>ὑγρότης</gk>, <gk>ὑγραίνω</gk>
+<H1B>	172,2	ugra	<gk>ὑγι-ής</gk>, <gk>ὑγίεια</gk>
+<H2>	174,3	ujjayinI	<gk>*᾿οζήνη</gk>
+<H3>	177,2	uttAnapAda	<gk>Β</gk>
+<H2C>	178,1	uttaram	<gk>ὕστερος</gk>
+<H1>	183,1	und [a]	<gk>ὕδωρ</gk>
+<H1>	183,1	ud [2]	<gk>ὕδωρ</gk>
+<H1A>	195,1	upa	<gk>ὑπό</gk>
+<H1A>	205,1	upari	<gk>ὑπέρ</gk>
+<H2A>	205,3	upalabDi	<gk>ὑπόληψις</gk>
+<H1B>	205,3	upalA	<gk>ὤπαλος</gk>
+<H1>	205,3	upalaB	<gk>ὑπολαμβάνω</gk>
+<H1>	216,2	uBa	<gk>ἄμφω</gk>
+<H1A>	217,3	uru	<gk>εὐρύς</gk>, <gk>εὐρύνω</gk>
+<H1B>	218,3	ulUka	<gk>ὀλ-ολυγ-αία</gk>
+<H2A>	220,1	uzas	<gk>φοῖβος</gk>
+<H2B>	220,1	uzas	<gk>ἠώς</gk>
+<H1A>	221,1	UDas	<gk>οὖθαρ</gk>
+<H2A>	221,3	UrRA	<gk>ἔρ-ι-ον</gk>
+<H3>	221,3	UrRavABi	<gk>ὑφ-αίνω</gk>
+<H1>	221,3	Urj [1]	<gk>ὀργάω</gk>
+<H1B>	222,1	UrDvam	<gk>ὀρθός</gk>
+<H1>	223,2	f [4]	<gk>ὄρ-νυ-μι</gk>, <gk>ἐρ-έ-της</gk>, <gk>ἀρό-ω</gk>
+<H1B>	224,3	fkza	<gk>ἄρκτος</gk>
+<H1B>	225,2	fjvI	<gk>ὀρέγω</gk>
+<H1A>	225,3	fjra	<gk>ἀργός</gk>, <gk>ἄργυρος</gk>
+<H1>	225,3	fYj [2]	<gk>ὀρέ-γω</gk>
+<H1B>	226,2	fBu	<gk>ἀλφεῖν</gk>
+<H2B>	226,3	fzaBI	<gk>ἄρσην</gk>
+<H1>	226,3	fz [1]	<gk>ἔρση</gk>, <gk>ἄψ-ορρος</gk>, <gk>παλίν-ορσος</gk>
+<H1>	227,3	eka	<gk>οἰ-ν-ός</gk>, <gk>οἶος</gk>
+<H2>	231,3	eman	<gk>οἶμος</gk>, <gk>οἴμη</gk>
+<H2>	231,3	ema [a]	<gk>οἶμος</gk>, <gk>οἴμη</gk>
+<H1B>	232,1	eDa	<gk>αἰθός</gk>, <gk>αἶθος</gk>
+<H1A>	232,1	enas	<gk>αἰνός</gk>
+<H1B>	232,1	erakA	<gk>αἶρα</gk>
+<H2A>	232,1	ena	<gk>ἕν</gk>, <gk>οἷος</gk>
+<H1B>	232,2	eva	<gk>αἰές</gk>, <gk>αἰών</gk>
+<H1B>	235,2	ojas	<gk>ὑγ-ιές</gk>, <gk>αὐγ-ή</gk>, <gk>ἐρι-αυγής</gk>
+<H1A>	240,2	ka	<gk>πόθεν</gk>, <gk>πῶς</gk>, <gk>κόθεν</gk>, <gk>κῶς</gk>, <gk>τίς</gk>, <gk>τί</gk>
+<H1>	242,1	kaK	<gk>καχάζω</gk>, <gk>καγχάζω</gk>
+<H1A>	245,2	kaRwa	<gk>κεντέω</gk>, <gk>κεστός</gk>, <gk>κέστρον</gk>
+<H2A>	246,3	kati	<gk>πόστος</gk>
+<H2A>	246,3	katara	<gk>πότερος</gk>, <gk>κότερος</gk>
+<H2A>	246,3	katiTa	<gk>πόστος</gk>
+<H1A>	248,1	kadA	<gk>κότε</gk>, <gk>πότε</gk>
+<H1A>	248,1	kadara	<gk>κέδρος</gk>
+<H1>	248,2	kan	<gk>καναψή</gk>
+<H1A>	249,2	kanTA	<gk>κέντρων</gk>
+<H1A>	249,3	kanda	<gk>κόνδος</gk>, <gk>κονδύλος</gk>
+<H1A>	250,1	kapanA	<gk>κάμπη</gk>
+<H1B>	250,2	kapAla	<gk>κωπή</gk>, <gk>κεφαλή</gk>
+<H1B>	250,3	kapi	<gk>κήπος</gk>, <gk>κεῖπος</gk>, <gk>κήβος</gk>
+<H1>	251,3	kam [1]	<gk>κεν</gk>
+<H1>	252,2	kamp	<gk>κάμπτω</gk>
+<H1A>	254,3	karaNka	<gk>κάρυον</gk>, <gk>κέρας</gk>, <gk>καρκίνος</gk>
+<H2B>	256,1	karkawI	<gk>καρκίνος</gk>
+<H1B>	256,1	karkara	<gk>κρόκη</gk>, <gk>κροκάλη</gk>
+<H1A>	258,1	karpAsa	<gk>κάρπασος</gk>
+<H1B>	260,3	kalaSI	<gk>κάλιξ</gk>
+<H1A>	260,3	kalama	<gk>κάλαμος</gk>
+<H1B>	263,2	kalya	<gk>καλός</gk>
+<H1>	265,2	kaz	<gk>κεωρέω</gk>, <gk>κάσσα</gk>
+<H1A>	266,2	kastUrikA	<gk>κάστωρ</gk>
+<H1>	266,2	kastIra	<gk>κασσίτερος</gk>
+<H1B>	271,2	kApizWala	<gk>Καμβισθολοί</gk>
+<H1A>	278,2	kAla	<gk>κήρ</gk>
+<H3B>	283,1	kiMnarA	<gk>κινύρα</gk>
+<H1>	283,3	kimpala	<gk>κύμβαλον</gk>
+<H2B>	287,2	kukzi	<gk>κοχώνη</gk>
+<H1>	291,1	kunta	<gk>κοντός</gk>
+<H1B>	291,3	kubja	<gk>κυφός</gk>, <gk>κύπτω</gk>
+<H1>	292,1	kuBA	<gk>Κωπήν</gk>
+<H1B>	293,1	kumBa	<gk>κύμβη</gk>
+<H3A>	295,2	kuleSvara	<gk>κατ᾽</gk>, <gk>ἐξοχήν</gk>
+<H3>	299,1	kuhUkaRWa	<gk>κόκκυ</gk>
+<H1>	299,1	kU [1]	<gk>κωκύω</gk>
+<H1B>	300,1	kUpI	<gk>κύπη</gk>
+<H1B>	300,2	kUrmI	<gk>κλέμμυς</gk>, <gk>χέλυς</gk>, <gk>χελώνη</gk>
+<H1>	300,3	kf [1]	<gk>κραίνω</gk>, <gk>κρόνος</gk>
+<H1>	304,2	kft [2]	<gk>κείρω</gk>, <gk>κάρσις</gk>
+<H2B>	305,3	kfSa	<gk>κολοσσός</gk>, <gk>κολοκ</gk>, <gk>ός</gk>
+<H1>	308,2	kF [1]	<gk>κεράννυμι</gk>, <gk>κίρνημι</gk>
+<H1>	309,2	kemadruma	<gk>κενο-δρόμος</gk>
+<H1>	309,2	kendra	<gk>κέντρον</gk>
+<H1A>	313,1	koRa	<gk>Κρόνος</gk>
+<H1>	317,1	kOrpi	<gk>σκορπίος</gk>
+<H1B>	319,1	kratu	<gk>κράτος</gk>
+<H2A>	320,2	kravis	<gk>κρέας</gk>
+<H1>	320,2	kramela	<gk>κάμηλος</gk>
+<H1>	320,3	kriya	<gk>κριός</gk>
+<H1>	321,2	krI [1]	<gk>πρίαμαι</gk>, <gk>πέρνημι</gk>
+<H1>	322,1	kruD [1]	<gk>κότος</gk>
+<H1>	322,2	kruS	<gk>κρώζω</gk>, <gk>κράζω</gk>, <gk>κραγγή</gk>
+<H1>	323,2	kland	<gk>κλάζω</gk>
+<H2B>	324,2	kloman	<gk>πνεύμων</gk>, <gk>πλεύμων</gk>
+<H1>	325,3	kzan [1]	<gk>κτείνω</gk>, <gk>καίνω</gk>, <gk>ξαίνω</gk>, <gk>σίνομαι</gk>, <gk>ξίνομαι</gk>
+<H1A>	326,1	kzap	<gk>κνέφας</gk>
+<H2A>	326,2	kzam	<gk>χαμαί</gk>, <gk>χθαμαλός</gk>
+<H2>	326,2	kzam [2]	<gk>χθών</gk>
+<H2A>	326,3	kzamA	<gk>χαμᾶ-ζε</gk>, <gk>χαμά-θεν</gk>
+<H2>	326,3	kzamya [a]	<gk>χθόνιος</gk>
+<H1>	327,3	kzi [1]	<gk>κτάομαι</gk>
+<H1>	327,3	kzi [2]	<gk>κτίζω</gk>
+<H1>	328,1	kzi [4]	<gk>φθί-νω</gk>, <gk>φθί-σι-ς</gk>
+<H2>	328,2	kzita [a]	<gk>φθι-τό-ς</gk>
+<H2B>	329,1	kzipra	<gk>κραιπνός</gk>
+<H1>	330,2	kzud [1]	<gk>ξύω</gk>, <gk>ξέω</gk>, <gk>ξέϝω</gk>, <gk>ξυστός</gk>, <gk>ξεστός</gk>
+<H2B>	331,1	kzudraka	<gk>*᾿οξυδρακοι</gk>
+<H2>	331,3	kzura	<gk>ξυρόν</gk>
+<H1>	331,3	kzuB [1]	<gk>κοῦφος</gk>
+<H1>	333,3	kzRu	<gk>ξύω</gk>, <gk>ξυρόν</gk>
+<H1B>	334,2	KA	<gk>χάος</gk>
+<H1>	335,1	KaYj [1]	<gk>σκάζω</gk>
+<H1>	336,3	Kan	<gk>χαίνω</gk>, <gk>χανῶ</gk>, <gk>χώννυμι</gk>
+<H1B>	337,1	Kara	<gk>ἐσχάρα</gk>
+<H1>	338,2	Kalina [2]	<gk>χαλινός</gk>
+<H1>	339,3	Kid	<gk>κῆδος</gk>
+<H2>	341,1	Kola	<gk>χωλός</gk>
+<H1B>	346,2	ganDarva	<gk>κένταυρος</gk>, <gk>κενθαρϝο-ς</gk>
+<H1>	346,3	gam [1]	<gk>βάσκ-ω</gk>, <gk>βαίνω</gk>
+<H1A>	349,3	garBa	<gk>δελφός</gk>
+<H1>	352,1	gA [1]	<gk>βίβημι</gk>, <gk>ἔβην</gk>
+<H1B>	355,1	gir	<gk>γῆρυς</gk>
+<H1>	358,3	guD	<gk>κεύθω</gk>
+<H1B>	359,2	guru	<gk>βαρύς</gk>
+<H1>	363,1	gF [1]	<gk>γηρύω</gk>, <gk>γλῶσσα</gk>
+<H1B>	363,3	go	<gk>βοῦς</gk>, <gk>γαῖα</gk>, <gk>γῆ</gk>
+<H1>	370,3	gnA	<gk>γυνή</gk>
+<H1>	370,3	graT [1]	<gk>κλώθω</gk>
+<H1>	370,3	granT [1]	<gk>κλώθω</gk>
+<H1>	371,2	gras [1]	<gk>γράω</gk>
+<H1>	375,1	Ga [2]	<gk>γε</gk>
+<H1B>	376,1	Gana	<gk>φόνος</gk>
+<H1A>	376,3	Garma	<gk>θερμός</gk>, <gk>θέρμη</gk>
+<H1>	380,1	ca [2]	<gk>τε</gk>, <gk>τε</gk>
+<H1B>	380,3	cakra	<gk>κύκλος</gk>
+<H2>	384,1	catur	<gk>τέσσαρες</gk>, <gk>τέτταρες</gk>, <gk>πίσυρες</gk>
+<H3A>	384,3	caturDA	<gk>τέτραχα</gk>
+<H2A>	385,2	caturTaka	<gk>τετραϊκός</gk>
+<H2C>	385,2	caturTam	<gk>τέταρτος</gk>
+<H2A>	386,1	catvAriMSat	<gk>τεσσαράκοντα</gk>
+<H3>	387,1	candragupta	<gk>Σανδρο-κυπτος</gk>, <gk>Σανδρο-κοττος</gk>
+<H1>	389,1	cay	<gk>κίω</gk>, <gk>κι</gk>
+<H1>	389,1	car	<gk>πέλομαι</gk>, <gk>ἀμφί-πολο-ς</gk>, <gk>ἀνα-τολή</gk>
+<H2A>	390,3	carman	<gk>πέλμα</gk>
+<H1>	391,1	cal	<gk>κέλλω</gk>, <gk>ὀκέλλω</gk>, <gk>κέλης</gk>
+<H1>	393,2	cAy	<gk>τίω</gk>, <gk>τιμή</gk>
+<H1>	394,3	ci [3]	<gk>τίνομαι</gk>, <gk>τινά</gk>, <gk>τίω</gk>, <gk>τίσις</gk>, <gk>ποινή</gk>
+<H1>	400,1	cud	<gk>σπεύδω</gk>, <gk>σπουδάζω</gk>
+<H2A>	403,3	cyuta	<gk>ἀποκλίματα</gk>
+<H1>	405,3	CAga	<gk>σκάζω</gk>
+<H1B>	406,1	CAyA [a]	<gk>σκιά</gk>
+<H1>	406,2	Cid [1]	<gk>σχίζω</gk>, <gk>σχίδη</gk>
+<H1A>	409,3	jaWara	<gk>γαστήρ</gk>
+<H1>	410,1	jan	<gk>γίγνομαι</gk>
+<H3>	411,1	janitf	<gk>γενετήρ</gk>
+<H3B>	411,1	janitrI	<gk>γενέτειρα</gk>
+<H2B>	412,1	jamBa	<gk>γαμφηλαί</gk>
+<H2B>	413,3	jarat	<gk>γέρων</gk>
+<H2B>	414,1	jaras	<gk>γῆρας</gk>
+<H2B>	414,1	jarAyu	<gk>γῆρας</gk>
+<H1>	417,1	jAgf	<gk>ἐγείρω</gk>
+<H1B>	417,3	jAta	<gk>-γετος</gk>
+<H2A>	418,2	jAtya	<gk>γνήσιος</gk>
+<H1A>	418,3	jAnu	<gk>γόνυ</gk>
+<H1>	419,2	jAmitra	<gk>διάμετρον</gk>
+<H1>	421,1	jituma	<gk>δίδυμοι</gk>
+<H1>	424,1	juz [1]	<gk>γεύομαι</gk>
+<H2>	424,2	jUka	<gk>ζυγόν</gk>
+<H1>	424,3	jenya	<gk>γενναῖος</gk>
+<H1>	424,3	jF [2]	<gk>γῆρυς</gk>
+<H1>	425,2	jYA [1]	<gk>γνοίης</gk>, <gk>γνῶ-θι</gk>
+<H2A>	426,1	jYAtf	<gk>γνωστήρ</gk>
+<H2>	426,3	jyA [2]	<gk>βία</gk>
+<H1>	426,3	jyA [1]	<gk>βιάω</gk>
+<H1>	427,1	jyA [3]	<gk>βιός</gk>
+<H2A>	427,3	jyotis	<gk>φάος</gk>, <gk>φῶς</gk>
+<H1>	428,1	jyO	<gk>Ζεύς</gk>
+<H3B>	431,3	takzaSilA	<gk>Τάξιλα</gk>
+<H2>	431,3	takzan	<gk>τέκτων</gk>
+<H2A>	432,3	tatas	<gk>τότε</gk>, <gk>τόθεν</gk>
+<H2B>	434,1	tad	<gk>ὁ</gk>, <gk>ἡ</gk>, <gk>τό</gk>
+<H1>	435,1	tan [2]	<gk>τόνος</gk>
+<H1>	435,1	tan [3]	<gk>τάνομαι</gk>, <gk>τείνω</gk>
+<H2B>	435,2	tanu	<gk>τανυ-</gk>
+<H1B>	439,3	taruRa	<gk>τέρην</gk>
+<H2>	440,1	tarku	<gk>ἄτρακτος</gk>
+<H1A>	441,3	tAta	<gk>τέττα</gk>
+<H1A>	442,2	tAna	<gk>τόνος</gk>
+<H3>	446,1	tAvuri	<gk>ταῦρος</gk>
+<H1>	446,1	tij	<gk>στίζω</gk>
+<H2B>	446,3	tittiri	<gk>τέτραξ</gk>
+<H1>	450,2	tup	<gk>τύπ-τ-ω</gk>, <gk>τύμπανον</gk>
+<H1>	450,2	tuP	<gk>τύπ-τ-ω</gk>, <gk>τύμπανον</gk>
+<H1>	450,2	tud [1]	<gk>Τυδ-εύ-ς</gk>
+<H1>	451,2	tul	<gk>τλῆ-ναι</gk>
+<H1>	453,3	tfp [1]	<gk>τέρπω</gk>
+<H1>	454,1	tfz [1]	<gk>τέρσομαι</gk>
+<H1>	456,2	tOkzika	<gk>Τοξότης</gk>
+<H1B>	456,3	tmanA	<gk>μέν</gk>, <gk>μήν</gk>
+<H1>	456,3	tyaj [1]	<gk>σέβεται</gk>
+<H2A>	457,2	trayas	<gk>τρισ-καί-δεκα</gk>, <gk>τρεῖσ-καί-δεκαx</gk>
+<H1>	457,3	tri	<gk>τρεῖς</gk>
+<H3>	457,3	trasadasyu	<gk>Φερεκύδης</gk>
+<H1>	457,3	tras [2]	<gk>τρέω</gk>
+<H3>	458,1	trikoRa	<gk>τρί-γωνον</gk>
+<H3>	459,2	tripur	<gk>Τρίπολις</gk>
+<H2>	461,3	trita	<gk>τρίτος</gk>, <gk>Τρίτων</gk>, <gk>τριτο-γενής</gk>
+<H1A>	463,2	tva	<gk>τοι</gk>
+<H1>	463,2	tvakz	<gk>τυκ</gk>, <gk>τυχ</gk>
+<H1>	464,3	daMS [2]	<gk>δάκνω</gk>
+<H2B>	465,1	dakza	<gk>δεξιός</gk>
+<H2>	465,1	daMsu	<gk>δασύς</gk>, <gk>βαρύς</gk>
+<H1>	466,2	daRqa	<gk>δένδρο-ν</gk>
+<H1>	466,2	daG	<gk>δέχομαι</gk>
+<H1A>	467,2	dat	<gk>ὀδόντ</gk>
+<H2A>	469,2	dam	<gk>δῶ</gk>
+<H2>	469,2	dama	<gk>δόμος</gk>
+<H3>	469,2	dampati [a]	<gk>δεσ-πότης</gk>
+<H1>	469,2	dam [1]	<gk>δάμνημι</gk>, <gk>δμώς</gk>
+<H2A>	472,3	daSan	<gk>δέκα</gk>
+<H1>	473,1	das	<gk>δεῖ</gk>
+<H1>	473,2	dA [1]	<gk>δίδωμι</gk>
+<H3A>	474,1	dAtf	<gk>δωτήρ</gk>, <gk>δοτήρ</gk>
+<H1>	474,3	dA [4]	<gk>δέω</gk>, <gk>δίδημι</gk>
+<H2B>	475,1	dAman	<gk>δῆμα</gk>, <gk>διά-δημα</gk>, <gk>δεμνον</gk>, <gk>κρή-δεμνον</gk>
+<H1B>	476,1	dAru	<gk>δόρυ</gk>, <gk>δρῦς</gk>
+<H1>	476,3	dAS [1]	<gk>δωκ</gk>, <gk>ἔ-δωκ-α</gk>, <gk>δέ-δωκ-α</gk>
+<H2A>	478,3	divasa	<gk>διϝες</gk>, <gk>εὐδιέστερος</gk>, <gk>εὐδιεινός</gk>, <gk>εὐδιεσνός</gk>
+<H2B>	478,3	dyu	<gk>Ζεύς</gk>, <gk>Διϝός</gk>
+<H2A>	478,3	diva	<gk>διϝο</gk>, <gk>ἐν-διος</gk>
+<H2B>	479,2	divya	<gk>δῖος</gk>, <gk>διϝιος</gk>
+<H1>	479,3	diS [1]	<gk>δείκνυμι</gk>
+<H2A>	480,2	diS	<gk>δίκη</gk>
+<H1>	480,2	dI [1]	<gk>δίεμαι</gk>, <gk>δίνη</gk>, <gk>δινεύω</gk>, <gk>δῖνος</gk>
+<H1>	480,2	dI [2]	<gk>δέατο</gk>, <gk>δέελος</gk>, <gk>δῆλος</gk>
+<H1>	480,2	dih [1]	<gk>θιγγάνω</gk>, <gk>ἔ-θιγ-ον</gk>, <gk>τεῖχος</gk>, <gk>τοῖχος</gk>
+<H1>	481,1	dInAra	<gk>δηνάριον</gk>
+<H1B>	481,3	dIrGa	<gk>δυλιχός</gk>
+<H1>	482,3	du [1]	<gk>δύω</gk>, <gk>δύνω</gk>, <gk>δεύομαι</gk>
+<H1>	482,3	dU [1a]	<gk>δύω</gk>, <gk>δύνω</gk>, <gk>δεύομαι</gk>
+<H1>	482,3	du [2]	<gk>δαίω</gk>, <gk>δαϝιω</gk>, <gk>δύη</gk>
+<H1>	482,3	dU [2a]	<gk>δαίω</gk>, <gk>δαϝιω</gk>, <gk>δύη</gk>
+<H3B>	486,2	durmanas	<gk>δυσ-μενής</gk>
+<H2A>	488,2	dus	<gk>δυσ</gk>
+<H1>	488,2	duruDarA	<gk>δορυφορία</gk>
+<H2>	489,2	duhitf	<gk>θυγάτηρ</gk>
+<H1>	489,2	duh [2]	<gk>ἀμέλγεσθαι</gk>
+<H1>	490,3	dfkARa	<gk>δέκανος</gk>
+<H1A>	491,1	dfti	<gk>δέρμα</gk>
+<H1>	491,1	dfS [1]	<gk>δέρκομαι</gk>, <gk>δέδορκα</gk>, <gk>ἔδρακον</gk>
+<H2B>	491,3	dfS	<gk>δρα</gk>, <gk>δρακ</gk>, <gk>ὑπόδρα</gk>
+<H1>	492,2	dF	<gk>δέρω</gk>, <gk>δαίρω</gk>
+<H2>	496,2	devf	<gk>δαήρ</gk>
+<H1>	500,2	dyuta	<gk>δυτόν</gk>
+<H1>	500,3	dramma	<gk>δραχμή</gk>
+<H1>	500,3	dram	<gk>ἔ-δραμ-ον</gk>, <gk>δέ-δρομ-α</gk>, <gk>δρόμος</gk>
+<H1>	501,2	drA [2]	<gk>δι-δρά-σκω</gk>, <gk>δρᾶναι</gk>
+<H1>	502,3	drE	<gk>ἔδραθον</gk>
+<H1>	502,3	drA [a]	<gk>δι-δρά-σκω</gk>
+<H1A>	503,2	dva	<gk>δύο</gk>, <gk>δύω</gk>, <gk>δι</gk>, <gk>Διϝός</gk>
+<H1B>	503,2	dvayam	<gk>δοίος</gk>
+<H2>	503,3	dvAdaSan [b]	<gk>δώ-δεκα</gk>
+<H2>	504,2	dvAr	<gk>θύρα</gk>
+<H2>	506,3	dvis	<gk>δίς</gk>
+<H1>	506,3	dviz [2]	<gk>ὀ-δύσ-ατο</gk>
+<H1>	513,1	Dav	<gk>θεϝ</gk>, <gk>θέω</gk>, <gk>θεύσομαι</gk>, <gk>θοός</gk>
+<H1>	513,2	DA [1]	<gk>θε-</gk>, <gk>θη-</gk>, <gk>τίθημι</gk>
+<H2B>	513,3	DAkA	<gk>θήκη</gk>
+<H2A>	514,1	DAtf	<gk>θετήρ</gk>
+<H2B>	514,3	DAman	<gk>θημον</gk>, <gk>εὐ-θήμων</gk>, <gk>θαμά</gk>, <gk>θωμός</gk>
+<H1>	517,3	DU [1]	<gk>θύω</gk>, <gk>θύνω</gk>, <gk>θυμός</gk>
+<H1>	519,1	Df	<gk>θρόνος</gk>, <gk>θρᾶ-νος</gk>, <gk>θρή-σασθαι</gk>
+<H1>	519,3	Dfz	<gk>θάρσος</gk>, <gk>θαρσίω</gk>
+<H1>	520,1	De	<gk>θή-σασθαι</gk>, <gk>γαλα-θηνός</gk>, <gk>θη-λή</gk>
+<H1A>	523,1	na	<gk>νη-</gk>
+<H1B>	524,1	naktA	<gk>νύξ</gk>
+<H1B>	524,3	naKa	<gk>ὄνυξ</gk>, <gk>ὀ-νυχ</gk>
+<H1B>	527,2	naptrI	<gk>νέποδες</gk>, <gk>ἀνεψιός</gk>
+<H2B>	527,3	naBas	<gk>νέφος</gk>, <gk>νεφέλη</gk>
+<H1>	528,1	nam	<gk>νέμω</gk>, <gk>νέμος</gk>, <gk>νόμος</gk>
+<H1B>	530,3	nava	<gk>νέος</gk>, <gk>νέϝος</gk>
+<H2>	531,3	navan 	<gk>ἐννέα</gk>, <gk> ἐ-νϝεα</gk>, <gk> ἐ-νεϝα</gk>
+<H1>	532,1	naS [2]	<gk>νεκ-ρός</gk>
+<H1>	532,2	nas [1]	<gk>νῶϊ</gk>, <gk>νώ</gk>
+<H1>	532,2	nas [2]	<gk>νέ</gk>, <gk>σ</gk>, <gk>μαι</gk>, <gk>να-</gk>, <gk>σ</gk>, <gk>ίω</gk>, <gk>νόσ-τος</gk>
+<H2A>	536,2	nAman	<gk>ὄ-νομα</gk>
+<H1A>	538,3	ni	<gk>ἐ-νί</gk>
+<H1>	546,3	nij	<gk>νίζω</gk>, <gk>νιγ-ζω</gk>
+<H3>	547,2	nitambavat	<gk>καλλίπυγος</gk>
+<H1>	549,2	nind	<gk>ὄ-νειδος</gk>
+<H1B>	565,2	nIca	<gk>ταπείνωμα</gk>
+<H1A>	567,1	nu	<gk>νύ</gk>, <gk>νῦν</gk>
+<H3>	567,1	nIleSvara	<gk>Νελκύνδα</gk>
+<H1A>	567,3	nf	<gk>ἀ-νηρ</gk>, <gk>-νερ</gk>
+<H1A>	571,2	nO	<gk>ναῦς</gk>, <gk>ναύ-της</gk>
+<H1>	575,1	pac [2]	<gk>πέσσω</gk>, <gk>πεκ-</gk>, <gk>ω</gk>
+<H2>	575,2	pajra	<gk>πηγός</gk>
+<H1>	575,2	paYj [a]	<gk>πήγνυμι</gk>
+<H1>	575,2	paj [a]	<gk>πήγνυμι</gk>
+<H2>	578,2	paYcan	<gk>πέντε</gk>, <gk>πέμπε</gk>
+<H2>	578,2	paYcaTa	<gk>πέμπτος</gk>
+<H2>	578,3	paYcASat	<gk>πεντήκοντα</gk>
+<H1>	580,2	paRaPara	<gk>ἐπαναφορά</gk>
+<H1>	580,3	pat [2]	<gk>πέτομαι</gk>, <gk>πί-πτω</gk>
+<H2A>	581,2	pattra	<gk>πτερόν</gk>, <gk>πετερόν</gk>
+<H1B>	582,1	pati	<gk>πόσις</gk>
+<H2A>	582,2	patnI	<gk>πότνια</gk>
+<H2A>	582,3	paTin	<gk>πάτος</gk>
+<H2A>	583,1	pad	<gk>πούς</gk>, <gk>ποδ-ός</gk>
+<H2A>	583,2	pada	<gk>πέδον</gk>
+<H1C>	586,2	pare [a]	<gk>πέρα</gk>, <gk>πέραν</gk>
+<H1A>	589,2	paraSu	<gk>πέλεκυς</gk>, <gk>πέλεκκον</gk>
+<H1A>	591,2	pari	<gk>περί</gk>
+<H1>	600,3	parivid [a]	<gk>περόοιδε</gk>
+<H1>	606,1	parut	<gk>πέρυτι</gk>, <gk>πέρυσι</gk>
+<H1>	606,3	pard	<gk>πέρδω</gk>
+<H1>	609,2	parSu [1]	<gk>φάλκης</gk>
+<H1B>	610,2	palita	<gk>πελιτνός</gk>, <gk>πολιός</gk>
+<H1>	610,3	palvala	<gk>πηλός</gk>
+<H1>	612,3	pasas	<gk>πέος</gk>, <gk>πέσος</gk>
+<H1>	612,3	pA [1]	<gk>πέ-πω-κα</gk>, <gk>πώ-νω</gk>, <gk>πίνω</gk>
+<H1>	613,2	pA [3]	<gk>πά-ομαι</gk>, <gk>πέ-πα-μαι</gk>, <gk>πῶ-ν</gk>
+<H1A>	615,2	pARi	<gk>παλάμη</gk>
+<H1>	617,1	pATona	<gk>παρθένος</gk>
+<H1>	621,3	pArTona [4]	<gk>παρθένος</gk>
+<H1>	621,3	pArTa [4]	<gk>παρθένος</gk>
+<H1B>	626,2	pitf	<gk>πατήρ</gk>
+<H2A>	627,1	pitfvya	<gk>πάτρως</gk>
+<H1>	628,1	piS [1]	<gk>ποικίλος</gk>
+<H1>	628,3	piz	<gk>πτίσσω</gk>
+<H2B>	630,2	pIvan	<gk>πίων</gk>, <gk>πίϝων</gk>, <gk>πίειρα</gk>
+<H2>	630,2	pIvas	<gk>πῖαρ</gk>
+<H1B>	632,3	putra	<gk>παῖς</gk>
+<H3>	633,3	punarbAla	<gk>παλίμπαις</gk>
+<H2A>	634,2	puras	<gk>πάρος</gk>
+<H1A>	635,2	pur	<gk>πόλις</gk>
+<H2A>	635,3	pura	<gk>κατ᾽ ἐξοχήν</gk>
+<H1B>	636,2	puru	<gk>πολύ</gk>
+<H3>	639,1	puzkarAvatI	<gk>Πευκελαῶτις</gk>
+<H2A>	640,2	puzya	<gk>ἄνθος</gk>
+<H1>	640,3	pU [1]	<gk>πῦρ</gk>
+<H1>	641,2	pUy	<gk>πύον</gk>, <gk>πύθω</gk>
+<H1>	645,1	pf [1]	<gk>περάω</gk>, <gk>πόρος</gk>, <gk>πορεύεσθαι</gk>
+<H2B>	646,2	pfTvI [a]	<gk>πλατύς</gk>
+<H1B>	647,1	pfSni	<gk>περκνός</gk>
+<H1>	648,1	pF	<gk>πίμπλημι</gk>
+<H2>	650,1	potala	<gk>Πατάλα</gk>
+<H1A>	652,2	pra	<gk>πρό</gk>
+<H3A>	658,3	prajApati	<gk>δ</gk>
+<H1A>	661,3	prati	<gk>προτί</gk>, <gk>ποτί</gk>, <gk>πρός</gk>
+<H3>	685,2	pramanTu	<gk>Προμηθεύς</gk>
+<H1B>	690,2	pravaRa	<gk>πρηνής</gk>
+<H1>	701,3	prA [1]	<gk>πλή-ρης</gk>
+<H1A>	706,2	prAtar	<gk>πρωΐ</gk>
+<H2A>	715,1	plIhan	<gk>σπλήν</gk>, <gk>σπλάγχνον</gk>
+<H1>	715,1	plu	<gk>πλέω</gk>, <gk>πλεϝω</gk>, <gk>πλύνω</gk>
+<H2B>	715,2	plava	<gk>πλόος</gk>, <gk>πλοϝος</gk>, <gk>πλοῖον</gk>
+<H1>	720,1	banD	<gk>πενθερός</gk>, <gk>πεῖσμα</gk>
+<H1B>	721,3	baBru	<gk>φρύνη</gk>, <gk>φρῦνος</gk>
+<H1B>	730,2	bAhu	<gk>πᾶχυς</gk>, <gk>πῆχυς</gk>
+<H3>	730,3	bAhvaNka	<gk>ἀγκων</gk>
+<H1>	733,1	buD [1]	<gk>πυθ</gk>, <gk>φυθ</gk>, <gk>πυνθάνομαι</gk>, <gk>πυθέσθαι</gk>
+<H1A>	735,1	buDna	<gk>πυθμήν</gk>
+<H1B>	738,1	brahman	<gk>δ</gk>
+<H1>	742,2	BakaBakAya	<gk>βρεκεκεκέξ</gk>
+<H1>	743,1	Baj	<gk>φαγεῖν</gk>, <gk>φαγός</gk>, <gk>φηγός</gk>
+<H2B>	743,3	Baga	<gk>Βαγαῖος</gk>
+<H1>	748,2	BarukacCa	<gk>Βαρύγαζα</gk>
+<H2>	748,2	Bargas	<gk>φλέγος</gk>
+<H1>	750,3	BA [1]	<gk>φημί</gk>, <gk>φάσκω</gk>
+<H1>	759,1	Buj [1]	<gk>φεύγω</gk>
+<H1>	760,1	Bur	<gk>φύρω</gk>, <gk>πορφύρω</gk>
+<H1>	760,1	BU [1]	<gk>φύω</gk>, <gk>ἔφυν</gk>
+<H1>	764,3	Bf [1]	<gk>φέρω</gk>
+<H1>	765,1	Bfgu	<gk>οἱ Φλεγύαι</gk>
+<H1>	769,2	Bram	<gk>βρέμω</gk>
+<H1>	769,2	Brajj [1]	<gk>φρύγω</gk>
+<H1>	770,1	BrAj [1]	<gk>φλέγω</gk>
+<H2>	770,2	BrAj [2]	<gk>φλόξ</gk>
+<H1>	770,2	BrAtf	<gk>φράτηρ</gk>
+<H1>	770,3	BrU	<gk>ὀ-φρύς</gk>
+<H1A>	771,1	ma 	<gk>ἐ-μέ</gk>,  <gk>μέ</gk>
+<H2>	772,1	maKasya	<gk>μαχέομαι</gk>
+<H1A>	774,3	maRi	<gk>μάννος</gk>, <gk>μόννος</gk>
+<H1>	777,1	maT [1]	<gk>μίνθη</gk>
+<H1>	777,1	manT [a]	<gk>μίνθη</gk>
+<H1>	777,3	mad [2a]	<gk>μαδάω</gk>
+<H1B>	779,3	maDu	<gk>μέθυ</gk>, <gk>μέθη</gk>
+<H1B>	781,3	maDya	<gk>μέσσος</gk>, <gk>μέσος</gk>, <gk>μέθιος</gk>
+<H1>	783,1	man [b]	<gk>μένω</gk>, <gk>μέμονα</gk>
+<H2A>	784,1	manas	<gk>μένος</gk>
+<H2A>	785,3	mantf	<gk>Μέντωρ</gk>
+<H1>	789,3	marakata	<gk>σμάραγδος</gk>
+<H1B>	790,1	marIci	<gk>η</gk>
+<H1>	790,2	marut	<gk>μαρμαίρω</gk>
+<H1A>	791,1	marta	<gk>μορτός</gk>, <gk>βροτός</gk>
+<H1B>	791,3	marmara	<gk>μορμύρω</gk>
+<H1B>	792,1	mala	<gk>μέλας</gk>
+<H1>	794,1	mah [1]	<gk>μέγ-ας</gk>
+<H3A>	795,3	mahAgrAma	<gk>Μαάγραμμον</gk>
+<H1A>	804,1	mA	<gk>μή</gk>
+<H1>	804,2	mA [3]	<gk>μέτρον</gk>, <gk>μετρέω</gk>
+<H1A>	807,1	mAtf	<gk>μάτηρ</gk>, <gk>μήτηρ</gk>
+<H1A>	814,3	mAs	<gk>μήν</gk>, <gk>μήνη</gk>
+<H1>	817,3	miSr	<gk>μίσγω</gk>, <gk>μίγνυμι</gk>
+<H1>	818,2	mih [1]	<gk>ὀμιχεῖν</gk>
+<H1>	818,2	mI [1]	<gk>μινύω</gk>
+<H1>	820,3	muc [2]	<gk>μύσσω</gk>, <gk>μῦκος</gk>, <gk>μυκτής</gk>
+<H1A>	823,3	muruRqa	<gk>Μαροῦνδαι</gk>
+<H2A>	824,2	muzka	<gk>μύσχον</gk>
+<H2>	827,1	mUz [2]	<gk>μῦς</gk>
+<H1>	827,2	mf	<gk>βροτός</gk>, <gk>μροτός</gk>
+<H3>	828,3	mfgaSiras	<gk>λ</gk>
+<H1>	829,2	mfj [1]	<gk>ὀ-μόργνυμι</gk>, <gk>ἀ-μέργω</gk>, <gk>ἀ-μέλγω</gk>
+<H1>	830,1	mfd [1]	<gk>ἀ-μαλδ-ύνω</gk>
+<H2B>	830,2	mfdu	<gk>βραδύς</gk>
+<H1>	834,1	mezUraRa	<gk>μεσουράνημα</gk>
+<H1>	838,1	ya [3]	<gk>ὅς</gk>, <gk>ἥ</gk>, <gk>ὅ</gk>
+<H1>	838,2	yakft	<gk>ἧηπαρ</gk>
+<H1>	838,3	yaj [1]	<gk>ἁγνός</gk>, <gk>ἄγος</gk>, <gk>ἅζομαι</gk>
+<H2A>	841,2	yatas	<gk>ὅτι</gk>
+<H1>	845,2	yam	<gk>ζημία</gk>
+<H1A>	847,2	yava	<gk>ζειά</gk>
+<H1>	849,1	yas	<gk>ζέω</gk>
+<H2>	85,3	ayAsya	<gk>ἀιζήιος</gk>
+<H1>	851,1	yAtf [2]	<gk>εἰνάτηρ</gk>
+<H1>	851,1	yAt [2]	<gk>ὡς</gk>
+<H1>	853,2	yuj [1]	<gk>ζεύγνυμι</gk>, <gk>ζυγόν</gk>
+<H1>	854,3	yuD [1]	<gk>ὑσ-μίνη</gk>
+<H1>	855,3	yuzma	<gk>ὕμμες</gk>, <gk>ὑσμες</gk>
+<H1>	859,3	rakz [1]	<gk>ἀ-λέξω</gk>, <gk>ἀρκέω</gk>
+<H1>	861,2	raYj	<gk>ρ῾έζω</gk>, <gk>ρ῾εγεύς</gk>
+<H1>	861,2	raj [b]	<gk>ρ῾έζω</gk>, <gk>ρ῾εγεύς</gk>
+<H2B>	863,2	rajas	<gk>ἔ-ρεβος</gk>
+<H1>	867,2	ram	<gk>ἠρέμα</gk>, <gk>ἔραμαι</gk>, <gk>ἐρατός</gk>
+<H1>	871,1	rah	<gk>λαθ</gk>, <gk>λανθάνω</gk>
+<H2A>	876,3	rADA	<gk>α</gk>, <gk>ι</gk>, <gk>ν</gk>, <gk>γ</gk>
+<H1>	880,1	riHPa	<gk>ρ῾ιφή</gk>
+<H1>	880,2	ric	<gk>λείπω</gk>, <gk>λοιπός</gk>
+<H1>	881,3	ruc [1]	<gk>λευκός</gk>, <gk>ἀμφιλύκη</gk>
+<H1>	881,3	ru [1]	<gk>ὠρύομαι</gk>
+<H1>	882,3	ruj [1]	<gk>λυγρός</gk>
+<H2B>	884,3	ruDira	<gk>ἐρυθρός</gk>, <gk>ἔρευθος</gk>
+<H1>	885,1	ruz [1]	<gk>λύσσα</gk>
+<H1A>	890,1	romanTa	<gk>ἐρεύγειν</gk>, <gk>ἐρυγή</gk>
+<H2A>	890,2	rohiRI	<gk>α</gk>, <gk>β</gk>, <gk>γ</gk>, <gk>δ</gk>, <gk>ε</gk>
+<H3>	890,3	rohiRISakawa	<gk>α</gk>, <gk>β</gk>, <gk>γ</gk>, <gk>δ</gk>, <gk>ε</gk>
+<H1C>	894,1	laGu	<gk>ἐ-λαχύς</gk>
+<H2>	894,3	laGizWa	<gk>ἐ-λάχιστος</gk>
+<H1>	896,1	lap [1]	<gk>ὀ-λοφ-ύρομαι</gk>
+<H1>	896,2	laB	<gk>λάφ-υρον</gk>, <gk>λαμβ-άνω</gk>
+<H1>	897,1	lamb [1]	<gk>λοβός</gk>
+<H1>	900,2	lAwa	<gk>Λαρικη</gk>
+<H1>	901,1	liK	<gk>ἐρείκω</gk>
+<H1>	902,2	lip	<gk>ἀ-λείφω</gk>, <gk>λιπαρός</gk>
+<H1>	902,3	liptA [b]	<gk>λεπτή</gk>
+<H1>	903,1	lih [1]	<gk>λείχω</gk>
+<H2>	904,3	lopASa	<gk>ἀλώπηξ</gk>
+<H1>	905,2	lU [1]	<gk>λύω</gk>
+<H1>	906,1	leya	<gk>λέων</gk>
+<H1>	911,3	vakz	<gk>ἀέξω</gk>, <gk>αὐξάνω</gk>
+<H1>	912,1	vac	<gk>ἐπ</gk>, <gk>ϝεπ</gk>, <gk>ἔπος</gk>, <gk>ὄψ</gk>, <gk>ὄσσα</gk>
+<H1B>	915,3	vatsa	<gk>ἔτος</gk>, <gk>ϝέτος</gk>
+<H1>	916,3	vaD	<gk>ὠθέω</gk>
+<H1>	920,2	vam	<gk>ἐμέω</gk>, <gk>ϝεμέω</gk>
+<H2>	921,1	varas	<gk>εὖρος</gk>
+<H2>	921,2	varuRa [a]	<gk>Οὐρανός</gk>
+<H2>	921,3	varutra	<gk>ἔλυτρον</gk>, <gk>ϝελυτρον</gk>
+<H2B>	921,3	varUtrI	<gk>ρ῾ύτωρ</gk>, <gk>ϝερυτωρ</gk>
+<H2B>	921,3	varUtri	<gk>π῾ύτωρ</gk>, <gk>ϝερυτωρ</gk>
+<H2B>	925,2	vartaka	<gk>ὄρτυξ</gk>, <gk>ὀρτυγία</gk>
+<H2A>	927,2	varzA	<gk>ἐέρσαι</gk>
+<H1>	929,1	vaS	<gk>ἑκών</gk>, <gk>φεκων</gk>
+<H1>	930,1	vas [2]	<gk>ἔαρ</gk>, <gk>φεσαρ</gk>
+<H2B>	930,2	vasizWa	<gk>ζ</gk>
+<H2A>	931,3	vasna	<gk>ὦνος</gk>, <gk>φοσ-νος</gk>, <gk>ὠνή</gk>, <gk>ὠνέομαι</gk>
+<H1>	932,1	vas [3]	<gk>κεντέω</gk>
+<H1>	932,1	vas [4]	<gk>ἕννυμι</gk>, <gk>ϝεσ-νυμι</gk>
+<H1>	933,2	vah [1]	<gk>ὄχος</gk>, <gk>ϝοχος</gk>, <gk>ὀχέομαι</gk>
+<H1>	934,2	vA [2]	<gk>ἄημι</gk>, <gk>ϝαημι</gk>
+<H2>	940,3	vAnaprasTa	<gk>ὑλόβιοι</gk>
+<H1B>	943,1	vAr	<gk>οὖρον</gk>, <gk>οὐρέω</gk>
+<H1>	943,3	vAra [1]	<gk>οὐρά</gk>
+<H1>	949,3	vi [1]	<gk>οἰωνός</gk>, <gk>ὀϝιωνος</gk>
+<H3B>	952,3	viSAKA	<gk>ι</gk>, <gk>α</gk>, <gk>β</gk>, <gk>γ</gk>
+<H1B>	953,2	viMSati	<gk>ϝίκατι</gk>, <gk>εἴκοσι</gk>
+<H1>	958,2	vic	<gk>εἴκω</gk>
+<H1>	963,2	vid [1]	<gk>εἶδον</gk>, <gk>ἐϝιδον</gk>, <gk>οἶδα</gk>, <gk>ϝοιδα</gk>
+<H2A>	967,2	viDavA	<gk>ἠίθεος</gk>
+<H2B>	974,3	vipASA	<gk>*῞υφασις</gk>, <gk>Βίπασις</gk>
+<H1>	989,1	viS [1]	<gk>οἶκος</gk>
+<H2A>	989,2	viS	<gk>κατ᾽</gk>, <gk>ἐξοχήν</gk>
+<H2B>	995,2	viza	<gk>ἰός</gk>, <gk>ϝισος</gk>
+<H2B>	1008,1	vfkI	<gk>λύκος</gk>
+<H1B>	1014,3	vetasa	<gk>ἰτέα</gk>
+<H1>	1019,2	veSi	<gk>Φάσις</gk>
+<H1>	1044,1	Sak	<gk>ὄπις</gk>, <gk>ἀοσσητήρ</gk>
+<H3>	1045,3	SakasTAna	<gk>Ζακαστήνη</gk>
+<H1>	1046,3	Sakft	<gk>σκώρ</gk>, <gk>σκατός</gk>, <gk>κόπρος</gk>
+<H1B>	1047,3	SaNKA	<gk>κόγχη</gk>
+<H1A>	1048,3	Sata	<gk>ἑ-κατόν</gk>
+<H3B>	1049,1	Satakratu	<gk>ἑκατομβαῖος</gk>
+<H3>	1049,1	Satagu	<gk>ἑκατόμβη</gk>
+<H3>	1049,3	SataBizaj	<gk>λ</gk>
+<H1A>	1051,1	Satru	<gk>κότος</gk>, <gk>κοτέω</gk>
+<H1>	1051,2	Sad [1]	<gk>καδ</gk>, <gk>κεκάσμεθα</gk>, <gk>κεκασμένος</gk>
+<H1>	1053,3	Sam [1]	<gk>κάμνω</gk>
+<H1B>	1055,3	SayA	<gk>ὀρέσ-κοιος</gk>
+<H1B>	1057,2	SaraBA	<gk>κίραφος</gk>, <gk>κόραφος</gk>
+<H2B>	1060,1	SaSI [a]	<gk>κεκήν</gk>
+<H1>	1060,3	SaSvat	<gk>ἥπας</gk>
+<H1A>	1072,2	Siras	<gk>κέρας</gk>, <gk>κάρη</gk>
+<H1B>	1074,1	Siva	<gk>Εὐμενίδες</gk>
+<H1>	1077,1	SIk	<gk>κηκίω</gk>
+<H1>	1077,1	SI [1]	<gk>κεῖσθαι</gk>, <gk>κοίτη</gk>
+<H1>	1084,3	Suz [1]	<gk>αὔω</gk>, <gk>σαύσω</gk>
+<H2B>	1085,2	SUnya	<gk>κενός</gk>, <gk>κενεός</gk>, <gk>κέννος</gk>
+<H2B>	1086,1	SUra	<gk>κῦρος</gk>, <gk>ἄ-κυρος</gk>
+<H1>	1091,1	So	<gk>ἀκή</gk>
+<H1>	1095,3	Srat	<gk>καρδία</gk>, <gk>κραδίη</gk>
+<H1>	1095,3	Srad	<gk>καρδία</gk>, <gk>κραδίη</gk>
+<H2B>	1097,1	Sravas	<gk>κλέος</gk>, <gk>κλεϝος</gk>
+<H2A>	1097,2	Sravas	<gk>κρουνός</gk>
+<H1B>	1097,2	SravaRa	<gk>α</gk>, <gk>β</gk>, <gk>γ</gk>
+<H2>	1097,3	SrAta	<gk>κρατος</gk>, <gk>ἄ-κρατος</gk>
+<H1>	1098,1	Sri [1]	<gk>κλίνω</gk>, <gk>κλίνη</gk>, <gk>κλῖμαξ</gk>
+<H1>	1100,3	Sru [1]	<gk>κλύω</gk>, <gk>κλῦθι</gk>, <gk>κλυτός</gk>
+<H1>	1102,2	Sreyas	<gk>κρείων</gk>
+<H1B>	1105,1	SunI [b]	<gk>κύων</gk>
+<H1B>	1105,3	SvaSurI	<gk>ἑκυρός</gk>
+<H1C>	1108,1	zaw [b]	<gk>ἕξ</gk>
+<H1>	1111,1	zWiv	<gk>πτύω</gk>
+<H1>	1111,1	zWIv	<gk>πτύω</gk>
+<H1>	1111,2	sa [6]	<gk>ὁ</gk>, <gk>ἡ</gk>
+<H1A>	1111,2	sa	<gk>ἁ</gk>, <gk>ἁπλοῦς</gk>
+<H1>	1130,2	sac [1]	<gk>ἕπομαι</gk>
+<H1C>	1134,2	sat	<gk>ὥν</gk>, <gk>ἐών</gk>, <gk>ἐσων</gk>
+<H2C>	1135,3	satyam	<gk>ἐτεός</gk>
+<H3B>	1136,3	satyaSravas	<gk>*᾿ετεοκλῆς</gk>
+<H1>	1138,2	sad [2]	<gk>ἴζω</gk>, <gk>σίσδω</gk>
+<H2A>	1138,3	sadas	<gk>ἕδος</gk>
+<H1>	1148,1	sap [1]	<gk>σέβομαι</gk>, <gk>σέβας</gk>
+<H1>	1149,1	saptan	<gk>ἑπτά</gk>
+<H2B>	1150,3	saptamI [a]	<gk>ἕβδομος</gk>
+<H1C>	1152,1	samam	<gk>ἅμα</gk>, <gk>ὁμός</gk>, <gk>ὁμαλός</gk>
+<H1>	1152,1	sam [2]	<gk>σύν</gk>
+<H1>	1152,1	sama [1]	<gk>ἁμός</gk>, <gk>ἀμός</gk>
+<H2B>	1182,1	saraRyu	<gk>*᾿εριννύς</gk>
+<H2>	1183,1	sarma [a]	<gk>ὁρμή</gk>
+<H1>	1183,2	sarajat	<gk>ὀρεη-</gk>
+<H1B>	1184,1	sarpa	<gk>ἑρπετόν</gk>
+<H1B>	1185,1	sarva	<gk>ὅλος</gk>, <gk>ὁλϝος</gk>
+<H1B>	1191,2	savya	<gk>σκαιός</gk>
+<H1>	1192,3	sah [1]	<gk>ἴσχω</gk>, <gk>σι-σχω</gk>, <gk>ἔχω</gk>, <gk>ἔ-σχον</gk>
+<H1>	1195,2	sahasra [b]	<gk>χίλιοι</gk>, <gk>χεσλοι</gk>
+<H1A>	1206,2	sAmi	<gk>ἡμι-</gk>, <gk>ἥμισυς</gk>
+<H1>	1212,3	si [1]	<gk>ἱ-μάς</gk>, <gk>ἱ-μονία</gk>
+<H1>	1214,1	sic [1]	<gk>ἰκμάς</gk>
+<H1>	1217,1	sina [2]	<gk>ἁ</gk>, <gk>ἅμεναι</gk>
+<H1>	1218,1	siv	<gk>κασσύω</gk>, <gk>κατα-συω</gk>
+<H2B>	1218,2	sItya	<gk>σῖτος</gk>
+<H1>	1218,3	sIm	<gk>μιν</gk>, <gk>νιν</gk>, <gk>περ</gk>
+<H1>	1219,3	su [5]	<gk>εὖ</gk>
+<H3>	1226,2	sunitambinI	<gk>καλλίπυγος</gk>
+<H1>	1227,1	sunaPA	<gk>συναφή</gk>
+<H2>	1227,1	sundara	<gk>ἀνδρός</gk>, <gk>ἀνήρ</gk>
+<H3>	1229,3	suBasad	<gk>καλλίπυγος</gk>
+<H1B>	1231,3	sumna	<gk>ὕμνος</gk>
+<H3>	1233,2	suvAstu	<gk>Σόαστος</gk>
+<H1B>	1236,1	suruNgA	<gk>σύριγξ</gk>
+<H3>	1237,2	suSroRi	<gk>καλλίπυγος</gk>
+<H2B>	1240,1	sU	<gk>ὗς</gk>, <gk>σῦς</gk>
+<H1>	1244,3	sf	<gk>ὁρμή</gk>, <gk>ὁρμάω</gk>, <gk>ἅλμα</gk>, <gk>ἅλλομαι</gk>
+<H1>	1245,3	sfp	<gk>ἕρπω</gk>
+<H1>	1256,1	skand	<gk>σκάνδαλον</gk>
+<H1>	1257,2	stan	<gk>στένω</gk>
+<H1>	1258,1	stamB	<gk>στέμφυλον</gk>, <gk>στέμβω</gk>, <gk>στείβω</gk>
+<H1>	1258,1	staB	<gk>στέμφυλον</gk>, <gk>στέμβω</gk>, <gk>στείβω</gk>
+<H1A>	1258,3	starI	<gk>στεῖρος</gk>, <gk>στέριφος</gk>
+<H1>	1258,3	stiG	<gk>στείχω</gk>
+<H2>	1260,1	stUpa [b]	<gk>στύπος</gk>
+<H1>	1260,1	stF [1]	<gk>στορέννυμι</gk>, <gk>στρώννυμι</gk>
+<H1>	1260,1	stUp	<gk>στύφω</gk>, <gk>στυφελός</gk>
+<H1>	1260,1	stf [1]	<gk>στορέννυμι</gk>, <gk>στρώννυμι</gk>
+<H2A>	1260,2	stf	<gk>ἀστήρ</gk>
+<H1>	1261,3	sTal	<gk>στέλλω</gk>, <gk>στόλος</gk>
+<H1>	1261,3	sTag	<gk>στέγω</gk>, <gk>στέγη</gk>, <gk>τέγος</gk>
+<H1>	1262,2	sTA [1]	<gk>ἱ-στάναι</gk>
+<H2A>	1265,3	sTURA	<gk>στήλη</gk>
+<H2>	1265,3	sTUrin	<gk>ταῦρος</gk>
+<H1>	1266,3	snA [1]	<gk>νάω</gk>, <gk>νᾶμα</gk>
+<H1>	1267,3	snu [1]	<gk>νέω</gk>, <gk>νεύσομαι</gk>
+<H1A>	1268,1	snuzA	<gk>νυός</gk>
+<H1>	1268,1	spand	<gk>σφενδόνη</gk>, <gk>σφαδασμος</gk>, <gk>σφεδανός</gk>, <gk>σφοδρός</gk>
+<H2A>	1268,2	spaSa	<gk>σκοπός</gk>
+<H2>	1268,2	spaS [2]	<gk>σκώψ</gk>
+<H1>	1268,2	spaS [1]	<gk>σκέπ-τομαι</gk>, <gk>σκοπ-ή</gk>
+<H1>	1269,2	spfh [1]	<gk>σπέρχω</gk>
+<H2B>	1270,1	sPAra	<gk>σφαῖρα</gk>
+<H1>	1270,1	sPal	<gk>σφάλλοω</gk>
+<H1>	1270,1	sPAy	<gk>σφηλός</gk>
+<H1>	1270,1	sPij	<gk>πυγή</gk>, <gk>ὀσφύς</gk>
+<H1>	1270,1	sPic	<gk>πυγή</gk>, <gk>ὀσφύς</gk>
+<H1>	1270,3	sPur [1]	<gk>σπαίρω</gk>, <gk>σφυρόν</gk>
+<H1B>	1271,2	sPya	<gk>σφήν</gk>
+<H2B>	1271,2	sPUrjana	<gk>σφάραγος</gk>
+<H1>	1271,2	sPUrj	<gk>σφαραγέομαι</gk>
+<H1>	1271,3	smi	<gk>φιλομμειδής</gk>, <gk>φιλο-σμειδης</gk>, <gk>μεῖδος</gk>, <gk>μειδάω</gk>
+<H1>	1271,3	smf [2]	<gk>μέρμερος</gk>
+<H1>	1274,2	sru	<gk>ρ῾έω</gk>, <gk>σρεϝω</gk>, <gk>ρ῾ύσις</gk>
+<H1B>	1275,1	sva	<gk>ἕ</gk>, <gk>ὅ</gk>, <gk>σφός</gk>
+<H1>	1279,2	svAd	<gk>ἥδομαι</gk>
+<H1>	1279,2	svad	<gk>ἥδομαι</gk>
+<H2B>	1279,3	svAdu	<gk>ἡδύς</gk>
+<H1>	1280,2	svap [1]	<gk>ὕπ-νος</gk>
+<H2A>	1281,2	svar	<gk>ἠέλιος</gk>, <gk>ἤλιος</gk>
+<H1>	1282,3	svasf	<gk>ἔορ</gk>
+<H1>	1284,3	svid [2]	<gk>ἱδρώς</gk>
+<H1>	1285,1	svf	<gk>σῦριγξ</gk>
+<H1B>	1286,2	haMsI	<gk>χήν</gk>
+<H1>	1287,1	had	<gk>χέζω</gk>
+<H2B>	1287,2	hata	<gk>φατός</gk>
+<H1>	1287,2	han [1]	<gk>θείνω</gk>, <gk>θάνατος</gk>, <gk>φόνος</gk>, <gk>ἔπεφνον</gk>, <gk>πέφαται</gk>
+<H1B>	1288,1	hanu	<gk>γένυς</gk>, <gk>γένειον</gk>, <gk>γενείας</gk>, <gk>γνάθος</gk>
+<H2A>	1289,2	haras	<gk>θέρος</gk>
+<H1>	1292,2	harija [b]	<gk>ὁρίζων</gk>
+<H1>	1292,2	hary [b]	<gk>χαίρω</gk>
+<H1B>	1294,3	hasta	<gk>ἀγοστός</gk>
+<H2B>	1298,3	hima	<gk>(δύς)</gk>, <gk>χιμος</gk>, <gk>χιών</gk>, <gk>χειμών</gk>
+<H1>	1298,3	hibuka	<gk>ὑπόγειον</gk>
+<H1>	1300,3	hu [1]	<gk>χυ-</gk>, <gk>χέω</gk>, <gk>χέϝω</gk>, <gk>χυλός</gk>, <gk>χυμός</gk>
+<H3A>	1301,1	hutaBuj	<gk>β</gk>
+<H1>	1302,1	hf [1]	<gk>χείρ</gk>
+<H1>	1302,2	hfd	<gk>καρδία</gk>, <gk>κραδίη</gk>
+<H1>	1303,2	hfdroga [b]	<gk>ὑδροχόος</gk>
+<H1>	1305,1	hemna	<gk>*῾ερμῆς</gk>
+<H1>	1305,2	heli [2]	<gk>ἥλιος</gk>
+<H1>	1306,2	horA	<gk>ὥρα</gk>
+<H1>	1306,3	hyas	<gk>χθές</gk>
+<H2B>	1307,1	hrasIyasI	<gk>χερείων</gk>
+<H1>	1307,2	hrAd	<gk>χάλαζα</gk>
+<H1>	1307,3	hlAd	<gk>κέχλαδα</gk>, <gk>καχλάζω</gk>
+<H2A>	1308,2	akzitavya 	<gk>ὀξύς</gk>
+<H1>	1308,3	hve	<gk>γοάω</gk>
+<H1A>	1318,3	aha	<gk>μὲν</gk>, <gk>δέ</gk>
