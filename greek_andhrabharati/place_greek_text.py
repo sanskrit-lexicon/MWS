@@ -17,6 +17,7 @@ Output files -
 import os
 import codecs
 import re
+import csv
 from parseheadline import parseheadline
 
 
@@ -57,6 +58,28 @@ def extract_greek_AB(ABFile, logFile):
     flog.close()
 
 
+def compare_both_logs(logFile1, logFile2):
+    set1 = set()
+    with codecs.open(logFile1, 'r', 'utf-8') as fin1:
+        log1Reader = csv.reader(fin1, delimiter=':')
+        for row in log1Reader:
+            set1.add(tuple(row))
+    set2 = set()
+    with codecs.open(logFile2, 'r', 'utf-8') as fin2:
+        log1Reader = csv.reader(fin2, delimiter=':')
+        for row in log1Reader:
+            set2.add(tuple(row))
+    diff1 = set1 - set2
+    diff2 = set2 - set1
+    result = []
+    for (hw, pc, gk) in diff1:
+        result.append([hw, pc, gk, ''])
+    for (hw, pc, gk) in diff2:
+        result.append([hw, pc, '', gk])
+    result.sort()
+    for [hw, pc, gk, place] in result:
+        print(hw + '\t' + pc + '\t' + gk + '\t' + place)
+
 if __name__ == "__main__":
     baseFile = os.path.join('..', '..', 'csl-orig', 'v02', 'mw', 'mw.txt')
     ABFile = 'MW_Gk_words.txt'
@@ -64,4 +87,5 @@ if __name__ == "__main__":
     logFile1 = 'log_greek.txt'
     # extract_greek(baseFile, logFile1)
     logFile2 = 'log_greek_AB.txt'
-    extract_greek_AB(ABFile, logFile2)
+    # extract_greek_AB(ABFile, logFile2)
+    compare_both_logs(logFile1, logFile2)
