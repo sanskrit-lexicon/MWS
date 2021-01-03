@@ -18,6 +18,7 @@ import os
 import codecs
 import re
 import csv
+from collections import defaultdict
 from parseheadline import parseheadline
 
 
@@ -58,8 +59,11 @@ def extract_greek_AB(ABFile, logFile):
     flog.close()
 
 
-def compare_both_logs(logFile1, logFile2):
+def compare_both_logs(logFile1, logFile2, diffMd):
     set1 = set()
+    fdiff = codecs.open(diffMd, 'w', 'utf-8')
+    fdiff.write('|headword|pagecolumn|cologne|andhrabharati|\n')
+    fdiff.write('|---|---|---|---|\n')
     with codecs.open(logFile1, 'r', 'utf-8') as fin1:
         log1Reader = csv.reader(fin1, delimiter=':')
         for row in log1Reader:
@@ -71,14 +75,29 @@ def compare_both_logs(logFile1, logFile2):
             set2.add(tuple(row))
     diff1 = set1 - set2
     diff2 = set2 - set1
-    result = []
+    result = defaultdict(dict)
     for (hw, pc, gk) in diff1:
-        result.append([hw, pc, gk, ''])
+        result[(hw, pc)]['cologne'] = gk
     for (hw, pc, gk) in diff2:
-        result.append([hw, pc, '', gk])
+        result[(hw, pc)]['andhrabharati'] = gk
+    print(result)
+    for (hw, pc) in result:
+        gkTexts = result[(hw, pc)]
+        if 'cologne' in gkTexts and 'andhrabharati' in gkTexts:
+            fdiff.write('|' + hw + '|' + pc + '|' + gkTexts['cologne'] + '|' + gkTexts['andhrabharati'] + '|\n')
+            print(hw + '\t' + pc + '\t' + gkTexts['cologne'] + '\t' + gkTexts['andhrabharati'])
+        elif 'cologne' in gkTexts:
+            fdiff.write('|' + hw + '|' + pc + '|' + gkTexts['cologne'] + '||\n')
+            print(hw + '\t' + pc + '\t' + gkTexts['cologne'] + '\t')
+        elif 'andhrabharati' in gkTexts:
+            fdiff.write('|' + hw + '|' + pc + '||' + gkTexts['andhrabharati'] + '|\n')
+            print(hw + '\t' + pc + '\t\t' + gkTexts['andhrabharati'])
+    """
     result.sort()
-    for [hw, pc, gk, place] in result:
-        print(hw + '\t' + pc + '\t' + gk + '\t' + place)
+    for [a, b, c, d] in result:
+        print(a + '\t' + b + '\t' + c + '\t' + d)
+    """
+
 
 if __name__ == "__main__":
     baseFile = os.path.join('..', '..', 'csl-orig', 'v02', 'mw', 'mw.txt')
@@ -88,4 +107,5 @@ if __name__ == "__main__":
     # extract_greek(baseFile, logFile1)
     logFile2 = 'log_greek_AB.txt'
     # extract_greek_AB(ABFile, logFile2)
-    compare_both_logs(logFile1, logFile2)
+    diffMd = 'greek_diff.md'
+    compare_both_logs(logFile1, logFile2, diffMd)
