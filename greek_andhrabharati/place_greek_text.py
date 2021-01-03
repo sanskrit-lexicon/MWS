@@ -90,7 +90,7 @@ def compare_both_logs(logFile1, logFile2, diffMd):
     result.sort()
     for [a, b, c, d] in result:
         print(a + '\t' + b + '\t' + c + '\t' + d)
-        fdiff.write('|' + link_to_text(a) + '|' + link_to_text(b) + '|' + c + '|' + d + '|\n')
+        fdiff.write('|' + link_to_text(a) + '|' + link_to_pdf(b) + '|' + c + '|' + d + '|\n')
     fdiff.close()
 
 
