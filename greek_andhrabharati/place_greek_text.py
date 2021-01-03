@@ -48,7 +48,7 @@ def extract_greek_AB(ABFile, logFile):
             lin = lin.rstrip()
             [hwtype, pc, k1, greekWords] = lin.split('\t')
             # aMh [2] -> aMh
-            k1 = re.sub(r'\[[0-9a-z]\]*$', '', k1)
+            k1 = re.sub(r'\[[0-9a-z]*\]$', '', k1)
             k1 = k1.rstrip()
             # <gk>ἀ</gk>, <gk>ἀν</gk> -> ἀ,ἀν
             greekWords = greekWords.replace('<gk>', '')
@@ -58,6 +58,12 @@ def extract_greek_AB(ABFile, logFile):
             flog.write(k1 + ':' + pc + ':' + gk + '\n')
     flog.close()
 
+
+def link_to_text(hw):
+    return '[' + hw + '](https://sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=' + hw + ')'
+
+def link_to_pdf(pc):
+    return '[' + pc + '](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=' + pc + ')'
 
 def compare_both_logs(logFile1, logFile2, diffMd):
     set1 = set()
@@ -75,28 +81,17 @@ def compare_both_logs(logFile1, logFile2, diffMd):
             set2.add(tuple(row))
     diff1 = set1 - set2
     diff2 = set2 - set1
-    result = defaultdict(dict)
-    for (hw, pc, gk) in diff1:
-        result[(hw, pc)]['cologne'] = gk
-    for (hw, pc, gk) in diff2:
-        result[(hw, pc)]['andhrabharati'] = gk
-    print(result)
-    for (hw, pc) in result:
-        gkTexts = result[(hw, pc)]
-        if 'cologne' in gkTexts and 'andhrabharati' in gkTexts:
-            fdiff.write('|' + hw + '|' + pc + '|' + gkTexts['cologne'] + '|' + gkTexts['andhrabharati'] + '|\n')
-            print(hw + '\t' + pc + '\t' + gkTexts['cologne'] + '\t' + gkTexts['andhrabharati'])
-        elif 'cologne' in gkTexts:
-            fdiff.write('|' + hw + '|' + pc + '|' + gkTexts['cologne'] + '||\n')
-            print(hw + '\t' + pc + '\t' + gkTexts['cologne'] + '\t')
-        elif 'andhrabharati' in gkTexts:
-            fdiff.write('|' + hw + '|' + pc + '||' + gkTexts['andhrabharati'] + '|\n')
-            print(hw + '\t' + pc + '\t\t' + gkTexts['andhrabharati'])
-    """
+
+    result = []
+    for [a, b, c] in diff1:
+        result.append([a, b, c, ''])
+    for [a, b, c] in diff2:
+        result.append([a, b, '', c])
     result.sort()
     for [a, b, c, d] in result:
         print(a + '\t' + b + '\t' + c + '\t' + d)
-    """
+        fdiff.write('|' + link_to_text(a) + '|' + link_to_text(b) + '|' + c + '|' + d + '|\n')
+    fdiff.close()
 
 
 if __name__ == "__main__":
@@ -104,8 +99,8 @@ if __name__ == "__main__":
     ABFile = 'MW_Gk_words.txt'
     outFile = 'mw1.txt'
     logFile1 = 'log_greek.txt'
-    # extract_greek(baseFile, logFile1)
+    extract_greek(baseFile, logFile1)
     logFile2 = 'log_greek_AB.txt'
-    # extract_greek_AB(ABFile, logFile2)
+    extract_greek_AB(ABFile, logFile2)
     diffMd = 'greek_diff.md'
     compare_both_logs(logFile1, logFile2, diffMd)
