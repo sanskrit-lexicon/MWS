@@ -1,110 +1,166 @@
-114:aMh:conjecturable
-1390:aGfRa:incompassionate
-3928.1:adviyoni:diphthongal
-4215:aDikzip:superinduce
-4322:aDimukta:propense
-5244:anarSarAti:uninjurious
-5370.1:anavIkfta:motonony
-6342:anutap:desiderate
-6677:anupalakzita:indiscriminated
-7013:anumfj:lengthways
-7718:anUdaka:metri,causa
-7732:anUDas:udderless
-9166:apatantra:emprosthotonos
-9591.1:aparisaMKyAna:diffcrence
-9719:apavfj:carpere,viam
-10630:apratIta:unattackable
-13201:aByanumud:necess
-13591.1:aByunmodanIya:aquiesced
-14559:ambUkfta:onomatopoetically
-14599:amBiRI:preceptress
-17032:avakrand:cakradat
-17259.1:avajAta:misborn
-17749:avaBuj:incurve
-19778.4:aSmaSru:unbearded
-20882:asADAraRa:specifical
-20918.1:asAhacarya:unsimultaneousness
-21282.1:astarya:unconquarable
-22494.1:AKedana:drawlng
-23282:AQaka:avds
-24543:AnIla:darkish
-24677:Anemimagna:felloe
-25270:ABicaraRika:maledictory
-26630:Arza:archaistic
-28129:AstuB:huzza
-28747:iti:caetera
-29387:irya:energetical
-29421:ilISa:hilsa
-34200:upakxp:asign
-34860:upanaKa:agnail
-35490:uparam:quietist
-36010:upasaMviS:environ
-36634:upAtaNkya:runnet
-43621:kapiYjala:heathcock
-49636:kAlambya:caravansery
-51432:kucika:apterygia,synbrache
-51450:kuYc:frounce
-51760:kuqUhuYcI:trilobatum
-51788:kuRajI:orach
-52647:kuraNkara:sibirica
-53501:kuzWa:arabicus
-54922:kfpIwa:underwood
-55571:kxp:subserve
+114:aMh:conjecturable: OK
+; alternative form is "conjectural"
+1390:aGfRa:incompassionate: OK
+; alternative form is"uncompassionate"
+3928.1:adviyoni:diphthongal: OK
+4215:aDikzip:superinduce: OK
+4322:aDimukta:propense: OK
+; archaic, synonyms "disposed", "prone"
+5244:anarSarAti:uninjurious: OK
+5370.1:anavIkfta:motonony: monotony
+; scan error
+6342:anutap:desiderate: OK
+6677:anupalakzita:indiscriminated: indiscriminate
+; scan error
+7013:anumfj:lengthways: OK
+; alternative form is "lengthwise"
+7718:anUdaka:metri,causa: OK (Latin phrase translated as "for the sake of the metre")
+7732:anUDas:udderless: OK
+9166:apatantra:emprosthotonos: OK (medical term)
+9591.1:aparisaMKyAna:diffcrence: difference
+9719:apavfj:carpere,viam: OK (Latin phrase translated as "take a path")
+10630:apratIta:unattackable: OK
+13201:aByanumud:necess: OK (necess.)
+13591.1:aByunmodanIya:aquiesced: acquiesced
+; Scan error
+14559:ambUkfta:onomatopoetically: OK
+; alternative form is "onomatopoeically"
+14599:amBiRI:preceptress: OK
+17032:avakrand:cakradat: OK (Sanskrit word, mw.txt is corrected)
+17259.1:avajAta:misborn : OK
+; rare, synonyms "illegitimate", "aborted", "prematurely born"
+17749:avaBuj:incurve: OK
+19778.4:aSmaSru:unbearded: OK
+20882:asADAraRa:specifical: OK
+; alternative form is "specific"
+20918.1:asAhacarya:unsimultaneousness: OK
+; synonym "asynchrony"
+21282.1:astarya:unconquarable: unconquerable
+22494.1:AKedana:drawlng: drawing
+23282:AQaka:avds: OK (Avds. - an abbreviation of "Avoirdupois")
+; maybe to write the whole word "Avoirdupois"
+24543:AnIla:darkish: OK
+24677:Anemimagna:felloe: OK
+25270:ABicaraRika:maledictory: OK
+26630:Arza:archaistic: OK
+; alternative for is "archaic"
+28129:AstuB:huzza: OK
+28747:iti:caetera: OK (et caetera - Latin expression "etc")
+29387:irya:energetical: OK
+; alternative form is "energetic"
+29421:ilISa:hilsa: OK (fish)
+34200:upakxp:asign: assign
+; scan error
+34860:upanaKa:agnail: OK
+; alternative form is "hangnail"
+35490:uparam:quietist: OK
+36010:upasaMviS:environ: OK
+36634:upAtaNkya:runnet: OK
+; alternative form is "rennet"
+43621:kapiYjala:heathcock: heath-cock
+; scan error
+49636:kAlambya:caravansery: OK
+; alternative forms are "caravansary", "caravanserai"
+51432:kucika:apterygia,synbrache: OK (Muraena)
+51450:kuYc:frounce: OK
+; archaic
+51760:kuqUhuYcI:trilobatum: OK (Solanum trilobatum - herb)
+; I have corrected mw.txt -  this word is highlighted
+51788:kuRajI:orach: OK (plant)
+52647:kuraNkara:sibirica: OK (Ardea sibirica - bird)
+53501:kuzWa:arabicus: OK (Costus arabicus - plant)
+; I have corrected mw.txt - this word is highlighted
+54922:kfpIwa:underwood: OK
+55571:kxp:subserve: OK
 56567:koTarI:opuntia
-57749:kram:appliable
-59502:kzip:outvie
-64967:gArzweya:proparox
-70136:GeYculikA:orixense
-72674:calu:monthful
-75341:cyut:lixiviate
-81100:JiNgAka:acutang
-81410:qiRqira:sepiae
-81499:QArikA:julus
-83643:taSlI:trigon
-93581:dunduBa:unvenomous
-103412:nanA:fam
-104760:naS:cond
-108041:nigam:feminam
-108095:nigF:ingurgitate
-108868:niBa:pleonast
-109269:niraya:egression
-109710:nirBaj:coparceny
-110355:nivft:reconduct
-119683:paryavaDAraRa:subtilizing
-120516:paS:interjectionally
-127307:pU:illume
-128944:petva:wether
-129097:pEcCilya:mucilaginousness
-134208:pratyADmAna:tympanites
-136065:pramUtrita:urined
-142181:PiwsUtra:grammat
-151456:BU:indeclineable
-157954:manyA:musculus,cucullaris,trapezius
-158467:marqitf:pitier
-158996:malha:dewlapped
-161632:mahalla:mahall
-165844:murBiRI:firepan
-168975:ya:bacchic
-170148:yad:directa
-170842:yavya:andcol
-171539:yAvat:quantus
-181883:lavaRa:brinish
-191846:vArkza:arboreous
-194107:vikxp:optionable
-196817:vinam:cerebralize
-203329:vI:conjug
-204309:vfj:abalienate
-205598:vettf:espouser
-206784:vEjAtya:heterogeneousness
-206930:vEtraka:cany
-215596:SAmAka:incorr
-215849:SArNga:corneous
-225974:saMvac:nonconj
-242131:sApta:heptade
-242167:sABinayam:pantomimically
-245120:sIm:cunque
-251413:sUpasidDa:relishable
-252008:sfp:bended
-252367:seSvara:theistical
-252716:soma:trinkled
-253966:sOvastika:benedictive
+57749:kram:appliable: OK
+; obsolete, synonyms "applicable", "compliant"
+59502:kzip:outvie: OK
+; archaic
+64967:gArzweya:proparox: proparox.
+; abbreviation for "proparoxytone". maybe to write the whole word "proparoxytone"
+70136:GeYculikA:orixense: OK (Arum orixense - plant)
+; I have corrected mw.txt - this word is highlighted
+72674:calu:monthful: mouthful
+75341:cyut:lixiviate: OK
+; I didn't find this word in the scan
+81100:JiNgAka:acutang: acutang. (Luffa acutang. - plant)
+; I have corrected mw.txt - this word is highlighted
+81410:qiRqira:sepiae: OK (os sepiae - cuttlefish)
+; Latin "os sepiae" is highlighted like <bio>
+81499:QArikA:julus: OK (a genus of millipedes)
+83643:taSlI:trigon: OK (abbreviation for "trigonometry")
+; maybe to write the whole word "trigonometry"
+93581:dunduBa:unvenomous: OK
+; alternative form is "nonvenomous"
+103412:nanA:fam: OK (fam. - is an abbreviation, probably for "familiar")
+104760:naS:cond: OK (conditional)
+; I have corrected mw.txt
+108041:nigam:feminam: OK (Latin phrase "inire feminam")
+108095:nigF:ingurgitate: OK
+108868:niBa:pleonast: OK (abbreviation of "pleonastic" or "pleonasm")
+; it would be good to highlight "pleonast."
+109269:niraya:egression: OK
+; alternative form is "egress"
+109710:nirBaj:coparceny: OK
+; synonym "coparcenary"
+110355:nivft:reconduct: OK (conduct back)
+119683:paryavaDAraRa:subtilizing: OK
+120516:paS:interjectionally: OK
+127307:pU:illume: OK
+; synonym "illuminate"
+128944:petva:wether: OK (a castrated ram)
+129097:pEcCilya:mucilaginousness: OK
+134208:pratyADmAna:tympanites: OK (illness)
+136065:pramUtrita:urined: urinated
+; scan error
+142181:PiwsUtra:grammat: OK (abbreviation, I suppose for "grammatical")
+151456:BU:indeclineable: indeclinable
+157954:manyA:musculus,cucullaris,trapezius: OK (Latin names of muscles)
+; I have corrected mw.txt -  highlighted those words
+158467:marqitf:pitier: OK
+158996:malha:dewlapped: OK
+161632:mahalla:mahall: OK (Arabic word)
+; Please check if I highlighted this word right. In mw.txt this word doesn't write by Arabic script like in the scan
+165844:murBiRI:firepan: OK
+168975:ya:bacchic: OK (in Prosody kind of simple feet - consists on one short syllable and two long)
+170148:yad:directa: OK (Latin "oratio directa" translating as "direct speech")
+170842:yavya:andcol: and col.
+; maybe instead of "and" to use ",". In this case - See p.847, col.1. 
+171539:yAvat:quantus: OK (Latin word, translated as "how")
+181883:lavaRa:brinish: OK
+; synonym "saltish"
+191846:vArkza:arboreous: OK
+; synonym "arboreal"
+194107:vikxp:optionable: OK (Meaning that there are several options)
+196817:vinam:cerebralize: OK
+; alternative form is "cerebralise"
+203329:vI:conjug: OK (abbreviation, connected with "conjugate")
+204309:vfj:abalienate: OK
+; synonym "alienate"
+205598:vettf:espouser: OK
+206784:vEjAtya:heterogeneousness: OK
+; synonym "heterogeneity"
+206930:vEtraka:cany: OK
+; synonym "reedy"
+215596:SAmAka:incorr: OK abbreviation, but I have doubt - for which word)
+215849:SArNga:corneous: OK
+225974:saMvac:nonconj: OK (abbreviation, connected with "non-conjugate")
+; "the nonconj. Tenses" - should be "the nonconj. tenses". I don't know - how to correct it.
+242131:sApta:heptade: OK (group of seven)
+242167:sABinayam:pantomimically: OK
+245120:sIm:cunque: OK (Lating word)
+; better to  italicize this word (I don't know how to do it)
+251413:sUpasidDa:relishable: OK
+252008:sfp:bended: OK
+; archaic, a modern form is "bent"
+252367:seSvara:theistical: OK
+; synonym "theistic"
+252716:soma:trinkled: OK
+; dialectal, synonym "trickled"
+253966:sOvastika:benedictive: OK
+; synonym "benedictional"
+
+EXTRA
+43621:kapiYjala:francoline: francolin 
+; scan error, "francolin partridge" - a bird
