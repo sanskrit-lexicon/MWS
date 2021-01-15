@@ -1,6 +1,6 @@
 #-*- coding:utf-8 -*-
 """filter.py
- 
+ Revised to detect 'Lith' as well as 'Lit'
  
 """
 from __future__ import print_function
@@ -86,12 +86,15 @@ def mark_entries(entries):
   for iline,line in enumerate(entry.datalines):
    # we have checked that at most one instance of following regex
    # occurs in any given line.
-   m = re.search(r'<ab>Lit[.]</ab> <etym>.*?</etym>',line) 
+   m = re.search(r'<ab>(Lith?[.])</ab>',line)
    if m:
     entry.marked_ilines.append(iline)
 
 def write(fileout,entries,fileout1):
  n = 0
+ outarrs = {}
+ outarrs['Lith.'] = []
+ outarrs['Lit.'] = []
  f1 = codecs.open(fileout1,"w","utf-8")  # manualByLine format
  with codecs.open(fileout,"w","utf-8") as f:  # instance format
   icase = 0
@@ -109,20 +112,37 @@ def write(fileout,entries,fileout1):
     lnum = lnum + 1  
     line = entry.datalines[iline]
     # assume exactly one match in next
-    m = re.search(r'<ab>Lit[.]</ab> <etym>(.*?)</etym>',line) 
-    oldetym=m.group(1)
-    out = '%s:%s:%s:' %(L,k1,oldetym)
+    lithmatches = re.findall(r'<ab>Lith?[.]</ab> +<etym>.*?</etym>',line)
+    if len(lithmatches) != 1:
+     print(L,k1,len(lithmatches),"matches")
+    for s in lithmatches: 
+     m = re.search(r'<ab>(Lith?[.])</ab> +<etym>(.*?)</etym>',s) 
+     if not m:
+      print("write ERROR",L,k1)
+      print(line)
+      continue
+     abbr = m.group(1)
+     oldetym=m.group(2)
+     out = '%s:%s:%s: (%s)'  %(L,k1,oldetym,abbr)
+     outarrs[abbr].append(out)
+     #f.write(out + '\n')
+     # manualByLine form
+     icase = icase + 1
+     outarr = []
+     outarr.append('; Case %s : %s:%s:%s:' %(icase,L,k1,oldetym))
+     outarr.append('%s old %s' %(lnum,line))
+     outarr.append('%s new %s' %(lnum,line))
+     outarr.append(';')
+     for out in outarr:
+      f1.write(out+'\n')
+  # write outarrs
+  for abbr in ['Lith.','Lit.']:
+   #f.write('<%s>\n' %abbr)
+   for out in outarrs[abbr]:
     f.write(out + '\n')
-    # manualByLine form
-    icase = icase + 1
-    outarr = []
-    outarr.append('; Case %s : %s:%s:%s:' %(icase,L,k1,oldetym))
-    outarr.append('%s old %s' %(lnum,line))
-    outarr.append('%s new %s' %(lnum,line))
-    outarr.append(';')
-    for out in outarr:
-     f1.write(out+'\n')
+
  f1.close()
+ 
  print(n,"records written to",fileout)
  print(icase,"records written to",fileout1)
 
