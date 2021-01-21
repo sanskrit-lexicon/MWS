@@ -1,0 +1,215 @@
+<L>337.1<pc>1308,2<k1>akṛtaśmaśāna<k2>a-kṛta—śmaśāna<e>3	<s>a-kṛta—śmaśāna</s>¦ (<s>ákṛta</s>-), <lex>mfn.</lex> one who has not established a burning-ground, <ls>ŚBr.</ls><info n="sup"/><info lex="m:f:n"/>	<LEND>
+%% front part needs replacement with the parenthesised text.
+; ejf don't understand 'needs replacement with the parenthesised text'
+;; The HW should be made "ákṛta-śmaśāna" from "a-kṛta—śmaśāna" - the accent change being indicated in the annexure (as a correction).
+;jim Agree. <k2>a-kfta—SmaSAna -> <k2>a/kfta—SmaSAna 
+;jim front: <s>a/kfta—SmaSAna</s> ¦ (<s>a/kfta</s>-), <lex>mfn.</lex> ...
+
+<L>550.1<pc>1308,2<k1>akṣita<k2>akṣitá<h>a<e>2	<s>akṣitá</s> <hom>a</hom>¦ <lex>mfn.</lex> ‘marked’<info n="sup"/><info lex="m:f:n"/>	<LEND>
+%% this is not a new HW, but a continuation of the prev. text, like at agastyaśāsta.
+; ejf. Disagree.  This is a nominal form, derived from verb akz
+; should be moved between <L>677<pc>4,1<k1>akzita  and <L>678<pc>4,1<k1>akzita
+; remove the <hom>a</hom>. Also remove <hom>b</hom> in 677 
+???
+
+<L>666.1<pc>1308,2<k1>akṣaprapātana<k2>akṣa—prapātana<e>3	<s>akṣa—prapātana</s>¦ <lex>n.</lex> casting glances, <ls>Hariv.</ls><info n="sup"/><info lex="n"/>	<LEND>
+%% wrongly placed, losing parent-child relation.
+; ejf. Disagree.  This is compound of the 'eye' sense of akza (homonym 4 -- page 3,3
+; the '<hom>4b</hom>' of <L>660<pc>3,3<k1>akza is questionable
+
+<L>939.1<pc>1309,1<k1>agnijyeṣṭha<k2>agni—jyeṣṭha<e>3	<s>agni—jyeṣṭha</s>¦ (°<s>ní</s>-<s>jy</s>°), <lex>mfn.</lex> having <s1 slp1="agni">Agni</s1> for a chief, <ls>TBr.</ls><info n="sup"/><info lex="m:f:n"/>	<LEND>
+%% front part needs correction.
+; ejf.  disagree. Looks ok to me.
+;; The HW should have been "agní—jyeṣṭha", not "agni—jyeṣṭha" - note the accent change in "agni".
+;jim agree.  <k2>agni/—jyezWa
+;jim front: <s>agni/—jyezWa</s> ¦ 
+
+<L>72374.1<pc>1309,2<k1>acaramavayas<k2>a-carama-vayas<e>4A¦  ‘not the last age’, youth, <ls>Uttarar.</ls><info n="sup"/><info lex="inh"/>	<LEND>
+%% thrown far away, like mārīca by rāmā’s arrow in rāmāyaṇa!!
+; this is MW's doing, putting a-caramavayas after caramavayas on p. 390,1
+;; Look at the alphibetical order followed in the book. If it was intended to be at (390,1), it would have got listed as after 'carama'; but it is clearly intended to be after 'a-carama' (8,3) as I see.
+;jim At second look,  72374.1 seems more like a revision of 72374 than
+;jim a "sup".
+;jim Ordering in supplement is reasonable, but still think the annexure
+;jim item should be next to the text item, even if the text item is at an
+;jim odd place.
+
+<L>4713<pc>23,3<k1>adhri<k2>á-dhri<e>1<s>á-dhri</s> ¦ <lex>mfn.</lex> (√ <s>dhṛ</s>), unrestrained, irresistible, <ls>AV. v, 20,10.</ls><info lex="m:f:n"/><LEND>
+<L>4713.1<pc>23,3<k1>adhri<k2>á-dhri<e>1A	¦ press-stone; <s>grā́vā ádriḥ</s> <ls>AV. v, 20, 10.</ls> <pb n="1310,3"/> <info n="rev"/><LEND>
+%% revised and marked "rev".
+%% wronlgy added as a separate meaning, instead of as a correction.
+; not sure how to correct. in 4713.1, 'press-stone; <s>grā́vā ádriḥ</s>' =>  '<s>grā́vā ádriḥ</s> = press-stone.'
+;; Wait for my correction to be done!!
+;jim ok.
+
+<L>5477<pc>27,3<k1>anāchṛṇṇa<k2>án-āchṛṇṇa<e>1<s>án-āchṛṇṇa</s>¦ <lex>mfn.</lex> not poured upon, <ls>TS.</ls> <pb n="1311,2"/> <info n="rev"/><info lex="m:f:n"/><LEND>
+%% though the marking says it as a "rev", the correction is not done here!!
+; Comparing p.27,3 to p. 1311,2  I don't see what correction is intended.
+;  p. 1311 text = Án-āchṛṇṇa, read án-āch<degree-sign> (p. 27)
+;; read "án-ācch" is what the annexure says - double 'c'. (आच्छृण्ण, from आचृण्ण)
+;jim agree
+
+<L>9290.1<pc>1313,3<k1>apanidra<k2>apa-nidra<e>1A¦ bristling, erect (as the hair on the body), <ls>Naiṣ.</ls><info n="sup"/>	<LEND>
+%% should go into [1] not under [2].
+; why?
+;; The annexure clearly gave the number 1. here "1. apa-nidra".
+;jim agree. ,pve 9290.1 to 9289.1
+
+<L>10138.1<pc>1314,2<k1>api<k2>api<e>1A¦ (<s>api</s>-<s>api</s>), as well-as, <ab>ib.</ab><info n="sup"/>	<LEND>
+%% "api-api" is a different entry, and is intended as a correction.
+; disagree on apyapi entry
+; correction to which?
+???
+
+<L>10313.1<pc>1314,3<k1>apūpaka<k2>apūpaka<e>2	<s>apūpaka</s>¦ <lex>m.</lex> (<ls>MBh.</ls>) = <s>apūpá</s>, a cake &c.<info n="sup"/><info lex="m"/>	<LEND>
+%% apūpaka and apūpikā to be grouped
+; disagree.  IkA is f. of aka.
+;; These are comma separated entries, thus eligible candidates for "grouping".
+;jim ok  we can add grouping <info or="...."/>
+
+<L>15040<pc>86,2<k1>arajaska<k2>a-rajas-ka<e>2<s>a-rajas-ka</s>¦ <lex>mfn.</lex> dustless, without the quality called <s>rajas</s>, <ls>NṛsUp.</ls>; <ls>HPariś.</ls> <pb n="1316,1"/> <info n="rev"/><info lex="m:f:n"/><LEND>
+%% correction not properly applied.
+; ? since 'also' -  maybe make a separate entry for supplement.
+;; This entry has two 'senses' to be added- "dustless, HPariś.;" and "free from impurity (others, 'meek, gentle'). Bcar. ii, 5"
+;jim there seem to be 3 senses (so should be 3 records):
+;jim  1) 15040: dustless, <ls>HPariś.</ls>  <pb n="1316,1"/> <info n="rev"/>
+;jim  2) 15040.1[New, p.86,2]:  without the quality called <s>rajas</s>, <ls>NṛsUp.</ls>
+;jim  3) 15040.2[no change]: free from impurity ...  <info n="sup"/>
+
+<L>15060.1<pc>1316,1<k1>araṇi<k2>áraṇi<e>1A¦ <ab>accord.</ab> to some, ‘uncouthness’ [<ls>Sāy.</ls> reads <s>araṇīm</s>], <ls>AV. i, 18, 2</ls>.<info n="sup"/>	<LEND>
+%% This looks more like a replacement, not an addition.
+; think it looks like addition to hom=2 araRi
+;; The main text is "2. á-raṇi f. discomfort, pain, AV. i, 18, 2" - so I think it should be made "2. á-raṇi f. discomfort, pain, accord. to some, ‘uncouthness’ [Sāy. reads araṇīm], AV. i, 18, 2", taking the annexure matter to be inserted before the AV. reference.
+;jim agree  (since the AV i,18,2 appears in main text and annexure)
+;jim so 1) revise 15050 (main text) based on annexure
+;jim    2) then remove 15060.1
+
+<L>15447.1<pc>1316,1<k1>aruṇadatī<k2>aruṇa—datī<e>3	<s>aruṇa—datī</s>¦ <lex>f.</lex> a girl with reddish teeth, <ls>ĀśvGṛ.</ls><info n="sup"/><info lex="f"/>	<LEND>
+%% this is a print error in MW, should be aruṇadantī.
+; ? SCH also has aruṇadatī.  aruṇadantī or aruṇadanta not found in any dictionary
+;; AFAIK "dantī" refers to teeth, not "datI"! The non-occurance in any other dictionary does not make the error correct.
+;; Looking at SCH reference, seems MW has erred in some citations (if not many!), ĀśvGṛ. for Āpast. (same as śivaP. for skandaP I was mentioning elsewhere.) But finding those and correcting them would be a big exercise!!
+;jim  Not comfortable changing spelling to dantI, despite 'teeth'.  
+;jim  cf. mw ayodatI (teeth like iron), krivirdatI (sharp-toothed),
+;jim  PAladatI (ploughshare-toothed), SiKaradatI (having pointed teeth)
+;jim  cf mw dat m. (taking the form dant in the strong cases)  a tooth.
+
+<L>20254.1<pc>1318,1<k1>aṣṭāṅga<k2>aṣ—ṭāṅga<h>a<e>3	<s>aṣ—°ṭā<srs/>ṅga</s> <hom>a</hom>¦ and °<s>ṭā</s>-<s>daśa</s>, See below<info n="sup"/>	<LEND>
+%% "aṣṭādaśa" could be made as another entry and grouped with aṣṭāṅga.
+; these are just pointers ('see below'). no need to group
+;; These two should come under "and group" - both the entries having the same info "see below".
+;; MW has three types of groups- (1) comma separated HWs, and (2) OR in the HWs list or (3) AND in the HWs list.
+;jim ok
+
+%% The entry "ānandātman" is missed
+; cf AnandAtman at 24427  (p. 140,1).
+; Only difference may be an accent:  AnandA/tman in Annexure
+; ? how to handle annexure.  
+;; many entries in annexure refer to accents. As I see, if the difference in Main text and annexure text is just the accent part, it indicates a "revision".
+;jim agree. Well put.
+
+<L>26225.1<pc>1320,1<k1>ārāva<k2>ārāva<e>2B	<s>ārāva</s>¦ <lex>n.</lex> a <ab>partic.</ab> high number, <ls>Buddh.</ls><info n="sup"/><info lex="n"/>	<LEND>
+%% [2]
+; Cannot find [1] !
+;; Why not take the [2] in the annexure to change the ārāva (150,2) to [1]?
+;jim there is also an ArAva at (150,3). 
+;jim It might be better to call it [1]  L=26223. (currently we mark it as [b]!
+;jim Leave the one at 150,2 as [a].
+;jim and this 26225.1, call it [2] as in annexure.
+
+<L>26398<pc>151,2<k1>ārkṣya<k2>ārkṣya<e>2<s>ārkṣya</s>¦ <lex>m.</lex>  (fr. <s>ṛkṣa</s> <ab>g.</ab> <s>gargā<srs/>di</s>, <ls>Pāṇ. iv, 1, 105</ls>), a descendant of <s1 slp1="fkza">Ṛkṣa</s1>, <ls>SV.</ls> <pb n="1320,1"/> <info and="26398,Arkzya;26399,ArkzyAyaRI"/><info n="rev"/><info lex="m"/><LEND>
+%% accent missed
+; don't see accent missed.
+;; The annexure cleary shows it "ārkṣyá (SV.)" which is missed in the Koeln digitisation.
+;jim OK. Now I see that accent in annexure. Agree missed in 26398.
+
+<L>28773.3<pc>1320,3<k1>ititi<k2>i—títi<e>3	<s>i—°títi</s>¦ the hymn, <ls>RV.</ls>x, 119 (quoted), Mn, xi, 252<info n="sup"/>	<LEND>
+%% ititi instead of itîti!!
+; ? print has itIti -- How confirm ititi .
+;; just change i—°títi to i—°tîti!! This is a typo correction.
+;jim agree:  1) <k2>i—ti/ti  => <k2>itIti
+;jim         2) <s>i—°ti/ti</s> ¦   => <s>i°tI<srs/>ti</s> ¦ 
+
+<L>37534.1<pc>1322,3<k1>ulbaṇatāpa<k2>ulbaṇa-tāpa<e>3	<s>ulbaṇa-tāpa</s>¦ <lex>mfn.</lex> much burnt, <ls>Kum.</ls><info n="sup"/><info lex="m:f:n"/>	<LEND>
+%% column break not marked here
+; column break occurs at ul-<col break>baRa-tApa    Not sure how to change.  Probably 'no change' is satisfactory
+;; At other such instances, same "<pb n=" notation is used; whether it is a page break or column break, same "<pb" notation is employed everywhere.
+;jim  But a page break in the middle of a headword?  Example?
+
+<L>38277.2<pc>1322,3<k1>ūrdhvāgraromatā<k2>ūr—dhvāgra—romatā<e>4	<s>ūr—°dhvā<srs/>gra—romatā</s>¦ <lex>f.</lex> having the hairs of the body erect [one of this 32 signs of perfection], <ls>Dharmas. 83</ls>.<info n="sup"/><info lex="f"/>	<LEND>
+%% This should be "ūrdhvaromatā", not "ūrdhvāgraromatā".
+; Disagree  
+;; it goes along with "ūrdhvaroman" and should be "ūrdhvaromatā" only.
+;jim Still disagree
+;jim cf. BHS  UrDvAgra:  -roma(n), adj. (= Pali uddhagga-loma), having (body-)hir standing up, lit. with upright tips, one of the 32 lakṣaṇa, q.v.
+
+<L>38870.1<pc>1322,3<k1>ṛṇacit<k2>ṛṇa—cít<h>b<e>3	<s>ṛṇa—cít</s> <hom>b</hom>¦  <lex>n.</lex> (read, ‘revenging guilt’)<info and="38865,fRakAti;38870.1,fRacit"/><info n="sup"/><info lex="n"/>	<LEND>
+%% what a bad correction this is!
+; 38870 remove <h>a and <hom>a</hom> 
+; 38870.1 remove <h>b and <hom>b</hom> 
+; PW has 'Schuld rächend.' for both fRakAti and fRacit  (German = avenging guilt)
+; Looks like MW is copying PW in these two.
+; Not sure how to handle fRacit.
+;; I could see the corrections clearly mentioned in annexure- "ṛṇa—kāti" to become "ṛṇá—kāti" (here the text "one to whom praise is due" is properly replaced with "revenging guilt") & the text under "ṛṇa—cít" "‘giving heed to worship’ (paid as a debt by men to gods)" to be changed to "revenging guilt" just as done in the case of "ṛṇa—kāti".
+;jim I remain puzzled.  Will have to examine again another day.
+
+%% The entry "ṛtavyà-vat" is missed
+; <L>38512<pc>224,1<k1>ftavyavat<k2>ftavya^—vat<e>3   
+;  Cannot see difference in p. 1321,1  and p. 224,1.  Accents the same.
+;; (224,1) has "ṛtavyâ—vat" and (1321,1) specifies it to be "ṛtavyà-vat" - not a long vowel but an accent to be there!!
+;jim agree
+
+%% The entry "ṛ̥ṣvá-vīra" is missed
+; see no difference from 1323,1 and 227,2.  Accents the same. 
+;; could it mean to remove have just (RV.) under <ls> without the further numbers? (There are quite many such RV. references without the numbers in the text.)
+;jim possibly.  Not clear.  I think there are other examples where (RV.) is
+;jim in annex, and there is a difference in accent, and the main text has
+;jim RV.,i,12  (i.e. not just RV.).
+
+%% The entry "kṛ́ttikāñji" is missed
+; 54798 kfttikAYji.  I see no change needed. Accent agrees.
+;; Does this also mean no numbers after "ŚBr.", like at the entry "ṛ̥ṣvá-vīra"?
+;jim possibly. Not clear.
+
+<L>59377<pc>328,1<k1>kṣaya<k2>kṣayá<h>3<e>2<hom>3.</hom> <s>kṣayá</s>¦ <lex>m.</lex> (<ls>Pāṇ. vi, 1, 201</ls>) loss, waste, wane, diminution, destruction, decay, wasting or wearing away (often <ab>ifc.</ab>), <ls>Mn.</ls>; <ls>MBh.</ls> &c. <pb n="1325,3"/> <info n="rev"/><info lex="m"/><LEND>
+%% revised and marked "rev". This is neither a "rev." text, nor has a page break - wrong markings.
+; ? p. 328,1 shows no accent on last syllable -- but 59377 DOES show this accent -- that is the revision
+;; the revision text I meant (missing) is "(the accent is on the last syllable in the sense 'destruction', according to Pāṇ. ii, 3, 56 and vi, 1, 63)" which explains the accent position. Also there is no break (page or column) at this annexure entry.
+;jim kzaya [1] L=59267 should revise to show accent on first a: kza/ya. Mark as
+;jim   <info n="rev"/><pb n="1325,3"/>
+;jim kzaya [3] 59377. annex has accent on 2nd a: kzaya/
+;jim L=59377.1 currently has the annex comment ("the accent is on ... Pan...")
+;jim    59377.1 could be merged into 59377, and then 59377.1 deleted.
+ 
+<L>101953.5<pc>1329,2<k1>dhṛṣṭa<k2>dhṛ́ṣṭa<e>2B¦ (Read <s>dhṛ́ṣṭa</s> and<ab>cf.</ab> <ab>Introd.</ab> <ab>p.</ab> xviii.) <info n="rev"/>	<LEND>
+%% This is already partly (accent part) applied.
+; What else to do?
+;; remove "Read <s>dhṛ́ṣṭa</s>", as the accent change is already applied to mfn. and m.; need to apply the same at f. and ind. as well, & add "<ab>cf.</ab> <ab>Introd.</ab> <ab>p.</ab> xviii." somewhere, most probably before the composite words started.
+;jim sounds reasonable
+
+<L>129737<pc>652,2<k1>pnā<k2>pnā<e>1<s>pnā</s>¦ <lex>f.</lex> the braided hair of <s1 slp1="Siva">Śiva</s1>, <ls>L.</ls> <pb n="1330,2"/> <info n="rev"/><info lex="f"/><LEND>
+%% revised and marked "rev". but the prescribed correction, "pnā" as "ptā" not done.
+; ? Many dictionaries have pnA,  but only SCH has 'ptA' with gloss '(nicht pnā) f. Haarflechte' = '(not pnā) f. hair braid'
+; ? Not sure how to handle.
+;; Suggest changing it to "ptā", as it is clearly marked thus as a correction. Also I see it in the sarvaśabdasambodhini, an alphabetical dictionary vith meanings in both Sanskrit and Telugu- this is purely based on traditional verse dictionaries in Skt. (indicated by MW as <L.>) [This is already hosted at our Andharabharati site.]
+;jim Suggest 1)keep pnA (with additional comment '(read <s>ptA</s>) of annex
+;jim AND Add new ptA entry -- text to be determined, but mentioning pnA.  
+
+<L>130022.1<pc>1330,2<k1>prakriyā<k2>pra-kriyā<e>3A¦  production, creation, origin, <ls>Sarvad.</ls><info n="sup"/><info lex="inh"/>	<LEND>
+%% revision not made
+; looks ok to me.  All these senses of prakriyA at 1330,2 seem to be additions, rather than revisions.
+;; When I first posted the "prakriyā" entry as modifications, you seemed to have agreed in principle, but hesitant to make the changes as they were somewhat 'drastic' as almost every sense of the entry got 'affected'.
+;jim  'If revision not made' means 'should be reordered', then I agree.
+;jim  Yes, many of your changes are drastic, but (with only few exceptions),
+;jim  they seem to be improvements.
+
+<L>220878<pc>1088,3<k1>śeṣa<k2>śeṣa<h>b<e>1<s>śeṣa</s> <hom>b</hom>¦ <lex>mn.</lex> (<ab>fr.</ab> √ <hom>2.</hom> <s>śiṣ</s>) remainder, that which remains or is left, leavings, residue (<ab>pl.</ab> ‘all the others’), surplus, balance, effect, the rest (<s>śeṣe</s> <ab>loc.</ab> ‘for the rest’, ‘in all other cases’; <s>śeṣe rātrau</s>, ‘during the rest of the night’; <s>mama śeṣam asti</s>, ‘there remains something to happen to me’) <pb n="1332,3"/> <info n="rev"/><info lex="m:n"/><LEND>
+%% revised and marked "rev".
+%% No page break in here, as marked
+; ? Don't understand 'No page break in here, as marked'
+;; So one has to take <pb as not a break, but just as a <pc, is it? (I was thinking otherway all through)
+;jim  There isn't any <pc ...> markup EXCEPT in the metaline (the first line
+;jim  of an entry).  '<pc>p,c' in the 'metaline' in MW should mean that the
+;jim  particular record refers to a headword BEGUN on page p, column c.
+
+
