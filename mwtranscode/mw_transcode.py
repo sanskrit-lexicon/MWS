@@ -78,6 +78,24 @@ def convert_metaline(line,tranin,tranout):
  if False and (tranin == 'slp1') and (tranout == 'deva'):
   if '/' in k2:
    print_unicode(k2,k2a)
+ if (tranin == 'roman') and (tranout == 'slp1'):
+  # transcoding inversion problem for three lines
+  exceptions = [
+   ('<L>116525.7<',
+    '<L>116525.7<pc>588,2<k1>paramahaMsopanizadhfdaya<k2>parama/—haMsopanizad-hfdaya<e>4'
+   ),
+   ('<L>139372<',
+    '<L>139372<pc>704,3<k1>prAghAra<k2>prAg—hAra<e>3'
+   ),
+   ('<L>139373<',
+    '<L>139373<pc>704,3<k1>prAghoma<k2>prAg—homa<e>3'
+   )
+  ]
+  for start,correction in exceptions:
+   if lineout.startswith(start):
+    lineout = correction
+    print('manual correction:',lineout)
+    break
  return lineout
 
 if __name__=="__main__": 

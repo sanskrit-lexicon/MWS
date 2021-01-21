@@ -1,3 +1,23 @@
+Jan 21, 2021.  
+save local copies:  (the 'tempprev_...' files not tracked by git.
+  mw.txt as tempprev_mw.txt  
+  mw_iast.txt as tempprev_mw_iast.txt
+
+Sync mw.txt with csl-orig version, in preparation for Andhrabharati's  work.
+The csl-orig commit is 7c4f7779372a13cdd691faf28d9984f86069112f
+
+reconstruct mw_iast.txt
+python mw_transcode.py slp1 roman mw.txt mw_iast.txt
+
+confirm invertibility:
+python mw_transcode.py roman slp1 mw_iast.txt temp_mw_slp1.txt
+diff mw.txt temp_mw_slp1.txt  (no difference)
+NOTE:  mw_transcode program changed to
+  manually adjust three lines in the roman-slp1 transcoding.
+
+-----------------------------------------------------------------------
+
+
 Currently (Jan 3, 2021), mw.txt agrees with version in csl-orig at
 commit# 67bfbda32328317ab45f69432f58204595227609).
 
