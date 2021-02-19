@@ -1,755 +1,370 @@
-<!DOCTYPE html>
-<head>
-<title>MW revisions: AB_3.1</title>
-<meta charset="UTF-8">
-</head>
-<body>
-<H2>Review of revisions to MW from supplement</H2>
-<it>Refer <a href="https://github.com/sanskrit-lexicon/MWS/issues/97">Github mws issue 97</a></it>
-
-<details><summary>aṃśu</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/amsu1.PNG"/>
-<img src="images/amsu2.PNG"/>
-  <H3>REV</H3>
-   <img src="images/amsu_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 1
 <L>52<pc>1,2<k1>aṃśu<k2>aṃśú<e>1A
 ¦ a ray, sunbeam <info n="rev" pc="1308,1"/><info lex="inh"/>
 <LEND>
- 
 ;; R(1308,1) aṃśu (col. 2, l. 1, for ‘array’ read ‘a ray’)
-;; Revision correctly done here.</textarea>
- </div>
-</details>
+;; Revision correctly done here.
+;; END
 
-<details><summary>aṃsadhrī</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/amsadhri.PNG"/>
-  <H3>REV</H3>
-   <img src="images/amsadhri_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 2
 <L>97<pc>1,2<k1>aṃsadhrī<k2>áṃsa—dhrī́<e>3
 <s>áṃsa—dhrī́</s> ¦ <lex>f.</lex> a cooking vessel applied to the Vedi, <ls>AV. xi, 1, 23</ls> <info n="rev" pc="1308,1"/><info lex="f"/>
 <LEND>
- 
 ;; R(1308,1) aṃsadhrī (read, ‘applied to the Vedi’), AV. xi, 1, 23
 ;; Looking at the quoted matter (indicating full string replacement) in annexure, should this entry be revised as under?-
- 
 <Ls>97<pc>1,2<k1>aṃsadhrī<k2>áṃsa—dhrī́<e>3
 <s>áṃsa—dhrī́</s> ¦ <lex>f.</lex> ‘applied to the Vedi’, <ls>AV. xi, 1, 23</ls> <info n="rev" pc="1308,1"/><info lex="f"/>
 <LEND>
- 
 ;; There are many such meanings just in quotes, followed by source names (<ls>) in the book.
-;; Also 'a vessel "applied to" the Vedi' does not make any sense; a vessel can be "used in", but not "applied to"!!</textarea>
- </div>
-</details>
+;; Also 'a vessel "applied to" the Vedi' does not make any sense; a vessel can be "used in", but not "applied to"!!
+;; END
 
-<details><summary>akuśala</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/akushala.PNG"/>
-  <H3>REV</H3>
-   <img src="images/akushala_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 3
 <L>303<pc>2,2<k1>akuśala<k2>a-kuśala<e>1
 <s>a-kuśala</s> ¦ <lex>mf(<s>ā</s>)n.</lex> inauspicious, evil, <ls>ŚBr.</ls> <info n="rev" pc="1308,1"/><info lex="m:f#A:n"/>
 <LEND>
- 
 ;; R(1308,1) ákuśala (ŚBr.)
 ;; The accent missed in the revised HW.
 ;; The revised entry should be as under-
- 
 <Ls>303<pc>2,2<k1>akuśala<k2>á-kuśala<e>1
 <s>á-kuśala</s> ¦ <lex>mf(<s>ā</s>)n.</lex> inauspicious, evil, <ls>ŚBr.</ls> <info n="rev" pc="1308,1"/><info lex="m:f#A:n"/>
 <LEND>
- 
- 
 <L>304<pc>2,2<k1>akuśala<k2>a-kuśala<e>1A
 ¦ not clever<info lex="inh"/>
 <LEND>
- 
 ;; This should also be revised as above-
- 
 <Ls>304<pc>2,2<k1>akuśala<k2>á-kuśala<e>1A
 ¦ not clever<info lex="inh"/>
 <LEND>
- 
 ;; No need for rev marking here, as it is a continuation matter.
- 
 <L>305<pc>2,2<k1>akuśala<k2>a-kuśala<e>1B
 <s>á-kuśala</s> ¦ <lex>n.</lex> evil, an evil word, <ls>Mn.</ls><info lex="n"/>
 <LEND>
- 
 ;; This should also be revised as under-
- 
 <Ls>305<pc>2,2<k1>akuśala<k2>á-kuśala<e>1B
 <s>á-kuśala</s> ¦ <lex>n.</lex> evil, an evil word, <ls>Mn.</ls><info lex="n"/>
 <LEND>
- 
 ;; No need for "rev" marking here, as it is a continuation matter.
- 
 <L>305.1<pc>1308,1<k1>akuśala<k2>ákuśala<e>1B
 <s>ákuśala</s> ¦ <lex>n.</lex> (with Buddhists) demerit, sin, <ls>MWB. 124</ls>.<info n="sup"/><info lex="n"/>
 <LEND>
- 
 ;; Interestingly, here the accent mark (of Annexure) is correctly placed.
 ;; But, should a hyphen separation be done in the <k2> and <s> fields, as in the above entiries?
 ;; If so, the entry would be as under-
- 
 <Ls>305.1<pc>1308,1<k1>akuśala<k2>á-kuśala<e>1B
 <s>á-kuśala</s> ¦ <lex>n.</lex> (with Buddhists) demerit, sin, <ls>MWB. 124</ls>.<info n="sup"/><info lex="n"/>
 <LEND>
- 
- 
 <L>305.2<pc>1308,1<k1>akuṣṭhipṛṣat<k2>a-kuṣṭhipṛṣat<e>1
 <s>a-kuṣṭhipṛṣat</s> ¦ <lex>mfn.</lex> neither leprous nor spotted, <ls>ĀśvGṛ.</ls><info n="sup"/><info lex="m:f:n"/>
 <LEND>
- 
-;; Why is this record having a "305" in L-number? it is no way related to the <L>305; this is an example of the ad-hoc <L> numbering I mentioned earlier at a different place.</textarea>
- </div>
-</details>
+;; Why is this record having a "305" in L-number? it is no way related to the <L>305; this is an example of the ad-hoc <L> numbering I mentioned earlier at a different place.
+;; END
 
-<details><summary>akṣayiṇī</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/akshayini.PNG"/>
-  <H3>REV</H3>
-   <img src="images/akshayini_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 4
 <L>572<pc>3,2<k1>akṣayiṇī<k2>a-kṣayiṇī<e>2B
 <s>a-kṣayiṇī</s> ¦ <lex>f.</lex> <ab>N.</ab> of a river, <ls>Rājat.</ls> <info n="rev" pc="1308,2"/><info lex="f"/>
 <LEND>
- 
 ;; R(1308,2) akṣayiṇī (read, ‘N. of a river’)
-;; Revision correctly done here.</textarea>
- </div>
-</details>
+;; Revision correctly done here.
+;; END
 
-<details><summary>akṣetrajña</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/akshetrajna.PNG"/>
-  <H3>REV</H3>
-   <img src="images/akshetrajna_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 5
 <L>710<pc>4,1<k1>akṣetrajña<k2>á-kṣetra—jña<e>3
 <s>á-kṣetra—jña</s> ¦ <lex>mfn.</lex> ([<ls>Pāṇ. 7-3, 30</ls>]) not finding out the way, <ls>ŚBr.</ls> <info or="710,akzetrajYa;711,akzetravid"/><info n="rev" pc="1308,3"/><info lex="m:f:n"/>
 <LEND>
- 
 ;; R(1308,3) á-kṣetra-jña (ŚBr.)
 ;; Similar to the next entry, the ŚBr. should be kept before the meaning portion, not after.
 ;; So it should either be [ŚBr.; Pāṇ. 7-3, 30] (listing order as followed in the book) or just [ŚBr.]
- 
 <Ls>710<pc>4,1<k1>akṣetrajña<k2>á-kṣetra—jña<e>3
 <s>á-kṣetra—jña</s> ¦ <lex>mfn.</lex> [<ls>ŚBr.</ls>; <ls>Pāṇ. 7-3, 30</ls>] not finding out the way. <info or="710,akzetrajYa;711,akzetravid"/><info n="rev" pc="1308,3"/><info lex="m:f:n"/>
 <LEND>
- 
 ;; The print book has a spl. purpose of having "[...]" inside a "(...)"
 ;; The data has "([..." at many other places (almost over 1100) wrongly, may be unknowingly put. All those need to be corrected.
- 
 <L>710.1<pc>4,1<k1>akṣetrajña<k2>á-kṣetra—jña<e>3A
 ¦ destitute of spiritual knowledge.<info lex="inh"/>
 <LEND>
- 
- 
 <L>711<pc>4,1<k1>akṣetravid<k2>á-kṣetra—vid<e>3
 <s>á-kṣetra—vid</s> ¦ <lex>mfn.</lex> [<s>ákṣ°</s>, <ls>RV. v, 40, 5 and x, 32, 7</ls>], not finding out the way<info or="710,akzetrajYa;711,akzetravid"/><info lex="m:f:n"/>
 <LEND>
- 
 ;; The print book has a spl. purpose of having "[...]" inside a "(...)"
-;; The data has "([..." at many other places (almost over 1100) wrongly, may be unknowingly put. All those need to be corrected.</textarea>
- </div>
-</details>
+;; The data has "([..." at many other places (almost over 1100) wrongly, may be unknowingly put. All those need to be corrected.
+;; END
 
-<details><summary>akṣobha</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/akshobha.PNG"/>
-  <H3>REV</H3>
-   <img src="images/akshobha_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 6
 <L>718<pc>4,1<k1>akṣobha<k2>a-kṣobha<e>1
 <s>a-kṣobha</s> ¦ <lex>mfn.</lex> unagitated, unmoved <info n="rev" pc="1308,3"/><info lex="m:f:n"/>
 <LEND>
- 
 ;; R(1308,3) a-kśobha (insert n. before ‘freedom’)
 ;; Thus this entry has nothing to do with "rev" and the marking to be removed.
 ;; The entry should be as under-
- 
 <Ls>718<pc>4,1<k1>akṣobha<k2>a-kṣobha<e>1
 <s>a-kṣobha</s> ¦ <lex>mfn.</lex> unagitated, unmoved<info lex="m:f:n"/>
 <LEND>
- 
- 
 <L>718.1<pc>4,1<k1>akṣobha<k2>a-kṣobha<e>1B
 <s>a-kṣobha</s> ¦ <lex>m.</lex> the post to which an elephant is tied. <info n="rev" pc="1308,3"/><info lex="m"/>
 <LEND>
- 
 ;; R(1308,3) a-kśobha (insert n. before ‘freedom’)
 ;; Thus this entry has nothing to do with "rev" and the marking to be removed.
 ;; The entry should be as under-
- 
 <Ls>718.1<pc>4,1<k1>akṣobha<k2>a-kṣobha<e>1B
 <s>a-kṣobha</s> ¦ <lex>m.</lex> the post to which an elephant is tied.<info lex="m"/>
 <LEND>
- 
- 
 <L>718.2<pc>4,1<k1>akṣobha<k2>a-kṣobha<e>1B
 <s>a-kṣobha</s> ¦ <lex>n.</lex> freedom from agitation, imperturbability. <info n="rev" pc="1308,3"/><info lex="n"/>
 <LEND>
- 
 ;; R(1308,3) a-kśobha (insert n. before ‘freedom’)
-;; Revision correctly done here.</textarea>
- </div>
-</details>
+;; Revision correctly done here.
+;; END
 
-<details><summary>agnāviṣṇū</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/agnavishnu.PNG"/>
-  <H3>REV</H3>
-   <img src="images/agnavishnu_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 7
 <L>887<pc>5,1<k1>agnāviṣṇū<k2>agnā—viṣṇū<e>3
 <s>agnā—viṣṇū</s> ¦ <ab>voc.</ab> <lex>m. <ab>du.</ab></lex> <s1 slp1="agni">Agni</s1> and <s1 slp1="vizRu">Viṣṇu</s1>, <ls>AV.</ls>; <ls>ŚBr.</ls> <info n="rev" pc="1309,1"/><info lexcat="INFLECTID=m1d,STEM=agnAvizRu"/>
 <LEND>
- 
 ;; R(1309,1) agnā́—viṣṇū (ŚBr.)
 ;; The accent mark missed in the revision.
 ;; The revised entry should be as under-
- 
 <Ls>887<pc>5,1<k1>agnāviṣṇū<k2>agnā́—viṣṇū<e>3
 <s>agnā́—viṣṇū</s> ¦ <ab>voc.</ab> <lex>m. <ab>du.</ab></lex> <s1 slp1="agni">Agni</s1> and <s1 slp1="vizRu">Viṣṇu</s1>, <ls>AV.</ls>; <ls>ŚBr.</ls> <info n="rev" pc="1309,1"/><info lexcat="INFLECTID=m1d,STEM=agnAvizRu"/>
 <LEND>
- 
 ;; At many places in the data, the number indicator du. or sg. is placed inside the gender (<lex>) marking.
-;; Though they are related, they should not be kept thus, but should be separately put. Gender (<s> liṅga</s>) comes first, followed by the number (<s>vacana</s>) next.</textarea>
- </div>
-</details>
+;; Though they are related, they should not be kept thus, but should be separately put. Gender (<s> liṅga</s>) comes first, followed by the number (<s>vacana</s>) next.
+;; END
 
-<details><summary>agnibhūti</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/agnibhuti.PNG"/>
-  <H3>REV</H3>
-   <img src="images/agnibhuti_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 8
 <L>1013<pc>5,2<k1>agnibhūti<k2>agní—bhūti<e>3
 <s>agní—bhūti</s> ¦ <lex>m.</lex> <ab>N.</ab> of one of the eleven chief pupils (<s1 slp1="gaRaDara">gaṇadhara</s1>s) of the last <s1 slp1="tIrTakara">Tīrthakara</s1>. (see also, <ls>Pāṇ. 8-2, 107, </ls><ab>Vārtt.</ab> 2, <ls>Pat.</ls>) <info n="rev" pc="1309,1"/><info lex="m"/>
 <LEND>
- 
 ;; R(1309,1) agni-bhūti (see also Pāṇ. viii, 2, 107, Vārtt. 2, Pat.)
-;; Revision correctly done here.</textarea>
- </div>
-</details>
+;; Revision correctly done here.
+;; END
 
-<details><summary>agnyupasthāna</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/agnyupasthana.PNG"/>
-  <H3>REV</H3>
-   <img src="images/agnyupasthana_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 9
 <L>1183<pc>6,2<k1>agnyupasthāna<k2>agny-upasthāná<e>3
 <s>agny-upasthāná</s> ¦ <lex>n.</lex> worship of <s1 slp1="agni">Agni</s1> at the conclusion of the <s1 slp1="agnihotra">Agnihotra</s1> &c., <ls>ŚBr.</ls>; <ls>MaitrS.</ls> <info n="rev" pc="1309,1"/><info lex="n"/>
 <LEND>
- 
 ;; R(1309,1) agny-upasthā́na (MaitrS.)
 ;; The accent placement is missed in the HW, though marked as a "rev".
 ;; The revised entry should be as under-
- 
 <Ls>1183<pc>6,2<k1>agnyupasthāna<k2>agny-upasthā́na<e>3
 <s>agny-upasthā́na</s> ¦ <lex>n.</lex> worship of <s1 slp1="agni">Agni</s1> at the conclusion of the <s1 slp1="agnihotra">Agnihotra</s1> &c., <ls>ŚBr.</ls>; <ls>MaitrS.</ls> <info n="rev" pc="1309,1"/><info lex="n"/>
 <LEND>
- </textarea>
- </div>
-</details>
+;; END
 
-<details><summary>aṅgulisaṃdeśa</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/angulisamdesha.PNG"/>
-  <H3>REV</H3>
-   <img src="images/angulisamdesha_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 10
 <L>1730<pc>8,2<k1>aṅgulisaṃdeśa<k2>aṅgúli—saṃdeśa<e>3
 <s>aṅgúli—saṃdeśa</s> ¦ <lex>m.</lex> snapping or cracking the fingers as a sign. (read <s>-saṃdaṃsa</s>) <info n="rev" pc="1309,2"/><info lex="m"/>
 <LEND>
- 
 ;; R(1309,2) aṅgúli—saṃdeśa (read -saṃdaṃsa)
 ;; Revision is not done but the matter is just inserted at the end!
 ;; The revised entry should be as under-
- 
 <Ls>1730<pc>8,2<k1>aṅgulisaṃdaṃsa<k2>aṅgúli—saṃdaṃsa<e>3
 <s>aṅgúli—saṃdaṃsa</s> ¦ <lex>m.</lex> snapping or cracking the fingers as a sign. <info n="rev" pc="1309,2"/><info lex="m"/>
 <LEND>
- 
 ;; The comp. HW entry here "aṅguli (in comp.)" has no accent mark. Should all these comp. entrywords be changed accordingly?
-;; Incidentally, some HWs are marked with an accent and some are without the accent in this group!!</textarea>
- </div>
-</details>
+;; Incidentally, some HWs are marked with an accent and some are without the accent in this group!!
+;; END
 
-<details><summary>aṅghāri</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/anghari.PNG"/>
-  <H3>REV</H3>
-   <img src="images/anghari_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 11
 <L>1754<pc>8,3<k1>aṅghāri<k2>aṅghāri<e>3
 <s>aṅghā<srs/>ri</s> ¦ <lex>m.</lex> ‘an enemy to sin or evil’, <ab>N.</ab> of a celestial guard of the <s1 slp1="soma">Soma</s1>, <ls>VS.</ls> ([blazing, <ls>T.</ls>]) <info n="rev" pc="1309,2"/><info lex="m"/>
 <LEND>
- 
 ;; R(1309,2) áṅghâri (VS.)
 ;; The accent missed in the HW, though marked as a "rev".
 ;; The revised entry should be as under-
- 
 <Ls>1754<pc>8,3<k1>aṅghāri<k2>áṅghāri<e>3
 <s>áṅghā<srs/>ri</s> ¦ <lex>m.</lex> ‘an enemy to sin or evil’, <ab>N.</ab> of a celestial guard of the <s1 slp1="soma">Soma</s1>, <ls>VS.</ls> ([blazing, <ls>T.</ls>]) <info n="rev" pc="1309,2"/><info lex="m"/>
 <LEND>
- </textarea>
- </div>
-</details>
+;; END
 
-<details><summary>aṇuvrata</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/anuvrata.PNG"/>
-  <H3>REV</H3>
-   <img src="images/anuvrata_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 12
 <L>2434<pc>11,3<k1>aṇuvrata<k2>aṇu—vrata<e>3
 <s>aṇu—vrata</s> ¦ <lex>n.</lex> <ab>pl.</ab> <ab>N.</ab> of the five small duties or vows of the laymen adhering to the <s1 slp1="jEna">Jaina</s1> faith. <info n="rev" pc="1309,3"/><info lex="n"/>
 <LEND>
- 
 ;; R(1309,3) aṇu—vrata, read ‘five’ for ‘twelve.’
-;; Revision correctly done here.</textarea>
- </div>
-</details>
+;; Revision correctly done here.
+;; END
 
-<details><summary>atamāviṣṭa</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/atamavishta.PNG"/>
-  <H3>REV</H3>
-   <img src="images/atamavishta_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 13
 <L>2530<pc>12,1<k1>atamāviṣṭa<k2>a-tamāviṣṭa<e>3
 <s>a-tamā<srs/>viṣṭa</s> ¦ (irregular contraction of <s>a-tama-āviṣṭa</s>) <lex>mfn.</lex> not enveloped in darkness, <ls>MaitrUp.</ls>; <ls>ŚBr.</ls> <info n="rev" pc="1309,3"/><info lex="m:f:n"/>
 <LEND>
- 
 ;; R(1309,3) a-tamấviṣṭa (ŚBr.)
 ;; The accent mark missed in the revision.
 ;; The revised entry should be as under-
- 
 <Ls>2530<pc>12,1<k1>atamāviṣṭa<k2>a-tamā́viṣṭa<e>3
 <s>a-tamā́<srs/>viṣṭa</s> ¦ (irregular contraction of <s>a-tama-āviṣṭa</s>) <lex>mfn.</lex> not enveloped in darkness, <ls>MaitrUp.</ls>; <ls>ŚBr.</ls> <info n="rev" pc="1309,3"/><info lex="m:f:n"/>
 <LEND>
- </textarea>
- </div>
-</details>
+;; END
 
-<details><summary>adayīya</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/adayiya.PNG"/>
-  <H3>REV</H3>
-   <img src="images/adayiya_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 14
 <L>3659<pc>18,2<k1>adayīya<k2>adayīya<e>2
 <s>adayīya</s> ¦ <lex>mf(<s>ī</s>)n.</lex> belonging to that or those, <ls>Naiṣ.</ls> <info n="rev" pc="1310,1"/><info lex="m:f#I:n"/>
 <LEND>
- 
 ;; R(1310,1) a-dayīya (p. 18, col. 2, l. 1 read a-dasīya.
 ;; Revision not done, though marked as "rev".
 ;; The revised entry should be as under-
- 
 <Ls>3659<pc>18,2<k1>adasīya<k2>a-dasīya<e>2
 <s>a-dasīya</s> ¦ <lex>mf(<s>ī</s>)n.</lex> belonging to that or those, <ls>Naiṣ.</ls> <info n="rev" pc="1310,1"/><info lex="m:f#I:n"/>
 <LEND>
- </textarea>
- </div>
-</details>
+;; END
 
-<details><summary>adānya</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/adanya.PNG"/>
-  <H3>REV</H3>
-   <img src="images/adanya_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 15
 <L>3668<pc>18,2<k1>adānya<k2>a-dānyá<e>2
 <s>a-dānyá</s> ¦ <lex>mfn.</lex> not deserving a gift, <ls>AV.</ls> <info n="rev" pc="1310,1"/><info lex="m:f:n"/>
 <LEND>
- 
 ;; R(1310,1) a-dānyá (read, ‘not deserving a gift’).
-;; Revision correctly done here.</textarea>
- </div>
-</details>
+;; Revision correctly done here.
+;; END
 
-<details><summary>adhīvāsa</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/adhivasa.PNG"/>
-  <H3>REV</H3>
-   <img src="images/adhivasa_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 16
 <L>4373<pc>22,1<k1>adhīvāsa<k2>adhī-vāsá<h>a<e>2
 <s>adhī-vāsá</s> <hom>a</hom> ¦ ([<ls>RV.</ls>; <ls>ŚBr.</ls>; <ls>MBh.</ls> &c.]) <lex>m.</lex> an upper garment, mantle. <info or="4372,aDivAsa;4373,aDIvAsa;4374,aDIvAsas"/><info n="rev" pc="1310,3"/><info lex="m"/>
 <LEND>
- 
 ;; My earlier remark at this entry was ";; this correction does not seem to have been applied properly; need to look closely once again."
 ;; The annexure entry at (1310,3) [not a break though] is to be applied at <L>4532<pc>22,3<k1>adhīvāsa, as it is mentioned after "a-dhīta-rasa" in the Annexure pages..
 ;; Hence this entry needs to be reverted back to the original form O(22,1) adhī-vāsá [RV.; ŚBr.. &c.] as under-
- 
 <Ls>4373<pc>22,1<k1>adhīvāsa<k2>adhī-vāsá<h>a<e>2
 <s>adhī-vāsá</s> <hom>a</hom> ¦ ([<ls>RV.</ls>; <ls>ŚBr.</ls> &c.]) <lex>m.</lex> an upper garment, mantle.<info or="4372,aDivAsa;4373,aDIvAsa;4374,aDIvAsas"/><info lex="m"/>
 <LEND>
- </textarea>
- </div>
-</details>
+;; END
 
-<details><summary>adhri</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/adhri.PNG"/>
-  <H3>REV</H3>
-   <img src="images/adhri_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 17
 <L>4713<pc>23,3<k1>adhri<k2>á-dhri<e>1
 <s>á-dhri</s> ¦ <lex>mfn.</lex> (√ <s>dhṛ</s>), unrestrained, irresistible, <ls>AV. v,20,10.</ls><info lex="m:f:n"/>
 <LEND>
- 
- 
 <L>4713.1<pc>23,3<k1>adhri<k2>á-dhri<e>1A
 ¦ press-stone; <s>grā́vā ádriḥ</s> <ls>AV. v, 20, 10.</ls> <info n="rev" pc="1310,3"/>
 <LEND>
- 
 ;; R(1310,3) adhri (AV. v, 20, 10 read adri with the MSS.; grā́vā ádriḥ = ‘press-stone’).
 ;; My earlier remark ";; wronlgy added as a separate meaning, instead of as a correction.".
 ;; The suggested entries would be as under-
- 
 <Ls>4713<pc>23,3<k1>adhri<k2>adhri<e>1
 <s>adhri</s> ¦ <lex>mfn.</lex> (√ <s>dhṛ</s>), unrestrained, irresistible, (<s>adri</s> with the <ab>MSS.</ab>; <s>grā́vā ádriḥ</s> = ‘press-stone’) <ls>AV. v, 20, 10.</ls><info n="rev" pc="1310,3"/><info lex="m:f:n"/>
 <LEND>
- 
-;; <Ls>4713.1 "This stands deleted, as a NULL record; to be deleted completely at the end."</textarea>
- </div>
-</details>
+;; <Ls>4713.1 "This stands deleted, as a NULL record; to be deleted completely at the end."
+;; END
 
-<details><summary>analānanda</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/analananda.PNG"/>
-  <H3>REV</H3>
-   <img src="images/analananda_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 18
 <L>5271<pc>26,3<k1>analānanda<k2>analānanda<e>3
 <s>analā<srs/>nanda</s> ¦ <lex>m.</lex> <ab>N.</ab> of a Vedantic writer, author of the <s1 slp1="vedAnta-kalpataru">Vedānta-kalpataru</s1><info lex="m"/>
 <LEND>
- 
- 
 <L>13993.05<pc>26,3<k1>amalānanda<k2>amalānanda<e>3
 <s>amalā<srs/>nanda</s> ¦ (Correction of <s>analānanda</s>) <lex>m.</lex> <ab>N.</ab> of a <ns>Vedāntic</ns> writer, author of the <s1 slp1="vedAnta-kalpataru">Vedānta-kalpataru</s1>. <info n="rev" pc="1311,1"/><info lex="m"/>
 <LEND>
- 
 ;; Thus the revised entries would be as under-
- 
 <Ls>5271<pc>26,3<k1>amalānanda<k2>amalānanda<e>3
 <s>amalā<srs/>nanda</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <ns>Vedāntic</ns> writer, author of the <s1 slp1="vedAnta-kalpataru">Vedānta-kalpataru</s1>. <info n="rev" pc="1311,1"/><info lex="m"/>
 <LEND>
- 
-;; <Ls>13993.05 "This stands deleted, as a NULL record; to be deleted completely at the end."</textarea>
- </div>
-</details>
+;; <Ls>13993.05 "This stands deleted, as a NULL record; to be deleted completely at the end."
+;; END
 
-<details><summary>anāgāmin</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/anagamin.PNG"/>
-  <H3>REV</H3>
-   <img src="images/anagamin_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 19
 <L>5460<pc>27,3<k1>anāgāmin<k2>an-āgāmin<e>2B
 <s>an-āgāmin</s> ¦ <lex>m.</lex> <ab>N.</ab> of the third among the four <ns>Buddhist</ns> orders. (see, <ls>MWB. 133</ls>) <info n="rev" pc="1311,2"/><info lex="m"/>
 <LEND>
- 
 ;; R(1311,2) an-āgāmin (see MWB. 133).
 ;; The actual O(27,3) entry (under the main HW anāgāmin) mentions this HW as an-āgamī [with the ending ī given separately, in braces]. And the reference MWB. 133 has it thus- He is therefore called An-āgāmī, ‘one who will not come back to earth.’
 ;; This is another example of the word-endings case, I was vocal about.
-;; Probably this correction can take place here, when all those word-endings are added to the data.</textarea>
- </div>
-</details>
+;; Probably this correction can take place here, when all those word-endings are added to the data.
+;; END
 
-<details><summary>anāchṛṇṇa</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/anachrinna.PNG"/>
-  <H3>REV</H3>
-   <img src="images/anachrinna_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 20
 <L>5477<pc>27,3<k1>anāchṛṇṇa<k2>án-āchṛṇṇa<e>1
 <s>án-āchṛṇṇa</s> ¦ <lex>mfn.</lex> not poured upon, <ls>TS.</ls> <info n="rev" pc="1311,2"/><info lex="m:f:n"/>
 <LEND>
- 
 ;; R(1311,2) án-āchṛṇṇa, read án-ācch° (p. 27)
 ;; Thus the revised entry should be as under-
- 
 <Ls>5477<pc>27,3<k1>anācchṛṇṇa<k2>án-ācchṛṇṇa<e>1
 <s>án-ācchṛṇṇa</s> ¦ <lex>mfn.</lex> not poured upon, <ls>TS.</ls> <info n="rev" pc="1311,2"/><info lex="m:f:n"/>
 <LEND>
- </textarea>
- </div>
-</details>
+;; END
 
-<details><summary>anūbandhya</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/anubandhya.PNG"/>
-  <H3>REV</H3>
-   <img src="images/anubandhya_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 21
 <L>7758<pc>42,1<k1>anūbandhya<k2>anū-bándhya<e>1
 <s>anū-bándhya</s> ¦ <lex>mfn.</lex> to be fastened (as a sacrificial animal) for slaughtering, <ls>MaitrS. ŚBr.</ls> &c. <info n="rev" pc="1312,2"/><info lex="m:f:n"/>
 <LEND>
- 
 ;; R(1312,2) anū-bandhyà (MaitrS.)
 ;; The accent change in the Annexure is missed in the revision.
 ;; The revised entry would be as under-
- 
 <Ls>7758<pc>42,1<k1>anūbandhya<k2>anū-bandhyà<e>1
 <s>anū-bandhyà</s> ¦ <lex>mfn.</lex> to be fastened (as a sacrificial animal) for slaughtering, <ls>MaitrS.</sl>; <ls>ŚBr.</ls> &c. <info n="rev" pc="1312,2"/><info lex="m:f:n"/>
 <LEND>
- </textarea>
- </div>
-</details>
+;; END
 
-<details><summary>antaḥkhyā</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/antahkhya.PNG"/>
-  <H3>REV</H3>
-   <img src="images/antahkhya_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 22
 <L>8044<pc>43,2<k1>antaḥkhyā<k2>antáḥ-khyā<e>2
 <s>antáḥ-√ khyā</s> ¦ to inquire into, investigate, <ls>RV.</ls> <info n="rev" pc="1312,3"/><info verb="pre" cp="" parse="antaH+KyA"/>
 <LEND>
- 
 ;; R(1312,3) -√ khyā (read ‘to inquire into, investigate’)
-;; Revision correctly done here.</textarea>
- </div>
-</details>
+;; Revision correctly done here.
+;; END
 
-<details><summary>antarāśṛṅgam</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/antarashringam.PNG"/>
-  <H3>REV</H3>
-   <img src="images/antarashringam_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 23
 <L>8227<pc>44,1<k1>antarāśṛṅgam<k2>antarā-śṛṅgam<e>3
 <s>antarā-śṛṅgam</s> ¦ <lex>ind.</lex> between the horns, <ls>MaitrS.</ls>; <ls>KātyŚr.</ls> <info n="rev" pc="1313,1"/><info lex="ind"/>
 <LEND>
- 
 ;; R(1313,1) -śṛṅgám (MaitrS.)
 ;; The accent in HW is missed in the revision.
 ;; The revised entry would be as under-
- 
 <Ls>8227<pc>44,1<k1>antarāśṛṅgam<k2>antarā-śṛṅgám<e>3
 <s>antarā-śṛṅgám</s> ¦ <lex>ind.</lex> between the horns, <ls>MaitrS.</ls>; <ls>KātyŚr.</ls> <info n="rev" pc="1313,1"/><info lex="ind"/>
 <LEND>
- </textarea>
- </div>
-</details>
+;; END
 
-<details><summary>antarīya</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/antariya.PNG"/>
-  <H3>REV</H3>
-   <img src="images/antariya_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 24
 <L>8228<pc>44,1<k1>antarīya<k2>antarīya<e>2
 <s>antarīya</s> ¦ <lex>n.</lex> an under or lower garment, <ls>Gobh. i, 2, 21</ls>; <ls>L.</ls> <info n="rev" pc="1313,1"/><info lex="n"/>
 <LEND>
- 
 ;; R(1313,1) antarīya (also Gobh. i, 2, 21)
-;; Revision correctly done here.</textarea>
- </div>
-</details>
+;; Revision correctly done here.
+;; END
 
-<details><summary>apacit</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/apacit.PNG"/>
-  <H3>REV</H3>
-   <img src="images/apacit_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 25
 <L>9127<pc>48,3<k1>apacit<k2>apa-cít<h>2<e>2
 <hom>2.</hom> <s>apa-cít</s> ¦ <lex>f.</lex> a sore, boil, = <s>apacī</s>, <ab>fr.</ab> <hom>2.</hom> <s>apa-√ ci</s>, <ls>AV.</ls> <info n="rev" pc="1313,3"/><info lex="f"/>
 <LEND>
- 
 ;; R(1313,3) 2. apa-cít (read, ‘a sore, boil’ = apa-cī, fr. 2. apa-√ci, AV.)
 ;; The hyphen at = apa-cī is missed in the revision.
 ;; The revised entry would be as under-
- 
 <Ls>9127<pc>48,3<k1>apacit<k2>apa-cít<h>2<e>2
 <hom>2.</hom> <s>apa-cít</s> ¦ <lex>f.</lex> a sore, boil, = <s>apa-cī</s>, <ab>fr.</ab> <hom>2.</hom> <s>apa-√ ci</s>, <ls>AV.</ls> <info n="rev" pc="1313,3"/><info lex="f"/>
 <LEND>
- </textarea>
- </div>
-</details>
+;; END
 
-<details><summary>apvā</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/apva.PNG"/>
-  <H3>REV</H3>
-   <img src="images/apva_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 26
 <L>10878<pc>59,3<k1>apvā<k2>apvā́<e>1
 <s>apvā́</s> ¦ (3; <s>ápvā</s>, <ls>Naigh.</ls>) <lex>f.</lex> (Impurity <ab>N.</ab>of a deity presiding over evacuation from fright), <ls>RV. x, 103, 12</ls> (<ab>voc.</ab> <s>apve</s>), <ls>AV. ix, 8, 9</ls> (<ab>acc.</ab> <s>apvā́m</s>). <info n="rev" pc="1314,3"/><info lex="f"/>
 <LEND>
- 
 ;; R(1314,3) apvā́ (read, ‘Impurity,’ N. of a deity presiding over evacuation from fright).
 ;; The quote marks missed in the revision; and no need to have the braces.
 ;; The revised entry would be as under-
- 
 <Ls>10878<pc>59,3<k1>apvā<k2>apvā́<e>1
 <s>apvā́</s> ¦ (3; <s>ápvā</s>, <ls>Naigh.</ls>) <lex>f.</lex> ‘Impurity,’ <ab>N.</ab>of a deity presiding over evacuation from fright, <ls>RV. x, 103, 12</ls> (<ab>voc.</ab> <s>apve</s>), <ls>AV. ix, 8, 9</ls> (<ab>acc.</ab> <s>apvā́m</s>). <info n="rev" pc="1314,3"/><info lex="f"/>
 <LEND>
- </textarea>
- </div>
-</details>
+;; END
 
-<details><summary>abhikrāmam</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/abhikramam.PNG"/>
-  <H3>REV</H3>
-   <img src="images/abhikramam_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 27
 <L>11239<pc>61,2<k1>abhikrāmam<k2>abhi-krāmam<e>2
 <s>abhi-krāmam</s> ¦ <lex>ind.</lex> so as to step near, <ls>MaitrS.</ls>; <ls>KātyŚr.</ls> <info n="rev" pc="1315,1"/><info lex="ind"/>
 <LEND>
- 
 ;; R(1315,1) abhi-krā́mam (MaitrS.)
 ;; The accent mark in HW is missed in the revision.
 ;; The revised entry would be as under-
- 
 <Ls>11239<pc>61,2<k1>abhikrāmam<k2>abhi-krā́mam<e>2
 <s>abhi-krā́mam</s> ¦ <lex>ind.</lex> so as to step near, <ls>MaitrS.</ls>; <ls>KātyŚr.</ls> <info n="rev" pc="1315,1"/><info lex="ind"/>
 <LEND>
- </textarea>
- </div>
-</details>
+;; END
 
-<details><summary>abhijñā</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/abhijna.PNG"/>
-  <H3>REV</H3>
-   <img src="images/abhijna_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 28
 <L>11413<pc>62,2<k1>abhijñā<k2>abhi-jñā<e>2B
 ¦ supernatural science or faculty of a <s1 slp1="budDa">Buddha</s1> (of which five or six are enumerated, <ab>viz.</ab> 1. taking any form at will; 2. hearing to any distance; 3. seeing to any distance; 4. penetrating men's thoughts; 5. knowing their state and antecedents). <ab>cf.</ab> <s>ṣaḍ-abh°</s>, <ab>p.</ab> 1109 <info n="rev" pc="1315,1"/><info lex="inh"/>
 <LEND>
- 
 ;; R(1315,1) abhi-jñā, f. (read, ‘of which five /or six/ are enumerated,’ and cf. ṣaḍ-abh°, p. 1109)
 ;; The revision text has 'or six' in italics, thus the listing of only 5 is justified.
 ;; Thus the revised entry would be as under-
- 
 <Ls>11413<pc>62,2<k1>abhijñā<k2>abhi-jñā<e>2B
 ¦ supernatural science or faculty of a <s1 slp1="budDa">Buddha</s1> (of which five <i>or six</i> are enumerated, <ab>viz.</ab> 1. taking any form at will; 2. hearing to any distance; 3. seeing to any distance; 4. penetrating men's thoughts; 5. knowing their state and antecedents). <ab>cf.</ab> <s>ṣaḍ-abh°</s>, <ab>p.</ab> 1109 <info n="rev" pc="1315,1"/><info lex="inh"/>
 <LEND>
- 
 ;; The cross-referred entry ṣaḍ-abh° (p. 1109) does not mention the sixth faculty.
 ;; Various अमरककोश commentaries mention these as below-
 ;; 1. दिव्यं चक्षुः 2. दिव्यं श्रोत्रं 3. पूर्वनिवासानुस्मृतिः 4. परचित्तज्ञानं 5. आस्रवक्षयं 6. ऋद्धिश्चेति षडभिज्ञा. (अमरकोशोद्घाटन- क्षीरस्वामी)
@@ -759,430 +374,204 @@
 ;; 1. दिव्यं चक्षुः 2. दिव्यं श्रोत्रं 3. परचित्तज्ञानं 4. पूर्वनिवासानुस्मृतिः 5. आत्मज्ञानं 6. वियद्गमनं कायव्यूहादिलक्षणा ऋद्धिश्चेति षट्. (पदचन्द्रिका- रायमुकुट)
 ;; 1. दिव्यं चक्षुः 2. दिव्यं श्रोत्रं 3. पूर्वनिवासानुस्मृतिः 4. परचित्ततत्त्वज्ञानं 5. आस्रवक्षयः 6. ऋद्धिश्चेति षडभिज्ञा. (अमरपदविवृति- लिंगयसूरि)
 ;; वाचस्पत्यम् lists the six (in p. 5166) as- 1. दिव्यं चक्षुःश्रोत्रं 2. परचित्तज्ञानं (book has परिचित्तज्ञानं) 3. पूर्वनिवासानुस्मृतिः 4. आत्मज्ञानम् (Cologne has आत्मज्ञानभ्) 5. वियद्गतिः 6. कायव्यूहसिद्धि (Cologne has कायव्यूहमिद्धि)
-;; The errors in Cologne digitisation of Vacaspatyam may be noted as in the above line.</textarea>
- </div>
-</details>
+;; The errors in Cologne digitisation of Vacaspatyam may be noted as in the above line.
+;; END
 
-<details><summary>abhitsāra</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/abhitsara.PNG"/>
-  <H3>REV</H3>
-   <img src="images/abhitsara_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 29
 <L>11458<pc>62,3<k1>abhitsāra<k2>abhi-tsāra<e>2
 <s>abhi-tsāra</s> ¦ <lex>m.</lex> catching, entrapping, <ls>MaitrS.</ls>; <ls>Kāṭh.</ls> <info n="rev" pc="1315,1"/><info lex="m"/>
 <LEND>
- 
 ;; R(1315,1) abhi-tsārá (MaitrS.)
 ;; The accent in the HW is missed in the revision.
 ;; The revised entry would be as under-
- 
 <Ls>11458<pc>62,3<k1>abhitsāra<k2>abhi-tsārá<e>2
 <s>abhi-tsārá</s> ¦ <lex>m.</lex> catching, entrapping, <ls>MaitrS.</ls>; <ls>Kāṭh.</ls> <info n="rev" pc="1315,1"/><info lex="m"/>
 <LEND>
- </textarea>
- </div>
-</details>
+;; END
 
-<details><summary>abhipitva</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/abhipitva.PNG"/>
-  <H3>REV</H3>
-   <img src="images/abhipitva_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 30
 <L>11778<pc>65,2<k1>abhipitva<k2>abhi-pitvá<h>b<e>1
 <s>abhi-pitvá</s> <hom>b</hom> ¦ See <s>abhi-</s>√ <hom>2.</hom> <s>pat</s>. <info n="rev" pc="1315,1"/>
 <LEND>
- 
 ;; R(1315,1) abhi-pitva (read, ‘abhi-√2. pat’)
 ;; The accent change in annexure is missed in the revision.
 ;; The revised entry would be as under-
- 
 <Ls>11778<pc>65,2<k1>abhipitva<k2>abhi-pitva<h>b<e>1
 <s>abhi-pitva</s> <hom>b</hom> ¦ See <s>abhi-</s>√ <hom>2.</hom> <s>pat</s>. <info n="rev" pc="1315,1"/>
 <LEND>
- </textarea>
- </div>
-</details>
+;; END
 
-<details><summary>abhyāvartin</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/abhyavartin.PNG"/>
-  <H3>REV</H3>
-   <img src="images/abhyavartin_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 31
 <L>13464<pc>77,3<k1>abhyāvartin<k2>abhy-āvartin<e>2
 <s>abhy-āvartin</s> ¦ <lex>mfn.</lex> coming near, coming repeatedly, <ls>VS.</ls> (<ab>voc.</ab>), <ls>Kauś.</ls> <info n="rev" pc="1315,2"/><info lex="m:f:n"/>
 <LEND>
- 
 ;; R(1315,2) abhy-āvartín (VS.)
 ;; The accent change in HW is missed in the revision.
 ;; The revised entry would be as under-
- 
 <Ls>13464<pc>77,3<k1>abhyāvartin<k2>abhy-āvartín<e>2
 <s>abhy-āvartín</s> ¦ <lex>mfn.</lex> coming near, coming repeatedly, <ls>VS.</ls> (<ab>voc.</ab>), <ls>Kauś.</ls> <info n="rev" pc="1315,2"/><info lex="m:f:n"/>
 <LEND>
- </textarea>
- </div>
-</details>
+;; END
 
-<details><summary>abhramāṃsī</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/abhramamsi.PNG"/>
-  <H3>REV</H3>
-   <img src="images/abhramamsi_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 32
 <L>13702<pc>79,3<k1>abhramāṃsī<k2>abhrá—māṃsī<e>3
 <s>abhrá—māṃsī</s> ¦ <lex>f.</lex> the plant <bot>Valeriana</bot> <s1 slp1="jawAmAMsI">Jaṭāmāṉsī</s1>, <ls>L.</ls> <info n="rev" pc="1315,3"/><info lex="f"/>
 <LEND>
- 
 ;; R(1315,3) -maṃsī (read -māṃsī)
-;; Revision correctly done here.</textarea>
- </div>
-</details>
+;; Revision correctly done here.
+;; END
 
-<details><summary>amalānanda</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/analananda.PNG"/>
-  <H3>REV</H3>
-   <img src="images/analananda_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 33
 <L>13993.05<pc>26,3<k1>amalānanda<k2>amalānanda<e>3
 <s>amalā<srs/>nanda</s> ¦ (Correction of <s>analānanda</s>) <lex>m.</lex> <ab>N.</ab> of a <ns>Vedāntic</ns> writer, author of the <s1 slp1="vedAnta-kalpataru">Vedānta-kalpataru</s1>. <info n="rev" pc="1311,1"/><info lex="m"/>
 <LEND>
- 
 ;; This entry needs to be deleted from here and placed at <L>5271 above.
-;; <Ls>13993.05 "This stands deleted, as a NULL record; to be deleted completely at the end."</textarea>
- </div>
-</details>
+;; <Ls>13993.05 "This stands deleted, as a NULL record; to be deleted completely at the end."
+;; END
 
-<details><summary>amaviṣṇu</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/amavishnu.PNG"/>
-  <H3>REV</H3>
-   <img src="images/amavishnu_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 34
 <L>14002<pc>81,1<k1>amaviṣṇu<k2>a-maviṣṇu<e>1
 <s>a-maviṣṇu</s> ¦ <lex>mfn.</lex> (√ <s>mū</s> -√ <hom>1.</hom> <s>mīv</s>, <ls>NBD.</ls>), immovable, <ls>RV. x, 94, 11.</ls> <info n="rev" pc="1315,3"/><info lex="m:f:n"/>
 <LEND>
- 
 ;; R(1315,3) áma-viṣṇu (RV.)
 ;; The accent and hyphen changes in annexure are missed in the data.
 ;; The revised entry would be as under-
- 
 <Ls>14002<pc>81,1<k1>ama-viṣṇu<k2>áma-viṣṇu<e>1
 <s>áma-viṣṇu</s> ¦ <lex>mfn.</lex> (√ <s>mū</s> -√ <hom>1.</hom> <s>mīv</s>, <ls>NBD.</ls>), immovable, <ls>RV. x, 94, 11.</ls> <info n="rev" pc="1315,3"/><info lex="m:f:n"/>
 <LEND>
- </textarea>
- </div>
-</details>
+;; END
 
-<details><summary>amitābha</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/amitabha.PNG"/>
-  <H3>REV</H3>
-   <img src="images/amitabha_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 35
 <L>14098<pc>81,3<k1>amitābha<k2>amitābha<e>3B
 <s>amitā<srs/>bha</s> ¦ <lex>m. <ab>sg.</ab></lex> = <s>amitā<srs/>yus</s>. (see, <ls>MWB. 183 </ls> &c.) <info n="rev" pc="1315,3"/><info lex="m"/>
 <LEND>
- 
 ;; R(1315,3) °tâbha (see MWB. 183 &c.) 
-;; As this name is reg. Buddha, this placement of revision is appropriate.</textarea>
- </div>
-</details>
+;; As this name is reg. Buddha, this placement of revision is appropriate.
+;; END
 
-<details><summary>arajaska</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/arajaska.PNG"/>
-  <H3>REV</H3>
-   <img src="images/arajaska_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 36
 <L>15040<pc>86,2<k1>arajaska<k2>a-rajas-ka<e>2
 <s>a-rajas-ka</s> ¦ <lex>mfn.</lex> dustless, without the quality called <s>rajas</s>, <ls>NṛsUp.</ls>; <ls>HPariś.</ls> <info n="rev" pc="1316,1"/><info lex="m:f:n"/>
 <LEND>
- 
 ;; R(1316,1) a-rajaska, (also) dustless, HPariś.; free from impurity (others, ‘meak, gentle’), Bcar. ii, 5.
 ;;The hyphen change & HPariś. placement (and the semicolon is typed as a comma here) is missed in the data. 
 ;; The revised entry would be as under-
- 
 <Ls>15040<pc>86,2<k1>arajaska<k2>a-rajaska<e>2
 <s>a-rajaska</s> ¦ <lex>mfn.</lex> dustless, <ls>HPariś.</ls>; without the quality called <s>rajas</s>, <ls>NṛsUp.</ls> <info n="rev" pc="1316,1"/><info lex="m:f:n"/>
 <LEND>
- 
- 
 <L>15040.2<pc>1316,1<k1>arajaska<k2>a-rajaska<e>2A
 ¦ free from impurity (others, ‘meek, gentle’), <ls>Bcar. ii, 5</ls>.<info n="sup"/>
 <LEND>
- 
-;; The hyphen change as above needs to be considered here as well.</textarea>
- </div>
-</details>
+;; The hyphen change as above needs to be considered here as well.
+;; END
 
-<details><summary>arj</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/arj.PNG"/>
-  <H3>REV</H3>
-   <img src="images/arj_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 37
 <L>15739<pc>90,1<k1>arj<k2>arj<e>1
 <s>arj</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> <s>arjati</s> (<ab>perf.</ab> 3. <ab>pl.</ab> <s>ānarjuḥ</s>) to procure, acquire, <ls>Naiṣ.</ls> and, <ls>Bhaṭṭ.</ls> :
 <div n="to"/><ab>Ā.</ab> <s>arjate</s>, to go, <ls>L.</ls>, to stand firm, <ls>L.</ls>, to procure, <ls>L.</ls>;
 <div n="to"/>to be of good health, <ls>L.</ls> :
 <div n="vp"/><ab>Caus.</ab> <s>arjayati</s>, <s>°te</s>, (<ab>aor.</ab> <s>arjījat</s>, <ls>Bhaṭṭ.</ls>) to procure, acquire, obtain, <ls>MBh.</ls>; <ls>Mn.</ls> &c. <info n="rev" pc="1316,2"/><info whitneyroots="fj,14"/><info verb="genuineroot" cp="1P,1Ā"/>
 <LEND>
- 
 ;; R(1316,2) arj (erase 1. before root).
-;; Revision correctly done here.</textarea>
- </div>
-</details>
+;; Revision correctly done here.
+;; END
 
-<details><summary>alavaṇa</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/alavana.PNG"/>
-  <H3>REV</H3>
-   <img src="images/alavana_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 38
 <L>16659<pc>94,3<k1>alavaṇa<k2>a-lavaṇa<e>1
 <s>a-lavaṇa</s> ¦ <lex>mfn.</lex> not salt, <ls>Pāṇ. 5-1, 121.</ls> <info n="rev" pc="1316,3"/><info lex="m:f:n"/>
 <LEND>
- 
 ;; R(1316,3) a-lavaṇa (read, ‘not salt’)
-;; Revision correctly done here.</textarea>
- </div>
-</details>
+;; Revision correctly done here.
+;; END
 
-<details><summary>avadhīr</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/avadhir.PNG"/>
-  <H3>REV</H3>
-   <img src="images/avadhir_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 39
 <L>17474<pc>100,1<k1>avadhīr<k2>ava-dhīr<e>1
 <s>ava-√ dhīr</s> ¦ (<ab>ind.p.</ab> <s>ava-dhīraya</s>) to disregard, disrespect, repudiate, <ls>Śiś. ix, 59</ls>; <ls>Kathās.</ls>; <ls>Hit.</ls> <info n="rev" pc="1317,1"/><info verb="pre" cp="" parse="ava+DIr"/>
 <LEND>
- 
 ;; R(1317,1) ava-√dhīr (read ava-dhīraya)
-;; Revision correctly done here.</textarea>
- </div>
-</details>
+;; Revision correctly done here.
+;; END
 
-<details><summary>avibhajya</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/avibhajya.PNG"/>
-  <H3>REV</H3>
-   <img src="images/avibhajya_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 40
 <L>18914<pc>109,2<k1>avibhajya<k2>a-vibhajya<e>2
 <s>a-vibhajya</s> ¦ <ab>ind.p.</ab> not dividing (the inheritance), <ls>Kum. iv, 37.</ls> <info n="rev" pc="1317,2"/>
 <LEND>
- 
 ;; R(1317,2) a-vibhajya (read, ‘Kum. iv, 37’)
-;; Revision correctly done here.</textarea>
- </div>
-</details>
+;; Revision correctly done here.
+;; END
 
-<details><summary>aśiṣṭha</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/ashishtha.PNG"/>
-  <H3>REV</H3>
-   <img src="images/ashishtha_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 41
 <L>19441<pc>112,3<k1>aśiṣṭha<k2>áśiṣṭha<h>a<e>2
 <s>áśiṣṭha</s> <hom>a</hom> ¦ <lex>mfn.</lex> (superl.) ‘eating most’ (as an equivalent for <s>aśītama</s>), <ls>ŚBr.</ls> <info n="rev" pc="1317,3"/><info lex="m:f:n"/>
 <LEND>
- 
 ;; R(1317,3) 1. a-śiṣṭha (erase 1.)
 ;; Though the 1. is deleted, the accent change and hyphen are missed in the revision.
 ;; The revised entry would be as under-
- 
 <Ls>19441<pc>112,3<k1>aśiṣṭha<k2>a-śiṣṭha<h>a<e>2
 <s>a-śiṣṭha</s> <hom>a</hom> ¦ <lex>mfn.</lex> (superl.) ‘eating most’ (as an equivalent for <s>aśītama</s>), <ls>ŚBr.</ls> <info n="rev" pc="1317,3"/><info lex="m:f:n"/>
 <LEND>
- </textarea>
- </div>
-</details>
+;; END
 
-<details><summary>aśvaripu</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/ashvaripu.PNG"/>
-  <H3>REV</H3>
-   <img src="images/ashvaripu_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 42
 <L>19993<pc>115,2<k1>aśvaripu<k2>áśva—ripu<e>3
 <s>áśva—ripu</s> ¦ <lex>m.</lex> ‘enemy of horses’, a buffalo, <ls>Bhpr.</ls>; <ls>L.</ls> <info n="rev" pc="1318,1"/><info lex="m"/>
 <LEND>
- 
 ;; R(1318,1) -ripu, (also) a buffalo, L.
 ;; Revision seems correctly done here.
 ;; But L. is mentioned in the book, only if no other literary citations are known, as a practice.
-;; Does it mean Bhpr. is to be replaced by L., to be in line with the book's "idea"?</textarea>
- </div>
-</details>
+;; Does it mean Bhpr. is to be replaced by L., to be in line with the book's "idea"?
+;; END
 
-<details><summary>asuraloka</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/asuraloka.PNG"/>
-  <H3>REV</H3>
-   <img src="images/asuraloka_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 43
 <L>21077<pc>121,1<k1>asuraloka<k2>ásura—loka<e>3
 <s>ásura—loka</s> ¦ <lex>m.</lex> the world of the demons, <ls>MaitrS.</ls>; <ls>Kāṭh.</ls> <info n="rev" pc="1318,2"/><info lex="m"/>
 <LEND>
- 
 ;; R(1318,2) -loká (MaitrS.)
 ;; The accent missed in the revision.
 ;; The revised entry would be as under-
- 
 <Ls>21077<pc>121,1<k1>asuraloka<k2>ásura—loká<e>3
 <s>ásura—loká</s> ¦ <lex>m.</lex> the world of the demons, <ls>MaitrS.</ls>; <ls>Kāṭh.</ls> <info n="rev" pc="1318,2"/><info lex="m"/>
 <LEND>
- </textarea>
- </div>
-</details>
+;; END
 
-<details><summary>asṛj</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/asrij.PNG"/>
-  <H3>REV</H3>
-   <img src="images/asrij_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 44
 <L>21154.2<pc>121,3<k1>asṛj<k2>ásṛj<e>1B
 <s>ásṛj</s> ¦ <lex>m.</lex> (<s>k</s>) the planet Mars; a kind of religious abstraction, <ls>L.</ls><info lex="m"/>
 <LEND>
- 
- 
 <L>21154.3<pc>121,3<k1>asṛj<k2>ásṛj<e>1B
 ¦ <ab>N.</ab> of the 16th of the astrological <s1 slp1="yoga">Yoga</s1>s, also called <s1 slp1="sidDi">Siddhi</s1>, <ls>L.</ls> <info n="rev" pc="1318,2"/><info lex="inh"/>
 <LEND>
- 
 ;; R(1318,2) asṛj (for ‘a kind of religious abstraction,’ read, ‘N. of the 16th of the astrological Yogas, also called Siddhi’).
 ;; Instead of making the revision, this is added as a different meaning ("sup" type), keeping the original text as is at <L>21154.2.
 ;; The revised entries would be as under-
- 
 <Ls>21154.2<pc>121,3<k1>asṛj<k2>ásṛj<e>1B
 <s>ásṛj</s> ¦ <lex>m.</lex> (<s>k</s>) the planet Mars;<info lex="m"/>
 <LEND>
- 
- 
 <Ls>21154.3<pc>121,3<k1>asṛj<k2>ásṛj<e>1B
 ¦ <ab>N.</ab> of the 16th of the astrological <s1 slp1="yoga">Yoga</s1>s, also called <s1 slp1="sidDi">Siddhi</s1>, <ls>L.</ls> <info n="rev" pc="1318,2"/><info lex="inh"/>
 <LEND>
- </textarea>
- </div>
-</details>
+;; END
 
-<details><summary>asaunāman</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/asaunaman.PNG"/>
-  <H3>REV</H3>
-   <img src="images/asaunaman_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 45
 <L>21206<pc>122,1<k1>asaunāman<k2>asaú—nā́man<e>3
 <s>asaú—nā́man</s> ¦ <lex>mfn.</lex> in <ls>ŚBr. xiv</ls> <s>asau—n°</s> <info n="rev" pc="1318,2"/><info lex="m:f:n"/>
 <LEND>
- 
 ;; R(1318,2) asaunāman (erase and read in ŚBr. asau n°).
 ;; The accent change in HW is missed in the revision, and a hyphen is put between the words given.
 ;; The revised entry would be as under-
- 
 <Ls>21206<pc>122,1<k1>asaunāman<k2>asaú—nāman<e>3
 <s>asaú—nāman</s> ¦ <lex>mfn.</lex> in <ls>ŚBr. xiv</ls> <s>asau n°</s> <info n="rev" pc="1318,2"/><info lex="m:f:n"/>
 <LEND>
- </textarea>
- </div>
-</details>
+;; END
 
-<details><summary>asthisaṃcaya</summary>
- <div class='image'>
-  <H3>TEXT</H3>
-   <img src="images/asthisamcaya.PNG"/>
-  <H3>REV</H3>
-   <img src="images/asthisamcaya_rev.PNG"/>
- </div>
- <div class='comment'>
-  <H3>COMMENT</H3>
-  <textarea rows="20" cols="72"> 
+;; BEGIN 46
 <L>21417<pc>123,1<k1>asthisaṃcaya<k2>ásthi—saṃcaya<e>3
 <s>ásthi—saṃcaya</s> ¦ <lex>m.</lex> the ceremony of collecting the bones (after burning a corpse) <ab>Comm.</ab> on <ls>KātyŚr.</ls> see, <ls>RTL. 284 </ls> &c. <info or="21417,asTisaMcaya;21418,asTisaMcayana"/><info n="rev" pc="1318,3"/><info lex="m"/>
 <LEND>
- 
 ;; R(1318,3) -saṃcaya (see RTL. 284 &c.)
 ;; The entry probably should be as under-
- 
 <Ls>21417<pc>123,1<k1>asthisaṃcaya<k2>ásthi—saṃcaya<e>3
 <s>ásthi—saṃcaya</s> ¦ (see <ls>RTL. 284</ls> &c.) <lex>m.</lex> the ceremony of collecting the bones (after burning a corpse) <ab>Comm.</ab> on <ls>KātyŚr.</ls><info or="21417,asTisaMcaya;21418,asTisaMcayana"/><info n="rev" pc="1318,3"/><info lex="m"/>
 <LEND>
- </textarea>
- </div>
-</details>
-</body>
-</html>
+;; END
+
