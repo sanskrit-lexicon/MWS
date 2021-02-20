@@ -1557,7 +1557,7 @@
 <L>29791<pc>170,3<k1>īrman<k2>īrman<e>2	<s>īrman</s>	¦ <lex>m.</lex> = <s>īrmá</s>2 above, <ls>Bhaṭṭ.</ls><info lex="m"/>	<LEND>
 ;; BEGIN
 <L>29792<pc>170,3<k1>īrmānta<k2>īrmānta<e>1	<s>īrmā<srs/>nta</s>	¦ <lex>mfn.</lex> (<ab>fr.</ab> <s>īrma</s> = <s>īrita</s> with <s>anta</s>, <ls>Sāy.</ls>), full-haunched (<ab>lit.</ab> full-ended, <ls>RV.</ls>) <info n="rev" pc="1321,1"/><info lex="m:f:n"/>	<LEND>
-;; R(1321,1) 	īrmấnta (RV.)
+;; R(1321,1) īrmấnta (RV.)
 ;; The accent change in HW missed in the revision, though marked with "rev" and it being the only correction here.
 ;; The revised entry would be as under-
 ;; <Ls>29792<pc>170,3<k1>īrmānta<k2>īrmā́nta<e>1	<s>īrmā́<srs/>nta</s>	¦ <lex>mfn.</lex> (<ab>fr.</ab> <s>īrma</s> = <s>īrita</s> with <s>anta</s>, <ls>Sāy.</ls>), full-haunched (<ab>lit.</ab> full-ended, <ls>RV.</ls>) <info n="rev" pc="1321,1"/><info lex="m:f:n"/>	<LEND>
@@ -5771,7 +5771,7 @@
 ;; R(1322,1) ud-vā́sya (MaitrS.)
 ;; The accent mark in revision text is missed here.
 ;; The revised entry would be as under-
-;; <L>33563<pc>191,3<k1>udvāsya<k2>ud-vā́sya<e>2	<s>ud-vā́sya</s>	¦ <lex>mfn.</lex> to be taken off, <ls>MaitrS.</ls> <info n="rev" pc="1322,1"/><info lex="m:f:n"/>	<LEND>
+;; <Ls>33563<pc>191,3<k1>udvāsya<k2>ud-vā́sya<e>2	<s>ud-vā́sya</s>	¦ <lex>mfn.</lex> to be taken off, <ls>MaitrS.</ls> <info n="rev" pc="1322,1"/><info lex="m:f:n"/>	<LEND>
 <L>33564<pc>191,3<k1>udvāsya<k2>ud-vāsya<e>2A	¦ to be put away, <ls>BhP.</ls><info lex="inh"/>	<LEND>
 <L>33565<pc>191,3<k1>udvāsya<k2>ud-vāsya<e>2A	¦ relating to the killing of a sacrificial animal, <ls>R.</ls><info lex="inh"/>	<LEND>
 ;; These two entries being the continuation/splits of the above HW, also need to have the accent marking.
