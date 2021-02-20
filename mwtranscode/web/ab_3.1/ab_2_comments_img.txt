@@ -1,0 +1,50 @@
+; BEGIN N  per ab_2_comments.txt
+; filenames end in .PNG  Sometimes more than 1 image 
+1 amsu1 amsu2 amsu_rev
+2 amsadhri amsadhri_rev
+3 akushala akushala_rev
+4 akshayini akshayini_rev
+5 akshetrajna akshetrajna_rev
+6 akshobha akshobha_rev
+7 agnavishnu agnavishnu_rev
+; note rev has short 'u', text has long 'u'
+8 agnibhuti agnibhuti_rev
+9 agnyupasthana agnyupasthana_rev
+10 angulisamdesha angulisamdesha_rev
+11 anghari anghari_rev
+12 anuvrata anuvrata_rev
+13 atamavishta atamavishta_rev
+14 adayiya adayiya_rev
+15 adanya adanya_rev
+16 adhivasa adhivasa_rev
+17 adhri adhri_rev
+18 analananda analananda_rev
+19 anagamin anagamin_rev
+20 anachrinna anachrinna_rev
+21 anubandhya anubandhya_rev
+22 antahkhya antahkhya_rev
+23 antarashringam antarashringam_rev
+24 antariya antariya_rev
+25 apacit apacit_rev
+26 apva apva_rev
+27 abhikramam abhikramam_rev
+28 abhijna abhijna_rev
+29 abhitsara abhitsara_rev
+30 abhipitva abhipitva_rev
+31 abhyavartin abhyavartin_rev
+32 abhramamsi abhramamsi_rev
+; amalananda same images as analananda
+33 analananda analananda_rev
+34 amavishnu amavishnu_rev
+35 amitabha amitabha_rev
+36 arajaska arajaska_rev
+37 arj arj_rev
+38 alavana alavana_rev
+39 avadhir avadhir_rev
+40 avibhajya avibhajya_rev
+41 ashishtha ashishtha_rev
+42 ashvaripu ashvaripu_rev
+43 asuraloka asuraloka_rev
+44 asrij asrij_rev
+45 asaunaman asaunaman_rev
+46 asthisamcaya asthisamcaya_rev
