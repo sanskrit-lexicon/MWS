@@ -1,0 +1,31 @@
+; BEGIN N  per ab_2_comments.txt
+; filenames end in .PNG  Sometimes more than 1 image 
+1 ake ake_rev
+2 adhirajya adhirajya_rev
+3 anetri anetri_rev
+4 anu anu_rev
+5 aptavacana aptavacana_rev
+6 aptavya aptavya_rev
+7 apnana apnana_rev
+8 apana apana_rev
+9 apomaya apomaya_rev
+10 am am_rev
+11 amashaya amashaya_rev
+12 amur amur_rev
+13 ayavas ayavas_rev
+14 ayasa ayasa_rev
+15 aroha aroha_rev
+16 arkshya arkshya_rev
+17 alapa alapa_rev
+18 alabhya alabhya_rev
+19 alambha alambha_rev
+20 avashyakabrihadvritti avashyakabrihadvritti_rev
+21 avid avid_rev
+22 avarta1 avarta2 avarta_rev
+23 ashivisha ashivisha_rev
+24 ashaya ashaya_rev
+25 asanjana asanjana_rev
+26 asandivat asandivat_rev
+27 ahlada ahlada_rev
+28 ahvayayitavya ahvayayitavya_rev
+
