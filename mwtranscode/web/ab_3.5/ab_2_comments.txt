@@ -1,0 +1,321 @@
+;; BEGIN 1
+<L>81829<pc>432,3<k1>tatkriya<k2>tat—kriya<e>3
+<s>tat—kriya</s> ¦ <lex>mfn.</lex> working without wages, <ls>L.</ls> <info n="rev" pc="1328,1"/><info lex="m:f:n"/>
+<LEND>
+;; A(1328,1) -kriya, mfn. working without wages, L.
+;; This appears more like an addition than a revision, as the original entry O(432,3) "kriya, mfn. = -kara" tallies with PWG matter.
+;; Thus the suggested entries here would be as under-
+<Ls>81829<pc>432,3<k1>tatkriya<k2>tat—kriya<e>3
+<s>tat—kriya</s> ¦ <lex>mfn.</lex> = <s>-kara</s>, <ls>L.</ls><info lex="m:f:n"/>
+<LEND>
+<Ls>81829.1<pc>1328,1<k1>tatkriya<k2>tat—kriya<e>3
+<s>tat—kriya</s> ¦ working without wages, <ls>L.</ls> <info n="sup"/><info lex="inh"/>
+<LEND>
+;; END
+
+;; BEGIN 2
+<L>81969<pc>433,2<k1>tajjalān<k2>taj—ja—lān<h>a<e>4
+<s>taj—ja—lā<srs/>n</s> <hom>a</hom> ¦ <lex>mfn.</lex> produced, absorbed and breathing in that, <ls>ChUp. iii, 14, 1.</ls><info lex="m:f:n"/>
+<LEND>
+<L>81969.1<pc>433,2<k1>tajjalān<k2>taj—ja—lān<h>a<e>4A
+¦ <ab>accord.</ab> to some, <s>taj-jānānī<srs/>ti</s>, ‘thinking, may I know that’ <ls>ChUp. iii, 14, 1.</ls><ab>cf.</ab> <ls>IW. 102, 1</ls> <info n="rev" pc="1328,1"/><info lex="inh"/>
+<LEND>
+;; R(1328,1) (ChUp. iii, 14, 1, read, accord. to some, taj-jānānîti, ‘thinking, may I know that;’ cf. IW. 102, 1)
+;; The word "read" warrants a correction, not an addition (as done here, though marking it as a "rev"). and the ";" indicating a separation between two <ls> ref.s
+;; I would suggest the entries to be revised as under-
+<Ls>81969<pc>433,2<k1>tajjalān<k2>taj—ja—lān<h>a<e>4
+<s>taj—ja—lā<srs/>n</s> <hom>a</hom> ¦ <lex>mfn.</lex> <ab>accord.</ab> to some, taj-jānānîti, ‘thinking, may I know that’ <ls>ChUp. iii, 14, 1.</ls>; <ab>cf.</ab> <ls>IW. 102, 1</ls> <info n="rev" pc="1328,1"/><info lex="m:f:n"/>
+<LEND>
+;; <L>81969.1 "This stands deleted, as a NULL record; to be deleted completely at the end."
+;; END
+
+;; BEGIN 3
+<L>83678<pc>441,2<k1>tasthu<k2>tasthu<e>3
+<s>tasthu</s> ¦ <lex>n.</lex> that which is stationary, <ab>i.e.</ab> plants and animals, <ls>BhP. vii, 7, 23.</ls> <info n="rev" pc="1328,1"/><info lex="n"/>
+<LEND>
+;; R(1328,1) (rather ‘n. that which is stationary, i.e. plants and animals’)
+;; Revision correctly done here.
+;; END
+
+;; BEGIN 4
+<L>87559<pc>457,3<k1>trāsa<k2>trāsa<e>1
+<s>trāsa</s> ¦ <lex>m.</lex> <ab>fr.</ab> √ <hom>2.</hom> <s>tras</s> fear, terror, anxiety, <ls>MBh.</ls> &c. <info n="rev" pc="1328,2"/><info lex="m"/>
+<LEND>
+;; R(1328,2) trāsa (add    ‘fr. √2. tras’)
+;; Additional matter added, but without braces!
+;; The revised entry would be as under-
+<Ls>87559<pc>457,3<k1>trāsa<k2>trāsa<e>1
+<s>trāsa</s> ¦ <lex>m.</lex> (<ab>fr.</ab> √ <hom>2.</hom> <s>tras</s>) fear, terror, anxiety, <ls>MBh.</ls> &c. <info n="rev" pc="1328,2"/><info lex="m"/>
+<LEND>
+;; END
+
+;; BEGIN 5
+<L>91239<pc>474,1<k1>dādada<k2>dāda—da<e>3
+<s>dāda—da</s> ¦ <lex>mfn.</lex> gift-giving, <ls>Śiś. <ab>ib.</ab></ls> <info n="rev" pc="1328,3"/><info lex="m:f:n"/>
+<LEND>
+;; R(1328,3) dāda-da (erase x after ‘Śiś.’) 
+;; Revision correctly done here.
+;; But why is Śiś. required here, when the ib. is present? Probably that could also be 'erased'.
+;; END
+
+;; BEGIN 6
+<L>91311<pc>474,2<k1>dānāpnas<k2>dānā́pnas<e>3
+<s>dānā́<srs/>pnas</s> ¦ <lex>mfn.</lex> abounding in gifts, <ls>RV. x, 22, 11.</ls> <info n="rev" pc="1328,3"/><info lex="m:f:n"/>
+<LEND>
+;; R(1328,3) dānấpnas (RV.)
+;; Revision correctly done here.
+;; END
+
+;; BEGIN 7
+<L>91719<pc>476,1<k1>dāruputrikā<k2>dā́ru—putrikā<e>3
+<s>dā́ru—putrikā</s> ¦ <lex>f.</lex> (<ls>Kathās.</ls>) = <s>-garbhā</s>. <info n="rev" pc="1328,3"/><info lex="f"/>
+<LEND>
+<L>91720<pc>476,1<k1>dāruputrī<k2>dā́ru—putrī<e>3
+<s>dā́ru—putrī</s> ¦ <lex>f.</lex> (<ls>L.</ls>) = <s>-garbhā</s>. <info n="rev" pc="1328,3"/><info lex="f"/>
+<LEND>
+;; R(1328,3) -puttrikā, -puttrī (read -putrikā, -putrī); the comp. HW is 3. dāru (in comp.)
+;; Revision correctly done here in the text, but the accent change in front portion missed. The "sup" entry thereunder -citi (L-91710.1), has this accent taken into account.
+;; The revised entries would be as under-
+<Ls>91719<pc>476,1<k1>dāruputrikā<k2>dāru—putrikā<e>3
+<s>dāru—putrikā</s> ¦ <lex>f.</lex> (<ls>Kathās.</ls>) = <s>-garbhā</s>. <info n="rev" pc="1328,3"/><info lex="f"/>
+<LEND>
+<Ls>91720<pc>476,1<k1>dāruputrī<k2>dāru—putrī<e>3
+<s>dāru—putrī</s> ¦ <lex>f.</lex> (<ls>L.</ls>) = <s>-garbhā</s>. <info n="rev" pc="1328,3"/><info lex="f"/>
+<LEND>
+;;END
+
+;; BEGIN 8
+<L>96723<pc>497,1<k1>dai<k2>dai<e>1
+<s>dai</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> <s>dāyati</s>, to purify, cleanse, <ls>Dhātup. xxii, 26</ls> (<ab>cf.</ab> √ <hom>7.</hom> <s>dā</s>). <info n="rev" pc="1329,1"/><info westergaard="dEp,22.26,01.0646"/><info whitneyroots="dA4,72"/><info verb="root" cp="1P"/>
+<LEND>
+;; R(1329,1) dai (i.e. under √dai, p. 497, col. 1; for √5. dā read √7. dā)
+;; Revision correctly done here.
+;; END
+
+;; BEGIN 9
+<L>97280<pc>499,3<k1>dyut<k2>dyut<h>1<e>3
+<hom>1.</hom> <s>dyut</s> ¦ <lex>mfn.</lex> advancing against, (<ab>ifc.</ab>), <ls>ib.</ls> <info n="rev" pc="1329,1"/><info lex="m:f:n"/>
+<LEND>
+;; R(1329,1) dyut (under √1. dyu at p. 499 read 1. dyut, and at p. 500 read 2. dyut and 3. dyut)
+;; Revision correctly done here.
+;; END
+
+;; BEGIN 10
+<L>97391<pc>500,1<k1>dyut<k2>dyut<h>2<e>1
+<hom>2.</hom> <s>dyut</s> ¦ <ab>cl.</ab> 1. <ab>Ā.</ab> <s>dyótate</s>, <ls>AV.</ls>; <ls>MBh.</ls> (also <s>°ti</s>) &c. (<ab>pf.</ab> <s>didyute</s>, <ab>p.</ab> <s>°tāná</s>, <ls>RV.</ls> [<ab>cf.</ab> <ls>Pāṇ. 7-4, 67</ls>], <s>didyóta</s>, <ls>AV.</ls>; <s>°dyutur</s>, <ls>TS.</ls>; <ab>aor.</ab> <s>adyutat</s> and <s>ádidyutat</s>, <ls>Br.</ls>; <s>ádyaut</s>, <ls>RV.</ls>; <ls>Br.</ls>, <s>adyotiṣṭa</s>, <ls>Pāṇ. 1-3, 91; 3-1, 55</ls>, <ls>Kāś.</ls> <ab>p.</ab> <ab>P.</ab> <s>dyutat</s> <ab>Ā.</ab> <s>°tāná</s> or <s>dyútāna</s>, <ls>RV.</ls>; <ab>fut.</ab> <s>dyotiṣyati</s>, <ls>Br.</ls>; <ab>ind.p.</ab> <s>dyutitvā</s> or <s>dyot°</s>, <ls>Pāṇ. 1-2, 26</ls>; <ls>Kāś.</ls>; <s>-dyutya</s>, <ls>AitBr.</ls>) 
+<div n="to"/>to shine, be bright or brilliant:
+<div n="vp"/><ab>Caus.</ab> <s>dyotayati</s> (<s>°te</s>, <ls>Bhaṭṭ.</ls>) to make bright, illuminate, irradiate, <ls>MBh.</ls>; <ls>Kāv.</ls>;
+<div n="to"/>to cause to appear, make clear or manifest, express, mean, <ls>ṢaḍvBr.</ls>; <ls>Lāṭy.</ls>; <ls>Śaṃk.</ls>; <ls>Sāh.</ls> :
+<div n="vp"/><ab>Desid.</ab> <s>dedyutiṣati</s> or <s>didyot°</s>, <ls>Pāṇ. 1-2, 26</ls>; <ls>Kāś.</ls> :
+<div n="vp"/><ab>Intens.</ab> <s>dávidyot</s>, 3. <ab>pl.</ab> <s>°dyutati</s>, <ls>RV.</ls>; <ls>AV.</ls>; <ls>Br.</ls>;
+<div n="vp"/> <s>dedyutyate</s>, <ls>Pāṇ. 7-4, 67</ls>; <ls>Kāś.</ls>, to shine, glitter, be bright or brilliant <info n="rev" pc="1329,1"/><info whitneyroots="dyut,79"/><info verb="genuineroot" cp="1Ā,1P"/>
+<LEND>
+<L>97392<pc>500,1<k1>dyut<k2>dyút<h>3<e>2
+<hom>3.</hom> <s>dyút</s> ¦ <lex>f.</lex> shining, splendour, ray of light, <ls>RV.</ls>; <ls>MBh.</ls> &c. (<ab>cf.</ab> <s>danta-</s>). <info n="rev" pc="1329,1"/><info lex="f"/>
+<LEND>
+;; R(1329,1) dyut (under √1. dyu at p. 499 read 1. dyut, and at p. 500 read 2. dyut and 3. dyut)
+;; Revision correctly done here.
+;; END
+
+;; BEGIN 11
+<L>97460<pc>500,2<k1>dyut<k2>dyut<h>4<e>1
+<hom>4.</hom> <s>dyut</s> ¦ Caus. <s>dyotayati</s>, to break, tear open, <ls>AV. iv, 23, 5</ls> (<ab>cf.</ab> <s>abhivi-</s>, <s>ā-</s>). <info n="rev" pc="1329,1"/>
+<LEND>
+;; R(1329,1) dyut (under √1. dyu at p. 499 read 1. dyut, and at p. 500 read 2. dyut and 3. dyut)
+;; Though this is not indicated to be a revision, it is implied from the previous ones to be marked as 2. & 3. Thus this 3. dyut should have been changed to 4. dyut. Hence retained the "rev" marking.
+;; END
+
+;; BEGIN 12
+<L>100080<pc>511,2<k1>dharmadhṛt<k2>dhárma—dhṛ́t<e>3
+<s>dhárma—dhṛ́t</s> ¦ <lex>mfn.</lex> ‘upholding order’, applied to the gods, <ls>AV.</ls> <info n="rev" pc="1329,2"/><info lex="m:f:n"/>
+<LEND>
+;; R(1329,2) -dhṛ́t, mfn. (rather, ‘uppholding order,’ applied to the gods) ; comp. header being dharma [no accent]
+;; Revision correctly done here. But the comma is to be put inside the quote marks as per the book matter.
+;; Thus the revised entry would be as under (with accent mark removal in the front part)-
+<Ls>100080<pc>511,2<k1>dharmadhṛt<k2>dharma—dhṛ́t<e>3
+<s>dharma—dhṛ́t</s> ¦ <lex>mfn.</lex> ‘upholding order,’ applied to the gods, <ls>AV.</ls> <info n="rev" pc="1329,2"/><info lex="m:f:n"/>
+<LEND>
+;; END
+
+;; BEGIN 13
+<L>101184<pc>516,2<k1>dhi<k2>dhi<h>1<e>1
+<hom>1.</hom> <s>dhi</s> ¦ <ab>cl.</ab> 6. <ab>P.</ab> <s>dhiyati</s> (<s>didhāya</s>, <s>dheṣyati</s> &c.) to hold (<ls>Dhātup. xxviii, 113</ls>). Prob. formed <ab>fr.</ab> √ <hom>1.</hom> <s>dhā</s>, of which it is the weak form. <info n="rev" pc="1329,2"/><info westergaard="Di,28.113,06.0110"/><info verb="genuineroot" cp="6P"/>
+<LEND>
+;; R(1329,2) 1. dhi (for ‘abstracted’ read ‘formed’)
+;; Revision correectly done here
+;; END
+
+;; BEGIN 14
+<L>101946<pc>519,3<k1>dhṛṣṭa<k2>dhṛ́ṣṭa<e>2
+<s>dhṛ́ṣṭa</s> ¦ <lex>mfn.</lex> bold, daring, confident, audacious, impudent, <ls>RV.</ls>; <ls>AV.</ls> (<ab>cf.</ab> <s>á-</s>, <s>án-ā-</s>), <ls>MBh.</ls>; <ls>Kāv.</ls> &c. <info n="rev" pc="1329,2"/><info lex="m:f:n"/>
+<LEND>
+<L>101953.5<pc>1329,2<k1>dhṛṣṭa<k2>dhṛ́ṣṭa<e>2B
+¦ (Read <s>dhṛ́ṣṭa</s> and<ab>cf.</ab> <ab>Introd.</ab> <ab>p.</ab> xviii.) <info n="rev"/>
+<LEND>
+;; R(1329,2) says- dhṛishṭá (read dhṛíshṭa and cf. Introd. p. xviii.)
+;; Here the revision matter added as a separate entry, instead of applying at the indicated HW entry, though marked as a "rev".
+;; Thus these two entries are to be revised as under-
+<Ls>101946<pc>519,3<k1>dhṛṣṭa<k2>dhṛ́ṣṭa<e>2
+<s>dhṛ́ṣṭa</s> ¦ <lex>mfn.</lex> bold, daring, confident, audacious, impudent, <ls>RV.</ls>; <ls>AV.</ls> (<ab>cf.</ab> <s>á-</s>, <s>án-ā-</s>), <ls>MBh.</ls>; <ls>Kāv.</ls> &c. (<ab>cf.</ab> Introd. <ab>p.</ab> xviii.) <info n="rev" pc="1329,2"/><info lex="m:f:n"/>
+<LEND>
+;; <Ls>101953.5 "This stands deleted, as a NULL record; to be deleted completely at the end."
+<L>101947<pc>519,3<k1>dhṛṣṭa<k2>dhṛ́ṣṭa<e>2A
+¦ secured, obtained, <ls>W.</ls> <info n="rev" pc="1329,2"/><info lex="inh"/>
+<LEND>
+<L>101948<pc>519,3<k1>dhṛṣṭa<k2>dhṛ́ṣṭa<e>2A
+¦ profligate, abandoned, <ls>ib.</ls> (<ab>ifc.</ab> it gives a bad sense to the first member of the <ab>comp.</ab> <ls>Pāṇ. 2-1, 53</ls>; <ls>Gaṇar. ii. 114</ls>) <info n="rev" pc="1329,2"/><info lex="inh"/>
+<LEND>
+<L>101949<pc>519,3<k1>dhṛṣṭa<k2>dhṛ́ṣṭa<e>2B
+<s>dhṛ́ṣṭa</s> ¦ <lex>m.</lex> a faithless husband, <ls>ib.</ls> <info n="rev" pc="1329,2"/><info lex="m"/>
+<LEND>
+<L>101950<pc>519,3<k1>dhṛṣṭa<k2>dhṛ́ṣṭa<e>2B
+¦ a magic. formula spoken over weapons, <ls>R.</ls> <info n="rev" pc="1329,2"/><info lex="inh"/>
+<LEND>
+<L>101951<pc>519,3<k1>dhṛṣṭa<k2>dhṛ́ṣṭa<e>2B
+¦ <ab>N.</ab> of a son of <s1 slp1="manu">Manu</s1> <s1 slp1="vEvasvata">Vaivasvata</s1>, <ls>Hariv.</ls> (<ab>C.</ab> <s>°ṣṇu</s>), <ls>Pur.</ls> (<ab>cf.</ab> <s>dhārṣṭa</s>) <info n="rev" pc="1329,2"/><info lex="inh"/>
+<LEND>
+<L>101952<pc>519,3<k1>dhṛṣṭa<k2>dhṛ́ṣṭa<e>2B
+¦ of a son of <s1 slp1="kunti">Kunti</s1>, <ls>Hariv.</ls> <info n="rev" pc="1329,2"/><info lex="inh"/>
+<LEND>
+<L>101953<pc>519,3<k1>dhṛṣṭa<k2>dhṛ́ṣṭa<e>2B
+¦ of a son of <s1 slp1="BajamAna">Bhajamāna</s1>, <ls>ib.</ls> (<ab>C.</ab> <s>°ṣṇa</s>) <info n="rev"/><info lex="inh"/>
+<LEND>
+;; These entries (101947-101953) need not be marked with a "rev", being continuation/splits of the above HW (101946).
+;; Thus they would be as under-
+<Ls>101947<pc>519,3<k1>dhṛṣṭa<k2>dhṛ́ṣṭa<e>2A
+¦ secured, obtained, <ls>W.</ls><info lex="inh"/>
+<LEND>
+<Ls>101948<pc>519,3<k1>dhṛṣṭa<k2>dhṛ́ṣṭa<e>2A
+¦ profligate, abandoned, <ls>ib.</ls> (<ab>ifc.</ab> it gives a bad sense to the first member of the <ab>comp.</ab> <ls>Pāṇ. 2-1, 53</ls>; <ls>Gaṇar. ii. 114</ls>)<info lex="inh"/>
+<LEND>
+<Ls>101949<pc>519,3<k1>dhṛṣṭa<k2>dhṛ́ṣṭa<e>2B
+<s>dhṛ́ṣṭa</s> ¦ <lex>m.</lex> a faithless husband, <ls>ib.</ls><info lex="m"/>
+<LEND>
+<Ls>101950<pc>519,3<k1>dhṛṣṭa<k2>dhṛ́ṣṭa<e>2B
+¦ a magic. formula spoken over weapons, <ls>R.</ls><info lex="inh"/>
+<LEND>
+<Ls>101951<pc>519,3<k1>dhṛṣṭa<k2>dhṛ́ṣṭa<e>2B
+¦ <ab>N.</ab> of a son of <s1 slp1="manu">Manu</s1> <s1 slp1="vEvasvata">Vaivasvata</s1>, <ls>Hariv.</ls> (<ab>C.</ab> <s>°ṣṇu</s>), <ls>Pur.</ls> (<ab>cf.</ab> <s>dhārṣṭa</s>)<info lex="inh"/>
+<LEND>
+<Ls>101952<pc>519,3<k1>dhṛṣṭa<k2>dhṛ́ṣṭa<e>2B
+¦ of a son of <s1 slp1="kunti">Kunti</s1>, <ls>Hariv.</ls><info lex="inh"/>
+<LEND>
+<Ls>101953<pc>519,3<k1>dhṛṣṭa<k2>dhṛ́ṣṭa<e>2B
+¦ of a son of <s1 slp1="BajamAna">Bhajamāna</s1>, <ls>ib.</ls> (<ab>C.</ab> <s>°ṣṇa</s>) <info lex="inh"/>
+<LEND>
+<L>101953.5<pc>1329,2<k1>dhṛṣṭa<k2>dhṛ́ṣṭa<e>2B
+¦ (Read <s>dhṛ́ṣṭa</s> and<ab>cf.</ab> <ab>Introd.</ab> <ab>p.</ab> xviii.) <info n="rev"/>
+<LEND>
+;; This <L>101953.5 entry is to be treated as a revision of <L>101946<pc>519,3<k1>dhṛṣṭa<k2>dhṛ́ṣṭa and deleted here.
+;; <Ls>101953.5 "This stands deleted, as a NULL record; to be deleted completely at the end."
+;; END
+
+;; BEGIN 15
+<L>103700.1<pc>523,1<k1>nabhrāj<k2>nábh—rāj<e>3
+<s>nábh—rāj</s> ¦ <lex>m.</lex> (<ab>nom.</ab> <s>ṭ</s>) <ab>N.</ab> of a divine <s1 slp1="soma">Soma</s1>-keeper, <ls>MaitrS.</ls> <info n="rev" pc="1329,2"/><info lex="m"/>
+<LEND>
+;; R(1329,2) na-bhrāj (read nabh-rāj)
+;; Wonder wherefrom the accent mark in nabh is got!
+;; The revised entry would be as under-
+<Ls>103700.1<pc>523,1<k1>nabhrāj<k2>nabh—rāj<e>3
+<s>nabh—rāj</s> ¦ <lex>m.</lex> (<ab>nom.</ab> <s>ṭ</s>) <ab>N.</ab> of a divine <s1 slp1="soma">Soma</s1>-keeper, <ls>MaitrS.</ls> <info n="rev" pc="1329,2"/><info lex="m"/>
+<LEND>
+<L>103700.2<pc>523,1<k1>nabhrāj<k2>nábh—rāj<e>3A
+¦ a cloud, <ls>L.</ls> <info n="rev" pc="1329,2"/><info lex="inh"/>
+<LEND>
+;; This entry need not be marked with a "rev" as it is a continuation of the above.
+;; Thus the entry would be as under-
+<Ls>103700.2<pc>523,1<k1>nabhrāj<k2>nabh—rāj<e>3A
+¦ a cloud, <ls>L.</ls><info lex="inh"/>
+<LEND>
+;; END
+
+;; BEGIN 16
+<L>105881<pc>536,3<k1>nārmedha<k2>nār—medha<e>3
+<s>nār—medha</s> ¦ <lex>m.</lex> (<ab>fr.</ab> <s>nṛ-m°</s>) <ab>patr.</ab> of <s1 slp1="Saka-pUta">Saka-pUta</s1>, <ls>RV.</ls>; <ls>Anukr.</ls> <info n="rev" pc="1329,3"/><info lex="m"/>
+<LEND>
+;; R(1329,3) nār-medha (read śaka-pūta)
+;; Though the ā is canged correctly to a, the initial letter became S instead of Ś.
+;; The revised entry would be as under-
+<Ls>105881<pc>536,3<k1>nārmedha<k2>nār—medha<e>3
+<s>nār—medha</s> ¦ <lex>m.</lex> (<ab>fr.</ab> <s>nṛ-m°</s>) <ab>patr.</ab> of <s1 slp1="Saka-pUta">Śaka-pūta</s1>, <ls>RV.</ls>; <ls>Anukr.</ls> <info n="rev" pc="1329,3"/><info lex="m"/>
+<LEND>
+;; What is Ś in slp1? (needs to be put in the above line)
+;; END
+
+;; BEGIN 17
+<L>107852<pc>544,3<k1>nikāyin<k2>ni-kāyin<e>3
+<s>ni-°kāyin</s> ¦ <lex>m.</lex> a series of sacrifices having all the same name but different rewards, <ls>ĀpY.</ls> <info n="rev" pc="1329,3"/><info lex="m"/>
+<LEND>
+;; R(1329,3) ni-kāyin, m. (read) a series of sacrifices having all the same name but different rewards, ĀpY.
+;; Revision correctly done here.
+;; END
+
+;; BEGIN 18
+<L>109023<pc>551,2<k1>nimih<k2>ni-mih<e>1
+<s>ni-√ mih</s> ¦ <ab>P.</ab> <s>-mehati</s> (<ab>Intens.</ab> <s>-mémihat</s>), to pour down urine, moisten with urine, wet, <ls>TS.</ls>; <ls>ŚBr.</ls> in <ls>RV. </ls>also <ab>pr. p.</ab>- <s>méghamāna</s> <info n="rev" pc="1329,3"/><info verb="pre" cp="P" parse="ni+mih"/>
+<LEND>
+;; R(1329,3) ni-√ mih (add, ‘in RV. also pr. p. -méghamāna’) 
+;; Added the text but with extra space between the hyphen and the word. Also should have been with a ; separation with the prev. text
+;; The revised entry would be as under-
+<Ls>109023<pc>551,2<k1>nimih<k2>ni-mih<e>1
+<s>ni-√ mih</s> ¦ <ab>P.</ab> <s>-mehati</s> (<ab>Intens.</ab> <s>-mémihat</s>), to pour down urine, moisten with urine, wet, <ls>TS.</ls>; <ls>ŚBr.</ls>; in <ls>RV. </ls>also <ab>pr. p.</ab> <s>-méghamāna</s> <info n="rev" pc="1329,3"/><info verb="pre" cp="P" parse="ni+mih"/>
+<LEND>
+;; END
+
+;; BEGIN 19
+<L>109052.5<pc>551,2<k1>nimṝ<k2>ni-mṝ<e>1
+<s>ni-√ mṝ</s> ¦ (2. <ab>sg.</ab> <ab>Impv.</ab> <s>-mṛṇīhi</s>), to crush, <ls>AV. x, 1, 17.</ls> <info n="rev" pc="1329,3"/><info verb="pre" cp="" parse="ni+mF"/>
+<LEND>
+;; R(1329,3) ni-√mṛ (read, ‘ni-√mṝ’)
+;; Revision correctly done here.
+;; END
+
+;; BEGIN 20
+<L>109875<pc>557,1<k1>niryu<k2>nir-yu<e>1
+<s>nir-</s>√ <hom>3.</hom> <s>yu</s> ¦ (only <ab>Ā.</ab> <ab>pres.</ab> <ab>p.</ab> <s>-yuvāṇá</s> <lex type="part">mfn.</lex>) to keep away, ward off, <ls>RV. iv, 48, 2.</ls> <info n="rev" pc="1329,3"/><info verb="pre" cp="Ā" parse="nir+yu"/>
+<LEND>
+;; R(1329,3) -√4. yu (read 3. yu)
+;; Revision correctly done here.
+;; END
+
+;; BEGIN 21
+<L>110163<pc>558,3<k1>nilay<k2>nilay<e>1
+<s>nilay</s> ¦ <s>°yate</s>; perf.<s>ni-layāṃ cakre</s>, <ls>ŚBr.</ls> See <s>nir-√ i</s>. <info n="rev" pc="1329,3"/><info verb="root"/>
+<LEND>
+;; R(1329,3) ni-√ lī (erase here perf. ni-layāṃ cakre and put it under nilay = nir-√ i)
+;; The space between the words perf. and "ni-layām" is missed.
+;; The revised entry would be as under-
+<Ls>110163<pc>558,3<k1>nilay<k2>nilay<e>1
+<s>nilay</s> ¦ <s>°yate</s>; <ab>perf.</ab> <s>ni-layāṃ cakre</s>, <ls>ŚBr.</ls> See <s>nir-√ i</s>. <info n="rev" pc="1329,3"/><info verb="root"/>
+<LEND>
+;; END
+
+;; BEGIN 22
+<L>110175<pc>558,3<k1>nilī<k2>ni-lī<e>1
+<s>ni-√ lī</s> ¦ <ab>Ā.</ab> <s>-līyate</s> (rarely <ab>P.</ab> <ab>e.g.</ab> <ab>Pot.</ab> <s>-līyet</s>), <ls>MBh.</ls> &c. or <s>-láyate</s>, <ls>RV.</ls>; <ls>AV.</ls> (<ab>cf.</ab> <s>ni-rī</s>; <ab>impf.</ab> <s>-alāyata</s>, <ls>TS.</ls>; <ab>pf.</ab> <s>-lilye</s>, 3. <ab>pl.</ab> <s>°yire</s>, or <s>°yur</s>, <ls>Br.</ls>; <ab>aor.</ab> <s>-aleṣṭa</s>, <ls>Br.</ls>; 3. <ab>pl.</ab> <s>-aleṣata</s>, <ls>Bhaṭṭ.</ls>; <ab>ind.p.</ab> <s>-lā́ya</s>, <ls>TBr.</ls>; <s>-līya</s>, <ls>Hariv.</ls>; <ab>inf.</ab> <s>-letum</s>, <ls>Śiś.</ls>);
+<div n="to"/>to settle down (<ab>esp.</ab> applied to the alighting of birds), alight, descend, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
+<div n="to"/>to become settled or fixed, <ls>Rājat. iii, 426</ls>;
+<div n="to"/>to hide one's self, conceal one's self from (<ab>abl.</ab>), disappear, perish, <ls>RV.</ls>; &c. <info n="rev" pc="1329,3"/><info verb="pre" cp="PĀ" parse="ni+lI"/>
+<LEND>
+;; R(1329,3) ni-√ lī (erase here perf. ni-layāṃ cakre and put it under nilay = nir-√ i)
+;; The mentioned text portion is erased here correctly.
+;; END
+
+;; BEGIN 23
+<L>110899<pc>563,1<k1>niṣṭakvan<k2>niṣ-ṭakvan<e>1
+<s>niṣ-ṭakvan</s> ¦ <lex>mf(<s>varī</s>)n.</lex> (√ <s>tak</s>?) roaming, vagrant, <ls>AV. v, 22, 6.</ls> <info n="rev" pc="1329,3"/><info lex="m:f#varI:n"/>
+<LEND>
+;; R(1329,3) -ṭákvarī (rather ‘roaming, vagrant’); the comp. word header is Nish (in comp. for nis)
+;; My earlier comment was- This "rev" appears to be for a different entry "ṭákvarī" under "niṣ" comp. words before the entry "niṣ-paridāha". Needs to be checked again.
+;; In the absence of any such comp. word under "Nish (in comp. for nis)" header (p.542), this should be the probable place for the revision.
+;; The original text tallies with PWG- "niṣṭákvan or ° kvara adj. f. ī in the place: dā̀sīṃ nìṣṭakvârīmiccha Av. 5, 22, 6. From all appearances from tak with nis; maybe running away." 
+;; Even the revised PW entry has the same- "niṣṭákvarī adj. f. possibly running away." 
+;; However the accent mark in the revision text was not considered here.
+;; I would suggest the revised entry to be as under-
+<Ls>110899<pc>563,1<k1>niṣṭakvan<k2>niṣ-ṭákvan<e>1
+<s>niṣ-ṭákvan</s> ¦ <lex>mf(<s>varī</s>)n.</lex> (√ <s>tak</s>?) roaming, vagrant, <ls>AV. v, 22, 6.</ls> <info n="rev" pc="1329,3"/><info lex="m:f#varI:n"/>
+<LEND>
+;; We might have to trace out the base for the revised meanings ‘roaming, vagrant’, instead of the orig. meaning- prob. ‘running away’ -which tallies with both PWG and PW.
+;; END
+
