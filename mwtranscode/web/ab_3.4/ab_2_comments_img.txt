@@ -1,0 +1,26 @@
+; BEGIN N  per ab_2_comments.txt
+; filenames end in .png  Sometimes more than 1 image 
+1 kakutsala1 kakutsala2 kakutsala_rev
+2 kaca kaca_rev
+3 kadartha kadartha_rev
+4 kadru1 kadru2 kadru_rev
+5 kapivana kapivana_rev
+6 kukshibheda kukshibheda_rev
+7 kumaradeshna kumaradeshna_rev
+8 kurukshetra kurukshetra_rev
+9 kurupishangila kurupishangila_rev
+10 kurmapitta kurmapitta_rev
+11 kshaya1 kshaya2 kshaya_rev
+12 kshmavrisha kshmavrisha_rev
+13 khidra khidra_rev
+14 gam gam_rev
+15 gava gava_rev
+16 gupti gupti_rev
+17 guh guh_rev
+18 gopurogava gopurogava_rev
+19 ci1 ci_rev
+20 ci2 ci_rev
+21 churika churika_rev
+22 damaru damaru_rev
+23 damaruka damaruka_rev
+24 dval dval_rev
