@@ -260,12 +260,12 @@
 <LEND>
 ;; R(1332,3) sa-niṣyadá (erase and see saniṣyadá under √syand, p. 1273)
 ;; Revision correctly done here.
-;; The next annexure entry "sa-nisrasa, see under under √sraṃs, p. 1273" śauld also properly belongs here as a "sup" entry. But it is erroneouly added at a very unrelated place at L-231174.1; it has to be moved here.
+;; The annexure entry "sa-nisrasa, see under under √sraṃs, p. 1273" should also properly belongs to this group as a "sup" entry. But it is erroneouly added at a very unrelated place at L-231174.1; it has to be moved here..
 ;; Adding the same here as under-
 <Ls>231161.1<pc>1332,3<k1>sanisrasa<k2>sa-nisrasa<h>a<e>1
 <s>sa-nisrasa</s> <hom>a</hom> ¦ see under √ <s>sraṃs</s>, <ab>p.</ab> 1273.<info n="sup"/>
 <LEND>
-;; <L>231174.1 "This stands deleted, as a NULL record; to be deleted completely at the end."
+;; <Ls>231174.1 "This stands deleted, as a NULL record; to be deleted completely at the end."
 ;; END
 
 ;; BEGIN 15
