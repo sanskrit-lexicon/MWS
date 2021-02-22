@@ -1,0 +1,289 @@
+;; BEGIN 1
+<L>180503<pc>892,2<k1>lakṣmaṇasena<k2>lakṣmaṇá—sena<e>3
+<s>lakṣmaṇá—sena</s> ¦ <lex>m.</lex> a king of the <s1 slp1="sena">Sena</s1> dynasty of Eastern India (founder of an era, beginning on October 7, <ls>A.</ls>D. 1119) <info n="rev" pc="1332,1"/><info lex="m"/>
+<LEND>
+;; R(1332,1) lakṣmaṇa-sena, m. a king of the Sena dynasty of Eastern India (founder of an era, beginning on October 7, A.D. 1119)
+;; Revision is correctly done here.
+;; But the marking of A.D as <ls>A.</ls>D. needs to be corrected as <ab>A.D.</ab> as discussed elsewhere. To be done globally sometime later.
+;; END
+
+;; BEGIN 2
+<L>186228<pc>919,2<k1>vandin<k2>vandin<e>2
+<s>vandin</s> ¦ <lex>mfn.</lex> praising, honouring (<ab>ifc.</ab>), <ls>Kum.</ls> (<ab>cf.</ab> <hom>1.</hom> <s>bandin</s>, ‘a praiser’, ‘bard’) <info n="rev" pc="1332,1"/><info lex="m:f:n"/>
+<LEND>
+;; R(1332,1) vandin (p. 919, col. 2, read, praising, honouring,’ = 1. bandin, ‘a praiser,’ ‘bard’)
+;; With the indicated revision text, the cf. needs to be changed to =)
+;; The revised entry would be as under-
+<Ls>186228<pc>919,2<k1>vandin<k2>vandin<e>2
+<s>vandin</s> ¦ <lex>mfn.</lex> praising, honouring (<ab>ifc.</ab>), <ls>Kum.</ls> (= <hom>1.</hom> <s>bandin</s>, ‘a praiser’, ‘bard’) <info n="rev" pc="1332,1"/><info lex="m:f:n"/>
+<LEND>
+;; END
+
+;; BEGIN 3
+<L>188049<pc>927,2<k1>varṣiman<k2>varṣiman<e>1
+<s>varṣiman</s> ¦ <lex>m.</lex> (<ab>prob.</ab> in some of the following senses connected with √ <s>vṛ</s>, ‘to cover’) height, length, width, breadth, <ls>VS.</ls> <info n="rev" pc="1332,1"/><info lex="m"/>
+<LEND>
+;; R(1332,1) varṣimán (VS.)
+;; Accent change in HW missed in revision.
+;; The revised entry would be as under-
+<Ls>188049<pc>927,2<k1>varṣiman<k2>varṣimán<e>1
+<s>varṣimán</s> ¦ <lex>m.</lex> (<ab>prob.</ab> in some of the following senses connected with √ <s>vṛ</s>, ‘to cover’) height, length, width, breadth, <ls>VS.</ls> <info n="rev" pc="1332,1"/><info lex="m"/>
+<LEND>
+;; END
+
+;; BEGIN 4
+<L>191577<pc>943,3<k1>vārīya<k2>vārīya<e>2
+<s>vārīya</s> ¦ <ab>Nom.</ab> <ab>Ā.</ab> <s>°yate</s>, to resemble water, <ls>Sāh.</ls> <info n="rev" pc="1332,1"/><info verb="nom" cp="Ā"/>
+<LEND>
+;; R(1332,1) varīya (read, vārīya, p. 943, col. 3)
+;; Revision correctly done here.
+;; END
+
+;; BEGIN 5
+<L>194978<pc>959,3<k1>vijāman<k2>vi-jā́man<h>b<e>3
+<s>vi-°jā́man</s> <hom>b</hom> ¦ <lex>mfn.</lex> related <ab>i.e.</ab> corresponding to each other, <ab>i.e.</ab>, ‘being in pairs’, symmetrical, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls> <info n="rev" pc="1332,2"/><info lex="m:f:n"/>
+<LEND>
+;; R(1332,2) vi-jā́man (read, ‘corresponding to each other,’ i.e. ‘being in pairs,’ ‘symmetrical’)
+;; All the quoted strings should be used as is here.
+;; The revised entry would be as under-
+<Ls>194978<pc>959,3<k1>vijāman<k2>vi-jā́man<h>b<e>3
+<s>vi-°jā́man</s> <hom>b</hom> ¦ <lex>mfn.</lex> ‘corresponding to each other,’ <ab>i.e.</ab>, ‘being in pairs,’ ‘symmetrical’, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls> <info n="rev" pc="1332,2"/><info lex="m:f:n"/>
+<LEND>
+;; END
+
+;; BEGIN 6
+<L>204235<pc>1008,2<k1>vṛkṣamūlika<k2>vṛkṣá—mūlika<e>3
+<s>vṛkṣá—mūlika</s> ¦ <lex>mfn.</lex> <ab>id.</ab> (with <ns>Buddhists</ns> one of the 12 <s1 slp1="DUta-guRa">Dhūta-guṇa</s1>s or ascetic practices), <ls>Baudh. ii, 18, 24</ls>; <ls>Dharmas. 63.</ls> <info n="rev" pc="1332,2"/><info lex="m:f:n"/>
+<LEND>
+;; R(1332,2) -mūlika (also Baudh. ii, 18, 24); the comp. word header is vṛkṣa (in comp.) [no accent]
+;; The word 'also' indicates that the given <ls> is to be afterwards, not prior to the existing. And the front part accent change is missed in the revision.
+;; The revised entry would be as under-
+<Ls>204235<pc>1008,2<k1>vṛkṣamūlika<k2>vṛkṣa—mūlika<e>3
+<s>vṛkṣa—mūlika</s> ¦ <lex>mfn.</lex> <ab>id.</ab> (with <ns>Buddhists</ns> one of the 12 <s1 slp1="DUta-guRa">Dhūta-guṇa</s1>s or ascetic practices), <ls>Dharmas. 63.</ls>; <ls>Baudh. ii, 18, 24</ls> <info n="rev" pc="1332,2"/><info lex="m:f:n"/>
+<LEND>
+;; END
+
+;; BEGIN 7
+<L>206833<pc>1021,2<k1>vaiṇāvata<k2>vaiṇāvata<e>2
+<s>vaiṇāvata</s> ¦ <lex>m.</lex> or <lex type="hw">n.</lex> (?) skill <ab>cf.</ab> <s>vīṇā-vat</s> above, <ls>Lāṭy.</ls>; <ls>Drāhy.</ls> (<ab>Sch.</ab> <info n="rev" pc="1332,2"/><info lex="m:n"/>
+<LEND>
+;; R(1332,2) (for ‘a bow’ read ‘skill,’ and cf. vīṇā-vat above), Lāṭy.; Drāhy. (Sch.)
+;; The revised entry would be as under-
+<Ls>206833<pc>1021,2<k1>vaiṇāvata<k2>vaiṇāvata<e>2
+<s>vaiṇāvata</s> ¦ <lex>m.</lex> or <lex type="hw">n.</lex> (?) skill (<ab>cf.</ab> <s>vīṇā-vat</s> above), <ls>Lāṭy.</ls>; <ls>Drāhy.</ls> (<ab>Sch.</ab> <info n="rev" pc="1332,2"/><info lex="m:n"/>
+<LEND>
+;; END
+
+;; BEGIN 8
+<L>209223<pc>1034,3<k1>vyavahārya<k2>vy-avahārya<e>2
+<s>vy-avahārya</s> ¦ <lex>mfn.</lex> to be transacted or practised (See <s>a-vyav°</s>) <info n="rev" pc="1332,2"/><info lex="m:f:n"/>
+<LEND>
+;; R(1332,2) vy-avahārya (p. 1034, col. 3, read ‘see a-vyav°’)
+;; The revised entry would be as under-
+<Ls>209223<pc>1034,3<k1>vyavahārya<k2>vy-avahārya<e>2
+<s>vy-avahārya</s> ¦ <lex>mfn.</lex> to be transacted or practised (see <s>a-vyav°</s>) <info n="rev" pc="1332,2"/><info lex="m:f:n"/>
+<LEND>
+;; END
+
+;; BEGIN 9
+<L>216774<pc>1071,1<k1>śikhin<k2>śikhin<e>2
+<s>śikhin</s> ¦ <lex>mfn.</lex> having a tuft or lock of hair on the top of the head, <ls>AV.</ls>; <ls>Gaut.</ls>; <ls>MBh.</ls> &c. <info n="rev" pc="1332,3"/><info lex="m:f:n"/>
+<LEND>
+;; R(1332,3) śikhín (AV.) [The scan here is not so clear, as the print book.]
+;; Accent in HW missed in the revision.
+;; The revised entry would be as under-
+<Ls>216774<pc>1071,1<k1>śikhin<k2>śikhín<e>2
+<s>śikhín</s> ¦ <lex>mfn.</lex> having a tuft or lock of hair on the top of the head, <ls>AV.</ls>; <ls>Gaut.</ls>; <ls>MBh.</ls> &c. <info n="rev" pc="1332,3"/><info lex="m:f:n"/>
+<LEND>
+;; The accent change has to be apllied to all the following splits (216775-216798) of the HW entry.
+<L>216775<pc>1071,1<k1>śikhin<k2>śikhin<e>2A
+¦ one who has reached the summit of knowledge, <ls>BrahmUp.</ls><info lex="inh"/>
+<LEND>
+<L>216776<pc>1071,1<k1>śikhin<k2>śikhin<e>2A
+¦ proud, <ls>MW.</ls><info lex="inh"/>
+<LEND>
+<L>216777<pc>1071,1<k1>śikhin<k2>śikhin<e>2B
+<s>śikhin</s> ¦ <lex>m.</lex> a peacock, <ls>RPrāt.</ls>; <ls>Yājñ.</ls>; <ls>MBh.</ls> &c.<info lex="m"/>
+<LEND>
+<L>216778<pc>1071,1<k1>śikhin<k2>śikhin<e>2B
+¦ a cock, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>216779<pc>1071,1<k1>śikhin<k2>śikhin<e>2B
+¦ <bio>Ardea</bio> <bio>Nivea</bio> (a kind of heron or crane), <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>216780<pc>1071,1<k1>śikhin<k2>śikhin<e>2B
+¦ a bull, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>216781<pc>1071,1<k1>śikhin<k2>śikhin<e>2B
+¦ a horse, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>216782<pc>1071,1<k1>śikhin<k2>śikhin<e>2B
+¦ ‘having flame’, fire or the fire-god, <ls>Gṛhyās.</ls>; <ls>Yājñ.</ls>; <ls>MBh.</ls> &c.<info lex="inh"/>
+<LEND>
+<L>216783<pc>1071,1<k1>śikhin<k2>śikhin<e>2B
+¦ the number ‘three’ (from the three sacred fires), <ls>VarBṛS.</ls><info lex="inh"/>
+<LEND>
+<L>216784<pc>1071,1<k1>śikhin<k2>śikhin<e>2B
+¦ a lamp, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>216785<pc>1071,1<k1>śikhin<k2>śikhin<e>2B
+¦ a comet, <ls>VarBṛS.</ls><info lex="inh"/>
+<LEND>
+<L>216786<pc>1071,1<k1>śikhin<k2>śikhin<e>2B
+¦ <ab>N.</ab> of <s1 slp1="ketu">Ketu</s1> (the personified descending node), <ls>VP.</ls><info lex="inh"/>
+<LEND>
+<L>216787<pc>1071,1<k1>śikhin<k2>śikhin<e>2B
+¦ a mountain, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>216788<pc>1071,1<k1>śikhin<k2>śikhin<e>2B
+¦ a tree, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>216789<pc>1071,1<k1>śikhin<k2>śikhin<e>2B
+¦ <bot>Carpopogon Pruriens</bot>, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>216790<pc>1071,1<k1>śikhin<k2>śikhin<e>2B
+¦ <bot>Trigonella Foenum</bot> <bot>Graecum</bot>, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>216791<pc>1071,1<k1>śikhin<k2>śikhin<e>2B
+¦ a kind of potherb (= <s>sitā<srs/>vara</s>), <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>216792<pc>1071,1<k1>śikhin<k2>śikhin<e>2B
+¦ an arrow, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>216793<pc>1071,1<k1>śikhin<k2>śikhin<e>2B
+¦ a <ns>Brāhman</ns>, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>216794<pc>1071,1<k1>śikhin<k2>śikhin<e>2B
+¦ a religious mendicant, <ls>W.</ls><info lex="inh"/>
+<LEND>
+<L>216795<pc>1071,1<k1>śikhin<k2>śikhin<e>2B
+¦ <ab>N.</ab> of a serpent-demon, <ls>MBh.</ls><info lex="inh"/>
+<LEND>
+<L>216796<pc>1071,1<k1>śikhin<k2>śikhin<e>2B
+¦ of <s1 slp1="indra">Indra</s1> under <s1 slp1="manu">Manu</s1> <s1 slp1="tAmasa">Tāmasa</s1>, <ls>Pur.</ls><info lex="inh"/>
+<LEND>
+<L>216797<pc>1071,1<k1>śikhin<k2>śikhin<e>2B
+¦ of the second <s1 slp1="budDi">Buddhi</s1>, <ls>Lalit.</ls>; <ls>Kāraṇḍ.</ls> (<ab>cf.</ab> <ls>MWB. 136 n. 1; 516</ls>)<info lex="inh"/>
+<LEND>
+<L>216798<pc>1071,1<k1>śikhin<k2>śikhin<e>2B
+¦ of a <s1 slp1="brahmA">Brahmā</s1> (with <ns>Buddhists</ns>), <ls>Lalit.</ls><info lex="inh"/>
+<LEND>
+;; All these entries are the continuation of the HW entry, the accent change has to be apllied to all these (216775-216798).
+;;END
+
+;; BEGIN 10
+<L>220878<pc>1088,3<k1>śeṣa<k2>śeṣa<h>b<e>1
+<s>śeṣa</s> <hom>b</hom> ¦ <lex>mn.</lex> (<ab>fr.</ab> √ <hom>2.</hom> <s>śiṣ</s>) remainder, that which remains or is left, leavings, residue (<ab>pl.</ab> ‘all the others’), surplus, balance, effect, the rest (<s>śeṣe</s> <ab>loc.</ab> ‘for the rest’, ‘in all other cases’; <s>śeṣe rātrau</s>, ‘during the rest of the night’; <s>mama śeṣam asti</s>, ‘there remains something to happen to me’) <info n="rev" pc="1332,3"/><info lex="m:n"/>
+<LEND>
+;; A(1332,3) śeṣa, add ‘effect’. [This is not a "rev" candidate. but a "sup" candidate ]
+;; As the placement is not explicitly mentioned, guess it should be added at the end. Hence the word 'effect' is to be moved from L-220878 to L-220888.
+;; This entry to be reverted to original book content
+<Ls>220878<pc>1088,3<k1>śeṣa<k2>śeṣa<h>b<e>1
+<s>śeṣa</s> <hom>b</hom> ¦ <lex>mn.</lex> (<ab>fr.</ab> √ <hom>2.</hom> <s>śiṣ</s>) remainder, that which remains or is left, leavings, residue (<ab>pl.</ab> ‘all the others’), surplus, balance, the rest (<s>śeṣe</s> <ab>loc.</ab> ‘for the rest’, ‘in all other cases’; <s>śeṣe rātrau</s>, ‘during the rest of the night’; <s>mama śeṣam asti</s>, ‘there remains something to happen to me’) <info lex="m:n"/>
+<LEND>
+<L>220879<pc>1088,3<k1>śeṣa<k2>śeṣa<e>1A
+¦ that which has to be supplied (<ab>e.g.</ab> any word or words which have been omitted in a sentence; <s>iti śeṣaḥ</s>, ‘so it was left to be supplied’, a phrase commonly used by <ab>Comm.</ab> in supplying any words necessary to elucidate the text)<info lex="inh"/>
+<LEND>
+<L>220880<pc>1088,3<k1>śeṣa<k2>śeṣa<e>1A
+¦ that which is saved or spared or allowed to escape (<ab>nom.</ab> with √ <s>as</s>, or √ <s>bhū</s>, ‘to be spared’; <s>śeṣaṃ-√ kṛ</s>, ‘to spare’, ‘allow to escape’; <s>śeṣam avā<srs/>p</s> ‘to escape’), <ls>Mn.</ls>; <ls>MBh.</ls>; <ls>R.</ls> &c.<info lex="inh"/>
+<LEND>
+<L>220881<pc>1088,3<k1>śeṣa<k2>śeṣa<e>1A
+¦ remaining (used as an <ab>adj.</ab> at the end of <ab>adj.</ab> <ab>comp.</ab> [<lex type="hwifc">f(<s>ā</s>). </lex>], <ab>cf.</ab> <s>kathā-ś°</s>, <s>kṛtya-ś°</s>), <ls>AitBr.</ls> &c. &c.<info lex="f#A"/><info lex="inh"/>
+<LEND>
+<L>220882<pc>1088,3<k1>śeṣa<k2>śeṣa<e>1A
+¦ remaining out of or from, left from (with <ab>abl.</ab> or <ab>loc.</ab> <ab>e.g.</ab> <s>prayātebhyo ye śeṣāḥ</s>, ‘the persons left out of those who had departed’; but mostly <ab>ifc.</ab> after a pp. in <ab>comp.</ab> <ab>e.g.</ab> <s>bhukta-śeṣa</s>, ‘remaining from a meal’, ‘remnant of food’; <s>hata-śeṣāḥ</s>, ‘those left out of the slain’, ‘the survivors’ &c.), <ls>Mn.</ls>; <ls>MBh.</ls> &c.<info lex="inh"/>
+<LEND>
+<L>220883<pc>1088,3<k1>śeṣa<k2>śeṣa<e>1A
+¦ end, issue, conclusion, finish, result, <ls>RV. 77, 15</ls><info lex="inh"/>
+<LEND>
+<L>220884<pc>1088,3<k1>śeṣa<k2>śeṣa<e>1A
+¦ last, last-mentioned, <ls>Rājat.</ls><info lex="inh"/>
+<LEND>
+<L>220885<pc>1088,3<k1>śeṣa<k2>śeṣa<e>1A
+¦ a supplement, appendix, <ls>Nir. iii, 13</ls><info lex="inh"/>
+<LEND>
+<L>220886<pc>1088,3<k1>śeṣa<k2>śeṣa<e>1A
+¦ a keepsake, token of remembrance, <ls>Daś.</ls><info lex="inh"/>
+<LEND>
+<L>220887<pc>1088,3<k1>śeṣa<k2>śeṣa<e>1A
+¦ secondary matter, accident, <ls>KātyŚr. <ab>Sch.</ab></ls><info lex="inh"/>
+<LEND>
+<L>220888<pc>1088,3<k1>śeṣa<k2>śeṣa<e>1A
+¦ death, destruction, <ls>W.</ls><info lex="inh"/>
+<LEND>
+;; This becomes two records with the placement of the annexure word to this place.
+<Ls>220888<pc>1088,3<k1>śeṣa<k2>śeṣa<e>1A
+¦ death, destruction, <ls>W.</ls><info lex="inh"/>
+<LEND>
+<Ls>220888.1<pc>1332,3<k1>śeṣa<k2>śeṣa<e>1A
+¦ effect.<info n="sup"/> <info lex="inh"/>
+<LEND>
+;; END
+
+;; BEGIN 11
+<L>227499<pc>1123,1<k1>saṃhotra<k2>saṃ-hotrá<h>a<e>2
+<s>saṃ-hotrá</s> <hom>a</hom> ¦ <lex>n.</lex> concourse of priests for disputations &c., <ls>RV.</ls> <info n="rev" pc="1332,3"/><info lex="n"/>
+<LEND>
+;; R(1332,3) saṃ-hotrá (rather, ‘concourse of priests dor disputations &c.’)
+;; Revision correctly done here.
+;; END
+
+;; BEGIN 12
+<L>230551<pc>1138,3<k1>sad<k2>sád<e>2B
+<s>sád</s> ¦ covering (the female), <ls>AV.</ls> <info n="rev" pc="1332,3"/>
+<LEND>
+;; R(1332,3) 3. sád (erase ‘m.;’ sádā = ‘ever’ in AV. iv, 4, 7)
+;; Erasing of m. is done but adding the other given text is missed.
+;; The revised entry would be as under-
+<Ls>230551<pc>1138,3<k1>sad<k2>sád<e>2B
+<s>sád</s> ¦ covering (the female); sádā = ‘ever’ in <ls>AV. iv, 4, 7</ls> <info n="rev" pc="1332,3"/>
+<LEND>
+;; The inclusion of this sádā word here seems to be matching with the next entry's "= prec." 
+;; END
+
+;; BEGIN 13
+<L>230741<pc>1139,2<k1>sadā<k2>sádā<e>2
+<s>sádā</s> ¦ <lex>ind.</lex> always, ever, every time, continually, perpetually (with <s>na</s>, ‘never’), <ls>RV.</ls>; &c.; <ls>AV. iv, 4, 7</ls> <info n="rev" pc="1332,3"/><info lex="ind"/>
+<LEND>
+;; R(1332,3) 3. sád (erase ‘m.;’ sádā = ‘ever’ in AV. iv, 4, 7)
+;; As this (sádā = ) is within the parenthesised matter for 3. sád (L-230551), guess this should NOT be put here.
+;; The word 'ever' is already here; also "RV. &c. &c." including all the Vedic literature, having a specific ref. to "AV. iv. 4, 7" does not seem to be correct. Hence this addition should not be done here.
+;; Thus this entry has to be reverted to original book content as under-
+<Ls>230741<pc>1139,2<k1>sadā<k2>sádā<e>2
+<s>sádā</s> ¦ <lex>ind.</lex> always, ever, every time, continually, perpetually (with <s>na</s>, ‘never’), <ls>RV.</ls> &c. &c. <info lex="ind"/>
+<LEND>
+;; END
+
+;; BEGIN 14
+<L>231161<pc>1141,3<k1>saniṣyada<k2>sa—niṣyadá<h>a<e>3
+<s>sa—niṣyadá</s> <hom>a</hom> ¦ see <s>saniṣyadá</s> under √ <s>syand</s>, <ab>p.</ab> 1273 <info n="rev" pc="1332,3"/>
+<LEND>
+;; R(1332,3) sa-niṣyadá (erase and see saniṣyadá under √syand, p. 1273)
+;; Revision correctly done here.
+;; The next annexure entry "sa-nisrasa, see under under √sraṃs, p. 1273" śauld also properly belongs here as a "sup" entry. But it is erroneouly added at a very unrelated place at L-231174.1; it has to be moved here.
+;; Adding the same here as under-
+<Ls>231161.1<pc>1332,3<k1>sanisrasa<k2>sa-nisrasa<h>a<e>1
+<s>sa-nisrasa</s> <hom>a</hom> ¦ see under √ <s>sraṃs</s>, <ab>p.</ab> 1273.<info n="sup"/>
+<LEND>
+;; <L>231174.1 "This stands deleted, as a NULL record; to be deleted completely at the end."
+;; END
+
+;; BEGIN 15
+<L>231174.1<pc>1332,3<k1>sanisrasa<k2>sa-nisrasa<h>a<e>1
+<s>sa-nisrasa</s> <hom>a</hom> ¦ see under √ <s>sraṃs</s>, <ab>p.</ab> 1273.<info n="sup"/>
+<LEND>
+;; <L>231174.1 "This stands deleted, as a NULL record; to be deleted completely at the end."
+;; END
+
+;; BEGIN 16
+<L>255804<pc>1265,1<k1>sthiraśaṅkukarṇa<k2>sthirá—śaṅku-karṇa<e>3
+<s>sthirá—śaṅku-karṇa</s> ¦ <lex>mfn.</lex> having upright ears like spikes, <ls>Bcar.</ls> <info n="rev" pc="1333,3"/><info lex="m:f:n"/>
+<LEND>
+;; R(1333,3) has thus- sthira-śaṅku-karna, mfn. having upright ears like spikes, Bcar.
+;; Accent change in the front portion missed.
+;; Thus the entry word accent has to be revised as under-
+<Ls>255804<pc>1265,1<k1>sthiraśaṅkukarṇa<k2>sthira—śaṅku-karṇa<e>3
+<s>sthira—śaṅku-karṇa</s> ¦ <lex>mfn.</lex> having upright ears like spikes, <ls>Bcar.</ls> <info n="rev" pc="1333,3"/><info lex="m:f:n"/>
+<LEND>
+;; END
+
