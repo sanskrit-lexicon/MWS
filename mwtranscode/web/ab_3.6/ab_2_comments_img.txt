@@ -1,0 +1,31 @@
+; BEGIN N  per ab_2_comments.txt
+; filenames end in .png  Sometimes more than 1 image 
+1 pattra pattra_rev
+2 parasedha parasedha_rev
+3 parivas parivas_rev
+4 patra1 patra2 patra_rev
+5 patrakataka patrakataka_rev
+6 patraproksha patraproksha_rev
+7 patrahasta patrahasta_rev1
+8 paniya paniya_rev
+9 patracaya patracaya_rev
+10 pita pita_rev
+11 purvakamakritvan purvakamakritvan_rev
+12 purvavat purvavat_rev
+13 peta peta_rev
+14 petaka petaka_rev
+15 pna pna_rev
+16 pratishiddhavama pratishiddhavama_rev
+17 pratardana pratardana_rev
+18 pralikh pralikh_rev
+19 praptavyamartha praptavyamartha_rev
+20 protaghana protaghana_rev
+21 protsarana protsarana_rev
+22 bambavishvavayas bambavishvavayas_rev
+23 bahusuvari bahusuvari_rev
+24 bhujyu bhujyu_rev
+25 ma ma_rev
+26 ma1 ma_rev
+27 madhyamapada madhyamapada_rev
+28 mamat mamat_rev
+29 ma2 ma2_rev
