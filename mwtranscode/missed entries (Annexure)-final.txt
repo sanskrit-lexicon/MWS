@@ -1,0 +1,513 @@
+;; BEGIN
+;; alternate HW entry "bhauma-yantra" missed here.
+A(1309,2) aṅgāraka-yantra (or bhauma-y°), ... ... ...
+<L>1672.1<pc>1309,2<k1>aṅgārakayantra<k2>aṅgāraka-yantra<e>3	<s>aṅgāraka-yantra</s>¦ (or <s>bhauma</s>-<s>y</s>°), <lex>n.</lex> a kind of auspicious diagram, <ls>Inscr.</ls><info n="sup"/><info lex="n"/>	<LEND>
+;; There are 296 such entries "¦ (or <s>", which need to be split as sep. entries and marked as OR group.
+;; There are 596 entries "¦ or <s>", which need to be split as sep. entries and marked as OR group.
+;; There are 18 entries "¦ (and <s>", which need to be split as sep. entries and marked as AND group.
+;; There are 140 entries "¦ and <s>", which need to be split as sep. entries and marked as AND group.
+;; probably few more in some other notation may also be there, that are to be split and xxx group marked.
+;; could all these be done in this session or marked for another session sometime later?
+;; Jim to take a call on this matter.
+;; END
+
+;; BEGIN
+;; The entry "adharmâstikāya" is missed here, which is giving additional explanation of the meaning
+R(1310,2) °mâstikāya (accord. to some Jaina authorities, ‘the category which is the determinant cause of rest’); comp. word header "adharma (in comp.)" [no accent]
+<L>4020<pc>20,1<k1>adharmāstikāya<k2>adharmāstikāya<e>3	<s>adharmā<srs/>stikāya</s> 	¦ <lex>m.</lex> the category (<s>astikāya</s>) of <s>adharma</s>, (one of the five categories of the <s1 slp1="jEna">Jaina</s1> ontology). <info lex="m"/>	<LEND>
+;; The entry L-4020 to be revised as under-
+;; <Ls>4020<pc>20,1<k1>adharmāstikāya<k2>adharmāstikāya<e>3	<s>adharmā<srs/>stikāya</s> 	¦ <lex>m.</lex> the category (<s>astikāya</s>) of <s>adharma</s>, (one of the five categories of the <s1 slp1="jEna">Jaina</s1> ontology); (<ab>accord.</ab> to some Jaina authorities, ‘the category which is the determinant cause of rest’)<info n="rev" pc="1310,2"/>)<info lex="m"/>	<LEND>
+;; END
+
+;; BEGIN
+;; The entry "adhi-√ji" missed here, though contextually it is rendered alright.
+R(1310,2) adhi-√ji (Prec. 1. pl. -jīyāsma), to overcome, Bhaṭṭ.
+<L>4251<pc>21,1<k1>adhiji<k2>adhi-ji<e>1	<s>adhi-√ ji</s> 	¦ (<ab>Subj.</ab> 2. <ab>sg.</ab> <s>-jayāsi</s>) to, win in addition, <ls>RV. vi, 35, 2.</ls><info verb="pre" cp="" parse="aDi+ji"/>	<LEND>
+<L>4251.1<pc>1310,2<k1>adhiji<k2>adhi-ji<e>1A	¦ (Prec. 1. <ab>pl.</ab> <s>-jīyāsma</s>), to overcome, <ls>Bhaṭṭ.</ls><info n="sup"/>	<LEND>
+;; I seem to have checked for the text in L-4251, hence the original comment as above.
+;; In contrast to all other dhātu entry rendering, this particular annexure data is added as a split, instead of being with a <br> or<div>.
+;; Jim to decide what to do in this!!
+;; END
+
+;; BEGIN
+;; The entry "alātacakra" is missed here.
+A(1316,3) alāta-cakra n. a fire-brand carried around (-vat, ind.)
+;; This is already discussed in AB_3.1 and nothing more to do here.
+;; END
+
+;; BEGIN
+;; The entry "aṣṭā́pruṣ" is missed, which marked a correction in the accent in the HW aṣṭāpruṣ.
+R(1318,1) °ṭā́-pruṣ (TS.)
+<L>20289<pc>116,3<k1>aṣṭāpruṣ<k2>aṣṭā—pruṣ<e>3	<s>aṣṭā—pruṣ</s>	¦ (<s>aṣṭā-</s>) <lex>mfn.</lex> (<ab>nom.</ab> <lex type="hwinfo">n.</lex> <s>-prūṭ</s> !) having (<ab>i.e.</ab> marked by a sign similar to) eight drops (as a golden coin <ab>cf.</ab> <s>aṣṭā-pada</s>), <ls>TS.</ls><info lexcat="LEXID=card,STEM=azwAviMSati"/>	<LEND>
+;; HW accent to be revised here.
+;; END
+
+;; BEGIN
+;; The entry "ásaṃvlaya" missed, marking the accent correction in asaṃvlaya.
+R(1318,2) á-saṃvlaya (TBr.)
+<L>20400<pc>117,3<k1>asaṃvlaya<k2>a-saṃvlaya<e>1	<s>a-saṃvlaya</s>	¦ <lex>m.</lex> the not sinking down, <ls>TBr.</ls><info lex="m"/>	<LEND>
+;; HW accent to be revised here.
+;; END
+
+;; BEGIN
+;; The entry "aharpatí" having accent correction missed.
+R(1318,3) -patí (MaitrS.)
+<L>21733<pc>124,3<k1>aharpati<k2>áhar—páti<e>3	<s>áhar—páti</s>	¦ <lex>m.</lex> (<ls>Pāṇ. 8-2, 70</ls> <ab>Comm.</ab>) lord of the day, <ls>VS.</ls>; <ls>MaitrS.</ls><info lex="m"/>	<LEND>
+;; HW accent to be revised here.
+;; END
+
+;; BEGIN
+;; The entry "ādinavadarśá" is missed
+R(1319,2) ādinava-darśá (VS.)
+<L>23969<pc>137,2<k1>ādinavadarśa<k2>ādinavá—darśa<e>3	<s>ādinavá—darśa</s> 	¦ <lex>mfn.</lex> having in view (another's) misfortune, <ls>VS. xxx, 18.</ls><info lex="m:f:n"/>	<LEND>
+;; HW accent to be revised here.
+;; END
+
+;; BEGIN
+;; The entry "ānandấtman" is missed
+R(1319,3) °dấtman (ŚBr.)
+<L>24427<pc>140,1<k1>ānandātman<k2>ānandātman<e>3	<s>ānandā<srs/>tman</s> 	¦ <lex>mfn.</lex> one whose essence consists in happiness, <ls>ŚBr.</ls><info lex="m:f:n"/>	<LEND>
+;; HW accent to be revised here.
+;; END
+
+;; BEGIN
+;; The entry "ā́ntya" is missed
+R(1319,3) ā́ntya (VS.)
+<L>24682<pc>141,3<k1>āntya<k2>āntya<e>2	<s>āntya</s> 	¦ <lex>m.</lex> one who finishes, personified as <s1 slp1="BOvana">Bhauvana</s1>, <ls>VS.</ls>; <ls>TS.</ls><info lex="m"/>	<LEND>
+;; HW accent to be revised here.
+;; END
+
+;; BEGIN
+;; The entry "āpeya-tvá" is missed
+R(1319,3) āpeyá and °ya-tvá (MaitrS.)
+<L>25039<pc>143,3<k1>āpeya<k2>āpeya<e>1	<s>āpeya</s> 	¦ <lex>m. <ab>pl.</ab></lex> (<ab>fr.</ab> <hom>1.</hom> <s>ap</s> ?), a particular class of gods.<info lex="m"/>	<LEND>
+<L>25039.1<pc>1319,3<k1>āpeya<k2>āpeyá<e>1A	¦ and<info n="sup"/>	<LEND>
+<L>25040<pc>143,3<k1>āpeyatva<k2>āpeya—tva<e>3	<s>āpeya—tva</s> 	¦ <lex>n.</lex> the being of this class, <ls>MaitrS.</ls> (<ab>cf.</ab> <s>āpyeya</s>.)<info lex="n"/>	<LEND>
+;; The HW accent cahnge missed in āpeya & āpeyatva, and the L-25039.1 has no text to name it a "sup".
+;; END
+
+;; BEGIN
+;; The entry "āpyā́na-vat" is missed
+R(1319,3) āpyā́na-vat and āpyā́yana (ŚBr.)
+<L>25074<pc>144,1<k1>āpyānavat<k2>ā-pyāna—vat<e>3	<s>ā-pyāna—vat</s> 	¦ = <s>ā-pīna-vat</s>, <ls>ŚBr. vii, 3, 1, 12,</ls> &c.	<LEND>
+<L>25074.1<pc>144,1<k1>āpyānavat<k2>ā-pyāna—vat<e>3B	<s>ā-pyāna—vat</s> 	¦ <lex>n.</lex> general outbreak (of perspiration)<info and="25074.1,ApyAnavat;25089.1,ApyAyana;25124.1,Apravartana"/><info lex="n"/>	<LEND>
+<L>25076<pc>144,1<k1>āpyāyana<k2>ā-pyāyana<e>2	<s>ā-pyāyana</s> 	¦ <lex>mfn.</lex> causing fulness or stoutness, <ls>Suśr.</ls><info lex="m:f:n"/>	<LEND>
+<L>25077<pc>144,1<k1>āpyāyana<k2>ā-pyāyana<e>2A	¦ increasing welfare, gladdening, <ls>L.</ls><info lex="inh"/>	<LEND>
+;; HW accent changes are missed.
+;; Where to add ŚBr, in L-25076 or 25077?
+;; END
+
+;; BEGIN
+;; The entry "ā-bhū́" is missed
+R(1319,3) 2. ā-bhū́ (RV.)
+<L>25345<pc>145,3<k1>ābhū<k2>ā-bhū<h>2<e>2	<hom>2.</hom> <s>ā-bhū</s> 	¦ <lex>mfn.</lex> present, being near at hand, assisting, helping, <ls>RV.</ls><info lex="m:f:n"/>	<LEND>
+;; HW accent to be revised here.
+;; END
+
+;; BEGIN
+;; The entry "ā́-bhūti" is missed
+R(1319,3) ā́-bhūti (RV.)
+<L>25349<pc>145,3<k1>ābhūti<k2>ā-bhūti<e>2	<s>ā-bhūti</s> 	¦ <lex>f.</lex> reaching, attaining<info lex="f"/>	<LEND>
+<L>25350<pc>145,3<k1>ābhūti<k2>ā-bhūti<e>2A	¦ superhuman power or strength, <ls>RV. x, 84, 6</ls><info lex="inh"/>	<LEND>
+;; HW accent to be revised here.
+;; END
+
+;; BEGIN
+;; The entry "āmrá" is missed
+R(1319,3) āmrá, n. (ŚBr.)
+<L>25649<pc>147,3<k1>āmra<k2>āmra<e>1	<s>āmra</s> 	¦ <lex>m.</lex> the mango tree, <bot>Mangifera Indica</bot>, <ls>MBh.</ls>; <ls>R.</ls>; <ls>Śak.</ls> &c.<info lex="m"/>	<LEND>
+<L>25650<pc>147,3<k1>āmra<k2>āmra<e>1B	<s>āmra</s> 	¦ <lex>n.</lex> the fruit of the mango tree, <ls>Suśr.</ls>; <ls>ŚBr.</ls><info lex="n"/>	<LEND>
+<L>25651<pc>147,3<k1>āmra<k2>āmra<e>1B	¦ &c.<info lex="inh"/>	<LEND>
+;; HW accent to be revised here.
+:: L-25651 type of entries are quite many, that need to be merged into the previous entry or completely deleted. This point has been mentioned as §4 in the issue #96 earlier.
+;; END
+
+;; BEGIN
+;; The entry "ārti [1]" missed
+R(1320,1) 1. ārti (erase 1. and 2.)
+<L>25998<pc>149,2<k1>ārti<k2>ā́rti<h>1<e>2	<hom>1.</hom> <s>ā́rti</s> 	¦ <lex>f.</lex> painful occurrence, pain, injury, mischief<info lex="f"/>	<LEND>
+<L>25999<pc>149,2<k1>ārti<k2>ā́rti<e>2A	¦ sickness, <ls>AV.</ls>; <ls>VS.</ls>; <ls>KātyŚr.</ls>; <ls>R.</ls>; <ls>Megh.</ls> &c.<info lex="inh"/>	<LEND>
+<L>26001<pc>149,2<k1>ārtimat<k2>ā́rti—mat<e>3	<s>ā́rti—mat</s> 	¦ <lex>mfn.</lex> having or suffering pain, <ls>Suśr.</ls><info lex="m:f:n"/>	<LEND>
+<L>26002<pc>149,2<k1>ārtimat<k2>ā́rti—mat<e>3B	<s>ā́rti—mat</s> 	¦ <lex>m.</lex> a <s1 slp1="mantra">Mantra</s1> or spell (against snakes), <ls>MBh. i, 21, 88.</ls><info lex="m"/>	<LEND>
+<L>26003<pc>149,2<k1>ārtihan<k2>ā́rti—han<e>3	<s>ā́rti—han</s> 	¦ <lex>mfn.</lex> destroying pain.<info or="26003,Artihan;26004,Artihara"/><info lex="m:f:n"/>	<LEND>
+<L>26004<pc>149,2<k1>ārtihara<k2>ā́rti—hara<e>3	<s>ā́rti—hara</s> 	¦ <lex>mfn.</lex> destroying pain.<info or="26003,Artihan;26004,Artihara"/><info lex="m:f:n"/>	<LEND>
+;; the <h>1 to be removed in the metaline and the accent change in ārti to be marked in these lines.
+;; could not get what this 2. in the revision text is about. 
+;; can a different mind/eye guess what is indicated here?
+;; END
+
+;; BEGIN
+;; The entry "ā́rbhava" is missed
+R(1320,1) ārpayitṛ́, ā́rbhava (ŚBr.)
+<L>26529<pc>152,2<k1>ārpayitṛ<k2>ārpayitṛ<h>b<e>1	<s>ā<srs/>rpayitṛ</s> <hom>b</hom> 	¦ See <hom>2.</hom> <s>ār</s> (<s>ā-√ ṛ</s>). 	<LEND>
+<L>26529.1<pc>1320,1<k1>ārpayitṛ<k2>ārpayitṛ́<e>1A	¦ <info n="sup"/>	<LEND>
+<L>26531<pc>152,2<k1>ārbhava<k2>ārbhava<e>1	<s>ārbhava</s> 	¦ <lex>mf(<s>ī</s>)n.</lex> (<ab>fr.</ab> <s>ṛbhu</s>), belonging or sacred to the <s1 slp1="fBu">Ṛbhu</s1>s, <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>AitBr.</ls>; <ls>Lāṭy.</ls><info lex="m:f#I:n"/>	<LEND>
+<L>26532<pc>152,2<k1>ārbhava<k2>ārbhava<e>1B	<s>ārbhava</s> 	¦ <lex>m.</lex> <ab>N.</ab> of a Vedic <s1 slp1="fzi">Ṛṣi</s1>.<info lex="m"/>	<LEND>
+;; HW accent to be revised in these entries.
+;; END
+
+;; BEGIN
+;; The entry "ārṣeyavát" missed
+R(1320,1) -vát (ŚBr.); comp. word header "ārṣeya (in comp.)" [no accent]
+<L>26643<pc>153,1<k1>ārṣeyavat<k2>ārṣeyá—vat<e>3	<s>ārṣeyá—vat</s> 	¦ <lex>mfn.</lex> connected with sacred descent, <ls>ŚBr.</ls><info lex="m:f:n"/>	<LEND>
+;; HW accent to be revised here.
+;; END
+
+;; BEGIN
+;; The entry "āvyuṣám" is missed
+R(1320,2) ā-vyu-ṣám (AV.)
+<L>27341<pc>156,3<k1>āvyuṣam<k2>ā-vyuṣam<e>1	<s>ā-vyuṣam</s> 	¦ <lex>ind.</lex> till the dawn, <ls>AV. iv, 5, 7.</ls><info lex="ind"/>	<LEND>
+;; HW accent to be revised here.
+;; END
+
+;; BEGIN
+;; The entries "itarátas" and "itaráthā" are missed
+R(1320,3) itarátas, °ráthā (ŚBr.)
+<L>28726<pc>164,3<k1>itaratas<k2>í-tara—tas<e>3	<s>í-tara—tas</s> 	¦ <lex>ind.</lex> otherwise than, different from<info lex="ind"/>	<LEND>
+<L>28726.1<pc>164,3<k1>itaratas<k2>í-tara—tas<e>3A	¦ from or to another direction, <ls>KātyŚr.</ls>; <ls>ŚBr.</ls> &c.<info lex="inh"/>	<LEND>
+<L>28726.2<pc>164,3<k1>itaratas<k2>í-tara—tas<e>3A	¦ (<s>itaśce<srs/>tarataśca</s>, hither and thither, <ls>R.</ls>)<info lex="inh"/>	<LEND>
+<L>28728<pc>164,3<k1>itarathā<k2>í-tara—thā<e>3	<s>í-tara—thā</s> 	¦ <lex>ind.</lex> in another manner, in a contrary manner<info lex="ind"/>	<LEND>
+<L>28728.1<pc>164,3<k1>itarathā<k2>í-tara—thā<e>3A	¦ perversely<info lex="inh"/>	<LEND>
+<L>28728.2<pc>164,3<k1>itarathā<k2>í-tara—thā<e>3A	¦ on the other hand, else, <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>Śiś.</ls> &c.<info lex="inh"/>	<LEND>
+;; HW accent to be revised in these entries.
+;; END
+
+;; BEGIN
+;; The entry "itihâsá" is missed
+R(1320,3) itihâsá (ŚBr.)
+<L>28773.1<pc>1320,3<k1>itihāsa<k2>iti—hāsa<h>a<e>3	<s>iti—hā<srs/>sa</s> <hom>a</hom> 	¦ see below<info n="sup"/>	<LEND>
+;; HW accent to be revised here.
+;; END
+
+;; BEGIN
+;; The entry "ibhanimīlikā" is missed
+R(1321,1) -nimīlikā (for the meaning given read ‘= gaja-n°’)
+<L>29309<pc>167,3<k1>ibhanimīlikā<k2>ibha—nimīlikā<e>3	<s>ibha—nimīlikā</s> 	¦ <lex>f.</lex> smartness, shrewdness, sagacity (like that of an elephant), <ls>L.</ls><info lex="f"/>	<LEND>
+;; The mentioned text is to be inserted somewhere in the entry.
+;; END
+
+;; BEGIN
+;; The entry "ukṣa-vaśá" is missed
+R(1321,2) ukṣa-vaśá (TS.)
+<L>30092<pc>172,2<k1>ukṣavaśa<k2>ukṣá—vaśa<e>3	<s>ukṣá—vaśa</s> 	¦ <lex>m.</lex> <ab>sg.</ab> and <ab>du.</ab> a bull and a barren cow, <ls>TS.</ls>; <ls>ŚBr.</ls><info lex="m"/>	<LEND>
+;; HW accent to be revised here.
+;; END
+
+;; BEGIN
+;; The entry "uttara-vayasá" is missed
+R(1321,3) -vayasá (ŚBr.); comp. word header "uttara (in comp.)" [no accent]
+<L>31274<pc>178,3<k1>uttaravayasa<k2>úttara—vayasa<e>3	<s>úttara—vayasa</s> 	¦ <lex>n.</lex> the latter or declining years of life, <ls>ŚBr.</ls><info lex="n"/>	<LEND>
+;; HW accent to be revised here.
+;; END
+
+;; BEGIN
+;; The entry "uttarârdhá-pūrvârdha" is missed
+R(1321,3) °rârdhá-pūrvârdha (ŚBr.)
+<L>31321<pc>178,3<k1>uttarārdhapūrvārdha<k2>uttarārdhá—pūrvārdha<e>4	<s>uttarā<srs/>rdhá—pūrvā<srs/>rdha</s> 	¦ <lex>n.</lex> the eastern part of the northern side (of the fire), <ls>ŚBr.</ls>; <ls>HirGṛ.</ls><info lex="n"/>	<LEND>
+;; could not get what this revision text is about. 
+;; can a different mind/eye guess what is indicated here?
+;; END
+
+;; BEGIN
+;; The entry "ún-nīta—śikha" is missed; but it is not clear what is meant in this. No difference noticed with the main text.
+R(1322,1) ún-nīta—śikha (Suparṇ.)
+<L>33858<pc>193,2<k1>unnītaśikha<k2>ún-nīta—śikha<e>3	<s>ún-nīta—śikha</s> 	¦ <lex>mfn.</lex> having the locks of hair parted upwards (from the forehead), <ls>Suparṇ.</ls><info lex="m:f:n"/>	<LEND>
+;; could not get what this revision text is about. 
+;; can a different mind/eye guess what is indicated here?
+;; END
+
+;; BEGIN
+;; The entry "úpaveśi" is missed.
+R(1322,2) úpa-veśi (ŚBr.)
+<L>35815<pc>207,1<k1>upaveśi<k2>upa-veśi<e>2	<s>upa-veśi</s> 	¦ <lex>m.</lex> <ab>N.</ab> of a <s1 slp1="fzi">Ṛṣi</s1>, <ls>ŚBr. xiv, 9, 4, 33.</ls><info lex="m"/>	<LEND>
+;; HW accent to be revised here.
+;; END
+
+;; BEGIN
+;; The entry "urváśī" is missed
+R(1322,2) urváśī (RV.)
+<L>37424<pc>218,2<k1>urvaśī<k2>urvaśī<e>1	<s>urvaśī</s> 	¦ <lex>f.</lex> (<ab>fr.</ab> <s>uru</s> and √ <hom>1.</hom> <s>aś</s>, ‘to pervade’, see <ls>M.M., Chips, vol. ii, p.99</ls>), ‘widely extending’, <ab>N.</ab> of the dawn (personified as an <s1 slp1="apsaras">Apsaras</s1> or heavenly nymph who became the wife of <s1 slp1="purU-ravas">Purū-ravas</s1>), <ls>RV.</ls>; <ls>AV. xviii, 3, 23</ls>; <ls>VS.</ls>; <ls>ŚBr.</ls>; <ls>Vikr.</ls> &c.<info lex="f"/>	<LEND>
+<L>37425<pc>218,2<k1>urvaśī<k2>urvaśī<e>1A	¦ <ab>N.</ab> of a river, <ls>MBh. xii.</ls><info lex="inh"/>	<LEND>
+<L>37426<pc>218,2<k1>urvaśītīrtha<k2>urvaśī—tīrtha<e>3	<s>urvaśī—tīrtha</s> 	¦ <lex>n.</lex> <ab>N.</ab> of a <s1 slp1="tIrTa">Tīrtha</s1>, <ls>MBh.</ls><info lex="n"/>	<LEND>
+<L>37427<pc>218,2<k1>urvaśīnāmamālā<k2>urvaśī—nāma-mālā<e>3	<s>urvaśī—nāma-mālā</s> 	¦ <lex>f.</lex> <ab>N.</ab> of a lexicon by an anonymous author.<info lex="f"/>	<LEND>
+<L>37428<pc>218,2<k1>urvaśīramaṇa<k2>urvaśī—ramaṇa<e>3	<s>urvaśī—ramaṇa</s> 	¦ <lex>m.</lex> ‘beloved by <s1 slp1="urvaSI">Urvaśī</s1>’, <ab>N.</ab> of <s1 slp1="purU-ravas">Purū-ravas</s1>, <ls>L.</ls><info and="37428,urvaSIramaRa;37429,urvaSIvallaBa"/><info lex="m"/>	<LEND>
+<L>37429<pc>218,2<k1>urvaśīvallabha<k2>urvaśī—vallabha<e>3	<s>urvaśī—vallabha</s> 	¦ <lex>m.</lex> ‘beloved by <s1 slp1="urvaSI">Urvaśī</s1>’, <ab>N.</ab> of <s1 slp1="purU-ravas">Purū-ravas</s1>, <ls>L.</ls><info and="37428,urvaSIramaRa;37429,urvaSIvallaBa"/><info lex="m"/>	<LEND>
+<L>37430<pc>218,2<k1>urvaśīsahāya<k2>urvaśī—sahāya<e>3	<s>urvaśī—sahāya</s> 	¦ <lex>m.</lex> ‘<s1 slp1="urvaSI">Urvaśī</s1>'s companion’, <ab>N.</ab> of <s1 slp1="purU-ravas">Purū-ravas</s1>, <ls>L.</ls><info lex="m"/>	<LEND>
+;; HW accent to be revised in these entries.
+;; END
+
+;; BEGIN
+;; The entry "úṣ [2]" is missed
+R(1322,3) 2. úṣ (RV.)
+<L>37689<pc>220,1<k1>uṣ<k2>uṣ<h>2<e>2	<hom>2.</hom> <s>uṣ</s> 	¦ <lex>f.</lex> (only <s>ás</s> <ab>gen.</ab> sg.) early morning, dawn, <ls>RV.</ls>; <ls>AV. xvi, 6, 6</ls><info lex="f"/>	<LEND>
+<L>37690<pc>220,1<k1>uṣ<k2>uṣ<e>2A	¦ <ab>pl.</ab> (<s>uṣás tisráḥ</s> morning, midday, and evening, <ls>RV.; viii, 41, 3.</ls>)<info lex="inh"/>	<LEND>
+;; HW accent to be revised in these entries.
+;; END
+
+;; BEGIN
+;; The entry "ṛtavyà-vat" is missed
+R(1323,1) ṛtavyà-vat (RV.)
+<L>38510<pc>224,1<k1>ṛtavya<k2>ṛtavyâ<e>2	<s>ṛtavyâ</s> 	¦ <lex>mfn.</lex> (<ab>fr.</ab> <s>ṛtú</s> below), relating or devoted to the seasons, <ls>Pāṇ. 4-2, 31</ls><info lex="m:f:n"/>	<LEND>
+<L>38511<pc>224,1<k1>ṛtavyā<k2>ṛtavyā́<e>2B	<s>ṛtavyā́</s> 	¦ <lex>f.</lex> (scil <s>iṣṭakā</s>), <ab>N.</ab> of particular sacrificial bricks, <ls>TS.</ls>; <ls>ŚBr.</ls>; <ls>KātyŚr.</ls> &c.<info lex="f"/>	<LEND>
+<L>38512<pc>224,1<k1>ṛtavyavat<k2>ṛtavyâ—vat<e>3	<s>ṛtavyâ—vat</s> 	¦ <lex>mfn.</lex> furnished with the above bricks, <ls>ŚBr. x.</ls><info lex="m:f:n"/>	<LEND>
+;; HW accent to be revised in these entries. And the long vowel â to be corrected as small letter a.
+;; This has indicated another inconsistency in the data: over 100 occurances of â inside <k2> tag, which should've been something like ā<srs>.
+;; how many such other issues Jim could guess?
+;; END
+
+;; BEGIN
+;; The entry "ṛṣvá-vīra" is missed
+R(1323,1) ṛṣvá-vīra (RV.)
+<L>39131<pc>227,2<k1>ṛṣvavīra<k2>ṛṣvá—vīra<e>3	<s>ṛṣvá—vīra</s> 	¦ <lex>mfn.</lex> inhabited by sublime heroes (as the sky), <ls>RV. i, 52, 13.</ls><info lex="m:f:n"/>	<LEND>
+;; HW accent to be revised here.
+;; END
+
+;; BEGIN
+;; The entry "evāvadá" is missed
+R(1323,2) evāvadá (RV.)
+<L>40240<pc>232,3<k1>evāvada<k2>evāvada<e>1	<s>evāvada</s> 	¦ <lex>m.</lex> (<ab>fr.</ab> <hom>1.</hom> <s>eva</s> and <s>ā-√ vad</s>, <ls>T.</ls> ?), <ab>N.</ab> of a <s1 slp1="fzi">Ṛṣi</s1> ([<ls>Sāy.</ls>]), <ls>RV. v, 44, 10.</ls><info lex="m"/>	<LEND>
+;; HW accent to be revised here.
+;; END
+
+;; BEGIN
+;; The entry "Êṣyà" is missed
+R(1323,2) Êṣyà (AV.)
+<L>40249<pc>233,1<k1>eṣya<k2>eṣya<h>1<e>2	<hom>1.</hom> <s>e<srs/>ṣya</s> 	¦ <lex>mfn.</lex> (See the last) to be striven after, to be sought for, <ls>AV. xii, 2, 39; 4, 16</ls>; <ls>TāṇḍyaBr.</ls><info lex="m:f:n"/>	<LEND>
+;; HW accent to be revised here.
+;; END
+
+;; BEGIN
+;; The entry "okivás" is missed
+R(1323,2) okivás (RV.)
+<L>40598<pc>235,1<k1>okivas<k2>okivas<e>2	<s>okivas</s> 	¦ <lex>mfn.</lex> (<ab>irr.</ab> <ab>p.p.</ab> <ab>P.</ab> of √ <s>uc</s>) accustomed to, used to, having a liking for, <ls>RV. vi, 59, 3.</ls><info lex="m:f:n"/>	<LEND>
+;; HW accent to be revised here.
+;; END
+
+;; BEGIN
+;; The entry "ódatī" is missed
+R(1323,2) ódatī (others, ‘lustful, wanton’)
+<L>40677<pc>235,3<k1>odatī<k2>ódatī<e>1	<s>ódatī</s> 	¦ <lex>f.</lex> (<ab>pres.</ab> <ab>p.</ab> of √ <s>ud</s>) ‘sprinkling or refreshing’, <ab>N.</ab> of <s1 slp1="uzas">Uṣas</s1> or the dawn, <ls>RV. i, 48, 6; viii, 69, 2.</ls><info lex="f"/>	<LEND>
+;; The addl. matter to be added to the entry.
+;; END
+
+;; BEGIN
+;; The entry "ốpya" is missed
+R(1323,2) ốpya (ŚBr.)
+<L>40703<pc>235,3<k1>opya<k2>opya<e>1	<s>o<srs/>pya</s> 	¦ (<s>ā-upya</s>) <ab>ind.p.</ab> of <s>ā-√ vap</s> (<ab>q.v.</ab>), having scattered or thrown into, pouring down, <ls>ŚBr.</ls>; <ls>ĀśvGṛ.</ls> &c.	<LEND>
+;; HW accent to be revised here.
+;; END
+
+;; BEGIN
+;; The entry "aupāsaná" is missed
+R(1323,2) aupāsaná (ŚBr.)
+<L>41149<pc>239,2<k1>aupāsana<k2>aupāsana<e>1	<s>aupāsana</s> 	¦ <lex>m.</lex> (<ab>scil.</ab> <s>agni</s>), (<ab>fr.</ab> <s>upā<srs/>sana</s>), the fire used for domestic worship, <ls>ŚBr. xii</ls>; <ls>KātyŚr.</ls>; <ls>PārGṛ.</ls> &c.<info lex="m"/>	<LEND>
+<L>41150<pc>239,2<k1>aupāsana<k2>aupāsana<e>1A	¦ (<ab>scil.</ab> <s>piṇḍa</s>) a small cake offered to the Manes, <ls>ŚāṅkhBr.</ls> and, <ls>ŚāṅkhŚr.</ls><info lex="inh"/>	<LEND>
+<L>41151<pc>239,2<k1>aupāsana<k2>aupāsana<e>1B	<s>aupāsana</s> 	¦ <lex>mf(<s>ā</s>)n.</lex> relating to or performed at an <s1 slp1="OpAsana">Aupāsana</s1> fire (as the evening and morning oblations), <ls>Yājñ. iii, 17</ls>; <ls>HirGṛ.</ls><info lex="m:f#A:n"/>	<LEND>
+;; HW accent to be revised in these entries.
+;; END
+
+;; BEGIN
+;; The entry "aúrva [1]" is missed
+R(1323,2) 1. aúrva (RV.)
+<L>41226<pc>239,3<k1>aurva<k2>aurva<h>1<e>1	<hom>1.</hom> <s>aurva</s> 	¦ <lex>m.</lex> a descendant of <s1 slp1="Urva">Ūrva</s1>, <ab>N.</ab> of a <s1 slp1="fzi">Ṛṣi</s1>, <ls>RV. viii, 102, 4</ls>; <ls>TS. vii</ls>; <ls>AitBr.</ls>; <ls>MBh.</ls> &c.<info lex="m"/>	<LEND>
+<L>41227<pc>239,3<k1>aurva<k2>aurva<e>1A	¦ (in later mythology he is called <s1 slp1="Orva">Aurva</s1> <s1 slp1="BArgava">Bhārgava</s1> as son of <s1 slp1="cyavana">Cyavana</s1> and grandson of <s1 slp1="Bfgu">Bhṛgu</s1>;$he is the subject of a legend told in <ls>MBh. i, 6802</ls>;$there it is said that the sons of <s1 slp1="kftavIrya">Kṛtavīrya</s1>, wishing to destroy the descendants of <s1 slp1="Bfgu">Bhṛgu</s1> in order to recover the wealth left them by their father, slew even the children in the womb;$one of the women of the family of <s1 slp1="Bfgu">Bhṛgu</s1>, in order to preserve her embryo, secreted it in her thigh [<s>ūru</s>], whence the child at its birth was named <s1 slp1="Orva">Aurva</s1>;$on beholding whom, the sons of <s1 slp1="kftavIrya">Kṛtavīrya</s1> were struck with blindness, and from whose wrath proceeded a flame that threatened to destroy the world, had not <s1 slp1="Orva">Aurva</s1> at the persuasion of the <s1 slp1="BArgava">Bhārgava</s1>s cast it into the ocean, where it remained concealed, and having the face of a horse;$<s1 slp1="Orva">Aurva</s1> was afterwards preceptor to <s1 slp1="sagara">Sagara</s1> and gave him the <s1 slp1="AgneyAstram">Āgneyâstram</s1>, with which he conquered the barbarians who invaded his possessions;$<ab>cf.</ab> <s>vaḍavā-mukha</s>, <s>vaḍavā<srs/>gni</s>)<info lex="inh"/>	<LEND>
+<L>41228<pc>239,3<k1>aurva<k2>aurva<e>1A	¦ <ab>N.</ab> of a son of <s1 slp1="vasizWa">Vasiṣṭha</s1>, <ls>Hariv.</ls><info lex="inh"/>	<LEND>
+<L>41229<pc>239,3<k1>aurva<k2>aurva<e>1B	<s>aurva</s> 	¦ <lex>m. <ab>pl.</ab></lex> <ab>N.</ab> of a class of <s1 slp1="pitf">Pitṛ</s1>s, <ls>TāṇḍyaBr.</ls>; <ls>Lāṭy.</ls><info lex="m"/>	<LEND>
+<L>41230<pc>239,3<k1>aurvī<k2>aurvī<e>1B	<s>aurvī</s> 	¦ <lex>f.</lex> a female descendant of <s1 slp1="Urva">Ūrva</s1>, <ls>Kāś.</ls> on <ls>Pāṇ. 4-1, 73</ls><info lex="f"/>	<LEND>
+<L>41231<pc>239,3<k1>aurva<k2>aurva<e>1B	<s>aurva</s> 	¦ <lex>mfn.</lex> produced by or relating to the <s1 slp1="fzi">Ṛṣi</s1> <s1 slp1="Orva">Aurva</s1>, <ls>MBh. i, 387,</ls> &c.<info lex="m:f:n"/>	<LEND>
+<L>41232<pc>239,3<k1>aurva<k2>aurva<e>1B	<s>aurva</s> 	¦ <lex>m.</lex> the submarine fire (cast into the ocean by <s1 slp1="Orva">Aurva</s1> <s1 slp1="BArgava">Bhārgava</s1> <ab>cf.</ab> above). <info lex="m"/>	<LEND>
+;; HW accent to be revised in these entries.
+;; END
+
+;; BEGIN
+;; The entry "kakā́tika" is missed
+R(1323,3) kakā́tika (AV.)
+<L>41412<pc>241,1<k1>kakāṭikā<k2>kakāṭikā<e>1	<s>kakāṭikā</s> 	¦ <lex>f.</lex> a particular part of the frontal bone, <ls>AV. x, 2, 8</ls><info lex="f"/>	<LEND>
+<L>41413<pc>241,1<k1>kakāṭikā<k2>kakāṭikā<e>1A	¦ the back of the neck, <ls>T.</ls> (<ab>cf.</ab> <s>kṛkāṭikā</s>.)<info lex="inh"/>	<LEND>
+;; HW accent to be revised in these entries. also the ending long vowel ā to be changed to a short letter a.
+;; END
+
+;; BEGIN
+;; The entry "katarátas" is missed
+R(1323,3) katarátas (ŚBr.)
+<L>42654<pc>246,3<k1>kataratas<k2>katará—tas<e>3	<s>katará—tas</s> 	¦ <lex>ind.</lex> on which of the two sides? <ls>ŚBr. vi.</ls><info lex="ind"/>	<LEND>
+;; could not get what this revision text is about. 
+;; can a different mind/eye guess what is indicated here?
+;; END
+
+;; BEGIN
+;; The entry "kapanā́" is missed
+R(1323,3) kapanā́ (RV.)
+<L>43347<pc>250,1<k1>kapanā<k2>kapanā<e>1	<s>kapanā</s> 	¦ <lex>f.</lex> (√ <s>kamp</s>, <ls>Nir. vi, 4</ls>), a worm, caterpillar, <ls>RV. v, 54, 6</ls><info lex="f"/>	<LEND>
+<L>43348<pc>250,1<k1>kapanā<k2>kapanā<e>1A	¦ ([<ab>cf.</ab> <lang n="greek">κάμπη</lang>.])<info lex="inh"/>	<LEND>
+;; HW accent to be revised in these entries.
+;; END
+
+;; BEGIN
+;; The entry "kavya" is missed
+R(1324,2) 1. kavya (erase 1)
+<L>46610<pc>264,3<k1>kavya<k2>kavyá<h>1<e>2	<hom>1.</hom> <s>kavyá</s> 	¦ <lex>mfn.</lex> (= <s>kavi</s>, <ls>Kāś.</ls> on <ls>Pāṇ. 5-4, 30</ls>) wise, <ls>RV. x, 15, 9</ls> (at, <ls>VS. xxii, 2</ls> read <s>kavyā́ḥ</s>)<info lex="m:f:n"/>	<LEND>
+<L>46611<pc>264,3<k1>kavya<k2>kavyá<e>2A	¦ a sacrificer, sacrificial priest, <ls>RV. ix, 91, 2</ls><info lex="inh"/>	<LEND>
+<L>46612<pc>264,3<k1>kavya<k2>kavyá<e>2A	¦ <ab>N.</ab> of a class of deities associated with <s1 slp1="aNgiras">Aṅgiras</s1> and <s1 slp1="fkvan">Ṛkvan</s1> ([<ls>Gmn.</ls>; a class of manes]), <ls>RV. x, 14, 3</ls>; <ls>AV.</ls><info lex="inh"/>	<LEND>
+<L>46613<pc>264,3<k1>kavya<k2>kavyá<e>2A	¦ <ab>N.</ab> of one of the seven sages of the fourth <s1 slp1="manv-antara">Manv-antara</s1>, <ls>Hariv.</ls><info lex="inh"/>	<LEND>
+<L>46614<pc>264,3<k1>kavya<k2>kavyá<e>2B	<s>kavyá</s> 	¦ <lex>n.</lex> (generally in connection with <s>havya</s> See <s>havya-kavya</s>) ‘what must be offered to the wise’, an oblation of food to deceased ancestors, <ls>MBh.</ls>; <ls>Mn.</ls><info lex="n"/>	<LEND>
+;; HW accent to be revised in these entries. and the <h>1 to be deleted in L-46610.
+;; All the comp. words (46615-46624) under this erstwhile "1. kavya" should also need to have accent correction done.
+;; END
+
+;; BEGIN
+;; The entry "kā́raka" is missed
+R(1324,2) 1. kā́raka (erase accent)
+<L>48515<pc>274,2<k1>kāraka<k2>kā́raka<h>1<e>2	<hom>1.</hom> <s>kā́raka</s> 	¦ <lex>mf(<s>ikā</s>)n.</lex> (generally <ab>ifc.</ab>) making, doing, acting, who or what does or produces or creates, <ls>MBh.</ls> &c. (<ab>cf.</ab> <s>siṃha-k°</s>, <s>kṛtsna-k°</s>, <s>śilpa-k</s>)<info lex="m:f#ikA:n"/>	<LEND>
+<L>48516<pc>274,2<k1>kāraka<k2>kā́raka<e>2A	¦ intending to act or do, <ls>Pāṇ. 2-3, 70 <ab>Sch.</ab></ls><info lex="inh"/>	<LEND>
+<L>48517<pc>274,2<k1>kāraka<k2>kā́raka<e>2B	<s>kā́raka</s> 	¦ <lex>n.</lex> ‘instrumental in bringing about the action denoted by a verb (= <s>kriyā-hetu</s> or <s>-nimitta</s>)’, the notion of a case (but not co-extensive with the term case; there are six such relations <ab>accord.</ab> to <ls>Pāṇ., <ab>viz.</ab></ls> <s>karman</s>, <s>karaṇa</s>, <s>kartṛ</s>, <s>sampradāna</s>, <s>apā<srs/>dāna</s>, <s>adhikaraṇa</s>, <ab>qq.vv.</ab> The idea of the genitive case is not considered a <s>kāraka</s>, because it ordinarily expresses the relation of two nouns to each other, but not the relation of a noun and verb). <info lex="n"/>	<LEND>
+;; HW accent to be revised in these entries.
+;; END
+
+;; BEGIN
+;; The entry "kāśyapī-bālākya-māṭharī-pútra" is missed; the "xiv" after ŚBr. to be removed?
+R(1324,3) kāśyapī-bālākya-māṭharī-pútra (ŚBr.)
+<L>49975<pc>281,1<k1>kāśyapībālākyāmāṭharīputra<k2>kāśyapī—bālākyā-māṭharī-pútra<e>3	<s>kāśyapī—bālākyā-māṭharī-pútra</s> 	¦ <lex>m.</lex> <ab>N.</ab> of a teacher, <ls>ŚBr. xiv.</ls><info lex="m"/>	<LEND>
+;; could not get the purpose of the entry.
+;; can a different mind/eye guess what is indicated here?
+;; END
+
+;; BEGIN
+;; The entry "kurvāṇá" is missed
+R(1325,1) kurvát, °vāṇá (AV.)
+<L>52803<pc>294,2<k1>kurvat<k2>kurvat<e>1	<s>kurvat</s> 	¦ <lex>mfn.</lex> (<ab>pr. p.</ab> <ab>P.</ab>, √ <hom>1.</hom> <s>kṛ</s>) doing, acting, &c.<info lex="m:f:n"/>	<LEND>
+<L>52804<pc>294,2<k1>kurvat<k2>kurvat<e>1A	¦ acting as a servant, agent, servant, <ls>L.</ls><info lex="inh"/>	<LEND>
+<L>52805<pc>294,2<k1>kurvat<k2>kurvat<e>1A	¦ present, actual, <ls>AitBr. iv, 31, 3.</ls><info lex="inh"/>	<LEND>
+<L>52805.1<pc>1325,1<k1>kurvat<k2>kurvát<e>1A	¦ = <s>kula</s> (in <ab>comp.</ab>)<info n="sup"/>	<LEND>
+;; Wonder how one could see the = in the annexure page and assign the same to kurvat, as done here!!
+;; The intent of the entry there (kurvát) indicates accent change and addition of (AV.) ref.
+:: L-52805.1 is to be deleted and the other 3 entries (52803-52805) should have the accent change marked as indicated.
+;; Probably (AV.) ref. could be added at L-52803
+<L>52807<pc>294,2<k1>kurvāṇa<k2>kurvāṇa<e>2	<s>kurvāṇa</s> 	¦ <lex>mfn.</lex> (<ab>pr. p.</ab> <ab>Ā.</ab>) doing, making<info lex="m:f:n"/>	<LEND>
+<L>52808<pc>294,2<k1>kurvāṇa<k2>kurvāṇa<e>2A	¦ acting as a servant, agent, <ls>L.</ls><info lex="inh"/>	<LEND>
+;; The above 2 entries are to be marked the change in HW accent, as indicated.
+;; Probably (AV.) ref. could be added at L-52807
+;; END
+
+;; BEGIN
+;; The entry "kṛ́ttikâñji" is missed
+R(1325,2) kṛ́ttikâñji (ŚBr.)
+<L>54798<pc>304,3<k1>kṛttikāñji<k2>kṛ́ttikāñji<e>3	<s>kṛ́ttikā<srs/>ñji</s> 	¦ (<s>°kā<srs/>ñ</s>) <lex>mfn.</lex> having white spots, <ls>ŚBr. xiii, 4, 2, 4</ls>; <ls>KātyŚr.</ls><info lex="m:f:n"/>	<LEND>
+;; The main text already has the accent and the (ŚBr.) ref.
+;; What could be the reason for this to be mentioned at annexure? - to remove further internal no.s at ŚBr.?
+;; END
+
+;; BEGIN
+;; The entry "kṣáya [1]" is missed
+R(1325,3) 1. kṣáya (RV.)
+<L>59267<pc>327,3<k1>kṣaya<k2>kṣaya<h>1<e>2	<hom>1.</hom> <s>kṣaya</s> 	¦ <lex>m.</lex> ‘dominion’ <ls>Sāy.</ls> (on, <ls>RV. vii, 46, 2</ls>). <info lex="m"/>	<LEND>
+;; HW accent to be revised here; (RV.) ref. is already present.
+;; END
+
+;; BEGIN
+;; The entry "gopācala" is missed, to be grouped with "gopādri" below.
+;; is this a correction or additional meaning? (The references are differently given in the main text and annexure.)
+;; [At "gopādri", it is treated as additional entry in the present digitization]
+A(1326,3) -pâcala or -pâdri, m. N. of Gwalior, Inscr.; comp. word header "go (in comp.)" [no accent]
+<L>67229.1<pc>1326,3<k1>gopādri<k2>go—pādri<h>a<e>3	<s>go—pā<srs/>dri</s> <hom>a</hom> 	¦ <lex>m.</lex> <ab>N.</ab> of Gwalior, <ls>Inscr.</ls><info or="67903,gopAcala;67229.1,gopAdri"/><info n="sup"/><info lex="m"/>	<LEND>
+;;
+;; The following 9 lines are from "MW_IAST_Annexure_Entries_seq_rem_1.txt" file, reproduced as an immediate reference, to the earlier discussion with Jim [%% is AB's line and ; are Jim's lines].
+%% The entry "gopācala" is missed, to be grouped with "gopādri" below. is this a correction or additional meaning? (The references are differently given in the main text and annexure.) 
+[At "gopādri", it is treated as additional entry in the present digitization]
+; annexure: go: -pAcala or -pAdri, m. N. of Gwalior, Inscr.
+; <L>67903<pc>368,2<k1>gopAcala<k2>gopAcala<e>3	<s>gopA<srs/>cala</s> ¦  <lex>m.</lex> ‘cowherd-mountain’ = <s>gopAla-giri</s>, <ls>Uttamac. 2 602.</ls><info or="67903,gopAcala;67229.1,gopAdri"/><info lex="m"/>
+; <L>67906<pc>368,2<k1>gopAdri<k2>gopAdri<h>b<e>3	<s>gopA<srs/>dri</s> <hom>b</hom> ¦ <lex>m.</lex> = <s>°pA<srs/>cala</s>, <ls>343.</ls><info lex="m"/>
+; Suggest:
+;  1) add 67903.1, gopAcala,  <ab>N.</ab> of Gwalior, <ls>Inscr.</ls>
+;  2) move 67229.1 gopAdri to 67906.1
+;  3) in 67903 and 67906 have or="67903,gopAcala;67906,gopAdri"/>;;
+;; Jim has very clearly got mis-tracked on the point.
+;; As this gopâcala entry is given under the "go-" comp. word header (in the annexure), it should be added as 67229.1 and marked "or grouped" with gopâdri the next entry.
+;; and the marking for present 67229.1 to be changed as 67229.2 
+;; L-67906 clearly indicates a supposed existence of gopâcala entry at p. 343 (which was missed originally and the mistake corrected through annexure pages, as indicating an insersion there).
+;; And then, the L-67903 should be "stripped off" the "or group" marking.
+;; Finally, these 4 entries (67229.1 & 67903 and 67229.2 & 67906) could be added the <hom>a, <hom>b markings appropriately.
+;; [This <hom> marking answers my query in the beginning lines- is this a correction or additional meaning? (The references are differently given in the main text and annexure.)]
+;; END
+
+;; BEGIN
+;; The entry "calâtman" is missed
+R(1327,1) calâtman, mfn. fickle-minded, ib.
+<L>72625<pc>391,2<k1>calātman<k2>calātman<e>3	<s>calā<srs/>tman</s> 	¦ <lex>mfn.</lex> fickle-minded, <ls>R. iv, 55, 7.</ls><info lex="m:f:n"/>	<LEND>
+;; The <ls> matter needs revision here.
+;; The revised entry would be as under-
+;; <Ls>72625<pc>391,2<k1>calātman<k2>calātman<e>3	<s>calā<srs/>tman</s> 	¦ <lex>mfn.</lex> fickle-minded, <ls>ib.</ls><info n="rev" pc="1327,1"/><info lex="m:f:n"/>	<LEND>
+;; END
+
+;; BEGIN
+;; The entry "caudrāyaṇa" is missed. The intent is not clear enough.
+A(1327,2) caudrāyaṇa &c. (erase and cf. audr°, p. 1323)
+<L>41003.1<pc>1323,2<k1>audrāyaṇa<k2>audrāyaṇa<e>1	<s>audrāyaṇa</s> 	¦ <lex>m.</lex> (for <ns>Prākṛt</ns> <s>uddāyan-a</s>) <ab>N.</ab> of a prince, <ls>HPariś. xiii, 1.</ls> <info n="sup"/><info lex="m"/>	<LEND>
+<L>75185<pc>403,1<k1>caudrāyaṇa<k2>caudrāyaṇa<e>1	<s>caudrāyaṇa</s> 	¦ <lex>m.</lex> <ab>N.</ab> of a prince of <s1 slp1="daSa-pura">Daśa-pura</s1>, <ls>HPariś. viii, 1</ls><info lex="m"/>	<LEND>
+<L>41003.1<pc>1323,2<k1>audrāyaṇa<k2>audrāyaṇa<e>1	<s>audrāyaṇa</s> 	¦ <lex>m.</lex> (for <ns>Prākṛt</ns> <s>uddāyan-a</s>) <ab>N.</ab> of a prince, <ls>HPariś. xiii, 1.</ls> <info n="sup"/><info lex="m"/>	<LEND>
+;; The L-75185 matter has to be erased and cf. audr°, p. 1323 to be placed there as indicated.
+;; END
+
+;; BEGIN
+;; The entry "dityaváh" is missed
+A(1328,3) ditya-váh (VS.)
+<L>92074<pc>477,3<k1>dityavah<k2>ditya-vah<e>1	<s>ditya-vah</s> 	¦ <lex>m.</lex> (in strong cases <s>°vāh</s> <ab>nom.</ab> <s>°vāṭ</s>; <ab>instr.</ab> <s>dityauhā</s>)<info lex="m"/>	<LEND>
+<L>92075<pc>477,3<k1>dityavah<k2>ditya-vah<e>1B	<s>ditya-vah</s> 	¦ <lex>f.</lex> <s>°tyauhī</s> (<ls>Pāṇ. 3-2, 64; 6-4, 132</ls>; <ls>Kāś.</ls>) a two-year-old steer or cow, <ls>VS.</ls>; <ls>TS.</ls> (<ab>prob.</ab> from <s>ditya</s> = <s>dvitīya</s> + <s>vah</s> <ab>cf.</ab> <s>turya-vah</s>.)<info lex="f"/>	<LEND>
+;; HW accent to be revised in these entries.
+;; END
+
+;; BEGIN
+;; The entry "niṣ-ṣapín" is missed
+A(1329,3) niṣ-ṣapín (RV.)
+<L>111030<pc>563,3<k1>niṣṣapin<k2>niṣ-ṣapin<e>1	<s>niṣ-ṣapin</s> 	¦ <lex>mfn.</lex> (<ab>fr.</ab> <s>nis + sapa</s> = <s>pasa</s>) libidinous, lustful, <ls>RV. i, 104, 5.</ls><info lex="m:f:n"/>	<LEND>
+;; HW accent to be revised here.
+;; END
+
+;; BEGIN
+;; The entry "pari-nir-mita" is missed
+A(1330,1) pari-nir-mita (p. 596, col. 2, read ‘-vaśa-vartin’ and ‘cf. para-nirmita-v°-v°’)
+<L>117823<pc>596,2<k1>parivaśavartin<k2>pari-vaśa-vartin<e>3	<s>pari-vaśa-vartin</s> 	¦ <lex>m. <ab>pl.</ab></lex> <ab>N.</ab> of a class of gods in <s1 slp1="indra">Indra</s1>'s world, <ls>Yogas. <ab>Sch.</ab></ls> (<ab>cf.</ab> <s>paranirmita v° v°</s>). <info lex="m"/>	<LEND>
+;; The original O(596,2) °vaśa-vartin is already present here as -vaśa-vartin, though without any any "rev" marking.
+;; probably the original typing itself is like this (an easy overlook)!
+;; The hyphens in para-nirmita-v°-v° are to be placed in the cf. matter at the end the entry is to be marked as <info n="rev" pc="1330,1"/>
+;; END
+
+;; BEGIN
+;; The entry "péṣṭra" is missed
+A(1330,2) péṣ-ṭra (AV.)
+<L>129063<pc>649,1<k1>peṣṭra<k2>peṣṭra<e>1	<s>peṣṭra</s> 	¦ <lex>n.</lex> (√ <s>piś</s>) a bone, <ls>AV.</ls><info lex="n"/>	<LEND>
+;; HW accent to be revised here.
+;; is the hyphen in anneure to be taken as a line-breaking caracter, or a genuine separator?;; END
+;; BEGIN
+;; The entry "bālin" is missed, but it is not clear what it meant.
+A(1331,1) bālin, see vālin.
+<L>144727<pc>729,2<k1>bālin<k2>bālin<e>2	<s>bālin</s> 	¦ See <s>vālin</s>.	<LEND>
+;; This is present at L-144727 as above.
+;; can a different mind/eye guess what is indicated by the annexure text?
+;; END
+
+;; BEGIN
+;; The entry "vṛtrahátha" is missed
+A(1332,2) vṛtra-hátha (RV.)
+<L>204032<pc>1007,3<k1>vṛtrahatha<k2>vṛtrá—hatha<e>3	<s>vṛtrá—hatha</s> 	¦ (<s>vṛtrá-</s>) <lex>m.</lex> <ab>id.</ab>, <ls>RV. iii, 16, 1.</ls><info lex="m"/>	<LEND>
+;; HW accent to be revised here.
+;; END
+
+;; BEGIN
+;; The entry "vrā́" is missed
+R(1332,2) vrā́ (accord. to some also, ‘a woman, esp. a wanton of lustful w°’)
+<L>210686.1<pc>1332,2<k1>vratopeta<k2>vra—topeta<e>3	<s>vra—°to<srs/>pe<srs/>ta</s>¦ <lex>mfn.</lex> one who has undertaken a religious vow, <ab>ib.</ab> <s>vrā́</s> (<ab>accord.</ab> to some also, ‘a woman, <ab>esp.</ab> a wanton or lustful w°oman’).<info n="sup"/><info lex="m:f:n"/>	<LEND>
+<L>210727<pc>1043,1<k1>vrā<k2>vrā́<e>1	<s>vrā́</s>	¦ <lex>f.</lex> (<ab>fr.</ab> √ <hom>1.</hom> <s>vṛ</s> <ab>accord.</ab> to some <ab>fr.</ab> a masc. stem <s>vra</s>) a heap, host, multitude (mostly <s>vrā́s</s>, <ab>pl.</ab>), <ls>RV.</ls> (<ls>Sāy. i, 121, 2,</ls>‘night’, ‘dawn’), <ls>AV.</ls><info lex="f"/>	<LEND>
+;; This is to be added to L-210727, but wrongly added to L-210686.1 at the tail-end.
+;; The entry L-210686.1 to be reverted back to original text as under-
+;; <Ls>210686.1<pc>1332,2<k1>vratopeta<k2>vra—topeta<e>3	<s>vra—°to<srs/>pe<srs/>ta</s>¦ <lex>mfn.</lex> one who has undertaken a religious vow, <ab>ib.</ab><info lex="m:f:n"/>	<LEND>
+;; The entry L-210727 to be revised as under-
+;; <Ls>210727<pc>1043,1<k1>vrā<k2>vrā́<e>1	<s>vrā́</s>	¦ <lex>f.</lex> (<ab>fr.</ab> √ <hom>1.</hom> <s>vṛ</s> <ab>accord.</ab> to some <ab>fr.</ab> a masc. stem <s>vra</s>) a heap, host, multitude (mostly <s>vrā́s</s>, <ab>pl.</ab>), <ls>RV.</ls> (<ls>Sāy. i, 121, 2,</ls>‘night’, ‘dawn’), <ls>AV.</ls>; (accord. to some also, ‘a woman, esp. a wanton of lustful w°’) <info n="rev" pc="1332,2"/><info lex="f"/>	<LEND>
+;; END
+
+;; BEGIN
+;; The entry "śyāvấśva-stuta" is missed
+A(1332,3) śyāvấśva-stuta (RV.)
+<L>222237<pc>1095,1<k1>śyāvāśvastuta<k2>śyāvā́śvá—stuta<e>4	<s>śyāvā́<srs/>śvá—stuta</s> 	¦ <lex>mfn.</lex> praised by <s1 slp1="SyAvASva">Śyāvâśva</s1>, <ls>RV.</ls><info lex="m:f:n"/>	<LEND>
+;; HW accent to be revised here.
+;; END
