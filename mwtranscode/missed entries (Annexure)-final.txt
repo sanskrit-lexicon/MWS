@@ -477,7 +477,7 @@ A(1330,1) pari-nir-mita (p. 596, col. 2, read ‘-vaśa-vartin’ and ‘cf. par
 A(1330,2) péṣ-ṭra (AV.)
 <L>129063<pc>649,1<k1>peṣṭra<k2>peṣṭra<e>1	<s>peṣṭra</s> 	¦ <lex>n.</lex> (√ <s>piś</s>) a bone, <ls>AV.</ls><info lex="n"/>	<LEND>
 ;; HW accent to be revised here.
-;; is the hyphen in anneure to be taken as a line-breaking caracter, or a genuine separator?;; END
+;; is the hyphen in annexure to be taken as a line-breaking character, or a genuine separator?;; END
 ;; BEGIN
 ;; The entry "bālin" is missed, but it is not clear what it meant.
 A(1331,1) bālin, see vālin.
