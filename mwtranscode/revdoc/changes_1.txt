@@ -1,10 +1,10 @@
 ; This file contains the changes made to
 ; mw_iast.txt at commit d624e8b7c7f796eb5c6f802734a313ac9dd99eb6
 ; resulting in
-; mw_iast.txt at commit
+; mw_iast.txt at commit ddb4f6c746b4be331c89ed1b7320a03b4adf1250
 ; 
 ; python updateByLine.py mw1_iast.txt changes_1.txt mw2_iast.txt
-; Then, mw2_iast.txt is mw_iast.txt at commit 
+; Then, mw2_iast.txt is mw_iast.txt at commit mentioned above.
 ;
 ; 001 aṃśu L=47 through 78: Drop accent on u (aṃśú) in aṃśu and compounds
 ; ACCENT
