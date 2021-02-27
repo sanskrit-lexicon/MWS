@@ -194,6 +194,11 @@ python make_changes.py new 120810,120835 mw1_iast.txt tempchange_patrakataka.txt
 * DONE 187 śikhin
 ;; The accent change has to be applied to all the following splits (216775-216798) of the HW entry.
 python make_changes.py new 216775,216798 mw1_iast.txt tempchange_shikhin.txt 
+* DONE 001 aṃśu
+;AB: drop accent aṃśú -> aṃśu
+; jim L=47 to L=78 (aṃśú-hasta
+python make_changes.py new 47,78 mw1_iast.txt tempchange_amshu.txt 
+
 * ---------------------------------------------------
 * deletions
 * ---------------------------------------------------
