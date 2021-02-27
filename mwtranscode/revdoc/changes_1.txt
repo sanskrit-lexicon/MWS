@@ -1,10 +1,269 @@
 ; This file contains the changes made to
-; mw_iast.txt at commit f6e1d08113824a31ec9937da5b3f673387f331fc
-; resulting in mw_iast.txt at commit a9d142cc62181aed6203412c9e3651f701e99112
-; Assume mw1_iast.txt is mw_iast.txt at commit f6e1d08
+; mw_iast.txt at commit d624e8b7c7f796eb5c6f802734a313ac9dd99eb6
+; resulting in
+; mw_iast.txt at commit
+; 
 ; python updateByLine.py mw1_iast.txt changes_1.txt mw2_iast.txt
-; Then, mw2_iast.txt is mw_iast.txt at commit a9d142.
-
+; Then, mw2_iast.txt is mw_iast.txt at commit 
+;
+; 001 aṃśu L=47 through 78: Drop accent on u (aṃśú) in aṃśu and compounds
+; ACCENT
+; L=47, k1=aṃśu, pc=1,1
+;
+173 old <L>47<pc>1,1<k1>aṃśu<k2>aṃśú<e>1
+173 new <L>47<pc>1,1<k1>aṃśu<k2>aṃśu<e>1
+;
+174 old <s>aṃśú</s> ¦ <lex>m.</lex> a filament (especially of the <s1 slp1="soma">Soma</s1> plant)<info lex="m"/>
+174 new <s>aṃśu</s> ¦ <lex>m.</lex> a filament (especially of the <s1 slp1="soma">Soma</s1> plant)<info lex="m"/>
+;
+; L=48, k1=aṃśu, pc=1,1
+;
+176 old <L>48<pc>1,1<k1>aṃśu<k2>aṃśú<e>1A
+176 new <L>48<pc>1,1<k1>aṃśu<k2>aṃśu<e>1A
+;
+;177 old ¦ a kind of <s1 slp1="soma">Soma</s1> libation, <ls>ŚBr.</ls><info lex="inh"/>
+;177 new ¦ a kind of <s1 slp1="soma">Soma</s1> libation, <ls>ŚBr.</ls><info lex="inh"/>
+;
+; L=49, k1=aṃśu, pc=1,1
+;
+179 old <L>49<pc>1,1<k1>aṃśu<k2>aṃśú<e>1A
+179 new <L>49<pc>1,1<k1>aṃśu<k2>aṃśu<e>1A
+;
+;180 old ¦ thread<info lex="inh"/>
+;180 new ¦ thread<info lex="inh"/>
+;
+; L=50, k1=aṃśu, pc=1,2
+;
+182 old <L>50<pc>1,2<k1>aṃśu<k2>aṃśú<e>1A
+182 new <L>50<pc>1,2<k1>aṃśu<k2>aṃśu<e>1A
+;
+;183 old ¦ end of a thread, a minute particle<info lex="inh"/>
+;183 new ¦ end of a thread, a minute particle<info lex="inh"/>
+;
+; L=51, k1=aṃśu, pc=1,2
+;
+185 old <L>51<pc>1,2<k1>aṃśu<k2>aṃśú<e>1A
+185 new <L>51<pc>1,2<k1>aṃśu<k2>aṃśu<e>1A
+;
+;186 old ¦ a point, end<info lex="inh"/>
+;186 new ¦ a point, end<info lex="inh"/>
+;
+; L=52, k1=aṃśu, pc=1,2
+;
+188 old <L>52<pc>1,2<k1>aṃśu<k2>aṃśú<e>1A
+188 new <L>52<pc>1,2<k1>aṃśu<k2>aṃśu<e>1A
+;
+;189 old ¦ a ray, sunbeam <info n="rev" pc="1308,1"/><info lex="inh"/>
+;189 new ¦ a ray, sunbeam <info n="rev" pc="1308,1"/><info lex="inh"/>
+;
+; L=53, k1=aṃśu, pc=1,2
+;
+191 old <L>53<pc>1,2<k1>aṃśu<k2>aṃśú<e>1A
+191 new <L>53<pc>1,2<k1>aṃśu<k2>aṃśu<e>1A
+;
+;192 old ¦ cloth, <ls>L.</ls><info lex="inh"/>
+;192 new ¦ cloth, <ls>L.</ls><info lex="inh"/>
+;
+; L=54, k1=aṃśu, pc=1,2
+;
+194 old <L>54<pc>1,2<k1>aṃśu<k2>aṃśú<e>1A
+194 new <L>54<pc>1,2<k1>aṃśu<k2>aṃśu<e>1A
+;
+;195 old ¦ <ab>N.</ab> of a <s1 slp1="fzi">Ṛṣi</s1>, <ls>RV. viii, 5, 26</ls><info lex="inh"/>
+;195 new ¦ <ab>N.</ab> of a <s1 slp1="fzi">Ṛṣi</s1>, <ls>RV. viii, 5, 26</ls><info lex="inh"/>
+;
+; L=55, k1=aṃśu, pc=1,2
+;
+197 old <L>55<pc>1,2<k1>aṃśu<k2>aṃśú<e>1A
+197 new <L>55<pc>1,2<k1>aṃśu<k2>aṃśu<e>1A
+;
+;198 old ¦ of an ancient Vedic teacher, son of a <s1 slp1="DanaMjaya">Dhanaṃjaya</s1>, <ls>VBr.</ls><info lex="inh"/>
+;198 new ¦ of an ancient Vedic teacher, son of a <s1 slp1="DanaMjaya">Dhanaṃjaya</s1>, <ls>VBr.</ls><info lex="inh"/>
+;
+; L=56, k1=aṃśu, pc=1,2
+;
+200 old <L>56<pc>1,2<k1>aṃśu<k2>aṃśú<e>1A
+200 new <L>56<pc>1,2<k1>aṃśu<k2>aṃśu<e>1A
+;
+;201 old ¦ of a prince.<info lex="inh"/>
+;201 new ¦ of a prince.<info lex="inh"/>
+;
+; L=57, k1=aṃśujāla, pc=1,2
+;
+203 old <L>57<pc>1,2<k1>aṃśujāla<k2>aṃśú—jāla<e>3
+203 new <L>57<pc>1,2<k1>aṃśujāla<k2>aṃśu—jāla<e>3
+;
+204 old <s>aṃśú—jāla</s> ¦ <lex>n.</lex> a collection of rays, blaze of light.<info lex="n"/>
+204 new <s>aṃśu—jāla</s> ¦ <lex>n.</lex> a collection of rays, blaze of light.<info lex="n"/>
+;
+; L=58, k1=aṃśudhara, pc=1,2
+;
+206 old <L>58<pc>1,2<k1>aṃśudhara<k2>aṃśú—dhara<e>3
+206 new <L>58<pc>1,2<k1>aṃśudhara<k2>aṃśu—dhara<e>3
+;
+207 old <s>aṃśú—dhara</s> ¦ <lex>m.</lex> ‘bearer of rays’, the sun, <ls>L.</ls><info lex="m"/>
+207 new <s>aṃśu—dhara</s> ¦ <lex>m.</lex> ‘bearer of rays’, the sun, <ls>L.</ls><info lex="m"/>
+;
+; L=59, k1=aṃśudhāna, pc=1,2
+;
+209 old <L>59<pc>1,2<k1>aṃśudhāna<k2>aṃśú—dhāna<e>3
+209 new <L>59<pc>1,2<k1>aṃśudhāna<k2>aṃśu—dhāna<e>3
+;
+210 old <s>aṃśú—dhāna</s> ¦ <lex>n.</lex> <ab>N.</ab> of a village, <ls>R.</ls><info lex="n"/>
+210 new <s>aṃśu—dhāna</s> ¦ <lex>n.</lex> <ab>N.</ab> of a village, <ls>R.</ls><info lex="n"/>
+;
+; L=60, k1=aṃśudhāraya, pc=1,2
+;
+212 old <L>60<pc>1,2<k1>aṃśudhāraya<k2>aṃśú—dhāraya<e>3
+212 new <L>60<pc>1,2<k1>aṃśudhāraya<k2>aṃśu—dhāraya<e>3
+;
+213 old <s>aṃśú—dhāraya</s> ¦ <lex>m.</lex> a lamp, <ls>MaitrUp.</ls><info lex="m"/>
+213 new <s>aṃśu—dhāraya</s> ¦ <lex>m.</lex> a lamp, <ls>MaitrUp.</ls><info lex="m"/>
+;
+; L=61, k1=aṃśunadī, pc=1,2
+;
+215 old <L>61<pc>1,2<k1>aṃśunadī<k2>aṃśú—nadī<e>3
+215 new <L>61<pc>1,2<k1>aṃśunadī<k2>aṃśu—nadī<e>3
+;
+216 old <s>aṃśú—nadī</s> ¦ <lex>f.</lex> <ab>N.</ab> of a river.<info lex="f"/>
+216 new <s>aṃśu—nadī</s> ¦ <lex>f.</lex> <ab>N.</ab> of a river.<info lex="f"/>
+;
+; L=62, k1=aṃśupaṭṭa, pc=1,2
+;
+218 old <L>62<pc>1,2<k1>aṃśupaṭṭa<k2>aṃśú—paṭṭa<e>3
+218 new <L>62<pc>1,2<k1>aṃśupaṭṭa<k2>aṃśu—paṭṭa<e>3
+;
+219 old <s>aṃśú—paṭṭa</s> ¦ <lex>n.</lex> a kind of cloth.<info lex="n"/>
+219 new <s>aṃśu—paṭṭa</s> ¦ <lex>n.</lex> a kind of cloth.<info lex="n"/>
+;
+; L=63, k1=aṃśupati, pc=1,2
+;
+221 old <L>63<pc>1,2<k1>aṃśupati<k2>aṃśú—pati<e>3
+221 new <L>63<pc>1,2<k1>aṃśupati<k2>aṃśu—pati<e>3
+;
+222 old <s>aṃśú—pati</s> ¦ <lex>m.</lex> ‘lord of rays’, the sun, <ls>L.</ls><info or="63,aMSupati;64,aMSuBartf"/><info lex="m"/>
+222 new <s>aṃśu—pati</s> ¦ <lex>m.</lex> ‘lord of rays’, the sun, <ls>L.</ls><info or="63,aMSupati;64,aMSuBartf"/><info lex="m"/>
+;
+; L=64, k1=aṃśubhartṛ, pc=1,2
+;
+224 old <L>64<pc>1,2<k1>aṃśubhartṛ<k2>aṃśú—bhartṛ<e>3
+224 new <L>64<pc>1,2<k1>aṃśubhartṛ<k2>aṃśu—bhartṛ<e>3
+;
+225 old <s>aṃśú—bhartṛ</s> ¦ <lex>m.</lex> ‘lord of rays’, the sun, <ls>L.</ls><info or="63,aMSupati;64,aMSuBartf"/><info lex="m"/>
+225 new <s>aṃśu—bhartṛ</s> ¦ <lex>m.</lex> ‘lord of rays’, the sun, <ls>L.</ls><info or="63,aMSupati;64,aMSuBartf"/><info lex="m"/>
+;
+; L=65, k1=aṃśumat, pc=1,2
+;
+227 old <L>65<pc>1,2<k1>aṃśumat<k2>aṃśú—mát<e>3
+227 new <L>65<pc>1,2<k1>aṃśumat<k2>aṃśu—mát<e>3
+;
+228 old <s>aṃśú—mát</s> ¦ <lex>mfn.</lex> fibrous, rich in filaments<info lex="m:f:n"/>
+228 new <s>aṃśu—mát</s> ¦ <lex>mfn.</lex> fibrous, rich in filaments<info lex="m:f:n"/>
+;
+; L=66, k1=aṃśumat, pc=1,2
+;
+230 old <L>66<pc>1,2<k1>aṃśumat<k2>aṃśú—mát<e>3A
+230 new <L>66<pc>1,2<k1>aṃśumat<k2>aṃśu—mát<e>3A
+;
+231 old ¦ rich in <s1 slp1="soma">Soma</s1> plants or <s1 slp1="soma">Soma</s1> juice<info lex="inh"/>
+231 new ¦ rich in <s1 slp1="soma">Soma</s1> plants or <s1 slp1="soma">Soma</s1> juice<info lex="inh"/>
+;
+; L=67, k1=aṃśumat, pc=1,2
+;
+233 old <L>67<pc>1,2<k1>aṃśumat<k2>aṃśú—mát<e>3A
+233 new <L>67<pc>1,2<k1>aṃśumat<k2>aṃśu—mát<e>3A
+;
+;234 old ¦ radiant, luminous<info lex="inh"/>
+;234 new ¦ radiant, luminous<info lex="inh"/>
+;
+; L=68, k1=aṃśumat, pc=1,2
+;
+236 old <L>68<pc>1,2<k1>aṃśumat<k2>aṃśú—mát<e>3A
+236 new <L>68<pc>1,2<k1>aṃśumat<k2>aṃśu—mát<e>3A
+;
+;237 old ¦ pointed<info lex="inh"/>
+;237 new ¦ pointed<info lex="inh"/>
+;
+; L=69, k1=aṃśumat, pc=1,2
+;
+239 old <L>69<pc>1,2<k1>aṃśumat<k2>aṃśú—mát<e>3B
+239 new <L>69<pc>1,2<k1>aṃśumat<k2>aṃśu—mát<e>3B
+;
+240 old <s>aṃśú—mát</s> ¦ <lex>m.</lex> the sun, the moon<info lex="m"/>
+240 new <s>aṃśu—mát</s> ¦ <lex>m.</lex> the sun, the moon<info lex="m"/>
+;
+; L=70, k1=aṃśumat, pc=1,2
+;
+242 old <L>70<pc>1,2<k1>aṃśumat<k2>aṃśú—mát<e>3B
+242 new <L>70<pc>1,2<k1>aṃśumat<k2>aṃśu—mát<e>3B
+;
+;243 old ¦ <ab>N.</ab> of various persons, especially of a prince of the solar race, son of <s1 slp1="a-samaYjas">A-samañjas</s1>, grandson of <s1 slp1="sagara">Sagara</s1><info lex="inh"/>
+;243 new ¦ <ab>N.</ab> of various persons, especially of a prince of the solar race, son of <s1 slp1="a-samaYjas">A-samañjas</s1>, grandson of <s1 slp1="sagara">Sagara</s1><info lex="inh"/>
+;
+; L=71, k1=aṃśumatī, pc=1,2
+;
+245 old <L>71<pc>1,2<k1>aṃśumatī<k2>aṃśú—mátī<e>3B
+245 new <L>71<pc>1,2<k1>aṃśumatī<k2>aṃśu—mátī<e>3B
+;
+246 old <s>aṃśú—mátī</s> ¦ <lex>f.</lex> <ab>N.</ab> of a river (<s1 slp1="yamunA">Yamunā</s1>?), <ls>RV. viii, 96, 13-15</ls><info lex="f"/>
+246 new <s>aṃśu—mátī</s> ¦ <lex>f.</lex> <ab>N.</ab> of a river (<s1 slp1="yamunA">Yamunā</s1>?), <ls>RV. viii, 96, 13-15</ls><info lex="f"/>
+;
+; L=72, k1=aṃśumatī, pc=1,2
+;
+248 old <L>72<pc>1,2<k1>aṃśumatī<k2>aṃśú—mátī<e>3B
+248 new <L>72<pc>1,2<k1>aṃśumatī<k2>aṃśu—mátī<e>3B
+;
+;249 old ¦ <bot>Hedysarum Gangeticum</bot>, <ls>Suśr.</ls><info lex="inh"/>
+;249 new ¦ <bot>Hedysarum Gangeticum</bot>, <ls>Suśr.</ls><info lex="inh"/>
+;
+; L=73, k1=aṃśumatphalā, pc=1,2
+;
+251 old <L>73<pc>1,2<k1>aṃśumatphalā<k2>aṃśú—matphalā<e>3
+251 new <L>73<pc>1,2<k1>aṃśumatphalā<k2>aṃśu—matphalā<e>3
+;
+252 old <s>aṃśú—matphalā</s> ¦ <lex>f.</lex> <bot>Musa Paradisiaca</bot>.<info lex="f"/>
+252 new <s>aṃśu—matphalā</s> ¦ <lex>f.</lex> <bot>Musa Paradisiaca</bot>.<info lex="f"/>
+;
+; L=74, k1=aṃśumālā, pc=1,2
+;
+254 old <L>74<pc>1,2<k1>aṃśumālā<k2>aṃśú—mālā<e>3
+254 new <L>74<pc>1,2<k1>aṃśumālā<k2>aṃśu—mālā<e>3
+;
+255 old <s>aṃśú—mālā</s> ¦ <lex>f.</lex> a garland of light, halo.<info lex="f"/>
+255 new <s>aṃśu—mālā</s> ¦ <lex>f.</lex> a garland of light, halo.<info lex="f"/>
+;
+; L=75, k1=aṃśumālin, pc=1,2
+;
+257 old <L>75<pc>1,2<k1>aṃśumālin<k2>aṃśú—mālin<e>3
+257 new <L>75<pc>1,2<k1>aṃśumālin<k2>aṃśu—mālin<e>3
+;
+258 old <s>aṃśú—mālin</s> ¦ <lex>m.</lex> the sun.<info lex="m"/>
+258 new <s>aṃśu—mālin</s> ¦ <lex>m.</lex> the sun.<info lex="m"/>
+;
+; L=76, k1=aṃśuvāṇa, pc=1,2
+;
+260 old <L>76<pc>1,2<k1>aṃśuvāṇa<k2>aṃśú—vāṇa<e>3
+260 new <L>76<pc>1,2<k1>aṃśuvāṇa<k2>aṃśu—vāṇa<e>3
+;
+261 old <s>aṃśú—vāṇa</s> ¦ <lex>m.</lex> ‘having rays for arrows’, the sun.<info lex="m"/>
+261 new <s>aṃśu—vāṇa</s> ¦ <lex>m.</lex> ‘having rays for arrows’, the sun.<info lex="m"/>
+;
+; L=77, k1=aṃśuvimarda, pc=1,2
+;
+263 old <L>77<pc>1,2<k1>aṃśuvimarda<k2>aṃśú—vimarda<e>3
+263 new <L>77<pc>1,2<k1>aṃśuvimarda<k2>aṃśu—vimarda<e>3
+;
+264 old <s>aṃśú—vimarda</s> ¦ <lex>m.</lex> ray-obscuration.<info lex="m"/>
+264 new <s>aṃśu—vimarda</s> ¦ <lex>m.</lex> ray-obscuration.<info lex="m"/>
+;
+; L=78, k1=aṃśuhasta, pc=1,2
+;
+266 old <L>78<pc>1,2<k1>aṃśuhasta<k2>aṃśú—hasta<e>3
+266 new <L>78<pc>1,2<k1>aṃśuhasta<k2>aṃśu—hasta<e>3
+;
+267 old <s>aṃśú—hasta</s> ¦ <lex>m.</lex> ‘having rays for hands’, the sun, <ls>L.</ls><info lex="m"/>
+267 new <s>aṃśu—hasta</s> ¦ <lex>m.</lex> ‘having rays for hands’, the sun, <ls>L.</ls><info lex="m"/>
+;
 ;
 ; 002 L=97, k1=aṃsadhrī, pc=1,2
 ; TYPO ?
@@ -52,6 +311,14 @@
 3273 old <s>agnā—viṣṇū</s> ¦ <ab>voc.</ab> <lex>m. <ab>du.</ab></lex> <s1 slp1="agni">Agni</s1> and <s1 slp1="vizRu">Viṣṇu</s1>, <ls>AV.</ls>; <ls>ŚBr.</ls> <info n="rev" pc="1309,1"/><info lexcat="INFLECTID=m1d,STEM=agnAvizRu"/>
 3273 new <s>agnā́—viṣṇū</s> ¦ <ab>voc.</ab> <lex>m. <ab>du.</ab></lex> <s1 slp1="agni">Agni</s1> and <s1 slp1="vizRu">Viṣṇu</s1>, <ls>AV.</ls>; <ls>ŚBr.</ls> <info n="rev" pc="1309,1"/><info lexcat="INFLECTID=m1d,STEM=agnAvizRu"/>
 ;
+; L=1013 agnibhūti
+; ACCENT drop
+3740 old <L>1013<pc>5,2<k1>agnibhūti<k2>agní—bhūti<e>3
+3740 new <L>1013<pc>5,2<k1>agnibhūti<k2>agni—bhūti<e>3
+;
+3741 old <s>agní—bhūti</s> ¦ <lex>m.</lex> <ab>N.</ab> of one of the eleven chief pupils (<s1 slp1="gaRaDara">gaṇadhara</s1>s) of the last <s1 slp1="tIrTakara">Tīrthakara</s1>. (see also, <ls>Pāṇ. 8-2, 107, </ls><ab>Vārtt.</ab> 2, <ls>Pat.</ls>) <info n="rev" pc="1309,1"/><info lex="m"/>
+3741 new <s>agni—bhūti</s> ¦ <lex>m.</lex> <ab>N.</ab> of one of the eleven chief pupils (<s1 slp1="gaRaDara">gaṇadhara</s1>s) of the last <s1 slp1="tIrTakara">Tīrthakara</s1>. (see also, <ls>Pāṇ. 8-2, 107, </ls><ab>Vārtt.</ab> 2, <ls>Pat.</ls>) <info n="rev" pc="1309,1"/><info lex="m"/>
+;
 ; 009 agnyupasthāna ACCENT
 ;; BEGIN AB.3.1.9 L=1183, k1=agnyupasthāna, pc=6,2
 4376 old <L>1183<pc>6,2<k1>agnyupasthāna<k2>agny-upasthāná<e>3
@@ -70,9 +337,9 @@
 ;; BEGIN AB.3.1.11 L=1754, k1=aṅghāri, pc=8,3
 ; ACCENT
 6491 old <L>1754<pc>8,3<k1>aṅghāri<k2>aṅghāri<e>3
-6491 new <L>1754<pc>8,3<k1>aṅghāri<k2>áṅghāri<e>3
+6491 new <L>1754<pc>8,3<k1>aṅghāri<k2>áṅghāri<e>3
 6492 old <s>aṅghā<srs/>ri</s> ¦ <lex>m.</lex> ‘an enemy to sin or evil’, <ab>N.</ab> of a celestial guard of the <s1 slp1="soma">Soma</s1>, <ls>VS.</ls> ([blazing, <ls>T.</ls>]) <info n="rev" pc="1309,2"/><info lex="m"/>
-6492 new <s>áṅghā<srs/>ri</s> ¦ <lex>m.</lex> ‘an enemy to sin or evil’, <ab>N.</ab> of a celestial guard of the <s1 slp1="soma">Soma</s1>, <ls>VS.</ls> ([blazing, <ls>T.</ls>]) <info n="rev" pc="1309,2"/><info lex="m"/>
+6492 new <s>áṅghā<srs/>ri</s> ¦ <lex>m.</lex> ‘an enemy to sin or evil’, <ab>N.</ab> of a celestial guard of the <s1 slp1="soma">Soma</s1>, <ls>VS.</ls> ([blazing, <ls>T.</ls>]) <info n="rev" pc="1309,2"/><info lex="m"/>
 ;
 ; 013 L=2530, k1=atamāviṣṭa, pc=12,1
 ;
@@ -194,6 +461,13 @@
 ;
 49030 old <s>abhy-āvartin</s> ¦ <lex>mfn.</lex> coming near, coming repeatedly, <ls>VS.</ls> (<ab>voc.</ab>), <ls>Kauś.</ls> <info n="rev" pc="1315,2"/><info lex="m:f:n"/>
 49030 new <s>abhy-āvartín</s> ¦ <lex>mfn.</lex> coming near, coming repeatedly, <ls>VS.</ls> (<ab>voc.</ab>), <ls>Kauś.</ls> <info n="rev" pc="1315,2"/><info lex="m:f:n"/>
+; ... L=13702 abhramāṃsī
+; DROP ACCENT
+49894 old <L>13702<pc>79,3<k1>abhramāṃsī<k2>abhrá—māṃsī<e>3
+49894 new <L>13702<pc>79,3<k1>abhramāṃsī<k2>abhra—māṃsī<e>3
+;
+49895 old <s>abhrá—māṃsī</s> ¦ <lex>f.</lex> the plant <bot>Valeriana</bot> <s1 slp1="jawAmAMsI">Jaṭāmāṉsī</s1>, <ls>L.</ls> <info n="rev" pc="1315,3"/><info lex="f"/>
+49895 new <s>abhra—māṃsī</s> ¦ <lex>f.</lex> the plant <bot>Valeriana</bot> <s1 slp1="jawAmAMsI">Jaṭāmāṉsī</s1>, <ls>L.</ls> <info n="rev" pc="1315,3"/><info lex="f"/>
 ;
 ; 033 L=13993.05, k1=amalānanda, pc=26,3
 ; TO BE DELETED
@@ -329,10 +603,10 @@
 ; 055 L=24924, k1=āpomaya, pc=143,1
 ; 
 88916 old <L>24924<pc>143,1<k1>āpomaya<k2>āpo—maya<e>3
-88916 new <L>24924<pc>143,1<k1>āpomaya<k2>āpo—máya<e>3
+88916 new <L>24924<pc>143,1<k1>āpomaya<k2>āpo—máya<e>3
 ;
 88917 old <s>āpo—maya</s> ¦ <lex>mfn.</lex> consisting of water, <ls>ŚBr.</ls>; <ls>ChUp.</ls>; <ls>MBh.</ls> <info n="rev" pc="1319,3"/><info lex="m:f:n"/>
-88917 new <s>āpo—máya</s> ¦ <lex>mfn.</lex> consisting of water, <ls>ŚBr.</ls>; <ls>ChUp.</ls>; <ls>MBh.</ls> <info n="rev" pc="1319,3"/><info lex="m:f:n"/>
+88917 new <s>āpo—máya</s> ¦ <lex>mfn.</lex> consisting of water, <ls>ŚBr.</ls>; <ls>ChUp.</ls>; <ls>MBh.</ls> <info n="rev" pc="1319,3"/><info lex="m:f:n"/>
 ;
 ; 056 L=25395, k1=ām, pc=146,1
 ; ACCENT
@@ -1575,10 +1849,10 @@
 ; 149 L=110899, k1=niṣṭakvan, pc=563,1
 ; ACCENT
 373587 old <L>110899<pc>563,1<k1>niṣṭakvan<k2>niṣ-ṭakvan<e>1
-373587 new <L>110899<pc>563,1<k1>niṣṭakvan<k2>niṣ-ṭákvan<e>1
+373587 new <L>110899<pc>563,1<k1>niṣṭakvan<k2>niṣ-ṭákvan<e>1
 ;
 373588 old <s>niṣ-ṭakvan</s> ¦ <lex>mf(<s>varī</s>)n.</lex> (√ <s>tak</s>?) roaming, vagrant, <ls>AV. v, 22, 6.</ls> <info n="rev" pc="1329,3"/><info lex="m:f#varI:n"/>
-373588 new <s>niṣ-ṭákvan</s> ¦ <lex>mf(<s>varī</s>)n.</lex> (√ <s>tak</s>?) roaming, vagrant, <ls>AV. v, 22, 6.</ls> <info n="rev" pc="1329,3"/><info lex="m:f#varI:n"/>
+373588 new <s>niṣ-ṭákvan</s> ¦ <lex>mf(<s>varī</s>)n.</lex> (√ <s>tak</s>?) roaming, vagrant, <ls>AV. v, 22, 6.</ls> <info n="rev" pc="1329,3"/><info lex="m:f#varI:n"/>
 ;
 ; 153 L=120799, k1=pātra, pc=612,3
 ; CORRECT
@@ -1919,10 +2193,10 @@
 ; 166 L=133755, k1=pratardana, pc=674,2
 ; ACCENT
 450409 old <L>133755<pc>674,2<k1>pratardana<k2>pra-tardana<h>b<e>3
-450409 new <L>133755<pc>674,2<k1>pratardana<k2>pra-tárdana<h>b<e>3
+450409 new <L>133755<pc>674,2<k1>pratardana<k2>pra-tárdana<h>b<e>3
 ;
 450410 old <s>pra-°tardana</s> <hom>b</hom> ¦ <lex>mfn.</lex> piercing, destroying (said of <s1 slp1="vizRu">Viṣṇu</s1>), <ls>Viṣṇ.</ls> <ab>MS.</ab> <info n="rev" pc="1330,3"/><info lex="m:f:n"/>
-450410 new <s>pra-°tárdana</s> <hom>b</hom> ¦ <lex>mfn.</lex> piercing, destroying (said of <s1 slp1="vizRu">Viṣṇu</s1>), <ls>Viṣṇ.</ls> <ab>MS.</ab> <info n="rev" pc="1330,3"/><info lex="m:f:n"/>
+450410 new <s>pra-°tárdana</s> <hom>b</hom> ¦ <lex>mfn.</lex> piercing, destroying (said of <s1 slp1="vizRu">Viṣṇu</s1>), <ls>Viṣṇ.</ls> <ab>MS.</ab> <info n="rev" pc="1330,3"/><info lex="m:f:n"/>
 ;
 ; 167 L=136578, k1=pralikh, pc=689,3
 ; TYPO
@@ -2474,3 +2748,7 @@
 407717 old <LEND>
 407717 ins <LEND>
 ;
+; Change one combining accent á to preformed á in previous mws_iast
+; L=39167.1, ed  vṛtrám
+138178 old <s>éd</s> ¦ <lex>ind.</lex> (<ab>accord.</ab> to some = 2. <s>ā + íd</s>) behold! (followed by a <ab>partic.</ab> with an <ab>acc.</ab> and preceded by a verb of motion, e. <ab>g.</ab> <s>éyāya vāyúr éd dhatám vṛtrám</s>, ‘<ns>Vāyur</ns> went [to see, and] behold <s1 slp1="vftra">Vṛtra</s1> was slain’; sometimes the verb of motion must be supplied, sometimes the substantive, and sometimes the participle), <ls>Br.</ls><info n="sup"/><info lex="ind"/>
+138178 new <s>éd</s> ¦ <lex>ind.</lex> (<ab>accord.</ab> to some = 2. <s>ā + íd</s>) behold! (followed by a <ab>partic.</ab> with an <ab>acc.</ab> and preceded by a verb of motion, e. <ab>g.</ab> <s>éyāya vāyúr éd dhatám vṛtrám</s>, ‘<ns>Vāyur</ns> went [to see, and] behold <s1 slp1="vftra">Vṛtra</s1> was slain’; sometimes the verb of motion must be supplied, sometimes the substantive, and sometimes the participle), <ls>Br.</ls><info n="sup"/><info lex="ind"/>
