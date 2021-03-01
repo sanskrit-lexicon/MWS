@@ -1,0 +1,371 @@
+* DONE 005 akṣetrajña MARKUP
+...
+<L>711<pc>4,1<k1>akṣetravid<k2>á-kṣetra—vid<e>3	<s>á-kṣetra—vid</s> ¦ <lex>mfn.</lex> [<s>ákṣ°</s>, <ls>RV. v, 40, 5 and x, 32, 7</ls>], not finding out the way<info or="710,akzetrajYa;711,akzetravid"/><info lex="m:f:n"/>	<LEND>
+;; The print book has a spl. purpose of having "[...]" inside a "(...)"
+;; The data has "([..." at many other places (almost over 1100) wrongly, may be unknowingly put. All those need to be corrected.
+AB: Need to keep in mind as TODO yet in all those places.
+
+* DONE 006 akṣobha CORRECT
+;; BEGIN AB.3.1.6 L=718, k1=akṣobha, pc=4,1
+<L>718<pc>4,1<k1>akṣobha<k2>a-kṣobha<e>1	<s>a-kṣobha</s> ¦ <lex>mfn.</lex> unagitated, unmoved <info n="rev" pc="1308,3"/><info lex="m:f:n"/>	<LEND>
+;; R(1308,3) a-kśobha (insert n. before ‘freedom’)
+;; Thus this entry has nothing to do with "rev" and the marking to be removed.
+;; The entry should be as under-
+<Ls>718<pc>4,1<k1>akṣobha<k2>a-kṣobha<e>1	<s>a-kṣobha</s> ¦ <lex>mfn.</lex> unagitated, unmoved<info lex="m:f:n"/>	<LEND>
+<L>718.1<pc>4,1<k1>akṣobha<k2>a-kṣobha<e>1B	<s>a-kṣobha</s> ¦ <lex>m.</lex> the post to which an elephant is tied. <info n="rev" pc="1308,3"/><info lex="m"/>	<LEND>
+;; R(1308,3) a-kśobha (insert n. before ‘freedom’)
+;; Thus this entry has nothing to do with "rev" and the marking to be removed.
+;; The entry should be as under-
+<Ls>718.1<pc>4,1<k1>akṣobha<k2>a-kṣobha<e>1B	<s>a-kṣobha</s> ¦ <lex>m.</lex> the post to which an elephant is tied.<info lex="m"/>	<LEND>
+...
+AB: 718 & 718.1 need to have the "rev" marking removed.
+
+* DONE 007 agnāviṣṇū ACCENT
+...
+;; At many places in the data, the number indicator du. or sg. is placed inside the gender (<lex>) marking.
+;; Though they are related, they should not be kept thus, but should be separately put. Gender (<s> liṅga</s>) comes first, followed by the number (<s>vacana</s>) next.
+AB: Need to keep in mind as TODO yet in all those places.
+
+* DONE 010 aṅgulisaṃdeśa HW
+...
+;; The comp. HW entry here "aṅguli (in comp.)" has no accent mark. Should all these comp. entrywords be changed accordingly?
+;; Incidentally, some HWs are marked with an accent and some are without the accent in this group!!
+AB: Need to keep in mind as TODO yet in all comp. words throughout, looking at the specific accent markings whereever given.
+
+* TODO 016 adhīvāsa ?
+;; BEGIN AB.3.1.16 L=4373, k1=adhīvāsa, pc=22,1
+<L>4373<pc>22,1<k1>adhīvāsa<k2>adhī-vāsá<h>a<e>2	<s>adhī-vāsá</s> <hom>a</hom> ¦ ([<ls>RV.</ls>; <ls>ŚBr.</ls>; <ls>MBh.</ls> &c.]) <lex>m.</lex> an upper garment, mantle. <info or="4372,aDivAsa;4373,aDIvAsa;4374,aDIvAsas"/><info n="rev" pc="1310,3"/><info lex="m"/>	<LEND>
+;; My earlier remark at this entry was ";; this correction does not seem to have been applied properly; need to look closely once again."
+;; The annexure entry at (1310,3) [not a break though] is to be applied at <L>4532<pc>22,3<k1>adhīvāsa, as it is mentioned after "a-dhīta-rasa" in the Annexure pages..
+;; Hence this entry needs to be reverted back to the original form O(22,1) adhī-vāsá [RV.; ŚBr.. &c.] as under-
+<Ls>4373<pc>22,1<k1>adhīvāsa<k2>adhī-vāsá<h>a<e>2	<s>adhī-vāsá</s> <hom>a</hom> ¦ ([<ls>RV.</ls>; <ls>ŚBr.</ls> &c.]) <lex>m.</lex> an upper garment, mantle.<info or="4372,aDivAsa;4373,aDIvAsa;4374,aDIvAsas"/><info lex="m"/>	<LEND>
+AB: I guess, I should've mentioned this in a more CLEARER fashion, as below-
+R(1310,3) adhī-vāsa, m. = adhi-v°, MBh.
+;; This is a correction of accents and addition of <ls> to L-4532; but has been wrongly taken as an addition to L-4373. 
+;; Thus L-4373 has to be reverted back as suggested above, and the L-4532 to be revised as-
+;; <Ls>4532<pc>22,3<k1>adhīvāsa<k2>adhī-vāsa<h>b<e>1	<s>adhī-vāsa</s> <hom>b</hom> ¦ = <hom>1.</hom><s>adhi-v°</s>, <ls>MBh.</ls>	<LEND>
+AB: Is this clear now?
+
+* DONE 019 anāgāmin CORRECT
+...
+;; The actual O(27,3) entry (under the main HW anāgāmin) mentions this HW as an-āgamī [with the ending ī given separately, in braces]. And the reference MWB. 133 has it thus- He is therefore called An-āgāmī, ‘one who will not come back to earth.’
+;; This is another example of the word-endings case, I was vocal about.
+;; Probably this correction can take place here, when all those word-endings are added to the data.
+AB: Need to keep in mind as TODO yet in all those places.
+
+* DONE 028 abhijñā TYPO
+;; वाचस्पत्यम् lists the six (in p. 5166) as- 1. दिव्यं चक्षुःश्रोत्रं 2. परचित्तज्ञानं (book has परिचित्तज्ञानं) 3. पूर्वनिवासानुस्मृतिः 4. आत्मज्ञानम् (Cologne has आत्मज्ञानभ्) 5. वियद्गतिः 6. कायव्यूहसिद्धि (Cologne has कायव्यूहमिद्धि)
+;; The errors in Cologne digitisation of Vacaspatyam may be noted as in the above line.
+AB: This identified Vacaspatyam (book & dititisation) errors at the word.
+
+* DONE 042 aśvaripu CORRECT
+...
+;; But L. is mentioned in the book, only if no other literary citations are known, as a practice.
+;; Does it mean Bhpr. is to be replaced by L., to be in line with the book's "idea"?
+AB: We might re-think on such matters sometime later.
+
+* DONE 043 asuraloka ACCENT
+;; BEGIN AB.3.1.43 L=21077, k1=asuraloka, pc=121,1
+<L>21077<pc>121,1<k1>asuraloka<k2>ásura—loka<e>3	<s>ásura—loka</s> ¦ <lex>m.</lex> the world of the demons, <ls>MaitrS.</ls>; <ls>Kāṭh.</ls> <info n="rev" pc="1318,2"/><info lex="m"/>	<LEND>
+;; R(1318,2) -loká (MaitrS.)
+;; The accent missed in the revision.
+;; The revised entry would be as under-
+<Ls>21077<pc>121,1<k1>asuraloka<k2>ásura—loká<e>3	<s>ásura—loká</s> ¦ <lex>m.</lex> the world of the demons, <ls>MaitrS.</ls>; <ls>Kāṭh.</ls> <info n="rev" pc="1318,2"/><info lex="m"/>	<LEND>
+AB: On the first day of this "rev" work, I did not paid attention to comp. headers in the annexure, thus missed its having no accent.
+AB: the Front portion should be without the accent mark, to be further revised as-
+;; <Ls>21077<pc>121,1<k1>asuraloka<k2>asura—loká<e>3	<s>asura—loká</s> ¦ <lex>m.</lex> the world of the demons, <ls>MaitrS.</ls>; <ls>Kāṭh.</ls> <info n="rev" pc="1318,2"/><info lex="m"/>	<LEND>
+AB: Sorry for asking to re-revise.
+
+* DONE 044 asṛj TYPO
+;; BEGIN AB.3.1.44 L=21154.2, k1=asṛj, pc=121,3
+<L>21154.2<pc>121,3<k1>asṛj<k2>ásṛj<e>1B	<s>ásṛj</s> ¦ <lex>m.</lex> (<s>k</s>) the planet Mars; a kind of religious abstraction, <ls>L.</ls><info lex="m"/>	<LEND>
+<L>21154.3<pc>121,3<k1>asṛj<k2>ásṛj<e>1B	¦ <ab>N.</ab> of the 16th of the astrological <s1 slp1="yoga">Yoga</s1>s, also called <s1 slp1="sidDi">Siddhi</s1>, <ls>L.</ls> <info n="rev" pc="1318,2"/><info lex="inh"/>	<LEND>
+;; R(1318,2) asṛj (for ‘a kind of religious abstraction,’ read, ‘N. of the 16th of the astrological Yogas, also called Siddhi’).
+;; Instead of making the revision, this is added as a different meaning ("sup" type), keeping the original text as is at <L>21154.2.
+;; The revised entries would be as under-
+<Ls>21154.2<pc>121,3<k1>asṛj<k2>ásṛj<e>1B	<s>ásṛj</s> ¦ <lex>m.</lex> (<s>k</s>) the planet Mars;<info lex="m"/>	<LEND>
+<Ls>21154.3<pc>121,3<k1>asṛj<k2>ásṛj<e>1B	¦ <ab>N.</ab> of the 16th of the astrological <s1 slp1="yoga">Yoga</s1>s, also called <s1 slp1="sidDi">Siddhi</s1>, <ls>L.</ls> <info n="rev" pc="1318,2"/><info lex="inh"/>	<LEND>
+AB: Missed mentioning the accent mark difference in HW (ásṛj > asṛj), though typed it without accent at R(1318,2).
+AB: The entries 21154 to 21154.3 to be corrected for this.
+
+* DONE 047 āke MARKUP
+<L>22292<pc>128,1<k1>ākenipa<k2>āké—nipá<e>3	<s>āké—nipá</s> ¦ <lex>mfn.</lex> (said of the horses of the <s1 slp1="aSvin">Aśvin</s1>s) protecting in the vicinity, <ls>RV. iv, 45, 6</ls><info lex="m:f:n"/>	<LEND>
+;; R(1319,1) āke (accord. to some, ‘visibly’ [cf. akśi, √ īkṣ], RV. ii, 1, 10; -nipá, read ā kenipā́so, ib. iv, 45, 6)
+;; Thus this has to be revised as under-
+<Ls>22292<pc>128,1<k1>ākenipa<k2>āké—nipá<e>3	<s>āké—nipá</s> ¦ <lex>mfn.</lex> (said of the horses of the <s1 slp1="aSvin">Aśvin</s1>s) protecting in the vicinity, <s>ā kenipā́so</s>, <ab>ib.</ab> <ls>iv, 45, 6</ls> <info n="rev" pc="1319,1"/><info lex="m:f:n"/>	<LEND>
+<L>22293<pc>128,1<k1>ākenipa<k2>āké—nipá<e>3A	¦ (= <s>ā + kenipā́so</s>, <ab>ib.</ab> <ls>iv, 45, 6</ls>) <info n="rev" pc="1319,1"/><info lex="inh"/>	<LEND>
+;; to be reverted back to original main text O(128,1) (= ā + kenipá, q̲.v., ‘wise,’ Naigh. iii, 15) (as the annexure does not refer to this part of text) as under-
+<Ls>22293<pc>128,1<k1>ākenipa<k2>āké—nipá<e>3A	¦ (= <s>ā + kenipá</s>, <ab>q̲.v.</ab>, ‘wise,’ <ls>Naigh. iii, 15</ls>)<info lex="inh"/>	<LEND>
+AB: Though L-22293 is reverted back to original as suggested, the indicated revision of annexure is not incorporated in L-22292.
+
+* DONE 060 āyāsa ACCENT
+...
+;; R(1320,1) ā-yāsá (VS.)
+;; The accent change in HW is missed in the revision.
+;; The revised entry would be as under-
+<Ls>25826<pc>148,2<k1>āyāsa<k2>ā-yāsá<e>2	<s>ā-yāsá</s> ¦ <lex>m.</lex> effort, exertion (of bodily or mental power), trouble, labour, <ls>VS.</ls>; <ls>MBh.</ls>; <ls>R.</ls>; <ls>Suśr.</ls>; <ls>Śak.</ls>; <ls>Kathās.</ls> &c. <info n="rev" pc="1320,1"/><info lex="m"/>	<LEND>
+AB: This accent correction to be done in the next entry as well, being the continuation/split.
+
+* DONE 061 āroha ACCENT, TYPO
+...
+<L>26326<pc>151,2<k1>āroha<k2>ā-roha<e>2A	¦ ascent, rising, creeping up, mounting, <ls>Śak.</ls>; <ls>Kathās.</ls>; <ls>R.</ls><info lex="inh"/>	<LEND>
+<L>26327<pc>151,2<k1>āroha<k2>ā-roha<e>2A	¦ haughtiness, pride, <ls>Kathās.</ls><info lex="inh"/>	<LEND>
+<L>26328<pc>151,2<k1>āroha<k2>ā-roha<e>2A	¦ elevation, elevated place, altitude, <ls>R.</ls><info lex="inh"/>	<LEND>
+<L>26329<pc>151,2<k1>āroha<k2>ā-roha<e>2A	¦ a heap, mountain, <ls>R.</ls><info lex="inh"/>	<LEND>
+<L>26330<pc>151,2<k1>āroha<k2>ā-roha<e>2A	¦ increase, <ls>Sāh.</ls><info lex="inh"/>	<LEND>
+<L>26331<pc>151,2<k1>āroha<k2>ā-roha<e>2A	¦ a woman's waist, the swell of the body, <ls>R.</ls>; <ls>BrahmaP.</ls>; <ls>Śiś.</ls><info lex="inh"/>	<LEND>
+<L>26332<pc>151,2<k1>āroha<k2>ā-roha<e>2A	¦ length, <ls>L.</ls><info lex="inh"/>	<LEND>
+<L>26333<pc>151,2<k1>āroha<k2>ā-roha<e>2A	¦ a particular measure, <ls>L.</ls><info lex="inh"/>	<LEND>
+;; All the above entries 26326-26333 need to have the accent change marking as in the beginning word, as they are the continuation/splits of the same.
+<L>26334<pc>151,2<k1>āroha<k2>ā-roha<e>2A	¦ descending (= <s>ava-roha</s> ?), <ls>L.</ls> <info n="rev" pc="1320,1"/><info lex="inh"/>	<LEND>
+;; The "rev" marking needs to be at the HW beginning <L> 26324 instead.
+;; This entry needs to be corrected as under-
+<Ls>26334<pc>151,2<k1>āroha<k2>ā-roha<e>2A	¦ descending (= <s>ava-roha</s> ?), <ls>L.</ls><info lex="inh"/>	<LEND>
+AB: The corrections in 26326-26334, as mentioned above, got skipped. L-26334 also needs accent correction.
+
+* DONE 069 āśīviṣa ACCENT
+...
+<L>27490.2<pc>1320,2<k1>āśīviṣā<k2>āśīviṣā<e>3B	<s>āśīviṣā</s> ¦ <lex>f.</lex> <ab>N.</ab> of a mythical river, <ab>ib.</ab><info n="sup"/><info lex="f"/>	<LEND>
+;; A(1320,2) (ā), f. N. of a mythical river, Div.
+;; The text has ib. instead of Div. Needs to be corrected as under-
+<Ls>27490.2<pc>1320,2<k1>āśīviṣā<k2>āśīviṣā<e>3B	<s>āśīviṣā</s> ¦ <lex>f.</lex> <ab>N.</ab> of a mythical river, <ab>Div.</ab><info n="sup"/><info lex="f"/>	<LEND>
+<L>27490.3<pc>1320,2<k1>āśīviṣanadī<k2>āśīviṣa-nadī<e>4	<s>āśīviṣa-nadī</s> ¦ <lex>f.</lex> <ab>id.</ab> (<ab>N.</ab> of a mythical river), <ab>ib.</ab><info n="sup"/><info lex="f"/>	<LEND>
+;; A(1320,2) (°sha)-nadī, f. id., ib.
+;; . Needs to be corrected (without the text in braces) as under-
+<Ls>27490.3<pc>1320,2<k1>āśīviṣanadī<k2>āśīviṣa-nadī<e>4	<s>āśīviṣa-nadī</s> ¦ <lex>f.</lex> <ab>id.</ab>, <ab>ib.</ab><info n="sup"/><info lex="f"/>	<LEND>
+AB: 27490.2 & 27490.3 are not handled.
+;; Another session for id. & idem. entries can handle these sometime later. (as being discussed under MWS issue #98)
+AB: Need to keep in mind as TODO yet in all those places.
+
+* DONE 072 āsandīvat ACCENT
+...
+<L>27990<pc>160,2<k1>āsandīsad<k2>āsandī—sád<e>3	<s>āsandī—sád</s> ¦ <lex>mfn.</lex> sitting on a chair, <ls>ŚBr. xii, 8, 3, 4.</ls><info lex="m:f:n"/>	<LEND>
+;; Probably this entry also needs the accent mark change, being in ŚBr. In such a case it would be as under-
+<Ls>27990<pc>160,2<k1>āsandīsad<k2>āsandī́—sád<e>3	<s>āsandī́—sád</s> ¦ <lex>mfn.</lex> sitting on a chair, <ls>ŚBr. xii, 8, 3, 4.</ls><info lex="m:f:n"/>	<LEND>
+AB: Need to keep in mind as TODO yet in all comp. words throughout, looking at the specific accent markings whereever given.
+
+* DONE 075 iḍādadha ACCENT 
+;; The character | (the slp1 transliteration for ł) has some issue in the display and searching criteria, as identified elsewhere (MWS issue #88 ) and is yet to be resolved.
+AB: Need to look when then display & search issues for this would be attended to.
+
+* DONE 077 indraśatru MARKUP
+;; BEGIN AB.3.3.3 L=29121.1, k1=indraśatru, pc=167,1
+<L>29121.1<pc>167,1<k1>indraśatru<k2>índra—śatru<e>3B	<s>índra—śatru</s> ¦ <lex>m.</lex> ‘<s1 slp1="indra">Indra</s1>'s enemy (in this sense the accent is <s>indra-śatrú</s> <ab>cf.</ab> <ab>Introd.</ab> <ab>p.</ab> xviii)’, <ab>N.</ab> of <s1 slp1="prahlAda">Prahlāda</s1>, <ls>Ragh. vii, 32</ls>; <ls>BhP. vi, 9, 11</ls> (with both the meanings). <info n="rev" pc="1321,1"/><info lex="m"/>	<LEND>
+;; R(1321,1) -śatru (p. 167, col. 1), for (as) read (us) and after Indra’s enemy add: in this sense the accent is Indra-śatrú (cf. Introd. p. xviii.)
+;; As there is "NO place" for the braced word-endings in the present text (esp. for m. and n. genders), the rev. text "for (as) read (us)" has been left out. 
+;; The initial cap. letter of Indra-śatrú (as in the revision page) is to be specially noted; thus this word calls for a <ns> or <slp1> marking, not a pure <s> marking. 
+AB: As my wording's are not clear enough here, Jim might've missed this point. I was referring to the matter at Introd. ref. (in braces).
+AB: It may be noted that the meaning portion has the slp1 notation correctly for the cap. I in Indra's enemy.
+AB: The same is meant to be applied at the braced portion text.
+;; Also the braced portion in the original text in all the comp. words (28945-29157: a whopping lot of 200+ entries!!) under this indra HW needs attention- some are explicitly marked with accent mark and some are not marked, indicating that the front part of those "not explicitly marked" comp. words might need to have the accent mark removed.
+AB: Need to keep in mind as TODO yet in all comp. words throughout, looking at the specific accent markings whereever given.
+
+* DONE 078 indriyasaṃyama ACCENT
+;; Also to note the comp. HW entry here "Indriya (in comp.)" without the accent mark.
+;; This probably indicates that all the entries given thereunder (all the annexure "sup" words -6 in count- are thus rendered, except this "rev" entry!!) need to be without the accent mark in the front portion.
+;; Leaving it to Jim to take a call on this.
+AB: Need to keep in mind as TODO yet in all comp. words throughout, looking at the specific accent markings whereever given.
+
+* DONE 087 uttarīya CORRECT
+...
+<L>31363<pc>179,1<k1>uttarīya<k2>uttarīya<e>2A	¦ a blanket, <ls>Car.</ls> <info n="rev" pc="1321,3"/><info lex="inh"/>	<LEND>
+;; This entry need not be marked with a "rev" as it is a continuation of the above.
+;; Thus the entry would be as under-
+<Ls>31363<pc>179,1<k1>uttarīya<k2>uttarīya<e>2A	¦ a blanket, <ls>Car.</ls><info lex="inh"/>	<LEND>
+<L>31364<pc>179,1<k1>uttarīyatā<k2>uttarīya—tā<e>3	<s>uttarīya—tā</s> ¦ <lex>f.</lex> the state of being an upper garment, <ls>Gobh. i, 2, 21.</ls> <info n="rev" pc="1321,3"/><info lex="f"/>	<LEND>
+;; This entry need not be marked with a "rev" as it is a continuation of the above.
+;; Thus the entry would be as under-
+<Ls>31364<pc>179,1<k1>uttarīyatā<k2>uttarīya—tā<e>3	<s>uttarīya—tā</s> ¦ <lex>f.</lex> the state of being an upper garment, <ls>Gobh. i, 2, 21.</ls><info lex="f"/>	<LEND>
+AB: No need to mark "rev" in these continuations lines, as is the practice throughout. (To be corrected.)
+
+* DONE 091 udvāsya ACCENT
+...
+<L>33564<pc>191,3<k1>udvāsya<k2>ud-vāsya<e>2A	¦ to be put away, <ls>BhP.</ls><info lex="inh"/>	<LEND>
+<L>33565<pc>191,3<k1>udvāsya<k2>ud-vāsya<e>2A	¦ relating to the killing of a sacrificial animal, <ls>R.</ls><info lex="inh"/>	<LEND>
+;; These two entries being the continuation/splits of the above HW, also need to have the accent marking.
+<Ls>33564<pc>191,3<k1>udvāsya<k2>ud-vā́sya<e>2A	¦ to be put away, <ls>BhP.</ls><info lex="inh"/>	<LEND>
+<Ls>33565<pc>191,3<k1>udvāsya<k2>ud-vā́sya<e>2A	¦ relating to the killing of a sacrificial animal, <ls>R.</ls><info lex="inh"/>	<LEND>
+AB: Accent correction in these continuation/split lines not done.
+
+* DONE 095 upāsakadaśā CORRECT
+;; The <ab> string for the 'number' (<s> vacana</s> needs to be out of the gender <f> string as mentioned elsewhere. All such corrections in the whole text can take take place sometime later.
+AB: Need to keep in mind as a TODO item.
+
+* DONE 096 ulmukamathya ACCENT
+;; This clearly indicates that the main HW and the comp. words could have the accent differences. The main HW in this case remains with the accent on the first letter.
+AB: Need to keep in mind as TODO yet in all comp. words throughout, looking at the specific accent markings whereever given.
+
+* DONE 097 ṛjūya ?
+;; BEGIN AB.3.3.23 L=38839, k1=ṛjūya, pc=225,3
+...
+;; Hence my interpretation is to have the revised entry as under-
+<Ls>38839<pc>225,3<k1>ṛjūyat<k2>ṛjū́yat<e>2	<s>ṛjū́yat</s> ¦ (<ab>fr.</ab> <s>ṛjūya</s>) <ab>Nom.</ab> <ab>P.</ab> (<ab>p.</ab> <s>ṛjūyát</s>) to walk straight-forward, be right or honest, <ls>RV.</ls> : <ab>Ā.</ab> (<ab>p.</ab> <s>ṛjūyámāna</s>) to tend straight upward, <ls>RV. x, 88, 9.</ls> <info n="rev" pc="1322,3"/><info verb="nom" cp="PĀ"/>	<LEND>
+;; This entry seems to be based on the entry ṛjūy at PW p. 1261-2, though with my interpretation the HW itself got changed a lot. 
+AB: Wonder how Jim accepted this, though it has no obvious "base"!!
+AB: after doing the full revision entries, I am left with a feeling that MW (and his associates) had some genuine references, to go against the PW (or PWG) which also sometimes erred (thus giving wrong refenreces).
+AB: Also my ending remark at L-73297 below (* DONE 121) may be looked at.
+
+* DONE 099 ṛṇacit MARKUP,TYPO
+...
+;; Taking the quoted text as a full replacement, the revised entry would be as under-
+<Ls>38870<pc>225,3<k1>ṛṇacit<k2>ṛṇá—cít<h>a<e>3	<s>ṛṇá—cít</s> ¦ <lex>mfn.</lex> ‘revenging guilt’, <ab>N.</ab> of <s1 slp1="brahmaRas-pati">Brahmaṇas-pati</s1>, <ls>RV. ii, 23, 17.</ls><info lex="m:f:n"/>	<LEND>
+;; <Ls>38870.1 "This stands deleted, as a NULL record; to be deleted completely at the end."
+AB: L-38870 is revised with a "rev" marking, but L-388770.1 is not deleted.
+
+* DONE 106 kadru ACCENT,MARKUP
+...
+<L>42901<pc>248,1<k1>kadru<k2>kádru<e>1B	<s>kádru</s> ¦ <lex>f.</lex> (<s>ū́s</s>) a particular divine personification (described in certain legends which relate to the bringing down of the <s1 slp1="soma">Soma</s1> from heaven <pb n="248,2"/>; according to the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s, ‘the earth personified’), <ls>TS. vi</ls>; <ls>ŚBr. iii, vi</ls>; <ls>Kāṭh.</ls> &c.<info lex="f"/>	<LEND>
+;; Here also the HW ending letters were not considered properly even for the f. gender, and got placed after the gender info, the order which the book never ever used.
+;; The corrected entry would be as under-
+<Ls>42901<pc>248,1<k1>kadrū<k2>kádrū́<e>1B	<s>kádrū́</s> ¦ <lex>f.</lex> a particular divine personification (described in certain legends which relate to the bringing down of the <s1 slp1="soma">Soma</s1> from heaven <pb n="248,2"/>; according to the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s, ‘the earth personified’), <ls>TS. vi</ls>; <ls>ŚBr. iii, vi</ls>; <ls>Kāṭh.</ls> &c.<info lex="f"/>	<LEND>
+;; The ending letter s could get added along with other entries, when the full book reading takes place.
+<L>42902<pc>248,2<k1>kadru<k2>kádru<e>1B	¦ <ab>N.</ab> of a plant (?). <info lex="inh"/>	<LEND>
+;; As this comes in sequence (as a split entry), the above HW change applies to this as well!!
+;; The corrected entry would be as under-
+<Ls>42902<pc>248,2<k1>kadrū<k2>kádrū́<e>1B	¦ <ab>N.</ab> of a plant (?). <info lex="inh"/>	<LEND>
+AB: After L-42900 being changed to kadrū, keeping 42901 & 42902 with short vowel is against the alphabetical order. They MUST also be changed as indicated above.
+...
+<L>42905.1<pc>1323,3<k1>kadrū<k2>kadrū́<e>1	<s>kadrū́</s> ¦ (See <s>kadru</s>) <lex>f.</lex> (<ls>RV.</ls>) <info n="rev"/><info lex="f"/>	<LEND>
+;; R(1323,3) kadrū́ (RV.)
+;; Looking at the accented HW given in the revision, it appears that this has to be applied at <L>42901 as additional Rigveda ref. 
+;; If so, this <L>42905.1 entry should be NULLified and the <ls>RV.</ls> is to be added in the above 42901 record.
+AB: Instead of simply adding the RV. ref, as indicated above as a "rev" to 42901, too much effort was taken to add this as a new entry with "rev" tagging, adding the superfluous matter "(See <s>kadru</s>) <lex>f.</lex> ".
+AB: Needs correction as suggested.
+
+* DONE 109 kumāradeṣṇa ACCENT,TYPO
+...
+;; jim revise	<s>kumāra—deṣṇa</s> ¦ <lex>mfn.</lex> granting perishable gifts [‘whose gifts are like those of children,’ <ab>i.e.</ab> ‘who gives and takes back’ <ls>Sāy.</ls>]; <ls>RV. x, 34, 7.</ls> <info n="rev" pc="1325,1"/><info lex="m:f:n"/>	<LEND>
+AB: A mistake in my suggestion; the square bracket should be followed by a comma- not with a semi-colon, before the first <ls>.
+AB: The <ls>Sāy.</ls>, being part of the explanatory matter in sqaure bracket, doesn't count to be the first <ls> here. 
+
+* DONE 110 kurukṣetra MARKUP
+;; The plural indicating long mātrā being in braces (ās) is as usual ignored here; could be added when the word-endings insersion time comes.
+;; Also the <ab>pl.<ab> is to be taken out from the <lex> field; needs to happen sometime later.
+AB: Need to keep in mind to consider these cases throughout later.
+
+* DONE 113 kṣaya MARKUP
+AB: I missed the text R(1325,3) 1. kṣáya (RV.); but that properly applies to L-59267. This accent change has to be done to that single entry.
+
+* DONE 118 gupti CORRECT 
+;; BEGIN AB.3.4.16 L=65948, k1=gupti, pc=359,1
+<L>65948<pc>359,1<k1>gupti<k2>gúpti<e>2A	¦ a means of protection, fortification, rampart, <ls>R. v f.</ls>; <ls>Kum. vi, 38</ls> <info n="rev" pc="1326,2"/><info lex="inh"/>	<LEND>
+;; R(1326,2) gupti (a ‘rampart,’ read ‘Kum. vi, 38’) in comp.;
+;; Insertion of the Kum. citation is correctly added here. But is the accent mark change also to be considered for the HW? (The comp. words below are properly rendered with this accent change.)
+;; Leaving to Jim to think and decide on this accent mark at HW.
+AB: As this entry is given as a header, probably the HW should be changed thus throughout (65945-65954).
+
+* DONE 121 ci MARKUP (<info verb="genuineroot"../>)
+;; BEGIN AB.3.4.19 L=73297, k1=ci, pc=394,2
+...
+;; As I could understand looking at the revision text, the aor. matter "<ab>Ved.</ab> <s>cikayām akar</s>, <ls>iii, 1, 42</ls>; <ls>Kāś.</ls>" here is to be moved to the 2. ci entry below (but with a change, akar as akaḥ- the ending r being a grammatical variant of visarga ḥ.)
+;; Seen that PWG is having this "cikayām akaḥ" under "1. ci" itself, but nothing similar under "2. ci"; and could not check if it is an error there, nor could locate the same in PW.
+;; Probably consulting a dhātupāṭha work might help clearing the point.
+;; Finally, this is not marked as a "rev".
+AB: As the correction is not done, naturally the "rev" tagging is not put.
+AB: I would like to lookup this entry closely sometime again; strongly feel this to take place (like at "bambaviśvavayas").
+AB: Also my ending remark at "ṛjūya" above may be looked at.
+AB: after doing the full revision entries, I am left with a feeling that MW (and his associates) had some genuine references, to go against the PW (or PWG) which also sometimes erred (thus giving wrong refenreces).
+
+* DONE 128 tajjalān MARKUP
+;; The word "read" warrants a correction, not an addition (as done here, though marking it as a "rev"). and the ";" indicating a separation between two <ls> ref.s
+;; I would suggest the entries to be revised as under-
+<Ls>81969<pc>433,2<k1>tajjalān<k2>taj—ja—lān<h>a<e>4	<s>taj—ja—lā<srs/>n</s> <hom>a</hom> ¦ <lex>mfn.</lex> <ab>accord.</ab> to some, taj-jānānîti, ‘thinking, may I know that’ <ls>ChUp. iii, 14, 1.</ls>; <ab>cf.</ab> <ls>IW. 102, 1</ls> <info n="rev" pc="1328,1"/><info lex="m:f:n"/>	<LEND>
+AB: the <s> tagging skipped in both AB's eyes (and Jim also did not notice the same) for "taj-jānānîti". To be marked as <s>taj-jānānī<srs/>ti</s>.
+
+* DONE 131 dādada CORRECT
+;; BEGIN AB.3.5.5 L=91239, k1=dādada, pc=474,1
+<L>91239<pc>474,1<k1>dādada<k2>dāda—da<e>3	<s>dāda—da</s> ¦ <lex>mfn.</lex> gift-giving, <ls>Śiś. <ab>ib.</ab></ls> <info n="rev" pc="1328,3"/><info lex="m:f:n"/>	<LEND>
+;; R(1328,3) dāda-da (erase x after ‘Śiś.’) 
+;; Revision correctly done here.
+;; But why is Śiś. required here, when the ib. is present? Probably that could also be 'erased'.
+AB: Probably we can have a second thought about having the Śiś. here.
+
+* DONE 140 dhṛṣṭa MARKUP
+...
+<L>101953.5<pc>1329,2<k1>dhṛṣṭa<k2>dhṛ́ṣṭa<e>2B	¦ (Read <s>dhṛ́ṣṭa</s> and<ab>cf.</ab> <ab>Introd.</ab> <ab>p.</ab> xviii.) <info n="rev"/>	<LEND>
+;; This <L>101953.5 entry is to be treated as a revision of <L>101946<pc>519,3<k1>dhṛṣṭa<k2>dhṛ́ṣṭa and deleted here.
+;; <Ls>101953.5 "This stands deleted, as a NULL record; to be deleted completely at the end."
+AB: The L-101953.5 deletion is missed, though the matter is applied at  L-101946 as suggested.
+
+* DONE 149 niṣṭakvan ACCENT
+;; BEGIN AB.3.5.23 L=110899, k1=niṣṭakvan, pc=563,1
+...
+;; We might have to trace out the base for the revised meanings ‘roaming, vagrant’, instead of the orig. meaning- prob. ‘running away’ -which tallies with both PWG and PW.
+AB: So, PWG and PW are not always the final sources for MW (see my latest comments under 38839 & 73297).
+
+* DONE 157 pānīya CORRECT
+...
+<L>120909<pc>613,2<k1>pānīya<k2>pānīya<e>2B	<s>pānīya</s> ¦ <lex>n.</lex> a beverage, drink, <ls>ib.</ls>; <ls>Pañc.</ls> <info n="rev" pc="1330,2"/><info lex="n"/>	<LEND>
+<L>120910<pc>613,2<k1>pānīya<k2>pānīya<e>2B	¦ water, <ls>Mn.</ls>; <ls>MBh.</ls> &c. (<ab>cf.</ab> <ls>Nir. i, 16</ls>). <info n="rev" pc="1330,2"/><info lex="inh"/>	<LEND>
+;; These two entries need not be marked with a "rev", being the continuation/splits of the above.
+;; Thus they would be as under-
+<Ls>120909<pc>613,2<k1>pānīya<k2>pānīya<e>2B	<s>pānīya</s> ¦ <lex>n.</lex> a beverage, drink, <ls>ib.</ls>; <ls>Pañc.</ls><info lex="n"/>	<LEND>
+<Ls>120910<pc>613,2<k1>pānīya<k2>pānīya<e>2B	¦ water, <ls>Mn.</ls>; <ls>MBh.</ls> &c. (<ab>cf.</ab> <ls>Nir. i, 16</ls>).<info lex="inh"/>	<LEND>
+AB: The "rev" tagging in these two records to be removed.
+
+* DONE 161 pūrvavat ACCENT
+;; BEGIN AB.3.6.12 L=128085, k1=pūrvavat, pc=644,1
+<L>128085<pc>644,1<k1>pūrvavat<k2>pū́rva—vát<h>2<e>3	<hom>2.</hom> <s>pū́rva—vát</s> ¦ <lex>ind.</lex> as before, as hitherto, as heretofore, as aforesaid<info lex="ind"/>	<LEND>
+<L>128085.1<pc>644,1<k1>pūrvavat<k2>pū́rva—vát<e>3A	¦ according to something previous (applied in the <s1 slp1="nyAya">Nyāya</s1> to a kind of inference such as inferring from the previous appearance of a cloud that rain will fall), <ls>RV.</ls>; &c.<info lex="inh"/>	<LEND>
+<L>128085.11<pc>1330,2<k1>pūrvavat<k2>pūrva—vat<h>a<e>3	<s>pūrva—vat</s> <hom>a</hom> ¦ <lex>n.</lex> add, ‘reasoning from cause to effect’ (one of the 3 kinds of <s>anumāna</s>, <ab>cf.</ab> <s>śeṣa-vat</s>, <ab>p.</ab> 1332).<info n="sup"/><info lex="n"/>	<LEND>
+;jim: did NOT move 128085.11
+AB: Not a big issue to break heads on.
+
+* DONE 164 pnā TYPO
+;; BEGIN AB.3.6.15 L=129737, k1=pnā, pc=652,2
+...
+AB: I've deliberately not shown the earlier discussion we had on this; reproducing the same here now (from MW_IAST_Annexure_Entries_seq_rem_2).
+%% revised and marked "rev". but the prescribed correction, "pnā" as "ptā" not done.
+; ? Many dictionaries have pnA,  but only SCH has 'ptA' with gloss '(nicht pnā) f. Haarflechte' = '(not pnā) f. hair braid'
+; ? Not sure how to handle.
+;; Suggest changing it to "ptā", as it is clearly marked thus as a correction. Also I see it in the sarvaśabdasambodhini, an alphabetical dictionary vith meanings in both Sanskrit and Telugu- this is purely based on traditional verse dictionaries in Skt. (indicated by MW as <L.>) [This is already hosted at our Andharabharati site.]
+;jim Suggest 1)keep pnA (with additional comment '(read <s>ptA</s>) of annex
+;jim AND Add new ptA entry -- text to be determined, but mentioning pnA.  AB: Probably Jim might have a second thought on agreeing to my point, forgetting his earlier STAND. (I still feel that is not necessary.)
+
+* DONE 166 pratardana ACCENT
+;; BEGIN AB.3.6.17 L=133755, k1=pratardana, pc=674,2
+<L>133755<pc>674,2<k1>pratardana<k2>pra-tardana<h>b<e>3	<s>pra-°tardana</s> <hom>b</hom> ¦ <lex>mfn.</lex> piercing, destroying (said of <s1 slp1="vizRu">Viṣṇu</s1>), <ls>Viṣṇ.</ls> <ab>MS.</ab> <info n="rev" pc="1330,3"/><info lex="m:f:n"/>	<LEND>
+;; R(1330,3) pra-tárdana (MS.)
+;; The HW accent in revision text is missed.
+;; The revised entry would be as under-
+<Ls>133755<pc>674,2<k1>pratardana<k2>pra-tárdana<h>b<e>3	<s>pra-°tárdana</s> <hom>b</hom> ¦ <lex>mfn.</lex> piercing, destroying (said of <s1 slp1="vizRu">Viṣṇu</s1>), <ls>Viṣṇ.</ls> <ab>MS.</ab> <info n="rev" pc="1330,3"/><info lex="m:f:n"/>	<LEND>
+AB: Wherefrom the ° got into <s>pra-°tárdana</s>? Needs to be removed.
+
+* DONE 171 bambaviśvavayas CORRECT
+;; However, this entry calls for an AND group of two entries- bamba-viśvavayás & bambā́-viśvávayas, looking at the text matter.
+;; Jim is requested to do the needful.
+AB: HWs splitting and "AND" grouping differed fro timebeing?
+
+* DONE 174 ma MARKUP
+;; BEGIN AB.3.6.25 L=153876.1, k1=ma, pc=771,2
+...
+;; As such, it should be placed the beginning of 4. mā entry (L-153876.1), not at the ending (L-153890). (Wonder how the new HW is given a .x L-number!!)
+AB: Would Jim not owe me a reply to this .1 L-number here? (This is not a new insersion from Annexure to have some "vague number" to be allotted.)
+
+* TODO 177 mamat ?
+;; BEGIN AB.3.6.28 L=157973, k1=mamat, pc=789,1
+<L>157973<pc>789,1<k1>mamat<k2>mámat<e>1	<s>mámat</s> ¦ <lex>ind.</lex> (only repeated with <s>caná</s>, or <s>cid</s>) no sooner-than &c., <ls>RV. iv, 18, 8; 9.</ls> <info n="rev" pc="1331,2"/><info lex="ind"/>	<LEND>
+;; R(1331,2) mámat (repeated, rather = ‘no sooner—than’
+;; The revised entry would be as under-
+<Ls>157973<pc>789,1<k1>mamat<k2>mámat<e>1	<s>mámat</s> ¦ <lex>ind.</lex> (repeated with <s>caná</s>, or <s>cid</s>) no sooner—than &c., <ls>RV. iv, 18, 8; 9.</ls> <info n="rev" pc="1331,2"/><info lex="ind"/>
+; jim: 	<LEND>
+AB: The revision indicated has the word 'only' removed. Also it is a conjunctive for that "no sooner—than" indicates, and a hyphen is not to be used in such places by convention.
+AB: The book clearly has a longer dash there. I would've even preferred having a space around the m-dash I used before.
+AB: One can see the original text at O(789,1) having such a gap on either side of the longer dash.
+
+* DONE 179 lakṣmaṇasena CORRECT
+;; BEGIN AB.3.7.1 L=180503, k1=lakṣmaṇasena, pc=892,2
+<L>180503<pc>892,2<k1>lakṣmaṇasena<k2>lakṣmaṇá—sena<e>3	<s>lakṣmaṇá—sena</s> ¦ <lex>m.</lex> a king of the <s1 slp1="sena">Sena</s1> dynasty of Eastern India (founder of an era, beginning on October 7, <ls>A.</ls>D. 1119) <info n="rev" pc="1332,1"/><info lex="m"/>	<LEND>
+;; R(1332,1) lakṣmaṇa-sena, m. a king of the Sena dynasty of Eastern India (founder of an era, beginning on October 7, A.D. 1119)
+;; Revision is correctly done here.
+;; But the marking of A.D as <ls>A.</ls>D. needs to be corrected as <ab>A.D.</ab> as discussed elsewhere. To be done globally sometime later.
+AB: Need to keep in mind as a TODO point.
+
+* DONE 192 saniṣyada CORRECT
+...
+;; The annexure entry "sa-nisrasa, see under under √sraṃs, p. 1273" should also properly belongs to this group as a "sup" entry. But it is erroneouly added at a very unrelated place at L-231174.1; it has to be moved here..
+;; Adding the same here as under-
+<Ls>231161.1<pc>1332,3<k1>sanisrasa<k2>sa-nisrasa<h>a<e>1	<s>sa-nisrasa</s> <hom>a</hom> ¦ see under √ <s>sraṃs</s>, <ab>p.</ab> 1273.<info n="sup"/>	<LEND>
+;; <Ls>231174.1 "This stands deleted, as a NULL record; to be deleted completely at the end."
+AB: L-231174.1 entry is deleted alright; but the L-231161.1 entry is not added.
+AB: This is a cross-referenced entry, under the sa- group. This HAS TO BE added as indicated and marked with <hom>a/b markings.
