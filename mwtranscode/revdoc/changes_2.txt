@@ -1,6 +1,6 @@
 ; changes_2.txt
 ; changes applied to ../mw_iast.txt at commit ddb4f6c746b4be331c89ed1b7320a03b4adf1250
-; result is new ../mw_iast.txt at commit dd526889bb399690822bf440be52216bbb345e53
+; result is new ../mw_iast.txt at commit 5af698cd034e0738b5f37d192463e1a0d875398f
 ;
 ; remove hom number out of <s></s>
 379839 old <hom>2.</hom> <s>ny-áñc</s> ¦ <lex>mf(<s>nī́cī</s>) n</lex> (<ab>fr.</ab> <s>ni + 2. añc</s>) (<s>ny-ak</s>). going or directed downwards, bent down, <ls>RV.</ls> &c. &c.<info lex="m:f#nIcI:n"/>
@@ -895,7 +895,7 @@
 ; L=37689, k1=uṣ, pc=220,1
 ; ACCENT, MARKUP
 133136 old <L>37689<pc>220,1<k1>uṣ<k2>uṣ<h>2<e>2
-133136 new <L>37689<pc>220,1<k1>úṣ<k2>uṣ<h>2<e>2
+133136 new <L>37689<pc>220,1<k1>uṣ<k2>úṣ<h>2<e>2
 ;
 133137 old <hom>2.</hom> <s>uṣ</s> ¦ <lex>f.</lex> (only <s>ás</s> <ab>gen.</ab> sg.) early morning, dawn, <ls>RV.</ls>; <ls>AV. xvi, 6, 6</ls><info lex="f"/>
 133137 new <hom>2.</hom> <s>úṣ</s> ¦ <lex>f.</lex> (only <s>ás</s> <ab>gen.</ab> sg.) early morning, dawn, <ls>RV.</ls>; <ls>AV. xvi, 6, 6</ls><info n="rev" pc="1322,2"/><info lex="f"/>
@@ -1107,7 +1107,7 @@
 ; L=43347, k1=kapanā, pc=250,1
 ; ACCENT, MARKUP
 152156 old <L>43347<pc>250,1<k1>kapanā<k2>kapanā<e>1
-152156 new <L>43347<pc>250,1<k1>kapanā́<k2>kapanā<e>1
+152156 new <L>43347<pc>250,1<k1>kapanā<k2>kapanā́<e>1
 ;
 152157 old <s>kapanā</s> ¦ <lex>f.</lex> (√ <s>kamp</s>, <ls>Nir. vi, 4</ls>), a worm, caterpillar, <ls>RV. v, 54, 6</ls><info lex="f"/>
 152157 new <s>kapanā́</s> ¦ <lex>f.</lex> (√ <s>kamp</s>, <ls>Nir. vi, 4</ls>), a worm, caterpillar, <ls>RV. v, 54, 6</ls><info n="rev" pc="1323,3"/><info lex="f"/>
