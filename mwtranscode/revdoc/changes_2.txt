@@ -1,0 +1,2151 @@
+; changes_2.txt
+; changes applied to ../mw_iast.txt at commit ddb4f6c746b4be331c89ed1b7320a03b4adf1250
+; result is new ../mw_iast.txt at commit dd526889bb399690822bf440be52216bbb345e53
+;
+; remove hom number out of <s></s>
+379839 old <hom>2.</hom> <s>ny-áñc</s> ¦ <lex>mf(<s>nī́cī</s>) n</lex> (<ab>fr.</ab> <s>ni + 2. añc</s>) (<s>ny-ak</s>). going or directed downwards, bent down, <ls>RV.</ls> &c. &c.<info lex="m:f#nIcI:n"/>
+379839 new <hom>2.</hom> <s>ny-áñc</s> ¦ <lex>mf(<s>nī́cī</s>) n</lex> (<ab>fr.</ab> <s>ni</s> + <hom>2.</hom> <s>añc</s>) (<s>ny-ak</s>). going or directed downwards, bent down, <ls>RV.</ls> &c. &c.<info lex="m:f#nIcI:n"/>
+; >> error  change to > (5 cases)
+254001 old <s>cūrṇī—bhū</s> ¦ (<ab>p.</ab> <s>-bhavat</s>), to become dust, become smashed, <ls>72, 37</ls> ; <ls>Vikr. i, 4.</ls>><info verb="gati" parse="cUrRI+BU"/>
+254001 new <s>cūrṇī—bhū</s> ¦ (<ab>p.</ab> <s>-bhavat</s>), to become dust, become smashed, <ls>72, 37</ls> ; <ls>Vikr. i, 4.</ls><info verb="gati" parse="cUrRI+BU"/>
+254747 old <s>caitraseni</s> ¦ <lex>m.</lex> <ab>patr.</ab> <ab>fr.</ab> <s>citra-sena</s>, <ls>>MBh. vii, 916 and 1091.</ls><info lex="m"/>
+254747 new <s>caitraseni</s> ¦ <lex>m.</lex> <ab>patr.</ab> <ab>fr.</ab> <s>citra-sena</s>, <ls>MBh. vii, 916 and 1091.</ls><info lex="m"/>
+295798 old <s>trí—jaṭa</s> ¦ <lex>mf(<s>ā</s>)n.</lex> = <s>-kapardin</s>, <ls>MBh. iii</ls>, (<s1 slp1="Siva">Śiva</s1>), <ls>>xii</ls><info lex="m:f#A:n"/>
+295798 new <s>trí—jaṭa</s> ¦ <lex>mf(<s>ā</s>)n.</lex> = <s>-kapardin</s>, <ls>MBh. iii</ls>, (<s1 slp1="Siva">Śiva</s1>), <ls>xii</ls><info lex="m:f#A:n"/>
+305581 old ¦ view, doctrine, philosophical system (6 in number, <ab>viz.</ab> [<s1 slp1="pUrva">Pūrva</s1>-] <s1 slp1="mImAMsA">Mīmāṉsā</s1> by, <ls>Jaim.</ls> <s1 slp1="uttara-mImAMsA">Uttara-Mīmāṉsā</s1>> by, <ls>Bādar.</ls>; <s1 slp1="nyAya">Nyāya</s1> by <s1 slp1="gotama">Gotama</s1>, <ls>Vaiśeṣika</ls> by <s1 slp1="kaRAda">Kaṇâda</s1> <s1 slp1="sAMKya">Sāṃkhya</s1> by, <ls>Kap.</ls>; Yoga by, <ls>Pat.</ls>), <ls>MBh. xii, 11045 f.</ls>; <ls>BhP.</ls> &c.<info lex="inh"/>
+305581 new ¦ view, doctrine, philosophical system (6 in number, <ab>viz.</ab> [<s1 slp1="pUrva">Pūrva</s1>-] <s1 slp1="mImAMsA">Mīmāṉsā</s1> by, <ls>Jaim.</ls> <s1 slp1="uttara-mImAMsA">Uttara-Mīmāṉsā</s1> by, <ls>Bādar.</ls>; <s1 slp1="nyAya">Nyāya</s1> by <s1 slp1="gotama">Gotama</s1>, <ls>Vaiśeṣika</ls> by <s1 slp1="kaRAda">Kaṇâda</s1> <s1 slp1="sAMKya">Sāṃkhya</s1> by, <ls>Kap.</ls>; Yoga by, <ls>Pat.</ls>), <ls>MBh. xii, 11045 f.</ls>; <ls>BhP.</ls> &c.<info lex="inh"/>
+425592 old <s>purú—praí<srs/>ṣa</s> ¦ <s>purú-praí<srs/>ṣa</s> or <s>>purú—prai<srs/>ṣá</s>, <lex>mfn.</lex> inciting many, <ls>RV.</ls><info lex="m:f:n"/>
+425592 new <s>purú—praí<srs/>ṣa</s> ¦ <s>purú-praí<srs/>ṣa</s> or <s>purú—prai<srs/>ṣá</s>, <lex>mfn.</lex> inciting many, <ls>RV.</ls><info lex="m:f:n"/>
+;
+; à -> â (svarita)
+85454 old <s>ādyá</s> ¦ (for <hom>2.</hom> <s>ādyà</s> See <ab>s.v.</ab>)
+85454 new <s>ādyá</s> ¦ (for <hom>2.</hom> <s>ādyâ</s> See <ab>s.v.</ab>)
+592156 old <L>176844<pc>875,1<k1>rājanya<k2>rājanyà<e>2
+592156 new <L>176844<pc>875,1<k1>rājanya<k2>rājanyâ<e>2
+592157 old <s>rājanyà</s> ¦ <lex>mf(<s>ā̀</s>)n.</lex> kingly, princely, royal, <ls>RV.</ls> &c. &c.<info lex="m:f#A:n"/>
+; ā̂ = a-macron + comb-circumflex  
+592157 new <s>rājanyâ</s> ¦ <lex>mf(<s>ā̂</s>)n.</lex> kingly, princely, royal, <ls>RV.</ls> &c. &c.<info lex="m:f#A:n"/>
+;
+; -- i+combmacron+combacute ī́ -> i-macron+combacute ī́
+99522 old <L>27989<pc>160,2<k1>āsandīvat<k2>āsandī́—vat<e>3
+99522 new <L>27989<pc>160,2<k1>āsandīvat<k2>āsandī́—vat<e>3
+99523 old <s>āsandī́—vat</s> ¦ <lex>m.</lex> <ab>N.</ab> of a country, <ls>Pāṇ.</ls>; <ls>AitBr.</ls>; <ls>ŚBr.</ls> <info n="rev" pc="1320,2"/><info lex="m"/>
+99523 new <s>āsandī́—vat</s> ¦ <lex>m.</lex> <ab>N.</ab> of a country, <ls>Pāṇ.</ls>; <ls>AitBr.</ls>; <ls>ŚBr.</ls> <info n="rev" pc="1320,2"/><info lex="m"/>
+; --   change i+combacute í to preformed í
+49026 old <L>13464<pc>77,3<k1>abhyāvartin<k2>abhy-āvartín<e>2
+49026 new <L>13464<pc>77,3<k1>abhyāvartin<k2>abhy-āvartín<e>2
+49027 old <s>abhy-āvartín</s> ¦ <lex>mfn.</lex> coming near, coming repeatedly, <ls>VS.</ls> (<ab>voc.</ab>), <ls>Kauś.</ls> <info n="rev" pc="1315,2"/><info lex="m:f:n"/>
+49027 new <s>abhy-āvartín</s> ¦ <lex>mfn.</lex> coming near, coming repeatedly, <ls>VS.</ls> (<ab>voc.</ab>), <ls>Kauś.</ls> <info n="rev" pc="1315,2"/><info lex="m:f:n"/>
+; ---  change combining a+macron ā́
+;      to preformed ā  (31 instances)
+; correct a+combmacron to a-macron
+3272 old <L>887<pc>5,1<k1>agnāviṣṇū<k2>agnā́—viṣṇū<e>3
+3272 new <L>887<pc>5,1<k1>agnāviṣṇū<k2>agnā́—viṣṇū<e>3
+3273 old <s>agnā́—viṣṇū</s> ¦ <ab>voc.</ab> <lex>m. <ab>du.</ab></lex> <s1 slp1="agni">Agni</s1> and <s1 slp1="vizRu">Viṣṇu</s1>, <ls>AV.</ls>; <ls>ŚBr.</ls> <info n="rev" pc="1309,1"/><info lexcat="INFLECTID=m1d,STEM=agnAvizRu"/>
+3273 new <s>agnā́—viṣṇū</s> ¦ <ab>voc.</ab> <lex>m. <ab>du.</ab></lex> <s1 slp1="agni">Agni</s1> and <s1 slp1="vizRu">Viṣṇu</s1>, <ls>AV.</ls>; <ls>ŚBr.</ls> <info n="rev" pc="1309,1"/><info lexcat="INFLECTID=m1d,STEM=agnAvizRu"/>
+4376 old <L>1183<pc>6,2<k1>agnyupasthāna<k2>agny-upasthā́na<e>3
+4376 new <L>1183<pc>6,2<k1>agnyupasthāna<k2>agny-upasthā́na<e>3
+4377 old <s>agny-upasthā́na</s> ¦ <lex>n.</lex> worship of <s1 slp1="agni">Agni</s1> at the conclusion of the <s1 slp1="agnihotra">Agnihotra</s1> &c., <ls>ŚBr.</ls>; <ls>MaitrS.</ls> <info n="rev" pc="1309,1"/><info lex="n"/>
+4377 new <s>agny-upasthā́na</s> ¦ <lex>n.</lex> worship of <s1 slp1="agni">Agni</s1> at the conclusion of the <s1 slp1="agnihotra">Agnihotra</s1> &c., <ls>ŚBr.</ls>; <ls>MaitrS.</ls> <info n="rev" pc="1309,1"/><info lex="n"/>
+9216 old <L>2530<pc>12,1<k1>atamāviṣṭa<k2>a-tamā́viṣṭa<e>3
+9216 new <L>2530<pc>12,1<k1>atamāviṣṭa<k2>a-tamā́viṣṭa<e>3
+9217 old <s>a-tamā́<srs/>viṣṭa</s> ¦ (irregular contraction of <s>a-tama-āviṣṭa</s>) <lex>mfn.</lex> not enveloped in darkness, <ls>MaitrUp.</ls>; <ls>ŚBr.</ls> <info n="rev" pc="1309,3"/><info lex="m:f:n"/>
+9217 new <s>a-tamā́<srs/>viṣṭa</s> ¦ (irregular contraction of <s>a-tama-āviṣṭa</s>) <lex>mfn.</lex> not enveloped in darkness, <ls>MaitrUp.</ls>; <ls>ŚBr.</ls> <info n="rev" pc="1309,3"/><info lex="m:f:n"/>
+17296 old <s>adhri</s> ¦ <lex>mfn.</lex> (√ <s>dhṛ</s>), unrestrained, irresistible, (<s>adri</s> with the <ab>MSS.</ab>; <s>grā́vā ádriḥ</s> = ‘press-stone’) <ls>AV. v, 20, 10.</ls><info n="rev" pc="1310,3"/><info lex="m:f:n"/>
+17296 new <s>adhri</s> ¦ <lex>mfn.</lex> (√ <s>dhṛ</s>), unrestrained, irresistible, (<s>adri</s> with the <ab>MSS.</ab>; <s>grā́vā ádriḥ</s> = ‘press-stone’) <ls>AV. v, 20, 10.</ls><info n="rev" pc="1310,3"/><info lex="m:f:n"/>
+41395 old <L>11239<pc>61,2<k1>abhikrāmam<k2>abhi-krā́mam<e>2
+41395 new <L>11239<pc>61,2<k1>abhikrāmam<k2>abhi-krā́mam<e>2
+41396 old <s>abhi-krā́mam</s> ¦ <lex>ind.</lex> so as to step near, <ls>MaitrS.</ls>; <ls>KātyŚr.</ls> <info n="rev" pc="1315,1"/><info lex="ind"/>
+41396 new <s>abhi-krā́mam</s> ¦ <lex>ind.</lex> so as to step near, <ls>MaitrS.</ls>; <ls>KātyŚr.</ls> <info n="rev" pc="1315,1"/><info lex="ind"/>
+86440 old <L>24184<pc>138,3<k1>ādhirājya<k2>ā́dhirājya<e>1
+86440 new <L>24184<pc>138,3<k1>ādhirājya<k2>ā́dhirājya<e>1
+86441 old <s>ā́dhirājya</s> ¦ <lex>n.</lex> (<ab>fr.</ab> <s>adhi-rāja</s>), royalty, royal government, supreme sway, <ls>AV.</ls>; <ls>Ragh.</ls>; <ls>Bālar.</ls> <info n="rev" pc="1319,2"/><info lex="n"/>
+86441 new <s>ā́dhirājya</s> ¦ <lex>n.</lex> (<ab>fr.</ab> <s>adhi-rāja</s>), royalty, royal government, supreme sway, <ls>AV.</ls>; <ls>Ragh.</ls>; <ls>Bālar.</ls> <info n="rev" pc="1319,2"/><info lex="n"/>
+88511 old <L>24812<pc>142,2<k1>āpnāna<k2>ā́pnāna<e>2
+88511 new <L>24812<pc>142,2<k1>āpnāna<k2>ā́pnāna<e>2
+88512 old <s>ā́pnāna</s> ¦ (<ab>cf.</ab> √ <hom>1.</hom> <s>āp</s>) <lex>n.</lex> (<ab>scil.</ab> <s>tīrtha</s>) the passage to the place of sacrifice, <ls>RV.</ls> <info n="rev" pc="1319,3"/><info lex="n"/>
+88512 new <s>ā́pnāna</s> ¦ (<ab>cf.</ab> √ <hom>1.</hom> <s>āp</s>) <lex>n.</lex> (<ab>scil.</ab> <s>tīrtha</s>) the passage to the place of sacrifice, <ls>RV.</ls> <info n="rev" pc="1319,3"/><info lex="n"/>
+90522 old <L>25395<pc>146,1<k1>ām<k2>ā́m<e>1
+90522 new <L>25395<pc>146,1<k1>ām<k2>ā́m<e>1
+90523 old <s>ā́m</s> ¦ <lex>ind.</lex> an interjection of assent or recollection, <ls>MaitrS.</ls>; <ls>Mṛcch.</ls>; <ls>Śak.</ls>; <ls>Vikr.</ls> &c. <info n="rev" pc="1319,3"/><info lex="ind"/>
+90523 new <s>ā́m</s> ¦ <lex>ind.</lex> an interjection of assent or recollection, <ls>MaitrS.</ls>; <ls>Mṛcch.</ls>; <ls>Śak.</ls>; <ls>Vikr.</ls> &c. <info n="rev" pc="1319,3"/><info lex="ind"/>
+94973 old <L>26686<pc>153,1<k1>ālāpa<k2>ā́-lāpá<h>a<e>2
+94973 new <L>26686<pc>153,1<k1>ālāpa<k2>ā́-lāpá<h>a<e>2
+94974 old <s>ā́-lāpá</s> <hom>a</hom> ¦ <lex>m.</lex> speaking to, addressing, <ls>AV.</ls> <info n="rev" pc="1320,2"/><info lex="m"/>
+94974 new <s>ā́-lāpá</s> <hom>a</hom> ¦ <lex>m.</lex> speaking to, addressing, <ls>AV.</ls> <info n="rev" pc="1320,2"/><info lex="m"/>
+94976 old <L>26687<pc>153,1<k1>ālāpa<k2>ā́-lāpá<e>2A
+94976 new <L>26687<pc>153,1<k1>ālāpa<k2>ā́-lāpá<e>2A
+94979 old <L>26688<pc>153,1<k1>ālāpa<k2>ā́-lāpá<e>2A
+94979 new <L>26688<pc>153,1<k1>ālāpa<k2>ā́-lāpá<e>2A
+94982 old <L>26689<pc>153,1<k1>ālāpa<k2>ā́-lāpá<e>2A
+94982 new <L>26689<pc>153,1<k1>ālāpa<k2>ā́-lāpá<e>2A
+94985 old <L>26690<pc>153,1<k1>ālāpa<k2>ā́-lāpá<e>2A
+94985 new <L>26690<pc>153,1<k1>ālāpa<k2>ā́-lāpá<e>2A
+94988 old <L>26691<pc>153,1<k1>ālāpa<k2>ā́-lāpá<e>2A
+94988 new <L>26691<pc>153,1<k1>ālāpa<k2>ā́-lāpá<e>2A
+94991 old <L>26692<pc>153,1<k1>ālāpa<k2>ā́-lāpá<e>2A
+94991 new <L>26692<pc>153,1<k1>ālāpa<k2>ā́-lāpá<e>2A
+94997 old <L>26694<pc>153,1<k1>ālāpavat<k2>ā́-lāpá—vat<e>3
+94997 new <L>26694<pc>153,1<k1>ālāpavat<k2>ā́-lāpá—vat<e>3
+94998 old <s>ā́-lāpá—vat</s> ¦ <lex>mfn.</lex> speaking, addressing, <ls>Amar.</ls><info lex="m:f:n"/>
+94998 new <s>ā́-lāpá—vat</s> ¦ <lex>mfn.</lex> speaking, addressing, <ls>Amar.</ls><info lex="m:f:n"/>
+105518 old <L>29662<pc>169,3<k1>iṣṭvā<k2>iṣṭvā́<e>2
+105518 new <L>29662<pc>169,3<k1>iṣṭvā<k2>iṣṭvā́<e>2
+105519 old <s>iṣṭvā́</s> ¦ <ab>ind.p.</ab> having sacrificed or worshipped, <ls>AV.</ls> <info n="rev" pc="1321,1"/>
+105519 new <s>iṣṭvā́</s> ¦ <ab>ind.p.</ab> having sacrificed or worshipped, <ls>AV.</ls> <info n="rev" pc="1321,1"/>
+106040 old <L>29792<pc>170,3<k1>īrmānta<k2>īrmā́nta<e>1
+106040 new <L>29792<pc>170,3<k1>īrmānta<k2>īrmā́nta<e>1
+106041 old <s>īrmā́<srs/>nta</s> ¦ <lex>mfn.</lex> (<ab>fr.</ab> <s>īrma</s> = <s>īrita</s> with <s>anta</s>, <ls>Sāy.</ls>), full-haunched (<ab>lit.</ab> full-ended, <ls>RV.</ls>) <info n="rev" pc="1321,1"/><info lex="m:f:n"/>
+106041 new <s>īrmā́<srs/>nta</s> ¦ <lex>mfn.</lex> (<ab>fr.</ab> <s>īrma</s> = <s>īrita</s> with <s>anta</s>, <ls>Sāy.</ls>), full-haunched (<ab>lit.</ab> full-ended, <ls>RV.</ls>) <info n="rev" pc="1321,1"/><info lex="m:f:n"/>
+119070 old <L>33563<pc>191,3<k1>udvāsya<k2>ud-vā́sya<e>2
+119070 new <L>33563<pc>191,3<k1>udvāsya<k2>ud-vā́sya<e>2
+119071 old <s>ud-vā́sya</s> ¦ <lex>mfn.</lex> to be taken off, <ls>MaitrS.</ls> <info n="rev" pc="1322,1"/><info lex="m:f:n"/>
+119071 new <s>ud-vā́sya</s> ¦ <lex>mfn.</lex> to be taken off, <ls>MaitrS.</ls> <info n="rev" pc="1322,1"/><info lex="m:f:n"/>
+; u+combinmacron -> preform u
+; 
+137039 old <L>38839<pc>225,3<k1>ṛjūyat<k2>ṛjū́yat<e>2
+137039 new <L>38839<pc>225,3<k1>ṛjūyat<k2>ṛjū́yat<e>2
+137040 old <s>ṛjū́yat</s> ¦ (<ab>fr.</ab> <s>ṛjūya</s>) <ab>Nom.</ab> <ab>P.</ab> (<ab>p.</ab> <s>ṛjūyát</s>) to walk straight-forward, be right or honest, <ls>RV.</ls> : <ab>Ā.</ab> (<ab>p.</ab> <s>ṛjūyámāna</s>) to tend straight upward, <ls>RV. x, 88, 9.</ls> <info n="rev" pc="1322,3"/><info verb="nom" cp="PĀ"/>
+137040 new <s>ṛjū́yat</s> ¦ (<ab>fr.</ab> <s>ṛjūya</s>) <ab>Nom.</ab> <ab>P.</ab> (<ab>p.</ab> <s>ṛjūyát</s>) to walk straight-forward, be right or honest, <ls>RV.</ls> : <ab>Ā.</ab> (<ab>p.</ab> <s>ṛjūyámāna</s>) to tend straight upward, <ls>RV. x, 88, 9.</ls> <info n="rev" pc="1322,3"/><info verb="nom" cp="PĀ"/>
+;
+; r+combdot+combaccent -> r-dot+combaccent
+87593 old <L>24541<pc>140,3<k1>ānetṛ<k2>ā-netṛ́<e>2
+87593 new <L>24541<pc>140,3<k1>ānetṛ<k2>ā-netṛ́<e>2
+87594 old <s>ā-netṛ́</s> ¦ <lex>mfn.</lex> one who leads or brings near, a bringer, bringing, <ls>RV.</ls>; <ls>Kathās.</ls> <info n="rev" pc="1319,3"/><info lex="m:f:n"/>
+87594 new <s>ā-netṛ́</s> ¦ <lex>mfn.</lex> one who leads or brings near, a bringer, bringing, <ls>RV.</ls>; <ls>Kathās.</ls> <info n="rev" pc="1319,3"/><info lex="m:f:n"/>
+;
+; u+combaccent ú -> preformed ú 
+102530 old <L>28804<pc>165,3<k1>idaṃyu<k2>idaṃ—yú<e>3
+102530 new <L>28804<pc>165,3<k1>idaṃyu<k2>idaṃ—yú<e>3
+102531 old <s>idaṃ—yú</s> ¦ desiring this, <ls>Naigh. iv, 3</ls>; <ls>Nir.</ls> <info n="rev" pc="1320,3"/>
+102531 new <s>idaṃ—yú</s> ¦ desiring this, <ls>Naigh. iv, 3</ls>; <ls>Nir.</ls> <info n="rev" pc="1320,3"/>
+;
+; a+combgrave à -> preformed à
+;
+28294 old <L>7758<pc>42,1<k1>anūbandhya<k2>anū-bandhyà<e>1
+28294 new <L>7758<pc>42,1<k1>anūbandhya<k2>anū-bandhyà<e>1
+28295 old <s>anū-bandhyà</s> ¦ <lex>mfn.</lex> to be fastened (as a sacrificial animal) for slaughtering, <ls>MaitrS.</ls>; <ls>ŚBr.</ls> &c. <info n="rev" pc="1312,2"/><info lex="m:f:n"/>
+28295 new <s>anū-bandhyà</s> ¦ <lex>mfn.</lex> to be fastened (as a sacrificial animal) for slaughtering, <ls>MaitrS.</ls>; <ls>ŚBr.</ls> &c. <info n="rev" pc="1312,2"/><info lex="m:f:n"/>
+88475 old <L>24802<pc>142,2<k1>āptavya<k2>āptavyà<e>2
+88475 new <L>24802<pc>142,2<k1>āptavya<k2>āptavyà<e>2
+88476 old <s>āptavyà</s> ¦ <lex>mfn.</lex> to be reached, obtainable, <ls>ŚBr.</ls> <info n="rev" pc="1319,3"/><info lex="m:f:n"/>
+88476 new <s>āptavyà</s> ¦ <lex>mfn.</lex> to be reached, obtainable, <ls>ŚBr.</ls> <info n="rev" pc="1319,3"/><info lex="m:f:n"/>
+95059 old <L>26712<pc>153,2<k1>ālabhya<k2>ā-labhyà<h>1<e>2
+95059 new <L>26712<pc>153,2<k1>ālabhya<k2>ā-labhyà<h>1<e>2
+95060 old <hom>1.</hom> <s>ā-labhyà</s> ¦ <lex>mfn.</lex> to be killed or sacrificed, <ls>TS.</ls>; <ls>TBr.</ls> <info n="rev" pc="1320,2"/><info lex="m:f:n"/>
+95060 new <hom>1.</hom> <s>ā-labhyà</s> ¦ <lex>mfn.</lex> to be killed or sacrificed, <ls>TS.</ls>; <ls>TBr.</ls> <info n="rev" pc="1320,2"/><info lex="m:f:n"/>
+132554 old <L>37524<pc>219,1<k1>ulmukamathya<k2>ulmuka—mathyà<e>3
+132554 new <L>37524<pc>219,1<k1>ulmukamathya<k2>ulmuka—mathyà<e>3
+132555 old <s>ulmuka—mathyà</s> ¦ <lex>mfn.</lex> to be produced out of a firebrand (as fire), <ls>ŚBr. xii, 4, 3, 3.</ls> <info n="rev" pc="1322,3"/><info lex="m:f:n"/>
+132555 new <s>ulmuka—mathyà</s> ¦ <lex>mfn.</lex> to be produced out of a firebrand (as fire), <ls>ŚBr. xii, 4, 3, 3.</ls> <info n="rev" pc="1322,3"/><info lex="m:f:n"/>
+;
+; L=1672.1, k1=aṅgārakayantra, pc=1309,2
+; DEFERRED
+;6150 old <L>1672.1<pc>1309,2<k1>aṅgārakayantra<k2>aṅgāraka-yantra<e>3
+;6150 new <L>1672.1<pc>1309,2<k1>aṅgārakayantra<k2>aṅgāraka-yantra<e>3
+;
+;6151 old <s>aṅgāraka-yantra</s> ¦ (or <s>bhauma-y°</s>), <lex>n.</lex> a kind of auspicious diagram, <ls>Inscr.</ls><info n="sup"/><info lex="n"/>
+;6151 new <s>aṅgāraka-yantra</s> ¦ (or <s>bhauma-y°</s>), <lex>n.</lex> a kind of auspicious diagram, <ls>Inscr.</ls><info n="sup"/><info lex="n"/>
+;
+; L=4020, k1=adharmāstikāya, pc=20,1
+; MARKUP (added sense)
+;14646 old <L>4020<pc>20,1<k1>adharmāstikāya<k2>adharmāstikāya<e>3
+;14646 new <L>4020<pc>20,1<k1>adharmāstikāya<k2>adharmāstikāya<e>3
+;
+14647 old <s>adharmā<srs/>stikāya</s> ¦ <lex>m.</lex> the category (<s>astikāya</s>) of <s>adharma</s>, (one of the five categories of the <s1 slp1="jEna">Jaina</s1> ontology). <info lex="m"/>
+14647 new <s>adharmā<srs/>stikāya</s> ¦ <lex>m.</lex> the category (<s>astikāya</s>) of <s>adharma</s>, (one of the five categories of the <s1 slp1="jEna">Jaina</s1> ontology); (<ab>accord.</ab> to some Jaina authorities, ‘the category which is the determinant cause of rest’)<info n="rev" pc="1310,2"/>)<info lex="m"/>
+;
+; L=4251, k1=adhiji, pc=21,1
+; Insert 4251.1 as a div in 4251;  and delete rest of 4251.1
+; Classify as revision
+;15556 old <L>4251<pc>21,1<k1>adhiji<k2>adhi-ji<e>1
+;15556 new <L>4251<pc>21,1<k1>adhiji<k2>adhi-ji<e>1
+; 
+15557 old <s>adhi-√ ji</s> ¦ (<ab>Subj.</ab> 2. <ab>sg.</ab> <s>-jayāsi</s>) to, win in addition, <ls>RV. vi, 35, 2.</ls><info verb="pre" cp="" parse="aDi+ji"/>
+15557 new <s>adhi-√ ji</s> ¦ (<ab>Subj.</ab> 2. <ab>sg.</ab> <s>-jayāsi</s>) to, win in addition, <ls>RV. vi, 35, 2.</ls><info verb="pre" cp="" parse="aDi+ji"/>
+;
+15558 old <LEND>
+15558 new <div n="to"/>(Prec. 1. <ab>pl.</ab> <s>-jīyāsma</s>), to overcome, <ls>Bhaṭṭ.</ls><info n="rev" pc="1310,2"/>
+;
+15559 old <L>4251.1<pc>1310,2<k1>adhiji<k2>adhi-ji<e>1A
+15559 new <LEND>
+;
+; L=4251.1, k1=adhiji, pc=1310,2
+;
+;15559 old <L>4251.1<pc>1310,2<k1>adhiji<k2>adhi-ji<e>1A
+;15559 new <L>4251.1<pc>1310,2<k1>adhiji<k2>adhi-ji<e>1A
+;15559 del 
+;
+15560 old ¦ (Prec. 1. <ab>pl.</ab> <s>-jīyāsma</s>), to overcome, <ls>Bhaṭṭ.</ls><info n="sup"/>
+;15560 new ¦ (Prec. 1. <ab>pl.</ab> <s>-jīyāsma</s>), to overcome, <ls>Bhaṭṭ.</ls><info n="sup"/>
+15560 del 
+;
+15561 old <LEND>
+15561 del 
+;
+; L=16679.1  new entry alātacakra between 16679 and 16679.2
+;
+60414 old <LEND>
+60414 ins <L>16679.1<pc>1316,3<k1>alātacakra<k2>alāta-cakra<e>3
+;
+60414 old <LEND>
+60414 ins <s>alāta-cakra</s> ¦ <lex>n.</lex> a fire-brand carried around (<s>-vat</s>, <lex type="phw">f.</lex>), <ls>MBh.</ls>; <ls>R.</ls> &c.<info phwchild="16679.2"/><info n="sup"/><info lex="n"/>
+;
+60414 old <LEND>
+60414 ins <LEND>
+;
+; L= 16679.2 change:  H4 and phwparent
+60415 old <L>16679.2<pc>1316,3<k1>alātacakravat<k2>alāta-cakra—vat<e>3
+60415 new <L>16679.2<pc>1316,3<k1>alātacakravat<k2>alāta-cakra—vat<e>4
+;
+60416 old <s>alāta-cakra—vat</s> ¦ (<lex>ind.</lex>) <info n="sup"/><info lex="ind"/>
+60416 new <s>alāta-cakra—vat</s> ¦ (<lex>ind.</lex>) <info n="sup"/><info phwparent="16679.1,alAtacakra"/><info lex="ind"/>
+;
+; L=20289, k1=aṣṭāpruṣ, pc=116,3
+; ACCENT  ṭā́
+; Also, correct lexcat
+73058 old <L>20289<pc>116,3<k1>aṣṭāpruṣ<k2>aṣṭā—pruṣ<e>3
+73058 new <L>20289<pc>116,3<k1>aṣṭāpruṣ<k2>aṣṭā́—pruṣ<e>3
+;
+73059 old <s>aṣṭā—pruṣ</s> ¦ (<s>aṣṭā-</s>) <lex>mfn.</lex> (<ab>nom.</ab> <lex type="hwinfo">n.</lex> <s>-prūṭ</s> !) having (<ab>i.e.</ab> marked by a sign similar to) eight drops (as a golden coin <ab>cf.</ab> <s>aṣṭā-pada</s>), <ls>TS.</ls><info lexcat="LEXID=card,STEM=azwAviMSati"/>
+73059 new <s>aṣṭā́—pruṣ</s> ¦  <lex>mfn.</lex> (<ab>nom.</ab> <lex type="hwinfo">n.</lex> <s>-prūṭ</s> !) having (<ab>i.e.</ab> marked by a sign similar to) eight drops (as a golden coin <ab>cf.</ab> <s>aṣṭā-pada</s>), <ls>TS.</ls><info lex="m:f:n"/>
+;
+; L=20400, k1=asaṃvlaya, pc=117,3
+; ACCENT á
+73481 old <L>20400<pc>117,3<k1>asaṃvlaya<k2>a-saṃvlaya<e>1
+73481 new <L>20400<pc>117,3<k1>asaṃvlaya<k2>á-saṃvlaya<e>1
+;
+73482 old <s>a-saṃvlaya</s> ¦ <lex>m.</lex> the not sinking down, <ls>TBr.</ls><info lex="m"/>
+73482 new <s>á-saṃvlaya</s> ¦ <lex>m.</lex> the not sinking down, <ls>TBr.</ls><info lex="m"/>
+;
+; L=21733, k1=aharpati, pc=124,3
+; ACCENT  í
+78041 old <L>21733<pc>124,3<k1>aharpati<k2>áhar—páti<e>3
+78041 new <L>21733<pc>124,3<k1>aharpati<k2>ahar—patí<e>3
+;
+78042 old <s>áhar—páti</s> ¦ <lex>m.</lex> (<ls>Pāṇ. 8-2, 70</ls> <ab>Comm.</ab>) lord of the day, <ls>VS.</ls>; <ls>MaitrS.</ls><info lex="m"/>
+78042 new <s>ahar—patí</s> ¦ <lex>m.</lex> (<ls>Pāṇ. 8-2, 70</ls> <ab>Comm.</ab>) lord of the day, <ls>VS.</ls>; <ls>MaitrS.</ls><info lex="m"/>
+;
+; L=23969, k1=ādinavadarśa, pc=137,2
+; ACCENT
+85723 old <L>23969<pc>137,2<k1>ādinavadarśa<k2>ādinavá—darśa<e>3
+85723 new <L>23969<pc>137,2<k1>ādinavadarśa<k2>ādinava—darśá<e>3
+;
+85724 old <s>ādinavá—darśa</s> ¦ <lex>mfn.</lex> having in view (another's) misfortune, <ls>VS. xxx, 18.</ls><info lex="m:f:n"/>
+85724 new <s>ādinava—darśá</s> ¦ <lex>mfn.</lex> having in view (another's) misfortune, <ls>VS. xxx, 18.</ls><info lex="m:f:n"/>
+;
+; L=24427, k1=ānandātman, pc=140,1
+; ACCENT ā́
+87220 old <L>24427<pc>140,1<k1>ānandātman<k2>ānandātman<e>3
+87220 new <L>24427<pc>140,1<k1>ānandātman<k2>ānandā́tman<e>3
+;
+87221 old <s>ānandā<srs/>tman</s> ¦ <lex>mfn.</lex> one whose essence consists in happiness, <ls>ŚBr.</ls><info lex="m:f:n"/>
+87221 new <s>ānandā́<srs/>tman</s> ¦ <lex>mfn.</lex> one whose essence consists in happiness, <ls>ŚBr.</ls><info lex="m:f:n"/>
+;
+; L=24682, k1=āntya, pc=141,3
+; ACCENT
+88048 old <L>24682<pc>141,3<k1>āntya<k2>āntya<e>2
+88048 new <L>24682<pc>141,3<k1>āntya<k2>ā́ntya<e>2
+;
+88049 old <s>āntya</s> ¦ <lex>m.</lex> one who finishes, personified as <s1 slp1="BOvana">Bhauvana</s1>, <ls>VS.</ls>; <ls>TS.</ls><info lex="m"/>
+88049 new <s>ā́ntya</s> ¦ <lex>m.</lex> one who finishes, personified as <s1 slp1="BOvana">Bhauvana</s1>, <ls>VS.</ls>; <ls>TS.</ls><info lex="m"/>
+;
+; L=25039, k1=āpeya, pc=143,3
+; ACCENT á, mark as revision, MaitrS
+89302 old <L>25039<pc>143,3<k1>āpeya<k2>āpeya<e>1
+89302 new <L>25039<pc>143,3<k1>āpeya<k2>āpeyá<e>1
+;
+89303 old <s>āpeya</s> ¦ <lex>m. <ab>pl.</ab></lex> (<ab>fr.</ab> <hom>1.</hom> <s>ap</s> ?), a particular class of gods.<info lex="m"/>
+89303 new <s>āpeyá</s> ¦ <lex>m. <ab>pl.</ab></lex> (<ab>fr.</ab> <hom>1.</hom> <s>ap</s> ?), a particular class of gods. <ls>MaitrS.</ls> <info n="rev" pc="1319,3"/><info lex="m"/>
+;
+; L=25039.1, k1=āpeya, pc=1319,3
+; DELETE L=25039.1 
+89305 old <L>25039.1<pc>1319,3<k1>āpeya<k2>āpeyá<e>1A
+89305 del 
+;
+89306 old ¦ and<info n="sup"/>
+89306 del 
+;
+89307 old <LEND>
+89307 del 
+;
+; L=25040, k1=āpeyatva, pc=143,3
+; ACCENT, mark as revision 
+89308 old <L>25040<pc>143,3<k1>āpeyatva<k2>āpeya—tva<e>3
+89308 new <L>25040<pc>143,3<k1>āpeyatva<k2>āpeya—tvá<e>3
+;
+89309 old <s>āpeya—tva</s> ¦ <lex>n.</lex> the being of this class, <ls>MaitrS.</ls> (<ab>cf.</ab> <s>āpyeya</s>.)<info lex="n"/>
+89309 new <s>āpeya—tvá</s> ¦ <lex>n.</lex> the being of this class, <ls>MaitrS.</ls> (<ab>cf.</ab> <s>āpyeya</s>.)<info n="rev" pc="1319,3"/><info lex="n"/>
+;
+; L=25074, k1=āpyānavat, pc=144,1
+; ACCENT ā́, mark as revision
+89426 old <L>25074<pc>144,1<k1>āpyānavat<k2>ā-pyāna—vat<e>3
+89426 new <L>25074<pc>144,1<k1>āpyānavat<k2>ā-pyā́na—vat<e>3
+;
+89427 old <s>ā-pyāna—vat</s> ¦ = <s>ā-pīna-vat</s>, <ls>ŚBr. vii, 3, 1, 12,</ls> &c.
+89427 new <s>ā-pyā́na—vat</s> ¦ = <s>ā-pīna-vat</s>, <ls>ŚBr. vii, 3, 1, 12,</ls> &c. <info n="rev" pc="1319,3"/>
+;
+; L=25074.1, k1=āpyānavat, pc=144,1
+; DELETE this:  'general outbreak (of perspiration)' applies to āpravartana only
+89429 old <L>25074.1<pc>144,1<k1>āpyānavat<k2>ā-pyāna—vat<e>3B
+89429 del 
+;
+89430 old <s>ā-pyāna—vat</s> ¦ <lex>n.</lex> general outbreak (of perspiration)<info and="25074.1,ApyAnavat;25089.1,ApyAyana;25124.1,Apravartana"/><info lex="n"/>
+89430 del 
+;
+89431 old <LEND>
+89431 del 
+;
+; L=25076, k1=āpyāyana, pc=144,1
+; ACCENT ā́, mark as revision
+89435 old <L>25076<pc>144,1<k1>āpyāyana<k2>ā-pyāyana<e>2
+89435 new <L>25076<pc>144,1<k1>āpyāyana<k2>ā-pyā́yana<e>2
+;
+89436 old <s>ā-pyāyana</s> ¦ <lex>mfn.</lex> causing fulness or stoutness, <ls>Suśr.</ls><info lex="m:f:n"/>
+89436 new <s>ā-pyā́yana</s> ¦ <lex>mfn.</lex> causing fulness or stoutness, <ls>Suśr.</ls><info n="rev" pc="1319,3"/><info lex="m:f:n"/>
+;
+; L=25077, k1=āpyāyana, pc=144,1
+; ACCENT ā́
+89438 old <L>25077<pc>144,1<k1>āpyāyana<k2>ā-pyāyana<e>2A
+89438 new <L>25077<pc>144,1<k1>āpyāyana<k2>ā-pyā́yana<e>2A
+;
+;89439 old ¦ increasing welfare, gladdening, <ls>L.</ls><info lex="inh"/>
+;89439 new ¦ increasing welfare, gladdening, <ls>L.</ls><info lex="inh"/>
+;
+; L=25078-25089 also change accent to ā́
+;
+; L=25078, k1=āpyāyanī, pc=144,1
+; ACCENT ā́
+89441 old <L>25078<pc>144,1<k1>āpyāyanī<k2>ā-pyāyanī<e>2B
+89441 new <L>25078<pc>144,1<k1>āpyāyanī<k2>ā-pyā́yanī<e>2B
+;
+89442 old <s>ā-pyāyanī</s> ¦ <lex>f.</lex> an umbilical vein, <ls>MārkP.</ls><info lex="f"/>
+89442 new <s>ā-pyā́yanī</s> ¦ <lex>f.</lex> an umbilical vein, <ls>MārkP.</ls><info lex="f"/>
+;
+; L=25079, k1=āpyāyana, pc=144,1
+;
+89444 old <L>25079<pc>144,1<k1>āpyāyana<k2>ā-pyāyana<e>2B
+89444 new <L>25079<pc>144,1<k1>āpyāyana<k2>ā-pyā́yana<e>2B
+;
+89445 old <s>ā-pyāyana</s> ¦ <lex>n.</lex> the act of making full or fat, <ls>Suśr.</ls><info lex="n"/>
+89445 new <s>ā-pyā́yana</s> ¦ <lex>n.</lex> the act of making full or fat, <ls>Suśr.</ls><info lex="n"/>
+;
+; L=25080, k1=āpyāyana, pc=144,1
+;
+89447 old <L>25080<pc>144,1<k1>āpyāyana<k2>ā-pyāyana<e>2B
+89447 new <L>25080<pc>144,1<k1>āpyāyana<k2>ā-pyā́yana<e>2B
+;
+;89448 old ¦ satiating<info lex="inh"/>
+;89448 new ¦ satiating<info lex="inh"/>
+;
+; L=25081, k1=āpyāyana, pc=144,1
+;
+89450 old <L>25081<pc>144,1<k1>āpyāyana<k2>ā-pyāyana<e>2B
+89450 new <L>25081<pc>144,1<k1>āpyāyana<k2>ā-pyā́yana<e>2B
+;
+;89451 old ¦ satisfying, refreshing, pleasing, <ls>Mn.</ls><info lex="inh"/>
+;89451 new ¦ satisfying, refreshing, pleasing, <ls>Mn.</ls><info lex="inh"/>
+;
+; L=25082, k1=āpyāyana, pc=144,1
+;
+89453 old <L>25082<pc>144,1<k1>āpyāyana<k2>ā-pyāyana<e>2B
+89453 new <L>25082<pc>144,1<k1>āpyāyana<k2>ā-pyā́yana<e>2B
+;
+;89454 old ¦ increasing, causing to thrive, <ls>MBh.</ls><info lex="inh"/>
+;89454 new ¦ increasing, causing to thrive, <ls>MBh.</ls><info lex="inh"/>
+;
+; L=25083, k1=āpyāyana, pc=144,1
+;
+89456 old <L>25083<pc>144,1<k1>āpyāyana<k2>ā-pyāyana<e>2B
+89456 new <L>25083<pc>144,1<k1>āpyāyana<k2>ā-pyā́yana<e>2B
+;
+;89457 old ¦ causing to swell (the <s1 slp1="soma">Soma</s1>), <ls>ŚBr.</ls> &c.<info lex="inh"/>
+;89457 new ¦ causing to swell (the <s1 slp1="soma">Soma</s1>), <ls>ŚBr.</ls> &c.<info lex="inh"/>
+;
+; L=25084, k1=āpyāyana, pc=144,1
+;
+89459 old <L>25084<pc>144,1<k1>āpyāyana<k2>ā-pyāyana<e>2B
+89459 new <L>25084<pc>144,1<k1>āpyāyana<k2>ā-pyā́yana<e>2B
+;
+;89460 old ¦ satiety, satisfaction<info lex="inh"/>
+;89460 new ¦ satiety, satisfaction<info lex="inh"/>
+;
+; L=25085, k1=āpyāyana, pc=144,1
+;
+89462 old <L>25085<pc>144,1<k1>āpyāyana<k2>ā-pyāyana<e>2B
+89462 new <L>25085<pc>144,1<k1>āpyāyana<k2>ā-pyā́yana<e>2B
+;
+;89463 old ¦ advancing<info lex="inh"/>
+;89463 new ¦ advancing<info lex="inh"/>
+;
+; L=25086, k1=āpyāyana, pc=144,1
+;
+89465 old <L>25086<pc>144,1<k1>āpyāyana<k2>ā-pyāyana<e>2B
+89465 new <L>25086<pc>144,1<k1>āpyāyana<k2>ā-pyā́yana<e>2B
+;
+;89466 old ¦ anything which causes corpulency or good condition<info lex="inh"/>
+;89466 new ¦ anything which causes corpulency or good condition<info lex="inh"/>
+;
+; L=25087, k1=āpyāyana, pc=144,1
+;
+89468 old <L>25087<pc>144,1<k1>āpyāyana<k2>ā-pyāyana<e>2B
+89468 new <L>25087<pc>144,1<k1>āpyāyana<k2>ā-pyā́yana<e>2B
+;
+;89469 old ¦ strengthening medicine, <ls>Suśr.</ls><info lex="inh"/>
+;89469 new ¦ strengthening medicine, <ls>Suśr.</ls><info lex="inh"/>
+;
+; L=25088, k1=āpyāyana, pc=144,1
+;
+89471 old <L>25088<pc>144,1<k1>āpyāyana<k2>ā-pyāyana<e>2B
+89471 new <L>25088<pc>144,1<k1>āpyāyana<k2>ā-pyā́yana<e>2B
+;
+;89472 old ¦ corpulency, growing or being fat or stout<info lex="inh"/>
+;89472 new ¦ corpulency, growing or being fat or stout<info lex="inh"/>
+;
+; L=25089, k1=āpyāyana, pc=144,1
+;
+89474 old <L>25089<pc>144,1<k1>āpyāyana<k2>ā-pyāyana<e>2B
+89474 new <L>25089<pc>144,1<k1>āpyāyana<k2>ā-pyā́yana<e>2B
+;
+;89475 old ¦ gladness, <ls>L.</ls><info lex="inh"/>
+;89475 new ¦ gladness, <ls>L.</ls><info lex="inh"/>
+;
+; L=25089.1, āpyāyana delete.  ' general outbreak (of perspiration)' applies to āpravartana only
+;
+89477 old <L>25089.1<pc>1319,3<k1>āpyāyana<k2>āpyā́yana<e>2B
+89477 del 
+;
+89478 old ¦ (<ls>ŚBr.</ls>). general outbreak (of perspiration), <info and="25074.1,ApyAnavat;25089.1,ApyAyana;25124.1,Apravartana"/><info n="sup"/><info lex="inh"/>
+89478 del 
+;
+89479 old <LEND>
+89479 del 
+;
+; L=25124.1 āpravartana.  Remove <info and...
+89590 old <s>ā-pravartana</s> ¦ <lex>n.</lex> general outbreak (of perspiration), <ls>BhP.</ls><info and="25074.1,ApyAnavat;25089.1,ApyAyana;25124.1,Apravartana"/><info n="sup"/><info lex="n"/>
+89590 new <s>ā-pravartana</s> ¦ <lex>n.</lex> general outbreak (of perspiration), <ls>BhP.</ls><info n="sup"/><info lex="n"/>
+;
+; L=25345, k1=ābhū, pc=145,3
+; ACCENT ū́, MARKUP
+90351 old <L>25345<pc>145,3<k1>ābhū<k2>ā-bhū<h>2<e>2
+90351 new <L>25345<pc>145,3<k1>ābhū<k2>ā-bhū́<h>2<e>2
+;
+90352 old <hom>2.</hom> <s>ā-bhū</s> ¦ <lex>mfn.</lex> present, being near at hand, assisting, helping, <ls>RV.</ls><info lex="m:f:n"/>
+90352 new <hom>2.</hom> <s>ā-bhū́</s> ¦ <lex>mfn.</lex> present, being near at hand, assisting, helping, <ls>RV.</ls><info n="rev" pc="1319,3"/><info lex="m:f:n"/>
+;
+; L=25349, k1=ābhūti, pc=145,3
+; ACCENT ā́, MARKUP
+90363 old <L>25349<pc>145,3<k1>ābhūti<k2>ā-bhūti<e>2
+90363 new <L>25349<pc>145,3<k1>ābhūti<k2>ā́-bhūti<e>2
+;
+90364 old <s>ā-bhūti</s> ¦ <lex>f.</lex> reaching, attaining<info lex="f"/>
+90364 new <s>ā́-bhūti</s> ¦ <lex>f.</lex> reaching, attaining <info n="rev" pc="1319,3"/><info lex="f"/>
+;
+; L=25350, k1=ābhūti, pc=145,3
+; ACCENT ā́
+90366 old <L>25350<pc>145,3<k1>ābhūti<k2>ā-bhūti<e>2A
+90366 new <L>25350<pc>145,3<k1>ābhūti<k2>ā́-bhūti<e>2A
+;
+;90367 old ¦ superhuman power or strength, <ls>RV. x, 84, 6</ls><info lex="inh"/>
+;90367 new ¦ superhuman power or strength, <ls>RV. x, 84, 6</ls><info lex="inh"/>
+;
+; L=25649, k1=āmra, pc=147,3
+; ACCENT á
+91401 old <L>25649<pc>147,3<k1>āmra<k2>āmra<e>1
+91401 new <L>25649<pc>147,3<k1>āmra<k2>āmrá<e>1
+;
+91402 old <s>āmra</s> ¦ <lex>m.</lex> the mango tree, <bot>Mangifera Indica</bot>, <ls>MBh.</ls>; <ls>R.</ls>; <ls>Śak.</ls> &c.<info lex="m"/>
+91402 new <s>āmrá</s> ¦ <lex>m.</lex> the mango tree, <bot>Mangifera Indica</bot>, <ls>MBh.</ls>; <ls>R.</ls>; <ls>Śak.</ls> &c.<info lex="m"/>
+;
+; L=25650, k1=āmra, pc=147,3
+; ACCENT á, MARKUP
+91404 old <L>25650<pc>147,3<k1>āmra<k2>āmra<e>1B
+91404 new <L>25650<pc>147,3<k1>āmra<k2>āmrá<e>1B
+;
+91405 old <s>āmra</s> ¦ <lex>n.</lex> the fruit of the mango tree, <ls>Suśr.</ls>; <ls>ŚBr.</ls><info lex="n"/>
+91405 new <s>āmrá</s> ¦ <lex>n.</lex> the fruit of the mango tree, <ls>Suśr.</ls>; <ls>ŚBr.</ls>; &c;<info lex="n"/>
+;
+; L=25651, k1=āmra, pc=147,3
+; DELETE
+91407 old <L>25651<pc>147,3<k1>āmra<k2>āmra<e>1B
+91407 del 
+;
+91408 old ¦ &c.<info lex="inh"/>
+91408 del 
+;
+91409 old <LEND>
+91409 del 
+;
+; --- delete records with pattern like 25651
+; --- There are 10 others
+; --- (after this deletion, we will add the '&c' into the prior record
+; delete L=16664, k1=alasa, pc=94,3
+;
+60355 old <L>16664<pc>94,3<k1>alasa<k2>a-lasa<e>1A
+60355 del 
+60356 old ¦ &c.<info lex="inh"/>
+60356 del 
+60357 old <LEND>
+60357 del 
+;
+; delete L=19298, k1=avyabhicāra, pc=111,3
+;
+69512 old <L>19298<pc>111,3<k1>avyabhicāra<k2>a-vyabhicāra<e>1A
+69512 del 
+69513 old ¦ &c.<info lex="inh"/>
+69513 del 
+69514 old <LEND>
+69514 del 
+;
+; delete L=27756, k1=āśvatthika, pc=159,1
+;
+98648 old <L>27756<pc>159,1<k1>āśvatthika<k2>āśvatthika<e>2A
+98648 del 
+98649 old ¦ &c.<info lex="inh"/>
+98649 del 
+98650 old <LEND>
+98650 del 
+;
+; delete L=35779.1, k1=upoḍha, pc=206,3
+;
+126656 old <L>35779.1<pc>206,3<k1>upoḍha<k2>upoḍha<e>2A
+126656 del 
+126657 old ¦ &c.<info lex="inh"/>
+126657 del 
+126658 old <LEND>
+126658 del 
+;
+; delete L=48456, k1=kāya, pc=274,1
+;
+168783 old <L>48456<pc>274,1<k1>kāya<k2>kāyá<e>1A
+168783 del 
+168784 old ¦ &c.<info lex="inh"/>
+168784 del 
+168785 old <LEND>
+168785 del 
+;
+; delete L=94571.2, k1=duṣkṛta, pc=487,3
+;
+318547 old <L>94571.2<pc>487,3<k1>duṣkṛta<k2>dúṣ—kṛtá<e>3B
+318547 del 
+318548 old ¦ &c.<info lex="inh"/>
+318548 del 
+318549 old <LEND>
+318549 del 
+;
+; delete L=154721, k1=maṇibandhana, pc=775,1
+;
+519430 old <L>154721<pc>775,1<k1>maṇibandhana<k2>maṇí—bandhana<e>3A
+519430 del 
+519431 old ¦ &c.<info lex="inh"/>
+519431 del 
+519432 old <LEND>
+519432 del 
+;
+; delete L=167489, k1=mekhalā, pc=831,2
+;
+561319 old <L>167489<pc>831,2<k1>mekhalā<k2>mékhalā<e>2A
+561319 del 
+561320 old ¦ &c.<info lex="inh"/>
+561320 del 
+561321 old <LEND>
+561321 del 
+;
+; delete L=200997, k1=viśva, pc=992,3
+;
+670963 old <L>200997<pc>992,3<k1>viśva<k2>víśva<e>1B
+670963 del 
+670964 old ¦ &c.<info lex="inh"/>
+670964 del 
+670965 old <LEND>
+670965 del 
+;
+; delete L=214007, k1=śarman, pc=1058,2
+;
+713674 old <L>214007<pc>1058,2<k1>śarman<k2>śárman<e>1A
+713674 del 
+713675 old ¦ &c.<info lex="inh"/>
+713675 del 
+713676 old <LEND>
+713676 del 
+;
+; ---- add the '&c.' into prior record
+;
+; change L=16663, k1=alasa, pc=94,3
+; TYPO &c.;
+60353 old <s>a-lasa</s> ¦ <lex>mf(<s>ā</s>)n.</lex> inactive, without energy, lazy, idle, indolent, tired, faint, <ls>ŚBr.</ls>; <ls>AitBr.</ls><info lex="m:f#A:n"/>
+60353 new <s>a-lasa</s> ¦ <lex>mf(<s>ā</s>)n.</lex> inactive, without energy, lazy, idle, indolent, tired, faint, <ls>ŚBr.</ls>; <ls>AitBr.</ls> &c.<info lex="m:f#A:n"/> 
+;
+; change L=19297, k1=avyabhicāra, pc=111,3
+; TYPO &c.;
+69510 old <s>a-vyabhicāra</s> ¦ <lex>m.</lex> non-failure, absolute necessity, <ls>Kap.</ls><info lex="m"/>
+69510 new <s>a-vyabhicāra</s> ¦ <lex>m.</lex> non-failure, absolute necessity, <ls>Kap.</ls> &c.;<info lex="m"/> 
+;
+; change L=27755, k1=āśvatthika, pc=159,1
+; TYPO &c.;
+98646 old <s>āśvatthika</s> ¦ <lex>mf(<s>ī́</s> <ab>g.</ab> <s>gaurā<srs/>di</s>, <ls>Pāṇ. 4-1, 41</ls>)n.</lex> belonging to the <s1 slp1="aSvatTa">Aśvattha</s1> tree (<bot>Ficus Religiosa</bot>), <ls>AitBr.</ls>; <ls>TS.</ls>; <ls>KātyŚr.</ls>; <ls>ŚBr.</ls><info or="27745,ASvatTa;27750,ASvatTi;27755,ASvatTika"/><info lex="m:f#I:n"/>
+98646 new <s>āśvatthika</s> ¦ <lex>mf(<s>ī́</s> <ab>g.</ab> <s>gaurā<srs/>di</s>, <ls>Pāṇ. 4-1, 41</ls>)n.</lex> belonging to the <s1 slp1="aSvatTa">Aśvattha</s1> tree (<bot>Ficus Religiosa</bot>), <ls>AitBr.</ls>; <ls>TS.</ls>; <ls>KātyŚr.</ls>; <ls>ŚBr.</ls> &c.;<info or="27745,ASvatTa;27750,ASvatTi;27755,ASvatTika"/><info lex="m:f#I:n"/> 
+;
+; change L=35779, k1=upoḍha, pc=206,3
+; TYPO &c.;
+126654 old <hom>1.</hom> <s>upo<srs/>ḍha</s> ¦ <lex>mfn.</lex> (in some cases not to be distinguished from 2. <s>upo<srs/>ḍha</s> <ab>q.v.</ab> under <s>upo<srs/>h</s>) brought near, effected, appeared, <ls>Rājat.</ls>; <ls>Daś.</ls><info lex="m:f:n"/>
+126654 new <hom>1.</hom> <s>upo<srs/>ḍha</s> ¦ <lex>mfn.</lex> (in some cases not to be distinguished from 2. <s>upo<srs/>ḍha</s> <ab>q.v.</ab> under <s>upo<srs/>h</s>) brought near, effected, appeared, <ls>Rājat.</ls>; <ls>Daś.</ls> &c.;<info lex="m:f:n"/> 
+;
+; change L=48455, k1=kāya, pc=274,1
+; TYPO &c.;
+168781 old <hom>1.</hom> <s>kāyá</s> ¦ <lex>mf(<s>ī</s>)n.</lex> (<ab>fr.</ab> <hom>3.</hom> <s>ka</s>, <ls>Pāṇ. 4-2, 25</ls>), relating or devoted to the god <s1 slp1="ka">Ka</s1> (<s1 slp1="prajA-pati">Prajā-pati</s1>, <ls>RV. x, 121</ls>), <ls>VS.</ls>; <ls>TS.</ls>; <ls>ŚBr.</ls><info lex="m:f#I:n"/>
+168781 new <hom>1.</hom> <s>kāyá</s> ¦ <lex>mf(<s>ī</s>)n.</lex> (<ab>fr.</ab> <hom>3.</hom> <s>ka</s>, <ls>Pāṇ. 4-2, 25</ls>), relating or devoted to the god <s1 slp1="ka">Ka</s1> (<s1 slp1="prajA-pati">Prajā-pati</s1>, <ls>RV. x, 121</ls>), <ls>VS.</ls>; <ls>TS.</ls>; <ls>ŚBr.</ls> &c.;<info lex="m:f#I:n"/> 
+;
+; change L=94571.1, k1=duṣkṛta, pc=487,3
+; TYPO &c.;
+318545 old <s>dúṣ—kṛtá</s> ¦ <lex>n.</lex> (<s>°tá</s>) evil action, sin, guilt, <ls>RV.</ls>; <ls>ŚBr.</ls>; <ls>ChUp.</ls>; <ls>Mn.</ls>; <ls>MBh.</ls><info lex="n"/>
+318545 new <s>dúṣ—kṛtá</s> ¦ <lex>n.</lex> (<s>°tá</s>) evil action, sin, guilt, <ls>RV.</ls>; <ls>ŚBr.</ls>; <ls>ChUp.</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> &c.;<info lex="n"/> 
+;
+; change L=154720, k1=maṇibandhana, pc=775,1
+; TYPO &c.;
+519428 old ¦ the wrist, <ls>Śak.</ls>; <ls>Var.</ls>; <ls>Suśr.</ls><info lex="inh"/>
+519428 new ¦ the wrist, <ls>Śak.</ls>; <ls>Var.</ls>; <ls>Suśr.</ls> &c.;<info lex="inh"/> 
+;
+; change L=167488, k1=mekhalā, pc=831,2
+; TYPO &c.;
+561317 old <s>mékhalā</s> <hom>b</hom> ¦ <lex>f.</lex> a girdle, belt, zone (as worn by men or women, but <ab>esp.</ab> that worn by the men of the first three classes; <ab>accord.</ab> to <ls>Mn. ii, 42</ls> that of a <ns>Brāhman</ns> ought to be of <s>muñja</s> [accord. to, <ls>ii, 169</ls> = <s>yajño<srs/>pavīta</s> <ab>q.v.</ab>]; that of a <s1 slp1="kzatriya">Kṣatriya</s1>, of <s>mūrvā</s>; that of a <s1 slp1="vESya">Vaiśya</s1>, of <s>śaṇa</s> or hemp, <ls>IW. <ab>p.</ab> 240</ls>), <ls>AV.</ls> &c.<info lex="f"/>
+561317 new <s>mékhalā</s> <hom>b</hom> ¦ <lex>f.</lex> a girdle, belt, zone (as worn by men or women, but <ab>esp.</ab> that worn by the men of the first three classes; <ab>accord.</ab> to <ls>Mn. ii, 42</ls> that of a <ns>Brāhman</ns> ought to be of <s>muñja</s> [accord. to, <ls>ii, 169</ls> = <s>yajño<srs/>pavīta</s> <ab>q.v.</ab>]; that of a <s1 slp1="kzatriya">Kṣatriya</s1>, of <s>mūrvā</s>; that of a <s1 slp1="vESya">Vaiśya</s1>, of <s>śaṇa</s> or hemp, <ls>IW. <ab>p.</ab> 240</ls>), <ls>AV.</ls> &c. &c.;<info lex="f"/> 
+;
+; change L=200996, k1=viśva, pc=992,2
+; TYPO &c.;
+670961 old moreover <ab>accord.</ab> to <s1 slp1="manu">Manu</s1> [<ls>iii, 90, 121</ls>], offerings should be made to them daily - these privileges having been bestowed on them by <s1 slp1="brahmA">Brahmā</s1> and the <s1 slp1="pitf">Pitṛ</s1>s, as a reward for severe austerities they had performed on the <s1 slp1="himAlaya">Himâlaya</s1>: sometimes it is difficult to decide whether the expression <s>viśve devāḥ</s> refers to all the gods or to the particular troop of deities described above), <ls>RV.</ls> &c.<info lex="inh"/>
+670961 new moreover <ab>accord.</ab> to <s1 slp1="manu">Manu</s1> [<ls>iii, 90, 121</ls>], offerings should be made to them daily - these privileges having been bestowed on them by <s1 slp1="brahmA">Brahmā</s1> and the <s1 slp1="pitf">Pitṛ</s1>s, as a reward for severe austerities they had performed on the <s1 slp1="himAlaya">Himâlaya</s1>: sometimes it is difficult to decide whether the expression <s>viśve devāḥ</s> refers to all the gods or to the particular troop of deities described above), <ls>RV.</ls> &c. &c.;<info lex="inh"/> 
+;
+; change L=214006, k1=śarman, pc=1058,2
+; TYPO &c.;
+713672 old <s>śárman</s> ¦ <lex>n.</lex> (<ab>prob.</ab> <ab>fr.</ab> √ <s>śri</s> and connected with <hom>1.</hom> <s>śaraṇa</s>, <s>śarīra</s>) shelter, protection, refuge, safety, <ls>RV.</ls> &c.<info lex="n"/>
+713672 new <s>śárman</s> ¦ <lex>n.</lex> (<ab>prob.</ab> <ab>fr.</ab> √ <s>śri</s> and connected with <hom>1.</hom> <s>śaraṇa</s>, <s>śarīra</s>) shelter, protection, refuge, safety, <ls>RV.</ls> &c. &c.;<info lex="n"/> 
+;
+;
+; L=25998, k1=ārti, pc=149,2
+; ACCENT ā́ -> ā
+;jim R(1320,1) 1. ārti (erase 1. and 2.)
+; erase homonym 1  (there is not found any homonym 2 -- curious)
+92651 old <L>25998<pc>149,2<k1>ārti<k2>ā́rti<h>1<e>2
+92651 new <L>25998<pc>149,2<k1>ārti<k2>ārti<e>2
+;
+92652 old <hom>1.</hom> <s>ā́rti</s> ¦ <lex>f.</lex> painful occurrence, pain, injury, mischief<info lex="f"/>
+92652 new <s>ārti</s> ¦ <lex>f.</lex> painful occurrence, pain, injury, mischief<info lex="f"/>
+;
+; L=25999, k1=ārti, pc=149,2
+;
+92654 old <L>25999<pc>149,2<k1>ārti<k2>ā́rti<e>2A
+92654 new <L>25999<pc>149,2<k1>ārti<k2>ārti<e>2A
+;
+;92655 old ¦ sickness, <ls>AV.</ls>; <ls>VS.</ls>; <ls>KātyŚr.</ls>; <ls>R.</ls>; <ls>Megh.</ls> &c.<info lex="inh"/>
+;92655 new ¦ sickness, <ls>AV.</ls>; <ls>VS.</ls>; <ls>KātyŚr.</ls>; <ls>R.</ls>; <ls>Megh.</ls> &c.<info lex="inh"/>
+;
+; L=26001, k1=ārtimat, pc=149,2
+; ACCENT
+92657 old <L>26001<pc>149,2<k1>ārtimat<k2>ā́rti—mat<e>3
+92657 new <L>26001<pc>149,2<k1>ārtimat<k2>ārti—mat<e>3
+;
+92658 old <s>ā́rti—mat</s> ¦ <lex>mfn.</lex> having or suffering pain, <ls>Suśr.</ls><info lex="m:f:n"/>
+92658 new <s>ārti—mat</s> ¦ <lex>mfn.</lex> having or suffering pain, <ls>Suśr.</ls><info lex="m:f:n"/>
+;
+; L=26002, k1=ārtimat, pc=149,2
+; ACCENT
+92660 old <L>26002<pc>149,2<k1>ārtimat<k2>ā́rti—mat<e>3B
+92660 new <L>26002<pc>149,2<k1>ārtimat<k2>ārti—mat<e>3B
+;
+92661 old <s>ā́rti—mat</s> ¦ <lex>m.</lex> a <s1 slp1="mantra">Mantra</s1> or spell (against snakes), <ls>MBh. i, 21, 88.</ls><info lex="m"/>
+92661 new <s>ārti—mat</s> ¦ <lex>m.</lex> a <s1 slp1="mantra">Mantra</s1> or spell (against snakes), <ls>MBh. i, 21, 88.</ls><info lex="m"/>
+;
+; L=26003, k1=ārtihan, pc=149,2
+; ACCENT
+92663 old <L>26003<pc>149,2<k1>ārtihan<k2>ā́rti—han<e>3
+92663 new <L>26003<pc>149,2<k1>ārtihan<k2>ārti—han<e>3
+;
+92664 old <s>ā́rti—han</s> ¦ <lex>mfn.</lex> destroying pain.<info or="26003,Artihan;26004,Artihara"/><info lex="m:f:n"/>
+92664 new <s>ārti—han</s> ¦ <lex>mfn.</lex> destroying pain.<info or="26003,Artihan;26004,Artihara"/><info lex="m:f:n"/>
+;
+; L=26004, k1=ārtihara, pc=149,2
+; ACCENT
+92666 old <L>26004<pc>149,2<k1>ārtihara<k2>ā́rti—hara<e>3
+92666 new <L>26004<pc>149,2<k1>ārtihara<k2>ārti—hara<e>3
+;
+92667 old <s>ā́rti—hara</s> ¦ <lex>mfn.</lex> destroying pain.<info or="26003,Artihan;26004,Artihara"/><info lex="m:f:n"/>
+92667 new <s>ārti—hara</s> ¦ <lex>mfn.</lex> destroying pain.<info or="26003,Artihan;26004,Artihara"/><info lex="m:f:n"/>
+;
+; L=26529, k1=ārpayitṛ, pc=152,2
+; ACCENT, MARKUP
+94429 old <L>26529<pc>152,2<k1>ārpayitṛ<k2>ārpayitṛ<h>b<e>1
+94429 new <L>26529<pc>152,2<k1>ārpayitṛ<k2>ārpayitṛ́<h>b<e>1
+;
+94430 old <s>ā<srs/>rpayitṛ</s> <hom>b</hom> ¦ See <hom>2.</hom> <s>ār</s> (<s>ā-√ ṛ</s>). 
+94430 new <s>ā<srs/>rpayitṛ́</s> <hom>b</hom> ¦ See <hom>2.</hom> <s>ār</s> (<s>ā-√ ṛ</s>). <info n="rev" pc="1320,1"/>
+;
+; L=26529.1, k1=ārpayitṛ, pc=1320,1
+; DELETE
+94432 old <L>26529.1<pc>1320,1<k1>ārpayitṛ<k2>ārpayitṛ́<e>1A
+94432 del 
+;
+94433 old ¦ <info n="sup"/>
+94433 del 
+;
+94434 old <LEND>
+94434 del 
+;
+; L=26531, k1=ārbhava, pc=152,2
+; ACCENT, MARKUP
+94438 old <L>26531<pc>152,2<k1>ārbhava<k2>ārbhava<e>1
+94438 new <L>26531<pc>152,2<k1>ārbhava<k2>ā́rbhava<e>1
+;
+94439 old <s>ārbhava</s> ¦ <lex>mf(<s>ī</s>)n.</lex> (<ab>fr.</ab> <s>ṛbhu</s>), belonging or sacred to the <s1 slp1="fBu">Ṛbhu</s1>s, <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>AitBr.</ls>; <ls>Lāṭy.</ls><info lex="m:f#I:n"/>
+94439 new <s>ā́rbhava</s> ¦ <lex>mf(<s>ī</s>)n.</lex> (<ab>fr.</ab> <s>ṛbhu</s>), belonging or sacred to the <s1 slp1="fBu">Ṛbhu</s1>s, <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>AitBr.</ls>; <ls>Lāṭy.</ls><info n="rev" pc="1320,1"/><info lex="m:f#I:n"/>
+;
+; L=26532, k1=ārbhava, pc=152,2
+; ACCENT
+94441 old <L>26532<pc>152,2<k1>ārbhava<k2>ārbhava<e>1B
+94441 new <L>26532<pc>152,2<k1>ārbhava<k2>ā́rbhava<e>1B
+;
+94442 old <s>ārbhava</s> ¦ <lex>m.</lex> <ab>N.</ab> of a Vedic <s1 slp1="fzi">Ṛṣi</s1>.<info lex="m"/>
+94442 new <s>ā́rbhava</s> ¦ <lex>m.</lex> <ab>N.</ab> of a Vedic <s1 slp1="fzi">Ṛṣi</s1>.<info lex="m"/>
+;
+; L=26643, k1=ārṣeyavat, pc=153,1
+; ACCENT
+94825 old <L>26643<pc>153,1<k1>ārṣeyavat<k2>ārṣeyá—vat<e>3
+94825 new <L>26643<pc>153,1<k1>ārṣeyavat<k2>ārṣeya—vat<e>3
+;
+94826 old <s>ārṣeyá—vat</s> ¦ <lex>mfn.</lex> connected with sacred descent, <ls>ŚBr.</ls><info lex="m:f:n"/>
+94826 new <s>ārṣeya—vat</s> ¦ <lex>mfn.</lex> connected with sacred descent, <ls>ŚBr.</ls><info lex="m:f:n"/>
+;
+; L=27341, k1=āvyuṣam, pc=156,3
+; ACCENT, MARKUP
+97231 old <L>27341<pc>156,3<k1>āvyuṣam<k2>ā-vyuṣam<e>1
+97231 new <L>27341<pc>156,3<k1>āvyuṣam<k2>ā-vyuṣám<e>1
+;
+97232 old <s>ā-vyuṣam</s> ¦ <lex>ind.</lex> till the dawn, <ls>AV. iv, 5, 7.</ls><info lex="ind"/>
+97232 new <s>ā-vyuṣám</s> ¦ <lex>ind.</lex> till the dawn, <ls>AV. iv, 5, 7.</ls><info n="rev" pc="1320,2"/><info lex="ind"/>
+;
+; L=28726, k1=itaratas, pc=164,3
+; ACCENT, MARKUP
+102163 old <L>28726<pc>164,3<k1>itaratas<k2>í-tara—tas<e>3
+102163 new <L>28726<pc>164,3<k1>itaratas<k2>i-tará—tas<e>3
+;
+102164 old <s>í-tara—tas</s> ¦ <lex>ind.</lex> otherwise than, different from<info lex="ind"/>
+102164 new <s>i-tará—tas</s> ¦ <lex>ind.</lex> otherwise than, different from <info n="rev" pc="1320,3"/><info lex="ind"/>
+;
+; L=28726.1, k1=itaratas, pc=164,3
+;
+102166 old <L>28726.1<pc>164,3<k1>itaratas<k2>í-tara—tas<e>3A
+102166 new <L>28726.1<pc>164,3<k1>itaratas<k2>i-tará—tas<e>3A
+;
+102167 old ¦ from or to another direction, <ls>KātyŚr.</ls>; <ls>ŚBr.</ls> &c.<info lex="inh"/>
+102167 new ¦ from or to another direction, <ls>KātyŚr.</ls>; <ls>ŚBr.</ls> &c.<info lex="inh"/>
+;
+; L=28726.2, k1=itaratas, pc=164,3
+;
+102169 old <L>28726.2<pc>164,3<k1>itaratas<k2>í-tara—tas<e>3A
+102169 new <L>28726.2<pc>164,3<k1>itaratas<k2>i-tará—tas<e>3A
+;
+;102170 old ¦ (<s>itaśce<srs/>tarataśca</s>, hither and thither, <ls>R.</ls>)<info lex="inh"/>
+;102170 new ¦ (<s>itaśce<srs/>tarataśca</s>, hither and thither, <ls>R.</ls>)<info lex="inh"/>
+;
+; L=28728, k1=itarathā, pc=164,3
+; ACCENT, MARKUP
+102178 old <L>28728<pc>164,3<k1>itarathā<k2>í-tara—thā<e>3
+102178 new <L>28728<pc>164,3<k1>itarathā<k2>i-tará—thā<e>3
+;
+102179 old <s>í-tara—thā</s> ¦ <lex>ind.</lex> in another manner, in a contrary manner<info lex="ind"/>
+102179 new <s>i-tará—thā</s> ¦ <lex>ind.</lex> in another manner, in a contrary manner <info n="rev" pc="1320,3"/><info lex="ind"/>
+;
+; L=28728.1, k1=itarathā, pc=164,3
+; ACCENT
+102181 old <L>28728.1<pc>164,3<k1>itarathā<k2>í-tara—thā<e>3A
+102181 new <L>28728.1<pc>164,3<k1>itarathā<k2>i-tará—thā<e>3A
+;
+;102182 old ¦ perversely<info lex="inh"/>
+;102182 new ¦ perversely<info lex="inh"/>
+;
+; L=28728.2, k1=itarathā, pc=164,3
+; ACCENT
+102184 old <L>28728.2<pc>164,3<k1>itarathā<k2>í-tara—thā<e>3A
+102184 new <L>28728.2<pc>164,3<k1>itarathā<k2>i-tará—thā<e>3A
+;
+;102185 old ¦ on the other hand, else, <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>Śiś.</ls> &c.<info lex="inh"/>
+;102185 new ¦ on the other hand, else, <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>Śiś.</ls> &c.<info lex="inh"/>
+;
+; L=28773.1, k1=itihāsa, pc=1320,3
+; ACCENT
+102365 old <L>28773.1<pc>1320,3<k1>itihāsa<k2>iti—hāsa<h>a<e>3
+102365 new <L>28773.1<pc>1320,3<k1>itihāsa<k2>iti—hāsá<h>a<e>3
+;
+102366 old <s>iti—hā<srs/>sa</s> <hom>a</hom> ¦ see below<info n="sup"/>
+102366 new <s>iti—hā<srs/>sá</s> <hom>a</hom> ¦ see below<info n="sup"/>
+;
+; L=28785, itihāsa
+; jim: Also
+; ACCENT, MARKUP
+102410 old <L>28785<pc>165,2<k1>itihāsa<k2>iti-hāsa<h>b<e>3
+102410 new <L>28785<pc>165,2<k1>itihāsa<k2>iti-hāsá<h>b<e>3
+;
+102411 old <s>iti-hā<srs/>sa</s> <hom>b</hom> ¦ <lex>m.</lex> (<s>iti-ha-āsa</s>, ‘so indeed it was’), talk, legend, tradition, history, traditional accounts of former events, heroic history, <ls>ŚBr.</ls>; <ls>MBh.</ls>; <ls>Mn.</ls> &c.<info lex="m"/>
+102411 new <s>iti-hā<srs/>sá</s> <hom>b</hom> ¦ <lex>m.</lex> (<s>iti-ha-āsa</s>, ‘so indeed it was’), talk, legend, tradition, history, traditional accounts of former events, heroic history, <ls>ŚBr.</ls>; <ls>MBh.</ls>; <ls>Mn.</ls> &c.<info n="rev" pc="1320,3"/><info lex="m"/>
+;
+; L=29309, k1=ibhanimīlikā, pc=167,3
+; TYPO, MARKUP
+;104247 old <L>29309<pc>167,3<k1>ibhanimīlikā<k2>ibha—nimīlikā<e>3
+;104247 new <L>29309<pc>167,3<k1>ibhanimīlikā<k2>ibha—nimīlikā<e>3
+;
+104248 old <s>ibha—nimīlikā</s> ¦ <lex>f.</lex> smartness, shrewdness, sagacity (like that of an elephant), <ls>L.</ls><info lex="f"/>
+104248 new <s>ibha—nimīlikā</s> ¦ (= <s>gaja-n°</s>) <lex>f.</lex> smartness, shrewdness, sagacity (like that of an elephant), <ls>L.</ls><info n="rev" pc="1321,1"/><info lex="f"/>
+;
+; L=30092, k1=ukṣavaśa, pc=172,2
+; ACCENT, MARKUP
+107096 old <L>30092<pc>172,2<k1>ukṣavaśa<k2>ukṣá—vaśa<e>3
+107096 new <L>30092<pc>172,2<k1>ukṣavaśa<k2>ukṣa—vaśá<e>3
+;
+107097 old <s>ukṣá—vaśa</s> ¦ <lex>m.</lex> <ab>sg.</ab> and <ab>du.</ab> a bull and a barren cow, <ls>TS.</ls>; <ls>ŚBr.</ls><info lex="m"/>
+107097 new <s>ukṣa—vaśá</s> ¦ <lex>m.</lex> <ab>sg.</ab> and <ab>du.</ab> a bull and a barren cow, <ls>TS.</ls>; <ls>ŚBr.</ls><info n="rev" pc="1321,2"/><info lex="m"/>
+;
+; L=31274, k1=uttaravayasa, pc=178,3
+; ACCENT, MARKUP
+111165 old <L>31274<pc>178,3<k1>uttaravayasa<k2>úttara—vayasa<e>3
+111165 new <L>31274<pc>178,3<k1>uttaravayasa<k2>uttara—vayasá<e>3
+;
+111166 old <s>úttara—vayasa</s> ¦ <lex>n.</lex> the latter or declining years of life, <ls>ŚBr.</ls><info lex="n"/>
+111166 new <s>uttara—vayasá</s> ¦ <lex>n.</lex> the latter or declining years of life, <ls>ŚBr.</ls><info n="rev" pc="1321,3"/><info lex="n"/>
+;
+; L=31321, k1=uttarārdhapūrvārdha, pc=178,3
+; MARKUP   (Agree no change in text or accent noticed.)
+;111318 old <L>31321<pc>178,3<k1>uttarārdhapūrvārdha<k2>uttarārdhá—pūrvārdha<e>4
+;111318 new <L>31321<pc>178,3<k1>uttarārdhapūrvārdha<k2>uttarārdhá—pūrvārdha<e>4
+;
+111319 old <s>uttarā<srs/>rdhá—pūrvā<srs/>rdha</s> ¦ <lex>n.</lex> the eastern part of the northern side (of the fire), <ls>ŚBr.</ls>; <ls>HirGṛ.</ls><info lex="n"/>
+111319 new <s>uttarā<srs/>rdhá—pūrvā<srs/>rdha</s> ¦ <lex>n.</lex> the eastern part of the northern side (of the fire), <ls>ŚBr.</ls>; <ls>HirGṛ.</ls><info n="rev" pc="1321,2"/><info lex="n"/>
+;
+; L=33858, k1=unnītaśikha, pc=193,2 
+; MARKUP  (no text or accent change noticed
+;120056 old <L>33858<pc>193,2<k1>unnītaśikha<k2>ún-nīta—śikha<e>3
+;120056 new <L>33858<pc>193,2<k1>unnītaśikha<k2>ún-nīta—śikha<e>3
+;
+120057 old <s>ún-nīta—śikha</s> ¦ <lex>mfn.</lex> having the locks of hair parted upwards (from the forehead), <ls>Suparṇ.</ls><info lex="m:f:n"/>
+120057 new <s>ún-nīta—śikha</s> ¦ <lex>mfn.</lex> having the locks of hair parted upwards (from the forehead), <ls>Suparṇ.</ls><info n="rev" pc="1322,1"/><info lex="m:f:n"/>
+;
+; L=35815, k1=upaveśi, pc=207,1
+; ACCENT, MARKUP
+126791 old <L>35815<pc>207,1<k1>upaveśi<k2>upa-veśi<e>2
+126791 new <L>35815<pc>207,1<k1>upaveśi<k2>úpa-veśi<e>2
+;
+126792 old <s>upa-veśi</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <s1 slp1="fzi">Ṛṣi</s1>, <ls>ŚBr. xiv, 9, 4, 33.</ls><info lex="m"/>
+126792 new <s>úpa-veśi</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <s1 slp1="fzi">Ṛṣi</s1>, <ls>ŚBr. xiv, 9, 4, 33.</ls><info n="rev" pc="1322,2"/><info lex="m"/>
+;
+; L=37424, k1=urvaśī, pc=218,2
+; ACCENT,MARKUP
+132229 old <L>37424<pc>218,2<k1>urvaśī<k2>urvaśī<e>1
+132229 new <L>37424<pc>218,2<k1>urvaśī<k2>urváśī<e>1
+;
+132230 old <s>urvaśī</s> ¦ <lex>f.</lex> (<ab>fr.</ab> <s>uru</s> and √ <hom>1.</hom> <s>aś</s>, ‘to pervade’, see <ls>M.M., Chips, vol. ii, p.99</ls>), ‘widely extending’, <ab>N.</ab> of the dawn (personified as an <s1 slp1="apsaras">Apsaras</s1> or heavenly nymph who became the wife of <s1 slp1="purU-ravas">Purū-ravas</s1>), <ls>RV.</ls>; <ls>AV. xviii, 3, 23</ls>; <ls>VS.</ls>; <ls>ŚBr.</ls>; <ls>Vikr.</ls> &c.<info lex="f"/>
+132230 new <s>urváśī</s> ¦ <lex>f.</lex> (<ab>fr.</ab> <s>uru</s> and √ <hom>1.</hom> <s>aś</s>, ‘to pervade’, see <ls>M.M., Chips, vol. ii, p.99</ls>), ‘widely extending’, <ab>N.</ab> of the dawn (personified as an <s1 slp1="apsaras">Apsaras</s1> or heavenly nymph who became the wife of <s1 slp1="purU-ravas">Purū-ravas</s1>), <ls>RV.</ls>; <ls>AV. xviii, 3, 23</ls>; <ls>VS.</ls>; <ls>ŚBr.</ls>; <ls>Vikr.</ls> &c.<info n="rev" pc="1322,2"/><info lex="f"/>
+;
+; L=37425, k1=urvaśī, pc=218,2
+; ACCENT
+132232 old <L>37425<pc>218,2<k1>urvaśī<k2>urvaśī<e>1A
+132232 new <L>37425<pc>218,2<k1>urvaśī<k2>urváśī<e>1A
+;
+;132233 old ¦ <ab>N.</ab> of a river, <ls>MBh. xii.</ls><info lex="inh"/>
+;132233 new ¦ <ab>N.</ab> of a river, <ls>MBh. xii.</ls><info lex="inh"/>
+;
+; L=37426, k1=urvaśītīrtha, pc=218,2
+; ACCENT
+132235 old <L>37426<pc>218,2<k1>urvaśītīrtha<k2>urvaśī—tīrtha<e>3
+132235 new <L>37426<pc>218,2<k1>urvaśītīrtha<k2>urváśī—tīrtha<e>3
+;
+132236 old <s>urvaśī—tīrtha</s> ¦ <lex>n.</lex> <ab>N.</ab> of a <s1 slp1="tIrTa">Tīrtha</s1>, <ls>MBh.</ls><info lex="n"/>
+132236 new <s>urváśī—tīrtha</s> ¦ <lex>n.</lex> <ab>N.</ab> of a <s1 slp1="tIrTa">Tīrtha</s1>, <ls>MBh.</ls><info lex="n"/>
+;
+; L=37427, k1=urvaśīnāmamālā, pc=218,2
+; ACCENT
+132238 old <L>37427<pc>218,2<k1>urvaśīnāmamālā<k2>urvaśī—nāma-mālā<e>3
+132238 new <L>37427<pc>218,2<k1>urvaśīnāmamālā<k2>urváśī—nāma-mālā<e>3
+;
+132239 old <s>urvaśī—nāma-mālā</s> ¦ <lex>f.</lex> <ab>N.</ab> of a lexicon by an anonymous author.<info lex="f"/>
+132239 new <s>urváśī—nāma-mālā</s> ¦ <lex>f.</lex> <ab>N.</ab> of a lexicon by an anonymous author.<info lex="f"/>
+;
+; L=37428, k1=urvaśīramaṇa, pc=218,2
+; ACCENT
+132241 old <L>37428<pc>218,2<k1>urvaśīramaṇa<k2>urvaśī—ramaṇa<e>3
+132241 new <L>37428<pc>218,2<k1>urvaśīramaṇa<k2>urváśī—ramaṇa<e>3
+;
+132242 old <s>urvaśī—ramaṇa</s> ¦ <lex>m.</lex> ‘beloved by <s1 slp1="urvaSI">Urvaśī</s1>’, <ab>N.</ab> of <s1 slp1="purU-ravas">Purū-ravas</s1>, <ls>L.</ls><info and="37428,urvaSIramaRa;37429,urvaSIvallaBa"/><info lex="m"/>
+132242 new <s>urváśī—ramaṇa</s> ¦ <lex>m.</lex> ‘beloved by <s1 slp1="urvaSI">Urvaśī</s1>’, <ab>N.</ab> of <s1 slp1="purU-ravas">Purū-ravas</s1>, <ls>L.</ls><info and="37428,urvaSIramaRa;37429,urvaSIvallaBa"/><info lex="m"/>
+;
+; L=37429, k1=urvaśīvallabha, pc=218,2
+; ACCENT
+132244 old <L>37429<pc>218,2<k1>urvaśīvallabha<k2>urvaśī—vallabha<e>3
+132244 new <L>37429<pc>218,2<k1>urvaśīvallabha<k2>urváśī—vallabha<e>3
+;
+132245 old <s>urvaśī—vallabha</s> ¦ <lex>m.</lex> ‘beloved by <s1 slp1="urvaSI">Urvaśī</s1>’, <ab>N.</ab> of <s1 slp1="purU-ravas">Purū-ravas</s1>, <ls>L.</ls><info and="37428,urvaSIramaRa;37429,urvaSIvallaBa"/><info lex="m"/>
+132245 new <s>urváśī—vallabha</s> ¦ <lex>m.</lex> ‘beloved by <s1 slp1="urvaSI">Urvaśī</s1>’, <ab>N.</ab> of <s1 slp1="purU-ravas">Purū-ravas</s1>, <ls>L.</ls><info and="37428,urvaSIramaRa;37429,urvaSIvallaBa"/><info lex="m"/>
+;
+; L=37430, k1=urvaśīsahāya, pc=218,2
+; ACCENT
+132247 old <L>37430<pc>218,2<k1>urvaśīsahāya<k2>urvaśī—sahāya<e>3
+132247 new <L>37430<pc>218,2<k1>urvaśīsahāya<k2>urváśī—sahāya<e>3
+;
+132248 old <s>urvaśī—sahāya</s> ¦ <lex>m.</lex> ‘<s1 slp1="urvaSI">Urvaśī</s1>'s companion’, <ab>N.</ab> of <s1 slp1="purU-ravas">Purū-ravas</s1>, <ls>L.</ls><info lex="m"/>
+132248 new <s>urváśī—sahāya</s> ¦ <lex>m.</lex> ‘<s1 slp1="urvaSI">Urvaśī</s1>'s companion’, <ab>N.</ab> of <s1 slp1="purU-ravas">Purū-ravas</s1>, <ls>L.</ls><info lex="m"/>
+;
+; L=37689, k1=uṣ, pc=220,1
+; ACCENT, MARKUP
+133136 old <L>37689<pc>220,1<k1>uṣ<k2>uṣ<h>2<e>2
+133136 new <L>37689<pc>220,1<k1>úṣ<k2>uṣ<h>2<e>2
+;
+133137 old <hom>2.</hom> <s>uṣ</s> ¦ <lex>f.</lex> (only <s>ás</s> <ab>gen.</ab> sg.) early morning, dawn, <ls>RV.</ls>; <ls>AV. xvi, 6, 6</ls><info lex="f"/>
+133137 new <hom>2.</hom> <s>úṣ</s> ¦ <lex>f.</lex> (only <s>ás</s> <ab>gen.</ab> sg.) early morning, dawn, <ls>RV.</ls>; <ls>AV. xvi, 6, 6</ls><info n="rev" pc="1322,2"/><info lex="f"/>
+;
+; L=37690, k1=uṣ, pc=220,1
+; ACCENT
+133139 old <L>37690<pc>220,1<k1>uṣ<k2>uṣ<e>2A
+133139 new <L>37690<pc>220,1<k1>uṣ<k2>úṣ<e>2A
+;
+;133140 old ¦ <ab>pl.</ab> (<s>uṣás tisráḥ</s> morning, midday, and evening, <ls>RV.; viii, 41, 3.</ls>)<info lex="inh"/>
+;133140 new ¦ <ab>pl.</ab> (<s>uṣás tisráḥ</s> morning, midday, and evening, <ls>RV.; viii, 41, 3.</ls>)<info lex="inh"/>
+;
+; L=38510, k1=ṛtavya, pc=224,1
+; CORRECT
+; accent '<k2>ṛtavyâ' is deemed correct (svarita) Ref issue 103.
+;135973 old <L>38510<pc>224,1<k1>ṛtavya<k2>ṛtavyâ<e>2
+;135973 new <L>38510<pc>224,1<k1>ṛtavya<k2>ṛtavyâ<e>2
+;
+;135974 old <s>ṛtavyâ</s> ¦ <lex>mfn.</lex> (<ab>fr.</ab> <s>ṛtú</s> below), relating or devoted to the seasons, <ls>Pāṇ. 4-2, 31</ls><info lex="m:f:n"/>
+;135974 new <s>ṛtavyâ</s> ¦ <lex>mfn.</lex> (<ab>fr.</ab> <s>ṛtú</s> below), relating or devoted to the seasons, <ls>Pāṇ. 4-2, 31</ls><info lex="m:f:n"/>
+;
+; L=38511, k1=ṛtavyā, pc=224,1
+; ACCENT:  SLP1 'A^' -> a + combining-macron + combining-circumflex
+135976 old <L>38511<pc>224,1<k1>ṛtavyā<k2>ṛtavyā́<e>2B
+135976 new <L>38511<pc>224,1<k1>ṛtavyā<k2>ṛtavyā̂<e>2B
+;
+135977 old <s>ṛtavyā́</s> ¦ <lex>f.</lex> (scil <s>iṣṭakā</s>), <ab>N.</ab> of particular sacrificial bricks, <ls>TS.</ls>; <ls>ŚBr.</ls>; <ls>KātyŚr.</ls> &c.<info lex="f"/>
+135977 new <s>ṛtavyā̂</s> ¦ <lex>f.</lex> (scil <s>iṣṭakā</s>), <ab>N.</ab> of particular sacrificial bricks, <ls>TS.</ls>; <ls>ŚBr.</ls>; <ls>KātyŚr.</ls> &c.<info lex="f"/>
+;
+; L=38512, k1=ṛtavyavat, pc=224,1
+; MARKUP.  (ACCENT viewed as correct: a-svarita)
+;135979 old <L>38512<pc>224,1<k1>ṛtavyavat<k2>ṛtavyâ—vat<e>3
+;135979 new <L>38512<pc>224,1<k1>ṛtavyavat<k2>ṛtavyâ—vat<e>3
+;
+135980 old <s>ṛtavyâ—vat</s> ¦ <lex>mfn.</lex> furnished with the above bricks, <ls>ŚBr. x.</ls><info lex="m:f:n"/>
+135980 new <s>ṛtavyâ—vat</s> ¦ <lex>mfn.</lex> furnished with the above bricks, <ls>ŚBr. x.</ls><info n="rev" pc="1323,1"/><info lex="m:f:n"/>
+;
+; L=39131, k1=ṛṣvavīra, pc=227,2
+; ACCENT CORRECT; mark as revision
+;138030 old <L>39131<pc>227,2<k1>ṛṣvavīra<k2>ṛṣvá—vīra<e>3
+;138030 new <L>39131<pc>227,2<k1>ṛṣvavīra<k2>ṛṣvá—vīra<e>3
+;
+138031 old <s>ṛṣvá—vīra</s> ¦ <lex>mfn.</lex> inhabited by sublime heroes (as the sky), <ls>RV. i, 52, 13.</ls><info lex="m:f:n"/>
+138031 new <s>ṛṣvá—vīra</s> ¦ <lex>mfn.</lex> inhabited by sublime heroes (as the sky), <ls>RV. i, 52, 13.</ls><info n="rev" pc="1323,1"/><info lex="m:f:n"/>
+;
+; L=40240, k1=evāvada, pc=232,3
+; ACCENT,MARKUP
+141943 old <L>40240<pc>232,3<k1>evāvada<k2>evāvada<e>1
+141943 new <L>40240<pc>232,3<k1>evāvada<k2>evāvadá<e>1
+;
+141944 old <s>evāvada</s> ¦ <lex>m.</lex> (<ab>fr.</ab> <hom>1.</hom> <s>eva</s> and <s>ā-√ vad</s>, <ls>T.</ls> ?), <ab>N.</ab> of a <s1 slp1="fzi">Ṛṣi</s1> ([<ls>Sāy.</ls>]), <ls>RV. v, 44, 10.</ls><info lex="m"/>
+141944 new <s>evāvadá</s> ¦ <lex>m.</lex> (<ab>fr.</ab> <hom>1.</hom> <s>eva</s> and <s>ā-√ vad</s>, <ls>T.</ls> ?), <ab>N.</ab> of a <s1 slp1="fzi">Ṛṣi</s1> ([<ls>Sāy.</ls>]), <ls>RV. v, 44, 10.</ls><info n="rev" pc="1323,2"/><info lex="m"/>
+;
+; L=40249, k1=eṣya, pc=233,1
+; ACCENT (svarita), markup
+141980 old <L>40249<pc>233,1<k1>eṣya<k2>eṣya<h>1<e>2
+141980 new <L>40249<pc>233,1<k1>eṣya<k2>eṣyâ<h>1<e>2
+;
+141981 old <hom>1.</hom> <s>e<srs/>ṣya</s> ¦ <lex>mfn.</lex> (See the last) to be striven after, to be sought for, <ls>AV. xii, 2, 39; 4, 16</ls>; <ls>TāṇḍyaBr.</ls><info lex="m:f:n"/>
+141981 new <hom>1.</hom> <s>e<srs/>ṣyâ</s> ¦ <lex>mfn.</lex> (See the last) to be striven after, to be sought for, <ls>AV. xii, 2, 39; 4, 16</ls>; <ls>TāṇḍyaBr.</ls><info n="rev" pc="1323,2"/><info lex="m:f:n"/>
+;
+; L=40598, k1=okivas, pc=235,1
+; ACCENT,MARKUP
+143114 old <L>40598<pc>235,1<k1>okivas<k2>okivas<e>2
+143114 new <L>40598<pc>235,1<k1>okivas<k2>okivás<e>2
+;
+143115 old <s>okivas</s> ¦ <lex>mfn.</lex> (<ab>irr.</ab> <ab>p.p.</ab> <ab>P.</ab> of √ <s>uc</s>) accustomed to, used to, having a liking for, <ls>RV. vi, 59, 3.</ls><info lex="m:f:n"/>
+143115 new <s>okivás</s> ¦ <lex>mfn.</lex> (<ab>irr.</ab> <ab>p.p.</ab> <ab>P.</ab> of √ <s>uc</s>) accustomed to, used to, having a liking for, <ls>RV. vi, 59, 3.</ls><info n="rev" pc="1323,2"/><info lex="m:f:n"/>
+;
+; L=40677, k1=odatī, pc=235,3
+; MARKUP,TYPO (others, ‘lustful, wanton’)
+;143382 old <L>40677<pc>235,3<k1>odatī<k2>ódatī<e>1
+;143382 new <L>40677<pc>235,3<k1>odatī<k2>ódatī<e>1
+;
+143383 old <s>ódatī</s> ¦ <lex>f.</lex> (<ab>pres.</ab> <ab>p.</ab> of √ <s>ud</s>) ‘sprinkling or refreshing’, <ab>N.</ab> of <s1 slp1="uzas">Uṣas</s1> or the dawn, <ls>RV. i, 48, 6; viii, 69, 2.</ls><info lex="f"/>
+143383 new <s>ódatī</s> ¦ <lex>f.</lex> (<ab>pres.</ab> <ab>p.</ab> of √ <s>ud</s>) ‘sprinkling or refreshing’, <ab>N.</ab> of <s1 slp1="uzas">Uṣas</s1> or the dawn, <ls>RV. i, 48, 6; viii, 69, 2.</ls> (others, ‘lustful, wanton’)<info n="rev" pc="1323,2"/><info lex="f"/>
+;
+; L=40703, k1=opya, pc=235,3
+; ACCENT, MARKUP
+143475 old <L>40703<pc>235,3<k1>opya<k2>opya<e>1
+143475 new <L>40703<pc>235,3<k1>opya<k2>ópya<e>1
+;
+143476 old <s>o<srs/>pya</s> ¦ (<s>ā-upya</s>) <ab>ind.p.</ab> of <s>ā-√ vap</s> (<ab>q.v.</ab>), having scattered or thrown into, pouring down, <ls>ŚBr.</ls>; <ls>ĀśvGṛ.</ls> &c.
+143476 new <s>ó<srs/>pya</s> ¦ (<s>ā-upya</s>) <ab>ind.p.</ab> of <s>ā-√ vap</s> (<ab>q.v.</ab>), having scattered or thrown into, pouring down, <ls>ŚBr.</ls>; <ls>ĀśvGṛ.</ls> &c.<info n="rev" pc="1323,2"/><info lex="ind"/>
+;
+; L=41149, k1=aupāsana, pc=239,2
+; ACCENT, MARKUP
+144984 old <L>41149<pc>239,2<k1>aupāsana<k2>aupāsana<e>1
+144984 new <L>41149<pc>239,2<k1>aupāsana<k2>aupāsaná<e>1
+;
+144985 old <s>aupāsana</s> ¦ <lex>m.</lex> (<ab>scil.</ab> <s>agni</s>), (<ab>fr.</ab> <s>upā<srs/>sana</s>), the fire used for domestic worship, <ls>ŚBr. xii</ls>; <ls>KātyŚr.</ls>; <ls>PārGṛ.</ls> &c.<info lex="m"/>
+144985 new <s>aupāsaná</s> ¦ <lex>m.</lex> (<ab>scil.</ab> <s>agni</s>), (<ab>fr.</ab> <s>upā<srs/>sana</s>), the fire used for domestic worship, <ls>ŚBr. xii</ls>; <ls>KātyŚr.</ls>; <ls>PārGṛ.</ls> &c.<info n="rev" pc="1323,2"/><info lex="m"/>
+;
+; L=41150, k1=aupāsana, pc=239,2
+; ACCENT
+144987 old <L>41150<pc>239,2<k1>aupāsana<k2>aupāsana<e>1A
+144987 new <L>41150<pc>239,2<k1>aupāsana<k2>aupāsaná<e>1A
+;
+;144988 old ¦ (<ab>scil.</ab> <s>piṇḍa</s>) a small cake offered to the Manes, <ls>ŚāṅkhBr.</ls> and, <ls>ŚāṅkhŚr.</ls><info lex="inh"/>
+;144988 new ¦ (<ab>scil.</ab> <s>piṇḍa</s>) a small cake offered to the Manes, <ls>ŚāṅkhBr.</ls> and, <ls>ŚāṅkhŚr.</ls><info lex="inh"/>
+;
+; L=41151, k1=aupāsana, pc=239,2
+; ACCENT
+144990 old <L>41151<pc>239,2<k1>aupāsana<k2>aupāsana<e>1B
+144990 new <L>41151<pc>239,2<k1>aupāsana<k2>aupāsaná<e>1B
+;
+144991 old <s>aupāsana</s> ¦ <lex>mf(<s>ā</s>)n.</lex> relating to or performed at an <s1 slp1="OpAsana">Aupāsana</s1> fire (as the evening and morning oblations), <ls>Yājñ. iii, 17</ls>; <ls>HirGṛ.</ls><info lex="m:f#A:n"/>
+144991 new <s>aupāsaná</s> ¦ <lex>mf(<s>ā</s>)n.</lex> relating to or performed at an <s1 slp1="OpAsana">Aupāsana</s1> fire (as the evening and morning oblations), <ls>Yājñ. iii, 17</ls>; <ls>HirGṛ.</ls><info lex="m:f#A:n"/>
+;
+; L=41226, k1=aurva, pc=239,3
+; ACCENT, MARKUP
+145224 old <L>41226<pc>239,3<k1>aurva<k2>aurva<h>1<e>1
+145224 new <L>41226<pc>239,3<k1>aurva<k2>aúrva<h>1<e>1
+;
+145225 old <hom>1.</hom> <s>aurva</s> ¦ <lex>m.</lex> a descendant of <s1 slp1="Urva">Ūrva</s1>, <ab>N.</ab> of a <s1 slp1="fzi">Ṛṣi</s1>, <ls>RV. viii, 102, 4</ls>; <ls>TS. vii</ls>; <ls>AitBr.</ls>; <ls>MBh.</ls> &c.<info lex="m"/>
+145225 new <hom>1.</hom> <s>aúrva</s> ¦ <lex>m.</lex> a descendant of <s1 slp1="Urva">Ūrva</s1>, <ab>N.</ab> of a <s1 slp1="fzi">Ṛṣi</s1>, <ls>RV. viii, 102, 4</ls>; <ls>TS. vii</ls>; <ls>AitBr.</ls>; <ls>MBh.</ls> &c.<info n="rev" pc="1323,2"/><info lex="m"/>
+;
+; L=41227, k1=aurva, pc=239,3
+; ACCENT
+145227 old <L>41227<pc>239,3<k1>aurva<k2>aurva<e>1A
+145227 new <L>41227<pc>239,3<k1>aurva<k2>aúrva<e>1A
+;
+;145228 old ¦ (in later mythology he is called <s1 slp1="Orva">Aurva</s1> <s1 slp1="BArgava">Bhārgava</s1> as son of <s1 slp1="cyavana">Cyavana</s1> and grandson of <s1 slp1="Bfgu">Bhṛgu</s1>;
+;145228 new ¦ (in later mythology he is called <s1 slp1="Orva">Aurva</s1> <s1 slp1="BArgava">Bhārgava</s1> as son of <s1 slp1="cyavana">Cyavana</s1> and grandson of <s1 slp1="Bfgu">Bhṛgu</s1>;
+;
+;145229 old he is the subject of a legend told in <ls>MBh. i, 6802</ls>;
+;145229 new he is the subject of a legend told in <ls>MBh. i, 6802</ls>;
+;
+;145230 old there it is said that the sons of <s1 slp1="kftavIrya">Kṛtavīrya</s1>, wishing to destroy the descendants of <s1 slp1="Bfgu">Bhṛgu</s1> in order to recover the wealth left them by their father, slew even the children in the womb;
+;145230 new there it is said that the sons of <s1 slp1="kftavIrya">Kṛtavīrya</s1>, wishing to destroy the descendants of <s1 slp1="Bfgu">Bhṛgu</s1> in order to recover the wealth left them by their father, slew even the children in the womb;
+;
+;145231 old one of the women of the family of <s1 slp1="Bfgu">Bhṛgu</s1>, in order to preserve her embryo, secreted it in her thigh [<s>ūru</s>], whence the child at its birth was named <s1 slp1="Orva">Aurva</s1>;
+;145231 new one of the women of the family of <s1 slp1="Bfgu">Bhṛgu</s1>, in order to preserve her embryo, secreted it in her thigh [<s>ūru</s>], whence the child at its birth was named <s1 slp1="Orva">Aurva</s1>;
+;
+;145232 old on beholding whom, the sons of <s1 slp1="kftavIrya">Kṛtavīrya</s1> were struck with blindness, and from whose wrath proceeded a flame that threatened to destroy the world, had not <s1 slp1="Orva">Aurva</s1> at the persuasion of the <s1 slp1="BArgava">Bhārgava</s1>s cast it into the ocean, where it remained concealed, and having the face of a horse;
+;145232 new on beholding whom, the sons of <s1 slp1="kftavIrya">Kṛtavīrya</s1> were struck with blindness, and from whose wrath proceeded a flame that threatened to destroy the world, had not <s1 slp1="Orva">Aurva</s1> at the persuasion of the <s1 slp1="BArgava">Bhārgava</s1>s cast it into the ocean, where it remained concealed, and having the face of a horse;
+;
+;145233 old <s1 slp1="Orva">Aurva</s1> was afterwards preceptor to <s1 slp1="sagara">Sagara</s1> and gave him the <s1 slp1="AgneyAstram">Āgneyâstram</s1>, with which he conquered the barbarians who invaded his possessions;
+;145233 new <s1 slp1="Orva">Aurva</s1> was afterwards preceptor to <s1 slp1="sagara">Sagara</s1> and gave him the <s1 slp1="AgneyAstram">Āgneyâstram</s1>, with which he conquered the barbarians who invaded his possessions;
+;
+;145234 old <ab>cf.</ab> <s>vaḍavā-mukha</s>, <s>vaḍavā<srs/>gni</s>)<info lex="inh"/>
+;145234 new <ab>cf.</ab> <s>vaḍavā-mukha</s>, <s>vaḍavā<srs/>gni</s>)<info lex="inh"/>
+;
+; L=41228, k1=aurva, pc=239,3
+; ACCENT
+145236 old <L>41228<pc>239,3<k1>aurva<k2>aurva<e>1A
+145236 new <L>41228<pc>239,3<k1>aurva<k2>aúrva<e>1A
+;
+;145237 old ¦ <ab>N.</ab> of a son of <s1 slp1="vasizWa">Vasiṣṭha</s1>, <ls>Hariv.</ls><info lex="inh"/>
+;145237 new ¦ <ab>N.</ab> of a son of <s1 slp1="vasizWa">Vasiṣṭha</s1>, <ls>Hariv.</ls><info lex="inh"/>
+;
+; L=41229, k1=aurva, pc=239,3
+; ACCENT
+145239 old <L>41229<pc>239,3<k1>aurva<k2>aurva<e>1B
+145239 new <L>41229<pc>239,3<k1>aurva<k2>aúrva<e>1B
+;
+145240 old <s>aurva</s> ¦ <lex>m. <ab>pl.</ab></lex> <ab>N.</ab> of a class of <s1 slp1="pitf">Pitṛ</s1>s, <ls>TāṇḍyaBr.</ls>; <ls>Lāṭy.</ls><info lex="m"/>
+145240 new <s>aúrva</s> ¦ <lex>m. <ab>pl.</ab></lex> <ab>N.</ab> of a class of <s1 slp1="pitf">Pitṛ</s1>s, <ls>TāṇḍyaBr.</ls>; <ls>Lāṭy.</ls><info lex="m"/>
+;
+; L=41230, k1=aurvī, pc=239,3
+; ACCENT
+145242 old <L>41230<pc>239,3<k1>aurvī<k2>aurvī<e>1B
+145242 new <L>41230<pc>239,3<k1>aurvī<k2>aúrvī<e>1B
+;
+145243 old <s>aurvī</s> ¦ <lex>f.</lex> a female descendant of <s1 slp1="Urva">Ūrva</s1>, <ls>Kāś.</ls> on <ls>Pāṇ. 4-1, 73</ls><info lex="f"/>
+145243 new <s>aúrvī</s> ¦ <lex>f.</lex> a female descendant of <s1 slp1="Urva">Ūrva</s1>, <ls>Kāś.</ls> on <ls>Pāṇ. 4-1, 73</ls><info lex="f"/>
+;
+; L=41231, k1=aurva, pc=239,3
+; ACCENT
+145245 old <L>41231<pc>239,3<k1>aurva<k2>aurva<e>1B
+145245 new <L>41231<pc>239,3<k1>aurva<k2>aúrva<e>1B
+;
+145246 old <s>aurva</s> ¦ <lex>mfn.</lex> produced by or relating to the <s1 slp1="fzi">Ṛṣi</s1> <s1 slp1="Orva">Aurva</s1>, <ls>MBh. i, 387,</ls> &c.<info lex="m:f:n"/>
+145246 new <s>aúrva</s> ¦ <lex>mfn.</lex> produced by or relating to the <s1 slp1="fzi">Ṛṣi</s1> <s1 slp1="Orva">Aurva</s1>, <ls>MBh. i, 387,</ls> &c.<info lex="m:f:n"/>
+;
+; L=41232, k1=aurva, pc=239,3
+; ACCENT
+145248 old <L>41232<pc>239,3<k1>aurva<k2>aurva<e>1B
+145248 new <L>41232<pc>239,3<k1>aurva<k2>aúrva<e>1B
+;
+145249 old <s>aurva</s> ¦ <lex>m.</lex> the submarine fire (cast into the ocean by <s1 slp1="Orva">Aurva</s1> <s1 slp1="BArgava">Bhārgava</s1> <ab>cf.</ab> above). <info lex="m"/>
+145249 new <s>aúrva</s> ¦ <lex>m.</lex> the submarine fire (cast into the ocean by <s1 slp1="Orva">Aurva</s1> <s1 slp1="BArgava">Bhārgava</s1> <ab>cf.</ab> above). <info lex="m"/>
+;
+; L=41412, k1=kakāṭikā, pc=241,1
+; ACCENT, MARKUP
+; DID NOT DO 'also the ending long vowel ā to be changed to a short letter a.'
+145860 old <L>41412<pc>241,1<k1>kakāṭikā<k2>kakāṭikā<e>1
+145860 new <L>41412<pc>241,1<k1>kakāṭikā<k2>kakā́ṭikā<e>1
+;
+145861 old <s>kakāṭikā</s> ¦ <lex>f.</lex> a particular part of the frontal bone, <ls>AV. x, 2, 8</ls><info lex="f"/>
+145861 new <s>kakā́ṭikā</s> ¦ <lex>f.</lex> a particular part of the frontal bone, <ls>AV. x, 2, 8</ls><info n="rev" pc="1323,3"/><info lex="f"/>
+;
+; L=41413, k1=kakāṭikā, pc=241,1
+; ACCENT
+145863 old <L>41413<pc>241,1<k1>kakāṭikā<k2>kakāṭikā<e>1A
+145863 new <L>41413<pc>241,1<k1>kakāṭikā<k2>kakā́ṭikā<e>1A
+;
+;145864 old ¦ the back of the neck, <ls>T.</ls> (<ab>cf.</ab> <s>kṛkāṭikā</s>.)<info lex="inh"/>
+;145864 new ¦ the back of the neck, <ls>T.</ls> (<ab>cf.</ab> <s>kṛkāṭikā</s>.)<info lex="inh"/>
+;
+; L=42654, k1=kataratas, pc=246,3
+; Marked as Revision.  But no change -- annexure seems same as text, per AB.
+;149824 old <L>42654<pc>246,3<k1>kataratas<k2>katará—tas<e>3
+;149824 new <L>42654<pc>246,3<k1>kataratas<k2>katará—tas<e>3
+;
+149825 old <s>katará—tas</s> ¦ <lex>ind.</lex> on which of the two sides? <ls>ŚBr. vi.</ls><info lex="ind"/>
+149825 new <s>katará—tas</s> ¦ <lex>ind.</lex> on which of the two sides? <ls>ŚBr. vi.</ls><info n="rev" pc="1323,3"/><info lex="ind"/>
+;
+; L=43347, k1=kapanā, pc=250,1
+; ACCENT, MARKUP
+152156 old <L>43347<pc>250,1<k1>kapanā<k2>kapanā<e>1
+152156 new <L>43347<pc>250,1<k1>kapanā́<k2>kapanā<e>1
+;
+152157 old <s>kapanā</s> ¦ <lex>f.</lex> (√ <s>kamp</s>, <ls>Nir. vi, 4</ls>), a worm, caterpillar, <ls>RV. v, 54, 6</ls><info lex="f"/>
+152157 new <s>kapanā́</s> ¦ <lex>f.</lex> (√ <s>kamp</s>, <ls>Nir. vi, 4</ls>), a worm, caterpillar, <ls>RV. v, 54, 6</ls><info n="rev" pc="1323,3"/><info lex="f"/>
+;
+; L=43348, k1=kapanā, pc=250,1
+; ACCENT, MARKUP 'etymology'
+152159 old <L>43348<pc>250,1<k1>kapanā<k2>kapanā<e>1A
+152159 new <L>43348<pc>250,1<k1>kapanā<k2>kapanā́<e>1E
+;
+152160 old ¦ ([<ab>cf.</ab> <lang n="greek">κάμπη</lang>.])<info lex="inh"/>
+152160 new <s>kapanā́</s> ¦ [<ab>cf.</ab> <lang n="greek">κάμπη</lang>.]
+;
+; L=46610, k1=kavya, pc=264,3
+; ACCENT remove,MARKUP
+162890 old <L>46610<pc>264,3<k1>kavya<k2>kavyá<h>1<e>2
+162890 new <L>46610<pc>264,3<k1>kavya<k2>kavya<h>1<e>2
+;
+162891 old <hom>1.</hom> <s>kavyá</s> ¦ <lex>mfn.</lex> (= <s>kavi</s>, <ls>Kāś.</ls> on <ls>Pāṇ. 5-4, 30</ls>) wise, <ls>RV. x, 15, 9</ls> (at, <ls>VS. xxii, 2</ls> read <s>kavyā́ḥ</s>)<info lex="m:f:n"/>
+162891 new <hom>1.</hom> <s>kavya</s> ¦ <lex>mfn.</lex> (= <s>kavi</s>, <ls>Kāś.</ls> on <ls>Pāṇ. 5-4, 30</ls>) wise, <ls>RV. x, 15, 9</ls> (at, <ls>VS. xxii, 2</ls> read <s>kavyā́ḥ</s>)<info n="rev" pc="1324,2"/><info lex="m:f:n"/>
+;
+; L=46611, k1=kavya, pc=264,3
+; ACCENT
+162893 old <L>46611<pc>264,3<k1>kavya<k2>kavyá<e>2A
+162893 new <L>46611<pc>264,3<k1>kavya<k2>kavya<e>2A
+;
+;162894 old ¦ a sacrificer, sacrificial priest, <ls>RV. ix, 91, 2</ls><info lex="inh"/>
+;162894 new ¦ a sacrificer, sacrificial priest, <ls>RV. ix, 91, 2</ls><info lex="inh"/>
+;
+; L=46612, k1=kavya, pc=264,3
+;  ACCENT
+162896 old <L>46612<pc>264,3<k1>kavya<k2>kavyá<e>2A
+162896 new <L>46612<pc>264,3<k1>kavya<k2>kavya<e>2A
+;
+;162897 old ¦ <ab>N.</ab> of a class of deities associated with <s1 slp1="aNgiras">Aṅgiras</s1> and <s1 slp1="fkvan">Ṛkvan</s1> ([<ls>Gmn.</ls>; a class of manes]), <ls>RV. x, 14, 3</ls>; <ls>AV.</ls><info lex="inh"/>
+;162897 new ¦ <ab>N.</ab> of a class of deities associated with <s1 slp1="aNgiras">Aṅgiras</s1> and <s1 slp1="fkvan">Ṛkvan</s1> ([<ls>Gmn.</ls>; a class of manes]), <ls>RV. x, 14, 3</ls>; <ls>AV.</ls><info lex="inh"/>
+;
+; L=46613, k1=kavya, pc=264,3
+;  ACCENT
+162899 old <L>46613<pc>264,3<k1>kavya<k2>kavyá<e>2A
+162899 new <L>46613<pc>264,3<k1>kavya<k2>kavya<e>2A
+;
+;162900 old ¦ <ab>N.</ab> of one of the seven sages of the fourth <s1 slp1="manv-antara">Manv-antara</s1>, <ls>Hariv.</ls><info lex="inh"/>
+;162900 new ¦ <ab>N.</ab> of one of the seven sages of the fourth <s1 slp1="manv-antara">Manv-antara</s1>, <ls>Hariv.</ls><info lex="inh"/>
+;
+; L=46614, k1=kavya, pc=264,3
+; ACCENT
+162902 old <L>46614<pc>264,3<k1>kavya<k2>kavyá<e>2B
+162902 new <L>46614<pc>264,3<k1>kavya<k2>kavya<e>2B
+;
+162903 old <s>kavyá</s> ¦ <lex>n.</lex> (generally in connection with <s>havya</s> See <s>havya-kavya</s>) ‘what must be offered to the wise’, an oblation of food to deceased ancestors, <ls>MBh.</ls>; <ls>Mn.</ls><info lex="n"/>
+162903 new <s>kavya</s> ¦ <lex>n.</lex> (generally in connection with <s>havya</s> See <s>havya-kavya</s>) ‘what must be offered to the wise’, an oblation of food to deceased ancestors, <ls>MBh.</ls>; <ls>Mn.</ls><info lex="n"/>
+;
+; ACCENT kavyá -> kavya  for compounds L=46615-46624
+; L=46615, k1=kavyatā, pc=264,3
+;
+162905 old <L>46615<pc>264,3<k1>kavyatā<k2>kavyá—tā<e>3
+162905 new <L>46615<pc>264,3<k1>kavyatā<k2>kavya—tā<e>3
+;
+162906 old <s>kavyá—tā</s> ¦ (<s>kavyá-</s>) <lex>f.</lex> the state of a sage, wisdom, <ls>RV. i, 96, 2.</ls><info lex="f"/>
+162906 new <s>kavya—tā</s> ¦ (<s>kavyá-</s>) <lex>f.</lex> the state of a sage, wisdom, <ls>RV. i, 96, 2.</ls><info lex="f"/>
+;
+; L=46616, k1=kavyabhuj, pc=264,3
+;
+162908 old <L>46616<pc>264,3<k1>kavyabhuj<k2>kavyá—bhuj<e>3
+162908 new <L>46616<pc>264,3<k1>kavyabhuj<k2>kavya—bhuj<e>3
+;
+162909 old <s>kavyá—bhuj</s> ¦ <lex>m. <ab>pl.</ab></lex> ‘oblation-eaters’, the manes or a class of manes, <ls>L.</ls><info lex="m"/>
+162909 new <s>kavya—bhuj</s> ¦ <lex>m. <ab>pl.</ab></lex> ‘oblation-eaters’, the manes or a class of manes, <ls>L.</ls><info lex="m"/>
+;
+; L=46617, k1=kavyabhojana, pc=264,3
+;
+162911 old <L>46617<pc>264,3<k1>kavyabhojana<k2>kavyá—bhojana<e>3
+162911 new <L>46617<pc>264,3<k1>kavyabhojana<k2>kavya—bhojana<e>3
+;
+162912 old <s>kavyá—bhojana</s> ¦ <lex>m. <ab>pl.</ab></lex> ‘oblation-eaters’, the manes or a class of manes, <ls>L.</ls><info lex="m"/>
+162912 new <s>kavya—bhojana</s> ¦ <lex>m. <ab>pl.</ab></lex> ‘oblation-eaters’, the manes or a class of manes, <ls>L.</ls><info lex="m"/>
+;
+; L=46618, k1=kavyavah, pc=264,3
+;
+162914 old <L>46618<pc>264,3<k1>kavyavah<k2>kavyá—vah<e>3
+162914 new <L>46618<pc>264,3<k1>kavyavah<k2>kavya—vah<e>3
+;
+162915 old <s>kavyá—vah</s> ¦ <ab>nom.</ab> <s>vāṭ</s> <lex>mfn.</lex> = <s>-vā́hana</s> below.<info lex="m:f:n"/>
+162915 new <s>kavya—vah</s> ¦ <ab>nom.</ab> <s>vāṭ</s> <lex>mfn.</lex> = <s>-vā́hana</s> below.<info lex="m:f:n"/>
+;
+; L=46619, k1=kavyavāḍa, pc=264,3
+;
+162917 old <L>46619<pc>264,3<k1>kavyavāḍa<k2>kavyá—vāḍa<e>3
+162917 new <L>46619<pc>264,3<k1>kavyavāḍa<k2>kavya—vāḍa<e>3
+;
+162918 old <s>kavyá—vāḍa</s> ¦ <lex>mfn.</lex> = <s>-vā́hana</s> below.<info lex="m:f:n"/>
+162918 new <s>kavya—vāḍa</s> ¦ <lex>mfn.</lex> = <s>-vā́hana</s> below.<info lex="m:f:n"/>
+;
+; L=46620, k1=kavyavāla, pc=264,3
+;
+162920 old <L>46620<pc>264,3<k1>kavyavāla<k2>kavyá—vāla<e>3
+162920 new <L>46620<pc>264,3<k1>kavyavāla<k2>kavya—vāla<e>3
+;
+162921 old <s>kavyá—vāla</s> ¦ <lex>mfn.</lex> a corrupted form of <s>-vāḍa</s>, which is derived <ab>fr.</ab> the <ab>nom.</ab> <s>-vāṭ</s> of <s>-vah</s>.<info lex="m:f:n"/>
+162921 new <s>kavya—vāla</s> ¦ <lex>mfn.</lex> a corrupted form of <s>-vāḍa</s>, which is derived <ab>fr.</ab> the <ab>nom.</ab> <s>-vāṭ</s> of <s>-vah</s>.<info lex="m:f:n"/>
+;
+; L=46621, k1=kavyavāhana, pc=265,1
+;
+162923 old <L>46621<pc>265,1<k1>kavyavāhana<k2>kavyá—vā́hana<e>3
+162923 new <L>46621<pc>265,1<k1>kavyavāhana<k2>kavya—vā́hana<e>3
+;
+162924 old <s>kavyá—vā́hana</s> ¦ <lex>mfn.</lex> (<ls>Pāṇ. 3-2, 65</ls>) conveying oblations to the manes (said of fire), <ls>RV. x, 16, 11</ls> ([<ls>Sāy.</ls>]), <ls>VS.</ls>; <ls>TS.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls>; <ls>ĀśvŚr.</ls><info lex="m:f:n"/>
+162924 new <s>kavya—vā́hana</s> ¦ <lex>mfn.</lex> (<ls>Pāṇ. 3-2, 65</ls>) conveying oblations to the manes (said of fire), <ls>RV. x, 16, 11</ls> ([<ls>Sāy.</ls>]), <ls>VS.</ls>; <ls>TS.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls>; <ls>ĀśvŚr.</ls><info lex="m:f:n"/>
+;
+; L=46622, k1=kavyavāhana, pc=265,1
+;
+162926 old <L>46622<pc>265,1<k1>kavyavāhana<k2>kavyá—vā́hana<e>3B
+162926 new <L>46622<pc>265,1<k1>kavyavāhana<k2>kavya—vā́hana<e>3B
+;
+162927 old <s>kavyá—vā́hana</s> ¦ <lex>m.</lex> fire (= <s1 slp1="agni">Agni</s1>), <ls>W.</ls><info lex="m"/>
+162927 new <s>kavya—vā́hana</s> ¦ <lex>m.</lex> fire (= <s1 slp1="agni">Agni</s1>), <ls>W.</ls><info lex="m"/>
+;
+; L=46623, k1=kavyavāhana, pc=265,1
+;
+162929 old <L>46623<pc>265,1<k1>kavyavāhana<k2>kavyá—vā́hana<e>3B
+162929 new <L>46623<pc>265,1<k1>kavyavāhana<k2>kavya—vā́hana<e>3B
+;
+;162930 old ¦ <ab>N.</ab> of <s1 slp1="Siva">Śiva</s1>, <ls>W.</ls><info lex="inh"/>
+;162930 new ¦ <ab>N.</ab> of <s1 slp1="Siva">Śiva</s1>, <ls>W.</ls><info lex="inh"/>
+;
+; L=46624, k1=kavyavāhana, pc=265,1
+;
+162932 old <L>46624<pc>265,1<k1>kavyavāhana<k2>kavyá—vā́hana<e>3B
+162932 new <L>46624<pc>265,1<k1>kavyavāhana<k2>kavya—vā́hana<e>3B
+;
+;162933 old ¦ ([<ab>cf.</ab> <s>kravya-v°</s>, <s>havya-v°</s>, <s>vahni</s>.])<info lex="inh"/>
+;162933 new ¦ ([<ab>cf.</ab> <s>kravya-v°</s>, <s>havya-v°</s>, <s>vahni</s>.])<info lex="inh"/>
+;
+;
+; L=48515, k1=kāraka, pc=274,2
+; ACCENT 'erase accent' (ā́ -> ā); MARKUP
+168987 old <L>48515<pc>274,2<k1>kāraka<k2>kā́raka<h>1<e>2
+168987 new <L>48515<pc>274,2<k1>kāraka<k2>kāraka<h>1<e>2
+;
+168988 old <hom>1.</hom> <s>kā́raka</s> ¦ <lex>mf(<s>ikā</s>)n.</lex> (generally <ab>ifc.</ab>) making, doing, acting, who or what does or produces or creates, <ls>MBh.</ls> &c. (<ab>cf.</ab> <s>siṃha-k°</s>, <s>kṛtsna-k°</s>, <s>śilpa-k</s>)<info lex="m:f#ikA:n"/>
+168988 new <hom>1.</hom> <s>kāraka</s> ¦ <lex>mf(<s>ikā</s>)n.</lex> (generally <ab>ifc.</ab>) making, doing, acting, who or what does or produces or creates, <ls>MBh.</ls> &c. (<ab>cf.</ab> <s>siṃha-k°</s>, <s>kṛtsna-k°</s>, <s>śilpa-k</s>)<info n="rev" pc="1324,2"/><info lex="m:f#ikA:n"/>
+;
+; L=48516, k1=kāraka, pc=274,2
+; ACCENT remove
+168990 old <L>48516<pc>274,2<k1>kāraka<k2>kā́raka<e>2A
+168990 new <L>48516<pc>274,2<k1>kāraka<k2>kāraka<e>2A
+;
+;168991 old ¦ intending to act or do, <ls>Pāṇ. 2-3, 70 <ab>Sch.</ab></ls><info lex="inh"/>
+;168991 new ¦ intending to act or do, <ls>Pāṇ. 2-3, 70 <ab>Sch.</ab></ls><info lex="inh"/>
+;
+; L=48517, k1=kāraka, pc=274,2
+; ACCENT remove
+168993 old <L>48517<pc>274,2<k1>kāraka<k2>kā́raka<e>2B
+168993 new <L>48517<pc>274,2<k1>kāraka<k2>kāraka<e>2B
+;
+168994 old <s>kā́raka</s> ¦ <lex>n.</lex> ‘instrumental in bringing about the action denoted by a verb (= <s>kriyā-hetu</s> or <s>-nimitta</s>)’, the notion of a case (but not co-extensive with the term case; there are six such relations <ab>accord.</ab> to <ls>Pāṇ., <ab>viz.</ab></ls> <s>karman</s>, <s>karaṇa</s>, <s>kartṛ</s>, <s>sampradāna</s>, <s>apā<srs/>dāna</s>, <s>adhikaraṇa</s>, <ab>qq.vv.</ab> The idea of the genitive case is not considered a <s>kāraka</s>, because it ordinarily expresses the relation of two nouns to each other, but not the relation of a noun and verb). <info lex="n"/>
+168994 new <s>kāraka</s> ¦ <lex>n.</lex> ‘instrumental in bringing about the action denoted by a verb (= <s>kriyā-hetu</s> or <s>-nimitta</s>)’, the notion of a case (but not co-extensive with the term case; there are six such relations <ab>accord.</ab> to <ls>Pāṇ., <ab>viz.</ab></ls> <s>karman</s>, <s>karaṇa</s>, <s>kartṛ</s>, <s>sampradāna</s>, <s>apā<srs/>dāna</s>, <s>adhikaraṇa</s>, <ab>qq.vv.</ab> The idea of the genitive case is not considered a <s>kāraka</s>, because it ordinarily expresses the relation of two nouns to each other, but not the relation of a noun and verb). <info lex="n"/>
+;
+; L=49975, k1=kāśyapībālākyāmāṭharīputra, pc=281,1
+; NO CHANGE; MARKUP  (no accent or text difference found)
+;173647 old <L>49975<pc>281,1<k1>kāśyapībālākyāmāṭharīputra<k2>kāśyapī—bālākyā-māṭharī-pútra<e>3
+;173647 new <L>49975<pc>281,1<k1>kāśyapībālākyāmāṭharīputra<k2>kāśyapī—bālākyā-māṭharī-pútra<e>3
+;
+173648 old <s>kāśyapī—bālākyā-māṭharī-pútra</s> ¦ <lex>m.</lex> <ab>N.</ab> of a teacher, <ls>ŚBr. xiv.</ls><info lex="m"/>
+173648 new <s>kāśyapī—bālākyā-māṭharī-pútra</s> ¦ <lex>m.</lex> <ab>N.</ab> of a teacher, <ls>ŚBr. xiv.</ls><info n="rev" pc="1324,3"/><info lex="m"/>
+;
+; L=52803, k1=kurvat, pc=294,2
+; ACCENT, MARKUP, TYPO (<ls>AV.</ls>)
+182694 old <L>52803<pc>294,2<k1>kurvat<k2>kurvat<e>1
+182694 new <L>52803<pc>294,2<k1>kurvat<k2>kurvát<e>1
+;
+182695 old <s>kurvat</s> ¦ <lex>mfn.</lex> (<ab>pr. p.</ab> <ab>P.</ab>, √ <hom>1.</hom> <s>kṛ</s>) doing, acting, &c.<info lex="m:f:n"/>
+182695 new <s>kurvát</s> ¦ <lex>mfn.</lex> (<ab>pr. p.</ab> <ab>P.</ab>, √ <hom>1.</hom> <s>kṛ</s>) doing, acting, &c. <ls>AV.</ls><info n="rev" pc="1325,1"/><info lex="m:f:n"/>
+;
+; L=52804, k1=kurvat, pc=294,2
+; ACCENT
+182697 old <L>52804<pc>294,2<k1>kurvat<k2>kurvat<e>1A
+182697 new <L>52804<pc>294,2<k1>kurvat<k2>kurvát<e>1A
+;
+;182698 old ¦ acting as a servant, agent, servant, <ls>L.</ls><info lex="inh"/>
+;182698 new ¦ acting as a servant, agent, servant, <ls>L.</ls><info lex="inh"/>
+;
+; L=52805, k1=kurvat, pc=294,2
+; ACCENT
+182700 old <L>52805<pc>294,2<k1>kurvat<k2>kurvat<e>1A
+182700 new <L>52805<pc>294,2<k1>kurvat<k2>kurvát<e>1A
+;
+;182701 old ¦ present, actual, <ls>AitBr. iv, 31, 3.</ls><info lex="inh"/>
+;182701 new ¦ present, actual, <ls>AitBr. iv, 31, 3.</ls><info lex="inh"/>
+;
+; L=52805.1, k1=kurvat, pc=1325,1
+; DELETE - misreading of annex 
+182703 old <L>52805.1<pc>1325,1<k1>kurvat<k2>kurvát<e>1A
+182703 del 
+;
+182704 old ¦ = <s>kula</s> (in <ab>comp.</ab>)<info n="sup"/>
+182704 del 
+182705 old <LEND>
+182705 del 
+;
+; L=52807, k1=kurvāṇa, pc=294,2
+; ACCENT, MARKUP, TYPO (<ls>AV.</ls>)
+182709 old <L>52807<pc>294,2<k1>kurvāṇa<k2>kurvāṇa<e>2
+182709 new <L>52807<pc>294,2<k1>kurvāṇa<k2>kurvāṇá<e>2
+;
+182710 old <s>kurvāṇa</s> ¦ <lex>mfn.</lex> (<ab>pr. p.</ab> <ab>Ā.</ab>) doing, making<info lex="m:f:n"/>
+182710 new <s>kurvāṇá</s> ¦ <lex>mfn.</lex> (<ab>pr. p.</ab> <ab>Ā.</ab>) doing, making <ls>AV.</ls><info n="rev" pc="1325,1"/><info lex="m:f:n"/>
+;
+; L=52808, k1=kurvāṇa, pc=294,2
+; ACCENT
+182712 old <L>52808<pc>294,2<k1>kurvāṇa<k2>kurvāṇa<e>2A
+182712 new <L>52808<pc>294,2<k1>kurvāṇa<k2>kurvāṇá<e>2A
+;
+;182713 old ¦ acting as a servant, agent, <ls>L.</ls><info lex="inh"/>
+;182713 new ¦ acting as a servant, agent, <ls>L.</ls><info lex="inh"/>
+;
+; L=54798, k1=kṛttikāñji, pc=304,3
+; MARKUP; no-change (no accent/text differences found)
+;189129 old <L>54798<pc>304,3<k1>kṛttikāñji<k2>kṛ́ttikāñji<e>3
+;189129 new <L>54798<pc>304,3<k1>kṛttikāñji<k2>kṛ́ttikāñji<e>3
+;
+189130 old <s>kṛ́ttikā<srs/>ñji</s> ¦ (<s>°kā<srs/>ñ</s>) <lex>mfn.</lex> having white spots, <ls>ŚBr. xiii, 4, 2, 4</ls>; <ls>KātyŚr.</ls><info lex="m:f:n"/>
+189130 new <s>kṛ́ttikā<srs/>ñji</s> ¦ (<s>°kā<srs/>ñ</s>) <lex>mfn.</lex> having white spots, <ls>ŚBr. xiii, 4, 2, 4</ls>; <ls>KātyŚr.</ls><info n="rev" pc="1325,2"/><info lex="m:f:n"/>
+;
+; L=59267, k1=kṣaya, pc=327,3
+; ACCENT, MARK
+203408 old <L>59267<pc>327,3<k1>kṣaya<k2>kṣaya<h>1<e>2
+203408 new <L>59267<pc>327,3<k1>kṣaya<k2>kṣáya<h>1<e>2
+;
+203409 old <hom>1.</hom> <s>kṣaya</s> ¦ <lex>m.</lex> ‘dominion’ <ls>Sāy.</ls> (on, <ls>RV. vii, 46, 2</ls>). <info lex="m"/>
+203409 new <hom>1.</hom> <s>kṣáya</s> ¦ <lex>m.</lex> ‘dominion’ <ls>Sāy.</ls> (on, <ls>RV. vii, 46, 2</ls>). <info n="rev" pc="1325,3"/><info lex="m"/>
+;
+; L=67229.1, k1=gopādri, pc=1326,3
+; MOVE 67229.1 to 67906.1 and remove <h>a
+; 
+;229128 old <L>67229.1<pc>1326,3<k1>gopādri<k2>go—pādri<h>a<e>3
+;229128 new <L>67229.1<pc>1326,3<k1>gopādri<k2>go—pādri<h>a<e>3
+;
+;229129 old <s>go—pā<srs/>dri</s> <hom>a</hom> ¦ <lex>m.</lex> <ab>N.</ab> of Gwalior, <ls>Inscr.</ls><info or="67903,gopAcala;67229.1,gopAdri"/><info n="sup"/><info lex="m"/>
+;229129 new <s>go—pā<srs/>dri</s> <hom>a</hom> ¦ <lex>m.</lex> <ab>N.</ab> of Gwalior, <ls>Inscr.</ls><info or="67903,gopAcala;67229.1,gopAdri"/><info n="sup"/><info lex="m"/>
+;
+;
+; L=67906, k1=gopādri, pc=368,2
+; remove <h>b
+231292 old <L>67906<pc>368,2<k1>gopādri<k2>gopādri<h>b<e>3
+231292 new <L>67906<pc>368,2<k1>gopādri<k2>gopādri<e>3
+;
+231293 old <s>gopā<srs/>dri</s> <hom>b</hom> ¦ <lex>m.</lex> = <s>°pā<srs/>cala</s>, <ls>343.</ls><info lex="m"/>
+231293 new <s>gopā<srs/>dri</s> ¦ <lex>m.</lex> = <s>°pā<srs/>cala</s>, <ls>343.</ls><info lex="m"/>
+;
+; Move L=67229.1 after L=67906 with new L=67906.1
+; First, delete L=67229.1
+229128 old <L>67229.1<pc>1326,3<k1>gopādri<k2>go—pādri<h>a<e>3
+229128 del 
+229129 old <s>go—pā<srs/>dri</s> <hom>a</hom> ¦ <lex>m.</lex> <ab>N.</ab> of Gwalior, <ls>Inscr.</ls><info or="67903,gopAcala;67229.1,gopAdri"/><info n="sup"/><info lex="m"/>
+229129 del 
+229130 old <LEND>
+229130 del 
+;
+; Then, Insert L=67906.1 after L=67906
+; Also, remove <h>a and change <e>3 to <e>3A
+231294 old <LEND>
+231294 ins <L>67906.1<pc>1326,3<k1>gopādri<k2>go—pādri<e>3A
+231294 old <LEND>
+;231294 ins <s>go—pā<srs/>dri</s> <hom>a</hom> ¦ <lex>m.</lex> <ab>N.</ab> of Gwalior, <ls>Inscr.</ls><info or="67903,gopAcala;67229.1,gopAdri"/><info n="sup"/><info lex="m"/>
+231294 ins ¦ <lex>m.</lex> <ab>N.</ab> of Gwalior, <ls>Inscr.</ls><info or="67903.1,gopAcala;67906.1,gopAdri"/><info n="sup"/><info lex="m"/>
+231294 old <LEND>
+231294 ins <LEND>
+;
+; L=67903, k1=gopācala, pc=368,2
+; 
+231283 old <L>67903<pc>368,2<k1>gopācala<k2>gopācala<e>3
+231283 new <L>67903<pc>368,2<k1>gopācala<k2>gopācala<e>3
+;
+231284 old <s>gopā<srs/>cala</s> ¦ <lex>m.</lex> ‘cowherd-mountain’ = <s>gopāla-giri</s>, <ls>Uttamac. 2 602.</ls><info or="67903,gopAcala;67229.1,gopAdri"/><info lex="m"/>
+231284 new <s>gopā<srs/>cala</s> ¦ <lex>m.</lex> ‘cowherd-mountain’ = <s>gopāla-giri</s>, <ls>Uttamac. 2 602.</ls><info lex="m"/>
+; insert new L=67903.1 from Annexure
+; 231285 is end of L=67903
+231285 old <LEND>
+231285 ins <L>67903.1<pc>1326,3<k1>gopācala<k2>gopācala<e>3A
+;
+231285 old <LEND>
+231285 ins ¦ <lex>m.</lex> <ab>N.</ab> of Gwalior, <ls>Inscr.</ls><info or="67903.1,gopAcala;67906.1,gopAdri"/><info n="sup"/><info lex="m"/>
+;
+231285 old <LEND>
+231285 ins <LEND>
+;
+; L=72625, k1=calātman, pc=391,2
+; TYPO: change <ls>, and mark as rev
+;246766 old <L>72625<pc>391,2<k1>calātman<k2>calātman<e>3
+;246766 new <L>72625<pc>391,2<k1>calātman<k2>calātman<e>3
+;
+246767 old <s>calā<srs/>tman</s> ¦ <lex>mfn.</lex> fickle-minded, <ls>R. iv, 55, 7.</ls><info lex="m:f:n"/>
+246767 new <s>calā<srs/>tman</s> ¦ <lex>mfn.</lex> fickle-minded, <ls>ib.</ls><info n="rev" pc="1327,1"/><info lex="m:f:n"/>
+;
+; L=41003.1, k1=audrāyaṇa, pc=1323,2
+; No change -- background to caudrāyaṇa
+;144531 old <L>41003.1<pc>1323,2<k1>audrāyaṇa<k2>audrāyaṇa<e>1
+;144531 new <L>41003.1<pc>1323,2<k1>audrāyaṇa<k2>audrāyaṇa<e>1
+;
+;144532 old <s>audrāyaṇa</s> ¦ <lex>m.</lex> (for <ns>Prākṛt</ns> <s>uddāyan-a</s>) <ab>N.</ab> of a prince, <ls>HPariś. xiii, 1.</ls> <info n="sup"/><info lex="m"/>
+;144532 new <s>audrāyaṇa</s> ¦ <lex>m.</lex> (for <ns>Prākṛt</ns> <s>uddāyan-a</s>) <ab>N.</ab> of a prince, <ls>HPariś. xiii, 1.</ls> <info n="sup"/><info lex="m"/>
+;
+; L=75185, k1=caudrāyaṇa, pc=403,1
+; TYPO -- replace text with 'cf. audr°, p. 1323'
+;255055 old <L>75185<pc>403,1<k1>caudrāyaṇa<k2>caudrāyaṇa<e>1
+;255055 new <L>75185<pc>403,1<k1>caudrāyaṇa<k2>caudrāyaṇa<e>1
+;
+255056 old <s>caudrāyaṇa</s> ¦ <lex>m.</lex> <ab>N.</ab> of a prince of <s1 slp1="daSa-pura">Daśa-pura</s1>, <ls>HPariś. viii, 1</ls><info lex="m"/>
+255056 new <s>caudrāyaṇa</s> ¦ <lex>m.</lex> <ab>cf.</ab> <s>audr°</s>, <ab>p></ab> 1323 <info n="rev" pc="1327,2"/><info lex="m"/>
+;
+; L=92074, k1=dityavah, pc=477,3
+; ACCENT, MARKUP
+310424 old <L>92074<pc>477,3<k1>dityavah<k2>ditya-vah<e>1
+310424 new <L>92074<pc>477,3<k1>dityavah<k2>ditya-váh<e>1
+;
+310425 old <s>ditya-vah</s> ¦ <lex>m.</lex> (in strong cases <s>°vāh</s> <ab>nom.</ab> <s>°vāṭ</s>; <ab>instr.</ab> <s>dityauhā</s>)<info lex="m"/>
+310425 new <s>ditya-váh</s> ¦ <lex>m.</lex> (in strong cases <s>°vāh</s> <ab>nom.</ab> <s>°vāṭ</s>; <ab>instr.</ab> <s>dityauhā</s>)<info n="rev" pc="1328,3"/><info lex="m"/>
+;
+; L=92075, k1=dityavah, pc=477,3
+;
+310427 old <L>92075<pc>477,3<k1>dityavah<k2>ditya-vah<e>1B
+310427 new <L>92075<pc>477,3<k1>dityavah<k2>ditya-váh<e>1B
+;
+310428 old <s>ditya-vah</s> ¦ <lex>f.</lex> <s>°tyauhī</s> (<ls>Pāṇ. 3-2, 64; 6-4, 132</ls>; <ls>Kāś.</ls>) a two-year-old steer or cow, <ls>VS.</ls>; <ls>TS.</ls> (<ab>prob.</ab> from <s>ditya</s> = <s>dvitīya</s> + <s>vah</s> <ab>cf.</ab> <s>turya-vah</s>.)<info lex="f"/>
+310428 new <s>ditya-váh</s> ¦ <lex>f.</lex> <s>°tyauhī</s> (<ls>Pāṇ. 3-2, 64; 6-4, 132</ls>; <ls>Kāś.</ls>) a two-year-old steer or cow, <ls>VS.</ls>; <ls>TS.</ls> (<ab>prob.</ab> from <s>ditya</s> = <s>dvitīya</s> + <s>vah</s> <ab>cf.</ab> <s>turya-vah</s>.)<info lex="f"/>
+;
+; L=111030, k1=niṣṣapin, pc=563,3
+; ACCENT,MARKUP
+374031 old <L>111030<pc>563,3<k1>niṣṣapin<k2>niṣ-ṣapin<e>1
+374031 new <L>111030<pc>563,3<k1>niṣṣapin<k2>niṣ-ṣapín<e>1
+;
+374032 old <s>niṣ-ṣapin</s> ¦ <lex>mfn.</lex> (<ab>fr.</ab> <s>nis + sapa</s> = <s>pasa</s>) libidinous, lustful, <ls>RV. i, 104, 5.</ls><info lex="m:f:n"/>
+374032 new <s>niṣ-ṣapín</s> ¦ <lex>mfn.</lex> (<ab>fr.</ab> <s>nis + sapa</s> = <s>pasa</s>) libidinous, lustful, <ls>RV. i, 104, 5.</ls><info n="rev" pc="1329,3"/><info lex="m:f:n"/>
+;
+; L=117823, k1=parivaśavartin, pc=596,2
+; °vaśa-vartin is revised to -vaśa-vartin -- This implies the headword
+; is changed from parivaśavartin to parinirmitavaśavartin
+; MARKUP
+397578 old <L>117823<pc>596,2<k1>parivaśavartin<k2>pari-vaśa-vartin<e>3
+397578 new <L>117823<pc>596,2<k1>parinirmitavaśavartin<k2>pari-nir-mita-vaśa-vartin<e>3
+;
+397579 old <s>pari-vaśa-vartin</s> ¦ <lex>m. <ab>pl.</ab></lex> <ab>N.</ab> of a class of gods in <s1 slp1="indra">Indra</s1>'s world, <ls>Yogas. <ab>Sch.</ab></ls> (<ab>cf.</ab> <s>paranirmita v° v°</s>). <info lex="m"/>
+397579 new <s>pari-nir-mita-vaśa-vartin</s> ¦ <lex>m. <ab>pl.</ab></lex> <ab>N.</ab> of a class of gods in <s1 slp1="indra">Indra</s1>'s world, <ls>Yogas. <ab>Sch.</ab></ls> (<ab>cf.</ab> <s>paranirmita-v°-v°</s>). <info n="rev" pc="1330,1"/><info lex="m"/>
+;
+; L=129063, k1=peṣṭra, pc=649,1
+; ACCENT MARKUP.  Consider line-break in annex (péṣ-ṭra) non-genuine.
+;  This is not a samAsa.
+434420 old <L>129063<pc>649,1<k1>peṣṭra<k2>peṣṭra<e>1
+434420 new <L>129063<pc>649,1<k1>peṣṭra<k2>péṣṭra<e>1
+; 
+434421 old <s>peṣṭra</s> ¦ <lex>n.</lex> (√ <s>piś</s>) a bone, <ls>AV.</ls><info lex="n"/>
+434421 new <s>péṣṭra</s> ¦ <lex>n.</lex> (√ <s>piś</s>) a bone, <ls>AV.</ls><info n="rev" pc="1330,2"/><info lex="n"/>
+;
+; L=144727, k1=bālin, pc=729,2
+; NO change; MARKUP added to indicate occurrence in anexure
+;486861 old <L>144727<pc>729,2<k1>bālin<k2>bālin<e>2
+;486861 new <L>144727<pc>729,2<k1>bālin<k2>bālin<e>2
+;
+486862 old <s>bālin</s> ¦ See <s>vālin</s>.
+486862 new <s>bālin</s> ¦ See <s>vālin</s>.<info n="rev" pc="1331,1"/>
+;
+; L=204032, k1=vṛtrahatha, pc=1007,3
+; ACCENT, MARKUP
+681236 old <L>204032<pc>1007,3<k1>vṛtrahatha<k2>vṛtrá—hatha<e>3
+681236 new <L>204032<pc>1007,3<k1>vṛtrahatha<k2>vṛtra—hátha<e>3
+;
+681237 old <s>vṛtrá—hatha</s> ¦ (<s>vṛtrá-</s>) <lex>m.</lex> <ab>id.</ab>, <ls>RV. iii, 16, 1.</ls><info lex="m"/>
+681237 new <s>vṛtra—hátha</s> ¦ (<s>vṛtrá-</s>) <lex>m.</lex> <ab>id.</ab>, <ls>RV. iii, 16, 1.</ls><info n="rev" pc="1332,2"/><info lex="m"/>
+;
+; L=210686.1, k1=vratopeta, pc=1332,2
+; TYPO
+702968 old <L>210686.1<pc>1332,2<k1>vratopeta<k2>vra—topeta<e>3
+702968 new <L>210686.1<pc>1332,2<k1>vratopeta<k2>vra—topeta<e>3
+;
+702969 old <s>vra—°to<srs/>pe<srs/>ta</s> ¦ <lex>mfn.</lex> one who has undertaken a religious vow, <ab>ib.</ab> <s>vrā́</s> (<ab>accord.</ab> to some also, ‘a woman, <ab>esp.</ab> a wanton or lustful w°oman’).<info n="sup"/><info lex="m:f:n"/>
+702969 new <s>vra—°to<srs/>pe<srs/>ta</s> ¦ <lex>mfn.</lex> one who has undertaken a religious vow, <ls>ib.</ls> <info n="sup"/><info lex="m:f:n"/>
+;
+; L=210727, k1=vrā, pc=1043,1
+; TYPO, MARKUP
+;703101 old <L>210727<pc>1043,1<k1>vrā<k2>vrā́<e>1
+;703101 new <L>210727<pc>1043,1<k1>vrā<k2>vrā́<e>1
+;
+703102 old <s>vrā́</s> ¦ <lex>f.</lex> (<ab>fr.</ab> √ <hom>1.</hom> <s>vṛ</s> <ab>accord.</ab> to some <ab>fr.</ab> a masc. stem <s>vra</s>) a heap, host, multitude (mostly <s>vrā́s</s>, <ab>pl.</ab>), <ls>RV.</ls> (<ls>Sāy. i, 121, 2,</ls>‘night’, ‘dawn’), <ls>AV.</ls><info lex="f"/>
+703102 new <s>vrā́</s> ¦ <lex>f.</lex> (<ab>fr.</ab> √ <hom>1.</hom> <s>vṛ</s> <ab>accord.</ab> to some <ab>fr.</ab> a masc. stem <s>vra</s>) a heap, host, multitude (mostly <s>vrā́s</s>, <ab>pl.</ab>), <ls>RV.</ls> (<ls>Sāy. i, 121, 2,</ls>‘night’, ‘dawn’), <ls>AV.</ls>; (accord. to some also, ‘a woman, esp. a wanton of lustful w°’) <info n="rev" pc="1332,2"/><info lex="f"/>
+;
+; L=222237, k1=śyāvāśvastuta, pc=1095,1
+; ACCENT, MARKUP
+739504 old <L>222237<pc>1095,1<k1>śyāvāśvastuta<k2>śyāvā́śvá—stuta<e>4
+739504 new <L>222237<pc>1095,1<k1>śyāvāśvastuta<k2>śyāvā́śva—stuta<e>4
+;
+739505 old <s>śyāvā́<srs/>śvá—stuta</s> ¦ <lex>mfn.</lex> praised by <s1 slp1="SyAvASva">Śyāvâśva</s1>, <ls>RV.</ls><info lex="m:f:n"/>
+739505 new <s>śyāvā́<srs/>śva—stuta</s> ¦ <lex>mfn.</lex> praised by <s1 slp1="SyAvASva">Śyāvâśva</s1>, <ls>RV.</ls><info n="rev" pc="1332,3"/><info lex="m:f:n"/>
+;
+; ----------------------------------------------------------------
+; changes from 'revdoc/comments_edit (3.1-3.7)-AB remarks.txt'
+; ----------------------------------------------------------------
+; L=718 and  718.1 akṣobha
+; remove "rev" markup
+2602 old <s>a-kṣobha</s> ¦ <lex>mfn.</lex> unagitated, unmoved <info n="rev" pc="1308,3"/><info lex="m:f:n"/>
+2602 new <s>a-kṣobha</s> ¦ <lex>mfn.</lex> unagitated, unmoved <info lex="m:f:n"/>
+2605 old <s>a-kṣobha</s> ¦ <lex>m.</lex> the post to which an elephant is tied. <info n="rev" pc="1308,3"/><info lex="m"/>
+2605 new <s>a-kṣobha</s> ¦ <lex>m.</lex> the post to which an elephant is tied. <info lex="m"/>
+;
+; L=4373 adhīvāsa pc=22,1
+; Remove 'rev' connection.
+; The revision believed to refer to L=4532 (see next)
+16054 old <s>adhī-vāsá</s> <hom>a</hom> ¦ ([<ls>RV.</ls>; <ls>ŚBr.</ls>; <ls>MBh.</ls> &c.]) <lex>m.</lex> an upper garment, mantle. <info or="4372,aDivAsa;4373,aDIvAsa;4374,aDIvAsas"/><info n="rev" pc="1310,3"/><info lex="m"/>
+16054 new <s>adhī-vāsá</s> <hom>a</hom> ¦ ([<ls>RV.</ls>; <ls>ŚBr.</ls> &c.]) <lex>m.</lex> an upper garment, mantle.<info or="4372,aDivAsa;4373,aDIvAsa;4374,aDIvAsas"/><info lex="m"/>
+;
+; L=4532, adhīvāsa, 22,3
+; Mark as revision: accent change
+16651 old <L>4532<pc>22,3<k1>adhīvāsa<k2>adhī-vāsá<h>b<e>1
+16651 new <L>4532<pc>22,3<k1>adhīvāsa<k2>adhī-vāsa<h>b<e>1
+;
+16652 old <s>adhī-vāsá</s> <hom>b</hom> ¦ = <s>adhi-vāsá</s>1, <ab>q.v.</ab>
+16652 new <s>adhī-vāsa</s> <hom>b</hom> ¦ <lex>m.</lex> = <s>adhi-v°</s>, <ls>MBh.</ls><info n="rev" pc="1310,3"/><info lex="m"/>
+;
+; L=21077, k1=asuraloka, pc=121,1
+; ACCENT in revision
+75758 old <L>21077<pc>121,1<k1>asuraloka<k2>ásura—loká<e>3
+75758 new <L>21077<pc>121,1<k1>asuraloka<k2>asura—loká<e>3
+;
+75759 old <s>ásura—loká</s> ¦ <lex>m.</lex> the world of the demons, <ls>MaitrS.</ls>; <ls>Kāṭh.</ls> <info n="rev" pc="1318,2"/><info lex="m"/>
+75759 new <s>asura—loká</s> ¦ <lex>m.</lex> the world of the demons, <ls>MaitrS.</ls>; <ls>Kāṭh.</ls> <info n="rev" pc="1318,2"/><info lex="m"/>
+;
+; L=21154-21154.3, k1=asṛj, pc=121,3 (rev 1318,2)
+; Drop the Accent on initial 'a'
+; L=21154, k1=asṛj, pc=121,3
+;
+76021 old <L>21154<pc>121,3<k1>asṛj<k2>ásṛj<e>1
+76021 new <L>21154<pc>121,3<k1>asṛj<k2>asṛj<e>1
+;
+76022 old <s>ásṛj</s> ¦ <s>k</s> (once <s>d</s>, <ls>TS. vii</ls>) <lex>n.</lex> (<lex>m.</lex> or <lex>f.</lex> only, <ls>Hariv. 9296</ls>) blood, <ls>RV. i, 164, 4</ls>; <ls>AV.</ls> &c. [for the weak cases See <s>asán</s>; beside, in later language, forms like <ab>instr.</ab> <s>asṛjā</s> (<ls>R. iii, 8, 4</ls>) and <ab>gen.</ab> <s>asṛjas</s> (<ls>Suśr.</ls>) are found]<info lex="m:f:n"/>
+76022 new <s>asṛj</s> ¦ <s>k</s> (once <s>d</s>, <ls>TS. vii</ls>) <lex>n.</lex> (<lex>m.</lex> or <lex>f.</lex> only, <ls>Hariv. 9296</ls>) blood, <ls>RV. i, 164, 4</ls>; <ls>AV.</ls> &c. [for the weak cases See <s>asán</s>; beside, in later language, forms like <ab>instr.</ab> <s>asṛjā</s> (<ls>R. iii, 8, 4</ls>) and <ab>gen.</ab> <s>asṛjas</s> (<ls>Suśr.</ls>) are found]<info lex="m:f:n"/>
+;
+; L=21154.1, k1=asṛj, pc=121,3
+;
+76024 old <L>21154.1<pc>121,3<k1>asṛj<k2>ásṛj<e>1B
+76024 new <L>21154.1<pc>121,3<k1>asṛj<k2>asṛj<e>1B
+;
+76025 old <s>ásṛj</s> ¦ <lex>n.</lex> saffron, <ls>L.</ls><info lex="n"/>
+76025 new <s>asṛj</s> ¦ <lex>n.</lex> saffron, <ls>L.</ls><info lex="n"/>
+;
+; L=21154.2, k1=asṛj, pc=121,3
+;
+76027 old <L>21154.2<pc>121,3<k1>asṛj<k2>ásṛj<e>1B
+76027 new <L>21154.2<pc>121,3<k1>asṛj<k2>asṛj<e>1B
+;
+76028 old <s>ásṛj</s> ¦ <lex>m.</lex> (<s>k</s>) the planet Mars;<info lex="m"/>
+76028 new <s>asṛj</s> ¦ <lex>m.</lex> (<s>k</s>) the planet Mars;<info lex="m"/>
+;
+; L=21154.3, k1=asṛj, pc=121,3
+;
+76030 old <L>21154.3<pc>121,3<k1>asṛj<k2>ásṛj<e>1B
+76030 new <L>21154.3<pc>121,3<k1>asṛj<k2>asṛj<e>1B
+;
+;76031 old ¦ <ab>N.</ab> of the 16th of the astrological <s1 slp1="yoga">Yoga</s1>s, also called <s1 slp1="sidDi">Siddhi</s1>, <ls>L.</ls> <info n="rev" pc="1318,2"/><info lex="inh"/>
+;76031 new ¦ <ab>N.</ab> of the 16th of the astrological <s1 slp1="yoga">Yoga</s1>s, also called <s1 slp1="sidDi">Siddhi</s1>, <ls>L.</ls> <info n="rev" pc="1318,2"/><info lex="inh"/>
+;
+; L=22292, ākenipa, 128,1  1319,1
+; 
+79985 old <s>āké—nipá</s> ¦ <lex>mfn.</lex> (said of the horses of the <s1 slp1="aSvin">Aśvin</s1>s) protecting in the vicinity, <ls>RV. iv, 45, 6</ls><info lex="m:f:n"/>
+79985 new <s>āké—nipá</s> ¦ <lex>mfn.</lex> (said of the horses of the <s1 slp1="aSvin">Aśvin</s1>s) protecting in the vicinity, <s>ā kenipā́so</s>, <ab>ib.</ab> <ls>iv, 45, 6</ls> <info n="rev" pc="1319,1"/><info lex="m:f:n"/>
+;
+; L=22293, ākenipa, 128,1  1319,1
+; revert back to original
+;
+79988 old ¦ (= <s>ā + kenipā́so</s>, <ab>ib.</ab> <ls>iv, 45, 6</ls>) <info n="rev" pc="1319,1"/><info lex="inh"/>
+79988 new ¦ (= <s>ā + kenipá</s>, <ab>q̲.v.</ab>, ‘wise,’ <ls>Naigh. iii, 15</ls>)<info lex="inh"/>
+;
+; <L>25826<pc>148,2<k1>āyāsa
+; Also do accent revision in L=25827
+92013 old <L>25827<pc>148,2<k1>āyāsa<k2>ā-yāsa<e>2A
+92013 new <L>25827<pc>148,2<k1>āyāsa<k2>ā-yāsá<e>2A
+;
+; L=26326-26334  āroha
+; Accent change to ā-rohá in metaline
+;
+; L=26326, k1=āroha, pc=151,2
+;
+93776 old <L>26326<pc>151,2<k1>āroha<k2>ā-roha<e>2A
+93776 new <L>26326<pc>151,2<k1>āroha<k2>ā-rohá<e>2A
+;
+; L=26327, k1=āroha, pc=151,2
+;
+93779 old <L>26327<pc>151,2<k1>āroha<k2>ā-roha<e>2A
+93779 new <L>26327<pc>151,2<k1>āroha<k2>ā-rohá<e>2A
+;
+; L=26328, k1=āroha, pc=151,2
+;
+93782 old <L>26328<pc>151,2<k1>āroha<k2>ā-roha<e>2A
+93782 new <L>26328<pc>151,2<k1>āroha<k2>ā-rohá<e>2A
+;
+; L=26329, k1=āroha, pc=151,2
+;
+93785 old <L>26329<pc>151,2<k1>āroha<k2>ā-roha<e>2A
+93785 new <L>26329<pc>151,2<k1>āroha<k2>ā-rohá<e>2A
+;
+; L=26330, k1=āroha, pc=151,2
+;
+93788 old <L>26330<pc>151,2<k1>āroha<k2>ā-roha<e>2A
+93788 new <L>26330<pc>151,2<k1>āroha<k2>ā-rohá<e>2A
+;
+; L=26331, k1=āroha, pc=151,2
+;
+93791 old <L>26331<pc>151,2<k1>āroha<k2>ā-roha<e>2A
+93791 new <L>26331<pc>151,2<k1>āroha<k2>ā-rohá<e>2A
+;
+; L=26332, k1=āroha, pc=151,2
+;
+93794 old <L>26332<pc>151,2<k1>āroha<k2>ā-roha<e>2A
+93794 new <L>26332<pc>151,2<k1>āroha<k2>ā-rohá<e>2A
+;
+; L=26333, k1=āroha, pc=151,2
+;
+93797 old <L>26333<pc>151,2<k1>āroha<k2>ā-roha<e>2A
+93797 new <L>26333<pc>151,2<k1>āroha<k2>ā-rohá<e>2A
+;
+; L=26334, k1=āroha, pc=151,2
+;
+93800 old <L>26334<pc>151,2<k1>āroha<k2>ā-roha<e>2A
+93800 new <L>26334<pc>151,2<k1>āroha<k2>ā-rohá<e>2A
+;
+; <L>27490.2<pc>1320,2<k1>āśīviṣā
+; typo
+97760 old <s>āśīviṣā</s> ¦ <lex>f.</lex> <ab>N.</ab> of a mythical river, <ab>ib.</ab><info n="sup"/><info lex="f"/>
+97760 new <s>āśīviṣā</s> ¦ <lex>f.</lex> <ab>N.</ab> of a mythical river, <ls>Div.</ls><info n="sup"/><info lex="f"/>
+;
+; 27490.3<pc>1320,2<k1>āśīviṣanadī
+; typo
+97763 old <s>āśīviṣa-nadī</s> ¦ <lex>f.</lex> <ab>id.</ab> (<ab>N.</ab> of a mythical river), <ab>ib.</ab><info n="sup"/><info lex="f"/>
+97763 new <s>āśīviṣa-nadī</s> ¦ <lex>f.</lex> <ab>id.</ab>, <ab>ib.</ab><info n="sup"/><info lex="f"/>
+;
+; L=31363, uttarīya
+; No 'rev' markup needed as continuation of previous L=31362.
+111455 old ¦ a blanket, <ls>Car.</ls> <info n="rev" pc="1321,3"/><info lex="inh"/>
+111455 new ¦ a blanket, <ls>Car.</ls><info lex="inh"/>
+;
+; L=33564 and 33565: add accent markup as continuation of 33563
+119073 old <L>33564<pc>191,3<k1>udvāsya<k2>ud-vāsya<e>2A
+119073 new <L>33564<pc>191,3<k1>udvāsya<k2>ud-vā́sya<e>2A
+;
+119076 old <L>33565<pc>191,3<k1>udvāsya<k2>ud-vāsya<e>2A
+119076 new <L>33565<pc>191,3<k1>udvāsya<k2>ud-vā́sya<e>2A
+;
+; L=42091,2 kadrū
+; 
+150751 old <L>42901<pc>248,1<k1>kadru<k2>kádru<e>1B
+150751 new <L>42901<pc>248,1<k1>kadru<k2>kadrū́<e>1B
+;
+150752 old <s>kádru</s> ¦ <lex>f.</lex> (<s>ū́s</s>) a particular divine personification (described in certain legends which relate to the bringing down of the <s1 slp1="soma">Soma</s1> from heaven <pb n="248,2"/>; according to the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s, ‘the earth personified’), <ls>TS. vi</ls>; <ls>ŚBr. iii, vi</ls>; <ls>Kāṭh.</ls> &c.<info lex="f"/>
+;150752 new <s>kadrū́</s> ¦ <lex>f.</lex> a particular divine personification (described in certain legends which relate to the bringing down of the <s1 slp1="soma">Soma</s1> from heaven <pb n="248,2"/>; according to the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s, ‘the earth personified’), <ls>TS. vi</ls>; <ls>ŚBr. iii, vi</ls>; <ls>Kāṭh.</ls>; <ls>RV.</ls> &c.<info n="rev" pc="1323,3"/><info lex="f"/>
+; revised to put RV first so chrono order schema of MW is maintained
+150752 new <s>kadrū́</s> ¦ <lex>f.</lex> a particular divine personification (described in certain legends which relate to the bringing down of the <s1 slp1="soma">Soma</s1> from heaven <pb n="248,2"/>; according to the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s, ‘the earth personified’), <ls>RV.</ls>; <ls>TS. vi</ls>; <ls>ŚBr. iii, vi</ls>; <ls>Kāṭh.</ls> &c.<info n="rev" pc="1323,3"/><info lex="f"/>
+;
+; L=42902, 248,2 kadru
+;
+150754 old <L>42902<pc>248,2<k1>kadru<k2>kádru<e>1B
+150754 new <L>42902<pc>248,2<k1>kadru<k2>kadrū́<e>1B
+;
+; L>52328<pc>292,2<k1>kumāradeṣṇa
+; semicolon to comma after []
+181180 old <s>kumāra—deṣṇa</s> ¦ <lex>mfn.</lex> granting perishable gifts [‘whose gifts are like those of children,’ <ab>i.e.</ab> ‘who gives and takes back’ <ls>Sāy.</ls>]; <ls>RV. x, 34, 7.</ls> <info n="rev" pc="1325,1"/><info lex="m:f:n"/>
+181180 new <s>kumāra—deṣṇa</s> ¦ <lex>mfn.</lex> granting perishable gifts [‘whose gifts are like those of children,’ <ab>i.e.</ab> ‘who gives and takes back’ <ls>Sāy.</ls>], <ls>RV. x, 34, 7.</ls> <info n="rev" pc="1325,1"/><info lex="m:f:n"/>
+;
+; L=59267, kṣaya, 327,3 1325,3
+; ACCENT  already done above
+;203408 old <L>59267<pc>327,3<k1>kṣaya<k2>kṣaya<h>1<e>2
+;203408 new <L>59267<pc>327,3<k1>kṣaya<k2>kṣáya<h>1<e>2
+;
+;203409 old <hom>1.</hom> <s>kṣaya</s> ¦ <lex>m.</lex> ‘dominion’ <ls>Sāy.</ls> (on, <ls>RV. vii, 46, 2</ls>). <info lex="m"/>
+;203409 new <hom>1.</hom> <s>kṣáya</s> ¦ <lex>m.</lex> ‘dominion’ <ls>Sāy.</ls> (on, <ls>RV. vii, 46, 2</ls>). <info n="rev" pc="1325,3"/><info lex="m"/>
+;
+; L=65948, k1=gupti, pc=359,1 1326,2
+; ACCENT changes from gúpti to gupti L=65945-65954
+; Also, add <info n="rev" pc="1326,2"/> to 65945
+;
+; L=65945, k1=gupti, pc=359,1
+;
+224783 old <L>65945<pc>359,1<k1>gupti<k2>gúpti<e>2
+224783 new <L>65945<pc>359,1<k1>gupti<k2>gupti<e>2
+;
+224784 old <s>gúpti</s> ¦ <lex>f.</lex> preserving, protecting, protection, <ls>AV. vi, 122, 3; xii, 3, 7</ls>; <ls>TS. v f.</ls>; <ls>TBr.</ls> &c.<info lex="f"/>
+224784 new <s>gupti</s> ¦ <lex>f.</lex> preserving, protecting, protection, <ls>AV. vi, 122, 3; xii, 3, 7</ls>; <ls>TS. v f.</ls>; <ls>TBr.</ls> &c.<info n="rev" pc="1326,2"/><info lex="f"/>
+;
+; L=65946, k1=gupti, pc=359,1
+;
+224786 old <L>65946<pc>359,1<k1>gupti<k2>gúpti<e>2A
+224786 new <L>65946<pc>359,1<k1>gupti<k2>gupti<e>2A
+;
+; L=65947, k1=gupti, pc=359,1
+;
+224789 old <L>65947<pc>359,1<k1>gupti<k2>gúpti<e>2A
+224789 new <L>65947<pc>359,1<k1>gupti<k2>gupti<e>2A
+;
+; L=65948, k1=gupti, pc=359,1
+;
+224792 old <L>65948<pc>359,1<k1>gupti<k2>gúpti<e>2A
+224792 new <L>65948<pc>359,1<k1>gupti<k2>gupti<e>2A
+;
+; L=65949, k1=gupti, pc=359,1
+;
+224795 old <L>65949<pc>359,1<k1>gupti<k2>gúpti<e>2A
+224795 new <L>65949<pc>359,1<k1>gupti<k2>gupti<e>2A
+;
+; L=65950, k1=gupti, pc=359,1
+;
+224798 old <L>65950<pc>359,1<k1>gupti<k2>gúpti<e>2A
+224798 new <L>65950<pc>359,1<k1>gupti<k2>gupti<e>2A
+;
+; L=65951, k1=gupti, pc=359,1
+;
+224801 old <L>65951<pc>359,1<k1>gupti<k2>gúpti<e>2A
+224801 new <L>65951<pc>359,1<k1>gupti<k2>gupti<e>2A
+;
+; L=65952, k1=gupti, pc=359,1
+;
+224804 old <L>65952<pc>359,1<k1>gupti<k2>gúpti<e>2A
+224804 new <L>65952<pc>359,1<k1>gupti<k2>gupti<e>2A
+;
+; L=65952.2, k1=guptigupta, pc=1326,2
+;
+224807 old <L>65952.2<pc>1326,2<k1>guptigupta<k2>gupti—gupta<e>3
+224807 new <L>65952.2<pc>1326,2<k1>guptigupta<k2>gupti—gupta<e>3
+;
+224808 old <s>gupti—gupta</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <s1 slp1="jEna">Jaina</s1> teacher<info n="sup"/><info lex="m"/>
+224808 new <s>gupti—gupta</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <s1 slp1="jEna">Jaina</s1> teacher<info n="sup"/><info lex="m"/>
+;
+; L=65952.3, k1=guptipālaka, pc=1326,2
+;
+224810 old <L>65952.3<pc>1326,2<k1>guptipālaka<k2>gupti—pālaka<e>3
+224810 new <L>65952.3<pc>1326,2<k1>guptipālaka<k2>gupti—pālaka<e>3
+;
+224811 old <s>gupti—pālaka</s> ¦ <lex>m.</lex> jailer, <ls>Mṛcch.</ls><info n="sup"/><info lex="m"/>
+224811 new <s>gupti—pālaka</s> ¦ <lex>m.</lex> jailer, <ls>Mṛcch.</ls><info n="sup"/><info lex="m"/>
+;
+; L=65953, k1=guptibandham, pc=359,1
+;
+224813 old <L>65953<pc>359,1<k1>guptibandham<k2>gúpti—bandham<e>3
+224813 new <L>65953<pc>359,1<k1>guptibandham<k2>gupti—bandham<e>3
+;
+224814 old <s>gúpti—bandham</s> ¦ <lex>ind.</lex> p, <ls>Pāṇ. 3-4, 41 <ab>Sch.</ab></ls> (not in <ls>Kāś.</ls>)<info lex="ind"/>
+224814 new <s>gupti—bandham</s> ¦ <lex>ind.</lex> p, <ls>Pāṇ. 3-4, 41 <ab>Sch.</ab></ls> (not in <ls>Kāś.</ls>)<info lex="ind"/>
+;
+; L=65954, k1=guptivāda, pc=359,1
+;
+224816 old <L>65954<pc>359,1<k1>guptivāda<k2>gúpti—vāda<e>3
+224816 new <L>65954<pc>359,1<k1>guptivāda<k2>gupti—vāda<e>3
+;
+224817 old <s>gúpti—vāda</s> ¦ <lex>m.</lex> a secret conversation, <ls>L.</ls><info lex="m"/>
+224817 new <s>gupti—vāda</s> ¦ <lex>m.</lex> a secret conversation, <ls>L.</ls><info lex="m"/>
+;
+; L=81969, tajjalān, pc 433,2; 1328,1
+; markup missed.
+277099 old <s>taj—ja—lā<srs/>n</s> <hom>a</hom> ¦ <lex>mfn.</lex> <ab>accord.</ab> to some, taj-jānānîti, ‘thinking, may I know that;’ <ls>ChUp. iii, 14, 1.</ls>; <ab>cf.</ab> <ls>IW. 102, 1</ls> <info n="rev" pc="1328,1"/><info lex="m:f:n"/>
+277099 new <s>taj—ja—lā<srs/>n</s> <hom>a</hom> ¦ <lex>mfn.</lex> <ab>accord.</ab> to some, <s>taj-jānānī<srs/>ti</s>, ‘thinking, may I know that;’ <ls>ChUp. iii, 14, 1.</ls>; <ab>cf.</ab> <ls>IW. 102, 1</ls> <info n="rev" pc="1328,1"/><info lex="m:f:n"/>
+;
+; <L>101953.5<pc>1329,2
+; delete entry. related to L=101946
+342912 old <L>101953.5<pc>1329,2<k1>dhṛṣṭa<k2>dhṛ́ṣṭa<e>2B
+342912 del 
+342913 old ¦ (Read <s>dhṛ́ṣṭa</s> and<ab>cf.</ab> <ab>Introd.</ab> <ab>p.</ab> xviii.) <info n="rev" pc="1329,2"/>
+342913 del 
+342914 old <LEND>
+342914 del 
+;
+; L=120909,120910 pānīya
+; remove "rev" markup (which has been applied in 120908)
+407993 old <s>pānīya</s> ¦ <lex>n.</lex> a beverage, drink, <ls>ib.</ls>; <ls>Pañc.</ls> <info n="rev" pc="1330,2"/><info lex="n"/>
+407993 new <s>pānīya</s> ¦ <lex>n.</lex> a beverage, drink, <ls>ib.</ls>; <ls>Pañc.</ls> <info lex="n"/>
+;
+407996 old ¦ water, <ls>Mn.</ls>; <ls>MBh.</ls> &c. (<ab>cf.</ab> <ls>Nir. i, 16</ls>). <info n="rev" pc="1330,2"/><info lex="inh"/>
+407996 new ¦ water, <ls>Mn.</ls>; <ls>MBh.</ls> &c. (<ab>cf.</ab> <ls>Nir. i, 16</ls>). <info lex="inh"/>
+;
+; L=142892, k1=bambaviśvavayas, pc=721,3
+; alternate headword needed bambā́-viśvávayas  L=142892.1
+; Also add <info and="..."/> in both
+; First, and the 'and' group to 142892
+480828 old <s>bamba-viśvavayás</s> ¦ (<ls>MaitrS.</ls>) and <s>bambā́-viśvávayas</s> (<ls>TS.</ls>; <ab>cf.</ab> <ab>g.</ab> <s>vanaspaty-ādi</s>, <ls>Kāś.</ls>) <lex>m. <ab>du.</ab></lex> <ab>N.</ab> of 2 men (also <s>bambhār-viśvavayas</s>, <ls>Kāṭh.</ls>) <info n="rev" pc="1331,1"/><info lex="m"/>
+480828 new <s>bamba-viśvavayás</s> ¦ (<ls>MaitrS.</ls>) and <s>bambā́-viśvávayas</s> (<ls>TS.</ls>; <ab>cf.</ab> <ab>g.</ab> <s>vanaspaty-ādi</s>, <ls>Kāś.</ls>) <lex>m. <ab>du.</ab></lex> <ab>N.</ab> of 2 men (also <s>bambhār-viśvavayas</s>, <ls>Kāṭh.</ls>) <info and="142892,bambaviSvavayas;142892.1,bambAviSvavayas"/><info n="rev" pc="1331,1"/><info lex="m"/>
+; next, insert L=142892.1
+480829 old <LEND>
+480829 ins <L>142892.1<pc>721,3<k1>bambāviśvavayas<k2>bambā́-viśvávayas<e>1
+;
+480829 old <LEND>
+480829 ins <s>bamba-viśvavayás</s> ¦ (<ls>MaitrS.</ls>) and <s>bambā́-viśvávayas</s> (<ls>TS.</ls>; <ab>cf.</ab> <ab>g.</ab> <s>vanaspaty-ādi</s>, <ls>Kāś.</ls>) <lex>m. <ab>du.</ab></lex> <ab>N.</ab> of 2 men (also <s>bambhār-viśvavayas</s>, <ls>Kāṭh.</ls>) <info and="142892,bambaviSvavayas;142892.1,bambAviSvavayas"/><info n="rev" pc="1331,1"/><info lex="m"/>
+;
+480829 old <LEND>
+480829 ins <LEND>
+;
+; L=157973, k1=mamat, pc=789,1
+; TYPO
+530169 old <s>mámat</s> ¦ <lex>ind.</lex> (only repeated with <s>caná</s>, or <s>cid</s>) no sooner-than &c., <ls>RV. iv, 18, 8; 9.</ls> <info n="rev" pc="1331,2"/><info lex="ind"/>
+530169 new <s>mámat</s> ¦ <lex>ind.</lex> (repeated with <s>caná</s>, or <s>cid</s>) no sooner—than &c., <ls>RV. iv, 18, 8; 9.</ls> <info n="rev" pc="1331,2"/><info lex="ind"/>
+;
+; insert new record sanisrasa
+; after L=231161 saniṣyada and before 231162 sanīḍa
+; use L=231161.1
+769466 old <LEND>
+769466 ins <L>231161.1<pc>1332,3<k1>sanisrasa<k2>sa-nisrasa<h>a<e>3
+;
+769466 old <LEND>
+769466 ins <s>sa-nisrasa</s> <hom>a</hom> ¦ see under √ <s>sraṃs</s>, <ab>p.</ab> 1273.<info n="sup"/>
+;
+769466 old <LEND>
+769466 ins <LEND>
+;
+; L=38870.1, ṛṇacit, delete entry
+137148 old <L>38870.1<pc>1322,3<k1>ṛṇacit<k2>ṛṇa—cít<h>b<e>3
+137148 del 
+;
+137149 old <s>ṛṇa—cít</s> <hom>b</hom> ¦ <lex>n.</lex> (read, ‘revenging guilt’)<info and="38865,fRakAti;38870.1,fRacit"/><info n="sup"/><info lex="n"/>
+137149 del 
+;
+137150 old <LEND>
+137150 del 
+;
+; Add accent for compounds of pAtra: L=120810-120840
+; pātr -> pā́tr
+;
+; L=120810, k1=pātrakaṭaka, pc=613,1
+;
+407655 old <L>120810<pc>613,1<k1>pātrakaṭaka<k2>pātra—kaṭaka<e>3
+407655 new <L>120810<pc>613,1<k1>pātrakaṭaka<k2>pā́tra—kaṭaka<e>3
+;
+407656 old <s>pātra—kaṭaka</s> ¦ <lex>m.</lex> or <lex type="hw">n.</lex> the ring on which an alms-bowl is suspended, <ls>L.</ls><info lex="m:n"/>
+407656 new <s>pā́tra—kaṭaka</s> ¦ <lex>m.</lex> or <lex type="hw">n.</lex> the ring on which an alms-bowl is suspended, <ls>L.</ls><info lex="m:n"/>
+;
+; L=120810.1, k1=pātracaya, pc=1330,2
+;
+407658 old <L>120810.1<pc>1330,2<k1>pātracaya<k2>pātra—caya<e>3
+407658 new <L>120810.1<pc>1330,2<k1>pātracaya<k2>pā́tra—caya<e>3
+;
+407659 old <s>pātra—caya</s> ¦ <lex>m.</lex> (<ls>HirP.</ls>)the act of putting the sacrificial utensils on the pyre by the side of the deceased<info n="sup"/><info lex="m"/>
+407659 new <s>pā́tra—caya</s> ¦ <lex>m.</lex> (<ls>HirP.</ls>)the act of putting the sacrificial utensils on the pyre by the side of the deceased<info n="sup"/><info lex="m"/>
+;
+; L=120810.2, k1=pātracayana, pc=1330,2
+;
+407661 old <L>120810.2<pc>1330,2<k1>pātracayana<k2>pātra—cayana<e>3
+407661 new <L>120810.2<pc>1330,2<k1>pātracayana<k2>pā́tra—cayana<e>3
+;
+407662 old <s>pātra—cayana</s> ¦ <lex>n.</lex> (<ls>BaudhP.</ls>) the act of putting the sacrificial utensils on the pyre by the side of the deceased<info n="sup"/><info lex="n"/>
+407662 new <s>pā́tra—cayana</s> ¦ <lex>n.</lex> (<ls>BaudhP.</ls>) the act of putting the sacrificial utensils on the pyre by the side of the deceased<info n="sup"/><info lex="n"/>
+;
+; L=120811, k1=pātraṭīra, pc=613,1
+;
+407664 old <L>120811<pc>613,1<k1>pātraṭīra<k2>pātra—ṭīra<e>3
+407664 new <L>120811<pc>613,1<k1>pātraṭīra<k2>pā́tra—ṭīra<e>3
+;
+407665 old <s>pātra—ṭīra</s> ¦ <lex>m.</lex> (?) (only <ls>L.</ls>) an ex-minister (<ls>W.</ls> ‘an able or competent <ab n="minister">m°</ab>’)<info lex="m"/>
+407665 new <s>pā́tra—ṭīra</s> ¦ <lex>m.</lex> (?) (only <ls>L.</ls>) an ex-minister (<ls>W.</ls> ‘an able or competent <ab n="minister">m°</ab>’)<info lex="m"/>
+;
+; L=120811.1, k1=pātraṭīra, pc=613,1
+;
+407667 old <L>120811.1<pc>613,1<k1>pātraṭīra<k2>pātra—ṭīra<e>3A
+407667 new <L>120811.1<pc>613,1<k1>pātraṭīra<k2>pā́tra—ṭīra<e>3A
+;
+;407668 old ¦ a metal vessel<info lex="inh"/>
+;407668 new ¦ a metal vessel<info lex="inh"/>
+;
+; L=120811.2, k1=pātraṭīra, pc=613,1
+;
+407670 old <L>120811.2<pc>613,1<k1>pātraṭīra<k2>pātra—ṭīra<e>3A
+407670 new <L>120811.2<pc>613,1<k1>pātraṭīra<k2>pā́tra—ṭīra<e>3A
+;
+;407671 old ¦ mucus running from the nose<info lex="inh"/>
+;407671 new ¦ mucus running from the nose<info lex="inh"/>
+;
+; L=120811.3, k1=pātraṭīra, pc=613,1
+;
+407673 old <L>120811.3<pc>613,1<k1>pātraṭīra<k2>pātra—ṭīra<e>3A
+407673 new <L>120811.3<pc>613,1<k1>pātraṭīra<k2>pā́tra—ṭīra<e>3A
+;
+;407674 old ¦ rust of iron<info lex="inh"/>
+;407674 new ¦ rust of iron<info lex="inh"/>
+;
+; L=120811.4, k1=pātraṭīra, pc=613,1
+;
+407676 old <L>120811.4<pc>613,1<k1>pātraṭīra<k2>pātra—ṭīra<e>3A
+407676 new <L>120811.4<pc>613,1<k1>pātraṭīra<k2>pā́tra—ṭīra<e>3A
+;
+;407677 old ¦ fire<info lex="inh"/>
+;407677 new ¦ fire<info lex="inh"/>
+;
+; L=120811.5, k1=pātraṭīra, pc=613,1
+;
+407679 old <L>120811.5<pc>613,1<k1>pātraṭīra<k2>pātra—ṭīra<e>3A
+407679 new <L>120811.5<pc>613,1<k1>pātraṭīra<k2>pā́tra—ṭīra<e>3A
+;
+;407680 old ¦ a heron<info lex="inh"/>
+;407680 new ¦ a heron<info lex="inh"/>
+;
+; L=120811.6, k1=pātraṭīra, pc=613,1
+;
+407682 old <L>120811.6<pc>613,1<k1>pātraṭīra<k2>pātra—ṭīra<e>3A
+407682 new <L>120811.6<pc>613,1<k1>pātraṭīra<k2>pā́tra—ṭīra<e>3A
+;
+;407683 old ¦ a crow.<info lex="inh"/>
+;407683 new ¦ a crow.<info lex="inh"/>
+;
+; L=120812, k1=pātratara, pc=613,1
+;
+407685 old <L>120812<pc>613,1<k1>pātratara<k2>pātra—tara<e>3
+407685 new <L>120812<pc>613,1<k1>pātratara<k2>pā́tra—tara<e>3
+;
+407686 old <s>pātra—tara</s> ¦ <lex>mfn.</lex> worthier than (<ab>abl.</ab>), <ls>Hariv.</ls><info lex="m:f:n"/>
+407686 new <s>pā́tra—tara</s> ¦ <lex>mfn.</lex> worthier than (<ab>abl.</ab>), <ls>Hariv.</ls><info lex="m:f:n"/>
+;
+; L=120813, k1=pātratā, pc=613,1
+;
+407688 old <L>120813<pc>613,1<k1>pātratā<k2>pātra—tā<e>3
+407688 new <L>120813<pc>613,1<k1>pātratā<k2>pā́tra—tā<e>3
+;
+407689 old <s>pātra—tā</s> ¦ <lex>f.</lex> the being a vessel or receptacle for (<ab>gen.</ab> or <ab>comp.</ab>), <ls>Kāv.</ls>; <ls>Rājat.</ls> (with <s>śīto<srs/>ṣṇayoḥ</s>, endurance of heat and cold, <ls>Subh.</ls>)<info lex="f"/>
+407689 new <s>pā́tra—tā</s> ¦ <lex>f.</lex> the being a vessel or receptacle for (<ab>gen.</ab> or <ab>comp.</ab>), <ls>Kāv.</ls>; <ls>Rājat.</ls> (with <s>śīto<srs/>ṣṇayoḥ</s>, endurance of heat and cold, <ls>Subh.</ls>)<info lex="f"/>
+;
+; L=120814, k1=pātratā, pc=613,1
+;
+407691 old <L>120814<pc>613,1<k1>pātratā<k2>pātra—tā<e>3A
+407691 new <L>120814<pc>613,1<k1>pātratā<k2>pā́tra—tā<e>3A
+;
+;407692 old ¦ = next, <ls>Yājñ.</ls>; <ls>Hit.</ls><info lex="inh"/>
+;407692 new ¦ = next, <ls>Yājñ.</ls>; <ls>Hit.</ls><info lex="inh"/>
+;
+; L=120815, k1=pātratva, pc=613,1
+;
+407694 old <L>120815<pc>613,1<k1>pātratva<k2>pātra—tva<e>3
+407694 new <L>120815<pc>613,1<k1>pātratva<k2>pā́tra—tva<e>3
+;
+407695 old <s>pātra—tva</s> ¦ <lex>n.</lex> capacity, worthiness, dignity,honour, <ls>Hit.</ls><info lex="n"/>
+407695 new <s>pā́tra—tva</s> ¦ <lex>n.</lex> capacity, worthiness, dignity,honour, <ls>Hit.</ls><info lex="n"/>
+;
+; L=120816, k1=pātradhāraṇa, pc=613,1
+;
+407697 old <L>120816<pc>613,1<k1>pātradhāraṇa<k2>pātra—dhāraṇa<e>3
+407697 new <L>120816<pc>613,1<k1>pātradhāraṇa<k2>pā́tra—dhāraṇa<e>3
+;
+407698 old <s>pātra—dhāraṇa</s> ¦ <lex>n.</lex> keeping a superfluous alms-bowl longer than is permitted, <ls>Buddh.</ls><info lex="n"/>
+407698 new <s>pā́tra—dhāraṇa</s> ¦ <lex>n.</lex> keeping a superfluous alms-bowl longer than is permitted, <ls>Buddh.</ls><info lex="n"/>
+;
+; L=120817, k1=pātranirṇega, pc=613,1
+;
+407700 old <L>120817<pc>613,1<k1>pātranirṇega<k2>pātra—nirṇegá<e>3
+407700 new <L>120817<pc>613,1<k1>pātranirṇega<k2>pā́tra—nirṇegá<e>3
+;
+407701 old <s>pātra—nirṇegá</s> ¦ <lex>m.</lex> a washer or cleaner of vessel, <ls>TBr.</ls><info lex="m"/>
+407701 new <s>pā́tra—nirṇegá</s> ¦ <lex>m.</lex> a washer or cleaner of vessel, <ls>TBr.</ls><info lex="m"/>
+;
+; L=120818, k1=pātraparīṣṭi, pc=613,1
+;
+407703 old <L>120818<pc>613,1<k1>pātraparīṣṭi<k2>pātra—parīṣṭi<e>3
+407703 new <L>120818<pc>613,1<k1>pātraparīṣṭi<k2>pā́tra—parīṣṭi<e>3
+;
+407704 old <s>pātra—parī<srs/>ṣṭi</s> ¦ <lex>f.</lex> untimely effort to obtain a new alms-bowl, <ls>Buddh.</ls><info lex="f"/>
+407704 new <s>pā́tra—parī<srs/>ṣṭi</s> ¦ <lex>f.</lex> untimely effort to obtain a new alms-bowl, <ls>Buddh.</ls><info lex="f"/>
+;
+; L=120819, k1=pātrapāka, pc=613,1
+;
+407706 old <L>120819<pc>613,1<k1>pātrapāka<k2>pātra—pāka<e>3
+407706 new <L>120819<pc>613,1<k1>pātrapāka<k2>pā́tra—pāka<e>3
+;
+407707 old <s>pātra—pāka</s> ¦ <ab>w.r.</ab> for <s>pattra-p°</s>.
+407707 new <s>pā́tra—pāka</s> ¦ <ab>w.r.</ab> for <s>pattra-p°</s>.
+;
+; L=120820, k1=pātrapāṇi, pc=613,1
+;
+407709 old <L>120820<pc>613,1<k1>pātrapāṇi<k2>pātra—pāṇi<e>3
+407709 new <L>120820<pc>613,1<k1>pātrapāṇi<k2>pā́tra—pāṇi<e>3
+;
+407710 old <s>pātra—pāṇi</s> ¦ <lex>m.</lex> ‘cup-handed’, <ab>N.</ab> of a demon inimical to children, <ls>PārGṛ.</ls><info lex="m"/>
+407710 new <s>pā́tra—pāṇi</s> ¦ <lex>m.</lex> ‘cup-handed’, <ab>N.</ab> of a demon inimical to children, <ls>PārGṛ.</ls><info lex="m"/>
+;
+; L=120821, k1=pātrapāla, pc=613,1
+;
+407712 old <L>120821<pc>613,1<k1>pātrapāla<k2>pātra—pāla<e>3
+407712 new <L>120821<pc>613,1<k1>pātrapāla<k2>pā́tra—pāla<e>3
+;
+407713 old <s>pātra—pāla</s> ¦ <lex>m.</lex> ‘vessel-guiding’, a large paddle used as a rudder, <ls>L.</ls><info lex="m"/>
+407713 new <s>pā́tra—pāla</s> ¦ <lex>m.</lex> ‘vessel-guiding’, a large paddle used as a rudder, <ls>L.</ls><info lex="m"/>
+;
+; L=120821.1, k1=pātraprokṣa, pc=1330,2
+;
+407715 old <L>120821.1<pc>1330,2<k1>pātraprokṣa<k2>pātra—prokṣa<e>3
+407715 new <L>120821.1<pc>1330,2<k1>pātraprokṣa<k2>pā́tra—prokṣa<e>3
+;
+407716 old <s>pātra—pro<srs/>kṣa</s> ¦ <lex>m.</lex> the sprinkling of the vessels, <ls>ĀpGṛ.</ls><info n="sup"/><info lex="m"/>
+407716 new <s>pā́tra—pro<srs/>kṣa</s> ¦ <lex>m.</lex> the sprinkling of the vessels, <ls>ĀpGṛ.</ls><info n="sup"/><info lex="m"/>
+;
+; L=120822, k1=pātrabhūta, pc=613,1
+;
+407718 old <L>120822<pc>613,1<k1>pātrabhūta<k2>pātra—bhūta<e>3
+407718 new <L>120822<pc>613,1<k1>pātrabhūta<k2>pā́tra—bhūta<e>3
+;
+407719 old <s>pātra—bhūta</s> ¦ <lex>mfn.</lex> ‘become a recipient’, worthy of receiving from (<ab>gen.</ab>), <ls>MBh.</ls><info lex="m:f:n"/>
+407719 new <s>pā́tra—bhūta</s> ¦ <lex>mfn.</lex> ‘become a recipient’, worthy of receiving from (<ab>gen.</ab>), <ls>MBh.</ls><info lex="m:f:n"/>
+;
+; L=120823, k1=pātrabhūta, pc=613,1
+;
+407721 old <L>120823<pc>613,1<k1>pātrabhūta<k2>pātra—bhūta<e>3A
+407721 new <L>120823<pc>613,1<k1>pātrabhūta<k2>pā́tra—bhūta<e>3A
+;
+;407722 old ¦ one who receives respectful treatment from (<ab>gen.</ab>), <ls>Hariv.</ls><info lex="inh"/>
+;407722 new ¦ one who receives respectful treatment from (<ab>gen.</ab>), <ls>Hariv.</ls><info lex="inh"/>
+;
+; L=120824, k1=pātrabhṛt, pc=613,1
+;
+407724 old <L>120824<pc>613,1<k1>pātrabhṛt<k2>pātra—bhṛt<e>3
+407724 new <L>120824<pc>613,1<k1>pātrabhṛt<k2>pā́tra—bhṛt<e>3
+;
+407725 old <s>pātra—bhṛt</s> ¦ <lex>m.</lex> ‘taking care of utensils’, a servant, <ls>W.</ls><info lex="m"/>
+407725 new <s>pā́tra—bhṛt</s> ¦ <lex>m.</lex> ‘taking care of utensils’, a servant, <ls>W.</ls><info lex="m"/>
+;
+; L=120825, k1=pātrabheda, pc=613,1
+;
+407727 old <L>120825<pc>613,1<k1>pātrabheda<k2>pātra—bheda<e>3
+407727 new <L>120825<pc>613,1<k1>pātrabheda<k2>pā́tra—bheda<e>3
+;
+407728 old <s>pātra—bheda</s> ¦ <lex>m.</lex> breaking a drinking-vessel or cup, <ls>MW.</ls><info lex="m"/>
+407728 new <s>pā́tra—bheda</s> ¦ <lex>m.</lex> breaking a drinking-vessel or cup, <ls>MW.</ls><info lex="m"/>
+;
+; L=120826, k1=pātramelana, pc=613,1
+;
+407730 old <L>120826<pc>613,1<k1>pātramelana<k2>pātra—melana<e>3
+407730 new <L>120826<pc>613,1<k1>pātramelana<k2>pā́tra—melana<e>3
+;
+407731 old <s>pātra—melana</s> ¦ <lex>n.</lex> the bringing together of the characters of a play, <ls>ib.</ls><info lex="n"/>
+407731 new <s>pā́tra—melana</s> ¦ <lex>n.</lex> the bringing together of the characters of a play, <ls>ib.</ls><info lex="n"/>
+;
+; L=120827, k1=pātrayojana, pc=613,1
+;
+407733 old <L>120827<pc>613,1<k1>pātrayojana<k2>pātra—yojana<e>3
+407733 new <L>120827<pc>613,1<k1>pātrayojana<k2>pā́tra—yojana<e>3
+;
+407734 old <s>pātra—yojana</s> ¦ <lex>n.</lex> arrangement of vessels, <ls>KātyŚr.</ls><info lex="n"/>
+407734 new <s>pā́tra—yojana</s> ¦ <lex>n.</lex> arrangement of vessels, <ls>KātyŚr.</ls><info lex="n"/>
+;
+; L=120828, k1=pātravandana, pc=613,1
+;
+407736 old <L>120828<pc>613,1<k1>pātravandana<k2>pātra—vandana<e>3
+407736 new <L>120828<pc>613,1<k1>pātravandana<k2>pā́tra—vandana<e>3
+;
+407737 old <s>pātra—vandana</s> ¦ <lex>n.</lex> ‘adoration of <ab n="vessels">v°</ab>’, <ab>N.</ab> of <ab>wk.</ab><info lex="n"/>
+407737 new <s>pā́tra—vandana</s> ¦ <lex>n.</lex> ‘adoration of <ab n="vessels">v°</ab>’, <ab>N.</ab> of <ab>wk.</ab><info lex="n"/>
+;
+; L=120829, k1=pātravarga, pc=613,1
+;
+407739 old <L>120829<pc>613,1<k1>pātravarga<k2>pātra—varga<e>3
+407739 new <L>120829<pc>613,1<k1>pātravarga<k2>pā́tra—varga<e>3
+;
+407740 old <s>pātra—varga</s> ¦ <lex>m.</lex> a company of actors, <ls>MW.</ls><info lex="m"/>
+407740 new <s>pā́tra—varga</s> ¦ <lex>m.</lex> a company of actors, <ls>MW.</ls><info lex="m"/>
+;
+; L=120830, k1=pātraśuddhi, pc=613,1
+;
+407742 old <L>120830<pc>613,1<k1>pātraśuddhi<k2>pātra—śuddhi<e>3
+407742 new <L>120830<pc>613,1<k1>pātraśuddhi<k2>pā́tra—śuddhi<e>3
+;
+407743 old <s>pātra—śuddhi</s> ¦ <lex>f.</lex> ‘cleaning of vessels’, <ab>N.</ab> of <ab>wk.</ab><info lex="f"/>
+407743 new <s>pā́tra—śuddhi</s> ¦ <lex>f.</lex> ‘cleaning of vessels’, <ab>N.</ab> of <ab>wk.</ab><info lex="f"/>
+;
+; L=120831, k1=pātraśeṣa, pc=613,1
+;
+407745 old <L>120831<pc>613,1<k1>pātraśeṣa<k2>pātra—śeṣa<e>3
+407745 new <L>120831<pc>613,1<k1>pātraśeṣa<k2>pā́tra—śeṣa<e>3
+;
+407746 old <s>pātra—śeṣa</s> ¦ <lex>m.</lex> scraps of food, <ls>Divyâv.</ls><info lex="m"/>
+407746 new <s>pā́tra—śeṣa</s> ¦ <lex>m.</lex> scraps of food, <ls>Divyâv.</ls><info lex="m"/>
+;
+; L=120832, k1=pātrasaṃskāra, pc=613,1
+;
+407748 old <L>120832<pc>613,1<k1>pātrasaṃskāra<k2>pātra—saṃskāra<e>3
+407748 new <L>120832<pc>613,1<k1>pātrasaṃskāra<k2>pā́tra—saṃskāra<e>3
+;
+407749 old <s>pātra—saṃskāra</s> ¦ <lex>m.</lex> the cleaning of a vessel or dish, <ls>L.</ls><info lex="m"/>
+407749 new <s>pā́tra—saṃskāra</s> ¦ <lex>m.</lex> the cleaning of a vessel or dish, <ls>L.</ls><info lex="m"/>
+;
+; L=120833, k1=pātrasaṃskāra, pc=613,1
+;
+407751 old <L>120833<pc>613,1<k1>pātrasaṃskāra<k2>pātra—saṃskāra<e>3A
+407751 new <L>120833<pc>613,1<k1>pātrasaṃskāra<k2>pā́tra—saṃskāra<e>3A
+;
+;407752 old ¦ the current of a river, <ls>L.</ls><info lex="inh"/>
+;407752 new ¦ the current of a river, <ls>L.</ls><info lex="inh"/>
+;
+; L=120834, k1=pātrasaṃcāra, pc=613,1
+;
+407754 old <L>120834<pc>613,1<k1>pātrasaṃcāra<k2>pātra—saṃcāra<e>3
+407754 new <L>120834<pc>613,1<k1>pātrasaṃcāra<k2>pā́tra—saṃcāra<e>3
+;
+407755 old <s>pātra—saṃcāra</s> ¦ <lex>m.</lex> the handing round of vessels or dishes at a meal, <ls>MBh.</ls><info lex="m"/>
+407755 new <s>pā́tra—saṃcāra</s> ¦ <lex>m.</lex> the handing round of vessels or dishes at a meal, <ls>MBh.</ls><info lex="m"/>
+;
+; L=120835, k1=pātrastha, pc=613,1
+;
+407757 old <L>120835<pc>613,1<k1>pātrastha<k2>pātra—stha<e>3
+407757 new <L>120835<pc>613,1<k1>pātrastha<k2>pā́tra—stha<e>3
+;
+407758 old <s>pātra—stha</s> ¦ <lex>mfn.</lex> being in a receptacle or dish, <ls>MW.</ls><info lex="m:f:n"/>
+407758 new <s>pā́tra—stha</s> ¦ <lex>mfn.</lex> being in a receptacle or dish, <ls>MW.</ls><info lex="m:f:n"/>
+;
+; L=120836, k1=pātrahasta, pc=613,1
+;
+407760 old <L>120836<pc>613,1<k1>pātrahasta<k2>pā́tra—hasta<e>3
+407760 new <L>120836<pc>613,1<k1>pātrahasta<k2>pā́tra—hasta<e>3
+;
+407761 old <s>pā́tra—hasta</s> ¦ <lex>mf(<s>ā</s>)n.</lex> holding any vessel in the hand, <ls>AV.</ls>; <ls>Śak.</ls><info lex="m:f#A:n"/>
+407761 new <s>pā́tra—hasta</s> ¦ <lex>mf(<s>ā</s>)n.</lex> holding any vessel in the hand, <ls>AV.</ls>; <ls>Śak.</ls><info lex="m:f#A:n"/>
+;
+; L=120837, k1=pātrārtha, pc=613,1
+;
+407763 old <L>120837<pc>613,1<k1>pātrārtha<k2>pātrārtha<e>3
+407763 new <L>120837<pc>613,1<k1>pātrārtha<k2>pā́trārtha<e>3
+;
+407764 old <s>pātrā<srs/>rtha</s> ¦ <lex>m.</lex> any object serving as a <ab n="vessel">v°</ab><info lex="m"/>
+407764 new <s>pā́trā<srs/>rtha</s> ¦ <lex>m.</lex> any object serving as a <ab n="vessel">v°</ab><info lex="m"/>
+;
+; L=120838, k1=pātrārtha, pc=613,1
+;
+407766 old <L>120838<pc>613,1<k1>pātrārtha<k2>pātrārtha<e>3A
+407766 new <L>120838<pc>613,1<k1>pātrārtha<k2>pā́trārtha<e>3A
+;
+;407767 old ¦ <s>pāṇibhyām pātrā<srs/>°rthaṃ-√ kṛ</s>, to use the hands as a <ab n="vessel">v°</ab>, <ls>SāmavBr.</ls><info lex="inh"/>
+;407767 new ¦ <s>pāṇibhyām pātrā<srs/>°rthaṃ-√ kṛ</s>, to use the hands as a <ab n="vessel">v°</ab>, <ls>SāmavBr.</ls><info lex="inh"/>
+;
+; L=120839, k1=pātrāvaleham, pc=613,1
+;
+407769 old <L>120839<pc>613,1<k1>pātrāvaleham<k2>pātrāvaleham<e>3
+407769 new <L>120839<pc>613,1<k1>pātrāvaleham<k2>pā́trāvaleham<e>3
+;
+407770 old <s>pātrā<srs/>valeham</s> ¦ <lex>ind.</lex> licking a <ab n="vessel">v°</ab> or dish, <ls>Buddh.</ls><info lex="ind"/>
+407770 new <s>pā́trā<srs/>valeham</s> ¦ <lex>ind.</lex> licking a <ab n="vessel">v°</ab> or dish, <ls>Buddh.</ls><info lex="ind"/>
+;
+; L=120840, k1=pātropakaraṇa, pc=613,1
+;
+407772 old <L>120840<pc>613,1<k1>pātropakaraṇa<k2>pātropakaraṇa<e>3
+407772 new <L>120840<pc>613,1<k1>pātropakaraṇa<k2>pā́tropakaraṇa<e>3
+;
+407773 old <s>pātro<srs/>pakaraṇa</s> ¦ <lex>n.</lex> ornaments of a secondary kind (as bells, chowries &c.), <ls>KālP.</ls><info lex="n"/>
+407773 new <s>pā́tro<srs/>pakaraṇa</s> ¦ <lex>n.</lex> ornaments of a secondary kind (as bells, chowries &c.), <ls>KālP.</ls><info lex="n"/>
+;
