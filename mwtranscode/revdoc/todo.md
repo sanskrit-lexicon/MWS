@@ -61,7 +61,7 @@ In such a case it would be as under-
 ```
 <Ls>27990<pc>160,2<k1>āsandīsad<k2>āsandī́—sád<e>3
 <s>āsandī́—sád</s> ¦ <lex>mfn.</lex> sitting on a chair, <ls>ŚBr. xii, 8, 3, 4.</ls><info lex="m:f:n"/>	<LEND>
-``
+```
 AB: Need to keep in mind as TODO yet in all comp. words throughout, looking at the specific accent markings whereever given.
 
 Noticed with aṅgulisaṃdeśa
@@ -79,7 +79,7 @@ The character | (the slp1 transliteration for ł) has some issue in the display 
 AB: Need to look when the display & search issues for this would be attended to.
 
 ## ṛjūyat
-re <Ls>38839<pc>225,3<k1>ṛjūyat
+re `<Ls>38839<pc>225,3<k1>ṛjūyat`
 AB: after doing the full revision entries, I am left with a feeling that MW (and his associates) had some genuine references, to go against the PW (or PWG) which also sometimes erred (thus giving wrong refenreces).
 
 ## ci
@@ -101,7 +101,7 @@ L=91239, k1=dādada, pc=474,1
 But why is Śiś. required here, when the ib. is present? Probably that could also be 'erased'.
 AB: Probably we can have a second thought about having the Śiś. here.
 jim: Probably 'ib.' here means in the same verse of Śiś. as previously
-   mentioned, namely <ls>Śiś. xix, 114.</ls> in L=91238, dāda
+   mentioned, namely `<ls>Śiś. xix, 114.</ls>` in L=91238, dāda
 
 ## niṣṭakvan
 L=110899, k1=niṣṭakvan, pc=563,1
@@ -112,8 +112,9 @@ AB: So, PWG and PW are not always the final sources for MW (see my latest commen
 Noticed with aṅgārakayantra, L=1672.1, pc=1309,2
 alternate HW entry "bhauma-yantra" missed here.
 A(1309,2) aṅgāraka-yantra (or bhauma-y°), ... ... ...
+
 ```
-<L>1672.1<pc>1309,2<k1>aṅgārakayantra<k2>aṅgāraka-yantra<e>3
+<L>.1<pc>1309,2<k1>aṅgārakayantra<k2>aṅgāraka-yantra<e>3
 <s>aṅgāraka-yantra</s>¦ (or <s>bhauma</s>-<s>y</s>°), <lex>n.</lex> a kind of auspicious diagram, <ls>Inscr.</ls><info n="sup"/><info lex="n"/>
 ```
 There are 296 such entries "¦ (or \<s>", which need to be split as sep. entries and marked as OR group.
@@ -134,7 +135,7 @@ jim: How to enter 'or' and 'and' groups?
 <L>142892<pc>721,3<k1>bambaviśvavayas<k2>bamba-viśvavayás<e>1
 <s>bamba-viśvavayás</s> ¦ (<ls>MaitrS.</ls>) and <s>bambā́-viśvávayas</s> (<ls>TS.</ls>; <ab>cf.</ab> <ab>g.</ab> <s>vanaspaty-ādi</s>, <ls>Kāś.</ls>) <lex>m. <ab>du.</ab></lex> <ab>N.</ab> of 2 men (also <s>bambhār-viśvavayas</s>, <ls>Kāṭh.</ls>) <info and="142892,bambaviSvavayas;142892.1,bambAviSvavayas"/><info n="rev" pc="1331,1"/><info lex="m"/>
 <LEND>
-[and the alternate]
+and the alternate
 <L>142892.1<pc>721,3<k1>bambāviśvavayas<k2>bambā́-viśvávayas<e>1
 <s>bamba-viśvavayás</s> ¦ (<ls>MaitrS.</ls>) and <s>bambā́-viśvávayas</s> (<ls>TS.</ls>; <ab>cf.</ab> <ab>g.</ab> <s>vanaspaty-ādi</s>, <ls>Kāś.</ls>) <lex>m. <ab>du.</ab></lex> <ab>N.</ab> of 2 men (also <s>bambhār-viśvavayas</s>, <ls>Kāṭh.</ls>) <info and="142892,bambaviSvavayas;142892.1,bambAviSvavayas"/><info n="rev" pc="1331,1"/><info lex="m"/>
 <LEND>
