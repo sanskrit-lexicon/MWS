@@ -8,6 +8,15 @@ import sys, re,codecs
 import transcoder
 transcoder.transcoder_set_dir('transcoder')
 
+slp1chars = {}
+def update_slp1chars(x,y,tranin,tranout):
+ if not ((tranin == 'roman') and (tranout == 'slp1')):
+  return
+ m = re.search(r"^[a-zA-Z|~/\\^— √°'+.,;=?\[\]\(\)!-]*$",y)
+ if m == None:
+  print(iline+1,x,y)
+ return
+ 
 def convert(line,tranin,tranout):
  # convert text  in '<s>X</s>'
  tagname = 's'
@@ -61,6 +70,7 @@ def transcode(x,tranin,tranout):
  #if True and (('|' in x) or ('Q' in x)):
  if False and ('~' in x):  # for debugging.
   print_unicode(x,y)
+ update_slp1chars(x,y,tranin,tranout)
  return y
 
 def convert_metaline(line,tranin,tranout):
@@ -78,7 +88,7 @@ def convert_metaline(line,tranin,tranout):
  if False and (tranin == 'slp1') and (tranout == 'deva'):
   if '/' in k2:
    print_unicode(k2,k2a)
- if (tranin == 'roman') and (tranout == 'slp1'):
+ if (tranin in ['roman','roman1']) and (tranout == 'slp1'):
   # transcoding inversion problem for three lines
   exceptions = [
    ('<L>116525.7<',
@@ -98,7 +108,31 @@ def convert_metaline(line,tranin,tranout):
     break
  return lineout
 
-if __name__=="__main__": 
+def test():
+ tranin = 'roman'
+ tranout = 'slp1'
+ tests = [
+  'ā́',
+  'ā-pyā́yana',
+  'ā́-bhūti',
+ ]
+ for x in tests:
+  y = transcode(x,tranin,tranout)
+  print('%s -> %s'%(x,y))
+ exit(1)
+def test1():
+ with codecs.open("temp.txt","w","utf-8") as f:
+  x = 'A^'
+  y = transcode(x,'slp1','roman')
+  f.write(y+'\n')
+  z = transcode(y,'roman','slp1')
+  f.write(z+'\n')
+ print('write to temp.txt')
+ exit(1)
+ 
+if __name__=="__main__":
+ #test()
+ #test1()
  tranin = sys.argv[1]
  tranout = sys.argv[2]
  filein = sys.argv[3] #  xxx.txt (path to digitization of xxx
