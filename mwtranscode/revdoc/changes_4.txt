@@ -1,0 +1,3353 @@
+; Part 2 of changes leading to mw_iast commit e2d695b3ea92455331661244d008b59dac6751c3
+; inserts and deletes to mw5_iast.txt
+;
+; Delete 69217.1,ghagh
+; delete 69217.1 (69219 is per the book)
+;
+235584 old <L>69217.1<pc>375,1<k1>ghagh<k2>ghagh<h>a<e>1
+235584 del 
+;
+235585 old <s>ghagh</s> <hom>a</hom> ¦ (and <s>ghaggh</s>) <ab>cl.</ab> 1. <ab>P.</ab> <s>°gghati</s> (and <s>°ghati</s>), to laugh, <ls>v, 53</ls> (<ab>cf.</ab> √ <s>kakh</s>.)<info and="69217,GagG;69217.1,GaG"/><info verb="root" cp="1P"/>
+235585 del 
+;
+235586 old <LEND>
+235586 del 
+;
+; delete <L>198438<pc>978,3<k1>vibhu  (it is not in text)
+662264 old <L>198438<pc>978,3<k1>vibhu<k2>vi-bhú<h>b<e>2
+662264 del 
+;
+662265 old <s>vi-bhú</s> <hom>b</hom> ¦ <lex>mfn.</lex> or See <s>vibhū</s><info lex="m:f:n"/>
+662265 del 
+;
+662266 old <LEND>
+662266 del 
+;
+; <L>81790<pc>432,3<k1>tatas<k2>tatas<e>2A
+; ¦ <s>tá°taḥ kṣaṇam</s> immediately afterwards, <ls>Kathās.</ls><info lex="inh"/>
+; <L>81791<pc>432,3<k1>tatas<k2>tatas<e>2A
+; ¦ or <s>tátaḥ kṣaṇāt</s> immediately afterwards, <ls>Kathās.</ls><info lex="inh"
+; Merge 81791 into 81790, and delete 81791
+; L=81790
+276479 old ¦ <s>tá°taḥ kṣaṇam</s> immediately afterwards, <ls>Kathās.</ls><info lex="inh"/>
+;
+276479 new ¦ <s>°taḥ kṣaṇam</s> or <s>°ṇāt</s>, immediately afterwards, <ls>Kathās.</ls><info lex="inh"/>
+; L=81791 delete
+276481 old <L>81791<pc>432,3<k1>tatas<k2>tatas<e>2A
+276481 del 
+276482 old ¦ or <s>tátaḥ kṣaṇāt</s> immediately afterwards, <ls>Kathās.</ls><info lex="inh"/>
+276482 del 
+276483 old <LEND>
+276483 del 
+;
+; <L>198390<pc>978,2<k1>vibhu  remove hom, and add <info>...
+; <L>198439<pc>978,3<k1>vibhū
+; add <info or="198390,viBu;198439,viBU"/> to both
+662100 old <L>198390<pc>978,2<k1>vibhu<k2>vi-bhu<h>a<e>1
+662100 new <L>198390<pc>978,2<k1>vibhu<k2>vi-bhu<e>1
+;
+662101 old <s>vi-bhu</s> <hom>a</hom> ¦ &c. See <ab>col.</ab>3.
+662101 new <s>vi-bhu</s> ¦ &c. See <ab>col.</ab>3.<info or="198390,viBu;198439,viBU"/>
+;
+; L=198439
+662268 old <s>vi-bhū́</s> <hom>b</hom> ¦ or <s>vibhu</s>, <lex>mf(<s>ū́</s> or <s>vī́</s>)n.</lex> (<ab>Ved.</ab>) being everywhere, far-extending, all-pervading, omnipresent, eternal, <ls>RV.</ls>; <ls>VS.</ls>; <ls>Up.</ls>; <ls>MBh.</ls> &c.<info lex="m:f#U:f#vI:n"/>
+;
+662268 new <s>vi-bhū́</s> <hom>b</hom> ¦ or <s>vibhu</s>, <lex>mf(<s>ū́</s> or <s>vī́</s>)n.</lex> (<ab>Ved.</ab>) being everywhere, far-extending, all-pervading, omnipresent, eternal, <ls>RV.</ls>; <ls>VS.</ls>; <ls>Up.</ls>; <ls>MBh.</ls> &c.<info lex="m:f#U:f#vI:n"/><info or="198390,viBu;198439,viBU"/>
+;
+; Merge <L>145870<pc>734,3<k1>bodhāyanīya and <L>145870.1<pc>734,3<k1>bodhāyanīya
+; then delete 145870.1
+; also alter <L>145871.1<pc>734,3<k1>bodhāyanīyagṛhyamālā
+; L=145870
+490490 old <s>bodhāyanīya</s> ¦ <lex>n.</lex> <ab>N.</ab> of <ab>wk.</ab><info lex="n"/>
+;
+490490 new <s>bodhāyanīya</s> ¦ <lex>n.</lex> (and <s>-gṛhya-mālā</s> <lex>f.</lex>) <ab>N.</ab> of <ab>wks.</ab><info lex="n"/><info and="145870,boDAyanIya;145871.1,boDAyanIyagfhyamAlA"/>
+; L=145871.1
+490499 old <s>bodhāyanīya—gṛhya-mālā</s> ¦ <lex>f.</lex>, <ab>N.</ab> of <ab>wk.</ab><info phwparent="145870.1,boDAyanIya"/><info lex="f"/>
+;
+490499 new <s>bodhāyanīya</s> ¦ <lex>n.</lex> (and <s>-gṛhya-mālā</s> <lex>f.</lex>) <ab>N.</ab> of <ab>wks.</ab><info lex="n"/><info and="145870,boDAyanIya;145871.1,boDAyanIyagfhyamAlA"/>
+;
+; L=145870.1 delete
+490492 old <L>145870.1<pc>734,3<k1>bodhāyanīya<k2>bodhāyanīya<e>2A
+490492 del 
+;
+490493 old ¦ (and <s>-gṛhya-mālā</s> <lex type="phw">f.</lex> <ab>N.</ab> of <ab>wk.</ab>)<info phwchild="145871.1"/><info lex="inh"/>
+490493 del 
+;
+490494 old <LEND>
+490494 del 
+;
+; -------- first batch of inserts
+; Case 001: L=1253, k1=agrabhāga, newk2=agrāṃśa
+;  <L>1253<pc>6,2<k1>agrabhāga<k2>ágra—bhāga<e>3
+;   Larr n=1: (1253) 1253.1 (1254)
+; <info or="1253,agraBAga;1253.1,agrAMSa"/>
+;;4632 old <s>ágra—bhāga</s> ¦ (or <s>agrā<srs/>ṃśa</s>) <lex>m.</lex> fore part, (in <ab>astron.</ab>) degree of amplitude, <ls>L.</ls><info lex="m"/>
+;
+;;4632 new <s>ágra—bhāga</s> ¦ (or <s>agrā<srs/>ṃśa</s>) <lex>m.</lex> fore part, (in <ab>astron.</ab>) degree of amplitude, <ls>L.</ls><info lex="m"/><info or="1253,agraBAga;1253.1,agrAMSa"/>
+; insert metaline 1253.1 agrāṃśa
+; Other agrāṃśa entry: <L>1284<pc>6,3<k1>agrāṃśa<k2>agrāṃśa<e>3
+;;4633 old <LEND>
+;;4633 ins <L>1253.1<pc>6,2<k1>agrāṃśa<k2>agrāṃśa<e>3
+; insert rest of lines for 1253.1 agrāṃśa
+;;4633 old <LEND>
+;;4633 ins <s>ágra—bhāga</s> ¦ (or <s>agrā<srs/>ṃśa</s>) <lex>m.</lex> fore part, (in <ab>astron.</ab>) degree of amplitude, <ls>L.</ls><info lex="m"/><info or="1253,agraBAga;1253.1,agrAMSa"/>
+;;4633 old <LEND>
+;;4633 ins <LEND>
+;
+; Case 002: L=1672.1, k1=aṅgārakayantra, newk2=bhauma-yantra
+;  <L>1672.1<pc>1309,2<k1>aṅgārakayantra<k2>aṅgāraka-yantra<e>3
+;   Larr n=1: (1672.1) 1672.2 (1673)
+; <info or="1672.1,aNgArakayantra;1672.2,BOmayantra"/>
+6151 old <s>aṅgāraka-yantra</s> ¦ (or <s>bhauma-y°</s>), <lex>n.</lex> a kind of auspicious diagram, <ls>Inscr.</ls><info n="sup"/><info lex="n"/>
+;
+6151 new <s>aṅgāraka-yantra</s> ¦ (or <s>bhauma-y°</s>), <lex>n.</lex> a kind of auspicious diagram, <ls>Inscr.</ls><info n="sup"/><info lex="n"/><info or="1672.1,aNgArakayantra;1672.2,BOmayantra"/>
+; insert metaline 1672.2 bhaumayantra
+6152 old <LEND>
+6152 ins <L>1672.2<pc>1309,2<k1>bhaumayantra<k2>bhauma-yantra<e>3
+; insert rest of lines for 1672.2 bhaumayantra
+6152 old <LEND>
+6152 ins <s>aṅgāraka-yantra</s> ¦ (or <s>bhauma-y°</s>), <lex>n.</lex> a kind of auspicious diagram, <ls>Inscr.</ls><info n="sup"/><info lex="n"/><info or="1672.1,aNgArakayantra;1672.2,BOmayantra"/>
+6152 old <LEND>
+6152 ins <LEND>
+;
+; Case 003: L=1908.1, k1=acchera, newk2=añśéra
+;  <L>1908.1<pc>1309,2<k1>acchera<k2>acchéra<e>1
+;   Larr n=1: (1908.1) 1908.2 (1909)
+; <info or="1908.1,acCera;1908.2,aYSera"/>
+7046 old <s>acchéra</s> ¦ (or <s>añśéra</s>), <lex>mfn.</lex> (said of the waters), <ls>MaitrS.</ls><info n="sup"/><info lex="m:f:n"/>
+;
+7046 new <s>acchéra</s> ¦ (or <s>añśéra</s>), <lex>mfn.</lex> (said of the waters), <ls>MaitrS.</ls><info n="sup"/><info lex="m:f:n"/><info or="1908.1,acCera;1908.2,aYSera"/>
+; insert metaline 1908.2 añśera
+7047 old <LEND>
+7047 ins <L>1908.2<pc>1309,2<k1>añśera<k2>añśéra<e>1
+; insert rest of lines for 1908.2 añśera
+7047 old <LEND>
+7047 ins <s>acchéra</s> ¦ (or <s>añśéra</s>), <lex>mfn.</lex> (said of the waters), <ls>MaitrS.</ls><info n="sup"/><info lex="m:f:n"/><info or="1908.1,acCera;1908.2,aYSera"/>
+7047 old <LEND>
+7047 ins <LEND>
+;
+; Case 004: L=2655, k1=atiduḥkhita, newk2=ati-duṣkhita
+;  <L>2655<pc>12,3<k1>atiduḥkhita<k2>áti—duḥkhita<e>3
+;   Larr n=1: (2655) 2655.1 (2656)
+; <info or="2655,atiduHKita;2655.1,atiduzKita"/>
+9664 old <s>áti—duḥkhita</s> ¦ (or <s>-duṣkhita</s>) <lex>mfn.</lex> greatly afflicted, very sad.<info lex="m:f:n"/>
+;
+9664 new <s>áti—duḥkhita</s> ¦ (or <s>-duṣkhita</s>) <lex>mfn.</lex> greatly afflicted, very sad.<info lex="m:f:n"/><info or="2655,atiduHKita;2655.1,atiduzKita"/>
+; insert metaline 2655.1 atiduṣkhita
+9665 old <LEND>
+9665 ins <L>2655.1<pc>12,3<k1>atiduṣkhita<k2>ati-duṣkhita<e>3
+; insert rest of lines for 2655.1 atiduṣkhita
+9665 old <LEND>
+9665 ins <s>áti—duḥkhita</s> ¦ (or <s>-duṣkhita</s>) <lex>mfn.</lex> greatly afflicted, very sad.<info lex="m:f:n"/><info or="2655,atiduHKita;2655.1,atiduzKita"/>
+9665 old <LEND>
+9665 ins <LEND>
+;
+; Case 005: L=8047, k1=antama, newk2=antamā
+;  <L>8047<pc>43,2<k1>antama<k2>ántama<h>a<e>1
+;   Larr n=1: (8047) 8047.1 (8048)
+; <info and="8047,antama;8047.1,antamA"/>
+29514 old <s>ántama</s> <hom>a</hom> ¦ and <s>antamā</s> See <ab>s.v.</ab> <s>ánta</s>.
+;
+29514 new <s>ántama</s> <hom>a</hom> ¦ and <s>antamā</s> See <ab>s.v.</ab> <s>ánta</s>.<info and="8047,antama;8047.1,antamA"/>
+; insert metaline 8047.1 antamā
+29515 old <LEND>
+29515 ins <L>8047.1<pc>43,2<k1>antamā<k2>antamā<e>1
+; insert rest of lines for 8047.1 antamā
+29515 old <LEND>
+29515 ins <s>ántama</s> <hom>a</hom> ¦ and <s>antamā</s> See <ab>s.v.</ab> <s>ánta</s>.<info and="8047,antama;8047.1,antamA"/>
+29515 old <LEND>
+29515 ins <LEND>
+;
+; Case 006: L=8905, k1=anvidh, newk2=anv-indh
+;  <L>8905<pc>47,2<k1>anvidh<k2>anv-idh<e>1
+;   Larr n=1: (8905) 8905.1 (8906)
+; <info or="8905,anviD;8905.1,anvinD"/>
+32870 old <s>anv-√ idh</s> ¦ or <s>anv-√ indh</s>, to kindle, <ls>AV.</ls><info verb="pre" cp="" parse="anu+iD"/>
+;
+32870 new <s>anv-√ idh</s> ¦ or <s>anv-√ indh</s>, to kindle, <ls>AV.</ls><info verb="pre" cp="" parse="anu+iD"/><info or="8905,anviD;8905.1,anvinD"/>
+; insert metaline 8905.1 anvindh
+32871 old <LEND>
+32871 ins <L>8905.1<pc>47,2<k1>anvindh<k2>anv-indh<e>1
+; insert rest of lines for 8905.1 anvindh
+32871 old <LEND>
+32871 ins <s>anv-√ idh</s> ¦ or <s>anv-√ indh</s>, to kindle, <ls>AV.</ls><info verb="pre" cp="" parse="anu+iD"/><info or="8905,anviD;8905.1,anvinD"/>
+32871 old <LEND>
+32871 ins <LEND>
+;
+; Case 007: L=12538, k1=abhiśyāta, newk2=abhi-śyāna
+;  <L>12538<pc>70,3<k1>abhiśyāta<k2>abhi-śyāta<h>b<e>1
+;   Larr n=1: (12538) 12538.1 (12539)
+; <info and="12538,aBiSyAta;12538.1,aBiSyAna"/>
+45892 old <s>abhi-śyāta</s> <hom>b</hom> ¦ and <s>-śyāna</s> See <s>abhi-śīta</s> and <s>-śīna</s>.
+;
+45892 new <s>abhi-śyāta</s> <hom>b</hom> ¦ and <s>-śyāna</s> See <s>abhi-śīta</s> and <s>-śīna</s>.<info and="12538,aBiSyAta;12538.1,aBiSyAna"/>
+; insert metaline 12538.1 abhiśyāna
+; Other abhiśyāna entry: <L>12525<pc>70,3<k1>abhiśyāna<k2>abhi-śyāna<e>2
+45893 old <LEND>
+45893 ins <L>12538.1<pc>70,3<k1>abhiśyāna<k2>abhi-śyāna<e>1
+; insert rest of lines for 12538.1 abhiśyāna
+45893 old <LEND>
+45893 ins <s>abhi-śyāta</s> <hom>b</hom> ¦ and <s>-śyāna</s> See <s>abhi-śīta</s> and <s>-śīna</s>.<info and="12538,aBiSyAta;12538.1,aBiSyAna"/>
+45893 old <LEND>
+45893 ins <LEND>
+;
+; Case 008: L=15416, k1=aruj, newk2=a-ruja
+;  <L>15416<pc>88,2<k1>aruj<k2>a-ruj<h>b<e>1
+;   Larr n=1: (15416) 15416.1 (15417)
+; <info and="15416,aruj;15416.1,aruja"/>
+55934 old <s>a-ruj</s> <hom>b</hom> ¦ and <s>a-ruja</s> See <s>á-rugṇa</s>.
+;
+55934 new <s>a-ruj</s> <hom>b</hom> ¦ and <s>a-ruja</s> See <s>á-rugṇa</s>.<info and="15416,aruj;15416.1,aruja"/>
+; insert metaline 15416.1 aruja
+; Other aruja entry: <L>15405<pc>88,2<k1>aruja<k2>a-ruja<e>2
+; Other aruja entry: <L>15406<pc>88,2<k1>aruja<k2>a-ruja<e>2A
+; Other aruja entry: <L>15407<pc>88,2<k1>aruja<k2>a-ruja<e>2A
+; Other aruja entry: <L>15408<pc>88,2<k1>aruja<k2>a-ruja<e>2B
+; Other aruja entry: <L>15409<pc>88,2<k1>aruja<k2>a-ruja<e>2B
+55935 old <LEND>
+55935 ins <L>15416.1<pc>88,2<k1>aruja<k2>a-ruja<e>1
+; insert rest of lines for 15416.1 aruja
+55935 old <LEND>
+55935 ins <s>a-ruj</s> <hom>b</hom> ¦ and <s>a-ruja</s> See <s>á-rugṇa</s>.<info and="15416,aruj;15416.1,aruja"/>
+55935 old <LEND>
+55935 ins <LEND>
+;
+; Case 009: L=16552, k1=alagarda, newk2=ala-gardha
+;  <L>16552<pc>94,1<k1>alagarda<k2>ala-gardá<h>b<e>1
+;   Larr n=1: (16552) 16552.1 (16553)
+; <info and="16552,alagarda;16552.1,alagarDa"/>
+59944 old <s>ala-gardá</s> <hom>b</hom> ¦ and <s>°rdha</s> See <s>ala</s>.
+;
+59944 new <s>ala-gardá</s> <hom>b</hom> ¦ and <s>°rdha</s> See <s>ala</s>.<info and="16552,alagarda;16552.1,alagarDa"/>
+; insert metaline 16552.1 alagardha
+; Other alagardha entry: <L>16515<pc>93,3<k1>alagardha<k2>ala—gardha<e>3
+59945 old <LEND>
+59945 ins <L>16552.1<pc>94,1<k1>alagardha<k2>ala-gardha<e>1
+; insert rest of lines for 16552.1 alagardha
+59945 old <LEND>
+59945 ins <s>ala-gardá</s> <hom>b</hom> ¦ and <s>°rdha</s> See <s>ala</s>.<info and="16552,alagarda;16552.1,alagarDa"/>
+59945 old <LEND>
+59945 ins <LEND>
+;
+; Case 010: L=16739, k1=aligarda, newk2=ali-gardha
+;  <L>16739<pc>95,1<k1>aligarda<k2>ali-garda<h>b<e>1
+;   Larr n=1: (16739) 16739.1 (16740)
+; <info and="16739,aligarda;16739.1,aligarDa"/>
+60606 old <s>ali-garda</s> <hom>b</hom> ¦ and <s>-gardha</s> See <hom>1.</hom> <s>ali</s>
+;
+60606 new <s>ali-garda</s> <hom>b</hom> ¦ and <s>-gardha</s> See <hom>1.</hom> <s>ali</s><info and="16739,aligarda;16739.1,aligarDa"/>
+; insert metaline 16739.1 aligardha
+; Other aligardha entry: <L>16715<pc>95,1<k1>aligardha<k2>ali—gardha<e>3
+60607 old <LEND>
+60607 ins <L>16739.1<pc>95,1<k1>aligardha<k2>ali-gardha<e>1
+; insert rest of lines for 16739.1 aligardha
+60607 old <LEND>
+60607 ins <s>ali-garda</s> <hom>b</hom> ¦ and <s>-gardha</s> See <hom>1.</hom> <s>ali</s><info and="16739,aligarda;16739.1,aligarDa"/>
+60607 old <LEND>
+60607 ins <LEND>
+;
+; Case 011: L=17369, k1=avatta, newk2=ava-ttin
+;  <L>17369<pc>99,1<k1>avatta<k2>áva-tta<h>a<e>1
+;   Larr n=1: (17369) 17369.1 (17370)
+; <info and="17369,avatta;17369.1,avattin"/>
+62874 old <s>áva-tta</s> <hom>a</hom> ¦ and <s>ava-ttin</s> See <s>ava-√ do</s>
+;
+62874 new <s>áva-tta</s> <hom>a</hom> ¦ and <s>ava-ttin</s> See <s>ava-√ do</s><info and="17369,avatta;17369.1,avattin"/>
+; insert metaline 17369.1 avattin
+; Other avattin entry: <L>17414<pc>99,2<k1>avattin<k2>avattin<e>2
+62875 old <LEND>
+62875 ins <L>17369.1<pc>99,1<k1>avattin<k2>ava-ttin<e>1
+; insert rest of lines for 17369.1 avattin
+62875 old <LEND>
+62875 ins <s>áva-tta</s> <hom>a</hom> ¦ and <s>ava-ttin</s> See <s>ava-√ do</s><info and="17369,avatta;17369.1,avattin"/>
+62875 old <LEND>
+62875 ins <LEND>
+;
+; Case 012: L=18164, k1=avaśīta, newk2=ava-śīna
+;  <L>18164<pc>104,2<k1>avaśīta<k2>ava-śīta<h>a<e>1
+;   Larr n=1: (18164) 18164.1 (18165)
+; <info and="18164,avaSIta;18164.1,avaSIna"/>
+65549 old <s>ava-śīta</s> <hom>a</hom> ¦ and <s>-śīna</s> See <s>ava-śyā</s>.
+;
+65549 new <s>ava-śīta</s> <hom>a</hom> ¦ and <s>-śīna</s> See <s>ava-śyā</s>.<info and="18164,avaSIta;18164.1,avaSIna"/>
+; insert metaline 18164.1 avaśīna
+; Other avaśīna entry: <L>18173<pc>104,2<k1>avaśīna<k2>ava-śīna<e>2
+65550 old <LEND>
+65550 ins <L>18164.1<pc>104,2<k1>avaśīna<k2>ava-śīna<e>1
+; insert rest of lines for 18164.1 avaśīna
+65550 old <LEND>
+65550 ins <s>ava-śīta</s> <hom>a</hom> ¦ and <s>-śīna</s> See <s>ava-śyā</s>.<info and="18164,avaSIta;18164.1,avaSIna"/>
+65550 old <LEND>
+65550 ins <LEND>
+;
+; Case 013: L=18269, k1=avasā, newk2=ava-sātṛ́
+;  <L>18269<pc>105,1<k1>avasā<k2>áva-sā<h>a<e>1
+;   Larr n=1: (18269) 18269.1 (18270)
+; <info and="18269,avasA;18269.1,avasAtf"/>
+65910 old <s>áva-sā</s> <hom>a</hom> ¦ and <s>-sātṛ́</s> See <s>ava-√ so</s>.
+;
+65910 new <s>áva-sā</s> <hom>a</hom> ¦ and <s>-sātṛ́</s> See <s>ava-√ so</s>.<info and="18269,avasA;18269.1,avasAtf"/>
+; insert metaline 18269.1 avasātṛ
+; Other avasātṛ entry: <L>18319<pc>105,2<k1>avasātṛ<k2>ava-sātṛ́<e>2
+65911 old <LEND>
+65911 ins <L>18269.1<pc>105,1<k1>avasātṛ<k2>ava-sātṛ́<e>1
+; insert rest of lines for 18269.1 avasātṛ
+65911 old <LEND>
+65911 ins <s>áva-sā</s> <hom>a</hom> ¦ and <s>-sātṛ́</s> See <s>ava-√ so</s>.<info and="18269,avasA;18269.1,avasAtf"/>
+65911 old <LEND>
+65911 ins <LEND>
+;
+; Case 014: L=18772, k1=avitatkaraṇa, newk2=a-vitad-bhāṣaṇa
+;  <L>18772<pc>108,2<k1>avitatkaraṇa<k2>a-vitat-karaṇa<e>1
+;   Larr n=1: (18772) 18772.1 (18773)
+; <info and="18772,avitatkaraRa;18772.1,avitadBAzaRa"/>
+;;67667 old <s>a-vitat-karaṇa</s> ¦ (and <s>a-vitad-bhāṣaṇa</s>) <lex>n.</lex> (with the <s1 slp1="pASupata">Pāśupata</s1>s) doing (and speaking) what in general is held to be unsuitable or nonsensical (<s>vi-tad</s>) but is admitted by the <s1 slp1="pASupata">Pāśupata</s1>s from their own view.<info lex="n"/>
+;
+;;67667 new <s>a-vitat-karaṇa</s> ¦ (and <s>a-vitad-bhāṣaṇa</s>) <lex>n.</lex> (with the <s1 slp1="pASupata">Pāśupata</s1>s) doing (and speaking) what in general is held to be unsuitable or nonsensical (<s>vi-tad</s>) but is admitted by the <s1 slp1="pASupata">Pāśupata</s1>s from their own view.<info lex="n"/><info and="18772,avitatkaraRa;18772.1,avitadBAzaRa"/>
+; insert metaline 18772.1 avitadbhāṣaṇa
+; Other avitadbhāṣaṇa entry: <L>18782<pc>108,2<k1>avitadbhāṣaṇa<k2>a-vitad-bhāṣaṇa<e>1
+;;67668 old <LEND>
+;;67668 ins <L>18772.1<pc>108,2<k1>avitadbhāṣaṇa<k2>a-vitad-bhāṣaṇa<e>1
+; insert rest of lines for 18772.1 avitadbhāṣaṇa
+;;67668 old <LEND>
+;;67668 ins <s>a-vitat-karaṇa</s> ¦ (and <s>a-vitad-bhāṣaṇa</s>) <lex>n.</lex> (with the <s1 slp1="pASupata">Pāśupata</s1>s) doing (and speaking) what in general is held to be unsuitable or nonsensical (<s>vi-tad</s>) but is admitted by the <s1 slp1="pASupata">Pāśupata</s1>s from their own view.<info lex="n"/><info and="18772,avitatkaraRa;18772.1,avitadBAzaRa"/>
+;;67668 old <LEND>
+;;67668 ins <LEND>
+;
+; Case 015: L=19944.1, k1=aśvaballava, newk2=aśva-maṇiṃda
+;  <L>19944.1<pc>1318,1<k1>aśvaballava<k2>aśva—ballava<e>3
+;   Larr n=1: (19944.1) 19944.2 (19945)
+; <info and="19944.1,aSvaballava;19944.2,aSvamaRiMda"/>
+71818 old <s>aśva—ballava</s> ¦ and <s>-maṇiṃda</s>, <lex>m.</lex> a groom, <ls>Pāṇ. 6-2, 66,</ls>; <ls>Kāś.</ls><info n="sup"/><info lex="m"/>
+;
+71818 new <s>aśva—ballava</s> ¦ and <s>-maṇiṃda</s>, <lex>m.</lex> a groom, <ls>Pāṇ. 6-2, 66,</ls>; <ls>Kāś.</ls><info n="sup"/><info lex="m"/><info and="19944.1,aSvaballava;19944.2,aSvamaRiMda"/>
+; insert metaline 19944.2 aśvamaṇiṃda
+71819 old <LEND>
+71819 ins <L>19944.2<pc>1318,1<k1>aśvamaṇiṃda<k2>aśva-maṇiṃda<e>3
+; insert rest of lines for 19944.2 aśvamaṇiṃda
+71819 old <LEND>
+71819 ins <s>aśva—ballava</s> ¦ and <s>-maṇiṃda</s>, <lex>m.</lex> a groom, <ls>Pāṇ. 6-2, 66,</ls>; <ls>Kāś.</ls><info n="sup"/><info lex="m"/><info and="19944.1,aSvaballava;19944.2,aSvamaRiMda"/>
+71819 old <LEND>
+71819 ins <LEND>
+;
+; Case 016: L=19948.1, k1=aśvamatallikā, newk2=aśva-macarcikā
+;  <L>19948.1<pc>1318,1<k1>aśvamatallikā<k2>aśva—matallikā<e>3
+;   Larr n=1: (19948.1) 19948.2 (19949)
+; <info and="19948.1,aSvamatallikA;19948.2,aSvamacarcikA"/>
+71836 old <s>aśva—matallikā</s> ¦ and <s>-macarcikā</s>, <lex>f.</lex> (= <s>-kuñjara</s>), <ab>ib.</ab> ii, 1, 66, <ls>Kāś.</ls><info n="sup"/><info lex="f"/>
+;
+71836 new <s>aśva—matallikā</s> ¦ and <s>-macarcikā</s>, <lex>f.</lex> (= <s>-kuñjara</s>), <ab>ib.</ab> ii, 1, 66, <ls>Kāś.</ls><info n="sup"/><info lex="f"/><info and="19948.1,aSvamatallikA;19948.2,aSvamacarcikA"/>
+; insert metaline 19948.2 aśvamacarcikā
+71837 old <LEND>
+71837 ins <L>19948.2<pc>1318,1<k1>aśvamacarcikā<k2>aśva-macarcikā<e>3
+; insert rest of lines for 19948.2 aśvamacarcikā
+71837 old <LEND>
+71837 ins <s>aśva—matallikā</s> ¦ and <s>-macarcikā</s>, <lex>f.</lex> (= <s>-kuñjara</s>), <ab>ib.</ab> ii, 1, 66, <ls>Kāś.</ls><info n="sup"/><info lex="f"/><info and="19948.1,aSvamatallikA;19948.2,aSvamacarcikA"/>
+71837 old <LEND>
+71837 ins <LEND>
+;
+; Case 017: L=20254.1, k1=aṣṭāṅga, newk2=aṣṭā-daśa
+;  <L>20254.1<pc>1318,1<k1>aṣṭāṅga<k2>aṣṭāṅga<h>a<e>3
+;   Larr n=1: (20254.1) 20254.2 (20255)
+; <info and="20254.1,azwANga;20254.2,azwAdaSa"/>
+72919 old <s>aṣ°ṭā<srs/>ṅga</s> <hom>a</hom> ¦ and <s>°ṭā-daśa</s>, See below<info n="sup"/>
+;
+72919 new <s>aṣ°ṭā<srs/>ṅga</s> <hom>a</hom> ¦ and <s>°ṭā-daśa</s>, See below<info n="sup"/><info and="20254.1,azwANga;20254.2,azwAdaSa"/>
+; insert metaline 20254.2 aṣṭādaśa
+; Other aṣṭādaśa entry: <L>20267<pc>116,3<k1>aṣṭādaśa<k2>aṣṭā—daśá<e>3
+; Other aṣṭādaśa entry: <L>20268<pc>116,3<k1>aṣṭādaśa<k2>aṣṭā—daśá<e>3A
+72920 old <LEND>
+72920 ins <L>20254.2<pc>1318,1<k1>aṣṭādaśa<k2>aṣṭā-daśa<e>3
+; insert rest of lines for 20254.2 aṣṭādaśa
+72920 old <LEND>
+72920 ins <s>aṣ°ṭā<srs/>ṅga</s> <hom>a</hom> ¦ and <s>°ṭā-daśa</s>, See below<info n="sup"/><info and="20254.1,azwANga;20254.2,azwAdaSa"/>
+72920 old <LEND>
+72920 ins <LEND>
+;
+; Case 018: L=20507, k1=asacchākhā, newk2=asac-chāstra
+;  <L>20507<pc>118,2<k1>asacchākhā<k2>asac-chākhā<h>a<e>1
+;   Larr n=1: (20507) 20507.1 (20508)
+; <info and="20507,asacCAKA;20507.1,asacCAstra"/>
+73861 old <s>asac-chākhā</s> <hom>a</hom> ¦ and <s>-chāstra</s> See <s>á-sat</s>.
+;
+73861 new <s>asac-chākhā</s> <hom>a</hom> ¦ and <s>-chāstra</s> See <s>á-sat</s>.<info and="20507,asacCAKA;20507.1,asacCAstra"/>
+; insert metaline 20507.1 asacchāstra
+; Other asacchāstra entry: <L>20559<pc>118,2<k1>asacchāstra<k2>asac—chāstra<e>3
+73862 old <LEND>
+73862 ins <L>20507.1<pc>118,2<k1>asacchāstra<k2>asac-chāstra<e>1
+; insert rest of lines for 20507.1 asacchāstra
+73862 old <LEND>
+73862 ins <s>asac-chākhā</s> <hom>a</hom> ¦ and <s>-chāstra</s> See <s>á-sat</s>.<info and="20507,asacCAKA;20507.1,asacCAstra"/>
+73862 old <LEND>
+73862 ins <LEND>
+;
+; Case 019: L=20650, k1=asanmati, newk2=asan-mantrá
+;  <L>20650<pc>119,1<k1>asanmati<k2>asan-mati<h>b<e>1
+;   Larr n=1: (20650) 20650.1 (20651)
+; <info and="20650,asanmati;20650.1,asanmantra"/>
+74326 old <s>asan-mati</s> <hom>b</hom> ¦ and <s>-mantrá</s> See <s>á-sat</s>.
+;
+74326 new <s>asan-mati</s> <hom>b</hom> ¦ and <s>-mantrá</s> See <s>á-sat</s>.<info and="20650,asanmati;20650.1,asanmantra"/>
+; insert metaline 20650.1 asanmantra
+; Other asanmantra entry: <L>20600<pc>118,3<k1>asanmantra<k2>asan—mantrá<e>3
+74327 old <LEND>
+74327 ins <L>20650.1<pc>119,1<k1>asanmantra<k2>asan-mantrá<e>1
+; insert rest of lines for 20650.1 asanmantra
+74327 old <LEND>
+74327 ins <s>asan-mati</s> <hom>b</hom> ¦ and <s>-mantrá</s> See <s>á-sat</s>.<info and="20650,asanmati;20650.1,asanmantra"/>
+74327 old <LEND>
+74327 ins <LEND>
+;
+; Case 020: L=21112, k1=asutṛp, newk2=asu-tṛpa
+;  <L>21112<pc>121,2<k1>asutṛp<k2>asu-tṛ́p<h>b<e>1
+;   Larr n=1: (21112) 21112.1 (21113)
+; <info and="21112,asutfp;21112.1,asutfpa"/>
+75874 old <s>asu-tṛ́p</s> <hom>b</hom> ¦ and <s>asu-tṛpa</s> See <s>ásu</s>.
+;
+75874 new <s>asu-tṛ́p</s> <hom>b</hom> ¦ and <s>asu-tṛpa</s> See <s>ásu</s>.<info and="21112,asutfp;21112.1,asutfpa"/>
+; insert metaline 21112.1 asutṛpa
+; Other asutṛpa entry: <L>21032<pc>121,1<k1>asutṛpa<k2>ásu—tṛpa<e>3
+75875 old <LEND>
+75875 ins <L>21112.1<pc>121,2<k1>asutṛpa<k2>asu-tṛpa<e>1
+; insert rest of lines for 21112.1 asutṛpa
+75875 old <LEND>
+75875 ins <s>asu-tṛ́p</s> <hom>b</hom> ¦ and <s>asu-tṛpa</s> See <s>ásu</s>.<info and="21112,asutfp;21112.1,asutfpa"/>
+75875 old <LEND>
+75875 ins <LEND>
+;
+; Case 021: L=22203, k1=ākūta, newk2=ā́-kūti
+;  <L>22203<pc>127,2<k1>ākūta<k2>ā́-kūta<h>b<e>1
+;   Larr n=1: (22203) 22203.1 (22204)
+; <info and="22203,AkUta;22203.1,AkUti"/>
+79678 old <s>ā́-kūta</s> <hom>b</hom> ¦ and <s>ā́-kūti</s> See <s>ā-√ kū</s>.
+;
+79678 new <s>ā́-kūta</s> <hom>b</hom> ¦ and <s>ā́-kūti</s> See <s>ā-√ kū</s>.<info and="22203,AkUta;22203.1,AkUti"/>
+; insert metaline 22203.1 ākūti
+; Other ākūti entry: <L>22196<pc>127,2<k1>ākūti<k2>ā́-kūti<e>2
+; Other ākūti entry: <L>22197<pc>127,2<k1>ākūti<k2>ā́-kūti<e>2A
+; Other ākūti entry: <L>22198<pc>127,2<k1>ākūti<k2>ā́-kūti<e>2A
+; Other ākūti entry: <L>22199<pc>127,2<k1>ākūti<k2>ā́-kūti<e>2A
+; Other ākūti entry: <L>22200<pc>127,2<k1>ākūti<k2>ā́-kūti<e>2A
+79679 old <LEND>
+79679 ins <L>22203.1<pc>127,2<k1>ākūti<k2>ā́-kūti<e>1
+; insert rest of lines for 22203.1 ākūti
+79679 old <LEND>
+79679 ins <s>ā́-kūta</s> <hom>b</hom> ¦ and <s>ā́-kūti</s> See <s>ā-√ kū</s>.<info and="22203,AkUta;22203.1,AkUti"/>
+79679 old <LEND>
+79679 ins <LEND>
+;
+; Case 022: L=22337, k1=ākraya, newk2=ā-krayā́
+;  <L>22337<pc>128,2<k1>ākraya<k2>ā-krayá<h>a<e>1
+;   Larr n=1: (22337) 22337.1 (22338)
+; <info and="22337,Akraya;22337.1,AkrayA"/>
+80133 old <s>ā-krayá</s> <hom>a</hom> ¦ and <s>ā-krayā́</s> See <s>ā-√ krī</s>.
+;
+80133 new <s>ā-krayá</s> <hom>a</hom> ¦ and <s>ā-krayā́</s> See <s>ā-√ krī</s>.<info and="22337,Akraya;22337.1,AkrayA"/>
+; insert metaline 22337.1 ākrayā
+; Other ākrayā entry: <L>22341<pc>128,2<k1>ākrayā<k2>ā-krayā́<e>2B
+80134 old <LEND>
+80134 ins <L>22337.1<pc>128,2<k1>ākrayā<k2>ā-krayā́<e>1
+; insert rest of lines for 22337.1 ākrayā
+80134 old <LEND>
+80134 ins <s>ā-krayá</s> <hom>a</hom> ¦ and <s>ā-krayā́</s> See <s>ā-√ krī</s>.<info and="22337,Akraya;22337.1,AkrayA"/>
+80134 old <LEND>
+80134 ins <LEND>
+;
+; Case 023: L=22775, k1=āghāṭa, newk2=āghāṭí
+;  <L>22775<pc>130,3<k1>āghāṭa<k2>ā-ghāṭá<h>b<e>1
+;   Larr n=1: (22775) 22775.1 (22776)
+; <info and="22775,AGAwa;22775.1,AGAwi"/>
+81626 old <s>ā-ghāṭá</s> <hom>b</hom> ¦ and <s>°ṭí</s> See <s>ā-√ ghaṭṭ</s>.
+;
+81626 new <s>ā-ghāṭá</s> <hom>b</hom> ¦ and <s>°ṭí</s> See <s>ā-√ ghaṭṭ</s>.<info and="22775,AGAwa;22775.1,AGAwi"/>
+; insert metaline 22775.1 āghāṭi
+; Other āghāṭi entry: <L>22771<pc>130,3<k1>āghāṭi<k2>ā-ghāṭí<e>2
+81627 old <LEND>
+81627 ins <L>22775.1<pc>130,3<k1>āghāṭi<k2>āghāṭí<e>1
+; insert rest of lines for 22775.1 āghāṭi
+81627 old <LEND>
+81627 ins <s>ā-ghāṭá</s> <hom>b</hom> ¦ and <s>°ṭí</s> See <s>ā-√ ghaṭṭ</s>.<info and="22775,AGAwa;22775.1,AGAwi"/>
+81627 old <LEND>
+81627 ins <LEND>
+;
+; Case 024: L=23107, k1=ājāneya, newk2=ājāneyya
+;  <L>23107<pc>133,1<k1>ājāneya<k2>ājāneya<h>b<e>1
+;   Larr n=1: (23107) 23107.1 (23108)
+; <info and="23107,AjAneya;23107.1,AjAneyya"/>
+82754 old <s>ājāneya</s> <hom>b</hom> ¦ and <s>°neyya</s> See <s>ā-√ jan</s>.
+;
+82754 new <s>ājāneya</s> <hom>b</hom> ¦ and <s>°neyya</s> See <s>ā-√ jan</s>.<info and="23107,AjAneya;23107.1,AjAneyya"/>
+; insert metaline 23107.1 ājāneyya
+; Other ājāneyya entry: <L>23084<pc>132,3<k1>ājāneyya<k2>ājāneyya<e>2
+82755 old <LEND>
+82755 ins <L>23107.1<pc>133,1<k1>ājāneyya<k2>ājāneyya<e>1
+; insert rest of lines for 23107.1 ājāneyya
+82755 old <LEND>
+82755 ins <s>ājāneya</s> <hom>b</hom> ¦ and <s>°neyya</s> See <s>ā-√ jan</s>.<info and="23107,AjAneya;23107.1,AjAneyya"/>
+82755 old <LEND>
+82755 ins <LEND>
+;
+; Case 025: L=23108, k1=ājāyana, newk2=ājāvika
+;  <L>23108<pc>133,1<k1>ājāyana<k2>ājāyana<h>b<e>1
+;   Larr n=1: (23108) 23108.1 (23109)
+; <info and="23108,AjAyana;23108.1,AjAvika"/>
+82757 old <s>ājāyana</s> <hom>b</hom> ¦ and <s>ājā<srs/>vika</s> See <s>āja</s>.
+;
+82757 new <s>ājāyana</s> <hom>b</hom> ¦ and <s>ājā<srs/>vika</s> See <s>āja</s>.<info and="23108,AjAyana;23108.1,AjAvika"/>
+; insert metaline 23108.1 ājāvika
+; Other ājāvika entry: <L>23064<pc>132,3<k1>ājāvika<k2>ājāvika<e>2
+82758 old <LEND>
+82758 ins <L>23108.1<pc>133,1<k1>ājāvika<k2>ājāvika<e>1
+; insert rest of lines for 23108.1 ājāvika
+82758 old <LEND>
+82758 ins <s>ājāyana</s> <hom>b</hom> ¦ and <s>ājā<srs/>vika</s> See <s>āja</s>.<info and="23108,AjAyana;23108.1,AjAvika"/>
+82758 old <LEND>
+82758 ins <LEND>
+;
+; Case 026: L=23382, k1=ātarda, newk2=ātardana
+;  <L>23382<pc>134,3<k1>ātarda<k2>ā-tarda<h>a<e>1
+;   Larr n=1: (23382) 23382.1 (23383)
+; <info and="23382,Atarda;23382.1,Atardana"/>
+83706 old <s>ā-tarda</s> <hom>a</hom> ¦ and <s>°rdana</s> See <s>ā-√ tṛd</s>.
+;
+83706 new <s>ā-tarda</s> <hom>a</hom> ¦ and <s>°rdana</s> See <s>ā-√ tṛd</s>.<info and="23382,Atarda;23382.1,Atardana"/>
+; insert metaline 23382.1 ātardana
+; Other ātardana entry: <L>23438<pc>135,1<k1>ātardana<k2>ā-tardana<e>2
+83707 old <LEND>
+83707 ins <L>23382.1<pc>134,3<k1>ātardana<k2>ātardana<e>1
+; insert rest of lines for 23382.1 ātardana
+83707 old <LEND>
+83707 ins <s>ā-tarda</s> <hom>a</hom> ¦ and <s>°rdana</s> See <s>ā-√ tṛd</s>.<info and="23382,Atarda;23382.1,Atardana"/>
+83707 old <LEND>
+83707 ins <LEND>
+;
+; Case 027: L=23387, k1=ātā, newk2=ā-tāna
+;  <L>23387<pc>134,3<k1>ātā<k2>ā́-tā<h>b<e>1
+;   Larr n=1: (23387) 23387.1 (23388)
+; <info and="23387,AtA;23387.1,AtAna"/>
+83721 old <s>ā́-tā</s> <hom>b</hom> ¦ and <s>ā-tāna</s> See <s>ā-√ tan</s>.
+;
+83721 new <s>ā́-tā</s> <hom>b</hom> ¦ and <s>ā-tāna</s> See <s>ā-√ tan</s>.<info and="23387,AtA;23387.1,AtAna"/>
+; insert metaline 23387.1 ātāna
+; Other ātāna entry: <L>23354<pc>134,2<k1>ātāna<k2>ā-tāna<e>2
+83722 old <LEND>
+83722 ins <L>23387.1<pc>134,3<k1>ātāna<k2>ā-tāna<e>1
+; insert rest of lines for 23387.1 ātāna
+83722 old <LEND>
+83722 ins <s>ā́-tā</s> <hom>b</hom> ¦ and <s>ā-tāna</s> See <s>ā-√ tan</s>.<info and="23387,AtA;23387.1,AtAna"/>
+83722 old <LEND>
+83722 ins <LEND>
+;
+; Case 028: L=23390, k1=ātāra, newk2=ā-tāryà
+;  <L>23390<pc>134,3<k1>ātāra<k2>ā-tāra<h>a<e>1
+;   Larr n=1: (23390) 23390.1 (23391)
+; <info and="23390,AtAra;23390.1,AtArya"/>
+83730 old <s>ā-tāra</s> <hom>a</hom> ¦ and <s>ā-tāryà</s> See <s>ā-√ tṝ</s>.
+;
+83730 new <s>ā-tāra</s> <hom>a</hom> ¦ and <s>ā-tāryà</s> See <s>ā-√ tṝ</s>.<info and="23390,AtAra;23390.1,AtArya"/>
+; insert metaline 23390.1 ātāryà
+83731 old <LEND>
+83731 ins <L>23390.1<pc>134,3<k1>ātārya<k2>ā-tāryà<e>1
+; insert rest of lines for 23390.1 ātāryà
+83731 old <LEND>
+83731 ins <s>ā-tāra</s> <hom>a</hom> ¦ and <s>ā-tāryà</s> See <s>ā-√ tṝ</s>.<info and="23390,AtAra;23390.1,AtArya"/>
+83731 old <LEND>
+83731 ins <LEND>
+;
+; Case 029: L=23451, k1=ātodin, newk2=ā-todya
+;  <L>23451<pc>135,1<k1>ātodin<k2>ā-todín<h>b<e>1
+;   Larr n=1: (23451) 23451.1 (23452)
+; <info and="23451,Atodin;23451.1,Atodya"/>
+83937 old <s>ā-todín</s> <hom>b</hom> ¦ and <s>ā-todya</s> See <s>ā-√ tud</s>.
+;
+83937 new <s>ā-todín</s> <hom>b</hom> ¦ and <s>ā-todya</s> See <s>ā-√ tud</s>.<info and="23451,Atodin;23451.1,Atodya"/>
+; insert metaline 23451.1 ātodya
+; Other ātodya entry: <L>23431<pc>135,1<k1>ātodya<k2>ā-todya<e>2
+83938 old <LEND>
+83938 ins <L>23451.1<pc>135,1<k1>ātodya<k2>ā-todya<e>1
+; insert rest of lines for 23451.1 ātodya
+83938 old <LEND>
+83938 ins <s>ā-todín</s> <hom>b</hom> ¦ and <s>ā-todya</s> See <s>ā-√ tud</s>.<info and="23451,Atodin;23451.1,Atodya"/>
+83938 old <LEND>
+83938 ins <LEND>
+;
+; Case 030: L=25458, k1=āmanasya, newk2=āmānasya
+;  <L>25458<pc>146,2<k1>āmanasya<k2>āmanasya<e>1
+;   Larr n=1: (25458) 25458.1 (25459)
+; <info and="25458,Amanasya;25458.1,AmAnasya"/>
+90731 old <s>āmanasya</s> ¦ and <s>āmānasya</s> <lex>n.</lex> (<ab>fr.</ab> <s>a-manas</s>), pain, suffering, <ls>L.</ls><info lex="n"/>
+;
+90731 new <s>āmanasya</s> ¦ and <s>āmānasya</s> <lex>n.</lex> (<ab>fr.</ab> <s>a-manas</s>), pain, suffering, <ls>L.</ls><info lex="n"/><info and="25458,Amanasya;25458.1,AmAnasya"/>
+; insert metaline 25458.1 āmānasya
+90732 old <LEND>
+90732 ins <L>25458.1<pc>146,2<k1>āmānasya<k2>āmānasya<e>1
+; insert rest of lines for 25458.1 āmānasya
+90732 old <LEND>
+90732 ins <s>āmanasya</s> ¦ and <s>āmānasya</s> <lex>n.</lex> (<ab>fr.</ab> <s>a-manas</s>), pain, suffering, <ls>L.</ls><info lex="n"/><info and="25458,Amanasya;25458.1,AmAnasya"/>
+90732 old <LEND>
+90732 ins <LEND>
+;
+; Case 031: L=26161, k1=ārāḍhi, newk2=ārāłhi
+;  <L>26161<pc>150,2<k1>ārāḍhi<k2>ārāḍhi<e>1
+;   Larr n=1: (26161) 26161.1 (26162)
+; <info or="26161,ArAQi;26161.1,ArA|i"/>
+93185 old <s>ārāḍhi</s> ¦ or <s>ārāłhi</s> <lex>m.</lex> a patronymic of a teacher named <s1 slp1="sOjAta">Saujāta</s1>, <ls>AitBr. vii, 22, 1.</ls><info lex="m"/>
+;
+93185 new <s>ārāḍhi</s> ¦ or <s>ārāłhi</s> <lex>m.</lex> a patronymic of a teacher named <s1 slp1="sOjAta">Saujāta</s1>, <ls>AitBr. vii, 22, 1.</ls><info lex="m"/><info or="26161,ArAQi;26161.1,ArA|i"/>
+; insert metaline 26161.1 ārāłhi
+93186 old <LEND>
+93186 ins <L>26161.1<pc>150,2<k1>ārāłhi<k2>ārāłhi<e>1
+; insert rest of lines for 26161.1 ārāłhi
+93186 old <LEND>
+93186 ins <s>ārāḍhi</s> ¦ or <s>ārāłhi</s> <lex>m.</lex> a patronymic of a teacher named <s1 slp1="sOjAta">Saujāta</s1>, <ls>AitBr. vii, 22, 1.</ls><info lex="m"/><info or="26161,ArAQi;26161.1,ArA|i"/>
+93186 old <LEND>
+93186 ins <LEND>
+;
+; Case 032: L=26680, k1=ālagarda, newk2=ālagardha
+;  <L>26680<pc>153,1<k1>ālagarda<k2>ālagarda<e>1
+;   Larr n=1: (26680) 26680.1 (26681)
+; <info and="26680,Alagarda;26680.1,AlagarDa"/>
+94930 old <s>ālagarda</s> ¦ and <s>ālagardha</s> = <s>ala°</s> <ab>q.v.</ab>
+;
+94930 new <s>ālagarda</s> ¦ and <s>ālagardha</s> = <s>ala°</s> <ab>q.v.</ab><info and="26680,Alagarda;26680.1,AlagarDa"/>
+; insert metaline 26680.1 ālagardha
+94931 old <LEND>
+94931 ins <L>26680.1<pc>153,1<k1>ālagardha<k2>ālagardha<e>1
+; insert rest of lines for 26680.1 ālagardha
+94931 old <LEND>
+94931 ins <s>ālagarda</s> ¦ and <s>ālagardha</s> = <s>ala°</s> <ab>q.v.</ab><info and="26680,Alagarda;26680.1,AlagarDa"/>
+94931 old <LEND>
+94931 ins <LEND>
+;
+; Case 033: L=27169, k1=āvīta, newk2=āvītin
+;  <L>27169<pc>156,1<k1>āvīta<k2>ā-vīta<h>a<e>1
+;   Larr n=1: (27169) 27169.1 (27170)
+; <info and="27169,AvIta;27169.1,AvItin"/>
+96621 old <s>ā-vīta</s> <hom>a</hom> ¦ and <s>āvītin</s> See <s>ā-√ vye</s>.
+;
+96621 new <s>ā-vīta</s> <hom>a</hom> ¦ and <s>āvītin</s> See <s>ā-√ vye</s>.<info and="27169,AvIta;27169.1,AvItin"/>
+; insert metaline 27169.1 āvītin
+; Other āvītin entry: <L>27344<pc>156,3<k1>āvītin<k2>āvītin<e>2
+96622 old <LEND>
+96622 ins <L>27169.1<pc>156,1<k1>āvītin<k2>āvītin<e>1
+; insert rest of lines for 27169.1 āvītin
+96622 old <LEND>
+96622 ins <s>ā-vīta</s> <hom>a</hom> ¦ and <s>āvītin</s> See <s>ā-√ vye</s>.<info and="27169,AvIta;27169.1,AvItin"/>
+96622 old <LEND>
+96622 ins <LEND>
+;
+; Case 034: L=28336, k1=āhita, newk2=āhiti
+;  <L>28336<pc>162,2<k1>āhita<k2>ā-hita<h>b<e>1
+;   Larr n=1: (28336) 28336.1 (28337)
+; <info and="28336,Ahita;28336.1,Ahiti"/>
+100720 old <s>ā-hita</s> <hom>b</hom> ¦ and <s>ā-hiti</s> See <s>ā-√ dhā</s>.
+;
+100720 new <s>ā-hita</s> <hom>b</hom> ¦ and <s>ā-hiti</s> See <s>ā-√ dhā</s>.<info and="28336,Ahita;28336.1,Ahiti"/>
+; insert metaline 28336.1 āhiti
+; Other āhiti entry: <L>24163.1<pc>1320,3<k1>āhiti<k2>ā-hiti<e>2
+100721 old <LEND>
+100721 ins <L>28336.1<pc>162,2<k1>āhiti<k2>āhiti<e>1
+; insert rest of lines for 28336.1 āhiti
+100721 old <LEND>
+100721 ins <s>ā-hita</s> <hom>b</hom> ¦ and <s>ā-hiti</s> See <s>ā-√ dhā</s>.<info and="28336,Ahita;28336.1,Ahiti"/>
+100721 old <LEND>
+100721 ins <LEND>
+;
+; Case 035: L=28636, k1=iṅkāra, newk2=iṅ-kṛta
+;  <L>28636<pc>164,1<k1>iṅkāra<k2>iṅ-kāra<e>1
+;   Larr n=1: (28636) 28636.1 (28637)
+; <info and="28636,iNkAra;28636.1,iNkfta"/>
+101754 old <s>iṅ-kāra</s> ¦ and <s>iṅ-kṛta</s> = <s>hiṅ-kāra</s>, <s>hiṅkṛta</s> <ab>q.v.</ab>
+;
+101754 new <s>iṅ-kāra</s> ¦ and <s>iṅ-kṛta</s> = <s>hiṅ-kāra</s>, <s>hiṅkṛta</s> <ab>q.v.</ab><info and="28636,iNkAra;28636.1,iNkfta"/>
+; insert metaline 28636.1 iṅkṛta
+101755 old <LEND>
+101755 ins <L>28636.1<pc>164,1<k1>iṅkṛta<k2>iṅ-kṛta<e>1
+; insert rest of lines for 28636.1 iṅkṛta
+101755 old <LEND>
+101755 ins <s>iṅ-kāra</s> ¦ and <s>iṅ-kṛta</s> = <s>hiṅ-kāra</s>, <s>hiṅkṛta</s> <ab>q.v.</ab><info and="28636,iNkAra;28636.1,iNkfta"/>
+101755 old <LEND>
+101755 ins <LEND>
+;
+; Case 036: L=28709, k1=iṇḍarī, newk2=iṇḍalī
+;  <L>28709<pc>164,3<k1>iṇḍarī<k2>iṇḍarī<e>1
+;   Larr n=1: (28709) 28709.1 (28710)
+; <info or="28709,iRqarI;28709.1,iRqalI"/>
+102090 old <s>iṇḍarī</s> ¦ or <s>iṇḍalī</s> <lex>f.</lex> a kind of cake, <ls>L.</ls><info lex="f"/>
+;
+102090 new <s>iṇḍarī</s> ¦ or <s>iṇḍalī</s> <lex>f.</lex> a kind of cake, <ls>L.</ls><info lex="f"/><info or="28709,iRqarI;28709.1,iRqalI"/>
+; insert metaline 28709.1 iṇḍalī
+102091 old <LEND>
+102091 ins <L>28709.1<pc>164,3<k1>iṇḍalī<k2>iṇḍalī<e>1
+; insert rest of lines for 28709.1 iṇḍalī
+102091 old <LEND>
+102091 ins <s>iṇḍarī</s> ¦ or <s>iṇḍalī</s> <lex>f.</lex> a kind of cake, <ls>L.</ls><info lex="f"/><info or="28709,iRqarI;28709.1,iRqalI"/>
+102091 old <LEND>
+102091 ins <LEND>
+;
+; Case 037: L=29383, k1=irivillā, newk2=irivellikā
+;  <L>29383<pc>168,2<k1>irivillā<k2>irivillā<e>1
+;   Larr n=1: (29383) 29383.1 (29384)
+; <info or="29383,irivillA;29383.1,irivellikA"/>
+104537 old <s>irivillā</s> ¦ or <s>irivellikā</s> <lex>f.</lex> pimples or pustules on the head, <ls>Suśr.</ls>; <ls>Bhpr.</ls><info lex="f"/>
+;
+104537 new <s>irivillā</s> ¦ or <s>irivellikā</s> <lex>f.</lex> pimples or pustules on the head, <ls>Suśr.</ls>; <ls>Bhpr.</ls><info lex="f"/><info or="29383,irivillA;29383.1,irivellikA"/>
+; insert metaline 29383.1 irivellikā
+104538 old <LEND>
+104538 ins <L>29383.1<pc>168,2<k1>irivellikā<k2>irivellikā<e>1
+; insert rest of lines for 29383.1 irivellikā
+104538 old <LEND>
+104538 ins <s>irivillā</s> ¦ or <s>irivellikā</s> <lex>f.</lex> pimples or pustules on the head, <ls>Suśr.</ls>; <ls>Bhpr.</ls><info lex="f"/><info or="29383,irivillA;29383.1,irivellikA"/>
+104538 old <LEND>
+104538 ins <LEND>
+;
+; Case 038: L=30110, k1=ukharvala, newk2=ukhala
+;  <L>30110<pc>172,2<k1>ukharvala<k2>ukharvala<e>1
+;   Larr n=1: (30110) 30110.1 (30111)
+; <info or="30110,uKarvala;30110.1,uKala"/>
+107140 old <s>ukharvala</s> ¦ or <s>ukhala</s> <lex>m.</lex> a kind of grass (a sort of <bot>Andropogon</bot>), <ls>L.</ls><info lex="m"/>
+;
+107140 new <s>ukharvala</s> ¦ or <s>ukhala</s> <lex>m.</lex> a kind of grass (a sort of <bot>Andropogon</bot>), <ls>L.</ls><info lex="m"/><info or="30110,uKarvala;30110.1,uKala"/>
+; insert metaline 30110.1 ukhala
+107141 old <LEND>
+107141 ins <L>30110.1<pc>172,2<k1>ukhala<k2>ukhala<e>1
+; insert rest of lines for 30110.1 ukhala
+107141 old <LEND>
+107141 ins <s>ukharvala</s> ¦ or <s>ukhala</s> <lex>m.</lex> a kind of grass (a sort of <bot>Andropogon</bot>), <ls>L.</ls><info lex="m"/><info or="30110,uKarvala;30110.1,uKala"/>
+107141 old <LEND>
+107141 ins <LEND>
+;
+; Case 039: L=30626, k1=uṭh, newk2=ūṭh
+;  <L>30626<pc>175,1<k1>uṭh<k2>uṭh<e>1
+;   Larr n=1: (30626) 30626.1 (30627)
+; <info or="30626,uW;30626.1,UW"/>
+108943 old <s>uṭh</s> ¦ or <s>ūṭh</s> <ab>cl.</ab> 1. <ab>P.</ab> <s>oṭhati</s> or <s>ūṭhati</s>, to strike or knock down, <ls>Dhātup. ix, 54.</ls><info westergaard="piWa,9.54,01.0229"/><info verb="genuineroot" cp="1P"/>
+;
+108943 new <s>uṭh</s> ¦ or <s>ūṭh</s> <ab>cl.</ab> 1. <ab>P.</ab> <s>oṭhati</s> or <s>ūṭhati</s>, to strike or knock down, <ls>Dhātup. ix, 54.</ls><info westergaard="piWa,9.54,01.0229"/><info verb="genuineroot" cp="1P"/><info or="30626,uW;30626.1,UW"/>
+; insert metaline 30626.1 ūṭh
+; Other ūṭh entry: <L>37966<pc>221,1<k1>ūṭh<k2>ūṭh<e>1
+108944 old <LEND>
+108944 ins <L>30626.1<pc>175,1<k1>ūṭh<k2>ūṭh<e>1
+; insert rest of lines for 30626.1 ūṭh
+108944 old <LEND>
+108944 ins <s>uṭh</s> ¦ or <s>ūṭh</s> <ab>cl.</ab> 1. <ab>P.</ab> <s>oṭhati</s> or <s>ūṭhati</s>, to strike or knock down, <ls>Dhātup. ix, 54.</ls><info westergaard="piWa,9.54,01.0229"/><info verb="genuineroot" cp="1P"/><info or="30626,uW;30626.1,UW"/>
+108944 old <LEND>
+108944 ins <LEND>
+;
+; Case 040: L=30696, k1=utāho, newk2=utāho-svid
+;  <L>30696<pc>175,2<k1>utāho<k2>utāho<e>1
+;   Larr n=1: (30696) 30696.1 (30697)
+; <info and="30696,utAho;30696.1,utAhosvid"/>
+109185 old <s>utā<srs/>ho</s> ¦ and <s>utā<srs/>ho-svid</s> See <hom>2.</hom> <s>utá</s> above.
+;
+109185 new <s>utā<srs/>ho</s> ¦ and <s>utā<srs/>ho-svid</s> See <hom>2.</hom> <s>utá</s> above.<info and="30696,utAho;30696.1,utAhosvid"/>
+; insert metaline 30696.1 utāhosvid
+109186 old <LEND>
+109186 ins <L>30696.1<pc>175,2<k1>utāhosvid<k2>utāho-svid<e>1
+; insert rest of lines for 30696.1 utāhosvid
+109186 old <LEND>
+109186 ins <s>utā<srs/>ho</s> ¦ and <s>utā<srs/>ho-svid</s> See <hom>2.</hom> <s>utá</s> above.<info and="30696,utAho;30696.1,utAhosvid"/>
+109186 old <LEND>
+109186 ins <LEND>
+;
+; Case 041: L=31024, k1=uttaṅka, newk2=uttaṅka-megha
+;  <L>31024<pc>177,2<k1>uttaṅka<k2>uttaṅka<e>1
+;   Larr n=1: (31024) 31024.1 (31025)
+; <info and="31024,uttaNka;31024.1,uttaNkameGa"/>
+110290 old <s>uttaṅka</s> ¦ and <s>uttaṅka-megha</s> <ab>vv.ll.</ab> for <s>utaṅka</s> and <s>utaṅka-megha</s>, qq.v.
+;
+110290 new <s>uttaṅka</s> ¦ and <s>uttaṅka-megha</s> <ab>vv.ll.</ab> for <s>utaṅka</s> and <s>utaṅka-megha</s>, qq.v.<info and="31024,uttaNka;31024.1,uttaNkameGa"/>
+; insert metaline 31024.1 uttaṅkamegha
+110291 old <LEND>
+110291 ins <L>31024.1<pc>177,2<k1>uttaṅkamegha<k2>uttaṅka-megha<e>1
+; insert rest of lines for 31024.1 uttaṅkamegha
+110291 old <LEND>
+110291 ins <s>uttaṅka</s> ¦ and <s>uttaṅka-megha</s> <ab>vv.ll.</ab> for <s>utaṅka</s> and <s>utaṅka-megha</s>, qq.v.<info and="31024,uttaNka;31024.1,uttaNkameGa"/>
+110291 old <LEND>
+110291 ins <LEND>
+;
+; Case 042: L=34524, k1=upacūḍana, newk2=upa-cūlana
+;  <L>34524<pc>197,3<k1>upacūḍana<k2>upa-cūḍana<e>1
+;   Larr n=1: (34524) 34524.1 (34525)
+; <info or="34524,upacUqana;34524.1,upacUlana"/>
+122335 old <s>upa-cūḍana</s> ¦ or <s>upa-cūlana</s> <lex>n.</lex> singeing, searing, heating, <ls>Parāś.</ls> <ab>Comm.</ab> on <ls>Yājñ.</ls> &c.<info lex="n"/>
+;
+122335 new <s>upa-cūḍana</s> ¦ or <s>upa-cūlana</s> <lex>n.</lex> singeing, searing, heating, <ls>Parāś.</ls> <ab>Comm.</ab> on <ls>Yājñ.</ls> &c.<info lex="n"/><info or="34524,upacUqana;34524.1,upacUlana"/>
+; insert metaline 34524.1 upacūlana
+122336 old <LEND>
+122336 ins <L>34524.1<pc>197,3<k1>upacūlana<k2>upa-cūlana<e>1
+; insert rest of lines for 34524.1 upacūlana
+122336 old <LEND>
+122336 ins <s>upa-cūḍana</s> ¦ or <s>upa-cūlana</s> <lex>n.</lex> singeing, searing, heating, <ls>Parāś.</ls> <ab>Comm.</ab> on <ls>Yājñ.</ls> &c.<info lex="n"/><info or="34524,upacUqana;34524.1,upacUlana"/>
+122336 old <LEND>
+122336 ins <LEND>
+;
+; Case 043: L=38324, k1=ūrv, newk2=urv
+;  <L>38324<pc>222,3<k1>ūrv<k2>ūrv<e>1
+;   Larr n=1: (38324) 38324.1 (38325)
+; <info or="38324,Urv;38324.1,urv"/>
+135308 old <s>ūrv</s> ¦ or <s>urv</s> <ab>cl.</ab> 1. <ab>P.</ab> <s>ūrvati</s>, <s>ūrvāṃcakāra</s>, &c., to kill, hurt, <ls>Dhātup. xv, 60.</ls><info westergaard="urvI,15.60,01.0370"/><info verb="genuineroot" cp="1P"/>
+;
+135308 new <s>ūrv</s> ¦ or <s>urv</s> <ab>cl.</ab> 1. <ab>P.</ab> <s>ūrvati</s>, <s>ūrvāṃcakāra</s>, &c., to kill, hurt, <ls>Dhātup. xv, 60.</ls><info westergaard="urvI,15.60,01.0370"/><info verb="genuineroot" cp="1P"/><info or="38324,Urv;38324.1,urv"/>
+; insert metaline 38324.1 urv
+; Other urv entry: <L>37410<pc>218,2<k1>urv<k2>urv<e>1
+135309 old <LEND>
+135309 ins <L>38324.1<pc>222,3<k1>urv<k2>urv<e>1
+; insert rest of lines for 38324.1 urv
+135309 old <LEND>
+135309 ins <s>ūrv</s> ¦ or <s>urv</s> <ab>cl.</ab> 1. <ab>P.</ab> <s>ūrvati</s>, <s>ūrvāṃcakāra</s>, &c., to kill, hurt, <ls>Dhātup. xv, 60.</ls><info westergaard="urvI,15.60,01.0370"/><info verb="genuineroot" cp="1P"/><info or="38324,Urv;38324.1,urv"/>
+135309 old <LEND>
+135309 ins <LEND>
+;
+; Case 044: L=40152, k1=ela, newk2=elada
+;  <L>40152<pc>232,1<k1>ela<k2>ela<e>1
+;   Larr n=1: (40152) 40152.1 (40153)
+; <info and="40152,ela;40152.1,elada"/>
+141553 old <s>ela</s> ¦ and <s>elada</s> <lex>n.</lex> a particular number (<ls>Buddh.</ls>)<info lex="n"/>
+;
+141553 new <s>ela</s> ¦ and <s>elada</s> <lex>n.</lex> a particular number (<ls>Buddh.</ls>)<info lex="n"/><info and="40152,ela;40152.1,elada"/>
+; insert metaline 40152.1 elada
+141554 old <LEND>
+141554 ins <L>40152.1<pc>232,1<k1>elada<k2>elada<e>1
+; insert rest of lines for 40152.1 elada
+141554 old <LEND>
+141554 ins <s>ela</s> ¦ and <s>elada</s> <lex>n.</lex> a particular number (<ls>Buddh.</ls>)<info lex="n"/><info and="40152,ela;40152.1,elada"/>
+141554 old <LEND>
+141554 ins <LEND>
+;
+; Case 045: L=40950, k1=audaśvita, newk2=audaśvitka
+;  <L>40950<pc>237,2<k1>audaśvita<k2>audaśvita<e>1
+;   Larr n=1: (40950) 40950.1 (40951)
+; <info and="40950,OdaSvita;40950.1,OdaSvitka"/>
+144290 old <s>audaśvita</s> ¦ and <s>audaśvitka</s> <lex>mfn.</lex> (<ab>fr.</ab> <s>uda-śvit</s>), dressed with or made of buttermilk, like buttermilk, <ls>Pāṇ.</ls><info lex="m:f:n"/>
+;
+144290 new <s>audaśvita</s> ¦ and <s>audaśvitka</s> <lex>mfn.</lex> (<ab>fr.</ab> <s>uda-śvit</s>), dressed with or made of buttermilk, like buttermilk, <ls>Pāṇ.</ls><info lex="m:f:n"/><info and="40950,OdaSvita;40950.1,OdaSvitka"/>
+; insert metaline 40950.1 audaśvitka
+144291 old <LEND>
+144291 ins <L>40950.1<pc>237,2<k1>audaśvitka<k2>audaśvitka<e>1
+; insert rest of lines for 40950.1 audaśvitka
+144291 old <LEND>
+144291 ins <s>audaśvita</s> ¦ and <s>audaśvitka</s> <lex>mfn.</lex> (<ab>fr.</ab> <s>uda-śvit</s>), dressed with or made of buttermilk, like buttermilk, <ls>Pāṇ.</ls><info lex="m:f:n"/><info and="40950,OdaSvita;40950.1,OdaSvitka"/>
+144291 old <LEND>
+144291 ins <LEND>
+;
+; Case 046: L=41298, k1=auṣadhi, newk2=auṣadhī
+;  <L>41298<pc>240,2<k1>auṣadhi<k2>auṣadhi<e>2
+;   Larr n=1: (41298) 41298.1 (41299)
+; <info or="41298,OzaDi;41298.1,OzaDI"/>
+145436 old <s>auṣadhi</s> ¦ or <s>ī</s> <lex>f.</lex> = <s>oṣadhi</s> <ab>q.v.</ab><info lex="f"/>
+;
+145436 new <s>auṣadhi</s> ¦ or <s>ī</s> <lex>f.</lex> = <s>oṣadhi</s> <ab>q.v.</ab><info lex="f"/><info or="41298,OzaDi;41298.1,OzaDI"/>
+; insert metaline 41298.1 auṣadhī
+; Other auṣadhī entry: <L>41291<pc>240,2<k1>auṣadhī<k2>auṣadhī́<e>1B
+145437 old <LEND>
+145437 ins <L>41298.1<pc>240,2<k1>auṣadhī<k2>auṣadhī<e>2
+; insert rest of lines for 41298.1 auṣadhī
+145437 old <LEND>
+145437 ins <s>auṣadhi</s> ¦ or <s>ī</s> <lex>f.</lex> = <s>oṣadhi</s> <ab>q.v.</ab><info lex="f"/><info or="41298,OzaDi;41298.1,OzaDI"/>
+145437 old <LEND>
+145437 ins <LEND>
+;
+; Case 047: L=43687, k1=kapolapāli, newk2=kapola—pālī
+;  <L>43687<pc>251,2<k1>kapolapāli<k2>kapola—pāli<e>3
+;   Larr n=1: (43687) 43687.1 (43688)
+; <info or="43687,kapolapAli;43687.1,kapolapAlI"/>
+153187 old <s>kapola—pāli</s> ¦ or <s>ī</s> <lex>f.</lex> the side of a cheek, <ls>Kād.</ls><info lex="f"/>
+;
+153187 new <s>kapola—pāli</s> ¦ or <s>ī</s> <lex>f.</lex> the side of a cheek, <ls>Kād.</ls><info lex="f"/><info or="43687,kapolapAli;43687.1,kapolapAlI"/>
+; insert metaline 43687.1 kapolapālī
+153188 old <LEND>
+153188 ins <L>43687.1<pc>251,2<k1>kapolapālī<k2>kapola—pālī<e>3
+; insert rest of lines for 43687.1 kapolapālī
+153188 old <LEND>
+153188 ins <s>kapola—pāli</s> ¦ or <s>ī</s> <lex>f.</lex> the side of a cheek, <ls>Kād.</ls><info lex="f"/><info or="43687,kapolapAli;43687.1,kapolapAlI"/>
+153188 old <LEND>
+153188 ins <LEND>
+;
+; Case 048: L=46450, k1=kavandha, newk2=kavandhín
+;  <L>46450<pc>264,1<k1>kavandha<k2>kávandha<e>1
+;   Larr n=1: (46450) 46450.1 (46451)
+; <info and="46450,kavanDa;46450.1,kavanDin"/>
+162352 old <s>kávandha</s> ¦ and <s>kavandhín</s> See <s>kában°</s>.
+;
+162352 new <s>kávandha</s> ¦ and <s>kavandhín</s> See <s>kában°</s>.<info and="46450,kavanDa;46450.1,kavanDin"/>
+; insert metaline 46450.1 kavandhin
+162353 old <LEND>
+162353 ins <L>46450.1<pc>264,1<k1>kavandhin<k2>kavandhín<e>1
+; insert rest of lines for 46450.1 kavandhin
+162353 old <LEND>
+162353 ins <s>kávandha</s> ¦ and <s>kavandhín</s> See <s>kában°</s>.<info and="46450,kavanDa;46450.1,kavanDin"/>
+162353 old <LEND>
+162353 ins <LEND>
+;
+; Case 049: L=51620, k1=kuṭannaka, newk2=kuṭan-naṭa
+;  <L>51620<pc>288,2<k1>kuṭannaka<k2>kuṭan-naka<h>b<e>1
+;   Larr n=1: (51620) 51620.1 (51621)
+; <info and="51620,kuwannaka;51620.1,kuwannawa"/>
+178855 old <s>kuṭan-naka</s> <hom>b</hom> ¦ and <s>-naṭa</s> See √ <s>kuṭ</s>.
+;
+178855 new <s>kuṭan-naka</s> <hom>b</hom> ¦ and <s>-naṭa</s> See √ <s>kuṭ</s>.<info and="51620,kuwannaka;51620.1,kuwannawa"/>
+; insert metaline 51620.1 kuṭannaṭa
+; Other kuṭannaṭa entry: <L>51541<pc>288,1<k1>kuṭannaṭa<k2>kuṭan—naṭa<e>3
+; Other kuṭannaṭa entry: <L>51542<pc>288,2<k1>kuṭannaṭa<k2>kuṭan—naṭa<e>3A
+178856 old <LEND>
+178856 ins <L>51620.1<pc>288,2<k1>kuṭannaṭa<k2>kuṭan-naṭa<e>1
+; insert rest of lines for 51620.1 kuṭannaṭa
+178856 old <LEND>
+178856 ins <s>kuṭan-naka</s> <hom>b</hom> ¦ and <s>-naṭa</s> See √ <s>kuṭ</s>.<info and="51620,kuwannaka;51620.1,kuwannawa"/>
+178856 old <LEND>
+178856 ins <LEND>
+;
+; Case 050: L=54090, k1=kūrmi, newk2=kūrmin
+;  <L>54090<pc>300,3<k1>kūrmi<k2>kūrmi<e>1
+;   Larr n=1: (54090) 54090.1 (54091)
+; <info and="54090,kUrmi;54090.1,kUrmin"/>
+186752 old <s>kūrmi</s> ¦ and <s>°rmin</s> See <s>tuvi-k°</s>.
+;
+186752 new <s>kūrmi</s> ¦ and <s>°rmin</s> See <s>tuvi-k°</s>.<info and="54090,kUrmi;54090.1,kUrmin"/>
+; insert metaline 54090.1 kūrmin
+186753 old <LEND>
+186753 ins <L>54090.1<pc>300,3<k1>kūrmin<k2>kūrmin<e>1
+; insert rest of lines for 54090.1 kūrmin
+186753 old <LEND>
+186753 ins <s>kūrmi</s> ¦ and <s>°rmin</s> See <s>tuvi-k°</s>.<info and="54090,kUrmi;54090.1,kUrmin"/>
+186753 old <LEND>
+186753 ins <LEND>
+;
+; Case 051: L=55910, k1=kevuka, newk2=kevūka
+;  <L>55910<pc>310,1<k1>kevuka<k2>kevuka<e>1
+;   Larr n=1: (55910) 55910.1 (55911)
+; <info or="55910,kevuka;55910.1,kevUka"/>
+192691 old <s>kevuka</s> ¦ or <s>°vūka</s> = <s>kecuka</s> <ab>q.v.</ab>, <ls>Car.</ls>
+;
+192691 new <s>kevuka</s> ¦ or <s>°vūka</s> = <s>kecuka</s> <ab>q.v.</ab>, <ls>Car.</ls><info or="55910,kevuka;55910.1,kevUka"/>
+; insert metaline 55910.1 kevūka
+192692 old <LEND>
+192692 ins <L>55910.1<pc>310,1<k1>kevūka<k2>kevūka<e>1
+; insert rest of lines for 55910.1 kevūka
+192692 old <LEND>
+192692 ins <s>kevuka</s> ¦ or <s>°vūka</s> = <s>kecuka</s> <ab>q.v.</ab>, <ls>Car.</ls><info or="55910,kevuka;55910.1,kevUka"/>
+192692 old <LEND>
+192692 ins <LEND>
+;
+; Case 052: L=58737, k1=kṣaj, newk2=kṣañj
+;  <L>58737<pc>324,3<k1>kṣaj<k2>kṣaj<e>1
+;   Larr n=1: (58737) 58737.1 (58738)
+; <info or="58737,kzaj;58737.1,kzaYj"/>
+201679 old <div n="to"/>to give, <ls>ib.</ls> : <ab>cl.</ab> 10. <ab>P.</ab> <s>kṣañjayati</s>, to live in pain or want, <ls>Dhātup. xxxii, 78.</ls><info westergaard="kzaji,19.7,01.0504;kzaji,32.78,10.0073"/><info verb="root" cp="1Ā,10P"/>
+;
+201679 new <div n="to"/>to give, <ls>ib.</ls> : <ab>cl.</ab> 10. <ab>P.</ab> <s>kṣañjayati</s>, to live in pain or want, <ls>Dhātup. xxxii, 78.</ls><info westergaard="kzaji,19.7,01.0504;kzaji,32.78,10.0073"/><info verb="root" cp="1Ā,10P"/><info or="58737,kzaj;58737.1,kzaYj"/>
+; insert metaline 58737.1 kṣañj
+201680 old <LEND>
+201680 ins <L>58737.1<pc>324,3<k1>kṣañj<k2>kṣañj<e>1
+; insert rest of lines for 58737.1 kṣañj
+201680 old <LEND>
+201680 ins <s>kṣaj</s> ¦ or <s>kṣañj</s> <ab>cl.</ab> 1. <ab>Ā.</ab> <s>kṣajate</s> or <s>kṣañj°</s> to go, approach, <ls>Dhātup. xix, 7</ls>;
+201680 old <LEND>
+201680 ins <div n="to"/>to give, <ls>ib.</ls> : <ab>cl.</ab> 10. <ab>P.</ab> <s>kṣañjayati</s>, to live in pain or want, <ls>Dhātup. xxxii, 78.</ls><info westergaard="kzaji,19.7,01.0504;kzaji,32.78,10.0073"/><info verb="root" cp="1Ā,10P"/><info or="58737,kzaj;58737.1,kzaYj"/>
+201680 old <LEND>
+201680 ins <LEND>
+;
+; Case 053: L=59659, k1=kṣīban, newk2=kṣīvan
+;  <L>59659<pc>329,3<k1>kṣīban<k2>kṣīban<e>2
+;   Larr n=1: (59659) 59659.1 (59660)
+; <info or="59659,kzIban;59659.1,kzIvan"/>
+204633 old <s>kṣīban</s> ¦ (or <s>kṣīvan</s>) <lex>mfn.</lex> = <s>°ba</s>, <ls>BhP. v, 17, 20.</ls><info lex="m:f:n"/>
+;
+204633 new <s>kṣīban</s> ¦ (or <s>kṣīvan</s>) <lex>mfn.</lex> = <s>°ba</s>, <ls>BhP. v, 17, 20.</ls><info lex="m:f:n"/><info or="59659,kzIban;59659.1,kzIvan"/>
+; insert metaline 59659.1 kṣīvan
+204634 old <LEND>
+204634 ins <L>59659.1<pc>329,3<k1>kṣīvan<k2>kṣīvan<e>2
+; insert rest of lines for 59659.1 kṣīvan
+204634 old <LEND>
+204634 ins <s>kṣīban</s> ¦ (or <s>kṣīvan</s>) <lex>mfn.</lex> = <s>°ba</s>, <ls>BhP. v, 17, 20.</ls><info lex="m:f:n"/><info or="59659,kzIban;59659.1,kzIvan"/>
+204634 old <LEND>
+204634 ins <LEND>
+;
+; Case 054: L=60328.2, k1=kṣetrasiṃha, newk2=kheta-siṃha
+;  <L>60328.2<pc>1325,3<k1>kṣetrasiṃha<k2>kṣetra—siṃha<e>3
+;   Larr n=1: (60328.2) 60328.3 (60329)
+; <info or="60328.2,kzetrasiMha;60328.3,KetasiMha"/>
+206731 old <s>kṣetra—siṃha</s> ¦ (or <s>kheta-s°</s>), <lex>m.</lex> <ab>N.</ab> of various kings, <ls>Inscr.</ls><info n="sup"/><info lex="m"/>
+;
+206731 new <s>kṣetra—siṃha</s> ¦ (or <s>kheta-s°</s>), <lex>m.</lex> <ab>N.</ab> of various kings, <ls>Inscr.</ls><info n="sup"/><info lex="m"/><info or="60328.2,kzetrasiMha;60328.3,KetasiMha"/>
+; insert metaline 60328.3 khetasiṃha
+; Other khetasiṃha entry: <L>62046.1<pc>1326,1<k1>khetasiṃha<k2>kheta-siṃha<e>2
+206732 old <LEND>
+206732 ins <L>60328.3<pc>1325,3<k1>khetasiṃha<k2>kheta-siṃha<e>3
+; insert rest of lines for 60328.3 khetasiṃha
+206732 old <LEND>
+206732 ins <s>kṣetra—siṃha</s> ¦ (or <s>kheta-s°</s>), <lex>m.</lex> <ab>N.</ab> of various kings, <ls>Inscr.</ls><info n="sup"/><info lex="m"/><info or="60328.2,kzetrasiMha;60328.3,KetasiMha"/>
+206732 old <LEND>
+206732 ins <LEND>
+;
+; Case 055: L=60434.1, k1=kṣemasiṃha, newk2=khema-siṃha
+;  <L>60434.1<pc>1325,3<k1>kṣemasiṃha<k2>kṣema-siṃha<e>3
+;   Larr n=1: (60434.1) 60434.2 (60435)
+; <info or="60434.1,kzemasiMha;60434.2,KemasiMha"/>
+207046 old <s>kṣema-siṃha</s> ¦ (or <s>khema-s°</s>), <lex>m.</lex> <ab>N.</ab> of a king, <ls>Inscr.</ls><info n="sup"/><info lex="m"/>
+;
+207046 new <s>kṣema-siṃha</s> ¦ (or <s>khema-s°</s>), <lex>m.</lex> <ab>N.</ab> of a king, <ls>Inscr.</ls><info n="sup"/><info lex="m"/><info or="60434.1,kzemasiMha;60434.2,KemasiMha"/>
+; insert metaline 60434.2 khemasiṃha
+; Other khemasiṃha entry: <L>62051.1<pc>1326,1<k1>khemasiṃha<k2>khema-siṃha<e>2
+207047 old <LEND>
+207047 ins <L>60434.2<pc>1325,3<k1>khemasiṃha<k2>khema-siṃha<e>3
+; insert rest of lines for 60434.2 khemasiṃha
+207047 old <LEND>
+207047 ins <s>kṣema-siṃha</s> ¦ (or <s>khema-s°</s>), <lex>m.</lex> <ab>N.</ab> of a king, <ls>Inscr.</ls><info n="sup"/><info lex="m"/><info or="60434.1,kzemasiMha;60434.2,KemasiMha"/>
+207047 old <LEND>
+207047 ins <LEND>
+;
+; Case 056: L=62521, k1=gaḍḍuka, newk2=gaḍḍūka
+;  <L>62521<pc>342,3<k1>gaḍḍuka<k2>gaḍḍuka<h>b<e>1
+;   Larr n=1: (62521) 62521.1 (62522)
+; <info and="62521,gaqquka;62521.1,gaqqUka"/>
+213719 old <s>gaḍḍuka</s> <hom>b</hom> ¦ and <s>°ḍḍūka</s> See <s>gaḍu</s>.
+;
+213719 new <s>gaḍḍuka</s> <hom>b</hom> ¦ and <s>°ḍḍūka</s> See <s>gaḍu</s>.<info and="62521,gaqquka;62521.1,gaqqUka"/>
+; insert metaline 62521.1 gaḍḍūka
+; Other gaḍḍūka entry: <L>62513<pc>342,3<k1>gaḍḍūka<k2>gaḍḍūka<e>2
+213720 old <LEND>
+213720 ins <L>62521.1<pc>342,3<k1>gaḍḍūka<k2>gaḍḍūka<e>1
+; insert rest of lines for 62521.1 gaḍḍūka
+213720 old <LEND>
+213720 ins <s>gaḍḍuka</s> <hom>b</hom> ¦ and <s>°ḍḍūka</s> See <s>gaḍu</s>.<info and="62521,gaqquka;62521.1,gaqqUka"/>
+213720 old <LEND>
+213720 ins <LEND>
+;
+; Case 057: L=66883, k1=gairakaṃvūla, newk2=gairi-kaṃvūla
+;  <L>66883<pc>363,3<k1>gairakaṃvūla<k2>gaira-kaṃvūla<e>1
+;   Larr n=1: (66883) 66883.05 (66883.1)
+; <info or="66883,gErakaMvUla;66883.05,gErikaMvUla"/>
+227814 old <s>gaira-kaṃvūla</s> ¦ or <s>°ri-k°</s> (<ab>fr.</ab> <lang script="Arabic" n="Arabic">غير</lang> and <lang script="Arabic" n="Arabic">قَبول</lang>), the 9th <s1 slp1="yoga">Yoga</s1> (in <ab>astron.</ab>)
+;
+227814 new <s>gaira-kaṃvūla</s> ¦ or <s>°ri-k°</s> (<ab>fr.</ab> <lang script="Arabic" n="Arabic">غير</lang> and <lang script="Arabic" n="Arabic">قَبول</lang>), the 9th <s1 slp1="yoga">Yoga</s1> (in <ab>astron.</ab>)<info or="66883,gErakaMvUla;66883.05,gErikaMvUla"/>
+; insert metaline 66883.05 gairikaṃvūla
+227815 old <LEND>
+227815 ins <L>66883.05<pc>363,3<k1>gairikaṃvūla<k2>gairi-kaṃvūla<e>1
+; insert rest of lines for 66883.05 gairikaṃvūla
+227815 old <LEND>
+227815 ins <s>gaira-kaṃvūla</s> ¦ or <s>°ri-k°</s> (<ab>fr.</ab> <lang script="Arabic" n="Arabic">غير</lang> and <lang script="Arabic" n="Arabic">قَبول</lang>), the 9th <s1 slp1="yoga">Yoga</s1> (in <ab>astron.</ab>)<info or="66883,gErakaMvUla;66883.05,gErikaMvUla"/>
+227815 old <LEND>
+227815 ins <LEND>
+;
+; Case 058: L=72448, k1=carmakaśā, newk2=carma—kaṣā
+;  <L>72448<pc>390,2<k1>carmakaśā<k2>carma—kaśā<e>3
+;   Larr n=1: (72448) 72448.1 (72449)
+; <info or="72448,carmakaSA;72448.1,carmakazA"/>
+246172 old <s>carma—kaśā</s> ¦ (or <s>-kaṣā</s>) <lex>f.</lex> <ab>N.</ab> of a plant (Mimosa abstergens, <ls>Bhpr.</ls>; a kind of perfume, <ls>ib.</ls>), <ls>Car. i, 1, 76 <ab>Sch.</ab></ls> (= <s>saptalā</s>). <info lex="f"/>
+;
+246172 new <s>carma—kaśā</s> ¦ (or <s>-kaṣā</s>) <lex>f.</lex> <ab>N.</ab> of a plant (Mimosa abstergens, <ls>Bhpr.</ls>; a kind of perfume, <ls>ib.</ls>), <ls>Car. i, 1, 76 <ab>Sch.</ab></ls> (= <s>saptalā</s>). <info lex="f"/><info or="72448,carmakaSA;72448.1,carmakazA"/>
+; insert metaline 72448.1 carmakaṣā
+246173 old <LEND>
+246173 ins <L>72448.1<pc>390,2<k1>carmakaṣā<k2>carma—kaṣā<e>3
+; insert rest of lines for 72448.1 carmakaṣā
+246173 old <LEND>
+246173 ins <s>carma—kaśā</s> ¦ (or <s>-kaṣā</s>) <lex>f.</lex> <ab>N.</ab> of a plant (Mimosa abstergens, <ls>Bhpr.</ls>; a kind of perfume, <ls>ib.</ls>), <ls>Car. i, 1, 76 <ab>Sch.</ab></ls> (= <s>saptalā</s>). <info lex="f"/><info or="72448,carmakaSA;72448.1,carmakazA"/>
+246173 old <LEND>
+246173 ins <LEND>
+;
+; Case 059: L=73449, k1=cicīkucī, newk2=cicīkūcī
+;  <L>73449<pc>395,1<k1>cicīkucī<k2>cicīkucī<e>1
+;   Larr n=1: (73449) 73449.1 (73450)
+; <info and="73449,cicIkucI;73449.1,cicIkUcI"/>
+249335 old <s>cicīkucī</s> ¦ and <s>°kūcī</s> See <s>cīc°</s>.
+;
+249335 new <s>cicīkucī</s> ¦ and <s>°kūcī</s> See <s>cīc°</s>.<info and="73449,cicIkucI;73449.1,cicIkUcI"/>
+; insert metaline 73449.1 cicīkūcī
+249336 old <LEND>
+249336 ins <L>73449.1<pc>395,1<k1>cicīkūcī<k2>cicīkūcī<e>1
+; insert rest of lines for 73449.1 cicīkūcī
+249336 old <LEND>
+249336 ins <s>cicīkucī</s> ¦ and <s>°kūcī</s> See <s>cīc°</s>.<info and="73449,cicIkucI;73449.1,cicIkUcI"/>
+249336 old <LEND>
+249336 ins <LEND>
+;
+; Case 060: L=73562.1, k1=cittapāvan, newk2=cit-pāvan
+;  <L>73562.1<pc>1327,1<k1>cittapāvan<k2>citta—pāvan<e>3
+;   Larr n=1: (73562.1) 73562.2 (73563)
+; <info or="73562.1,cittapAvan;73562.2,citpAvan"/>
+249715 old <s>citta—pāvan</s> ¦ (or <s>cit-p°</s>), <lex>m.</lex> <ab>N.</ab> of a class of <ns>Brāhmans</ns> in <ns>Koṅkan</ns>, <ls>RTL. 271, </ls>note 1<info n="sup"/><info lex="m"/>
+;
+249715 new <s>citta—pāvan</s> ¦ (or <s>cit-p°</s>), <lex>m.</lex> <ab>N.</ab> of a class of <ns>Brāhmans</ns> in <ns>Koṅkan</ns>, <ls>RTL. 271, </ls>note 1<info n="sup"/><info lex="m"/><info or="73562.1,cittapAvan;73562.2,citpAvan"/>
+; insert metaline 73562.2 citpāvan
+249716 old <LEND>
+249716 ins <L>73562.2<pc>1327,1<k1>citpāvan<k2>cit-pāvan<e>3
+; insert rest of lines for 73562.2 citpāvan
+249716 old <LEND>
+249716 ins <s>citta—pāvan</s> ¦ (or <s>cit-p°</s>), <lex>m.</lex> <ab>N.</ab> of a class of <ns>Brāhmans</ns> in <ns>Koṅkan</ns>, <ls>RTL. 271, </ls>note 1<info n="sup"/><info lex="m"/><info or="73562.1,cittapAvan;73562.2,citpAvan"/>
+249716 old <LEND>
+249716 ins <LEND>
+;
+; Case 061: L=75250, k1=cauhāṇa, newk2=cauhāna
+;  <L>75250<pc>403,2<k1>cauhāṇa<k2>cauhāṇa<e>1
+;   Larr n=1: (75250) 75250.1 (75251)
+; <info or="75250,cOhARa;75250.1,cOhAna"/>
+255225 old <s>cauhāṇa</s> ¦ or <s>°hāna</s> <ab>N.</ab> of king <s1 slp1="vEjana">Vaijana</s1>'s dynasty (16th century). 
+;
+255225 new <s>cauhāṇa</s> ¦ or <s>°hāna</s> <ab>N.</ab> of king <s1 slp1="vEjana">Vaijana</s1>'s dynasty (16th century). <info or="75250,cOhARa;75250.1,cOhAna"/>
+; insert metaline 75250.1 cauhāna
+255226 old <LEND>
+255226 ins <L>75250.1<pc>403,2<k1>cauhāna<k2>cauhāna<e>1
+; insert rest of lines for 75250.1 cauhāna
+255226 old <LEND>
+255226 ins <s>cauhāṇa</s> ¦ or <s>°hāna</s> <ab>N.</ab> of king <s1 slp1="vEjana">Vaijana</s1>'s dynasty (16th century). <info or="75250,cOhARa;75250.1,cOhAna"/>
+255226 old <LEND>
+255226 ins <LEND>
+;
+; Case 062: L=84890, k1=tittiḍa, newk2=tittiḍīka
+;  <L>84890<pc>446,3<k1>tittiḍa<k2>tittiḍa<e>1
+;   Larr n=1: (84890) 84890.1 (84891)
+; <info and="84890,tittiqa;84890.1,tittiqIka"/>
+286567 old <s>tittiḍa</s> ¦ and <s>°ḍīka</s> See <s>tint°</s>.
+;
+286567 new <s>tittiḍa</s> ¦ and <s>°ḍīka</s> See <s>tint°</s>.<info and="84890,tittiqa;84890.1,tittiqIka"/>
+; insert metaline 84890.1 tittiḍīka
+286568 old <LEND>
+286568 ins <L>84890.1<pc>446,3<k1>tittiḍīka<k2>tittiḍīka<e>1
+; insert rest of lines for 84890.1 tittiḍīka
+286568 old <LEND>
+286568 ins <s>tittiḍa</s> ¦ and <s>°ḍīka</s> See <s>tint°</s>.<info and="84890,tittiqa;84890.1,tittiqIka"/>
+286568 old <LEND>
+286568 ins <LEND>
+;
+; Case 063: L=86819, k1=tega, newk2=stegá
+;  <L>86819<pc>454,2<k1>tega<k2>tegá<e>1
+;   Larr n=1: (86819) 86819.1 (86820)
+; <info or="86819,tega;86819.1,stega"/>
+292845 old <s>tegá</s> ¦ or <s>stegá</s> <lex>m. <ab>pl.</ab></lex>, <ls>VS. xxv, 1.</ls><info lex="m"/>
+;
+292845 new <s>tegá</s> ¦ or <s>stegá</s> <lex>m. <ab>pl.</ab></lex>, <ls>VS. xxv, 1.</ls><info lex="m"/><info or="86819,tega;86819.1,stega"/>
+; insert metaline 86819.1 stega
+; Other stega entry: <L>254871<pc>1260,2<k1>stega<k2>stegá<e>1
+292846 old <LEND>
+292846 ins <L>86819.1<pc>454,2<k1>stega<k2>stegá<e>1
+; insert rest of lines for 86819.1 stega
+292846 old <LEND>
+292846 ins <s>tegá</s> ¦ or <s>stegá</s> <lex>m. <ab>pl.</ab></lex>, <ls>VS. xxv, 1.</ls><info lex="m"/><info or="86819,tega;86819.1,stega"/>
+292846 old <LEND>
+292846 ins <LEND>
+;
+; Case 064: L=89086, k1=tvat, newk2=tvád
+;  <L>89086<pc>463,3<k1>tvat<k2>tvát<h>b<e>1
+;   Larr n=1: (89086) 89086.1 (89087)
+; <info or="89086,tvat;89086.1,tvad"/>
+300225 old <s>tvát</s> <hom>b</hom> ¦ (or <s>tvád</s>) &c. See <ab>col.</ab>2.
+;
+300225 new <s>tvát</s> <hom>b</hom> ¦ (or <s>tvád</s>) &c. See <ab>col.</ab>2.<info or="89086,tvat;89086.1,tvad"/>
+; insert metaline 89086.1 tvad
+; Other tvad entry: <L>88947<pc>463,2<k1>tvad<k2>tvad<e>2
+300226 old <LEND>
+300226 ins <L>89086.1<pc>463,3<k1>tvad<k2>tvád<e>1
+; insert rest of lines for 89086.1 tvad
+300226 old <LEND>
+300226 ins <s>tvát</s> <hom>b</hom> ¦ (or <s>tvád</s>) &c. See <ab>col.</ab>2.<info or="89086,tvat;89086.1,tvad"/>
+300226 old <LEND>
+300226 ins <LEND>
+;
+; Case 065: L=92747, k1=dīdī, newk2=dīdi
+;  <L>92747<pc>481,1<k1>dīdī<k2>dīdī<e>1
+;   Larr n=1: (92747) 92747.1 (92748)
+; <info or="92747,dIdI;92747.1,dIdi"/>
+312704 old <s>dīdī</s> ¦ or <s>dīdi</s> See √ <hom>2.</hom> <s>dī</s>.
+;
+312704 new <s>dīdī</s> ¦ or <s>dīdi</s> See √ <hom>2.</hom> <s>dī</s>.<info or="92747,dIdI;92747.1,dIdi"/>
+; insert metaline 92747.1 dīdi
+; Other dīdi entry: <L>92648<pc>480,3<k1>dīdi<k2>dīdi<e>2
+; Other dīdi entry: <L>92649<pc>480,3<k1>dīdi<k2>dīdi<e>2A
+312705 old <LEND>
+312705 ins <L>92747.1<pc>481,1<k1>dīdi<k2>dīdi<e>1
+; insert rest of lines for 92747.1 dīdi
+312705 old <LEND>
+312705 ins <s>dīdī</s> ¦ or <s>dīdi</s> See √ <hom>2.</hom> <s>dī</s>.<info or="92747,dIdI;92747.1,dIdi"/>
+312705 old <LEND>
+312705 ins <LEND>
+;
+; Case 066: L=94719, k1=durdurūṭa, newk2=durdhurūṭa
+;  <L>94719<pc>488,2<k1>durdurūṭa<k2>durdurūṭa<h>b<e>1
+;   Larr n=1: (94719) 94719.1 (94720)
+; <info and="94719,durdurUwa;94719.1,durDurUwa"/>
+319011 old <s>durdurūṭa</s> <hom>b</hom> ¦ and <s>durdh°</s> See under 2. <s>dur</s>.
+;
+319011 new <s>durdurūṭa</s> <hom>b</hom> ¦ and <s>durdh°</s> See under 2. <s>dur</s>.<info and="94719,durdurUwa;94719.1,durDurUwa"/>
+; insert metaline 94719.1 durdhurūṭa
+; Other durdhurūṭa entry: <L>94048<pc>486,1<k1>durdhurūṭa<k2>dur—dhurūṭa<e>3
+319012 old <LEND>
+319012 ins <L>94719.1<pc>488,2<k1>durdhurūṭa<k2>durdhurūṭa<e>1
+; insert rest of lines for 94719.1 durdhurūṭa
+319012 old <LEND>
+319012 ins <s>durdurūṭa</s> <hom>b</hom> ¦ and <s>durdh°</s> See under 2. <s>dur</s>.<info and="94719,durdurUwa;94719.1,durDurUwa"/>
+319012 old <LEND>
+319012 ins <LEND>
+;
+; Case 067: L=95261, k1=dṛmphū, newk2=dṛmbhū
+;  <L>95261<pc>491,1<k1>dṛmphū<k2>dṛmphū<e>1
+;   Larr n=1: (95261) 95261.1 (95262)
+; <info or="95261,dfmPU;95261.1,dfmBU"/>
+320875 old <s>dṛmphū</s> ¦ or <s>°bhū</s> See <s>dṛnphū</s> &c.
+;
+320875 new <s>dṛmphū</s> ¦ or <s>°bhū</s> See <s>dṛnphū</s> &c.<info or="95261,dfmPU;95261.1,dfmBU"/>
+; insert metaline 95261.1 dṛmbhū
+; Other dṛmbhū entry: <L>95244<pc>491,1<k1>dṛmbhū<k2>dṛmbhū<e>3
+320876 old <LEND>
+320876 ins <L>95261.1<pc>491,1<k1>dṛmbhū<k2>dṛmbhū<e>1
+; insert rest of lines for 95261.1 dṛmbhū
+320876 old <LEND>
+320876 ins <s>dṛmphū</s> ¦ or <s>°bhū</s> See <s>dṛnphū</s> &c.<info or="95261,dfmPU;95261.1,dfmBU"/>
+320876 old <LEND>
+320876 ins <LEND>
+;
+; Case 068: L=96044, k1=devavī, newk2=devā—vī́
+;  <L>96044<pc>494,3<k1>devavī<k2>devá—vī́<e>3
+;   Larr n=1: (96044) 96044.1 (96045)
+; <info or="96044,devavI;96044.1,devAvI"/>
+323442 old <s>devá—vī́</s> ¦ (or <s>°vā-v°</s>) <lex>mfn.</lex> (superl. <s>-tama</s>) gratifying the <ab n="gods">g°</ab>, <ls>RV.</ls><info lex="m:f:n"/>
+;
+323442 new <s>devá—vī́</s> ¦ (or <s>°vā-v°</s>) <lex>mfn.</lex> (superl. <s>-tama</s>) gratifying the <ab n="gods">g°</ab>, <ls>RV.</ls><info lex="m:f:n"/><info or="96044,devavI;96044.1,devAvI"/>
+; insert metaline 96044.1 devāvī
+; Other devāvī entry: <L>96257<pc>495,2<k1>devāvī<k2>devā-vī́<e>3
+323443 old <LEND>
+323443 ins <L>96044.1<pc>494,3<k1>devāvī<k2>devā—vī́<e>3
+; insert rest of lines for 96044.1 devāvī
+323443 old <LEND>
+323443 ins <s>devá—vī́</s> ¦ (or <s>°vā-v°</s>) <lex>mfn.</lex> (superl. <s>-tama</s>) gratifying the <ab n="gods">g°</ab>, <ls>RV.</ls><info lex="m:f:n"/><info or="96044,devavI;96044.1,devAvI"/>
+323443 old <LEND>
+323443 ins <LEND>
+;
+; Case 069: L=96328, k1=devakīnandana, newk2=devaki—nandana
+;  <L>96328<pc>495,3<k1>devakīnandana<k2>devakī—nandana<e>3
+;   Larr n=1: (96328) 96328.1 (96329)
+; <info or="96328,devakInandana;96328.1,devakinandana"/>
+324363 old <s>devakī—nandana</s> ¦ (or <s>°ki-n°</s>) <lex>m.</lex> <ab>N.</ab> of <s1 slp1="kfzRa">Kṛṣṇa</s1>, <ls>ChUp.</ls>; <ls>MBh.</ls>; <ls>Hariv.</ls><info lex="m"/>
+;
+324363 new <s>devakī—nandana</s> ¦ (or <s>°ki-n°</s>) <lex>m.</lex> <ab>N.</ab> of <s1 slp1="kfzRa">Kṛṣṇa</s1>, <ls>ChUp.</ls>; <ls>MBh.</ls>; <ls>Hariv.</ls><info lex="m"/><info or="96328,devakInandana;96328.1,devakinandana"/>
+; insert metaline 96328.1 devakinandana
+324364 old <LEND>
+324364 ins <L>96328.1<pc>495,3<k1>devakinandana<k2>devaki—nandana<e>3
+; insert rest of lines for 96328.1 devakinandana
+324364 old <LEND>
+324364 ins <s>devakī—nandana</s> ¦ (or <s>°ki-n°</s>) <lex>m.</lex> <ab>N.</ab> of <s1 slp1="kfzRa">Kṛṣṇa</s1>, <ls>ChUp.</ls>; <ls>MBh.</ls>; <ls>Hariv.</ls><info lex="m"/><info or="96328,devakInandana;96328.1,devakinandana"/>
+324364 old <LEND>
+324364 ins <LEND>
+;
+; Case 070: L=97390, k1=dyuka, newk2=dyukāri
+;  <L>97390<pc>500,1<k1>dyuka<k2>dyuka<e>1
+;   Larr n=1: (97390) 97390.1 (97391)
+; <info and="97390,dyuka;97390.1,dyukAri"/>
+327790 old <s>dyuka</s> ¦ and <s>°kā<srs/>ri</s> <ab>w.r.</ab> for <s>ghūka</s> and <s>°kā<srs/>ri</s>.
+;
+327790 new <s>dyuka</s> ¦ and <s>°kā<srs/>ri</s> <ab>w.r.</ab> for <s>ghūka</s> and <s>°kā<srs/>ri</s>.<info and="97390,dyuka;97390.1,dyukAri"/>
+; insert metaline 97390.1 dyukāri
+327791 old <LEND>
+327791 ins <L>97390.1<pc>500,1<k1>dyukāri<k2>dyukāri<e>1
+; insert rest of lines for 97390.1 dyukāri
+327791 old <LEND>
+327791 ins <s>dyuka</s> ¦ and <s>°kā<srs/>ri</s> <ab>w.r.</ab> for <s>ghūka</s> and <s>°kā<srs/>ri</s>.<info and="97390,dyuka;97390.1,dyukAri"/>
+327791 old <LEND>
+327791 ins <LEND>
+;
+; Case 071: L=97888, k1=druṇaha, newk2=dru-naha
+;  <L>97888<pc>502,1<k1>druṇaha<k2>drú—ṇaha<h>a<e>3
+;   Larr n=1: (97888) 97888.1 (97889)
+; <info or="97888,druRaha;97888.1,drunaha"/>
+329371 old <s>drú—ṇaha</s> <hom>a</hom> ¦ (or <s>-naha</s>, <ls>W.</ls>) <lex>m.</lex> scabbard, sheath of a sword, <ls>L.</ls><info lex="m"/>
+;
+329371 new <s>drú—ṇaha</s> <hom>a</hom> ¦ (or <s>-naha</s>, <ls>W.</ls>) <lex>m.</lex> scabbard, sheath of a sword, <ls>L.</ls><info lex="m"/><info or="97888,druRaha;97888.1,drunaha"/>
+; insert metaline 97888.1 drunaha
+329372 old <LEND>
+329372 ins <L>97888.1<pc>502,1<k1>drunaha<k2>dru-naha<e>3
+; insert rest of lines for 97888.1 drunaha
+329372 old <LEND>
+329372 ins <s>drú—ṇaha</s> <hom>a</hom> ¦ (or <s>-naha</s>, <ls>W.</ls>) <lex>m.</lex> scabbard, sheath of a sword, <ls>L.</ls><info lex="m"/><info or="97888,druRaha;97888.1,drunaha"/>
+329372 old <LEND>
+329372 ins <LEND>
+;
+; Case 072: L=100924, k1=dhānta, newk2=dhvānta
+;  <L>100924<pc>515,1<k1>dhānta<k2>dhānta<e>1
+;   Larr n=1: (100924) 100924.1 (100925)
+; <info or="100924,DAnta;100924.1,DvAnta"/>
+339492 old <s>dhānta</s> ¦ (or <s>dhvānta</s>?), mystical <ab>N.</ab> of the letter <lex>n.</lex>, <ls>Up.</ls><info lex="n"/>
+;
+339492 new <s>dhānta</s> ¦ (or <s>dhvānta</s>?), mystical <ab>N.</ab> of the letter <lex>n.</lex>, <ls>Up.</ls><info lex="n"/><info or="100924,DAnta;100924.1,DvAnta"/>
+; insert metaline 100924.1 dhvānta
+; Other dhvānta entry: <L>102604<pc>522,3<k1>dhvānta<k2>dhvāntá<h>1<e>2
+; Other dhvānta entry: <L>102604.1<pc>1329,2<k1>dhvānta<k2>dhvānta<e>2A
+; Other dhvānta entry: <L>102605<pc>522,3<k1>dhvānta<k2>dhvāntá<h>2<e>1
+; Other dhvānta entry: <L>102606<pc>522,3<k1>dhvānta<k2>dhvāntá<e>1B
+339493 old <LEND>
+339493 ins <L>100924.1<pc>515,1<k1>dhvānta<k2>dhvānta<e>1
+; insert rest of lines for 100924.1 dhvānta
+339493 old <LEND>
+339493 ins <s>dhānta</s> ¦ (or <s>dhvānta</s>?), mystical <ab>N.</ab> of the letter <lex>n.</lex>, <ls>Up.</ls><info lex="n"/><info or="100924,DAnta;100924.1,DvAnta"/>
+339493 old <LEND>
+339493 ins <LEND>
+;
+; Case 073: L=101208, k1=dhita, newk2=dhitsya
+;  <L>101208<pc>516,2<k1>dhita<k2>dhita<h>a<e>1
+;   Larr n=1: (101208) 101208.1 (101209)
+; <info and="101208,Dita;101208.1,Ditsya"/>
+340421 old <s>dhita</s> <hom>a</hom> ¦ and <s>dhitsya</s> See above.
+;
+340421 new <s>dhita</s> <hom>a</hom> ¦ and <s>dhitsya</s> See above.<info and="101208,Dita;101208.1,Ditsya"/>
+; insert metaline 101208.1 dhitsya
+; Other dhitsya entry: <L>101190<pc>516,2<k1>dhitsya<k2>dhitsya<e>2
+340422 old <LEND>
+340422 ins <L>101208.1<pc>516,2<k1>dhitsya<k2>dhitsya<e>1
+; insert rest of lines for 101208.1 dhitsya
+340422 old <LEND>
+340422 ins <s>dhita</s> <hom>a</hom> ¦ and <s>dhitsya</s> See above.<info and="101208,Dita;101208.1,Ditsya"/>
+340422 old <LEND>
+340422 ins <LEND>
+;
+; Case 074: L=103120, k1=nagnahu, newk2=nagnáhū
+;  <L>103120<pc>525,2<k1>nagnahu<k2>nagnáhu<e>1
+;   Larr n=1: (103120) 103120.1 (103121)
+; <info or="103120,nagnahu;103120.1,nagnahU"/>
+346993 old <s>nagnáhu</s> ¦ (or <s>°hū</s>, <ls>L.</ls>) <lex>m.</lex> ferment, a drug used for fermenting spirituous liquor, <ls>VS.</ls>; <ls>ŚBr.</ls><info lex="m"/>
+;
+346993 new <s>nagnáhu</s> ¦ (or <s>°hū</s>, <ls>L.</ls>) <lex>m.</lex> ferment, a drug used for fermenting spirituous liquor, <ls>VS.</ls>; <ls>ŚBr.</ls><info lex="m"/><info or="103120,nagnahu;103120.1,nagnahU"/>
+; insert metaline 103120.1 nagnahū
+346994 old <LEND>
+346994 ins <L>103120.1<pc>525,2<k1>nagnahū<k2>nagnáhū<e>1
+; insert rest of lines for 103120.1 nagnahū
+346994 old <LEND>
+346994 ins <s>nagnáhu</s> ¦ (or <s>°hū</s>, <ls>L.</ls>) <lex>m.</lex> ferment, a drug used for fermenting spirituous liquor, <ls>VS.</ls>; <ls>ŚBr.</ls><info lex="m"/><info or="103120,nagnahu;103120.1,nagnahU"/>
+346994 old <LEND>
+346994 ins <LEND>
+;
+; Case 075: L=103305, k1=natamām, newk2=na-tarām
+;  <L>103305<pc>526,1<k1>natamām<k2>na-tamām<h>b<e>1
+;   Larr n=1: (103305) 103305.1 (103306)
+; <info and="103305,natamAm;103305.1,natarAm"/>
+347583 old <s>na-tamām</s> <hom>b</hom> ¦ and <s>na-tarām</s> See <hom>2.</hom> <s>na</s>.
+;
+347583 new <s>na-tamām</s> <hom>b</hom> ¦ and <s>na-tarām</s> See <hom>2.</hom> <s>na</s>.<info and="103305,natamAm;103305.1,natarAm"/>
+; insert metaline 103305.1 natarām
+; Other natarām entry: <L>102640<pc>523,1<k1>natarām<k2>ná—tarā́m<e>3
+347584 old <LEND>
+347584 ins <L>103305.1<pc>526,1<k1>natarām<k2>na-tarām<e>1
+; insert rest of lines for 103305.1 natarām
+347584 old <LEND>
+347584 ins <s>na-tamām</s> <hom>b</hom> ¦ and <s>na-tarām</s> See <hom>2.</hom> <s>na</s>.<info and="103305,natamAm;103305.1,natarAm"/>
+347584 old <LEND>
+347584 ins <LEND>
+;
+; Case 076: L=105517, k1=nānākāram, newk2=nā́nā-kṛtya,nā́nā-kṛtvā
+;  <L>105517<pc>535,1<k1>nānākāram<k2>nā́nā—kāram<e>3
+;   Larr n=2: (105517) 105517.1,105517.2 (105518)
+; <info or="105517,nAnAkAram;105517.1,nAnAkftya;105517.2,nAnAkftvA"/>
+354937 old <s>nā́nā—kāram</s> ¦ (or <s>-kṛtya</s>, or <s>-kṛtvā</s>) <lex>ind.</lex>, <ls>Pāṇ. 3-4, 62</ls>; <ls>Kāś.</ls><info lex="ind"/>
+;
+354937 new <s>nā́nā—kāram</s> ¦ (or <s>-kṛtya</s>, or <s>-kṛtvā</s>) <lex>ind.</lex>, <ls>Pāṇ. 3-4, 62</ls>; <ls>Kāś.</ls><info lex="ind"/><info or="105517,nAnAkAram;105517.1,nAnAkftya;105517.2,nAnAkftvA"/>
+; insert metaline 105517.1 nānākṛtya
+354938 old <LEND>
+354938 ins <L>105517.1<pc>535,1<k1>nānākṛtya<k2>nā́nā-kṛtya<e>3
+; insert rest of lines for 105517.1 nānākṛtya
+354938 old <LEND>
+354938 ins <s>nā́nā—kāram</s> ¦ (or <s>-kṛtya</s>, or <s>-kṛtvā</s>) <lex>ind.</lex>, <ls>Pāṇ. 3-4, 62</ls>; <ls>Kāś.</ls><info lex="ind"/><info or="105517,nAnAkAram;105517.1,nAnAkftya;105517.2,nAnAkftvA"/>
+354938 old <LEND>
+354938 ins <LEND>
+; insert metaline 105517.2 nānākṛtvā
+354938 old <LEND>
+354938 ins <L>105517.2<pc>535,1<k1>nānākṛtvā<k2>nā́nā-kṛtvā<e>3
+; insert rest of lines for 105517.2 nānākṛtvā
+354938 old <LEND>
+354938 ins <s>nā́nā—kāram</s> ¦ (or <s>-kṛtya</s>, or <s>-kṛtvā</s>) <lex>ind.</lex>, <ls>Pāṇ. 3-4, 62</ls>; <ls>Kāś.</ls><info lex="ind"/><info or="105517,nAnAkAram;105517.1,nAnAkftya;105517.2,nAnAkftvA"/>
+354938 old <LEND>
+354938 ins <LEND>
+;
+; Case 077: L=106108, k1=nāriṣṭa, newk2=nāriṣṭa-homa
+;  <L>106108<pc>537,3<k1>nāriṣṭa<k2>nāriṣṭa<e>1
+;   Larr n=1: (106108) 106108.1 (106109)
+; <info and="106108,nArizwa;106108.1,nArizwahoma"/>
+356957 old <s>nāriṣṭa</s> ¦ and <s>nāriṣṭa-homa</s> (<ls>Nyāyam.</ls>) = <s>nāri-ṣṭha</s> and <s>-homa</s> (See under <s>nāri</s>). 
+;
+356957 new <s>nāriṣṭa</s> ¦ and <s>nāriṣṭa-homa</s> (<ls>Nyāyam.</ls>) = <s>nāri-ṣṭha</s> and <s>-homa</s> (See under <s>nāri</s>). <info and="106108,nArizwa;106108.1,nArizwahoma"/>
+; insert metaline 106108.1 nāriṣṭahoma
+356958 old <LEND>
+356958 ins <L>106108.1<pc>537,3<k1>nāriṣṭahoma<k2>nāriṣṭa-homa<e>1
+; insert rest of lines for 106108.1 nāriṣṭahoma
+356958 old <LEND>
+356958 ins <s>nāriṣṭa</s> ¦ and <s>nāriṣṭa-homa</s> (<ls>Nyāyam.</ls>) = <s>nāri-ṣṭha</s> and <s>-homa</s> (See under <s>nāri</s>). <info and="106108,nArizwa;106108.1,nArizwahoma"/>
+356958 old <LEND>
+356958 ins <LEND>
+;
+; Case 078: L=111031, k1=niṣṣah, newk2=niṣ-ṣāh
+;  <L>111031<pc>563,3<k1>niṣṣah<k2>niṣ-ṣah<e>1
+;   Larr n=1: (111031) 111031.1 (111032)
+; <info or="111031,nizzah;111031.1,nizzAh"/>
+373997 old <s>niṣ-ṣah</s> ¦ (or <s>-ṣāh</s> <ab>nom.</ab> <s>-ṣāṭ</s>). <lex>mfn.</lex> (√ <s>sah</s>) overpowering, mighty, <ls>RV.</ls><info lex="m:f:n"/>
+;
+373997 new <s>niṣ-ṣah</s> ¦ (or <s>-ṣāh</s> <ab>nom.</ab> <s>-ṣāṭ</s>). <lex>mfn.</lex> (√ <s>sah</s>) overpowering, mighty, <ls>RV.</ls><info lex="m:f:n"/><info or="111031,nizzah;111031.1,nizzAh"/>
+; insert metaline 111031.1 niṣṣāh
+373998 old <LEND>
+373998 ins <L>111031.1<pc>563,3<k1>niṣṣāh<k2>niṣ-ṣāh<e>1
+; insert rest of lines for 111031.1 niṣṣāh
+373998 old <LEND>
+373998 ins <s>niṣ-ṣah</s> ¦ (or <s>-ṣāh</s> <ab>nom.</ab> <s>-ṣāṭ</s>). <lex>mfn.</lex> (√ <s>sah</s>) overpowering, mighty, <ls>RV.</ls><info lex="m:f:n"/><info or="111031,nizzah;111031.1,nizzAh"/>
+373998 old <LEND>
+373998 ins <LEND>
+;
+; Case 079: L=111586, k1=nīlamata, newk2=nī́la-mata-purāṇa
+;  <L>111586<pc>566,3<k1>nīlamata<k2>nī́la—mata<e>3
+;   Larr n=1: (111586) 111586.1 (111587)
+; <info or="111586,nIlamata;111586.1,nIlamatapurARa"/>
+375881 old <s>nī́la—mata</s> ¦ (or <s>-purāṇa</s>) <lex>n.</lex> <ab>N.</ab> of a <ls>Pur.</ls><info lex="n"/>
+;
+375881 new <s>nī́la—mata</s> ¦ (or <s>-purāṇa</s>) <lex>n.</lex> <ab>N.</ab> of a <ls>Pur.</ls><info lex="n"/><info or="111586,nIlamata;111586.1,nIlamatapurARa"/>
+; insert metaline 111586.1 nīlamatapurāṇa
+375882 old <LEND>
+375882 ins <L>111586.1<pc>566,3<k1>nīlamatapurāṇa<k2>nī́la-mata-purāṇa<e>3
+; insert rest of lines for 111586.1 nīlamatapurāṇa
+375882 old <LEND>
+375882 ins <s>nī́la—mata</s> ¦ (or <s>-purāṇa</s>) <lex>n.</lex> <ab>N.</ab> of a <ls>Pur.</ls><info lex="n"/><info or="111586,nIlamata;111586.1,nIlamatapurARa"/>
+375882 old <LEND>
+375882 ins <LEND>
+;
+; Case 080: L=112211.1, k1=nepālavarṣa, newk2=nepālābda,naipālikābda
+;  <L>112211.1<pc>1329,3<k1>nepālavarṣa<k2>nepāla-varṣa<e>3
+;   Larr n=2: (112211.1) 112211.2,112211.3 (112212)
+; <info or="112211.1,nepAlavarza;112211.2,nepAlAbda;112211.3,nEpAlikAbda"/>
+378104 old <s>nepāla-varṣa</s> ¦ or <s>°lā<srs/>bda</s> or <s>naipālikā<srs/>bda</s> &c.), a year of the Newar era (which begins on the 20th October, <ls>A.</ls>D. 879.<info n="sup"/>
+;
+378104 new <s>nepāla-varṣa</s> ¦ or <s>°lā<srs/>bda</s> or <s>naipālikā<srs/>bda</s> &c.), a year of the Newar era (which begins on the 20th October, <ls>A.</ls>D. 879.<info n="sup"/><info or="112211.1,nepAlavarza;112211.2,nepAlAbda;112211.3,nEpAlikAbda"/>
+; insert metaline 112211.2 nepālābda
+; Other nepālābda entry: <L>112212.1<pc>1329,3<k1>nepālābda<k2>nepā—lābda<e>3
+378105 old <LEND>
+378105 ins <L>112211.2<pc>1329,3<k1>nepālābda<k2>nepālābda<e>3
+; insert rest of lines for 112211.2 nepālābda
+378105 old <LEND>
+378105 ins <s>nepāla-varṣa</s> ¦ or <s>°lā<srs/>bda</s> or <s>naipālikā<srs/>bda</s> &c.), a year of the Newar era (which begins on the 20th October, <ls>A.</ls>D. 879.<info n="sup"/><info or="112211.1,nepAlavarza;112211.2,nepAlAbda;112211.3,nEpAlikAbda"/>
+378105 old <LEND>
+378105 ins <LEND>
+; insert metaline 112211.3 naipālikābda
+; Other naipālikābda entry: <L>112529.1<pc>1329,3<k1>naipālikābda<k2>naipālikābda<e>3
+378105 old <LEND>
+378105 ins <L>112211.3<pc>1329,3<k1>naipālikābda<k2>naipālikābda<e>3
+; insert rest of lines for 112211.3 naipālikābda
+378105 old <LEND>
+378105 ins <s>nepāla-varṣa</s> ¦ or <s>°lā<srs/>bda</s> or <s>naipālikā<srs/>bda</s> &c.), a year of the Newar era (which begins on the 20th October, <ls>A.</ls>D. 879.<info n="sup"/><info or="112211.1,nepAlavarza;112211.2,nepAlAbda;112211.3,nEpAlikAbda"/>
+378105 old <LEND>
+378105 ins <LEND>
+;
+; Case 081: L=112234, k1=nemanātha, newk2=nitya-nātha
+;  <L>112234<pc>569,2<k1>nemanātha<k2>nema—nātha<e>3
+;   Larr n=1: (112234) 112234.1 (112235)
+; <info or="112234,nemanATa;112234.1,nityanATa"/>
+378188 old <s>ne<srs/>ma—nātha</s> ¦ (or <s>nitya-n°</s>) <lex>m.</lex> <ab>N.</ab> of an author, <ls>Cat.</ls><info lex="m"/>
+;
+378188 new <s>ne<srs/>ma—nātha</s> ¦ (or <s>nitya-n°</s>) <lex>m.</lex> <ab>N.</ab> of an author, <ls>Cat.</ls><info lex="m"/><info or="112234,nemanATa;112234.1,nityanATa"/>
+; insert metaline 112234.1 nityanātha
+; Other nityanātha entry: <L>108373<pc>547,3<k1>nityanātha<k2>nítya—nātha<e>3
+378189 old <LEND>
+378189 ins <L>112234.1<pc>569,2<k1>nityanātha<k2>nitya-nātha<e>3
+; insert rest of lines for 112234.1 nityanātha
+378189 old <LEND>
+378189 ins <s>ne<srs/>ma—nātha</s> ¦ (or <s>nitya-n°</s>) <lex>m.</lex> <ab>N.</ab> of an author, <ls>Cat.</ls><info lex="m"/><info or="112234,nemanATa;112234.1,nityanATa"/>
+378189 old <LEND>
+378189 ins <LEND>
+;
+; Case 082: L=116888, k1=parāmi, newk2=parā-mī
+;  <L>116888<pc>590,2<k1>parāmi<k2>parā-mi<e>1
+;   Larr n=1: (116888) 116888.1 (116889)
+; <info or="116888,parAmi;116888.1,parAmI"/>
+394307 old <s>parā-√ mi</s> ¦ or <s>mī</s> (only <ab>fut.</ab> <ab>p.</ab> <s>-meṣyat</s>), to come back, return, <ls>AitBr.</ls><info verb="pre" cp="" parse="parA+mi"/>
+;
+394307 new <s>parā-√ mi</s> ¦ or <s>mī</s> (only <ab>fut.</ab> <ab>p.</ab> <s>-meṣyat</s>), to come back, return, <ls>AitBr.</ls><info verb="pre" cp="" parse="parA+mi"/><info or="116888,parAmi;116888.1,parAmI"/>
+; insert metaline 116888.1 parāmī
+394308 old <LEND>
+394308 ins <L>116888.1<pc>590,2<k1>parāmī<k2>parā-mī<e>1
+; insert rest of lines for 116888.1 parāmī
+394308 old <LEND>
+394308 ins <s>parā-√ mi</s> ¦ or <s>mī</s> (only <ab>fut.</ab> <ab>p.</ab> <s>-meṣyat</s>), to come back, return, <ls>AitBr.</ls><info verb="pre" cp="" parse="parA+mi"/><info or="116888,parAmi;116888.1,parAmI"/>
+394308 old <LEND>
+394308 ins <LEND>
+;
+; Case 083: L=121989, k1=pādalipta, newk2=pāda—lipta-sūri
+;  <L>121989<pc>617,3<k1>pādalipta<k2>pāda—lipta<e>3
+;   Larr n=1: (121989) 121989.1 (121990)
+; <info and="121989,pAdalipta;121989.1,pAdaliptasUri"/>
+411418 old <s>pāda—lipta</s> ¦ (and <s>-sūri</s>) <lex>m.</lex> <ab>N.</ab> of a scholar, <ls>L.</ls><info lex="m"/>
+;
+411418 new <s>pāda—lipta</s> ¦ (and <s>-sūri</s>) <lex>m.</lex> <ab>N.</ab> of a scholar, <ls>L.</ls><info lex="m"/><info and="121989,pAdalipta;121989.1,pAdaliptasUri"/>
+; insert metaline 121989.1 pādaliptasūri
+411419 old <LEND>
+411419 ins <L>121989.1<pc>617,3<k1>pādaliptasūri<k2>pāda—lipta-sūri<e>3
+; insert rest of lines for 121989.1 pādaliptasūri
+411419 old <LEND>
+411419 ins <s>pāda—lipta</s> ¦ (and <s>-sūri</s>) <lex>m.</lex> <ab>N.</ab> of a scholar, <ls>L.</ls><info lex="m"/><info and="121989,pAdalipta;121989.1,pAdaliptasUri"/>
+411419 old <LEND>
+411419 ins <LEND>
+;
+; Case 084: L=123450, k1=piṃś, newk2=piṃṣ
+;  <L>123450<pc>624,2<k1>piṃś<k2>piṃś<e>1
+;   Larr n=1: (123450) 123450.1 (123451)
+; <info and="123450,piMS;123450.1,piMz"/>
+416130 old <s>piṃś</s> ¦ and <s>piṃṣ</s> See √ <s>piś</s> and <s>piṣ</s>.
+;
+416130 new <s>piṃś</s> ¦ and <s>piṃṣ</s> See √ <s>piś</s> and <s>piṣ</s>.<info and="123450,piMS;123450.1,piMz"/>
+; insert metaline 123450.1 piṃṣ
+416131 old <LEND>
+416131 ins <L>123450.1<pc>624,2<k1>piṃṣ<k2>piṃṣ<e>1
+; insert rest of lines for 123450.1 piṃṣ
+416131 old <LEND>
+416131 ins <s>piṃś</s> ¦ and <s>piṃṣ</s> See √ <s>piś</s> and <s>piṣ</s>.<info and="123450,piMS;123450.1,piMz"/>
+416131 old <LEND>
+416131 ins <LEND>
+;
+; Case 085: L=124198, k1=pittakośa, newk2=pittá—koṣa
+;  <L>124198<pc>627,1<k1>pittakośa<k2>pittá—kośa<e>3
+;   Larr n=1: (124198) 124198.1 (124199)
+; <info or="124198,pittakoSa;124198.1,pittakoza"/>
+418484 old <s>pittá—kośa</s> ¦ (or <s>°ṣa</s>) <lex>m.</lex> the gall-bladder, <ls>MW.</ls><info lex="m"/>
+;
+418484 new <s>pittá—kośa</s> ¦ (or <s>°ṣa</s>) <lex>m.</lex> the gall-bladder, <ls>MW.</ls><info lex="m"/><info or="124198,pittakoSa;124198.1,pittakoza"/>
+; insert metaline 124198.1 pittakoṣa
+418485 old <LEND>
+418485 ins <L>124198.1<pc>627,1<k1>pittakoṣa<k2>pittá—koṣa<e>3
+; insert rest of lines for 124198.1 pittakoṣa
+418485 old <LEND>
+418485 ins <s>pittá—kośa</s> ¦ (or <s>°ṣa</s>) <lex>m.</lex> the gall-bladder, <ls>MW.</ls><info lex="m"/><info or="124198,pittakoSa;124198.1,pittakoza"/>
+418485 old <LEND>
+418485 ins <LEND>
+;
+; Case 086: L=125449, k1=puṇyasundara, newk2=púṇya—sundara-gaṇī
+;  <L>125449<pc>632,2<k1>puṇyasundara<k2>púṇya—sundara<e>3
+;   Larr n=1: (125449) 125449.1 (125450)
+; <info or="125449,puRyasundara;125449.1,puRyasundaragaRI"/>
+422446 old <s>púṇya—sundara</s> ¦ (or <s>-gaṇī</s>) <lex>m.</lex> <ab>N.</ab> of a grammarian, <ls>Cat.</ls><info lex="m"/>
+;
+422446 new <s>púṇya—sundara</s> ¦ (or <s>-gaṇī</s>) <lex>m.</lex> <ab>N.</ab> of a grammarian, <ls>Cat.</ls><info lex="m"/><info or="125449,puRyasundara;125449.1,puRyasundaragaRI"/>
+; insert metaline 125449.1 puṇyasundaragaṇī
+422447 old <LEND>
+422447 ins <L>125449.1<pc>632,2<k1>puṇyasundaragaṇī<k2>púṇya—sundara-gaṇī<e>3
+; insert rest of lines for 125449.1 puṇyasundaragaṇī
+422447 old <LEND>
+422447 ins <s>púṇya—sundara</s> ¦ (or <s>-gaṇī</s>) <lex>m.</lex> <ab>N.</ab> of a grammarian, <ls>Cat.</ls><info lex="m"/><info or="125449,puRyasundara;125449.1,puRyasundaragaRI"/>
+422447 old <LEND>
+422447 ins <LEND>
+;
+; Case 087: L=127122, k1=puṣparasa, newk2=púṣpa—rasāhvaya
+;  <L>127122<pc>640,1<k1>puṣparasa<k2>púṣpa—rasa<e>3
+;   Larr n=1: (127122) 127122.1 (127123)
+; <info or="127122,puzparasa;127122.1,puzparasAhvaya"/>
+428035 old <s>púṣpa—rasa</s> ¦ (or <s>°sā<srs/>hvaya</s>) <lex>m.</lex> (having the name) <ab n="flower">f°</ab>-juice, the nectar or honey of <ab n="flower">f°</ab>, <ls>L.</ls><info lex="m"/>
+;
+428035 new <s>púṣpa—rasa</s> ¦ (or <s>°sā<srs/>hvaya</s>) <lex>m.</lex> (having the name) <ab n="flower">f°</ab>-juice, the nectar or honey of <ab n="flower">f°</ab>, <ls>L.</ls><info lex="m"/><info or="127122,puzparasa;127122.1,puzparasAhvaya"/>
+; insert metaline 127122.1 puṣparasāhvaya
+428036 old <LEND>
+428036 ins <L>127122.1<pc>640,1<k1>puṣparasāhvaya<k2>púṣpa—rasāhvaya<e>3
+; insert rest of lines for 127122.1 puṣparasāhvaya
+428036 old <LEND>
+428036 ins <s>púṣpa—rasa</s> ¦ (or <s>°sā<srs/>hvaya</s>) <lex>m.</lex> (having the name) <ab n="flower">f°</ab>-juice, the nectar or honey of <ab n="flower">f°</ab>, <ls>L.</ls><info lex="m"/><info or="127122,puzparasa;127122.1,puzparasAhvaya"/>
+428036 old <LEND>
+428036 ins <LEND>
+;
+; Case 088: L=134958, k1=pradhī, newk2=pra-dīdhī
+;  <L>134958<pc>681,1<k1>pradhī<k2>pra-dhī<h>1<e>1
+;   Larr n=1: (134958) 134958.1 (134959)
+; <info or="134958,praDI;134958.1,pradIDI"/>
+454256 old <div n="to"/>to look out, be on the watch, <ls>AV. x, 4, 11.</ls><info verb="pre" cp="" parse="pra+DI"/>
+;
+454256 new <div n="to"/>to look out, be on the watch, <ls>AV. x, 4, 11.</ls><info verb="pre" cp="" parse="pra+DI"/><info or="134958,praDI;134958.1,pradIDI"/>
+; insert metaline 134958.1 pradīdhī
+454257 old <LEND>
+454257 ins <L>134958.1<pc>681,1<k1>pradīdhī<k2>pra-dīdhī<e>1
+; insert rest of lines for 134958.1 pradīdhī
+454257 old <LEND>
+454257 ins <hom>1.</hom> <s>pra-√ dhī</s> ¦ (or <s>-dīdhī</s>, only <ab>p.</ab> <ab>pr.</ab> <s>-dīdhyat</s> and <s>-dī́dhyāna</s>), to long for, strive after, <ls>RV. i, 113, 10</ls>;
+454257 old <LEND>
+454257 ins <div n="to"/>to look out, be on the watch, <ls>AV. x, 4, 11.</ls><info verb="pre" cp="" parse="pra+DI"/><info or="134958,praDI;134958.1,pradIDI"/>
+454257 old <LEND>
+454257 ins <LEND>
+;
+; Case 089: L=135040, k1=prapac, newk2=pra-pañc
+;  <L>135040<pc>681,3<k1>prapac<k2>pra-pac<h>a<e>1
+;   Larr n=1: (135040) 135040.1 (135041)
+; <info or="135040,prapac;135040.1,prapaYc"/>
+454530 old <hom>a.</hom> <s>pra-</s>√ <hom>1.</hom> <s>pac</s> ¦ (or <s>pañc</s>). See <s>pra-pañcaya</s> under <s>pra-pañca</s>.<info verb="pre" cp="" parse="pra+pac"/>
+;
+454530 new <hom>a.</hom> <s>pra-</s>√ <hom>1.</hom> <s>pac</s> ¦ (or <s>pañc</s>). See <s>pra-pañcaya</s> under <s>pra-pañca</s>.<info verb="pre" cp="" parse="pra+pac"/><info or="135040,prapac;135040.1,prapaYc"/>
+; insert metaline 135040.1 prapañc
+454531 old <LEND>
+454531 ins <L>135040.1<pc>681,3<k1>prapañc<k2>pra-pañc<e>1
+; insert rest of lines for 135040.1 prapañc
+454531 old <LEND>
+454531 ins <hom>a.</hom> <s>pra-</s>√ <hom>1.</hom> <s>pac</s> ¦ (or <s>pañc</s>). See <s>pra-pañcaya</s> under <s>pra-pañca</s>.<info verb="pre" cp="" parse="pra+pac"/><info or="135040,prapac;135040.1,prapaYc"/>
+454531 old <LEND>
+454531 ins <LEND>
+;
+; Case 090: L=135327, k1=prabālika, newk2=pra-vālika
+;  <L>135327<pc>683,2<k1>prabālika<k2>pra-bālika<e>1
+;   Larr n=1: (135327) 135327.1 (135328)
+; <info or="135327,prabAlika;135327.1,pravAlika"/>
+455531 old <s>pra-bālika</s> ¦ (or <s>-vālika</s> ?) <lex>m.</lex> a kind of <bot>purslain</bot>, <ls>L.</ls><info lex="m"/>
+;
+455531 new <s>pra-bālika</s> ¦ (or <s>-vālika</s> ?) <lex>m.</lex> a kind of <bot>purslain</bot>, <ls>L.</ls><info lex="m"/><info or="135327,prabAlika;135327.1,pravAlika"/>
+; insert metaline 135327.1 pravālika
+455532 old <LEND>
+455532 ins <L>135327.1<pc>683,2<k1>pravālika<k2>pra-vālika<e>1
+; insert rest of lines for 135327.1 pravālika
+455532 old <LEND>
+455532 ins <s>pra-bālika</s> ¦ (or <s>-vālika</s> ?) <lex>m.</lex> a kind of <bot>purslain</bot>, <ls>L.</ls><info lex="m"/><info or="135327,prabAlika;135327.1,pravAlika"/>
+455532 old <LEND>
+455532 ins <LEND>
+;
+; Case 091: L=137068, k1=pravivrajiṣu, newk2=pra-vivrājayiṣu
+;  <L>137068<pc>692,3<k1>pravivrajiṣu<k2>pra-vivrajiṣu<h>a<e>1
+;   Larr n=1: (137068) 137068.1 (137069)
+; <info and="137068,pravivrajizu;137068.1,pravivrAjayizu"/>
+461439 old <s>pra-vivrajiṣu</s> <hom>a</hom> ¦ and <s>pra-vivrājayiṣu</s> See under <s>pra-√ vraj</s>.
+;
+461439 new <s>pra-vivrajiṣu</s> <hom>a</hom> ¦ and <s>pra-vivrājayiṣu</s> See under <s>pra-√ vraj</s>.<info and="137068,pravivrajizu;137068.1,pravivrAjayizu"/>
+; insert metaline 137068.1 pravivrājayiṣu
+; Other pravivrājayiṣu entry: <L>137411<pc>694,3<k1>pravivrājayiṣu<k2>pra-vivrājayiṣu<e>3
+461440 old <LEND>
+461440 ins <L>137068.1<pc>692,3<k1>pravivrājayiṣu<k2>pra-vivrājayiṣu<e>1
+; insert rest of lines for 137068.1 pravivrājayiṣu
+461440 old <LEND>
+461440 ins <s>pra-vivrajiṣu</s> <hom>a</hom> ¦ and <s>pra-vivrājayiṣu</s> See under <s>pra-√ vraj</s>.<info and="137068,pravivrajizu;137068.1,pravivrAjayizu"/>
+461440 old <LEND>
+461440 ins <LEND>
+;
+; Case 092: L=138117, k1=prasaraṇi, newk2=pra-saraṇī
+;  <L>138117<pc>698,2<k1>prasaraṇi<k2>pra-saraṇi<e>3
+;   Larr n=1: (138117) 138117.1 (138118)
+; <info or="138117,prasaraRi;138117.1,prasaraRI"/>
+465024 old <s>pra-°saraṇi</s> ¦ (or <s>°ṇī</s>) <lex>f.</lex> surrounding an enemy, <ls>L.</ls><info lex="f"/>
+;
+465024 new <s>pra-°saraṇi</s> ¦ (or <s>°ṇī</s>) <lex>f.</lex> surrounding an enemy, <ls>L.</ls><info lex="f"/><info or="138117,prasaraRi;138117.1,prasaraRI"/>
+; insert metaline 138117.1 prasaraṇī
+465025 old <LEND>
+465025 ins <L>138117.1<pc>698,2<k1>prasaraṇī<k2>pra-saraṇī<e>3
+; insert rest of lines for 138117.1 prasaraṇī
+465025 old <LEND>
+465025 ins <s>pra-°saraṇi</s> ¦ (or <s>°ṇī</s>) <lex>f.</lex> surrounding an enemy, <ls>L.</ls><info lex="f"/><info or="138117,prasaraRi;138117.1,prasaraRI"/>
+465025 old <LEND>
+465025 ins <LEND>
+;
+; Case 093: L=139167, k1=prājāpatyapradāyin, newk2=prājāpatyá-sthāna-pradāyin
+;  <L>139167<pc>703,3<k1>prājāpatyapradāyin<k2>prājāpatyá—pradāyin<e>3
+;   Larr n=1: (139167) 139167.1 (139168)
+; <info or="139167,prAjApatyapradAyin;139167.1,prAjApatyasTAnapradAyin"/>
+468468 old <s>prājāpatyá—pradāyin</s> ¦ (or <s>-sthāna-pr°</s>), <lex>mfn.</lex> (<ab>prob.</ab>) procuring the place or world of <ab n="Prājāpatyá" slp1="prAjApatya">Pr°</ab>, <ls>MārkP.</ls><info lex="m:f:n"/>
+;
+468468 new <s>prājāpatyá—pradāyin</s> ¦ (or <s>-sthāna-pr°</s>), <lex>mfn.</lex> (<ab>prob.</ab>) procuring the place or world of <ab n="Prājāpatyá" slp1="prAjApatya">Pr°</ab>, <ls>MārkP.</ls><info lex="m:f:n"/><info or="139167,prAjApatyapradAyin;139167.1,prAjApatyasTAnapradAyin"/>
+; insert metaline 139167.1 prājāpatyasthānapradāyin
+468469 old <LEND>
+468469 ins <L>139167.1<pc>703,3<k1>prājāpatyasthānapradāyin<k2>prājāpatyá-sthāna-pradāyin<e>3
+; insert rest of lines for 139167.1 prājāpatyasthānapradāyin
+468469 old <LEND>
+468469 ins <s>prājāpatyá—pradāyin</s> ¦ (or <s>-sthāna-pr°</s>), <lex>mfn.</lex> (<ab>prob.</ab>) procuring the place or world of <ab n="Prājāpatyá" slp1="prAjApatya">Pr°</ab>, <ls>MārkP.</ls><info lex="m:f:n"/><info or="139167,prAjApatyapradAyin;139167.1,prAjApatyasTAnapradAyin"/>
+468469 old <LEND>
+468469 ins <LEND>
+;
+; Case 094: L=139226, k1=prākkośala, newk2=prāk-kosala
+;  <L>139226<pc>704,1<k1>prākkośala<k2>prāk—kośala<e>3
+;   Larr n=1: (139226) 139226.1 (139227)
+; <info or="139226,prAkkoSala;139226.1,prAkkosala"/>
+468651 old <s>prāk—kośala</s> ¦ (or <s>-kosala</s>) <lex>mfn.</lex> belonging to the eastern <s1 slp1="koSala">Kośala</s1>s (as a Prince), <ls>MBh.</ls> (<ab>v.l.</ab> <s>prākoṭaka</s>). <info lex="m:f:n"/>
+;
+468651 new <s>prāk—kośala</s> ¦ (or <s>-kosala</s>) <lex>mfn.</lex> belonging to the eastern <s1 slp1="koSala">Kośala</s1>s (as a Prince), <ls>MBh.</ls> (<ab>v.l.</ab> <s>prākoṭaka</s>). <info lex="m:f:n"/><info or="139226,prAkkoSala;139226.1,prAkkosala"/>
+; insert metaline 139226.1 prākkosala
+468652 old <LEND>
+468652 ins <L>139226.1<pc>704,1<k1>prākkosala<k2>prāk-kosala<e>3
+; insert rest of lines for 139226.1 prākkosala
+468652 old <LEND>
+468652 ins <s>prāk—kośala</s> ¦ (or <s>-kosala</s>) <lex>mfn.</lex> belonging to the eastern <s1 slp1="koSala">Kośala</s1>s (as a Prince), <ls>MBh.</ls> (<ab>v.l.</ab> <s>prākoṭaka</s>). <info lex="m:f:n"/><info or="139226,prAkkoSala;139226.1,prAkkosala"/>
+468652 old <LEND>
+468652 ins <LEND>
+;
+; Case 095: L=140543, k1=priyanivedayitṛ, newk2=priyá—niveditṛ
+;  <L>140543<pc>710,2<k1>priyanivedayitṛ<k2>priyá—nivedayitṛ<e>3
+;   Larr n=1: (140543) 140543.1 (140544)
+; <info or="140543,priyanivedayitf;140543.1,priyaniveditf"/>
+473119 old <s>priyá—nivedayitṛ</s> ¦ (or <s>°ditṛ</s>) <lex>m.</lex> a messenger of <ab n="good">g°</ab> <ab n="tidings">t°</ab>, <ls>Śak.</ls><info lex="m"/>
+;
+473119 new <s>priyá—nivedayitṛ</s> ¦ (or <s>°ditṛ</s>) <lex>m.</lex> a messenger of <ab n="good">g°</ab> <ab n="tidings">t°</ab>, <ls>Śak.</ls><info lex="m"/><info or="140543,priyanivedayitf;140543.1,priyaniveditf"/>
+; insert metaline 140543.1 priyaniveditṛ
+473120 old <LEND>
+473120 ins <L>140543.1<pc>710,2<k1>priyaniveditṛ<k2>priyá—niveditṛ<e>3
+; insert rest of lines for 140543.1 priyaniveditṛ
+473120 old <LEND>
+473120 ins <s>priyá—nivedayitṛ</s> ¦ (or <s>°ditṛ</s>) <lex>m.</lex> a messenger of <ab n="good">g°</ab> <ab n="tidings">t°</ab>, <ls>Śak.</ls><info lex="m"/><info or="140543,priyanivedayitf;140543.1,priyaniveditf"/>
+473120 old <LEND>
+473120 ins <LEND>
+;
+; Case 096: L=144580, k1=bālabodha, newk2=bāla—bodha-saṃgraha
+;  <L>144580<pc>729,1<k1>bālabodha<k2>bāla—bodha<e>3
+;   Larr n=1: (144580) 144580.1 (144581)
+; <info and="144580,bAlaboDa;144580.1,bAlaboDasaMgraha"/>
+486359 old <s>bāla—bodha</s> ¦ (and <s>-saṃgraha</s>) <lex>m.</lex> <ab>N.</ab> of <ab>wks.</ab><info lex="m"/>
+;
+486359 new <s>bāla—bodha</s> ¦ (and <s>-saṃgraha</s>) <lex>m.</lex> <ab>N.</ab> of <ab>wks.</ab><info lex="m"/><info and="144580,bAlaboDa;144580.1,bAlaboDasaMgraha"/>
+; insert metaline 144580.1 bālabodhasaṃgraha
+486360 old <LEND>
+486360 ins <L>144580.1<pc>729,1<k1>bālabodhasaṃgraha<k2>bāla—bodha-saṃgraha<e>3
+; insert rest of lines for 144580.1 bālabodhasaṃgraha
+486360 old <LEND>
+486360 ins <s>bāla—bodha</s> ¦ (and <s>-saṃgraha</s>) <lex>m.</lex> <ab>N.</ab> of <ab>wks.</ab><info lex="m"/><info and="144580,bAlaboDa;144580.1,bAlaboDasaMgraha"/>
+486360 old <LEND>
+486360 ins <LEND>
+;
+; Case 097: L=145554, k1=buṅg, newk2=vuṅg
+;  <L>145554<pc>733,1<k1>buṅg<k2>buṅg<e>1
+;   Larr n=1: (145554) 145554.1 (145555)
+; <info or="145554,buNg;145554.1,vuNg"/>
+489470 old <s>buṅg</s> ¦ (or <s>vuṅg</s>) <ab>cl.</ab> 1. <ab>P.</ab> <s>buṅgati</s>, to forsake, abandon, <ls>Dhātup. v, 52.</ls><info westergaard="vugi,5.52,01.0093"/><info verb="root" cp="1P"/>
+;
+489470 new <s>buṅg</s> ¦ (or <s>vuṅg</s>) <ab>cl.</ab> 1. <ab>P.</ab> <s>buṅgati</s>, to forsake, abandon, <ls>Dhātup. v, 52.</ls><info westergaard="vugi,5.52,01.0093"/><info verb="root" cp="1P"/><info or="145554,buNg;145554.1,vuNg"/>
+; insert metaline 145554.1 vuṅg
+; Other vuṅg entry: <L>203969<pc>1007,1<k1>vuṅg<k2>vuṅg<e>1
+489471 old <LEND>
+489471 ins <L>145554.1<pc>733,1<k1>vuṅg<k2>vuṅg<e>1
+; insert rest of lines for 145554.1 vuṅg
+489471 old <LEND>
+489471 ins <s>buṅg</s> ¦ (or <s>vuṅg</s>) <ab>cl.</ab> 1. <ab>P.</ab> <s>buṅgati</s>, to forsake, abandon, <ls>Dhātup. v, 52.</ls><info westergaard="vugi,5.52,01.0093"/><info verb="root" cp="1P"/><info or="145554,buNg;145554.1,vuNg"/>
+489471 old <LEND>
+489471 ins <LEND>
+;
+; Case 098: L=146980, k1=brahmavada, newk2=brahma-vala
+;  <L>146980<pc>739,3<k1>brahmavada<k2>brahma—vada<h>a<e>3
+;   Larr n=1: (146980) 146980.1 (146981)
+; <info or="146980,brahmavada;146980.1,brahmavala"/>
+494148 old <s>brahma—vada</s> <hom>a</hom> ¦ (or <s>-vala</s>) <lex>m. <ab>pl.</ab></lex> <ab>N.</ab> of a Vedic school, <ls>L.</ls> (<ab>prob.</ab> <ab>w.r.</ab>)<info lex="m"/>
+;
+494148 new <s>brahma—vada</s> <hom>a</hom> ¦ (or <s>-vala</s>) <lex>m. <ab>pl.</ab></lex> <ab>N.</ab> of a Vedic school, <ls>L.</ls> (<ab>prob.</ab> <ab>w.r.</ab>)<info lex="m"/><info or="146980,brahmavada;146980.1,brahmavala"/>
+; insert metaline 146980.1 brahmavala
+; Other brahmavala entry: <L>146997<pc>739,3<k1>brahmavala<k2>brahma—vala<e>3
+494149 old <LEND>
+494149 ins <L>146980.1<pc>739,3<k1>brahmavala<k2>brahma-vala<e>3
+; insert rest of lines for 146980.1 brahmavala
+494149 old <LEND>
+494149 ins <s>brahma—vada</s> <hom>a</hom> ¦ (or <s>-vala</s>) <lex>m. <ab>pl.</ab></lex> <ab>N.</ab> of a Vedic school, <ls>L.</ls> (<ab>prob.</ab> <ab>w.r.</ab>)<info lex="m"/><info or="146980,brahmavada;146980.1,brahmavala"/>
+494149 old <LEND>
+494149 ins <LEND>
+;
+; Case 099: L=148923, k1=bhal, newk2=bal
+;  <L>148923<pc>748,2<k1>bhal<k2>bhal<e>1
+;   Larr n=1: (148923) 148923.1 (148924)
+; <info or="148923,Bal;148923.1,bal"/>
+500737 old <div n="to"/>to throw up (?), <ls>xxxiii, 27</ls> (<ab>cf.</ab> <s>ni-</s>, <s>nir-</s>, <s>śam-√ bhal</s>). <info westergaard="Bala,14.24,01.0324"/><info whitneyroots="Bal,109"/><info verb="root" cp="1Ā,10Ā"/>
+;
+500737 new <div n="to"/>to throw up (?), <ls>xxxiii, 27</ls> (<ab>cf.</ab> <s>ni-</s>, <s>nir-</s>, <s>śam-√ bhal</s>). <info westergaard="Bala,14.24,01.0324"/><info whitneyroots="Bal,109"/><info verb="root" cp="1Ā,10Ā"/><info or="148923,Bal;148923.1,bal"/>
+; insert metaline 148923.1 bal
+; Other bal entry: <L>143060<pc>722,2<k1>bal<k2>bal<h>1<e>1
+; Other bal entry: <L>143061<pc>722,3<k1>bal<k2>bal<h>2<e>1
+500738 old <LEND>
+500738 ins <L>148923.1<pc>748,2<k1>bal<k2>bal<e>1
+; insert rest of lines for 148923.1 bal
+500738 old <LEND>
+500738 ins <s>bhal</s> ¦ (or <s>bal</s>) <ab>cl.</ab> 1. <ab>Ā.</ab> <s>bhalate</s>, to describe or expound or hurt or give, <ls>Dhātup. xiv, 24</ls> <pb n="748,3"/>;
+500738 old <LEND>
+500738 ins <div n="to"/> <ab>cl.</ab> 10. <ab>Ā.</ab> <s>bhālayate</s>, to describe or behold;
+500738 old <LEND>
+500738 ins <div n="to"/>to throw up (?), <ls>xxxiii, 27</ls> (<ab>cf.</ab> <s>ni-</s>, <s>nir-</s>, <s>śam-√ bhal</s>). <info westergaard="Bala,14.24,01.0324"/><info whitneyroots="Bal,109"/><info verb="root" cp="1Ā,10Ā"/><info or="148923,Bal;148923.1,bal"/>
+500738 old <LEND>
+500738 ins <LEND>
+;
+; Case 100: L=149089, k1=bhavāyanā, newk2=bhavāyanī
+;  <L>149089<pc>749,2<k1>bhavāyanā<k2>bhavāyanā<e>3
+;   Larr n=1: (149089) 149089.1 (149090)
+; <info or="149089,BavAyanA;149089.1,BavAyanI"/>
+501250 old <s>bhavā<srs/>yanā</s> ¦ (or <s>°nī</s>) <lex>f.</lex> ‘coming from <s1 slp1="Siva">Śiva</s1>’, <ab>N.</ab> of the Ganges, <ls>L.</ls><info lex="f"/>
+;
+501250 new <s>bhavā<srs/>yanā</s> ¦ (or <s>°nī</s>) <lex>f.</lex> ‘coming from <s1 slp1="Siva">Śiva</s1>’, <ab>N.</ab> of the Ganges, <ls>L.</ls><info lex="f"/><info or="149089,BavAyanA;149089.1,BavAyanI"/>
+; insert metaline 149089.1 bhavāyanī
+501251 old <LEND>
+501251 ins <L>149089.1<pc>749,2<k1>bhavāyanī<k2>bhavāyanī<e>3
+; insert rest of lines for 149089.1 bhavāyanī
+501251 old <LEND>
+501251 ins <s>bhavā<srs/>yanā</s> ¦ (or <s>°nī</s>) <lex>f.</lex> ‘coming from <s1 slp1="Siva">Śiva</s1>’, <ab>N.</ab> of the Ganges, <ls>L.</ls><info lex="f"/><info or="149089,BavAyanA;149089.1,BavAyanI"/>
+501251 old <LEND>
+501251 ins <LEND>
+;
+; Case 101: L=153484, k1=bhrakuṃśa, newk2=bhra-kuṃsa,bhra-kuñca,bhra-kuṭi
+;  <L>153484<pc>769,1<k1>bhrakuṃśa<k2>bhra-kuṃśa<h>a<e>1
+;   Larr n=3: (153484) 153484.1,153484.2,153484.3 (153485)
+; <info or="153484,BrakuMSa;153484.1,BrakuMsa;153484.2,BrakuYca;153484.3,Brakuwi"/>
+515441 old <s>bhra-kuṃśa</s> <hom>a</hom> ¦ or <s>°sa</s>, <s>bhra-kuñca</s>, <s>bhrakuṭi</s> &c. See under <s>bhrū</s>, <pcol>p. 771, col. 1</pcol>.
+;
+515441 new <s>bhra-kuṃśa</s> <hom>a</hom> ¦ or <s>°sa</s>, <s>bhra-kuñca</s>, <s>bhrakuṭi</s> &c. See under <s>bhrū</s>, <pcol>p. 771, col. 1</pcol>.<info or="153484,BrakuMSa;153484.1,BrakuMsa;153484.2,BrakuYca;153484.3,Brakuwi"/>
+; insert metaline 153484.1 bhrakuṃsa
+; Other bhrakuṃsa entry: <L>153819<pc>771,1<k1>bhrakuṃsa<k2>bhra—kuṃsa<e>3
+515442 old <LEND>
+515442 ins <L>153484.1<pc>769,1<k1>bhrakuṃsa<k2>bhra-kuṃsa<e>1
+; insert rest of lines for 153484.1 bhrakuṃsa
+515442 old <LEND>
+515442 ins <s>bhra-kuṃśa</s> <hom>a</hom> ¦ or <s>°sa</s>, <s>bhra-kuñca</s>, <s>bhrakuṭi</s> &c. See under <s>bhrū</s>, <pcol>p. 771, col. 1</pcol>.<info or="153484,BrakuMSa;153484.1,BrakuMsa;153484.2,BrakuYca;153484.3,Brakuwi"/>
+515442 old <LEND>
+515442 ins <LEND>
+; insert metaline 153484.2 bhrakuñca
+; Other bhrakuñca entry: <L>153820<pc>771,1<k1>bhrakuñca<k2>bhra—kuñca<e>3
+515442 old <LEND>
+515442 ins <L>153484.2<pc>769,1<k1>bhrakuñca<k2>bhra-kuñca<e>1
+; insert rest of lines for 153484.2 bhrakuñca
+515442 old <LEND>
+515442 ins <s>bhra-kuṃśa</s> <hom>a</hom> ¦ or <s>°sa</s>, <s>bhra-kuñca</s>, <s>bhrakuṭi</s> &c. See under <s>bhrū</s>, <pcol>p. 771, col. 1</pcol>.<info or="153484,BrakuMSa;153484.1,BrakuMsa;153484.2,BrakuYca;153484.3,Brakuwi"/>
+515442 old <LEND>
+515442 ins <LEND>
+; insert metaline 153484.3 bhrakuṭi
+; Other bhrakuṭi entry: <L>153821<pc>771,1<k1>bhrakuṭi<k2>bhra—kuṭi<e>3
+515442 old <LEND>
+515442 ins <L>153484.3<pc>769,1<k1>bhrakuṭi<k2>bhra-kuṭi<e>1
+; insert rest of lines for 153484.3 bhrakuṭi
+515442 old <LEND>
+515442 ins <s>bhra-kuṃśa</s> <hom>a</hom> ¦ or <s>°sa</s>, <s>bhra-kuñca</s>, <s>bhrakuṭi</s> &c. See under <s>bhrū</s>, <pcol>p. 771, col. 1</pcol>.<info or="153484,BrakuMSa;153484.1,BrakuMsa;153484.2,BrakuYca;153484.3,Brakuwi"/>
+515442 old <LEND>
+515442 ins <LEND>
+;
+; Case 102: L=156458, k1=madhyāṅguli, newk2=madhyāṅgulī
+;  <L>156458<pc>782,1<k1>madhyāṅguli<k2>madhyāṅguli<e>3
+;   Larr n=1: (156458) 156458.1 (156459)
+; <info or="156458,maDyANguli;156458.1,maDyANgulI"/>
+525073 old <s>madhyā<srs/>ṅguli</s> ¦ (or <s>°lī</s>) <lex>f.</lex> the middle finger, <ls>L.</ls><info lex="f"/>
+;
+525073 new <s>madhyā<srs/>ṅguli</s> ¦ (or <s>°lī</s>) <lex>f.</lex> the middle finger, <ls>L.</ls><info lex="f"/><info or="156458,maDyANguli;156458.1,maDyANgulI"/>
+; insert metaline 156458.1 madhyāṅgulī
+525074 old <LEND>
+525074 ins <L>156458.1<pc>782,1<k1>madhyāṅgulī<k2>madhyāṅgulī<e>3
+; insert rest of lines for 156458.1 madhyāṅgulī
+525074 old <LEND>
+525074 ins <s>madhyā<srs/>ṅguli</s> ¦ (or <s>°lī</s>) <lex>f.</lex> the middle finger, <ls>L.</ls><info lex="f"/><info or="156458,maDyANguli;156458.1,maDyANgulI"/>
+525074 old <LEND>
+525074 ins <LEND>
+;
+; Case 103: L=159148, k1=masta, newk2=mastaka,masti
+;  <L>159148<pc>794,1<k1>masta<k2>masta<h>b<e>1
+;   Larr n=2: (159148) 159148.1,159148.2 (159149)
+; <info and="159148,masta;159148.1,mastaka;159148.2,masti"/>
+533833 old <s>masta</s> <hom>b</hom> ¦ and <s>°taka</s>, <s>masti</s> &c. See p.793.
+;
+533833 new <s>masta</s> <hom>b</hom> ¦ and <s>°taka</s>, <s>masti</s> &c. See p.793.<info and="159148,masta;159148.1,mastaka;159148.2,masti"/>
+; insert metaline 159148.1 mastaka
+; Other mastaka entry: <L>159069<pc>793,3<k1>mastaka<k2>mastaka<e>2
+; Other mastaka entry: <L>159070<pc>793,3<k1>mastaka<k2>mastaka<e>2A
+; Other mastaka entry: <L>159071<pc>793,3<k1>mastaka<k2>mastaka<e>2A
+; Other mastaka entry: <L>159072<pc>793,3<k1>mastaka<k2>mastaka<e>2A
+533834 old <LEND>
+533834 ins <L>159148.1<pc>794,1<k1>mastaka<k2>mastaka<e>1
+; insert rest of lines for 159148.1 mastaka
+533834 old <LEND>
+533834 ins <s>masta</s> <hom>b</hom> ¦ and <s>°taka</s>, <s>masti</s> &c. See p.793.<info and="159148,masta;159148.1,mastaka;159148.2,masti"/>
+533834 old <LEND>
+533834 ins <LEND>
+; insert metaline 159148.2 masti
+; Other masti entry: <L>159081<pc>793,3<k1>masti<k2>masti<e>2
+533834 old <LEND>
+533834 ins <L>159148.2<pc>794,1<k1>masti<k2>masti<e>1
+; insert rest of lines for 159148.2 masti
+533834 old <LEND>
+533834 ins <s>masta</s> <hom>b</hom> ¦ and <s>°taka</s>, <s>masti</s> &c. See p.793.<info and="159148,masta;159148.1,mastaka;159148.2,masti"/>
+533834 old <LEND>
+533834 ins <LEND>
+;
+; Case 104: L=166606, k1=mūsariḥpha, newk2=mūsariḥpha
+;  <L>166606<pc>827,2<k1>mūsariḥpha<k2>mūsariḥpha<e>1
+;   Larr n=1: (166606) 166606.1 (166607)
+; <info and="166606,mUsariHPa;166606.1,mUsariHPa"/>
+558412 old <s>mūsariḥpha</s> ¦ and <s>mūsarīpha</s> = <lang script="Arabic" n="Arabic">مُصرِف</lang> (in <ab>astrol.</ab>) <ab>N.</ab> of the fourth <s1 slp1="yoga">Yoga</s1>.
+;
+558412 new <s>mūsariḥpha</s> ¦ and <s>mūsarīpha</s> = <lang script="Arabic" n="Arabic">مُصرِف</lang> (in <ab>astrol.</ab>) <ab>N.</ab> of the fourth <s1 slp1="yoga">Yoga</s1>.<info and="166606,mUsariHPa;166606.1,mUsariHPa"/>
+; insert metaline 166606.1 mūsariḥpha
+; Other mūsariḥpha entry: <L>166606<pc>827,2<k1>mūsariḥpha<k2>mūsariḥpha<e>1
+558413 old <LEND>
+558413 ins <L>166606.1<pc>827,2<k1>mūsariḥpha<k2>mūsariḥpha<e>1
+; insert rest of lines for 166606.1 mūsariḥpha
+558413 old <LEND>
+558413 ins <s>mūsariḥpha</s> ¦ and <s>mūsarīpha</s> = <lang script="Arabic" n="Arabic">مُصرِف</lang> (in <ab>astrol.</ab>) <ab>N.</ab> of the fourth <s1 slp1="yoga">Yoga</s1>.<info and="166606,mUsariHPa;166606.1,mUsariHPa"/>
+558413 old <LEND>
+558413 ins <LEND>
+;
+; Case 105: L=166785, k1=mṛkaṇḍa, newk2=mṛkaṇḍaka
+;  <L>166785<pc>828,1<k1>mṛkaṇḍa<k2>mṛkaṇḍa<e>1
+;   Larr n=1: (166785) 166785.05 (166785.1)
+; <info and="166785,mfkaRqa;166785.05,mfkaRqaka"/>
+559007 old <s>mṛkaṇḍa</s> ¦ (and <s>°ḍaka</s>, <ls>L.</ls>) <lex>m.</lex> <ab>N.</ab> of an ancient sage, the father of <s1 slp1="mArkaRqeya">Mārkaṇḍeya</s1>, <ls>MārkP.</ls> (<ab>cf.</ab> <ls>Uṇ. i, 38 <ab>Sch.</ab></ls>)<info lex="m"/>
+;
+559007 new <s>mṛkaṇḍa</s> ¦ (and <s>°ḍaka</s>, <ls>L.</ls>) <lex>m.</lex> <ab>N.</ab> of an ancient sage, the father of <s1 slp1="mArkaRqeya">Mārkaṇḍeya</s1>, <ls>MārkP.</ls> (<ab>cf.</ab> <ls>Uṇ. i, 38 <ab>Sch.</ab></ls>)<info lex="m"/><info and="166785,mfkaRqa;166785.05,mfkaRqaka"/>
+; insert metaline 166785.05 mṛkaṇḍaka
+559008 old <LEND>
+559008 ins <L>166785.05<pc>828,1<k1>mṛkaṇḍaka<k2>mṛkaṇḍaka<e>1
+; insert rest of lines for 166785.05 mṛkaṇḍaka
+559008 old <LEND>
+559008 ins <s>mṛkaṇḍa</s> ¦ (and <s>°ḍaka</s>, <ls>L.</ls>) <lex>m.</lex> <ab>N.</ab> of an ancient sage, the father of <s1 slp1="mArkaRqeya">Mārkaṇḍeya</s1>, <ls>MārkP.</ls> (<ab>cf.</ab> <ls>Uṇ. i, 38 <ab>Sch.</ab></ls>)<info lex="m"/><info and="166785,mfkaRqa;166785.05,mfkaRqaka"/>
+559008 old <LEND>
+559008 ins <LEND>
+;
+; Case 106: L=168482, k1=moṭi, newk2=moṭī
+;  <L>168482<pc>835,3<k1>moṭi<k2>moṭi<e>1
+;   Larr n=1: (168482) 168482.1 (168483)
+; <info or="168482,mowi;168482.1,mowI"/>
+564401 old <s>moṭi</s> ¦ or <s>moṭī</s> See <s>karṇa-m°</s>.
+;
+564401 new <s>moṭi</s> ¦ or <s>moṭī</s> See <s>karṇa-m°</s>.<info or="168482,mowi;168482.1,mowI"/>
+; insert metaline 168482.1 moṭī
+564402 old <LEND>
+564402 ins <L>168482.1<pc>835,3<k1>moṭī<k2>moṭī<e>1
+; insert rest of lines for 168482.1 moṭī
+564402 old <LEND>
+564402 ins <s>moṭi</s> ¦ or <s>moṭī</s> See <s>karṇa-m°</s>.<info or="168482,mowi;168482.1,mowI"/>
+564402 old <LEND>
+564402 ins <LEND>
+;
+; Case 107: L=171722, k1=yuk, newk2=yut
+;  <L>171722<pc>853,1<k1>yuk<k2>yuk<e>1
+;   Larr n=1: (171722) 171722.1 (171723)
+; <info or="171722,yuk;171722.1,yut"/>
+575500 old <s>yuk</s> ¦ or <s>yut</s> (?) <lex>ind.</lex> badly, ill, <ls>W.</ls><info lex="ind"/>
+;
+575500 new <s>yuk</s> ¦ or <s>yut</s> (?) <lex>ind.</lex> badly, ill, <ls>W.</ls><info lex="ind"/><info or="171722,yuk;171722.1,yut"/>
+; insert metaline 171722.1 yut
+; Other yut entry: <L>171687<pc>853,1<k1>yut<k2>yut<h>1<e>2
+; Other yut entry: <L>172009<pc>854,3<k1>yut<k2>yut<h>2<e>1
+; Other yut entry: <L>172013<pc>854,3<k1>yut<k2>yut<h>a<e>2
+575501 old <LEND>
+575501 ins <L>171722.1<pc>853,1<k1>yut<k2>yut<e>1
+; insert rest of lines for 171722.1 yut
+575501 old <LEND>
+575501 ins <s>yuk</s> ¦ or <s>yut</s> (?) <lex>ind.</lex> badly, ill, <ls>W.</ls><info lex="ind"/><info or="171722,yuk;171722.1,yut"/>
+575501 old <LEND>
+575501 ins <LEND>
+;
+; Case 108: L=172131, k1=yuyudhi, newk2=yū́yudhi
+;  <L>172131<pc>855,2<k1>yuyudhi<k2>yúyudhi<e>2
+;   Larr n=1: (172131) 172131.1 (172132)
+; <info or="172131,yuyuDi;172131.1,yUyuDi"/>
+576877 old <s>yúyudhi</s> ¦ (or <s>yū́y°</s>) <lex>mfn.</lex> warlike, martial, pugnacious, <ls>RV.</ls><info lex="m:f:n"/>
+;
+576877 new <s>yúyudhi</s> ¦ (or <s>yū́y°</s>) <lex>mfn.</lex> warlike, martial, pugnacious, <ls>RV.</ls><info lex="m:f:n"/><info or="172131,yuyuDi;172131.1,yUyuDi"/>
+; insert metaline 172131.1 yūyudhi
+; Other yūyudhi entry: <L>172308<pc>856,2<k1>yūyudhi<k2>yūyudhi<e>1
+576878 old <LEND>
+576878 ins <L>172131.1<pc>855,2<k1>yūyudhi<k2>yū́yudhi<e>2
+; insert rest of lines for 172131.1 yūyudhi
+576878 old <LEND>
+576878 ins <s>yúyudhi</s> ¦ (or <s>yū́y°</s>) <lex>mfn.</lex> warlike, martial, pugnacious, <ls>RV.</ls><info lex="m:f:n"/><info or="172131,yuyuDi;172131.1,yUyuDi"/>
+576878 old <LEND>
+576878 ins <LEND>
+;
+; Case 109: L=174012, k1=rajobala, newk2=rajo—vala
+;  <L>174012<pc>863,2<k1>rajobala<k2>rajo—bala<e>3
+;   Larr n=1: (174012) 174012.1 (174013)
+; <info or="174012,rajobala;174012.1,rajovala"/>
+582932 old <s>rajo—bala</s> ¦ (or <s>-vala</s>) <lex>n.</lex> darkness, <ls>L.</ls><info lex="n"/>
+;
+582932 new <s>rajo—bala</s> ¦ (or <s>-vala</s>) <lex>n.</lex> darkness, <ls>L.</ls><info lex="n"/><info or="174012,rajobala;174012.1,rajovala"/>
+; insert metaline 174012.1 rajovala
+; Other rajovala entry: <L>174015<pc>863,2<k1>rajovala<k2>rajo—vala<e>3
+582933 old <LEND>
+582933 ins <L>174012.1<pc>863,2<k1>rajovala<k2>rajo—vala<e>3
+; insert rest of lines for 174012.1 rajovala
+582933 old <LEND>
+582933 ins <s>rajo—bala</s> ¦ (or <s>-vala</s>) <lex>n.</lex> darkness, <ls>L.</ls><info lex="n"/><info or="174012,rajobala;174012.1,rajovala"/>
+582933 old <LEND>
+582933 ins <LEND>
+;
+; Case 110: L=176161, k1=rāgaṣāḍava, newk2=rāga—ṣāḍhava
+;  <L>176161<pc>872,2<k1>rāgaṣāḍava<k2>rāga—ṣāḍava<e>3
+;   Larr n=1: (176161) 176161.1 (176162)
+; <info or="176161,rAgazAqava;176161.1,rAgazAQava"/>
+589934 old <s>rāga—ṣāḍava</s> ¦ (or <s>-ṣāḍhava</s>) <lex>m.</lex> a kind of sweetmeat or syrup compounded of grapes and pomegranates and the juice of <bot>Phaseolus Mungo</bot> (or of half ripe mango fruit with ginger, cardamoms, oil, butter &c.), <ls>R.</ls>; <ls>Suśr.</ls> (also written <s>rāga-khāḍava</s> <ab>cf.</ab> <s>rāga-khāṇḍava</s>). <info lex="m"/>
+;
+589934 new <s>rāga—ṣāḍava</s> ¦ (or <s>-ṣāḍhava</s>) <lex>m.</lex> a kind of sweetmeat or syrup compounded of grapes and pomegranates and the juice of <bot>Phaseolus Mungo</bot> (or of half ripe mango fruit with ginger, cardamoms, oil, butter &c.), <ls>R.</ls>; <ls>Suśr.</ls> (also written <s>rāga-khāḍava</s> <ab>cf.</ab> <s>rāga-khāṇḍava</s>). <info lex="m"/><info or="176161,rAgazAqava;176161.1,rAgazAQava"/>
+; insert metaline 176161.1 rāgaṣāḍhava
+589935 old <LEND>
+589935 ins <L>176161.1<pc>872,2<k1>rāgaṣāḍhava<k2>rāga—ṣāḍhava<e>3
+; insert rest of lines for 176161.1 rāgaṣāḍhava
+589935 old <LEND>
+589935 ins <s>rāga—ṣāḍava</s> ¦ (or <s>-ṣāḍhava</s>) <lex>m.</lex> a kind of sweetmeat or syrup compounded of grapes and pomegranates and the juice of <bot>Phaseolus Mungo</bot> (or of half ripe mango fruit with ginger, cardamoms, oil, butter &c.), <ls>R.</ls>; <ls>Suśr.</ls> (also written <s>rāga-khāḍava</s> <ab>cf.</ab> <s>rāga-khāṇḍava</s>). <info lex="m"/><info or="176161,rAgazAqava;176161.1,rAgazAQava"/>
+589935 old <LEND>
+589935 ins <LEND>
+;
+; Case 111: L=181334, k1=ladūṣaka, newk2=laṭūṣaka
+;  <L>181334<pc>896,1<k1>ladūṣaka<k2>ladūṣaka<e>1
+;   Larr n=1: (181334) 181334.1 (181335)
+; <info or="181334,ladUzaka;181334.1,lawUzaka"/>
+606634 old <s>ladūṣaka</s> ¦ (or <s>laṭūṣaka</s>?) <lex>m.</lex> a kind of bird, <ls>Car.</ls>; <ls>Suśr.</ls><info lex="m"/>
+;
+606634 new <s>ladūṣaka</s> ¦ (or <s>laṭūṣaka</s>?) <lex>m.</lex> a kind of bird, <ls>Car.</ls>; <ls>Suśr.</ls><info lex="m"/><info or="181334,ladUzaka;181334.1,lawUzaka"/>
+; insert metaline 181334.1 laṭūṣaka
+; Other laṭūṣaka entry: <L>181217<pc>895,3<k1>laṭūṣaka<k2>laṭūṣaka<e>1
+606635 old <LEND>
+606635 ins <L>181334.1<pc>896,1<k1>laṭūṣaka<k2>laṭūṣaka<e>1
+; insert rest of lines for 181334.1 laṭūṣaka
+606635 old <LEND>
+606635 ins <s>ladūṣaka</s> ¦ (or <s>laṭūṣaka</s>?) <lex>m.</lex> a kind of bird, <ls>Car.</ls>; <ls>Suśr.</ls><info lex="m"/><info or="181334,ladUzaka;181334.1,lawUzaka"/>
+606635 old <LEND>
+606635 ins <LEND>
+;
+; Case 112: L=185006, k1=vajravah, newk2=vájra—vā́h
+;  <L>185006<pc>913,3<k1>vajravah<k2>vájra—váh<e>3
+;   Larr n=1: (185006) 185006.1 (185007)
+; <info or="185006,vajravah;185006.1,vajravAh"/>
+618422 old <s>vájra—váh</s> ¦ (or <s>-vā́h</s>) <lex>m.</lex> wielding a <ab n="thunderbolt">th°</ab>, <ls>RV.</ls><info lex="m"/>
+;
+618422 new <s>vájra—váh</s> ¦ (or <s>-vā́h</s>) <lex>m.</lex> wielding a <ab n="thunderbolt">th°</ab>, <ls>RV.</ls><info lex="m"/><info or="185006,vajravah;185006.1,vajravAh"/>
+; insert metaline 185006.1 vajravāh
+618423 old <LEND>
+618423 ins <L>185006.1<pc>913,3<k1>vajravāh<k2>vájra—vā́h<e>3
+; insert rest of lines for 185006.1 vajravāh
+618423 old <LEND>
+618423 ins <s>vájra—váh</s> ¦ (or <s>-vā́h</s>) <lex>m.</lex> wielding a <ab n="thunderbolt">th°</ab>, <ls>RV.</ls><info lex="m"/><info or="185006,vajravah;185006.1,vajravAh"/>
+618423 old <LEND>
+618423 ins <LEND>
+;
+; Case 113: L=192651, k1=vāstuśamana, newk2=vā́stu—saṃśamana
+;  <L>192651<pc>949,1<k1>vāstuśamana<k2>vā́stu—śamana<e>3
+;   Larr n=1: (192651) 192651.1 (192652)
+; <info or="192651,vAstuSamana;192651.1,vAstusaMSamana"/>
+642963 old <s>vā́stu—śamana</s> ¦ (or <s>-saṃśamana</s>, <ls>MW.</ls>) <lex>n.</lex> the purificatory ceremony performed on laying a foundation or on entering a new house, <ls>SāmavBr.</ls><info lex="n"/>
+;
+642963 new <s>vā́stu—śamana</s> ¦ (or <s>-saṃśamana</s>, <ls>MW.</ls>) <lex>n.</lex> the purificatory ceremony performed on laying a foundation or on entering a new house, <ls>SāmavBr.</ls><info lex="n"/><info or="192651,vAstuSamana;192651.1,vAstusaMSamana"/>
+; insert metaline 192651.1 vāstusaṃśamana
+642964 old <LEND>
+642964 ins <L>192651.1<pc>949,1<k1>vāstusaṃśamana<k2>vā́stu—saṃśamana<e>3
+; insert rest of lines for 192651.1 vāstusaṃśamana
+642964 old <LEND>
+642964 ins <s>vā́stu—śamana</s> ¦ (or <s>-saṃśamana</s>, <ls>MW.</ls>) <lex>n.</lex> the purificatory ceremony performed on laying a foundation or on entering a new house, <ls>SāmavBr.</ls><info lex="n"/><info or="192651,vAstuSamana;192651.1,vAstusaMSamana"/>
+642964 old <LEND>
+642964 ins <LEND>
+;
+; Case 114: L=194430, k1=vikhra, newk2=vikhru
+;  <L>194430<pc>956,3<k1>vikhra<k2>vikhra<e>1
+;   Larr n=1: (194430) 194430.1 (194431)
+; <info or="194430,viKra;194430.1,viKru"/>
+648904 old <s>vikhra</s> ¦ or <s>vikhru</s> See <s>vikha</s> above.
+;
+648904 new <s>vikhra</s> ¦ or <s>vikhru</s> See <s>vikha</s> above.<info or="194430,viKra;194430.1,viKru"/>
+; insert metaline 194430.1 vikhru
+648905 old <LEND>
+648905 ins <L>194430.1<pc>956,3<k1>vikhru<k2>vikhru<e>1
+; insert rest of lines for 194430.1 vikhru
+648905 old <LEND>
+648905 ins <s>vikhra</s> ¦ or <s>vikhru</s> See <s>vikha</s> above.<info or="194430,viKra;194430.1,viKru"/>
+648905 old <LEND>
+648905 ins <LEND>
+;
+; Case 115: L=196420, k1=vidrai, newk2=vi-drā
+;  <L>196420<pc>967,1<k1>vidrai<k2>vi-drai<e>1
+;   Larr n=1: (196420) 196420.1 (196421)
+; <info or="196420,vidrE;196420.1,vidrA"/>
+655544 old <s>vi-√ drai</s> ¦ (or <s>drā</s>, only <ab>Ā.</ab> <ab>pr.p.</ab> <s>-drāṇa</s>), to awake from sleep, <ls>Kāṭh.</ls><info verb="pre" cp="Ā" parse="vi+drE"/>
+;
+655544 new <s>vi-√ drai</s> ¦ (or <s>drā</s>, only <ab>Ā.</ab> <ab>pr.p.</ab> <s>-drāṇa</s>), to awake from sleep, <ls>Kāṭh.</ls><info verb="pre" cp="Ā" parse="vi+drE"/><info or="196420,vidrE;196420.1,vidrA"/>
+; insert metaline 196420.1 vidrā
+655545 old <LEND>
+655545 ins <L>196420.1<pc>967,1<k1>vidrā<k2>vi-drā<e>1
+; insert rest of lines for 196420.1 vidrā
+655545 old <LEND>
+655545 ins <s>vi-√ drai</s> ¦ (or <s>drā</s>, only <ab>Ā.</ab> <ab>pr.p.</ab> <s>-drāṇa</s>), to awake from sleep, <ls>Kāṭh.</ls><info verb="pre" cp="Ā" parse="vi+drE"/><info or="196420,vidrE;196420.1,vidrA"/>
+655545 old <LEND>
+655545 ins <LEND>
+;
+; Case 116: L=196679, k1=vidhī, newk2=vi-dīdhī
+;  <L>196679<pc>968,2<k1>vidhī<k2>vi-dhī<e>1
+;   Larr n=1: (196679) 196679.1 (196680)
+; <info or="196679,viDI;196679.1,vidIDI"/>
+656413 old <s>vi-√ dhī</s> ¦ (or <s>dīdhī</s>, only <ab>Subj.</ab> <s>-dīdhayaḥ</s> and <s>-dīdhyaḥ</s>), to be uncertain, hesitate, <ls>RV.</ls>; <ls>AV.</ls><info verb="pre" cp="" parse="vi+DI"/>
+;
+656413 new <s>vi-√ dhī</s> ¦ (or <s>dīdhī</s>, only <ab>Subj.</ab> <s>-dīdhayaḥ</s> and <s>-dīdhyaḥ</s>), to be uncertain, hesitate, <ls>RV.</ls>; <ls>AV.</ls><info verb="pre" cp="" parse="vi+DI"/><info or="196679,viDI;196679.1,vidIDI"/>
+; insert metaline 196679.1 vidīdhī
+656414 old <LEND>
+656414 ins <L>196679.1<pc>968,2<k1>vidīdhī<k2>vi-dīdhī<e>1
+; insert rest of lines for 196679.1 vidīdhī
+656414 old <LEND>
+656414 ins <s>vi-√ dhī</s> ¦ (or <s>dīdhī</s>, only <ab>Subj.</ab> <s>-dīdhayaḥ</s> and <s>-dīdhyaḥ</s>), to be uncertain, hesitate, <ls>RV.</ls>; <ls>AV.</ls><info verb="pre" cp="" parse="vi+DI"/><info or="196679,viDI;196679.1,vidIDI"/>
+656414 old <LEND>
+656414 ins <LEND>
+;
+; Case 117: L=197067, k1=vinirmath, newk2=vi-nir-manth
+;  <L>197067<pc>970,3<k1>vinirmath<k2>vi-nir-math<e>1
+;   Larr n=1: (197067) 197067.1 (197068)
+; <info or="197067,vinirmaT;197067.1,vinirmanT"/>
+657717 old <div n="to"/>to crush, annihilate, <ls>Kathās.</ls><info verb="pre" cp="" parse="vi+nir+maT"/>
+;
+657717 new <div n="to"/>to crush, annihilate, <ls>Kathās.</ls><info verb="pre" cp="" parse="vi+nir+maT"/><info or="197067,vinirmaT;197067.1,vinirmanT"/>
+; insert metaline 197067.1 vinirmanth
+657718 old <LEND>
+657718 ins <L>197067.1<pc>970,3<k1>vinirmanth<k2>vi-nir-manth<e>1
+; insert rest of lines for 197067.1 vinirmanth
+657718 old <LEND>
+657718 ins <s>vi-nir-√ math</s> ¦ (or <s>manth</s>; only <ab>ind.p.</ab> <s>-mathya</s>), 
+657718 old <LEND>
+657718 ins <div n="to"/>to churn out, <ls>Suśr.</ls> <pb n="971,1"/>;
+657718 old <LEND>
+657718 ins <div n="to"/>to crush, annihilate, <ls>Kathās.</ls><info verb="pre" cp="" parse="vi+nir+maT"/><info or="197067,vinirmaT;197067.1,vinirmanT"/>
+657718 old <LEND>
+657718 ins <LEND>
+;
+; Case 118: L=198176, k1=vibṛh, newk2=vi-bṛṃh
+;  <L>198176<pc>977,1<k1>vibṛh<k2>vi-bṛh<h>b<e>1
+;   Larr n=1: (198176) 198176.1 (198177)
+; <info or="198176,vibfh;198176.1,vibfMh"/>
+661388 old <s>vi-√ bṛh</s> <hom>b</hom> ¦ (or <s>bṛṃh</s>) <ab>P.</ab> <s>-bṛhati</s> (only 1. <ab>du.</ab> <ab>Pot.</ab> <s>-bṛheva</s>), to embrace closely or passionately, <ls>RV. x, 10, 7; 8.</ls><info verb="pre" cp="P" parse="vi+bfh"/>
+;
+661388 new <s>vi-√ bṛh</s> <hom>b</hom> ¦ (or <s>bṛṃh</s>) <ab>P.</ab> <s>-bṛhati</s> (only 1. <ab>du.</ab> <ab>Pot.</ab> <s>-bṛheva</s>), to embrace closely or passionately, <ls>RV. x, 10, 7; 8.</ls><info verb="pre" cp="P" parse="vi+bfh"/><info or="198176,vibfh;198176.1,vibfMh"/>
+; insert metaline 198176.1 vibṛṃh
+661389 old <LEND>
+661389 ins <L>198176.1<pc>977,1<k1>vibṛṃh<k2>vi-bṛṃh<e>1
+; insert rest of lines for 198176.1 vibṛṃh
+661389 old <LEND>
+661389 ins <s>vi-√ bṛh</s> <hom>b</hom> ¦ (or <s>bṛṃh</s>) <ab>P.</ab> <s>-bṛhati</s> (only 1. <ab>du.</ab> <ab>Pot.</ab> <s>-bṛheva</s>), to embrace closely or passionately, <ls>RV. x, 10, 7; 8.</ls><info verb="pre" cp="P" parse="vi+bfh"/><info or="198176,vibfh;198176.1,vibfMh"/>
+661389 old <LEND>
+661389 ins <LEND>
+;
+; Case 119: L=202680, k1=viṣyandaka, newk2=vi-syandaka
+;  <L>202680<pc>1000,2<k1>viṣyandaka<k2>vi-ṣyandaka<e>3
+;   Larr n=1: (202680) 202680.1 (202681)
+; <info or="202680,vizyandaka;202680.1,visyandaka"/>
+676568 old <s>vi-°ṣyandaka</s> ¦ (or <s>°sy°</s>) <lex>m.</lex> or <lex type="hw">n.</lex> (?) <ab>N.</ab> of a place, <ls>Pañcar.</ls><info lex="m:n"/>
+;
+676568 new <s>vi-°ṣyandaka</s> ¦ (or <s>°sy°</s>) <lex>m.</lex> or <lex type="hw">n.</lex> (?) <ab>N.</ab> of a place, <ls>Pañcar.</ls><info lex="m:n"/><info or="202680,vizyandaka;202680.1,visyandaka"/>
+; insert metaline 202680.1 visyandaka
+676569 old <LEND>
+676569 ins <L>202680.1<pc>1000,2<k1>visyandaka<k2>vi-syandaka<e>3
+; insert rest of lines for 202680.1 visyandaka
+676569 old <LEND>
+676569 ins <s>vi-°ṣyandaka</s> ¦ (or <s>°sy°</s>) <lex>m.</lex> or <lex type="hw">n.</lex> (?) <ab>N.</ab> of a place, <ls>Pañcar.</ls><info lex="m:n"/><info or="202680,vizyandaka;202680.1,visyandaka"/>
+676569 old <LEND>
+676569 ins <LEND>
+;
+; Case 120: L=202880, k1=vistarakeṇa, newk2=vi-staratarakeṇa
+;  <L>202880<pc>1001,3<k1>vistarakeṇa<k2>vi-starakeṇa<e>3
+;   Larr n=1: (202880) 202880.1 (202881)
+; <info or="202880,vistarakeRa;202880.1,vistaratarakeRa"/>
+677283 old <s>vi-°starakeṇa</s> ¦ (or <s>°staratarakeṇa</s>) <lex>ind.</lex> very diffusely, at full length, <ls>Pat.</ls><info lex="ind"/>
+;
+677283 new <s>vi-°starakeṇa</s> ¦ (or <s>°staratarakeṇa</s>) <lex>ind.</lex> very diffusely, at full length, <ls>Pat.</ls><info lex="ind"/><info or="202880,vistarakeRa;202880.1,vistaratarakeRa"/>
+; insert metaline 202880.1 vistaratarakeṇa
+677284 old <LEND>
+677284 ins <L>202880.1<pc>1001,3<k1>vistaratarakeṇa<k2>vi-staratarakeṇa<e>3
+; insert rest of lines for 202880.1 vistaratarakeṇa
+677284 old <LEND>
+677284 ins <s>vi-°starakeṇa</s> ¦ (or <s>°staratarakeṇa</s>) <lex>ind.</lex> very diffusely, at full length, <ls>Pat.</ls><info lex="ind"/><info or="202880,vistarakeRa;202880.1,vistaratarakeRa"/>
+677284 old <LEND>
+677284 ins <LEND>
+;
+; Case 121: L=203219, k1=vihurch, newk2=vi-hūrch
+;  <L>203219<pc>1003,2<k1>vihurch<k2>vi-hurch<e>1
+;   Larr n=1: (203219) 203219.1 (203220)
+; <info or="203219,vihurC;203219.1,vihUrC"/>
+678412 old <div n="to"/>to stagger, totter, stumble, <ls>Kāṭh.</ls><info verb="pre" cp="P" parse="vi+hurC"/>
+;
+678412 new <div n="to"/>to stagger, totter, stumble, <ls>Kāṭh.</ls><info verb="pre" cp="P" parse="vi+hurC"/><info or="203219,vihurC;203219.1,vihUrC"/>
+; insert metaline 203219.1 vihūrch
+678413 old <LEND>
+678413 ins <L>203219.1<pc>1003,2<k1>vihūrch<k2>vi-hūrch<e>1
+; insert rest of lines for 203219.1 vihūrch
+678413 old <LEND>
+678413 ins <s>vi-√ hurch</s> ¦ (or <s>-hūrch</s>) <ab>P.</ab> <s>-hūrchati</s>, to waddle, toddle, sway from one side to another (applied to a corpulent person's gait), <ls>ŚBr.</ls>;
+678413 old <LEND>
+678413 ins <div n="to"/>to stagger, totter, stumble, <ls>Kāṭh.</ls><info verb="pre" cp="P" parse="vi+hurC"/><info or="203219,vihurC;203219.1,vihUrC"/>
+678413 old <LEND>
+678413 ins <LEND>
+;
+; Case 122: L=203391, k1=vītārci, newk2=vītārcis
+;  <L>203391<pc>1004,2<k1>vītārci<k2>vītārci<e>3
+;   Larr n=1: (203391) 203391.1 (203392)
+; <info or="203391,vItArci;203391.1,vItArcis"/>
+679017 old <s>vī<srs/>tā<srs/>rci</s> ¦ (or <s>°cis</s>) <lex>mfn.</lex> one whose flame is extinguished, <ls>ĀpŚr.</ls><info lex="m:f:n"/>
+;
+679017 new <s>vī<srs/>tā<srs/>rci</s> ¦ (or <s>°cis</s>) <lex>mfn.</lex> one whose flame is extinguished, <ls>ĀpŚr.</ls><info lex="m:f:n"/><info or="203391,vItArci;203391.1,vItArcis"/>
+; insert metaline 203391.1 vītārcis
+679018 old <LEND>
+679018 ins <L>203391.1<pc>1004,2<k1>vītārcis<k2>vītārcis<e>3
+; insert rest of lines for 203391.1 vītārcis
+679018 old <LEND>
+679018 ins <s>vī<srs/>tā<srs/>rci</s> ¦ (or <s>°cis</s>) <lex>mfn.</lex> one whose flame is extinguished, <ls>ĀpŚr.</ls><info lex="m:f:n"/><info or="203391,vItArci;203391.1,vItArcis"/>
+679018 old <LEND>
+679018 ins <LEND>
+;
+; Case 123: L=203612, k1=vīrakesarin, newk2=vīrá—keśarin
+;  <L>203612<pc>1005,3<k1>vīrakesarin<k2>vīrá—kesarin<e>3
+;   Larr n=1: (203612) 203612.1 (203613)
+; <info or="203612,vIrakesarin;203612.1,vIrakeSarin"/>
+679749 old <s>vīrá—kesarin</s> ¦ (or <s>-keś°</s>) <lex>m.</lex> <ab>N.</ab> of a king, <ls>Cat.</ls><info lex="m"/>
+;
+679749 new <s>vīrá—kesarin</s> ¦ (or <s>-keś°</s>) <lex>m.</lex> <ab>N.</ab> of a king, <ls>Cat.</ls><info lex="m"/><info or="203612,vIrakesarin;203612.1,vIrakeSarin"/>
+; insert metaline 203612.1 vīrakeśarin
+679750 old <LEND>
+679750 ins <L>203612.1<pc>1005,3<k1>vīrakeśarin<k2>vīrá—keśarin<e>3
+; insert rest of lines for 203612.1 vīrakeśarin
+679750 old <LEND>
+679750 ins <s>vīrá—kesarin</s> ¦ (or <s>-keś°</s>) <lex>m.</lex> <ab>N.</ab> of a king, <ls>Cat.</ls><info lex="m"/><info or="203612,vIrakesarin;203612.1,vIrakeSarin"/>
+679750 old <LEND>
+679750 ins <LEND>
+;
+; Case 124: L=203739.1, k1=vīraravivarman, newk2=vīra—rāja-varman
+;  <L>203739.1<pc>1332,2<k1>vīraravivarman<k2>vīra—ravi-varman<e>3
+;   Larr n=1: (203739.1) 203739.2 (203740)
+; <info and="203739.1,vIraravivarman;203739.2,vIrarAjavarman"/>
+680169 old <s>vīra—ravi-varman</s> ¦ and <s>-rāja-varman</s>, <lex>m.</lex> <ab>N.</ab> of various kings, <ls>Inscr.</ls><info n="sup"/><info lex="m"/>
+;
+680169 new <s>vīra—ravi-varman</s> ¦ and <s>-rāja-varman</s>, <lex>m.</lex> <ab>N.</ab> of various kings, <ls>Inscr.</ls><info n="sup"/><info lex="m"/><info and="203739.1,vIraravivarman;203739.2,vIrarAjavarman"/>
+; insert metaline 203739.2 vīrarājavarman
+680170 old <LEND>
+680170 ins <L>203739.2<pc>1332,2<k1>vīrarājavarman<k2>vīra—rāja-varman<e>3
+; insert rest of lines for 203739.2 vīrarājavarman
+680170 old <LEND>
+680170 ins <s>vīra—ravi-varman</s> ¦ and <s>-rāja-varman</s>, <lex>m.</lex> <ab>N.</ab> of various kings, <ls>Inscr.</ls><info n="sup"/><info lex="m"/><info and="203739.1,vIraravivarman;203739.2,vIrarAjavarman"/>
+680170 old <LEND>
+680170 ins <LEND>
+;
+; Case 125: L=206779, k1=vaijaladeva, newk2=vaijala-bhūpati
+;  <L>206779<pc>1021,1<k1>vaijaladeva<k2>vaijala-deva<e>1
+;   Larr n=1: (206779) 206779.1 (206780)
+; <info or="206779,vEjaladeva;206779.1,vEjalaBUpati"/>
+690194 old <s>vaijala-deva</s> ¦ or <s>°la-bhūpati</s> See <s>baijala-deva</s>.
+;
+690194 new <s>vaijala-deva</s> ¦ or <s>°la-bhūpati</s> See <s>baijala-deva</s>.<info or="206779,vEjaladeva;206779.1,vEjalaBUpati"/>
+; insert metaline 206779.1 vaijalabhūpati
+690195 old <LEND>
+690195 ins <L>206779.1<pc>1021,1<k1>vaijalabhūpati<k2>vaijala-bhūpati<e>1
+; insert rest of lines for 206779.1 vaijalabhūpati
+690195 old <LEND>
+690195 ins <s>vaijala-deva</s> ¦ or <s>°la-bhūpati</s> See <s>baijala-deva</s>.<info or="206779,vEjaladeva;206779.1,vEjalaBUpati"/>
+690195 old <LEND>
+690195 ins <LEND>
+;
+; Case 126: L=208959, k1=vyavadā, newk2=vy-ava-do
+;  <L>208959<pc>1033,1<k1>vyavadā<k2>vy-ava-dā<e>1
+;   Larr n=1: (208959) 208959.1 (208960)
+; <info or="208959,vyavadA;208959.1,vyavado"/>
+697136 old <s>vy-ava-√ dā</s> ¦ (or <s>do</s>; only <ab>ind.p.</ab> <s>-dayā</s>), to cut in two, divide, <ls>Kauś.</ls><info verb="pre" cp="" parse="vi+ava+dA"/>
+;
+697136 new <s>vy-ava-√ dā</s> ¦ (or <s>do</s>; only <ab>ind.p.</ab> <s>-dayā</s>), to cut in two, divide, <ls>Kauś.</ls><info verb="pre" cp="" parse="vi+ava+dA"/><info or="208959,vyavadA;208959.1,vyavado"/>
+; insert metaline 208959.1 vyavado
+697137 old <LEND>
+697137 ins <L>208959.1<pc>1033,1<k1>vyavado<k2>vy-ava-do<e>1
+; insert rest of lines for 208959.1 vyavado
+697137 old <LEND>
+697137 ins <s>vy-ava-√ dā</s> ¦ (or <s>do</s>; only <ab>ind.p.</ab> <s>-dayā</s>), to cut in two, divide, <ls>Kauś.</ls><info verb="pre" cp="" parse="vi+ava+dA"/><info or="208959,vyavadA;208959.1,vyavado"/>
+697137 old <LEND>
+697137 ins <LEND>
+;
+; Case 127: L=215107, k1=śāḍbala, newk2=śāḍvala
+;  <L>215107<pc>1063,2<k1>śāḍbala<k2>śāḍbala<e>1
+;   Larr n=1: (215107) 215107.1 (215108)
+; <info or="215107,SAqbala;215107.1,SAqvala"/>
+717039 old <s>śāḍbala</s> ¦ or <s>śāḍvala</s> See <s>śādvala</s>.
+;
+717039 new <s>śāḍbala</s> ¦ or <s>śāḍvala</s> See <s>śādvala</s>.<info or="215107,SAqbala;215107.1,SAqvala"/>
+; insert metaline 215107.1 śāḍvala
+717040 old <LEND>
+717040 ins <L>215107.1<pc>1063,2<k1>śāḍvala<k2>śāḍvala<e>1
+; insert rest of lines for 215107.1 śāḍvala
+717040 old <LEND>
+717040 ins <s>śāḍbala</s> ¦ or <s>śāḍvala</s> See <s>śādvala</s>.<info or="215107,SAqbala;215107.1,SAqvala"/>
+717040 old <LEND>
+717040 ins <LEND>
+;
+; Case 128: L=224357, k1=śvart, newk2=svart
+;  <L>224357<pc>1105,3<k1>śvart<k2>śvart<e>1
+;   Larr n=1: (224357) 224357.1 (224358)
+; <info or="224357,Svart;224357.1,svart"/>
+746381 old <s>śvart</s> ¦ (or <s>svart</s>) = or for √ <s>śvabhr</s> (<ab>accord.</ab> to some authorities in <ls>Dhātup. xxxii, 79</ls>). <info westergaard="Svarta,32.79,10.0074"/><info verb="root" cp="0"/>
+;
+746381 new <s>śvart</s> ¦ (or <s>svart</s>) = or for √ <s>śvabhr</s> (<ab>accord.</ab> to some authorities in <ls>Dhātup. xxxii, 79</ls>). <info westergaard="Svarta,32.79,10.0074"/><info verb="root" cp="0"/><info or="224357,Svart;224357.1,svart"/>
+; insert metaline 224357.1 svart
+; Other svart entry: <L>259408<pc>1282,2<k1>svart<k2>svart<e>1
+746382 old <LEND>
+746382 ins <L>224357.1<pc>1105,3<k1>svart<k2>svart<e>1
+; insert rest of lines for 224357.1 svart
+746382 old <LEND>
+746382 ins <s>śvart</s> ¦ (or <s>svart</s>) = or for √ <s>śvabhr</s> (<ab>accord.</ab> to some authorities in <ls>Dhātup. xxxii, 79</ls>). <info westergaard="Svarta,32.79,10.0074"/><info verb="root" cp="0"/><info or="224357,Svart;224357.1,svart"/>
+746382 old <LEND>
+746382 ins <LEND>
+;
+; Case 129: L=225123, k1=ṣaḍaha, newk2=ṣałahá
+;  <L>225123<pc>1109,1<k1>ṣaḍaha<k2>ṣaḍ—ahá<e>3
+;   Larr n=1: (225123) 225123.1 (225124)
+; <info or="225123,zaqaha;225123.1,zaLaha"/>
+748997 old <s>ṣaḍ—ahá</s> ¦ (or <s>ṣałahá</s>) <lex>m.</lex> a period of six days, <ab>esp.</ab> a <s1 slp1="soma">Soma</s1> festival of six days, <ls>TS.</ls>; <ls>AV.</ls>; <ls>Br.</ls> &c.<info lex="m"/>
+;
+748997 new <s>ṣaḍ—ahá</s> ¦ (or <s>ṣałahá</s>) <lex>m.</lex> a period of six days, <ab>esp.</ab> a <s1 slp1="soma">Soma</s1> festival of six days, <ls>TS.</ls>; <ls>AV.</ls>; <ls>Br.</ls> &c.<info lex="m"/><info or="225123,zaqaha;225123.1,zaLaha"/>
+; insert metaline 225123.1 ṣałaha
+748998 old <LEND>
+748998 ins <L>225123.1<pc>1109,1<k1>ṣałaha<k2>ṣałahá<e>3
+; insert rest of lines for 225123.1 ṣałaha
+748998 old <LEND>
+748998 ins <s>ṣaḍ—ahá</s> ¦ (or <s>ṣałahá</s>) <lex>m.</lex> a period of six days, <ab>esp.</ab> a <s1 slp1="soma">Soma</s1> festival of six days, <ls>TS.</ls>; <ls>AV.</ls>; <ls>Br.</ls> &c.<info lex="m"/><info or="225123,zaqaha;225123.1,zaLaha"/>
+748998 old <LEND>
+748998 ins <LEND>
+;
+; Case 130: L=225549, k1=ṣāhavilāsa, newk2=ṣahji-vilāsa
+;  <L>225549<pc>1111,1<k1>ṣāhavilāsa<k2>ṣāha-vilāsa<e>1
+;   Larr n=1: (225549) 225549.1 (225550)
+; <info or="225549,zAhavilAsa;225549.1,zahjivilAsa"/>
+750375 old <s>ṣāha-vilāsa</s> ¦ (or <s>ṣahji-v°</s>) <lex>m.</lex> <ab>N.</ab> of a musical work by <s1 slp1="DuRqivyAsa">Dhuṇḍi-vyāsa</s1>.<info lex="m"/>
+;
+750375 new <s>ṣāha-vilāsa</s> ¦ (or <s>ṣahji-v°</s>) <lex>m.</lex> <ab>N.</ab> of a musical work by <s1 slp1="DuRqivyAsa">Dhuṇḍi-vyāsa</s1>.<info lex="m"/><info or="225549,zAhavilAsa;225549.1,zahjivilAsa"/>
+; insert metaline 225549.1 ṣahjivilāsa
+750376 old <LEND>
+750376 ins <L>225549.1<pc>1111,1<k1>ṣahjivilāsa<k2>ṣahji-vilāsa<e>1
+; insert rest of lines for 225549.1 ṣahjivilāsa
+750376 old <LEND>
+750376 ins <s>ṣāha-vilāsa</s> ¦ (or <s>ṣahji-v°</s>) <lex>m.</lex> <ab>N.</ab> of a musical work by <s1 slp1="DuRqivyAsa">Dhuṇḍi-vyāsa</s1>.<info lex="m"/><info or="225549,zAhavilAsa;225549.1,zahjivilAsa"/>
+750376 old <LEND>
+750376 ins <LEND>
+;
+; Case 131: L=228458, k1=saṃga, newk2=saṅga
+;  <L>228458<pc>1128,2<k1>saṃga<k2>saṃ-ga<h>a<e>1
+;   Larr n=1: (228458) 228458.1 (228459)
+; <info and="228458,saMga;228458.1,saNga"/>
+760190 old <s>saṃ-ga</s> <hom>a</hom> ¦ and <s>saṅga</s> See below and √ <s>sañj</s>.
+;
+760190 new <s>saṃ-ga</s> <hom>a</hom> ¦ and <s>saṅga</s> See below and √ <s>sañj</s>.<info and="228458,saMga;228458.1,saNga"/>
+; insert metaline 228458.1 saṅga
+; Other saṅga entry: <L>229249<pc>1132,3<k1>saṅga<k2>saṅga<e>2
+; Other saṅga entry: <L>229250<pc>1132,3<k1>saṅga<k2>saṅga<e>2A
+; Other saṅga entry: <L>229251<pc>1132,3<k1>saṅga<k2>saṅga<e>2A
+; Other saṅga entry: <L>229252<pc>1132,3<k1>saṅga<k2>saṅga<e>2A
+760191 old <LEND>
+760191 ins <L>228458.1<pc>1128,2<k1>saṅga<k2>saṅga<e>1
+; insert rest of lines for 228458.1 saṅga
+760191 old <LEND>
+760191 ins <s>saṃ-ga</s> <hom>a</hom> ¦ and <s>saṅga</s> See below and √ <s>sañj</s>.<info and="228458,saMga;228458.1,saNga"/>
+760191 old <LEND>
+760191 ins <LEND>
+;
+; Case 132: L=229209, k1=saṃchad, newk2=saṃ-chand
+;  <L>229209<pc>1132,2<k1>saṃchad<k2>saṃ-chad<h>b<e>1
+;   Larr n=1: (229209) 229209.1 (229210)
+; <info or="229209,saMCad;229209.1,saMCand"/>
+762781 old <hom>b.</hom> <s>saṃ-</s>√ <hom>2.</hom> <s>chad</s> ¦ (or <s>chand</s>), Caus. <s>-chandayati</s> (only <ab>ind.p.</ab> <s>-chandya</s>), to present, offer (with <ab>acc.</ab> of <ab>pers.</ab> and <ab>instr.</ab> of thing), <ls>MBh.</ls><info verb="pre" cp="" parse="sam+Cad"/>
+;
+762781 new <hom>b.</hom> <s>saṃ-</s>√ <hom>2.</hom> <s>chad</s> ¦ (or <s>chand</s>), Caus. <s>-chandayati</s> (only <ab>ind.p.</ab> <s>-chandya</s>), to present, offer (with <ab>acc.</ab> of <ab>pers.</ab> and <ab>instr.</ab> of thing), <ls>MBh.</ls><info verb="pre" cp="" parse="sam+Cad"/><info or="229209,saMCad;229209.1,saMCand"/>
+; insert metaline 229209.1 saṃchand
+762782 old <LEND>
+762782 ins <L>229209.1<pc>1132,2<k1>saṃchand<k2>saṃ-chand<e>1
+; insert rest of lines for 229209.1 saṃchand
+762782 old <LEND>
+762782 ins <hom>b.</hom> <s>saṃ-</s>√ <hom>2.</hom> <s>chad</s> ¦ (or <s>chand</s>), Caus. <s>-chandayati</s> (only <ab>ind.p.</ab> <s>-chandya</s>), to present, offer (with <ab>acc.</ab> of <ab>pers.</ab> and <ab>instr.</ab> of thing), <ls>MBh.</ls><info verb="pre" cp="" parse="sam+Cad"/><info or="229209,saMCad;229209.1,saMCand"/>
+762782 old <LEND>
+762782 ins <LEND>
+;
+; Case 133: L=230493, k1=satrāsaha, newk2=sa-trā́—sāhá
+;  <L>230493<pc>1138,2<k1>satrāsaha<k2>sa-trā́—sahá<e>3
+;   Larr n=1: (230493) 230493.1 (230494)
+; <info or="230493,satrAsaha;230493.1,satrAsAha"/>
+767177 old <s>sa-trā́—sahá</s> ¦ (or <s>-sāhá</s>) <lex>mfn.</lex> always overcoming or conquering, irresistible, <ls>RV. ii, 21, 3.</ls><info lex="m:f:n"/>
+;
+767177 new <s>sa-trā́—sahá</s> ¦ (or <s>-sāhá</s>) <lex>mfn.</lex> always overcoming or conquering, irresistible, <ls>RV. ii, 21, 3.</ls><info lex="m:f:n"/><info or="230493,satrAsaha;230493.1,satrAsAha"/>
+; insert metaline 230493.1 satrāsāha
+767178 old <LEND>
+767178 ins <L>230493.1<pc>1138,2<k1>satrāsāha<k2>sa-trā́—sāhá<e>3
+; insert rest of lines for 230493.1 satrāsāha
+767178 old <LEND>
+767178 ins <s>sa-trā́—sahá</s> ¦ (or <s>-sāhá</s>) <lex>mfn.</lex> always overcoming or conquering, irresistible, <ls>RV. ii, 21, 3.</ls><info lex="m:f:n"/><info or="230493,satrAsaha;230493.1,satrAsAha"/>
+767178 old <LEND>
+767178 ins <LEND>
+;
+; Case 134: L=236834, k1=sambṛh, newk2=sam-vṛh
+;  <L>236834<pc>1178,1<k1>sambṛh<k2>sam-bṛh<h>a<e>1
+;   Larr n=1: (236834) 236834.1 (236835)
+; <info or="236834,sambfh;236834.1,samvfh"/>
+788525 old <hom>a.</hom> <s>sam-</s>√ <hom>1.</hom> <s>bṛh</s> ¦ (or <s>vṛh</s>) <ab>P.</ab> <s>-bṛhati</s> (<ab>pf.</ab> <s>-babraha</s>, or <s>-vavarha</s>), to tear out together, pluck out, extract, <ls>AV.</ls>; <ls>ŚBr.</ls><info verb="pre" cp="P" parse="sam+bfh"/>
+;
+788525 new <hom>a.</hom> <s>sam-</s>√ <hom>1.</hom> <s>bṛh</s> ¦ (or <s>vṛh</s>) <ab>P.</ab> <s>-bṛhati</s> (<ab>pf.</ab> <s>-babraha</s>, or <s>-vavarha</s>), to tear out together, pluck out, extract, <ls>AV.</ls>; <ls>ŚBr.</ls><info verb="pre" cp="P" parse="sam+bfh"/><info or="236834,sambfh;236834.1,samvfh"/>
+; insert metaline 236834.1 samvṛh
+788526 old <LEND>
+788526 ins <L>236834.1<pc>1178,1<k1>samvṛh<k2>sam-vṛh<e>1
+; insert rest of lines for 236834.1 samvṛh
+788526 old <LEND>
+788526 ins <hom>a.</hom> <s>sam-</s>√ <hom>1.</hom> <s>bṛh</s> ¦ (or <s>vṛh</s>) <ab>P.</ab> <s>-bṛhati</s> (<ab>pf.</ab> <s>-babraha</s>, or <s>-vavarha</s>), to tear out together, pluck out, extract, <ls>AV.</ls>; <ls>ŚBr.</ls><info verb="pre" cp="P" parse="sam+bfh"/><info or="236834,sambfh;236834.1,samvfh"/>
+788526 old <LEND>
+788526 ins <LEND>
+;
+; Case 135: L=237167, k1=sammikṣ, newk2=sam-mimikṣ
+;  <L>237167<pc>1180,2<k1>sammikṣ<k2>sam-mikṣ<e>1
+;   Larr n=1: (237167) 237167.1 (237168)
+; <info or="237167,sammikz;237167.1,sammimikz"/>
+789704 old <div n="to"/>to prepare (an oblation), <ls>ib. viii, 10, 2.</ls><info verb="pre" cp="" parse="sam+mikz"/>
+;
+789704 new <div n="to"/>to prepare (an oblation), <ls>ib. viii, 10, 2.</ls><info verb="pre" cp="" parse="sam+mikz"/><info or="237167,sammikz;237167.1,sammimikz"/>
+; insert metaline 237167.1 sammimikṣ
+789705 old <LEND>
+789705 ins <L>237167.1<pc>1180,2<k1>sammimikṣ<k2>sam-mimikṣ<e>1
+; insert rest of lines for 237167.1 sammimikṣ
+789705 old <LEND>
+789705 ins <s>sam-</s>√ <hom>1.</hom> <s>mikṣ</s> ¦ (or <s>-mimikṣ</s>; <ab>cf.</ab> √ <hom>1.</hom> <s>miksk</s>; only <ab>Impv.</ab> <s>-mimikṣvā́</s> and 2. du. <ab>pf.</ab> <s>-mimikṣáthuḥ</s>, but <ab>accord.</ab> to some referable to <s>sam-</s> √ <hom>1.</hom> <s>mih</s> <ab>q.v.</ab>), 
+789705 old <LEND>
+789705 ins <div n="to"/>to mix with, furnish or endow with (<ab>instr.</ab>), <ls>RV. i, 48, 16</ls>;
+789705 old <LEND>
+789705 ins <div n="to"/>to prepare (an oblation), <ls>ib. viii, 10, 2.</ls><info verb="pre" cp="" parse="sam+mikz"/><info or="237167,sammikz;237167.1,sammimikz"/>
+789705 old <LEND>
+789705 ins <LEND>
+;
+; Case 136: L=245949, k1=sukhaṃsuṇa, newk2=sukhaṃghuṇa
+;  <L>245949<pc>1222,2<k1>sukhaṃsuṇa<k2>sukhaṃsuṇa<e>1
+;   Larr n=1: (245949) 245949.1 (245950)
+; <info or="245949,suKaMsuRa;245949.1,suKaMGuRa"/>
+818571 old <s>sukhaṃsuṇa</s> ¦ or <s>sukhaṃghuṇa</s> (?) <lex>m.</lex> a kind of staff with a skull at the top considered as a weapon of <s1 slp1="Siva">Śiva</s1> (= <s>khaṭvā<srs/>ṅga</s> <ab>q.v.</ab>), <ls>L.</ls><info lex="m"/>
+;
+818571 new <s>sukhaṃsuṇa</s> ¦ or <s>sukhaṃghuṇa</s> (?) <lex>m.</lex> a kind of staff with a skull at the top considered as a weapon of <s1 slp1="Siva">Śiva</s1> (= <s>khaṭvā<srs/>ṅga</s> <ab>q.v.</ab>), <ls>L.</ls><info lex="m"/><info or="245949,suKaMsuRa;245949.1,suKaMGuRa"/>
+; insert metaline 245949.1 sukhaṃghuṇa
+818572 old <LEND>
+818572 ins <L>245949.1<pc>1222,2<k1>sukhaṃghuṇa<k2>sukhaṃghuṇa<e>1
+; insert rest of lines for 245949.1 sukhaṃghuṇa
+818572 old <LEND>
+818572 ins <s>sukhaṃsuṇa</s> ¦ or <s>sukhaṃghuṇa</s> (?) <lex>m.</lex> a kind of staff with a skull at the top considered as a weapon of <s1 slp1="Siva">Śiva</s1> (= <s>khaṭvā<srs/>ṅga</s> <ab>q.v.</ab>), <ls>L.</ls><info lex="m"/><info or="245949,suKaMsuRa;245949.1,suKaMGuRa"/>
+818572 old <LEND>
+818572 ins <LEND>
+;
+; Case 137: L=250220, k1=suṣaha, newk2=su—ṣā́ha
+;  <L>250220<pc>1237,3<k1>suṣaha<k2>su—ṣáha<e>3
+;   Larr n=1: (250220) 250220.1 (250221)
+; <info or="250220,suzaha;250220.1,suzAha"/>
+832428 old <s>su—ṣáha</s> ¦ (or <s>-ṣā́ha</s>) <lex>mfn.</lex> easily subdued or conquered, <ls>RV.</ls><info lex="m:f:n"/>
+;
+832428 new <s>su—ṣáha</s> ¦ (or <s>-ṣā́ha</s>) <lex>mfn.</lex> easily subdued or conquered, <ls>RV.</ls><info lex="m:f:n"/><info or="250220,suzaha;250220.1,suzAha"/>
+; insert metaline 250220.1 suṣāha
+; Other suṣāha entry: <L>250227<pc>1237,3<k1>suṣāha<k2>su—ṣā́ha<e>3
+832429 old <LEND>
+832429 ins <L>250220.1<pc>1237,3<k1>suṣāha<k2>su—ṣā́ha<e>3
+; insert rest of lines for 250220.1 suṣāha
+832429 old <LEND>
+832429 ins <s>su—ṣáha</s> ¦ (or <s>-ṣā́ha</s>) <lex>mfn.</lex> easily subdued or conquered, <ls>RV.</ls><info lex="m:f:n"/><info or="250220,suzaha;250220.1,suzAha"/>
+832429 old <LEND>
+832429 ins <LEND>
+;
+; Case 138: L=252518, k1=saivālina, newk2=śaivālina
+;  <L>252518<pc>1248,2<k1>saivālina<k2>saivālina<e>1
+;   Larr n=1: (252518) 252518.1 (252519)
+; <info or="252518,sEvAlina;252518.1,SEvAlina"/>
+839843 old <s>saivālina</s> ¦ (or <s>śaiv°</s>) <lex>mfn.</lex> (<ab>fr.</ab> <s>sevālin</s>, or <s>śev°</s>) <ab>g.</ab> <s>suvāstv-ādi</s> (<ab>v.l.</ab> <s>saicālina</s>). <info lex="m:f:n"/>
+;
+839843 new <s>saivālina</s> ¦ (or <s>śaiv°</s>) <lex>mfn.</lex> (<ab>fr.</ab> <s>sevālin</s>, or <s>śev°</s>) <ab>g.</ab> <s>suvāstv-ādi</s> (<ab>v.l.</ab> <s>saicālina</s>). <info lex="m:f:n"/><info or="252518,sEvAlina;252518.1,SEvAlina"/>
+; insert metaline 252518.1 śaivālina
+839844 old <LEND>
+839844 ins <L>252518.1<pc>1248,2<k1>śaivālina<k2>śaivālina<e>1
+; insert rest of lines for 252518.1 śaivālina
+839844 old <LEND>
+839844 ins <s>saivālina</s> ¦ (or <s>śaiv°</s>) <lex>mfn.</lex> (<ab>fr.</ab> <s>sevālin</s>, or <s>śev°</s>) <ab>g.</ab> <s>suvāstv-ādi</s> (<ab>v.l.</ab> <s>saicālina</s>). <info lex="m:f:n"/><info or="252518,sEvAlina;252518.1,SEvAlina"/>
+839844 old <LEND>
+839844 ins <LEND>
+;
+; Case 139: L=256207, k1=snā, newk2=ṣṇā
+;  <L>256207<pc>1266,3<k1>snā<k2>snā<h>2<e>2
+;   Larr n=1: (256207) 256207.1 (256208)
+; <info or="256207,snA;256207.1,zRA"/>
+851661 old <hom>2.</hom> <s>snā</s> ¦ (or <s>ṣṇā</s>) <lex>mfn.</lex> bathing, bathed or immersed in (<ab>cf.</ab> <s>ghṛta-</s>, <s>su-snā</s> &c.)<info lex="m:f:n"/>
+;
+851661 new <hom>2.</hom> <s>snā</s> ¦ (or <s>ṣṇā</s>) <lex>mfn.</lex> bathing, bathed or immersed in (<ab>cf.</ab> <s>ghṛta-</s>, <s>su-snā</s> &c.)<info lex="m:f:n"/><info or="256207,snA;256207.1,zRA"/>
+; insert metaline 256207.1 ṣṇā
+851662 old <LEND>
+851662 ins <L>256207.1<pc>1266,3<k1>ṣṇā<k2>ṣṇā<e>2
+; insert rest of lines for 256207.1 ṣṇā
+851662 old <LEND>
+851662 ins <hom>2.</hom> <s>snā</s> ¦ (or <s>ṣṇā</s>) <lex>mfn.</lex> bathing, bathed or immersed in (<ab>cf.</ab> <s>ghṛta-</s>, <s>su-snā</s> &c.)<info lex="m:f:n"/><info or="256207,snA;256207.1,zRA"/>
+851662 old <LEND>
+851662 ins <LEND>
+;
+; Case 140: L=259517, k1=svastivah, newk2=sv-astí—vāh
+;  <L>259517<pc>1283,1<k1>svastivah<k2>sv-astí—vah<e>3
+;   Larr n=1: (259517) 259517.1 (259518)
+; <info or="259517,svastivah;259517.1,svastivAh"/>
+862436 old <s>sv-astí—vah</s> ¦ (or <s>-vāh</s>) <lex>mfn.</lex> carrying auspiciously (as a carriage; others, ‘conferring happiness’), <ls>RV.</ls><info lex="m:f:n"/>
+;
+862436 new <s>sv-astí—vah</s> ¦ (or <s>-vāh</s>) <lex>mfn.</lex> carrying auspiciously (as a carriage; others, ‘conferring happiness’), <ls>RV.</ls><info lex="m:f:n"/><info or="259517,svastivah;259517.1,svastivAh"/>
+; insert metaline 259517.1 svastivāh
+862437 old <LEND>
+862437 ins <L>259517.1<pc>1283,1<k1>svastivāh<k2>sv-astí—vāh<e>3
+; insert rest of lines for 259517.1 svastivāh
+862437 old <LEND>
+862437 ins <s>sv-astí—vah</s> ¦ (or <s>-vāh</s>) <lex>mfn.</lex> carrying auspiciously (as a carriage; others, ‘conferring happiness’), <ls>RV.</ls><info lex="m:f:n"/><info or="259517,svastivah;259517.1,svastivAh"/>
+862437 old <LEND>
+862437 ins <LEND>
+;
+; Case 141: L=261877, k1=haluāṇa, newk2=halūāṇa
+;  <L>261877<pc>1293,2<k1>haluāṇa<k2>haluāṇa<e>1
+;   Larr n=1: (261877) 261877.1 (261878)
+; <info or="261877,haluARa;261877.1,halUARa"/>
+870069 old <s>haluāṇa</s> ¦ or <s>halūāṇa</s> <ab>N.</ab> of a place, <ls>Cat.</ls>
+;
+870069 new <s>haluāṇa</s> ¦ or <s>halūāṇa</s> <ab>N.</ab> of a place, <ls>Cat.</ls><info or="261877,haluARa;261877.1,halUARa"/>
+; insert metaline 261877.1 halūāṇa
+870070 old <LEND>
+870070 ins <L>261877.1<pc>1293,2<k1>halūāṇa<k2>halūāṇa<e>1
+; insert rest of lines for 261877.1 halūāṇa
+870070 old <LEND>
+870070 ins <s>haluāṇa</s> ¦ or <s>halūāṇa</s> <ab>N.</ab> of a place, <ls>Cat.</ls><info or="261877,haluARa;261877.1,halUARa"/>
+870070 old <LEND>
+870070 ins <LEND>
+;
+; Case 142: L=264507, k1=hotravah, newk2=hotrá—vā́h
+;  <L>264507<pc>1306,1<k1>hotravah<k2>hotrá—váh<e>3
+;   Larr n=1: (264507) 264507.1 (264508)
+; <info or="264507,hotravah;264507.1,hotravAh"/>
+878669 old <s>hotrá—váh</s> ¦ (or <s>-vā́h</s>) <lex>mfn.</lex> bearing the sacrifice, <ls>RV.</ls><info lex="m:f:n"/>
+;
+878669 new <s>hotrá—váh</s> ¦ (or <s>-vā́h</s>) <lex>mfn.</lex> bearing the sacrifice, <ls>RV.</ls><info lex="m:f:n"/><info or="264507,hotravah;264507.1,hotravAh"/>
+; insert metaline 264507.1 hotravāh
+878670 old <LEND>
+878670 ins <L>264507.1<pc>1306,1<k1>hotravāh<k2>hotrá—vā́h<e>3
+; insert rest of lines for 264507.1 hotravāh
+878670 old <LEND>
+878670 ins <s>hotrá—váh</s> ¦ (or <s>-vā́h</s>) <lex>mfn.</lex> bearing the sacrifice, <ls>RV.</ls><info lex="m:f:n"/><info or="264507,hotravah;264507.1,hotravAh"/>
+878670 old <LEND>
+878670 ins <LEND>
+;
+; -----  second batch of inserts
+;
+; Case 001: L=4649, k1=ādhyātmika, newk2=adhyātmika
+;  <L>4649<pc>23,2<k1>ādhyātmika<k2>ādhyātmika<h>a<e>2
+;   Larr n=1: (4649) 4649.1 (4650)
+; <info or="4649,ADyAtmika;4649.1,aDyAtmika"/>
+17046 old <s>ādhyātmika</s> <hom>a</hom> ¦ or <s>adhyātmika</s>, <lex>mf(<s>ī</s>)n.</lex> relating to the soul or the Supreme Spirit.<info lex="m:f#I:n"/>
+;
+17046 new <s>ādhyātmika</s> <hom>a</hom> ¦ or <s>adhyātmika</s>, <lex>mf(<s>ī</s>)n.</lex> relating to the soul or the Supreme Spirit.<info lex="m:f#I:n"/><info or="4649,ADyAtmika;4649.1,aDyAtmika"/>
+; insert metaline 4649.1 adhyātmika
+; Other entry adhyātmika : <L>4648<pc>23,2<k1>adhyātmika<k2>adhy-ātmika<e>2
+17047 old <LEND>
+17047 ins <L>4649.1<pc>23,2<k1>adhyātmika<k2>adhyātmika<e>2
+; insert rest of lines for 4649.1 adhyātmika
+17047 old <LEND>
+17047 ins <s>ādhyātmika</s> <hom>a</hom> ¦ or <s>adhyātmika</s>, <lex>mf(<s>ī</s>)n.</lex> relating to the soul or the Supreme Spirit.<info lex="m:f#I:n"/><info or="4649,ADyAtmika;4649.1,aDyAtmika"/>
+17047 old <LEND>
+17047 ins <LEND>
+;
+; Case 002: L=11688, k1=abhinisyand, newk2=abhi-ni-ṣyand
+;  <L>11688<pc>64,3<k1>abhinisyand<k2>abhi-ni-syand<e>1
+;   Larr n=1: (11688) 11688.1 (11689)
+; <info or="11688,aBinisyand;11688.1,aBinizyand"/>
+42979 old <s>abhi-ni-√ syand</s> ¦ (or <s>-ṣyand</s>), to trickle upon, <ls>MBh. xii, 3881.</ls><info verb="pre" cp="" parse="aBi+ni+syand"/>
+;
+42979 new <s>abhi-ni-√ syand</s> ¦ (or <s>-ṣyand</s>), to trickle upon, <ls>MBh. xii, 3881.</ls><info verb="pre" cp="" parse="aBi+ni+syand"/><info or="11688,aBinisyand;11688.1,aBinizyand"/>
+; insert metaline 11688.1 abhiniṣyand
+42980 old <LEND>
+42980 ins <L>11688.1<pc>64,3<k1>abhiniṣyand<k2>abhi-ni-ṣyand<e>1
+; insert rest of lines for 11688.1 abhiniṣyand
+42980 old <LEND>
+42980 ins <s>abhi-ni-√ syand</s> ¦ (or <s>-ṣyand</s>), to trickle upon, <ls>MBh. xii, 3881.</ls><info verb="pre" cp="" parse="aBi+ni+syand"/><info or="11688,aBinisyand;11688.1,aBinizyand"/>
+42980 old <LEND>
+42980 ins <LEND>
+;
+; Case 003: L=16409, k1=arva, newk2=arvaṇa
+;  <L>16409<pc>93,2<k1>arva<k2>arva<e>1
+;   Larr n=1: (16409) 16409.1 (16410)
+; <info and="16409,arva;16409.1,arvaRa"/>
+59474 old <s>arva</s> ¦ and <s>arvaṇa</s> See <s>an-arvá</s>.
+;
+59474 new <s>arva</s> ¦ and <s>arvaṇa</s> See <s>an-arvá</s>.<info and="16409,arva;16409.1,arvaRa"/>
+; insert metaline 16409.1 arvaṇa
+59475 old <LEND>
+59475 ins <L>16409.1<pc>93,2<k1>arvaṇa<k2>arvaṇa<e>1
+; insert rest of lines for 16409.1 arvaṇa
+59475 old <LEND>
+59475 ins <s>arva</s> ¦ and <s>arvaṇa</s> See <s>an-arvá</s>.<info and="16409,arva;16409.1,arvaRa"/>
+59475 old <LEND>
+59475 ins <LEND>
+;
+; Case 004: L=21790, k1=ahaścara, newk2=ahaś-śas
+;  <L>21790<pc>125,1<k1>ahaścara<k2>ahaś-cara<h>b<e>1
+;   Larr n=1: (21790) 21790.1 (21791)
+; <info and="21790,ahaScara;21790.1,ahaSSas"/>
+78220 old <s>ahaś-cara</s> <hom>b</hom> ¦ and <s>ahaś-śas</s> See <s>áhar</s>.
+;
+78220 new <s>ahaś-cara</s> <hom>b</hom> ¦ and <s>ahaś-śas</s> See <s>áhar</s>.<info and="21790,ahaScara;21790.1,ahaSSas"/>
+; insert metaline 21790.1 ahaśśas
+; Other entry ahaśśas : <L>21751<pc>124,3<k1>ahaśśas<k2>ahaś—śas<e>3
+78221 old <LEND>
+78221 ins <L>21790.1<pc>125,1<k1>ahaśśas<k2>ahaś-śas<e>1
+; insert rest of lines for 21790.1 ahaśśas
+78221 old <LEND>
+78221 ins <s>ahaś-cara</s> <hom>b</hom> ¦ and <s>ahaś-śas</s> See <s>áhar</s>.<info and="21790,ahaScara;21790.1,ahaSSas"/>
+78221 old <LEND>
+78221 ins <LEND>
+;
+; Case 005: L=24701, k1=āntarikṣa, newk2=āntarīkṣa
+;  <L>24701<pc>141,3<k1>āntarikṣa<k2>āntarikṣá<e>1
+;   Larr n=1: (24701) 24701.05 (24701.1)
+; <info or="24701,Antarikza;24701.05,AntarIkza"/>
+88104 old <s>āntarikṣá</s> ¦ or <s>āntarīkṣa</s> <lex>mf(<s>ī</s>)n.</lex> (<ab>fr.</ab> <s>antarikṣa</s>), belonging to the intermediate space between heaven and earth, atmospherical, proceeding from or produced in the atmosphere, <ls>VS.</ls>; <ls>TS.</ls>; <ls>MBh.</ls>; <ls>VarBṛS.</ls>; <ls>Suśr.</ls><info lex="m:f#I:n"/>
+;
+88104 new <s>āntarikṣá</s> ¦ or <s>āntarīkṣa</s> <lex>mf(<s>ī</s>)n.</lex> (<ab>fr.</ab> <s>antarikṣa</s>), belonging to the intermediate space between heaven and earth, atmospherical, proceeding from or produced in the atmosphere, <ls>VS.</ls>; <ls>TS.</ls>; <ls>MBh.</ls>; <ls>VarBṛS.</ls>; <ls>Suśr.</ls><info lex="m:f#I:n"/><info or="24701,Antarikza;24701.05,AntarIkza"/>
+; insert metaline 24701.05 āntarīkṣa
+88105 old <LEND>
+88105 ins <L>24701.05<pc>141,3<k1>āntarīkṣa<k2>āntarīkṣa<e>1
+; insert rest of lines for 24701.05 āntarīkṣa
+88105 old <LEND>
+88105 ins <s>āntarikṣá</s> ¦ or <s>āntarīkṣa</s> <lex>mf(<s>ī</s>)n.</lex> (<ab>fr.</ab> <s>antarikṣa</s>), belonging to the intermediate space between heaven and earth, atmospherical, proceeding from or produced in the atmosphere, <ls>VS.</ls>; <ls>TS.</ls>; <ls>MBh.</ls>; <ls>VarBṛS.</ls>; <ls>Suśr.</ls><info lex="m:f#I:n"/><info or="24701,Antarikza;24701.05,AntarIkza"/>
+88105 old <LEND>
+88105 ins <LEND>
+;
+; Case 006: L=25449, k1=āmath, newk2=ā-manth
+;  <L>25449<pc>146,2<k1>āmath<k2>ā-math<e>1
+;   Larr n=1: (25449) 25449.1 (25450)
+; <info or="25449,AmaT;25449.1,AmanT"/>
+90704 old <s>ā-√ math</s> ¦ or <s>ā-√ manth</s> <ab>P.</ab> (<ab>pf.</ab> <s>-mamantha</s>) to whirl round or stir with velocity, agitate, shake about, <ls>R.</ls><info verb="pre" cp="P" parse="A+maT"/>
+;
+90704 new <s>ā-√ math</s> ¦ or <s>ā-√ manth</s> <ab>P.</ab> (<ab>pf.</ab> <s>-mamantha</s>) to whirl round or stir with velocity, agitate, shake about, <ls>R.</ls><info verb="pre" cp="P" parse="A+maT"/><info or="25449,AmaT;25449.1,AmanT"/>
+; insert metaline 25449.1 āmanth
+; Other entry āmanth : <L>25482<pc>146,3<k1>āmanth<k2>ā-manth<e>1
+90705 old <LEND>
+90705 ins <L>25449.1<pc>146,2<k1>āmanth<k2>ā-manth<e>1
+; insert rest of lines for 25449.1 āmanth
+90705 old <LEND>
+90705 ins <s>ā-√ math</s> ¦ or <s>ā-√ manth</s> <ab>P.</ab> (<ab>pf.</ab> <s>-mamantha</s>) to whirl round or stir with velocity, agitate, shake about, <ls>R.</ls><info verb="pre" cp="P" parse="A+maT"/><info or="25449,AmaT;25449.1,AmanT"/>
+90705 old <LEND>
+90705 ins <LEND>
+;
+; Case 007: L=27597, k1=āścut, newk2=ā-ścyut
+;  <L>27597<pc>158,1<k1>āścut<k2>ā-ścut<e>1
+;   Larr n=1: (27597) 27597.1 (27598)
+; <info or="27597,AScut;27597.1,AScyut"/>
+98102 old <s>ā-√ ścut</s> ¦ (or <s>-√ ścyut</s>), <ab>Caus.</ab> (<ab>inf.</ab> <s>-ścotayitavaí</s>, <ls>ŚBr. ii, 3, 1, 16</ls>) to sprinkle, let drop on.<info verb="pre" cp="" parse="A+Scut"/>
+;
+98102 new <s>ā-√ ścut</s> ¦ (or <s>-√ ścyut</s>), <ab>Caus.</ab> (<ab>inf.</ab> <s>-ścotayitavaí</s>, <ls>ŚBr. ii, 3, 1, 16</ls>) to sprinkle, let drop on.<info verb="pre" cp="" parse="A+Scut"/><info or="27597,AScut;27597.1,AScyut"/>
+; insert metaline 27597.1 āścyut
+98103 old <LEND>
+98103 ins <L>27597.1<pc>158,1<k1>āścyut<k2>ā-ścyut<e>1
+; insert rest of lines for 27597.1 āścyut
+98103 old <LEND>
+98103 ins <s>ā-√ ścut</s> ¦ (or <s>-√ ścyut</s>), <ab>Caus.</ab> (<ab>inf.</ab> <s>-ścotayitavaí</s>, <ls>ŚBr. ii, 3, 1, 16</ls>) to sprinkle, let drop on.<info verb="pre" cp="" parse="A+Scut"/><info or="27597,AScut;27597.1,AScyut"/>
+98103 old <LEND>
+98103 ins <LEND>
+;
+; Case 008: L=30613, k1=ujjhaṭaḍimba, newk2=ujjhaṭita
+;  <L>30613<pc>175,1<k1>ujjhaṭaḍimba<k2>ujjhaṭa-ḍimba<e>1
+;   Larr n=1: (30613) 30613.05 (30613.1)
+; <info and="30613,ujJawaqimba;30613.05,ujJawita"/>
+108889 old <s>ujjhaṭa-ḍimba</s> ¦ and <s>ujjhaṭita</s> <ab>vv.ll.</ab> for <s>ujjūṭa-ḍimba</s> and <s>ujjūṭita</s>, qq.v.
+;
+108889 new <s>ujjhaṭa-ḍimba</s> ¦ and <s>ujjhaṭita</s> <ab>vv.ll.</ab> for <s>ujjūṭa-ḍimba</s> and <s>ujjūṭita</s>, qq.v.<info and="30613,ujJawaqimba;30613.05,ujJawita"/>
+; insert metaline 30613.05 ujjhaṭita
+; Other entry ujjhaṭita : <L>30613.1<pc>1321,2<k1>ujjhaṭita<k2>uj-jháṭita<e>2
+108890 old <LEND>
+108890 ins <L>30613.05<pc>175,1<k1>ujjhaṭita<k2>ujjhaṭita<e>1
+; insert rest of lines for 30613.05 ujjhaṭita
+108890 old <LEND>
+108890 ins <s>ujjhaṭa-ḍimba</s> ¦ and <s>ujjhaṭita</s> <ab>vv.ll.</ab> for <s>ujjūṭa-ḍimba</s> and <s>ujjūṭita</s>, qq.v.<info and="30613,ujJawaqimba;30613.05,ujJawita"/>
+108890 old <LEND>
+108890 ins <LEND>
+;
+; Case 009: L=38104, k1=ūrd, newk2=urd
+;  <L>38104<pc>222,1<k1>ūrd<k2>ūrd<e>1
+;   Larr n=1: (38104) 38104.1 (38105)
+; <info or="38104,Urd;38104.1,urd"/>
+134576 old <div n="to"/>to taste, <ls>L.</ls><info westergaard="urda,2.19,01.0019"/><info verb="genuineroot" cp="1Ā"/>
+;
+134576 new <div n="to"/>to taste, <ls>L.</ls><info westergaard="urda,2.19,01.0019"/><info verb="genuineroot" cp="1Ā"/><info or="38104,Urd;38104.1,urd"/>
+; insert metaline 38104.1 urd
+; Other entry urd : <L>37406<pc>218,2<k1>urd<k2>urd<e>1
+134577 old <LEND>
+134577 ins <L>38104.1<pc>222,1<k1>urd<k2>urd<e>1
+; insert rest of lines for 38104.1 urd
+134577 old <LEND>
+134577 ins <s>ūrd</s> ¦ or <s>urd</s> <ab>cl.</ab> 1. <ab>Ā.</ab> <s>ūrdate</s>, <s>ūrdāṃcakre</s>, <s>ūrditā</s>, <s>ūrdiṣyate</s>, <s>aurdiṣṭa</s>, <ls>Dhātup. ii, 19</ls>, to measure, <ls>L.</ls>;
+134577 old <LEND>
+134577 ins <div n="to"/>to play, be cheerful, <ls>L.</ls>;
+134577 old <LEND>
+134577 ins <div n="to"/>to taste, <ls>L.</ls><info westergaard="urda,2.19,01.0019"/><info verb="genuineroot" cp="1Ā"/><info or="38104,Urd;38104.1,urd"/>
+134577 old <LEND>
+134577 ins <LEND>
+;
+; Case 010: L=40000, k1=eḍūka, newk2=eḍuka
+;  <L>40000<pc>231,2<k1>eḍūka<k2>eḍūka<e>1
+;   Larr n=1: (40000) 40000.1 (40001)
+; <info and="40000,eqUka;40000.1,equka"/>
+140995 old <s>eḍūka</s> ¦ (and <s>eḍuka</s>, <ls>L.</ls>) <lex>m.</lex> (<lex type="hwalt">n.</lex>, <ls>L.</ls>) a building constructed of or enclosing rubbish or bones or hard substances resembling bones, a <ns>Buddhist</ns> shrine (filled with relics), <ls>MBh.</ls> (<ab>cf.</ab> <s>buddhai<srs/>ḍūka</s>). <info lex="m:n"/>
+;
+140995 new <s>eḍūka</s> ¦ (and <s>eḍuka</s>, <ls>L.</ls>) <lex>m.</lex> (<lex type="hwalt">n.</lex>, <ls>L.</ls>) a building constructed of or enclosing rubbish or bones or hard substances resembling bones, a <ns>Buddhist</ns> shrine (filled with relics), <ls>MBh.</ls> (<ab>cf.</ab> <s>buddhai<srs/>ḍūka</s>). <info lex="m:n"/><info and="40000,eqUka;40000.1,equka"/>
+; insert metaline 40000.1 eḍuka
+140996 old <LEND>
+140996 ins <L>40000.1<pc>231,2<k1>eḍuka<k2>eḍuka<e>1
+; insert rest of lines for 40000.1 eḍuka
+140996 old <LEND>
+140996 ins <s>eḍūka</s> ¦ (and <s>eḍuka</s>, <ls>L.</ls>) <lex>m.</lex> (<lex type="hwalt">n.</lex>, <ls>L.</ls>) a building constructed of or enclosing rubbish or bones or hard substances resembling bones, a <ns>Buddhist</ns> shrine (filled with relics), <ls>MBh.</ls> (<ab>cf.</ab> <s>buddhai<srs/>ḍūka</s>). <info lex="m:n"/><info and="40000,eqUka;40000.1,equka"/>
+140996 old <LEND>
+140996 ins <LEND>
+;
+; Case 011: L=40113, k1=ena, newk2=enā
+;  <L>40113<pc>232,1<k1>ena<k2>ena<h>2<e>1
+;   Larr n=1: (40113) 40113.1 (40114)
+; <info and="40113,ena;40113.1,enA"/>
+141407 old <hom>2.</hom> <s>ena</s> ¦ and <s>enā</s>, <ab>Ved.</ab> <ab>instr.</ab> of <s>idam</s> <ab>q.v.</ab>
+;
+141407 new <hom>2.</hom> <s>ena</s> ¦ and <s>enā</s>, <ab>Ved.</ab> <ab>instr.</ab> of <s>idam</s> <ab>q.v.</ab><info and="40113,ena;40113.1,enA"/>
+; insert metaline 40113.1 enā
+; Other entry enā : <L>40114<pc>232,1<k1>enā<k2>enā́<e>2
+; Other entry enā : <L>40114.1<pc>232,1<k1>enā<k2>enā́<e>2A
+; Other entry enā : <L>40114.2<pc>232,1<k1>enā<k2>enā́<e>2A
+; Other entry enā : <L>40114.3<pc>232,1<k1>enā<k2>enā́<e>2B
+141408 old <LEND>
+141408 ins <L>40113.1<pc>232,1<k1>enā<k2>enā<e>1
+; insert rest of lines for 40113.1 enā
+141408 old <LEND>
+141408 ins <hom>2.</hom> <s>ena</s> ¦ and <s>enā</s>, <ab>Ved.</ab> <ab>instr.</ab> of <s>idam</s> <ab>q.v.</ab><info and="40113,ena;40113.1,enA"/>
+141408 old <LEND>
+141408 ins <LEND>
+;
+; Case 012: L=59655, k1=kṣība, newk2=kṣīva
+;  <L>59655<pc>329,2<k1>kṣība<k2>kṣība<e>2
+;   Larr n=1: (59655) 59655.1 (59656)
+; <info or="59655,kzIba;59655.1,kzIva"/>
+204621 old <s>kṣība</s> ¦ (or <s>kṣīva</s>) <lex>mf(<s>ā</s>)n.</lex> (<ab>pf.</ab> <ab>p.</ab> <ab>Pass.</ab> √ <s>kṣīb</s>, <ls>Pāṇ. 8-2, 55</ls>) excited, drunk, intoxicated, <ls>MBh.</ls>; <ls>R.</ls>; <ls>Bhartṛ.</ls>; <ls>BhP.</ls> &c.<info lex="m:f#A:n"/>
+;
+204621 new <s>kṣība</s> ¦ (or <s>kṣīva</s>) <lex>mf(<s>ā</s>)n.</lex> (<ab>pf.</ab> <ab>p.</ab> <ab>Pass.</ab> √ <s>kṣīb</s>, <ls>Pāṇ. 8-2, 55</ls>) excited, drunk, intoxicated, <ls>MBh.</ls>; <ls>R.</ls>; <ls>Bhartṛ.</ls>; <ls>BhP.</ls> &c.<info lex="m:f#A:n"/><info or="59655,kzIba;59655.1,kzIva"/>
+; insert metaline 59655.1 kṣīva
+204622 old <LEND>
+204622 ins <L>59655.1<pc>329,2<k1>kṣīva<k2>kṣīva<e>2
+; insert rest of lines for 59655.1 kṣīva
+204622 old <LEND>
+204622 ins <s>kṣība</s> ¦ (or <s>kṣīva</s>) <lex>mf(<s>ā</s>)n.</lex> (<ab>pf.</ab> <ab>p.</ab> <ab>Pass.</ab> √ <s>kṣīb</s>, <ls>Pāṇ. 8-2, 55</ls>) excited, drunk, intoxicated, <ls>MBh.</ls>; <ls>R.</ls>; <ls>Bhartṛ.</ls>; <ls>BhP.</ls> &c.<info lex="m:f#A:n"/><info or="59655,kzIba;59655.1,kzIva"/>
+204622 old <LEND>
+204622 ins <LEND>
+;
+; Case 013: L=59660, k1=kṣībika, newk2=kṣīvika
+;  <L>59660<pc>329,3<k1>kṣībika<k2>kṣībika<e>2
+;   Larr n=1: (59660) 59660.1 (59661)
+; <info or="59660,kzIbika;59660.1,kzIvika"/>
+204636 old <s>kṣībika</s> ¦ (or <s>kṣīvika</s>) <lex>mfn.</lex> = <s>kṣībeṇa tarati</s>, <ls>Pāṇ. 8-2, 6</ls>, <ab>Vārtt.</ab> 7, <ls>Pat.</ls><info lex="m:f:n"/>
+;
+204636 new <s>kṣībika</s> ¦ (or <s>kṣīvika</s>) <lex>mfn.</lex> = <s>kṣībeṇa tarati</s>, <ls>Pāṇ. 8-2, 6</ls>, <ab>Vārtt.</ab> 7, <ls>Pat.</ls><info lex="m:f:n"/><info or="59660,kzIbika;59660.1,kzIvika"/>
+; insert metaline 59660.1 kṣīvika
+204637 old <LEND>
+204637 ins <L>59660.1<pc>329,3<k1>kṣīvika<k2>kṣīvika<e>2
+; insert rest of lines for 59660.1 kṣīvika
+204637 old <LEND>
+204637 ins <s>kṣībika</s> ¦ (or <s>kṣīvika</s>) <lex>mfn.</lex> = <s>kṣībeṇa tarati</s>, <ls>Pāṇ. 8-2, 6</ls>, <ab>Vārtt.</ab> 7, <ls>Pat.</ls><info lex="m:f:n"/><info or="59660,kzIbika;59660.1,kzIvika"/>
+204637 old <LEND>
+204637 ins <LEND>
+;
+; Case 014: L=66413, k1=gṛj, newk2=gṛñj
+;  <L>66413<pc>361,2<k1>gṛj<k2>gṛj<e>1
+;   Larr n=1: (66413) 66413.1 (66414)
+; <info or="66413,gfj;66413.1,gfYj"/>
+226251 old <s>gṛj</s> ¦ or <s>gṛñj</s> (= √ <s>garj</s>) <ab>cl.</ab> 1. <s>garjati</s> (See √ <s>garj</s>) or <s>gṛñjati</s>, to sound, roar, <ls>vii, 74 f.</ls><info verb="root" cp="1"/>
+;
+226251 new <s>gṛj</s> ¦ or <s>gṛñj</s> (= √ <s>garj</s>) <ab>cl.</ab> 1. <s>garjati</s> (See √ <s>garj</s>) or <s>gṛñjati</s>, to sound, roar, <ls>vii, 74 f.</ls><info verb="root" cp="1"/><info or="66413,gfj;66413.1,gfYj"/>
+; insert metaline 66413.1 gṛñj
+226252 old <LEND>
+226252 ins <L>66413.1<pc>361,2<k1>gṛñj<k2>gṛñj<e>1
+; insert rest of lines for 66413.1 gṛñj
+226252 old <LEND>
+226252 ins <s>gṛj</s> ¦ or <s>gṛñj</s> (= √ <s>garj</s>) <ab>cl.</ab> 1. <s>garjati</s> (See √ <s>garj</s>) or <s>gṛñjati</s>, to sound, roar, <ls>vii, 74 f.</ls><info verb="root" cp="1"/><info or="66413,gfj;66413.1,gfYj"/>
+226252 old <LEND>
+226252 ins <LEND>
+;
+; Case 015: L=70637, k1=cakri, newk2=cakrin
+;  <L>70637<pc>381,3<k1>cakri<k2>cákri<e>2A
+;   Larr n=1: (70637) 70637.1 (70638)
+; <info or="70637,cakri;70637.1,cakrin"/>
+240068 old ¦ (or <s>cakrin</s>?) <ab>N.</ab> of a man, <ls>Pravar. vii, 9</ls> (<ab>cf.</ab> <s>uru-cákri</s>.)<info lex="inh"/>
+;
+240068 new ¦ (or <s>cakrin</s>?) <ab>N.</ab> of a man, <ls>Pravar. vii, 9</ls> (<ab>cf.</ab> <s>uru-cákri</s>.)<info lex="inh"/><info or="70637,cakri;70637.1,cakrin"/>
+; insert metaline 70637.1 cakrin
+; Other entry cakrin : <L>70602<pc>381,3<k1>cakrin<k2>cakrin<e>2
+; Other entry cakrin : <L>70603<pc>381,3<k1>cakrin<k2>cakrin<e>2A
+; Other entry cakrin : <L>70604<pc>381,3<k1>cakrin<k2>cakrin<e>2A
+; Other entry cakrin : <L>70605<pc>381,3<k1>cakrin<k2>cakrin<e>2B
+; Other entry cakrin : <L>70606<pc>381,3<k1>cakrin<k2>cakrin<e>2B
+; Other entry cakrin : <L>70607<pc>381,3<k1>cakrin<k2>cakrin<e>2B
+; Other entry cakrin : <L>70608<pc>381,3<k1>cakrin<k2>cakrin<e>2B
+; Other entry cakrin : <L>70609<pc>381,3<k1>cakrin<k2>cakrin<e>2B
+; Other entry cakrin : <L>70610<pc>381,3<k1>cakrin<k2>cakrin<e>2B
+; Other entry cakrin : <L>70611<pc>381,3<k1>cakrin<k2>cakrin<e>2B
+; Other entry cakrin : <L>70612<pc>381,3<k1>cakrin<k2>cakrin<e>2B
+; Other entry cakrin : <L>70613<pc>381,3<k1>cakrin<k2>cakrin<e>2B
+; Other entry cakrin : <L>70614<pc>381,3<k1>cakrin<k2>cakrin<e>2B
+; Other entry cakrin : <L>70615<pc>381,3<k1>cakrin<k2>cakrin<e>2B
+; Other entry cakrin : <L>70616<pc>381,3<k1>cakrin<k2>cakrin<e>2B
+; Other entry cakrin : <L>70617<pc>381,3<k1>cakrin<k2>cakrin<e>2B
+; Other entry cakrin : <L>70618<pc>381,3<k1>cakrin<k2>cakrin<e>2B
+; Other entry cakrin : <L>70619<pc>381,3<k1>cakrin<k2>cakrin<e>2B
+; Other entry cakrin : <L>70620<pc>381,3<k1>cakrin<k2>cakrin<e>2B
+; Other entry cakrin : <L>70621<pc>381,3<k1>cakrin<k2>cakrin<e>2B
+240069 old <LEND>
+240069 ins <L>70637.1<pc>381,3<k1>cakrin<k2>cakrin<e>2A
+; insert rest of lines for 70637.1 cakrin
+240069 old <LEND>
+240069 ins ¦ (or <s>cakrin</s>?) <ab>N.</ab> of a man, <ls>Pravar. vii, 9</ls> (<ab>cf.</ab> <s>uru-cákri</s>.)<info lex="inh"/><info or="70637,cakri;70637.1,cakrin"/>
+240069 old <LEND>
+240069 ins <LEND>
+;
+; Case 016: L=97332, k1=dyumaryāda, newk2=dyú—maryāda-vat
+;  <L>97332<pc>499,3<k1>dyumaryāda<k2>dyú—maryāda<e>3
+;   Larr n=1: (97332) 97332.05 (97332.1)
+; <info or="97332,dyumaryAda;97332.05,dyumaryAdavat"/>
+327586 old <s>dyú—maryāda</s> ¦ (or <s>-vat</s>) <lex>mfn.</lex> having the sky as boundary (<s>°da-tva</s> <lex type="phw">n.</lex> and <s>°da-vat-tva</s> <lex type="phw">n.</lex>, <ls>Śaṃk.</ls>)<info phwchild="97332.1"/><info phwchild="97332.2"/><info lex="m:f:n"/>
+;
+327586 new <s>dyú—maryāda</s> ¦ (or <s>-vat</s>) <lex>mfn.</lex> having the sky as boundary (<s>°da-tva</s> <lex type="phw">n.</lex> and <s>°da-vat-tva</s> <lex type="phw">n.</lex>, <ls>Śaṃk.</ls>)<info phwchild="97332.1"/><info phwchild="97332.2"/><info lex="m:f:n"/><info or="97332,dyumaryAda;97332.05,dyumaryAdavat"/>
+; insert metaline 97332.05 dyumaryādavat
+327587 old <LEND>
+327587 ins <L>97332.05<pc>499,3<k1>dyumaryādavat<k2>dyú—maryāda-vat<e>3
+; insert rest of lines for 97332.05 dyumaryādavat
+327587 old <LEND>
+327587 ins <s>dyú—maryāda</s> ¦ (or <s>-vat</s>) <lex>mfn.</lex> having the sky as boundary (<s>°da-tva</s> <lex type="phw">n.</lex> and <s>°da-vat-tva</s> <lex type="phw">n.</lex>, <ls>Śaṃk.</ls>)<info phwchild="97332.1"/><info phwchild="97332.2"/><info lex="m:f:n"/><info or="97332,dyumaryAda;97332.05,dyumaryAdavat"/>
+327587 old <LEND>
+327587 ins <LEND>
+;
+; Case 017: L=104829, k1=nas, newk2=nās
+;  <L>104829<pc>532,2<k1>nas<k2>nás<h>3<e>1
+;   Larr n=1: (104829) 104829.05 (104829.1)
+; <info or="104829,nas;104829.05,nAs"/>
+352742 old <hom>3.</hom> <s>nás</s> ¦ or <s>nās</s> <lex>f.</lex> (the strong stem occurs only in <ab>du.</ab> <s>nā́sā</s>, <ls>RV. ii, 39, 6</ls>, the weak stem only in <s>nasā́</s>, <s>nasí</s>, <s>nasós</s> [<ab>cf.</ab> <ls>Pāṇ. 6-1, 63</ls>] and in <ab>comp.</ab>) the nose, <ls>RV.</ls>; <ls>AV.</ls>; <ls>VS.</ls>; <ls>TS.</ls>; <ls>BhP.</ls><info lex="f"/>
+;
+352742 new <hom>3.</hom> <s>nás</s> ¦ or <s>nās</s> <lex>f.</lex> (the strong stem occurs only in <ab>du.</ab> <s>nā́sā</s>, <ls>RV. ii, 39, 6</ls>, the weak stem only in <s>nasā́</s>, <s>nasí</s>, <s>nasós</s> [<ab>cf.</ab> <ls>Pāṇ. 6-1, 63</ls>] and in <ab>comp.</ab>) the nose, <ls>RV.</ls>; <ls>AV.</ls>; <ls>VS.</ls>; <ls>TS.</ls>; <ls>BhP.</ls><info lex="f"/><info or="104829,nas;104829.05,nAs"/>
+; insert metaline 104829.05 nās
+; Other entry nās : <L>106223<pc>538,1<k1>nās<k2>nās<h>1<e>1
+; Other entry nās : <L>106224<pc>538,1<k1>nās<k2>nā́s<h>2<e>1
+352743 old <LEND>
+352743 ins <L>104829.05<pc>532,2<k1>nās<k2>nās<e>1
+; insert rest of lines for 104829.05 nās
+352743 old <LEND>
+352743 ins <hom>3.</hom> <s>nás</s> ¦ or <s>nās</s> <lex>f.</lex> (the strong stem occurs only in <ab>du.</ab> <s>nā́sā</s>, <ls>RV. ii, 39, 6</ls>, the weak stem only in <s>nasā́</s>, <s>nasí</s>, <s>nasós</s> [<ab>cf.</ab> <ls>Pāṇ. 6-1, 63</ls>] and in <ab>comp.</ab>) the nose, <ls>RV.</ls>; <ls>AV.</ls>; <ls>VS.</ls>; <ls>TS.</ls>; <ls>BhP.</ls><info lex="f"/><info or="104829,nas;104829.05,nAs"/>
+352743 old <LEND>
+352743 ins <LEND>
+;
+; Case 018: L=110944, k1=niṣṭhiv, newk2=ni-ṣṭhīv
+;  <L>110944<pc>563,2<k1>niṣṭhiv<k2>ni-ṣṭhiv<e>1
+;   Larr n=1: (110944) 110944.1 (110945)
+; <info or="110944,nizWiv;110944.1,nizWIv"/>
+373702 old <s>ni-√ ṣṭhiv</s> ¦ (or <s>ṣṭhīv</s>) <ab>P.</ab> <s>-ṣṭhīvati</s> (<ab>impf.</ab> <s>ny-aṣṭīvat</s>, <ls>MBh.</ls>; <ab>pf.</ab> <s>ni-tiṣṭhivuḥ</s>, <ls>Bhaṭṭ.</ls>; <ab>ind.p.</ab> <s>-ṣṭhīvya</s>, <ls>Mn.</ls>), to spit, spit out, eject from the mouth. 2.<info verb="pre" cp="P" parse="ni+zWiv"/>
+;
+373702 new <s>ni-√ ṣṭhiv</s> ¦ (or <s>ṣṭhīv</s>) <ab>P.</ab> <s>-ṣṭhīvati</s> (<ab>impf.</ab> <s>ny-aṣṭīvat</s>, <ls>MBh.</ls>; <ab>pf.</ab> <s>ni-tiṣṭhivuḥ</s>, <ls>Bhaṭṭ.</ls>; <ab>ind.p.</ab> <s>-ṣṭhīvya</s>, <ls>Mn.</ls>), to spit, spit out, eject from the mouth. 2.<info verb="pre" cp="P" parse="ni+zWiv"/><info or="110944,nizWiv;110944.1,nizWIv"/>
+; insert metaline 110944.1 niṣṭhīv
+373703 old <LEND>
+373703 ins <L>110944.1<pc>563,2<k1>niṣṭhīv<k2>ni-ṣṭhīv<e>1
+; insert rest of lines for 110944.1 niṣṭhīv
+373703 old <LEND>
+373703 ins <s>ni-√ ṣṭhiv</s> ¦ (or <s>ṣṭhīv</s>) <ab>P.</ab> <s>-ṣṭhīvati</s> (<ab>impf.</ab> <s>ny-aṣṭīvat</s>, <ls>MBh.</ls>; <ab>pf.</ab> <s>ni-tiṣṭhivuḥ</s>, <ls>Bhaṭṭ.</ls>; <ab>ind.p.</ab> <s>-ṣṭhīvya</s>, <ls>Mn.</ls>), to spit, spit out, eject from the mouth. 2.<info verb="pre" cp="P" parse="ni+zWiv"/><info or="110944,nizWiv;110944.1,nizWIv"/>
+373703 old <LEND>
+373703 ins <LEND>
+;
+; Case 019: L=111118, k1=nisyandin, newk2=ni-ṣyandin
+;  <L>111118<pc>564,2<k1>nisyandin<k2>ni-syandin<e>3
+;   Larr n=1: (111118) 111118.1 (111119)
+; <info or="111118,nisyandin;111118.1,nizyandin"/>
+374296 old <s>ni-°syandin</s> ¦ (or <s>°ṣy°</s>) <lex>mfn.</lex> flowing or dripping down or out, (<ab>ifc.</ab>) flowing with, <ls>Kāv.</ls>; <ls>Suśr.</ls><info lex="m:f:n"/>
+;
+374296 new <s>ni-°syandin</s> ¦ (or <s>°ṣy°</s>) <lex>mfn.</lex> flowing or dripping down or out, (<ab>ifc.</ab>) flowing with, <ls>Kāv.</ls>; <ls>Suśr.</ls><info lex="m:f:n"/><info or="111118,nisyandin;111118.1,nizyandin"/>
+; insert metaline 111118.1 niṣyandin
+374297 old <LEND>
+374297 ins <L>111118.1<pc>564,2<k1>niṣyandin<k2>ni-ṣyandin<e>3
+; insert rest of lines for 111118.1 niṣyandin
+374297 old <LEND>
+374297 ins <s>ni-°syandin</s> ¦ (or <s>°ṣy°</s>) <lex>mfn.</lex> flowing or dripping down or out, (<ab>ifc.</ab>) flowing with, <ls>Kāv.</ls>; <ls>Suśr.</ls><info lex="m:f:n"/><info or="111118,nisyandin;111118.1,nizyandin"/>
+374297 old <LEND>
+374297 ins <LEND>
+;
+; Case 020: L=111123, k1=nisruta, newk2=niḥ-sruta
+;  <L>111123<pc>564,2<k1>nisruta<k2>ni-sruta<e>3
+;   Larr n=1: (111123) 111123.1 (111124)
+; <info or="111123,nisruta;111123.1,niHsruta"/>
+374312 old <s>ni-°sruta</s> ¦ (or <s>niḥ-sr°</s>?) <lex>mfn.</lex> flowed down or out, <ls>Suśr.</ls><info lex="m:f:n"/>
+;
+374312 new <s>ni-°sruta</s> ¦ (or <s>niḥ-sr°</s>?) <lex>mfn.</lex> flowed down or out, <ls>Suśr.</ls><info lex="m:f:n"/><info or="111123,nisruta;111123.1,niHsruta"/>
+; insert metaline 111123.1 niḥsruta
+; Other entry niḥsruta : <L>107810<pc>544,2<k1>niḥsruta<k2>niḥ-sruta<e>3
+; Other entry niḥsruta : <L>107811<pc>544,2<k1>niḥsruta<k2>niḥ-sruta<e>3A
+374313 old <LEND>
+374313 ins <L>111123.1<pc>564,2<k1>niḥsruta<k2>niḥ-sruta<e>3
+; insert rest of lines for 111123.1 niḥsruta
+374313 old <LEND>
+374313 ins <s>ni-°sruta</s> ¦ (or <s>niḥ-sr°</s>?) <lex>mfn.</lex> flowed down or out, <ls>Suśr.</ls><info lex="m:f:n"/><info or="111123,nisruta;111123.1,niHsruta"/>
+374313 old <LEND>
+374313 ins <LEND>
+;
+; Case 021: L=112598, k1=not, newk2=nod
+;  <L>112598<pc>571,1<k1>not<k2>nót<e>2
+;   Larr n=1: (112598) 112598.1 (112599)
+; <info or="112598,not;112598.1,nod"/>
+379400 old <s>nó<srs/>t</s> ¦ (or <s>no<srs/>d</s>) <lex>ind.</lex> (<s>ná</s> + <s>ut</s>?) almost, nearly, <ls>ŚBr.</ls><info lex="ind"/>
+;
+379400 new <s>nó<srs/>t</s> ¦ (or <s>no<srs/>d</s>) <lex>ind.</lex> (<s>ná</s> + <s>ut</s>?) almost, nearly, <ls>ŚBr.</ls><info lex="ind"/><info or="112598,not;112598.1,nod"/>
+; insert metaline 112598.1 nod
+379401 old <LEND>
+379401 ins <L>112598.1<pc>571,1<k1>nod<k2>nod<e>2
+; insert rest of lines for 112598.1 nod
+379401 old <LEND>
+379401 ins <s>nó<srs/>t</s> ¦ (or <s>no<srs/>d</s>) <lex>ind.</lex> (<s>ná</s> + <s>ut</s>?) almost, nearly, <ls>ŚBr.</ls><info lex="ind"/><info or="112598,not;112598.1,nod"/>
+379401 old <LEND>
+379401 ins <LEND>
+;
+; Case 022: L=112974, k1=nyud, newk2=ny-und
+;  <L>112974<pc>573,1<k1>nyud<k2>ny-ud<e>1
+;   Larr n=1: (112974) 112974.1 (112975)
+; <info or="112974,nyud;112974.1,nyund"/>
+380861 old <s>ny-√ ud</s> ¦ or <s>und</s> (only <ab>p.</ab> <ab>Ā.</ab> <s>-undamāna</s>), to dip, sprinkle, <ls>ŚāṅkhBr.</ls><info verb="pre" cp="Ā" parse="ni+ud"/>
+;
+380861 new <s>ny-√ ud</s> ¦ or <s>und</s> (only <ab>p.</ab> <ab>Ā.</ab> <s>-undamāna</s>), to dip, sprinkle, <ls>ŚāṅkhBr.</ls><info verb="pre" cp="Ā" parse="ni+ud"/><info or="112974,nyud;112974.1,nyund"/>
+; insert metaline 112974.1 nyund
+380862 old <LEND>
+380862 ins <L>112974.1<pc>573,1<k1>nyund<k2>ny-und<e>1
+; insert rest of lines for 112974.1 nyund
+380862 old <LEND>
+380862 ins <s>ny-√ ud</s> ¦ or <s>und</s> (only <ab>p.</ab> <ab>Ā.</ab> <s>-undamāna</s>), to dip, sprinkle, <ls>ŚāṅkhBr.</ls><info verb="pre" cp="Ā" parse="ni+ud"/><info or="112974,nyud;112974.1,nyund"/>
+380862 old <LEND>
+380862 ins <LEND>
+;
+; Case 023: L=115822, k1=padminīṣaṇḍa, newk2=padminī—ṣaṇḍa-pura
+;  <L>115822<pc>585,2<k1>padminīṣaṇḍa<k2>padminī—ṣaṇḍa<e>3
+;   Larr n=1: (115822) 115822.1 (115823)
+; <info and="115822,padminIzaRqa;115822.1,padminIzaRqapura"/>
+390475 old <s>padminī—ṣaṇḍa</s> ¦ (and <s>-pura</s>) <lex>n.</lex> <ab>N.</ab> of a city, <ls>Siṉhâs.</ls><info lex="n"/>
+;
+390475 new <s>padminī—ṣaṇḍa</s> ¦ (and <s>-pura</s>) <lex>n.</lex> <ab>N.</ab> of a city, <ls>Siṉhâs.</ls><info lex="n"/><info and="115822,padminIzaRqa;115822.1,padminIzaRqapura"/>
+; insert metaline 115822.1 padminīṣaṇḍapura
+390476 old <LEND>
+390476 ins <L>115822.1<pc>585,2<k1>padminīṣaṇḍapura<k2>padminī—ṣaṇḍa-pura<e>3
+; insert rest of lines for 115822.1 padminīṣaṇḍapura
+390476 old <LEND>
+390476 ins <s>padminī—ṣaṇḍa</s> ¦ (and <s>-pura</s>) <lex>n.</lex> <ab>N.</ab> of a city, <ls>Siṉhâs.</ls><info lex="n"/><info and="115822,padminIzaRqa;115822.1,padminIzaRqapura"/>
+390476 old <LEND>
+390476 ins <LEND>
+;
+; Case 024: L=131870, k1=pratiśabda, newk2=prati—śabdaka
+;  <L>131870<pc>663,2<k1>pratiśabda<k2>prati—śabda<e>3
+;   Larr n=1: (131870) 131870.05 (131870.1)
+; <info or="131870,pratiSabda;131870.05,pratiSabdaka"/>
+443955 old <s>prati—śabda</s> ¦ (or <s>°daka</s>, <ls>Kād.</ls>; <ls>Hcar.</ls>) <lex>m.</lex> echo, reverberation, <ls>MBh.</ls>; <ls>R.</ls>; <ls>Ragh.</ls> &c.<info lex="m"/>
+;
+443955 new <s>prati—śabda</s> ¦ (or <s>°daka</s>, <ls>Kād.</ls>; <ls>Hcar.</ls>) <lex>m.</lex> echo, reverberation, <ls>MBh.</ls>; <ls>R.</ls>; <ls>Ragh.</ls> &c.<info lex="m"/><info or="131870,pratiSabda;131870.05,pratiSabdaka"/>
+; insert metaline 131870.05 pratiśabdaka
+443956 old <LEND>
+443956 ins <L>131870.05<pc>663,2<k1>pratiśabdaka<k2>prati—śabdaka<e>3
+; insert rest of lines for 131870.05 pratiśabdaka
+443956 old <LEND>
+443956 ins <s>prati—śabda</s> ¦ (or <s>°daka</s>, <ls>Kād.</ls>; <ls>Hcar.</ls>) <lex>m.</lex> echo, reverberation, <ls>MBh.</ls>; <ls>R.</ls>; <ls>Ragh.</ls> &c.<info lex="m"/><info or="131870,pratiSabda;131870.05,pratiSabdaka"/>
+443956 old <LEND>
+443956 ins <LEND>
+;
+; Case 025: L=134989, k1=pradhmā, newk2=pra-dham
+;  <L>134989<pc>681,2<k1>pradhmā<k2>pra-dhmā<h>a<e>1
+;   Larr n=1: (134989) 134989.1 (134990)
+; <info or="134989,praDmA;134989.1,praDam"/>
+454368 old <div n="vp"/><ab>Caus.</ab> <ab>P.</ab> <ab>Ā.</ab> <s>-dhmāpayati</s>, <s>°te</s>, to blow into, <ab n="blow">bl°</ab> (a conch shell), <ls>MBh.</ls>; <ls>R.</ls>; <ls>Hariv.</ls><info verb="pre" cp="PĀ" parse="pra+DmA"/>
+;
+454368 new <div n="vp"/><ab>Caus.</ab> <ab>P.</ab> <ab>Ā.</ab> <s>-dhmāpayati</s>, <s>°te</s>, to blow into, <ab n="blow">bl°</ab> (a conch shell), <ls>MBh.</ls>; <ls>R.</ls>; <ls>Hariv.</ls><info verb="pre" cp="PĀ" parse="pra+DmA"/><info or="134989,praDmA;134989.1,praDam"/>
+; insert metaline 134989.1 pradham
+454369 old <LEND>
+454369 ins <L>134989.1<pc>681,2<k1>pradham<k2>pra-dham<e>1
+; insert rest of lines for 134989.1 pradham
+454369 old <LEND>
+454369 ins <s>pra-√ dhmā</s> <hom>a</hom> ¦ (or <s>dham</s>) <ab>P.</ab> (<ab>Ā.</ab> <ab>Pot.</ab> <s>-dhmāyīta</s>, <ls>ChUp.</ls>) <s>-dhamati</s>, to blow before or in front, blow away, <ls>AV.</ls>;
+454369 old <LEND>
+454369 ins <div n="to"/>to scare, <ls>Car.</ls>;
+454369 old <LEND>
+454369 ins <div n="to"/>to destroy, <ls>MBh.</ls>;
+454369 old <LEND>
+454369 ins <div n="to"/>to blow into (<ab>esp.</ab> into a conch shell <ab>acc.</ab>), <ls>ib.</ls>; <ls>Suśr.</ls>; <ls>Hariv.</ls> &c.;
+454369 old <LEND>
+454369 ins <div n="to"/> (<ab>Ā.</ab>) to cry out, <ls>ChUp. vi, 14, 1</ls>; <ls>Śaṃk.</ls>;
+454369 old <LEND>
+454369 ins <div n="vp"/> (others, ‘to be tossed about’, ‘wander about’) :
+454369 old <LEND>
+454369 ins <div n="vp"/><ab>Caus.</ab> <ab>P.</ab> <ab>Ā.</ab> <s>-dhmāpayati</s>, <s>°te</s>, to blow into, <ab n="blow">bl°</ab> (a conch shell), <ls>MBh.</ls>; <ls>R.</ls>; <ls>Hariv.</ls><info verb="pre" cp="PĀ" parse="pra+DmA"/><info or="134989,praDmA;134989.1,praDam"/>
+454369 old <LEND>
+454369 ins <LEND>
+;
+; Case 026: L=135152, k1=prapavaṇa, newk2=pra-pavana
+;  <L>135152<pc>682,2<k1>prapavaṇa<k2>pra-pavaṇa<e>1
+;   Larr n=1: (135152) 135152.1 (135153)
+; <info or="135152,prapavaRa;135152.1,prapavana"/>
+454941 old <s>pra-pavaṇa</s> ¦ or <s>pra-pavana</s> <lex>n.</lex> (√ <hom>1.</hom> <s>pū</s>) purifying, straining (<s1 slp1="soma">Soma</s1> juice), <ls>Pāṇ. 8-4, 34 <ab>Sch.</ab></ls><info lex="n"/>
+;
+454941 new <s>pra-pavaṇa</s> ¦ or <s>pra-pavana</s> <lex>n.</lex> (√ <hom>1.</hom> <s>pū</s>) purifying, straining (<s1 slp1="soma">Soma</s1> juice), <ls>Pāṇ. 8-4, 34 <ab>Sch.</ab></ls><info lex="n"/><info or="135152,prapavaRa;135152.1,prapavana"/>
+; insert metaline 135152.1 prapavana
+454942 old <LEND>
+454942 ins <L>135152.1<pc>682,2<k1>prapavana<k2>pra-pavana<e>1
+; insert rest of lines for 135152.1 prapavana
+454942 old <LEND>
+454942 ins <s>pra-pavaṇa</s> ¦ or <s>pra-pavana</s> <lex>n.</lex> (√ <hom>1.</hom> <s>pū</s>) purifying, straining (<s1 slp1="soma">Soma</s1> juice), <ls>Pāṇ. 8-4, 34 <ab>Sch.</ab></ls><info lex="n"/><info or="135152,prapavaRa;135152.1,prapavana"/>
+454942 old <LEND>
+454942 ins <LEND>
+;
+; Case 027: L=137595, k1=praścut, newk2=pra-ścyut
+;  <L>137595<pc>695,3<k1>praścut<k2>pra-ścut<e>1
+;   Larr n=1: (137595) 137595.1 (137596)
+; <info or="137595,praScut;137595.1,praScyut"/>
+463203 old <div n="to"/>to pour forth, shed, spill, <ls>Bhaṭṭ.</ls><info verb="pre" cp="P" parse="pra+Scut"/>
+;
+463203 new <div n="to"/>to pour forth, shed, spill, <ls>Bhaṭṭ.</ls><info verb="pre" cp="P" parse="pra+Scut"/><info or="137595,praScut;137595.1,praScyut"/>
+; insert metaline 137595.1 praścyut
+463204 old <LEND>
+463204 ins <L>137595.1<pc>695,3<k1>praścyut<k2>pra-ścyut<e>1
+; insert rest of lines for 137595.1 praścyut
+463204 old <LEND>
+463204 ins <s>pra-√ ścut</s> ¦ (or <s>-ścyut</s>) <ab>P.</ab> <s>-ścotati</s> (<s>-ścyotati</s>), to trickle forth, drip down, <ls>Mālatīm.</ls>;
+463204 old <LEND>
+463204 ins <div n="to"/>to pour forth, shed, spill, <ls>Bhaṭṭ.</ls><info verb="pre" cp="P" parse="pra+Scut"/><info or="137595,praScut;137595.1,praScyut"/>
+463204 old <LEND>
+463204 ins <LEND>
+;
+; Case 028: L=138668, k1=prahāya, newk2=pra-hāryá
+;  <L>138668<pc>701,2<k1>prahāya<k2>pra-hā́ya<e>3
+;   Larr n=1: (138668) 138668.1 (138669)
+; <info or="138668,prahAya;138668.1,prahArya"/>
+466851 old <s>pra-°hā́ya</s> ¦ (or <s>°hāryá</s>) <lex>mfn.</lex> to be taken away or removed, <ls>ŚBr.</ls> (<ab>cf.</ab> <s>pra-hāyyā</s>, under <s>pra-√ hi</s>) to be beaten, <ls>MW.</ls><info lex="m:f:n"/>
+;
+466851 new <s>pra-°hā́ya</s> ¦ (or <s>°hāryá</s>) <lex>mfn.</lex> to be taken away or removed, <ls>ŚBr.</ls> (<ab>cf.</ab> <s>pra-hāyyā</s>, under <s>pra-√ hi</s>) to be beaten, <ls>MW.</ls><info lex="m:f:n"/><info or="138668,prahAya;138668.1,prahArya"/>
+; insert metaline 138668.1 prahārya
+466852 old <LEND>
+466852 ins <L>138668.1<pc>701,2<k1>prahārya<k2>pra-hāryá<e>3
+; insert rest of lines for 138668.1 prahārya
+466852 old <LEND>
+466852 ins <s>pra-°hā́ya</s> ¦ (or <s>°hāryá</s>) <lex>mfn.</lex> to be taken away or removed, <ls>ŚBr.</ls> (<ab>cf.</ab> <s>pra-hāyyā</s>, under <s>pra-√ hi</s>) to be beaten, <ls>MW.</ls><info lex="m:f:n"/><info or="138668,prahAya;138668.1,prahArya"/>
+466852 old <LEND>
+466852 ins <LEND>
+;
+; Case 029: L=144748, k1=bālāha, newk2=vālāha
+;  <L>144748<pc>729,3<k1>bālāha<k2>bālāha<e>1
+;   Larr n=1: (144748) 144748.1 (144749)
+; <info or="144748,bAlAha;144748.1,vAlAha"/>
+486881 old <s>bālāha</s> ¦ (or <s>vāl°</s>) <lex>m.</lex> <ab>N.</ab> of a mythical horse, <ls>Buddh.</ls><info lex="m"/>
+;
+486881 new <s>bālāha</s> ¦ (or <s>vāl°</s>) <lex>m.</lex> <ab>N.</ab> of a mythical horse, <ls>Buddh.</ls><info lex="m"/><info or="144748,bAlAha;144748.1,vAlAha"/>
+; insert metaline 144748.1 vālāha
+; Other entry vālāha : <L>192161<pc>946,2<k1>vālāha<k2>vālāha<e>1
+486882 old <LEND>
+486882 ins <L>144748.1<pc>729,3<k1>vālāha<k2>vālāha<e>1
+; insert rest of lines for 144748.1 vālāha
+486882 old <LEND>
+486882 ins <s>bālāha</s> ¦ (or <s>vāl°</s>) <lex>m.</lex> <ab>N.</ab> of a mythical horse, <ls>Buddh.</ls><info lex="m"/><info or="144748,bAlAha;144748.1,vAlAha"/>
+486882 old <LEND>
+486882 ins <LEND>
+;
+; Case 030: L=158513, k1=mardala, newk2=mardalaka
+;  <L>158513<pc>791,2<k1>mardala<k2>mardala<e>2
+;   Larr n=1: (158513) 158513.1 (158514)
+; <info and="158513,mardala;158513.1,mardalaka"/>
+531829 old <s>mardala</s> ¦ (and <s>°laka</s>, <ls>L.</ls>) <lex>m.</lex> a kind of drum, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex="m"/>
+;
+531829 new <s>mardala</s> ¦ (and <s>°laka</s>, <ls>L.</ls>) <lex>m.</lex> a kind of drum, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex="m"/><info and="158513,mardala;158513.1,mardalaka"/>
+; insert metaline 158513.1 mardalaka
+531830 old <LEND>
+531830 ins <L>158513.1<pc>791,2<k1>mardalaka<k2>mardalaka<e>2
+; insert rest of lines for 158513.1 mardalaka
+531830 old <LEND>
+531830 ins <s>mardala</s> ¦ (and <s>°laka</s>, <ls>L.</ls>) <lex>m.</lex> a kind of drum, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex="m"/><info and="158513,mardala;158513.1,mardalaka"/>
+531830 old <LEND>
+531830 ins <LEND>
+;
+; Case 031: L=159098, k1=masi, newk2=masī
+;  <L>159098<pc>794,1<k1>masi<k2>masi<e>1
+;   Larr n=1: (159098) 159098.05 (159098.1)
+; <info and="159098,masi;159098.05,masI"/>
+533680 old <s>masi</s> ¦ and <s>masī</s>, incorrectly for <s>maṣi</s> and <s>maṣī</s> <ab>q.v.</ab> (<s>masī-√ bhū</s>, to become black, <ls>Śiś. xx, 63</ls>; <ab>cf.</ab> <s>maṣī-bhāvuka</s>)
+;
+533680 new <s>masi</s> ¦ and <s>masī</s>, incorrectly for <s>maṣi</s> and <s>maṣī</s> <ab>q.v.</ab> (<s>masī-√ bhū</s>, to become black, <ls>Śiś. xx, 63</ls>; <ab>cf.</ab> <s>maṣī-bhāvuka</s>)<info and="159098,masi;159098.05,masI"/>
+; insert metaline 159098.05 masī
+; Other entry masī : <L>159098.1<pc>794,1<k1>masī<k2>masī<e>1B
+533681 old <LEND>
+533681 ins <L>159098.05<pc>794,1<k1>masī<k2>masī<e>1
+; insert rest of lines for 159098.05 masī
+533681 old <LEND>
+533681 ins <s>masi</s> ¦ and <s>masī</s>, incorrectly for <s>maṣi</s> and <s>maṣī</s> <ab>q.v.</ab> (<s>masī-√ bhū</s>, to become black, <ls>Śiś. xx, 63</ls>; <ab>cf.</ab> <s>maṣī-bhāvuka</s>)<info and="159098,masi;159098.05,masI"/>
+533681 old <LEND>
+533681 ins <LEND>
+;
+; Case 032: L=194533, k1=vigrath, newk2=vi-granth
+;  <L>194533<pc>957,2<k1>vigrath<k2>vi-grath<e>1
+;   Larr n=1: (194533) 194533.1 (194534)
+; <info or="194533,vigraT;194533.1,vigranT"/>
+649240 old <s>vi-</s>√ <hom>1.</hom> <s>grath</s> ¦ (or <s>granth</s>) <ab>P.</ab> <s>-grathnāti</s>, to connect, tie or bind together, wind round, <ls>ŚBr.</ls>; <ls>GṛŚrS.</ls><info verb="pre" cp="P" parse="vi+graT"/>
+;
+649240 new <s>vi-</s>√ <hom>1.</hom> <s>grath</s> ¦ (or <s>granth</s>) <ab>P.</ab> <s>-grathnāti</s>, to connect, tie or bind together, wind round, <ls>ŚBr.</ls>; <ls>GṛŚrS.</ls><info verb="pre" cp="P" parse="vi+graT"/><info or="194533,vigraT;194533.1,vigranT"/>
+; insert metaline 194533.1 vigranth
+649241 old <LEND>
+649241 ins <L>194533.1<pc>957,2<k1>vigranth<k2>vi-granth<e>1
+; insert rest of lines for 194533.1 vigranth
+649241 old <LEND>
+649241 ins <s>vi-</s>√ <hom>1.</hom> <s>grath</s> ¦ (or <s>granth</s>) <ab>P.</ab> <s>-grathnāti</s>, to connect, tie or bind together, wind round, <ls>ŚBr.</ls>; <ls>GṛŚrS.</ls><info verb="pre" cp="P" parse="vi+graT"/><info or="194533,vigraT;194533.1,vigranT"/>
+649241 old <LEND>
+649241 ins <LEND>
+;
+; Case 033: L=196110, k1=vidā, newk2=vi-do
+;  <L>196110<pc>965,3<k1>vidā<k2>vi-dā<h>b<e>1
+;   Larr n=1: (196110) 196110.1 (196111)
+; <info or="196110,vidA;196110.1,vido"/>
+654562 old <div n="to"/>to destroy, <ls>Hariv.</ls><info verb="pre" cp="P" parse="vi+dA"/>
+;
+654562 new <div n="to"/>to destroy, <ls>Hariv.</ls><info verb="pre" cp="P" parse="vi+dA"/><info or="196110,vidA;196110.1,vido"/>
+; insert metaline 196110.1 vido
+654563 old <LEND>
+654563 ins <L>196110.1<pc>965,3<k1>vido<k2>vi-do<e>1
+; insert rest of lines for 196110.1 vido
+654563 old <LEND>
+654563 ins <s>vi-√ dā</s> <hom>b</hom> ¦ (or <s>do</s>, not separable <ab>fr.</ab> √ <hom>4.</hom> <s>dā</s>) <ab>P.</ab> <s>-dāti</s>, or <s>-dyati</s> (<ab>ind.p.</ab> <s>-ditya</s>), to cut up, cut to pieces, bruise, pound, <ls>VS.</ls>;
+654563 old <LEND>
+654563 ins <div n="to"/>to untie, release, deliver from (<ab>abl.</ab>), <ls>ŚBr.</ls>;
+654563 old <LEND>
+654563 ins <div n="to"/>to destroy, <ls>Hariv.</ls><info verb="pre" cp="P" parse="vi+dA"/><info or="196110,vidA;196110.1,vido"/>
+654563 old <LEND>
+654563 ins <LEND>
+;
+; Case 034: L=196130, k1=vidu, newk2=vi-dū
+;  <L>196130<pc>965,3<k1>vidu<k2>vi-du<h>b<e>1
+;   Larr n=1: (196130) 196130.1 (196131)
+; <info or="196130,vidu;196130.1,vidU"/>
+654628 old <div n="to"/> <ab>Ā.</ab> <s>-dunute</s>, <s>-dūyate</s> (<ab>ep.</ab> also <s>°ti</s>), to be agitated or afflicted or distressed, <ls>MBh.</ls>; <ls>BhP.</ls><info verb="pre" cp="PĀ" parse="vi+du"/>
+;
+654628 new <div n="to"/> <ab>Ā.</ab> <s>-dunute</s>, <s>-dūyate</s> (<ab>ep.</ab> also <s>°ti</s>), to be agitated or afflicted or distressed, <ls>MBh.</ls>; <ls>BhP.</ls><info verb="pre" cp="PĀ" parse="vi+du"/><info or="196130,vidu;196130.1,vidU"/>
+; insert metaline 196130.1 vidū
+654629 old <LEND>
+654629 ins <L>196130.1<pc>965,3<k1>vidū<k2>vi-dū<e>1
+; insert rest of lines for 196130.1 vidū
+654629 old <LEND>
+654629 ins <s>vi-√ du</s> <hom>b</hom> ¦ (or <s>dū</s>) <ab>P.</ab> <s>-dunoti</s>, to consume or destroy by burning, <ls>AV.</ls>;
+654629 old <LEND>
+654629 ins <div n="to"/> <ab>Ā.</ab> <s>-dunute</s>, <s>-dūyate</s> (<ab>ep.</ab> also <s>°ti</s>), to be agitated or afflicted or distressed, <ls>MBh.</ls>; <ls>BhP.</ls><info verb="pre" cp="PĀ" parse="vi+du"/><info or="196130,vidu;196130.1,vidU"/>
+654629 old <LEND>
+654629 ins <LEND>
+;
+; Case 035: L=196455, k1=vidh, newk2=vindh
+;  <L>196455<pc>967,2<k1>vidh<k2>vidh<h>2<e>1
+;   Larr n=1: (196455) 196455.1 (196456)
+; <info or="196455,viD;196455.1,vinD"/>
+655656 old <hom>2.</hom> <s>vidh</s> ¦ (or <s>vindh</s>) <ab>cl.</ab> 6. <ab>Ā.</ab> <s>vindháte</s>, to be destitute or bereft of, lack, want (<ab>instr.</ab> or <ab>acc.</ab>), <ls>RV. i, 7, 7; viii, 9, 6; 51, 3.</ls><info verb="root" cp="6Ā"/>
+;
+655656 new <hom>2.</hom> <s>vidh</s> ¦ (or <s>vindh</s>) <ab>cl.</ab> 6. <ab>Ā.</ab> <s>vindháte</s>, to be destitute or bereft of, lack, want (<ab>instr.</ab> or <ab>acc.</ab>), <ls>RV. i, 7, 7; viii, 9, 6; 51, 3.</ls><info verb="root" cp="6Ā"/><info or="196455,viD;196455.1,vinD"/>
+; insert metaline 196455.1 vindh
+; Other entry vindh : <L>197339<pc>972,2<k1>vindh<k2>vindh<e>1
+655657 old <LEND>
+655657 ins <L>196455.1<pc>967,2<k1>vindh<k2>vindh<e>1
+; insert rest of lines for 196455.1 vindh
+655657 old <LEND>
+655657 ins <hom>2.</hom> <s>vidh</s> ¦ (or <s>vindh</s>) <ab>cl.</ab> 6. <ab>Ā.</ab> <s>vindháte</s>, to be destitute or bereft of, lack, want (<ab>instr.</ab> or <ab>acc.</ab>), <ls>RV. i, 7, 7; viii, 9, 6; 51, 3.</ls><info verb="root" cp="6Ā"/><info or="196455,viD;196455.1,vinD"/>
+655657 old <LEND>
+655657 ins <LEND>
+;
+; Case 036: L=197416, k1=vip, newk2=vep
+;  <L>197416<pc>972,3<k1>vip<k2>vip<h>1<e>1
+;   Larr n=1: (197416) 197416.05 (197416.1)
+; <info or="197416,vip;197416.05,vep"/>
+658902 old <div n="to"/><ab>Caus.</ab> <s>vipáyati</s> or <s>vepayati</s> (<ab>aor.</ab> <s>avīvipat</s>), to cause to tremble or move, shake, agitate, <ls>RV.</ls>; &c. <info westergaard="wuvepf,10.6,01.0252"/><info whitneyroots="vip,160"/><info verb="genuineroot" cp="1Ā"/>
+;
+658902 new <div n="to"/><ab>Caus.</ab> <s>vipáyati</s> or <s>vepayati</s> (<ab>aor.</ab> <s>avīvipat</s>), to cause to tremble or move, shake, agitate, <ls>RV.</ls>; &c. <info westergaard="wuvepf,10.6,01.0252"/><info whitneyroots="vip,160"/><info verb="genuineroot" cp="1Ā"/><info or="197416,vip;197416.05,vep"/>
+; insert metaline 197416.05 vep
+; Other entry vep : <L>206235<pc>1018,2<k1>vep<k2>vep<e>1
+658903 old <LEND>
+658903 ins <L>197416.05<pc>972,3<k1>vep<k2>vep<e>1
+; insert rest of lines for 197416.05 vep
+658903 old <LEND>
+658903 ins <hom>1.</hom> <s>vip</s> ¦ (or <s>vep</s>) <ab>cl.</ab> 1. <ab>Ā.</ab> (<ls>Dhātup. x, 6</ls>) <s>vepate</s> (<ab>ep.</ab> also <s>°ti</s>; <ab>p.</ab> <s>vipāná</s>, <ls>RV.</ls>; <ab>pf.</ab> <s>vivepe</s> <ab>Gr.</ab>; <s>vivipre</s>, <ls>RV.</ls>; <ab>aor.</ab> <s>avepiṣṭa</s>, <ls>Br.</ls>; <ab>fut.</ab> <s>vepitā</s>, <s>vepiṣyate</s> <ab>Gr.</ab>; <ab>inf.</ab> <s>vepitum</s>, <ls>ib.</ls>), 
+658903 old <LEND>
+658903 ins <div n="to"/>to tremble, shake, shiver, vibrate, quiver, be stirred, <ls>RV.</ls> &c. &c.;
+658903 old <LEND>
+658903 ins <div n="to"/>to start back through fear, <ls>Pañcar.</ls>; <ls>Kathās.</ls> :
+658903 old <LEND>
+658903 ins <div n="to"/><ab>Caus.</ab> <s>vipáyati</s> or <s>vepayati</s> (<ab>aor.</ab> <s>avīvipat</s>), to cause to tremble or move, shake, agitate, <ls>RV.</ls>; &c. <info westergaard="wuvepf,10.6,01.0252"/><info whitneyroots="vip,160"/><info verb="genuineroot" cp="1Ā"/><info or="197416,vip;197416.05,vep"/>
+658903 old <LEND>
+658903 ins <LEND>
+;
+; Case 037: L=202682, k1=viṣyandin, newk2=vi-syandin
+;  <L>202682<pc>1000,2<k1>viṣyandin<k2>vi-ṣyandin<e>3
+;   Larr n=1: (202682) 202682.1 (202683)
+; <info or="202682,vizyandin;202682.1,visyandin"/>
+676583 old <s>vi-°ṣyandin</s> ¦ (or <s>°sy°</s>) <lex>mfn.</lex> liquid, <ls>Suśr.</ls><info lex="m:f:n"/>
+;
+676583 new <s>vi-°ṣyandin</s> ¦ (or <s>°sy°</s>) <lex>mfn.</lex> liquid, <ls>Suśr.</ls><info lex="m:f:n"/><info or="202682,vizyandin;202682.1,visyandin"/>
+; insert metaline 202682.1 visyandin
+676584 old <LEND>
+676584 ins <L>202682.1<pc>1000,2<k1>visyandin<k2>vi-syandin<e>3
+; insert rest of lines for 202682.1 visyandin
+676584 old <LEND>
+676584 ins <s>vi-°ṣyandin</s> ¦ (or <s>°sy°</s>) <lex>mfn.</lex> liquid, <ls>Suśr.</ls><info lex="m:f:n"/><info or="202682,vizyandin;202682.1,visyandin"/>
+676584 old <LEND>
+676584 ins <LEND>
+;
+; Case 038: L=202863, k1=vistṛ, newk2=vi-stṝ
+;  <L>202863<pc>1001,3<k1>vistṛ<k2>vi-stṛ<e>1
+;   Larr n=1: (202863) 202863.1 (202864)
+; <info or="202863,vistf;202863.1,vistF"/>
+677226 old <div n="to"/>to expose (wares for sale), <ls>Daś.</ls><info verb="pre" cp="PĀ" parse="vi+stf"/>
+;
+677226 new <div n="to"/>to expose (wares for sale), <ls>Daś.</ls><info verb="pre" cp="PĀ" parse="vi+stf"/><info or="202863,vistf;202863.1,vistF"/>
+; insert metaline 202863.1 vistṝ
+677227 old <LEND>
+677227 ins <L>202863.1<pc>1001,3<k1>vistṝ<k2>vi-stṝ<e>1
+; insert rest of lines for 202863.1 vistṝ
+677227 old <LEND>
+677227 ins <s>vi-√ stṛ</s> ¦ (or <s>stṝ</s>) <ab>P.</ab> <ab>Ā.</ab> <s>-stṛṇoti</s>, <s>-stṛṇute</s>;
+677227 old <LEND>
+677227 ins <div n="vp"/> <s>-stṛṇāti</s>, <s>-stṛṇīte</s> (<ab>ep.</ab> also <s>-starati</s>; <ab>ind.p.</ab> <s>-stīrya</s>, or <s>-stṛtya</s>), 
+677227 old <LEND>
+677227 ins <div n="to"/>to spread out, scatter, strew (sacrificial grass), <ls>R.</ls>;
+677227 old <LEND>
+677227 ins <div n="to"/>to expand, extend (wings), <ls>R.</ls>;
+677227 old <LEND>
+677227 ins <div n="to"/>to spread abroad, diffuse, divulge, <ls>BhP.</ls>;
+677227 old <LEND>
+677227 ins <div n="to"/>to enlarge or expatiate upon, speak diffusely about (<ab>acc.</ab>), <ls>MBh.</ls>; <ls>Kāv.</ls> (<s>vi-stīrya</s> <lex type="part">ind.</lex> copiously, at large);
+677227 old <LEND>
+677227 ins <div n="to"/> (with <s>vacanam</s>) to exchange words, converse with (<ab>instr.</ab>), <ls>ib.</ls> :
+677227 old <LEND>
+677227 ins <div n="vp"/><ab>Pass.</ab> <s>-stīryate</s> or <s>-staryate</s> (<ab>fut.</ab> <s>-stariṣyate</s>), to be spread abroad or widely diffused, <ls>Mn.</ls>; <ls>Pañcat.</ls>; <ls>BhP.</ls>;
+677227 old <LEND>
+677227 ins <div n="to"/>to be explained, <ls>Divyâv.</ls> :
+677227 old <LEND>
+677227 ins <div n="vp"/><ab>Caus.</ab> <s>-stārayati</s>, to spread, extend, diffuse, display, <ls>Mn.</ls>; <ls>MBh.</ls> &c. (<s>-stārya</s>, fully, copiously, at length);
+677227 old <LEND>
+677227 ins <div n="to"/>to discuss in detail, <ls>Kull.</ls>;
+677227 old <LEND>
+677227 ins <div n="to"/>to expose (wares for sale), <ls>Daś.</ls><info verb="pre" cp="PĀ" parse="vi+stf"/><info or="202863,vistf;202863.1,vistF"/>
+677227 old <LEND>
+677227 ins <LEND>
+;
+; Case 039: L=210226, k1=vyud, newk2=vy-und
+;  <L>210226<pc>1040,2<k1>vyud<k2>vy-ud<e>1
+;   Larr n=1: (210226) 210226.1 (210227)
+; <info or="210226,vyud;210226.1,vyund"/>
+701419 old <div n="to"/>to sprinkle thoroughly, wet, drench, <ls>ib.</ls>; <ls>AV.</ls><info verb="pre" cp="P" parse="vi+ud"/>
+;
+701419 new <div n="to"/>to sprinkle thoroughly, wet, drench, <ls>ib.</ls>; <ls>AV.</ls><info verb="pre" cp="P" parse="vi+ud"/><info or="210226,vyud;210226.1,vyund"/>
+; insert metaline 210226.1 vyund
+701420 old <LEND>
+701420 ins <L>210226.1<pc>1040,2<k1>vyund<k2>vy-und<e>1
+; insert rest of lines for 210226.1 vyund
+701420 old <LEND>
+701420 ins <s>vy-√ ud</s> ¦ (or <s>und</s>). <ab>P.</ab> <s>-unatti</s>, to spring or gush forth, <ls>RV.</ls>;
+701420 old <LEND>
+701420 ins <div n="to"/>to sprinkle thoroughly, wet, drench, <ls>ib.</ls>; <ls>AV.</ls><info verb="pre" cp="P" parse="vi+ud"/><info or="210226,vyud;210226.1,vyund"/>
+701420 old <LEND>
+701420 ins <LEND>
+;
+; Case 040: L=210707, k1=vrad, newk2=vrand
+;  <L>210707<pc>1043,1<k1>vrad<k2>vrad<e>1
+;   Larr n=1: (210707) 210707.1 (210708)
+; <info or="210707,vrad;210707.1,vrand"/>
+702993 old <s>vrad</s> ¦ (or <s>vrand</s>) <ab>Ā.</ab> <s>-vradate</s> (only <ab>impf.</ab> <s>avradanta</s>), to soften, become soft, <ls>RV. ii, 24, 3</ls> (<ab>cf.</ab> <ls>Nir. v, 16</ls>). <info whitneyroots="vrad,167"/><info verb="root" cp="0Ā"/>
+;
+702993 new <s>vrad</s> ¦ (or <s>vrand</s>) <ab>Ā.</ab> <s>-vradate</s> (only <ab>impf.</ab> <s>avradanta</s>), to soften, become soft, <ls>RV. ii, 24, 3</ls> (<ab>cf.</ab> <ls>Nir. v, 16</ls>). <info whitneyroots="vrad,167"/><info verb="root" cp="0Ā"/><info or="210707,vrad;210707.1,vrand"/>
+; insert metaline 210707.1 vrand
+702994 old <LEND>
+702994 ins <L>210707.1<pc>1043,1<k1>vrand<k2>vrand<e>1
+; insert rest of lines for 210707.1 vrand
+702994 old <LEND>
+702994 ins <s>vrad</s> ¦ (or <s>vrand</s>) <ab>Ā.</ab> <s>-vradate</s> (only <ab>impf.</ab> <s>avradanta</s>), to soften, become soft, <ls>RV. ii, 24, 3</ls> (<ab>cf.</ab> <ls>Nir. v, 16</ls>). <info whitneyroots="vrad,167"/><info verb="root" cp="0Ā"/><info or="210707,vrad;210707.1,vrand"/>
+702994 old <LEND>
+702994 ins <LEND>
+;
+; Case 041: L=231428, k1=saṃdā, newk2=saṃ-do
+;  <L>231428<pc>1143,2<k1>saṃdā<k2>saṃ-dā<h>b<e>1
+;   Larr n=1: (231428) 231428.1 (231429)
+; <info or="231428,saMdA;231428.1,saMdo"/>
+770322 old <div n="to"/>to cut, divide, <ls>AV.</ls><info verb="pre" cp="P" parse="sam+dA"/>
+;
+770322 new <div n="to"/>to cut, divide, <ls>AV.</ls><info verb="pre" cp="P" parse="sam+dA"/><info or="231428,saMdA;231428.1,saMdo"/>
+; insert metaline 231428.1 saṃdo
+770323 old <LEND>
+770323 ins <L>231428.1<pc>1143,2<k1>saṃdo<k2>saṃ-do<e>1
+; insert rest of lines for 231428.1 saṃdo
+770323 old <LEND>
+770323 ins <s>saṃ-√ dā</s> <hom>b</hom> ¦ (or <s>do</s>) <ab>P.</ab> <s>-dāti</s>, or <s>-dyati</s>, to cut together, gather by or after cutting (as the sacrificial grass), <ls>KātyŚr.</ls>;
+770323 old <LEND>
+770323 ins <div n="to"/>to cut, divide, <ls>AV.</ls><info verb="pre" cp="P" parse="sam+dA"/><info or="231428,saMdA;231428.1,saMdo"/>
+770323 old <LEND>
+770323 ins <LEND>
+;
+; Case 042: L=235217, k1=samud, newk2=sam-und
+;  <L>235217<pc>1166,3<k1>samud<k2>sam-ud<h>a<e>1
+;   Larr n=1: (235217) 235217.05 (235217.1)
+; <info or="235217,samud;235217.05,samund"/>
+783145 old <s>sam-√ ud</s> <hom>a</hom> ¦ (or <s>und</s>) <ab>P.</ab> <s>-unatti</s> (<ab>ind.p.</ab> <s>-udya</s>, ‘having well moistened’), to moisten thoroughly, sprinkle all over, water, wet, <ls>PārGṛ.</ls>; <ls>Nir.</ls><info verb="pre" cp="P" parse="sam+ud"/>
+;
+783145 new <s>sam-√ ud</s> <hom>a</hom> ¦ (or <s>und</s>) <ab>P.</ab> <s>-unatti</s> (<ab>ind.p.</ab> <s>-udya</s>, ‘having well moistened’), to moisten thoroughly, sprinkle all over, water, wet, <ls>PārGṛ.</ls>; <ls>Nir.</ls><info verb="pre" cp="P" parse="sam+ud"/><info or="235217,samud;235217.05,samund"/>
+; insert metaline 235217.05 samund
+; Other entry samund : <L>235547<pc>1168,3<k1>samund<k2>sam-und<e>1
+783146 old <LEND>
+783146 ins <L>235217.05<pc>1166,3<k1>samund<k2>sam-und<e>1
+; insert rest of lines for 235217.05 samund
+783146 old <LEND>
+783146 ins <s>sam-√ ud</s> <hom>a</hom> ¦ (or <s>und</s>) <ab>P.</ab> <s>-unatti</s> (<ab>ind.p.</ab> <s>-udya</s>, ‘having well moistened’), to moisten thoroughly, sprinkle all over, water, wet, <ls>PārGṛ.</ls>; <ls>Nir.</ls><info verb="pre" cp="P" parse="sam+ud"/><info or="235217,samud;235217.05,samund"/>
+783146 old <LEND>
+783146 ins <LEND>
+;
+; Case 043: L=236486, k1=sampramath, newk2=sam-pra-manth
+;  <L>236486<pc>1175,3<k1>sampramath<k2>sam-pra-math<e>1
+;   Larr n=1: (236486) 236486.1 (236487)
+; <info or="236486,sampramaT;236486.1,sampramanT"/>
+787349 old <div n="to"/>to tear out (the eyes), <ls>R.</ls><info verb="pre" cp="P" parse="sam+pra+maT"/>
+;
+787349 new <div n="to"/>to tear out (the eyes), <ls>R.</ls><info verb="pre" cp="P" parse="sam+pra+maT"/><info or="236486,sampramaT;236486.1,sampramanT"/>
+; insert metaline 236486.1 sampramanth
+787350 old <LEND>
+787350 ins <L>236486.1<pc>1175,3<k1>sampramanth<k2>sam-pra-manth<e>1
+; insert rest of lines for 236486.1 sampramanth
+787350 old <LEND>
+787350 ins <s>sam-pra-√ math</s> ¦ (or <s>manth</s>) <ab>P.</ab> <s>-mathati</s>, <s>-manthati</s>, or <s>-mathnāti</s> (<ab>ind.p.</ab> <s>-mathya</s> <ab>q.v.</ab>), to stir about or agitate violently, violate, outrage, oppress, harass, annoy, <ls>MBh.</ls>;
+787350 old <LEND>
+787350 ins <div n="to"/>to tear out (the eyes), <ls>R.</ls><info verb="pre" cp="P" parse="sam+pra+maT"/><info or="236486,sampramaT;236486.1,sampramanT"/>
+787350 old <LEND>
+787350 ins <LEND>
+;
+; Case 044: L=236835, k1=sambṛh, newk2=sam-bṛṃh
+;  <L>236835<pc>1178,1<k1>sambṛh<k2>sam-bṛh<h>b<e>1
+;   Larr n=1: (236835) 236835.1 (236836)
+; <info or="236835,sambfh;236835.1,sambfMh"/>
+788530 old <div n="to"/> <s>-bṛṃhayati</s>, to strengthen, refresh, encourage, <ls>MBh.</ls><info verb="pre" cp="P" parse="sam+bfh"/>
+;
+788530 new <div n="to"/> <s>-bṛṃhayati</s>, to strengthen, refresh, encourage, <ls>MBh.</ls><info verb="pre" cp="P" parse="sam+bfh"/><info or="236835,sambfh;236835.1,sambfMh"/>
+; insert metaline 236835.1 sambṛṃh
+788531 old <LEND>
+788531 ins <L>236835.1<pc>1178,1<k1>sambṛṃh<k2>sam-bṛṃh<e>1
+; insert rest of lines for 236835.1 sambṛṃh
+788531 old <LEND>
+788531 ins <hom>b.</hom> <s>sam-</s>√ <hom>2.</hom> <s>bṛh</s> ¦ (or <s>bṛṃh</s>) <ab>P.</ab> <s>-bṛhati</s> (<ab>pf.</ab> <s>-babarha</s>), to join firmly, <ls>AV.</ls>; <ls>ŚBr.</ls> :
+788531 old <LEND>
+788531 ins <div n="to"/><ab>Caus.</ab> <s>-barhayati</s>, to join or unite with (<ab>dat.</ab>), <ls>RV.</ls>;
+788531 old <LEND>
+788531 ins <div n="to"/> <s>-bṛṃhayati</s>, to strengthen, refresh, encourage, <ls>MBh.</ls><info verb="pre" cp="P" parse="sam+bfh"/><info or="236835,sambfh;236835.1,sambfMh"/>
+788531 old <LEND>
+788531 ins <LEND>
+;
+; Case 045: L=237217, k1=sammurch, newk2=sam-mūrch
+;  <L>237217<pc>1180,3<k1>sammurch<k2>sam-murch<e>1
+;   Larr n=1: (237217) 237217.1 (237218)
+; <info or="237217,sammurC;237217.1,sammUrC"/>
+789875 old <div n="to"/>to stupefy, cause to faint, <ls>Uttarar.</ls><info verb="pre" cp="P" parse="sam+murC"/>
+;
+789875 new <div n="to"/>to stupefy, cause to faint, <ls>Uttarar.</ls><info verb="pre" cp="P" parse="sam+murC"/><info or="237217,sammurC;237217.1,sammUrC"/>
+; insert metaline 237217.1 sammūrch
+789876 old <LEND>
+789876 ins <L>237217.1<pc>1180,3<k1>sammūrch<k2>sam-mūrch<e>1
+; insert rest of lines for 237217.1 sammūrch
+789876 old <LEND>
+789876 ins <s>sam-√ murch</s> ¦ (or <s>-mūrch</s>) <ab>P.</ab> <s>-mūrchati</s>, to congeal into a fixed form, become dense, thicken, coagulate, <ls>Kāv.</ls>; <ls>VarBṛS.</ls>; <ls>Suśr.</ls>;
+789876 old <LEND>
+789876 ins <div n="to"/>to become stupid or senseless (See <s>-mūrchita</s>);
+789876 old <LEND>
+789876 ins <div n="to"/>to acquire consistency or firmness or strength, increase, expand, become powerful, make a loud sound, <ls>Ragh.</ls> :
+789876 old <LEND>
+789876 ins <div n="vp"/><ab>Caus.</ab> <s>-mūrchayati</s>, to cause to assume consistency, form, fashion (See <s>-mūrchita-vat</s>);
+789876 old <LEND>
+789876 ins <div n="to"/>to stupefy, cause to faint, <ls>Uttarar.</ls><info verb="pre" cp="P" parse="sam+murC"/><info or="237217,sammurC;237217.1,sammUrC"/>
+789876 old <LEND>
+789876 ins <LEND>
+;
+; Case 046: L=250328, k1=suṣṭhuvah, newk2=suṣṭhú—vā́h
+;  <L>250328<pc>1238,1<k1>suṣṭhuvah<k2>suṣṭhú—váh<e>3
+;   Larr n=1: (250328) 250328.1 (250329)
+; <info or="250328,suzWuvah;250328.1,suzWuvAh"/>
+832767 old <s>suṣṭhú—váh</s> ¦ (or <s>-vā́h</s>) <lex>mfn.</lex> carrying well bearing along rapidly (as horses), <ls>RV.</ls><info lex="m:f:n"/>
+;
+832767 new <s>suṣṭhú—váh</s> ¦ (or <s>-vā́h</s>) <lex>mfn.</lex> carrying well bearing along rapidly (as horses), <ls>RV.</ls><info lex="m:f:n"/><info or="250328,suzWuvah;250328.1,suzWuvAh"/>
+; insert metaline 250328.1 suṣṭhuvāh
+832768 old <LEND>
+832768 ins <L>250328.1<pc>1238,1<k1>suṣṭhuvāh<k2>suṣṭhú—vā́h<e>3
+; insert rest of lines for 250328.1 suṣṭhuvāh
+832768 old <LEND>
+832768 ins <s>suṣṭhú—váh</s> ¦ (or <s>-vā́h</s>) <lex>mfn.</lex> carrying well bearing along rapidly (as horses), <ls>RV.</ls><info lex="m:f:n"/><info or="250328,suzWuvah;250328.1,suzWuvAh"/>
+832768 old <LEND>
+832768 ins <LEND>
+;
+; Case 047: L=252713, k1=sobhari, newk2=sobharī
+;  <L>252713<pc>1249,3<k1>sobhari<k2>sobhari<e>1
+;   Larr n=1: (252713) 252713.1 (252714)
+; <info or="252713,soBari;252713.1,soBarI"/>
+840456 old <s>so<srs/>bhari</s> ¦ (or <s>°rī</s>) <lex>m.</lex> <ab>N.</ab> of the author of the hymns, <ls>RV. viii, 19-22</ls> &c. (having the <ab>patr.</ab> <s>kāṇva</s>, or <s>āṅgirasa</s>), <ls>RV.</ls>; <ls>AV.</ls><info lex="m"/>
+;
+840456 new <s>so<srs/>bhari</s> ¦ (or <s>°rī</s>) <lex>m.</lex> <ab>N.</ab> of the author of the hymns, <ls>RV. viii, 19-22</ls> &c. (having the <ab>patr.</ab> <s>kāṇva</s>, or <s>āṅgirasa</s>), <ls>RV.</ls>; <ls>AV.</ls><info lex="m"/><info or="252713,soBari;252713.1,soBarI"/>
+; insert metaline 252713.1 sobharī
+840457 old <LEND>
+840457 ins <L>252713.1<pc>1249,3<k1>sobharī<k2>sobharī<e>1
+; insert rest of lines for 252713.1 sobharī
+840457 old <LEND>
+840457 ins <s>so<srs/>bhari</s> ¦ (or <s>°rī</s>) <lex>m.</lex> <ab>N.</ab> of the author of the hymns, <ls>RV. viii, 19-22</ls> &c. (having the <ab>patr.</ab> <s>kāṇva</s>, or <s>āṅgirasa</s>), <ls>RV.</ls>; <ls>AV.</ls><info lex="m"/><info or="252713,soBari;252713.1,soBarI"/>
+840457 old <LEND>
+840457 ins <LEND>
+;
