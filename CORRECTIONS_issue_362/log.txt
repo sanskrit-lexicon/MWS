@@ -178,12 +178,6 @@ COLOGNETAGS :  ['῞ϒφασις']
 ABLINE :   the <as0>Vipāṡā</as0> or Beas river (one of the 5 rivers of the <as0ns>Panjāb</as0ns>, said to be so called as having destroyed the cord with which <as0>Vasishṭha</as0> had tried to hang himself through grief for his son slain by <as0>Viṡvāmitra</as0>; it rises in the Kullu range of the <as0>Himâlaya</as0>, and after a course of 290 miles joins the Sutlej at the southern boundary of Kapurthala; it is considered identical with the <lang>*᾿ϒφασις</lang> of Arrian, the Hyphasis of Pliny, and <lang>Βίπασις</lang> of Ptolemy), <ls>MBh.</ls>, <ls>Hariv.</ls>, <ls>Var.</ls>, <ls>Pur.</ls>
 COLOGNELINE :  <s>वि-पाशा</s> ¦ <lex>f.</lex> the <s1 slp1="vipASA">Vipāśā</s1> or Beas river (one of the 5 rivers of the <ns>Panjāb</ns>, said to be so called as having destroyed the cord with which <s1 slp1="vasizWa">Vasiṣṭha</s1> had tried to hang himself through grief for his son slain by <s1 slp1="viSvAmitra">Viśvāmitra</s1>; it rises in the Kullu range of the <s1 slp1="himAlaya">Himâlaya</s1>, and after a course of 290 miles joins the Sutlej at the southern boundary of Kapurthala; it is considered identical with the <lang n="greek">῞ϒφασις</lang> of Arrian, the Hyphasis of Pliny, and <lang n="greek">Βίπασις</lang> of Ptolemy), <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>Var.</ls>; <ls>Pur.</ls><info lex="f"/>
 
-Linenum :  801766
-ABTAG :  ['hazār']
-COLOGNETAGS :  []
-ABLINE :   (rarely) <lex type="hw">m.</lex> (perhaps fr. 7, <s>स</s> <s>हस्र</s> = <ab>Gk.</ab> <lang>χίλιοι</lang> for <lang>χεσλοι</lang>; <ab>cf.</ab> <ab>Pers.</ab> <lang>hazār</lang>) a thousand (with the counted object in the same case <ab>sg.</ab> or <ab>pl.</ab> <ab>e.g.</ab> <s>सहस्रेण बाहुना</s>, “with a thousand arms”, <ls>Hariv.</ls>; <s>सहस्रं भिषजः</s>, “a thousand drugs”, <ls>RV.</ls>; or in the <ab>gen.</ab> <ab>e.g.</ab> <s>द्वे सहस्रे सुवर्णस्य</s>, “two <abE>th</abE>thousand pieces of gold”, <ls>Rājat.</ls>; <s>चत्वारि</s> <s>सहस्राणि वर्षाणाम्</s>, “four <abE>th</abE>thousand years”, <ls>Mn.</ls>; sometimes in <ab>comp.</ab>, either <ab>ibc.</ab> <ab>e.g.</ab> <s>युग-सहस्रम्</s>, “a <abE>th</abE>thousand ages”, <ls>Mn.</ls>, or <ab>ifc.</ab> <ab>e.g.</ab> <s>सहस्राश्वेन</s>, “with a <abE>th</abE>thousand horses”; <phw><dL>240502.1</dL><s>सहस्रम्</s> may also be used as an <lex type="phw">ind.</lex></phw> <ab>e.g.</ab> <s>सहस्रम् ऋषिभिः</s>, “with a <abE>th</abE>thousand <asp0>Ṛishis</asp0>”, <ls>RV.</ls>; with other numerals it is used thus, <s>एकाधिकं सहस्रम्</s>, or <s>एक-सहस्रम्</s>, “a <abE>th</abE>thousand one”, 1001; <s>द्व्यधिकं स्°</s>, “a <abE>th</abE>thousand two”, 1002; <s>एकादशाधिकम् स्°सहस्रम्</s> or <s>एकादशं स्°</s> or <s>एकादश-स्°</s>, “a <abE>th</abE>thousand eleven” or “a <abE>th</abE>thousand having eleven”, 1011; <s>विंशत्य्-अधिकं स्°</s> or <s>विमं स्°</s>, “a <abE>th</abE>thousand twenty”, 1020; <s>द्वे सहस्रे</s> or <s>द्वि-सहच्रम्</s>, “two <abE>th</abE>thousand”; <s>त्रीणि सहस्राणि</s> or <s>त्रि-सहस्रम्</s>, “three <abE>th</abE>thousand” &c.), <ls>RV.</ls> <etcetc/>
-COLOGNELINE :  <s>सह/स्र</s> <hom>b</hom> ¦ <lex>n.</lex> (rarely) <lex type="hw">m.</lex> (perhaps <ab>fr.</ab> 7, <s>स + हस्र</s> = <ab>Gk.</ab> <lang n="greek">χίλιοι</lang> for <lang n="greek">χεσλοι</lang>;
-
 Linenum :  857470
 ABTAG :  ['<abE>o</abE>']
 COLOGNETAGS :  []
@@ -201,10 +195,4 @@ ABTAG :  ['δύς-χιμος']
 COLOGNETAGS :  ['(δύς)-χιμος', 'żëmà']
 ABLINE :   [<ab>cf.</ab> <ab>Zd.</ab> <lang>zima</lang>; <ab>Gk.</ab> (<lang>δύς-χιμος</lang>; <lang>χιών</lang>, <lang>χειμών</lang>; <ab>Lat.</ab> <lang>bīmus</lang> for <lang>bihimus</lang>; <lang>hiems</lang>; <ab>Slav.</ab> <lang>zima</lang> Lit. żëmà]
 COLOGNELINE :  <s>हिम</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>zima</etym>; <ab>Gk.</ab> <lang n="greek">(δύς)-χιμος</lang>; <lang n="greek">χιών</lang>, <lang n="greek">χειμών</lang>; <ab>Lat.</ab> <etym>bīmus</etym> for <etym>bihimus</etym>; <etym>hiems</etym>; <ab>Slav.</ab> <etym>zima</etym> <ab>Lit.</ab> <etym>żëmà</etym>]
-
-Linenum :  878883
-ABTAG :  ['῾Eρμῆς']
-COLOGNETAGS :  ['*῾Ερμῆς']
-ABLINE :   (<ab>Gk.</ab> <lang>῾Eρμῆς</lang>) the planet Mercury, <ls>VarBṛS.</ls>
-COLOGNELINE :  <s>हेम्न</s> ¦ <lex>m.</lex> (<ab>Gk.</ab> <lang n="greek">*῾Ερμῆς</lang>) the planet Mercury, <ls>VarBṛS.</ls><info lex="m"/>
 
