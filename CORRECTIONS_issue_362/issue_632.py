@@ -28,6 +28,8 @@ if __name__ == "__main__":
 			linenum = int(m.group(1)) - 1
 			hw = row[1]
 			abdata = row[4]
+			abdata = abdata.replace('û', 'û')
+			abdata = abdata.replace('î', 'î')
 			ablangs = re.findall('<lang.*?>(.*?)</lang>', abdata)
 			colognedata = mwdata[linenum]
 			col1 = re.sub('<lang.*?>', '<lang>', colognedata)
