@@ -22,12 +22,6 @@
  ([<ab>Zd.</ab> <lang>aži</lang>; <ab>Lat.</ab> <lang>angui-s</lang>; <ab>Gk.</ab> <lang>ἔχι-ς</lang>, <lang>ἔχιδνα</lang>, <lang>ἔγχελυς</lang>, and <lang>ὄφις</lang>; <ab>Lith.</ab> <lang>ungury-s</lang>; <ab>Russ.</ab> $; <ab>Armen.</ab> <lang>ôz</lang>; <ab>Germ.</ab> <lang>unc</lang>.])
 <s>अहि</s> ¦ [<ab>Zd.</ab> <etym>aži</etym>; <ab>Lat.</ab> <etym>angui-s</etym>; <ab>Gk.</ab> <lang n="greek">ἔχι-ς</lang>, <lang n="greek">ἔχιδνα</lang>, <lang n="greek">ἔγχελυς</lang>, and <lang n="greek">ὄφις</lang>; <ab>Lith.</ab> <etym>ungury-s</etym>; <ab>Russ.</ab> <etym>ûgorj</etym>; <ab>Armen.</ab> <etym>ôz</etym>; <ab>Germ.</ab> <etym>unc</etym>.]
 
-104723
-['I7llo', 'I7lju']
-['îllo', 'îlju']
- ([a various reading has the form <s>इळ्</s>: <ab>cf.</ab> Old <ab>Germ.</ab> <lang>îllu</lang>, <lang>I7llo</lang>, for <lang>I7lju</lang>; <ab>Mod.</ab> <ab>Germ.</ab> <lang>Eile</lang>; <ab>Cambro-Brit.</ab> <lang>il</lang>, “progress, motion”; <ab>Gk.</ab> <lang>ἐλάω</lang>])
-<s>इल्</s> ¦ [a various reading has the form <s>इळ्</s>: <ab>cf.</ab> Old <ab>Germ.</ab> <etym>îllu</etym>, <etym>îllo</etym>, for <etym>îlju</etym>; <ab>Mod.</ab> <ab>Germ.</ab> <etym>Eile</etym>; <ab>Cambro-Brit.</ab> <etym>il</etym>, ‘progress, motion’; <ab>Gk.</ab> <lang n="greek">ἐλάω</lang>]
-
 108822
 ['᾿Oζήνη']
 ['᾿Οζήνη']
@@ -123,12 +117,6 @@
 ['taihsvs']
  <lang>δεξιός</lang>; <ab>Lat.</ab> <lang>dex-ter</lang>; <ab>Goth.</ab> <lang>taiksvs</lang>.
 <s>दक्ष</s> ¦ [<ab>cf.</ab> <lang n="greek">δεξιός</lang>; <ab>Lat.</ab> <etym>dex-ter</etym>; <ab>Goth.</ab> <etym>taihsvs</etym>.]
-
-311196
-['ZI7u']
-['Zîu']
- [<ab>cf.</ab> <s>द्यु</s>; <ab>Gk.</ab> <lang>Ζεύς</lang>, <lang>Διϝός</lang> &c. = <lang>dyaús</lang>, <lang>divás</lang>; <ab>Lat.</ab> <lang>Jou</lang>, <lang>Ju</lang> in <lang>Ju-piter</lang>, <lang>Jovis</lang>, <lang>Jovi</lang> &c. = <lang>dyavas</lang>, <lang>dyavi</lang>; <ab>O.E.</ab> <lang>Tíw</lang>; <ab>O.H.G.</ab> <lang>ZI7u</lang> <ab>O.<ab>N.</ab> <lang>Týr</lang>.]
-<s>दिव्</s> ¦ [<ab>cf.</ab> <s>द्यु/</s>; <ab>Gk.</ab> <lang n="greek">Ζεύς</lang>, <lang n="greek">Διϝός</lang> &c. = <etym>dyaús</etym>, <etym>divás</etym>; <ab>Lat.</ab> <etym>Jou</etym>, <etym>Ju</etym> in <etym>Ju-piter</etym>, <etym>Jovis</etym>, <etym>Jovi</etym> &c. = <etym>dyavas</etym>, <etym>dyavi</etym>; <ab>O.E.</ab> <etym>Tíw</etym>; <ab>O.H.G.</ab> <etym>Zîu</etym> <ab>O.N.</ab> <etym>Týr</etym>.]
 
 311778
 ['sub dîo']
