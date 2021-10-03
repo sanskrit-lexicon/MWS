@@ -20,8 +20,10 @@ def read_mw_devanagari():
 
 
 def adjust_abdata(abdata):
+	abdata = abdata.replace('á', 'á')
 	abdata = abdata.replace('û', 'û')
 	abdata = abdata.replace('î', 'î')
+	abdata = abdata.replace('e0', 'ë')
 	abdata = abdata.replace('<auml/>', 'ä')
 	abdata = abdata.replace('<uuml/>', 'ö')
 	return abdata
