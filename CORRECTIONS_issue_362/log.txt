@@ -64,24 +64,6 @@
  ([<ab>cf.</ab> <ab>Zd.</ab> <lang>avjaǹh</lang>, “power”; <ab>Gk.</ab> <lang>ὑγ-ιές</lang>, <lang>αὐγ-ή</lang>, <lang>ἐρι-αυγής</lang>; <ab>Lat.</ab> <lang>vigēre</lang>, <lang>augere</lang>, <lang>augur</lang>, <lang>augus-tus</lang>, <lang>auxilium</lang>; <ab>Goth.</ab> <lang>aukan</lang>, <ab>Eng.</ab> <lang>eke</lang>.])
 <s>ओजस्</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>avjaṅh</etym>, ‘power’; <ab>Gk.</ab> <lang n="greek">ὑγ-ιές</lang>, <lang n="greek">αὐγ-ή</lang>, <lang n="greek">ἐρι-αυγής</lang>; <ab>Lat.</ab> <etym>vigēre</etym>, <etym>augere</etym>, <etym>augur</etym>, <etym>augus-tus</etym>, <etym>auxilium</etym>; <ab>Goth.</ab> <etym>aukan</etym>, <ab>Eng.</ab> <etym>eke</etym>.]
 
-145740
-['kâ']
-['kÂ']
- ([<ab>cf.</ab> <ab>Zd.</ab> <lang>ka</lang>, <lang>kô</lang>, <lang>kâ</lang>, <lang>kat</lang>; <ab>Gk.</ab> <lang>πόθεν</lang>, <lang>πῶς</lang>, (<ab>Ion.</ab> <lang>κόθεν</lang>, <lang>κῶς</lang>,) <lang>τίς</lang>, <lang>τί</lang>; <ab>Lat.</ab> <lang>quis</lang>, <lang>quid</lang>; <ab>Lith.</ab> <lang>kas</lang> <s>क</s>; <ab>Goth.</ab> <lang>hvas</lang>, <lang>hvô</lang>, <lang>hva</lang>, <ab>Angl.Sax.</ab> <lang>hwā</lang>, <lang>hwaet</lang>; <ab>Eng.</ab> <lang>who</lang>, <lang>what</lang>.]) 
-<s>क</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>ka</etym>, <etym>kô</etym>, <etym>kÂ</etym>, <etym>kat</etym>; <ab>Gk.</ab> <lang n="greek">πόθεν</lang>, <lang n="greek">πῶς</lang>, (<ab>Ion.</ab> <lang n="greek">κόθεν</lang>, <lang n="greek">κῶς</lang>,) <lang n="greek">τίς</lang>, <lang n="greek">τί</lang>; <ab>Lat.</ab> <etym>quis</etym>, <etym>quid</etym>; <ab>Lith.</ab> <etym>kas</etym> <s>क/</s>; <ab>Goth.</ab> <etym>hvas</etym>, <etym>hvô</etym>, <etym>hva</etym>, <ab>Angl.Sax.</ab> <etym>hwā</etym>, <etym>hwaet</etym>; <ab>Eng.</ab> <etym>who</etym>, <etym>what</etym>.]
-
-151844
-['hnūtr', 'hnūta']
-['hnūtr', 'hnūta']
- ([<ab>cf.</ab> <ab>Gk.</ab> <lang>κόνδος</lang>, <lang>κονδύλος</lang>; O. H. G. <lang>hnūtr</lang>, <lang>hnūta</lang>])
-<s>कन्द</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">κόνδος</lang>, <lang n="greek">κονδύλος</lang>; <ab>O.H.G.</ab> <etym>hnūtr</etym>, <etym>hnūta</etym>]
-
-205615
-['kūdikis', 'kūdak']
-['kūdikis', 'kūdak']
- ([<ab>cf.</ab> <ab>Lith.</ab> <lang>kūdikis</lang>, “an infant”; <ab>Pers.</ab> <lang script="Arabic" n="Persian">كودك</lang> <lang>kūdak</lang>, “small a boy.”])
-<s>क्षुद्र</s> ¦ [<ab>cf.</ab> <ab>Lith.</ab> <etym>kūdikis</etym>, ‘an infant’; <ab>Pers.</ab> <lang script="Arabic" n="Persian">كودك</lang> <etym>kūdak</etym>, ‘small a boy.’]
-
 206038
 ['᾿Oξυδρακοι']
 ['᾿Οξυδρακοι']
@@ -118,12 +100,6 @@
  <lang>δεξιός</lang>; <ab>Lat.</ab> <lang>dex-ter</lang>; <ab>Goth.</ab> <lang>taiksvs</lang>.
 <s>दक्ष</s> ¦ [<ab>cf.</ab> <lang n="greek">δεξιός</lang>; <ab>Lat.</ab> <etym>dex-ter</etym>; <ab>Goth.</ab> <etym>taihsvs</etym>.]
 
-311778
-['sub dîo']
-['sub dīo']
- [<ab>cf.</ab> <ab>Gk.</ab> <lang>δῖος</lang> for <lang>διϝιος</lang>; <ab>Lat.</ab> <lang>dīus</lang> for <lang>divius</lang> in <lang>sub dîo</lang>.]
-<s>दिव्य</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">δῖος</lang> for <lang n="greek">διϝιος</lang>; <ab>Lat.</ab> <etym>dīus</etym> for <etym>divius</etym> in <etym>sub dīo</etym>.]
-
 319137
 ['in-', 'un-']
 []
@@ -141,12 +117,6 @@
 ['ἐννέα', 'ἐ-νεϝα']
  [<ab>cf.</ab> <ab>Zd.</ab> <lang>navan</lang>; <ab>Gk.</ab> <lang>νέμω</lang> for <lang>ἐ-νϝεα</lang> fr <lang>ἐ-νϝεα</lang> <lang>fa</lang> <ab>Lat.</ab>, <lang>nôvem</lang>; <ab>Goth.</ab> and Old HGerm. <lang>niun</lang>, OSax. and <ab>Angl.Sax.</ab> <lang>nigun</lang>, NHGerm. <lang>neun</lang>, <ab>Eng.</ab> <lang>nine</lang>.]
 <s>नवन्</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>navan</etym>; <ab>Gk.</ab> <lang n="greek">ἐννέα</lang> for <lang n="greek">ἐ-νϝεα</lang> <ab>fr.</ab> <lang n="greek">ἐ-νεϝα</lang> <etym>fa</etym> <ab>Lat.</ab>, <etym>nôvem</etym>; <ab>Goth.</ab> and Old HGerm. <etym>niun</etym>, OSax. and <ab>Angl.Sax.</ab> <etym>nigun</etym>, NHGerm. <etym>neun</etym>, <ab>Eng.</ab> <etym>nine</etym>.]
-
-388161
-['potis-sum']
-[]
- ([<ab>cf.</ab> <ab>Gk.</ab> <lang>πόσις</lang>, “husband”; <ab>Lat.</ab> <lang>potis</lang>, <lang>pos-sum</lang> for <lang>potis-sum</lang>; <ab>Lith.</ab> <lang>patis</lang>, “husband”; <ab>Goth.</ab> (<lang>bruth-</lang>) <lang>faths</lang>, “bridegroom”])
-<s>पति</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">πόσις</lang>, ‘husband’; <ab>Lat.</ab> <etym>potis</etym>, <etym>pos-sum</etym> for <s>potis-sum</s>; <ab>Lith.</ab> <etym>patis</etym>, ‘husband’; <ab>Goth.</ab> (<etym>bruth-</etym>) <etym>faths</etym>, ‘bridegroom’]
 
 403950
 ['pérdz̀u']
@@ -169,7 +139,7 @@
 497345
 []
 ['bogatŭ']
- [<ab>cf.</ab> <ab>Zd.</ab> <lang>bagha</lang> = Old <ab>Pers.</ab> <lang>baga</lang>; <ab>Gk.</ab> <lang>Βαγαῖος</lang>; <ab>Slav.</ab> <lang>bogŭ</lang>, <ns>bogatŭ</ns>; <ab>Lith.</ab> <lang>bagótas</lang>, <lang>na-bágas</lang>.],
+ [<ab>cf.</ab> <ab>Zd.</ab> <lang>bagha</lang> = Old <ab>Pers.</ab> <lang>baga</lang>; <ab>Gk.</ab> <lang>Βαγαῖος</lang>; <ab>Slav.</ab> <lang>bogŭ</lang>, <etym>bogatŭ</etym>; <ab>Lith.</ab> <lang>bagótas</lang>, <lang>na-bágas</lang>.],
 <s>भग</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>bagha</etym> = Old <ab>Pers.</ab> <etym>baga</etym>; <ab>Gk.</ab> <lang n="greek">Βαγαῖος</lang>; <ab>Slav.</ab> <etym>bogŭ</etym>, <etym>bogatŭ</etym>; <ab>Lith.</ab> <etym>bagótas</etym>, <etym>na-bágas</etym>.]
 
 542821
@@ -244,18 +214,6 @@
  the <as0>Vipāṡā</as0> or Beas river (one of the 5 rivers of the <as0ns>Panjāb</as0ns>, said to be so called as having destroyed the cord with which <as0>Vasishṭha</as0> had tried to hang himself through grief for his son slain by <as0>Viṡvāmitra</as0>; it rises in the Kullu range of the <as0>Himâlaya</as0>, and after a course of 290 miles joins the Sutlej at the southern boundary of Kapurthala; it is considered identical with the <lang>*᾿ϒφασις</lang> of Arrian, the Hyphasis of Pliny, and <lang>Βίπασις</lang> of Ptolemy), <ls>MBh.</ls>, <ls>Hariv.</ls>, <ls>Var.</ls>, <ls>Pur.</ls>
 <s>वि-पाशा</s> ¦ <lex>f.</lex> the <s1 slp1="vipASA">Vipāśā</s1> or Beas river (one of the 5 rivers of the <ns>Panjāb</ns>, said to be so called as having destroyed the cord with which <s1 slp1="vasizWa">Vasiṣṭha</s1> had tried to hang himself through grief for his son slain by <s1 slp1="viSvAmitra">Viśvāmitra</s1>; it rises in the Kullu range of the <s1 slp1="himAlaya">Himâlaya</s1>, and after a course of 290 miles joins the Sutlej at the southern boundary of Kapurthala; it is considered identical with the <lang n="greek">῞ϒφασις</lang> of Arrian, the Hyphasis of Pliny, and <lang n="greek">Βίπασις</lang> of Ptolemy), <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>Var.</ls>; <ls>Pur.</ls><info lex="f"/>
 
-766353
-['᾿Eτεοκλῆς']
-['*᾿Eτεοκλῆς']
- “having true <abE>r</abE>renown” (<ab>cf.</ab> <ab>Gk.</ab> <lang>᾿Eτεοκλῆς</lang>)
-<s>सत्य/—श्रवस्</s> ¦ <lex>m.</lex> ‘having true <ab n="renown">r°</ab>’ (<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">*᾿Eτεοκλῆς</lang>)<info lex="m"/>
-
-791435
-['᾿Eριννύς']
-['*᾿Eριννύς']
- [<ab>cf.</ab> <ab>accord.</ab> to some, <ab>Gk.</ab> <lang>᾿Eριννύς</lang>.]
-<s>सरण्यु/</s> ¦ [<ab>cf.</ab> <ab>accord.</ab> to some, <ab>Gk.</ab> <lang n="greek">*᾿Eριννύς</lang>.]
-
 801765
 ['hazār']
 []
@@ -267,12 +225,6 @@
 []
  [<ab>cf.</ab> <ab>Gk.</ab> <lang>ἕ</lang>, <lang>ὅ</lang>, <lang>σφός</lang>; <ab>Lat.</ab> <lang>se</lang>, <lang>sovos</lang>, <lang>suus</lang>; <ab>Goth.</ab> <lang>sik</lang>; <ab>Germ.</ab> <lang>sich</lang> <etc/>] (<ab>N.</ab>B. in the following <ab>comp.</ab> <lang><abE>o</abE></lang> own stands for one’s own).
 <s>स्व</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἕ</lang>, <lang n="greek">ὅ</lang>, <lang n="greek">σφός</lang>; <ab>Lat.</ab> <etym>se</etym>, <etym>sovos</etym>, <etym>suus</etym>; <ab>Goth.</ab> <etym>sik</etym>; <ab>Germ.</ab> <etym>sich</etym> &c.]
-
-860822
-['svādu']
-['svAdu']
- [<ab>cf.</ab> <ab>Gk.</ab> <lang>ἥδομαι</lang>; <ab>Lat.</ab> <lang>suadeo</lang>, and under <lang>svādu</lang>.]
-<s>स्वाद्</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἥδομαι</lang>; <ab>Lat.</ab> <etym>suadeo</etym>, and under <etym>svAdu</etym>.]
 
 864943
 ['z̀asís']

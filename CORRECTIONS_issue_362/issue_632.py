@@ -28,6 +28,7 @@ def adjust_abdata(abdata):
 	abdata = abdata.replace('e0', 'ë')
 	abdata = abdata.replace('o0', 'ö')
 	abdata = abdata.replace('ē', 'ē')
+	abdata = abdata.replace('ū', 'ū')
 	abdata = abdata.replace('ḍ', 'ḍ')
 	abdata = abdata.replace('ñ', 'ñ')
 	abdata = abdata.replace('<auml/>', 'ä')
