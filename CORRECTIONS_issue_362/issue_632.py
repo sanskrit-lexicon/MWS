@@ -21,6 +21,7 @@ def read_mw_devanagari():
 
 def adjust_abdata(abdata):
 	abdata = abdata.replace('á', 'á')
+	abdata = abdata.replace('é', 'é')
 	abdata = abdata.replace('û', 'û')
 	abdata = abdata.replace('î', 'î')
 	abdata = abdata.replace('a0', 'ä')

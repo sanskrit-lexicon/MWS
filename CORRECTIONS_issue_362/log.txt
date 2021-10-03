@@ -106,23 +106,11 @@
  ([= <etym>βάσκ-ω</etym>])
 <ab>Ved.</ab> and Class. <ab>cl.</ab> 1. <ab>P.</ab> (also <ab>Ā.</ab> <ls>MBh.</ls> &c.), with substitution of <s>गच्छ्</s> ([= <lang n="greek">βάσκ-ω</lang>]) for <s>गम्</s>, <s>ग/च्छति</s> 
 
-225194
-['giéras']
-['giéras']
- ([<ab>cf.</ab> <lang>βαρύς</lang>; <ab>Lat.</ab> <lang>gravis</lang>; <ab>Goth.</ab> <lang>kauriths</lang>; <ab>Lith.</ab> <lang>giéras</lang>.])
-<s>गुरु</s> ¦ [<ab>cf.</ab> <lang n="greek">βαρύς</lang>; <ab>Lat.</ab> <etym>gravis</etym>; <ab>Goth.</ab> <etym>kauriths</etym>; <ab>Lith.</ab> <etym>giéras</etym>.]
-
 260932
 ['γενετήρ']
 ['γενετήρ', 'genitor']
  (<ls>Pāṇ. vi, 4, 53</ls>) a progenitor, father, <lang>γενετήρ</lang>, (<ab>Lat.</ab>) <s>गेनितोर्</s>, <ls>RV.</ls>, <ls>VS.</ls>, <ls>AV.</ls>, <ls>ChUp.</ls>, <ls>ṠvetUp.</ls>, <ls>Pañcat.</ls>
 <s>जनितृ/</s> ¦ <s>जनितृ/</s>or (along with <s>जजा/न</s> 4 times) <s>ज/न्°इतृ</s>, <lex>m.</lex> (<ls>Pāṇ. 6-4, 53</ls>) a progenitor, father, <lang n="greek">γενετήρ</lang>, (<ab>Lat.</ab>) <etym>genitor</etym>, <ls>RV.</ls>; <ls>VS.</ls>; <ls>AV.</ls>; <ls>ChUp.</ls>; <ls>ŚvetUp.</ls>; <ls>Pañcat.</ls><info lex="m"/>
-
-295408
-['√tares']
-['√ tares']
- ([<ab>cf.</ab> Zend <lang>√tares</lang>; <lang>τρέω</lang>; <ab>Lat.</ab> <lang>terreo</lang>.])
-<s>त्रस्</s> ¦ [<ab>cf.</ab> Zend <etym>√ tares</etym>; <lang n="greek">τρέω</lang>; <ab>Lat.</ab> <etym>terreo</etym>.]
 
 298895
 ['Thrita']
@@ -154,12 +142,6 @@
  [<ab>cf.</ab> <ab>Gk.</ab> <lang>δῖος</lang> for <lang>διϝιος</lang>; <ab>Lat.</ab> <lang>dīus</lang> for <lang>divius</lang> in <lang>sub dîo</lang>.]
 <s>दिव्य</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">δῖος</lang> for <lang n="greek">διϝιος</lang>; <ab>Lat.</ab> <etym>dīus</etym> for <etym>divius</etym> in <etym>sub dIo</etym>.]
 
-312084
-['téon']
-['téon']
- [<ab>cf.</ab> Z. <lang>dis</lang>; <ab>Gk.</ab> <lang>δείκνυμι</lang>; <ab>Lat.</ab> <lang>dīco</lang>, <lang>in-dṛcare</lang> &c.; <ab>Goth.</ab> <lang>teihan</lang>; O. E. <lang>téon</lang> (<ab>fr.</ab> <lang>tíhan</lang>).]
-<s>दिश्</s> ¦ [<ab>cf.</ab> Z. <etym>dis</etym>; <ab>Gk.</ab> <lang n="greek">δείκνυμι</lang>; <ab>Lat.</ab> <etym>dīco</etym>, <etym>in-dṛcare</etym> &c.; <ab>Goth.</ab> <etym>teihan</etym>; <ab>O.E.</ab> <etym>téon</etym> (<ab>fr.</ab> <etym>tíhan</etym>).]
-
 319137
 ['in-', 'un-']
 []
@@ -172,12 +154,6 @@
  [<ab>cf.</ab> <ab>Gk.</ab> <lang>δέρω</lang> and <lang>δαίρω</lang>; <ab>Lith.</ab> <lang>dirú</lang>; <ab>Slav.</ab> <lang>drati</lang>; <ab>Goth.</ab> <lang>tairan</lang>; <ab>Angl.Sax.</ab> <lang>tëran</lang>; <ab>Eng.</ab> <lang>to@tear</lang>; <ab>Germ.</ab> <lang>zerren</lang>, <lang>zehren</lang>.]
 <s>दॄ</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">δέρω</lang> and <lang n="greek">δαίρω</lang>; <ab>Lith.</ab> <etym>dirú</etym>; <ab>Slav.</ab> <etym>drati</etym>; <ab>Goth.</ab> <etym>tairan</etym>; <ab>Angl.Sax.</ab> <etym>tëran</etym>; <ab>Eng.</ab> <etym>to tear</etym>; <ab>Germ.</ab> <etym>zerren</etym>, <etym>zehren</etym>.]
 
-325207
-['déveris']
-['déveris']
- [<ab>cf.</ab> <ab>Arm.</ab> <lang>taigr</lang>; <ab>Gk.</ab> <lang>δαήρ</lang>; <ab>Lat.</ab> <lang>levir</lang>; <ab>Angl.Sax.</ab> <lang>tacur</lang>; <ab>Germ.</ab> <lang>zeihhur</lang>; <ab>Lith.</ab> <lang>déveris</lang>; <ab>Slav.</ab> <lang>dĕveri</lang>.]
-<s>देवृ</s> ¦ [<ab>cf.</ab> <ab>Arm.</ab> <etym>taigr</etym>; <ab>Gk.</ab> <lang n="greek">δαήρ</lang>; <ab>Lat.</ab> <etym>levir</etym>; <ab>Angl.Sax.</ab> <etym>tacur</etym>; <ab>Germ.</ab> <etym>zeihhur</etym>; <ab>Lith.</ab> <etym>déveris</etym>; <ab>Slav.</ab> <etym>dĕveri</etym>.]
-
 330396
 ['δϝι']
 ['Διϝός']
@@ -189,12 +165,6 @@
 ['ḍbish']
  ([<ab>cf.</ab> <ab>Zd.</ab> <lang>ḍbish</lang>; <ab>Gk.</ab> <lang>ὀ-δύσ-ατο</lang>; <ab>Germ.</ab> <lang>Zwist</lang>.])
 <s>द्विष्</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>ḍbish</etym>; <ab>Gk.</ab> <lang n="greek">ὀ-δύσ-ατο</lang>; <ab>Germ.</ab> <etym>Zwist</etym>.]
-
-338802
-['déti']
-['déti']
- [<ab>cf.</ab> <ab>Zd.</ab> <lang>dā</lang>, <lang>dadaiti</lang>; <ab>Gk.</ab> <lang>θε-</lang>, <lang>θη-</lang>, <lang>τίθημι</lang>; <ab>Lith.</ab> <lang>dedú</lang>, <lang>déti</lang>; <ab>Slav.</ab> <lang>dedja</lang>, <lang>diti</lang>; Old <ab>Sax.</ab> <lang>duan</lang>, <lang>dôn</lang>, <ab>Angl.Sax.</ab> <lang>dôn</lang>, Engl. <lang>do</lang>; <ab>Germ.</ab> <lang>tuan</lang>; <lang>tuon</lang>, <lang>thun</lang>.]
-<s>धा</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>dā</etym>, <etym>dadaiti</etym>; <ab>Gk.</ab> <lang n="greek">θε-</lang>, <lang n="greek">θη-</lang>, <lang n="greek">τίθημι</lang>; <ab>Lith.</ab> <etym>dedú</etym>, <etym>déti</etym>; <ab>Slav.</ab> <etym>dedja</etym>, <etym>diti</etym>; Old <ab>Sax.</ab> <etym>duan</etym>, <etym>dôn</etym>, <ab>Angl.Sax.</ab> <etym>dôn</etym>, Engl. <etym>do</etym>; <ab>Germ.</ab> <etym>tuan</etym>; <etym>tuon</etym>, <etym>thun</etym>.]
 
 339636
 ['θωμός\\']
@@ -214,12 +184,6 @@
  [<ab>cf.</ab> <ab>Zd.</ab> <lang>navan</lang>; <ab>Gk.</ab> <lang>νέμω</lang> for <lang>ἐ-νϝεα</lang> fr <lang>ἐ-νϝεα</lang> <lang>fa</lang> <ab>Lat.</ab>, <lang>nôvem</lang>; <ab>Goth.</ab> and Old HGerm. <lang>niun</lang>, OSax. and <ab>Angl.Sax.</ab> <lang>nigun</lang>, NHGerm. <lang>neun</lang>, <ab>Eng.</ab> <lang>nine</lang>.]
 <s>नवन्</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>navan</etym>; <ab>Gk.</ab> <lang n="greek">ἐννέα</lang> for <lang n="greek">ἐ-νϝεα</lang> <ab>fr.</ab> <lang n="greek">ἐ-νεϝα</lang> <etym>fa</etym> <ab>Lat.</ab>, <etym>nôvem</etym>; <ab>Goth.</ab> and Old HGerm. <etym>niun</etym>, OSax. and <ab>Angl.Sax.</ab> <etym>nigun</etym>, NHGerm. <etym>neun</etym>, <ab>Eng.</ab> <etym>nine</etym>.]
 
-385348
-['pénktas']
-['pénktas']
- [<ab>cf.</ab> <ab>Zd.</ab> <lang>pukhdha</lang>; <ab>Gk.</ab> <lang>πέμπτος</lang>; <ab>Lat.</ab> <lang>quinctus</lang>, <lang>quintus</lang> for <lang>pinctus</lang>; <ab>Lith.</ab> <lang>pénktas</lang>; <ab>Goth.</ab> <lang>fimfta</lang>; <ab>Germ.</ab> <lang>fönfte</lang>; <ab>Angl.Sax.</ab> <lang>fifta</lang>; <ab>Eng.</ab> <lang>fifth</lang>.]
-<s>पञ्चथ</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>pukhdha</etym>; <ab>Gk.</ab> <lang n="greek">πέμπτος</lang>; <ab>Lat.</ab> <etym>quinctus</etym>, <etym>quintus</etym> for <etym>pinctus</etym>; <ab>Lith.</ab> <etym>pénktas</etym>; <ab>Goth.</ab> <etym>fimfta</etym>; <ab>Germ.</ab> <etym>fönfte</etym>; <ab>Angl.Sax.</ab> <etym>fifta</etym>; <ab>Eng.</ab> <etym>fifth</etym>.]
-
 385360
 ['pañcan']
 ['pañcan']
@@ -238,16 +202,10 @@
  ([<ab>cf.</ab> <ab>Gk.</ab> <lang>πόσις</lang>, “husband”; <ab>Lat.</ab> <lang>potis</lang>, <lang>pos-sum</lang> for <lang>potis-sum</lang>; <ab>Lith.</ab> <lang>patis</lang>, “husband”; <ab>Goth.</ab> (<lang>bruth-</lang>) <lang>faths</lang>, “bridegroom”])
 <s>पति</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">πόσις</lang>, ‘husband’; <ab>Lat.</ab> <etym>potis</etym>, <s>पोस्-सुम्</s> for <s>पोतिस्-सुम्</s>; <ab>Lith.</ab> <etym>patis</etym>, ‘husband’; <ab>Goth.</ab> (<etym>bruth-</etym>) <etym>faths</etym>, ‘bridegroom’]
 
-403446
-['pérnay']
-['pérnay']
- [<ab>cf.</ab> <s>परारि</s>; <ab>Gk.</ab> <lang>πέρυτι</lang>, <lang>πέρυσι</lang>; <ab>Lith.</ab> <lang>pérnay</lang>; <ab>Goth.</ab> <lang>faírneis</lang>; <ab>Angl.Sax.</ab> <lang>fyrn</lang>; HGerm. <lang>vert</lang>, <lang>verne</lang>.]
-<s>परुत्</s> ¦ [<ab>cf.</ab> <s>परारि</s>; <ab>Gk.</ab> <lang n="greek">πέρυτι</lang>, <lang n="greek">πέρυσι</lang>; <ab>Lith.</ab> <etym>pérnay</etym>; <ab>Goth.</ab> <etym>faírneis</etym>; <ab>Angl.Sax.</ab> <etym>fyrn</etym>; HGerm. <etym>vert</etym>, <etym>verne</etym>.]
-
 403950
-['pérdz̀u']
+['pérdz̀u']
 ['pérdżu']
- [<ab>cf.</ab> <ab>Gk.</ab> <lang>πέρδω</lang>; <ab>Lat.</ab> <lang>pēdo</lang>, <lang>pōdex</lang>; <ab>Lith.</ab> <lang>pérdz̀u</lang>; <ab>Germ.</ab> <lang>farzen</lang>, <lang>furzen</lang>; <ab>Angl.Sax.</ab> <lang>feortan</lang>; <ab>Eng.</ab> <lang>fart</lang>.]
+ [<ab>cf.</ab> <ab>Gk.</ab> <lang>πέρδω</lang>; <ab>Lat.</ab> <lang>pēdo</lang>, <lang>pōdex</lang>; <ab>Lith.</ab> <lang>pérdz̀u</lang>; <ab>Germ.</ab> <lang>farzen</lang>, <lang>furzen</lang>; <ab>Angl.Sax.</ab> <lang>feortan</lang>; <ab>Eng.</ab> <lang>fart</lang>.]
 <s>पर्द्</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">πέρδω</lang>; <ab>Lat.</ab> <etym>pēdo</etym>, <etym>pōdex</etym>; <ab>Lith.</ab> <etym>pérdżu</etym>; <ab>Germ.</ab> <etym>farzen</etym>, <etym>furzen</etym>; <ab>Angl.Sax.</ab> <etym>feortan</etym>; <ab>Eng.</ab> <etym>fart</etym>.]
 
 419966
@@ -268,41 +226,11 @@
  <ab>N.</ab> of a king of <as0>Kaṡmīra</as0>, <ls>Cat.</ls> (= <lang script="Arabic" n="Arabic">فتح</lang> شاه).
 <s>फतिह-भूपति</s> ¦ and <s>फतिह-शाह</s>, <lex>m.</lex> <ab>N.</ab> of a king of <s1 slp1="kaSmIra">Kaśmīra</s1>, <ls>Cat.</ls> . (= فتح <lang script="Arabic" n="Persian">شاه</lang>)<info and="141699,PatihaBUpati;141699.1,PatihaSAha"/><info lex="m"/>
 
-480043
-['béndras']
-['béndras']
- [<ab>cf.</ab> <ab>Zd.</ab> <lang>band</lang>; <ab>Gk.</ab> <lang>πενθερός</lang>, <lang>πεῖσμα</lang>; <ab>Lat.</ab> <lang>foedus</lang>, <lang>fides</lang>; Lit. <lang>béndras</lang>; <ab>Goth.</ab> <ab>Angl.Sax.</ab> <lang>bindan</lang>; <ab>Germ.</ab> <lang>binden</lang>; <ab>Eng.</ab> <lang>bind</lang>.]
-<s>बन्ध्</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>band</etym>; <ab>Gk.</ab> <lang n="greek">πενθερός</lang>, <lang n="greek">πεῖσμα</lang>; <ab>Lat.</ab> <etym>foedus</etym>, <etym>fides</etym>; <ab>Lit.</ab> <etym>béndras</etym>; <ab>Goth.</ab> <ab>Angl.Sax.</ab> <etym>bindan</etym>; <ab>Germ.</ab> <etym>binden</etym>; <ab>Eng.</ab> <etym>bind</etym>.]
-
-481177
-['béras']
-['béras']
- [<ab>cf.</ab> <ab>Gk.</ab> <lang>φρύνη</lang>, <lang>φρῦνος</lang>; <ab>Lith.</ab> <lang>béras</lang>, <lang>brúnas</lang>; <ab>Germ.</ab> <lang>brûn</lang>, <lang>braun</lang>; <ab>Eng.</ab> <lang>brown</lang>.]
-<s>बभ्रु</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">φρύνη</lang>, <lang n="greek">φρῦνος</lang>; <ab>Lith.</ab> <etym>béras</etym>, <etym>brúnas</etym>; <ab>Germ.</ab> <etym>brûn</etym>, <etym>braun</etym>; <ab>Eng.</ab> <etym>brown</etym>.]
-
-490003
-['budéti', 'béodan']
-['budéti', 'béodan']
- [<ab>cf.</ab> <ab>Zd.</ab> <lang>bud</lang>; <ab>Gk.</ab> <lang>πυθ</lang> for (<lang>φυθ</lang>) in <lang>πυνθάνομαι</lang>, <lang>πυθέσθαι</lang>, <ab>Slav.</ab> <lang>bŭdĕti</lang>, <lang>bŭdrŭ</lang>; <ab>Lith.</ab> <lang>budéti</lang>, <lang>budrús</lang>; <ab>Goth.</ab> <lang>biudan</lang>; <ab>Germ.</ab> <lang>biotan</lang>, <lang>bieten</lang>; <ab>Angl.Sax.</ab> <lang>béodan</lang>; <ab>Eng.</ab> <lang>bid</lang>.]
-<s>बुध्</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>bud</etym>; <ab>Gk.</ab> <lang n="greek">πυθ</lang> for (<lang n="greek">φυθ</lang>) in <lang n="greek">πυνθάνομαι</lang>, <lang n="greek">πυθέσθαι</lang>, <ab>Slav.</ab> <etym>bŭdĕti</etym>, <etym>bŭdrŭ</etym>; <ab>Lith.</ab> <etym>budéti</etym>, <etym>budrús</etym>; <ab>Goth.</ab> <etym>biudan</etym>; <ab>Germ.</ab> <etym>biotan</etym>, <etym>bieten</etym>; <ab>Angl.Sax.</ab> <etym>béodan</etym>; <ab>Eng.</ab> <etym>bid</etym>.]
-
 497345
 ['bogŭ']
 ['bogŭ, bogatŭ']
  [<ab>cf.</ab> <ab>Zd.</ab> <lang>bagha</lang> = Old <ab>Pers.</ab> <lang>baga</lang>; <ab>Gk.</ab> <lang>Βαγαῖος</lang>; <ab>Slav.</ab> <lang>bogŭ</lang>, <ns>bogatŭ</ns>; <ab>Lith.</ab> <lang>bagótas</lang>, <lang>na-bágas</lang>.],
 <s>भग</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>bagha</etym> = Old <ab>Pers.</ab> <etym>baga</etym>; <ab>Gk.</ab> <lang n="greek">Βαγαῖος</lang>; <ab>Slav.</ab> <etym>bogŭ, bogatŭ</etym>; <ab>Lith.</ab> <etym>bagótas</etym>, <etym>na-bágas</etym>.]
-
-526146
-['minéti']
-['minéti']
- [<ab>cf.</ab> <ab>Zd.</ab> <lang>man</lang>; <ab>Gk.</ab> <lang>μένω</lang>, <lang>μέμονα</lang>, <ab>Lat.</ab> <lang>meminisse</lang>, <lang>monere</lang>; <ab>Slav.</ab> and <ab>Lith.</ab> <lang>minéti</lang>; <ab>Goth.</ab> <lang>ga-munan</lang>; Germ, <lang>meinen</lang>; <ab>Eng.</ab> <lang>mean</lang>.]
-<s>मन्</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>man</etym>; <ab>Gk.</ab> <lang n="greek">μένω</lang>, <lang n="greek">μέμονα</lang>, <ab>Lat.</ab> <etym>meminisse</etym>, <etym>monere</etym>; <ab>Slav.</ab> and <ab>Lith.</ab> <etym>minéti</etym>; <ab>Goth.</ab> <etym>ga-munan</etym>; <ab>Germ.</ab> <etym>meinen</etym>; <ab>Eng.</ab> <etym>mean</etym>.]
-
-532732
-['mélynas']
-['mélynas']
- [<ab>cf.</ab> <ab>Gk.</ab> <lang>μέλας</lang>; <ab>Lat.</ab> <lang>mălus</lang>; <ab>Lith.</ab> <lang>mólis</lang>, <lang>mélynas</lang>.]
-<s>मल</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">μέλας</lang>; <ab>Lat.</ab> <etym>mălus</etym>; <ab>Lith.</ab> <etym>mólis</etym>, <etym>mélynas</etym>.]
 
 542821
 []
@@ -353,9 +281,9 @@
 <s>वम्</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἐμέω</lang> for <lang n="greek">ϝεμέω</lang>; <ab>Lat.</ab> <etym>vomere</etym>; <ab>Lith.</ab> <etym>vémti</etym>.]
 
 624113
-['ἐμέω', 'ϝεμέω', 'vomere', 'vémti']
+['ἐμέω', 'ϝεμέω', 'vomere', 'vémti']
 ['εὖρος']
- [<ab>cf.</ab> <ab>Gk.</ab> <lang>ἐμέω</lang> for <lang>ϝεμέω</lang>; <ab>Lat.</ab> <lang>vomere</lang>; <ab>Lith.</ab> <lang>vémti</lang>.]
+ [<ab>cf.</ab> <ab>Gk.</ab> <lang>ἐμέω</lang> for <lang>ϝεμέω</lang>; <ab>Lat.</ab> <lang>vomere</lang>; <ab>Lith.</ab> <lang>vémti</lang>.]
 <s>व/रस्</s> ¦ <lex>n.</lex> width, breadth, expanse, room, space, <ls>RV.</ls> [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">εὖρος</lang>.]<info lex="n"/>
 
 624274
@@ -371,16 +299,10 @@
 <s>व/रूत्रि</s> ¦ <lex>f.</lex> a female protector, guardian goddess (applied to a <ab>partic.</ab> class of divine beings), <ls>RV.</ls>; <ls>TS.</ls>; <ls>VS.</ls>; <ls>ŚBr. [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">π῾ύτωρ</lang> for <lang n="greek">ϝερυτωρ</lang>.] </ls><info orsl="186745,varUtrI;186745.1,varUtri"/><info lex="f"/>
 
 632651
-['véz̀ti', 'w<euml/>gan']
+['véz̀ti', 'w<euml/>gan']
 ['véżti', 'wëgan']
- ([<ab>cf.</ab> <ab>Gk.</ab> <lang>ὄχος</lang> for <lang>ϝοχος</lang>, <lang>ὀχέομαι</lang>; <ab>Lat.</ab> <lang>vehere</lang>, <lang>vehiculum</lang>; <ab>Slav.</ab> <lang>vesti</lang>; <ab>Lith.</ab> <lang>véz̀ti</lang>; <ab>Goth.</ab> <lang>gawigan</lang>; <ab>Germ.</ab> <lang>w<euml/>gan</lang>, <lang>bewegen</lang>; <ab>Eng.</ab> <lang>weigh</lang>.])
+ ([<ab>cf.</ab> <ab>Gk.</ab> <lang>ὄχος</lang> for <lang>ϝοχος</lang>, <lang>ὀχέομαι</lang>; <ab>Lat.</ab> <lang>vehere</lang>, <lang>vehiculum</lang>; <ab>Slav.</ab> <lang>vesti</lang>; <ab>Lith.</ab> <lang>véz̀ti</lang>; <ab>Goth.</ab> <lang>gawigan</lang>; <ab>Germ.</ab> <lang>w<euml/>gan</lang>, <lang>bewegen</lang>; <ab>Eng.</ab> <lang>weigh</lang>.])
 <s>वह्</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὄχος</lang> for <lang n="greek">ϝοχος</lang>, <lang n="greek">ὀχέομαι</lang>; <ab>Lat.</ab> <etym>vehere</etym>, <etym>vehiculum</etym>; <ab>Slav.</ab> <etym>vesti</etym>; <ab>Lith.</ab> <etym>véżti</etym>; <ab>Goth.</ab> <etym>gawigan</etym>; <ab>Germ.</ab> <etym>wëgan</etym>, <etym>bewegen</etym>; <ab>Eng.</ab> <etym>weigh</etym>.]
-
-644024
-['aég']
-['aég']
- [<ab>cf.</ab> 1. <s>वयस्</s>; <ab>Gk.</ab> <lang>οἰωνός</lang> for <lang>ὀϝιωνος</lang>; <ab>Lat.</ab> <lang>a-vis</lang>; <ab>accord.</ab> to some <ab>Germ.</ab> <lang>Ei</lang>; <ab>Angl.Sax.</ab> <lang>aég</lang>; <ab>Eng.</ab> <lang>egg.</lang>]
-<s>वि</s> ¦ [<ab>cf.</ab> <hom>1.</hom> <s>व/यस्</s>; <ab>Gk.</ab> <lang n="greek">οἰωνός</lang> for <lang n="greek">ὀϝιωνος</lang>; <ab>Lat.</ab> <etym>a-vis</etym>; <ab>accord.</ab> to some <ab>Germ.</ab> <etym>Ei</etym>; <ab>Angl.Sax.</ab> <etym>aég</etym>; <ab>Eng.</ab> <etym>egg.</etym>]
 
 660623
 ['*᾿ϒφασις']
@@ -388,35 +310,11 @@
  the <as0>Vipāṡā</as0> or Beas river (one of the 5 rivers of the <as0ns>Panjāb</as0ns>, said to be so called as having destroyed the cord with which <as0>Vasishṭha</as0> had tried to hang himself through grief for his son slain by <as0>Viṡvāmitra</as0>; it rises in the Kullu range of the <as0>Himâlaya</as0>, and after a course of 290 miles joins the Sutlej at the southern boundary of Kapurthala; it is considered identical with the <lang>*᾿ϒφασις</lang> of Arrian, the Hyphasis of Pliny, and <lang>Βίπασις</lang> of Ptolemy), <ls>MBh.</ls>, <ls>Hariv.</ls>, <ls>Var.</ls>, <ls>Pur.</ls>
 <s>वि-पाशा</s> ¦ <lex>f.</lex> the <s1 slp1="vipASA">Vipāśā</s1> or Beas river (one of the 5 rivers of the <ns>Panjāb</ns>, said to be so called as having destroyed the cord with which <s1 slp1="vasizWa">Vasiṣṭha</s1> had tried to hang himself through grief for his son slain by <s1 slp1="viSvAmitra">Viśvāmitra</s1>; it rises in the Kullu range of the <s1 slp1="himAlaya">Himâlaya</s1>, and after a course of 290 miles joins the Sutlej at the southern boundary of Kapurthala; it is considered identical with the <lang n="greek">*῞υφασις</lang> of Arrian, the Hyphasis of Pliny, and <lang n="greek">Βίπασις</lang> of Ptolemy), <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>Var.</ls>; <ls>Pur.</ls><info lex="f"/>
 
-747029
-['szészuras']
-['szészuras']
- [<ab>cf.</ab> <ab>Gk.</ab> <lang>ἑκυρός</lang>; <ab>Lat.</ab> <lang>socer</lang>; <ab>Lith.</ab> <lang>szészuras</lang>; <ab>Slav.</ab> <lang>svekrŭ</lang>; <ab>Goth.</ab> <lang>swaihra</lang>; <ab>Angl.Sax.</ab> <lang>sweór</lang>; <ab>Germ.</ab> <lang>swëher</lang>, <lang>Schwäher</lang>.]
-<s>श्वशुर</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἑκυρός</lang>; <ab>Lat.</ab> <etym>socer</etym>; <ab>Lith.</ab> <etym>szészuras</etym>; <ab>Slav.</ab> <etym>svekrŭ</etym>; <ab>Goth.</ab> <etym>swaihra</etym>; <ab>Angl.Sax.</ab> <etym>sweór</etym>; <ab>Germ.</ab> <etym>swëher</etym>, <etym>Schwäher</etym>.]
-
-764375
-['ésas']
-['ésas']
- [<ab>cf.</ab> <ab>Gk.</ab> <lang>ὥν</lang>, <lang>ἐών</lang> for <lang>ἐσων</lang>; <ab>Lat.</ab> <lang>sens</lang> in <lang>absens</lang>, <lang>pra-sens</lang>; <lang>sons</lang>, “guilty”, <ab>orig.</ab> “the real doer”; <ab>Lith.</ab> <lang>sās</lang>, <lang>ésas</lang>; <ab>Slav.</ab> <lang>sy</lang>, <lang>sašta</lang>.]
-<s>सत्</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὥν</lang>, <lang n="greek">ἐών</lang> for <lang n="greek">ἐσων</lang>; <ab>Lat.</ab> <etym>sens</etym> in <etym>absens</etym>, <etym>pra-sens</etym>; <etym>sons</etym>, ‘guilty’, <ab>orig.</ab> ‘the real doer’; <ab>Lith.</ab> <etym>sās</etym>, <etym>ésas</etym>; <ab>Slav.</ab> <etym>sy</etym>, <etym>sašta</etym>.]
-
 766353
 ['᾿Eτεοκλῆς']
 ['*᾿ετεοκλῆς']
  “having true <abE>r</abE>renown” (<ab>cf.</ab> <ab>Gk.</ab> <lang>᾿Eτεοκλῆς</lang>)
 <s>सत्य/—श्रवस्</s> ¦ <lex>m.</lex> ‘having true <ab n="renown">r°</ab>’ (<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">*᾿ετεοκλῆς</lang>)<info lex="m"/>
-
-767860
-['sésti', 'sedéti']
-['sésti', 'sedéti']
- [<ab>cf.</ab> <ab>Gk.</ab> <lang>ἴζω</lang> for <lang>σίσδω</lang>; <ab>Lat.</ab> <lang>sidere</lang>, <lang>sedere</lang>; <ab>Lith.</ab> <lang>sésti</lang>, <lang>sedéti</lang>; <ab>Slav.</ab> <lang>sĕsti</lang>; <ab>Goth.</ab> <lang>sitan</lang>; <ab>Germ.</ab> <lang>sitzen</lang>; <ab>Angl.Sax.</ab> <lang>sittan</lang>; <ab>Eng.</ab> <lang>sit</lang>.]
-<s>सद्</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἴζω</lang> for <lang n="greek">σίσδω</lang>; <ab>Lat.</ab> <etym>sidere</etym>, <etym>sedere</etym>; <ab>Lith.</ab> <etym>sésti</etym>, <etym>sedéti</etym>; <ab>Slav.</ab> <etym>sĕsti</etym>; <ab>Goth.</ab> <etym>sitan</etym>; <ab>Germ.</ab> <etym>sitzen</etym>; <ab>Angl.Sax.</ab> <etym>sittan</etym>; <ab>Eng.</ab> <etym>sit</etym>.]
-
-775649
-['sékma-s']
-['sékma-s']
- [<ab>cf.</ab> <ab>Zd.</ab> <lang>haptatha</lang>; <ab>Gk.</ab> <lang>ἕβδομος</lang>; <ab>Lat.</ab> <s>सेप्तिमुस्</s>; <ab>Lith.</ab> <lang>sékma-s</lang>; <ab>Slav.</ab> <lang>sedmŭ</lang> <etc/>]
-<s>सप्तम</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>haptatha</etym>; <ab>Gk.</ab> <lang n="greek">ἕβδομος</lang>; <ab>Lat.</ab> <s>सेप्तिमुस्</s>; <ab>Lith.</ab> <etym>sékma-s</etym>; <ab>Slav.</ab> <etym>sedmŭ</etym> &c.]
 
 791435
 ['᾿Eριννύς']
@@ -447,12 +345,6 @@
 ['stöhnen']
  ([<ab>cf.</ab> <ab>Gk.</ab> <lang>στένω</lang>; <ab>Slav.</ab> <lang>stenja</lang>; <ab>Angl.Sax.</ab> <lang>stunian</lang>; <ab>Germ.</ab> <lang>sto0hnen</lang>.])
 <s>स्तन्</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">στένω</lang>; <ab>Slav.</ab> <etym>stenja</etym>; <ab>Angl.Sax.</ab> <etym>stunian</etym>; <ab>Germ.</ab> <etym>stöhnen</etym>.]
-
-856979
-['sravéti']
-['sravéti']
- [<ab>cf.</ab> <ab>Gk.</ab> <lang>ρ῾έω</lang> (for <lang>σρεϝω</lang>), <lang>ρ῾ύσις</lang> &c.; <ab>Lith.</ab> <lang>sravéti</lang>; <ab>Germ.</ab> <lang>stroum</lang>, <lang>Strom</lang>; <ab>Angl.Sax.</ab> <lang>streám</lang>; <ab>Eng.</ab> <lang>stream</lang>.]
-<s>स्रु</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ρ῾έω</lang> (for <lang n="greek">σρεϝω</lang>), <lang n="greek">ρ῾ύσις</lang> &c.; <ab>Lith.</ab> <etym>sravéti</etym>; <ab>Germ.</ab> <etym>stroum</etym>, <etym>Strom</etym>; <ab>Angl.Sax.</ab> <etym>streám</etym>; <ab>Eng.</ab> <etym>stream</etym>.]
 
 857469
 ['<abE>o</abE>']
