@@ -35,8 +35,8 @@ if __name__ == "__main__":
 			colognelangs = re.findall('<lang.*?>(.*?)</lang>', col1)
 			if ablangs != colognelangs:
 				print(linenum)
-				print(list(set(ablangs) - set(colognelangs)))
-				print(list(set(colognelangs) - set(ablangs)))
+				print([x for x in ablangs if x not in colognelangs])
+				print([x for x in colognelangs if x not in ablangs])
 				print(abdata)
 				print(colognedata)
 				print()
