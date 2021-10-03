@@ -1,9 +1,3 @@
-Linenum :  7152
-ABTAG :  []
-COLOGNETAGS :  ['oẓys']
-ABLINE :   ([<ab>cf.</ab> <ab>Gk.</ab> <lang>αἴξ</lang>, <lang>αἰγός</lang>; <ab>Lith.</ab> oẓys])
-COLOGNELINE :  ¦ a he-goat, ram ([<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">αἴξ</lang>,<lang n="greek">αἰγός</lang>; <ab>Lith.</ab> <etym>oẓys</etym>])<info lex="inh"/>
-
 Linenum :  72718
 ABTAG :  ['asztuni']
 COLOGNETAGS :  ['asztůni']
@@ -21,12 +15,6 @@ ABTAG :  []
 COLOGNETAGS :  ['ûgorj']
 ABLINE :   ([<ab>Zd.</ab> <lang>aži</lang>; <ab>Lat.</ab> <lang>angui-s</lang>; <ab>Gk.</ab> <lang>ἔχι-ς</lang>, <lang>ἔχιδνα</lang>, <lang>ἔγχελυς</lang>, and <lang>ὄφις</lang>; <ab>Lith.</ab> <lang>ungury-s</lang>; <ab>Russ.</ab> $; <ab>Armen.</ab> <lang>ôz</lang>; <ab>Germ.</ab> <lang>unc</lang>.])
 COLOGNELINE :  <s>अहि</s> ¦ [<ab>Zd.</ab> <etym>aži</etym>; <ab>Lat.</ab> <etym>angui-s</etym>; <ab>Gk.</ab> <lang n="greek">ἔχι-ς</lang>, <lang n="greek">ἔχιδνα</lang>, <lang n="greek">ἔγχελυς</lang>, and <lang n="greek">ὄφις</lang>; <ab>Lith.</ab> <etym>ungury-s</etym>; <ab>Russ.</ab> <etym>ûgorj</etym>; <ab>Armen.</ab> <etym>ôz</etym>; <ab>Germ.</ab> <etym>unc</etym>.]
-
-Linenum :  108823
-ABTAG :  ['᾿Oζήνη']
-COLOGNETAGS :  ['᾿Οζήνη']
-ABLINE :   the city <as0ns>Oujein</as0ns> (the <ab>Gk.</ab> <lang>᾿Oζήνη</lang>, a city so called in <as0>Avanti</as0> or <as0>Mālava</as0>, formerly the capital of <as0>Vikramāditya</as0>; it is one of the seven sacred cities of the <as0ns>Hindūs</as0ns>, and the first meridian of their geographers, from which they calculate longitude; the modern <as0ns>Oujein</as0ns> is about a mile south of the ancient city), <ls>Hit.</ls>, <ls>Megh.</ls>, <ls>Rājat. &c.</ls>
-COLOGNELINE :  <s>उज्-जयिनी</s> ¦ <lex>f.</lex> the city <ns>Oujein</ns> (the <ab>Gk.</ab> <lang n="greek">᾿Οζήνη</lang>, a city so called in <s1 slp1="avanti">Avanti</s1> or <s1 slp1="mAlava">Mālava</s1>, formerly the capital of <s1 slp1="vikramAditya">Vikramāditya</s1>; it is one of the seven sacred cities of the <ns>Hindūs</ns>, and the first meridian of their geographers, from which they calculate longitude; the modern <ns>Oujein</ns> is about a mile south of the ancient city), <ls>Hit.</ls>; <ls>Megh.</ls>; <ls>Rājat.</ls> &c.<info lex="f"/>
 
 Linenum :  110507
 ABTAG :  ['β']
@@ -64,12 +52,6 @@ COLOGNETAGS :  ['avjaṅh']
 ABLINE :   ([<ab>cf.</ab> <ab>Zd.</ab> <lang>avjaǹh</lang>, “power”; <ab>Gk.</ab> <lang>ὑγ-ιές</lang>, <lang>αὐγ-ή</lang>, <lang>ἐρι-αυγής</lang>; <ab>Lat.</ab> <lang>vigēre</lang>, <lang>augere</lang>, <lang>augur</lang>, <lang>augus-tus</lang>, <lang>auxilium</lang>; <ab>Goth.</ab> <lang>aukan</lang>, <ab>Eng.</ab> <lang>eke</lang>.])
 COLOGNELINE :  <s>ओजस्</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>avjaṅh</etym>, ‘power’; <ab>Gk.</ab> <lang n="greek">ὑγ-ιές</lang>, <lang n="greek">αὐγ-ή</lang>, <lang n="greek">ἐρι-αυγής</lang>; <ab>Lat.</ab> <etym>vigēre</etym>, <etym>augere</etym>, <etym>augur</etym>, <etym>augus-tus</etym>, <etym>auxilium</etym>; <ab>Goth.</ab> <etym>aukan</etym>, <ab>Eng.</ab> <etym>eke</etym>.]
 
-Linenum :  206039
-ABTAG :  ['᾿Oξυδρακοι']
-COLOGNETAGS :  ['᾿Οξυδρακοι']
-ABLINE :   <ab>N.</ab> of a people living by warfare (the <lang>᾿Oξυδρακοι</lang>), <ls>MBh. ii, 1871; vi, 2106</ls>, <ls>Pāṇ. v, 3, 114</ls>, <ls>Kāṡ.</ls>
-COLOGNELINE :  <s>क्षुद्रक</s> ¦ <lex>m. <ab>pl.</ab></lex> <ab>N.</ab> of a people living by warfare (the <lang n="greek">᾿Οξυδρακοι</lang>), <ls>MBh. ii, 1871; vi, 2106</ls>; <ls>Pāṇ. 5-3, 114</ls>; <ls>Kāś.</ls><info lex="m"/>
-
 Linenum :  209995
 ABTAG :  []
 COLOGNETAGS :  ['χώννυμι']
@@ -87,12 +69,6 @@ ABTAG :  ['γενετήρ']
 COLOGNETAGS :  ['γενετήρ', 'genitor']
 ABLINE :   (<ls>Pāṇ. vi, 4, 53</ls>) a progenitor, father, <lang>γενετήρ</lang>, (<ab>Lat.</ab>) <s>गेनितोर्</s>, <ls>RV.</ls>, <ls>VS.</ls>, <ls>AV.</ls>, <ls>ChUp.</ls>, <ls>ṠvetUp.</ls>, <ls>Pañcat.</ls>
 COLOGNELINE :  <s>जनितृ/</s> ¦ <s>जनितृ/</s>or (along with <s>जजा/न</s> 4 times) <s>ज/न्°इतृ</s>, <lex>m.</lex> (<ls>Pāṇ. 6-4, 53</ls>) a progenitor, father, <lang n="greek">γενετήρ</lang>, (<ab>Lat.</ab>) <etym>genitor</etym>, <ls>RV.</ls>; <ls>VS.</ls>; <ls>AV.</ls>; <ls>ChUp.</ls>; <ls>ŚvetUp.</ls>; <ls>Pañcat.</ls><info lex="m"/>
-
-Linenum :  298896
-ABTAG :  ['Thrita']
-COLOGNETAGS :  []
-ABLINE :   <ab>Zd.</ab> <lang>Thrita</lang>; <lang>Τρίτων</lang>, <lang>τριτο-γενής</lang>, &c.)
-COLOGNELINE :  <lang n="greek">Τρίτων</lang>, <lang n="greek">τριτο-γενής</lang>, &c.)<info lex="m"/>
 
 Linenum :  301378
 ABTAG :  ['taiksvs']
@@ -184,22 +160,10 @@ COLOGNETAGS :  ['vatsara']
 ABLINE :   [<ab>cf.</ab> <s>vatsara</s> and <lang>ἔτος</lang> for <lang>ϝέτος</lang>; <ab>Lat.</ab> vetus, <lang>vetus-tus</lang>, <lang>vitulus</lang>; <ab>Germ.</ab> <lang>widar</lang>, <lang>Widder</lang>; <ab>Eng.</ab> <lang>wether</lang>.]
 COLOGNELINE :  <s>वत्स</s> ¦ [<ab>cf.</ab> <etym>vatsara</etym> and <lang n="greek">ἔτος</lang> for <lang n="greek">ϝέτος</lang>; <ab>Lat.</ab> vetus, <etym>vetus-tus</etym>, <etym>vitulus</etym>; <ab>Germ.</ab> <etym>widar</etym>, <etym>Widder</etym>; <ab>Eng.</ab> <etym>wether</etym>.]
 
-Linenum :  623508
-ABTAG :  ['venia', 'Venus', 'gawinnan', 'gewinnen', 'win']
-COLOGNETAGS :  ['ἐμέω', 'ϝεμέω', 'vomere', 'vémti']
-ABLINE :   [<ab>cf.</ab> <ab>Lat.</ab> <lang>venia</lang>, <lang>Venus</lang>; Got. <lang>gawinnan</lang>; <ab>Germ.</ab> <lang>gewinnen</lang>; <ab>Eng.</ab> <lang>win</lang>.]
-COLOGNELINE :  <s>वम्</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἐμέω</lang> for <lang n="greek">ϝεμέω</lang>; <ab>Lat.</ab> <etym>vomere</etym>; <ab>Lith.</ab> <etym>vémti</etym>.]
-
-Linenum :  624114
-ABTAG :  ['ἐμέω', 'ϝεμέω', 'vomere', 'vémti']
-COLOGNETAGS :  ['εὖρος']
-ABLINE :   [<ab>cf.</ab> <ab>Gk.</ab> <lang>ἐμέω</lang> for <lang>ϝεμέω</lang>; <ab>Lat.</ab> <lang>vomere</lang>; <ab>Lith.</ab> <lang>vémti</lang>.]
-COLOGNELINE :  <s>व/रस्</s> ¦ <lex>n.</lex> width, breadth, expanse, room, space, <ls>RV.</ls> [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">εὖρος</lang>.]<info lex="n"/>
-
 Linenum :  624275
-ABTAG :  ['εὖρος']
+ABTAG :  []
 COLOGNETAGS :  ['Οὐρανός']
-ABLINE :   [<ab>cf.</ab> <ab>Gk.</ab> <lang>εὖρος</lang>.]
+ABLINE :  ||
 COLOGNELINE :  <s1 slp1="varuRa">Varuṇa</s1> is one of the oldest of the Vedic gods, and is commonly thought to correspond to the <lang n="greek">Οὐρανός</lang> of the Greeks, although of a more spiritual conception;
 
 Linenum :  632652
