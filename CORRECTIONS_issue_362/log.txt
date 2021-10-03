@@ -1,244 +1,244 @@
-Linenum :  7151
+Linenum :  7152
 ABTAG :  []
 COLOGNETAGS :  ['oẓys']
 ABLINE :   ([<ab>cf.</ab> <ab>Gk.</ab> <lang>αἴξ</lang>, <lang>αἰγός</lang>; <ab>Lith.</ab> oẓys])
 COLOGNELINE :  ¦ a he-goat, ram ([<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">αἴξ</lang>,<lang n="greek">αἰγός</lang>; <ab>Lith.</ab> <etym>oẓys</etym>])<info lex="inh"/>
 
-Linenum :  72717
+Linenum :  72718
 ABTAG :  ['asztuni']
 COLOGNETAGS :  ['asztůni']
 ABLINE :   ([<ab>Lat.</ab> <lang>octo</lang>; <ab>Gk.</ab> <lang>ὀκτώ</lang>. <ab>Goth.</ab> <lang>ahtau</lang>; <ab>Mod.</ab> <ab>Germ.</ab> <lang>acht</lang>; <ab>Eng.</ab> <lang>eight</lang>; <ab>Lith.</ab> <lang>asztuni</lang>; <ab>Slav.</ab> <lang>osmj</lang>.])
 COLOGNELINE :  <s>अष्टन्</s> ¦ [<ab>Lat.</ab> <etym>octo</etym>; <ab>Gk.</ab> <lang n="greek">ὀκτώ</lang>. <ab>Goth.</ab> <etym>ahtau</etym>; <ab>Mod.</ab> <ab>Germ.</ab> <etym>acht</etym>; <ab>Eng.</ab> <etym>eight</etym>; <ab>Lith.</ab> <etym>asztůni</etym>; <ab>Slav.</ab> <etym>osmj</etym>.]
 
-Linenum :  77871
+Linenum :  77872
 ABTAG :  ['aSem']
 COLOGNETAGS :  ['azem']
 ABLINE :   [<ab>Zd.</ab> <lang>aSem</lang>; <ab>Gk.</ab> <lang>ἐγώ</lang>; <ab>Goth.</ab> <lang>ik</lang>; <ab>Mod.</ab> <ab>Germ.</ab> <lang>ich</lang>; <ab>Lith.</ab> <lang>asz</lang>; <ab>Slav.</ab> <lang>az</lang>].
 COLOGNELINE :  <s>अहम्</s> ¦ [<ab>Zd.</ab> <etym>azem</etym>; <ab>Gk.</ab> <lang n="greek">ἐγώ</lang>; <ab>Goth.</ab> <etym>ik</etym>; <ab>Mod.</ab> <ab>Germ.</ab> <etym>ich</etym>; <ab>Lith.</ab> <etym>asz</etym>; <ab>Slav.</ab> <etym>az</etym>].
 
-Linenum :  78369
+Linenum :  78370
 ABTAG :  []
 COLOGNETAGS :  ['ûgorj']
 ABLINE :   ([<ab>Zd.</ab> <lang>aži</lang>; <ab>Lat.</ab> <lang>angui-s</lang>; <ab>Gk.</ab> <lang>ἔχι-ς</lang>, <lang>ἔχιδνα</lang>, <lang>ἔγχελυς</lang>, and <lang>ὄφις</lang>; <ab>Lith.</ab> <lang>ungury-s</lang>; <ab>Russ.</ab> $; <ab>Armen.</ab> <lang>ôz</lang>; <ab>Germ.</ab> <lang>unc</lang>.])
 COLOGNELINE :  <s>अहि</s> ¦ [<ab>Zd.</ab> <etym>aži</etym>; <ab>Lat.</ab> <etym>angui-s</etym>; <ab>Gk.</ab> <lang n="greek">ἔχι-ς</lang>, <lang n="greek">ἔχιδνα</lang>, <lang n="greek">ἔγχελυς</lang>, and <lang n="greek">ὄφις</lang>; <ab>Lith.</ab> <etym>ungury-s</etym>; <ab>Russ.</ab> <etym>ûgorj</etym>; <ab>Armen.</ab> <etym>ôz</etym>; <ab>Germ.</ab> <etym>unc</etym>.]
 
-Linenum :  108822
+Linenum :  108823
 ABTAG :  ['᾿Oζήνη']
 COLOGNETAGS :  ['᾿Οζήνη']
 ABLINE :   the city <as0ns>Oujein</as0ns> (the <ab>Gk.</ab> <lang>᾿Oζήνη</lang>, a city so called in <as0>Avanti</as0> or <as0>Mālava</as0>, formerly the capital of <as0>Vikramāditya</as0>; it is one of the seven sacred cities of the <as0ns>Hindūs</as0ns>, and the first meridian of their geographers, from which they calculate longitude; the modern <as0ns>Oujein</as0ns> is about a mile south of the ancient city), <ls>Hit.</ls>, <ls>Megh.</ls>, <ls>Rājat. &c.</ls>
 COLOGNELINE :  <s>उज्-जयिनी</s> ¦ <lex>f.</lex> the city <ns>Oujein</ns> (the <ab>Gk.</ab> <lang n="greek">᾿Οζήνη</lang>, a city so called in <s1 slp1="avanti">Avanti</s1> or <s1 slp1="mAlava">Mālava</s1>, formerly the capital of <s1 slp1="vikramAditya">Vikramāditya</s1>; it is one of the seven sacred cities of the <ns>Hindūs</ns>, and the first meridian of their geographers, from which they calculate longitude; the modern <ns>Oujein</ns> is about a mile south of the ancient city), <ls>Hit.</ls>; <ls>Megh.</ls>; <ls>Rājat.</ls> &c.<info lex="f"/>
 
-Linenum :  110506
+Linenum :  110507
 ABTAG :  ['β']
 COLOGNETAGS :  ['Β']
 ABLINE :   the star <lang>β</lang> in the little bear (personified as son of <as0>Vīra</as0> or <as0>Manu</as0> <as0>Svāyambhuva</as0> and father of <as0>Dhruva</as0>), <ls>Hariv.</ls>, <ls>VP.</ls> &c.
 COLOGNELINE :  <s>उत्-तान/—पाद</s> ¦ <lex>m.</lex> the star <lang n="greek">Β</lang> in the little bear (personified as son of <s1 slp1="vIra">Vīra</s1> or <s1 slp1="manu">Manu</s1> <s1 slp1="svAyamBuva">Svāyambhuva</s1> and father of <s1 slp1="Druva">Dhruva</s1>), <ls>Hariv.</ls>; <ls>VP.</ls> &c.<info lex="m"/>
 
-Linenum :  125915
+Linenum :  125916
 ABTAG :  ['öber']
 COLOGNETAGS :  ['über']
 ABLINE :   ([<ab>cf.</ab> Zend <lang>upairi</lang>; <ab>Goth.</ab> <lang>ufar</lang>; Old <ab>Germ.</ab> <lang>obar</lang>; <ab>Mod.</ab> <ab>Germ.</ab> <lang>öber</lang>; <ab>Eng.</ab> <lang>over</lang>; <ab>Gk.</ab> <lang>ὑπέρ</lang>; <ab>Lat.</ab> <lang>super</lang>.])
 COLOGNELINE :  <s>उपरि</s> ¦ [<ab>cf.</ab> Zend <etym>upairi</etym>; <ab>Goth.</ab> <etym>ufar</etym>; Old <ab>Germ.</ab> <etym>obar</etym>; <ab>Mod.</ab> <ab>Germ.</ab> <etym>über</etym>; <ab>Eng.</ab> <etym>over</etym>; <ab>Gk.</ab> <lang n="greek">ὑπέρ</lang>; <ab>Lat.</ab> <etym>super</etym>.]
 
-Linenum :  137615
+Linenum :  137616
 ABTAG :  []
 COLOGNETAGS :  ['earfoð']
 ABLINE :   ([<ab>cf.</ab> <ab>Gk.</ab> <lang>ἀλφεῖν</lang>; <ab>Lat.</ab> <lang>labor</lang>; <ab>Goth.</ab> <lang>arb-aiths</lang>; <ab>Angl.Sax.</ab> $; <ab>Slav.</ab> <lang>rab-ŭ</lang>.])
 COLOGNELINE :  <s>ऋभु</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἀλφεῖν</lang>; <ab>Lat.</ab> <etym>labor</etym>; <ab>Goth.</ab> <etym>arb-aiths</etym>; <ab>Angl.Sax.</ab> <etym>earfoð</etym>; <ab>Slav.</ab> <etym>rab-ŭ</etym>.]
 
-Linenum :  137743
+Linenum :  137744
 ABTAG :  ['2', '3']
 COLOGNETAGS :  ['ἄψ-ορρος', 'παλίν-ορσος']
 ABLINE :   ([<ab>cf.</ab> <ab>Gk.</ab> <lang>ἔρση</lang> (?); <lang>2</lang>, “flowing back”; <lang>3</lang>, “darting back.”])
 COLOGNELINE :  <div n="vp"/> ([<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἔρση</lang> (?); <lang n="greek">ἄψ-ορρος</lang>, ‘flowing back’; <lang n="greek">παλίν-ορσος</lang>, ‘darting back.’])<info whitneyroots="fz,16"/><info verb="genuineroot" cp="1P"/>
 
-Linenum :  137806
+Linenum :  137807
 ABTAG :  ['arSan']
 COLOGNETAGS :  ['arshan']
 ABLINE :   ([<ab>cf.</ab> <ab>Zd.</ab> <lang>arSan</lang>; <ab>Gk.</ab> <lang>ἄρσην</lang>.])
 COLOGNELINE :  <s>ऋषभ</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>arshan</etym>; <ab>Gk.</ab> <lang n="greek">ἄρσην</lang>.]
 
-Linenum :  143382
+Linenum :  143383
 ABTAG :  ['avjaǹh']
 COLOGNETAGS :  ['avjaṅh']
 ABLINE :   ([<ab>cf.</ab> <ab>Zd.</ab> <lang>avjaǹh</lang>, “power”; <ab>Gk.</ab> <lang>ὑγ-ιές</lang>, <lang>αὐγ-ή</lang>, <lang>ἐρι-αυγής</lang>; <ab>Lat.</ab> <lang>vigēre</lang>, <lang>augere</lang>, <lang>augur</lang>, <lang>augus-tus</lang>, <lang>auxilium</lang>; <ab>Goth.</ab> <lang>aukan</lang>, <ab>Eng.</ab> <lang>eke</lang>.])
 COLOGNELINE :  <s>ओजस्</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>avjaṅh</etym>, ‘power’; <ab>Gk.</ab> <lang n="greek">ὑγ-ιές</lang>, <lang n="greek">αὐγ-ή</lang>, <lang n="greek">ἐρι-αυγής</lang>; <ab>Lat.</ab> <etym>vigēre</etym>, <etym>augere</etym>, <etym>augur</etym>, <etym>augus-tus</etym>, <etym>auxilium</etym>; <ab>Goth.</ab> <etym>aukan</etym>, <ab>Eng.</ab> <etym>eke</etym>.]
 
-Linenum :  206038
+Linenum :  206039
 ABTAG :  ['᾿Oξυδρακοι']
 COLOGNETAGS :  ['᾿Οξυδρακοι']
 ABLINE :   <ab>N.</ab> of a people living by warfare (the <lang>᾿Oξυδρακοι</lang>), <ls>MBh. ii, 1871; vi, 2106</ls>, <ls>Pāṇ. v, 3, 114</ls>, <ls>Kāṡ.</ls>
 COLOGNELINE :  <s>क्षुद्रक</s> ¦ <lex>m. <ab>pl.</ab></lex> <ab>N.</ab> of a people living by warfare (the <lang n="greek">᾿Οξυδρακοι</lang>), <ls>MBh. ii, 1871; vi, 2106</ls>; <ls>Pāṇ. 5-3, 114</ls>; <ls>Kāś.</ls><info lex="m"/>
 
-Linenum :  209994
+Linenum :  209995
 ABTAG :  []
 COLOGNETAGS :  ['χώννυμι']
 ABLINE :   ([<ab>cf.</ab> <lang>χαίνω</lang>, <lang>χανῶ</lang>, <lang>χανῶ</lang>; Old <ab>Germ.</ab> <lang>ginēm</lang>, <lang>ginōm</lang>; <ab>Mod.</ab> <ab>Germ.</ab> <lang>gähne</lang>; <ab>Angl.Sax.</ab> <lang>cina</lang>, <lang>cinan</lang>; <ab>Lat.</ab> <lang>cuniculus</lang>, <lang>canalis</lang>.])
 COLOGNELINE :  <s>खन्</s> ¦ [<ab>cf.</ab> <lang n="greek">χαίνω</lang>, <lang n="greek">χανῶ</lang>, <lang n="greek">χώννυμι</lang>; Old <ab>Germ.</ab> <etym>ginēm</etym>, <etym>ginōm</etym>; <ab>Mod.</ab> <ab>Germ.</ab> <etym>gähne</etym>; <ab>Angl.Sax.</ab> <etym>cina</etym>, <etym>cinan</etym>; <ab>Lat.</ab> <etym>cuniculus</etym>, <etym>canalis</etym>.]
 
-Linenum :  216892
+Linenum :  216893
 ABTAG :  []
 COLOGNETAGS :  ['βάσκ-ω']
 ABLINE :   ([= <etym>βάσκ-ω</etym>])
 COLOGNELINE :  <ab>Ved.</ab> and Class. <ab>cl.</ab> 1. <ab>P.</ab> (also <ab>Ā.</ab> <ls>MBh.</ls> &c.), with substitution of <s>गच्छ्</s> ([= <lang n="greek">βάσκ-ω</lang>]) for <s>गम्</s>, <s>ग/च्छति</s> 
 
-Linenum :  260932
+Linenum :  260933
 ABTAG :  ['γενετήρ']
 COLOGNETAGS :  ['γενετήρ', 'genitor']
 ABLINE :   (<ls>Pāṇ. vi, 4, 53</ls>) a progenitor, father, <lang>γενετήρ</lang>, (<ab>Lat.</ab>) <s>गेनितोर्</s>, <ls>RV.</ls>, <ls>VS.</ls>, <ls>AV.</ls>, <ls>ChUp.</ls>, <ls>ṠvetUp.</ls>, <ls>Pañcat.</ls>
 COLOGNELINE :  <s>जनितृ/</s> ¦ <s>जनितृ/</s>or (along with <s>जजा/न</s> 4 times) <s>ज/न्°इतृ</s>, <lex>m.</lex> (<ls>Pāṇ. 6-4, 53</ls>) a progenitor, father, <lang n="greek">γενετήρ</lang>, (<ab>Lat.</ab>) <etym>genitor</etym>, <ls>RV.</ls>; <ls>VS.</ls>; <ls>AV.</ls>; <ls>ChUp.</ls>; <ls>ŚvetUp.</ls>; <ls>Pañcat.</ls><info lex="m"/>
 
-Linenum :  298895
+Linenum :  298896
 ABTAG :  ['Thrita']
 COLOGNETAGS :  []
 ABLINE :   <ab>Zd.</ab> <lang>Thrita</lang>; <lang>Τρίτων</lang>, <lang>τριτο-γενής</lang>, &c.)
 COLOGNELINE :  <lang n="greek">Τρίτων</lang>, <lang n="greek">τριτο-γενής</lang>, &c.)<info lex="m"/>
 
-Linenum :  301377
+Linenum :  301378
 ABTAG :  ['taiksvs']
 COLOGNETAGS :  ['taihsvs']
 ABLINE :   <lang>δεξιός</lang>; <ab>Lat.</ab> <lang>dex-ter</lang>; <ab>Goth.</ab> <lang>taiksvs</lang>.
 COLOGNELINE :  <s>दक्ष</s> ¦ [<ab>cf.</ab> <lang n="greek">δεξιός</lang>; <ab>Lat.</ab> <etym>dex-ter</etym>; <ab>Goth.</ab> <etym>taihsvs</etym>.]
 
-Linenum :  319137
+Linenum :  319138
 ABTAG :  ['in-', 'un-']
 COLOGNETAGS :  []
 ABLINE :   often = Engl. <lang>in-</lang> or <lang>un-</lang> ([<ab>cf.</ab> √2. <s>दुष्</s>; <ab>Zd.</ab> <lang>dush-</lang>; <ab>Gk.</ab> <lang>δυσ-</lang>; <ab>Goth.</ab> <lang>tuz-</lang>; <ab>O.H.G.</ab> <lang>zur</lang>.]). It becomes <s>दुर्</s> (<ab>q.v.</ab>) before vowels and soft consonants
 COLOGNELINE :  <s>दुस्</s> ¦ [<ab>cf.</ab> √ <hom>2.</hom> <s>दुष्</s>; <ab>Zd.</ab> <etym>dush-</etym>; <ab>Gk.</ab> <lang n="greek">δυσ-</lang>; <ab>Goth.</ab> <etym>tuz-</etym>; <ab>O.H.G.</ab> <etym>zur</etym>.]
 
-Linenum :  341599
+Linenum :  341600
 ABTAG :  []
 COLOGNETAGS :  ['θυμός']
 ABLINE :   <msc/> to fan or kindle. [<ab>cf.</ab> √<s>धव्</s> and <s>धाव्</s>; <ab>Gk.</ab> <lang>θύω</lang>, <lang>θύνω</lang>, <lang>θύνω</lang>.]
 COLOGNELINE :  <div n="to"/>to fan or kindle. [<ab>cf.</ab> √ <s>धव्</s> and <s>धाव्</s>; <ab>Gk.</ab> <lang n="greek">θύω</lang>, <lang n="greek">θύνω</lang>, <lang n="greek">θυμός</lang>.]<info westergaard="DUY,27.9,05.0009;DUY,34.29,10.0227"/><info whitneyroots="DU,84"/><info verb="genuineroot" cp="5P,5Ā,6P,9P,9Ā,1P,2Ā"/>
 
-Linenum :  352772
+Linenum :  352773
 ABTAG :  ['νέμω']
 COLOGNETAGS :  ['ἐννέα', 'ἐ-νεϝα']
 ABLINE :   [<ab>cf.</ab> <ab>Zd.</ab> <lang>navan</lang>; <ab>Gk.</ab> <lang>νέμω</lang> for <lang>ἐ-νϝεα</lang> fr <lang>ἐ-νϝεα</lang> <lang>fa</lang> <ab>Lat.</ab>, <lang>nôvem</lang>; <ab>Goth.</ab> and Old HGerm. <lang>niun</lang>, OSax. and <ab>Angl.Sax.</ab> <lang>nigun</lang>, NHGerm. <lang>neun</lang>, <ab>Eng.</ab> <lang>nine</lang>.]
 COLOGNELINE :  <s>नवन्</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>navan</etym>; <ab>Gk.</ab> <lang n="greek">ἐννέα</lang> for <lang n="greek">ἐ-νϝεα</lang> <ab>fr.</ab> <lang n="greek">ἐ-νεϝα</lang> <etym>fa</etym> <ab>Lat.</ab>, <etym>nôvem</etym>; <ab>Goth.</ab> and Old HGerm. <etym>niun</etym>, OSax. and <ab>Angl.Sax.</ab> <etym>nigun</etym>, NHGerm. <etym>neun</etym>, <ab>Eng.</ab> <etym>nine</etym>.]
 
-Linenum :  403950
+Linenum :  403951
 ABTAG :  ['pérdz̀u']
 COLOGNETAGS :  ['pérdżu']
 ABLINE :   [<ab>cf.</ab> <ab>Gk.</ab> <lang>πέρδω</lang>; <ab>Lat.</ab> <lang>pēdo</lang>, <lang>pōdex</lang>; <ab>Lith.</ab> <lang>pérdz̀u</lang>; <ab>Germ.</ab> <lang>farzen</lang>, <lang>furzen</lang>; <ab>Angl.Sax.</ab> <lang>feortan</lang>; <ab>Eng.</ab> <lang>fart</lang>.]
 COLOGNELINE :  <s>पर्द्</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">πέρδω</lang>; <ab>Lat.</ab> <etym>pēdo</etym>, <etym>pōdex</etym>; <ab>Lith.</ab> <etym>pérdżu</etym>; <ab>Germ.</ab> <etym>farzen</etym>, <etym>furzen</etym>; <ab>Angl.Sax.</ab> <etym>feortan</etym>; <ab>Eng.</ab> <etym>fart</etym>.]
 
-Linenum :  476531
+Linenum :  476532
 ABTAG :  []
 COLOGNETAGS :  ['splihen', 'splezena']
 ABLINE :   [Orig. <s>स्प्लीहन्</s>; <ab>cf.</ab> <ab>Gk.</ab> <lang>σπλήν</lang>, <lang>σπλάγχνον</lang>; <ab>Lat.</ab> <lang>lien</lang> for <etym>splihen</etym>; <ab>Slav.</ab> <lang>slezena</lang> for <s>स्प्लेशेन</s>; <ab>Eng.</ab> spleen.]
 COLOGNELINE :  <s>प्लीहन्</s> ¦ [Orig. <s>स्प्लीहन्</s>; <ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">σπλήν</lang>, <lang n="greek">σπλάγχνον</lang>; <ab>Lat.</ab> <etym>lien</etym> for <etym>splihen</etym>; <ab>Slav.</ab> <etym>slezena</etym> for <etym>splezena</etym>; <ab>Eng.</ab> spleen.]
 
-Linenum :  477327
+Linenum :  477328
 ABTAG :  ['فتح']
 COLOGNETAGS :  ['شاه']
 ABLINE :   <ab>N.</ab> of a king of <as0>Kaṡmīra</as0>, <ls>Cat.</ls> (= <lang script="Arabic" n="Arabic">فتح</lang> شاه).
 COLOGNELINE :  <s>फतिह-भूपति</s> ¦ and <s>फतिह-शाह</s>, <lex>m.</lex> <ab>N.</ab> of a king of <s1 slp1="kaSmIra">Kaśmīra</s1>, <ls>Cat.</ls> . (= فتح <lang script="Arabic" n="Persian">شاه</lang>)<info and="141699,PatihaBUpati;141699.1,PatihaSAha"/><info lex="m"/>
 
-Linenum :  497345
+Linenum :  497346
 ABTAG :  []
 COLOGNETAGS :  ['bogatŭ']
 ABLINE :   [<ab>cf.</ab> <ab>Zd.</ab> <lang>bagha</lang> = Old <ab>Pers.</ab> <lang>baga</lang>; <ab>Gk.</ab> <lang>Βαγαῖος</lang>; <ab>Slav.</ab> <lang>bogŭ</lang>, <etym>bogatŭ</etym>; <ab>Lith.</ab> <lang>bagótas</lang>, <lang>na-bágas</lang>.],
 COLOGNELINE :  <s>भग</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>bagha</etym> = Old <ab>Pers.</ab> <etym>baga</etym>; <ab>Gk.</ab> <lang n="greek">Βαγαῖος</lang>; <ab>Slav.</ab> <etym>bogŭ</etym>, <etym>bogatŭ</etym>; <ab>Lith.</ab> <etym>bagótas</etym>, <etym>na-bágas</etym>.]
 
-Linenum :  542821
+Linenum :  542822
 ABTAG :  []
 COLOGNETAGS :  ['محل ']
 ABLINE :   (<ab>fr.</ab> Arabic mahall)
 COLOGNELINE :  <s>महल्ल</s> ¦ <lex>m.</lex> (<ab>fr.</ab> Arabic <lang script="Arabic" n="Arabic">محل </lang> mahall) a eunuch in a king's palace or in a harem, <ls>L.</ls><info lex="m"/>
 
-Linenum :  543084
+Linenum :  543085
 ABTAG :  ['mèrá']
 COLOGNETAGS :  ['mērá']
 ABLINE :   [<ab>cf.</ab> <ab>Zd.</ab> <lang>mā</lang>; <ab>Gk.</ab> <lang>μέτρον</lang>, <lang>μετρέω</lang>; <ab>Lat.</ab> <lang>mētior</lang>, <lang>mensus</lang>, <lang>mensura</lang>; <ab>Slav.</ab> <lang>mĕra</lang>; <ab>Lith.</ab> <lang>mèrá</lang>.]
 COLOGNELINE :  <s>मा</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>mā</etym>; <ab>Gk.</ab> <lang n="greek">μέτρον</lang>, <lang n="greek">μετρέω</lang>; <ab>Lat.</ab> <etym>mētior</etym>, <etym>mensus</etym>, <etym>mensura</etym>; <ab>Slav.</ab> <etym>mĕra</etym>; <ab>Lith.</ab> <etym>mērá</etym>.]
 
-Linenum :  550083
+Linenum :  550084
 ABTAG :  ['mènů']
 COLOGNETAGS :  ['mēnů']
 ABLINE :   [<ab>cf.</ab> <ab>Gk.</ab> <lang>μήν</lang>, <lang>μήνη</lang>; <ab>Lat.</ab> <lang>Māna</lang>, <lang>mensis</lang>; <ab>Slav.</ab> <lang>mĕsecĭ</lang>; <ab>Lith.</ab> <lang>mènů</lang>, <lang>menesis</lang>; <ab>Goth.</ab>, <lang>mêna</lang>; <ab>Germ.</ab> <lang>mâno</lang>, <lang>mâne</lang>, <lang>Mond</lang>; <ab>Angl.Sax.</ab> <lang>môna</lang>; <ab>Eng.</ab> <lang>moon</lang> 1.]
 COLOGNELINE :  <s>मास्</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">μήν</lang>, <lang n="greek">μήνη</lang>; <ab>Lat.</ab> <etym>Māna</etym>, <etym>mensis</etym>; <ab>Slav.</ab> <etym>mĕsecĭ</etym>; <ab>Lith.</ab> <etym>mēnů</etym>, <etym>menesis</etym>; <ab>Goth.</ab>, <etym>mêna</etym>; <ab>Germ.</ab> <etym>mâno</etym>, <etym>mâne</etym>, <etym>Mond</etym>; <ab>Angl.Sax.</ab> <etym>môna</etym>; <ab>Eng.</ab> <etym>moon</etym> 1.]
 
-Linenum :  552379
+Linenum :  552380
 ABTAG :  ['mè4z̀']
 COLOGNETAGS :  ['mēżti']
 ABLINE :   ([<ab>cf.</ab> <ab>Gk.</ab> <lang>ὀμιχεῖν</lang>, <ab>Lat.</ab> <lang>mingere</lang>, <lang>mejere</lang>; <ab>Slav.</ab> <lang>migla</lang>; <ab>Lith.</ab> <lang>mè4z̀</lang>, <ab>Angl.Sax.</ab> <lang>mîgan</lang>; <ab>Germ.</ab> <lang>Mist</lang>.])
 COLOGNELINE :  <s>मिह्</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὀμιχεῖν</lang>, <ab>Lat.</ab> <etym>mingere</etym>, <etym>mejere</etym>; <ab>Slav.</ab> <etym>migla</etym>; <ab>Lith.</ab> <etym>mēżti</etym>, <ab>Angl.Sax.</ab> <etym>mîgan</etym>; <ab>Germ.</ab> <etym>Mist</etym>.]
 
-Linenum :  593740
+Linenum :  593741
 ABTAG :  []
 COLOGNETAGS :  ['α', 'ι', 'ν']
 ABLINE :   (also <ab>du.</ab>) <ab>N.</ab> of the 21st <as0>Nakshatra</as0> <as0>Viṡākhā</as0> (containing 4 stars in the form of a curve supposed to be <s>अ</s>, <s>त्</s>, <s>व्</s>, Librae, and <lang>γ</lang> Scorpionis <ab>cf.</ab> <s>नक्षत्र</s>), <ls>L.</ls>
 COLOGNELINE :  ¦ (also <ab>du.</ab>) <ab>N.</ab> of the 21st <s1 slp1="nakzatra">Nakṣatra</s1> <s1 slp1="viSAKA">Viśākhā</s1> (containing 4 stars in the form of a curve supposed to be <lang n="greek">α</lang>, <lang n="greek">ι</lang>, <lang n="greek">ν</lang> Librae, and <lang n="greek">γ</lang> Scorpionis <ab>cf.</ab> <s>नक्षत्र</s>), <ls>L.</ls><info lex="inh"/>
 
-Linenum :  611589
+Linenum :  611590
 ABTAG :  ['lḗz̀ti']
 COLOGNETAGS :  ['lḗżti']
 ABLINE :   [<ab>cf.</ab> <ab>Gk.</ab> <lang>λείχω</lang>; <ab>Lat.</ab> <lang>lingo</lang>; <ab>Slav.</ab> <lang>ližati</lang>; <ab>Lith.</ab> <lang>lḗz̀ti</lang>; <ab>Germ.</ab> <lang>lëcchôn</lang>, <lang>lecken</lang>; <ab>Angl.Sax.</ab> <lang>liccian</lang>; <ab>Eng.</ab> <lang>lick</lang>.]
 COLOGNELINE :  <s>लिह्</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">λείχω</lang>; <ab>Lat.</ab> <etym>lingo</etym>; <ab>Slav.</ab> <etym>ližati</etym>; <ab>Lith.</ab> <etym>lḗżti</etym>; <ab>Germ.</ab> <etym>lëcchôn</etym>, <etym>lecken</etym>; <ab>Angl.Sax.</ab> <etym>liccian</etym>; <ab>Eng.</ab> <etym>lick</etym>.]
 
-Linenum :  620260
+Linenum :  620261
 ABTAG :  []
 COLOGNETAGS :  ['vatsara']
 ABLINE :   [<ab>cf.</ab> <s>vatsara</s> and <lang>ἔτος</lang> for <lang>ϝέτος</lang>; <ab>Lat.</ab> vetus, <lang>vetus-tus</lang>, <lang>vitulus</lang>; <ab>Germ.</ab> <lang>widar</lang>, <lang>Widder</lang>; <ab>Eng.</ab> <lang>wether</lang>.]
 COLOGNELINE :  <s>वत्स</s> ¦ [<ab>cf.</ab> <etym>vatsara</etym> and <lang n="greek">ἔτος</lang> for <lang n="greek">ϝέτος</lang>; <ab>Lat.</ab> vetus, <etym>vetus-tus</etym>, <etym>vitulus</etym>; <ab>Germ.</ab> <etym>widar</etym>, <etym>Widder</etym>; <ab>Eng.</ab> <etym>wether</etym>.]
 
-Linenum :  623507
+Linenum :  623508
 ABTAG :  ['venia', 'Venus', 'gawinnan', 'gewinnen', 'win']
 COLOGNETAGS :  ['ἐμέω', 'ϝεμέω', 'vomere', 'vémti']
 ABLINE :   [<ab>cf.</ab> <ab>Lat.</ab> <lang>venia</lang>, <lang>Venus</lang>; Got. <lang>gawinnan</lang>; <ab>Germ.</ab> <lang>gewinnen</lang>; <ab>Eng.</ab> <lang>win</lang>.]
 COLOGNELINE :  <s>वम्</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἐμέω</lang> for <lang n="greek">ϝεμέω</lang>; <ab>Lat.</ab> <etym>vomere</etym>; <ab>Lith.</ab> <etym>vémti</etym>.]
 
-Linenum :  624113
+Linenum :  624114
 ABTAG :  ['ἐμέω', 'ϝεμέω', 'vomere', 'vémti']
 COLOGNETAGS :  ['εὖρος']
 ABLINE :   [<ab>cf.</ab> <ab>Gk.</ab> <lang>ἐμέω</lang> for <lang>ϝεμέω</lang>; <ab>Lat.</ab> <lang>vomere</lang>; <ab>Lith.</ab> <lang>vémti</lang>.]
 COLOGNELINE :  <s>व/रस्</s> ¦ <lex>n.</lex> width, breadth, expanse, room, space, <ls>RV.</ls> [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">εὖρος</lang>.]<info lex="n"/>
 
-Linenum :  624274
+Linenum :  624275
 ABTAG :  ['εὖρος']
 COLOGNETAGS :  ['Οὐρανός']
 ABLINE :   [<ab>cf.</ab> <ab>Gk.</ab> <lang>εὖρος</lang>.]
 COLOGNELINE :  <s1 slp1="varuRa">Varuṇa</s1> is one of the oldest of the Vedic gods, and is commonly thought to correspond to the <lang n="greek">Οὐρανός</lang> of the Greeks, although of a more spiritual conception;
 
-Linenum :  632651
+Linenum :  632652
 ABTAG :  ['véz̀ti']
 COLOGNETAGS :  ['véżti']
 ABLINE :   ([<ab>cf.</ab> <ab>Gk.</ab> <lang>ὄχος</lang> for <lang>ϝοχος</lang>, <lang>ὀχέομαι</lang>; <ab>Lat.</ab> <lang>vehere</lang>, <lang>vehiculum</lang>; <ab>Slav.</ab> <lang>vesti</lang>; <ab>Lith.</ab> <lang>véz̀ti</lang>; <ab>Goth.</ab> <lang>gawigan</lang>; <ab>Germ.</ab> <lang>wëgan</lang>, <lang>bewegen</lang>; <ab>Eng.</ab> <lang>weigh</lang>.])
 COLOGNELINE :  <s>वह्</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὄχος</lang> for <lang n="greek">ϝοχος</lang>, <lang n="greek">ὀχέομαι</lang>; <ab>Lat.</ab> <etym>vehere</etym>, <etym>vehiculum</etym>; <ab>Slav.</ab> <etym>vesti</etym>; <ab>Lith.</ab> <etym>véżti</etym>; <ab>Goth.</ab> <etym>gawigan</etym>; <ab>Germ.</ab> <etym>wëgan</etym>, <etym>bewegen</etym>; <ab>Eng.</ab> <etym>weigh</etym>.]
 
-Linenum :  660623
+Linenum :  660624
 ABTAG :  ['*᾿ϒφασις']
 COLOGNETAGS :  ['῞ϒφασις']
 ABLINE :   the <as0>Vipāṡā</as0> or Beas river (one of the 5 rivers of the <as0ns>Panjāb</as0ns>, said to be so called as having destroyed the cord with which <as0>Vasishṭha</as0> had tried to hang himself through grief for his son slain by <as0>Viṡvāmitra</as0>; it rises in the Kullu range of the <as0>Himâlaya</as0>, and after a course of 290 miles joins the Sutlej at the southern boundary of Kapurthala; it is considered identical with the <lang>*᾿ϒφασις</lang> of Arrian, the Hyphasis of Pliny, and <lang>Βίπασις</lang> of Ptolemy), <ls>MBh.</ls>, <ls>Hariv.</ls>, <ls>Var.</ls>, <ls>Pur.</ls>
 COLOGNELINE :  <s>वि-पाशा</s> ¦ <lex>f.</lex> the <s1 slp1="vipASA">Vipāśā</s1> or Beas river (one of the 5 rivers of the <ns>Panjāb</ns>, said to be so called as having destroyed the cord with which <s1 slp1="vasizWa">Vasiṣṭha</s1> had tried to hang himself through grief for his son slain by <s1 slp1="viSvAmitra">Viśvāmitra</s1>; it rises in the Kullu range of the <s1 slp1="himAlaya">Himâlaya</s1>, and after a course of 290 miles joins the Sutlej at the southern boundary of Kapurthala; it is considered identical with the <lang n="greek">῞ϒφασις</lang> of Arrian, the Hyphasis of Pliny, and <lang n="greek">Βίπασις</lang> of Ptolemy), <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>Var.</ls>; <ls>Pur.</ls><info lex="f"/>
 
-Linenum :  801765
+Linenum :  801766
 ABTAG :  ['hazār']
 COLOGNETAGS :  []
 ABLINE :   (rarely) <lex type="hw">m.</lex> (perhaps fr. 7, <s>स</s> <s>हस्र</s> = <ab>Gk.</ab> <lang>χίλιοι</lang> for <lang>χεσλοι</lang>; <ab>cf.</ab> <ab>Pers.</ab> <lang>hazār</lang>) a thousand (with the counted object in the same case <ab>sg.</ab> or <ab>pl.</ab> <ab>e.g.</ab> <s>सहस्रेण बाहुना</s>, “with a thousand arms”, <ls>Hariv.</ls>; <s>सहस्रं भिषजः</s>, “a thousand drugs”, <ls>RV.</ls>; or in the <ab>gen.</ab> <ab>e.g.</ab> <s>द्वे सहस्रे सुवर्णस्य</s>, “two <abE>th</abE>thousand pieces of gold”, <ls>Rājat.</ls>; <s>चत्वारि</s> <s>सहस्राणि वर्षाणाम्</s>, “four <abE>th</abE>thousand years”, <ls>Mn.</ls>; sometimes in <ab>comp.</ab>, either <ab>ibc.</ab> <ab>e.g.</ab> <s>युग-सहस्रम्</s>, “a <abE>th</abE>thousand ages”, <ls>Mn.</ls>, or <ab>ifc.</ab> <ab>e.g.</ab> <s>सहस्राश्वेन</s>, “with a <abE>th</abE>thousand horses”; <phw><dL>240502.1</dL><s>सहस्रम्</s> may also be used as an <lex type="phw">ind.</lex></phw> <ab>e.g.</ab> <s>सहस्रम् ऋषिभिः</s>, “with a <abE>th</abE>thousand <asp0>Ṛishis</asp0>”, <ls>RV.</ls>; with other numerals it is used thus, <s>एकाधिकं सहस्रम्</s>, or <s>एक-सहस्रम्</s>, “a <abE>th</abE>thousand one”, 1001; <s>द्व्यधिकं स्°</s>, “a <abE>th</abE>thousand two”, 1002; <s>एकादशाधिकम् स्°सहस्रम्</s> or <s>एकादशं स्°</s> or <s>एकादश-स्°</s>, “a <abE>th</abE>thousand eleven” or “a <abE>th</abE>thousand having eleven”, 1011; <s>विंशत्य्-अधिकं स्°</s> or <s>विमं स्°</s>, “a <abE>th</abE>thousand twenty”, 1020; <s>द्वे सहस्रे</s> or <s>द्वि-सहच्रम्</s>, “two <abE>th</abE>thousand”; <s>त्रीणि सहस्राणि</s> or <s>त्रि-सहस्रम्</s>, “three <abE>th</abE>thousand” &c.), <ls>RV.</ls> <etcetc/>
 COLOGNELINE :  <s>सह/स्र</s> <hom>b</hom> ¦ <lex>n.</lex> (rarely) <lex type="hw">m.</lex> (perhaps <ab>fr.</ab> 7, <s>स + हस्र</s> = <ab>Gk.</ab> <lang n="greek">χίλιοι</lang> for <lang n="greek">χεσλοι</lang>;
 
-Linenum :  857469
+Linenum :  857470
 ABTAG :  ['<abE>o</abE>']
 COLOGNETAGS :  []
 ABLINE :   [<ab>cf.</ab> <ab>Gk.</ab> <lang>ἕ</lang>, <lang>ὅ</lang>, <lang>σφός</lang>; <ab>Lat.</ab> <lang>se</lang>, <lang>sovos</lang>, <lang>suus</lang>; <ab>Goth.</ab> <lang>sik</lang>; <ab>Germ.</ab> <lang>sich</lang> <etc/>] (<ab>N.</ab>B. in the following <ab>comp.</ab> <lang><abE>o</abE></lang> own stands for one’s own).
 COLOGNELINE :  <s>स्व</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἕ</lang>, <lang n="greek">ὅ</lang>, <lang n="greek">σφός</lang>; <ab>Lat.</ab> <etym>se</etym>, <etym>sovos</etym>, <etym>suus</etym>; <ab>Goth.</ab> <etym>sik</etym>; <ab>Germ.</ab> <etym>sich</etym> &c.]
 
-Linenum :  864943
+Linenum :  864944
 ABTAG :  ['z̀asís']
 COLOGNETAGS :  ['żasís']
 ABLINE :   [<ab>cf.</ab> <ab>Gk.</ab> <lang>χήν</lang>; <ab>Lat.</ab> <lang>anser</lang> for <lang>hanser</lang>; Lit. <lang>z̀asís</lang>; <ab>Germ.</ab> <lang>Gans</lang>; <ab>Angl.Sax.</ab> <lang>gôs</lang>; <ab>Eng.</ab> <lang>goose</lang>.]
 COLOGNELINE :  <s>हंस</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">χήν</lang>; <ab>Lat.</ab> <etym>anser</etym> for <etym>hanser</etym>; <ab>Lit.</ab> <etym>żasís</etym>; <ab>Germ.</ab> <etym>Gans</etym>; <ab>Angl.Sax.</ab> <etym>gôs</etym>; <ab>Eng.</ab> <etym>goose</etym>.]
 
-Linenum :  874268
+Linenum :  874269
 ABTAG :  ['δύς-χιμος']
 COLOGNETAGS :  ['(δύς)-χιμος', 'żëmà']
 ABLINE :   [<ab>cf.</ab> <ab>Zd.</ab> <lang>zima</lang>; <ab>Gk.</ab> (<lang>δύς-χιμος</lang>; <lang>χιών</lang>, <lang>χειμών</lang>; <ab>Lat.</ab> <lang>bīmus</lang> for <lang>bihimus</lang>; <lang>hiems</lang>; <ab>Slav.</ab> <lang>zima</lang> Lit. żëmà]
 COLOGNELINE :  <s>हिम</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>zima</etym>; <ab>Gk.</ab> <lang n="greek">(δύς)-χιμος</lang>; <lang n="greek">χιών</lang>, <lang n="greek">χειμών</lang>; <ab>Lat.</ab> <etym>bīmus</etym> for <etym>bihimus</etym>; <etym>hiems</etym>; <ab>Slav.</ab> <etym>zima</etym> <ab>Lit.</ab> <etym>żëmà</etym>]
 
-Linenum :  878882
+Linenum :  878883
 ABTAG :  ['῾Eρμῆς']
 COLOGNETAGS :  ['*῾Ερμῆς']
 ABLINE :   (<ab>Gk.</ab> <lang>῾Eρμῆς</lang>) the planet Mercury, <ls>VarBṛS.</ls>

@@ -52,7 +52,7 @@ if __name__ == "__main__":
 			col1 = re.sub('<etym>(.*?)</etym>', '<lang>\g<1></lang>', col1)
 			colognelangs = re.findall('<lang.*?>(.*?)</lang>', col1)
 			if ablangs != colognelangs:
-				print('Linenum : ', str(linenum))
+				print('Linenum : ', str(linenum + 1))
 				print('ABTAG : ', [x for x in ablangs if x not in colognelangs])
 				print('COLOGNETAGS : ', [x for x in colognelangs if x not in ablangs])
 				print('ABLINE : ', abdata)
