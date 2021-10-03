@@ -19,6 +19,13 @@ def read_mw_devanagari():
 	return data.split('\n')
 
 
+def adjust_abdata(abdata):
+	abdata = abdata.replace('û', 'û')
+	abdata = abdata.replace('î', 'î')
+	abdata = abdata.replace('<auml/>', 'ä')
+	abdata = abdata.replace('<uuml/>', 'ö')
+	return abdata
+
 if __name__ == "__main__":
 	mwdata = read_mw_devanagari()
 	with codecs.open('ab_lang1.tsv', 'r', 'utf-8') as csvfile:
@@ -28,8 +35,7 @@ if __name__ == "__main__":
 			linenum = int(m.group(1)) - 1
 			hw = row[1]
 			abdata = row[4]
-			abdata = abdata.replace('û', 'û')
-			abdata = abdata.replace('î', 'î')
+			abdata = adjust_abdata(abdata)
 			ablangs = re.findall('<lang.*?>(.*?)</lang>', abdata)
 			colognedata = mwdata[linenum]
 			col1 = re.sub('<lang.*?>', '<lang>', colognedata)
