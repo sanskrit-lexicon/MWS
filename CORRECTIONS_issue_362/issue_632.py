@@ -11,12 +11,32 @@ import os
 import csv
 
 
+def read_mw_devanagari():
+	filein = os.path.join('..', '..', 'csl-devanagari', 'v02', 'mw', 'mw.txt')
+	fin = codecs.open(filein, 'r', 'utf-8')
+	data = fin.read()
+	fin.close()
+	return data.split('\n')
+
+
 if __name__ == "__main__":
-	with codecs.open('ab_lang.tsv', 'r', 'utf-8') as csvfile:
+	mwdata = read_mw_devanagari()
+	with codecs.open('ab_lang1.tsv', 'r', 'utf-8') as csvfile:
 		abreader = csv.reader(csvfile, delimiter='\t')
 		for row in abreader:
-			linenum = row[0]
+			m = re.search('Line ([0-9]+):', row[0])
+			linenum = int(m.group(1)) - 1
 			hw = row[1]
-			abdata = row[2]
-			colognedata = row[4]
-			print(hw)
+			abdata = row[4]
+			ablangs = re.findall('<lang.*?>(.*?)</lang>', abdata)
+			colognedata = mwdata[linenum]
+			col1 = re.sub('<lang.*?>', '<lang>', colognedata)
+			col1 = re.sub('<etym>(.*?)</etym>', '<lang>\g<1></lang>', col1)
+			colognelangs = re.findall('<lang.*?>(.*?)</lang>', col1)
+			if ablangs != colognelangs:
+				print(linenum)
+				print(list(set(ablangs) - set(colognelangs)))
+				print(list(set(colognelangs) - set(ablangs)))
+				print(abdata)
+				print(colognedata)
+				print()
