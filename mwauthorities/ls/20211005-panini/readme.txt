@@ -93,6 +93,8 @@ python updateByLine.py temp_mw2.txt change_roman.txt temp_mw3.txt
 
 python panini_links1_roman.py temp_mw3.txt panini_links1_roman.txt 
 
+python panini_links0.py temp_mw3.txt panini_links_mw3.txt temp.txt
+
 cp temp_mw2.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
 
 cp temp_mw3.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
