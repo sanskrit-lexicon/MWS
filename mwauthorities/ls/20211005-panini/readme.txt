@@ -34,7 +34,7 @@ Install temp_mw1.txt in csl-orig
 ; <ls>Pāṇ. x-y, z</ls>
 ; <ls n="Pāṇ.">x-y, z</ls>
 ; etc.
-python panini_links.py temp_mw1.txt panini_links_mw1.txt temp.txt
+python panini_links0.py temp_mw1.txt panini_links_mw1.txt temp.txt
 
 
 
