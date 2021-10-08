@@ -78,6 +78,8 @@ python updateByLine.py temp_mw1.txt change2.txt temp_mw2.txt
    <ls>Pāṇ. X </ls> or <ls>Pāṇ. X, </ls>
 
 
+python panini_links0.py temp_mw2.txt panini_links_mw2.txt temp.txt
+
 python panini_links.py temp_mw2.txt panini_links.txt panini_links_N.txt
 
  
