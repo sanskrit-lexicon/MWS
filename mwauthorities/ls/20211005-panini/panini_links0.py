@@ -118,6 +118,7 @@ def write(fileout,entries,option=None):
    for imark,mark in enumerate(marks):
     n1 = n1 + 1
     out = '%s %s %s' %(k1,L,mark)
+    out = '%s %s %s' %(mark.ljust(30),k1,L)
     f.write(out + '\n')
  print(n1,"references written to",fileout)
 
