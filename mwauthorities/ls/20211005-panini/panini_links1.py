@@ -138,7 +138,8 @@ def write(fileout,entries,option=None):
     if jls != ils:
      continue
     n1 = n1 + 1
-    out = '%2d.%04d %s %s %s' %(ils,n1, k1,L,mark)
+    #out = '%2d.%04d %s %s %s' %(ils,n1, k1,L,mark)
+    out = '%s %s %s' %(mark.ljust(30),k1,L)
     outarr.append(out)
   outarr[0] = '%s count=%s' %(outarr[0],n1)
   outrecs.append(outarr)
