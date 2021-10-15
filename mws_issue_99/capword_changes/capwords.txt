@@ -1,39 +1,3 @@
-; Unmarked abbreviations
-sc. 100+
-cf  45+
-aor. subj.
-abstr.
-q.v.
-<ls>A.</ls>D.
-gram.  irreg.
-delete entry 139890 , lines 471228-471230
-<L>100634<pc>513,3<k1>DAtugaRa<k2>DAtu—gaRa<e>3A
-¦ of <ab>wk.</ab><info lex="inh"/>
-<LEND>
-<L>143105<pc>722,3<k1>balaguptA<k2>bala—guptA<e>3B
-¦ of a peasant girl, <ls>Lalit.</ls><info lex="inh"/>
-<LEND>
-<L>260699<pc>1289,1<k1>haracApAropaRa<k2>hara—cApAropaRa<e>3A
-¦ of a drama.<info lex="inh"/>
-<LEND>
-<L>170391<pc>846,1<k1>yama reorg some lines
-;---
-Merge into prior entry
-<L>16165<pc>92,1<k1>arDajaratIya<k2>arDa/—jaratIya<e>3A
-¦ <ls>Sarvad.</ls><info lex="inh"/>
-<LEND>
-; ---
-Delete this entry
-<L>15905<pc>90,3<k1>arTadatta<k2>a/rTa—datta<e>3A
-¦ Vet<info lex="inh"/>
-<LEND>
-; ---
-Delete this entry
-<L>244318<pc>1215,1<k1>sidDa<k2>sidDa<e>2A
-¦ Vet<info lex="inh"/>
-<LEND>
-
-;------------------------------------------------------------------
 ; Capital-letter words
 X-Persian ok
  X-Phallus, ok
