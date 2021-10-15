@@ -1,0 +1,742 @@
+01:01	Abhinav.	aBinav	au	<abbr><slp cap="true">aBinav</slp></abbr><expandMW><au><slp cap="true">aBinava-gupta</slp></au></expandMW>
+01:02	Ācāranirṇ.	AcAranirR	ti	<abbr><slp cap="true">AcAranirR</slp></abbr><expandMW><ti><slp cap="true">AcAranirRaya</slp></ti></expandMW>
+01:02x	Ācār.	AcAranirR	ti	<abbr><slp cap="true">AcAranirR</slp></abbr><expandMW><ti><slp cap="true">AcAranirRaya</slp></ti></expandMW>
+01:03	AdbhBr.	adBbr	ti	<abbr><slp cap="true">adB</slp><slp cap="true">br</slp></abbr><expandMW><ti><slp cap="true">adButa</slp><slp cap="true">brAhmaRa</slp></ti></expandMW><expandNorm><ti><slp cap="true">adButa-brAhmaRa</slp></ti></expandNorm>
+01:04	Ādi-p.	Adi-p	subti	<abbr><slp cap="true">Adi-p</slp></abbr><expandMW><subti><slp cap="true">Adi-parvan</slp></subti> of the <ti><slp cap="true">mahABArata</slp></ti></expandMW>
+01:05	AgSaṃh.	agsaMh	ti	<abbr><slp cap="true">ag</slp><slp cap="true">saMh</slp></abbr><expandMW><ti><slp cap="true">agastya</slp><slp cap="true">saMhitA</slp></ti></expandMW><expandNorm><ti><slp cap="true">agastya-saMhitA</slp></ti></expandNorm>
+01:06	AgP.	agp	ti	<abbr><slp cap="true">ag</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">agni</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">agni-purARa</slp></ti></expandNorm>
+01:07	AitĀr.	EtAr	ti	<abbr><slp cap="true">Et</slp><slp cap="true">Ar</slp></abbr><expandMW><ti><slp cap="true">Etareya</slp><slp cap="true">AraRyaka</slp></ti></expandMW><expandNorm><ti><slp cap="true">Etareya-AraRyaka</slp></ti></expandNorm>
+01:08	AitBr.	Etbr	ti	<abbr><slp cap="true">Et</slp><slp cap="true">br</slp></abbr><expandMW><ti><slp cap="true">Etareya</slp><slp cap="true">brAhmaRa</slp></ti></expandMW><expandNorm><ti><slp cap="true">Etareya-brAhmaRa</slp></ti></expandNorm>
+01:09	AitUp.	Etup	ti	<abbr><slp cap="true">Et</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">Etareya</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">Etareya-upanizad</slp></ti></expandNorm>
+01:10	Alaṃkārak.	alaMkArak	ti	<abbr><slp cap="true">alaMkArak</slp></abbr><expandMW><ti><slp cap="true">alaMkArakOstuBa</slp></ti></expandMW>
+01:11	Alaṃkāras.	alaMkAras	ti	<abbr><slp cap="true">alaMkAras</slp></abbr><expandMW><ti>1 <slp cap="true">alaMkArasarvasva</slp></ti>, by <au><slp cap="true">ruyyaka</slp></au></expandMW>
+01:12	Alaṃkāras.2	alaMkAras2	ti	<abbr><slp cap="true">alaMkAras</slp></abbr><expandMW><ti>2 <slp cap="true">alaMkArasarvasva</slp></ti>, by <au><slp cap="true">maNKaka</slp></au></expandMW>
+01:13	Alaṃkāraś.	alaMkAraS	ti	<abbr><slp cap="true">alaMkAraS</slp></abbr><expandMW><ti><slp cap="true">alaMkAraSeKara</slp></ti>, by <au><slp cap="true">keSava-miSra</slp></au></expandMW>
+01:14	Alaṃkārat.	alaMkArat	ti	<abbr><slp cap="true">alaMkArat</slp></abbr><expandMW><ti><slp cap="true">alaMkAratilaka</slp></ti></expandMW>
+01:15	Alaṃkārav.	alaMkArav	ti	<abbr><slp cap="true">alaMkArav</slp></abbr><expandMW><ti><slp cap="true">alaMkAravimarSinI</slp></ti>, by <au><slp cap="true">jayaraTa</slp></au></expandMW>
+01:16	Amar.	amar	ti	<abbr><slp cap="true">amar</slp></abbr><expandMW><ti><slp cap="true">amaru-Sataka</slp></ti></expandMW>
+01:17	AmṛtabUp.	amftabup	ti	<abbr><slp cap="true">amftab</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">amftabindu</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">amftabindu-upanizad</slp></ti></expandNorm>
+01:17x	AmṛtUp.	amftabup	ti	<abbr><slp cap="true">amftab</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">amftabindu</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">amftabindu-upanizad</slp></ti></expandNorm>
+01:18	Ānand.	Anand	ti	<abbr><slp cap="true">Anand</slp></abbr><expandMW><ti><slp cap="true">Ananda-laharI</slp></ti></expandMW>
+01:18x	Ānandal.	Anand	ti	<abbr><slp cap="true">Anand</slp></abbr><expandMW><ti><slp cap="true">Ananda-laharI</slp></ti></expandMW>
+01:19	Anaṅgar.	anaNgar	ti	<abbr><slp cap="true">anaNgar</slp></abbr><expandMW><ti><slp cap="true">anaNgaraNga</slp></ti></expandMW>
+; in next, mwlist has AnSaṃ.  However there is only one instance,
+;  spelled AnSaṃh. under gOracandra. So, we leave 
+01:20	AnSaṃh.	ansaMh	ti	<abbr><slp cap="true">an</slp><slp cap="true">saMh</slp></abbr><expandMW><ti><slp cap="true">ananta</slp><slp cap="true">saMhitA</slp></ti></expandMW><expandNorm><ti><slp cap="true">ananta-saMhitA</slp></ti></expandNorm>
+01:21	Anarghar.	anarGar	ti	<abbr><slp cap="true">anarGar</slp></abbr><expandMW><ti><slp cap="true">anarGarAGava</slp></ti></expandMW>
+01:21x	Anargh.	anarGar	ti	<abbr><slp cap="true">anarGar</slp></abbr><expandMW><ti><slp cap="true">anarGarAGava</slp></ti></expandMW>
+01:22	Anukr.	anukr	litcat	<abbr><slp cap="true">anukr</slp></abbr><expandMW><litcat><slp cap="true">anukramaRikA</slp></litcat>s</expandMW>
+01:23	Anup.	anup	ti	<abbr><slp cap="true">anup</slp></abbr><expandMW><ti><slp cap="true">anupada-sUtra</slp></ti></expandMW>
+01:24	Āp.	Ap	ti	<abbr><slp cap="true">Ap</slp></abbr><expandMW><au><slp cap="true">Apastamba</slp></au>'s <litcat><slp cap="true">Darma-sUtra</slp></litcat></expandMW><expandNorm><ti><slp cap="true">Apastamba-Darma-sUtra</slp></ti></expandNorm>
+01:25	ĀpŚr.	ApSr	ti	<abbr><slp cap="true">Ap</slp><slp cap="true">Sr</slp></abbr><expandMW><au><slp cap="true">Apastamba</slp></au>'s <litcat><slp cap="true">SrOta-sUtra</slp></litcat></expandMW><expandNorm><ti><slp cap="true">Apastamba-SrOta-sUtra</slp></ti></expandNorm>
+01:25x	Āpast.Śr.	ApSr	ti	<abbr><slp cap="true">Ap</slp><slp cap="true">Sr</slp></abbr><expandMW><au><slp cap="true">Apastamba</slp></au>'s <litcat><slp cap="true">SrOta-sUtra</slp></litcat></expandMW><expandNorm><ti><slp cap="true">Apastamba-SrOta-sUtra</slp></ti></expandNorm>
+01:26	ĀpY.	Apy	ti	<abbr><slp cap="true">Ap</slp><slp cap="true">y</slp></abbr><expandMW><au><slp cap="true">Apastamba</slp></au>'s <ti><slp cap="true">yajYa-pari-BAzA-sUtra</slp></ti></expandMW><expandNorm><ti><slp cap="true">Apastamba-yajYapariBAzA-sUtra</slp></ti></expandNorm>
+01:27	A.	A	ti	<abbr>A</abbr><expandMW><au>Apte</au>'s <litcat>Dictionary</litcat></expandMW><expandNorm><au>Apte</au>'s <ti>The Practical Sanskrit-English Dictionary</ti></expandNorm>
+01:28	ĀrṣBr.	Arzbr	ti	<abbr><slp cap="true">Arz</slp><slp cap="true">br</slp></abbr><expandMW><ti><slp cap="true">Arzeya</slp><slp cap="true">brAhmaRa</slp></ti></expandMW><expandNorm><ti><slp cap="true">Arzeya-brAhmaRa</slp></ti></expandNorm>
+01:29	ĀruṇUp.	AruRup	ti	<abbr><slp cap="true">AruR</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">AruReya</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">AruReya-upanizad</slp></ti></expandNorm>
+01:30	Āryabh.	AryaB	au	<abbr><slp cap="true">AryaB</slp></abbr><expandMW><au><slp cap="true">AryaBawa</slp></au></expandMW>
+01:31	Āryav.	Aryav	ti	<abbr><slp cap="true">Aryav</slp></abbr><expandMW><ti><slp cap="true">AryavidyA-suDAkara</slp></ti></expandMW>
+01:32	Aṣṭâṅg.	azwANg	ti	<abbr><slp cap="true">azwANg</slp></abbr><expandMW><ti><slp cap="true">azwANga-hfdaya</slp></ti></expandMW>
+01:33	AṣṭāvS.	azwAvs	ti	<abbr><slp cap="true">azwAv</slp><slp cap="true">s</slp></abbr><expandMW><ti><slp cap="true">azwAvakra</slp><slp cap="true">saMhitA</slp></ti></expandMW><expandNorm><ti><slp cap="true">azwAvakra-saMhitA</slp></ti></expandNorm>
+01:33x	Aṣṭāv.	azwAvs	ti	<abbr><slp cap="true">azwAv</slp><slp cap="true">s</slp></abbr><expandMW><ti><slp cap="true">azwAvakra</slp><slp cap="true">saMhitA</slp></ti></expandMW><expandNorm><ti><slp cap="true">azwAvakra-saMhitA</slp></ti></expandNorm>
+01:34	ĀśvP.	ASvp	ti	<abbr><slp cap="true">ASv</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">ASvalAyana-gfhya</slp><slp cap="true">pariSizwa</slp></ti></expandMW><expandNorm><ti><slp cap="true">ASvalAyana-gfhya-pariSizwa</slp></ti></expandNorm>
+01:35	ĀśvGṛ.	ASvgf	ti	<abbr><slp cap="true">ASv</slp><slp cap="true">gf</slp></abbr><expandMW><ti><slp cap="true">ASvalAyana</slp><slp cap="true">gfhya-sUtra</slp></ti></expandMW><expandNorm><ti><slp cap="true">ASvalAyana-gfhya-sUtra</slp></ti></expandNorm>
+01:36	ĀśvMantraS.	ASvmantras	ti	<abbr><slp cap="true">ASv</slp><slp cap="true">mantra</slp><slp cap="true">s</slp></abbr><expandMW><ti><slp cap="true">ASvalAyana-SAKoktA</slp><slp cap="true">mantra</slp><slp cap="true">saMhitA</slp></ti></expandMW><expandNorm><ti><slp cap="true">ASvalAyana-SAKoktA-mantra-saMhitA</slp></ti></expandNorm>
+01:37	ĀśvŚr.	ASvSr	ti	<abbr><slp cap="true">ASv</slp><slp cap="true">Sr</slp></abbr><expandMW><ti><slp cap="true">ASvalAyana</slp><slp cap="true">SrOta-sUtra</slp></ti></expandMW><expandNorm><ti><slp cap="true">ASvalAyana-SrOta-sUtra</slp></ti></expandNorm>
+01:38	AtharvaśUp.	aTarvaSup	ti	<abbr><slp cap="true">aTarvaS</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">aTarvaSiKA</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">aTarvaSiKA-upanizad</slp></ti></expandNorm>
+01:39	AV.	av	ti	<abbr><slp cap="true">a</slp><slp cap="true">v</slp></abbr><expandMW><ti><slp cap="true">aTarva</slp><slp cap="true">veda</slp></ti></expandMW><expandNorm><ti><slp cap="true">aTarva-veda</slp></ti></expandNorm>
+01:40	AV.Paipp.	av.pEpp	ti	<abbr><slp cap="true">a</slp><slp cap="true">v</slp>.<slp cap="true">pEpp</slp></abbr><expandMW><ti><slp cap="true">aTarva</slp><slp cap="true">veda</slp>.<slp cap="true">pEppalAda-SAKA</slp></ti></expandMW><expandNorm><ti><slp cap="true">aTarva-veda</slp>, <slp cap="true">pEppalAda-SAKA</slp></ti></expandNorm>
+01:40a	Paipp.	pEpp	ti	<abbr><slp cap="true">pEpp</slp></abbr><expandMW><ti><slp cap="true">aTarva</slp><slp cap="true">veda</slp>.<slp cap="true">pEppalAda-SAKA</slp></ti></expandMW><expandNorm><ti><slp cap="true">aTarva-veda</slp>, <slp cap="true">pEppalAda-SAKA</slp></ti></expandNorm>
+01:41	AV.Pariś.	av.pariS	ti	<abbr><slp cap="true">a</slp><slp cap="true">v</slp>.<slp cap="true">pariS</slp></abbr><expandMW><ti><slp cap="true">aTarva</slp><slp cap="true">veda</slp>.<slp cap="true">pariSizwa</slp></ti></expandMW><expandNorm><ti><slp cap="true">aTarva-veda-pariSizwa</slp></ti></expandNorm>
+01:41x	APariś.	av.pariS	ti	<abbr><slp cap="true">a</slp><slp cap="true">v</slp>.<slp cap="true">pariS</slp></abbr><expandMW><ti><slp cap="true">aTarva</slp><slp cap="true">veda</slp>.<slp cap="true">pariSizwa</slp></ti></expandMW><expandNorm><ti><slp cap="true">aTarva-veda-pariSizwa</slp></ti></expandNorm>
+01:41y	AVPar.	av.pariS	ti	<abbr><slp cap="true">a</slp><slp cap="true">v</slp>.<slp cap="true">pariS</slp></abbr><expandMW><ti><slp cap="true">aTarva</slp><slp cap="true">veda</slp>.<slp cap="true">pariSizwa</slp></ti></expandMW><expandNorm><ti><slp cap="true">aTarva-veda-pariSizwa</slp></ti></expandNorm>
+01:41z	AVPariś.	av.pariS	ti	<abbr><slp cap="true">a</slp><slp cap="true">v</slp>.<slp cap="true">pariS</slp></abbr><expandMW><ti><slp cap="true">aTarva</slp><slp cap="true">veda</slp>.<slp cap="true">pariSizwa</slp></ti></expandMW><expandNorm><ti><slp cap="true">aTarva-veda-pariSizwa</slp></ti></expandNorm>
+01:42	APrāt.	aprAt	ti	<abbr><slp cap="true">a</slp><slp cap="true">prAt</slp></abbr><expandMW><ti><slp cap="true">aTarva</slp>-<slp cap="true">veda</slp><slp cap="true">prAtiSAKya</slp></ti></expandMW><expandNorm><ti><slp cap="true">aTarva-veda-prAtiSAKya</slp></ti></expandNorm>
+01:43	AV.Prāy.	av.prAy	ti	<abbr><slp cap="true">a</slp><slp cap="true">v</slp>.<slp cap="true">prAy</slp></abbr><expandMW><ti><slp cap="true">aTarva</slp><slp cap="true">veda</slp>.<slp cap="true">prAyaScitta</slp></ti></expandMW><expandNorm><ti><slp cap="true">aTarva-veda-prAyaScitta</slp></ti></expandNorm>
+01:44	ĀtmUp.	Atmup	subti	<abbr><slp cap="true">Atm</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">Atma-upanizad</slp></ti>, iii <slp cap="true">K</slp></expandMW><expandNorm><ti><slp cap="true">Atma-upanizad</slp></ti><slp>KaRqa</slp> 3</expandNorm>
+01:45	ĀtrAnukr.	Atranukr	ti	<abbr><slp cap="true">Atr</slp><slp cap="true">anukr</slp></abbr><expandMW><ti><slp cap="true">Atreya</slp><slp cap="true">anukramaRikA</slp></ti></expandMW><expandNorm><ti><slp cap="true">Atreya-anukramaRikA</slp></ti></expandNorm>
+01:46	Avadānaś.	avadAnaS	ti	<abbr><slp cap="true">avadAnaS</slp></abbr><expandMW><ti><slp cap="true">avadAnaSataka</slp></ti></expandMW>
+01:47	Bādar.	bAdar	ti	<abbr><slp cap="true">bAdar</slp></abbr><expandMW><au><slp cap="true">bAdarAyaRa</slp></au>'s <ti><slp cap="true">brahma-sUtra</slp></ti></expandMW><addedInfo><ti><slp cap="true">vedAnta-sUtra</slp>s</ti>, <ti><slp cap="true">SArIraka-mImAMsA-sUtra</slp>s</ti></addedInfo>
+01:47x	Bād.	bAdar	ti	<abbr><slp cap="true">bAdar</slp></abbr><expandMW><au><slp cap="true">bAdarAyaRa</slp></au>'s <ti><slp cap="true">brahma-sUtra</slp></ti></expandMW><addedInfo><ti><slp cap="true">vedAnta-sUtra</slp>s</ti>, <ti><slp cap="true">SArIraka-mImAMsA-sUtra</slp>s</ti></addedInfo>
+01:48	Bādar. Gov.	bAdar. gov	ti	<abbr><slp cap="true">bAdar</slp>. <slp cap="true">gov</slp></abbr><expandMW><au><slp cap="true">bAdarAyaRa</slp></au>. <au><slp cap="true">govindAnanda</slp></au>'s gloss</expandMW><expandNorm><au><slp cap="true">govindAnanda</slp></au>'s <ti><slp cap="true">BAzyaratnapraBA</slp></ti> on <au><slp cap="true">bAdarAyaRa</slp></au>'s <ti><slp cap="true">brahma-sUtra</slp>s</ti></expandNorm>
+01:49	Bādar.,Sch..	bAdar.,Sch.	ti	<abbr><slp cap="true">bAdar</slp>.,Sch.</abbr><expandMW><au><slp cap="true">bAdarAyaRa</slp></au>.,Sch.i.e.<au><slp cap="true">SaMkara</slp></au>'s Comm.</expandMW><expandNorm><au><slp cap="true">SaMkara</slp></au>'s <ti><slp cap="true">SArIraka-mImAMsA</slp></ti> on <au><slp cap="true">bAdarAyaRa</slp></au>'s <ti><slp cap="true">brahma-sUtra</slp>s</ti></expandNorm><addedInfo><ti><slp cap="true">brahma-sUtra-BAzya</slp></ti></addedInfo>
+01:50	Bālar.	bAlar	ti	<abbr><slp cap="true">bAlar</slp></abbr><expandMW><ti><slp cap="true">bAlarAmAyaRa</slp></ti></expandMW>
+01:50x	Bāl.	bAlar	ti	<abbr><slp cap="true">bAlar</slp></abbr><expandMW><ti><slp cap="true">bAlarAmAyaRa</slp></ti></expandMW>
+01:51	Baudh.	bOD	ti	<abbr><slp cap="true">bOD</slp></abbr><expandMW><au><slp cap="true">bODAyana</slp></au>'s <litcat><slp cap="true">Darma-SAstra</slp></litcat></expandMW><expandNorm><ti><slp cap="true">bODAyana-Darma-SAstra</slp></ti></expandNorm>
+01:52	BaudhP.	bODp	ti	<abbr><slp cap="true">bOD</slp><slp cap="true">p</slp></abbr><expandMW><au><slp cap="true">bODAyana</slp></au>'s <litcat><slp cap="true">pitfmeDa-sUtra</slp></litcat></expandMW><expandNorm><ti><slp cap="true">bODAyana-pitfmeDa-sUtra</slp></ti></expandNorm>
+01:53	Bhadrab.	Badrab	ti	<abbr><slp cap="true">Badrab</slp></abbr><expandMW><ti><slp cap="true">BadrabAhu-caritra</slp></ti></expandMW>
+01:54	Bhag.	Bag	ti	<abbr><slp cap="true">Bag</slp></abbr><expandMW><ti><slp cap="true">Bagavad-gItA</slp></ti></expandMW>
+01:55	BhP.	Bp	ti	<abbr><slp cap="true">B</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">BAgavata</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">BAgavata-purARa</slp></ti></expandNorm>
+01:55x	Bh.	Bh	ti	<abbr><slp cap="true">B</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">BAgavata</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">BAgavata-purARa</slp></ti></expandNorm>
+01:55y	BhāgP.	Bp	ti	<abbr><slp cap="true">B</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">BAgavata</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">BAgavata-purARa</slp></ti></expandNorm>
+01:56	Bhagavatīg.	BagavatIg	ti	<abbr><slp cap="true">BagavatIg</slp></abbr><expandMW><ti><slp cap="true">BagavatIgItA</slp></ti></expandMW><expandNorm><ti><slp cap="true">BagavatI-gItA</slp></ti></expandNorm>
+01:57	Bhaktâm.	BaktAm	ti	<abbr><slp cap="true">BaktAm</slp></abbr><expandMW><ti><slp cap="true">BaktAmara-stotra</slp></ti></expandMW>
+02:01	Bhām.	BAm	ti	<abbr><slp cap="true">BAm</slp></abbr><expandMW><ti><slp cap="true">BAminI-vilAsa</slp></ti></expandMW>
+02:02	Bharaṭ.	Baraw	ti	<abbr><slp cap="true">Baraw</slp></abbr><expandMW><ti><slp cap="true">Barawaka-dvAtriMSikA</slp></ti></expandMW>
+02:03	Bhar.	Bar	ti	<abbr><slp cap="true">Bar</slp></abbr><expandMW><au><slp cap="true">Barata</slp></au>'s <ti><slp cap="true">nAwya-SAstra</slp></ti></expandMW><expandNorm><ti><slp cap="true">Barata-nAwya-SAstra</slp></ti></expandNorm>
+02:04	Bhpañcad.	BpaYcad	ti	<abbr><slp cap="true">BpaYcad</slp></abbr><expandMW><au><slp cap="true">BAratItIrTa</slp></au>'s <ti><slp cap="true">paYcadaSI</slp></ti></expandMW>
+02:05	Bhartṛ.	Bartf	au	<abbr><slp cap="true">Bartf</slp></abbr><expandMW><au><slp cap="true">Bartfhari</slp></au></expandMW>
+02:06	Bhāṣāp.	BAzAp	ti	<abbr><slp cap="true">BAzAp</slp></abbr><expandMW><ti><slp cap="true">BAzAparicCeda</slp></ti></expandMW>
+02:07	Bhāṣik.	BAzik	ti	<abbr><slp cap="true">BAzik</slp></abbr><expandMW><ti><slp cap="true">BASika-sUtra</slp></ti></expandMW>
+02:08	Bhaṭṭ.	Baww	ti	<abbr><slp cap="true">Baww</slp></abbr><expandMW><ti><slp cap="true">Bawwi-kAvya</slp></ti></expandMW>
+02:09	Bhpr.	Bpr	ti	<abbr><slp cap="true">Bpr</slp></abbr><expandMW><ti><slp cap="true">BAvaprakASa</slp></ti></expandMW>
+02:10	BhavP.	Bavp	ti	<abbr><slp cap="true">Bav</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">Bavizya</slp><slp cap="true">purARa</slp></ti>, ii <slp cap="true">K</slp>. <subti><slp cap="true">Bavizya</slp></subti>- and <subti><slp cap="true">Bavizyottara</slp><slp cap="true">p</slp></subti>.</expandMW><expandNorm><ti><slp cap="true">Bavizya-purARa</slp></ti>, <slp>KaRqa</slp> 1 and 2: <subti><slp cap="true">Bavizya-purARa</slp></subti> and <subti><slp cap="true">Bavizyottara-purARa</slp></subti></expandNorm>
+02:11	Bhoj.	Boj	au	<abbr><slp cap="true">Boj</slp></abbr><expandMW><au><slp cap="true">Boja</slp></au></expandMW>
+02:12	Bhojapr.	Bojapr	ti	<abbr><slp cap="true">Bojapr</slp></abbr><expandMW><ti><slp cap="true">BojaprabanDa</slp></ti></expandMW>
+02:13	Bījag.	bIjag	subti	<abbr><slp cap="true">bIjag</slp></abbr><expandMW><subti><slp cap="true">bIjagaRita</slp></subti></expandMW><addedInfo><au><slp cap="true">BAskara</slp></au>'s <ti><slp cap="true">sidDAnta-SiromaRi</slp></ti><slp>aDyAya</slp> 2</addedInfo>
+02:13x	Bīj.	bIjag	subti	<abbr><slp cap="true">bIjag</slp></abbr><expandMW><subti><slp cap="true">bIjagaRita</slp></subti></expandMW><addedInfo><au><slp cap="true">BAskara</slp></au>'s <ti><slp cap="true">sidDAnta-SiromaRi</slp></ti><slp>aDyAya</slp> 2</addedInfo>
+02:14	BRD.	BRD	ti	<abbr>BRD</abbr><expandMW><au>Böhtlingk</au> and <au>Roth</au>'s <litcat>Dictionary</litcat></expandMW><expandNorm><au>Böhtlingk</au> and <au>Roth</au>'s <ti>Sanskrit-Wörterbuch</ti></expandNorm>
+02:14x	BR.	BR	ti	<abbr>BR</abbr><expandMW><au>Böhtlingk</au> and <au>Roth</au>'s <litcat>Dictionary</litcat></expandMW><expandNorm><au>Böhtlingk</au> and <au>Roth</au>'s <ti>Sanskrit-Wörterbuch</ti></expandNorm>
+02:15	BrahmabUp.	brahmabup	ti	<abbr><slp cap="true">brahmab</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">brahmabindu</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">brahmabindu-upanizad</slp></ti></expandNorm>
+02:16	Br.	br	litcat	<abbr><slp cap="true">br</slp></abbr><expandMW><litcat><slp cap="true">brAhmaRa</slp>s</litcat></expandMW><expandNorm><litcat><slp cap="true">brAhmaRa</slp></litcat></expandNorm>
+02:17	BrahmâṇḍaP.	brahmARqap	ti	<abbr><slp cap="true">brahmARqa</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">brahmARqa</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">brahmARqa-purARa</slp></ti></expandNorm>
+02:18	BrahmaP.	brahmap	ti	<abbr><slp cap="true">brahma</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">brahma</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">brahma-purARa</slp></ti></expandNorm>
+02:19	Brahmas.	brahmas	ti	<abbr><slp cap="true">brahmas</slp></abbr><expandMW><ti><slp cap="true">brahmasidDAnta</slp></ti></expandMW>
+02:20	BrahmUp.	brahmup	ti	<abbr><slp cap="true">brahm</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">brahma</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">brahma-upanizad</slp></ti></expandNorm>
+02:21	BrahmavP.	brahmavp	ti	<abbr><slp cap="true">brahmav</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">brahmavEvarta</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">brahmavEvarta-purARa</slp></ti></expandNorm>
+02:22	BrahmavUp.	brahmavup	ti	<abbr><slp cap="true">brahmav</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">brahmavidyA</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">brahmavidyA-upanizad</slp></ti></expandNorm>
+02:23	BrahmôttKh.	brahmottK	subti	<abbr><slp cap="true">brahmott</slp><slp cap="true">K</slp></abbr><expandMW><subti><slp cap="true">brahmottara</slp><slp>KaRqa</slp></subti>, from the <ti><slp cap="true">skanda</slp><slp cap="true">p</slp></ti>.</expandMW><expandNorm><subti><slp cap="true">brahmottara-KaRqa</slp></subti>, from the <ti><slp cap="true">skanda-purARa</slp></ti></expandNorm>
+02:24	BṛĀrUp.	bfArup	ti	<abbr><slp cap="true">bf</slp><slp cap="true">Ar</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">bfhad</slp><slp cap="true">AraRyaka</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">bfhad-AraRyaka-upanizad</slp></ti></expandNorm>
+02:25	Bṛh.	bfh	ti	<abbr><slp cap="true">bfh</slp></abbr><expandMW><ti><slp cap="true">bfhad-devatA</slp></ti></expandMW>
+02:26	BṛNārP.	bfnArp	subti	<abbr><slp cap="true">bf</slp><slp cap="true">nAr</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">bfhan</slp><slp cap="true">nAradIya</slp><slp cap="true">purARa</slp></ti>, xxxviii <slp>aDy</slp></expandMW><expandNorm><ti><slp cap="true">bfhan-nAradIya-purARa</slp></ti>, 38 <slp>aDyAya</slp></expandNorm>
+02:27	Bcar.	bcar	ti	<abbr><slp cap="true">bcar</slp></abbr><expandMW><ti><slp cap="true">budDa-carita</slp></ti></expandMW>
+02:28	Buddh.	Buddh	litcat	<abbr>Buddh</abbr><expandMW><litcat>Buddhist literature</litcat></expandMW>
+02:29	Campak.	campak	ti	<abbr><slp cap="true">campak</slp></abbr><expandMW><ti><slp cap="true">campaka-SrezWi-kaTAnaka</slp></ti></expandMW>
+02:30	Cāṇ.	cAR	au	<abbr><slp cap="true">cAR</slp></abbr><expandMW><au><slp cap="true">cARakya</slp></au></expandMW>
+02:31	Caṇḍ.	caRq	ti	<abbr><slp cap="true">caRq</slp></abbr><expandMW><ti><slp cap="true">caRqa-kOSika</slp></ti></expandMW>
+02:31a	Caṇḍak.	caRqak	ti	<abbr><slp cap="true">caRq</slp></abbr><expandMW><ti><slp cap="true">caRqa-kOSika</slp></ti></expandMW>
+02:32	Car.	car	au	<abbr><slp cap="true">car</slp></abbr><expandMW><au><slp cap="true">caraka</slp></au></expandMW><addedInfo>sage credited for composing the <litcat><slp cap="true">Ayur-veda</slp></litcat> medical text <ti><slp cap="true">caraka-saMhitA</slp></ti></addedInfo>
+02:33	Caraṇ.	caraR	ti	<abbr><slp cap="true">caraR</slp></abbr><expandMW><ti><slp cap="true">caraRa-vyUha</slp></ti></expandMW>
+02:33a	Caraṇavy.	caraRavy	ti	<abbr><slp cap="true">caraR</slp></abbr><expandMW><ti><slp cap="true">caraRa-vyUha</slp></ti></expandMW>
+02:34	Caurap.	cOrap	ti	<abbr><slp cap="true">cOrap</slp></abbr><expandMW><ti><slp cap="true">cOrapaYcASikA</slp></ti></expandMW>
+02:35	Chandaḥs.	CandaHs	ti	<abbr><slp cap="true">CandaHs</slp></abbr><expandMW><ti><slp cap="true">CandaHsUtra</slp></ti></expandMW><expandNorm><ti><slp cap="true">CandaH-sUtra</slp></ti></expandNorm>
+02:36	ChUp.	Cup	ti	<abbr><slp cap="true">C</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">CAndogya</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">CAndogya-upanizad</slp></ti></expandNorm>
+02:37	Chandom.	Candom	ti	<abbr><slp cap="true">Candom</slp></abbr><expandMW><ti><slp cap="true">CandomaYjarI</slp></ti></expandMW>
+02:38	Col.	Col	au	<abbr>Col</abbr><expandMW><au>Colebrooke</au></expandMW>
+02:38x	Colebr.	Col	au	<abbr>Col</abbr><expandMW><au>Colebrooke</au></expandMW>
+02:39	CūlUp.	cUlup	ti	<abbr><slp cap="true">cUl</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">cUlikA</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">cUlikA-upanizad</slp></ti></expandNorm>
+02:40	DaivBr.	dEvbr	ti	<abbr><slp cap="true">dEv</slp><slp cap="true">br</slp></abbr><expandMW><ti><slp cap="true">dEvata</slp><slp cap="true">brAhmaRa</slp></ti></expandMW><expandNorm><ti><slp cap="true">dEvata-brAhmaRa</slp></ti></expandNorm>
+02:41	Damayantī-kathā.	damayantI-kaTA	ti	<abbr><slp cap="true">damayantI-kaTA</slp></abbr><expandMW> see <slp cap="true">nalac</slp></expandMW><expandNorm><ti><slp cap="true">nalacampU</slp></ti></expandNorm>
+02:41a	Damayantī-k.	damayantIk	ti	<abbr><slp cap="true">damayantIk</slp></abbr><expandMW> see <slp cap="true">nalac</slp></expandMW><expandNorm><ti>Damayantī-kathā, <slp cap="true">nalacampU</slp></ti></expandNorm>
+02:42	Daś.	daS	ti	<abbr><slp cap="true">daS</slp></abbr><expandMW><ti><slp cap="true">daSakumAra-carita</slp></ti></expandMW>
+02:42x	Daśak.	daS	ti	<abbr><slp cap="true">daS</slp></abbr><expandMW><ti><slp cap="true">daSakumAra-carita</slp></ti></expandMW>
+02:43	Daśar.	daSar	ti	<abbr><slp cap="true">daSar</slp></abbr><expandMW><ti><slp cap="true">daSarUpa</slp></ti></expandMW>
+02:44	Dāṭhādh.	dAWAD	ti	<abbr><slp cap="true">dAWAD</slp></abbr><expandMW><ti><slp cap="true">dAWADAtu-vaMSa</slp></ti></expandMW>
+02:45	Dāyabh.	dAyaB	ti	<abbr><slp cap="true">dAyaB</slp></abbr><expandMW><ti><slp cap="true">dAyaBAga</slp></ti></expandMW>
+02:46	Dāyat.	dAyat	ti	<abbr><slp cap="true">dAyat</slp></abbr><expandMW><ti><slp cap="true">dAyatattva</slp></ti></expandMW>
+02:47	Devatādhyāya.	devatADyAya	ti	<abbr><slp cap="true">devatADyAya</slp></abbr><expandMW> =<slp cap="true">dEv</slp><slp cap="true">br</slp></expandMW><expandNorm><ti><slp cap="true">dEvata-brAhmaRa</slp></ti></expandNorm>
+02:48	DevībhP.	devIBp	ti	<abbr><slp cap="true">devIB</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">devIBAgavata</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">devI-BAgavata-purARa</slp></ti></expandNorm>
+02:48x	DevīP.	devIp	ti	<abbr><slp cap="true">devIB</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">devIBAgavata</slp> <slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">devI-BAgavata-purARa</slp></ti></expandNorm>
+02:49	Devīm.	devIm	ti	<abbr><slp cap="true">devIm</slp></abbr><expandMW><ti><slp cap="true">devImAhAtmya</slp></ti></expandMW><expandNorm><ti><slp cap="true">devI-mAhAtmya</slp></ti></expandNorm>
+02:49x	Dev.	devIm	ti	<abbr><slp cap="true">devIm</slp></abbr><expandMW><ti><slp cap="true">devImAhAtmya</slp></ti></expandMW><expandNorm><ti><slp cap="true">devI-mAhAtmya</slp></ti></expandNorm>
+02:50	Dhanaṃj.	DanaMj	ti	<abbr><slp cap="true">DanaMj</slp></abbr><expandMW><ti><slp cap="true">DanaMjaya-vijaya</slp></ti></expandMW>
+02:51	Dhanv.	Danv	au	<abbr><slp cap="true">Danv</slp></abbr><expandMW><au><slp cap="true">Danvantari</slp></au></expandMW><addedInfo>deity and reputed propounder of <litcat><slp cap="true">Ayur-veda</slp></litcat></addedInfo>
+02:52	Dharmas.	Darmas	ti	<abbr><slp cap="true">Darmas</slp></abbr><expandMW><ti><slp cap="true">DarmasaMgraha</slp></ti></expandMW>
+02:53	Dharmaśarm.	DarmaSarm	ti	<abbr><slp cap="true">DarmaSarm</slp></abbr><expandMW><ti><slp cap="true">DarmaSarmAByudaya</slp></ti></expandMW>
+02:53x	Dharmaś.	DarmaSarm	ti	<abbr><slp cap="true">DarmaSarm</slp></abbr><expandMW><ti><slp cap="true">DarmaSarmAByudaya</slp></ti></expandMW>
+02:54	Dharmav.	Darmav	ti	<abbr><slp cap="true">Darmav</slp></abbr><expandMW><ti><slp cap="true">Darmaviveka</slp></ti></expandMW>
+02:55	Dhātup.	DAtup	ti	<abbr><slp cap="true">DAtup</slp></abbr><expandMW><ti><slp cap="true">DAtupAWa</slp></ti></expandMW>
+02:55x	Dhāt.	DAtup	ti	<abbr><slp cap="true">DAtup</slp></abbr><expandMW><ti><slp cap="true">DAtupAWa</slp></ti></expandMW>
+02:56	Dhūrtan.	DUrtan	ti	<abbr><slp cap="true">DUrtan</slp></abbr><expandMW><ti><slp cap="true">DUrtanartaka</slp></ti></expandMW>
+02:57	Dhūrtas.	DUrtas	ti	<abbr><slp cap="true">DUrtas</slp></abbr><expandMW><ti><slp cap="true">DUrtasamAgama</slp></ti></expandMW>
+02:58	DhyānabUp.	DyAnabup	ti	<abbr><slp cap="true">DyAnab</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">DyAnabindu</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">DyAnabindu-upanizad</slp></ti></expandNorm>
+02:59	Dīp.	dIp	ti	<abbr><slp cap="true">dIp</slp></abbr><expandMW><ti><slp cap="true">dIpikA</slp></ti></expandMW>
+02:60	Divyâv.	divyAv	ti	<abbr><slp cap="true">divyAv</slp></abbr><expandMW><ti><slp cap="true">divyAvadAna</slp></ti></expandMW>
+02:61	Drāhy.	drAhy	au	<abbr><slp cap="true">drAhy</slp></abbr><expandMW><au><slp cap="true">drAhyAyaRa</slp></au></expandMW>
+02:62	Durgāv.	durgAv	ti	<abbr><slp cap="true">durgAv</slp></abbr><expandMW><ti><slp cap="true">durgAvilAsa</slp></ti></expandMW>
+02:63	Dūtâṅg.	dUtANg	ti	<abbr><slp cap="true">dUtANg</slp></abbr><expandMW><ti><slp cap="true">dUtANgada</slp></ti></expandMW>
+02:64	Gal.	Gal	ti	<abbr>Gal</abbr><expandMW><au>Galanos</au>' <litcat>Dictionary</litcat></expandMW><expandNorm><au>Demetrius Galanos</au>'s <ti>Lexiko: sanskritikes, anglikes, hellenikes</ti></expandNorm>
+02:65	Gaṇar.	gaRar	ti	<abbr><slp cap="true">gaRar</slp></abbr><expandMW><ti><slp cap="true">gaRaratna-mahodaDi</slp></ti></expandMW>
+02:65x	Gaṇaratnâv.	gaRar	ti	<abbr><slp cap="true">gaRar</slp></abbr><expandMW><ti><slp cap="true">gaRaratna-mahodaDi</slp></ti></expandMW>
+02:66	GaṇP.	gaRp	ti	<abbr><slp cap="true">gaR</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">gaReSa</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">gaReSa-purARa</slp></ti></expandNorm>
+03:01	Gaṇit.	gaRit	subti	<abbr><slp cap="true">gaRit</slp></abbr><expandMW><subti><slp cap="true">gaRitADyAya</slp></subti></expandMW><addedInfo><au><slp cap="true">BAskara</slp></au>'s <ti><slp cap="true">sidDAntaSiromaRi</slp></ti><slp>aDyAya</slp> 3</addedInfo>
+03:02	GarbhUp.	garBup	ti	<abbr><slp cap="true">garB</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">garBa</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">garBa-upanizad</slp></ti></expandNorm>
+03:03	GārgīS.	gArgIs	ti	<abbr><slp cap="true">gArgI</slp><slp cap="true">s</slp></abbr><expandMW><ti><slp cap="true">gArgI</slp><slp cap="true">saMhitA</slp></ti></expandMW><expandNorm><ti><slp cap="true">gArgI-saMhitA</slp></ti></expandNorm>
+03:04	GāruḍaP.	gAruqap	ti	<abbr><slp cap="true">gAruqa</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">gAruqa</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">gAruqa-purARa</slp></ti></expandNorm>
+03:04x	GarP.	gAruqap	ti	<abbr><slp cap="true">gAruqa</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">gAruqa</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">gAruqa-purARa</slp></ti></expandNorm>
+03:05	GarUp.	garup	ti	<abbr><slp cap="true">gar</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">garuqa</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">garuqa-upanizad</slp></ti></expandNorm>
+03:06	Gāthāsaṃgr.	gATAsaMgr	ti	<abbr><slp cap="true">gATAsaMgr</slp></abbr><expandMW><ti><slp cap="true">gATAsaMgraha</slp></ti></expandMW>
+03:07	Gauragaṇ.	gOragaR	ti	<abbr><slp cap="true">gOragaR</slp></abbr><expandMW><ti><slp cap="true">gOragaRoddeSa</slp></ti></expandMW>
+03:08	Gaut.	gOt	ti	<abbr><slp cap="true">gOt</slp></abbr><expandMW><ti><slp cap="true">gOtama</slp>'s <slp cap="true">Darma-SAstra</slp></ti></expandMW><expandNorm><ti><slp cap="true">gOtama-Darma-SAstra</slp></ti></expandNorm>
+03:09	GayāMāh.	gayAmAh	ti	<abbr><slp cap="true">gayA</slp><slp cap="true">mAh</slp></abbr><expandMW><ti><slp cap="true">gayA</slp><slp cap="true">mAhAtmya</slp></ti></expandMW><expandNorm><ti><slp cap="true">gayA-mAhAtmya</slp></ti></expandNorm>
+03:10	Ghaṭ.	Gaw	ti	<abbr><slp cap="true">Gaw</slp></abbr><expandMW><ti><slp cap="true">Gawakarpara</slp></ti></expandMW>
+03:11	Gīt.	gIt	ti	<abbr><slp cap="true">gIt</slp></abbr><expandMW><ti><slp cap="true">gIta-govinda</slp></ti></expandMW>
+03:12	GobhŚrāddh.	goBSrAdD	ti	<abbr><slp cap="true">goB</slp><slp cap="true">SrAdD</slp></abbr><expandMW><au><slp cap="true">goBila</slp></au>'s<ti> <slp cap="true">SrAdDa-kalpa</slp></ti></expandMW><expandNorm><ti><slp cap="true">goBila-SrAdDa-kalpa</slp></ti></expandNorm>
+03:12x	Gobh.	goBSrAdD	ti	<abbr><slp cap="true">goB</slp><slp cap="true">SrAdD</slp></abbr><expandMW><au><slp cap="true">goBila</slp></au>'s<ti> <slp cap="true">SrAdDa-kalpa</slp></ti></expandMW><expandNorm><ti><slp cap="true">goBila-SrAdDa-kalpa</slp></ti></expandNorm>
+03:13	Gol.	gol	subti	<abbr><slp cap="true">gol</slp></abbr><expandMW><subti><slp cap="true">golADyAya</slp></subti></expandMW><addedInfo><au><slp cap="true">BAskara</slp></au>'s <ti><slp cap="true">sidDAnta-SiromaRi</slp></ti><slp>aDyAya</slp> 1</addedInfo>
+03:14	GopBr.	gopbr	ti	<abbr><slp cap="true">gop</slp><slp cap="true">br</slp></abbr><expandMW><ti><slp cap="true">gopaTa</slp><slp cap="true">brAhmaRa</slp></ti></expandMW><expandNorm><ti><slp cap="true">gopaTa-brAhmaRa</slp></ti></expandNorm>
+03:15	Gorakṣ.	gorakz	ti	<abbr><slp cap="true">gorakz</slp></abbr><expandMW><ti><slp cap="true">gorakza-Sataka</slp></ti></expandMW>
+03:16	Grahay.	grahay	subti	<abbr><slp cap="true">grahay</slp></abbr><expandMW><subti><slp cap="true">grahayajYa-tattva</slp></subti></expandMW><addedInfo>chapter in the legal work <ti><slp cap="true">smftitattva</slp></ti> by <au><slp cap="true">raGunandana</slp></au></addedInfo>
+03:17	Gmn.	Gmn	au	<abbr>Gmn</abbr><expandMW><au>Grassmann</au></expandMW>
+03:18x	GṛŚrS.	gfSr	litcat	<abbr><slp cap="true">gf</slp><slp cap="true">Sr</slp></abbr><expandMW><litcat><slp cap="true">gfhya</slp></litcat>- and <litcat><slp cap="true">SrOta-sUtra</slp></litcat></expandMW><expandNorm><litcat><slp cap="true">gfhya-sUtra</slp></litcat> and <litcat><slp cap="true">SrOta-sUtra</slp></litcat></expandNorm>
+03:18y	ŚrGṛS.	gfSr	litcat	<abbr><slp cap="true">gf</slp><slp cap="true">Sr</slp></abbr><expandMW><litcat><slp cap="true">gfhya</slp></litcat>- and <litcat><slp cap="true">SrOta-sUtra</slp></litcat></expandMW><expandNorm><litcat><slp cap="true">gfhya-sUtra</slp></litcat> and <litcat><slp cap="true">SrOta-sUtra</slp></litcat></expandNorm>
+03:19	GṛS.	gfs	litcat	<abbr><slp cap="true">gf</slp><slp cap="true">s</slp></abbr><expandMW><litcat><slp cap="true">gfhya</slp><slp cap="true">sUtra</slp></litcat></expandMW><expandNorm><litcat><slp cap="true">gfhya-sUtra</slp></litcat></expandNorm>
+03:20x	GS.	gfs	litcat	<abbr><slp cap="true">gf</slp><slp cap="true">s</slp></abbr><expandMW><litcat><slp cap="true">gfhya</slp><slp cap="true">sUtra</slp></litcat></expandMW><expandNorm><litcat><slp cap="true">gfhya-sUtra</slp></litcat></expandNorm>
+03:20	Gṛhyās.	gfhyAs	ti	<abbr><slp cap="true">gfhyAs</slp></abbr><expandMW><ti><slp cap="true">gfhyAsaMgraha</slp></ti></expandMW>
+03:21	Hāl.	hAl	au	<abbr><slp cap="true">hAl</slp></abbr><expandMW><au><slp cap="true">hAla</slp></au></expandMW><expandNorm><au><slp cap="true">hAla</slp></au></expandNorm><addedInfo>author of Prakrit <ti><slp cap="true">gATA-saptaSatI</slp></ti></addedInfo>
+03:22	HaṃsUp.	haMsup	ti	<abbr><slp cap="true">haMs</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">haMsa</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">haMsa-upanizad</slp></ti></expandNorm>
+03:23	Harav.	harav	ti	<abbr><slp cap="true">harav</slp></abbr><expandMW><ti><slp cap="true">haravijaya</slp></ti></expandMW>
+03:23x	Haravij.	harav	ti	<abbr><slp cap="true">harav</slp></abbr><expandMW><ti><slp cap="true">haravijaya</slp></ti></expandMW>
+03:24	Hār.	hAr	au	<abbr><slp cap="true">hAr</slp></abbr><expandMW><au><slp cap="true">hArIta</slp></au></expandMW><addedInfo>author of <ti><slp cap="true">hArIta-Darma-Sastra</slp></ti></addedInfo>
+03:25	Hariv.	hariv	ti	<abbr><slp cap="true">hariv</slp></abbr><expandMW><ti><slp cap="true">harivaMSa</slp></ti></expandMW>
+03:26	Hcar.	hcar	ti	<abbr><slp cap="true">hcar</slp></abbr><expandMW><ti><slp cap="true">harzacarita</slp></ti></expandMW>
+03:27	Hāsy.	hAsy	ti	<abbr><slp cap="true">hAsy</slp></abbr><expandMW><ti><slp cap="true">hAsyArRava</slp></ti></expandMW>
+03:28	Hāyan.	hAyan	ti	<abbr><slp cap="true">hAyan</slp></abbr><expandMW><ti><slp cap="true">hAyana-ratna</slp></ti>, by <au><slp cap="true">balaBadra</slp></au></expandMW>
+03:29	Hemac.	hemac	au	<abbr><slp cap="true">hemac</slp></abbr><expandMW><au><slp cap="true">hemacandra</slp></au></expandMW>
+03:30	HPariś.	hpariS	ti	<abbr><slp cap="true">h</slp><slp cap="true">pariS</slp></abbr><expandMW><au><slp cap="true">hemacandra</slp></au>'s <ti><slp cap="true">pariSizwaparvan</slp></ti></expandMW>
+03:31	HYog.	hyog	ti	<abbr><slp cap="true">h</slp><slp cap="true">yog</slp></abbr><expandMW><au><slp cap="true">hemacandra</slp></au>'s <ti><slp cap="true">yoga-SAstra</slp></ti></expandMW>
+03:31x	HYogaś.	hyog	ti	<abbr><slp cap="true">h</slp><slp cap="true">yog</slp></abbr><expandMW><au><slp cap="true">hemacandra</slp></au>'s <ti><slp cap="true">yoga-SAstra</slp></ti></expandMW>
+03:32	Hcat.	hcat	ti	<abbr><slp cap="true">hcat</slp></abbr><expandMW><au><slp cap="true">hemAdri</slp></au>'s <ti><slp cap="true">caturvarga-cintAmaRi</slp></ti></expandMW>
+03:33	HirGṛ.	hirgf	ti	<abbr><slp cap="true">hir</slp><slp cap="true">gf</slp></abbr><expandMW><au><slp cap="true">hiraRyakeSin</slp></au>'s <litcat><slp cap="true">gfhya-sUtra</slp></litcat></expandMW><expandNormUnused><ti><slp cap="true">hiraRyakeSin-gfhya-sUtra</slp></ti></expandNormUnused>
+03:33x	Hir.	hir	ti	<abbr><slp cap="true">hir</slp><slp cap="true">gf</slp></abbr><expandMW><au><slp cap="true">hiraRyakeSin</slp></au>'s <litcat><slp cap="true">gfhya-sUtra</slp></litcat></expandMW><expandNormUnused><ti><slp cap="true">hiraRyakeSin-gfhya-sUtra</slp></ti></expandNormUnused>
+03:33y	Hiraṇy.	hiraRy	ti	<abbr><slp cap="true">hir</slp><slp cap="true">gf</slp></abbr><expandMW><au><slp cap="true">hiraRyakeSin</slp></au>'s <litcat><slp cap="true">gfhya-sUtra</slp></litcat></expandMW><expandNormUnused><ti><slp cap="true">hiraRyakeSin-gfhya-sUtra</slp></ti></expandNormUnused>
+03:34	HirP.	hirp	ti	<abbr><slp cap="true">hir</slp><slp cap="true">p</slp></abbr><expandMW><au><slp cap="true">hiraRyakeSin</slp></au>'s <litcat><slp cap="true">pitfmeDa-sUtra</slp></litcat></expandMW><expandNorm><ti><slp cap="true">hiraRyakeSin-pitfmeDa-sUtra</slp></ti></expandNorm>
+03:35	Hit.	hit	ti	<abbr><slp cap="true">hit</slp></abbr><expandMW><ti><slp cap="true">hitopadeSa</slp></ti></expandMW>
+03:36	Horāś.	horAS	ti	<abbr><slp cap="true">horAS</slp></abbr><expandMW><ti><slp cap="true">horASAstra</slp></ti></expandMW>
+03:37	IW.	IW	ti	<abbr>IW</abbr><expandMW><ti>Indian Wisdom</ti>, by <au>Sir M. Monier-Williams</au></expandMW>
+03:38	ĪśUp.	ISup	ti	<abbr><slp cap="true">IS</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">ISa</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">ISa-upanizad</slp></ti></expandNorm>
+03:38x	ĪśaUp.	ISup	ti	<abbr><slp cap="true">IS</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">ISa</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">ISa-upanizad</slp></ti></expandNorm>
+03:39	JābālUp.	jAbAlup	ti	<abbr><slp cap="true">jAbAl</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">jAbAla</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">jAbAla-upanizad</slp></ti></expandNorm>
+03:39x	JābālaUp.	jAbAlup	ti	<abbr><slp cap="true">jAbAl</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">jAbAla</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">jAbAla-upanizad</slp></ti></expandNorm>
+03:40	Jaim.	jEm	au	<abbr><slp cap="true">jEm</slp></abbr><expandMW><au><slp cap="true">jEmini</slp></au></expandMW>
+03:41	JaimBh.	jEmB	subti	<abbr><slp cap="true">jEm</slp><slp cap="true">B</slp></abbr><expandMW><ti><slp cap="true">jEmini</slp><slp cap="true">BArata</slp></ti>, <subti><slp cap="true">ASvameDika parvan</slp></subti></expandMW><expandNorm><ti><slp cap="true">jEmini-BArata</slp></ti>, <subti><slp cap="true">ASvameDika-parvan</slp></subti></expandNorm>
+03:41x	JaimBhār.	jEmB	subti	<abbr><slp cap="true">jEm</slp><slp cap="true">B</slp></abbr><expandMW><ti><slp cap="true">jEmini</slp><slp cap="true">BArata</slp></ti>, <subti><slp cap="true">ASvameDika parvan</slp></subti></expandMW><expandNorm><ti><slp cap="true">jEmini-BArata</slp></ti>, <subti><slp cap="true">ASvameDika-parvan</slp></subti></expandNorm>
+03:42	JaimBr.	jEmbr	ti	<abbr><slp cap="true">jEm</slp><slp cap="true">br</slp></abbr><expandMW><ti><slp cap="true">jEminIya</slp><slp cap="true">brAhmaRa</slp></ti></expandMW><expandNorm><ti><slp cap="true">jEminIya-brAhmaRa</slp></ti></expandNorm>
+03:43	JaimUp.	jEmup	ti	<abbr><slp cap="true">jEm</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">jEminIya</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">jEminIya-upanizad</slp></ti></expandNorm>
+03:44	Jain.	jEn	litcat	<abbr><slp cap="true">jEn</slp></abbr><expandMW><litcat><slp cap="true">jEna</slp> literature</litcat></expandMW>
+03:45	Jātakam.	jAtakam	ti	<abbr><slp cap="true">jAtakam</slp></abbr><expandMW><ti><slp cap="true">jAtakamAlA</slp></ti></expandMW>
+03:45x	Jāt.	jAtakam	ti	<abbr><slp cap="true">jAtakam</slp></abbr><expandMW><ti><slp cap="true">jAtakamAlA</slp></ti></expandMW>
+03:45y	Jātak.	jAtakam	ti	<abbr><slp cap="true">jAtakam</slp></abbr><expandMW><ti><slp cap="true">jAtakamAlA</slp></ti></expandMW>
+03:46	Jyot.	jyot	litcat	<abbr><slp cap="true">jyot</slp></abbr><expandMW><litcat><slp cap="true">jyotiza</slp></litcat></expandMW>
+03:47	Kād.	kAd	ti	<abbr><slp cap="true">kAd</slp></abbr><expandMW><ti><slp cap="true">kAdambarI</slp></ti></expandMW>
+03:48	KaivUp.	kEvup	ti	<abbr><slp cap="true">kEv</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">kEvalya</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">kEvalya-upanizad</slp></ti></expandNorm>
+03:49	Kaiy.	kEy	au	<abbr><slp cap="true">kEy</slp></abbr><expandMW><au><slp cap="true">kEyawa</slp></au>, <au><slp cap="true">kEyyawa</slp></au></expandMW>
+03:50	Kālac.	kAlac	ti	<abbr><slp cap="true">kAlac</slp></abbr><expandMW><ti><slp cap="true">kAlacakra</slp></ti></expandMW>
+03:51	Kālakâc.	kAlakAc	ti	<abbr><slp cap="true">kAlakAc</slp></abbr><expandMW><ti><slp cap="true">kAlakAcArya-kaTAnaka</slp></ti></expandMW>
+03:52	Kālanirṇ.	kAlanirR	ti	<abbr><slp cap="true">kAlanirR</slp></abbr><expandMW><ti><slp cap="true">kAlanirRaya</slp></ti></expandMW>
+03:53	Kālid.	kAlid	au	<abbr><slp cap="true">kAlid</slp></abbr><expandMW><au><slp cap="true">kAlidAsa</slp></au></expandMW>
+03:54	KālP.	kAlp	ti	<abbr><slp cap="true">kAl</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">kAlikA</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">kAlikA-purARa</slp></ti></expandNorm>
+03:55	KalkiP.	kalkip	ti	<abbr><slp cap="true">kalki</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">kalki</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">kalki-purARa</slp></ti></expandNorm>
+03:56	Kalpas.	kalpas	litcat	<abbr><slp cap="true">kalpas</slp></abbr><expandMW><litcat><slp cap="true">kalpasUtra</slp></litcat></expandMW><expandNorm><litcat><slp cap="true">kalpa-sUtra</slp></litcat></expandNorm>
+03:57	Kalpat.	kalpat	ti	<abbr><slp cap="true">kalpat</slp></abbr><expandMW><ti><slp cap="true">kalpataru</slp></ti></expandMW>
+03:58	Kalyāṇam.	kalyARam	ti	<abbr><slp cap="true">kalyARam</slp></abbr><expandMW><ti><slp cap="true">kalyARamandira-stotra</slp></ti></expandMW>
+03:59	Kām.	kAm	ti	<abbr><slp cap="true">kAm</slp></abbr><expandMW><ti><slp cap="true">kAmandakIya-nItisAra</slp></ti></expandMW>
+03:60	Kaṇ.	kaR	ti	<abbr><slp cap="true">kaR</slp></abbr><expandMW><au><slp cap="true">kaRAda</slp></au>'s <ti><slp cap="true">vESezika-sUtra</slp></ti></expandMW>
+03:61	KaṇṭhUp.	kaRWup	ti	<abbr><slp cap="true">kaRW</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">kaRWaSruty</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">kaRWaSruti-upanizad</slp></ti></expandNorm>
+03:62	KapSaṃh.	kapsaMh	ti	<abbr><slp cap="true">kap</slp><slp cap="true">saMh</slp></abbr><expandMW><ti><slp cap="true">kapila</slp><slp cap="true">saMhitA</slp></ti>, from the <ti><slp cap="true">skanda</slp><slp cap="true">p</slp></ti>.</expandMW><expandNorm><ti><slp cap="true">kapila-saMhitA</slp></ti>, from the <ti><slp cap="true">skanda-purARa</slp></ti></expandNorm>
+03:63	KapS.	kaps	ti	<abbr><slp cap="true">kap</slp><slp cap="true">s</slp></abbr><expandMW><au><slp cap="true">kapila</slp></au>'s<ti><slp cap="true">sAMKya-pravacana</slp></ti></expandMW>
+04:01	Kapiṣṭh.	kapizW	ti	<abbr><slp cap="true">kapizW</slp></abbr><expandMW><ti><slp cap="true">kapizWala-</slp><slp cap="true">saMhitA</slp></ti></expandMW><expandNorm><ti><slp cap="true">kapizWala-saMhitA</slp></ti></expandNorm>
+04:02	Kāraṇḍ.	kAraRq	ti	<abbr><slp cap="true">kAraRq</slp></abbr><expandMW><ti><slp cap="true">kAraRqa-vyUha</slp></ti></expandMW>
+04:03	Kāraṇḍ.2.	kAraRq.2	ti	<abbr><slp cap="true">kAraRq</slp>.2</abbr><expandMW>metrical recension of the text <ti><slp cap="true">kAraRqa-vyUha</slp></ti></expandMW>
+04:04	Karmapr.	karmapr	ti	<abbr><slp cap="true">karmapr</slp></abbr><expandMW><ti><slp cap="true">karmapradIpa</slp></ti></expandMW>
+04:05	Kāś.	kAS	ti	<abbr><slp cap="true">kAS</slp></abbr><expandMW><ti><slp cap="true">kASikA</slp><slp cap="true">vftti</slp></ti></expandMW><expandNorm><ti><slp cap="true">kASikA-vftti</slp></ti></expandNorm>
+04:06	KāśīKh.	kASIK	subti	<abbr><slp cap="true">kASI</slp><slp cap="true">K</slp></abbr><expandMW><subti><slp cap="true">kASIKaRqa</slp></subti>, from the <subti><slp cap="true">skanda</slp><slp cap="true">p</slp>.</subti></expandMW><expandNorm><subti><slp cap="true">kASI KaRqa</slp></subti>, from the <ti><slp cap="true">skanda-purARa</slp></ti></expandNorm>
+04:07	Kāt.	kAt	ti	<abbr><slp cap="true">kAt</slp></abbr><expandMW><ti><slp cap="true">kAtantra</slp></ti></expandMW>
+04:08	Kāṭh.	kAW	litcat	<abbr><slp cap="true">kAW</slp></abbr><expandMW><litcat><slp cap="true">kAWaka</slp></litcat></expandMW>
+04:09	KāṭhGṛ.	kAWgf	ti	<abbr><slp cap="true">kAW</slp><slp cap="true">gf</slp></abbr><expandMW><ti><slp cap="true">kAWaka</slp><slp cap="true">gfhya-sUtra</slp></ti></expandMW><expandNorm><ti><slp cap="true">kAWaka-gfhya-sUtra</slp></ti></expandNorm>
+04:10	Kathârṇ.	kaTArR	ti	<abbr><slp cap="true">kaTArR</slp></abbr><expandMW><ti><slp cap="true">kaTArRava</slp></ti></expandMW>
+04:11	Kathās.	kaTAs	ti	<abbr><slp cap="true">kaTAs</slp></abbr><expandMW><ti><slp cap="true">kaTAsaritsAgara</slp></ti></expandMW>
+04:12	KaṭhUp.	kaWup	ti	<abbr><slp cap="true">kaW</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">kaWa</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">kaWa-upanizad</slp></ti></expandNorm>
+04:13	Kāty.	kAty	au	<abbr><slp cap="true">kAty</slp></abbr><expandMW><au><slp cap="true">kAtyAyana</slp></au></expandMW>
+04:14	KātyŚr.	kAtySr	ti	<abbr><slp cap="true">kAty</slp><slp cap="true">Sr</slp></abbr><expandMW><ti><slp cap="true">kAtyAyana</slp><slp cap="true">SrOta-sUtra</slp></ti></expandMW><expandNorm><ti><slp cap="true">kAtyAyana-SrOta-sUtra</slp></ti></expandNorm>
+04:15	KauṣĀr.	kOzAr	ti	<abbr><slp cap="true">kOz</slp><slp cap="true">Ar</slp></abbr><expandMW><ti><slp cap="true">kOzItaki</slp><slp cap="true">AraRyaka</slp></ti></expandMW><expandNorm><ti><slp cap="true">kOzItaki-AraRyaka</slp></ti></expandNorm>
+04:16	KauṣBr.	kOzbr	ti	<abbr><slp cap="true">kOz</slp><slp cap="true">br</slp></abbr><expandMW><ti><slp cap="true">kOzItaki</slp> <slp cap="true">brAhmaRa</slp> [Cologne Addition]</ti></expandMW><expandNorm><ti><slp cap="true">kOzItaki-brAhmaRa</slp> [Cologne Addition]</ti></expandNorm>
+04:17	KauṣUp.	kOzup	ti	<abbr><slp cap="true">kOz</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">kOzItaki</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">kOzItaki-upanizad</slp></ti></expandNorm>
+04:18	Kauś.	kOS	ti	<abbr><slp cap="true">kOS</slp></abbr><expandMW><ti><slp cap="true">kOSika-sUtra</slp></ti></expandMW>
+04:19	Kautukar.	kOtukar	ti	<abbr><slp cap="true">kOtukar</slp></abbr><expandMW><ti><slp cap="true">kOtukaratnAkara</slp></ti></expandMW>
+04:20	Kautukas.	kOtukas	ti	<abbr><slp cap="true">kOtukas</slp></abbr><expandMW><ti><slp cap="true">kOtukasarvasva</slp></ti></expandMW>
+04:21	Kavik.	kavik	ti	<abbr><slp cap="true">kavik</slp></abbr><expandMW><ti><slp cap="true">kavikalpa-latA</slp></ti></expandMW>
+04:22	Kavikalpat.	kavikalpat	ti	<abbr><slp cap="true">kavikalpat</slp></abbr><expandMW><ti><slp cap="true">kavikalpataru</slp></ti></expandMW>
+04:23	Kāvyac.	kAvyac	ti	<abbr><slp cap="true">kAvyac</slp></abbr><expandMW><ti><slp cap="true">kAvyacandrikA</slp></ti></expandMW>
+04:24	Kāvyâd.	kAvyAd	ti	<abbr><slp cap="true">kAvyAd</slp></abbr><expandMW><ti><slp cap="true">kAvyAdarSa</slp></ti></expandMW>
+04:25	Kāvyak.	kAvyak	ti	<abbr><slp cap="true">kAvyak</slp></abbr><expandMW><ti><slp cap="true">kAvyakalpa-latA</slp></ti></expandMW>
+04:26	Kāv.	kAv	litcat	<abbr><slp cap="true">kAv</slp></abbr><expandMW><litcat><slp cap="true">kAvya</slp></litcat> literature</expandMW>
+04:27	Kpr.	kpr	ti	<abbr><slp cap="true">kpr</slp></abbr><expandMW><ti><slp cap="true">kAvyaprakASa</slp></ti></expandMW>
+04:27x	Kāvyapr.	kpr	ti	<abbr><slp cap="true">kpr</slp></abbr><expandMW><ti><slp cap="true">kAvyaprakASa</slp></ti></expandMW>
+04:28	Kayy.	kayy	au	<abbr><slp cap="true">kayy</slp></abbr><expandMW><au><slp cap="true">kayyawa</slp></au></expandMW>
+04:29	Ked.	ked	ti	<abbr><slp cap="true">ked</slp></abbr><expandMW><au><slp cap="true">kedAra</slp></au>'s <ti><slp cap="true">vftti-ratnAkara</slp></ti></expandMW>
+04:30	KenUp.	kenup	ti	<abbr><slp cap="true">ken</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">kena</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">kena-upanizad</slp></ti></expandNorm>
+04:30x	KenaUp.	kenup	ti	<abbr><slp cap="true">ken</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">kena</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">kena-upanizad</slp></ti></expandNorm>
+04:31	Khaṇḍapr.	KaRqapr	ti	<abbr><slp cap="true">KaRqapr</slp></abbr><expandMW><ti><slp cap="true">KaRqapraSasti</slp></ti></expandMW>
+04:32	Kir.	kir	ti	<abbr><slp cap="true">kir</slp></abbr><expandMW><ti><slp cap="true">kirAtArjunIya</slp></ti></expandMW>
+04:33	Koṣṭhīpr.	kozWIpr	ti	<abbr><slp cap="true">kozWIpr</slp></abbr><expandMW><ti><slp cap="true">kozWIpradIpa</slp></ti></expandMW>
+04:34	Kramadīp.	kramadIp	ti	<abbr><slp cap="true">kramadIp</slp></abbr><expandMW><ti><slp cap="true">kramadIpikA</slp></ti></expandMW>
+04:35	Kṛṣis.	kfzis	ti	<abbr><slp cap="true">kfzis</slp></abbr><expandMW><ti><slp cap="true">kfzisaMgraha</slp></ti></expandMW>
+04:36	Kṛs2ṇakarṇ.	kfzRakarR	ti	<abbr><slp cap="true">kfzRakarR</slp></abbr><expandMW><ti><slp cap="true">kfzRakarRAmfta</slp></ti></expandMW>
+04:37	Kriyāy.	kriyAy	subti	<abbr><slp cap="true">kriyAy</slp></abbr><expandMW><subti><slp cap="true">kriyAyoga-sAra</slp></subti> in the <ti><slp cap="true">padma</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><subti><slp cap="true">kriyAyoga-sAra</slp></subti> in the <ti><slp cap="true">padma-purARa</slp></ti></expandNorm>
+04:38	Kṣem.	kzem	au	<abbr><slp cap="true">kzem</slp></abbr><expandMW><au><slp cap="true">kzemendra</slp></au></expandMW>
+04:39	Kṣitîś.	kzitIS	ti	<abbr><slp cap="true">kzitIS</slp></abbr><expandMW><ti><slp cap="true">kzitISa-vaMSAvalI-carita</slp></ti></expandMW>
+04:40	KṣurUp.	kzurup	ti	<abbr><slp cap="true">kzur</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">kzurikA</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">kzurikA-upanizad</slp></ti></expandNorm>
+04:41	Kulad.	kulad	ti	<abbr><slp cap="true">kulad</slp></abbr><expandMW><ti><slp cap="true">kuladIpikA</slp></ti></expandMW>
+04:42	Kulârṇ.	kulArR	ti	<abbr><slp cap="true">kulArR</slp></abbr><expandMW><ti><slp cap="true">kulArRava-tantra</slp></ti></expandMW>
+04:43	Kull.	kull	ti	<abbr><slp cap="true">kull</slp></abbr><expandMW><au><slp cap="true">kullUka</slp></au>'s commentary on <au><slp cap="true">manu</slp></au></expandMW><expandNorm><ti><slp cap="true">manvarthamuktAvalI</slp></ti>, <au><slp cap="true">kullUka</slp><slp cap="true">Bawwa</slp></au>'s commentary on <ti><slp cap="true">manu-smfti</slp></ti></expandNorm>
+04:44	Kum.	kum	ti	<abbr><slp cap="true">kum</slp></abbr><expandMW><ti><slp cap="true">kumAra-samBava</slp></ti></expandMW>
+04:45	KūrmaP.	kUrmap	ti	<abbr><slp cap="true">kUrma</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">kUrma</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">kUrma-purARa</slp></ti></expandNorm>
+04:46	Kuṭṭanīm.	kuwwanIm	ti	<abbr><slp cap="true">kuwwanIm</slp></abbr><expandMW><ti><slp cap="true">kuwwanImata</slp></ti></expandMW>
+04:47	Kuval.	kuval	ti	<abbr><slp cap="true">kuval</slp></abbr><expandMW><ti><slp cap="true">kuvalayAnanda</slp></ti></expandMW>
+04:47x	Kuv.	kuval	ti	<abbr><slp cap="true">kuval</slp></abbr><expandMW><ti><slp cap="true">kuvalayAnanda</slp></ti></expandMW>
+04:48	Laghuj.	laGuj	ti	<abbr><slp cap="true">laGuj</slp></abbr><expandMW><ti><slp cap="true">laGujAtaka</slp></ti>, by <au><slp cap="true">varAha-mihira</slp></au></expandMW>
+04:49	Laghuk.	laGuk	ti	<abbr><slp cap="true">laGuk</slp></abbr><expandMW><ti><slp cap="true">laGukOmudI</slp></ti></expandMW>
+04:50	Lalit.	lalit	ti	<abbr><slp cap="true">lalit</slp></abbr><expandMW><ti><slp cap="true">lalita-vistara</slp></ti></expandMW>
+04:51	Laṅkāvat.	laNkAvat	ti	<abbr><slp cap="true">laNkAvat</slp></abbr><expandMW><ti><slp cap="true">laNkAvatAra-sUtra</slp></ti></expandMW>
+04:52	Lāṭy.	lAwy	au	<abbr><slp cap="true">lAwy</slp></abbr><expandMW><au><slp cap="true">lAwyAyana</slp></au></expandMW>
+04:53	L.	L	au	<abbr>L</abbr><expandMW>Lexicographers, esp. such as <au><slp cap="true">amarasiMha</slp></au>, <au><slp cap="true">halAyuDa</slp></au>, <au><slp cap="true">hemacandra</slp></au>, etc.</expandMW>
+04:54	Līl.	lIl	ti	<abbr><slp cap="true">lIl</slp></abbr><expandMW><ti><slp cap="true">lIlAvatI</slp></ti> of <au><slp cap="true">BAskara</slp></au></expandMW>
+04:54x	Līlāv.	lIl	ti	<abbr><slp cap="true">lIl</slp></abbr><expandMW><ti><slp cap="true">lIlAvatI</slp></ti> of <au><slp cap="true">BAskara</slp></au></expandMW>
+04:55	LiṅgaP.	liNgap	ti	<abbr><slp cap="true">liNga</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">liNga</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">liNga-purARa</slp></ti></expandNorm>
+04:56	Ml.	Ml	ti	<abbr>Ml</abbr><expandMW><au>Macdonell</au>'s <litcat>dictionary</litcat>, etc.</expandMW>
+04:56x	ML.	Ml	ti	<abbr>Ml</abbr><expandMW><au>Macdonell</au>'s <litcat>dictionary</litcat>, etc.</expandMW>
+04:57	Madanav.	madanav	ti	<abbr><slp cap="true">madanav</slp></abbr><expandMW><ti><slp cap="true">madanavinoda</slp></ti></expandMW>
+04:58	Madhus.	maDus	au	<abbr><slp cap="true">maDus</slp></abbr><expandMW><au><slp cap="true">maDusUdana</slp></au></expandMW>
+04:59	MāghaMāh.	mAGamAh	subti	<abbr><slp cap="true">mAGa</slp><slp cap="true">mAh</slp></abbr><expandMW><subti><slp cap="true">mAGa</slp><slp cap="true">mAhAtmya</slp></subti> in the <ti><slp cap="true">padma</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><subti><slp cap="true">mAGa-mAhAtmya</slp></subti> in the <ti><slp cap="true">padma-purARa</slp></ti></expandNorm>
+04:60	MBh.	mB	ti	<abbr><slp cap="true">m</slp><slp cap="true">B</slp></abbr><expandMW><ti><slp cap="true">mahABArata</slp></ti></expandMW>
+04:60x	Mbh.	mB	ti	<abbr><slp cap="true">m</slp><slp cap="true">B</slp></abbr><expandMW><ti><slp cap="true">mahABArata</slp></ti></expandMW>
+04:61	MahānārāyaṇaUp..	mahAnArAyaRaup.	ti	<abbr><slp cap="true">mahAnArAyaRa</slp><slp cap="true">up</slp>.</abbr><expandMW><ti><slp cap="true">mahAnArAyaRa</slp><slp cap="true">up</slp></ti>. see <ti><slp cap="true">nArAyaRa</slp><slp cap="true">up</slp></ti></expandMW><expandNorm><ti><slp cap="true">mahAnArAyaRa-upanizad</slp></ti> see <ti><slp cap="true">nArAyaRa-upanizad</slp></ti></expandNorm>
+04:62	Mahān.	mahAn	ti	<abbr><slp cap="true">mahAn</slp></abbr><expandMW><ti><slp cap="true">mahAnAwaka</slp></ti></expandMW>
+04:63	Mcar.	mcar	ti	<abbr><slp cap="true">mcar</slp></abbr><expandMW><ti><slp cap="true">mahAvIra-caritra</slp></ti></expandMW>
+05:01	Mahīdh.	mahID	au	<abbr><slp cap="true">mahID</slp></abbr><expandMW><au><slp cap="true">mahIDara</slp></au></expandMW>
+05:02	MaitrS.	mEtrs	ti	<abbr><slp cap="true">mEtr</slp><slp cap="true">s</slp></abbr><expandMW><ti><slp cap="true">mEtrAyaRI</slp><slp cap="true">saMhitA</slp></ti></expandMW><expandNorm><ti><slp cap="true">mEtrAyaRI-saMhitA</slp></ti></expandNorm>
+05:02x	Maitr.	mEtrs	ti	<abbr><slp cap="true">mEtr</slp><slp cap="true">s</slp></abbr><expandMW><ti><slp cap="true">mEtrAyaRI</slp><slp cap="true">saMhitA</slp></ti></expandMW><expandNorm><ti><slp cap="true">mEtrAyaRI-saMhitA</slp></ti></expandNorm>
+05:03	MaitrUp.	mEtrup	ti	<abbr><slp cap="true">mEtr</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">mEtry</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">mEtrI-upanizad</slp></ti></expandNorm><addedInfo>also known as <ti><slp cap="true">mEtri-upanizad</slp></ti></addedInfo>
+05:04	Malamāsat.	malamAsat	ti	<abbr><slp cap="true">malamAsat</slp></abbr><expandMW><ti><slp cap="true">malamAsatattva</slp></ti></expandMW>
+05:05	Mālatīm.	mAlatIm	ti	<abbr><slp cap="true">mAlatIm</slp></abbr><expandMW><ti><slp cap="true">mAlatImADava</slp></ti></expandMW>
+05:06	Mālav.	mAlav	ti	<abbr><slp cap="true">mAlav</slp></abbr><expandMW><ti><slp cap="true">mAlavikAgnimitra</slp></ti></expandMW>
+05:07	Mallapr.	mallapr	ti	<abbr><slp cap="true">mallapr</slp></abbr><expandMW><ti><slp cap="true">mallaprakASa</slp></ti></expandMW>
+05:08	Mall.	mall	au	<abbr><slp cap="true">mall</slp></abbr><expandMW><au><slp cap="true">mallinATa</slp></au></expandMW>
+05:08x	Mallin.	mall	au	<abbr><slp cap="true">mall</slp></abbr><expandMW><au><slp cap="true">mallinATa</slp></au></expandMW>
+05:09	MānGṛ.	mAngf	ti	<abbr><slp cap="true">mAn</slp><slp cap="true">gf</slp></abbr><expandMW><ti><slp cap="true">mAnava</slp><slp cap="true">gfhya-sUtra</slp></ti></expandMW><expandNorm><ti><slp cap="true">mAnava-gfhya-sUtra</slp></ti></expandNorm>
+05:09x	MānGṛS.	mAngf	ti	<abbr><slp cap="true">mAn</slp><slp cap="true">gf</slp></abbr><expandMW><ti><slp cap="true">mAnava</slp><slp cap="true">gfhya-sUtra</slp></ti></expandMW><expandNorm><ti><slp cap="true">mAnava-gfhya-sUtra</slp></ti></expandNorm>
+05:09y	MānGṛŚrS.	mAngf	ti	<abbr><slp cap="true">mAn</slp><slp cap="true">gf</slp></abbr><expandMW><ti><slp cap="true">mAnava</slp><slp cap="true">gfhya-sUtra</slp></ti></expandMW><expandNorm><ti><slp cap="true">mAnava-gfhya-sUtra</slp></ti></expandNorm>
+05:10	MānŚr.	mAnSr	ti	<abbr><slp cap="true">mAn</slp><slp cap="true">Sr</slp></abbr><expandMW><ti><slp cap="true">mAnava</slp><slp cap="true">SrOta-sUtra</slp></ti></expandMW><expandNorm><ti><slp cap="true">mAnava-SrOta-sUtra</slp></ti></expandNorm>
+05:11	MānS.	mAns	subti	<abbr><slp cap="true">mAn</slp><slp cap="true">s</slp></abbr><expandMW><subti><slp cap="true">mAnavIya</slp><slp cap="true">samhitA</slp></subti> of the <ti><slp cap="true">sOra</slp><slp cap="true">p</slp></ti>.</expandMW><expandNorm><subti><slp cap="true">mAnavIya-samhitA</slp></subti> of the <ti><slp cap="true">sOra-purARa</slp></ti></expandNorm>
+05:12	MāṇḍŚ.	mARqS	ti	<abbr><slp cap="true">mARq</slp><slp cap="true">S</slp></abbr><expandMW><ti><slp cap="true">mARqUkI</slp><slp cap="true">SikzA</slp></ti></expandMW><expandNorm><ti><slp cap="true">mARqUkI-SikzA</slp></ti></expandNorm>
+05:13	MāṇḍUp.	mARqup	ti	<abbr><slp cap="true">mARq</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">mARqUkya</slp><slp cap="true">upanizad</slp></ti>, 12 <slp cap="true">mantra</slp>s</expandMW><expandNorm><ti><slp cap="true">mARqUkya-upanizad</slp></ti>, 12 <slp cap="true">mantra</slp>s</expandNorm>
+05:14	MāṇḍUpGauḍ.	mARqupgOq	ti	<abbr><slp cap="true">mARq</slp><slp cap="true">up</slp><slp cap="true">gOq</slp></abbr><expandMW><ti><slp cap="true">mARqUkya</slp> <slp cap="true">upanizad</slp> </ti><au><slp cap="true">gOqapAda</slp></au>'s <slp cap="true">kArikA</slp></expandMW><expandNorm><ti><slp cap="true">mARqUkya-upanizad</slp></ti>, <au><slp cap="true">gOqapAda</slp></au>'s <slp cap="true">kArikA</slp></expandNorm>
+05:15	MantraBr.	mantrabr	ti	<abbr><slp cap="true">mantra</slp><slp cap="true">br</slp></abbr><expandMW><ti><slp cap="true">mantra</slp><slp cap="true">brAhmaRa</slp></ti></expandMW><expandNorm><ti><slp cap="true">mantra-brAhmaRa</slp></ti></expandNorm>
+05:16	Mantram.	mantram	ti	<abbr><slp cap="true">mantram</slp></abbr><expandMW><ti><slp cap="true">mantramahodaDi</slp></ti></expandMW>
+05:17	Mn.	mn	ti	<abbr><slp cap="true">mn</slp></abbr><expandMW><au><slp cap="true">manu</slp></au>'s <litcat>Law-book</litcat></expandMW><expandNorm><ti><slp cap="true">manu-smfti</slp></ti></expandNorm>
+05:18	MārkP.	mArkp	ti	<abbr><slp cap="true">mArk</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">mArkaRqeya</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">mArkaRqeya-purARa</slp></ti></expandNorm>
+05:18x	Mārk.	mArkp	ti	<abbr><slp cap="true">mArk</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">mArkaRqeya</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">mArkaRqeya-purARa</slp></ti></expandNorm>
+05:19	Maś.	maS	au	<abbr><slp cap="true">maS</slp></abbr><expandMW><au><slp cap="true">maSaka</slp></au></expandMW>
+05:20	MathMāh.	maTmAh	ti	<abbr><slp cap="true">maT</slp><slp cap="true">mAh</slp></abbr><expandMW><ti><slp cap="true">maTurA</slp><slp cap="true">mAhAtmya</slp></ti></expandMW><expandNorm><ti><slp cap="true">maTurA-mAhAtmya</slp></ti></expandNorm>
+05:21	MatsyaP.	matsyap	ti	<abbr><slp cap="true">matsya</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">matsya</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">matsya-purARa</slp></ti></expandNorm>
+05:22	Matsyas.	matsyas	ti	<abbr><slp cap="true">matsyas</slp></abbr><expandMW><ti><slp cap="true">matsyasUkta</slp>, <slp cap="true">Sabdak</slp>.</ti></expandMW><expandNorm><au><slp cap="true">matsyasUkta</slp></au> in <ti><slp cap="true">Sabdakalpadruma</slp></ti></expandNorm>
+05:23	Megh.	meG	ti	<abbr><slp cap="true">meG</slp></abbr><expandMW><ti><slp cap="true">meGadUta</slp></ti></expandMW>
+05:24	Megh.*.	meG.*	ti	<abbr><slp cap="true">meG</slp>.*</abbr><expandMW><ti><slp cap="true">meGadUta</slp></ti>, 15 additional verses</expandMW>
+05:25	MW.	MW	ti	<abbr>MW</abbr><expandMW><au>MonierWilliams</au>, 1st edition of <litcat>Dictionary</litcat>, with marginal notes</expandMW><expandNorm><au>Monier-Williams</au>' <ti>Sanskrit-English Dictionary</ti>, 1st edition with marginal notes</expandNorm>
+05:26	MWB.	MWB	ti	<abbr>MWB</abbr><expandMW><ti>MonierWilliams Buddhism</ti></expandMW><expandNorm><au>Monier-Williams</au>' <ti>Buddhism in its connexion with <slp cap="true">brAhmaR</slp>ism and <slp cap="true">hindU</slp>ism: and in its contrast with Christianity</ti></expandNorm>
+05:27	Mṛcch.	mfcC	ti	<abbr><slp cap="true">mfcC</slp></abbr><expandMW><ti><slp cap="true">mfcCakawikA</slp></ti></expandMW>
+05:28	Mudr.	mudr	ti	<abbr><slp cap="true">mudr</slp></abbr><expandMW><ti><slp cap="true">mudrArAkzasa</slp></ti></expandMW>
+05:29	MuktUp.	muktup	ti	<abbr><slp cap="true">mukt</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">muktikA</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">muktikA-upanizad</slp></ti></expandNorm>
+05:30	MuṇḍUp.	muRqup	ti	<abbr><slp cap="true">muRq</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">muRqaka</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">muRqaka-upanizad</slp></ti></expandNorm>
+05:31	NādabUp.	nAdabup	ti	<abbr><slp cap="true">nAdab</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">nAdabindu</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">nAdabindu-upanizad</slp></ti></expandNorm>
+05:32	Nāḍīpr.	nAqIpr	ti	<abbr><slp cap="true">nAqIpr</slp></abbr><expandMW><au><slp cap="true">nAqIprakASa</slp></au>, <ti><slp cap="true">Sabdak</slp></ti></expandMW><expandNorm><au><slp cap="true">nAqIprakASa</slp></au> in <ti><slp cap="true">Sabdakalpadruma</slp></ti></expandNorm>
+05:33	Nāg.	nAg	ti	<abbr><slp cap="true">nAg</slp></abbr><expandMW><ti><slp cap="true">nAgAnanda</slp></ti></expandMW>
+05:34	Naigh.	nEG	subti	<abbr><slp cap="true">nEG</slp></abbr><expandMW><subti><slp cap="true">nEGaRwuka</slp></subti>, commented on by <au><slp cap="true">yAska</slp></au></expandMW>
+05:35	Naiṣ.	nEz	ti	<abbr><slp cap="true">nEz</slp></abbr><expandMW><ti><slp cap="true">nEzaDa-carita</slp></ti></expandMW>
+05:36	Nalac.	nalac	ti	<abbr><slp cap="true">nalac</slp></abbr><expandMW><ti><slp cap="true">nalacampU</slp></ti> or <ti><slp cap="true">damayantIkaTA</slp></ti></expandMW>
+05:37	Nalôd.	nalod	ti	<abbr><slp cap="true">nalod</slp></abbr><expandMW><ti><slp cap="true">nalodaya</slp></ti></expandMW>
+05:38	Nal.	nal	subti	<abbr><slp cap="true">nal</slp></abbr><expandMW><subti><slp cap="true">nalopAKyAna</slp></subti></expandMW><addedInfo>episode found in the <ti><slp cap="true">mahABArata</slp></ti></addedInfo>
+05:38x	N.	nal	subti	<abbr><slp cap="true">nal</slp></abbr><expandMW><subti><slp cap="true">nalopAKyAna</slp></subti></expandMW><addedInfo>episode found in the <ti><slp cap="true">mahABArata</slp></ti></addedInfo>
+05:39	NandiP.	nandip	ti	<abbr><slp cap="true">nandi</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">nandi</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">nandi-purARa</slp></ti></expandNorm>
+05:40	NārS.	nArs	ti	<abbr><slp cap="true">nAr</slp><slp cap="true">s</slp></abbr><expandMW><ti><slp cap="true">nArada</slp><slp cap="true">saMhitA</slp></ti></expandMW><expandNorm><ti><slp cap="true">nArada-saMhitA</slp></ti></expandNorm>
+05:41	Nār.	nAr	ti	<abbr><slp cap="true">nAr</slp></abbr><expandMW><au><slp cap="true">nArada</slp></au>'s <litcat>Law-book</litcat></expandMW><expandNorm><ti><slp cap="true">nArada-smfti</slp></ti>, <ti><slp cap="true">nAradIya-Darma-SAstra</slp></ti></expandNorm>
+05:42	NārP.	nArp	ti	<abbr><slp cap="true">nAr</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">nAradIya</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">nAradIya-purARa</slp></ti></expandNorm>
+05:43	NarasP.	narasp	ti	<abbr><slp cap="true">naras</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">narasiMha</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">narasiMha-purARa</slp></ti></expandNorm>
+05:44	NārUp.	nArup	ti	<abbr><slp cap="true">nAr</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">nArAyaRa</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">nArAyaRa-upanizad</slp></ti></expandNorm>
+05:44x	MahānārUp.	nArup	ti	<abbr><slp cap="true">nAr</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">nArAyaRa</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">nArAyaRa-upanizad</slp></ti></expandNorm>
+05:45	Nāṭyaś.	nAwyaS	ti	<abbr><slp cap="true">nAwyaS</slp></abbr><expandMW><ti><slp cap="true">nAwyaSAstra</slp></ti></expandMW>
+05:46	NBD.	NBD	ti	<abbr>NBD</abbr><expandMW><ti>New Böhtlingk's Dictionary</ti></expandMW><expandNorm>Böhtlingk's <ti>Sanskrit-Wörterbuch in kürzerer fassung</ti></expandNorm>
+05:47	Nid.	nid	ti	<abbr><slp cap="true">nid</slp></abbr><expandMW><ti><slp cap="true">nidAna</slp></ti> by <au><slp cap="true">mADava</slp></au></expandMW><expandNorm><ti><slp cap="true">mADava-nidAna</slp></ti></expandNorm>
+05:48	Nid,Sch..	nid,Sch.	ti	<abbr><slp cap="true">nid</slp>,Sch.</abbr><expandMW><ti><slp cap="true">nidAna</slp></ti>,Sch.i.e.<au><slp cap="true">vAcaspati</slp></au>'s Comm.</expandMW><addedInfo><ti><slp cap="true">AtaNka-darpaRa</slp></ti> or  <ti><slp cap="true">mADava-nidAna-wIkA</slp></ti> by <au><slp cap="true">vAcaspati</slp></au></addedInfo>
+05:49	Nidānas.	nidAnas	ti	<abbr><slp cap="true">nidAnas</slp></abbr><expandMW><ti><slp cap="true">nidAnasUtra</slp></ti></expandMW><expandNorm><ti><slp cap="true">nidAna-sUtra</slp></ti></expandNorm>
+05:50	Npr.	npr	ti	<abbr><slp cap="true">npr</slp></abbr><expandMW><ti><slp cap="true">niGaRwuprakASa</slp></ti></expandMW>
+05:50x	Nigh.	npr	ti	<abbr><slp cap="true">npr</slp></abbr><expandMW><ti><slp cap="true">niGaRwuprakASa</slp></ti></expandMW>
+05:51	Nīlak.	nIlak	au	<abbr><slp cap="true">nIlak</slp></abbr><expandMW><au><slp cap="true">nIlakaRWa</slp></au></expandMW>
+05:51x	Nīl.	nIlak	au	<abbr><slp cap="true">nIlak</slp></abbr><expandMW><au><slp cap="true">nIlakaRWa</slp></au></expandMW>
+05:52	NīlP.	nIlp	ti	<abbr><slp cap="true">nIl</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">nIlamata</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">nIlamata-purARa</slp></ti></expandNorm>
+05:53	NīlarUp.	nIlarup	ti	<abbr><slp cap="true">nIlar</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">nIlarudra</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">nIlarudra-upanizad</slp></ti></expandNorm>
+05:54	Nirṇayas.	nirRayas	ti	<abbr><slp cap="true">nirRayas</slp></abbr><expandMW><ti><slp cap="true">nirRayasinDu</slp></ti></expandMW>
+05:55	Nir.	nir	ti	<abbr><slp cap="true">nir</slp></abbr><expandMW><ti><slp cap="true">nirukta</slp></ti>, by <au><slp cap="true">yAska</slp></au></expandMW>
+05:56	Nītis.	nItis	ti	<abbr><slp cap="true">nItis</slp></abbr><expandMW> see <ti><slp cap="true">kAmandakIya-nItisAra</slp></ti></expandMW><expandNorm><ti><slp cap="true">kAmandakIya-nItisAra</slp></ti></expandNorm>
+05:56x	Nīt.	nItis	ti	<abbr><slp cap="true">nItis</slp></abbr><expandMW> see <ti><slp cap="true">kAmandakIya-nItisAra</slp></ti></expandMW><expandNorm><ti><slp cap="true">kAmandakIya-nItisAra</slp></ti></expandNorm>
+05:57	NṛsUp.	nfsup	ti	<abbr><slp cap="true">nfs</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">nfsiMha-tApanIya</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">nfsiMha-tApanIya-upanizad</slp></ti></expandNorm>
+05:58	Nyāyad.	nyAyad	litcat	<abbr><slp cap="true">nyAyad</slp></abbr><expandMW><litcat><slp cap="true">nyAyadarSana</slp></litcat></expandMW><expandNorm><litcat><slp cap="true">nyAya</slp></litcat></expandNorm>
+05:59	Nyāyak.	nyAyak	ti	<abbr><slp cap="true">nyAyak</slp></abbr><expandMW><ti><slp cap="true">nyAyakoSa</slp></ti></expandMW>
+05:60	Nyāyam.	nyAyam	ti	<abbr><slp cap="true">nyAyam</slp></abbr><expandMW><ti><slp cap="true">nyAyamAlA-vistara</slp></ti></expandMW>
+06:01	Padap.	padap	ti	<abbr><slp cap="true">padap</slp></abbr><expandMW><ti><slp cap="true">padapAWa</slp></ti></expandMW>
+06:02	PadmaP.	padmap	ti	<abbr><slp cap="true">padma</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">padma</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">padma-purARa</slp></ti></expandNorm>
+06:03	Padyas.	padyas	ti	<abbr><slp cap="true">padyas</slp></abbr><expandMW><ti><slp cap="true">padyasaMgraha</slp></ti></expandMW>
+06:04	Pañcad.	paYcad	ti	<abbr><slp cap="true">paYcad</slp></abbr><expandMW><ti><slp cap="true">paYcadaRqacCattra-prabanDa</slp></ti></expandMW>
+06:05	Pañcad.2.	paYcad.2	ti	<abbr><slp cap="true">paYcad</slp>.2</abbr><expandMW><ti><slp cap="true">paYcadaRqacCattra-prabanDa</slp></ti>, metrical recension</expandMW>
+06:06	Pañcadaśī, see Bhpañcad.	paYcadaSI, see BpaYcad	ti	<abbr><slp cap="true">paYcadaSI</slp>, see <slp cap="true">BpaYcad</slp></abbr><expandMW><au><slp cap="true">BAratItIrTa</slp></au>'s <ti><slp cap="true">paYcadaSI</slp></ti></expandMW>
+06:07	Pañcar.	paYcar	ti	<abbr><slp cap="true">paYcar</slp></abbr><expandMW><ti><slp cap="true">paYcarAtra</slp></ti></expandMW>
+06:08	Pañcat.	paYcat	ti	<abbr><slp cap="true">paYcat</slp></abbr><expandMW><ti><slp cap="true">paYcatantra</slp></ti></expandMW>
+06:08x	Pañc.	paYcat	ti	<abbr><slp cap="true">paYcat</slp></abbr><expandMW><ti><slp cap="true">paYcatantra</slp></ti></expandMW>
+06:09	Pāṇ.	pAR	au	<abbr><slp cap="true">pAR</slp></abbr><expandMW><au><slp cap="true">pARini</slp></au></expandMW>
+06:10	PāṇŚ.	pARS	ti	<abbr><slp cap="true">pAR</slp><slp cap="true">S</slp></abbr><expandMW><ti><slp cap="true">pARinIya</slp><slp cap="true">SikzA</slp></ti></expandMW><expandNorm><ti><slp cap="true">pARinIya-SikzA</slp></ti></expandNorm>
+06:11	Pāpabuddhidharm.	pApabudDiDarm	ti	<abbr><slp cap="true">pApabudDiDarm</slp></abbr><expandMW><ti><slp cap="true">pApabudDiDarmabudDikaTAnaka</slp></ti></expandMW>
+06:12	Param.	param	ti	<abbr><slp cap="true">param</slp></abbr><expandMW><ti><slp cap="true">paramArTa-sAra</slp></ti></expandMW>
+06:13	Parāś.	parAS	ti	<abbr><slp cap="true">parAS</slp></abbr><expandMW><ti><slp cap="true">parASara-smfti</slp></ti></expandMW>
+06:14	PārGṛ.	pArgf	ti	<abbr><slp cap="true">pAr</slp><slp cap="true">gf</slp></abbr><expandMW><au><slp cap="true">pAraskara</slp></au>'s<litcat><slp cap="true">gfhya-sUtra</slp></litcat></expandMW><expandNorm><ti><slp cap="true">pAraskara-gfhya-sUtra</slp></ti></expandNorm>
+06:14x	PārGṛS.	pArgf	ti	<abbr><slp cap="true">pAr</slp><slp cap="true">gf</slp></abbr><expandMW><au><slp cap="true">pAraskara</slp></au>'s<litcat><slp cap="true">gfhya-sUtra</slp></litcat></expandMW><expandNorm><ti><slp cap="true">pAraskara-gfhya-sUtra</slp></ti></expandNorm>
+06:15	Paraśur.	paraSur	ti	<abbr><slp cap="true">paraSur</slp></abbr><expandMW><ti><slp cap="true">paraSurAma-prakASa</slp></ti></expandMW>
+06:16	Paribh.	pariB	ti	<abbr><slp cap="true">pariB</slp></abbr><expandMW><ti><slp cap="true">pariBAzendu-SeKara</slp></ti></expandMW>
+06:17	Pārśvan.	pArSvan	ti	<abbr><slp cap="true">pArSvan</slp></abbr><expandMW><ti><slp cap="true">pArSvanATa-caritra</slp></ti></expandMW>
+06:18	Pārvat.	pArvat	ti	<abbr><slp cap="true">pArvat</slp></abbr><expandMW><ti><slp cap="true">pArvatI-pariRaya</slp></ti></expandMW>
+06:19	Pat.	pat	au	<abbr><slp cap="true">pat</slp></abbr><expandMW><au><slp cap="true">pataYjali</slp></au></expandMW>
+06:20	Phetk.	Petk	ti	<abbr><slp cap="true">Petk</slp></abbr><expandMW><ti><slp cap="true">PetkAriRI-tantra</slp></ti></expandMW>
+06:21	PhiṭS.	Piws	ti	<abbr><slp cap="true">Piw</slp><slp cap="true">s</slp></abbr><expandMW><ti><slp cap="true">Piw</slp><slp cap="true">sUtra</slp></ti></expandMW><expandNorm><ti><slp cap="true">Piw-sUtra</slp></ti></expandNorm>
+06:22	PiṇḍUp.	piRqup	ti	<abbr><slp cap="true">piRq</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">piRqa</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">piRqa-upanizad</slp></ti></expandNorm>
+; For next, the list of works shows Piṅg.Sch. as abbreviation;  in 75 instances
+; of Piṅg. in dictionary, 28 are followed by 'Sch.'
+06:23	Piṅg.	piNg	au	<abbr><slp cap="true">piNg</slp></abbr><expandMW><au><slp cap="true">piNgala</slp></au> Scholiast, i.e. <au><slp cap="true">halAyuDa</slp></au></expandMW><addedInfo>author of <ti><slp cap="true">mftasanjIvanI</slp></ti>, commentary on <au><slp cap="true">piNgala</slp></au>'s <ti><slp cap="true">CandaH-sUtra</slp></ti></addedInfo>
+06:24	Prab.	prab	ti	<abbr><slp cap="true">prab</slp></abbr><expandMW><ti><slp cap="true">praboDa-candrodaya</slp></ti></expandMW>
+06:24x	Prabh.	prab	ti	<abbr><slp cap="true">prab</slp></abbr><expandMW><ti><slp cap="true">praboDa-candrodaya</slp></ti></expandMW>
+06:25	Pracaṇḍ.	pracaRq	ti	<abbr><slp cap="true">pracaRq</slp></abbr><expandMW><ti><slp cap="true">pracaRqa-pARqava</slp></ti></expandMW>
+06:26	Pradyumn.	pradyumn	ti	<abbr><slp cap="true">pradyumn</slp></abbr><expandMW><ti><slp cap="true">pradyumna-vijaya</slp></ti></expandMW>
+06:27	Prah.	prah	ti	<abbr><slp cap="true">prah</slp></abbr><expandMW><ti><slp cap="true">prahasana</slp><slp cap="true">nAwaka</slp></ti></expandMW><expandNorm><ti><slp cap="true">prahasana-nAwaka</slp></ti></expandNorm>
+06:28	Prajāp.	prajAp	ti	<abbr><slp cap="true">prajAp</slp></abbr><expandMW><ti><slp cap="true">prajApati</slp>'s <slp cap="true">Darma-sUtra</slp></ti></expandMW><expandNorm><ti><slp cap="true">prajApati-Darma-sUtra</slp></ti></expandNorm>
+06:29	PrāṇUp.	prARup	ti	<abbr><slp cap="true">prAR</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">prARAgnihotra</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">prARAgnihotra-upanizad</slp></ti></expandNorm>
+06:30	Prasaṅg.	prasaNg	ti	<abbr><slp cap="true">prasaNg</slp></abbr><expandMW><ti><slp cap="true">prasaNgABaraRa</slp></ti></expandMW>
+06:30x	Prasaṅgâbh.	prasaNg	ti	<abbr><slp cap="true">prasaNg</slp></abbr><expandMW><ti><slp cap="true">prasaNgABaraRa</slp></ti></expandMW>
+06:31	Prasannar.	prasannar	ti	<abbr><slp cap="true">prasannar</slp></abbr><expandMW><ti><slp cap="true">prasannarAGava</slp></ti></expandMW>
+06:31x	Prasann.	prasannar	ti	<abbr><slp cap="true">prasannar</slp></abbr><expandMW><ti><slp cap="true">prasannarAGava</slp></ti></expandMW>
+06:32	PraśnUp.	praSnup	ti	<abbr><slp cap="true">praSn</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">praSna</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">praSna-upanizad</slp></ti></expandNorm>
+06:32x	PraśnaUp.	praSnup	ti	<abbr><slp cap="true">praSn</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">praSna</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">praSna-upanizad</slp></ti></expandNorm>
+06:33	Pratāp.	pratAp	ti	<abbr><slp cap="true">pratAp</slp></abbr><expandMW><ti><slp cap="true">pratAparudrIya</slp></ti></expandMW>
+06:33x	Pratāpar.	pratAp	ti	<abbr><slp cap="true">pratAp</slp></abbr><expandMW><ti><slp cap="true">pratAparudrIya</slp></ti></expandMW>
+06:34	PratijñāS.	pratijYAs	ti	<abbr><slp cap="true">pratijYA</slp><slp cap="true">s</slp></abbr><expandMW><ti><slp cap="true">pratijYA</slp><slp cap="true">sUtra</slp></ti></expandMW><expandNorm><ti><slp cap="true">pratijYA-sUtra</slp></ti></expandNorm>
+06:34x	Pratijñās.	pratijYAs	ti	<abbr><slp cap="true">pratijYA</slp><slp cap="true">s</slp></abbr><expandMW><ti><slp cap="true">pratijYA</slp><slp cap="true">sUtra</slp></ti></expandMW><expandNorm><ti><slp cap="true">pratijYA-sUtra</slp></ti></expandNorm>
+06:35	Prāt.	prAt	litcat	<abbr><slp cap="true">prAt</slp></abbr><expandMW><litcat><slp cap="true">prAtiSAKya</slp></litcat></expandMW>
+06:36	Pravar.	pravar	litcat	<abbr><slp cap="true">pravar</slp></abbr><expandMW><litcat><slp cap="true">pravara</slp> texts</litcat></expandMW>
+06:37	Prāyaśc.	prAyaSc	ti	<abbr><slp cap="true">prAyaSc</slp></abbr><expandMW><ti><slp cap="true">prAyaScitta-tattva</slp></ti></expandMW>
+06:37X	Prâyaśc.	prAyaSc	ti	<abbr><slp cap="true">prAyaSc</slp></abbr><expandMW><ti><slp cap="true">prAyaScitta-tattva</slp></ti></expandMW>
+06:38	Prayog.	prayog	ti	<abbr><slp cap="true">prayog</slp></abbr><expandMW><ti><slp cap="true">prayogAmfta</slp></ti></expandMW>
+06:39	Prayogar.	prayogar	ti	<abbr><slp cap="true">prayogar</slp></abbr><expandMW><ti><slp cap="true">prayogaratna</slp></ti></expandMW>
+06:40	Priy.	priy	ti	<abbr><slp cap="true">priy</slp></abbr><expandMW><ti><slp cap="true">priyadarSikA</slp></ti></expandMW>
+06:40x	Priyad.	priy	ti	<abbr><slp cap="true">priy</slp></abbr><expandMW><ti><slp cap="true">priyadarSikA</slp></ti></expandMW>
+06:41	Pur.	pur	litcat	<abbr><slp cap="true">pur</slp></abbr><expandMW><litcat><slp cap="true">purARa</slp>s</litcat></expandMW>
+06:42	PSarv.	psarv	ti	<abbr><slp cap="true">p</slp><slp cap="true">sarv</slp></abbr><expandMW><ti><slp cap="true">purARa</slp><slp cap="true">sarvasva</slp></ti></expandMW><expandNorm><ti><slp cap="true">purARa-sarvasva</slp></ti></expandNorm>
+06:43	Puruṣôtt.	puruzott	ti	<abbr><slp cap="true">puruzott</slp></abbr><expandMW><ti><slp cap="true">puruzottama-tattva</slp></ti></expandMW>
+06:44	Puṣpas.	puzpas	ti	<abbr><slp cap="true">puzpas</slp></abbr><expandMW><ti><slp cap="true">puzpasUtra</slp></ti></expandMW><expandNorm><ti><slp cap="true">puzpa-sUtra</slp></ti></expandNorm>
+07:01	Rāghav.	rAGav	ti	<abbr><slp cap="true">rAGav</slp></abbr><expandMW><ti><slp cap="true">rAGavapARqavIya</slp></ti></expandMW>
+07:01x	Rāgh.	rAGav	ti	<abbr><slp cap="true">rAGav</slp></abbr><expandMW><ti><slp cap="true">rAGavapARqavIya</slp></ti></expandMW>
+07:02	Ragh.	raG	ti	<abbr><slp cap="true">raG</slp></abbr><expandMW><ti><slp cap="true">raGuvaMSa</slp></ti></expandMW>
+07:03	Rājat.	rAjat	ti	<abbr><slp cap="true">rAjat</slp></abbr><expandMW><ti><slp cap="true">rAjataraMgiRI</slp></ti></expandMW>
+07:03x	Rāj.	rAjat	ti	<abbr><slp cap="true">rAjat</slp></abbr><expandMW><ti><slp cap="true">rAjataraMgiRI</slp></ti></expandMW>
+07:04	Rāmag.	rAmag	ti	<abbr><slp cap="true">rAmag</slp></abbr><expandMW><ti><slp cap="true">rAmagItA</slp></ti></expandMW>
+07:05	Rāmapūjās.	rAmapUjAs	ti	<abbr><slp cap="true">rAmapUjAs</slp></abbr><expandMW><ti><slp cap="true">rAmapUjAsaraRi</slp></ti></expandMW>
+07:05x	Rāmapūjāsar.	rAmapUjAs	ti	<abbr><slp cap="true">rAmapUjAs</slp></abbr><expandMW><ti><slp cap="true">rAmapUjAsaraRi</slp></ti></expandMW>
+07:06	RāmatUp.	rAmatup	ti	<abbr><slp cap="true">rAmat</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">rAmatApanIya</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">rAmatApanIya-upanizad</slp></ti></expandNorm>
+07:06x	Rāmat.	rAmatup	ti	<abbr><slp cap="true">rAmat</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">rAmatApanIya</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">rAmatApanIya-upanizad</slp></ti></expandNorm>
+07:07	RāmUp.	rAmup	ti	<abbr><slp cap="true">rAm</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">rAma</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">rAma-upanizad</slp></ti></expandNorm>
+07:08	R.	r	ti	<abbr><slp cap="true">r</slp></abbr><expandMW><ti><slp cap="true">rAmAyaRa</slp></ti></expandMW>
+07:09	Rāsal.	rAsal	ti	<abbr><slp cap="true">rAsal</slp></abbr><expandMW><ti><slp cap="true">rAsalIlA</slp></ti></expandMW>
+07:10	Rasar.	rasar	ti	<abbr><slp cap="true">rasar</slp></abbr><expandMW><ti><slp cap="true">rasaratnAkara</slp></ti></expandMW>
+07:11	Rasat.	rasat	ti	<abbr><slp cap="true">rasat</slp></abbr><expandMW><ti><slp cap="true">rasataraMgiRI</slp></ti></expandMW>
+07:12	Rasêndrac.	rasendrac	ti	<abbr><slp cap="true">rasendrac</slp></abbr><expandMW><ti><slp cap="true">rasendracintAmaRi</slp></ti></expandMW>
+07:13	Rasik.	rasik	ti	<abbr><slp cap="true">rasik</slp></abbr><expandMW><ti><slp cap="true">rasikaramaRa</slp></ti></expandMW>
+07:14	Ratir.	ratir	ti	<abbr><slp cap="true">ratir</slp></abbr><expandMW><ti><slp cap="true">ratirahasya</slp></ti></expandMW>
+07:15	Ratnâ.	ratnA	ti	<abbr><slp cap="true">ratnA</slp></abbr><expandMW><ti><slp cap="true">ratnAvalI</slp></ti></expandMW>
+07:15x	Ratn.	ratnA	ti	<abbr><slp cap="true">ratnA</slp></abbr><expandMW><ti><slp cap="true">ratnAvalI</slp></ti></expandMW>
+07:15y	Ratnāv.	ratnA	ti	<abbr><slp cap="true">ratnA</slp></abbr><expandMW><ti><slp cap="true">ratnAvalI</slp></ti></expandMW>
+07:15z	Ratnâv.	ratnA	ti	<abbr><slp cap="true">ratnA</slp></abbr><expandMW><ti><slp cap="true">ratnAvalI</slp></ti></expandMW>
+07:16	RTL.	RTL	ti	<abbr>RTL</abbr><expandMW><ti>Religious Thought and Life in India, also called '<slp cap="true">brAhman</slp>ism and <slp cap="true">hindU</slp>ism</ti>,' by <au>Sir M. Monier-Williams</au></expandMW>
+07:17	RevāKh.	revAK	ti	<abbr><slp cap="true">revA</slp><slp cap="true">K</slp></abbr><expandMW><ti><slp cap="true">revA</slp><slp cap="true">KaRqa</slp></ti></expandMW><expandNorm><ti><slp cap="true">revA-KaRqa</slp></ti></expandNorm>
+07:18	RV.	fv	ti	<abbr>RV</abbr><expandMW><ti><slp cap="true">fg-</slp><slp cap="true">veda</slp></ti>, referred to as <ti>R.V.</ti></expandMW><expandNorm><ti><slp cap="true">fg-veda</slp></ti></expandNorm>
+07:19	Ṛtus.	ftus	ti	<abbr><slp cap="true">ftus</slp></abbr><expandMW><ti><slp cap="true">ftusaMhAra</slp></ti></expandMW>
+07:19x	Ṛt.	ftus	ti	<abbr><slp cap="true">ftus</slp></abbr><expandMW><ti><slp cap="true">ftusaMhAra</slp></ti></expandMW>
+07:20	Romakas.	romakas	ti	<abbr><slp cap="true">romakas</slp></abbr><expandMW><ti><slp cap="true">romakasidDAnta</slp></ti></expandMW>
+07:21	Rudray.	rudray	ti	<abbr><slp cap="true">rudray</slp></abbr><expandMW><ti><slp cap="true">rudrayAmala</slp></ti></expandMW>
+07:22	RAnukr.	ranukr	ti	<abbr><slp cap="true">r</slp><slp cap="true">anukr</slp></abbr><expandMW><ti>RV.<slp cap="true">anukramaRikA</slp></ti></expandMW><expandNorm><ti><slp cap="true">f</slp><slp cap="true">v-anukramaRikA</slp></ti></expandNorm>
+07:22x	RVAnukr.	ranukr	ti	<abbr><slp cap="true">r</slp><slp cap="true">anukr</slp></abbr><expandMW><ti>RV.<slp cap="true">anukramaRikA</slp></ti></expandMW><expandNorm><ti><slp cap="true">f</slp><slp cap="true">v-anukramaRikA</slp></ti></expandNorm>
+07:23	RPrāt.	rprAt	ti	<abbr><slp cap="true">r</slp><slp cap="true">prAt</slp></abbr><expandMW><ti>RV.<slp cap="true">prAtiSAKya</slp></ti></expandMW><expandNorm><ti><slp cap="true">fg-veda-prAtiSAKya</slp></ti></expandNorm>
+07:24	Śabdak.	Sabdak	ti	<abbr><slp cap="true">Sabdak</slp></abbr><expandMW><ti><slp cap="true">Sabdakalpa-druma</slp></ti></expandMW>
+07:25	SaddhP.	sadDp	ti	<abbr><slp cap="true">sadD</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">sadDarma</slp><slp cap="true">puRqarIka</slp></ti></expandMW><expandNorm><ti><slp cap="true">sadDarma-puRqarIka</slp></ti></expandNorm>
+07:26	Sadukt.	sadukt	ti	<abbr><slp cap="true">sadukt</slp></abbr><expandMW><ti><slp cap="true">sadukti-karRAmfta</slp></ti></expandMW>
+07:27	Sāh.	sAh	ti	<abbr><slp cap="true">sAh</slp></abbr><expandMW><ti><slp cap="true">sAhitya-darpaRa</slp></ti></expandMW>
+07:28	SahyKh.	sahyK	subti	<abbr><slp cap="true">sahy</slp><slp cap="true">K</slp></abbr><expandMW><subti><slp cap="true">sahyAdri</slp><slp cap="true">KaRqa</slp></subti>, from the <ti><slp cap="true">skanda</slp><slp cap="true">p</slp>.</ti></expandMW><expandNorm><subti><slp cap="true">sahyAdri KaRqa</slp></subti>, from the <ti><slp cap="true">skanda-purARa</slp></ti></expandNorm>
+07:29	Śākaṭ.	SAkaw	au	<abbr><slp cap="true">SAkaw</slp></abbr><expandMW><au><slp cap="true">SAkawAyana</slp></au></expandMW>
+07:30	Śāktân.	SAktAn	ti	<abbr><slp cap="true">SAktAn</slp></abbr><expandMW><ti><slp cap="true">SAktAnanda-taraMgiRI</slp></ti></expandMW>
+07:31	Śaktir.	Saktir	ti	<abbr><slp cap="true">Saktir</slp></abbr><expandMW><ti><slp cap="true">SaktiratnAkara</slp></ti></expandMW>
+07:32	Śak.	Sak	ti	<abbr><slp cap="true">Sak</slp></abbr><expandMW><ti><slp cap="true">SakuntalA</slp></ti></expandMW>
+07:32x	Śāk.	SAk	ti	<abbr><slp cap="true">SAk</slp></abbr><expandNorm><ti>Śākuntala, the drama Abhijñāna-śakuntalā of Kālidāsa</ti></expandNorm>
+07:33	SV.	sv	ti	<abbr><slp cap="true">s</slp><slp cap="true">v</slp></abbr><expandMW><ti><slp cap="true">sAma</slp><slp cap="true">veda</slp></ti></expandMW><expandNorm><ti><slp cap="true">sAma-veda</slp></ti></expandNorm>
+07:34	SVĀr.	svAr	ti	<abbr><slp cap="true">s</slp><slp cap="true">v</slp><slp cap="true">Ar</slp></abbr><expandMW><ti><slp cap="true">sAma</slp><slp cap="true">veda</slp><slp cap="true">AraRyaka</slp></ti></expandMW><expandNorm><ti><slp cap="true">sAma-veda-AraRyaka</slp></ti></expandNorm>
+07:35	SāmavBr.	sAmavbr	ti	<abbr><slp cap="true">sAmav</slp><slp cap="true">br</slp></abbr><expandMW><ti><slp cap="true">sAmaviDAna</slp><slp cap="true">brAhmaRa</slp></ti></expandMW><expandNorm><ti><slp cap="true">sAma-viDAna-brAhmaRa</slp></ti></expandNorm>
+07:36	ŚambhMāh.	SamBmAh	ti	<abbr><slp cap="true">SamB</slp><slp cap="true">mAh</slp></abbr><expandMW><ti><slp cap="true">SamBalagrAma</slp><slp cap="true">mAhAtmya</slp></ti></expandMW><expandNorm><ti><slp cap="true">SamBalagrAma-mAhAtmya</slp></ti></expandNorm>
+07:37	Saṃgīt.	saMgIt	ti	<abbr><slp cap="true">saMgIt</slp></abbr><expandMW><ti><slp cap="true">saMgIta-sArasaMgraha</slp></ti></expandMW>
+07:37x	Saṃg.	saMgIt	ti	<abbr><slp cap="true">saMgIt</slp></abbr><expandMW><ti><slp cap="true">saMgIta-sArasaMgraha</slp></ti></expandMW>
+07:37y	Saṃgītas.	saMgIt	ti	<abbr><slp cap="true">saMgIt</slp></abbr><expandMW><ti><slp cap="true">saMgIta-sArasaMgraha</slp></ti></expandMW>
+07:38	SaṃhUp.	saMhup	ti	<abbr><slp cap="true">saMh</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">saMhitA</slp><slp cap="true">upanizad-brAhmaRa</slp></ti></expandMW><expandNorm><ti><slp cap="true">saMhitA-upanizad-brAhmaRa</slp></ti></expandNorm>
+07:38x	SaṃhitUp.	saMhup	ti	<abbr><slp cap="true">saMh</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">saMhitA</slp><slp cap="true">upanizad-brAhmaRa</slp></ti></expandMW><expandNorm><ti><slp cap="true">saMhitA-upanizad-brAhmaRa</slp></ti></expandNorm>
+07:38y	Saṃhitop.	saMhup	ti	<abbr><slp cap="true">saMh</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">saMhitA</slp><slp cap="true">upanizad-brAhmaRa</slp></ti></expandMW><expandNorm><ti><slp cap="true">saMhitA-upanizad-brAhmaRa</slp></ti></expandNorm>
+07:39	Śaṃkar.	SaMkar	ti	<abbr><slp cap="true">SaMkar</slp></abbr><expandMW><ti><slp cap="true">SaMkara-vijaya</slp></ti></expandMW>
+07:40	Sāṃkhyak.	sAMKyak	ti	<abbr><slp cap="true">sAMKyak</slp></abbr><expandMW><ti><slp cap="true">sAMKyakArikA</slp></ti></expandMW>
+07:40x	Sāṅkhyak.	sAMKyak	ti	<abbr><slp cap="true">sAMKyak</slp></abbr><expandMW><ti><slp cap="true">sAMKyakArikA</slp></ti></expandMW>
+08:01	Sāṃkhyapr.	sAMKyapr	ti	<abbr><slp cap="true">sAMKyapr</slp></abbr><expandMW><ti><slp cap="true">sAMKyapravacana</slp></ti></expandMW>
+08:02	SŚaṃkar.	sSaMkar	ti	<abbr><slp cap="true">s</slp><slp cap="true">SaMkar</slp></abbr><expandMW><ti><slp cap="true">saMkzepa</slp><slp cap="true">SaMkara-vijaya</slp></ti></expandMW><expandNorm><ti><slp cap="true">saMkzepa-SaMkara-vijaya</slp></ti></expandNorm>
+08:02x	SŚaṃk.	sSaMkar	ti	<abbr><slp cap="true">s</slp><slp cap="true">SaMkar</slp></abbr><expandMW><ti><slp cap="true">saMkzepa</slp><slp cap="true">SaMkara-vijaya</slp></ti></expandMW><expandNorm><ti><slp cap="true">saMkzepa-SaMkara-vijaya</slp></ti></expandNorm>
+08:03	Saṃskārak.	saMskArak	ti	<abbr><slp cap="true">saMskArak</slp></abbr><expandMW><ti><slp cap="true">saMskArakOstuBa</slp></ti></expandMW>
+08:04	ŚāṅkhBr.	SANKbr	ti	<abbr><slp cap="true">SANK</slp><slp cap="true">br</slp></abbr><expandMW><ti><slp cap="true">SANKAyana</slp><slp cap="true">brAhmaRa</slp></ti></expandMW><expandNorm><ti><slp cap="true">SANKAyana-brAhmaRa</slp></ti></expandNorm>
+08:05	ŚāṅkhGṛ.	SANKgf	ti	<abbr><slp cap="true">SANK</slp><slp cap="true">gf</slp></abbr><expandMW><ti><slp cap="true">SANKAyana</slp><slp cap="true">gfhya-sUtra</slp></ti></expandMW><expandNorm><ti><slp cap="true">SANKAyana-gfhya-sUtra</slp></ti></expandNorm>
+08:06	ŚāṅkhŚr.	SANKSr	ti	<abbr><slp cap="true">SANK</slp><slp cap="true">Sr</slp></abbr><expandMW><ti><slp cap="true">SANKAyana</slp><slp cap="true">SrOta-sUtra</slp></ti></expandMW><expandNorm><ti><slp cap="true">SANKAyana-SrOta-sUtra</slp></ti></expandNorm>
+08:07	Śāntik.	SAntik	ti	<abbr><slp cap="true">SAntik</slp></abbr><expandMW><ti><slp cap="true">SAntikalpa</slp></ti></expandMW>
+08:08	Śāntiś.	SAntiS	ti	<abbr><slp cap="true">SAntiS</slp></abbr><expandMW><ti><slp cap="true">SAntiSataka</slp></ti></expandMW>
+08:09	Śārad.	SArad	ti	<abbr><slp cap="true">SArad</slp></abbr><expandMW><ti><slp cap="true">SAradA-tilaka</slp></ti></expandMW>
+08:10	Sarasv.	sarasv	ti	<abbr><slp cap="true">sarasv</slp></abbr><expandMW><ti><slp cap="true">sarasvatI-kaRWABaraRa</slp></ti>, by <au><slp cap="true">Boja</slp></au></expandMW>
+08:11	Sarasv.2.	sarasv.2	ti	<abbr><slp cap="true">sarasv</slp>.2</abbr><expandMW><ti><slp cap="true">sarasvatI-kaRWABaraRa</slp></ti>, by <au><slp cap="true">kzemendra</slp></au></expandMW>
+08:12	ŚārṅgP.	SArNgp	ti	<abbr><slp cap="true">SArNg</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">SArNgaDara</slp><slp cap="true">padDati</slp></ti></expandMW><expandNorm><ti><slp cap="true">SArNgaDara-padDati</slp></ti></expandNorm>
+08:13	ŚārṅgS.	SArNgs	ti	<abbr><slp cap="true">SArNg</slp><slp cap="true">s</slp></abbr><expandMW><ti><slp cap="true">SArNgaDara</slp><slp cap="true">saMhitA</slp></ti></expandMW><expandNorm><ti><slp cap="true">SArNgaDara-saMhitA</slp></ti></expandNorm>
+08:14	Sarvad.	sarvad	ti	<abbr><slp cap="true">sarvad</slp></abbr><expandMW><ti><slp cap="true">sarvadarSana-saMgraha</slp></ti></expandMW><expandNorm><ti><slp cap="true">sarvadarSana-saMgraha</slp></ti></expandNorm>
+08:14x	Sarv.	sarvad	ti	<abbr><slp cap="true">sarvad</slp></abbr><expandMW><ti><slp cap="true">sarvadarSana-saMgraha</slp></ti></expandMW><expandNorm><ti><slp cap="true">sarvadarSana-saMgraha</slp></ti></expandNorm>
+08:15	SarvUp.	sarvup	ti	<abbr><slp cap="true">sarv</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">sarva</slp><slp cap="true">upanizat-sAra</slp></ti></expandMW><expandNorm><ti><slp cap="true">sarva-upanizat-sAra</slp></ti></expandNorm>
+08:16	ŚBr.	Sbr	ti	<abbr><slp cap="true">S</slp><slp cap="true">br</slp></abbr><expandMW><ti><slp cap="true">SatapaTa</slp><slp cap="true">brAhmaRa</slp></ti></expandMW><expandNorm><ti><slp cap="true">SatapaTa-brAhmaRa</slp></ti></expandNorm>
+08:17	ŚatarUp.	Satarup	ti	<abbr><slp cap="true">Satar</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">Satarudriya</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">Satarudriya-upanizad</slp></ti></expandNorm>
+08:18	Śatr.	Satr	ti	<abbr><slp cap="true">Satr</slp></abbr><expandMW><ti><slp cap="true">SatruMjaya-mAhAtmya</slp></ti></expandMW>
+08:19	SauraP.	sOrap	ti	<abbr><slp cap="true">sOra</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">sOra</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">sOra-purARa</slp></ti></expandNorm>
+08:20	Sāy.	sAy	au	<abbr><slp cap="true">sAy</slp></abbr><expandMW><au><slp cap="true">sAyaRa</slp></au></expandMW>
+08:21	Setub.	setub	ti	<abbr><slp cap="true">setub</slp></abbr><expandMW><ti><slp cap="true">setubanDa</slp></ti></expandMW>
+08:22	Ṣaḍguruś.	zaqguruS	ti	<abbr><slp cap="true">zaqguruS</slp></abbr><expandMW><ti><slp cap="true">zaqguruSizya</slp></ti></expandMW>
+08:23	ṢaḍvBr.	zaqvbr	ti	<abbr><slp cap="true">zaqv</slp><slp cap="true">br</slp></abbr><expandMW><ti><slp cap="true">zaqviMSa</slp><slp cap="true">brAhmaRa</slp></ti></expandMW><expandNorm><ti><slp cap="true">zaqviMSa-brAhmaRa</slp></ti></expandNorm>
+08:24	Siddh.	sidD	ti	<abbr><slp cap="true">sidD</slp></abbr><expandMW><ti><slp cap="true">sidDAnta-kOmudI</slp></ti></expandMW>
+08:25	Siddhântaś.	sidDAntaS	ti	<abbr><slp cap="true">sidDAntaS</slp></abbr><expandMW><ti><slp cap="true">sidDAntaSiromaRi</slp></ti></expandMW>
+08:25x	SiddhŚir.	sidDAntaS	ti	<abbr><slp cap="true">sidDAntaS</slp></abbr><expandMW><ti><slp cap="true">sidDAntaSiromaRi</slp></ti></expandMW>
+08:26	Śikṣ.	Sikz	litcat	<abbr><slp cap="true">Sikz</slp></abbr><expandMW><litcat><slp cap="true">SikzA</slp></litcat></expandMW>
+08:27	Śikṣāp.	SikzAp	ti	<abbr><slp cap="true">SikzAp</slp></abbr><expandMW><ti><slp cap="true">SikzApattrI</slp></ti></expandMW>
+08:28	Śīl.	SIl	au	<abbr><slp cap="true">SIl</slp></abbr><expandMW><au><slp cap="true">SIlANka</slp></au></expandMW>
+08:29	Siṉhâs.	siMhAs	ti	<abbr><slp cap="true">siMhAs</slp></abbr><expandMW><ti><slp cap="true">siMhAsana-dvAtriMSikA</slp></ti> or <ti><slp cap="true">vikramAditya-caritra</slp></ti>, <slp cap="true">jEna</slp> recension</expandMW>
+08:30	Siṃhās.2.	siMhAs.2	ti	<abbr><slp cap="true">siMhAs</slp>.2</abbr><expandMW><ti><slp cap="true">siMhAsana-dvAtriMSikA</slp></ti>, metrical recension of the Ind. Off., E.I.H.2897</expandMW>
+08:31	Siṃhās.3.	siMhAs.3	ti	<abbr><slp cap="true">siMhAs</slp>.3</abbr><expandMW><ti><slp cap="true">siMhAsana-dvAtriMSikA</slp></ti>, recension of E.I.H.2523</expandMW>
+08:32	ŚiraUp.	Siraup	ti	<abbr><slp cap="true">Sira</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">Sira</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">Sira-upanizad</slp></ti></expandNorm>
+08:33	Śiś.	SiS	ti	<abbr><slp cap="true">SiS</slp></abbr><expandMW><ti><slp cap="true">SiSupAla-vaDa</slp></ti></expandMW>
+08:34	Śivag.	Sivag	subti	<abbr><slp cap="true">Sivag</slp></abbr><expandMW><subti><slp cap="true">SivagItA</slp></subti>, ascribed to the <ti><slp cap="true">padma</slp><slp cap="true">p</slp></ti>.</expandMW><expandNorm><subti><slp cap="true">SivagItA</slp></subti>, ascribed to the <ti><slp cap="true">padma-purARa</slp></ti></expandNorm>
+08:35	ŚivaP.	Sivap	ti	<abbr><slp cap="true">Siva</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">Siva</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">Siva-purARa</slp></ti></expandNorm>
+08:35x	ŚivP.	Sivap	ti	<abbr><slp cap="true">Siva</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">Siva</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">Siva-purARa</slp></ti></expandNorm>
+08:36	SkandaP.	skandap	ti	<abbr><slp cap="true">skanda</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">skanda</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">skanda-purARa</slp></ti></expandNorm>
+08:37	Smṛtik.	smftik	ti	<abbr><slp cap="true">smftik</slp></abbr><expandMW><ti><slp cap="true">smftikOmudI</slp></ti></expandMW>
+08:38	Smṛtit.	smftit	ti	<abbr><slp cap="true">smftit</slp></abbr><expandMW><ti><slp cap="true">smftitattva</slp></ti>; the numbers xxix and xxx mark the additional texts <subti><slp cap="true">graha-yajYa</slp></subti> and <subti><slp cap="true">tIrtha-yAtrA</slp></subti></expandMW>
+09:01	Śrāddhak.	SrAdDak	ti	<abbr><slp cap="true">SrAdDak</slp></abbr><expandMW><ti><slp cap="true">SrAdDakalpa-BAzya</slp></ti></expandMW>
+09:01x	Kalpabh.	SrAdDak	ti	<abbr><slp cap="true">SrAdDak</slp></abbr><expandMW><ti><slp cap="true">SrAdDakalpa-BAzya</slp></ti></expandMW>
+09:02	ŚrS.	SrsUtra	litcat	<abbr><slp cap="true">Sr</slp><slp cap="true">sUtra</slp></abbr><expandMW><litcat><slp cap="true">SrOta</slp><slp cap="true">sUtra</slp></litcat></expandMW><expandNorm><litcat><slp cap="true">SrOta-sUtra</slp></litcat></expandNorm>
+09:02x	Śr.	SrsUtra	litcat	<abbr><slp cap="true">Sr</slp><slp cap="true">sUtra</slp></abbr><expandMW><litcat><slp cap="true">SrOta</slp><slp cap="true">sUtra</slp></litcat></expandMW><expandNorm><litcat><slp cap="true">SrOta-sUtra</slp></litcat></expandNorm>
+09:03	Śrīkaṇṭh.	SrIkaRW	ti	<abbr><slp cap="true">SrIkaRW</slp></abbr><expandMW><ti><slp cap="true">SrIkaRWa-carita</slp></ti></expandMW>
+09:04	ŚrīmMāh.	SrImmAh	ti	<abbr><slp cap="true">SrIm</slp><slp cap="true">mAh</slp></abbr><expandMW><ti><slp cap="true">SrImAla</slp><slp cap="true">mAhAtmya</slp></ti></expandMW><expandNorm><ti><slp cap="true">SrImAla-mAhAtmya</slp></ti></expandNorm>
+09:05	Śṛṅgār.	SfNgAr	ti	<abbr><slp cap="true">SfNgAr</slp></abbr><expandMW><ti><slp cap="true">SfNgAra-tilaka</slp></ti></expandMW>
+09:05x	Śṛṅgārat.	SfNgAr	ti	<abbr><slp cap="true">SfNgAr</slp></abbr><expandMW><ti><slp cap="true">SfNgAra-tilaka</slp></ti></expandMW>
+09:06	Śrutab.	Srutab	ti	<abbr><slp cap="true">Srutab</slp></abbr><expandMW><ti><slp cap="true">SrutaboDa</slp></ti></expandMW>
+09:06x	Śrut.	Srutab	ti	<abbr><slp cap="true">Srutab</slp></abbr><expandMW><ti><slp cap="true">SrutaboDa</slp></ti></expandMW>
+09:07	Subh.	suB	ti	<abbr><slp cap="true">suB</slp></abbr><expandMW><ti><slp cap="true">suBAzitAvali</slp></ti></expandMW>
+09:07x	Subhāṣ.	suB	ti	<abbr><slp cap="true">suB</slp></abbr><expandMW><ti><slp cap="true">suBAzitAvali</slp></ti></expandMW>
+09:08	Śukas.	Sukas	ti	<abbr><slp cap="true">Sukas</slp></abbr><expandMW><ti><slp cap="true">Sukasaptati</slp></ti></expandMW>
+09:08x	Śuk.	Sukas	ti	<abbr><slp cap="true">Sukas</slp></abbr><expandMW><ti><slp cap="true">Sukasaptati</slp></ti></expandMW>
+09:09	Sukh.	suK	ti	<abbr><slp cap="true">suK</slp></abbr><expandMW><ti><slp cap="true">suKAvatI-vyUha</slp></ti></expandMW>
+09:10	Śulbas.	Sulbas	litcat	<abbr><slp cap="true">Sulbas</slp></abbr><expandMW><litcat><slp cap="true">SulbasUtra</slp></litcat></expandMW><expandNorm><litcat><slp cap="true">Sulba-sUtra</slp></litcat></expandNorm>
+09:10x	Śulb.	Sulbas	litcat	<abbr><slp cap="true">Sulbas</slp></abbr><expandMW><litcat><slp cap="true">SulbasUtra</slp></litcat></expandMW><expandNorm><litcat><slp cap="true">Sulba-sUtra</slp></litcat></expandNorm>
+09:11	Suparṇ.	suparR	ti	<abbr><slp cap="true">suparR</slp></abbr><expandMW><ti><slp cap="true">suparRADyAya</slp></ti></expandMW>
+09:12	Sūryad.	sUryad	ti	<abbr><slp cap="true">sUryad</slp></abbr><expandMW><ti><slp cap="true">sUryadeva-yajvan</slp></ti></expandMW>
+09:13	Sūryapr.	sUryapr	ti	<abbr><slp cap="true">sUryapr</slp></abbr><expandMW><ti><slp cap="true">sUryaprajYapti</slp></ti></expandMW>
+09:13x	Sūryap.	sUryapr	ti	<abbr><slp cap="true">sUryapr</slp></abbr><expandMW><ti><slp cap="true">sUryaprajYapti</slp></ti></expandMW>
+09:14	Sūryas.	sUryas	ti	<abbr><slp cap="true">sUryas</slp></abbr><expandMW><ti><slp cap="true">sUryasidDAnta</slp></ti></expandMW>
+09:15	Suśr.	suSr	ti	<abbr><slp cap="true">suSr</slp></abbr><expandMW><ti><slp cap="true">suSruta</slp></ti></expandMW>
+09:15x	Śuśr.	suSr	ti	<abbr><slp cap="true">suSr</slp></abbr><expandMW><ti><slp cap="true">suSruta</slp></ti></expandMW>
+09:16	Suvarṇapr.	suvarRapr	ti	<abbr><slp cap="true">suvarRapr</slp></abbr><expandMW><ti><slp cap="true">suvarRapraBAsa</slp></ti></expandMW>
+09:17	Svapnac.	svapnac	ti	<abbr><slp cap="true">svapnac</slp></abbr><expandMW><ti><slp cap="true">svapnacintAmaRi</slp></ti></expandMW>
+09:18	ŚvetUp.	Svetup	ti	<abbr><slp cap="true">Svet</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">SvetASvatara</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">SvetASvatara-upanizad</slp></ti></expandNorm>
+09:19	TĀr.	tAr	ti	<abbr><slp cap="true">t</slp><slp cap="true">Ar</slp></abbr><expandMW><ti><slp cap="true">tEttirIya</slp><slp cap="true">AraRyaka</slp></ti></expandMW><expandNorm><ti><slp cap="true">tEttirIya-AraRyaka</slp></ti></expandNorm>
+09:19x	TaittĀr.	tAr	ti	<abbr><slp cap="true">t</slp><slp cap="true">Ar</slp></abbr><expandMW><ti><slp cap="true">tEttirIya</slp><slp cap="true">AraRyaka</slp></ti></expandMW><expandNorm><ti><slp cap="true">tEttirIya-AraRyaka</slp></ti></expandNorm>
+09:20	TBr.	tbr	ti	<abbr><slp cap="true">t</slp><slp cap="true">br</slp></abbr><expandMW><ti><slp cap="true">tEttirIya</slp><slp cap="true">brAhmaRa</slp></ti></expandMW><expandNorm><ti><slp cap="true">tEttirIya-brAhmaRa</slp></ti></expandNorm>
+09:20x	TB.	tbr	ti	<abbr><slp cap="true">t</slp><slp cap="true">br</slp></abbr><expandMW><ti><slp cap="true">tEttirIya</slp><slp cap="true">brAhmaRa</slp></ti></expandMW><expandNorm><ti><slp cap="true">tEttirIya-brAhmaRa</slp></ti></expandNorm>
+09:21	TPrāt.	tprAt	ti	<abbr><slp cap="true">t</slp><slp cap="true">prAt</slp></abbr><expandMW><ti><slp cap="true">tEttirIya</slp><slp cap="true">prAtiSAKya</slp></ti></expandMW><expandNorm><ti><slp cap="true">tEttirIya-prAtiSAKya</slp></ti></expandNorm>
+09:22	TS.	ts	ti	<abbr><slp cap="true">t</slp><slp cap="true">s</slp></abbr><expandMW><ti><slp cap="true">tEttirIya</slp><slp cap="true">saMhitA</slp></ti></expandMW><expandNorm><ti><slp cap="true">tEttirIya-saMhitA</slp></ti></expandNorm>
+09:23	TUp.	tup	ti	<abbr><slp cap="true">t</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">tEttirIya</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">tEttirIya-upanizad</slp></ti></expandNorm>
+09:23x	Taitt.Up.	tup	ti	<abbr><slp cap="true">t</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">tEttirIya</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">tEttirIya-upanizad</slp></ti></expandNorm>
+09:24	Tāj.	tAj	litcat	<abbr><slp cap="true">tAj</slp></abbr><expandMW><litcat><slp cap="true">tAjaka</slp></litcat></expandMW>
+09:25	TāṇḍyaBr.	tARqyabr	ti	<abbr><slp cap="true">tARqya</slp><slp cap="true">br</slp></abbr><expandMW><ti><slp cap="true">tARqya</slp><slp cap="true">brAhmaRa</slp></ti></expandMW><expandNorm><ti><slp cap="true">tARqya-brAhmaRa</slp></ti></expandNorm>
+09:25x	TāṇḍBr.	tARqyabr	ti	<abbr><slp cap="true">tARqya</slp><slp cap="true">br</slp></abbr><expandMW><ti><slp cap="true">tARqya</slp><slp cap="true">brAhmaRa</slp></ti></expandMW><expandNorm><ti><slp cap="true">tARqya-brAhmaRa</slp></ti></expandNorm>
+09:26	Tantras.	tantras	ti	<abbr><slp cap="true">tantras</slp></abbr><expandMW><ti><slp cap="true">tantrasAra</slp></ti></expandMW>
+09:26x	Tantra.	tantras	ti	<abbr><slp cap="true">tantras</slp></abbr><expandMW><ti><slp cap="true">tantrasAra</slp></ti></expandMW>
+09:27	T.	t	ti	<abbr><slp cap="true">t</slp></abbr><expandMW><au><slp cap="true">tArAnATa</slp><slp cap="true">tarkavAcaspati</slp></au>'s <litcat>Dictionary</litcat></expandMW><expandNorm><au><slp cap="true">tArAnATa</slp><slp cap="true">tarkavAcaspati</slp></au>'s <ti><slp cap="true">vAcaspatyam</slp></ti>, <litcat>Sanskrit dictionary</litcat></expandNorm>
+09:28	Tarkas.	tarkas	ti	<abbr><slp cap="true">tarkas</slp></abbr><expandMW><ti><slp cap="true">tarkasaMgraha</slp></ti></expandMW>
+09:29	Tattvas.	tattvas	ti	<abbr><slp cap="true">tattvas</slp></abbr><expandMW><ti><slp cap="true">tattvasamAsa</slp></ti></expandMW>
+09:30	TejobUp.	tejobup	ti	<abbr><slp cap="true">tejob</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">tejobindu</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">tejobindu-upanizad</slp></ti></expandNorm>
+09:31	Tīrtha-yātrā.	tIrTa-yAtrA	subti	<abbr><slp cap="true">tIrTa-yAtrA</slp></abbr><expandMW><subti><slp cap="true">tIrTa-yAtrA</slp></subti> see <ti><slp cap="true">smftitattva</slp></ti></expandMW><expandNorm><subti><slp cap="true">tIrTa-yAtrA</slp></subti> see <ti><slp cap="true">smftitattva</slp></ti> under <slp cap="true">smftit</slp></expandNorm>
+09:32	Tithyād.	tiTyAd	ti	<abbr><slp cap="true">tiTyAd</slp></abbr><expandMW><ti><slp cap="true">tiTyAditya</slp></ti></expandMW>
+09:33	Ṭoḍar.	woqar	ti	<abbr><slp cap="true">woqar</slp></abbr><expandMW><ti><slp cap="true">woqarAnanda</slp></ti></expandMW>
+09:34	Uṇk.	uRk	ti	<abbr><slp cap="true">uRk</slp></abbr><expandMW><ti><slp cap="true">uRAdikalpa</slp></ti></expandMW>
+09:35	Uṇ,Sch..	uR,Sch.	au	<abbr><slp cap="true">uR</slp>,Sch.</abbr><expandMW><ti><slp cap="true">uRAdi-sUtra</slp></ti>,Sch.i.e.<au><slp cap="true">ujjvaladatta</slp></au></expandMW>
+09:36	Uṇ.	uR	ti	<abbr><slp cap="true">uR</slp></abbr><expandMW><ti><slp cap="true">uRAdi-sUtra</slp></ti></expandMW>
+09:37	Uṇvṛ.	uRvf	ti	<abbr><slp cap="true">uRvf</slp></abbr><expandMW><ti><slp cap="true">uRAdi</slp><slp cap="true">vftti</slp></ti></expandMW><expandNorm><ti><slp cap="true">uRAdi-vftti</slp></ti></expandNorm>
+09:38	Up.	up	litcat	<abbr><slp cap="true">up</slp></abbr><expandMW><litcat><slp cap="true">upanizad</slp></litcat></expandMW>
+09:39	Upap.	upap	litcat	<abbr><slp cap="true">upap</slp></abbr><expandMW><litcat><slp cap="true">upapurARa</slp></litcat></expandMW><expandNorm><litcat><slp cap="true">upapurARa</slp></litcat></expandNorm>
+09:40	UtkalaKh.	utkalaK	subti	<abbr><slp cap="true">utkala</slp><slp cap="true">K</slp></abbr><expandMW><subti><slp cap="true">utkala</slp><slp cap="true">KaRqa</slp></subti></expandMW><expandNorm><subti><slp cap="true">utkala KaRqa</slp></subti></expandNorm>
+09:41	Uttamac.	uttamac	ti	<abbr><slp cap="true">uttamac</slp></abbr><expandMW><ti><slp cap="true">uttamacaritra-kaTAnaka</slp></ti>, prose version</expandMW>
+09:42	Uttamac.2	uttamac2	ti	<abbr><slp cap="true">uttamac</slp></abbr><expandMW><ti>2 <slp cap="true">uttamacaritra</slp></ti> in about 700 verses</expandMW>
+09:43	Uttarar.	uttarar	ti	<abbr><slp cap="true">uttarar</slp></abbr><expandMW><ti><slp cap="true">uttararAma-caritra</slp></ti></expandMW>
+09:43x	Uttar.	uttarar	ti	<abbr><slp cap="true">uttarar</slp></abbr><expandMW><ti><slp cap="true">uttararAma-caritra</slp></ti></expandMW>
+09:44	Vāgbh.	vAgB	ti	<abbr><slp cap="true">vAgB</slp></abbr><expandMW><ti><slp cap="true">vAgBawAlaMkAra</slp></ti></expandMW>
+09:45	VahniP.	vahnip	ti	<abbr><slp cap="true">vahni</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">vahni</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">vahni-purARa</slp></ti></expandNorm>
+10:01	Vait.	vEt	ti	<abbr><slp cap="true">vEt</slp></abbr><expandMW><ti><slp cap="true">vEtAna-sUtra</slp></ti></expandMW>
+10:01x	Vaitān.	vEt	ti	<abbr><slp cap="true">vEt</slp></abbr><expandMW><ti><slp cap="true">vEtAna-sUtra</slp></ti></expandMW>
+10:02	VS.	vs	ti	<abbr><slp cap="true">v</slp><slp cap="true">s</slp></abbr><expandMW><ti><slp cap="true">vAjasaneyi</slp><slp cap="true">saMhitA</slp></ti></expandMW><expandNorm><ti><slp cap="true">vAjasaneyi-saMhitA</slp></ti></expandNorm>
+10:03	VPrāt.	vprAt	ti	<abbr><slp cap="true">v</slp><slp cap="true">prAt</slp></abbr><expandMW><ti><slp cap="true">vAjasaneyi-saMhitA</slp><slp cap="true">prAtiSAKya</slp></ti></expandMW><expandNorm><ti><slp cap="true">vAjasaneyi-saMhitA-prAtiSAKya</slp></ti></expandNorm>
+10:04	Vajracch.	vajracC	ti	<abbr><slp cap="true">vajracC</slp></abbr><expandMW><ti><slp cap="true">vajracCedikA</slp></ti></expandMW><addedInfo><ti>also known as <slp cap="true">vajracCedika-prajYA-pAramitA</slp></ti></addedInfo>
+10:05	Vajras.	vajras	ti	<abbr><slp cap="true">vajras</slp></abbr><expandMW><ti><slp cap="true">vajrasUci</slp></ti></expandMW>
+10:05x	Vajr.	vajras	ti	<abbr><slp cap="true">vajras</slp></abbr><expandMW><ti><slp cap="true">vajrasUci</slp></ti></expandMW>
+10:06	VāmP.	vAmp	ti	<abbr><slp cap="true">vAm</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">vAmana</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">vAmana-purARa</slp></ti></expandNorm>
+10:07	Vām.	vAm	ti	<abbr><slp cap="true">vAm</slp></abbr><expandMW><au><slp cap="true">vAmana</slp></au>'s <ti><slp cap="true">kAvyAlaMkAravftti</slp></ti></expandMW>
+10:08	VBr.	vbr	ti	<abbr><slp cap="true">v</slp><slp cap="true">br</slp></abbr><expandMW><ti><slp cap="true">vaMSa</slp><slp cap="true">brAhmaRa</slp></ti></expandMW><expandNorm><ti><slp cap="true">vaMSa-brAhmaRa</slp></ti></expandNorm>
+10:09	VarBṛ.	varbf	ti	<abbr><slp cap="true">var</slp><slp cap="true">bf</slp></abbr><expandMW><au><slp cap="true">varAha-mihira</slp></au>'s <ti><slp cap="true">bfhajjAtaka</slp></ti></expandMW>
+10:10	VarBṛS.	varbfs	ti	<abbr><slp cap="true">var</slp><slp cap="true">bf</slp><slp cap="true">s</slp></abbr><expandMW><au><slp cap="true">varAha-mihira</slp></au>'s <ti><slp cap="true">bfhat</slp><slp cap="true">saMhitA</slp></ti></expandMW><expandNorm><au><slp cap="true">varAha-mihira</slp></au>'s <ti><slp cap="true">bfhat-saMhitA</slp></ti></expandNorm>
+10:11	VarYogay.	varyogay	ti	<abbr><slp cap="true">var</slp><slp cap="true">yogay</slp></abbr><expandMW><au><slp cap="true">varAha-mihira</slp></au>'s <ti><slp cap="true">yogayAtrA</slp></ti></expandMW>
+10:12	VarP.	varp	ti	<abbr><slp cap="true">var</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">varAha</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">varAha-purARa</slp></ti></expandNorm>
+10:12x	VārP.	varp	ti	<abbr><slp cap="true">var</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">varAha</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">varAha-purARa</slp></ti></expandNorm>
+10:13	Vārāhīt.	vArAhIt	ti	<abbr><slp cap="true">vArAhIt</slp></abbr><expandMW><ti><slp cap="true">vArAhItantra</slp></ti></expandMW>
+10:14	Vasantar.	vasantar	ti	<abbr><slp cap="true">vasantar</slp></abbr><expandMW><au><slp cap="true">vasantarAja</slp></au>'s <ti><slp cap="true">SAkuna</slp></ti></expandMW>
+10:15	Vāsant.	vAsant	ti	<abbr><slp cap="true">vAsant</slp></abbr><expandMW><ti><slp cap="true">vAsantikA</slp></ti></expandMW>
+10:16	Vās.	vAs	ti	<abbr><slp cap="true">vAs</slp></abbr><expandMW><ti><slp cap="true">vAsavadattA</slp></ti></expandMW>
+10:16x	Vāsav.	vAs	ti	<abbr><slp cap="true">vAs</slp></abbr><expandMW><ti><slp cap="true">vAsavadattA</slp></ti></expandMW>
+10:17	Vas.	vas	au	<abbr><slp cap="true">vas</slp></abbr><expandMW><au><slp cap="true">vasizWa</slp></au></expandMW>
+10:18	Vāstuv.	vAstuv	litcat	<abbr><slp cap="true">vAstuv</slp></abbr><expandMW><litcat><slp cap="true">vAstuvidyA</slp></litcat></expandMW>
+10:19	Vātsyāy.	vAtsyAy	au	<abbr><slp cap="true">vAtsyAy</slp></abbr><expandMW><au><slp cap="true">vAtsyAyana</slp></au></expandMW>
+10:19x	Vātsy.	vAtsyAy	au	<abbr><slp cap="true">vAtsyAy</slp></abbr><expandMW><au><slp cap="true">vAtsyAyana</slp></au></expandMW>
+10:20	VāyuP.	vAyup	ti	<abbr><slp cap="true">vAyu</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">vAyu</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">vAyu-purARa</slp></ti></expandNorm>
+10:21	Vedântap.	vedAntap	ti	<abbr><slp cap="true">vedAntap</slp></abbr><expandMW><ti><slp cap="true">vedAntapariBAzA</slp></ti></expandMW>
+10:21x	Vedântaparibh.	vedAntap	ti	<abbr><slp cap="true">vedAntap</slp></abbr><expandMW><ti><slp cap="true">vedAntapariBAzA</slp></ti></expandMW>
+10:22	Vedāntas.	vedAntas	ti	<abbr><slp cap="true">vedAntas</slp></abbr><expandMW><ti><slp cap="true">vedAntasAra</slp></ti></expandMW>
+10:22X	Vedântas.	vedAntas	ti	<abbr><slp cap="true">vedAntas</slp></abbr><expandMW><ti><slp cap="true">vedAntasAra</slp></ti></expandMW>
+10:22x	Vedânt.	vedAntas	ti	<abbr><slp cap="true">vedAntas</slp></abbr><expandMW><ti><slp cap="true">vedAntasAra</slp></ti></expandMW>
+10:23	Vet.	vet	ti	<abbr><slp cap="true">vet</slp></abbr><expandMW><ti><slp cap="true">vetAla-paYcaviMSatikA</slp></ti></expandMW>
+10:24	Viddh.	vidD	ti	<abbr><slp cap="true">vidD</slp></abbr><expandMW><ti><slp cap="true">vidDaSAlaBaYjikA</slp></ti></expandMW>
+10:25	Vcar.	vcar	ti	<abbr><slp cap="true">vcar</slp></abbr><expandMW><ti><slp cap="true">vikramANkadeva</slp><slp cap="true">carita</slp></ti>, by <au><slp cap="true">bilhaRa</slp></au></expandMW><expandNorm><ti><slp cap="true">vikramANkadeva-carita</slp></ti>, by <au><slp cap="true">bilhaRa</slp></au></expandNorm>
+10:26	Vikr.	vikr	ti	<abbr><slp cap="true">vikr</slp></abbr><expandMW><ti><slp cap="true">vikramorvaSI</slp></ti></expandMW>
+10:27	Vīrac.	vIrac	ti	<abbr><slp cap="true">vIrac</slp></abbr><expandMW><ti><slp cap="true">vIracarita</slp></ti></expandMW>
+10:28	VP.	vp	ti	<abbr><slp cap="true">v</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">vizRu</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">vizRu-purARa</slp></ti></expandNorm>
+10:28x	ViṣṇuP.	vp	ti	<abbr><slp cap="true">v</slp><slp cap="true">p</slp></abbr><expandMW><ti><slp cap="true">vizRu</slp><slp cap="true">purARa</slp></ti></expandMW><expandNorm><ti><slp cap="true">vizRu-purARa</slp></ti></expandNorm>
+10:29	Viṣṇ.	vizR	ti	<abbr><slp cap="true">vizR</slp></abbr><expandMW><ti><slp cap="true">vizRu</slp>'s Institutes</ti></expandMW><expandNorm><ti><slp cap="true">vizRu-smfti</slp></ti>, <ti><slp cap="true">vizRu-sUtra</slp></ti>, <ti><slp cap="true">vEzRava-Darma-SAstra</slp></ti></expandNorm>
+10:29x	Viṣṇus.	vizR	ti	<abbr><slp cap="true">vizR</slp></abbr><expandMW><ti><slp cap="true">vizRu</slp>'s Institutes</ti></expandMW><expandNorm><ti><slp cap="true">vizRu-smfti</slp></ti>, <ti><slp cap="true">vizRu-sUtra</slp></ti>, <ti><slp cap="true">vEzRava-Darma-SAstra</slp></ti></expandNorm>
+10:30	Viśvan.	viSvan	au	<abbr><slp cap="true">viSvan</slp></abbr><expandMW><au><slp cap="true">viSvanATa</slp></au>, astronomer</expandMW><expandNorm><au><slp cap="true">viSvanATa</slp><slp cap="true">dEvajYa</slp></au></expandNorm><addedInfo>author of <litcat>jyotish</litcat> works</addedInfo>
+10:31	Vop.	vop	au	<abbr><slp cap="true">vop</slp></abbr><expandMW><au><slp cap="true">vopadeva</slp></au></expandMW>
+10:32	Vṛṣabhān.	vfzaBAn	ti	<abbr><slp cap="true">vfzaBAn</slp></abbr><expandMW><ti><slp cap="true">vfzaBAnujA-nAwikA</slp></ti>, by <au><slp cap="true">maTurA-dAsa</slp></au></expandMW>
+10:32X	Vṛṣabhân.	vfzaBAn	ti	<abbr><slp cap="true">vfzaBAn</slp></abbr><expandMW><ti><slp cap="true">vfzaBAnujA-nAwikA</slp></ti>, by <au><slp cap="true">maTurA-dAsa</slp></au></expandMW>
+10:32x	Vṛṣabh.	vfzaBAn	ti	<abbr><slp cap="true">vfzaBAn</slp></abbr><expandMW><ti><slp cap="true">vfzaBAnujA-nAwikA</slp></ti>, by <au><slp cap="true">maTurA-dAsa</slp></au></expandMW>
+10:33	Vyavahārat.	vyavahArat	ti	<abbr><slp cap="true">vyavahArat</slp></abbr><expandMW><ti><slp cap="true">vyavahAratattva</slp></ti></expandMW>
+10:34	W.	W	au	<abbr>W</abbr><expandMW><au>Wilson</au></expandMW><expandNorm><au>Horace H. Wilson</au></expandNorm>
+10:35	Yājñ.	yAjY	au	<abbr><slp cap="true">yAjY</slp></abbr><expandMW><au><slp cap="true">yAjYavalkya</slp></au></expandMW>
+10:36	Yājñ.,Sch.	yAjY.,Sch	ti	<abbr><slp cap="true">yAjY</slp>.,Sch.</abbr><expandMW><au><slp cap="true">yAjYavalkya</slp></au>,Sch.(i.e. <ti><slp cap="true">mitAkzarA</slp></ti>)</expandMW><expandNorm><au><slp cap="true">vijYAneSvara</slp></au>'s <ti><slp cap="true">mitAkzarA</slp></ti>, commentary on <ti><slp cap="true">yAjYavalkya</slp>'s <slp cap="true">Darma-SAstra</slp></ti></expandNorm>
+10:37	YogaśUp.	yogaSup	ti	<abbr><slp cap="true">yogaS</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">yogaSiKA</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">yogaSiKA-upanizad</slp></ti></expandNorm>
+10:37x	ŚikhUp.	yogaSup	ti	<abbr><slp cap="true">yogaS</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">yogaSiKA</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">yogaSiKA-upanizad</slp></ti></expandNorm>
+10:38	Yogas.	yogas	ti	<abbr><slp cap="true">yogas</slp></abbr><expandMW><ti><slp cap="true">yogasUtra</slp></ti></expandMW><expandNorm><ti><slp cap="true">yoga-sUtra</slp></ti></expandNorm>
+10:39	YogatUp.	yogatup	ti	<abbr><slp cap="true">yogat</slp><slp cap="true">up</slp></abbr><expandMW><ti><slp cap="true">yogatattva</slp><slp cap="true">upanizad</slp></ti></expandMW><expandNorm><ti><slp cap="true">yogatattva-upanizad</slp></ti></expandNorm>
+10:40	Yogavās.	yogavAs	ti	<abbr><slp cap="true">yogavAs</slp></abbr><expandMW><ti><slp cap="true">yogavAsizWa-sAra</slp></ti></expandMW>
+11:01	Āpast.	Apast	au	<abbr><slp cap="true">Apast</slp></abbr><expandNorm><au><slp cap="true">Apastamba</slp></au> [Cologne Addition]</expandNorm>
+11:02	ĀpGṛ.	Apgf	ti	<abbr><slp cap="true">Ap</slp><slp cap="true">gf</slp></abbr><expandNorm><au><slp cap="true">Apastamba</slp></au>'s <litcat><slp cap="true">gfhya-sUtra</slp></litcat> [Cologne Addition]</expandNorm><expandNorm><ti><slp cap="true">Apastamba-gfhya-sUtra</slp></ti> [Cologne Addition]</expandNorm>
+11:03	AdhyR.	aDyR	ti	<abbr><slp cap="true">aDy</slp><slp cap="true">r</slp></abbr><expandNorm><ti><slp cap="true">aDyAtma</slp><slp cap="true">rAmAyaRa</slp></ti> [Cologne Addition]</expandNorm>
+11:04	Ait.	Et	ti	<abbr><slp cap="true">Et</slp></abbr><expandNorm><ti><slp cap="true">Etareya</slp></ti> [Cologne Addition]</expandNorm>
+11:05	Cat.	Cat	ti	<abbr>Cat</abbr><expandNorm><ti>Catalogue(s)</ti> [Cologne Addition]</expandNorm>
+11:06	Haṭhapr.	haWapr	ti	<abbr><slp cap="true">haWapr</slp></abbr><expandNorm><ti><slp cap="true">haWa-pra-dIpikA</slp></ti> [Cologne Addition]</expandNorm>
+11:07	Il.	Il	ti	<abbr>Il</abbr><expandNorm><ti>Iliad</ti> [Cologne Addition]</expandNorm>
+11:08	Inscr.	Inscr	ti	<abbr>Inscr</abbr><expandNorm><ti>Inscriptions</ti> [Cologne Addition]</expandNorm>
+11:09	IndSt.	IndSt	ti	<abbr>IndSt</abbr><expandNorm><ti>Indische Studien</ti> by <au>A. Weber</au> [Cologne Addition]</expandNorm>
+11:10	Kap.	kap	au	<abbr><slp cap="true">kap</slp></abbr><expandNorm><au><slp cap="true">kapila</slp></au> [Cologne Addition]</expandNorm>
+11:11	Lokapr.	lokapr	ti	<abbr><slp cap="true">lokapr</slp></abbr><expandNorm><ti><slp cap="true">loka-prakASa</slp></ti> [Cologne Addition]</expandNorm>
+11:12	Nyāyas.	nyAyas	ti	<abbr><slp cap="true">nyAyas</slp></abbr><expandNorm><ti><slp cap="true">nyAyasUtra</slp></ti> [Cologne Addition]</expandNorm>
+11:13	PañcavBr.	paYcavbr	ti	<abbr><slp cap="true">paYcav</slp><slp cap="true">br</slp></abbr><expandNorm><ti><slp cap="true">paYcaviMSa</slp><slp cap="true">brAhmaRa</slp></ti> [Cologne Addition]</expandNorm><expandNorm><ti><slp cap="true">paYca-viMSa-brAhmaRa</slp></ti> [Cologne Addition]</expandNorm>
+11:13x	PBr.	pbr	ti	<abbr><slp cap="true">paYcav</slp><slp cap="true">br</slp></abbr><expandNorm><ti><slp cap="true">paYcaviMSa</slp><slp cap="true">brAhmaRa</slp></ti> [Cologne Addition]</expandNorm><expandNorm><ti><slp cap="true">paYca-viMSa-brAhmaRa</slp></ti> [Cologne Addition]</expandNorm>
+11:14	Śārṅg.	SArNg	au	<abbr><slp cap="true">SArNg</slp></abbr><expandNorm><ti><slp cap="true">SArNgaDara</slp></ti> [Cologne Addition]</expandNorm>
+11:15	Śaṃk.	SaMk	au	<abbr><slp cap="true">SaMk</slp></abbr><expandNorm><ti><slp cap="true">SaMkarAcArya</slp></ti> [Cologne Addition]</expandNorm>
+11:16	Śiva.	Sivas	ti	<abbr><slp cap="true">Siva</slp></abbr><expandNorm><ti><slp cap="true">Siva</slp><slp cap="true">sUtra</slp></ti> [Cologne Addition]</expandNorm><expandNorm><ti><slp cap="true">Siva-sUtra</slp></ti> [Cologne Addition]</expandNorm>
+11:17	Var.	var	au	<abbr><slp cap="true">var</slp></abbr><expandNorm><ti><slp cap="true">varAha-mihira</slp></ti> [Cologne Addition]</expandNorm>
+11:18	Veṇīs.	veRIs	ti	<abbr><slp cap="true">veRIs</slp></abbr><expandNorm><ti><slp cap="true">veRI-saMhAra</slp></ti> [Cologne Addition]</expandNorm>
+11:19	Vratapr.	vratapr	ti	<abbr><slp cap="true">vratapr</slp></abbr><expandNorm><ti><slp cap="true">vrata-prakASa</slp></ti> [Cologne Addition]</expandNorm>
+11:20	Ār.	Ar	litcat	<abbr><slp cap="true">Ar</slp></abbr><expandNorm><litcat><slp cap="true">AraRyaka</slp></litcat> [Cologne Addition]</expandNorm><expandNorm><litcat><slp cap="true">AraRyaka</slp></litcat> [Cologne Addition]</expandNorm>
+11:21	Dāyakramas.	dAyakramas	ti	<abbr><slp cap="true">dAyakramas</slp></abbr><expandNorm><ti><slp cap="true">dAya-krama-saMgraha</slp></ti> [Cologne Addition]</expandNorm>
+11:22	Dattakac.	dattakac	ti	<abbr><slp cap="true">dattakac</slp></abbr><expandNorm><ti><slp cap="true">dattakacandrikA</slp></ti> [Cologne Addition]</expandNorm><expandNorm><ti><slp cap="true">dattakacandrikA</slp></ti> [Cologne Addition]</expandNorm>
+11:23	Deśīn.	deSIn	ti	<abbr><slp cap="true">deSIn</slp></abbr><expandNorm><ti><slp cap="true">deSI-nAma-mAlA</slp></ti> [Cologne Addition]</expandNorm>
+11:24	Gaṇap.	gaRap	ti	<abbr><slp cap="true">gaRap</slp></abbr><expandNorm><ti><slp cap="true">gaRa</slp><slp cap="true">pAWa</slp></ti> [Cologne Addition]</expandNorm><expandNorm><ti><slp cap="true">gaRa-pAWa</slp></ti> [Cologne Addition]</expandNorm>
+11:25	GobhGṛ.	goBgf	ti	<abbr><slp cap="true">goB</slp><slp cap="true">gf</slp></abbr><expandNorm><ti><slp cap="true">goBila</slp>'s<slp cap="true">gfhya-sUtra</slp></ti> [Cologne Addition]</expandNorm>
+11:26	Hastar.	hastar	ti	<abbr><slp cap="true">hastar</slp></abbr><expandNorm><ti><slp cap="true">hasta-ratnAvalI</slp></ti> [Cologne Addition]</expandNorm>
+11:27	Jñātādh.	jYAtAD	ti	<abbr><slp cap="true">jYAtAD</slp></abbr><expandNorm><ti><slp cap="true">jYAtA-Darma-kaTA</slp></ti> [Cologne Addition]</expandNorm>
+11:28	KāṭhAnukr.	kAWanukr	ti	<abbr><slp cap="true">kAW</slp><slp cap="true">anukr</slp></abbr><expandNorm><ti><slp cap="true">kAWaka anukramaRI</slp></ti> [Cologne Addition]</expandNorm>
+11:29	Kusum.	kusum	ti	<abbr><slp cap="true">kusum</slp></abbr><expandNorm><ti><slp cap="true">kusumAYjali</slp></ti> [Cologne Addition]</expandNorm>
+11:30	LāṭyŚr.	lAwySr	ti	<abbr><slp cap="true">lAwy</slp><slp cap="true">Sr</slp></abbr><expandNorm><ti><slp cap="true">lAwyAyana-SrOta-sUtra</slp></ti> [Cologne Addition]</expandNorm>
+11:31	Mahāvy.	mahAvy	ti	<abbr><slp cap="true">mahAvy</slp></abbr><expandNorm><ti><slp cap="true">mahA-vyutpatti</slp></ti> [Cologne Addition]</expandNorm>
+11:32	SV.Pariś.	sv.pariS	ti	<abbr><slp cap="true">s</slp><slp cap="true">v</slp>.<slp cap="true">pariS</slp></abbr><expandNorm><ti><slp cap="true">soma</slp><slp cap="true">veda</slp>.<slp cap="true">pariSizwa</slp></ti> [Cologne Addition]</expandNorm><expandNorm><ti><slp cap="true">soma-veda-pariSizwa</slp></ti> [Cologne Addition]</expandNorm>
+11:33	Āśv.	ASv	au	<abbr><slp cap="true">ASv</slp></abbr><expandNorm><au><slp cap="true">ASvalAyana</slp></au> [Cologne Addition]</expandNorm>
+11:34	DrāhyŚr.	drAhySr	ti	<abbr><slp cap="true">drAhy</slp><slp cap="true">Sr</slp></abbr><expandNorm>NONE</expandNorm><expandNorm><ti><slp cap="true">drAhyAyaRa-SrOta-sUtra</slp></ti> [Cologne Addition]</expandNorm>
+11:35	Mit.	mit	ti	<abbr><slp cap="true">mit</slp></abbr><expandNorm>NONE</expandNorm><expandNorm><ti><slp cap="true">mitAkzarA</slp></ti> [Cologne Addition]</expandNorm>
+11:36	Ratnak.	ratnak	ti	<abbr><slp cap="true">ratnak</slp></abbr><expandNorm>NONE</expandNorm><expandNorm><ti><slp cap="true">ratnakoza</slp></ti> [Cologne Addition]</expandNorm>
+11:37	Śaṃkaracetov.	SaMkaracetov	ti	<abbr><slp cap="true">SaMkaracetov</slp></abbr><expandNorm>NONE</expandNorm><expandNorm><ti><slp cap="true">SaMkara-cetovilAsa</slp></ti> [Cologne Addition]</expandNorm>
+11:38	Śrāddhac.	SrAdDac	ti	<abbr><slp cap="true">SrAdDac</slp></abbr><expandNorm>NONE</expandNorm><expandNorm><ti><slp cap="true">SrAdDa-candrikA</slp></ti> [Cologne Addition]</expandNorm>
+11:39	Śūdradh.	SUdraD	ti	<abbr><slp cap="true">SUdraD</slp></abbr><expandNorm>NONE</expandNorm><expandNorm><ti><slp cap="true">SUdra-Darma-tattva</slp></ti> [Cologne Addition]</expandNorm>
+11:40	SaṃnyUp.	saMnyup	ti	<abbr><slp cap="true">saMny</slp><slp cap="true">up</slp></abbr><expandNorm>NONE</expandNorm><expandNorm><ti><slp cap="true">saMnyAsa-upanizad</slp></ti> [Cologne Addition]</expandNorm>
+11:41	TAnukr.	tanukr	ti	<abbr><slp cap="true">t</slp><slp cap="true">anukr</slp></abbr><expandNorm>NONE</expandNorm><expandNorm><ti><slp cap="true">tEttirIya-anukramaRI</slp></ti> [Cologne Addition]</expandNorm>
+11:42	TaṇḍināmUp.	taRqinAmup	ti	<abbr><slp cap="true">taRqinAm</slp><slp cap="true">up</slp></abbr><expandNorm>NONE</expandNorm><expandNorm><ti><slp cap="true">taRqinAm-upanizad</slp></ti> [Cologne Addition]</expandNorm>
+11:43	TśUp.	tSup	ti	<abbr><slp cap="true">tS</slp><slp cap="true">up</slp></abbr><expandNorm>NONE</expandNorm><expandNorm><ti><slp cap="true">triSiKi-brAhmaRa-upanizad</slp></ti> [Cologne Addition]</expandNorm>
+11:44	Udbh.	udB	au	<abbr><slp cap="true">udB</slp></abbr><expandNorm>NONE</expandNorm><expandNorm><au><slp cap="true">udBawa</slp></au> [Cologne Addition]</expandNorm>
+11:45	Upal.	upal	litcat	<abbr><slp cap="true">upal</slp></abbr><expandNorm><litcat><slp cap="true">upaleKa</slp> , name of a grammatical work connected with the <slp>prAtiSAKya</slp>s</litcat> [Cologne Addition]</expandNorm><expandNorm><litcat><slp cap="true">upaleKa</slp></litcat> [Cologne Addition]</expandNorm>
+11:46	V.	v	litcat	<abbr><slp cap="true">v</slp></abbr><expandNorm><litcat><slp cap="true">vArAha</slp></litcat>s</expandNorm>
+11:47	Vākyap.	vAkyap	ti	<abbr><slp cap="true">vAkyap</slp></abbr><expandNorm>NONE</expandNorm><expandNorm><ti><slp cap="true">vAkyapadIya</slp></ti> [Cologne Addition]</expandNorm>
+11:48	Vaidyajīv.	vEdyajIv	ti	<abbr><slp cap="true">vEdyajIv</slp></abbr><expandNorm>NONE</expandNorm><expandNorm><ti><slp cap="true">vEdyajIvana</slp></ti> [Cologne Addition]</expandNorm>
+11:48x	Vaidyaj.	vEdyajIv	ti	<abbr><slp cap="true">vEdyajIv</slp></abbr><expandNorm>NONE</expandNorm><expandNorm><ti><slp cap="true">vEdyajIvana</slp></ti> [Cologne Addition]</expandNorm>
+11:49	Vallabh.	vallaB	au	<abbr><slp cap="true">vallaB</slp></abbr><expandNorm>NONE</expandNorm><expandNorm><au><slp cap="true">vallaBa</slp></au> [Cologne Addition]</expandNorm>
+11:50	Vidvanm.	vidvanm	ti	<abbr><slp cap="true">vidvanm</slp></abbr><expandNorm>NONE</expandNorm><expandNorm><ti><slp cap="true">vidvan--moda-taraMgiRI</slp></ti> [Cologne Addition]</expandNorm>
+11:51	YajurV.	yajurv	litcat	<abbr><slp cap="true">yajur</slp><slp cap="true">v</slp></abbr><expandNorm><litcat><slp cap="true">yajur-veda</slp></litcat> [Cologne Addition]</expandNorm>
+11:52	K.	k	au	<abbr>K</abbr><expandNorm><au>Kielhorn</au> [Cologne Addition]</expandNorm>
+11:53	Śāṇḍ.	SARq	ti	<abbr><slp cap="true">SARq</slp></abbr><expandNorm><ti><slp cap="true">SARqilya-BaktisUtra</slp></ti> [Cologne Addition]</expandNorm>
+11:54	Alaṃkārar.	alaMkArar	ti	<abbr><slp cap="true">alaMkArar</slp></abbr><expandNorm><ti><slp cap="true">alaMkAraratnAkara</slp></ti> [Cologne Addition]</expandNorm>
+11:55?	Kār.	kArikA	ti	<abbr>kArikA</slp></abbr><expandNorm><ti>Kārikās, grammatical commentaries on Pāṇini in metrical form, found in Patañjali´s Mahābhāṣyam</ti> [Cologne Addition]</expandNorm>
+11:56	Madanap.	madanap	ti	<abbr><slp cap="true">madanap</slp></abbr><expandNorm><ti><slp cap="true">madanapArijAta</slp></ti> [Cologne Addition]</expandNorm>
+;11:57	Ṛktantr.	fktantr	ti	<expandNorm><ti>Ṛktantravyākaraṇa</ti> [Cologne Addition]</expandNorm>
+;11:58	Abhirāmam.	_	ti	<expandNorm><ti>Abhirāmamaṇi</ti> [Cologne Addition]</expandNorm>
+12:01	Abhirāmam.	aBirAmam	ti	<expandNorm><ti>Abhirāmamaṇi</ti> [Cologne Addition]</expandNorm>
+12:02	Aśvav.	aSvav	ti	<expandNorm><ti>Aśvavaidyaka</ti> [Cologne Addition]</expandNorm>
+12:03	Bhojacar.	Bojacar	ti	<expandNorm><ti>Bhojacaritra</ti> [Cologne Addition]</expandNorm>
+12:04	Jñānabhair.	jYAnaBEr	ti	<expandNorm><ti>Jñānabhairavītantra</ti> [Cologne Addition]</expandNorm>
+12:05	Kṛṣṇakrīḍ.	kfzRakrIq	ti	<expandNorm><ti>Kṛṣṇakrīḍita</ti> [Cologne Addition]</expandNorm>
+12:06	Paiṭh.	pEW	ti	<expandNorm><ti>Paiṭhīnasismṛti</ti> [Cologne Addition]</expandNorm>
+12:07	Rājamārt.	rAjamArt	ti	<expandNorm><ti>Rājamārtaṇḍa</ti> [Cologne Addition]</expandNorm>
+12:08	Supadm.	supadm	ti	<expandNorm><ti>Supadma</ti> [Cologne Addition]</expandNorm>
+12:09	Udvāhat.	udvAhat	ti	<expandNorm><ti>Udvāhatattva</ti> [Cologne Addition]</expandNorm>
+12:10	Yavanêśv.	yavaneSv	ti	<expandNorm><ti>Yavaneśvara</ti> [Cologne Addition]</expandNorm>
+12:11	Āgamapr.	Agamapr	ti	<expandNorm><ti>Āgamaprāmāṇya</ti> [Cologne Addition]</expandNorm>
+12:12	Ṛgvidh.	fgviD	ti	<expandNorm><ti>Ṛgvidhāna</ti> [Cologne Addition]</expandNorm>
+12:13	Ṛktantr.	fktantr	ti	<expandNorm><ti>Ṛktantravyākaraṇa</ti> [Cologne Addition]</expandNorm>
+12:14	M.M.	MMChips	ti	<expandNorm><ti>Max Muller, Chips from a German Workshop</ti> [Cologne Addition]</expandNorm>
+12:15	Am.	Am	ti	<expandNorm><ti> ? </ti> [Cologne Addition]</expandNorm>
+12:16	Ind.Ant.	Ind.Ant.	ti	<expandNorm><ti> ? </ti> [Cologne Addition]</expandNorm>
+12:17	IndAnt.	IndAnt	ti	<expandNorm><ti> ? </ti> [Cologne Addition]</expandNorm>
+12:18	Aufrecht	Aufrecht	au	<expandNorm><au>Theodor Aufrecht</au> [Cologne Addition]</expandNorm>
+12:19	Bühler	Bühler	au	<expandNorm><au>Georg Bühler</au> [Cologne Addition]</expandNorm>
+12:20	Böhtl.	Böhtl.	au	<expandNorm><au>Otto von Böhtlingk</au> [Cologne Addition]</expandNorm>
+12:21	Beames	Beames	au	<expandNorm><au>?</au> [Cologne Addition]</expandNorm>
+12:22	Hunter	Hunter	au	<expandNorm><au>?</au> [Cologne Addition]</expandNorm>
+12:23	Zachariae	Zachariae	au	<expandNorm><au>Theodor Zachariae,  Die indischen Wörterbücher</au> [Cologne Addition]</expandNorm>
+12:24	Bloomfield	Bloomfield	au	<expandNorm><au>Maurice Bloomfield</au> [Cologne Addition]</expandNorm>
+12:25	Bn.	Bn.	au	<expandNorm><ti>?</ti> [Cologne Addition]</expandNorm>
+12:26	Boehtlingk	Boehtlingk	au	<expandNorm><au>Otto von Böhtlingk</au> [Cologne Addition]</expandNorm>
+12:27	Buddhac.	Buddhac.	au	<expandNorm><ti>Buddhacarita</ti> [Cologne Addition]</expandNorm>
+12:28	Burnouf	Burnouf	au	<expandNorm><au>Eugène Burnouf</au> [Cologne Addition]</expandNorm>
+12:29	Colebrooke	Colebrooke	au	<expandNorm><au>Henry Thomas Colebrooke</au> [Cologne Addition]</expandNorm>
+12:30	Cowell	Cowell	au	<expandNorm><au>Edward Byles Cowell</au> [Cologne Addition]</expandNorm>
+12:31	Kaegi	Kaegi	au	<expandNorm><au>Adolf Kaegi</au> [Cologne Addition]</expandNorm>
+12:32	Goldst.	Goldst.	au	<expandNorm><ti>Theodor Goldstücker Sanskrit-English Dictionary</ti> [Cologne Addition]</expandNorm>
+12:33	Gram.	Gram.	au	<expandNorm><ti>Whitney Sanskrit Grammar</ti> [Cologne Addition]</expandNorm>
+12:34	Haughton	Haughton	au	<expandNorm><ti>Dictionary of Bengali-Sanskrit-English, Graves C. Haughton</ti> [Cologne Addition]</expandNorm>
+12:35	Hpar.	hpar	ti	<abbr><slp cap="true">h</slp><slp cap="true">pariS</slp></abbr><expandMW><au><slp cap="true">hemacandra</slp></au>'s <ti><slp cap="true">pariSizwaparvan</slp></ti></expandMW>
+12:36	JBr.	jbr	ti	<abbr><slp cap="true">jEm</slp><slp cap="true">br</slp></abbr><expandMW><ti><slp cap="true">jEminIya</slp><slp cap="true">brAhmaRa</slp></ti></expandMW><expandNorm><ti><slp cap="true">jEminIya-brAhmaRa</slp></ti></expandNorm>
+12:37	Kosegarten	Kosegarten	au	<expandNorm><au>Johann Gottfried Ludwig Kosegarten</au> [Cologne Addition]</expandNorm>
+12:38	Luders	Luders	au	<expandNorm><au>Heinrich Lüders</au> [Cologne Addition]</expandNorm>
+12:39	Ludwig	Ludwig	au	<expandNorm><au>?</au> [Cologne Addition]</expandNorm>
+12:40	Muir	Muir	au	<expandNorm><au>John Muir</au> [Cologne Addition]</expandNorm>
+12:41	Pischel	Pischel	au	<expandNorm><au>Richard Pischel</au> [Cologne Addition]</expandNorm>
+12.42	Prav.	prav	litcat	<abbr><slp cap="true">pravar</slp></abbr><expandMW><litcat><slp cap="true">pravara</slp> texts</litcat></expandMW>
+12:43	Wh.	Wh.	au	<expandNorm><au>?</au> [Cologne Addition]</expandNorm>
+12:44	Ro.	Ro.	au	<expandNorm><au>?</au> [Cologne Addition]</expandNorm>
+12:45	Schlegel	Schlegel	au	<expandNorm><au>Friedrich Schlegel</au> [Cologne Addition]</expandNorm>
+12:46	VRJ.	VRJ.	au	<expandNorm><au>?</au> [Cologne Addition]</expandNorm>
+12:47	Vaidyakaparibh.	vEdyakapariB	ti	<abbr><slp cap="true">vEdyakapariB</slp></abbr><expandNorm>NONE</expandNorm><expandNorm><ti><slp cap="true">vEdyakapariBAzA</slp></ti> [Cologne Addition]</expandNorm>
+12:48	Weber	Weber	au	<expandNorm><au>Albrecht Weber</au> [Cologne Addition]</expandNorm>
+12:49	Whitney's Gr.	Whitney's Gr.	au	<expandNorm><ti>Whitney Sanskrit Grammar</ti> [Cologne Addition]</expandNorm>
+12:50	Yog.	Yog.	ti	<expandNorm><ti>Yogasūtra</ti> [Cologne Addition]</expandNorm>
