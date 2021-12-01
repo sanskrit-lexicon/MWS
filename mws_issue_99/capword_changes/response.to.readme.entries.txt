@@ -1,0 +1,162 @@
+Am.  <ls>Am.</ls>  Reference unknown ??  hw = paruzIkfta  <<<
+Amarakośa
+done
+
+Ind. Ant.  and IndAnt. (mark as literary source) Reference unknown <<
+Indian Antiquary
+done
+
+Beng.  <ab>Beng.</ab> (2) Tooltip =? Bengali  (hw = upacakzus, karcarikA)  <<< help wanted for tooltip
+Many such words are picked up from SKD and VCP, which gave the regional (Bengali) equivalents for the Sanskrit words.
+
+Bh. unmarked <ls>Bh.</ls> (1) Tooltip=BAgavata-purARA (?) hw=nAkulI   <<< help wanted for tooltip
+     24 <ls>Bh.</ls> instances marked.
+Bhāvaprakāśa, a traditional medical (Ayurvedic) treatise.
+done
+Bn. unmarked ls: tooltip unknown (1) 94428<pc>487,2<k1>durga  <<<  help wanted for tooltip
+???
+
+Buddhac. unmarked ls (1)  tooltip=Buddhacarita ?  <<<  help wanted for tooltip  259649<pc>1283,3<k1>svABAvika
+It is guessed correctly.
+
+Coc. abbreviation of Cocculus (1). print change to Cocculus and mark bot   << not sure of print change
+It is guessed correctly.
+
+Conj. unmarked abbrev (3) tooltip = Conjectural ?
+   << help wanted tooltip. <L>2943<pc>13,2<k1>atiKyA and <L>3038<pc>14,2<k1>atiDvaMs
+It is guessed correctly.
+
+O. S. -> O.S. unmarked abbrev (1) <<< tooltip help wanted: <L>171842<pc>854,1<k1>yuga
+It is 'o. s.', not 'O. S.'
+???
+
+Sl. unmarked abbrev (3) tooltip: Slovak  <<< Help wanted tooltip
+  <L>92977.1<pc>481,3<k1>dIrGa   <L>93282.05<pc>482,3<k1>du   <L>93282.55<pc>482,3<k1>dU
+Slavonic or Slavonian.
+done
+
+Goldst. ls unmarked tooltip = 'Theodor Goldstücker'  << help wanted
+It is guessed correctly.
+
+Haughton  unmarked ls. tooltip="Dictionary of Bengali-Sanskrit-English, Graves C. Haughton"
+  tooltip right? << help wanted. <L>50953<pc>285,3<k1>kucelI
+It is guessed correctly.
+
+Hpar. -> ls unmarked (2)  (variant of HPariś., Hemacandra's pariSizwaparvan ?)
+   << help wanted tooltip >1639<pc>8,1<k1>aNgArakArin
+???
+
+Indic. -> unmarked ab (1) 
+  Tooltip = "indicative (= optative)"  << help wanted
+  <L>262729.1<pc>1297,3<k1>hi  <L>170219<pc>844,3<k1>yadi
+It is guessed correctly.
+
+Kelt. unmarked ab (1)  Tooltip: "Keltic or Celtic".
+   << tooltip Help wanted <L>176837.1<pc>874,3<k1>rAjan
+It is guessed correctly.
+
+Kosegarten unmarked ls (1)
+  tooltip="Johann Gottfried Ludwig Kosegarten" << Help wanted <L>33211<pc>189,3<k1>udDAraRa
+It is guessed correctly.
+
+Lin -> unmarked abbrev. Tooltip="Carl Linnaeus"  << help wanted. check tooltip
+It is guessed correctly.
+
+Luders -> unmarked ls. Tooltip="Heinrich Lüders"  << help wanted. check tip.
+   <L>97153.1<pc>1329,1<k1>dohada   <L>97163.1<pc>1329,1<k1>dohala<k2>dohala<e>2A
+It is guessed correctly.
+
+Ludwig. -> unmarked ls (2)  Tooltip=?  <<<help wanted for tooltip
+  <L>15276<pc>87,3<k1>arAvan   <L>38960<pc>226,2<k1>fBu
+Alfred Ludwig, Der Rigveda (1876)
+done
+Muir unmarked ls (3) tooltip="John Muir"  << help wanted check tooltip
+   <L>28925<pc>166,1<k1>indra   <L>29632<pc>169,3<k1>izwApUrta  <L>254246<pc>1257,1<k1>skamBa
+It is guessed correctly.
+
+OSax. unmarked ab (1)  tooltip="Old Saxon"
+   << help wanted tooltip text (<L>104741.1<pc>531,3<k1>navan)
+It is guessed correctly.
+
+Osk. <ab>Osk.</ab> (1)  << help wanted for tooltip (<L>40047.1<pc>231,2<k1>etad)
+Oskan (from MW72)
+done
+<ab>Goth.</ab> Old S. -> <ab>Goth. Old S.</ab> (1)
+  << "Gothic Old Saxon" tooltip help wanted.  <L>147598.1<pc>743,1<k1>Baj
+It is guessed correctly.
+
+Pan. unmarked ls ? << help wanted
+  print error for Pāṇ.?  <L>74573<pc>400,1<k1>cud
+???
+
+Patr. -> patr. unmarked abbrev (3)
+<ls>Patr.</ls> <<< help wanted. Is this a 'ls', if so what is tooltip
+  or is it an upper-case of 'patr.' (patronymic) abbreviation?
+  <L>208715<pc>1031,2<k1>vyapakarza<k2>vy-apakarza<e>3
+  <s>vy-°apakarza</s> ¦ <lex>m.</lex> exception (from a rule), <ls>Patr.</ls><info lex="m"/>
+It is Pat. (Patanjali's Mahābhāṣya), not Patr. [cf. PWG entry- vyapakarza]
+done
+Pischel unmarked ls. tooltip="Richard Pischel"  << help wanted verify tooltip
+ <L>26267<pc>151,1<k1>AroDana
+It is guessed correctly.
+
+Prav. unmarked ls (3) <<< help wanted to confirm this is same
+  as 'Pravar.' (pravara - literary category)
+   <L>95089<pc>490,2<k1>dfQacyuta   <L>96405<pc>496,1<k1>devala and 6 others
+It is Pravarādhyāya.
+done
+Wh. unmarked ls; and Ro. unmarked ls. (Wh. and Ro.) (1)
+  << help wanted for tooltip.  <L>27372<pc>157,1<k1>ASaMs
+Wh. = Whitney, W. D. (1872). Müller's Rig-Veda translation.
+Ro. = Fridericus Rosen (Friedrich August Rosen)
+done
+S << help wanted <L>74857<pc>401,2<k1>cUlA  (<ab>ifc.</ab>; <s>cOla</s>, S)
+???
+
+Schlegel unmarked ls (2)  Tooltip: "Friedrich Schlegel"  << help wanted confirm tooltip
+It is guessed correctly.
+
+See, -> See  (261) 
+  Some should be lower case 'see' based on text; but not sure which. << help wanted
+Probably, all those can be left as is.
+
+Them. unmarked ab (2)  << tooltip help wanted
+  <L>60259<pc>332,1<k1>kzetra<k2>kzetra<e>1E
+  <L>14451.1<pc>83,2<k1>ambA<k2>ambA<e>1E
+Thema or base (from MW72)
+
+Theme unmarked ab (4) << tooltip help wanted
+  <L>7915.105<pc>42,3<k1>anta<k2>anta<e>1E  and 3 others
+Thema or base (from MW72); printo
+
+Thema unmarked ab (1) << tooltip help wanted
+  <L>8567.1<pc>45,2<k1>anya<k2>anya<e>1E
+Thema or base (from MW72)
+
+Umbr. unmarked ab (1) Tooltip = "Umbrian"  << help wanted confirm tooltip
+  <L>127307.1<pc>640,3<k1>pU<k2>pU<e>1E
+It is guessed correctly.
+
+V. -> W. unmarked ls (1)
+ << <L>75248<pc>403,2<k1>cOli<k2>cOli<e>2  What are B and V ?
+???
+
+VRJ. unmarked ls (1) tooltip=? << help wanted tooltip
+   <L>84423<pc>444,2<k1>tArukzAyaRi
+???
+
+Weber unmarked ls (3) tooltip: Albrecht Weber  << help check tooltip
+It is guessed correctly.
+
+Windisch ?? << help wanted. <L>14876<pc>85,3<k1>ayAsya
+Frid. H.H. Windischmann.
+
+Yog. unmarked ls (1)  tooltip = "Yogasūtra"  << help wanted
+  <L>114151<pc>578,2<k1>paYcataya
+It is guessed correctly.
+
+Z. unmarked ab (1) tooltip="Zend" << help wanted
+  <L>92472.1<pc>479,3<k1>diS<k2>diS<e>1E
+It is guessed correctly.
+
+
