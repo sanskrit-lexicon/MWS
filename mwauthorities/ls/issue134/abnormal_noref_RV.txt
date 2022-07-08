@@ -1,0 +1,36 @@
+; -------------------------------------------------------
+; <L>33060<pc>188,3<k1>udDan
+; 2 : prev=RV. iii, 33, 13
+117486 old <s>ud-Dan</s> ¦ (<s>ud-√ han</s>) <ab>P.</ab> <s>-Danti</s> (<ab>Ved.</ab> <ab>impf.</ab> 3. <ab>sg.</ab> <s>-ahan</s>, <ls>RV. x, 102, 7</ls>; <ab>Impv.</ab> <s>-hantu</s>, <ls n="RV.">iii, 33, 13</ls>, <ls>2</ls>; <ab>du.</ab> <s>-hatam</s>, <ls n="RV.">i, 184, 2</ls>, &c.) <ab>Ā.</ab> (3. <ab>pl.</ab> <s>uj-jiGnante</s>, <ls>RV. i, 64, 11</ls>; <ab>Ved.</ab> <ab>inf.</ab> <s>-DantavE/</s>, <ls>ŚBr. xiii, 8, 1, 20</ls>) 
+;
+117486 new <s>ud-Dan</s> ¦ (<s>ud-√ han</s>) <ab>P.</ab> <s>-Danti</s> (<ab>Ved.</ab> <ab>impf.</ab> 3. <ab>sg.</ab> <s>-ahan</s>, <ls>RV. x, 102, 7</ls>; <ab>Impv.</ab> <s>-hantu</s>, <ls n="RV.">iii, 33, 13</ls>, *****<xls n="RV.">2</ls>; <ab>du.</ab> <s>-hatam</s>, <ls n="RV.">i, 184, 2</ls>, &c.) <ab>Ā.</ab> (3. <ab>pl.</ab> <s>uj-jiGnante</s>, <ls>RV. i, 64, 11</ls>; <ab>Ved.</ab> <ab>inf.</ab> <s>-DantavE/</s>, <ls>ŚBr. xiii, 8, 1, 20</ls>) 
+; -------------------------------------------------------
+; <L>62946<pc>344,3<k1>gadgadita
+; 35. : prev=RV.
+215336 old <s>gadgadita</s> ¦ <lex>mfn.</lex> stammered, <ls>PāṇŚ.</ls> (<ls>RV.</ls>), <ls>35.</ls><info lex="m:f:n"/>
+;
+215336 new <s>gadgadita</s> ¦ <lex>mfn.</lex> stammered, <ls>PāṇŚ.</ls> (<ls>RV.</ls>), *****<xls n="RV.">35.</ls><info lex="m:f:n"/>
+; -------------------------------------------------------
+; <L>65326<pc>356,1<k1>gItin
+; 32. : prev=RV.
+222971 old <s>gItin</s> ¦ <lex>mfn.</lex> one who recites in a singing manner, <ls>PāṇŚ.</ls> (<ls>RV.</ls>), <ls>32.</ls><info lex="m:f:n"/>
+;
+222971 new <s>gItin</s> ¦ <lex>mfn.</lex> one who recites in a singing manner, <ls>PāṇŚ.</ls> (<ls>RV.</ls>), *****<xls n="RV.">32.</ls><info lex="m:f:n"/>
+; -------------------------------------------------------
+; <L>70575<pc>381,3<k1>cakrAhva
+; 36 : prev=RV.
+240068 old <s>cakrA<srs/>hva</s> ¦ <lex>m.</lex> = <s>°hvaya</s>, <ls>PāṇŚ.</ls> (<ls>RV.</ls>), <ls>36</ls>; <ls>Yājñ. i, 173</ls>; <ls>Suśr.</ls>; <ls>BhP.</ls>; <ls>Kathās.</ls><info lex="m"/>
+;
+240068 new <s>cakrA<srs/>hva</s> ¦ <lex>m.</lex> = <s>°hvaya</s>, <ls>PāṇŚ.</ls> (<ls>RV.</ls>), *****<xls n="RV.">36</ls>; <ls>Yājñ. i, 173</ls>; <ls>Suśr.</ls>; <ls>BhP.</ls>; <ls>Kathās.</ls><info lex="m"/>
+; -------------------------------------------------------
+; <L>86817<pc>454,2<k1>tF
+; v : prev=RV. viii, 13, 21
+293023 old <s>ta/ruzante</s>, <ls>v</ls>, <s>°ta</s> i, <s>°zema</s>, <ls>vii</ls> [<ab>cf.</ab> <ls>Pāṇ. iii, 1, 85</ls>; <ls>Kāś.</ls>];
+;
+293023 new <s>ta/ruzante</s>, *****<xls n="RV.">v</ls>, <s>°ta</s> i, <s>°zema</s>, <ls>vii</ls> [<ab>cf.</ab> <ls>Pāṇ. iii, 1, 85</ls>; <ls>Kāś.</ls>];
+; -------------------------------------------------------
+; <L>91127<pc>473,1<k1>dazwa
+; 35 : prev=RV.
+307425 old <s>dazwa</s> ¦ <lex>mfn.</lex> (√ <s>daMS</s>) bitten, stung, <ls>Mn. xi</ls>; <ls>MBh.</ls> &c. (said of a wrong pronunciation, <ls>PāṇŚ.</ls> [<ls>RV.</ls>] <ls>35</ls>)<info lex="m:f:n"/>
+;
+307425 new <s>dazwa</s> ¦ <lex>mfn.</lex> (√ <s>daMS</s>) bitten, stung, <ls>Mn. xi</ls>; <ls>MBh.</ls> &c. (said of a wrong pronunciation, <ls>PāṇŚ.</ls> [<ls>RV.</ls>] *****<xls n="RV.">35</ls>)<info lex="m:f:n"/>
