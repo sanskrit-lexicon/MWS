@@ -1,4 +1,4 @@
-MWS/mwauthorities/ls/20220701-rv
+MWS/mwauthorities/ls/issue134
 
 Ref: https://github.com/sanskrit-lexicon/MWS/issues/134
 
@@ -13,9 +13,9 @@ Start with a copy of csl-orig/v02/mw/mw.txt at commit
 # change to csl-orig repository on local installation
 cd /c/xampp/htdocs/cologne/csl-orig/
 # generate temp_mw_0 .txt in this spruch directory
-  git show 3d01a2659:v02/mw/mw.txt > /c/xampp/htdocs/sanskrit-lexicon/MWS/mwauthorities/ls/20220701-rv/temp_mw_0.txt
+  git show 3d01a2659:v02/mw/mw.txt > /c/xampp/htdocs/sanskrit-lexicon/MWS/mwauthorities/ls/issue134/temp_mw_0.txt
 # return to this directory
-cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwauthorities/ls/20220701-rv/
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwauthorities/ls/issue134/
 # -------------------------------------------------------------
 # -------------------------------------------------------------
 temp_tooltip.txt
@@ -25,7 +25,7 @@ python tooltip.py roman mwauth.txt temp_tooltip.txt
 737 auth records
 737 lines written to temp_tooltip.txt
 
-cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwauthorities/ls/20220701-rv/
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwauthorities/ls/issue134/
 cp /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/mw/pywork/mwauth/temp_tooltip.txt .
 
 ---------------------------------------------------------------------
@@ -137,7 +137,7 @@ sh xmlchk_xampp.sh mw
 # correct errors (originally in  32 lines! ugh!)
 # rerun until
  #prints 'ok'
-cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwauthorities/ls/20220701-rv
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwauthorities/ls/issue134
 
 --------------------------------------------------------------------------
 NOW change_2.txt.  These deal with punctuation type errors notably of
@@ -264,7 +264,7 @@ sh xmlchk_xampp.sh mw
 # correct errors 
 # rerun until
  #prints 'ok'
-cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwauthorities/ls/20220701-rv
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwauthorities/ls/issue134
 
 Add 'Unknown' as unknown literary source in
 /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/mw/pywork/mwauth/mwauth.txt.
