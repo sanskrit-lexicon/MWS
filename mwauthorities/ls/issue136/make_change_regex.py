@@ -119,7 +119,16 @@ interpret_option = {
          r'\1</ls> & <ls n="">'),
   '3c': (r'(<ls[^<]*[0-9])[.] ([0-9])',
          r'**\1, \2'),
- 
+  '4a': (r'(<ls[^<]*)<s1',
+         r'**\1<s1'),
+  '4b': (r'([0-9]) ([0-9])',
+         r'\1**\2'),
+  '4c': (r'( *- *</ls>)',
+         r'</ls>**'),
+  '5': (r'(<ls[^<]* [^<]*[cixlv][.]? [0-9])',
+        r'**\1'),
+  '5a': (r'(<ls[^<]*\b[xivlc]+, [xivlc])',
+        r'**\1'),
  }
 if __name__=="__main__":
  # Problem with input of regexes into command line

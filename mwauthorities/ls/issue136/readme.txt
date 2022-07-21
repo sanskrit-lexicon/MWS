@@ -29,7 +29,8 @@ cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwauthorities/ls/issue136/
 cp /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/mw/pywork/mwauth/temp_tooltip.txt .
 
 ---------------------------------------------------------------------
-temp_1.txt misc. changes
+temp_1.txt misc
+. changes
 cp temp_mw_0.txt temp_mw_1.txt
 touch change_1.txt
 
@@ -513,6 +514,298 @@ python ../issue134/diff_to_changes.py temp_mw_0.txt temp_mw_4.txt change_all.txt
 
 ---------------------------------------------------------------------------
 Push the csl-orig and csl-pywork to Github,
+ (commit 22529fc647d41f22215eebfb55b2cb3c438067e5)
 and update the correspondents at Cologne web site.
 DONE with this batch of corrections.
+*************************************************************************
+ Further corrections
+ cp temp_mw_4.txt temp_mw_5.txt
+ touch change_5.txt
+ 
+*************************************************************************
+---------------------------------------------------------------------------
+-- option 4a
+https://github.com/sanskrit-lexicon/MWS/issues/136#issuecomment-1185768296
+-- s1 within ls
+  r'(<ls[^<]*)<s1',
+  r'**\1<s1'
+python make_change_regex.py 4a temp_mw_5.txt temp_change_regex_4a.txt
+3 cases written to temp_change_regex_4a.txt
+# manual revision to temp_change_regex_4a.txt
+# insert temp_change_regex_4a.txt into change_5.txt
+python updateByLine.py temp_mw_4.txt change_5.txt temp_mw_5.txt
+
+---------------------------------------------------------------------------
+https://github.com/sanskrit-lexicon/MWS/issues/136#issuecomment-1185774457
+-- option 4b space between digits
+r'([0-9]) ([0-9])',
+r'\1**\2'
+python make_change_regex.py 4b temp_mw_5.txt temp_change_regex_4b.txt
+69 cases written to temp_change_regex_4b.txt
+# manual revision to temp_change_regex_4b.txt
+# insert temp_change_regex_4b.txt into change_5.txt
+python updateByLine.py temp_mw_4.txt change_5.txt temp_mw_5.txt
+61 change transactions from change_5.txt
+
+NOTE: Uttamac.²  ls abbreviation. 2 instances @ gopAcala and gOrjara
+NOTE: space between digits kept for fractional measures, e.g.
+     ' a <ab>partic.</ab> weight (= 1 1/2 <s1 slp1="mAzaka">Māṣaka</s1>s)'
+     
+---------------------------------------------------------------------------
+-- option 4c space between digits
+r'( *- *</ls>)',
+r'</ls>**'
+python make_change_regex.py 4c temp_mw_5.txt temp_change_regex_4c.txt
+7 cases written to temp_change_regex_4c.txt
+# manual revision to temp_change_regex_4c.txt
+# insert temp_change_regex_4c.txt into change_5.txt
+python updateByLine.py temp_mw_4.txt change_5.txt temp_mw_5.txt
+82 change transactions from change_5.txt
+
+# change_5 includes temp_misc_1, derived from
+https://github.com/sanskrit-lexicon/MWS/issues/136#issuecomment-1185806744
+
+
+---------------------------------------------------------------------------
+# search for unknown ls abbreviations
+-- option 1:  missing period at end of ls abbrev
+python ls_unknown.py 1 temp_mw_5.txt temp_tooltip.txt temp_ls_unknown_1.txt
+60 cases written to temp_ls_unknown_1.txt
+# insert temp_ls_unknown_1.txt into change_5.txt
+python updateByLine.py temp_mw_4.txt change_5.txt temp_mw_5.txt
+142 change transactions from change_5.txt
+
+-- option 2: no space in ls, and unknown ls abbrev.
+python ls_unknown.py 2 temp_mw_5.txt temp_tooltip.txt ls_unknown_2.txt
+741 tooltips from temp_tooltip.txt
+271 with unknown ls abbreviation
+271 cases written to ls_unknown_2.txt
+118 Records written to ls_unknown_mwauth.txt
+
+
+python ls_unknown.py 2 temp_mw_5.txt temp_tooltip.txt ls_unknown_2.txt ls_unknown_mwauth.txt
+# ls_unknown_2.txt  the instances with unknown ls abbreviations
+# ls_unknown_mwauth.txt to be added to mwath.
+#  edit c:/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/mw/pywork/mwauth/
+#  insert lines from ls_unknown_mwauth.txt at bottom
+# Also  add 'ib.' 'ibidem' to temp_tooltip.txt
+# Now install
+cd /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/mw/pywork/mwauth
+python tooltip.py roman mwauth.txt tooltip.txt
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwauthorities/ls/issue136
+
+cp /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/mw/pywork/mwauth/tooltip.txt temp_tooltip1.txt
+
+python updateByLine.py temp_mw_4.txt change_5.txt temp_mw_5.txt
+186 change transactions from change_5.txt
+
+# rerun with temp_tooltip: should get no examples
+python ls_unknown.py 2 temp_mw_5.txt temp_tooltip1.txt temp_ls_unknown_2.txt temp_ls_unknown_mwauth.txt
+
+-- option 3: manual change of remaining unknown ls abbreviations
+# note use of temp_tooltip1.txt 
+python ls_unknown.py 3 temp_mw_5.txt temp_tooltip1.txt temp_ls_unknown_3.txt
+77 cases written to temp_ls_unknown_3.txt
+# manual correction to temp_ls_unknown_3.txt.
+# insert temp_ls_unknown_3.txt into change_5.txt
+python updateByLine.py temp_mw_4.txt change_5.txt temp_mw_5.txt
+185 cases
+change transactions from change_5.txt
+
+Additional tooltips needed: (27)
+Wilson, Hindu Theatre
+Kāth.
+ŚāntiP.
+Kielhorn, Mahābhāṣya
+Lassen, IA.
+ChandS.
+Jyotirv.
+Gop.
+Śivak.
+Nidān.
+BP.
+Mantram
+VāsiṣṭhalP.
+Vardhamānac
+Sūtrakṛt.
+GārUp.
+ŚulbPariś.
+Krauñca-dvīpa
+HanRāmUp.
+Kath.
+ĀpDh.
+Bañc.
+Manu
+Ind. Ant.
+Pur.
+MWB.
+Śivas.
+Rām.
+
+# Put this list into temp_abbrevlist.txt (manual)
+# construct file of prototype mwauth lines, starting with code at 92.00
+python make_mwauth_entries.py 92.00 temp_abbrevlist.txt temp_mwauth_entries.txt
+28 lines written to temp_mwauth_entries.txt
+# Sample line:
+92.02	Kāth.	Kāth.	ti	<expandNorm><ti>Unknown reference</ti> [Cologne Addition]</expandNorm>
+
+#  edit c:/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/mw/pywork/mwauth/
+#  insert lines from ls_unknown_mwauth.txt at bottom
+# Also  add 'ib.' 'ibidem' to temp_tooltip.txt
+# Now install
+cd /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/mw/pywork/mwauth
+python tooltip.py roman mwauth.txt tooltip.txt
+888 lines written to tooltip.txt
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwauthorities/ls/issue136
+# next version of tooltip: temp_tooltip2.txt
+cp /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/mw/pywork/mwauth/tooltip.txt temp_tooltip2.txt
+
+# rerun with tooltip2
+python ls_unknown.py 3 temp_mw_5.txt temp_tooltip2.txt temp_ls_unknown_3_rev.txt
+0 cases written to temp_ls_unknown_3_rev.txt
+
+--------------------------------------------------------------------------
+ls_abbrev_instances.py
+ Given a list of ls abbreviations, generate a list of instance lines from
+ mw.txt for each instance of each abbreviation.
+We first apply this to the list of abbreviations in temp_tooltip2.txt which
+  are 'unknown' (the list in file abbrevlist_unknown.txt, 147 items).
+python ls_abbrev_instances.py temp_mw_5.txt abbrevlist_unknown.txt temp_tooltip2.txt ls_abbrev_instances_unknown.txt
+
+--------------------------------------------------------------------------
+python ls_abnormal.py temp_mw_5.txt temp_tooltip2.txt temp_abnormal.txt
+680 cases written to temp_abnormal.txt
+# manual edit corrections in temp_abnormal.txt
+# insert revised temp_abnormal.txt into change_5.txt
+python updateByLine.py temp_mw_4.txt change_5.txt temp_mw_5.txt
+734 change transactions from change_5.txt
+
+
+# additions to mwauth:
+python make_mwauth_entries.py 93.00 temp_abbrevlist1.txt temp_mwauth_entries1.txt
+21 Records written to temp_mwauth_entries1.txt
+
+#  edit c:/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/mw/pywork/mwauth/
+#  insert lines from ls_unknown_mwauth.txt at bottom
+# Also  add 'ib.' 'ibidem' to temp_tooltip.txt
+# Now install
+cd /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/mw/pywork/mwauth
+python tooltip.py roman mwauth.txt tooltip.txt
+910 lines written to tooltip.txt
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwauthorities/ls/issue136
+cp /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/mw/pywork/mwauth/tooltip.txt temp_tooltip3.txt
+
+temp_abbrevlist1.txt contains these 22:
+Śak. (Pi.)
+Zachariae, Beiträge
+Kaegi, Der Ṛgveda
+Muir, S. T.
+Kielhorn, Mahābhāṣya
+Ludwig, RV.
+Pat. (K.)
+RV. AnuvAnukr.
+Uttamac.²
+R. (B.)
+R. (B)
+R. [B.]
+YajurV. Parīś.
+R. G.
+AV. Paipp.
+Śak. (Chézy)
+Pañc. B.
+SV.Anukr.
+ĀpastPray.
+AV., SBE.
+Muir's Sanskrit Texts
+ĀpGṛh.
+
+# rerun after changes and tooltip revisions.
+python ls_abnormal.py temp_mw_5.txt temp_tooltip3.txt temp_abnormal1.txt
+188 cases written to temp_abnormal1.txt
+
+# revisions to what are considered 'normal' part of ls references
+# revision 1: allow 'p.' and 'pp.'
+python ls_abnormal.py temp_mw_5.txt temp_tooltip3.txt temp_abnormal1.txt
+101 cases written to temp_abnormal1.txt
+
+# revision 2: also, allow n and note
+python ls_abnormal.py temp_mw_5.txt temp_tooltip3.txt temp_abnormal1.txt
+89 cases written to temp_abnormal1.txt
+
+# revision 3: also, allow a/b.  Example: <ls>Sāh. vi, 212 a/b.</ls> 
+python ls_abnormal.py temp_mw_5.txt temp_tooltip3.txt temp_abnormal1.txt
+58 cases written to temp_abnormal1.txt
+
+python updateByLine.py temp_mw_4.txt change_5.txt temp_mw_5.txt
+743 change transactions from change_5.txt
+
+# revision 4: also, allow 14/v, 14c/v.
+  Example: <L>71033<pc>383,3<k1>caRqIdAsa    <ls>Sāh. iv, 14c/v</ls> 
+python ls_abnormal.py temp_mw_5.txt temp_tooltip3.txt temp_abnormal1.txt
+47 cases written to temp_abnormal1.txt
+
+# revision 5: also, allow 'vol'
+  Example: <ls>Siddh. vol. i, p. 17</ls>
+python ls_abnormal.py temp_mw_5.txt temp_tooltip3.txt temp_abnormal1.txt
+43 cases written to temp_abnormal1.txt
+
+# revision 6: also, allow 'Introd'
+  Example: <ls n="Sūryad.">Introd. 43.</ls> 
+python ls_abnormal.py temp_mw_5.txt temp_tooltip3.txt temp_abnormal1.txt
+39 cases written to temp_abnormal1.txt
+
+There are certain other rare regularities among the 39. But let's stop
+and just keep the list:
+python ls_abnormal.py temp_mw_5.txt temp_tooltip3.txt lsabnormal_5.txt
+
+--------------------------------------------------------------------------
+48 matches for "<ls[^<]* [^<]*[cixlv][.]? [0-9]" in buffer: temp_mw_5.txt
+-- option 5
+   
+python make_change_regex.py 5 temp_mw_5.txt temp_change_regex_5.txt
+48 cases written to temp_change_regex_5.txt
+# manual revision to temp_change_regex_5.txt
+# insert temp_change_regex_5.txt into change_5.txt
+python updateByLine.py temp_mw_4.txt change_5.txt temp_mw_5.txt
+786 change transactions from change_5.txt
+
+<ab>sq.</ab>  only 1 instance
+--------------------------------------------------------------------------
+9 matches for "<ls[^<]*\b[xivlc]+, [xivlc]" in buffer: temp_mw_5.txt
+-- option 5a
+python make_change_regex.py 5a temp_mw_5.txt temp_change_regex_5a.txt
+9 cases written to temp_change_regex_5a.txt
+# manual revision to temp_change_regex_5a.txt
+# insert temp_change_regex_5a.txt into change_5.txt
+python updateByLine.py temp_mw_4.txt change_5.txt temp_mw_5.txt
+794 change transactions from change_5.txt
+
+--------------------------------------------------------------------------
+Miscellaneous notes to self
+<ls n="">  </ls>  ī
+</ls>-<ls n="">
+print change
+369808 old <L>109733<pc>556,1<k1>nirBinna<k2>nir-Binna<h>b<e>
+  h = 2.  not shown in print.
+ 
+----------------
+install of temp_mw_5.txt to check xml
+cp temp_mw_5.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# rerun until
+ #prints 'ok'
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwauthorities/ls/issue136
+
+---------------------------------------------------------------------------
+Push the csl-orig and csl-pywork to Github,
+ (commit 22529fc647d41f22215eebfb55b2cb3c438067e5)
+and update the correspondents at Cologne web site.
+DONE with this batch of corrections.
+
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
 ---------------------------------------------------------------------------
