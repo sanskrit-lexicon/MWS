@@ -801,11 +801,180 @@ cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwauthorities/ls/issue136
 
 ---------------------------------------------------------------------------
 Push the csl-orig and csl-pywork to Github,
- (commit 22529fc647d41f22215eebfb55b2cb3c438067e5)
+ (commit a741782ce4cad4e8dc742419c5950df5cc02154a)
 and update the correspondents at Cologne web site.
 DONE with this batch of corrections.
 
+*************************************************************************
+ Further corrections, continued
+ cp temp_mw_5.txt temp_mw_6.txt
+ touch change_6.txt
+ 
+*************************************************************************
+
 ---------------------------------------------------------------------------
+7 matches for "-[0-9].<info" in buffer: temp_mw_6.txt
+-- option 6
+python make_change_regex.py 6 temp_mw_6.txt temp_change_regex_6.txt
+7 cases written to temp_change_regex_6.txt
+# manual revision to temp_change_regex_6.txt
+# insert temp_change_regex_6.txt into change_6.txt
+python updateByLine.py temp_mw_5.txt change_6.txt temp_mw_6.txt
+14 change transactions from change_6.txt
+
+After changes:
+1. <ls>MBh. vi</ls>, chs. 1-6.<info lex="n"/>
+   under jambUKaRqavinirmARaparvan
+2. <ls>PadmaP., Svargakh. 1-5.</ls>  This also abnormal
+  under <L>211385<pc>1046,3<k1>SakuntalopAKyAna
+
 ---------------------------------------------------------------------------
+112 matches in 109 lines for "  " in buffer: temp_mw_6.txt
+-- option 7a
+ "  " -> " "
+python make_change_regex.py 7a temp_mw_6.txt temp_change_regex_7a.txt
+112 cases written to temp_change_regex_7a.txt
+# insert temp_change_regex_7a.txt into change_6.txt
+python updateByLine.py temp_mw_5.txt change_6.txt temp_mw_6.txt
+123 change transactions from change_6.txt
+
 ---------------------------------------------------------------------------
+10 matches for " ," in buffer: temp_mw_6.txt
+-- option 7b
+ " ," -> ","
+python make_change_regex.py 7b temp_mw_6.txt temp_change_regex_7b.txt
+10 cases written to temp_change_regex_7b.txt
+# manual change:  some of these require other changes
+# e.g.  <ls n="Pāṇ.">v, ,1, 29</ls> => <ls n="Pāṇ.">v, 1, 29</ls>
+# insert temp_change_regex_7b.txt into change_6.txt
+python updateByLine.py temp_mw_5.txt change_6.txt temp_mw_6.txt
+133 change transactions from change_6.txt
+
+---------------------------------------------------------------------------
+9 matches for " ;" in buffer: temp_mw_6.txt
+
+-- option 7d
+ " ." -> "."
+python make_change_regex.py 7d temp_mw_6.txt temp_change_regex_7d.txt
+6 cases written to temp_change_regex_7d.txt
+# manual change - two periods removed. Others within <s>xx</s> unchanged.
+# insert temp_change_regex_7d.txt into change_6.txt
+python updateByLine.py temp_mw_5.txt change_6.txt temp_mw_6.txt
+135 change transactions from change_6.txt
+---------------------------------------------------------------------------
+
+9 matches for " ;" in buffer: temp_mw_6.txt
+
+-- option 7d
+ " ;" -> ";"
+python make_change_regex.py 7d temp_mw_6.txt temp_change_regex_7d.txt
+9 cases written to temp_change_regex_7d.txt
+# manual 
+# insert temp_change_regex_7d.txt into change_6.txt
+python updateByLine.py temp_mw_5.txt change_6.txt temp_mw_6.txt
+144 change transactions from change_6.txt
+---------------------------------------------------------------------------
+
+10 matches for " )" in buffer: temp_mw_6.txt
+
+-- option 7e
+ " )" -> ")"
+python make_change_regex.py 7e temp_mw_6.txt temp_change_regex_7e.txt
+10 cases written to temp_change_regex_7e.txt
+# insert temp_change_regex_7e.txt into change_6.txt
+python updateByLine.py temp_mw_5.txt change_6.txt temp_mw_6.txt
+154 change transactions from change_6.txt
+
+---------------------------------------------------------------------------
+
+3 matches for " >" in buffer: temp_mw_6.txt
+
+-- option 7f
+ " >" -> " "
+python make_change_regex.py 7f temp_mw_6.txt temp_change_regex_7f.txt
+10 cases written to temp_change_regex_7f.txt
+# insert temp_change_regex_7f.txt into change_6.txt
+python updateByLine.py temp_mw_5.txt change_6.txt temp_mw_6.txt
+161 change transactions from change_6.txt
+(Also a few 'misc' changes)
+
+---------------------------------------------------------------------------
+
+10 matches for "<ls n="Unknown" in buffer: temp_mw_6.txt
+
+-- option 7g
+Manually change per https://github.com/sanskrit-lexicon/MWS/issues/136#issuecomment-1191246505
+
+ <L>81877<pc>433,1<k1>tattvaboDa
+   knowledge or understanding of truth, <ls n="Sarvad.">xii, 46</ls>
+   [cf. PWG, and MW tattvaprakASa]
+python make_change_regex.py 7g temp_mw_6.txt temp_change_regex_7g.txt
+10 cases written to temp_change_regex_7g.txt
+# insert temp_change_regex_7g.txt into change_6.txt
+python updateByLine.py temp_mw_5.txt change_6.txt temp_mw_6.txt
+171 change transactions from change_6.txt
+
+----------------------------------------------------------
+temp_tooltip4.txt
+1 new ls : Saṃgīta-darpaṇa added to mwauth an
+#  edit c:/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/mw/pywork/mwauth/
+# Now install
+cd /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/mw/pywork/mwauth
+python tooltip.py roman mwauth.txt tooltip.txt
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwauthorities/ls/issue136
+cp /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/mw/pywork/mwauth/tooltip.txt temp_tooltip4.txt
+
+
+
+---------------------------------------------------------------------------
+install of temp_mw_6.txt to check xml
+cp temp_mw_6.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# rerun until
+ #prints 'ok'
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwauthorities/ls/issue136
+
+---------------------------------------------------------------------------
+Push the csl-orig and csl-pywork to Github,
+ (csl-orig commit 1d017dc7741f3a7ffd1009dd37685d8ed78ef123)
+and update the correspondents at Cologne web site.
+DONE with this second additional batch of corrections.
+
+---------------------------------------------------------------------------
+TODO: some action is taken on the issue #135
+TODO: regenerate 'unknown instances' listing, with the extra 22 Unknown.
+comment: <L>95073.9<pc>490,2<k1>df|a and <L>95074<pc>490,2<k1>dfQa
+have the 'or' markup: <info or="95074,dfQa;95073.9,df|a"/>
+
+---------------------------------------------------------------------------
+Generate
+cd ../../../mwtranscode
+python mw_transcode.py slp1 roman ../mwauthorities/ls/issue136/temp_mw_6.txt ../mwauthorities/ls/issue136/temp_mw_6_iast.txt
+#confirm invertibility:
+python mw_transcode.py roman slp1 ../mwauthorities/ls/issue136/temp_mw_6_iast.txt ../mwauthorities/ls/issue136/temp_mw_6_slp1.txt
+cd ../mwauthorities/ls/issue136/
+diff temp_mw_6.txt temp_mw_6_slp1.txt
+# no difference
+
+> What is the reason for the difference of 21  (in mwauth unknown)
+
+The second group was discovered after the first group; see the list in readme.txt following
+'temp_abbrevlist1.txt contains these 22'
+[temp_mw_6_iast.zip](https://github.com/sanskrit-lexicon/MWS/files/9163019/temp_mw_6_iast.zip)
+
+
+---------------------------------------------------------------------------
+generate instances of unknown ls abbreviations
+# list of unknowns
+grep Unknown temp_tooltip4.txt > abbrevlist_unknown.txt
+# instances
+python ls_abbrev_instances1.py temp_mw_6.txt abbrevlist_unknown.txt temp_tooltip4.txt ls_abbrev_instances_unknown1.txt
+1963 cases written to ls_abbrev_instances_unknown1.txt
+
+# iast instances
+python ls_abbrev_instances1.py temp_mw_6_iast.txt abbrevlist_unknown.txt temp_tooltip4.txt ls_abbrev_instances_unknown1_iast.txt
+1963 cases written to ls_abbrev_instances_unknown1_iast.txt
 ---------------------------------------------------------------------------

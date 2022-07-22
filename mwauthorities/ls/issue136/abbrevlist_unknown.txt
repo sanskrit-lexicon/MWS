@@ -1,147 +1,170 @@
-AAnukr.
-AitrAnukr.
-Aparāj.
-BP.
-Bañc.
-Bc.
-Bhart.
-Bhav.
-Bhavab.
-Bhavabh.
-Bhavadev.
-Bhojac.
-Bhāgav.
-Bhāradv.
-Bk.
-Burnell.
-Bālabodh.
-Bṛ.
-BṛhaddhP.
-Bṛhas.
-Bṛhasp.
-BṛĀr.
-Caitany.
-Camp.
-Caur.
-ChandS.
-Cār.
-Damayantīk.
-DharmaP.
-Dhāyabh.
-Div.
-Divyâs.
-Durgād.
-Dāy.
-Garg.
-Gauḍap.
-Gaṅgêś.
-Gaṇ.
-Gop.
-Govardh.
-GārUp.
-HPar.
-HYogay.
-Halāy.
-HanRāmUp.
-HaṉsUp.
-Ind. Ant.
-Jam.
-Jyotirv.
-Jīvad.
-Karmavip.
-Kath.
-Kautuk.
-Kavikalpadr.
-Kielhorn, Mahābhāṣya
-Kop.
-Krauñca-dvīpa
-Kriṭṭanim.
-Kulasadbh.
-Kālam.
-KālikāP.
-Kāp.
-Kāth.
-KātyDh.
-Kāvy.
-Kṛṣṇaj.
-Kṛṣṇakarṇ.
-Lassen, IA.
-MWB.
-Mahāv.
-Mantram
-Manu
-Maṇḍ.
-Medhāt.
-MnGṛh.
-Muhūrtam.
-Mādh.
-Naith.
-Nastar.
-Nidān.
-NādapUp.
-Nītir.
-PS.
-Paddh.
-Pallcat.
-Par.
-Pariś.
-Parvad.
-Pañcav.
-PhP.
-Pras.
-Prasamar.
-Prauḍh.
-Praśnôt.
-Pur.
-PurS.
-Pālār.
-Pār.
-Pārv.
-RLM.
-Rasav.
-Ratim.
-Rudraj.
-Rājan.
-Rājyat.
-Rām.
-RāmRās.
-Saddh.
-SaṃjUp.
-Smṛtyarth.
-Sud.
-SvayambhūP.
-Sûktik.
-SāmarBr.
-Sārasam.
-Sāṃkhyas.
-Sūtrakṛt.
-Tantr.
-Tattvak.
-Utp.
-VB.
-VBṛS.
-VCāṇ.
-VYogay.
-Vaidyav.
-Vardhamānac
-VaṛB-S.
-Vedântak.
-Vivād.
-Viśv.
-Vratar.
-VāsiṣṭhalP.
-Vṛttaratn.
-Wilson, Hindu Theatre
-Yogaś.
-ĀdityaP.
-ĀpDh.
-ŚB.
-Śivak.
-Śivarātrivr.
-Śivas.
-Śrāddhat.
-ŚulbPariś.
-Śāntaś.
-ŚāntiP.
-ŚāṅgS.
-Śāṅkh.
+90.01	AAnukr.	Unknown reference [Cologne Addition]	Title
+90.02	AitrAnukr.	Unknown reference [Cologne Addition]	Title
+90.03	Aparāj.	Unknown reference [Cologne Addition]	Title
+90.04	Bc.	Unknown reference [Cologne Addition]	Title
+90.05	Bhart.	Unknown reference [Cologne Addition]	Title
+90.06	Bhav.	Unknown reference [Cologne Addition]	Title
+90.07	Bhavab.	Unknown reference [Cologne Addition]	Title
+90.08	Bhavabh.	Unknown reference [Cologne Addition]	Title
+90.09	Bhavadev.	Unknown reference [Cologne Addition]	Title
+90.10	Bhojac.	Unknown reference [Cologne Addition]	Title
+90.11	Bhāgav.	Unknown reference [Cologne Addition]	Title
+90.12	Bhāradv.	Unknown reference [Cologne Addition]	Title
+90.13	Bk.	Unknown reference [Cologne Addition]	Title
+90.14	Burnell.	Unknown reference [Cologne Addition]	Title
+90.15	Bālabodh.	Unknown reference [Cologne Addition]	Title
+90.16	Bṛ.	Unknown reference [Cologne Addition]	Title
+90.17	BṛhaddhP.	Unknown reference [Cologne Addition]	Title
+90.18	Bṛhas.	Unknown reference [Cologne Addition]	Title
+90.19	Bṛhasp.	Unknown reference [Cologne Addition]	Title
+90.20	BṛĀr.	Unknown reference [Cologne Addition]	Title
+90.21	Caitany.	Unknown reference [Cologne Addition]	Title
+90.22	Camp.	Unknown reference [Cologne Addition]	Title
+90.23	Caur.	Unknown reference [Cologne Addition]	Title
+90.24	Cār.	Unknown reference [Cologne Addition]	Title
+90.25	Damayantīk.	Unknown reference [Cologne Addition]	Title
+90.26	DharmaP.	Unknown reference [Cologne Addition]	Title
+90.27	Dhāyabh.	Unknown reference [Cologne Addition]	Title
+90.28	Div.	Unknown reference [Cologne Addition]	Title
+90.29	Divyâs.	Unknown reference [Cologne Addition]	Title
+90.30	Durgād.	Unknown reference [Cologne Addition]	Title
+90.31	Dāy.	Unknown reference [Cologne Addition]	Title
+90.32	Garg.	Unknown reference [Cologne Addition]	Title
+90.33	Gauḍap.	Unknown reference [Cologne Addition]	Title
+90.34	Gaṅgêś.	Unknown reference [Cologne Addition]	Title
+90.35	Gaṇ.	Unknown reference [Cologne Addition]	Title
+90.36	Govardh.	Unknown reference [Cologne Addition]	Title
+90.37	Halāy.	Unknown reference [Cologne Addition]	Title
+90.38	HaṉsUp.	Unknown reference [Cologne Addition]	Title
+90.39	HPar.	Unknown reference [Cologne Addition]	Title
+90.40	HYogay.	Unknown reference [Cologne Addition]	Title
+90.41	Jam.	Unknown reference [Cologne Addition]	Title
+90.42	Jīvad.	Unknown reference [Cologne Addition]	Title
+90.43	Karmavip.	Unknown reference [Cologne Addition]	Title
+90.44	Kautuk.	Unknown reference [Cologne Addition]	Title
+90.45	Kavikalpadr.	Unknown reference [Cologne Addition]	Title
+90.46	Kop.	Unknown reference [Cologne Addition]	Title
+90.47	Kriṭṭanim.	Unknown reference [Cologne Addition]	Title
+90.48	Kulasadbh.	Unknown reference [Cologne Addition]	Title
+90.49	Kālam.	Unknown reference [Cologne Addition]	Title
+90.50	KālikāP.	Unknown reference [Cologne Addition]	Title
+90.51	Kāp.	Unknown reference [Cologne Addition]	Title
+90.52	KātyDh.	Unknown reference [Cologne Addition]	Title
+90.53	Kāvy.	Unknown reference [Cologne Addition]	Title
+90.54	Kṛṣṇaj.	Unknown reference [Cologne Addition]	Title
+90.55	Kṛṣṇakarṇ.	Unknown reference [Cologne Addition]	Title
+90.56	Mahāv.	Unknown reference [Cologne Addition]	Title
+90.57	Medhāt.	Unknown reference [Cologne Addition]	Title
+90.58	MnGṛh.	Unknown reference [Cologne Addition]	Title
+90.59	Muhūrtam.	Unknown reference [Cologne Addition]	Title
+90.60	Mādh.	Unknown reference [Cologne Addition]	Title
+90.61	Naith.	Unknown reference [Cologne Addition]	Title
+90.62	Nastar.	Unknown reference [Cologne Addition]	Title
+90.63	NādapUp.	Unknown reference [Cologne Addition]	Title
+90.64	Nītir.	Unknown reference [Cologne Addition]	Title
+90.65	Paddh.	Unknown reference [Cologne Addition]	Title
+90.66	Pallcat.	Unknown reference [Cologne Addition]	Title
+90.67	Par.	Unknown reference [Cologne Addition]	Title
+90.68	Pariś.	Unknown reference [Cologne Addition]	Title
+90.69	Parvad.	Unknown reference [Cologne Addition]	Title
+90.70	Pañcav.	Unknown reference [Cologne Addition]	Title
+90.71	PhP.	Unknown reference [Cologne Addition]	Title
+90.72	Pras.	Unknown reference [Cologne Addition]	Title
+90.73	Prasamar.	Unknown reference [Cologne Addition]	Title
+90.74	Prauḍh.	Unknown reference [Cologne Addition]	Title
+90.75	Praśnôt.	Unknown reference [Cologne Addition]	Title
+90.76	PS.	Unknown reference [Cologne Addition]	Title
+90.77	PurS.	Unknown reference [Cologne Addition]	Title
+90.78	Pālār.	Unknown reference [Cologne Addition]	Title
+90.79	Pār.	Unknown reference [Cologne Addition]	Title
+90.80	Pārv.	Unknown reference [Cologne Addition]	Title
+90.81	Rasav.	Unknown reference [Cologne Addition]	Title
+90.82	Ratim.	Unknown reference [Cologne Addition]	Title
+90.83	RLM.	Unknown reference [Cologne Addition]	Title
+90.84	Rudraj.	Unknown reference [Cologne Addition]	Title
+90.85	Rājan.	Unknown reference [Cologne Addition]	Title
+90.86	Rājyat.	Unknown reference [Cologne Addition]	Title
+90.87	RāmRās.	Unknown reference [Cologne Addition]	Title
+90.88	Saddh.	Unknown reference [Cologne Addition]	Title
+90.89	SaṃjUp.	Unknown reference [Cologne Addition]	Title
+90.90	Smṛtyarth.	Unknown reference [Cologne Addition]	Title
+90.91	Sud.	Unknown reference [Cologne Addition]	Title
+90.92	SvayambhūP.	Unknown reference [Cologne Addition]	Title
+90.93	Sûktik.	Unknown reference [Cologne Addition]	Title
+90.94	SāmarBr.	Unknown reference [Cologne Addition]	Title
+90.95	Sārasam.	Unknown reference [Cologne Addition]	Title
+90.96	Sāṃkhyas.	Unknown reference [Cologne Addition]	Title
+90.97	Tantr.	Unknown reference [Cologne Addition]	Title
+90.98	Tattvak.	Unknown reference [Cologne Addition]	Title
+90.99	Utp.	Unknown reference [Cologne Addition]	Title
+91.00	Vaidyav.	Unknown reference [Cologne Addition]	Title
+91.01	VaṛB-S.	Unknown reference [Cologne Addition]	Title
+91.02	VB.	Unknown reference [Cologne Addition]	Title
+91.03	VBṛS.	Unknown reference [Cologne Addition]	Title
+91.04	VCāṇ.	Unknown reference [Cologne Addition]	Title
+91.05	Vedântak.	Unknown reference [Cologne Addition]	Title
+91.06	Vivād.	Unknown reference [Cologne Addition]	Title
+91.07	Viśv.	Unknown reference [Cologne Addition]	Title
+91.08	Vratar.	Unknown reference [Cologne Addition]	Title
+91.09	VYogay.	Unknown reference [Cologne Addition]	Title
+91.10	Vṛttaratn.	Unknown reference [Cologne Addition]	Title
+91.11	Yogaś.	Unknown reference [Cologne Addition]	Title
+91.12	ĀdityaP.	Unknown reference [Cologne Addition]	Title
+91.13	ŚB.	Unknown reference [Cologne Addition]	Title
+91.14	Śivarātrivr.	Unknown reference [Cologne Addition]	Title
+91.15	Śrāddhat.	Unknown reference [Cologne Addition]	Title
+91.16	Śāntaś.	Unknown reference [Cologne Addition]	Title
+91.17	ŚāṅgS.	Unknown reference [Cologne Addition]	Title
+91.18	Śāṅkh.	Unknown reference [Cologne Addition]	Title
+92.01	Wilson, Hindu Theatre	Unknown reference [Cologne Addition]	Title
+92.02	Kāth.	Unknown reference [Cologne Addition]	Title
+92.03	ŚāntiP.	Unknown reference [Cologne Addition]	Title
+92.04	Kielhorn, Mahābhāṣya	Unknown reference [Cologne Addition]	Title
+92.05	Lassen, IA.	Unknown reference [Cologne Addition]	Title
+92.06	ChandS.	Unknown reference [Cologne Addition]	Title
+92.07	Jyotirv.	Unknown reference [Cologne Addition]	Title
+92.08	Gop.	Unknown reference [Cologne Addition]	Title
+92.09	Śivak.	Unknown reference [Cologne Addition]	Title
+92.10	Nidān.	Unknown reference [Cologne Addition]	Title
+92.11	BP.	Unknown reference [Cologne Addition]	Title
+92.12	Mantram	Unknown reference [Cologne Addition]	Title
+92.13	VāsiṣṭhalP.	Unknown reference [Cologne Addition]	Title
+92.14	Vardhamānac	Unknown reference [Cologne Addition]	Title
+92.15	Sūtrakṛt.	Unknown reference [Cologne Addition]	Title
+92.16	GārUp.	Unknown reference [Cologne Addition]	Title
+92.17	ŚulbPariś.	Unknown reference [Cologne Addition]	Title
+92.18	Krauñca-dvīpa	Unknown reference [Cologne Addition]	Title
+92.19	HanRāmUp.	Unknown reference [Cologne Addition]	Title
+92.20	Kath.	Unknown reference [Cologne Addition]	Title
+92.21	ĀpDh.	Unknown reference [Cologne Addition]	Title
+92.22	Bañc.	Unknown reference [Cologne Addition]	Title
+92.23	Manu	Unknown reference [Cologne Addition]	Title
+92.24	Ind. Ant.	Unknown reference [Cologne Addition]	Title
+92.25	Pur.	Unknown reference [Cologne Addition]	Title
+92.26	MWB.	Unknown reference [Cologne Addition]	Title
+92.27	Śivas.	Unknown reference [Cologne Addition]	Title
+92.28	Rām.	Unknown reference [Cologne Addition]	Title
+93.01	Śak. (Pi.)	Unknown reference [Cologne Addition]	Title
+93.02	Zachariae, Beiträge	Unknown reference [Cologne Addition]	Title
+93.03	Kaegi, Der Ṛgveda	Unknown reference [Cologne Addition]	Title
+93.04	Muir, S. T.	Unknown reference [Cologne Addition]	Title
+93.05	Kielhorn, Mahābhāṣya	Unknown reference [Cologne Addition]	Title
+93.06	Ludwig, RV.	Unknown reference [Cologne Addition]	Title
+93.07	Pat. (K.)	Unknown reference [Cologne Addition]	Title
+93.08	RV. AnuvAnukr.	Unknown reference [Cologne Addition]	Title
+93.09	Uttamac.²	Unknown reference [Cologne Addition]	Title
+93.10	R. (B.)	Unknown reference [Cologne Addition]	Title
+93.11	R. (B)	Unknown reference [Cologne Addition]	Title
+93.12	R. [B.]	Unknown reference [Cologne Addition]	Title
+93.13	YajurV. Parīś.	Unknown reference [Cologne Addition]	Title
+93.14	R. G.	Unknown reference [Cologne Addition]	Title
+93.15	AV. Paipp.	Unknown reference [Cologne Addition]	Title
+93.16	Śak. (Chézy)	Unknown reference [Cologne Addition]	Title
+93.17	Pañc. B.	Unknown reference [Cologne Addition]	Title
+93.18	SV.Anukr.	Unknown reference [Cologne Addition]	Title
+93.19	ĀpastPray.	Unknown reference [Cologne Addition]	Title
+93.20	AV., SBE.	Unknown reference [Cologne Addition]	Title
+93.21	Muir's Sanskrit Texts	Unknown reference [Cologne Addition]	Title
+93.22	ĀpGṛh.	Unknown reference [Cologne Addition]	Title
+93.23	Saṃgīta-darpaṇa	Unknown reference [Cologne Addition]	Title
+99.99	Unknown	Unknown reference [Cologne Addition]	Title
