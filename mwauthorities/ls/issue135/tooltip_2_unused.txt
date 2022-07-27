@@ -1,0 +1,51 @@
+00000	01:04 :: Ādi-p. :: Ādi-parvan of the Mahābhārata :: subtitle
+00000	01:12 :: Alaṃkāras.2 :: 2 Alaṃkārasarvasva, by Maṅkhaka :: Title
+00000	01:44 :: ĀtmUp. :: Ātma-upaniṣadkhaṇḍa 3 :: subtitle
+00000	01:49 :: Bādar.,Sch.. :: Śaṃkara's Śārīraka-mīmāṃsā on Bādarāyaṇa's Brahma-sūtras :: Title
+00000	02:22 :: BrahmavUp. :: Brahmavidyā-upaniṣad :: Title
+00000	02:41 :: Damayantī-kathā. :: Nalacampū :: Title
+00000	02:41a :: Damayantī-k. :: Damayantī-kathā, Nalacampū :: Title
+00000	02:47 :: Devatādhyāya. :: Daivata-brāhmaṇa :: Title
+00000	03:05 :: GarUp. :: Garuḍa-upaniṣad :: Title
+00000	03:09 :: GayāMāh. :: Gayā-māhātmya :: Title
+00000	03:22 :: HaṃsUp. :: Haṃsa-upaniṣad :: Title
+00000	03:61 :: KaṇṭhUp. :: Kaṇṭhaśruti-upaniṣad :: Title
+00000	04:03 :: Kāraṇḍ.2. :: metrical recension of the text Kāraṇḍa-vyūha :: Title
+00000	04:28 :: Kayy. :: Kayyaṭa :: Author
+00000	04:31 :: Khaṇḍapr. :: Khaṇḍapraśasti :: Title
+00000	04:37 :: Kriyāy. :: Kriyāyoga-sāra in the Padma-purāṇa :: subtitle
+00000	04:51 :: Laṅkāvat. :: Laṅkāvatāra-sūtra :: Title
+00000	04:59 :: MāghaMāh. :: Māgha-māhātmya in the Padma-purāṇa :: subtitle
+00000	04:61 :: MahānārāyaṇaUp.. :: Mahānārāyaṇa-upaniṣad see Nārāyaṇa-upaniṣad :: Title
+00000	05:11 :: MānS. :: Mānavīya-samhitā of the Saura-purāṇa :: subtitle
+00000	05:14 :: MāṇḍUpGauḍ. :: Māṇḍūkya-upaniṣad, Gauḍapāda's Kārikā :: Title
+00000	05:20 :: MathMāh. :: Mathurā-māhātmya :: Title
+00000	05:24 :: Megh.*. :: Meghadūta, 15 additional verses :: Title
+00000	05:48 :: Nid,Sch.. :: Nidāna,Sch.i.e.Vācaspati's Comm. :: Title
+00000	05:52 :: NīlP. :: Nīlamata-purāṇa :: Title
+00000	06:05 :: Pañcad.2. :: Pañcadaṇḍacchattra-prabandha, metrical recension :: Title
+00000	06:06 :: Pañcadaśī, see Bhpañcad. :: Bhāratītīrtha's Pañcadaśī :: Title
+00000	06:15 :: Paraśur. :: Paraśurāma-prakāśa :: Title
+00000	06:22 :: PiṇḍUp. :: Piṇḍa-upaniṣad :: Title
+00000	06:26 :: Pradyumn. :: Pradyumna-vijaya :: Title
+00000	06:27 :: Prah. :: Prahasana-nāṭaka :: Title
+00000	06:28 :: Prajāp. :: Prajāpati-dharma-sūtra :: Title
+00000	06:29 :: PrāṇUp. :: Prāṇāgnihotra-upaniṣad :: Title
+00000	07:07 :: RāmUp. :: Rāma-upaniṣad :: Title
+00000	07:14 :: Ratir. :: Ratirahasya :: Title
+00000	07:24 :: Śabdak. :: Śabdakalpa-druma :: Title
+00000	08:11 :: Sarasv.2. :: Sarasvatī-kaṇṭhābharaṇa, by Kṣemendra :: Title
+00000	08:19 :: SauraP. :: Saura-purāṇa :: Title
+00000	08:30 :: Siṃhās.2. :: Siṃhāsana-dvātriṃśikā, metrical recension of the Ind. Off., E.I.H.2897 :: Title
+00000	08:31 :: Siṃhās.3. :: Siṃhāsana-dvātriṃśikā, recension of E.I.H.2523 :: Title
+00000	09:31 :: Tīrtha-yātrā. :: Tīrtha-yātrā see Smṛtitattva under Smṛtit :: subtitle
+00000	09:35 :: Uṇ,Sch.. :: Uṇādi-sūtra,Sch.i.e.Ujjvaladatta :: Author
+00000	09:39 :: Upap. :: Upapurāṇa :: Literary category
+00000	10:36 :: Yājñ.,Sch. :: Vijñāneśvara's Mitākṣarā, commentary on Yājñavalkya's Dharma-śāstra :: Title
+00000	11:16 :: Śiva. :: ŚivaSūtra [Cologne Addition] :: Title
+00000	12:16 :: Ind.Ant. :: Indian Antiquary [Cologne Addition] :: Title
+00000	12:23 :: Zachariae :: Theodor Zachariae,  Die indischen Wörterbücher [Cologne Addition] :: Author
+00000	12:25 :: Bn. :: ? [Cologne Addition] :: Author
+00000	12:26 :: Boehtlingk :: Otto von Böhtlingk [Cologne Addition] :: Author
+00000	12:31 :: Kaegi :: Adolf Kaegi [Cologne Addition] :: Author
+00000	12:43 :: Wh. :: Whitney, W. D. (1872). [Cologne Addition] :: Author
