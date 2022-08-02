@@ -1,5 +1,5 @@
 #-*- coding:utf-8 -*-
-"""ls_unknown.py
+"""ls_abnormal.py
 """
 import sys,re,codecs
 ## https:##stackoverflow.com/questions/27092833/unicodeencodeerror-charmap-codec-cant-encode-characters
@@ -9,9 +9,8 @@ import sys,re,codecs
 
 sys.stdout.reconfigure(encoding='utf-8') 
 class Tooltip(object):
- def __init__(self,line):
+ def __init__(self,line): 
   line = line.rstrip('\r\n')
-  self.line = line
   # pwg has code, abbrevUpper, abbrevLower,tip
   try:
    self.code,self.abbrev,self.tipmain,self.tipcat = line.split('\t')
@@ -21,10 +20,7 @@ class Tooltip(object):
    exit(1)
   self.total = 0
   self.tip = '%s (%s)' %(self.tipmain,self.tipcat)
-  if self.abbrev == '':
-   print('Tooltip error:',line)
-   exit(1)
-   
+  
 def init_tooltip(filein):
  with codecs.open(filein,"r","utf-8") as f:
   ans = [Tooltip(x) for x in f]
@@ -53,7 +49,56 @@ class Case(object):
   self.line = line
   self.match = match  
   self.newline = newline
-  
+
+def lsnormal(lselt,abbrev):
+ ls0 = lselt
+ if not ls0.startswith(abbrev):
+  print('lsnormal problem: lselt = %s, abbrev = %s' %(lselt,abbrev))
+  exit(1)
+ if re.search(r'^Śak. [0-9]+ [a-d]\.?$',lselt):
+  return True
+ if ls0 == abbrev:
+  return True  #<ls>MBh.</ls>
+ ls = ls0[len(abbrev):] # strip the abbreviation
+ # remove ending f., ff.
+ ls = re.sub(r' ff?\.$','',ls)
+ # remove ' n. d' (27 matches for "<ls[^<]* n\. [0-9]+\."
+ ls = re.sub(r' n\. [0-9]+\.?','',ls)
+ ls = re.sub(r' note [0-9]+\.?','',ls)
+ 
+ # remove periods and commas
+ ls = re.sub(r'[.,]','',ls)
+ # remove spaces at end
+ ls = ls.strip()
+ # split on space
+ words = ls.split(' ')
+ # check each word to have typical form
+ flag = True
+ for word in words:
+  if re.search(r'^[0-9]+$',word):
+   continue # known form
+  if re.search(r'^[ivxlc]+$',word):
+   continue # known form
+  if re.search(r'^[0-9]+/[0-9]+$',word):
+   continue # known form
+  if word in ['p','pp']: # revision 1
+   # RTL. pp. 77 periods were removed above.
+   continue # known form
+  if word in ['n','note']: #revision 2
+   continue # known form
+  if word in ['a/b']: #revision 3
+   continue # known form
+  if word in ['14/v','14c/v']: # revision 4
+   continue # known form   
+  if word in ['vol']: # revision 5
+   continue # known form   
+  if word in ['Introd']: # revision 6
+   continue # known form   
+  # unexpected form
+  flag = False
+  break
+ return flag
+
 def init_cases(lines,tipd):
  cases = []
  metaline = None
@@ -96,14 +141,19 @@ def init_cases(lines,tipd):
    else:
     tiplist = tipd[elt[0]]
     tip  = findtip(elt,tiplist)
-   if tip != None:
-    # this program only interested in UNKNOWN tip abbreviations.
-    # Unless tip in None, we have no further interest in this ls.
+   if tip == None:
+    #  we don't expect this to occur
+    print('%s UNKNOWN ABBREV: %s' %(metaline,lstxt))
     continue
-   newline = line
+   abbrev = tip.abbrev
+   flag = lsnormal(elt,abbrev)
+   if flag:
+    continue
+   #newtxt = '**<ls>%s</ls>' % eltnew
+   newline = line.replace(lstxt,'**'+lstxt)
    cases.append(Case(metaline,iline,line,lstxt,newline))
 
- print(len(cases),'with unknown ls abbreviation')
+ print(len(cases),'abnormal ls cases')
  return cases
 
 def write_cases(fileout,cases):
@@ -114,18 +164,12 @@ def write_cases(fileout,cases):
  outrecs = []
  prevmatch = None
  # section title
- outarr = []
- outarr.append('; ======================================================')
- outarr.append('; missing tooltips')
- outarr.append('; ======================================================')
- outrecs.append(outarr)
  for case in cases:
    outarr = []
    n = n + 1
    metaline = re.sub(r'<k2>.*$','',case.metaline)
    outarr.append('; %s' % metaline)
-   outarr.append('; unknown ls: %s' % case.match)
-   #outrecs.append(outarr)
+   outarr.append('; %s ' % case.match)
    iline = case.iline
    lnum = iline + 1
    line = case.line
@@ -135,7 +179,12 @@ def write_cases(fileout,cases):
    outarr.append('%s old %s' %(lnum,line))
    nchg = nchg + 1
    newline = case.newline
+   outarr.append(';')
+   outarr.append('%s new %s' %(lnum,newline))
+   outarr.append(r'; -------------------------------------------------------')
    outrecs.append(outarr)
+   previline = iline
+   prevline = newline
 
  with codecs.open(fileout,"w","utf-8") as f:
   for outarr in outrecs:
@@ -143,7 +192,32 @@ def write_cases(fileout,cases):
     f.write(out+'\n')
  print(len(cases),'cases written to',fileout)
 
+def write_mwauth(fileout,cases):
+ """ write records in format of mwauth
+ """
+ cases = sorted(cases, key = lambda case: case.match.lower())
+ outarr = []
+ prevcode = 90.00
+ prevabbrev = None
+ inewcase = 0
 
+ for case in cases:
+  abbrev = case.match[4:-5]
+  if abbrev == prevabbrev:
+   continue
+  prevabbrev= abbrev
+  curcode = prevcode + 0.01
+  prevcode = curcode
+  a = abbrev
+  atype = 'ti'
+  tip = '<expandNorm><ti>Unknown reference</ti> [Cologne Addition]</expandNorm>'
+  out = '%5.2f\t%s\t%s\t%s\t%s' %(prevcode,a,a,atype,tip)
+  outarr.append(out)
+ with codecs.open(fileout,"w","utf-8") as f:
+  for out in outarr:
+    f.write(out+'\n')
+ print(len(outarr),'Records written to',fileout)
+ 
 if __name__=="__main__":
  filein = sys.argv[1] #  xxx.txt (path to digitization of xxx)
  filetip = sys.argv[2] # tooltips

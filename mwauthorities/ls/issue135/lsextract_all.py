@@ -87,7 +87,9 @@ def count_tips(lines,tipd,numbertip,unknowntip):
   if line.startswith('[Page'):
    page = line
    continue
-  for m in re.finditer(r'<ls([^>]*)>([^<]*)</ls>',line):
+  #for m in re.finditer(r'<ls([^>]*)>([^<]*)</ls>',line):
+  # allow abbreviations within <ls>
+  for m in re.finditer(r'<ls([^>]*)>(.*?)</ls>',line):
    attrib = m.group(1)
    elt = m.group(2)
    if len(elt) == 0:
