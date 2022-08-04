@@ -1467,4 +1467,144 @@ Remaining unresolved ls tooltips
 90.83	RLM.	Unknown reference [Cologne Addition]	Title
 
 *********************************************************************
+Begin change_4
+Note: There is no 'change_3'.
+touch change_4.txt
+cp temp_mw_3.txt temp_mw_4.txt
+cp temp_tooltip_4.txt temp_tooltip_5.txt
+
+*********************************************************************
+corrections to tooltip_5:
+OLD
+90.54	Kṛṣṇaj.	Weber's Kṛṣṇajanma ?? [Cologne Addition]	Title
+12:21	Beames	? [Cologne Addition]	Author
+12:22	Hunter	? [Cologne Addition]	Author
+NEW
+90.54	Kṛṣṇaj.	Über die Kṛishṇajanmâshṭamî (Kṛishṇa's Geburtsfest), 1867, by Albrecht Weber (English translation: 1874) [Cologne Addition]	Title
+12:21	Beames	John Beames (1837-1902), English civil servant and linguistics scholar [Cologne Addition]	Author
+12:22	Hunter	William Wilson Hunter (1840-1900)  [Cologne Addition]	Author
+
+OLD:
+93.38	BhP. (B.)	Bhāgavata-purāṇa, by Eugène Burnouf, 1844 [Cologne Addition]	Title
+93.38a	BhP. (B)	Bhāgavata-purāṇa, by Eugène Burnouf, 1844 [Cologne Addition]	Title
+NEW:
+93.38	BhP. (B.)	Bhāgavata-purāṇa, Bombay edition [Cologne Addition]	Title
+93.38a	BhP. (B)	Bhāgavata-purāṇa, Bombay edition [Cologne Addition]	Title
+------------------------------------------------------------
+addition to change_4.txt
+; <L>128945<pc>648,2<k1>petva
+434344 old ¦ a small part, W<info lex="inh"/>
+434344 new ¦ a small part, <ls>W.</ls><info lex="inh"/>
+
+; <L>204509<pc>1010,1<k1>vftti   print change
+683321 old ¦ wages, hire, <ls>Pañcar.</ls><info lex="inh"/>
+683321 new ¦ wages, hire, <ls>Pañcat.</ls><info lex="inh"/>
+
+; <L>75248<pc>403,2<k1>cOli
+255424 old <s>cOli</s> ¦ <lex>m.</lex> = <s>cOqi</s>, <ls n="Pravar.">vi, 1</ls> (<s>°lakAyana</s> <ab n="Boehtlingk text of Pravarādhyāya OR Bharadvāja gotra? ">B</ab>, <s>°lika</s> <ab n="Viśvāmitra gotra ?">V</ab>). <info lex="m"/>
+255424 new <s>cOli</s> ¦ <lex>m.</lex> = <s>cOqi</s>, <ls n="Pravar.">vi, 1</ls> (<s>°lakAyana</s> <ab n="Boehtlingk text of Pravarādhyāya">B</ab>, <s>°lika</s> <ab n="Vaśiṣṭha gotra">V</ab>). <info lex="m"/>
+-------------------------------
+Ref: https://github.com/sanskrit-lexicon/MWS/issues/135#issuecomment-1204935174
+change to temp_tooltip_5
+OLD
+11:42	TaṇḍināmUp.	NONE	Title
+11:42	TāṇḍBr.	TāṇḍyaBrāhmaṇa [Cologne Addition]	Title
+
+
+; <L>83755<pc>441,3<k1>tARqin
+; TaṇḍināmUp. -> TāṇḍBr.  print change
+283195 old ¦ <ab>pl.</ab> (<ls>Pravar. ii, 2, 2</ls>) <ab>N.</ab> of a school of the <ls>SV.</ls> (founded by a pupil of <s1 slp1="vESampAyana">Vaiśampāyana</s1>, <ls>Pāṇ. iv, 3, 104</ls>, <ls>Kāś.</ls>; <ab>cf.</ab> <ls n="Pāṇ. iv,">2, 66</ls>, <ls>Kāś.</ls>) <ab>Sch.</ab> on <ls>Bādar. iii, 3, 24</ls>-<ls n="Bādar. iii, 3,">28</ls> and (<ls>TaṇḍināmUp.</ls> = <ls>ChUp.</ls>), <ls n="Bādar. iii, 3,">36.</ls><info lex="inh"/>
+283195 new ¦ <ab>pl.</ab> (<ls>Pravar. ii, 2, 2</ls>) <ab>N.</ab> of a school of the <ls>SV.</ls> (founded by a pupil of <s1 slp1="vESampAyana">Vaiśampāyana</s1>, <ls>Pāṇ. iv, 3, 104</ls>, <ls>Kāś.</ls>; <ab>cf.</ab> <ls n="Pāṇ. iv,">2, 66</ls>, <ls>Kāś.</ls>) <ab>Sch.</ab> on <ls>Bādar. iii, 3, 24</ls>-<ls n="Bādar. iii, 3,">28</ls> and (<ls>TāṇḍBr.</ls> = <ls>ChUp.</ls>), <ls n="Bādar. iii, 3,">36.</ls><info lex="inh"/>
+
+--------------------------------
+Ref: https://github.com/sanskrit-lexicon/MWS/issues/135#issuecomment-1204952191
+ tooltip_5:
+Delete
+11:43	TśUp.	NONE	Title
+Assume print error, in place of
+03:38	ĪśUp.	Īśa-upaniṣad	Title
+
+mw.txt change
+; <L>94911<pc>489,2<k1>dUre
+; TśUp. -> ĪśUp.  print change
+319870 old <s>dUre/</s> <hom>a</hom> ¦ <lex>ind.</lex> (<ls>Pāṇ. ii, 3, 36</ls>, <ls>Kāś.</ls>) in a distant place, far, far away, <ls>RV. i, 24, 9</ls>; <ls n="RV.">iv, 4, 3</ls> (<ab>opp.</ab> <s>a/nti</s>) &c., <ls>AV.</ls>; <ls>ŚBr.</ls>; <ls>TśUp. 5</ls> (<ab>opp.</ab> <s>antike</s>), <ls>Mn.</ls>; <ls>MBh.</ls> &c.<info lex="ind"/>
+;
+319870 old <s>dUre/</s> <hom>a</hom> ¦ <lex>ind.</lex> (<ls>Pāṇ. ii, 3, 36</ls>, <ls>Kāś.</ls>) in a distant place, far, far away, <ls>RV. i, 24, 9</ls>; <ls n="RV.">iv, 4, 3</ls> (<ab>opp.</ab> <s>a/nti</s>) &c., <ls>AV.</ls>; <ls>ŚBr.</ls>; <ls>ĪśUp. 5</ls> (<ab>opp.</ab> <s>antike</s>), <ls>Mn.</ls>; <ls>MBh.</ls> &c.<info lex="ind"/>
+;
+----------------------------------
+tooltip_5 change
+OLD
+11:49	Vallabh.	NONE	Author
+NEW
+11:49	Vallabh.	Vallabhadeva's Subhāshitāvali	Title
+
+----------------------------------
+6 matches for "Rev\." in buffer: temp_mw_4
+All matches are of form:  <ls>ŚivaP. <ab>Rev.</ab></ls>
+
+# <ls>ŚivaP. <ab>Rev.</ab></ls> -> <ls>SkandaP. Rev.</ls>
+python make_change_regex.py 4a temp_mw_4.txt temp_change_regex_4a.txt
+6 cases written to temp_change_regex_4a.txt
+# insert temp_change_regex_4a.txt into change_4.txt
+python updateByLine.py temp_mw_3.txt change_4.txt temp_mw_4.txt
+11 change transactions from change_4.txt
+
+Document mw_printchange.txt for these 6.
+add ls tooltip
+93.45	SkandaP. Rev.	SkandaPurāṇa Revākhaṇḍa [Cologne Addition]	Title
+
+Notes:
+What are the ls refs in PWG for these 6?
+Answer:  Verz. D. Oxf. H.
+<L>15785<pc>90,2<k1>arjuneSvaratIrTa
+<L>19685<pc>114,1<k1>aSokeSvaratIrTa
+<L>19925.1<pc>115,1<k1>aSvaparRI   
+<L>20083<pc>115,3<k1>aSvAvatI
+<L>21784<pc>125,1<k1>ahalyeSvaratIrTa
+<L>22849<pc>131,2<k1>ANgiraseSvaratIrTa
+
+33 matches in 30 lines for "RevāKh\." in buffer: temp_mw_4.txt
+
+
+The PWG entries for at least some of these mention Śiva-P.
+jayavArAhatIrTa: N. eines Tīrtha Śiva-P.  in Verz. D. Oxf. H. 66,b,4.    
+jaweSvaratIrTa : N. eines Tīrtha Śiva-P.  in Verz. D. Oxf. H. 66,a,30.
+trilocaneSvaratIrTa: N. eines Tīrtha Śiva-P.  in Verz. D. Oxf. H. 66,b,26.
+
+-------------------------------------------
+tooltip resolved:
+90.83	RLM.	Unknown reference [Cologne Addition]	Title
+90.83	RLM.	RājendraLālaMitra's Notices of Sanskrit MSS. ? [Cologne Addition]	Title
+
+=========================================================
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+# install temp_tooltip_5.txt
+cp temp_tooltip_5.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/mw/pywork/mwauth/tooltip.txt
+
+# install of temp_mw_4.txt 
+cp temp_mw_4.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# correct errors
+# rerun until
+ #prints 'ok'
+ 
+-------------------------------------------------------------------------
+Push repositories to Github.
+Ref: https://github.com/sanskrit-lexicon/MWS/issues/135 (change_4)
+ csl-pywork  commit d259f21aeec7327db0fe2f1573780f4ca204404f
+ csl-orig  commit 2eee32f4cf47eab4475c42d49fd47a1f628d3dd5
+ csl-corrections  commit 28e55157eb9f20384c96e06e1365f6dbc61289cf
+and update the correspondents at Cologne web site.
+
+ push this MWS repository to Github.
+
+DONE with this batch of corrections.
+
+End change_4
+
+*********************************************************************
 *********************************************************************

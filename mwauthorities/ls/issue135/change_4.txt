@@ -1,0 +1,70 @@
+; ==================================================================
+; miscellaneous
+; ==================================================================
+; <L>128945<pc>648,2<k1>petva
+434344 old ¦ a small part, W<info lex="inh"/>
+434344 new ¦ a small part, <ls>W.</ls><info lex="inh"/>
+; ------------------------------------------------------------------
+; <L>204509<pc>1010,1<k1>vftti   print change
+683321 old ¦ wages, hire, <ls>Pañcar.</ls><info lex="inh"/>
+683321 new ¦ wages, hire, <ls>Pañcat.</ls><info lex="inh"/>
+; ------------------------------------------------------------------
+; <L>75248<pc>403,2<k1>cOli
+255424 old <s>cOli</s> ¦ <lex>m.</lex> = <s>cOqi</s>, <ls n="Pravar.">vi, 1</ls> (<s>°lakAyana</s> <ab n="Boehtlingk text of Pravarādhyāya OR Bharadvāja gotra? ">B</ab>, <s>°lika</s> <ab n="Viśvāmitra gotra ?">V</ab>). <info lex="m"/>
+255424 new <s>cOli</s> ¦ <lex>m.</lex> = <s>cOqi</s>, <ls n="Pravar.">vi, 1</ls> (<s>°lakAyana</s> <ab n="Boehtlingk text of Pravarādhyāya">B</ab>, <s>°lika</s> <ab n="Vaśiṣṭha gotra">V</ab>). <info lex="m"/>
+; ------------------------------------------------------------------
+; <L>83755<pc>441,3<k1>tARqin
+; TaṇḍināmUp. -> TāṇḍBr.  print change
+283195 old ¦ <ab>pl.</ab> (<ls>Pravar. ii, 2, 2</ls>) <ab>N.</ab> of a school of the <ls>SV.</ls> (founded by a pupil of <s1 slp1="vESampAyana">Vaiśampāyana</s1>, <ls>Pāṇ. iv, 3, 104</ls>, <ls>Kāś.</ls>; <ab>cf.</ab> <ls n="Pāṇ. iv,">2, 66</ls>, <ls>Kāś.</ls>) <ab>Sch.</ab> on <ls>Bādar. iii, 3, 24</ls>-<ls n="Bādar. iii, 3,">28</ls> and (<ls>TaṇḍināmUp.</ls> = <ls>ChUp.</ls>), <ls n="Bādar. iii, 3,">36.</ls><info lex="inh"/>
+;
+283195 new ¦ <ab>pl.</ab> (<ls>Pravar. ii, 2, 2</ls>) <ab>N.</ab> of a school of the <ls>SV.</ls> (founded by a pupil of <s1 slp1="vESampAyana">Vaiśampāyana</s1>, <ls>Pāṇ. iv, 3, 104</ls>, <ls>Kāś.</ls>; <ab>cf.</ab> <ls n="Pāṇ. iv,">2, 66</ls>, <ls>Kāś.</ls>) <ab>Sch.</ab> on <ls>Bādar. iii, 3, 24</ls>-<ls n="Bādar. iii, 3,">28</ls> and (<ls>TāṇḍBr.</ls> = <ls>ChUp.</ls>), <ls n="Bādar. iii, 3,">36.</ls><info lex="inh"/>
+; ------------------------------------------------------------------
+; <L>94911<pc>489,2<k1>dUre
+; TśUp. -> ĪśUp.  print change
+319870 old <s>dUre/</s> <hom>a</hom> ¦ <lex>ind.</lex> (<ls>Pāṇ. ii, 3, 36</ls>, <ls>Kāś.</ls>) in a distant place, far, far away, <ls>RV. i, 24, 9</ls>; <ls n="RV.">iv, 4, 3</ls> (<ab>opp.</ab> <s>a/nti</s>) &c., <ls>AV.</ls>; <ls>ŚBr.</ls>; <ls>TśUp. 5</ls> (<ab>opp.</ab> <s>antike</s>), <ls>Mn.</ls>; <ls>MBh.</ls> &c.<info lex="ind"/>
+;
+319870 new <s>dUre/</s> <hom>a</hom> ¦ <lex>ind.</lex> (<ls>Pāṇ. ii, 3, 36</ls>, <ls>Kāś.</ls>) in a distant place, far, far away, <ls>RV. i, 24, 9</ls>; <ls n="RV.">iv, 4, 3</ls> (<ab>opp.</ab> <s>a/nti</s>) &c., <ls>AV.</ls>; <ls>ŚBr.</ls>; <ls>ĪśUp. 5</ls> (<ab>opp.</ab> <s>antike</s>), <ls>Mn.</ls>; <ls>MBh.</ls> &c.<info lex="ind"/>
+;
+; ======================================================
+; temp_change_regex_4a.txt (6)
+; regex1 = /<ls>ŚivaP. <ab>Rev.</ab></ls>/,  regex2 = /<ls>SkandaP. Rev.</ls>/
+; ======================================================
+; -------------------------------------------------------
+; <L>15785<pc>90,2<k1>arjuneSvaratIrTa
+; <ls>ŚivaP. <ab>Rev.</ab></ls> 
+57258 old <s>arjune<srs/>Svara-tIrTa</s> ¦ <lex>n.</lex> <ab>N.</ab> of a <s1 slp1="tIrTa">Tīrtha</s1>, <ls>ŚivaP. <ab>Rev.</ab></ls><info lex="n"/>
+;
+57258 new <s>arjune<srs/>Svara-tIrTa</s> ¦ <lex>n.</lex> <ab>N.</ab> of a <s1 slp1="tIrTa">Tīrtha</s1>, <ls>SkandaP. Rev.</ls><info lex="n"/>
+; -------------------------------------------------------
+; <L>19685<pc>114,1<k1>aSokeSvaratIrTa
+; <ls>ŚivaP. <ab>Rev.</ab></ls> 
+70879 old <s>aSoke<srs/>Svara-tIrTa</s> ¦ <lex>n.</lex> <ab>N.</ab> of a <s1 slp1="tIrTa">Tīrtha</s1>, <ls>ŚivaP. <ab>Rev.</ab></ls><info lex="n"/>
+;
+70879 new <s>aSoke<srs/>Svara-tIrTa</s> ¦ <lex>n.</lex> <ab>N.</ab> of a <s1 slp1="tIrTa">Tīrtha</s1>, <ls>SkandaP. Rev.</ls><info lex="n"/>
+; -------------------------------------------------------
+; <L>19925.1<pc>115,1<k1>aSvaparRI
+; <ls>ŚivaP. <ab>Rev.</ab></ls> 
+71785 old <s>a/Sva—parRI</s> ¦ <lex>f.</lex> <ab>N.</ab> of a river, <ls>ŚivaP. <ab>Rev.</ab></ls><info lex="f"/>
+;
+71785 new <s>a/Sva—parRI</s> ¦ <lex>f.</lex> <ab>N.</ab> of a river, <ls>SkandaP. Rev.</ls><info lex="f"/>
+; -------------------------------------------------------
+; <L>20083<pc>115,3<k1>aSvAvatI
+; <ls>ŚivaP. <ab>Rev.</ab></ls> 
+72379 old <s>a/SvA-vatI</s> ¦ <lex>f.</lex> <ab>N.</ab> of a river, <ls>ŚivaP. <ab>Rev.</ab></ls><info lex="f"/>
+;
+72379 new <s>a/SvA-vatI</s> ¦ <lex>f.</lex> <ab>N.</ab> of a river, <ls>SkandaP. Rev.</ls><info lex="f"/>
+; -------------------------------------------------------
+; <L>21784<pc>125,1<k1>ahalyeSvaratIrTa
+; <ls>ŚivaP. <ab>Rev.</ab></ls> 
+78274 old <s>ahalye<srs/>Svara-tIrTa</s> ¦ <lex>n.</lex> <ab>N.</ab> of a <s1 slp1="tIrTa">Tīrtha</s1>, <ls>ŚivaP. <ab>Rev.</ab></ls><info lex="n"/>
+;
+78274 new <s>ahalye<srs/>Svara-tIrTa</s> ¦ <lex>n.</lex> <ab>N.</ab> of a <s1 slp1="tIrTa">Tīrtha</s1>, <ls>SkandaP. Rev.</ls><info lex="n"/>
+; -------------------------------------------------------
+; <L>22849<pc>131,2<k1>ANgiraseSvaratIrTa
+; <ls>ŚivaP. <ab>Rev.</ab></ls> 
+81959 old <s>ANgirase<srs/>Svara-tIrTa</s> ¦ <lex>n.</lex> <ab>N.</ab> of a <s1 slp1="tIrTa">Tīrtha</s1>, <ls>ŚivaP. <ab>Rev.</ab></ls><info lex="n"/>
+;
+81959 new <s>ANgirase<srs/>Svara-tIrTa</s> ¦ <lex>n.</lex> <ab>N.</ab> of a <s1 slp1="tIrTa">Tīrtha</s1>, <ls>SkandaP. Rev.</ls><info lex="n"/>
+; ------------------------------------------------------------------
+; ------------------------------------------------------------------
+; ==================================================================

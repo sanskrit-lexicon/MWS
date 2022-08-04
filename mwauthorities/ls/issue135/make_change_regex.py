@@ -156,6 +156,8 @@ interpret_option = {
           r'</ab> <ab>'),
   '2h' : (r'</ab><s>',
           r'</ab> <s>'),
+  '4a' : (r'<ls>ŚivaP. <ab>Rev.</ab></ls>',
+          r'<ls>SkandaP. Rev.</ls>'),
  
  
  }
