@@ -66,5 +66,9 @@
 ;
 81959 new <s>ANgirase<srs/>Svara-tIrTa</s> ¦ <lex>n.</lex> <ab>N.</ab> of a <s1 slp1="tIrTa">Tīrtha</s1>, <ls>SkandaP. Rev.</ls><info lex="n"/>
 ; ------------------------------------------------------------------
+; <L>184164<pc>910,1<k1>vaMSa
+616180 old ¦ a hollow or tubular bone, <ls>BhP. (B.)</ls>, <ab>Sch.</ab><info lex="inh"/>
+;
+616180 new ¦ a hollow or tubular bone, <ls>R. (B.)</ls>, <ab>Sch.</ab><info lex="inh"/>
 ; ------------------------------------------------------------------
 ; ==================================================================

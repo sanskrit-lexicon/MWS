@@ -1,4 +1,4 @@
-327461	ALL	As of 2022-08-02
+327462	ALL	As of 2022-08-04
 00000	9.1 :: NUMBER :: number :: ls starts with number
 00003	9.2 :: UNKNOWN :: unknown :: ls is unknown
 41288	04:53 :: L. :: Lexicographers, esp. such as Amarasiṃha, Halāyudha, Hemacandra, etc. :: Author
@@ -8,7 +8,7 @@
 10348	99.98 :: ib. :: in the same place [Cologne Addition] :: Title
 09643	06:09 :: Pāṇ. :: Pāṇini :: Author
 08938	01:55 :: BhP. :: Bhāgavata-purāṇa :: Title
-08374	10:34 :: W. :: Horace H. Wilson, author of first Sanskrit-English dictionary in 1819 :: Author
+08375	10:34 :: W. :: Horace H. Wilson, author of first Sanskrit-English dictionary in 1819 :: Author
 07620	01:39 :: AV. :: Atharva-veda :: Title
 07505	05:17 :: Mn. :: Manu-smṛti :: Title
 07395	08:16 :: ŚBr. :: Śatapatha-brāhmaṇa :: Title
@@ -22,7 +22,7 @@
 03584	07:03 :: Rājat. :: Rājataraṃgiṇī :: Title
 03328	09:22 :: TS. :: Taittirīya-saṃhitā :: Title
 03160	10:02 :: VS. :: Vājasaneyi-saṃhitā :: Title
-02730	06:08 :: Pañcat. :: Pañcatantra :: Title
+02731	06:08 :: Pañcat. :: Pañcatantra :: Title
 02724	07:02 :: Ragh. :: Raghuvaṃśa :: Title
 02637	04:14 :: KātyŚr. :: Kātyāyana-śrauta-sūtra :: Title
 02244	02:55 :: Dhātup. :: Dhātupāṭha :: Title
@@ -61,7 +61,7 @@
 00942	09:36 :: Uṇ. :: Uṇādi-sūtra :: Title
 00936	01:25 :: ĀpŚr. :: Āpastamba-śrauta-sūtra :: Title
 00889	04:44 :: Kum. :: Kumāra-sambhava :: Title
-00885	06:07 :: Pañcar. :: Pañcarātra :: Title
+00884	06:07 :: Pañcar. :: Pañcarātra :: Title
 00863	04:08 :: Kāṭh. :: Kāṭhaka :: Literary category
 00852	02:05 :: Bhartṛ. :: Bhartṛhari :: Author
 00848	03:59 :: Kām. :: Kāmandakīya-nītisāra :: Title
@@ -153,7 +153,7 @@
 00217	01:51 :: Baudh. :: Baudhāyana-dharma-śāstra :: Title
 00217	03:40 :: Jaim. :: Jaimini :: Author
 00215	05:09 :: MānGṛ. :: Mānava-gṛhya-sūtra :: Title
-00213	09:25x :: TāṇḍBr. :: Tāṇḍya-brāhmaṇa :: Title
+00214	09:25x :: TāṇḍBr. :: Tāṇḍya-brāhmaṇa :: Title
 00204	09:18 :: ŚvetUp. :: Śvetāśvatara-upaniṣad :: Title
 00202	10:20 :: VāyuP. :: Vāyu-purāṇa :: Title
 00201	03:19 :: GṛS. :: Gṛhya-sūtra :: Literary category
@@ -198,13 +198,13 @@
 00127	03:46 :: Jyot. :: Jyotiṣa :: Literary category
 00126	10:27 :: Vīrac. :: Vīracarita :: Title
 00123	03:33x :: Hir. :: Hiraṇyakeśin's Gṛhya-sūtra :: Title
-00120	08:35 :: ŚivaP. :: Śiva-purāṇa :: Title
 00119	05:30 :: MuṇḍUp. :: Muṇḍaka-upaniṣad :: Title
 00118	01:41 :: AV.Pariś. :: Atharva-veda-pariśiṣṭa :: Title
 00118	09:23 :: TUp. :: Taittirīya-upaniṣad :: Title
 00116	02:34 :: Caurap. :: Caurapañcāśikā :: Title
 00116	10:24 :: Viddh. :: Viddhaśālabhañjikā :: Title
 00114	03:20 :: Gṛhyās. :: Gṛhyāsaṃgraha :: Title
+00114	08:35 :: ŚivaP. :: Śiva-purāṇa :: Title
 00113	02:53x :: Dharmaś. :: Dharmaśarmābhyudaya :: Title
 00113	09:10 :: Śulbas. :: Śulba-sūtra :: Literary category
 00113	09:26 :: Tantras. :: Tantrasāra :: Title
@@ -249,8 +249,8 @@
 00070	10:22 :: Vedāntas. :: Vedāntasāra :: Title
 00067	03:54 :: KālP. :: Kālikā-purāṇa :: Title
 00067	05:50x :: Nigh. :: Nighaṇṭuprakāśa :: Title
+00067	93.10 :: R. (B.) :: Rāmāyaṇa (Bombay edition) [Cologne Addition] :: Title
 00066	10:04 :: Vajracch. :: Vajracchedikā :: Title
-00066	93.10 :: R. (B.) :: Rāmāyaṇa (Bombay edition) [Cologne Addition] :: Title
 00065	03:27 :: Hāsy. :: Hāsyārṇava :: Title
 00065	06:25 :: Pracaṇḍ. :: Pracaṇḍa-pāṇḍava :: Title
 00064	06:01 :: Padap. :: Padapāṭha :: Title
@@ -318,7 +318,7 @@
 00032	06:30 :: Prasaṅg. :: Prasaṅgābharaṇa :: Title
 00032	09:03 :: Śrīkaṇṭh. :: Śrīkaṇṭha-carita :: Title
 00032	09:37 :: Uṇvṛ. :: Uṇādi-vṛtti :: Title
-00032	90.54 :: Kṛṣṇaj. :: Weber's Kṛṣṇajanma ?? [Cologne Addition] :: Title
+00032	90.54 :: Kṛṣṇaj. :: Über die Kṛishṇajanmâshṭamî (Kṛishṇa's Geburtsfest), 1867, by Albrecht Weber (English translation: 1874) [Cologne Addition] :: Title
 00031	09:10x :: Śulb. :: Śulba-sūtra :: Literary category
 00030	02:14x :: BR. :: Böhtlingk and Roth's Sanskrit-Wörterbuch :: Title
 00030	02:49 :: Devīm. :: Devī-māhātmya :: Title
@@ -383,13 +383,13 @@
 00015	93.10a :: R. (B) :: Rāmāyaṇa (Bombay edition) [Cologne Addition] :: Title
 00014	01:21 :: Anarghar. :: Anargharāghava :: Title
 00014	02:26 :: BṛNārP. :: Bṛhan-nāradīya-purāṇa, 38 adhyāya :: subtitle
+00014	03:38 :: ĪśUp. :: Īśa-upaniṣad :: Title
 00014	03:49 :: Kaiy. :: Kaiyaṭa, Kaiyyaṭa :: Author
 00014	08:01 :: Sāṃkhyapr. :: Sāṃkhyapravacana :: Title
 00014	90.19 :: Bṛhasp. :: Bṛhaspati (an ancient authority, often quoted in Dharmaśāstra treatises) [Cologne Addition] :: Title
 00014	93.14 :: R. G. :: Rāmāyaṇa (Gorresio edition) [Cologne Addition] :: Title
 00013	02:48 :: DevībhP. :: Devī-bhāgavata-purāṇa :: Title
 00013	03:04x :: GarP. :: Gāruḍa-purāṇa :: Title
-00013	03:38 :: ĪśUp. :: Īśa-upaniṣad :: Title
 00013	03:56 :: Kalpas. :: Kalpa-sūtra :: Literary category
 00013	03:58 :: Kalyāṇam. :: Kalyāṇamandira-stotra :: Title
 00013	03:62 :: KapSaṃh. :: Kapila-saṃhitā, from the Skanda-purāṇa :: Title
@@ -472,6 +472,7 @@
 00006	93.11 :: R. (ed. Bomb.) :: Rāmāyaṇa (Bombay edition) [Cologne Addition] :: Title
 00006	93.12 :: R. [B.] :: Rāmāyaṇa (Bombay edition) [Cologne Addition] :: Title
 00006	93.44 :: R. (ed. Gorr.) :: Rāmāyaṇa (Gorresio edition) [Cologne Addition] :: Title
+00006	93.45 :: SkandaP. Rev. :: SkandaPurāṇa Revākhaṇḍa [Cologne Addition] :: Title
 00005	01:17 :: AmṛtabUp. :: Amṛtabindu-upaniṣad :: Title
 00005	01:40a :: Paipp. :: Atharva-veda, Paippalāda-śākhā :: Title
 00005	01:41y :: AVPar. :: Atharva-veda-pariśiṣṭa :: Title
@@ -611,7 +612,7 @@
 00002	10:40 :: Yogavās. :: Yogavāsiṣṭha-sāra :: Title
 00002	11:20 :: Ār. :: Āraṇyaka [Cologne Addition] :: Literary category
 00002	11:27 :: Jñātādh. :: Jñātā-dharma-kathā [Cologne Addition] :: Title
-00002	11:49 :: Vallabh. :: NONE :: Author
+00002	11:49 :: Vallabh. :: Vallabhadeva's Subhāshitāvali [Cologne Addition] :: Title
 00002	12:06 :: Paiṭh. :: Paiṭhīnasismṛti [Cologne Addition] :: Title
 00002	12:19 :: Bühler :: Georg Bühler [Cologne Addition] :: Author
 00002	12:27 :: Buddhac. :: Buddhacarita [Cologne Addition] :: Author
@@ -720,8 +721,6 @@
 00001	11:34 :: DrāhyŚr. :: Drāhyāyana Śrautasūtra [Cologne Addition] :: Title
 00001	11:38 :: Śrāddhac. :: Śrāddhacintāmaṇi [Cologne Addition] :: Title
 00001	11:41 :: TAnukr. :: TaittirīyaAnukramaṇikā [Cologne Addition] :: Title
-00001	11:42 :: TaṇḍināmUp. :: NONE :: Title
-00001	11:43 :: TśUp. :: NONE :: Title
 00001	11:45 :: Upal. :: Upalekha , name of a grammatical work connected with the prātiśākhyas [Cologne Addition] :: Literary category
 00001	11:47 :: Vākyap. ::  Vākyapadīya, a grammatical treatise (by Bhartṛhari) [Cologne Addition] :: Title
 00001	11:48 :: Vaidyajīv. :: Vaidyajīvana (of Lolimbarāja) [Cologne Addition] :: Title
@@ -744,8 +743,8 @@
 00001	12:15 :: Am. :: Amarakośa [Cologne Addition] :: Title
 00001	12:17 :: IndAnt. :: Indian Antiquary [Cologne Addition] :: Title
 00001	12:20 :: Böhtl. :: Otto von Böhtlingk [Cologne Addition] :: Author
-00001	12:21 :: Beames :: ? [Cologne Addition] :: Author
-00001	12:22 :: Hunter :: ? [Cologne Addition] :: Author
+00001	12:21 :: Beames :: John Beames (1837-1902), English civil servant and linguistics scholar [Cologne Addition] :: Author
+00001	12:22 :: Hunter :: William Wilson Hunter (1840-1900)  [Cologne Addition] :: Author
 00001	12:28 :: Burnouf :: Eugène Burnouf [Cologne Addition] :: Author
 00001	12:29 :: Colebrooke :: Henry Thomas Colebrooke [Cologne Addition] :: Author
 00001	12:30 :: Cowell :: Edward Byles Cowell [Cologne Addition] :: Author
@@ -799,7 +798,7 @@
 00001	90.77 :: PurS. :: Purāṇa-sarvasva [Cologne Addition] :: Title
 00001	90.79 :: Pār. :: Pāraskara-gṛhya-sūtra [Cologne Addition] :: Title
 00001	90.82 :: Ratim. :: Ratimañjarī [Cologne Addition] :: Title
-00001	90.83 :: RLM. :: Unknown reference [Cologne Addition] :: Title
+00001	90.83 :: RLM. :: RājendraLālaMitra's Notices of Sanskrit MSS. ? [Cologne Addition] :: Title
 00001	90.85 :: Rājan. :: Rājanighaṇṭu [Cologne Addition] :: Title
 00001	90.86 :: Rājyat. :: Rājataraṃgiṇī ? [Cologne Addition] :: Title
 00001	90.87 :: RāmRās. :: RāmaRāsa(līlā) (in Bṛhatkośalakhaṇḍa) ? [Cologne Addition] :: Title
@@ -867,7 +866,6 @@
 00001	93.36 :: Garga :: Garga, the composer of Gargasaṃhitā [Cologne Addition] :: Author
 00001	93.37 :: Pañc. [B.] :: Pañcatantra, Bombay edition [Cologne Addition] :: Title
 00001	93.37a :: Pañc. (B) :: Pañcatantra, Bombay edition [Cologne Addition] :: Title
-00001	93.38 :: BhP. (B.) :: Bhāgavata-purāṇa, by Eugène Burnouf, 1844 [Cologne Addition] :: Title
-00001	93.38a :: BhP. (B) :: Bhāgavata-purāṇa, by Eugène Burnouf, 1844 [Cologne Addition] :: Title
+00001	93.38a :: BhP. (B) :: Bhāgavata-purāṇa, Bombay edition [Cologne Addition] :: Title
 00001	93.39 :: Hunter's Gazetteer :: The Imperial Gazetteer of India, by William Wilson Hunter, 1869-1881 [Cologne Addition] :: Title
 00001	93.40 :: Almagest :: astronomical manual written about 150 CE by Ptolemy [Cologne Addition] :: Title

@@ -1484,6 +1484,7 @@ NEW
 12:21	Beames	John Beames (1837-1902), English civil servant and linguistics scholar [Cologne Addition]	Author
 12:22	Hunter	William Wilson Hunter (1840-1900)  [Cologne Addition]	Author
 
+NOTE: See later, where BhP. (B) and (B.) are revised further
 OLD:
 93.38	BhP. (B.)	Bhāgavata-purāṇa, by Eugène Burnouf, 1844 [Cologne Addition]	Title
 93.38a	BhP. (B)	Bhāgavata-purāṇa, by Eugène Burnouf, 1844 [Cologne Addition]	Title
@@ -1576,8 +1577,50 @@ tooltip resolved:
 90.83	RLM.	Unknown reference [Cologne Addition]	Title
 90.83	RLM.	RājendraLālaMitra's Notices of Sanskrit MSS. ? [Cologne Addition]	Title
 
+-------------------------------------------
+Further revision re BhP. (B.)
+First, consider these two entries in mw:
+
+<L>184163<pc>910,1<k1>vaMSa<k2>vaMSa/<e>1A
+¦ the back-bone, spine, <ls>VarBṛS.</ls>; <ls>BhP.</ls><info lex="inh"/>
+<LEND>
+<L>184164<pc>910,1<k1>vaMSa<k2>vaMSa/<e>1A
+¦ a hollow or tubular bone, <ls>BhP. (B.)</ls>, <ab>Sch.</ab><info lex="inh"/>
+<LEND>
+
+Compare these to the extraction from PWG at
+ this [link above](https://github.com/sanskrit-lexicon/MWS/issues/135#issuecomment-1204460837).
+Conclude:  MW is 'following' PWG.
+Note Rückgrat = backbone  (so this corresponds to 184163)
+Note Röhrknochen = long bones (corresponding to 184164
+Thus, we can infer that the 184164 'BhP. (B.)' reference was erroneously
+taken from 'Comm. in der ed. Bomb.  zu 5, 35, 19.'
+Conclude:
+'BhP. (B.)' is a print error, to change to 'R. (B.)' in 184165
+
+python updateByLine.py temp_mw_3.txt change_4.txt temp_mw_4.txt
+12 change transactions from change_4.txt
+
+Now there is no instance of <ls>BhP. (B.)</ls>, so we may delete 93.38
+in temp_tooltip_5.txt.
+93.38	BhP. (B.)	Bhāgavata-purāṇa, Bombay edition [Cologne Addition]	Title
+93.38a	BhP. (B)	Bhāgavata-purāṇa, Bombay edition [Cologne Addition]	Title
+Note We keep 93.38a, since it is used at <L>71762.1<pc>387,2<k1>candramasA,
+ and is consistent with PW at candramasa.
 =========================================================
 ---------------------------------------------------------------------------
+python ls_unknown.py temp_mw_4.txt temp_tooltip_5.txt temp_ls_unknown.txt
+869 tooltips from temp_tooltip_5.txt
+0 with unknown ls abbreviation
+0 cases written to temp_ls_unknown.txt
+
+python lsextract_all.py temp_mw_4.txt temp_tooltip_5.txt lsextract_all.txt
+grep '00000' lsextract_all.txt
+
+Thus, each abbreviation in temp_tooltip_5.txt has at least 1 instance in
+temp_mw_4.txt.
+
+
 ---------------------------------------------------------------------------
 # install temp_tooltip_5.txt
 cp temp_tooltip_5.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/mw/pywork/mwauth/tooltip.txt
@@ -1595,9 +1638,9 @@ sh xmlchk_xampp.sh mw
 -------------------------------------------------------------------------
 Push repositories to Github.
 Ref: https://github.com/sanskrit-lexicon/MWS/issues/135 (change_4)
- csl-pywork  commit d259f21aeec7327db0fe2f1573780f4ca204404f
- csl-orig  commit 2eee32f4cf47eab4475c42d49fd47a1f628d3dd5
- csl-corrections  commit 28e55157eb9f20384c96e06e1365f6dbc61289cf
+ csl-pywork  commit 6b0b99de7ff2532f9f92689c282eef1f2b9b12a2
+ csl-orig  commit e833504ff4d316cc7a94b426ba1cd07de13e2483
+ csl-corrections  commit 67acf14a1703d7bb0c6f0d135e54a174bad74369
 and update the correspondents at Cologne web site.
 
  push this MWS repository to Github.
