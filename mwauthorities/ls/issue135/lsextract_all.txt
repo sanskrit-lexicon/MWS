@@ -1,11 +1,11 @@
-327462	ALL	As of 2022-08-04
+327462	ALL	As of 2022-08-05
 00000	9.1 :: NUMBER :: number :: ls starts with number
-00003	9.2 :: UNKNOWN :: unknown :: ls is unknown
+00000	9.2 :: UNKNOWN :: unknown :: ls is unknown
 41288	04:53 :: L. :: Lexicographers, esp. such as Amarasiṃha, Halāyudha, Hemacandra, etc. :: Author
 29640	04:60 :: MBh. :: Mahābhārata :: Title
 18946	07:18 :: RV. :: Ṛg-veda :: Title
 11066	07:08 :: R. :: Rāmāyaṇa :: Title
-10348	99.98 :: ib. :: in the same place [Cologne Addition] :: Title
+10350	99.98 :: ib. :: in the same place [Cologne Addition] :: Title
 09643	06:09 :: Pāṇ. :: Pāṇini :: Author
 08938	01:55 :: BhP. :: Bhāgavata-purāṇa :: Title
 08375	10:34 :: W. :: Horace H. Wilson, author of first Sanskrit-English dictionary in 1819 :: Author
@@ -30,12 +30,12 @@
 02140	10:35 :: Yājñ. :: Yājñavalkya :: Author
 01953	02:28 :: Buddh. :: Buddhist literature :: Literary category
 01860	07:27 :: Sāh. :: Sāhitya-darpaṇa :: Title
-01842	02:32 :: Car. :: Caraka :: Author
+01843	02:32 :: Car. :: Carakasaṃhitā  :: Title
 01773	04:05 :: Kāś. :: Kāśikā-vṛtti :: Title
 01755	08:33 :: Śiś. :: Śiśupāla-vadha :: Title
 01711	01:08 :: AitBr. :: Aitareya-brāhmaṇa :: Title
 01688	06:19 :: Pat. :: Patañjali :: Author
-01660	02:16 :: Br. :: Brāhmaṇa :: Literary category
+01661	02:16 :: Br. :: Brāhmaṇa :: Literary category
 01638	05:18 :: MārkP. :: Mārkaṇḍeya-purāṇa :: Title
 01558	02:09 :: Bhpr. :: Bhāvaprakāśa :: Title
 01541	03:35 :: Hit. :: Hitopadeśa :: Title
@@ -108,7 +108,7 @@
 00411	08:05 :: ŚāṅkhGṛ. :: Śāṅkhāyana-gṛhya-sūtra :: Title
 00383	09:19 :: TĀr. :: Taittirīya-āraṇyaka :: Title
 00380	03:18x :: GṛŚrS. :: Gṛhya-sūtra and Śrauta-sūtra :: Literary category
-00377	10:16 :: Vās. :: Vāsavadattā :: Title
+00378	10:16 :: Vās. :: Vāsavadattā :: Title
 00372	10:25 :: Vcar. :: Vikramāṅkadeva-carita, by Bilhaṇa :: Title
 00360	06:36 :: Pravar. :: Pravara texts :: Literary category
 00355	02:27 :: Bcar. :: Buddha-carita :: Title
@@ -768,12 +768,10 @@
 00001	90.13 :: Bk. :: Bhaṭṭikāvyam [Cologne Addition] :: Title
 00001	90.14 :: Burnell :: Burnell's Catalogue ? [Cologne Addition] :: Title
 00001	90.15 :: Bālabodh. :: Bālabodhanī] [Cologne Addition] :: Title
-00001	90.16 :: Bṛ. :: Śatapatha-brāhmaṇa ? [Cologne Addition] :: Title
 00001	90.17 :: BṛhaddhP. :: BṛhaddharmaPurāṇa [Cologne Addition] :: Title
 00001	90.18 :: Bṛhas. :: Bṛhaspati (an ancient authority, often quoted in Dharmaśāstra treatises) [Cologne Addition] :: Title
 00001	90.20 :: BṛĀr. :: Bṛhadāraṇyakopaniṣad [Cologne Addition] :: Title
 00001	90.21 :: Caitany. :: Caitanyacandrodaya ? [Cologne Addition] :: Title
-00001	90.24 :: Cār. :: (possibly) Caraka [The context indicates that a work related to some herb, so some medical treatise is intended.] [Cologne Addition] :: Title
 00001	90.25 :: Damayantīk. :: Damayantī-kathā, Nalacampū [Cologne Addition] :: Title
 00001	90.26 :: DharmaP. :: DharmaPurāṇa [Cologne Addition] :: Title
 00001	90.28 :: Div. :: Divyâvadāna [Cologne Addition] :: Title

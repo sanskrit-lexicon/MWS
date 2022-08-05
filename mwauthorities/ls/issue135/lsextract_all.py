@@ -90,6 +90,7 @@ def count_tips(lines,tipd,numbertip,unknowntip):
   #for m in re.finditer(r'<ls([^>]*)>([^<]*)</ls>',line):
   # allow abbreviations within <ls>
   for m in re.finditer(r'<ls([^>]*)>(.*?)</ls>',line):
+   lstxt = m.group(0)
    attrib = m.group(1)
    elt = m.group(2)
    if len(elt) == 0:
@@ -108,9 +109,13 @@ def count_tips(lines,tipd,numbertip,unknowntip):
     tip  = findtip(elt,tiplist)
     if tip == None:
      tip = unknowntip
-   # found a match
-   
+   # found a match   
    tip.total = tip.total + 1
+   if tip == unknowntip:
+    metaline = re.sub(r'<k2>.*$','',metaline)
+    print('unknown tip at %s' % metaline)
+    print('lstxt = %s, elt="%s"' %(lstxt, elt))
+    print()
 
 def tipformat_0(tip):
  text = tip.tip

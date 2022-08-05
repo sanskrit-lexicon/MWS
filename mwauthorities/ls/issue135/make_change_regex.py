@@ -158,7 +158,8 @@ interpret_option = {
           r'</ab> <s>'),
   '4a' : (r'<ls>ŚivaP. <ab>Rev.</ab></ls>',
           r'<ls>SkandaP. Rev.</ls>'),
- 
+  '4b' : (r'(<ls>[^.]*)[.]([il])',
+          r'**\1. \2'),
  
  }
 if __name__=="__main__":

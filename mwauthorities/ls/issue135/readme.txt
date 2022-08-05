@@ -1607,7 +1607,108 @@ in temp_tooltip_5.txt.
 93.38a	BhP. (B)	Bhāgavata-purāṇa, Bombay edition [Cologne Addition]	Title
 Note We keep 93.38a, since it is used at <L>71762.1<pc>387,2<k1>candramasA,
  and is consistent with PW at candramasa.
+
+---------------------------------------------------------------------------
+# install temp_tooltip_5.txt
+cp temp_tooltip_5.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/mw/pywork/mwauth/tooltip.txt
+
+# install of temp_mw_4.txt 
+cp temp_mw_4.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# correct errors
+# rerun until
+ #prints 'ok'
+ 
+-------------------------------------------------------------------------
+Push repositories to Github.
+Ref: https://github.com/sanskrit-lexicon/MWS/issues/135 (change_4)
+ csl-pywork  commit 6b0b99de7ff2532f9f92689c282eef1f2b9b12a2
+ csl-orig  commit e833504ff4d316cc7a94b426ba1cd07de13e2483
+ csl-corrections  commit 67acf14a1703d7bb0c6f0d135e54a174bad74369
+and update the correspondents at Cologne web site.
+
+ push this MWS repository to Github.
+
+DONE with this batch of corrections.
+
+End change_4  (part a)
+
 =========================================================
+change_4, part b
+A few additional changes, based on issue comments starting at
+https://github.com/sanskrit-lexicon/MWS/issues/135#issuecomment-1206255854
+=========================================================
+
+00001 90.16 :: Bṛ. :: Śatapatha-brāhmaṇa ? [Cologne Addition] :: Title
+02:16	Br.	Brāhmaṇa	Literary category
+
+<L>117598<pc>595,1<k1>pariṇī
+The PWG references after 'agram' are to three Brāhmaṇas. We conclude
+that the MW text 'Bṛ.' is print error for 'Br.'
+397080 old <div n="to"/>to lead forward to, put or place anywhere (<s>agram</s>, at the head), <ls>Bṛ.</ls>;
+397080 new <div n="to"/>to lead forward to, put or place anywhere (<s>agram</s>, at the head), <ls>Br.</ls>;
+
+python updateByLine.py temp_mw_3.txt change_4.txt temp_mw_4.txt
+
+delete 90.16 from temp_tooltip_5.
+
+---------------------------------------------
+02:32	Car.	Caraka	Author
+90.24	Cār.	(possibly) Caraka [The context indicates that a work related to some herb, so some medical treatise is intended.] [Cologne Addition]	Title
+
+<L>93383<pc>483,2<k1>duHsparSa<k2>duH—sparSa<e>3B
+<s>duH—sparSa</s> ¦ <lex>m.</lex> <bot>Alhagi Maurorum</bot> (also <s>°Saka</s>, <ls>Cār.</ls>)<info lex="m"/>
+
+From pw (duHsparSaka), Cār.  should be 'Carakasaṃhitā'
+in L=93383,  print change Car. to Cār.
+python updateByLine.py temp_mw_3.txt change_4.txt temp_mw_4.txt
+15 change transactions from change_4.txt
+
+
+delete 90.24 from temp_tooltip_5
+revise 02:32 to
+02:32	Car.	Carakasaṃhitā 	Title
+
+---------------------------------------------
+3 'unknown tips' from lsextract_all.txt
+unknown tip at <L>120735<pc>612,2<k1>paScAdbadDapuruza
+lstxt = <ls><ab>ib.</ab> [Pi.]</ls>, elt="<ab>ib.</ab> [Pi.]"
+
+unknown tip at <L>120736<pc>612,2<k1>paScAdbAhubadDa
+lstxt = <ls><ab>ib.</ab> [Pi.]</ls>, elt="<ab>ib.</ab> [Pi.]"
+
+unknown tip at <L>187338<pc>924,3<k1>varRatAla
+lstxt = <ls>Vār., <ab>Introd.</ab></ls>, elt="Vār., <ab>Introd.</ab>"
+
+solutions: remove 'ab' markup in first two.
+python updateByLine.py temp_mw_3.txt change_4.txt temp_mw_4.txt
+18 change transactions from change_4.txt
+
+Vār. -> Vās. in L=187338 (print change)
+We already have the tooltip for Vās.
+10:16	Vās.	Vāsavadattā	Title
+
+python updateByLine.py temp_mw_3.txt change_4.txt temp_mw_4.txt
+32 change transactions from change_4.txt
+
+---------------------------------------------
+space is missing between the title and the citation
+python make_change_regex.py 4b temp_mw_4.txt temp_change_regex_4b.txt
+12 cases written to temp_change_regex_4b.txt
+# manual adjustment
+#  one additional mentioned in issue comment: KātyŚr.,xxv)
+# insert temp_change_regex_4b.txt into change_4
+python updateByLine.py temp_mw_3.txt change_4.txt temp_mw_4.txt
+31 change transactions from change_4.txt
+
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
 ---------------------------------------------------------------------------
 python ls_unknown.py temp_mw_4.txt temp_tooltip_5.txt temp_ls_unknown.txt
 869 tooltips from temp_tooltip_5.txt
@@ -1616,9 +1717,12 @@ python ls_unknown.py temp_mw_4.txt temp_tooltip_5.txt temp_ls_unknown.txt
 
 python lsextract_all.py temp_mw_4.txt temp_tooltip_5.txt lsextract_all.txt
 grep '00000' lsextract_all.txt
+00000   9.1 :: NUMBER :: number :: ls starts with number
+00000   9.2 :: UNKNOWN :: unknown :: ls is unknown
+
 
 Thus, each abbreviation in temp_tooltip_5.txt has at least 1 instance in
-temp_mw_4.txt.
+temp_mw_4.txt. And each marked ls abbreviation is identified by a tooltip.
 
 
 ---------------------------------------------------------------------------
