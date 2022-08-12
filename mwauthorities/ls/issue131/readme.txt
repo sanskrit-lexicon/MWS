@@ -23,31 +23,7 @@ BEGIN change_1
 # temp_mw_1.txt
 cp temp_mw_0.txt temp_mw_1.txt
 touch change_1.txt
-
----------------------------------------------------------------------------
-install of temp_mw_1.txt to check xml
-cp temp_mw_1.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
-cd /c/xampp/htdocs/cologne/csl-pywork/v02
-grep 'mw ' redo_xampp_all.sh
-sh generate_dict.sh mw  ../../mw
-sh xmlchk_xampp.sh mw
-# correct errors
-# rerun until
- #prints 'ok'
-cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwauthorities/ls/issue131
-
--------------------------------------------------------------------------
-Push repositories to Github.
- csl-pywork  commit 8c29bcc080315e89ecf237ca0b82cb7123454412
- csl-orig  commit bca895c43b6c3c7bc461d17c674193150a1e1748
- csl-apidev  commit 913c93f4bc85e38171f6bf489bfcaea52a55e7e9
- csl-websanlexicon  commit 37109961bf3dee6128ee2c2fb25e0bf0f08939b9
- csl-corrections  commit c17958209d2492821e7bdbe252cf88503c585d0d
- mws 
-and update the correspondents at Cologne web site.
-DONE with this batch of corrections.
-
----------------------------------------------------------------------
+----------------------------------------------------------
 # <hom>n</hom> -> <hom>n.</hom>  (n a digit, 1 to 6)
 
 python make_change_regex.py 1 temp_mw_1.txt temp_change_regex_1.txt
