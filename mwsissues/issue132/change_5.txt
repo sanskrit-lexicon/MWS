@@ -1,0 +1,15 @@
+; ======================================================
+; temp_change_bbar4_5.txt 
+; ======================================================
+; -------------------------------------------------------
+; <L>59654.2<pc>329,2<k1>kzIv
+; Error 2: L0=59654, L1=59654.2 
+204818 old <s>kzIb</s> (or <s>kzIv</s>) ¦ <ab>cl.</ab> 1. <ab>P.</ab> <s>kzIbati</s> (or <s>kzIvati</s>), to eject from the mouth, spit, <ls>Dhātup. xv, 59</ls>;<info or="59654,kzIb;59840,kzIv"/>
+;
+204818 new <s>kzIb</s> (or <s>kzIv</s>) ¦ <ab>cl.</ab> 1. <ab>P.</ab> <s>kzIbati</s> (or <s>kzIvati</s>), to eject from the mouth, spit, <ls>Dhātup. xv, 59</ls>;<info or="59654,kzIb;59654.2,kzIv"/>
+; -------------------------------------------------------
+; <L>59654<pc>329,2<k1>kzIb
+; Error 2: L0=59654.2, L1=59654 
+;204809 old <s>kzIb</s> (or <s>kzIv</s>) ¦ <ab>cl.</ab> 1. <ab>P.</ab> <s>kzIbati</s> (or <s>kzIvati</s>), to eject from the mouth, spit, <ls>Dhātup. xv, 59</ls>;<info or="59654,kzIb;59654.2,kzIv"/>
+;
+;204809 new <s>kzIb</s> (or <s>kzIv</s>) ¦ <ab>cl.</ab> 1. <ab>P.</ab> <s>kzIbati</s> (or <s>kzIvati</s>), to eject from the mouth, spit, <ls>Dhātup. xv, 59</ls>;<info or="59654,kzIb;59654.2,kzIv"/>
