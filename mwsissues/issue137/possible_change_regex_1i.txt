@@ -1,0 +1,2279 @@
+; ======================================================
+; temp_change_regex_1i.txt (283)
+; regex1 = /^([^(]*\))/,  regex2 = /\1**/
+; ======================================================
+; -------------------------------------------------------
+5254 old <L>1427.05<pc>1309,1<k1>aNka<k2>aNka<e>2A
+5254 new 
+;
+5255 old ¦ a kind of regnal year (used in Orissa and usually spoken of as Onko year<info n="sup"/><info lex="inh"/>
+5255 new 
+;
+5256 old <LEND>
+5256 new 
+; <L>1427.1<pc>1309,1<k1>aNka
+5258 old ¦ the peculiarity of it is that in counting the years of the reign of a king certain numbers are omitted, thus, <ab>accord.</ab> to one system, the numbers ending with 6 or 0, excepting 10, are dropped, so that the sequence of the years would be-1, 2, 3, 4, 5, <pb n="1309,2"/> 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 21 &c.)**<info n="sup"/><info lex="inh"/>
+;
+5258 new ¦ a kind of regnal year (used in Orissa and usually spoken of as Onko year; the peculiarity of it is that in counting the years of the reign of a king certain numbers are omitted, thus, <ab>accord.</ab> to one system, the numbers ending with 6 or 0, excepting 10, are dropped, so that the sequence of the years would be -- 1, 2, 3, 4, 5, <pb n="1309,2"/> 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 21 &c.)<info n="sup"/><info lex="inh"/>
+; -------------------------------------------------------
+; <L>1692<pc>8,2<k1>aNgiras
+6214 old <s>a/Ngiras</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <s1 slp1="fzi">Ṛṣi</s1>, author of the hymns of <ls>RV. ix</ls>, of a code of laws, and of a treatise on astronomy (he is said by some to have been born from <s1 slp1="brahmA">Brahmā</s1>'s mouth, and to have been the husband of <s1 slp1="smfti">Smṛti</s1>, of <s1 slp1="SradDA">Śraddhā</s1>, of two daughters of <s1 slp1="mEtreya">Maitreya</s1>, of several daughters of <s1 slp1="dakza">Dakṣa</s1>, &c.;
+;
+6214 new <s>a/Ngiras</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <s1 slp1="fzi">Ṛṣi</s1>, author of the hymns of <ls>RV. ix</ls>, of a code of laws, and of a treatise on astronomy 
+;
+6215 old he is considered as one of the seven <s1 slp1="fzi">Ṛṣi</s1>s of the first <s1 slp1="manvantara">Manvantara</s1>, as a <s1 slp1="prajApati">Prajāpati</s1>, as a teacher of the <s1 slp1="brahmavidyA">Brahmavidyā</s1>, which he had learnt from <s1 slp1="satyavAha">Satyavāha</s1>, a descendant of <s1 slp1="BaradvAja">Bharadvāja</s1>, &c. Among his sons, the chief is <s1 slp1="agni">Agni</s1>, others are <s1 slp1="saMvarta">Saṃvarta</s1>, <s1 slp1="utaTya">Utathya</s1>, and <s1 slp1="bfhaspati">Bṛhaspati</s1>;
+;
+6215 new 
+;
+6216 old among his daughters are mentioned <s1 slp1="sinIvAlI">Sinīvālī</s1>, <s1 slp1="kuhU">Kuhū</s1>, <s1 slp1="rAkA">Rākā</s1>, <s1 slp1="anumati">Anumati</s1>, and <s1 slp1="akUpArA">Akūpārā</s1>;
+;
+6216 new 
+;
+6217 old but the <s1 slp1="fca">Ṛca</s1>s or Vedic hymns, the manes of <s1 slp1="havizmat">Haviṣmat</s1>, and mankind itself are styled his offspring. In astronomy he is the planet Jupiter, and a star in Ursa Major)<info lex="m"/>
+;
+6217 new (he is said by some to have been born from <s1 slp1="brahmA">Brahmā</s1>'s mouth, and to have been the husband of <s1 slp1="smfti">Smṛti</s1>, of <s1 slp1="SradDA">Śraddhā</s1>, of two daughters of <s1 slp1="mEtreya">Maitreya</s1>, of several daughters of <s1 slp1="dakza">Dakṣa</s1>, &c.; he is considered as one of the seven <s1 slp1="fzi">Ṛṣi</s1>s of the first <s1 slp1="manvantara">Manvantara</s1>, as a <s1 slp1="prajApati">Prajāpati</s1>, as a teacher of the <s1 slp1="brahmavidyA">Brahmavidyā</s1>, which he had learnt from <s1 slp1="satyavAha">Satyavāha</s1>, a descendant of <s1 slp1="BaradvAja">Bharadvāja</s1>, &c. Among his sons, the chief is <s1 slp1="agni">Agni</s1>, others are <s1 slp1="saMvarta">Saṃvarta</s1>, <s1 slp1="utaTya">Utathya</s1>, and <s1 slp1="bfhaspati">Bṛhaspati</s1>; among his daughters are mentioned <s1 slp1="sinIvAlI">Sinīvālī</s1>, <s1 slp1="kuhU">Kuhū</s1>, <s1 slp1="rAkA">Rākā</s1>, <s1 slp1="anumati">Anumati</s1>, and <s1 slp1="akUpArA">Akūpārā</s1>; but the <s1 slp1="fca">Ṛca</s1>s or Vedic hymns, the manes of <s1 slp1="havizmat">Haviṣmat</s1>, and mankind itself are styled his offspring. In astronomy he is the planet Jupiter, and a star in Ursa Major)**<info lex="m"/>
+; -------------------------------------------------------
+; <L>4263<pc>21,1<k1>aDideva
+15612 old <s>aDi-deva</s>, ¦ <s>as</s>, <lex>m.</lex> or <s>-devatA</s>) <lex>f.</lex> a presiding or tutelary deity.<info or="4263,aDideva;4264,aDidevatA"/><info lex="m"/>
+;
+15612 new <s>aDi-deva</s>, <s>as</s>, <lex>m.</lex> or <s>-devatA</s>** <lex>f.</lex> ¦ a presiding or tutelary deity.<info or="4263,aDideva;4264,aDidevatA"/><info lex="m"/>
+; -------------------------------------------------------
+; <L>4264<pc>21,1<k1>aDidevatA
+15615 old <s>aDi-deva</s>, ¦ <s>as</s>, <lex>m.</lex> or <s>-devatA</s>) <lex>f.</lex> a presiding or tutelary deity.<info or="4263,aDideva;4264,aDidevatA"/><info lex="m"/>
+;
+15615 new <s>aDi-deva</s>, <s>as</s>, <lex>m.</lex> or <s>-devatA</s>** <lex>f.</lex> ¦ a presiding or tutelary deity.<info or="4263,aDideva;4264,aDidevatA"/><info lex="m"/>
+; -------------------------------------------------------
+; <L>6380.2<pc>1311,3<k1>anuttarapUjA
+23335 old <s>an-uttara-pUjA</s> ¦ <lex>f.</lex> (with Buddhists) highest worship (of seven kinds<info n="sup"/><info lex="f"/>
+;
+23335 new <s>an-uttara-pUjA</s> ¦ <lex>f.</lex> (with Buddhists) highest worship (of seven kinds; <ab>cf.</ab> <s>vandana</s>)**, <ls>Dharmas. 14</ls>.<info n="sup"/><info lex="f"/>
+;
+23337 old <L>6380.2<pc>1311,3<k1>anuttarapUjA<k2>an-uttara-pUjA<e>3A
+23337 new 
+;
+23338 old ¦ <ab>cf.</ab> <s>vandana</s>), <ls>Dharmas. 14</ls>.<info n="sup"/>
+;
+23338 new ¦ <info n="sup"/>
+;
+23339 old <LEND>
+23339 new 
+; -------------------------------------------------------
+; <L>10999<pc>60,1<k1>abudDipUrva
+40542 old <s>a-budDi-pUrva</s> or <s>-pUrvaka</s>) ¦ <lex>mfn.</lex> not preceded by intelligence<info or="10999,abudDipUrva;11002,abudDipUrvaka"/><info lex="m:f:n"/>
+;
+40542 new <s>a-budDi-pUrva</s> or <s>-pUrvaka</s>)** ¦ <lex>mfn.</lex> not preceded by intelligence<info or="10999,abudDipUrva;11002,abudDipUrvaka"/><info lex="m:f:n"/>
+; -------------------------------------------------------
+; <L>11002<pc>60,1<k1>abudDipUrvaka
+40551 old <s>a-budDi-pUrva</s> or <s>-pUrvaka</s>) ¦ <lex>mfn.</lex> not preceded by intelligence<info or="10999,abudDipUrva;11002,abudDipUrvaka"/><info lex="m:f:n"/>
+;
+40551 new <s>a-budDi-pUrva</s> or <s>-pUrvaka</s>,** ¦ <lex>mfn.</lex> not preceded by intelligence<info or="10999,abudDipUrva;11002,abudDipUrvaka"/><info lex="m:f:n"/>
+; -------------------------------------------------------
+; <L>13328<pc>76,3<k1>aByas
+48611 old <div n="to"/>to add, <ls>Śulb.</ls>: <ab>P.</ab> (rarely <ab>Ā.</ab>) <s>-asyati</s> (but also <ab>Pot.</ab> <s>-aset</s>, <ls>Mn.</ls>; <ab>p.</ab> <s>-asat</s>, <ls>MBh. iii, 1450</ls>; <ls>R.</ls>; <ls>Yājñ. iii, 204</ls> :
+;
+48611 new <div n="to"/>to add, <ls>Śulb.</ls>: <ab>P.</ab> (rarely <ab>Ā.</ab>) <s>-asyati</s> (but also <ab>Pot.</ab> <s>-aset</s>, <ls>Mn.</ls>; <ab>p.</ab> <s>-asat</s>, <ls>MBh. iii, 1450</ls>; <ls>R.</ls>; <ls>Yājñ. iii, 204</ls> : <ab>Ā.</ab> <s>-asate</s>, <ls>Mn. iv, 149</ls>)**
+;
+48612 old <div n="to"/><ab>Ā.</ab> <s>-asate</s>, <ls>Mn. iv, 149</ls>) to concentrate one's attention upon (<ab>acc.</ab>), practise, exercise, study, <ls>MBh.</ls> &c.;
+;
+48612 new <div n="to"/>to concentrate one's attention upon (<ab>acc.</ab>), practise, exercise, study, <ls>MBh.</ls> &c.;
+; -------------------------------------------------------
+; <L>15163.1<pc>1316,1<k1>araDra
+55104 old ¦ (<ab>accord.</ab> to others, ‘rich, liberal’<info n="sup"/>
+;
+55104 new ¦ (<ab>accord.</ab> to others, ‘rich, liberal;’ <ab>cf.</ab> <s>raDra</s>)**.<info n="sup"/>
+;
+55106 old <L>15163.2<pc>1316,1<k1>araDra<k2>a/-raDra<e>2A
+55106 new 
+;
+55107 old ¦ <ab>cf.</ab> <s>raDra</s>).<info n="sup"/>
+;
+55107 new ¦ <info n="sup"/>
+;
+55108 old <LEND>
+55108 new 
+; -------------------------------------------------------
+; <L>24943<pc>143,2<k1>ApA
+89071 old <s>A-</s>√ <hom>1.</hom> <s>pA</s> ¦ <ab>P.</ab> <s>-pibati</s>, (<ab>Impv.</ab> 2. <ab>du.</ab> <s>A/pibatam</s>, <ls>RV. ii, 36, 6</ls>; <ab>pf.</ab> <s>-papO</s>:
+89071 new <s>A-</s>√ <hom>1.</hom> <s>pA</s> ¦ <ab>P.</ab> <s>-pibati</s>, (<ab>Impv.</ab> 2. <ab>du.</ab> <s>A/pibatam</s>, <ls>RV. ii, 36, 6</ls>; <ab>pf.</ab> <s>-papO</s>: <ab>Pass.</ab> <s>-pIyate</s>, &c.)** 
+;
+89072 old <div n="to"/><ab>Pass.</ab> <s>-pIyate</s>, &c.) to drink in, suck in or up;
+;
+89072 new <div n="to"/>to drink in, suck in or up;
+; -------------------------------------------------------
+; <L>25130<pc>144,2<k1>AprI
+89713 old ¦ <lex>f. <ab>pl.</ab></lex> (<s>-pri/yas</s> [<ls>AV. xi, 7, 19</ls>] and <s>-pryas</s> [<s1 slp1="nArAyaRa">Nārāyaṇa</s1>]) <ab>N.</ab> of particular invocations spoken previous to the offering of oblations (according to, <ls>ĀśvŚr. iii, 2, 5</ls> <ab>seqq.</ab> they are different in different schools;
+;
+89713 new ¦ <lex>f. <ab>pl.</ab></lex> (<s>-pri/yas</s> [<ls>AV. xi, 7, 19</ls>] and <s>-pryas</s> [<s1 slp1="nArAyaRa">Nārāyaṇa</s1>]) <ab>N.</ab> of particular invocations spoken previous to the offering of oblations 
+;
+89714 old <ab>e.g.</ab> <s>sa/midDo agni/r</s>, <ls>RV. v, 28, 1</ls>; in the school of <s1 slp1="Sunaka">Śunaka</s1>;
+;
+89714 new 
+;
+89715 old <s>juza/sva naH</s>, <ls>RV. vii, 2, 1</ls>; in that of <s1 slp1="vasizWa">Vasiṣṭha</s1>;
+;
+89715 new 
+;
+89716 old <s>sa/midDo adya/</s>, <ls>RV. x, 110, 1</ls>; in that of others;
+;
+89716 new 
+;
+89717 old <s1 slp1="nArAyaRa">Nārāyaṇa</s1> on this passage gives ten hymns belonging to different schools;
+;
+89717 new 
+;
+89718 old See also, <ls>Sāy.</ls> on <ls>RV. i, 13</ls> [<s>su/samidDo na A/ vaha</s>, the <s1 slp1="AprI">Āprī</s1>-hymn of the school of <s1 slp1="kaRva">Kaṇva</s1>], who enumerates twelve <s1 slp1="AprI">Āprī</s1>s and explains that twelve deities are propitiated;
+;
+89718 new 
+;
+89719 old those deities are personified objects belonging to the fire-sacrifice, <ab>viz.</ab> the fuel, the sacred grass, the enclosure, &c., all regarded as different forms of <s1 slp1="agni">Agni</s1>;
+;
+89719 new 
+;
+89720 old hence the objects are also called <s1 slp1="AprI">Āprī</s1>s, or, according to others, the objects are the real <s1 slp1="AprI">Āprī</s1>s, whence the hymns received their names), <ls>AV.</ls>;
+;
+89720 new (according to, <ls>ĀśvŚr. iii, 2, 5</ls> <ab>seqq.</ab> they are different in different schools; <ab>e.g.</ab> <s>sa/midDo agni/r</s>, <ls>RV. v, 28, 1</ls>; in the school of <s1 slp1="Sunaka">Śunaka</s1>; <s>juza/sva naH</s>, <ls>RV. vii, 2, 1</ls>; in that of <s1 slp1="vasizWa">Vasiṣṭha</s1>; <s>sa/midDo adya/</s>, <ls>RV. x, 110, 1</ls>; in that of others; <s1 slp1="nArAyaRa">Nārāyaṇa</s1> on this passage gives ten hymns belonging to different schools; see also, <ls>Sāy.</ls> on <ls>RV. i, 13</ls> [<s>su/samidDo na A/ vaha</s>, the <s1 slp1="AprI">Āprī</s1>-hymn of the school of <s1 slp1="kaRva">Kaṇva</s1>], who enumerates twelve <s1 slp1="AprI">Āprī</s1>s and explains that twelve deities are propitiated; those deities are personified objects belonging to the fire-sacrifice, <ab>viz.</ab> the fuel, the sacred grass, the enclosure, &c., all regarded as different forms of <s1 slp1="agni">Agni</s1>; hence the objects are also called <s1 slp1="AprI">Āprī</s1>s, or, according to others, the objects are the real <s1 slp1="AprI">Āprī</s1>s, whence the hymns received their names)**,
+;
+89721 old <ls>TS.</ls>;
+89721 new <ls>AV.</ls>; <ls>TS.</ls>; <ls>ĀśvŚr.</ls> &c.<info lex="f"/>
+;
+89722 old <ls>ĀśvŚr.</ls> &c.<info lex="f"/>
+89722 new 
+;
+; -------------------------------------------------------
+; <L>25890<pc>148,3<k1>Ayurveda
+92336 old <s>Ayur—veda</s> ¦ <lex>m.</lex> the science of health or medicine (it is classed among sacred sciences, and considered as a supplement of the <s1 slp1="aTarva">Atharva</s1>-<s1 slp1="veda">veda</s1>;
+;
+92336 new <s>Ayur—veda</s> ¦ <lex>m.</lex> the science of health or medicine
+;
+92337 old it contains eight departments: 1. <s1 slp1="Salya">Śalya</s1> or (removal of) any substance which has entered the body (as extraction of darts, of splinters, &c.);
+;
+92337 new 
+;
+92338 old 2. <s1 slp1="SAlAkya">Śālākya</s1> or cure of diseases of the eye or ear &c. by <s1 slp1="SalAkA">Śalākā</s1>s or sharp instruments;
+;
+92338 new 
+;
+92339 old 3. <s1 slp1="kAya-cikitsA">Kāya-cikitsā</s1> or cure of diseases affecting the whole body;
+;
+92339 new 
+;
+92340 old 4. <s1 slp1="BUtavidyA">Bhūtavidyā</s1> or treatment of mental diseases supposed to be produced by demoniacal influence;
+;
+92340 new 
+;
+92341 old 5. <s1 slp1="kOmAra-Bftya">Kaumāra-bhṛtya</s1> or treatment of children <pb n="149,1"/>;
+;
+92341 new 
+;
+92342 old 6. <s1 slp1="agada-tantra">Agada-tantra</s1> or doctrine of antidotes;
+;
+92342 new (it is classed among sacred sciences, and considered as a supplement of the <s1 slp1="aTarva">Atharva</s1>-<s1 slp1="veda">veda</s1>; it contains eight departments: 1. <s1 slp1="Salya">Śalya</s1> or (removal of) any substance which has entered the body (as extraction of darts, of splinters, &c.); 2. <s1 slp1="SAlAkya">Śālākya</s1> or cure of diseases of the eye or ear &c. by <s1 slp1="SalAkA">Śalākā</s1>s or sharp instruments; 3. <s1 slp1="kAya-cikitsA">Kāya-cikitsā</s1> or cure of diseases affecting the whole body; 4. <s1 slp1="BUtavidyA">Bhūtavidyā</s1> or treatment of mental diseases supposed to be produced by demoniacal influence; 5. <s1 slp1="kOmAra-Bftya">Kaumāra-bhṛtya</s1> or treatment of children <pb n="149,1"/>; 6. <s1 slp1="agada-tantra">Agada-tantra</s1> or doctrine of antidotes;
+;
+92343 old 7. <s1 slp1="rAsAyana-tantra">Rāsāyana-tantra</s1> or doctrine of elixirs;
+;
+92343 new 
+;
+92344 old 8. <s1 slp1="vAjIkaraRa-tantra">Vājīkaraṇa-tantra</s1> or doctrine of aphrodisiacs, <ls>Suśr.</ls>;
+;
+92344 new 
+;
+92345 old <ls>MBh.</ls>;
+;
+92345 new 
+;
+;
+92346 old <ls>Hariv.</ls> &c.)<info lex="m"/>
+;
+92346 new (it is classed among sacred sciences, and considered as a supplement of the <s1 slp1="aTarva">Atharva</s1>-<s1 slp1="veda">veda</s1>; it contains eight departments: 1. <s1 slp1="Salya">Śalya</s1> or (removal of) any substance which has entered the body (as extraction of darts, of splinters, &c.); 2. <s1 slp1="SAlAkya">Śālākya</s1> or cure of diseases of the eye or ear &c. by <s1 slp1="SalAkA">Śalākā</s1>s or sharp instruments; 3. <s1 slp1="kAya-cikitsA">Kāya-cikitsā</s1> or cure of diseases affecting the whole body; 4. <s1 slp1="BUtavidyA">Bhūtavidyā</s1> or treatment of mental diseases supposed to be produced by demoniacal influence; 5. <s1 slp1="kOmAra-Bftya">Kaumāra-bhṛtya</s1> or treatment of children <pb n="149,1"/>; 6. <s1 slp1="agada-tantra">Agada-tantra</s1> or doctrine of antidotes; 7. <s1 slp1="rAsAyana-tantra">Rāsāyana-tantra</s1> or doctrine of elixirs; 8. <s1 slp1="vAjIkaraRa-tantra">Vājīkaraṇa-tantra</s1> or doctrine of aphrodisiacs, <ls>Suśr.</ls>; <ls>MBh.</ls>; <ls>Hariv.</ls> &c.)**<info lex="m"/>
+; -------------------------------------------------------
+; <L>26674.1<pc>1320,1<k1>Alakzita
+95031 old <s>Alakzita</s> ¦ <lex>n.</lex> <ab>N.</ab> of a wood, <ls>R.</ls> <ab>B.</ab>).<info n="sup"/><info lex="n"/>
+;
+95031 new <s>Alakzita</s> ¦ <lex>n.</lex> <ab>N.</ab> of a wood, <ls>R. (B.)</ls> .<info n="sup"/><info lex="n"/>
+; -------------------------------------------------------
+; <L>28747<pc>165,1<k1>iti
+102387 old <hom>2.</hom> <s>i/ti</s> ¦ <lex>ind.</lex> (<ab>fr.</ab> pronominal base <hom>3.</hom> <s>i</s>), in this manner, thus (in its original signification <s>i/ti</s> refers to something that has been said or thought, or lays stress on what precedes;
+;
+102387 new <hom>2.</hom> <s>i/ti</s> ¦ <lex>ind.</lex> (<ab>fr.</ab> pronominal base <hom>3.</hom> <s>i</s>), in this manner, thus 
+;
+102388 old in the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s it is often equivalent to ‘as you know’, reminding the hearer or reader of certain customs, conditions, &c. supposed to be known to him). In quotations of every kind <s>i/ti</s> means that the preceding words are the very words which some person has or might have spoken, and placed thus at the end of a speech it serves the purpose of inverted commas (<s>i/ty uktvA</s>, having so said;
+;
+102388 new (in its original signification <s>i/ti</s> refers to something that has been said or thought, or lays stress on what precedes; in the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s it is often equivalent to ‘as you know’, reminding the hearer or reader of certain customs, conditions, &c. supposed to be known to him)**. In quotations of every kind <s>i/ti</s> means that the preceding words are the very words which some person has or might have spoken, and placed thus at the end of a speech it serves the purpose of inverted commas 
+102389 old <s>i/ti kftvA</s>, having so considered, having so decided). It may often have reference merely to what is passing in the mind <ab>e.g.</ab> <s>bAlo 'pi nA<srs/>vamantavyo manuzya i/ti BUmipaH</s>, a king, though a child, is not to be despised, saying to one's self, ‘he is a mortal’, (<ls>Gr. 928.</ls>) In <ab>dram.</ab> <s>i/ti taTA karoti</s> means ‘after these words he acts thus.’ 
+;
+102389 new (<s>i/ty uktvA</s>, having so said; <s>i/ti kftvA</s>, having so considered, having so decided)**. It may often have reference merely to what is passing in the mind <ab>e.g.</ab> <s>bAlo 'pi nA<srs/>vamantavyo manuzya i/ti BUmipaH</s>, a king, though a child, is not to be despised, saying to one's self, ‘he is a mortal’, (<ls>Gr. 928.</ls>) In <ab>dram.</ab> <s>i/ti taTA karoti</s> means ‘after these words he acts thus.’ 
+; -------------------------------------------------------
+; <L>28747<pc>165,1<k1>iti
+102393 old <div n="p"/> <s>kim i/ti</s> = <s>kim</s>, wherefore, why? (In the <s1 slp1="SatapaTa-brAhmaRa">Śatapatha-brāhmaṇa</s1> <s>ti</s> occurs for <s>i/ti</s>;
+;
+102393 new <div n="p"/> <s>kim i/ti</s> = <s>kim</s>, wherefore, why? 
+;
+102394 old <ab>cf.</ab> <ns>Prākṛt</ns> <i>ti</i> and <i>tti</i>.)<info lex="ind"/>
+;
+102394 new (In the <s1 slp1="SatapaTa-brAhmaRa">Śatapatha-brāhmaṇa</s1> <s>ti</s> occurs for <s>i/ti</s>; <ab>cf.</ab> <ns>Prākṛt</ns> <i>ti</i> and <i>tti</i>.)**<info lex="ind"/>
+; -------------------------------------------------------
+; <L>28801<pc>165,2<k1>idam
+102601 old <hom>1.</hom> <s>ida/m</s> ¦ <s>aya/m</s>, <s>iya/m</s>, <s>ida/m</s> (<ab>fr.</ab> <s>id</s>, <ls>Uṇ. iv, 156</ls>;
+;
+102601 new <hom>1.</hom> <s>ida/m</s> ¦ <s>aya/m</s>, <s>iya/m</s>, <s>ida/m</s> 
+;
+102602 old <ab>g.</ab> <s>sarvA<srs/>di</s>, <ls>Pāṇ. i, 1, 27</ls>;
+;
+102602 new 
+;
+102603 old <ls>Vop.</ls>;
+;
+102603 new 
+;
+102604 old a kind of <ab>neut.</ab> of the <ab>pronom.</ab> base <hom>3.</hom> <s>i</s> with <s>am</s> [<ab>cf.</ab> <ab>Lat.</ab> <etym>is</etym>, <etym>ea</etym>, <etym>id</etym>, and <etym>idem</etym>];
+;
+102604 new 
+;
+102605 old the regular forms are partly derived from the <ab>pronom.</ab> base <s>a</s>;
+;
+102605 new 
+;
+102606 old See <ls>Gr. 224</ls>;
+;
+102606 new 
+;
+102607 old the <s1 slp1="veda">Veda</s1> exhibits various irregular formations <ab>e.g.</ab> <ab>fr.</ab> <ab>pronom.</ab> base <s>a</s>, an <ab>inst.</ab> <s>enA/</s>, <s>ayA/</s> [used in general adverbially], and <ab>gen.</ab> <ab>loc.</ab> <ab>du.</ab> <s>ayo/s</s>, and perhaps also <s>avo/s</s>, in <ls>RV. vi, 67, 11</ls>; <ls n="RV.">vii, 67, 4</ls>; <ls n="RV.">x, 132, 5</ls> [<ls>BRD.</ls>];
+;
+102607 new 
+;
+102608 old <ab>fr.</ab> the base <s>ima</s>, a <ab>gen.</ab> <ab>sing.</ab> <s>ima/sya</s>, only, <ls>RV.</ls>;
+;
+102608 new 
+;
+102609 old the <ls>RV.</ls> has in a few instances the irregular accentuation <s>a/smE</s>, <ls n="RV.">v, 39, 5</ls>, &c.;
+;
+102609 new 
+;
+102610 old <s>a/sya</s>, <ls n="RV.">iv, 15, 5</ls>, &c.;
+;
+102610 new (<ab>fr.</ab> <s>id</s>, <ls>Uṇ. iv, 156</ls>; <ab>g.</ab> <s>sarvA<srs/>di</s>, <ls>Pāṇ. i, 1, 27</ls>; <ls>Vop.</ls>; a kind of <ab>neut.</ab> of the <ab>pronom.</ab> base <hom>3.</hom> <s>i</s> with <s>am</s> [<ab>cf.</ab> <ab>Lat.</ab> <etym>is</etym>, <etym>ea</etym>, <etym>id</etym>, and <etym>idem</etym>]; the regular forms are partly derived from the <ab>pronom.</ab> base <s>a</s>; see <ls>Gr. 224</ls>; the <s1 slp1="veda">Veda</s1> exhibits various irregular formations <ab>e.g.</ab> <ab>fr.</ab> <ab>pronom.</ab> base <s>a</s>, an <ab>inst.</ab> <s>enA/</s>, <s>ayA/</s> [used in general adverbially], and <ab>gen.</ab> <ab>loc.</ab> <ab>du.</ab> <s>ayo/s</s>, and perhaps also <s>avo/s</s>, in <ls>RV. vi, 67, 11</ls>; <ls n="RV.">vii, 67, 4</ls>; <ls n="RV.">x, 132, 5</ls> [<ls>BRD.</ls>]; <ab>fr.</ab> the base <s>ima</s>, a <ab>gen.</ab> <ab>sing.</ab> <s>ima/sya</s>, only, <ls>RV.</ls>; the <ls>RV.</ls> has in a few instances the irregular accentuation <s>a/smE</s>, <ls n="RV.">v, 39, 5</ls>, &c.; <s>a/sya</s>, <ls n="RV.">iv, 15, 5</ls>, &c.; <s>A/Bis</s>, <ls n="RV.">vi, 25, 2</ls>, &c. : the forms derived <ab>fr.</ab> <s>a</s> are used enclitically if they take the place of the third personal pronoun, do not stand at the beginning of a verse or period, and have no peculiar stress laid upon them)**,
+;
+102611 old <s>A/Bis</s>, <ls n="RV.">vi, 25, 2</ls>, &c. : the forms derived <ab>fr.</ab> <s>a</s> are used enclitically if they take the place of the third personal pronoun, do not stand at the beginning of a verse or period, and have no peculiar stress laid upon them), this, this here, referring to something near the speaker<info lexcat="LEXID=pron,STEM=idam"/>
+;
+102611 new this, this here, referring to something near the speaker<info lexcat="LEXID=pron,STEM=idam"/>
+; -------------------------------------------------------
+; <L>29223<pc>167,2<k1>indriya
+104038 old ¦ the number five as symbolical of the five senses. (In addition to the five organs of perception, <s>budDI<srs/>ndriyARi</s> or <s>jYAne<srs/>ndriyARi</s>, <ab>i.e.</ab> eye, ear, nose, tongue, and skin, the <ns>Hindūs</ns> enumerate five organs of action, <s>karme<srs/>ndriyARi</s> <ab>i.e.</ab> larynx, hand, foot, anus, and parts of generation;
+;
+104038 new ¦ the number five as symbolical of the five senses. 
+;
+104039 old between these ten organs and the soul or <s>Atman</s> stands <s>manas</s> or mind, considered as an eleventh organ;
+;
+104039 new 
+;
+104040 old in the <s1 slp1="vedAnta">Vedānta</s1>, <s>manas</s>, <s>budDi</s>, <s>ahaMkAra</s>, and <s>citta</s> form the four inner or internal organs, <s>antar-indriyARi</s>, so that according to this reckoning the organs are fourteen in number, each being presided over by its own ruler or <s>niyantf</s>;
+;
+104040 new 
+;
+104041 old thus, the eye by the Sun, the ear by the Quarters of the world, the nose by the two <s1 slp1="aSvin">Aśvin</s1>s, the tongue by <s1 slp1="pracetas">Pracetas</s1>, the skin by the Wind, the voice by Fire, the hand by <s1 slp1="indra">Indra</s1>, the foot by <s1 slp1="vizRu">Viṣṇu</s1>, the anus by <s1 slp1="mitra">Mitra</s1>, the parts of generation by <s1 slp1="prajApati">Prajāpati</s1>, manas by the Moon, <s1 slp1="budDi">buddhi</s1> by <s1 slp1="brahman">Brahman</s1>, <s1 slp1="ahaMkAra">ahaṃkāra</s1> by <s1 slp1="Siva">Śiva</s1>, citta by <s1 slp1="vizRu">Viṣṇu</s1> as <s1 slp1="acyuta">Acyuta</s1>;
+;
+104041 new 
+;
+104042 old in the <s1 slp1="nyAya">Nyāya</s1> philosophy each organ is connected with its own peculiar element, the nose with the Earth, the tongue with Water, the eye with Light or Fire, the skin with Air, the ear with Ether;
+;
+104042 new 
+;
+104043 old the <s1 slp1="jEna">Jaina</s1>s divide the whole creation into five sections, according to the number of organs attributed to each being.)<info lex="inh"/>
+;
+104043 new (In addition to the five organs of perception, <s>budDI<srs/>ndriyARi</s> or <s>jYAne<srs/>ndriyARi</s>, <ab>i.e.</ab> eye, ear, nose, tongue, and skin, the <ns>Hindūs</ns> enumerate five organs of action, <s>karme<srs/>ndriyARi</s> <ab>i.e.</ab> larynx, hand, foot, anus, and parts of generation; between these ten organs and the soul or <s>Atman</s> stands <s>manas</s> or mind, considered as an eleventh organ; in the <s1 slp1="vedAnta">Vedānta</s1>, <s>manas</s>, <s>budDi</s>, <s>ahaMkAra</s>, and <s>citta</s> form the four inner or internal organs, <s>antar-indriyARi</s>, so that according to this reckoning the organs are fourteen in number, each being presided over by its own ruler or <s>niyantf</s>; thus, the eye by the Sun, the ear by the Quarters of the world, the nose by the two <s1 slp1="aSvin">Aśvin</s1>s, the tongue by <s1 slp1="pracetas">Pracetas</s1>, the skin by the Wind, the voice by Fire, the hand by <s1 slp1="indra">Indra</s1>, the foot by <s1 slp1="vizRu">Viṣṇu</s1>, the anus by <s1 slp1="mitra">Mitra</s1>, the parts of generation by <s1 slp1="prajApati">Prajāpati</s1>, manas by the Moon, <s1 slp1="budDi">buddhi</s1> by <s1 slp1="brahman">Brahman</s1>, <s1 slp1="ahaMkAra">ahaṃkāra</s1> by <s1 slp1="Siva">Śiva</s1>, citta by <s1 slp1="vizRu">Viṣṇu</s1> as <s1 slp1="acyuta">Acyuta</s1>; in the <s1 slp1="nyAya">Nyāya</s1> philosophy each organ is connected with its own peculiar element, the nose with the Earth, the tongue with Water, the eye with Light or Fire, the skin with Air, the ear with Ether; the <s1 slp1="jEna">Jaina</s1>s divide the whole creation into five sections, according to the number of organs attributed to each being.)**<info lex="inh"/>
+; -------------------------------------------------------
+; <L>32084.1<pc>1321,3<k1>udaDinemi
+114158 old <s>udaDi—nemi</s> ¦ <lex>mfn.</lex> ocean-encircled, <ls>Ragh.</ls>).<info n="sup"/><info lex="m:f:n"/>
+;
+114158 new <s>udaDi—nemi</s> ¦ <lex>mfn.</lex> ocean-encircled, <ls>Ragh.</ls>**.<info n="sup"/><info lex="m:f:n"/>
+; -------------------------------------------------------
+; <L>36243<pc>210,2<k1>upasfj
+128342 old <s>upa-√ sfj</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-sfjati</s>, <s>-sfjate</s> (<ab>aor.</ab> <ab>Ā.</ab> 1. <ab>sg.</ab> <s>-sfkzi</s>, <ls>RV. ii, 35, 1</ls> :
+;
+128342 new <s>upa-√ sfj</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-sfjati</s>, <s>-sfjate</s> (<ab>aor.</ab> <ab>Ā.</ab> 1. <ab>sg.</ab> <s>-sfkzi</s>, <ls>RV. ii, 35, 1</ls> : <ab>Pass.</ab> 3. <ab>sg.</ab> <s>-sarji</s>, <ls>RV. ix, 69, 1</ls>)
+;
+128343 old <div n="to"/><ab>Pass.</ab> 3. <ab>sg.</ab> <s>-sarji</s>, <ls>RV. ix, 69, 1</ls>) to let loose upon or towards;
+;
+128343 new <div n="to"/>to let loose upon or towards;
+; -------------------------------------------------------
+; <L>38737<pc>225,1<k1>fgveda
+136827 old <s>fg—veda/</s> ¦ <lex>m.</lex> ‘Hymn - <s1 slp1="veda">Veda</s1>’ or ‘<s1 slp1="veda">Veda</s1> of praise’, the <s1 slp1="fg">Ṛg</s1>-<s1 slp1="veda">veda</s1>, or most ancient sacred book of the <ns>Hindūs</ns> (that is, the collective body of sacred verses called <s1 slp1="fca">Ṛca</s1>s [see below], consisting of 1017 hymns [or with the <s1 slp1="vAlaKilya">Vālakhilya</s1>s 1028] arranged in eight <s1 slp1="azwaka">Aṣṭaka</s1>s or in ten <s1 slp1="maRqala">Maṇḍala</s1>s;
+;
+136827 new <s>fg—veda/</s> ¦ <lex>m.</lex> ‘Hymn - <s1 slp1="veda">Veda</s1>’ or ‘<s1 slp1="veda">Veda</s1> of praise’, the <s1 slp1="fg">Ṛg</s1>-<s1 slp1="veda">veda</s1>, or most ancient sacred book of the <ns>Hindūs</ns> 
+;
+136828 old <s1 slp1="maRqala">Maṇḍala</s1>s 2-8 contain groups of hymns, each group ascribed to one author or to the members of one family;
+;
+136828 new 
+;
+136829 old the ninth book contains the hymns sung at the <s1 slp1="soma">Soma</s1> ceremonies;
+;
+136829 new 
+;
+136830 old the first and tenth contain hymns of a different character, some comparatively modern, composed by a greater variety of individual authors;
+;
+136830 new 
+;
+136831 old in its wider sense the term <s1 slp1="fg">Ṛg</s1>-<s1 slp1="veda">veda</s1> comprehends the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s and the <s1 slp1="sUtra">Sūtra</s1> works on the ritual connected with the hymns), <ls>AitBr.</ls>;
+;
+136831 new (that is, the collective body of sacred verses called <s1 slp1="fca">Ṛca</s1>s [see below], consisting of 1017 hymns [or with the <s1 slp1="vAlaKilya">Vālakhilya</s1>s 1028] arranged in eight <s1 slp1="azwaka">Aṣṭaka</s1>s or in ten <s1 slp1="maRqala">Maṇḍala</s1>s; <s1 slp1="maRqala">Maṇḍala</s1>s 2-8 contain groups of hymns, each group ascribed to one author or to the members of one family; the ninth book contains the hymns sung at the <s1 slp1="soma">Soma</s1> ceremonies; the first and tenth contain hymns of a different character, some comparatively modern, composed by a greater variety of individual authors; in its wider sense the term <s1 slp1="fg">Ṛg</s1>-<s1 slp1="veda">veda</s1> comprehends the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s and the <s1 slp1="sUtra">Sūtra</s1> works on the ritual connected with the hymns)**, 
+;
+136832 old <ls>ŚBr.</ls>;
+;
+136832 new <ls>AitBr.</ls>; <ls>ŚBr.</ls>; <ls>Mn.</ls> &c.<info lex="m"/>
+;
+136833 old <ls>Mn.</ls> &c.<info lex="m"/>
+;
+136833 new 
+;
+; -------------------------------------------------------
+; <L>38960<pc>226,2<k1>fBu
+137587 old <s>fBu</s> ¦ <lex>m.</lex> an artist, one who works in iron, a smith, builder (of carriages &c.), <ab>N.</ab> of three semi-divine beings (<s1 slp1="fBu">Ṛbhu</s1>, <s1 slp1="vAja">Vāja</s1>, and <s1 slp1="viBvan">Vibhvan</s1>, the name of the first being applied to all of them;
+;
+137587 new <s>fBu</s> ¦ <lex>m.</lex> an artist, one who works in iron, a smith, builder (of carriages &c.), <ab>N.</ab> of three semi-divine beings
+;
+137588 old thought by some to represent the three seasons of the year 
+;
+137588 new 
+;
+137589 old [<ls>Ludwig, RV. vol. iii, p. 187</ls>], and celebrated for their skill as artists;
+;
+137589 new 
+;
+137590 old they are supposed to dwell in the solar sphere, and are the artists who formed the horses of <s1 slp1="indra">Indra</s1>, the carriage of the <s1 slp1="aSvin">Aśvin</s1>s, and the miraculous cow of <s1 slp1="bfhaspati">Bṛhaspati</s1>;
+;
+137590 new 
+;
+137591 old they made their parents young, and performed other wonderful works [<s1 slp1="svapas">Sv-apas</s1>];
+;
+137591 new 
+;
+137592 old they are supposed to take their ease and remain idle for twelve days [the twelve intercalary days of the winter solstice] every year in the house of the Sun [<s1 slp1="agohya">Agohya</s1>];
+;
+137592 new 
+;
+137593 old after which they recommence working;
+;
+137593 new 
+;
+137594 old when the gods heard of their skill, they sent <s1 slp1="agni">Agni</s1> to them with the one cup of their rival <s1 slp1="tvazwf">Tvaṣṭṛ</s1>, the artificer of the gods, bidding the <s1 slp1="fBu">Ṛbhu</s1>s construct four cups from it;
+;
+137594 new 
+;
+137595 old when they had successfully executed this task, the gods received the <s1 slp1="fBu">Ṛbhu</s1>s amongst themselves and allowed them to partake of their sacrifices &c.;
+;
+137595 new (<s1 slp1="fBu">Ṛbhu</s1>, <s1 slp1="vAja">Vāja</s1>, and <s1 slp1="viBvan">Vibhvan</s1>, the name of the first being applied to all of them; thought by some to represent the three seasons of the year [<ls>Ludwig, RV. vol. iii, p. 187</ls>], and celebrated for their skill as artists; they are supposed to dwell in the solar sphere, and are the artists who formed the horses of <s1 slp1="indra">Indra</s1>, the carriage of the <s1 slp1="aSvin">Aśvin</s1>s, and the miraculous cow of <s1 slp1="bfhaspati">Bṛhaspati</s1>; they made their parents young, and performed other wonderful works [<s1 slp1="svapas">Sv-apas</s1>]; they are supposed to take their ease and remain idle for twelve days [the twelve intercalary days of the winter solstice] every year in the house of the Sun [<s1 slp1="agohya">Agohya</s1>]; after which they recommence working; when the gods heard of their skill, they sent <s1 slp1="agni">Agni</s1> to them with the one cup of their rival <s1 slp1="tvazwf">Tvaṣṭṛ</s1>, the artificer of the gods, bidding the <s1 slp1="fBu">Ṛbhu</s1>s construct four cups from it; when they had successfully executed this task, the gods received the <s1 slp1="fBu">Ṛbhu</s1>s amongst themselves and allowed them to partake of their sacrifices &c.; <ab>cf.</ab> <ls>Kaegi, RV. p. 53 f.</ls>)**,
+;
+137596 old <ab>cf.</ab> <ls>Kaegi, RV. p. 53 f.</ls>), <ls>RV.</ls>; <ls>AV.</ls> &c.<info lex="m"/>
+;
+137596 new <ls>RV.</ls>; <ls>AV.</ls> &c.<info lex="m"/>
+; -------------------------------------------------------
+; <L>40181.2<pc>232,2<k1>eva
+141825 old ¦ (in its most frequent use of strengthening the idea expressed by any word, <s>eva</s> must be variously rendered by such adverbs as) just, exactly, very, same, only, even, alone, merely, immediately on, still, already, &c. (<ab>e.g.</ab> <s>tvam eva yantA nA<srs/>nyo 'sti pfTivyAm</s>, thou alone art a charioteer, no other is on earth, <ab>i.e.</ab> thou art the best charioteer, <ls>MBh. iii, 2825</ls>;
+;
+141825 new ¦ (in its most frequent use of strengthening the idea expressed by any word, <s>eva</s> must be variously rendered by such adverbs as) just, exactly, very, same, only, even, alone, merely, immediately on, still, already, &c. 
+;
+141826 old <s>tAvatIm eva rAtrim</s>, just so long as a night;
+;
+141826 new 
+;
+141827 old <s>evam eva</s> or <s>taTE<srs/>va</s>, exactly so, in this manner only;
+;
+141827 new 
+;
+141828 old in the same manner as above;
+;
+141828 new 
+;
+141829 old <s>tenE<srs/>va mantreRa</s>, with the same <s1 slp1="mantra">Mantra</s1> as above;
+;
+141829 new 
+;
+141830 old <s>apaH spfzwvE<srs/>va</s>, by merely touching water;
+;
+141830 new 
+;
+141831 old <s>tAn eva</s>, these very persons;
+;
+141831 new 
+;
+141832 old <s>na cirAd eva</s>, in no long time at all;
+;
+141832 new 
+;
+141833 old <s>japyenE<srs/>va</s>, by sole repetition;
+;
+141833 new 
+;
+141834 old <s>aBuktvE<srs/>va</s>, even without having eaten;
+;
+141834 new 
+;
+141835 old <s>iti vadann eva</s>, at the very moment of saying so;
+;
+141835 new (<ab>e.g.</ab> <s>tvam eva yantA nA<srs/>nyo 'sti pfTivyAm</s>, thou alone art a charioteer, no other is on earth, <ab>i.e.</ab> thou art the best charioteer, <ls>MBh. iii, 2825</ls>; <s>tAvatIm eva rAtrim</s>, just so long as a night; <s>evam eva</s> or <s>taTE<srs/>va</s>, exactly so, in this manner only; in the same manner as above; <s>tenE<srs/>va mantreRa</s>, with the same <s1 slp1="mantra">Mantra</s1> as above; <s>apaH spfzwvE<srs/>va</s>, by merely touching water; <s>tAn eva</s>, these very persons; <s>na cirAd eva</s>, in no long time at all; <s>japyenE<srs/>va</s>, by sole repetition; <s>aBuktvE<srs/>va</s>, even without having eaten; <s>iti vadann eva</s>, at the very moment of saying so; <s>sa jIvann eva</s>, he while still living, &c.)**,
+;
+141836 old <s>sa jIvann eva</s>, he while still living, &c.), <ls>RV.</ls> &c., <ls>MBh.</ls> &c.<info lex="inh"/>
+;
+141836 new <ls>RV.</ls> &c., <ls>MBh.</ls> &c.<info lex="inh"/>
+; -------------------------------------------------------
+; <L>40194<pc>232,2<k1>evam
+141884 old <s>eva/m</s> ¦ <lex>ind.</lex> (<ab>fr.</ab> <ab>pronom.</ab> base <s>e</s>, <ls>BRD.</ls>;
+;
+141884 new <s>eva/m</s> ¦ <lex>ind.</lex> (<ab>fr.</ab> <ab>pronom.</ab> base <s>e</s>, <ls>BRD.</ls>; probably connected with <hom>1.</hom> <s>eva/</s>)**,
+;
+141885 old probably connected with <hom>1.</hom> <s>eva/</s>), thus, in this way, in such a manner, such, (it is not found in the oldest hymns of the <s1 slp1="veda">Veda</s1>, where its place is taken by <hom>1.</hom> <s>eva/</s>, but occurs in later hymns and in the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s, especially in connection with √ <s>vid</s>, ‘to know’, and its derivatives [<ab>e.g.</ab> <s>ya evaM veda</s>, he who knows so; <ab>cf.</ab> <s>evaM-vi/d</s>, <ab>col.</ab> 3];
+;
+141885 new thus, in this way, in such a manner, such, (it is not found in the oldest hymns of the <s1 slp1="veda">Veda</s1>, where its place is taken by <hom>1.</hom> <s>eva/</s>, but occurs in later hymns and in the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s, especially in connection with √ <s>vid</s>, ‘to know’, and its derivatives [<ab>e.g.</ab> <s>ya evaM veda</s>, he who knows so; <ab>cf.</ab> <s>evaM-vi/d</s>, <ab>col.</ab> 3];
+; -------------------------------------------------------
+; <L>40704<pc>235,3<k1>om
+143623 old <s>o/m</s> ¦ <lex>ind.</lex> (√ <s>av</s>, <ls>Uṇ. i, 141</ls>;
+;
+143623 new <s>o/m</s> ¦ <lex>ind.</lex> (√ <s>av</s>, <ls>Uṇ. i, 141</ls>; originally <s>oM</s> = <s>AM</s>, which may be derived from <s>A</s>, <ls>BRD.</ls>)**,
+;
+143624 old originally <s>oM</s> = <s>AM</s>, which may be derived from <s>A</s>, <ls>BRD.</ls>), a word of solemn affirmation and respectful assent, sometimes translated by ‘yes, verily, so be it’ (and in this sense compared with Amen;
+;
+143624 new a word of solemn affirmation and respectful assent, sometimes translated by ‘yes, verily, so be it’
+;
+143625 old it is placed at the commencement of most <ns>Hindū</ns> works, and as a sacred exclamation may be uttered [but not so as to be heard by ears profane] at the beginning and end of a reading of the <s1 slp1="veda">Veda</s1>s or previously to any prayer;
+;
+143625 new 
+;
+143626 old it is also regarded as a particle of auspicious salutation [Hail!];
+;
+143626 new 
+;
+143627 old <s>om</s> appears first in the <s1 slp1="upanizad">Upaniṣad</s1>s as a mystic monosyllable, and is there set forth as the object of profound religious meditation, the highest spiritual efficacy being attributed not only to the whole word but also to the three sounds <s>a</s>, <s>u</s>, <s>m</s>, of which it consists;
+;
+143627 new 
+;
+143628 old in later times <s>om</s> is the mystic name for the <ns>Hindū</ns> triad, and represents the union of the three gods, <ab>viz.</ab> a (<s1 slp1="vizRu">Viṣṇu</s1>), <s>u</s> (<s1 slp1="Siva">Śiva</s1>), <s>m</s> (<s1 slp1="brahmA">Brahmā</s1>);
+;
+143628 new 
+;
+143629 old it may also be typical of the three <s1 slp1="veda">Veda</s1>s;
+;
+143629 new 
+;
+143630 old <s>om</s> is usually called <s>praRava</s>, more rarely <s>akzara</s>, or <s>ekAkzara</s>, and only in later times <s>oMkAra</s>), <ls>VS.</ls>;
+;
+143630 new (and in this sense compared with Amen; it is placed at the commencement of most <ns>Hindū</ns> works, and as a sacred exclamation may be uttered [but not so as to be heard by ears profane] at the beginning and end of a reading of the <s1 slp1="veda">Veda</s1>s or previously to any prayer; it is also regarded as a particle of auspicious salutation [Hail!]; <s>om</s> appears first in the <s1 slp1="upanizad">Upaniṣad</s1>s as a mystic monosyllable, and is there set forth as the object of profound religious meditation, the highest spiritual efficacy being attributed not only to the whole word but also to the three sounds <s>a</s>, <s>u</s>, <s>m</s>, of which it consists; in later times <s>om</s> is the mystic name for the <ns>Hindū</ns> triad, and represents the union of the three gods, <ab>viz.</ab> a (<s1 slp1="vizRu">Viṣṇu</s1>), <s>u</s> (<s1 slp1="Siva">Śiva</s1>), <s>m</s> (<s1 slp1="brahmA">Brahmā</s1>); it may also be typical of the three <s1 slp1="veda">Veda</s1>s; <s>om</s> is usually called <s>praRava</s>, more rarely <s>akzara</s>, or <s>ekAkzara</s>, and only in later times <s>oMkAra</s>)**,
+;
+143631 old <ls>ŚBr.</ls>;
+;
+143631 new <ls>VS.</ls>; <ls>ŚBr.</ls>; <ls>ChUp.</ls> &c.<info lex="ind"/>
+;
+143632 old <ls>ChUp.</ls> &c.<info lex="ind"/>
+;
+143632 new 
+;
+; -------------------------------------------------------
+; <L>41227<pc>239,3<k1>Orva
+145375 old ¦ (in later mythology he is called <s1 slp1="Orva">Aurva</s1> <s1 slp1="BArgava">Bhārgava</s1> as son of <s1 slp1="cyavana">Cyavana</s1> and grandson of <s1 slp1="Bfgu">Bhṛgu</s1>;
+;
+145375 new ¦ (in later mythology he is called <s1 slp1="Orva">Aurva</s1> <s1 slp1="BArgava">Bhārgava</s1> as son of <s1 slp1="cyavana">Cyavana</s1> and grandson of <s1 slp1="Bfgu">Bhṛgu</s1>; he is the subject of a legend told in <ls>MBh. i, 6802</ls>; there it is said that the sons of <s1 slp1="kftavIrya">Kṛtavīrya</s1>, wishing to destroy the descendants of <s1 slp1="Bfgu">Bhṛgu</s1> in order to recover the wealth left them by their father, slew even the children in the womb; new one of the women of the family of <s1 slp1="Bfgu">Bhṛgu</s1>, in order to preserve her embryo, secreted it in her thigh [<s>Uru</s>], whence the child at its birth was named <s1 slp1="Orva">Aurva</s1>; on beholding whom, the sons of <s1 slp1="kftavIrya">Kṛtavīrya</s1> were struck with blindness, and from whose wrath proceeded a flame that threatened to destroy the world, had not <s1 slp1="Orva">Aurva</s1> at the persuasion of the <s1 slp1="BArgava">Bhārgava</s1>s cast it into the ocean, where it remained concealed, and having the face of a horse; <s1 slp1="Orva">Aurva</s1> was afterwards preceptor to <s1 slp1="sagara">Sagara</s1> and gave him the <s1 slp1="AgneyAstram">Āgneyâstram</s1>, with which he conquered the barbarians who invaded his possessions; <ab>cf.</ab> <s>vaqavA-muKa</s>, <s>vaqavA<srs/>gni</s>)**<info lex="inh"/>
+;
+145376 old he is the subject of a legend told in <ls>MBh. i, 6802</ls>;
+;
+145376 new 
+;
+145377 old there it is said that the sons of <s1 slp1="kftavIrya">Kṛtavīrya</s1>, wishing to destroy the descendants of <s1 slp1="Bfgu">Bhṛgu</s1> in order to recover the wealth left them by their father, slew even the children in the womb;
+;
+145377 new
+;
+145378 old one of the women of the family of <s1 slp1="Bfgu">Bhṛgu</s1>, in order to preserve her embryo, secreted it in her thigh [<s>Uru</s>], whence the child at its birth was named <s1 slp1="Orva">Aurva</s1>;
+;
+145378 
+;
+145379 old on beholding whom, the sons of <s1 slp1="kftavIrya">Kṛtavīrya</s1> were struck with blindness, and from whose wrath proceeded a flame that threatened to destroy the world, had not <s1 slp1="Orva">Aurva</s1> at the persuasion of the <s1 slp1="BArgava">Bhārgava</s1>s cast it into the ocean, where it remained concealed, and having the face of a horse;
+;
+145379 new 
+;
+145380 old <s1 slp1="Orva">Aurva</s1> was afterwards preceptor to <s1 slp1="sagara">Sagara</s1> and gave him the <s1 slp1="AgneyAstram">Āgneyâstram</s1>, with which he conquered the barbarians who invaded his possessions;
+;
+145380 new 
+;
+145381 old <ab>cf.</ab> <s>vaqavA-muKa</s>, <s>vaqavA<srs/>gni</s>)<info lex="inh"/>
+;
+145381 new 
+; -------------------------------------------------------
+; <L>41336.3<pc>240,3<k1>ka
+; 145752 145758
+145752 old ¦ <s>ka</s> is occasionally used alone as an indefinite pronoun, especially in negative sentences (<ab>e.g.</ab> <s>na kasya ko vallaBaH</s>, no one is a favourite of any one;
+;
+145752 new ¦ <s>ka</s> is occasionally used alone as an indefinite pronoun, especially in negative sentences 
+;
+145753 old <s>nA<srs/>nyo jAnAti kaH</s>, no one else knows;
+;
+145753 new (<ab>e.g.</ab> <s>na kasya ko vallaBaH</s>, no one is a favourite of any one; <s>nA<srs/>nyo jAnAti kaH</s>, no one else knows; <s>kaTaM sa GAtayati kam</s>, how does he kill any one?) 
+;
+145754 old <s>kaTaM sa GAtayati kam</s>, how does he kill any one?) Generally, however, <s>ka</s> is only made indefinite when connected with the particles <s>ca</s>, <s>cana/</s>, <s>cid</s>, <s>vA</s>, and <s>a/pi</s>, in which case <s>ka</s> may sometimes be preceded by the relative <s>ya</s> (<ab>e.g.</ab> <s>ye ke ca</s>, any persons whatsoever;
+;
+145754 new Generally, however, <s>ka</s> is only made indefinite when connected with the particles <s>ca</s>, <s>cana/</s>, <s>cid</s>, <s>vA</s>, and <s>a/pi</s>, in which case <s>ka</s> may sometimes be preceded by the relative <s>ya</s>
+;
+145755 old <s>yasyE kasyE ca devatAyE</s>, to any deity whatsoever;
+;
+145755 new (<ab>e.g.</ab> <s>ye ke ca</s>, any persons whatsoever; <s>yasyE kasyE ca devatAyE</s>, to any deity whatsoever; <s>yAni kAni ca mitrARi</s>, any friends whatsoever; <s>yat kiMca</s>, whatever). 
+;
+145756 old <s>yAni kAni ca mitrARi</s>, any friends whatsoever;
+;
+145756 new The particle <s>cana</s>, being composed of <s>ca</s> and <s>na</s>, properly gives a negative force to the pronoun
+;
+145757 old <s>yat kiMca</s>, whatever). 
+;
+145757 new (<ab>e.g.</ab> <s>yasmAd indrAd fte kiMcana</s>, without which <s1 slp1="indra">Indra</s1> there is nothing),
+;
+145758 old The particle <s>cana</s>, being composed of <s>ca</s> and <s>na</s>, properly gives a negative force to the pronoun (<ab>e.g.</ab> <s>yasmAd indrAd fte kiMcana</s>, without which <s1 slp1="indra">Indra</s1> there is nothing), but the negative sense is generally dropped
+;
+145758 new but the negative sense is generally dropped (<ab>e.g.</ab> <s>kaScana</s>, any one; <s>na kaScana</s>, no one), 
+;
+145759 old <s>na kaScana</s>, no one), and a relative is sometimes connected with it (<ab>e.g.</ab> <s>yat kiMcana</s>, anything whatsoever). Examples of <s>cid</s> with the interrogative are common; <s>vA</s> and <s>api</s> are not so common, but the latter is often found in classical <ns>Sanskṛt</ns> (<ab>e.g.</ab> <s>kaScid</s>, any one;
+;
+145759 new and a relative is sometimes connected with it
+; 
+145760 old <s>kecid</s>, some;
+;
+145760 new (<ab>e.g.</ab> <s>yat kiMcana</s>, anything whatsoever). 
+;
+145761 old <s>na kaScid</s>, no one;
+;
+145761 new Examples of <s>cid</s> with the interrogative are common; <s>vA</s> and <s>api</s> are not so common, but the latter is often found in classical <ns>Sanskṛt</ns>
+;
+145762 old <s>na kiMcid api</s>, nothing whatsoever;
+;
+145762 new 
+;
+145763 old <s>yaH kaScid</s>, any one whatsoever;
+;
+145763 new 
+;
+145764 old <s>kecit</s> - <s>kecit</s>, some - others;
+;
+145764 new 
+;
+145765 old <s>yasmin kasmin vA deSe</s>, in any country whatsoever;
+;
+145765 new 
+;
+145766 old <s>na ko 'pi</s>, no one;
+;
+145766 new (<ab>e.g.</ab> <s>kaScid</s>, any one; <s>kecid</s>, some; <s>na kaScid</s>, no one; <s>na kiMcid api</s>, nothing whatsoever; <s>yaH kaScid</s>, any one whatsoever; <s>kecit</s> - <s>kecit</s>, some - others; <s>yasmin kasmin vA deSe</s>, in any country whatsoever; <s>na ko 'pi</s>, no one; <s>na kimapi</s>, nothing whatever). 
+;
+145767 old <s>na kimapi</s>, nothing whatever). <s>ka</s> may sometimes be used, like <hom>2.</hom> <s>kad</s>, at the beginning of a compound. See <s>ka-pUya</s>, &c. <s>na kimapi</s>, nothing whatever)**. 
+;
+145767 new <s>ka</s> may sometimes be used, like <hom>2.</hom> <s>kad</s>, at the beginning of a compound. See <s>ka-pUya</s>, &c.
+; -------------------------------------------------------
+; <L>43073<pc>249,1<k1>kanyakubja
+151430 old <s>kanya—kubja</s> ¦ <lex>n.</lex> (<lex type="hwalt">f(<s>A</s>). </lex>, <ls>L.</ls>), <ab>N.</ab> of an ancient city of great note (in the north-western provinces of India, situated on the <s>kAlI nadI</s>, a branch of the <s1 slp1="gaNgA">Gaṅgā</s1>, in the modern district of Farrukhabad;
+;
+151430 new <s>kanya—kubja</s> ¦ <lex>n.</lex> (<lex type="hwalt">f(<s>A</s>). </lex>, <ls>L.</ls>), <ab>N.</ab> of an ancient city of great note
+;
+151431 old the popular spelling of the name presents, perhaps, greater variations than that of any place in India [<ab>e.g.</ab> <i>Kanauj</i>, <i>Kunnoj</i>, <i>Kunnouj</i>, <i>Kinoge</i>, <i>Kinnoge</i>, <i>Kinnauj</i>, <i>Kanoj</i>, <i>Kannauj</i>, <i>Kunowj</i>, <i>Canowj</i> <i>Canoje</i>, <i>Canauj</i>, &c.];
+;
+151431 new 
+;
+151432 old in antiquity this city ranks next to <s1 slp1="ayoDyA">Ayodhyā</s1> in Oude;
+;
+151432 new 
+;
+151433 old it is known in classical geography as Canogyza;
+;
+151433 new 
+;
+151434 old but the name applies also to its dependencies and the surrounding district;
+;
+151434 new 
+;
+151435 old the current etymology [<s>kanyA</s>, ‘a girl’, shortened to <s>kanya</s>, and <s>kubja</s>, ‘round-shouldered or crooked’] refers to a legend in <ls>R. i, 32, 11 ff.</ls>, relating to the hundred daughters of <s1 slp1="kuSanABa">Kuśanābha</s1>, the king of this city, who were all rendered crooked by <s1 slp1="vAyu">Vāyu</s1> for non-compliance with his licentious desires;
+;
+151435 new (in the north-western provinces of India, situated on the <s>kAlI nadI</s>, a branch of the <s1 slp1="gaNgA">Gaṅgā</s1>, in the modern district of Farrukhabad; the popular spelling of the name presents, perhaps, greater variations than that of any place in India [<ab>e.g.</ab> <i>Kanauj</i>, <i>Kunnoj</i>, <i>Kunnouj</i>, <i>Kinoge</i>, <i>Kinnoge</i>, <i>Kinnauj</i>, <i>Kanoj</i>, <i>Kannauj</i>, <i>Kunowj</i>, <i>Canowj</i> <i>Canoje</i>, <i>Canauj</i>, &c.]; in antiquity this city ranks next to <s1 slp1="ayoDyA">Ayodhyā</s1> in Oude; it is known in classical geography as Canogyza; but the name applies also to its dependencies and the surrounding district; the current etymology [<s>kanyA</s>, ‘a girl’, shortened to <s>kanya</s>, and <s>kubja</s>, ‘round-shouldered or crooked’] refers to a legend in <ls>R. i, 32, 11 ff.</ls>, relating to the hundred daughters of <s1 slp1="kuSanABa">Kuśanābha</s1>, the king of this city, who were all rendered crooked by <s1 slp1="vAyu">Vāyu</s1> for non-compliance with his licentious desires; the ruins of the ancient city are said to occupy a site larger than that of London),
+;
+151436 old the ruins of the ancient city are said to occupy a site larger than that of London), <ls>MBh.</ls>;
+;
+151436 new <ls>MBh.</ls>; <ls>Kathās.</ls> &c.<info lex="f#A:n"/>
+;
+151437 old <ls>Kathās.</ls> &c.<info lex="f#A:n"/>
+151437 new 
+;
+; -------------------------------------------------------
+; <L>45277<pc>258,2<k1>karman
+158594 old ¦ (in <ab>Gr.</ab>) the object (it stands either in the <ab>acc.</ab> [in active construction], or in the <ab>nom.</ab> [in passive construction], or in the <ab>gen.</ab> [in connection with a noun of action];
+;
+158594 new ¦ (in <ab>Gr.</ab>) the object (it stands either in the <ab>acc.</ab> [in active construction], or in the <ab>nom.</ab> [in passive construction], or in the <ab>gen.</ab> [in connection with a noun of action]; opposed to <s>kartf</s> the subject), <ls>Pāṇ. i, 4, 49 ff.</ls> 
+;
+158595 old opposed to <s>kartf</s> the subject), <ls>Pāṇ. i, 4, 49 ff.</ls> (it is of four kinds, <ab>viz.</ab> a. <s>nirvartya</s>, when anything new is produced <ab>e.g.</ab> <s>kawaM karoti</s>, ‘he makes a mat’ <pb n="258,3"/>;
+;
+158595 new 
+; 
+158596 old <s>putraM prasUte</s>, ‘she bears a son’;
+;
+158596 new 
+;
+158597 old b. <s>vikArya</s>, when change is implied either of the substance and form <ab>e.g.</ab> <s>kAzWaM Basma karoti</s>, ‘he reduces fuel to ashes’;
+;
+158597 new 
+;
+158598 old or of the form only <ab>e.g.</ab> <s>suvarRaM kuRqalaM karoti</s>, ‘he fashions gold into an ear-ring’;
+;
+158598 new 
+;
+158599 old <ab>c.</ab> <s>prApya</s>, when any desired object is attained <ab>e.g.</ab> <s>grAmaM gacCati</s>, ‘he goes to the village’;
+;
+158599 new 
+;
+158600 old <s>candraM paSyati</s>, ‘he sees the moon’;
+;
+158600 new 
+;
+158601 old d. <s>anIpsita</s>, when an undesired object is abandoned <ab>e.g.</ab> <s>pApaM tyajati</s>, ‘he leaves the wicked’)<info lex="inh"/>
+;
+158601 new (it is of four kinds, <ab>viz.</ab> a. <s>nirvartya</s>, when anything new is produced <ab>e.g.</ab> <s>kawaM karoti</s>, ‘he makes a mat’ <pb n="258,3"/>; <s>putraM prasUte</s>, ‘she bears a son’; b. <s>vikArya</s>, when change is implied either of the substance and form <ab>e.g.</ab> <s>kAzWaM Basma karoti</s>, ‘he reduces fuel to ashes’; or of the form only <ab>e.g.</ab> <s>suvarRaM kuRqalaM karoti</s>, ‘he fashions gold into an ear-ring’; c. <s>prApya</s>, when any desired object is attained <ab>e.g.</ab> <s>grAmaM gacCati</s>, ‘he goes to the village’; <s>candraM paSyati</s>, ‘he sees the moon’; d. <s>anIpsita</s>, when an undesired object is abandoned <ab>e.g.</ab> <s>pApaM tyajati</s>, ‘he leaves the wicked’)<info lex="inh"/>
+; -------------------------------------------------------
+; <L>45834<pc>261,1<k1>kalA
+160495 old ¦ any practical art, any mechanical or fine art (sixty-four are enumerated in the <s1 slp1="SEvatantra">Śaivatantra</s1> [<ls>T.</ls>];
+;
+160495 new ¦ any practical art, any mechanical or fine art 
+;
+160496 old the following is a list of them: 
+;
+160496 new 
+;
+160497 old <s>gItam</s>, <s>vAdyam</s>, <s>nftyam</s>, <s>nAwyam</s>, <s>AleKyam</s>, <s>viSezaka-cCedyam</s>, <s>taRqula-kusuma-balivikArAH</s>, <s>puzpA<srs/>staranam</s>, <s>daSana-vasanA<srs/>NgarAgAH</s>, <s>maRi-BUmikA-karma</s>, <s>Sayana-racanam</s>, <s>udaka-vAdyam</s>, <s>udaka-GAtaH</s>, <s>citrA yogAH</s>, <s>mAlya-granTana-vikalpAH</s>, <s>keSa-SeKarA<srs/>pIqayojanam</s>, <s>nepaTya-yogAH</s>, <s>karRa-pattra-BaNgAH</s>, <s>ganDa-yuktiH</s>, <s>BUzaRa-yojanam</s>, <s>indrajAlam</s>, <s>kOcumAra-yogAH</s>, <s>hasta-lAGavam</s>, <s>citraSAkA<srs/>pUpa-Bakzya-vikAra-kriyA</s>, <s>pAnaka-rasarAgA<srs/>sava-yojanam</s>, <s>sUcIvApa-karma</s>, <s>vIRA-qama-ruka-sUtra-krIqA</s>, <s>prahelikA</s>, 
+;
+160497 new 
+;
+160498 old <s>pratimA</s>, <s>durvacakayogAH</s>, <s>pustaka-vAcanam</s>, <s>nAwakA<srs/>KyAyikA-darSanam</s>, <s>kAvya-samasyA-pUraRam</s>, <s>pawwikA-vetrabARa-vikalpAH</s>, <s>tarkU-karmARi</s>, <s>takzaRam</s>, <s>vAstu-vidyA</s>, <s>rUpya-ratna-parIkzA</s>, <s>DAtu-vAdaH</s>, <s>maRi-rAga-jYAnam</s>, <s>Akara-jYAnam</s>, <s>vfkzA<srs/>yur-veda-yogAH</s>, <s>meza-kukkuwa-lAvaka-yudDa-viDiH</s>, <s>Suka-sArikA-pralApanam</s>, <s>utsAdanam</s>, <s>keSa-mArjana-kOSalam</s>, <s>akzara-muzwikA-kaTanam</s>, <s>mleCitaka-vikalpAH</s>, <s>deSa-BAzA-jYAnam</s>, <s>puzpa-SakawikA-nimitta-jYAnam</s>, <s>yantra-mAtfkA</s>, <s>DAraRa-mAtfkA</s>, <s>saMpAwyam</s>, <s>mAnasI kAvya-kriyA</s>, 
+;
+160498 new 
+;
+160499 old <s>kriyA-vikalpAH</s>, <s>CalitakayogAH</s>, <s>aBiDAna-koza-cCando-jYAnam</s>, <s>vastra-gopanAni</s>, <s>dyUta-viSezaH</s>, <s>AkarzaRa-krIqA</s>, <s>bAlaka-krIqanakAni</s>, <s>vEnAyikInAM vidyARAM jYAnam</s>, <s>vEjayikInAM vidyAnAM jYAnam</s> <pb n="261,2"/>;
+;
+160499 new 
+;
+160500 old See also, <ls>Vātsy. i, 3, 17</ls>), <ls>R.</ls>;
+;
+160500 new (sixty-four are enumerated in the <s1 slp1="SEvatantra">Śaivatantra</s1> [<ls>T.</ls>]; the following is a list of them: <s>gItam</s>, <s>vAdyam</s>, <s>nftyam</s>, <s>nAwyam</s>, <s>AleKyam</s>, <s>viSezaka-cCedyam</s>, <s>taRqula-kusuma-balivikArAH</s>, <s>puzpA<srs/>staranam</s>, <s>daSana-vasanA<srs/>NgarAgAH</s>, <s>maRi-BUmikA-karma</s>, <s>Sayana-racanam</s>, <s>udaka-vAdyam</s>, <s>udaka-GAtaH</s>, <s>citrA yogAH</s>, <s>mAlya-granTana-vikalpAH</s>, <s>keSa-SeKarA<srs/>pIqayojanam</s>, <s>nepaTya-yogAH</s>, <s>karRa-pattra-BaNgAH</s>, <s>ganDa-yuktiH</s>, <s>BUzaRa-yojanam</s>, <s>indrajAlam</s>, <s>kOcumAra-yogAH</s>, <s>hasta-lAGavam</s>, <s>citraSAkA<srs/>pUpa-Bakzya-vikAra-kriyA</s>, <s>pAnaka-rasarAgA<srs/>sava-yojanam</s>, <s>sUcIvApa-karma</s>, <s>vIRA-qama-ruka-sUtra-krIqA</s>, <s>prahelikA</s>, <s>pratimA</s>, <s>durvacakayogAH</s>, <s>pustaka-vAcanam</s>, <s>nAwakA<srs/>KyAyikA-darSanam</s>, <s>kAvya-samasyA-pUraRam</s>, <s>pawwikA-vetrabARa-vikalpAH</s>, <s>tarkU-karmARi</s>, <s>takzaRam</s>, <s>vAstu-vidyA</s>, <s>rUpya-ratna-parIkzA</s>, <s>DAtu-vAdaH</s>, <s>maRi-rAga-jYAnam</s>, <s>Akara-jYAnam</s>, <s>vfkzA<srs/>yur-veda-yogAH</s>, <s>meza-kukkuwa-lAvaka-yudDa-viDiH</s>, <s>Suka-sArikA-pralApanam</s>, <s>utsAdanam</s>, <s>keSa-mArjana-kOSalam</s>, <s>akzara-muzwikA-kaTanam</s>, <s>mleCitaka-vikalpAH</s>, <s>deSa-BAzA-jYAnam</s>, <s>puzpa-SakawikA-nimitta-jYAnam</s>, <s>yantra-mAtfkA</s>, <s>DAraRa-mAtfkA</s>, <s>saMpAwyam</s>, <s>mAnasI kAvya-kriyA</s>, <s>kriyA-vikalpAH</s>, <s>CalitakayogAH</s>, <s>aBiDAna-koza-cCando-jYAnam</s>, <s>vastra-gopanAni</s>, <s>dyUta-viSezaH</s>, <s>AkarzaRa-krIqA</s>, <s>bAlaka-krIqanakAni</s>, <s>vEnAyikInAM vidyARAM jYAnam</s>, <s>vEjayikInAM vidyAnAM jYAnam</s> <pb n="261,2"/>; see also, <ls>Vātsy. i, 3, 17</ls>)**,
+;
+160501 old <ls>Pañcat.</ls>;
+;
+160501 new  <ls>R.</ls>; <ls>Pañcat.</ls>; <ls>Bhartṛ.</ls> &c.<info lex="inh"/>
+;
+160502 old <ls>Bhartṛ.</ls> &c.<info lex="inh"/>
+;
+160502 new 
+;
+; -------------------------------------------------------
+; <L>46708<pc>265,2<k1>kaSyapa
+163358 old ¦ of an ancient sage, <ls>VS.</ls>;
+;
+163358 new ¦ of an ancient sage, <ls>VS.</ls>; <ls>AV.</ls> &c.,
+;
+163359 old <ls>AV.</ls> &c., (a descendant of <s1 slp1="marIci">Marīci</s1> and author of several hymns of the <s1 slp1="fg">Ṛg</s1>-<s1 slp1="veda">veda</s1>, <ls>RV.</ls>;
+;
+163359 new 
+;
+163360 old <ls>AV.</ls>;
+;
+163360 new 
+;
+163361 old <ls>ŚBr.</ls>;
+;
+163361 new 
+;
+163362 old he was husband of <s1 slp1="aditi">Aditi</s1> and twelve other daughters of <s1 slp1="dakza">Dakṣa</s1>, <ls>MBh. i, 2598</ls>;
+;
+163362 new 
+;
+163363 old <ls>Mn. ix, 129</ls>;
+;
+163363 new 
+;
+163364 old by <s1 slp1="aditi">Aditi</s1> he was father of the <s1 slp1="Aditya">Āditya</s1>s [<ab>cf.</ab> <s>kASyapeya</s>] <ls>TS.</ls>;
+;
+163364 new 
+;
+163365 old <ls>ŚBr.</ls>;
+;
+163365 new 
+;
+163366 old and of <s1 slp1="vivasvat">Vivasvat</s1>, <ls>R.</ls>;
+;
+163366 new 
+;
+163367 old and of <s1 slp1="vizRu">Viṣṇu</s1> in his <s>vAmana avatAra</s>, <ls>R.</ls>;
+;
+163367 new 
+;
+163368 old <ls>BhP.</ls>;
+;
+163368 new 
+;
+163369 old <ls>VP.</ls>;
+;
+163369 new 
+;
+163370 old by his other twelve wives he was father of demons, <s1 slp1="nAga">nāga</s1>s, reptiles, birds, and all kinds of living things;
+;
+163370 new 
+;
+163371 old from the prominent part ascribed to him in creation he is sometimes called <s1 slp1="prajA-pati">Prajā-pati</s1>;
+;
+163371 new 
+;
+163372 old he is one of the seven great <s1 slp1="fzi">Ṛṣi</s1>s and priest of <s1 slp1="paraSu-rAma">Paraśu-rāma</s1> and <s1 slp1="rAma-candra">Rāma-candra</s1>;
+;
+163372 new 
+;
+163373 old he is supposed by some to be a personification of races inhabiting the Caucasus, the Caspian, <ns>Kaśmīr</ns>, &c.)<info lex="inh"/>
+;
+163373 new (a descendant of <s1 slp1="marIci">Marīci</s1> and author of several hymns of the <s1 slp1="fg">Ṛg</s1>-<s1 slp1="veda">veda</s1>, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls>; he was husband of <s1 slp1="aditi">Aditi</s1> and twelve other daughters of <s1 slp1="dakza">Dakṣa</s1>, <ls>MBh. i, 2598</ls>; <ls>Mn. ix, 129</ls>; by <s1 slp1="aditi">Aditi</s1> he was father of the <s1 slp1="Aditya">Āditya</s1>s [<ab>cf.</ab> <s>kASyapeya</s>] <ls>TS.</ls>; <ls>ŚBr.</ls>; and of <s1 slp1="vivasvat">Vivasvat</s1>, <ls>R.</ls>; and of <s1 slp1="vizRu">Viṣṇu</s1> in his <s>vAmana avatAra</s>, <ls>R.</ls>; <ls>BhP.</ls>; <ls>VP.</ls>; by his other twelve wives he was father of demons, <s1 slp1="nAga">nāga</s1>s, reptiles, birds, and all kinds of living things; from the prominent part ascribed to him in creation he is sometimes called <s1 slp1="prajA-pati">Prajā-pati</s1>; he is one of the seven great <s1 slp1="fzi">Ṛṣi</s1>s and priest of <s1 slp1="paraSu-rAma">Paraśu-rāma</s1> and <s1 slp1="rAma-candra">Rāma-candra</s1>; he is supposed by some to be a personification of races inhabiting the Caucasus, the Caspian, <ns>Kaśmīr</ns>, &c.)**<info lex="inh"/>
+; -------------------------------------------------------
+; <L>48295.6<pc>273,1<k1>kAmam
+168430 old ¦ though, although, supposing that (usually with <ab>Impv.</ab>), <ls>R. vi, 95, 49</ls> and <ls n="R. vi, 95,">56</ls>;
+;
+168430 new ¦ though, although, supposing that (usually with <ab>Impv.</ab>), <ls>R. vi, 95, 49</ls> and <ls n="R. vi, 95,">56</ls>; <ls>Ragh. ii, 43</ls>; <ls>Śāntiś.</ls>
+;
+168431 old <ls>Ragh. ii, 43</ls>;
+;
+168431 new 
+;
+168432 old <ls>Śāntiś.</ls> (<s>kAmaM-na</s> or <s>na tu</s> or <s>na ca</s>, rather than <ab>e.g.</ab> <s>kAmam A maraRAt tizWed gfhe kanyA</s> - <s>na enAm prayacCet tu guRa-hInAya</s>, ‘rather should a girl stay at home till her death, than that he should give her to one void of excellent qualities’ <ls>Mn. ix, 89</ls>;
+;
+168432 new 
+;
+168433 old the negative sentence with <s>na</s> or <s>natu</s> or <s>na ca</s> may also precede, or its place may be taken by an interrogative sentence <ab>e.g.</ab> <s>kAmaM nayatu mAM devaH kim arDenA<srs/>tmano hi me</s>, ‘rather let the god take me, what is the use to me of half my existence?’ <ls>BhP. vii, 2, 54</ls> <pb n="273,2"/>;
+;
+168433 new 
+;
+168434 old <s>kAmaM</s> - <s>tu</s> or <s>kiM tu</s> or <s>ca</s> or <s>punar</s> or <s>aTA<srs/>pi</s> or <s>taTA<srs/>pi</s>, well, indeed, surely, truly, granted, though - however, notwithstanding, nevertheless <ab>e.g.</ab> <s>kAmaM tvayA parityaktA gamizyAmi</s> - <s>imaM tu bAlaM saMtyaktuM</s>, <s>nA<srs/>rhasi</s>, ‘granted that forsaken by thee I shall go - this child however thou must not forsake’ <ls>MBh. i, 3059</ls>;
+;
+168434 new 
+;
+168435 old or the disjunctive particles may be left out, <ls>R.</ls>;
+;
+168435 new 
+;
+168436 old <ls>Ragh. ii, 43</ls>;
+;
+168436 new 
+;
+168437 old <ls>Śāntiś.</ls>;
+;
+168437 new 
+;
+168438 old <s>yady-api-kAmaM taTA<srs/>pi</s>, though - nevertheless, <ls>Prab.</ls>)<info lex="inh"/>
+;
+168438 new (<s>kAmaM-na</s> or <s>na tu</s> or <s>na ca</s>, rather than <ab>e.g.</ab> <s>kAmam A maraRAt tizWed gfhe kanyA</s> - <s>na enAm prayacCet tu guRa-hInAya</s>, ‘rather should a girl stay at home till her death, than that he should give her to one void of excellent qualities’ <ls>Mn. ix, 89</ls>; the negative sentence with <s>na</s> or <s>natu</s> or <s>na ca</s> may also precede, or its place may be taken by an interrogative sentence <ab>e.g.</ab> <s>kAmaM nayatu mAM devaH kim arDenA<srs/>tmano hi me</s>, ‘rather let the god take me, what is the use to me of half my existence?’ <ls>BhP. vii, 2, 54</ls> <pb n="273,2"/>; <s>kAmaM</s> - <s>tu</s> or <s>kiM tu</s> or <s>ca</s> or <s>punar</s> or <s>aTA<srs/>pi</s> or <s>taTA<srs/>pi</s>, well, indeed, surely, truly, granted, though - however, notwithstanding, nevertheless <ab>e.g.</ab> <s>kAmaM tvayA parityaktA gamizyAmi</s> - <s>imaM tu bAlaM saMtyaktuM</s>, <s>nA<srs/>rhasi</s>, ‘granted that forsaken by thee I shall go - this child however thou must not forsake’ <ls>MBh. i, 3059</ls>; or the disjunctive particles may be left out, <ls>R.</ls>; <ls>Ragh. ii, 43</ls>; <ls>Śāntiś.</ls>; <s>yady-api-kAmaM taTA<srs/>pi</s>, though - nevertheless, <ls>Prab.</ls>)<info lex="inh"/>
+; -------------------------------------------------------
+; <L>48778<pc>275,3<k1>kArttikeya
+170001 old <s>kArttikeya</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1 slp1="Siva">Śiva</s1> and <s1 slp1="pArvatI">Pārvatī</s1> (popularly regarded as god of war, because he leads the <s1 slp1="gaRa">Gaṇa</s1>s or hosts of <s1 slp1="Siva">Śiva</s1> against the demon hosts See <ls>RTL. p. 213</ls>;
+;
+170001 new <s>kArttikeya</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of <s1 slp1="Siva">Śiva</s1> and <s1 slp1="pArvatI">Pārvatī</s1>
+;
+170002 old <ab>accord.</ab> to one legend he was son of <s1 slp1="Siva">Śiva</s1> without the intervention of <s1 slp1="pArvatI">Pārvatī</s1>, the generative energy of <s1 slp1="Siva">Śiva</s1> being cast into the fire and then received by the Ganges, whence he is sometimes described as son of <s1 slp1="agni">Agni</s1> and <s1 slp1="gaNgA">Gaṅgā</s1>;
+;
+170002 new 
+;
+170003 old when born he was fostered by the six <s1 slp1="kfttikA">Kṛttikā</s1>s <ab>q.v.</ab>, and these offering their six breasts to the child he became six-headed;
+;
+170003 new 
+;
+170004 old he is also called <s1 slp1="kumAra">Kumāra</s1>, <s1 slp1="skanda">Skanda</s1>, and <s1 slp1="subrahmaRya">Subrahmaṇya</s1>;
+;
+170004 new 
+;
+170005 old his <ab>N.</ab> <s1 slp1="kArttikeya">Kārttikeya</s1> may be derived from his foster mothers or from the month <s1 slp1="kArttika">Kārttika</s1> as the best for warfare: in the <ls>Mṛcch.</ls> and elsewhere he is regarded as presiding over thieves), <ls>MBh.</ls> &c.<info lex="m"/>
+;
+170005 new (popularly regarded as god of war, because he leads the <s1 slp1="gaRa">Gaṇa</s1>s or hosts of <s1 slp1="Siva">Śiva</s1> against the demon hosts See <ls>RTL. p. 213</ls>; <ab>accord.</ab> to one legend he was son of <s1 slp1="Siva">Śiva</s1> without the intervention of <s1 slp1="pArvatI">Pārvatī</s1>, the generative energy of <s1 slp1="Siva">Śiva</s1> being cast into the fire and then received by the Ganges, whence he is sometimes described as son of <s1 slp1="agni">Agni</s1> and <s1 slp1="gaNgA">Gaṅgā</s1>; when born he was fostered by the six <s1 slp1="kfttikA">Kṛttikā</s1>s <ab>q.v.</ab>, and these offering their six breasts to the child he became six-headed; he is also called <s1 slp1="kumAra">Kumāra</s1>, <s1 slp1="skanda">Skanda</s1>, and <s1 slp1="subrahmaRya">Subrahmaṇya</s1>; his <ab>N.</ab> <s1 slp1="kArttikeya">Kārttikeya</s1> may be derived from his foster mothers or from the month <s1 slp1="kArttika">Kārttika</s1> as the best for warfare: in the <ls>Mṛcch.</ls> and elsewhere he is regarded as presiding over thieves), <ls>MBh.</ls> &c.<info lex="m"/>
+; -------------------------------------------------------
+; <L>52133<pc>291,1<k1>kuntI
+180687 old <s>kuntI</s> ¦ <lex>f.</lex> <ab>N.</ab> of <s1 slp1="pfTA">Pṛthā</s1> (daughter of a <s1 slp1="yAdava">Yādava</s1> prince named <s1 slp1="SUra">Śūra</s1> [or <s1 slp1="vasu">Vasu</s1>, <ls>Hariv. 5255</ls>], who gave her to his childless cousin <s1 slp1="kunti">Kunti</s1> or <s1 slp1="kuntiBoja">Kuntibhoja</s1>, by whom she was adopted;
+;
+180687 new <s>kuntI</s> ¦ <lex>f.</lex> <ab>N.</ab> of <s1 slp1="pfTA">Pṛthā</s1>
+;
+180688 old she afterwards became one of the wives of <s1 slp1="pARqu">Pāṇḍu</s1>;
+;
+180688 new 
+;
+180689 old on one occasion before her marriage she paid such respect to the powerful sage <s1 slp1="durvAsas">Durvāsas</s1> that he taught her an incantation or charm, by virtue of which she was to have a child by any god she liked to invoke;
+;
+180689 new 
+;
+180690 old out of curiosity she invoked the Sun, by whom she had a child <ab>cf.</ab> <s>karRa</s>;
+;
+180690 new 
+;
+180691 old but the Sun afterwards restored to her her maidenhood;
+;
+180691 new 
+;
+180692 old soon after his marriage <s1 slp1="pARqu">Pāṇḍu</s1> retired to the woods to indulge his passion for hunting;
+;
+180692 new 
+;
+180693 old there he killed a male and female deer, who turned out to be a <s1 slp1="fzi">Ṛṣi</s1> and his wife in the form of these animals;
+;
+180693 new 
+;
+180694 old the sage cursed <s1 slp1="pARqu">Pāṇḍu</s1> and predicted that he would die in the embrace of one of his wives <pb n="291,2"/>;
+;
+180694 new 
+;
+180695 old hence <s1 slp1="pARqu">Pāṇḍu</s1> lived apart from <s1 slp1="kuntI">Kuntī</s1>, but with his approval she made use of her charm and had three sons, <s1 slp1="yuDizWira">Yudhiṣṭhira</s1>, <s1 slp1="BIma">Bhīma</s1>, and <s1 slp1="arjuna">Arjuna</s1>, by the three deities <s1 slp1="Darma">Dharma</s1>, <s1 slp1="vAyu">Vāyu</s1>, and <s1 slp1="indra">Indra</s1> respectively;
+;
+180695 new (daughter of a <s1 slp1="yAdava">Yādava</s1> prince named <s1 slp1="SUra">Śūra</s1> [or <s1 slp1="vasu">Vasu</s1>, <ls>Hariv. 5255</ls>], who gave her to his childless cousin <s1 slp1="kunti">Kunti</s1> or <s1 slp1="kuntiBoja">Kuntibhoja</s1>, by whom she was adopted; she afterwards became one of the wives of <s1 slp1="pARqu">Pāṇḍu</s1>; on one occasion before her marriage she paid such respect to the powerful sage <s1 slp1="durvAsas">Durvāsas</s1> that he taught her an incantation or charm, by virtue of which she was to have a child by any god she liked to invoke; out of curiosity she invoked the Sun, by whom she had a child <ab>cf.</ab> <s>karRa</s>; but the Sun afterwards restored to her her maidenhood; soon after his marriage <s1 slp1="pARqu">Pāṇḍu</s1> retired to the woods to indulge his passion for hunting; there he killed a male and female deer, who turned out to be a <s1 slp1="fzi">Ṛṣi</s1> and his wife in the form of these animals; the sage cursed <s1 slp1="pARqu">Pāṇḍu</s1> and predicted that he would die in the embrace of one of his wives <pb n="291,2"/>; hence <s1 slp1="pARqu">Pāṇḍu</s1> lived apart from <s1 slp1="kuntI">Kuntī</s1>, but with his approval she made use of her charm and had three sons, <s1 slp1="yuDizWira">Yudhiṣṭhira</s1>, <s1 slp1="BIma">Bhīma</s1>, and <s1 slp1="arjuna">Arjuna</s1>, by the three deities <s1 slp1="Darma">Dharma</s1>, <s1 slp1="vAyu">Vāyu</s1>, and <s1 slp1="indra">Indra</s1> respectively; <ab>cf.</ab> <s>mAdrI</s>)**,
+;
+180696 old <ab>cf.</ab> <s>mAdrI</s>), <ls>Pāṇ.</ls>;
+180696 new 
+;
+180697 old <ls>MBh.</ls> &c.<info lex="f"/>
+180697 new <ls>Pāṇ.</ls>; <ls>MBh.</ls> &c.<info lex="f"/>
+;
+; -------------------------------------------------------
+; <L>54148<pc>300,3<k1>kf
+187132 old I) <ab>cl.</ab> 2. <ab>P.</ab> 2. <ab>sg.</ab> <s>ka/rzi</s> <ab>du.</ab> <s>kfTa/s</s> <ab>pl.</ab> <s>kfTa/</s>;
+;
+187132 new (I)** <ab>cl.</ab> 2. <ab>P.</ab> 2. <ab>sg.</ab> <s>ka/rzi</s> <ab>du.</ab> <s>kfTa/s</s> <ab>pl.</ab> <s>kfTa/</s>;
+; -------------------------------------------------------
+; <L>54148<pc>300,3<k1>kf
+187137 old II) <ab>cl.</ab> 1. <ab>P.</ab> <s>ka/rasi</s>, <s>ka/rati</s>, <s>ka/raTas</s>, <s>ka/ratas</s>, <s>ka/ranti</s>; <ab>Ā.</ab> <s>ka/rase</s>, <s>ka/rate</s>, <s>ka/rAmahe</s>: <ab>impf.</ab> <s>a/karam</s>, <s>a/karas</s>, <s>a/karat</s> (<ab>aor.</ab>, according to, <ls>Pāṇ. iii, 1, 59</ls>) : <ab>Impv.</ab> <s>ka/ra</s>, <s>ka/ratam</s>, <s>ka/ratAm</s>: <ab>Subj.</ab> <s>ka/ram</s>, <s>ka/rARi</s>, <s>ka/ras</s>, <s>ka/rat</s>, <s>ka/rAma</s>, <s>ka/ran</s>; <ab>Ā.</ab> <s>karAmahE</s>; <ab>pr. p.</ab> <lex type="part">f.</lex> <s>ka/rantI</s> (<ls>Naigh.</ls>) 
+;
+187137 new (II)** <ab>cl.</ab> 1. <ab>P.</ab> <s>ka/rasi</s>, <s>ka/rati</s>, <s>ka/raTas</s>, <s>ka/ratas</s>, <s>ka/ranti</s>; <ab>Ā.</ab> <s>ka/rase</s>, <s>ka/rate</s>, <s>ka/rAmahe</s>: <ab>impf.</ab> <s>a/karam</s>, <s>a/karas</s>, <s>a/karat</s> (<ab>aor.</ab>, according to, <ls>Pāṇ. iii, 1, 59</ls>) : <ab>Impv.</ab> <s>ka/ra</s>, <s>ka/ratam</s>, <s>ka/ratAm</s>: <ab>Subj.</ab> <s>ka/ram</s>, <s>ka/rARi</s>, <s>ka/ras</s>, <s>ka/rat</s>, <s>ka/rAma</s>, <s>ka/ran</s>; <ab>Ā.</ab> <s>karAmahE</s>; <ab>pr. p.</ab> <lex type="part">f.</lex> <s>ka/rantI</s> (<ls>Naigh.</ls>) 
+; -------------------------------------------------------
+; <L>54148<pc>300,3<k1>kf
+187138 old III) <ab>cl.</ab> 5. <ab>P.</ab> <s>kfRo/mi</s>, <s>°Ro/zi</s>, <s>°Ro/ti</s>, <s>kfRuTa/s</s>, <s>kfRma/s</s> and <s>kfRmasi</s>, <s>kfRuTa/</s>, <s>kfRva/nti</s>;
+;
+187138 new (III)** <ab>cl.</ab> 5. <ab>P.</ab> <s>kfRo/mi</s>, <s>°Ro/zi</s>, <s>°Ro/ti</s>, <s>kfRuTa/s</s>, <s>kfRma/s</s> and <s>kfRmasi</s>, <s>kfRuTa/</s>, <s>kfRva/nti</s>;
+; -------------------------------------------------------
+; <L>54148<pc>300,3<k1>kf
+187144 old IV) <ab>cl.</ab> 8. (this is the usual formation in the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s; <s1 slp1="sUtra">Sūtra</s1>s, and in classical <ns>Sanskṛt</ns>) 
+;
+187144 new (IV)** <ab>cl.</ab> 8. (this is the usual formation in the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s; <s1 slp1="sUtra">Sūtra</s1>s, and in classical <ns>Sanskṛt</ns>) 
+; -------------------------------------------------------
+; <L>54860<pc>305,1<k1>kfpa
+189479 old <s>kf/pa</s> ¦ <lex>mf(<s>I</s>). </lex> <ab>N.</ab> of the son and daughter of the sage <s1 slp1="Saradvat">Śaradvat</s1> (who performed severe penance;
+;
+189479 new <s>kf/pa</s> ¦ <lex>mf(<s>I</s>). </lex> <ab>N.</ab> of the son and daughter of the sage <s1 slp1="Saradvat">Śaradvat</s1> 
+;
+189480 old the jealous <s1 slp1="indra">Indra</s1> therefore sent a nymph to tempt him, but without success;
+;
+189480 new 
+;
+189481 old however, twin sons were born to the sage in a clump of grass [<s>Sara-stambe</s>], who were found by king <s1 slp1="SAntanu">Śāntanu</s1> and out of pity [<s>kfpA</s>] taken home and reared;
+;
+189481 new 
+;
+189482 old the daughter, <s1 slp1="kfpI">Kṛpī</s1>, married <s1 slp1="droRa">Droṇa</s1>, and had by him a son called <s1 slp1="aSvatTAman">Aśvatthāman</s1>;
+;
+189482 new 
+;
+189483 old the son, <s1 slp1="kfpa">Kṛpa</s1>, became one of the council at <s1 slp1="hastinApura">Hastināpura</s1>, and is sometimes called <s1 slp1="gOtama">Gautama</s1>, sometimes <s1 slp1="SAradvata">Śāradvata</s1>;
+;
+189483 new 
+;
+189484 old according to, <ls>Hariv.</ls> and, <ls>VP.</ls>, <s1 slp1="kfpa">Kṛpa</s1> and <s1 slp1="kfpI">Kṛpī</s1> were only distant descendants of <s1 slp1="Saradvat">Śaradvat</s1>;
+;
+189484 new 
+;
+189485 old according to others, <s1 slp1="kfpa">Kṛpa</s1> = <s1 slp1="vyAsa">Vyāsa</s1> or = a son of <s1 slp1="kfzRa">Kṛṣṇa</s1>), <ls>MBh.</ls> &c.<info lex="m:f#I"/>
+;
+189485 new (who performed severe penance; the jealous <s1 slp1="indra">Indra</s1> therefore sent a nymph to tempt him, but without success; however, twin sons were born to the sage in a clump of grass [<s>Sara-stambe</s>], who were found by king <s1 slp1="SAntanu">Śāntanu</s1> and out of pity [<s>kfpA</s>] taken home and reared; the daughter, <s1 slp1="kfpI">Kṛpī</s1>, married <s1 slp1="droRa">Droṇa</s1>, and had by him a son called <s1 slp1="aSvatTAman">Aśvatthāman</s1>; the son, <s1 slp1="kfpa">Kṛpa</s1>, became one of the council at <s1 slp1="hastinApura">Hastināpura</s1>, and is sometimes called <s1 slp1="gOtama">Gautama</s1>, sometimes <s1 slp1="SAradvata">Śāradvata</s1>; according to, <ls>Hariv.</ls> and, <ls>VP.</ls>, <s1 slp1="kfpa">Kṛpa</s1> and <s1 slp1="kfpI">Kṛpī</s1> were only distant descendants of <s1 slp1="Saradvat">Śaradvat</s1>; according to others, <s1 slp1="kfpa">Kṛpa</s1> = <s1 slp1="vyAsa">Vyāsa</s1> or = a son of <s1 slp1="kfzRa">Kṛṣṇa</s1>)**, <ls>MBh.</ls> &c.<info lex="m:f#I"/>
+; -------------------------------------------------------
+; <L>55154<pc>306,2<k1>kfzRa
+190465 old ¦ <ab>N.</ab> of a celebrated <ns>Avatār</ns> of the god <s1 slp1="vizRu">Viṣṇu</s1>, or sometimes identified with <s1 slp1="vizRu">Viṣṇu</s1> himself ([<ls>MBh. v, 2563</ls>; <ls n="MBh.">xiv, 1589 ff.</ls>; <ls>Hariv. 2359</ls> &c.]) 
+;
+190465 new ¦ <ab>N.</ab> of a celebrated <ns>Avatār</ns> of the god <s1 slp1="vizRu">Viṣṇu</s1>, or sometimes identified with <s1 slp1="vizRu">Viṣṇu</s1> himself [<ls>MBh. v, 2563</ls>; <ls n="MBh.">xiv, 1589 ff.</ls>; <ls>Hariv. 2359</ls> &c.] as distinct from his ten <ns>Avatārs</ns> or incarnations 
+;
+190466 old as distinct from his ten <ns>Avatārs</ns> or incarnations (in the earlier legends he appears as a great hero and teacher [<ls>MBh.</ls>; <ls>Bhag.</ls>];
+;
+190466 new 
+;
+190467 old in the more recent he is deified, and is often represented as a young and amorous shepherd with flowing hair and a flute in his hand;
+;
+190467 new 
+;
+190468 old the following are a few particulars of his birth and history as related in <ls>Hariv. 3304 ff.</ls> and in the <s1 slp1="purARa">Purāṇa</s1>s &c.: <s1 slp1="vasu-deva">Vasu-deva</s1>, who was a descendant of <s1 slp1="yadu">Yadu</s1> and <s1 slp1="yayAti">Yayāti</s1>, had two wives, <s1 slp1="rohiRI">Rohiṇī</s1> and <s1 slp1="devakI">Devakī</s1>;
+;
+190468 new 
+;
+190469 old the latter had eight sons of whom the eighth was <s1 slp1="kfzRa">Kṛṣṇa</s1>;
+;
+190469 new 
+;
+190470 old <s1 slp1="kaMsa">Kaṉsa</s1>, king of <s1 slp1="maTurA">Mathurā</s1> and cousin of <s1 slp1="devakI">Devakī</s1>, was informed by a prediction that one of these sons would kill him;
+;
+190470 new 
+;
+190471 old he therefore kept <s1 slp1="vasu-deva">Vasu-deva</s1> and his wife in confinement, and slew their first six children;
+;
+190471 new 
+;
+190472 old the seventh was <s1 slp1="balarAma">Balarāma</s1> who was saved by being abstracted from the womb of <s1 slp1="devakI">Devakī</s1> and transferred to that of <s1 slp1="rohiRI">Rohiṇī</s1>;
+;
+190472 new 
+;
+190473 old the eighth was <s1 slp1="kfzRa">Kṛṣṇa</s1> who was born with black skin and a peculiar mark on his breast;
+;
+190473 new 
+;
+190474 old his father <s1 slp1="vasu-deva">Vasu-deva</s1> managed to escape from <s1 slp1="maTurA">Mathurā</s1> with the child, and favoured by the gods found a herdsman named <s1 slp1="nanda">Nanda</s1> whose wife <s1 slp1="yaSo-dA">Yaśo-dā</s1> had just been delivered of a son which <s1 slp1="vasu-deva">Vasu-deva</s1> conveyed to <s1 slp1="devakI">Devakī</s1> after substituting his own in its place. <s1 slp1="nanda">Nanda</s1> with his wife <s1 slp1="yaSo-dA">Yaśo-dā</s1> took the infant <s1 slp1="kfzRa">Kṛṣṇa</s1> and settled first in <s1 slp1="gokula">Gokula</s1> or <s1 slp1="vraja">Vraja</s1>, and afterwards in <s1 slp1="vfndAvana">Vṛndāvana</s1>, where <s1 slp1="kfzRa">Kṛṣṇa</s1> and <s1 slp1="bala-rAma">Bala-rāma</s1> grew up together, roaming in the woods and joining in the sports of the herdsmen's sons <pb n="306,3"/>;
+;
+190474 new 
+;
+190475 old <s1 slp1="kfzRa">Kṛṣṇa</s1> as a youth contested the sovereignty of <s1 slp1="indra">Indra</s1>, and was victorious over that god, who descended from heaven to praise <s1 slp1="kfzRa">Kṛṣṇa</s1>, and made him lord over the cattle [<ls>Hariv. 3787 ff.</ls>; <ls n="Hariv.">7456 ff.</ls>; <ls>VP.</ls>];
+;
+190475 new 
+;
+190476 old <s1 slp1="kfzRa">Kṛṣṇa</s1> is described as sporting constantly with the <s1 slp1="gopI">Gopī</s1>s or shepherdesses [<ls>Hariv. 4078 ff.</ls>; <ls n="Hariv.">8301 ff.</ls>; <ls>VP.</ls>; <ls>Gīt.</ls>]
+;
+190476 new 
+;
+190477 old of whom a thousand became his wives, though only eight are specified, <s1 slp1="rADA">Rādhā</s1> being the favourite [<ls>Hariv. 6694 ff.</ls>; <ls n="Hariv.">9177 ff.</ls>; <ls>VP.</ls>];
+;
+190477 new 
+;
+190478 old <s1 slp1="kfzRa">Kṛṣṇa</s1> built and fortified a city called <s1 slp1="dvArakA">Dvārakā</s1> in <ns>Gujarāt</ns>, and thither transported the inhabitants of <s1 slp1="maTurA">Mathurā</s1> after killing <s1 slp1="kaMsa">Kaṉsa</s1>;
+;
+190478 new 
+;
+190479 old <s1 slp1="kfzRa">Kṛṣṇa</s1> had various wives besides the <s1 slp1="gopI">Gopī</s1>s, and by <s1 slp1="rukmiRI">Rukmiṇī</s1> had a son <s1 slp1="pradyumna">Pradyumna</s1> who is usually identified with <s1 slp1="kAma-deva">Kāma-deva</s1>;
+;
+190479 new 
+;
+190480 old with <ns>Jain</ns>s, <s1 slp1="kfzRa">Kṛṣṇa</s1> is one of the nine black <s1 slp1="vasu-deva">Vasu-deva</s1>s;
+;
+190480 new 
+;
+190481 old with <ns>Buddhists</ns> he is the chief of the black demons, who are the enemies of <s1 slp1="budDa">Buddha</s1> and the white demons)<info lex="inh"/>
+;
+190481 new (in the earlier legends he appears as a great hero and teacher [<ls>MBh.</ls>; <ls>Bhag.</ls>]; in the more recent he is deified, and is often represented as a young and amorous shepherd with flowing hair and a flute in his hand; the following are a few particulars of his birth and history as related in <ls>Hariv. 3304 ff.</ls> and in the <s1 slp1="purARa">Purāṇa</s1>s &c.: <s1 slp1="vasu-deva">Vasu-deva</s1>, who was a descendant of <s1 slp1="yadu">Yadu</s1> and <s1 slp1="yayAti">Yayāti</s1>, had two wives, <s1 slp1="rohiRI">Rohiṇī</s1> and <s1 slp1="devakI">Devakī</s1>; the latter had eight sons of whom the eighth was <s1 slp1="kfzRa">Kṛṣṇa</s1>; <s1 slp1="kaMsa">Kaṉsa</s1>, king of <s1 slp1="maTurA">Mathurā</s1> and cousin of <s1 slp1="devakI">Devakī</s1>, was informed by a prediction that one of these sons would kill him; he therefore kept <s1 slp1="vasu-deva">Vasu-deva</s1> and his wife in confinement, and slew their first six children; the seventh was <s1 slp1="balarAma">Balarāma</s1> who was saved by being abstracted from the womb of <s1 slp1="devakI">Devakī</s1> and transferred to that of <s1 slp1="rohiRI">Rohiṇī</s1>; the eighth was <s1 slp1="kfzRa">Kṛṣṇa</s1> who was born with black skin and a peculiar mark on his breast; his father <s1 slp1="vasu-deva">Vasu-deva</s1> managed to escape from <s1 slp1="maTurA">Mathurā</s1> with the child, and favoured by the gods found a herdsman named <s1 slp1="nanda">Nanda</s1> whose wife <s1 slp1="yaSo-dA">Yaśo-dā</s1> had just been delivered of a son which <s1 slp1="vasu-deva">Vasu-deva</s1> conveyed to <s1 slp1="devakI">Devakī</s1> after substituting his own in its place. <s1 slp1="nanda">Nanda</s1> with his wife <s1 slp1="yaSo-dA">Yaśo-dā</s1> took the infant <s1 slp1="kfzRa">Kṛṣṇa</s1> and settled first in <s1 slp1="gokula">Gokula</s1> or <s1 slp1="vraja">Vraja</s1>, and afterwards in <s1 slp1="vfndAvana">Vṛndāvana</s1>, where <s1 slp1="kfzRa">Kṛṣṇa</s1> and <s1 slp1="bala-rAma">Bala-rāma</s1> grew up together, roaming in the woods and joining in the sports of the herdsmen's sons <pb n="306,3"/>; <s1 slp1="kfzRa">Kṛṣṇa</s1> as a youth contested the sovereignty of <s1 slp1="indra">Indra</s1>, and was victorious over that god, who descended from heaven to praise <s1 slp1="kfzRa">Kṛṣṇa</s1>, and made him lord over the cattle [<ls>Hariv. 3787 ff.</ls>; <ls n="Hariv.">7456 ff.</ls>; <ls>VP.</ls>]; <s1 slp1="kfzRa">Kṛṣṇa</s1> is described as sporting constantly with the <s1 slp1="gopI">Gopī</s1>s or shepherdesses [<ls>Hariv. 4078 ff.</ls>; <ls n="Hariv.">8301 ff.</ls>; <ls>VP.</ls>; <ls>Gīt.</ls>] of whom a thousand became his wives, though only eight are specified, <s1 slp1="rADA">Rādhā</s1> being the favourite [<ls>Hariv. 6694 ff.</ls>; <ls n="Hariv.">9177 ff.</ls>; <ls>VP.</ls>]; <s1 slp1="kfzRa">Kṛṣṇa</s1> built and fortified a city called <s1 slp1="dvArakA">Dvārakā</s1> in <ns>Gujarāt</ns>, and thither transported the inhabitants of <s1 slp1="maTurA">Mathurā</s1> after killing <s1 slp1="kaMsa">Kaṉsa</s1>; <s1 slp1="kfzRa">Kṛṣṇa</s1> had various wives besides the <s1 slp1="gopI">Gopī</s1>s, and by <s1 slp1="rukmiRI">Rukmiṇī</s1> had a son <s1 slp1="pradyumna">Pradyumna</s1> who is usually identified with <s1 slp1="kAma-deva">Kāma-deva</s1>; with <ns>Jain</ns>s, <s1 slp1="kfzRa">Kṛṣṇa</s1> is one of the nine black <s1 slp1="vasu-deva">Vasu-deva</s1>s; with <ns>Buddhists</ns> he is the chief of the black demons, who are the enemies of <s1 slp1="budDa">Buddha</s1> and the white demons)<info lex="inh"/>
+; -------------------------------------------------------
+; <L>62631<pc>343,2<k1>gaReSa
+214370 old <s>gaRe<srs/>Sa</s> <hom>a</hom> ¦ <lex>m.</lex> (= <s>°Ra-nATa</s>) <ab>N.</ab> of the god of wisdom and of obstacles (son of <s1 slp1="Siva">Śiva</s1> and <s1 slp1="pArvatI">Pārvatī</s1>, or according to one legend of <s1 slp1="pArvatI">Pārvatī</s1> alone;
+;
+214370 new <s>gaRe<srs/>Sa</s> <hom>a</hom> ¦ <lex>m.</lex> (= <s>°Ra-nATa</s>) <ab>N.</ab> of the god of wisdom and of obstacles
+;
+214371 old though <s1 slp1="gaReSa">Gaṇêśa</s1> causes obstacles he also removes them;
+;
+214371 new 
+;
+214372 old hence he is invoked at the commencement of all undertakings and at the opening of all compositions with the words <s>namo gaRe<srs/>SAya viGne<srs/>SvarAya</s>;
+;
+214372 new 
+;
+214373 old he is represented as a short fat man with a protuberant belly, frequently riding on a rat or attended by one, and to denote his sagacity has the head of an elephant, which however has only one tusk;
+;
+214373 new 
+;
+214374 old the appellation <s1 slp1="gaReSa">Gaṇêśa</s1>, with other similar compounds, alludes to his office as chief of the various classes of subordinate gods, who are regarded as <s1 slp1="Siva">Śiva</s1>'s attendants;
+;
+214374 new 
+;
+214375 old <ab>cf.</ab> <ls>RTL. pp. 48</ls>, <ls n="RTL. pp.">62</ls>, <ls n="RTL. pp.">79</ls>, <ls n="RTL. pp.">392</ls>, <ls n="RTL. pp.">440</ls>;
+;
+214375 new 
+;
+214376 old he is said to have written down the <ls>MBh.</ls> as dictated by <s1 slp1="vyAsa">Vyāsa</s1>, <ls>MBh. i, 74 ff.</ls>;
+;
+214376 new 
+;
+214377 old persons possessed, by <s1 slp1="gaReSa">Gaṇêśa</s1> are referred to, <ls>Yājñ. i, 270 ff.</ls>)<info lex="m"/>
+;
+214377 new (son of <s1 slp1="Siva">Śiva</s1> and <s1 slp1="pArvatI">Pārvatī</s1>, or according to one legend of <s1 slp1="pArvatI">Pārvatī</s1> alone; though <s1 slp1="gaReSa">Gaṇêśa</s1> causes obstacles he also removes them; hence he is invoked at the commencement of all undertakings and at the opening of all compositions with the words <s>namo gaRe<srs/>SAya viGne<srs/>SvarAya</s>; he is represented as a short fat man with a protuberant belly, frequently riding on a rat or attended by one, and to denote his sagacity has the head of an elephant, which however has only one tusk; the appellation <s1 slp1="gaReSa">Gaṇêśa</s1>, with other similar compounds, alludes to his office as chief of the various classes of subordinate gods, who are regarded as <s1 slp1="Siva">Śiva</s1>'s attendants; <ab>cf.</ab> <ls>RTL. pp. 48</ls>, <ls n="RTL. pp.">62</ls>, <ls n="RTL. pp.">79</ls>, <ls n="RTL. pp.">392</ls>, <ls n="RTL. pp.">440</ls>; he is said to have written down the <ls>MBh.</ls> as dictated by <s1 slp1="vyAsa">Vyāsa</s1>, <ls>MBh. i, 74 ff.</ls>; persons possessed, by <s1 slp1="gaReSa">Gaṇêśa</s1> are referred to, <ls>Yājñ. i, 270 ff.</ls>)<info lex="m"/>
+; -------------------------------------------------------
+; <L>63278<pc>346,1<k1>ganDarva
+216414 old they live in the sky (<ls>RV.</ls>;
+;
+216414 new they live in the sky (<ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr. xiv</ls>)**,
+;
+216415 old <ls>AV.</ls>;
+;
+216415 new 
+;
+216416 old <ls>ŚBr. xiv</ls>), guard the <s1 slp1="soma">Soma</s1> (<ls>RV. ix, 113, 3</ls>;
+;
+216416 new guard the <s1 slp1="soma">Soma</s1> (<ls>RV. ix, 113, 3</ls>; <ls>ŚBr. iii</ls>; <ls>AitBr. i, 27</ls>),
+;
+216417 old <ls>ŚBr. iii</ls>;
+;
+216417 new 
+;
+216418 old <ls>AitBr. i, 27</ls>), are governed by <s1 slp1="varuRa">Varuṇa</s1> (just as the <s1 slp1="apsarasa">Apsarasa</s1>s are governed by <s1 slp1="soma">Soma</s1>), <ls>ŚBr. xiii</ls>;
+;
+216418 new are governed by <s1 slp1="varuRa">Varuṇa</s1> (just as the <s1 slp1="apsarasa">Apsarasa</s1>s are governed by <s1 slp1="soma">Soma</s1>), <ls>ŚBr. xiii</ls>; <ls>ĀśvŚr. x, 7, 3</ls>,
+;
+216419 old <ls>ĀśvŚr. x, 7, 3</ls>, know the best medicines (<ls>AV. viii, 7, 23</ls>;
+;
+216419 new know the best medicines (<ls>AV. viii, 7, 23</ls>; <ls>VS. xii, 98</ls>), 
+;
+; 
+216420 old <ls>VS. xii, 98</ls>), regulate the course of the asterisms (<ls>AV. xiii, 1, 23</ls>;
+;
+216420 new regulate the course of the asterisms (<ls>AV. xiii, 1, 23</ls>; <ls>BhP. iv, 29, 21</ls>; hence twenty-seven are mentioned, <ls>VS. ix, 7</ls>),
+; 
+216421 old <ls>BhP. iv, 29, 21</ls>;
+;
+216421 new 
+;
+216422 old hence twenty-seven are mentioned, <ls>VS. ix, 7</ls>), follow after women and are desirous of intercourse with them (<ls>AV.</ls>;
+;
+216422 new follow after women and are desirous of intercourse with them (<ls>AV.</ls>; <ls>ŚBr. iii</ls>);
+; 
+216423 old <ls>ŚBr. iii</ls>);
+;
+216423 new 
+; 
+216424 old as soon as a girl becomes marriageable, she belongs to <s1 slp1="soma">Soma</s1>, the <s1 slp1="ganDarva">Gandharva</s1>s, and <s1 slp1="agni">Agni</s1> (<ls>Gṛhyās. ii, 19 f.</ls>;
+;
+216424 new as soon as a girl becomes marriageable, she belongs to <s1 slp1="soma">Soma</s1>, the <s1 slp1="ganDarva">Gandharva</s1>s, and <s1 slp1="agni">Agni</s1> (<ls>Gṛhyās. ii, 19 f.</ls>; <ls>Pañcat.</ls>; <ls>Suśr.</ls>)**;
+;
+216425 old <ls>Pañcat.</ls>;
+;
+216425 new 
+;
+216426 old <ls>Suśr.</ls>);
+;
+216426 new 
+; 
+216427 old the wives of the <s1 slp1="ganDarva">Gandharva</s1>s are the <s1 slp1="apsarasa">Apsarasa</s1>s (<ab>cf.</ab> <s>ganDarvA<srs/>psara/s</s>), and like them the <s1 slp1="ganDarva">Gandharva</s1>s are invoked in gambling with dice (<ls>AV. vii, 109, 5</ls>);
+;
+216427 new the wives of the <s1 slp1="ganDarva">Gandharva</s1>s are the <s1 slp1="apsarasa">Apsarasa</s1>s (<ab>cf.</ab> <s>ganDarvA<srs/>psara/s</s>), and like them the <s1 slp1="ganDarva">Gandharva</s1>s are invoked in gambling with dice (<ls>AV. vii, 109, 5</ls>);
+;
+216428 old they are also feared as evil beings together with the <s1 slp1="rAkzasa">Rākṣasa</s1>s, <s1 slp1="kimIdin">Kimīdin</s1>s, <s1 slp1="piSAca">Piśāca</s1>s, &c., amulets being worn as a protection against them (<ls>AV.</ls>;
+;
+216428 new they are also feared as evil beings together with the <s1 slp1="rAkzasa">Rākṣasa</s1>s, <s1 slp1="kimIdin">Kimīdin</s1>s, <s1 slp1="piSAca">Piśāca</s1>s, &c., amulets being worn as a protection against them (<ls>AV.</ls>; <ls>Suśr.</ls>);
+;
+216429 old <ls>Suśr.</ls>);
+;
+216429 new 
+; 
+216430 old they are said to have revealed the <s1 slp1="veda">Veda</s1>s to <s1 slp1="vAc">Vāc</s1> (<ls>ŚBr. iii</ls>;
+;
+216430 new they are said to have revealed the <s1 slp1="veda">Veda</s1>s to <s1 slp1="vAc">Vāc</s1> (<ls>ŚBr. iii</ls>; <ab>cf.</ab> <ls>PārGṛ. ii, 12, 2</ls>),
+;
+216431 old <ab>cf.</ab> <ls>PārGṛ. ii, 12, 2</ls>), and are called the preceptors of the <s1 slp1="fzi">Ṛṣi</s1>s (<ls>ŚBr. xi</ls>);
+;
+216431 new and are called the preceptors of the <s1 slp1="fzi">Ṛṣi</s1>s (<ls>ŚBr. xi</ls>);
+; 
+;216432 old <s1 slp1="purUravas">Purūravas</s1> is called among them (<ls>ib.</ls>);
+;
+;216432 new <s1 slp1="purUravas">Purūravas</s1> is called among them (<ls>ib.</ls>);
+;
+216433 old in epic poetry the <s1 slp1="ganDarva">Gandharva</s1>s are the celestial musicians or heavenly singers (<ab>cf.</ab> <ls>RV. x, 177, 2</ls>) who form the orchestra at the banquets of the gods, and they belong together with the <s1 slp1="apsarasa">Apsarasa</s1>s to <s1 slp1="indra">Indra</s1>'s heaven, sharing also in his battles (<ls>Yājñ. i, 71</ls>;
+;
+216433 new in epic poetry the <s1 slp1="ganDarva">Gandharva</s1>s are the celestial musicians or heavenly singers (<ab>cf.</ab> <ls>RV. x, 177, 2</ls>) who form the orchestra at the banquets of the gods, and they belong together with the <s1 slp1="apsarasa">Apsarasa</s1>s to <s1 slp1="indra">Indra</s1>'s heaven, sharing also in his battles (<ls>Yājñ. i, 71</ls>; <ls>MBh.</ls>; <ls>Hariv.</ls> &c.; <ab>cf.</ab> <ls>RTL. p. 238</ls>);
+;
+216434 old <ls>MBh.</ls>;
+;
+216434 new 
+;
+216435 old <ls>Hariv.</ls> &c.;
+;
+216435 new 
+;
+216436 old <ab>cf.</ab> <ls>RTL. p. 238</ls>);
+;
+216436 new 
+; 
+216437 old in the more systematic mythology the <s1 slp1="ganDarva">Gandharva</s1>s constitute one of the classes into which the higher creation is divided (<ab>i.e.</ab> gods, manes, <s1 slp1="ganDarva">Gandharva</s1>s, <ls>AV. xi, 5, 2</ls>;
+;
+216437 new in the more systematic mythology the <s1 slp1="ganDarva">Gandharva</s1>s constitute one of the classes into which the higher creation is divided 
+;
+216438 old or gods, <s1 slp1="asura">Asura</s1>s, <s1 slp1="ganDarva">Gandharva</s1>s, men, <ls>TS. vii, 8, 25, 2</ls>;
+;
+216438 new 
+;
+216439 old <ab>cf.</ab> <ls>ŚBr. x</ls>;
+;
+216439 new 
+;
+216440 old or gods, men, <s1 slp1="ganDarva">Gandharva</s1>s, <s1 slp1="apsarasa">Apsarasa</s1>s, <s1 slp1="sarpa">Sarpa</s1>s, and manes, <ls>AitBr. iii, 31, 5</ls>;
+;
+216440 new 
+;
+216441 old for other enumerations <ab>cf.</ab> <ls>Nir. iii, 8</ls>;
+;
+216441 new 
+;
+216442 old <ls>Mn. i, 37</ls> [<ls>RTL. p. 237</ls>] & <ls n="Mn.">iii, 196</ls>; <ls n="Mn.">vii, 23</ls>; <ls n="Mn.">xii, 47</ls>; <ls>Nal.</ls> &c.);
+;
+216442 new (<ab>i.e.</ab> gods, manes, <s1 slp1="ganDarva">Gandharva</s1>s, <ls>AV. xi, 5, 2</ls>; or gods, <s1 slp1="asura">Asura</s1>s, <s1 slp1="ganDarva">Gandharva</s1>s, men, <ls>TS. vii, 8, 25, 2</ls>; <ab>cf.</ab> <ls>ŚBr. x</ls>; or gods, men, <s1 slp1="ganDarva">Gandharva</s1>s, <s1 slp1="apsarasa">Apsarasa</s1>s, <s1 slp1="sarpa">Sarpa</s1>s, and manes, <ls>AitBr. iii, 31, 5</ls>; for other enumerations <ab>cf.</ab> <ls>Nir. iii, 8</ls>; <ls>Mn. i, 37</ls> [<ls>RTL. p. 237</ls>] & <ls n="Mn.">iii, 196</ls>; <ls n="Mn.">vii, 23</ls>; <ls n="Mn.">xii, 47</ls>; <ls>Nal.</ls> &c.);
+; 
+216443 old divine and human <s1 slp1="ganDarva">Gandharva</s1>s are distinguished (<ls>TUp. ii, 8</ls>;
+;
+216443 new divine and human <s1 slp1="ganDarva">Gandharva</s1>s are distinguished
+;
+216444 old the divine or <s1 slp1="deva-ganDarva">Deva-Gandharva</s1>s are enumerated, <ls>MBh. i, 2550 ff.</ls> and <ls n="MBh. i,">4810 ff.</ls>);
+;
+216444 new (<ls>TUp. ii, 8</ls>; the divine or <s1 slp1="deva-ganDarva">Deva-Gandharva</s1>s are enumerated, <ls>MBh. i, 2550 ff.</ls> and <ls n="MBh. i,">4810 ff.</ls>);
+; 
+216445 old another passage names 11 classes of <s1 slp1="ganDarva">Gandharva</s1>s (<ls>TĀr. i, 9, 3</ls>);
+;
+216445 new another passage names 11 classes of <s1 slp1="ganDarva">Gandharva</s1>s (<ls>TĀr. i, 9, 3</ls>);
+;
+216446 old the chief or leader of the <s1 slp1="ganDarva">Gandharva</s1>s is named <s1 slp1="citra-raTa">Citra-ratha</s1> (<ls>Bhag. x, 26</ls>);
+;
+216446 new the chief or leader of the <s1 slp1="ganDarva">Gandharva</s1>s is named <s1 slp1="citra-raTa">Citra-ratha</s1> (<ls>Bhag. x, 26</ls>);
+;
+216447 old they are called the creatures of <s1 slp1="prajApati">Prajāpati</s1> (<ls>Mn. i, 37</ls>) or of <s1 slp1="brahmA">Brahmā</s1> (<ls>Hariv. 11793</ls>) or of <s1 slp1="kaSyapa">Kaśyapa</s1> (<ls n="Hariv.">11850</ls>) or of the <s1 slp1="muni">Muni</s1>s (<ls>MBh. i, 2550</ls>; 
+;
+216447 new they are called the creatures of <s1 slp1="prajApati">Prajāpati</s1> (<ls>Mn. i, 37</ls>) or of <s1 slp1="brahmA">Brahmā</s1> (<ls>Hariv. 11793</ls>) or of <s1 slp1="kaSyapa">Kaśyapa</s1> (<ls n="Hariv.">11850</ls>) or of the <s1 slp1="muni">Muni</s1>s (<ls>MBh. i, 2550</ls>; <ls>Hariv. 11553</ls>) 
+;
+216448 old <ls>Hariv. 11553</ls>) or of <s1 slp1="prADA">Prādhā</s1> (<ls>MBh. i, 2556</ls>) or of <s1 slp1="arizwA">Ariṣṭā</s1> (<ls>Hariv. 234</ls>;
+;
+216448 new or of <s1 slp1="prADA">Prādhā</s1> (<ls>MBh. i, 2556</ls>) or of <s1 slp1="arizwA">Ariṣṭā</s1> (<ls>Hariv. 234</ls>; <ls>VP. i, 21</ls>)
+; 
+216449 old <ls>VP. i, 21</ls>) or of <s1 slp1="vAc">Vāc</s1> (<ls>PadmaP.</ls>);
+;
+216449 new or of <s1 slp1="vAc">Vāc</s1> (<ls>PadmaP.</ls>);
+; -------------------------------------------------------
+; <L>63409<pc>346,3<k1>gam
+216872 old (<ls>Naigh.</ls>;
+;
+216872 new 
+;
+216873 old <ab>Impv.</ab> 3. <ab>sg.</ab> <s>gantu</s>, [2. <ab>sg.</ab> <s>gaDi</s> See <s>A-</s>, or <s>gahi</s> See <s>aDi-</s>, <s>aBy-A-</s>, <s>A-</s>, <s>upA<srs/>-</s>], 2. <ab>pl.</ab> <s>ga/ntA</s> or <s>gantana</s>, <ls>RV.</ls>;
+;
+216873 new 
+;
+216874 old <ab>impf.</ab> 2. and 3. <ab>sg.</ab> <s>a/gan</s> [<ls>RV.</ls>; <ls>AV.</ls>], 1. <ab>pl.</ab> <s>a/ganma</s> [<ls>RV.</ls>; <ls>AV.</ls>; <ab>cf.</ab> <ls>Pāṇ. viii, 2, 65</ls>],
+;
+216874 new 
+;
+216875 old  3. <ab>pl.</ab> <s>a/gman</s>, <ls>RV.</ls>;
+;
+216875 new 
+;
+216876 old <ab>Subj.</ab> [or <ab>aor.</ab> <ab>Subj.</ab> <ab>cf.</ab> <ls>Pāṇ. ii, 4, 80</ls>, <ls>Kāś.</ls>] 1. <ab>pl.</ab> <s>ganma</s>, 3. <ab>pl.</ab> <s>gma/n</s>, <ls>RV.</ls>;
+;
+216876 new 
+;
+216877 old <ab>Pot.</ab> 2. <ab>sg.</ab> <s>gamyAs</s>, <ls>RV. i, 187, 7</ls>;
+;
+216877 new 
+;
+216878 old <ab>Prec.</ab> 3. <ab>sg.</ab> <s>gamyA/s</s>, <ls>RV.</ls>;
+;
+216878 new 
+;
+216879 old <ab>pr. p.</ab> <s>gma/t</s>, <ls n="RV.">x, 22, 6</ls>) :
+;
+216879 new (<ls>Naigh.</ls>; <ab>Impv.</ab> 3. <ab>sg.</ab> <s>gantu</s>, [2. <ab>sg.</ab> <s>gaDi</s> See <s>A-</s>, or <s>gahi</s> See <s>aDi-</s>, <s>aBy-A-</s>, <s>A-</s>, <s>upA<srs/>-</s>], 2. <ab>pl.</ab> <s>ga/ntA</s> or <s>gantana</s>, <ls>RV.</ls>; <ab>impf.</ab> 2. and 3. <ab>sg.</ab> <s>a/gan</s> [<ls>RV.</ls>; <ls>AV.</ls>], 1. <ab>pl.</ab> <s>a/ganma</s> [<ls>RV.</ls>; <ls>AV.</ls>; <ab>cf.</ab> <ls>Pāṇ. viii, 2, 65</ls>], 3. <ab>pl.</ab> <s>a/gman</s>, <ls>RV.</ls>; <ab>Subj.</ab> [or <ab>aor.</ab> <ab>Subj.</ab> <ab>cf.</ab> <ls>Pāṇ. ii, 4, 80</ls>, <ls>Kāś.</ls>] 1. <ab>pl.</ab> <s>ganma</s>, 3. <ab>pl.</ab> <s>gma/n</s>, <ls>RV.</ls>; <ab>Pot.</ab> 2. <ab>sg.</ab> <s>gamyAs</s>, <ls>RV. i, 187, 7</ls>; <ab>Prec.</ab> 3. <ab>sg.</ab> <s>gamyA/s</s>, <ls>RV.</ls>; <ab>pr. p.</ab> <s>gma/t</s>, <ls n="RV.">x, 22, 6</ls>) :
+; -------------------------------------------------------
+; <L>63409<pc>346,3<k1>gam
+216882 old (<ab>cf.</ab> <ls>Pāṇ. vii, 3, 77</ls>; <ab>Subj.</ab> <s>gA<srs/>cCAti</s>, <ls>RV. x, 16, 2</ls>; 2. <ab>sg.</ab> <s>gacCAs</s> [<ls>RV. vi, 35, 3</ls>] or <s>gacCAsi</s> [<ls>AV. v, 5, 6</ls>]; 2. <ab>pl.</ab> <s>gacCAta</s>, <ls>RV. viii, 7, 30</ls>; 3. <ab>pl.</ab> <s>ga/cCAn</s>, <ls>RV. viii, 79, 5</ls>; <ab>impf.</ab> <s>a/gacCat</s>; <ab>Pot.</ab> <s>gacCet</s>; <ab>pr. p.</ab> <s>ga/cCat</s>, <ls>RV.</ls> &c.; <ab>aor.</ab> <s>agamat</s>, <ls>Pāṇ. iii, 1, 55</ls>; <ls n="Pāṇ.">vi, 4, 98</ls>, <ls>Kāś.</ls>;
+;
+216882 new 
+;
+216883 old for <ab>Ā.</ab> with prepositions <ab>cf.</ab> <ls>Pāṇ. i, 2, 13</ls>; 2nd <ab>fut.</ab> <s>gamizyati</s>, <ls>AV.</ls> &c.; 1st <ab>fut.</ab> <s>ga/ntA</s> [<ls>Pāṇ. vii, 2, 58</ls>] <ls>RV.</ls> &c.; <ab>perf.</ab> 1. <ab>sg.</ab> <s>jagamA</s> [<ls>RV.</ls>], 3. <ab>sg.</ab> <s>jagAma</s>, 2. <ab>du.</ab> <s>jagmaTur</s>, 3. <ab>pl.</ab> <s>jagmu/r</s>, <ls>RV.</ls> &c.; <ab>p.</ab> <s>jaganva/s</s> [<ls>RV.</ls> &c.] or <s>jagmivas</s>, <ls>Pāṇ. vii, 2, 68</ls> <lex type="part">f.</lex> <s>jagmu/zI</s>, <ls>RV.</ls> &c. <pb n="347,1"/>; <ab>Ved.</ab> <ab>inf.</ab> <s>ga/ntave</s>, <s>ga/ntavE/</s>; <ab>Class.</ab> <ab>inf.</ab> <s>gantum</s>: <ab>Ved.</ab> <ab>ind.p.</ab> <s>gatvAya</s>, <s>gatvI/</s>; <ab>Class.</ab> <ab>ind.p.</ab> <s>gatvA/</s> [<ls>AV.</ls> &c.], with prepositions <s>-gamya</s> or <s>-gatya</s>, <ls>Pāṇ. vi, 4, 38</ls>) 
+;
+216883 new (<ab>cf.</ab> <ls>Pāṇ. vii, 3, 77</ls>; <ab>Subj.</ab> <s>gA<srs/>cCAti</s>, <ls>RV. x, 16, 2</ls>; 2. <ab>sg.</ab> <s>gacCAs</s> [<ls>RV. vi, 35, 3</ls>] or <s>gacCAsi</s> [<ls>AV. v, 5, 6</ls>]; 2. <ab>pl.</ab> <s>gacCAta</s>, <ls>RV. viii, 7, 30</ls>; 3. <ab>pl.</ab> <s>ga/cCAn</s>, <ls>RV. viii, 79, 5</ls>; <ab>impf.</ab> <s>a/gacCat</s>; <ab>Pot.</ab> <s>gacCet</s>; <ab>pr. p.</ab> <s>ga/cCat</s>, <ls>RV.</ls> &c.; <ab>aor.</ab> <s>agamat</s>, <ls>Pāṇ. iii, 1, 55</ls>; <ls n="Pāṇ.">vi, 4, 98</ls>, <ls>Kāś.</ls>; for <ab>Ā.</ab> with prepositions <ab>cf.</ab> <ls>Pāṇ. i, 2, 13</ls>; 2nd <ab>fut.</ab> <s>gamizyati</s>, <ls>AV.</ls> &c.; 1st <ab>fut.</ab> <s>ga/ntA</s> [<ls>Pāṇ. vii, 2, 58</ls>] <ls>RV.</ls> &c.; <ab>perf.</ab> 1. <ab>sg.</ab> <s>jagamA</s> [<ls>RV.</ls>], 3. <ab>sg.</ab> <s>jagAma</s>, 2. <ab>du.</ab> <s>jagmaTur</s>, 3. <ab>pl.</ab> <s>jagmu/r</s>, <ls>RV.</ls> &c.; <ab>p.</ab> <s>jaganva/s</s> [<ls>RV.</ls> &c.] or <s>jagmivas</s>, <ls>Pāṇ. vii, 2, 68</ls> <lex type="part">f.</lex> <s>jagmu/zI</s>, <ls>RV.</ls> &c. <pb n="347,1"/>; <ab>Ved.</ab> <ab>inf.</ab> <s>ga/ntave</s>, <s>ga/ntavE/</s>; <ab>Class.</ab> <ab>inf.</ab> <s>gantum</s>: <ab>Ved.</ab> <ab>ind.p.</ab> <s>gatvAya</s>, <s>gatvI/</s>; <ab>Class.</ab> <ab>ind.p.</ab> <s>gatvA/</s> [<ls>AV.</ls> &c.], with prepositions <s>-gamya</s> or <s>-gatya</s>, <ls>Pāṇ. vi, 4, 38</ls>)** 
+; -------------------------------------------------------
+; <L>63787<pc>348,3<k1>garuqa  START HERE
+218081 old <s1 slp1="svAhA">Svāhā</s1>, the wife of <s1 slp1="agni">Agni</s1>, takes the shape of a female <s1 slp1="garuqI">Garuḍī</s1> = <s>suparRI</s>, <ls>MBh. iii, 14307</ls> and <ls n="MBh. iii,">14343</ls>), <ls>Suparṇ.</ls>;
+;
+218081 new <s1 slp1="svAhA">Svāhā</s1>, the wife of <s1 slp1="agni">Agni</s1>, takes the shape of a female <s1 slp1="garuqI">Garuḍī</s1> = <s>suparRI</s>, <ls>MBh. iii, 14307</ls> and <ls n="MBh. iii,">14343</ls>)**, <ls>Suparṇ.</ls>;
+; -------------------------------------------------------
+; <L>64493<pc>352,1<k1>gA
+220355 old in <ab>Class.</ab> <ns>Sanskṛt</ns> only the <ab>aor.</ab> <ab>P.</ab> <s>agAt</s> occurs, for <ab>Ā.</ab> See <s>aDi-</s>; <ab>aor.</ab> <ab>Pass.</ab> <s>agAyi</s>, <s>agAsAtAm</s>, <ls>Kāś.</ls> on <ls>Pāṇ. ii, 4, 45</ls> and <ls n="Pāṇ. ii, 4">77</ls>; <ab>cl.</ab> 2. <ab>P.</ab> <s>gA/ti</s>, <ls>Naigh. ii, 14</ls>; <ab>Ā.</ab> <s>gAte</s>, <ls>Dhātup. xx, 53</ls>) 
+;
+220355 new in <ab>Class.</ab> <ns>Sanskṛt</ns> only the <ab>aor.</ab> <ab>P.</ab> <s>agAt</s> occurs, for <ab>Ā.</ab> See <s>aDi-</s>; <ab>aor.</ab> <ab>Pass.</ab> <s>agAyi</s>, <s>agAsAtAm</s>, <ls>Kāś.</ls> on <ls>Pāṇ. ii, 4, 45</ls> and <ls n="Pāṇ. ii, 4">77</ls>; <ab>cl.</ab> 2. <ab>P.</ab> <s>gA/ti</s>, <ls>Naigh. ii, 14</ls>; <ab>Ā.</ab> <s>gAte</s>, <ls>Dhātup. xx, 53</ls>)** 
+; -------------------------------------------------------
+; <L>64621<pc>352,3<k1>gAyatrI
+220775 old with <s1 slp1="tAntrika">Tāntrika</s1>s a number of mystical verses are called <s1 slp1="gAyatrI">Gāyatrī</s1>s, and each deity has one in particular)<info lex="m:f#I:n"/>
+;
+220775 new with <s1 slp1="tAntrika">Tāntrika</s1>s a number of mystical verses are called <s1 slp1="gAyatrI">Gāyatrī</s1>s, and each deity has one in particular)**<info lex="m:f#I:n"/>
+; -------------------------------------------------------
+; <L>66884<pc>363,3<k1>go
+228043 old <ab>instr.</ab> <s>go/Bis</s> <ab>dat.</ab> <ab>abl.</ab> <s>go/Byas</s>, <ab>gen.</ab> <s>ga/vAm</s> [once at the end of a <s1 slp1="pAda">Pāda</s1>, <ls>RV. iv, 1, 19</ls>] and [in, <ls>RV.</ls> at the end of <s1 slp1="pAda">Pāda</s1>s only <ab>cf.</ab> <ls>Pāṇ. vii, 1, 57</ls>] <s>go/nAm</s> <ab>loc.</ab> <s>go/zu</s>) <lex>m.</lex> an ox <lex type="hw">f.</lex> a cow, (<ab>pl.</ab>) cattle, kine, herd of cattle, <ls>RV.</ls> &c. (in <ab>comp.</ab> before vowels [<ab>cf.</ab> <ls>Pāṇ. vi, 1, 122 ff.</ls>] <s>gav</s>, <s>gava</s>, <ab>qq.vv.</ab>;
+;
+228043 new <ab>instr.</ab> <s>go/Bis</s> <ab>dat.</ab> <ab>abl.</ab> <s>go/Byas</s>, <ab>gen.</ab> <s>ga/vAm</s> [once at the end of a <s1 slp1="pAda">Pāda</s1>, <ls>RV. iv, 1, 19</ls>] and [in, <ls>RV.</ls> at the end of <s1 slp1="pAda">Pāda</s1>s only <ab>cf.</ab> <ls>Pāṇ. vii, 1, 57</ls>] <s>go/nAm</s> <ab>loc.</ab> <s>go/zu</s>)** <lex>m.</lex> an ox <lex type="hw">f.</lex> a cow, (<ab>pl.</ab>) cattle, kine, herd of cattle, <ls>RV.</ls> &c. (in <ab>comp.</ab> before vowels [<ab>cf.</ab> <ls>Pāṇ. vi, 1, 122 ff.</ls>] <s>gav</s>, <s>gava</s>, <ab>qq.vv.</ab>;
+; -------------------------------------------------------
+; <L>66884<pc>363,3<k1>go
+228047 old <s>go/zu-√ gam</s>, to set out for a battle [to conquer cows] <ls>RV. ii, 25, 4</ls>; <ls n="RV.">v, 45, 9</ls>; <ls n="RV.">viii, 71, 5</ls>)
+;
+228047 new <s>go/zu-√ gam</s>, to set out for a battle [to conquer cows] <ls>RV. ii, 25, 4</ls>; <ls n="RV.">v, 45, 9</ls>; <ls n="RV.">viii, 71, 5</ls>)**
+; -------------------------------------------------------
+; <L>68591<pc>371,2<k1>grah
+233614 old <ab>Pot.</ab> <s>gfhIta</s>, <ls>MaitrS. ii, 5, 2</ls>) 
+;
+233614 new <ab>Pot.</ab> <s>gfhIta</s>, <ls>MaitrS. ii, 5, 2</ls>)** 
+; -------------------------------------------------------
+; <L>70283<pc>380,1<k1>ca
+239144 old <s>durBedyaS cA<srs/>SusaMDeyaH</s>, ‘both difficult to be divided [and] quickly united’ <ls>Hit. i</ls>);
+;
+239144 new <s>durBedyaS cA<srs/>SusaMDeyaH</s>, ‘both difficult to be divided [and] quickly united’ <ls>Hit. i</ls>)**;
+; -------------------------------------------------------
+; <L>70283<pc>380,1<k1>ca
+239147 old <s>yAvanta eva te tAvAMSca saH</s>, ‘as great as they [were] just so great was he’ <ls>Ragh. xii, 45</ls>);
+;
+239147 new <s>yAvanta eva te tAvAMSca saH</s>, ‘as great as they [were] just so great was he’ <ls>Ragh. xii, 45</ls>)**;
+; -------------------------------------------------------
+; <L>70283<pc>380,1<k1>ca
+239149 old <s>SAntam idam ASrama-padaM sPurati ca bAhuH</s>, ‘this hermitage is tranquil yet my arm throbs’ <ls>Śak. i, 15</ls>);
+;
+239149 new <s>SAntam idam ASrama-padaM sPurati ca bAhuH</s>, ‘this hermitage is tranquil yet my arm throbs’ <ls>Śak. i, 15</ls>)**;
+; -------------------------------------------------------
+; <L>70283<pc>380,1<k1>ca
+239155 old <s>strI vA pumAn vA yac cA<srs/>nyat sattvam</s>, ‘either a woman or a man or any other being’ <ls>R.</ls>), and when a <ab>neg.</ab> particle is joined with <s>ca</s> the two may then be translated by ‘neither’, ‘nor’;
+;
+239155 new <s>strI vA pumAn vA yac cA<srs/>nyat sattvam</s>, ‘either a woman or a man or any other being’ <ls>R.</ls>)**, and when a <ab>neg.</ab> particle is joined with <s>ca</s> the two may then be translated by ‘neither’, ‘nor’;
+; -------------------------------------------------------
+; <L>70283<pc>380,1<k1>ca
+239157 old <s>na pUrvA<srs/>hRe na ca parA<srs/>hRe</s>, ‘neither in the forenoon nor in the afternoon’);
+;
+239157 new <s>na pUrvA<srs/>hRe na ca parA<srs/>hRe</s>, ‘neither in the forenoon nor in the afternoon’)**;
+; -------------------------------------------------------
+; <L>70283<pc>380,1<k1>ca
+239160 old the verb is accented), <ls>RV.</ls>;
+;
+239160 new the verb is accented)**, <ls>RV.</ls>;
+; -------------------------------------------------------
+; <L>71807<pc>387,2<k1>candravaMSa
+244337 old the latter married the two widows of his half-brother, and had by them <s1 slp1="DftarAzwra">Dhṛtarāṣṭra</s1> and <s1 slp1="pARqu">Pāṇḍu</s1>, the wars of whose sons form the subject of the <ls>MBh.</ls>) (<ab>cf.</ab> <s>sUrya-v°</s>.)<info lex="m"/>
+;
+244337 new the latter married the two widows of his half-brother, and had by them <s1 slp1="DftarAzwra">Dhṛtarāṣṭra</s1> and <s1 slp1="pARqu">Pāṇḍu</s1>, the wars of whose sons form the subject of the <ls>MBh.</ls>)** (<ab>cf.</ab> <s>sUrya-v°</s>.)<info lex="m"/>
+; -------------------------------------------------------
+; <L>72173<pc>389,1<k1>car
+245500 old <ab>p.</ab> <s>ca/rat</s>) 
+;
+245500 new <ab>p.</ab> <s>ca/rat</s>)** 
+; -------------------------------------------------------
+; <L>73297<pc>394,2<k1>ci
+249051 old <ab>fut.</ab> <s>cAyizyate</s> & <s>cezy°</s> <ab>Cond.</ab> <s>acAyizyata</s> & <s>acezy°</s>, <ls>Pāṇ. vi, 4, 62</ls>, <ls>Kāś.</ls>) 
+;
+249051 new <ab>fut.</ab> <s>cAyizyate</s> & <s>cezy°</s> <ab>Cond.</ab> <s>acAyizyata</s> & <s>acezy°</s>, <ls>Pāṇ. vi, 4, 62</ls>, <ls>Kāś.</ls>)** 
+; -------------------------------------------------------
+; <L>75907<pc>406,2<k1>Cid
+257559 old <ab>aor.</ab> <s>a/cCedi</s> and <s>Cedi</s>, <ls>RV.</ls>) 
+;
+257559 new <ab>aor.</ab> <s>a/cCedi</s> and <s>Cedi</s>, <ls>RV.</ls>)** 
+; -------------------------------------------------------
+; <L>77529<pc>413,2<k1>jayatsena
+262777 old <div n="vp"/> of <s1 slp1="nadIna">Nadīna</s1>, <ls>Hariv. 1516</ls>; <ls>VP. iv, 9, 8</ls>; <ls>VāyuP.</ls>)<info lex="inh"/>
+;
+262777 new <div n="vp"/> of <s1 slp1="nadIna">Nadīna</s1>, <ls>Hariv. 1516</ls>; <ls>VP. iv, 9, 8</ls>; <ls>VāyuP.</ls>)**<info lex="inh"/>
+; -------------------------------------------------------
+; <L>78427<pc>417,1<k1>jAgf
+265625 old <ab>Prec.</ab> <s>jAgaryAt</s>, <ls n="Pāṇ.">iii, 4, 104</ls>, <ls>Kāś.</ls>) 
+;
+265625 new <ab>Prec.</ab> <s>jAgaryAt</s>, <ls n="Pāṇ.">iii, 4, 104</ls>, <ls>Kāś.</ls>)** 
+; -------------------------------------------------------
+; <L>79180<pc>420,2<k1>ji
+268089 old <div n="vp"/><ab>Pass.</ab> <s>jIyate</s>, <s>ajIyata</s> [<ls>Ragh. xi, 65</ls>], <s>ajAyi</s>, <s>jAyizyate</s>; for <s>jI/yate</s> and <ab>cl.</ab> 9. <s>jinA/ti</s> See √ <s>jyA</s>) 
+;
+268089 new <div n="vp"/><ab>Pass.</ab> <s>jIyate</s>, <s>ajIyata</s> [<ls>Ragh. xi, 65</ls>], <s>ajAyi</s>, <s>jAyizyate</s>; for <s>jI/yate</s> and <ab>cl.</ab> 9. <s>jinA/ti</s> See √ <s>jyA</s>)** 
+; -------------------------------------------------------
+; <L>80318<pc>425,2<k1>jYA
+271753 old <ab>inf.</ab> <s>jYAtum</s>) 
+;
+271753 new <ab>inf.</ab> <s>jYAtum</s>)** 
+; -------------------------------------------------------
+; <L>80435.2<pc>1327,3<k1>jYAnamArga
+272145 old ¦ <ab>cf.</ab> <s>karma-</s> and <s>Bakti-m°</s>), <ls>RTL. 63</ls><info n="sup"/>
+;
+272145 new ¦ <ab>cf.</ab> <s>karma-</s> and <s>Bakti-m°</s>)**, <ls>RTL. 63</ls><info n="sup"/>
+; -------------------------------------------------------
+; <L>81602<pc>431,3<k1>takz
+276097 old <ab>pf.</ab> <ab>Pass.</ab> <ab>p.</ab> <s>tazwa/</s> See <ab>s.v.</ab>) 
+;
+276097 new <ab>pf.</ab> <ab>Pass.</ab> <ab>p.</ab> <s>tazwa/</s> See <ab>s.v.</ab>)** 
+; -------------------------------------------------------
+; <L>82046<pc>434,1<k1>tad
+277613 old <ls>AV.</ls> &c.) <lex type="hwinfo">m.</lex> he <lex type="hwinfo">f.</lex> she <lex type="hwinfo">n.</lex> it, that, this (often correlative of <s>ya/</s> generally standing in the preceding clause <ab>e.g.</ab> <s>yasya budDiH sa balavAn</s>, ‘of whom there is intellect he is strong’;
+;
+277613 new <ls>AV.</ls> &c.)** <lex type="hwinfo">m.</lex> he <lex type="hwinfo">f.</lex> she <lex type="hwinfo">n.</lex> it, that, this (often correlative of <s>ya/</s> generally standing in the preceding clause <ab>e.g.</ab> <s>yasya budDiH sa balavAn</s>, ‘of whom there is intellect he is strong’;
+; -------------------------------------------------------
+; <L>82046<pc>434,1<k1>tad
+277618 old <s>yA sA SrI</s>, ‘that very fortune which’ <ls>MBh. vii, 427</ls>), <ls>RV.</ls> &c.<info lexcat="LEXID=pron,STEM=tad"/>
+;
+277618 new <s>yA sA SrI</s>, ‘that very fortune which’ <ls>MBh. vii, 427</ls>)**, <ls>RV.</ls> &c.<info lexcat="LEXID=pron,STEM=tad"/>
+; -------------------------------------------------------
+; <L>82226<pc>435,1<k1>tan
+278240 old <ab>aor.</ab> <s>atAyi</s>, <ls>Br.</ls>) 
+;
+278240 new <ab>aor.</ab> <s>atAyi</s>, <ls>Br.</ls>)** 
+; -------------------------------------------------------
+; <L>84445<pc>444,3<k1>tArkzya
+285401 old <ab>pl.</ab> a class of demi-gods grouped with the <s1 slp1="ganDarva">Gandharva</s1>s, <s1 slp1="yakza">Yakṣa</s1>s, and <s1 slp1="cAraRa">Cāraṇa</s1>s, <ls>R. i, 16, 9</ls>)<info lex="m"/>
+;
+285401 new <ab>pl.</ab> a class of demi-gods grouped with the <s1 slp1="ganDarva">Gandharva</s1>s, <s1 slp1="yakza">Yakṣa</s1>s, and <s1 slp1="cAraRa">Cāraṇa</s1>s, <ls>R. i, 16, 9</ls>)**<info lex="m"/>
+; -------------------------------------------------------
+; <L>85951.1<pc>1328,2<k1>tumbakI
+290209 old <s>tumbakI</s> ¦ <lex>f.</lex> a) kind of drama of an inferior order (containing exhibitions of jugglery), <ls>Sāh.</ls><info n="sup"/><info lex="f"/>
+;
+290209 new <s>tumbakI</s> ¦ <lex>f.</lex> a)** kind of drama of an inferior order (containing exhibitions of jugglery), <ls>Sāh.</ls><info n="sup"/><info lex="f"/>
+; -------------------------------------------------------
+; <L>86817<pc>454,2<k1>tF
+293072 old <s>-tU/rya</s> See <s>vi-</s>) 
+;
+293072 new <s>-tU/rya</s> See <s>vi-</s>)** 
+; -------------------------------------------------------
+; <L>88314<pc>460,3<k1>triSaNku
+298024 old [son of <s1 slp1="tri-banDana">Tri-bandhana</s1>] <ls>BhP. ix, 7</ls>), <ls>MBh. i</ls>, <ls n="MBh.">xiii</ls> &c.<info lex="inh"/>
+;
+298024 new [son of <s1 slp1="tri-banDana">Tri-bandhana</s1>] <ls>BhP. ix, 7</ls>)**, <ls>MBh. i</ls>, <ls n="MBh.">xiii</ls> &c.<info lex="inh"/>
+; -------------------------------------------------------
+; <L>88580<pc>461,3<k1>trita
+298879 old <lang n="greek">Τρίτων</lang>, <lang n="greek">τριτο-γενής</lang>, &c.)<info lex="m"/>
+;
+298879 new <lang n="greek">Τρίτων</lang>, <lang n="greek">τριτο-γενής</lang>, &c.)**<info lex="m"/>
+; -------------------------------------------------------
+; <L>89118<pc>464,1<k1>tvazwf
+300604 old <s>tvazwur AtiTya</s> <ab>N.</ab> of a <s1 slp1="sAman">Sāman</s1>, <ls>ĀrṣBr.</ls>)<info lex="inh"/>
+;
+300604 new <s>tvazwur AtiTya</s> <ab>N.</ab> of a <s1 slp1="sAman">Sāman</s1>, <ls>ĀrṣBr.</ls>)**<info lex="inh"/>
+; -------------------------------------------------------
+; <L>89331<pc>465,1<k1>dakza
+301334 old <ls>Bṛhasp.</ls>. [<ls>Hcat.</ls>] &c.)<info lex="inh"/>
+;
+301334 new <ls>Bṛhasp.</ls>. [<ls>Hcat.</ls>] &c.)**<info lex="inh"/>
+; -------------------------------------------------------
+; <L>89992<pc>468,2<k1>daDyac
+303692 old <ab>cf.</ab> <ls>Pāṇ. vi, 1, 170</ls>) ‘sprinkling <s>da/Di</s>’ (<ab>cf.</ab> <s>°Di-krA/</s> and <s>GftA/<srs/>cI</s>) <ab>N.</ab> of a mythical <s1 slp1="fzi">Ṛṣi</s1> or sacrificer (<ls>RV. i, 80, 16</ls> and [called <s1 slp1="aNgiras">Aṅgiras</s1>] <ls n="RV. i,">139, 9</ls> [<s>ANgirasa</s>] <ls>TāṇḍyaBr. xii, 8</ls>;
+;
+303692 new <ab>cf.</ab> <ls>Pāṇ. vi, 1, 170</ls>)** ‘sprinkling <s>da/Di</s>’ (<ab>cf.</ab> <s>°Di-krA/</s> and <s>GftA/<srs/>cI</s>) <ab>N.</ab> of a mythical <s1 slp1="fzi">Ṛṣi</s1> or sacrificer (<ls>RV. i, 80, 16</ls> and [called <s1 slp1="aNgiras">Aṅgiras</s1>] <ls n="RV. i,">139, 9</ls> [<s>ANgirasa</s>] <ls>TāṇḍyaBr. xii, 8</ls>;
+; -------------------------------------------------------
+; <L>89992<pc>468,2<k1>daDyac
+303697 old propounder of the <s1 slp1="brAhmaRa">Brāhmaṇa</s1> called <s>ma/Du</s>, <ls>ŚBr. iv</ls>, <ls n="ŚBr.">xiv</ls>; <ls>BhP. vi, 9, 50 ff.</ls>)
+;
+303697 new propounder of the <s1 slp1="brAhmaRa">Brāhmaṇa</s1> called <s>ma/Du</s>, <ls>ŚBr. iv</ls>, <ls n="ŚBr.">xiv</ls>; <ls>BhP. vi, 9, 50 ff.</ls>)**
+; -------------------------------------------------------
+; <L>91212<pc>473,2<k1>dA
+307807 old <div n="vp"/><ab>Pass.</ab> <s>dIyate</s> [<ls>Pāṇ. vi, 4, 62</ls>]; <ab>p.</ab> <s>°ya/mAna</s>, <ls>AV. ix</ls>; <ab>aor.</ab> <s>adAyi</s>, <ls>Pāṇ. vii, 3, 33</ls>, <ls>Kāś.</ls>; <ab>Prec.</ab> <s>dAsIzwa</s>, <s>dAyis°</s>, <ls n="Pāṇ.">vi, 4, 62</ls>) <ab>cl.</ab> 1. <s>dA/ti</s> (<ls>RV. iv</ls>-<ls n="RV.">vii</ls>; <ab>Impv.</ab> <s>°tu</s>, <ls n="RV. vii,">15, 11</ls>; <ab>cf.</ab> <ls>Pāṇ. vi, 1, 8</ls>, <ab>Vārtt.</ab> 3, <ls>Pat.</ls>; <ls n="Pāṇ.">ii, 4, 76</ls>, <ls>Kāś.</ls>) 
+;
+307807 new <div n="vp"/><ab>Pass.</ab> <s>dIyate</s> [<ls>Pāṇ. vi, 4, 62</ls>]; <ab>p.</ab> <s>°ya/mAna</s>, <ls>AV. ix</ls>; <ab>aor.</ab> <s>adAyi</s>, <ls>Pāṇ. vii, 3, 33</ls>, <ls>Kāś.</ls>; <ab>Prec.</ab> <s>dAsIzwa</s>, <s>dAyis°</s>, <ls n="Pāṇ.">vi, 4, 62</ls>)** <ab>cl.</ab> 1. <s>dA/ti</s> (<ls>RV. iv</ls>-<ls n="RV.">vii</ls>; <ab>Impv.</ab> <s>°tu</s>, <ls n="RV. vii,">15, 11</ls>; <ab>cf.</ab> <ls>Pāṇ. vi, 1, 8</ls>, <ab>Vārtt.</ab> 3, <ls>Pat.</ls>; <ls n="Pāṇ.">ii, 4, 76</ls>, <ls>Kāś.</ls>) 
+; -------------------------------------------------------
+; <L>92231<pc>478,2<k1>div
+311150 old the latter is declined through all cases like <s>go</s>, but really does not occur except in forms mentioned above and in <s>dyo-salila</s>, <ls>MBh. viii, 4658</ls>, while <s>div</s> and <s>dyu</s> regularly alternate before <ab>vow.</ab> and <ab>cons.</ab>) <lex>m.</lex> (rarely <lex>f.</lex>) in <ab>Ved.</ab>, <lex>f.</lex> in later <ab>Skr.</ab> heaven, the sky (regarded in <ab>Ved.</ab> as rising in three tiers [<s>avama</s>, <s>maDyama</s>, <s>uttama</s> or <s>tftIya</s>, <ls>RV. v, 60, 6</ls> &c.], and generally as the father (<s>dyO/z pitA/</s>, while the earth is the mother [<ab>cf.</ab> <s>dyAvA-pfTivI</s>], and <s1 slp1="uzas">Uṣas</s1> the daughter), rarely as a goddess, daughter of <s1 slp1="prajA-pati">Prajā-pati</s1>, <ls>AitBr. iii, 33</ls>;
+;
+311150 new the latter is declined through all cases like <s>go</s>, but really does not occur except in forms mentioned above and in <s>dyo-salila</s>, <ls>MBh. viii, 4658</ls>, while <s>div</s> and <s>dyu</s> regularly alternate before <ab>vow.</ab> and <ab>cons.</ab>)** <lex>m.</lex> (rarely <lex>f.</lex>) in <ab>Ved.</ab>, <lex>f.</lex> in later <ab>Skr.</ab> heaven, the sky (regarded in <ab>Ved.</ab> as rising in three tiers [<s>avama</s>, <s>maDyama</s>, <s>uttama</s> or <s>tftIya</s>, <ls>RV. v, 60, 6</ls> &c.], and generally as the father (<s>dyO/z pitA/</s>, while the earth is the mother [<ab>cf.</ab> <s>dyAvA-pfTivI</s>], and <s1 slp1="uzas">Uṣas</s1> the daughter), rarely as a goddess, daughter of <s1 slp1="prajA-pati">Prajā-pati</s1>, <ls>AitBr. iii, 33</ls>;
+; -------------------------------------------------------
+; <L>92231<pc>478,2<k1>div
+311151 old <ls>ŚBr. i, 7, 4</ls>,)<info lex="m:f"/>
+;
+311151 new <ls>ŚBr. i, 7, 4</ls>,)**<info lex="m:f"/>
+; -------------------------------------------------------
+; <L>92592<pc>480,1<k1>diS
+312440 old <s>diSAm pati</s> [<ab>cf.</ab> <s>dik-pati</s> below] = <s1 slp1="soma">Soma</s1>, <ls>RV. ix, 113, 2</ls>, or = <s1 slp1="rudra">Rudra</s1>, <ls>VS. xvi, 17</ls>)<info lex="f"/>
+;
+312440 new <s>diSAm pati</s> [<ab>cf.</ab> <s>dik-pati</s> below] = <s1 slp1="soma">Soma</s1>, <ls>RV. ix, 113, 2</ls>, or = <s1 slp1="rudra">Rudra</s1>, <ls>VS. xvi, 17</ls>)**<info lex="f"/>
+; -------------------------------------------------------
+; <L>94848<pc>489,1<k1>duh
+319698 old <ab>ind.p.</ab> <s>dugDvA</s>, <ls>ŚBr.</ls>) 
+;
+319698 new <ab>ind.p.</ab> <s>dugDvA</s>, <ls>ŚBr.</ls>)** 
+; -------------------------------------------------------
+; <L>95263<pc>491,1<k1>dfS
+321159 old <s>-darSam</s>, <ls>Daś.</ls>) 
+;
+321159 new <s>-darSam</s>, <ls>Daś.</ls>)** 
+; -------------------------------------------------------
+; <L>99005<pc>507,1<k1>dvIpa
+333545 old <s>ayaM dvIpaH</s> = <s>jambu-dv°</s>, <ls>BhP. v, 16, 5</ls> or = <s>BArata-dv°</s>, <ls>VP. ii, 3, 7</ls>)<info lex="inh"/>
+;
+333545 new <s>ayaM dvIpaH</s> = <s>jambu-dv°</s>, <ls>BhP. v, 16, 5</ls> or = <s>BArata-dv°</s>, <ls>VP. ii, 3, 7</ls>)**<info lex="inh"/>
+; -------------------------------------------------------
+; <L>100607<pc>513,2<k1>DA
+338721 old <ab>p.</ab> <s>da/DAna</s>);
+;
+338721 new <ab>p.</ab> <s>da/DAna</s>)**;
+; -------------------------------------------------------
+; <L>100607<pc>513,2<k1>DA
+338754 old <div n="vp"/><ab>Pass.</ab> <s>DIya/te</s>, <ls>RV.</ls> &c. [<ls>Pāṇ. vi, 4, 66</ls>], <ab>p.</ab> <s>DIya/mAna</s>, <ls>RV. i, 155, 2</ls> <pb n="513,3"/>; <ab>aor.</ab> <s>a/DAyi</s>, <s>DA/yi</s>, <ls>RV.</ls> [<ls>Pāṇ. vii, 3, 33</ls>, <ls>Kāś.</ls>]; <ab>Prec.</ab> <s>DAsIzwa</s> or <s>DAyizIzwa</s> [<ls n="Pāṇ.">vi, 4, 62</ls>]) 
+;
+338754 new <div n="vp"/><ab>Pass.</ab> <s>DIya/te</s>, <ls>RV.</ls> &c. [<ls>Pāṇ. vi, 4, 66</ls>], <ab>p.</ab> <s>DIya/mAna</s>, <ls>RV. i, 155, 2</ls> <pb n="513,3"/>; <ab>aor.</ab> <s>a/DAyi</s>, <s>DA/yi</s>, <ls>RV.</ls> [<ls>Pāṇ. vii, 3, 33</ls>, <ls>Kāś.</ls>]; <ab>Prec.</ab> <s>DAsIzwa</s> or <s>DAyizIzwa</s> [<ls n="Pāṇ.">vi, 4, 62</ls>])** 
+; -------------------------------------------------------
+; <L>102621<pc>523,1<k1>na
+345308 old it may also, like <s>a</s>, form compounds, <ls>Vām. v, 2, 13</ls> [<ab>cf.</ab> below])<info lex="ind"/>
+;
+345308 new it may also, like <s>a</s>, form compounds, <ls>Vām. v, 2, 13</ls> [<ab>cf.</ab> below])**<info lex="ind"/>
+; -------------------------------------------------------
+; <L>102830<pc>524,2<k1>nakzatra
+346353 old according to <s1 slp1="jEna">Jaina</s1>s the sun, moon, <s1 slp1="graha">Graha</s1>s, <s1 slp1="nakzatra">Nakṣatra</s1>s and <s1 slp1="tArA">Tārā</s1>s form the <s1 slp1="jyotizka">Jyotiṣka</s1>s)<info lex="inh"/>
+;
+346353 new according to <s1 slp1="jEna">Jaina</s1>s the sun, moon, <s1 slp1="graha">Graha</s1>s, <s1 slp1="nakzatra">Nakṣatra</s1>s and <s1 slp1="tArA">Tārā</s1>s form the <s1 slp1="jyotizka">Jyotiṣka</s1>s)**<info lex="inh"/>
+; -------------------------------------------------------
+; <L>103414<pc>526,2<k1>nanu
+348261 old in argument often as an inceptive particle implying doubt or objection, ‘now it may be said, well, but then’ &c., <ab>esp.</ab> in <s>nanv astu</s>, or <s>nanu mA BUt-taTA<srs/>pi</s>, well, be it so or not so-nevertheless)<info lex="ind"/>
+;
+348261 new in argument often as an inceptive particle implying doubt or objection, ‘now it may be said, well, but then’ &c., <ab>esp.</ab> in <s>nanv astu</s>, or <s>nanu mA BUt-taTA<srs/>pi</s>, well, be it so or not so-nevertheless)**<info lex="ind"/>
+; -------------------------------------------------------
+; <L>103825<pc>528,1<k1>nam
+349598 old <s>-namya</s>, <ls>MBh.</ls>) 
+;
+349598 new <s>-namya</s>, <ls>MBh.</ls>)** 
+; -------------------------------------------------------
+; <L>111189<pc>565,1<k1>nI
+374908 old <s>ne/tum</s>, <ls>ib.</ls> &c. &c.), 
+;
+374908 new <s>ne/tum</s>, <ls>ib.</ls> &c. &c.)**, 
+; -------------------------------------------------------
+; <L>111758.3<pc>567,2<k1>nu
+376799 old where <s>nu</s> is either always repeated [<ls>Śak. vi, 9</ls>] or omitted in the first place [<ls>ib.</ls> <ls n="Śak.">i, 8</ls>] or in the second place and further replaced by <s>svid</s>, <s>yadi vA</s> &c., and strengthened by <s>vA</s>, <s>aTa vA</s> &c.) <info lex="inh"/>
+;
+376799 new where <s>nu</s> is either always repeated [<ls>Śak. vi, 9</ls>] or omitted in the first place [<ls>ib.</ls> <ls n="Śak.">i, 8</ls>] or in the second place and further replaced by <s>svid</s>, <s>yadi vA</s> &c., and strengthened by <s>vA</s>, <s>aTa vA</s> &c.)** <info lex="inh"/>
+; -------------------------------------------------------
+; <L>115215<pc>583,1<k1>pada
+388812 old <s>padam ni-√ banD</s> with <ab>loc.</ab>, to enter or engage in)<info lex="inh"/>
+;
+388812 new <s>padam ni-√ banD</s> with <ab>loc.</ab>, to enter or engage in)**<info lex="inh"/>
+; -------------------------------------------------------
+; <L>118154<pc>598,2<k1>pariBU
+399049 old <div n="vp"/><ab>Pass.</ab> <s>-BUyate</s>, <ls>R.</ls>; <ab>fut.</ab> <s>-Bavizyate</s>, <ls>Bhaṭṭ.</ls>), 
+;
+399049 new <div n="vp"/><ab>Pass.</ab> <s>-BUyate</s>, <ls>R.</ls>; <ab>fut.</ab> <s>-Bavizyate</s>, <ls>Bhaṭṭ.</ls>)**, 
+; -------------------------------------------------------
+; <L>120795<pc>612,3<k1>pA
+407891 old rarely <s>pipati</s>, <s>°te</s>, <ls>Kāṭh.</ls>; <ls>Br.</ls>) 
+;
+407891 new rarely <s>pipati</s>, <s>°te</s>, <ls>Kāṭh.</ls>; <ls>Br.</ls>)** 
+; -------------------------------------------------------
+; <L>120795<pc>612,3<k1>pA
+407913 old <s>pA/tavE/</s>, <ls>RV.</ls>), 
+;
+407913 new <s>pA/tavE/</s>, <ls>RV.</ls>)**, 
+; -------------------------------------------------------
+; <L>125989<pc>635,1<k1>purARa
+424687 old <ab>cf.</ab> <ls>IW. 509</ls> &c.)<info lex="inh"/>
+;
+424687 new <ab>cf.</ab> <ls>IW. 509</ls> &c.)**<info lex="inh"/>
+; -------------------------------------------------------
+; <L>126428<pc>637,1<k1>purUravas
+426150 old according to others a <s1 slp1="viSva-deva">Viśva-deva</s1> or a <s1 slp1="pArvaRa-SrAdDa-deva">Pārvaṇa-śrāddha-deva</s1>), <ls>RV.</ls> &c.<info lex="m"/>
+;
+426150 new according to others a <s1 slp1="viSva-deva">Viśva-deva</s1> or a <s1 slp1="pArvaRa-SrAdDa-deva">Pārvaṇa-śrāddha-deva</s1>)**, <ls>RV.</ls> &c.<info lex="m"/>
+; -------------------------------------------------------
+; <L>129615<pc>651,3<k1>pOrRamAsyaDikaraRa
+436460 old <s>pOrRa—mAsy-aDikaraRa</s> ¦ <lex>n.</lex> <ab>N.</ab> of <ab>wk.</ab>)<info lex="n"/>
+;
+436460 new <s>pOrRa—mAsy-aDikaraRa</s> ¦ <lex>n.</lex> <ab>N.</ab> of <ab>wk.</ab>)**<info lex="n"/>
+; -------------------------------------------------------
+; <L>136734.11<pc>1330,3<k1>pravatvat
+460734 old ¦ ‘swift, rapid’).<info n="sup"/>
+;
+460734 new ¦ ‘swift, rapid’)**.<info n="sup"/>
+; -------------------------------------------------------
+; <L>142512<pc>720,1<k1>banD
+479987 old <s>-banDam</s>, <ls>Pāṇ. iii, 4, 41</ls> <ab>Sch.</ab>), 
+;
+479987 new <s>-banDam</s>, <ls>Pāṇ. iii, 4, 41</ls> <ab>Sch.</ab>)**, 
+; -------------------------------------------------------
+; <L>145575<pc>733,2<k1>budDa
+489991 old <ls>Var.</ls> &c.)<info lex="inh"/>
+;
+489991 new <ls>Var.</ls> &c.)**<info lex="inh"/>
+; -------------------------------------------------------
+; <L>146034<pc>735,2<k1>bfh
+491444 old <div n="vp"/><ab>Pass.</ab> <s>vfhyate</s> <pb n="735,3"/>; <ab>aor.</ab> <s>varhi</s>), 
+;
+491444 new <div n="vp"/><ab>Pass.</ab> <s>vfhyate</s> <pb n="735,3"/>; <ab>aor.</ab> <s>varhi</s>)**, 
+; -------------------------------------------------------
+; <L>146034.1<pc>735,2<k1>vfh
+491453 old <div n="vp"/><ab>Pass.</ab> <s>vfhyate</s> <pb n="735,3"/>; <ab>aor.</ab> <s>varhi</s>), 
+;
+491453 new <div n="vp"/><ab>Pass.</ab> <s>vfhyate</s> <pb n="735,3"/>; <ab>aor.</ab> <s>varhi</s>)**, 
+; -------------------------------------------------------
+; <L>147326<pc>741,2<k1>brAhmaRa
+495822 old the <ls>AV.</ls> has one <ab n="Brāhmaṇa" slp1="brAhmaRa">Br°</ab> called <s1 slp1="go-paTa">Go-patha</s1>), <ls>Nir.</ls>;
+;
+495822 new the <ls>AV.</ls> has one <ab n="Brāhmaṇa" slp1="brAhmaRa">Br°</ab> called <s1 slp1="go-paTa">Go-patha</s1>)**, <ls>Nir.</ls>;
+; -------------------------------------------------------
+; <L>147598<pc>743,1<k1>Baj
+496750 old <s>-Bajya</s> and <s>-BA/jam</s>, <ls>Br.</ls>), 
+;
+496750 new <s>-Bajya</s> and <s>-BA/jam</s>, <ls>Br.</ls>)**, 
+; -------------------------------------------------------
+; <L>148185<pc>745,2<k1>BaR
+498788 old <div n="vp"/><ab>Pass.</ab> <s>BaRyate</s>, <ls>BhP.</ls>; <ab>aor.</ab> <s>aBARi</s>, <ls>Bhaṭṭ.</ls>), 
+;
+498788 new <div n="vp"/><ab>Pass.</ab> <s>BaRyate</s>, <ls>BhP.</ls>; <ab>aor.</ab> <s>aBARi</s>, <ls>Bhaṭṭ.</ls>)**, 
+; -------------------------------------------------------
+; <L>150969<pc>758,1<k1>BI
+507719 old <s>Betum</s>, <ls>MBh.</ls> &c.), 
+;
+507719 new <s>Betum</s>, <ls>MBh.</ls> &c.)**, 
+; -------------------------------------------------------
+; <L>151348<pc>759,2<k1>Buj
+508944 old <ab>ind.p.</ab> <s>BuktvA</s> or <s>BuNktvA</s>, <ls>ib.</ls>), 
+;
+508944 new <ab>ind.p.</ab> <s>BuktvA</s> or <s>BuNktvA</s>, <ls>ib.</ls>)**, 
+; -------------------------------------------------------
+; <L>151456<pc>760,1<k1>BU
+509330 old <s>-BU/yam</s>, <s>-Ba/vam</s>, <ls>Br.</ls>), 
+;
+509330 new <s>-BU/yam</s>, <s>-Ba/vam</s>, <ls>Br.</ls>)**, 
+; -------------------------------------------------------
+; <L>151456<pc>760,1<k1>BU
+509347 old <ab>id.</ab> with <ab>gen.</ab> alone, <ls>Lalit.</ls>);
+;
+509347 new <ab>id.</ab> with <ab>gen.</ab> alone, <ls>Lalit.</ls>)**;
+; -------------------------------------------------------
+; <L>152494<pc>764,3<k1>Bf
+512726 old <ab>ind.p.</ab> <s>-Bf/tya</s>, <ls>ib.</ls> &c.), 
+;
+512726 new <ab>ind.p.</ab> <s>-Bf/tya</s>, <ls>ib.</ls> &c.)**, 
+; -------------------------------------------------------
+; <L>152710<pc>765,3<k1>Bfj
+513428 old <div n="vp"/><ab>Intens.</ab> <s>barIBfjyate</s>; <s>barIBarkti</s> and <s>barBa/rkti</s> <ab>Gr.</ab>), 
+;
+513428 new <div n="vp"/><ab>Intens.</ab> <s>barIBfjyate</s>; <s>barIBarkti</s> and <s>barBa/rkti</s> <ab>Gr.</ab>)**, 
+; -------------------------------------------------------
+; <L>153446<pc>769,1<k1>Byas
+515722 old <div n="to"/><ab>Intens.</ab> <s>bAByasyate</s>, <s>bAByasti</s>), to fear, be afraid, tremble (<ab>cf.</ab> √ <s>BI</s>, of which this is a secondary form, <ab>prob.</ab> through <s>Biyas</s>). <info westergaard="Byasa,16.27,01.0406"/><info whitneyroots="Byas,115"/><info verb="root" cp="1Ā"/>
+;
+515722 new <div n="to"/><ab>Intens.</ab> <s>bAByasyate</s>, <s>bAByasti</s>)**, to fear, be afraid, tremble (<ab>cf.</ab> √ <s>BI</s>, of which this is a secondary form, <ab>prob.</ab> through <s>Biyas</s>). <info westergaard="Byasa,16.27,01.0406"/><info whitneyroots="Byas,115"/><info verb="root" cp="1Ā"/>
+; -------------------------------------------------------
+; <L>153524<pc>769,2<k1>Bram
+516025 old <div n="to"/><ab>Pass.</ab> <s>BrA<shortlong/>myate</s>), to cause to wander or roam, drive or move about, agitate, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
+;
+516025 new <div n="to"/><ab>Pass.</ab> <s>BrA<shortlong/>myate</s>)**, to cause to wander or roam, drive or move about, agitate, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
+; -------------------------------------------------------
+; <L>155187<pc>777,1<k1>maT
+521335 old <s>-manTya</s> and <s>-mATam</s>, <ls>MBh.</ls> &c.), 
+;
+521335 new <s>-manTya</s> and <s>-mATam</s>, <ls>MBh.</ls> &c.)**, 
+; -------------------------------------------------------
+; <L>155187.1<pc>777,1<k1>manT
+521370 old <s>-manTya</s> and <s>-mATam</s>, <ls>MBh.</ls> &c.), 
+;
+521370 new <s>-manTya</s> and <s>-mATam</s>, <ls>MBh.</ls> &c.)**, 
+; -------------------------------------------------------
+; <L>156626<pc>783,1<k1>man
+526088 old <s>-manya</s>, <ls>MBh.</ls> &c.), 
+;
+526088 new <s>-manya</s>, <ls>MBh.</ls> &c.)**, 
+; -------------------------------------------------------
+; <L>156776<pc>783,3<k1>manas
+526620 old in <ls>RV.</ls> it is sometimes joined with <s>hfd</s> or <s>hfdaya</s>, the heart, <ls>Mn. vii, 6</ls> with <s>cakzus</s>, the eye)<info lex="n"/>
+;
+526620 new in <ls>RV.</ls> it is sometimes joined with <s>hfd</s> or <s>hfdaya</s>, the heart, <ls>Mn. vii, 6</ls> with <s>cakzus</s>, the eye)**<info lex="n"/>
+; -------------------------------------------------------
+; <L>156778<pc>783,3<k1>manas
+526642 old with √ <s>vft</s>, to be passing in one's mind)<info phwchild="156781.1"/><info lex="inh"/>
+;
+526642 new with √ <s>vft</s>, to be passing in one's mind)**<info phwchild="156781.1"/><info lex="inh"/>
+; -------------------------------------------------------
+; <L>156872<pc>784,2<k1>manu
+526979 old the 14th <s1 slp1="BOtya">Bhautya</s1> or <s1 slp1="indra">Indra</s1>-<ab n="sāvarṇi" slp1="sAvarRi">s°</ab>)<info lex="inh"/>
+;
+526979 new the 14th <s1 slp1="BOtya">Bhautya</s1> or <s1 slp1="indra">Indra</s1>-<ab n="sāvarṇi" slp1="sAvarRi">s°</ab>)**<info lex="inh"/>
+; -------------------------------------------------------
+; <L>158299<pc>790,2<k1>marut
+531573 old <ab>cf.</ab> <s>marIci</s> and <ab>Gk.</ab> <lang n="greek">μαρμαίρω</lang>) the storm-gods (<s1 slp1="indra">Indra</s1>'s companions and sometimes <ab>e.g.</ab> <ls>Ragh. xii, 101</ls> = <s>devAH</s>, the gods or deities in general;
+;
+531573 new <ab>cf.</ab> <s>marIci</s> and <ab>Gk.</ab> <lang n="greek">μαρμαίρω</lang>)** the storm-gods (<s1 slp1="indra">Indra</s1>'s companions and sometimes <ab>e.g.</ab> <ls>Ragh. xii, 101</ls> = <s>devAH</s>, the gods or deities in general;
+; -------------------------------------------------------
+; <L>158299<pc>790,2<k1>marut
+531577 old in the later literature they are the children of <s1 slp1="diti">Diti</s1>, either seven or seven times seven in number, and are sometimes said to be led by <s1 slp1="mAtariSvan">Mātariśvan</s1>), <ls>RV.</ls> &c. &c.<info lex="m"/>
+;
+531577 new in the later literature they are the children of <s1 slp1="diti">Diti</s1>, either seven or seven times seven in number, and are sometimes said to be led by <s1 slp1="mAtariSvan">Mātariśvan</s1>)**, <ls>RV.</ls> &c. &c.<info lex="m"/>
+; -------------------------------------------------------
+; <L>159183<pc>794,2<k1>maharzi
+534403 old some restrict the number to 7, and some add <s1 slp1="dakza">Dakṣa</s1>, <s1 slp1="Darma">Dharma</s1>, <s1 slp1="gOtama">Gautama</s1>, <s1 slp1="kaRva">Kaṇva</s1>, <s1 slp1="vAlmIki">Vālmīki</s1>, <s1 slp1="vyAsa">Vyāsa</s1>, <s1 slp1="manu">Manu</s1>, <s1 slp1="viBARqaka">Vibhāṇḍaka</s1> &c.), <ls>Mn.</ls>;
+;
+534403 new some restrict the number to 7, and some add <s1 slp1="dakza">Dakṣa</s1>, <s1 slp1="Darma">Dharma</s1>, <s1 slp1="gOtama">Gautama</s1>, <s1 slp1="kaRva">Kaṇva</s1>, <s1 slp1="vAlmIki">Vālmīki</s1>, <s1 slp1="vyAsa">Vyāsa</s1>, <s1 slp1="manu">Manu</s1>, <s1 slp1="viBARqaka">Vibhāṇḍaka</s1> &c.)**, <ls>Mn.</ls>;
+; -------------------------------------------------------
+; <L>161686.05<pc>804,1<k1>mA
+542961 old <ab>cf.</ab> <ls>Pāṇ. vi, 4, 75</ls> <ab>Sch.</ab>)
+;
+542961 new <ab>cf.</ab> <ls>Pāṇ. vi, 4, 75</ls> <ab>Sch.</ab>)**
+; -------------------------------------------------------
+; <L>162228<pc>807,1<k1>mAtuliNga
+544714 old <s>mAtu°liNga</s> ¦ <lex>n.</lex>) = <ab>prec.</ab> <lex type="nhw">n.</lex>, (<ls>HPariś.</ls><info lex="n"/>
+;
+544714 new <s>mAtu°liNga</s> ¦ <lex>n.</lex>)** = <ab>prec.</ab> <lex type="nhw">n.</lex>, (<ls>HPariś.</ls><info lex="n"/>
+; -------------------------------------------------------
+; <L>162243<pc>807,1<k1>mAtf
+544767 old also the 13 wives of <s1 slp1="kaSyapa">Kaśyapa</s1> are called, <s>lokAnAm mAtaraH</s>), <ls>MBh.</ls>;
+;
+544767 new also the 13 wives of <s1 slp1="kaSyapa">Kaśyapa</s1> are called, <s>lokAnAm mAtaraH</s>)**, <ls>MBh.</ls>;
+; -------------------------------------------------------
+; <L>164354<pc>817,1<k1>miTyA
+551549 old with <s>pra-√ vft</s>, to behave improperly, <ls>MBh. iii, 2414</ls>);
+;
+551549 new with <s>pra-√ vft</s>, to behave improperly, <ls>MBh. iii, 2414</ls>)**;
+; -------------------------------------------------------
+; <L>164354<pc>817,1<k1>miTyA
+551553 old to break one's word, with <s>na-√ kf</s>, to keep it), <ls>R.</ls>;
+;
+551553 new to break one's word, with <s>na-√ kf</s>, to keep it)**, <ls>R.</ls>;
+; -------------------------------------------------------
+; <L>164354<pc>817,1<k1>miTyA
+551558 old <s1 slp1="miTyA">Mithyā</s1> is personified as the wife of <s1 slp1="a-Darma">A-dharma</s1>, <ls>KalkiP.</ls>)<info lex="ind"/>
+;
+551558 new <s1 slp1="miTyA">Mithyā</s1> is personified as the wife of <s1 slp1="a-Darma">A-dharma</s1>, <ls>KalkiP.</ls>)**<info lex="ind"/>
+; -------------------------------------------------------
+; <L>167121<pc>829,2<k1>mfj
+560530 old <s>-mArjya</s>, <ls>Kāv.</ls>), 
+;
+560530 new <s>-mArjya</s>, <ls>Kāv.</ls>)**, 
+; -------------------------------------------------------
+; <L>167459<pc>831,2<k1>mF
+561652 old <div n="to"/><ab>Pass.</ab> <s>mUrya/te</s>, <ls>ŚBr.</ls>), to crush, smash, break, kill, destroy, <ls>RV.</ls>; <ls>AV.</ls>; <ls>Br.</ls><info westergaard="mF,31.22,09.0023;kF,31.26,09.0027"/><info whitneyroots="mf2,124"/><info verb="root" cp="9P"/>
+;
+561652 new <div n="to"/><ab>Pass.</ab> <s>mUrya/te</s>, <ls>ŚBr.</ls>)**, to crush, smash, break, kill, destroy, <ls>RV.</ls>; <ls>AV.</ls>; <ls>Br.</ls><info westergaard="mF,31.22,09.0023;kF,31.26,09.0027"/><info whitneyroots="mf2,124"/><info verb="root" cp="9P"/>
+; -------------------------------------------------------
+; <L>168870<pc>837,2<k1>mnA
+566068 old <div n="vp"/><ab>Intens.</ab>, <s>mAmnAyate</s>, <s>mAmnAti</s>, <s>mAmneti</s>), only in <s>anu-</s>, <s>A-</s>, <s>praty-A-</s>, <s>sam-A-</s>, <s>pari-√ mnA</s>.<info westergaard="mnA,22.31,01.0651"/><info whitneyroots="mnA,127"/><info verb="genuineroot" cp="1P"/>
+;
+566068 new <div n="vp"/><ab>Intens.</ab>, <s>mAmnAyate</s>, <s>mAmnAti</s>, <s>mAmneti</s>)**, only in <s>anu-</s>, <s>A-</s>, <s>praty-A-</s>, <s>sam-A-</s>, <s>pari-√ mnA</s>.<info westergaard="mnA,22.31,01.0651"/><info whitneyroots="mnA,127"/><info verb="genuineroot" cp="1P"/>
+; -------------------------------------------------------
+; <L>169114<pc>838,3<k1>yaj
+566870 old <s>yA/jam</s>, <ls>AV.</ls>), 
+;
+566870 new <s>yA/jam</s>, <ls>AV.</ls>)**, 
+; -------------------------------------------------------
+; <L>169189<pc>839,2<k1>yajurveda
+567121 old <ab>cf.</ab> <ls>IW. 6</ls>; <ls n="IW.">245 n. 2</ls>), 
+;
+567121 new <ab>cf.</ab> <ls>IW. 6</ls>; <ls n="IW.">245 n. 2</ls>)**, 
+; -------------------------------------------------------
+; <L>170138<pc>844,1<k1>yadA
+570627 old the copula after <s>yadA</s> is often dropped, <ab>esp.</ab> after a participle, <ab>e.g.</ab> <s>yadA kzayaM gataM sarvam</s>, ‘when all had gone to ruin’ <ls>R.</ls> <s>yadA</s> is sometimes joined with other relatives used indefinitely, <ab>e.g.</ab> <s>yo 'tti yasya yadA mAMsam</s>, ‘when any one eats the flesh of any one’ <ls>Hit.</ls>)<info lex="ind"/>
+;
+570627 new the copula after <s>yadA</s> is often dropped, <ab>esp.</ab> after a participle, <ab>e.g.</ab> <s>yadA kzayaM gataM sarvam</s>, ‘when all had gone to ruin’ <ls>R.</ls> <s>yadA</s> is sometimes joined with other relatives used indefinitely, <ab>e.g.</ab> <s>yo 'tti yasya yadA mAMsam</s>, ‘when any one eats the flesh of any one’ <ls>Hit.</ls>)**<info lex="ind"/>
+; -------------------------------------------------------
+; <L>170148<pc>844,2<k1>yad
+570693 old <s>yan nu</s>, with 1st <ab>pers.</ab>, ‘what if I’, ‘let me’ <ls>Divyâv.</ls>)<info lexcat="LEXID=pron,STEM=yad"/>
+;
+570693 new <s>yan nu</s>, with 1st <ab>pers.</ab>, ‘what if I’, ‘let me’ <ls>Divyâv.</ls>)**<info lexcat="LEXID=pron,STEM=yad"/>
+; -------------------------------------------------------
+; <L>170258<pc>845,2<k1>yam
+571142 old <s>-ya/mam</s>, <ls>RV.</ls>; <ls>Br.</ls>), 
+;
+571142 new <s>-ya/mam</s>, <ls>RV.</ls>; <ls>Br.</ls>)**, 
+; -------------------------------------------------------
+; <L>170391<pc>846,1<k1>yama
+571617 old <s>yamasyA<srs/>rkaH</s> <ab>N.</ab> of a <s1 slp1="sAman">Sāman</s1>, <ls>ĀrṣBr.</ls>)
+;
+571617 new <s>yamasyA<srs/>rkaH</s> <ab>N.</ab> of a <s1 slp1="sAman">Sāman</s1>, <ls>ĀrṣBr.</ls>)**
+; -------------------------------------------------------
+; <L>171018<pc>849,1<k1>yA
+573652 old <s>-yA/ya</s>, <s>-yAyam</s>, <ls>ib.</ls>), 
+;
+573652 new <s>-yA/ya</s>, <s>-yAyam</s>, <ls>ib.</ls>)**, 
+; -------------------------------------------------------
+; <L>171018<pc>849,1<k1>yA
+573675 old <s>PaleByo yAti</s>, he goes to [fetch] fruits, <ls>Pāṇ. ii, 3, 14</ls> <ab>Sch.</ab>);
+;
+573675 new <s>PaleByo yAti</s>, he goes to [fetch] fruits, <ls>Pāṇ. ii, 3, 14</ls> <ab>Sch.</ab>)**;
+; -------------------------------------------------------
+; <L>171731<pc>853,2<k1>yuj
+576014 old <s>-yujya</s>, <ls>MBh.</ls> &c.), 
+;
+576014 new <s>-yujya</s>, <ls>MBh.</ls> &c.)**, 
+; -------------------------------------------------------
+; <L>176054<pc>871,3<k1>rAkzasa
+590086 old <ls>RTL. 237</ls>), <ls>Kauś.</ls>;
+;
+590086 new <ls>RTL. 237</ls>)**, <ls>Kauś.</ls>;
+; -------------------------------------------------------
+; <L>177272<pc>877,1<k1>rAma
+593979 old and in <ls>VP.</ls> a <ab n="Rāma" slp1="rAma">R°</ab>s is mentioned among the 7 <s1 slp1="fzi">Ṛṣi</s1>s of the 8th <s1 slp1="manv-antara">Manv-antara</s1>), <ls>RV.</ls> &c. &c. <ab>N.</ab> of a king of <s1 slp1="malla-pura">Malla-pura</s1>, <ls>Cat.</ls><info lex="inh"/>
+;
+593979 new and in <ls>VP.</ls> a <ab n="Rāma" slp1="rAma">R°</ab>s is mentioned among the 7 <s1 slp1="fzi">Ṛṣi</s1>s of the 8th <s1 slp1="manv-antara">Manv-antara</s1>)**, <ls>RV.</ls> &c. &c. <ab>N.</ab> of a king of <s1 slp1="malla-pura">Malla-pura</s1>, <ls>Cat.</ls><info lex="inh"/>
+; -------------------------------------------------------
+; <L>177657<pc>878,3<k1>rAmAyaRa
+595370 old and although there are three recensions of the poem, all of them go back to a lost original recension, the ground work of which, contained in books 2-6, in spite of many amplifications and interpolations, may be traced back to one man, and does not like the <s1 slp1="mahABArata">Mahābhārata</s1>, represent the production of different epochs and minds), <ls>MBh.</ls>;
+;
+595370 new and although there are three recensions of the poem, all of them go back to a lost original recension, the ground work of which, contained in books 2-6, in spite of many amplifications and interpolations, may be traced back to one man, and does not like the <s1 slp1="mahABArata">Mahābhārata</s1>, represent the production of different epochs and minds)**, <ls>MBh.</ls>;
+; -------------------------------------------------------
+; <L>177723<pc>879,1<k1>rAvaRa
+595582 old as <s1 slp1="vizRu">Viṣṇu</s1> became incarnate in <s1 slp1="rAma-candra">Rāma-candra</s1> to destroy <ab n="Rāvaṇa" slp1="rAvaRa">R°</ab>, so the other gods produced innumerable monkeys, bears, and various semi-divine animals to do battle with the legions of demons, his subjects, under <s1 slp1="Kara">Khara</s1>, <s1 slp1="dUzaRa">Dūṣaṇa</s1>, and his other generals), <ls>MBh.</ls>;
+;
+595582 new as <s1 slp1="vizRu">Viṣṇu</s1> became incarnate in <s1 slp1="rAma-candra">Rāma-candra</s1> to destroy <ab n="Rāvaṇa" slp1="rAvaRa">R°</ab>, so the other gods produced innumerable monkeys, bears, and various semi-divine animals to do battle with the legions of demons, his subjects, under <s1 slp1="Kara">Khara</s1>, <s1 slp1="dUzaRa">Dūṣaṇa</s1>, and his other generals)**, <ls>MBh.</ls>;
+; -------------------------------------------------------
+; <L>177899<pc>879,3<k1>rAhu
+596133 old <ab>cf.</ab> <s>graha</s> and √ <s>grah</s>) ‘the Seizer’, <ab>N.</ab> of a <s1 slp1="dEtya">Daitya</s1> or demon who is supposed to seize the sun and moon and thus cause eclipses (he is fabled as a son of <s1 slp1="vipra-citti">Vipra-citti</s1> and <s1 slp1="siMhikA">Siṉhikā</s1> and as having a dragon's tail;
+;
+596133 new <ab>cf.</ab> <s>graha</s> and √ <s>grah</s>)** ‘the Seizer’, <ab>N.</ab> of a <s1 slp1="dEtya">Daitya</s1> or demon who is supposed to seize the sun and moon and thus cause eclipses (he is fabled as a son of <s1 slp1="vipra-citti">Vipra-citti</s1> and <s1 slp1="siMhikA">Siṉhikā</s1> and as having a dragon's tail;
+; -------------------------------------------------------
+; <L>177899<pc>879,3<k1>rAhu
+596138 old among <ns>Buddhists</ns> many demons are called <s1 slp1="rAhu">Rāhu</s1>), <ls>AV.</ls> &c. &c.<info lex="m"/>
+;
+596138 new among <ns>Buddhists</ns> many demons are called <s1 slp1="rAhu">Rāhu</s1>)**, <ls>AV.</ls> &c. &c.<info lex="m"/>
+; -------------------------------------------------------
+; <L>178518<pc>883,1<k1>rudra
+598197 old elsewhere he is reckoned among the <s1 slp1="dik-pAla">Dik-pāla</s1>s as regent of the north-east quarter), <ls>RV.</ls> &c. &c. (<ab>cf.</ab> <ls>RTL. 75</ls> &c.)<info lex="m"/>
+;
+598197 new elsewhere he is reckoned among the <s1 slp1="dik-pAla">Dik-pāla</s1>s as regent of the north-east quarter)**, <ls>RV.</ls> &c. &c. (<ab>cf.</ab> <ls>RTL. 75</ls> &c.)<info lex="m"/>
+; -------------------------------------------------------
+; <L>178755<pc>884,1<k1>ruD
+598973 old <s>-ro<srs/>Dam</s>, <ls>ib.</ls>), 
+;
+598973 new <s>-ro<srs/>Dam</s>, <ls>ib.</ls>)**, 
+; -------------------------------------------------------
+; <L>180526<pc>892,3<k1>lakzmI
+604568 old <ab>accord.</ab> to another legend she appeared at the creation floating over the water on the expanded petals of a lotus-flower, she is also variously regarded as a wife of <s1 slp1="sUrya">Sūrya</s1>, as a <ab n="wife">w°</ab> of <s1 slp1="prajA-pati">Prajā-pati</s1>, as a <ab n="wife">w°</ab> of <s1 slp1="Darma">Dharma</s1> and mother of <s1 slp1="kAma">Kāma</s1>, as sister or mother of <s1 slp1="DAtf">Dhātṛ</s1> and <s1 slp1="viDAtf">Vidhātṛ</s1>, as <ab n="wife">w°</ab> of <s1 slp1="dattatreya">Dattátreya</s1>, as one of the 9 <s1 slp1="Sakti">Śakti</s1>s of <s1 slp1="vizRu">Viṣṇu</s1>, as a manifestation of <s1 slp1="prakfti">Prakṛti</s1> &c., as identified with <s1 slp1="dAkzAyaRI">Dākṣāyaṇī</s1> in <s1 slp1="BaratASrama">Bharatâśrama</s1>, and with <s1 slp1="sItA">Sītā</s1>, wife of <s1 slp1="rAma">Rāma</s1>, and with other women), <ls>ib.</ls> (<ab>cf.</ab> <ls>RTL. 103</ls>; <ls n="RTL.">108</ls> &c.)
+;
+604568 new <ab>accord.</ab> to another legend she appeared at the creation floating over the water on the expanded petals of a lotus-flower, she is also variously regarded as a wife of <s1 slp1="sUrya">Sūrya</s1>, as a <ab n="wife">w°</ab> of <s1 slp1="prajA-pati">Prajā-pati</s1>, as a <ab n="wife">w°</ab> of <s1 slp1="Darma">Dharma</s1> and mother of <s1 slp1="kAma">Kāma</s1>, as sister or mother of <s1 slp1="DAtf">Dhātṛ</s1> and <s1 slp1="viDAtf">Vidhātṛ</s1>, as <ab n="wife">w°</ab> of <s1 slp1="dattatreya">Dattátreya</s1>, as one of the 9 <s1 slp1="Sakti">Śakti</s1>s of <s1 slp1="vizRu">Viṣṇu</s1>, as a manifestation of <s1 slp1="prakfti">Prakṛti</s1> &c., as identified with <s1 slp1="dAkzAyaRI">Dākṣāyaṇī</s1> in <s1 slp1="BaratASrama">Bharatâśrama</s1>, and with <s1 slp1="sItA">Sītā</s1>, wife of <s1 slp1="rAma">Rāma</s1>, and with other women)**, <ls>ib.</ls> (<ab>cf.</ab> <ls>RTL. 103</ls>; <ls n="RTL.">108</ls> &c.)
+; -------------------------------------------------------
+; <L>182034<pc>899,2<k1>lAsya
+609347 old <ab>cf.</ab> <ls>IW. 467</ls>), <ls>MBh.</ls>;
+;
+609347 new <ab>cf.</ab> <ls>IW. 467</ls>)**, <ls>MBh.</ls>;
+; -------------------------------------------------------
+; <L>183233<pc>906,1<k1>loka
+613251 old <ab>cf.</ab> <ls>RTL. 102 n. 1</ls>; <ls>IW. 420, 1</ls>; <ls n="IW.">435, 1</ls>), <ls>AV.</ls> &c. &c.
+;
+613251 new <ab>cf.</ab> <ls>RTL. 102 n. 1</ls>; <ls>IW. 420, 1</ls>; <ls n="IW.">435, 1</ls>)**, <ls>AV.</ls> &c. &c.
+; -------------------------------------------------------
+; <L>183326<pc>906,3<k1>lokapAla
+613552 old according to, <ls>Dharmas.</ls> the <ns>Buddhists</ns> enumerate 4 or 8 or 10 or 14 <s1 slp1="loka-pAla">Loka-pāla</s1>s), <ls>ŚBr.</ls> &c. &c.<info lex="m"/>
+;
+613552 new according to, <ls>Dharmas.</ls> the <ns>Buddhists</ns> enumerate 4 or 8 or 10 or 14 <s1 slp1="loka-pAla">Loka-pāla</s1>s)**, <ls>ŚBr.</ls> &c. &c.<info lex="m"/>
+; -------------------------------------------------------
+; <L>184615<pc>912,1<k1>vac
+617658 old <s>-u/cya</s>, <ls>ib.</ls>), 
+;
+617658 new <s>-u/cya</s>, <ls>ib.</ls>)**, 
+; -------------------------------------------------------
+; <L>184795<pc>913,1<k1>vajra
+618246 old See <ls>MWB. 201</ls>; <ls n="MWB.">322</ls> &c.), <ls>RV.</ls> &c. &c.
+;
+618246 new See <ls>MWB. 201</ls>; <ls n="MWB.">322</ls> &c.)**, <ls>RV.</ls> &c. &c.
+; -------------------------------------------------------
+; <L>186668<pc>921,2<k1>varuRa
+624247 old the <s1 slp1="jEna">Jaina</s1>s consider <s1 slp1="varuRa">Varuṇa</s1> as a servant of the twentieth <s1 slp1="arhat">Arhat</s1> of the present <s1 slp1="avasarpiRI">Avasarpiṇī</s1>), <ls>RV.</ls> &c. &c. (<ab>cf.</ab> <ls>IW. 10</ls>; <ls n="IW.">12</ls> &c.)
+;
+624247 new the <s1 slp1="jEna">Jaina</s1>s consider <s1 slp1="varuRa">Varuṇa</s1> as a servant of the twentieth <s1 slp1="arhat">Arhat</s1> of the present <s1 slp1="avasarpiRI">Avasarpiṇī</s1>)**, <ls>RV.</ls> &c. &c. (<ab>cf.</ab> <ls>IW. 10</ls>; <ls n="IW.">12</ls> &c.)
+; -------------------------------------------------------
+; <L>186836<pc>922,2<k1>varadarAja
+624851 old <lex type="hwalt">n.</lex> <ab>N.</ab> of <ab>wk.</ab>)<info phwchild="186836.01"/><info phwchild="186836.02"/><info phwchild="186836.03"/><info phwchild="186836.04"/><info phwchild="186836.05"/><info phwchild="186836.06"/><info phwchild="186836.07"/><info phwchild="186836.08"/><info phwchild="186836.09"/><info phwchild="186836.10"/><info phwchild="186836.11"/><info phwchild="186836.12"/><info phwchild="186836.13"/><info lex="m:n"/>
+;
+624851 new <lex type="hwalt">n.</lex> <ab>N.</ab> of <ab>wk.</ab>)**<info phwchild="186836.01"/><info phwchild="186836.02"/><info phwchild="186836.03"/><info phwchild="186836.04"/><info phwchild="186836.05"/><info phwchild="186836.06"/><info phwchild="186836.07"/><info phwchild="186836.08"/><info phwchild="186836.09"/><info phwchild="186836.10"/><info phwchild="186836.11"/><info phwchild="186836.12"/><info phwchild="186836.13"/><info lex="m:n"/>
+; -------------------------------------------------------
+; <L>188317<pc>928,3<k1>vallaBAcArya
+629519 old they are called the epicureans of India), <ls>RTL. 134</ls>-<ls n="RTL.">137</ls><info lex="m"/>
+;
+629519 new they are called the epicureans of India)**, <ls>RTL. 134</ls>-<ls n="RTL.">137</ls><info lex="m"/>
+; -------------------------------------------------------
+; <L>188675<pc>930,2<k1>vasizWa
+630678 old other legends make him one of the 7 patriarchal sages regarded as forming the Great Bear in which he represents the star <lang n="greek">ζ</lang> See <s>fzi</s>), <ls>RV.</ls> &c. &c. (<ab>cf.</ab> <ls>IW. 361</ls>; <ls n="IW.">402 n. 1</ls> &c.)
+;
+630678 new other legends make him one of the 7 patriarchal sages regarded as forming the Great Bear in which he represents the star <lang n="greek">ζ</lang> See <s>fzi</s>)**, <ls>RV.</ls> &c. &c. (<ab>cf.</ab> <ls>IW. 361</ls>; <ls n="IW.">402 n. 1</ls> &c.)
+; -------------------------------------------------------
+; <L>188709<pc>930,3<k1>vasu
+630794 old in their relationship to Fire and Light they appear to belong to Vedic rather than <ns>Purānic</ns> mythology), <ls>RV.</ls> &c. &c.<info lex="inh"/>
+;
+630794 new in their relationship to Fire and Light they appear to belong to Vedic rather than <ns>Purānic</ns> mythology)**, <ls>RV.</ls> &c. &c.<info lex="inh"/>
+; -------------------------------------------------------
+; <L>189096<pc>932,2<k1>vas
+632072 old <div n="to"/><ab>Pass.</ab> <s>vAsya/te</s>, <ls>Br.</ls>, <s>°ti</s>, <ls>MBh.</ls>), to cause to halt or stay (overnight), lodge, receive hospitably or as a guest, <ls>ŚBr.</ls>; <ls>MBh.</ls> &c.;
+;
+632072 new <div n="to"/><ab>Pass.</ab> <s>vAsya/te</s>, <ls>Br.</ls>, <s>°ti</s>, <ls>MBh.</ls>)**, to cause to halt or stay (overnight), lodge, receive hospitably or as a guest, <ls>ŚBr.</ls>; <ls>MBh.</ls> &c.;
+; -------------------------------------------------------
+; <L>189238<pc>933,2<k1>vah
+632565 old <ab>cf.</ab> √ <hom>1.</hom> <s>Uh</s>), 
+;
+632565 new <ab>cf.</ab> √ <hom>1.</hom> <s>Uh</s>)**, 
+; -------------------------------------------------------
+; <L>189435<pc>934,2<k1>vA
+633236 old it is also sometimes used as an expletive)<info lex="ind"/>
+;
+633236 new it is also sometimes used as an expletive)**<info lex="ind"/>
+; -------------------------------------------------------
+; <L>190382<pc>938,2<k1>vAjasaneyisaMhitA
+636329 old <ab>cf.</ab> <s>vAjin</s>)<info lex="f"/>
+;
+636329 new <ab>cf.</ab> <s>vAjin</s>)**<info lex="f"/>
+; -------------------------------------------------------
+; <L>191229<pc>942,2<k1>vAyu
+639028 old he is regent of the <s1 slp1="nakzatra">Nakṣatra</s1> <s1 slp1="svAti">Svāti</s1> and north-west quarter See <s>loka-pAla</s>), <ls>ib.</ls><info lex="inh"/>
+;
+639028 new he is regent of the <s1 slp1="nakzatra">Nakṣatra</s1> <s1 slp1="svAti">Svāti</s1> and north-west quarter See <s>loka-pAla</s>)**, <ls>ib.</ls><info lex="inh"/>
+; -------------------------------------------------------
+; <L>192212<pc>946,3<k1>vAlmIki
+642078 old <ab>cf.</ab> <ls>IW. 314</ls>; <ls n="IW.">315</ls> &c.), <ls>MBh.</ls>; <ls>R.</ls> &c.
+;
+642078 new <ab>cf.</ab> <ls>IW. 314</ls>; <ls n="IW.">315</ls> &c.)**, <ls>MBh.</ls>; <ls>R.</ls> &c.
+; -------------------------------------------------------
+; <L>193954<pc>954,2<k1>vikaraRa
+647840 old <s>AKyAta-pada-vikaraRAH</s>, ‘words which modify the finite verb’ <ab>i.e.</ab> make it accented)<info lex="m"/>
+;
+647840 new <s>AKyAta-pada-vikaraRAH</s>, ‘words which modify the finite verb’ <ab>i.e.</ab> make it accented)**<info lex="m"/>
+; -------------------------------------------------------
+; <L>194227<pc>955,3<k1>vikramAditya
+648737 old there are, however, other kings called <s1 slp1="vikramAditya">Vikramâditya</s1>, and the name has been applied to king <s1 slp1="Boja">Bhoja</s1> and even to <s1 slp1="SAli-vAhana">Śāli-vāhana</s1>), <ls>Inscr.</ls>;
+;
+648737 new there are, however, other kings called <s1 slp1="vikramAditya">Vikramâditya</s1>, and the name has been applied to king <s1 slp1="Boja">Bhoja</s1> and even to <s1 slp1="SAli-vAhana">Śāli-vāhana</s1>)**, <ls>Inscr.</ls>;
+; -------------------------------------------------------
+; <L>195626<pc>963,2<k1>vid
+653405 old <ab>ind.p.</ab> <s>viditvA/</s>, <ls>Br.</ls> &c.), 
+;
+653405 new <ab>ind.p.</ab> <s>viditvA/</s>, <ls>Br.</ls> &c.)**, 
+; -------------------------------------------------------
+; <L>195671<pc>963,3<k1>vidura
+653560 old when <s1 slp1="vyAsa">Vyāsa</s1> wanted a third son, the elder widow sent him one of her slave-girls, dressed in her own clothes, and this girl became the mother of <s1 slp1="vidura">Vidura</s1>, who is sometimes called <s1 slp1="kzattf">Kṣattṛ</s1>, as if he were the son of a <s1 slp1="kzatriya">Kṣatriya</s1> man and <s1 slp1="SUdra">Śūdra</s1> woman <s1 slp1="vidura">Vidura</s1> is described as <s>sarva-budDimatAM varaH</s> and is one of the wisest characters in the <s1 slp1="mahA-BArata">Mahā-bhārata</s1>, always ready with good advice both for his nephews, the <s1 slp1="pARqava">Pāṇḍava</s1>s, and for his brother <s1 slp1="Dfta-rAzwra">Dhṛta-rāṣṭra</s1>), <ls>MBh.</ls>;
+;
+653560 new when <s1 slp1="vyAsa">Vyāsa</s1> wanted a third son, the elder widow sent him one of her slave-girls, dressed in her own clothes, and this girl became the mother of <s1 slp1="vidura">Vidura</s1>, who is sometimes called <s1 slp1="kzattf">Kṣattṛ</s1>, as if he were the son of a <s1 slp1="kzatriya">Kṣatriya</s1> man and <s1 slp1="SUdra">Śūdra</s1> woman <s1 slp1="vidura">Vidura</s1> is described as <s>sarva-budDimatAM varaH</s> and is one of the wisest characters in the <s1 slp1="mahA-BArata">Mahā-bhārata</s1>, always ready with good advice both for his nephews, the <s1 slp1="pARqava">Pāṇḍava</s1>s, and for his brother <s1 slp1="Dfta-rAzwra">Dhṛta-rāṣṭra</s1>)**, <ls>MBh.</ls>;
+; -------------------------------------------------------
+; <L>195690<pc>963,3<k1>vidyA
+653629 old she is even said to have composed prayers and magical formulas)<info lex="f"/>
+;
+653629 new she is even said to have composed prayers and magical formulas)**<info lex="f"/>
+; -------------------------------------------------------
+; <L>195939<pc>964,3<k1>vid
+654505 old <s>-vidya</s>, <ls>Br.</ls> &c.), 
+;
+654505 new <s>-vidya</s>, <ls>Br.</ls> &c.)**, 
+; -------------------------------------------------------
+; <L>197343<pc>972,2<k1>vinDya
+659183 old this he promised to do, but <s1 slp1="agastya">Agastya</s1> never returned, and the <s1 slp1="vinDya">Vindhya</s1> range consequently never attained the elevation of the <s1 slp1="himAlaya">Himâlaya</s1>), <ls>Mn.</ls>;
+;
+659183 new this he promised to do, but <s1 slp1="agastya">Agastya</s1> never returned, and the <s1 slp1="vinDya">Vindhya</s1> range consequently never attained the elevation of the <s1 slp1="himAlaya">Himâlaya</s1>)**, <ls>Mn.</ls>;
+; -------------------------------------------------------
+; <L>198376<pc>978,2<k1>viBIzaRa
+662585 old hence he is represented in the <s1 slp1="rAmAyaRa">Rāmāyaṇa</s1> as endeavouring to counteract the malice of his brother <s1 slp1="rAvaRa">Rāvaṇa</s1>, in consequence of which he was so ill-treated by him that, leaving <s1 slp1="laNkA">Laṅkā</s1>, he joined <s1 slp1="rAma">Rāma</s1>, by whom, after the death of <s1 slp1="rAvaRa">Rāvaṇa</s1>, <ab n="Vibhīṣaṇa" slp1="viBIzaRa">V°</ab> was placed on the throne of <s1 slp1="laNkA">Laṅkā</s1>), <ls>MBh.</ls>;
+;
+662585 new hence he is represented in the <s1 slp1="rAmAyaRa">Rāmāyaṇa</s1> as endeavouring to counteract the malice of his brother <s1 slp1="rAvaRa">Rāvaṇa</s1>, in consequence of which he was so ill-treated by him that, leaving <s1 slp1="laNkA">Laṅkā</s1>, he joined <s1 slp1="rAma">Rāma</s1>, by whom, after the death of <s1 slp1="rAvaRa">Rāvaṇa</s1>, <ab n="Vibhīṣaṇa" slp1="viBIzaRa">V°</ab> was placed on the throne of <s1 slp1="laNkA">Laṅkā</s1>)**, <ls>MBh.</ls>;
+; -------------------------------------------------------
+; <L>199214<pc>982,3<k1>virAj
+665412 old being elsewhere, however, identified with <s1 slp1="prARa">Prâṇa</s1>), <ls>IW. 22</ls> &c.<info lex="m:f"/>
+;
+665412 new being elsewhere, however, identified with <s1 slp1="prARa">Prâṇa</s1>)**, <ls>IW. 22</ls> &c.<info lex="m:f"/>
+; -------------------------------------------------------
+; <L>200996<pc>992,2<k1>viSva
+671444 old moreover <ab>accord.</ab> to <s1 slp1="manu">Manu</s1> [<ls n="Mn.">iii, 90, 121</ls>], offerings should be made to them daily - these privileges having been bestowed on them by <s1 slp1="brahmA">Brahmā</s1> and the <s1 slp1="pitf">Pitṛ</s1>s, as a reward for severe austerities they had performed on the <s1 slp1="himAlaya">Himâlaya</s1>: sometimes it is difficult to decide whether the expression <s>viSve devAH</s> refers to all the gods or to the particular troop of deities described above), <ls>RV.</ls> &c. &c.;<info lex="inh"/>
+;
+671444 new moreover <ab>accord.</ab> to <s1 slp1="manu">Manu</s1> [<ls n="Mn.">iii, 90, 121</ls>], offerings should be made to them daily - these privileges having been bestowed on them by <s1 slp1="brahmA">Brahmā</s1> and the <s1 slp1="pitf">Pitṛ</s1>s, as a reward for severe austerities they had performed on the <s1 slp1="himAlaya">Himâlaya</s1>: sometimes it is difficult to decide whether the expression <s>viSve devAH</s> refers to all the gods or to the particular troop of deities described above)**, <ls>RV.</ls> &c. &c.;<info lex="inh"/>
+; -------------------------------------------------------
+; <L>201490<pc>994,2<k1>viSvakarman
+673163 old the name <s1 slp1="viSva-karman">Viśva-karman</s1>, meaning ‘doing all acts’, appears to be sometimes applicable as an epithet to any great divinity), <ls>RV.</ls> &c. &c.<info lex="m"/>
+;
+673163 new the name <s1 slp1="viSva-karman">Viśva-karman</s1>, meaning ‘doing all acts’, appears to be sometimes applicable as an epithet to any great divinity)**, <ls>RV.</ls> &c. &c.<info lex="m"/>
+; -------------------------------------------------------
+; <L>201542<pc>994,3<k1>viSvAmitra
+673386 old moreover, a law-book, a <s1 slp1="Danurveda">Dhanurveda</s1>, and a medical <ab>wk.</ab> are attributed to him), <ls>RV.</ls> &c. &c.<info lex="m"/>
+;
+673386 new moreover, a law-book, a <s1 slp1="Danurveda">Dhanurveda</s1>, and a medical <ab>wk.</ab> are attributed to him)**, <ls>RV.</ls> &c. &c.<info lex="m"/>
+; -------------------------------------------------------
+; <L>202398<pc>999,1<k1>vizRu
+676167 old he is sometimes regarded as the divinity of the lunar mansion called <s1 slp1="SravaRa">Śravaṇa</s1>), <ls>RV.</ls> &c. &c. (<ab>cf.</ab> <ls>RTL. 44</ls>;
+;
+676167 new he is sometimes regarded as the divinity of the lunar mansion called <s1 slp1="SravaRa">Śravaṇa</s1>)**, <ls>RV.</ls> &c. &c. (<ab>cf.</ab> <ls>RTL. 44</ls>;
+; -------------------------------------------------------
+; <L>202398<pc>999,1<k1>vizRu
+676168 old <ls>IW. 324</ls>)<info lex="m"/>
+;
+676168 new <ls>IW. 324</ls>)**<info lex="m"/>
+; -------------------------------------------------------
+; <L>203637<pc>1005,3<k1>vIratA
+680393 old <s>vIra/—tA</s>), <lex>f.</lex> or <s>vIra/—tva</s>, <lex>n.</lex> ¦ heroism, manliness, <ls>VS.</ls>; <ls>MBh.</ls> &c.<info or="203637,vIratA;203638,vIratva"/><info lex="f"/>
+;
+680393 new <s>vIra/—tA</s>)**, <lex>f.</lex> or <s>vIra/—tva</s>, <lex>n.</lex> ¦ heroism, manliness, <ls>VS.</ls>; <ls>MBh.</ls> &c.<info or="203637,vIratA;203638,vIratva"/><info lex="f"/>
+; -------------------------------------------------------
+; <L>203638<pc>1005,3<k1>vIratva
+680396 old <s>vIra/—tA</s>), <lex>f.</lex> or <s>vIra/—tva</s>, <lex>n.</lex> ¦ heroism, manliness, <ls>VS.</ls>; <ls>MBh.</ls> &c.<info or="203637,vIratA;203638,vIratva"/><info lex="f"/>
+;
+680396 new <s>vIra/—tA</s>)**, <lex>f.</lex> or <s>vIra/—tva</s>, <lex>n.</lex> ¦ heroism, manliness, <ls>VS.</ls>; <ls>MBh.</ls> &c.<info or="203637,vIratA;203638,vIratva"/><info lex="f"/>
+; -------------------------------------------------------
+; <L>203978<pc>1007,1<k1>vf
+681570 old <s>-vf/tya</s>, <ls>AV.</ls>), 
+;
+681570 new <s>-vf/tya</s>, <ls>AV.</ls>)**, 
+; -------------------------------------------------------
+; <L>204000<pc>1007,2<k1>vftra
+681657 old as a <s1 slp1="dAnava">Dānava</s1>, <s1 slp1="vftra">Vṛtra</s1> is a son of <s1 slp1="tvazwf">Tvaṣṭṛ</s1>, or of <s1 slp1="danu">Danu</s1> <ab>q.v.</ab>, and is often identified with <s1 slp1="ahi">Ahi</s1>, the serpent of the sky, and associated with other evil spirits, such as <s1 slp1="SuzRa">Śuṣṇa</s1>, <s1 slp1="namuci">Namuci</s1>, <s1 slp1="pipru">Pipru</s1>, <s1 slp1="Sambara">Śambara</s1>, <s1 slp1="uraRa">Uraṇa</s1>, whose malignant influences are generally exercised in producing darkness or drought), <ls>RV.</ls> &c. &c.<info lex="m"/>
+;
+681657 new as a <s1 slp1="dAnava">Dānava</s1>, <s1 slp1="vftra">Vṛtra</s1> is a son of <s1 slp1="tvazwf">Tvaṣṭṛ</s1>, or of <s1 slp1="danu">Danu</s1> <ab>q.v.</ab>, and is often identified with <s1 slp1="ahi">Ahi</s1>, the serpent of the sky, and associated with other evil spirits, such as <s1 slp1="SuzRa">Śuṣṇa</s1>, <s1 slp1="namuci">Namuci</s1>, <s1 slp1="pipru">Pipru</s1>, <s1 slp1="Sambara">Śambara</s1>, <s1 slp1="uraRa">Uraṇa</s1>, whose malignant influences are generally exercised in producing darkness or drought)**, <ls>RV.</ls> &c. &c.<info lex="m"/>
+; -------------------------------------------------------
+; <L>204309<pc>1008,3<k1>vfj
+682641 old <s>-vf/jya</s>, <s>-vargam</s>, <ls>Br.</ls> &c.), 
+;
+682641 new <s>-vf/jya</s>, <s>-vargam</s>, <ls>Br.</ls> &c.)**, 
+; -------------------------------------------------------
+; <L>204340<pc>1009,1<k1>vft
+682796 old <s>-va/rtam</s>, <ls>Br.</ls> &c.), 
+;
+682796 new <s>-va/rtam</s>, <ls>Br.</ls> &c.)**, 
+; -------------------------------------------------------
+; <L>204573<pc>1010,2<k1>vfD
+683573 old in <ls>MBh.</ls> √ <s>vfD</s> is sometimes confounded with √ <hom>1.</hom> <s>vft</s>), 
+;
+683573 new in <ls>MBh.</ls> √ <s>vfD</s> is sometimes confounded with √ <hom>1.</hom> <s>vft</s>)**, 
+; -------------------------------------------------------
+; <L>204736<pc>1011,1<k1>vfdDi
+684097 old 6. <s>Boga-lABa</s>, ‘advantage [accruing to a creditor] from the use’ of objects handed over to him as security <ab>e.g.</ab> of lands, gardens, animals, &c.: ‘lawful interest’ is called <s>Darma-v°</s>, ‘usurious interest’ <s>a-nyAya-v°</s>, ‘interest at the highest legal rate’ <s>parama-v°</s>), <ls>IW. 264</ls><info lex="inh"/>
+;
+684097 new 6. <s>Boga-lABa</s>, ‘advantage [accruing to a creditor] from the use’ of objects handed over to him as security <ab>e.g.</ab> of lands, gardens, animals, &c.: ‘lawful interest’ is called <s>Darma-v°</s>, ‘usurious interest’ <s>a-nyAya-v°</s>, ‘interest at the highest legal rate’ <s>parama-v°</s>)**, <ls>IW. 264</ls><info lex="inh"/>
+; -------------------------------------------------------
+; <L>205648<pc>1015,1<k1>veda
+687034 old in the <s1 slp1="bfhad-AraRyaka">Bṛhad-āraṇyaka</s1> <s1 slp1="upanizad">Upaniṣad</s1> the <s1 slp1="veda">Veda</s1>s are represented as the breathings of <s1 slp1="brahmA">Brahmā</s1>, while in some of the <s1 slp1="purARa">Purāṇa</s1>s the four <s1 slp1="veda">Veda</s1>s are said to have issued out of the four mouths of the four-faced <s1 slp1="brahmA">Brahmā</s1> and in the <s1 slp1="vizRu-purARa">Viṣṇu-Purāṇa</s1> the <s1 slp1="veda">Veda</s1> and <s1 slp1="vizRu">Viṣṇu</s1> are identified), <ls>RTL. 7</ls> &c.; <ls>IW. 5</ls>; <ls n="IW.">24</ls> &c.
+;
+687034 new in the <s1 slp1="bfhad-AraRyaka">Bṛhad-āraṇyaka</s1> <s1 slp1="upanizad">Upaniṣad</s1> the <s1 slp1="veda">Veda</s1>s are represented as the breathings of <s1 slp1="brahmA">Brahmā</s1>, while in some of the <s1 slp1="purARa">Purāṇa</s1>s the four <s1 slp1="veda">Veda</s1>s are said to have issued out of the four mouths of the four-faced <s1 slp1="brahmA">Brahmā</s1> and in the <s1 slp1="vizRu-purARa">Viṣṇu-Purāṇa</s1> the <s1 slp1="veda">Veda</s1> and <s1 slp1="vizRu">Viṣṇu</s1> are identified)**, <ls>RTL. 7</ls> &c.; <ls>IW. 5</ls>; <ls n="IW.">24</ls> &c.
+; -------------------------------------------------------
+; <L>205937<pc>1016,3<k1>vedANga
+688002 old the <s1 slp1="vedANga">Vedâṅga</s1>s are alluded to by <s1 slp1="manu">Manu</s1>, who calls them, in <ls n="Mn.">iii, 184</ls>, <s1 slp1="pravacana">Pravacana</s1>s, ‘expositions’, a term which is said to be also applied to the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s), <ls>IW. 145</ls> &c.<info lex="n"/>
+;
+688002 new the <s1 slp1="vedANga">Vedâṅga</s1>s are alluded to by <s1 slp1="manu">Manu</s1>, who calls them, in <ls n="Mn.">iii, 184</ls>, <s1 slp1="pravacana">Pravacana</s1>s, ‘expositions’, a term which is said to be also applied to the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s)**, <ls>IW. 145</ls> &c.<info lex="n"/>
+; -------------------------------------------------------
+; <L>205944<pc>1017,1<k1>vedAnta
+688030 old the founder of the school is said to have been <s1 slp1="vyAsa">Vyāsa</s1>, also called <s1 slp1="bAdarAyaRa">Bādarāyaṇa</s1>, and its most eminent teacher was <s1 slp1="SaMkarAcArya">Śaṃkarâcārya</s1>), <ls>Up.</ls>;
+;
+688030 new the founder of the school is said to have been <s1 slp1="vyAsa">Vyāsa</s1>, also called <s1 slp1="bAdarAyaRa">Bādarāyaṇa</s1>, and its most eminent teacher was <s1 slp1="SaMkarAcArya">Śaṃkarâcārya</s1>)**, <ls>Up.</ls>;
+; -------------------------------------------------------
+; <L>206547<pc>1019,3<k1>vE
+690039 old in later language <s>api</s> and <s>tu</s>. <ab n="According">Accord.</ab> to some it is also a vocative particle). <info lex="ind"/>
+;
+690039 new in later language <s>api</s> and <s>tu</s>. <ab n="According">Accord.</ab> to some it is also a vocative particle)**. <info lex="ind"/>
+; -------------------------------------------------------
+; <L>208013<pc>1027,2<k1>vEzRava
+694594 old his chief doctrine was the duty of <s>Bakti</s>, or love for that god which was to be so strong that no caste-feelings could exist with it [see, <ls>RTL. p. 140</ls> &c.] Of the minor <s1 slp1="vEzRava">Vaiṣṇava</s1> sects those founded by <s1 slp1="nimbArka">Nimbârka</s1> or <s1 slp1="nimbAditya">Nimbâditya</s1> [<ls>RTL. 146</ls>] and by <s1 slp1="rAmAnanda">Rāmânanda</s1> [<ls>RTL. 147</ls>] and by <s1 slp1="svAmi-nArAyaRa">Svāmi-Nārāyaṇa</s1> [<ls>RTL. 148</ls>] are perhaps the most important, to which also may be added the reformed theistic sect founded by <ns>Kabīr</ns> [<ls>RTL. 158</ls>] and the Sikh theistic sect founded by <ns>Nānak</ns> [<ls>RTL. 161</ls>])<info lex="inh"/>
+;
+694594 new his chief doctrine was the duty of <s>Bakti</s>, or love for that god which was to be so strong that no caste-feelings could exist with it [see, <ls>RTL. p. 140</ls> &c.] Of the minor <s1 slp1="vEzRava">Vaiṣṇava</s1> sects those founded by <s1 slp1="nimbArka">Nimbârka</s1> or <s1 slp1="nimbAditya">Nimbâditya</s1> [<ls>RTL. 146</ls>] and by <s1 slp1="rAmAnanda">Rāmânanda</s1> [<ls>RTL. 147</ls>] and by <s1 slp1="svAmi-nArAyaRa">Svāmi-Nārāyaṇa</s1> [<ls>RTL. 148</ls>] are perhaps the most important, to which also may be added the reformed theistic sect founded by <ns>Kabīr</ns> [<ls>RTL. 158</ls>] and the Sikh theistic sect founded by <ns>Nānak</ns> [<ls>RTL. 161</ls>])**<info lex="inh"/>
+; -------------------------------------------------------
+; <L>209343<pc>1035,2<k1>vyAsa
+698981 old but the name <s1 slp1="vyAsa">Vyāsa</s1> seems to have been given to any great typical compiler or author), <ls>MBh.</ls>;
+;
+698981 new but the name <s1 slp1="vyAsa">Vyāsa</s1> seems to have been given to any great typical compiler or author)**, <ls>MBh.</ls>;
+; -------------------------------------------------------
+; <L>210905<pc>1044,2<k1>Sakti
+704234 old those of the dark and fierce nature, <s1 slp1="durgA">Durgā</s1>, <s1 slp1="kAlI">Kālī</s1> &c.), <ls>Kāv.</ls>;
+;
+704234 new those of the dark and fierce nature, <s1 slp1="durgA">Durgā</s1>, <s1 slp1="kAlI">Kālī</s1> &c.)**, <ls>Kāv.</ls>;
+; -------------------------------------------------------
+; <L>210905<pc>1044,2<k1>Sakti
+704237 old <ls>MWB. 216</ls>)<info lex="inh"/>
+;
+704237 new <ls>MWB. 216</ls>)**<info lex="inh"/>
+; -------------------------------------------------------
+; <L>211201<pc>1045,3<k1>Saka
+705135 old they really seem to have been dominant in the north-west of India in the last century before and the first two centuries after the beginning of our era), <ls>AV.Pariś.</ls>;
+;
+705135 new they really seem to have been dominant in the north-west of India in the last century before and the first two centuries after the beginning of our era)**, <ls>AV.Pariś.</ls>;
+; -------------------------------------------------------
+; <L>211383<pc>1046,3<k1>SakuntalA
+705685 old the story of <s1 slp1="duzyanta">Duṣyanta</s1>'s accidental meeting with <s1 slp1="SakuntalA">Śakuntalā</s1>, their marriage, separation, his repudiation of her through temporary loss of memory caused by a curse, his subsequent recognition of her by means of a ring which was lost but afterwards recovered, forms the subject of <s1 slp1="kAlidAsa">Kālidāsa</s1>'s celebrated drama called <s1 slp1="aBijYAna-SakuntalA">Abhijñāna-śakuntalā</s1> <ab>q.v.</ab>). <info lex="f"/>
+;
+705685 new the story of <s1 slp1="duzyanta">Duṣyanta</s1>'s accidental meeting with <s1 slp1="SakuntalA">Śakuntalā</s1>, their marriage, separation, his repudiation of her through temporary loss of memory caused by a curse, his subsequent recognition of her by means of a ring which was lost but afterwards recovered, forms the subject of <s1 slp1="kAlidAsa">Kālidāsa</s1>'s celebrated drama called <s1 slp1="aBijYAna-SakuntalA">Abhijñāna-śakuntalā</s1> <ab>q.v.</ab>)**. <info lex="f"/>
+; -------------------------------------------------------
+; <L>211813<pc>1048,3<k1>Sata
+707073 old and <s>Sata</s> <lex type="hwifc">n.</lex> rarely in <ab>comp.</ab> of the following kind, <s>catur-varza-Satam</s> or <s>°tAni</s>, ‘400 years’), <ls>RV.</ls> &c.;<info lexcat="LEXID=card,STEM=Sata"/>
+;
+707073 new and <s>Sata</s> <lex type="hwifc">n.</lex> rarely in <ab>comp.</ab> of the following kind, <s>catur-varza-Satam</s> or <s>°tAni</s>, ‘400 years’)**, <ls>RV.</ls> &c.;<info lexcat="LEXID=card,STEM=Sata"/>
+; -------------------------------------------------------
+; <L>211989<pc>1049,2<k1>SatapaTabrAhmaRa
+707680 old <ab>cf.</ab> <s>yajur-veda</s>, <s>vijasaneyisaMhitA</s>, <s>brAhmaRa</s>), <ls>IW. 25</ls> &c.<info lex="n"/>
+;
+707680 new <ab>cf.</ab> <s>yajur-veda</s>, <s>vijasaneyisaMhitA</s>, <s>brAhmaRa</s>)**, <ls>IW. 25</ls> &c.<info lex="n"/>
+; -------------------------------------------------------
+; <L>213186<pc>1055,1<k1>SaMkarAcArya
+711645 old and commentaries on the <s1 slp1="upanizad">Upaniṣad</s1>s, and on the <s1 slp1="brahma-mImAMsA">Brahma-mīmāṉsā</s1> or <s1 slp1="vedAnta-sUtra">Vedānta-sūtra</s1>, <s1 slp1="BagavadgItA">Bhagavadgītā</s1>, and <s1 slp1="mahA-BArata">Mahā-bhārata</s1>, &c.), <ls>IW. 46</ls>;
+;
+711645 new and commentaries on the <s1 slp1="upanizad">Upaniṣad</s1>s, and on the <s1 slp1="brahma-mImAMsA">Brahma-mīmāṉsā</s1> or <s1 slp1="vedAnta-sUtra">Vedānta-sūtra</s1>, <s1 slp1="BagavadgItA">Bhagavadgītā</s1>, and <s1 slp1="mahA-BArata">Mahā-bhārata</s1>, &c.)**, <ls>IW. 46</ls>;
+; -------------------------------------------------------
+; <L>214028.2<pc>1332,2<k1>SarmaRyadeSIya
+714275 old <s>SarmaRya-de—°SIya</s> ¦ <lex>mfn.</lex> born in <ab n="Germany">G°</ab>), <ls>Āryav.</ls><info n="sup"/><info lex="m:f:n"/>
+;
+714275 new <s>SarmaRya-de—°SIya</s> ¦ <lex>mfn.</lex> born in <ab n="Germany">G°</ab>)**, <ls>Āryav.</ls><info n="sup"/><info lex="m:f:n"/>
+; -------------------------------------------------------
+; <L>214958<pc>1062,3<k1>SAKA
+717153 old of all these, however, the <s1 slp1="fg">Ṛg</s1>-<s1 slp1="veda">veda</s1> is said to be now extant in one only, <ab>viz.</ab> the <s1 slp1="SAkala-SAKA">Śākala-śākhā</s1>, the <s1 slp1="yajur-veda">Yajur-veda</s1> in five and partially in six, the <s1 slp1="sAma-veda">Sāma-veda</s1> in one or perhaps two, and the <s1 slp1="aTarva">Atharva</s1>-<s1 slp1="veda">veda</s1> in one: although the words <s>caraRa</s> and <s>SAKA</s> are sometimes used synonymously, yet <s>caraRa</s> properly applies to the sect or collection of persons united in one school, and <s>SAKA</s> to the traditional text followed, as in the phrase <s>SAKAm aDIte</s>, he recites a particular version of the <s1 slp1="veda">Veda</s1>), <ls>Prāt.</ls>;
+;
+717153 new of all these, however, the <s1 slp1="fg">Ṛg</s1>-<s1 slp1="veda">veda</s1> is said to be now extant in one only, <ab>viz.</ab> the <s1 slp1="SAkala-SAKA">Śākala-śākhā</s1>, the <s1 slp1="yajur-veda">Yajur-veda</s1> in five and partially in six, the <s1 slp1="sAma-veda">Sāma-veda</s1> in one or perhaps two, and the <s1 slp1="aTarva">Atharva</s1>-<s1 slp1="veda">veda</s1> in one: although the words <s>caraRa</s> and <s>SAKA</s> are sometimes used synonymously, yet <s>caraRa</s> properly applies to the sect or collection of persons united in one school, and <s>SAKA</s> to the traditional text followed, as in the phrase <s>SAKAm aDIte</s>, he recites a particular version of the <s1 slp1="veda">Veda</s1>)**, <ls>Prāt.</ls>;
+; -------------------------------------------------------
+; <L>216290<pc>1068,3<k1>SAs
+721294 old <s>-SAsya</s>, <ls>MBh.</ls> &c.), 
+;
+721294 new <s>-SAsya</s>, <ls>MBh.</ls> &c.)**, 
+; -------------------------------------------------------
+; <L>217079<pc>1072,2<k1>Siras
+723730 old and connected with <s>karaNka</s> <ab>q.v.</ab>) the head, skull (<ab>acc.</ab> with √ <s>dA</s>, ‘to give up one's head <ab>i.e.</ab> life’;
+;
+723730 new and connected with <s>karaNka</s> <ab>q.v.</ab>)** the head, skull (<ab>acc.</ab> with √ <s>dA</s>, ‘to give up one's head <ab>i.e.</ab> life’;
+; -------------------------------------------------------
+; <L>217079<pc>1072,2<k1>Siras
+723736 old <ab>loc.</ab> with √ <s>sTA</s>, ‘to be on or stand over a person's head, stand far above [<ab>gen.</ab>]’), <ls>RV.</ls> &c. &c.<info lex="n"/>
+;
+723736 new <ab>loc.</ab> with √ <s>sTA</s>, ‘to be on or stand over a person's head, stand far above [<ab>gen.</ab>]’)**, <ls>RV.</ls> &c. &c.<info lex="n"/>
+; -------------------------------------------------------
+; <L>217501<pc>1074,1<k1>Siva
+725076 old his sons are <s1 slp1="gaReSa">Gaṇêśa</s1> and <s1 slp1="kArttikeya">Kārttikeya</s1>), <ls>ĀśvŚr.</ls>;
+;
+725076 new his sons are <s1 slp1="gaReSa">Gaṇêśa</s1> and <s1 slp1="kArttikeya">Kārttikeya</s1>)**, <ls>ĀśvŚr.</ls>;
+; -------------------------------------------------------
+; <L>218048<pc>1076,2<k1>SiSupAla
+726940 old his death forms the subject of <s1 slp1="mAGa">Māgha</s1>'s celebrated poem called <s1 slp1="SiSupAla-vaDa">Śiśupāla-vadha</s1>)<info lex="m"/>
+;
+726940 new his death forms the subject of <s1 slp1="mAGa">Māgha</s1>'s celebrated poem called <s1 slp1="SiSupAla-vaDa">Śiśupāla-vadha</s1>)**<info lex="m"/>
+; -------------------------------------------------------
+; <L>218170<pc>1077,1<k1>SI
+727343 old <s>-Sayya</s>, <ls>Kāv.</ls>), 
+;
+727343 new <s>-Sayya</s>, <ls>Kāv.</ls>)**, 
+; -------------------------------------------------------
+; <L>219579<pc>1082,3<k1>SunaHSepa
+731794 old See <ls>R. i, 61, 62</ls>), <ls>RV.</ls> &c. &c. (<ls>IW. 25</ls>-<ls n="IW.">27</ls>)<info lex="m"/>
+;
+731794 new See <ls>R. i, 61, 62</ls>)**, <ls>RV.</ls> &c. &c. (<ls>IW. 25</ls>-<ls n="IW.">27</ls>)<info lex="m"/>
+; -------------------------------------------------------
+; <L>220889<pc>1088,3<k1>Seza
+735902 old according to some legends he became incarnate in <s1 slp1="bala-rAma">Bala-rāma</s1> <ab>q.v.</ab>), <ls>MBh.</ls>;
+;
+735902 new according to some legends he became incarnate in <s1 slp1="bala-rAma">Bala-rāma</s1> <ab>q.v.</ab>)**, <ls>MBh.</ls>;
+; -------------------------------------------------------
+; <L>221821<pc>1093,1<k1>SOnaka
+738768 old the various legends about him are very confused), <ls>ŚBr.</ls>;
+;
+738768 new the various legends about him are very confused)**, <ls>ŚBr.</ls>;
+; -------------------------------------------------------
+; <L>222707<pc>1097,3<k1>SrAdDa
+741584 old for a full description of the <s1 slp1="SrAdDa">Śrāddha</s1> ceremonies See <ls>RTL. 276, 304</ls> &c.), <ls>GṛŚrS.</ls>;
+;
+741584 new for a full description of the <s1 slp1="SrAdDa">Śrāddha</s1> ceremonies See <ls>RTL. 276, 304</ls> &c.)**, <ls>GṛŚrS.</ls>;
+; -------------------------------------------------------
+; <L>222870<pc>1098,3<k1>SrI
+742114 old See <s>agni-</s>, <s>aDvara-</s>, <s>kzatra-</s>, <s>gaRa-</s>, <s>jana-SrI</s> &c.), <ls>RV. iv, 41, 8.</ls>. 
+;
+742114 new See <s>agni-</s>, <s>aDvara-</s>, <s>kzatra-</s>, <s>gaRa-</s>, <s>jana-SrI</s> &c.)**, <ls>RV. iv, 41, 8.</ls>. 
+; -------------------------------------------------------
+; <L>223393<pc>1100,3<k1>Sru
+743882 old <s>SrAvam</s>, <ls>GṛŚrS.</ls> &c.), 
+;
+743882 new <s>SrAvam</s>, <ls>GṛŚrS.</ls> &c.)**, 
+; -------------------------------------------------------
+; <L>223543<pc>1101,3<k1>Sruti
+744375 old <ab>pl.</ab> ‘sacred texts, the <s1 slp1="veda">Veda</s1>s’, also ‘rites prescribed by the <s1 slp1="veda">Veda</s1>s’), <ls>AitBr.</ls>;
+;
+744375 new <ab>pl.</ab> ‘sacred texts, the <s1 slp1="veda">Veda</s1>s’, also ‘rites prescribed by the <s1 slp1="veda">Veda</s1>s’)**, <ls>AitBr.</ls>;
+; -------------------------------------------------------
+; <L>224940<pc>1108,1<k1>zaz
+748845 old in <ab>comp.</ab> <s>zaz</s> becomes <s>zaw</s> before hard letters, <s>zaq</s> before soft, <s>zo</s> before <s>d</s>, which is changed into <s>q</s>, and <s>R</s> before nasals) six (with the counted object in apposition or exceptionally in <ab>gen.</ab> or <ab>ifc.</ab> <ab>e.g.</ab> <s>zaq ftavah</s>, or <s>zaq ftunAm</s>, ‘the six seasons’, <s>zawsu zatsu mAsezu</s>, ‘at periods of six months’ <ls>Mn. viii, 403</ls> at the end of a <s1 slp1="bahuvrIhi">Bahuvrīhi</s1> compound it is declined like other words ending in <s>z</s>, e. <ab>g.</ab> <s>priya-zazas</s> <ab>nom.</ab> <ab>pl.</ab> <ls>Pāṇ. vii, 1, 22</ls> <ab>Schol.</ab>;
+;
+748845 new in <ab>comp.</ab> <s>zaz</s> becomes <s>zaw</s> before hard letters, <s>zaq</s> before soft, <s>zo</s> before <s>d</s>, which is changed into <s>q</s>, and <s>R</s> before nasals)** six (with the counted object in apposition or exceptionally in <ab>gen.</ab> or <ab>ifc.</ab> <ab>e.g.</ab> <s>zaq ftavah</s>, or <s>zaq ftunAm</s>, ‘the six seasons’, <s>zawsu zatsu mAsezu</s>, ‘at periods of six months’ <ls>Mn. viii, 403</ls> at the end of a <s1 slp1="bahuvrIhi">Bahuvrīhi</s1> compound it is declined like other words ending in <s>z</s>, e. <ab>g.</ab> <s>priya-zazas</s> <ab>nom.</ab> <ab>pl.</ab> <ls>Pāṇ. vii, 1, 22</ls> <ab>Schol.</ab>;
+; -------------------------------------------------------
+; <L>225180<pc>1109,2<k1>zaqja
+749799 old the sound of the <s1 slp1="zaq-ja">Ṣaḍ-ja</s1> is said to resemble the note of peacocks), <ls>MBh.</ls>;
+;
+749799 new the sound of the <s1 slp1="zaq-ja">Ṣaḍ-ja</s1> is said to resemble the note of peacocks)**, <ls>MBh.</ls>;
+; -------------------------------------------------------
+; <L>225593<pc>1111,2<k1>sa
+751209 old in the <s1 slp1="sAMKya">Sāṃkhya</s1> <s>sa</s>, like <s>eza</s>, <s>ka</s>, and <s>ya</s>, is used to denote <s1 slp1="puruza">Puruṣa</s1>, ‘the Universal Soul’), <ls>RV.</ls> &c. &c. <info lexcat="LEXID=pron,STEM=tad"/>
+;
+751209 new in the <s1 slp1="sAMKya">Sāṃkhya</s1> <s>sa</s>, like <s>eza</s>, <s>ka</s>, and <s>ya</s>, is used to denote <s1 slp1="puruza">Puruṣa</s1>, ‘the Universal Soul’)**, <ls>RV.</ls> &c. &c. <info lexcat="LEXID=pron,STEM=tad"/>
+; -------------------------------------------------------
+; <L>227913<pc>1125,1<k1>sagara
+758990 old <ab>pl.</ab> ‘the sons of <s1 slp1="sagara">Sagara</s1>’), <ls>MBh.</ls>;
+;
+758990 new <ab>pl.</ab> ‘the sons of <s1 slp1="sagara">Sagara</s1>’)**, <ls>MBh.</ls>;
+; -------------------------------------------------------
+; <L>232431<pc>1149,1<k1>saptan
+774335 old <ab>gen.</ab> <s>°tAnA/m</s> <ab>loc.</ab> <s>°ta/su</s>) seven (a favourite number with the <ns>Hindūs</ns>, and regarded as sacred, often used to express an indefinite plurality [in the same manner as ‘three’, by which it is sometimes multiplied] <pb n="1149,2"/>;
+;
+774335 new <ab>gen.</ab> <s>°tAnA/m</s> <ab>loc.</ab> <s>°ta/su</s>)** seven (a favourite number with the <ns>Hindūs</ns>, and regarded as sacred, often used to express an indefinite plurality [in the same manner as ‘three’, by which it is sometimes multiplied] <pb n="1149,2"/>;
+; -------------------------------------------------------
+; <L>232431<pc>1149,1<k1>saptan
+774336 old hence 7 <s1 slp1="mAtf">Mātṛ</s1>s, 7 streams, 7 oceans, 7 cities [<ls>RV. i, 63, 7</ls>], 7 divisions of the world, 7 ranges of mountains, 7 <s1 slp1="fzi">Ṛṣi</s1>s, 7 <s1 slp1="vipra">Vipra</s1>s [<ls>RV. i, 62, 4</ls>], 7 <s1 slp1="Aditya">Āditya</s1>s, 7 <s1 slp1="dAnava">Dānava</s1>s, 7 horses of the Sun, 7 flames of fire, 7 <s1 slp1="yoni">Yoni</s1>s of fire, 7 steps round the fire at marriage, 7 <s1 slp1="samiD">Samidh</s1>s, 7 tones, 7 sacrificial rites, 7 <s1 slp1="maryAdA">Maryādā</s1>s, thrice 7 <s1 slp1="padAni">Padāni</s1> or mystical steps to heaven [<ls>RV. i, 72, 6</ls>], thrice 7 cows &c.), <ls>RV.</ls> &c.;<info lexcat="LEXID=card,STEM=saptan"/>
+;
+774336 new hence 7 <s1 slp1="mAtf">Mātṛ</s1>s, 7 streams, 7 oceans, 7 cities [<ls>RV. i, 63, 7</ls>], 7 divisions of the world, 7 ranges of mountains, 7 <s1 slp1="fzi">Ṛṣi</s1>s, 7 <s1 slp1="vipra">Vipra</s1>s [<ls>RV. i, 62, 4</ls>], 7 <s1 slp1="Aditya">Āditya</s1>s, 7 <s1 slp1="dAnava">Dānava</s1>s, 7 horses of the Sun, 7 flames of fire, 7 <s1 slp1="yoni">Yoni</s1>s of fire, 7 steps round the fire at marriage, 7 <s1 slp1="samiD">Samidh</s1>s, 7 tones, 7 sacrificial rites, 7 <s1 slp1="maryAdA">Maryādā</s1>s, thrice 7 <s1 slp1="padAni">Padāni</s1> or mystical steps to heaven [<ls>RV. i, 72, 6</ls>], thrice 7 cows &c.)**, <ls>RV.</ls> &c.;<info lexcat="LEXID=card,STEM=saptan"/>
+; -------------------------------------------------------
+; <L>232987<pc>1152,1<k1>sam
+776384 old <ab>cf.</ab> <s>samarTa</s>), <ls>RV.</ls> &c.;<info lex="ind"/>
+;
+776384 new <ab>cf.</ab> <s>samarTa</s>)**, <ls>RV.</ls> &c.;<info lex="ind"/>
+; -------------------------------------------------------
+; <L>234794<pc>1164,1<k1>samaya
+782392 old <ab>acc.</ab> with <ab>Caus.</ab> of √ <s>sTA</s> or of <s>ni-√ viS</s> ‘to fix or settle terms’, ‘impose conditions’), <ls>TS.</ls> &c. &c.<info lex="inh"/>
+;
+782392 new <ab>acc.</ab> with <ab>Caus.</ab> of √ <s>sTA</s> or of <s>ni-√ viS</s> ‘to fix or settle terms’, ‘impose conditions’)**, <ls>TS.</ls> &c. &c.<info lex="inh"/>
+; -------------------------------------------------------
+; <L>237579<pc>1182,2<k1>sarasvatI
+791729 old in the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s she is identified with <s>vAc</s>, ‘Speech’, and in later times becomes goddess of eloquence See below), <ls>RV.</ls> &c. &c.<info lex="inh"/>
+;
+791729 new in the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s she is identified with <s>vAc</s>, ‘Speech’, and in later times becomes goddess of eloquence See below)**, <ls>RV.</ls> &c. &c.<info lex="inh"/>
+; -------------------------------------------------------
+; <L>239474<pc>1190,2<k1>savitf
+798185 old the celebrated verse, <ls>RV. iii, 62, 10</ls>, called <s>gAyatrI</s> and <s>sAvitrI</s> [<ab>qq.vv.</ab>] is addressed to him), <ls>RV.</ls> &c. &c.<info lex="inh"/>
+;
+798185 new the celebrated verse, <ls>RV. iii, 62, 10</ls>, called <s>gAyatrI</s> and <s>sAvitrI</s> [<ab>qq.vv.</ab>] is addressed to him)**, <ls>RV.</ls> &c. &c.<info lex="inh"/>
+; -------------------------------------------------------
+; <L>239967<pc>1192,3<k1>sah
+799955 old <s>sa/ham</s>, <ls>Br.</ls>), 
+;
+799955 new <s>sa/ham</s>, <ls>Br.</ls>)**, 
+; -------------------------------------------------------
+; <L>240499<pc>1195,2<k1>sahasra
+801753 old <ab>cf.</ab> <ab>Pers.</ab> <etym>hazār</etym>) a thousand (with the counted object in the same case <ab>sg.</ab> or <ab>pl.</ab> <ab>e.g.</ab> <s>sahasreRa bAhunA</s>, ‘with a thousand arms’ <ls>Hariv.</ls>;
+;
+801753 new <ab>cf.</ab> <ab>Pers.</ab> <etym>hazār</etym>)** a thousand (with the counted object in the same case <ab>sg.</ab> or <ab>pl.</ab> <ab>e.g.</ab> <s>sahasreRa bAhunA</s>, ‘with a thousand arms’ <ls>Hariv.</ls>;
+; -------------------------------------------------------
+; <L>240499<pc>1195,2<k1>sahasra
+801764 old <s>trIRi sahasrARi</s> or <s>tri-sahasram</s>, ‘three <ab n="thousand">th°</ab>’ &c.), <ls>RV.</ls> &c. &c.<info phwchild="240502.1"/><info lexcat="LEXID=card,STEM=sahasra"/>
+;
+801764 new <s>trIRi sahasrARi</s> or <s>tri-sahasram</s>, ‘three <ab n="thousand">th°</ab>’ &c.)**, <ls>RV.</ls> &c. &c.<info phwchild="240502.1"/><info lexcat="LEXID=card,STEM=sahasra"/>
+; -------------------------------------------------------
+; <L>241225<pc>1199,1<k1>sAMKya
+804115 old the original <s1 slp1="sUtra">Sūtra</s1>s were superseded by the <ab n="Sāṃkhya-kārikā" slp1="sAMKya-kArikA">S°</ab> of <s1 slp1="ISvara-kfzRa">Īśvara-kṛṣṇa</s1>, the oldest manual on the <ab n="Sāṃkhya" slp1="sAMKya">S°</ab> system that has come down to us and probably written in the 5th century <ab>A.D.</ab>, while the <ab n="Sāṃkhya" slp1="sAMKya">S°</ab>-<s1 slp1="sUtra">sūtra</s1>s or <ab n="Śiva-pravacana" slp1="Siva-pravacana">Ś°</ab> and <s1 slp1="tattva-samAsa">Tattva-samāsa</s1>, ascribed to the sage <s1 slp1="kapila">Kapila</s1>, are now thought to belong to as late a date as the 14th or 15th century or perhaps a little later), <ls>ŚvetUp.</ls>;
+;
+804115 new the original <s1 slp1="sUtra">Sūtra</s1>s were superseded by the <ab n="Sāṃkhya-kārikā" slp1="sAMKya-kArikA">S°</ab> of <s1 slp1="ISvara-kfzRa">Īśvara-kṛṣṇa</s1>, the oldest manual on the <ab n="Sāṃkhya" slp1="sAMKya">S°</ab> system that has come down to us and probably written in the 5th century <ab>A.D.</ab>, while the <ab n="Sāṃkhya" slp1="sAMKya">S°</ab>-<s1 slp1="sUtra">sūtra</s1>s or <ab n="Śiva-pravacana" slp1="Siva-pravacana">Ś°</ab> and <s1 slp1="tattva-samAsa">Tattva-samāsa</s1>, ascribed to the sage <s1 slp1="kapila">Kapila</s1>, are now thought to belong to as late a date as the 14th or 15th century or perhaps a little later)**, <ls>ŚvetUp.</ls>;
+; -------------------------------------------------------
+; <L>241754<pc>1202,1<k1>sADya
+805834 old and their names are <s1 slp1="manas">Manas</s1>, <s1 slp1="mantf">Mantṛ</s1>, <s1 slp1="prARa">Prâṇa</s1>, <s1 slp1="nara">Nara</s1>, <s1 slp1="pAna">Pāna</s1>, <s1 slp1="vinirBaya">Vinirbhaya</s1>, <s1 slp1="naya">Naya</s1>, <s1 slp1="daMSa">Daṉśa</s1>, <s1 slp1="nArAyaRa">Nārāyaṇa</s1>, <s1 slp1="vfza">Vṛṣa</s1>, <s1 slp1="praBu">Prabhu</s1>), <ls>RV.</ls> &c. &c.<info lex="m"/>
+;
+805834 new and their names are <s1 slp1="manas">Manas</s1>, <s1 slp1="mantf">Mantṛ</s1>, <s1 slp1="prARa">Prâṇa</s1>, <s1 slp1="nara">Nara</s1>, <s1 slp1="pAna">Pāna</s1>, <s1 slp1="vinirBaya">Vinirbhaya</s1>, <s1 slp1="naya">Naya</s1>, <s1 slp1="daMSa">Daṉśa</s1>, <s1 slp1="nArAyaRa">Nārāyaṇa</s1>, <s1 slp1="vfza">Vṛṣa</s1>, <s1 slp1="praBu">Prabhu</s1>)**, <ls>RV.</ls> &c. &c.<info lex="m"/>
+; -------------------------------------------------------
+; <L>241986<pc>1203,2<k1>sAntv
+806565 old <div n="vp"/><ab>Pass.</ab> <s>sAntvyate</s>, <ls>MBh.</ls>; <ls>Hariv.</ls>), 
+;
+806565 new <div n="vp"/><ab>Pass.</ab> <s>sAntvyate</s>, <ls>MBh.</ls>; <ls>Hariv.</ls>)**, 
+; -------------------------------------------------------
+; <L>244551<pc>1216,1<k1>sidDAnta
+814759 old or the following 5, <s1 slp1="sidDAnta">Siddhânta</s1>s, <s1 slp1="pOliSa-sidDAnta">Pauliśa-siddhânta</s1>, <s1 slp1="romaka-sidDAnta">Romaka-siddhânta</s1>, <s1 slp1="vAsizWa-sidDAnta">Vāsiṣṭha-siddhânta</s1>, <s1 slp1="SOra-sidDAnta">Śaura-siddhânta</s1>, and <s1 slp1="pEtAmaha-sidDAnta">Paitāmaha-siddhânta</s1>), <ls>VarBṛS.</ls>;
+;
+814759 new or the following 5, <s1 slp1="sidDAnta">Siddhânta</s1>s, <s1 slp1="pOliSa-sidDAnta">Pauliśa-siddhânta</s1>, <s1 slp1="romaka-sidDAnta">Romaka-siddhânta</s1>, <s1 slp1="vAsizWa-sidDAnta">Vāsiṣṭha-siddhânta</s1>, <s1 slp1="SOra-sidDAnta">Śaura-siddhânta</s1>, and <s1 slp1="pEtAmaha-sidDAnta">Paitāmaha-siddhânta</s1>)**, <ls>VarBṛS.</ls>;
+; -------------------------------------------------------
+; <L>245039<pc>1218,2<k1>sItA
+816308 old <ab>cf.</ab> <s>sIma/n</s>, <s>sIra</s>) a furrow, the track or line of a ploughshare (also personified, and apparently once worshipped as a kind of goddess resembling Pomona;
+;
+816308 new <ab>cf.</ab> <s>sIma/n</s>, <s>sIra</s>)** a furrow, the track or line of a ploughshare (also personified, and apparently once worshipped as a kind of goddess resembling Pomona;
+; -------------------------------------------------------
+; <L>245039<pc>1218,2<k1>sItA
+816318 old <s1 slp1="sItA">Sītā</s1>'s younger sister <s1 slp1="urmilA">Urmilā</s1> was at the same time given to <s1 slp1="lakzmaRa">Lakṣmaṇa</s1>, and two nieces of <s1 slp1="janaka">Janaka</s1>, daughters of his brother king <s1 slp1="kuSa-Dvaja">Kuśa-dhvaja</s1>, to <s1 slp1="Barata">Bharata</s1> and <s1 slp1="SatruGna">Śatrughna</s1>), <ls>RV.</ls> &c. &c., <ls>IW. 335 n. 1</ls>; <ls n="IW.">337</ls> &c.
+;
+816318 new <s1 slp1="sItA">Sītā</s1>'s younger sister <s1 slp1="urmilA">Urmilā</s1> was at the same time given to <s1 slp1="lakzmaRa">Lakṣmaṇa</s1>, and two nieces of <s1 slp1="janaka">Janaka</s1>, daughters of his brother king <s1 slp1="kuSa-Dvaja">Kuśa-dhvaja</s1>, to <s1 slp1="Barata">Bharata</s1> and <s1 slp1="SatruGna">Śatrughna</s1>)**, <ls>RV.</ls> &c. &c., <ls>IW. 335 n. 1</ls>; <ls n="IW.">337</ls> &c.
+; -------------------------------------------------------
+; <L>245241<pc>1219,2<k1>su
+816993 old <s>-sUya</s>, <ls>MBh.</ls>), 
+;
+816993 new <s>-sUya</s>, <ls>MBh.</ls>)**, 
+; -------------------------------------------------------
+; <L>245331<pc>1219,3<k1>su
+817304 old it may be used as an <ab>adj.</ab> or <ab>adv.</ab>), good, excellent, right, virtuous, beautiful, easy, well, rightly, much, greatly, very, any, easily, willingly, quickly (in older language often with other particles;
+;
+817304 new it may be used as an <ab>adj.</ab> or <ab>adv.</ab>)**, good, excellent, right, virtuous, beautiful, easy, well, rightly, much, greatly, very, any, easily, willingly, quickly (in older language often with other particles;
+; -------------------------------------------------------
+; <L>245331<pc>1219,3<k1>su
+817310 old or even to a finite verb <ab>e.g.</ab> <s>su-nirvavO</s>, <ls>Śiś. vi, 58</ls>), <ls>RV.</ls> &c.;<info lex="ind"/>
+;
+817310 new or even to a finite verb <ab>e.g.</ab> <s>su-nirvavO</s>, <ls>Śiś. vi, 58</ls>)**, <ls>RV.</ls> &c.;<info lex="ind"/>
+; -------------------------------------------------------
+; <L>250729<pc>1239,3<k1>sU
+834741 old <div n="to"/><ab>Pass.</ab> <s>sUya/te</s>, <ls>Br.</ls> &c.), to set in motion, urge, impel, vivify, create, produce, <ls>RV.</ls> &c. &c.;
+;
+834741 new <div n="to"/><ab>Pass.</ab> <s>sUya/te</s>, <ls>Br.</ls> &c.)**, to set in motion, urge, impel, vivify, create, produce, <ls>RV.</ls> &c. &c.;
+; -------------------------------------------------------
+; <L>250739<pc>1239,3<k1>sU
+834797 old <s>-su/tya</s>, <ls>ŚBr.</ls>), 
+;
+834797 new <s>-su/tya</s>, <ls>ŚBr.</ls>)**, 
+; -------------------------------------------------------
+; <L>251143<pc>1241,2<k1>sUta
+836038 old for <hom>1.</hom> <hom>2.</hom> <s>sUta</s> See <ab>pp.</ab> 1239 and 1240) a charioteer, driver, groom, equerry, master of the horse (<ab>esp.</ab> an attendant on a king who in earlier literature is often mentioned together with the <s>grAma-RI/</s>;
+;
+836038 new for <hom>1.</hom> <hom>2.</hom> <s>sUta</s> See <ab>pp.</ab> 1239 and 1240)** a charioteer, driver, groom, equerry, master of the horse (<ab>esp.</ab> an attendant on a king who in earlier literature is often mentioned together with the <s>grAma-RI/</s>;
+; -------------------------------------------------------
+; <L>251143<pc>1241,2<k1>sUta
+836041 old the most celebrated <s1 slp1="sUta">Sūta</s1> was <s1 slp1="loma-harzaRa">Loma-harṣaṇa</s1> who was a pupil of <s1 slp1="vyAsa">Vyāsa</s1>), <ls>AV.</ls> &c. &c. (<ls>IW. 510 n.</ls>)<info lex="m"/>
+;
+836041 new the most celebrated <s1 slp1="sUta">Sūta</s1> was <s1 slp1="loma-harzaRa">Loma-harṣaṇa</s1> who was a pupil of <s1 slp1="vyAsa">Vyāsa</s1>)**, <ls>AV.</ls> &c. &c. (<ls>IW. 510 n.</ls>)<info lex="m"/>
+; -------------------------------------------------------
+; <L>251193<pc>1241,3<k1>sUtra
+836207 old with <s1 slp1="jEna">Jaina</s1>s they form part of the <s1 slp1="dfzwivAda">Dṛṣṭivāda</s1>), <ls>IW. 162</ls> &c.<info lex="inh"/>
+;
+836207 new with <s1 slp1="jEna">Jaina</s1>s they form part of the <s1 slp1="dfzwivAda">Dṛṣṭivāda</s1>)**, <ls>IW. 162</ls> &c.<info lex="inh"/>
+; -------------------------------------------------------
+; <L>251460<pc>1243,1<k1>sUrya
+837041 old the Sun, whether named <s1 slp1="sUrya">Sūrya</s1> or <s1 slp1="vivasvat">Vivasvat</s1>, has several wives See <s>sUryA</s> below), <ls>RV.</ls> &c. &c. (<ab>cf.</ab> <ls>IW. 11</ls>; <ls n="IW.">16</ls> &c.;
+;
+837041 new the Sun, whether named <s1 slp1="sUrya">Sūrya</s1> or <s1 slp1="vivasvat">Vivasvat</s1>, has several wives See <s>sUryA</s> below)**, <ls>RV.</ls> &c. &c. (<ab>cf.</ab> <ls>IW. 11</ls>; <ls n="IW.">16</ls> &c.;
+; -------------------------------------------------------
+; <L>251460<pc>1243,1<k1>sUrya
+837042 old <ls>RTL. 341</ls>)<info lex="m"/>
+;
+837042 new <ls>RTL. 341</ls>)**<info lex="m"/>
+; -------------------------------------------------------
+; <L>251838<pc>1244,3<k1>sf
+838331 old <s>-sf/tya</s>, <s>-sA/ram</s>, <ls>Br.</ls> &c.), 
+;
+838331 new <s>-sf/tya</s>, <s>-sA/ram</s>, <ls>Br.</ls> &c.)**, 
+; -------------------------------------------------------
+; <L>251924<pc>1245,1<k1>sfj
+838635 old <s>-sa/rgam</s> or <s>-sa/rjam</s>, <ls>Br.</ls>), 
+;
+838635 new <s>-sa/rgam</s> or <s>-sa/rjam</s>, <ls>Br.</ls>)**, 
+; -------------------------------------------------------
+; <L>252716<pc>1249,3<k1>soma
+841138 old <ab>cf.</ab> below), <ls>RV.</ls> &c. &c.<info lex="m"/>
+;
+841138 new <ab>cf.</ab> below)**, <ls>RV.</ls> &c. &c.<info lex="m"/>
+; -------------------------------------------------------
+; <L>254632<pc>1259,1<k1>stu
+847283 old <s>-stUya</s>, <ls>MBh.</ls> &c.), 
+;
+847283 new <s>-stUya</s>, <ls>MBh.</ls> &c.)**, 
+; -------------------------------------------------------
+; <L>254842<pc>1260,1<k1>stf
+847976 old <s>-stftya</s>, <ls>MBh.</ls>), 
+;
+847976 new <s>-stftya</s>, <ls>MBh.</ls>)**, 
+; -------------------------------------------------------
+; <L>254842.1<pc>1260,1<k1>stF
+848011 old <s>-stftya</s>, <ls>MBh.</ls>), 
+;
+848011 new <s>-stftya</s>, <ls>MBh.</ls>)**, 
+; -------------------------------------------------------
+; <L>255316<pc>1262,2<k1>sTA
+849549 old <div n="vp"/><ab>Pass.</ab> <s>sTApyate</s>), to cause to stand, place, locate, set, lay, fix, station, establish, found, institute, <ls>AV.</ls> &c. &c.;
+;
+849549 new <div n="vp"/><ab>Pass.</ab> <s>sTApyate</s>)**, to cause to stand, place, locate, set, lay, fix, station, establish, found, institute, <ls>AV.</ls> &c. &c.;
+; -------------------------------------------------------
+; <L>257773<pc>1275,1<k1>sva
+857425 old <s>svaM nindanti</s>, ‘they blame themselves’), <ls>RV.</ls> &c. &c.<info lexcat="LEXID=pron,STEM=sva"/>
+;
+857425 new <s>svaM nindanti</s>, ‘they blame themselves’)**, <ls>RV.</ls> &c. &c.<info lexcat="LEXID=pron,STEM=sva"/>
+; -------------------------------------------------------
+; <L>259531<pc>1283,1<k1>svastika
+863156 old amongst <s1 slp1="jEna">Jaina</s1>s it is one of the 24 auspicious marks and is the emblem of the seventh <s1 slp1="arhat">Arhat</s1> of the present <s1 slp1="avasarpiRI">Avasarpiṇī</s1>), <ls>Hariv.</ls>;
+;
+863156 new amongst <s1 slp1="jEna">Jaina</s1>s it is one of the 24 auspicious marks and is the emblem of the seventh <s1 slp1="arhat">Arhat</s1> of the present <s1 slp1="avasarpiRI">Avasarpiṇī</s1>)**, <ls>Hariv.</ls>;
+; -------------------------------------------------------
+; <L>259801<pc>1284,3<k1>svid
+863981 old <ab>cf.</ab> <s>kuvid</s>) a particle of interrogation or inquiry or doubt, often translatable by ‘do you think?’ ‘perhaps’, ‘pray’, ‘indeed’, ‘any’ (<ab>esp.</ab> used after the interrogative <s>ka</s> and its derivatives <ab>e.g.</ab> <s>kaH svid ezAm brAhmaRAnAm anUcAna-tamaH</s>, ‘pray who [or ‘who do you think’] is the most learned of these <s1 slp1="brahman">Brahman</s1>s?’ <ls>ŚBr.</ls>;
+;
+863981 new <ab>cf.</ab> <s>kuvid</s>)** a particle of interrogation or inquiry or doubt, often translatable by ‘do you think?’ ‘perhaps’, ‘pray’, ‘indeed’, ‘any’ (<ab>esp.</ab> used after the interrogative <s>ka</s> and its derivatives <ab>e.g.</ab> <s>kaH svid ezAm brAhmaRAnAm anUcAna-tamaH</s>, ‘pray who [or ‘who do you think’] is the most learned of these <s1 slp1="brahman">Brahman</s1>s?’ <ls>ŚBr.</ls>;
+; -------------------------------------------------------
+; <L>259801<pc>1284,3<k1>svid
+863996 old sometimes apparently a mere expletive), <ls>RV.</ls> &c.;<info lex="ind"/>
+;
+863996 new sometimes apparently a mere expletive)**, <ls>RV.</ls> &c.;<info lex="ind"/>
+; -------------------------------------------------------
+; <L>259990<pc>1285,3<k1>svarita
+864603 old and when produced by an <s>udAtta</s> immediately preceding is sometimes called ‘a dependent <s1 slp1="svarita">Svarita</s1>’, and, when it properly belongs to a word, an ‘independent <s1 slp1="svarita">Svarita</s1>’), <ls>ĀśvŚr.</ls>;
+;
+864603 new and when produced by an <s>udAtta</s> immediately preceding is sometimes called ‘a dependent <s1 slp1="svarita">Svarita</s1>’, and, when it properly belongs to a word, an ‘independent <s1 slp1="svarita">Svarita</s1>’)**, <ls>ĀśvŚr.</ls>;
+; -------------------------------------------------------
+; <L>260297<pc>1287,2<k1>han
+865652 old <s>-GA/tam</s>, <ls>Br.</ls> &c.), 
+;
+865652 new <s>-GA/tam</s>, <ls>Br.</ls> &c.)**, 
+; -------------------------------------------------------
+; <L>260490<pc>1288,1<k1>hanumat
+866262 old in modern times <ab n="Hanumat" slp1="hanumat">Han°</ab> is a very common village god in the Dekhan, Central and Upper India <ab>cf.</ab> <ls>RTL. 220</ls>), <ls>MBh.</ls>;
+;
+866262 new in modern times <ab n="Hanumat" slp1="hanumat">Han°</ab> is a very common village god in the Dekhan, Central and Upper India <ab>cf.</ab> <ls>RTL. 220</ls>)**, <ls>MBh.</ls>;
+; -------------------------------------------------------
+; <L>261235.1<pc>1290,3<k1>hariScandra
+868703 old <ab>cf.</ab> <s>sOBa</s>), <ls>Br.</ls>;
+;
+868703 new <ab>cf.</ab> <s>sOBa</s>)**, <ls>Br.</ls>;
+; -------------------------------------------------------
+; <L>263443<pc>1300,3<k1>hu
+875903 old <ab>inf.</ab> <s>ho/tum</s>, <s>°tos</s>, <s>°tavE/</s>, and <ab>ind.p.</ab> <s>hutvA</s>, <ls>ib.</ls> &c.), 
+;
+875903 new <ab>inf.</ab> <s>ho/tum</s>, <s>°tos</s>, <s>°tavE/</s>, and <ab>ind.p.</ab> <s>hutvA</s>, <ls>ib.</ls> &c.)**, 
+; -------------------------------------------------------
+; <L>264003<pc>1303,3<k1>hetu
+877748 old <s>karma-Pala-hetu</s>, ‘impelled by [the expectation of] the consequences of any act’ <ls>BhP. ii, 47</ls>; <ls n="BhP. ii,">49</ls>), <ls>RV.</ls> &c. &c.
+;
+877748 new <s>karma-Pala-hetu</s>, ‘impelled by [the expectation of] the consequences of any act’ <ls>BhP. ii, 47</ls>; <ls n="BhP. ii,">49</ls>)**, <ls>RV.</ls> &c. &c.
+; -------------------------------------------------------
+; <L>264480<pc>1306,1<k1>hotf
+879262 old sometimes the <s1 slp1="nezwf">Neṣṭṛ</s1> is substituted for the <s1 slp1="grAva-stut">Grāva-stut</s1>), <ls>RV.</ls> &c. &c.<info lex="m"/>
+;
+879262 new sometimes the <s1 slp1="nezwf">Neṣṭṛ</s1> is substituted for the <s1 slp1="grAva-stut">Grāva-stut</s1>)**, <ls>RV.</ls> &c. &c.<info lex="m"/>
+; -------------------------------------------------------
+; <L>264875<pc>1308,2<k1>hve
+880570 old <ab>Ved.</ab> <s>-hU/ya</s> and <s>-hAvam</s>), 
+;
+880570 new <ab>Ved.</ab> <s>-hU/ya</s> and <s>-hAvam</s>)**, 

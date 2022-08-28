@@ -12,9 +12,11 @@ slp1chars = {}
 def update_slp1chars(x,y,tranin,tranout):
  if not ((tranin == 'roman') and (tranout == 'slp1')):
   return
- m = re.search(r"^[a-zA-Z|~/\\^— √°'+.,;=?\[\]\(\)!-]*$",y)
+ m = re.search(r"^[a-zA-Z|~/\\^— √°'+.,;=?\[\]\(\)!‘’-]*$",y)
  if m == None:
-  print(iline+1,x,y)
+  print('Unexpected character in line #%s' % (iline+1,))
+  print(' x=',x)
+  print(' y=',y)
  return
  
 def convert(line,tranin,tranout):
