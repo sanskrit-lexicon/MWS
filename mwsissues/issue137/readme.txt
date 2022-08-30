@@ -814,6 +814,53 @@ and update the correspondents at Cologne web site.
 
 DONE with this batch of corrections.
 
+*********************************************************************
+ correct two errors. modify change_5.txt
+  see '<ls n="x"> *<ab>y</ab> ...</ls>' section in change_5.
+1. Careless mistake: delete '**' characters used in manual changes. 200+ lines
+2. A subtle mistake:  'diS' did not display (empty output).
+   Cause:  a form '<ls n="Ratn."> <ab>Introd.</ab> 6</ls>'
+   Similar form in 'tAqakA': '<ls n="R."><ab>G</ab> 27, 25 ff.</ls>'
+   No other similar forms found.
+
+python updateByLine.py temp_mw_4.txt change_5.txt temp_mw_5.txt
+2335 change transactions from change_5.txt
+
+---------------------------------------------------------------------------
+install  temp_mw_5.txt to check xml
+cp temp_mw_5.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# correct errors
+# rerun until
+ #prints 'ok'
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue137
+
+# -------------------------------------------------------------
+# iast version of mw.txt for AB
+cd ../../mwtranscode
+python mw_transcode.py slp1 roman ../mwsissues/issue137/temp_mw_5.txt ../mwsissues/issue137/temp_mw_5_iast.txt
+
+#confirm invertibility:
+python mw_transcode.py roman slp1 ../mwsissues/issue137/temp_mw_5_iast.txt ../mwsissues/issue137/temp_mw_5_slp1.txt
+
+diff ../mwsissues/issue137/temp_mw_5.txt ../mwsissues/issue137/temp_mw_5_slp1.txt
+# no difference
+
+cd ../mwsissues/issue137/
+rm temp_mw_5_slp1.txt
+
+--------------------------------------------------------- ---------
+Push repositories to Github.
+ csl-orig  commit c85945ddd95e26718a5cc21653943c48f3150ed1
+
+
+and update the correspondents at Cologne web site.
+
+DONE with corrections to temp_mw_5.txt in change_5.txt.
+
 *************************************************************************
 
 ---------------------------------------------------------------
