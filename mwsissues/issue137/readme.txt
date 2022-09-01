@@ -826,6 +826,35 @@ DONE with this batch of corrections.
 python updateByLine.py temp_mw_4.txt change_5.txt temp_mw_5.txt
 2335 change transactions from change_5.txt
 
+*********************************************************************
+Manual addition to change_5 at section temp_change_or1.
+The 8 cases starting with 1962
+  ref: https://github.com/sanskrit-lexicon/MWS/issues/137#issuecomment-1232023669
+16 lines changed.
+python updateByLine.py temp_mw_4.txt change_5.txt temp_mw_5.txt
+2351 change transactions from change_5.txt
+
+---------------------------------------------------------------------------
+Manual addition to change_5 at section temp_change_or2.
+The 8 cases starting with 92603
+  ref: https://github.com/sanskrit-lexicon/MWS/issues/137#issuecomment-1232060756
+
+21 lines changed.
+python updateByLine.py temp_mw_4.txt change_5.txt temp_mw_5.txt
+2372 change transactions from change_5.txt
+
+Notes:
+ 1. use new attribute 'orwr' of info:  <info orwr="..."/>;
+  modify one.dtd accordingly in csl-pywork/v02/makotemplates/
+ 2. re L=98434. dvicatvAriMSika
+  a. remove L=98435 (replace 3 lines with empty lines)
+  b. Correct 98438  to 'consisting of 42' (cf. pwg)
+     print change
+ 3. 125521,22,23 putrajIva, putraMjIva, putraMjIvaka
+   treated as an 'or' group
+ 
+---------------------------------------------------------------------------
+
 ---------------------------------------------------------------------------
 install  temp_mw_5.txt to check xml
 cp temp_mw_5.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
@@ -856,7 +885,8 @@ rm temp_mw_5_slp1.txt
 Push repositories to Github.
  csl-orig  commit c85945ddd95e26718a5cc21653943c48f3150ed1
 
-
+ csl-corrections
+ csl-pywork
 and update the correspondents at Cologne web site.
 
 DONE with corrections to temp_mw_5.txt in change_5.txt.

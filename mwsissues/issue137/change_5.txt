@@ -11714,3 +11714,194 @@
 312347 old ¦ quarter, region, direction, place, part (<ab>pl.</ab>, rarely <ab>sg.</ab> the whole world, <ab>e.g.</ab> <s>diSi diSi</s>, in all directions, everywhere, <ls>Bhartṛ. i, 86</ls>; <s>digByas</s>, from every <ab n="quarter">q°</ab>, <ls>BhP. i, 15, 8</ls> <pb n="480,2"/>; <s>diSo diSas</s>, hither and thither, <ls>Pañc. ii, 116/117</ls>; <s>diSo'valokya</s>, looking into the <ab n="quarter">q°</ab> of the sky <ab>i.e.</ab> into the air, <ls>Ratn. iv, 4/5</ls> <s>di/So 'ntAt</s>, from the extremities of the world, <ls>ib.</ls>, <ls n="Ratn."> <ab>Introd.</ab> 6</ls>)<info lex="inh"/>
 ;
 312347 new ¦ quarter, region, direction, place, part (<ab>pl.</ab>, rarely <ab>sg.</ab> the whole world, <ab>e.g.</ab> <s>diSi diSi</s>, in all directions, everywhere, <ls>Bhartṛ. i, 86</ls>; <s>digByas</s>, from every <ab n="quarter">q°</ab>, <ls>BhP. i, 15, 8</ls> <pb n="480,2"/>; <s>diSo diSas</s>, hither and thither, <ls>Pañc. ii, 116/117</ls>; <s>diSo'valokya</s>, looking into the <ab n="quarter">q°</ab> of the sky <ab>i.e.</ab> into the air, <ls>Ratn. iv, 4/5</ls> <s>di/So 'ntAt</s>, from the extremities of the world, <ls>ib.</ls>, <ab>Introd.</ab> 6)<info lex="inh"/>
+; ======================================================
+; temp_change_or1 (16)
+; ======================================================
+; <L>1962<pc>9,2<k1>ajatva<k2>aja/—tva/<e>3
+7245 old <s>aja/—tva/</s> ¦ ([<ls>TS.</ls>; <ab>cf.</ab> <ls>Pāṇ. vi, 3, 64</ls>, <ab>Sch.</ab>]) or
+;
+7245 new <s>aja/—tva/</s> [<ls>TS.</ls>; <ab>cf.</ab> <ls>Pāṇ. vi, 3, 64</ls>, <ab>Sch.</ab>] or <s>ajA-tva</s>, ¦ <lex>n.</lex> the being a goat.<info lex="n"/><info or="1962,ajatva;1963,ajAtva"/>
+;---------------------------------------------------
+; <L>1963<pc>9,2<k1>ajAtva<k2>ajA-tva<e>3
+7248 old <s>ajA-tva</s> ¦ <lex>n.</lex> the being a goat.<info lex="n"/>
+;
+7248 new <s>aja/—tva/</s> [<ls>TS.</ls>; <ab>cf.</ab> <ls>Pāṇ. vi, 3, 64</ls>, <ab>Sch.</ab>] or <s>ajA-tva</s>, ¦ <lex>n.</lex> the being a goat.<info lex="n"/><info or="1962,ajatva;1963,ajAtva"/>
+;---------------------------------------------------
+; <L>4074<pc>20,1<k1>aDonABam<k2>aDo-nABam<e>3
+14854 old <s>aDo-nABam</s> ¦ of
+;
+14854 new <s>aDo-nABam</s> or <s>aDo-nABi/</s> [<ls>MaitrS.</ls>], ¦ <lex>ind.</lex> below the navel.<info lex="ind"/><info or="4074,aDonABam;4075,aDonABi"/>
+;---------------------------------------------------
+; <L>4075<pc>20,1<k1>aDonABi<k2>aDo-nABi/<e>3
+14857 old <s>aDo-nABi/</s> ¦ ([<ls>MaitrS.</ls>]) <lex>ind.</lex> below the navel.<info lex="ind"/>
+;
+14857 new <s>aDo-nABam</s> or <s>aDo-nABi/</s> [<ls>MaitrS.</ls>], ¦ <lex>ind.</lex> below the navel.<info lex="ind"/><info or="4074,aDonABam;4075,aDonABi"/>
+;---------------------------------------------------
+; <L>9981<pc>54,1<k1>apAktas<k2>a/pAk—ta/s<e>3
+37021 old <s>a/pAk—ta/s</s> ¦ ([<ls>AV. viii, 4, 19</ls>; <ab>cf.</ab> <ls>RV. vii, 104, 19</ls>]) or
+;
+37021 new <s>a/pAk—ta/s</s> [<ls>AV. viii, 4, 19</ls>; <ab>cf.</ab> <ls>RV. vii, 104, 19</ls>] or <s>a/pAk—tAt</s> [<ls>RV. vii, 104, 19</ls>], ¦ <lex>ind.</lex> from behind.<info lex="ind"/><info or="9981,apAktas;9982,apAktAt"/>
+;---------------------------------------------------
+; <L>9982<pc>54,1<k1>apAktAt<k2>a/pAk—tAt<e>3
+37024 old <s>a/pAk—tAt</s> ¦ (<s>a/pAk-</s>) ([<ls>RV. vii, 104, 19</ls>]) <lex>ind.</lex> from behind.<info lex="ind"/>
+;
+37024 new <s>a/pAk—ta/s</s> [<ls>AV. viii, 4, 19</ls>; <ab>cf.</ab> <ls>RV. vii, 104, 19</ls>] or <s>a/pAk—tAt</s> [<ls>RV. vii, 104, 19</ls>], ¦ <lex>ind.</lex> from behind.<info lex="ind"/><info or="9981,apAktas;9982,apAktAt"/>
+;---------------------------------------------------
+; <L>95389<pc>491,3<k1>dfzwarajas<k2>dfzwa/—rajas<e>3
+321480 old <s>dfzwa/—rajas</s> ¦ (<ls>L.</ls>) and
+;
+321480 new <s>dfzwa/—rajas</s> (<ls>L.</ls>) and <s>dfzwa/—raja°skA</s> (<ls>Gal.</ls>), ¦ <lex>f.</lex> = <s>-puzpA</s>.<info lex="f"/><info and="95389,dfzwarajas;95390,dfzwarajaskA"/>
+;---------------------------------------------------
+; <L>95390<pc>491,3<k1>dfzwarajaskA<k2>dfzwa/—rajaskA<e>3
+321483 old <s>dfzwa/—raja°skA</s> ¦ (<ls>Gal.</ls>) <lex>f.</lex> = <s>-puzpA</s>.<info lex="f"/>
+;
+321483 new <s>dfzwa/—rajas</s> (<ls>L.</ls>) and <s>dfzwa/—raja°skA</s> (<ls>Gal.</ls>), ¦ <lex>f.</lex> = <s>-puzpA</s>.<info lex="f"/><info and="95389,dfzwarajas;95390,dfzwarajaskA"/>
+;---------------------------------------------------
+; <L>96042<pc>494,3<k1>devaviS<k2>deva/—vi/S<e>3
+323590 old <s>deva/—vi/S</s> ¦ (<ls>Br.</ls>) or
+;
+323590 new <s>deva/—vi/S</s> (<ls>Br.</ls>) or <s>deva/—viSA/</s> (<ls>MaitrS.</ls>), ¦ <lex>f.</lex> the gods collectively.<info lex="f"/><info or="96042,devaviS;96043,devaviSA"/>
+;---------------------------------------------------
+; <L>96043<pc>494,3<k1>devaviSA<k2>deva/—viSA/<e>3
+323593 old <s>deva/—viSA/</s> ¦ (<ls>MaitrS.</ls>) <lex>f.</lex> the gods collectively.<info lex="f"/>
+;
+323593 new <s>deva/—vi/S</s> (<ls>Br.</ls>) or <s>deva/—viSA/</s> (<ls>MaitrS.</ls>), ¦ <lex>f.</lex> the gods collectively.<info lex="f"/><info or="96042,devaviS;96043,devaviSA"/>
+;---------------------------------------------------
+; <L>156088<pc>780,3<k1>maDuSigru<k2>ma/Du—Sigru<e>3
+524168 old <s>ma/Du—Sigru</s> ¦ (<ls>Suśr.</ls>) or
+;
+524168 new <s>ma/Du—Sigru</s> (<ls>Suśr.</ls>) or <s>ma/Du—Sig°ruka</s> (<ls>Car.</ls>), ¦ <lex>m.</lex> <bot>Moringa Pterygosperma</bot> (<bot>Rubriflora</bot>).<info lex="m"/><info or="156088,maDuSigru;156089maDuSigruka"/>
+;---------------------------------------------------
+; <L>156089<pc>780,3<k1>maDuSigruka<k2>ma/Du—Sigruka<e>3
+524171 old <s>ma/Du—Sig°ruka</s> ¦ (<ls>Car.</ls>) <lex>m.</lex> <bot>Moringa Pterygosperma</bot> (<bot>Rubriflora</bot>). <info lex="m"/>
+;
+524171 new <s>ma/Du—Sigru</s> (<ls>Suśr.</ls>) or <s>ma/Du—Sig°ruka</s> (<ls>Car.</ls>), ¦ <lex>m.</lex> <bot>Moringa Pterygosperma</bot> (<bot>Rubriflora</bot>).<info lex="m"/><info or="156088,maDuSigru;156089maDuSigruka"/>
+;---------------------------------------------------
+; <L>169950<pc>843,2<k1>yaTAviDAnam<k2>ya/TA—viDAnam<e>3
+569869 old <s>ya/TA—viDAnam</s> ¦ (<ls>Pañcar.</ls>) or
+;
+569869 new <s>ya/TA—viDAnam</s> (<ls>Pañcar.</ls>) or <s>ya/TA—viDA°nena</s> (<ls>Yājñ.</ls>), ¦ <lex>ind.</lex> <ab n="according">acc°</ab> to prescription or rule.<info lex="ind"/><info or="169950,yaTAviDAnam;169951,yaTAviDAnena"/>
+;---------------------------------------------------
+; <L>169951<pc>843,2<k1>yaTAviDAnena<k2>ya/TA—viDAnena<e>3
+569872 old <s>ya/TA—viDA°nena</s> ¦ (<ls>Yājñ.</ls>) <lex>ind.</lex> <ab n="according">acc°</ab> to prescription or rule.<info lex="ind"/>
+;
+569872 new <s>ya/TA—viDAnam</s> (<ls>Pañcar.</ls>) or <s>ya/TA—viDA°nena</s> (<ls>Yājñ.</ls>), ¦ <lex>ind.</lex> <ab n="according">acc°</ab> to prescription or rule.<info lex="ind"/><info or="169950,yaTAviDAnam;169951,yaTAviDAnena"/>
+;---------------------------------------------------
+; <L>171580<pc>852,2<k1>yAvacCakti<k2>yAvac—Cakti<e>3
+575398 old <s>yAvac—Cakti</s> ¦ (for <s>-Sak°</s>; <ls>A.</ls>) or
+;
+575398 new <s>yAvac—Cakti</s> ¦ (for <s>-Sak°</s>; <ls>A.</ls>) or <s>yAvac—Cak°ti-tas</s> (<ls>Kād.</ls>), ¦ <lex>ind.</lex> according to power.<info lex="ind"/><info or="171580,yAvacCakti;171581,yAvacCaktitas"/>
+;---------------------------------------------------
+; <L>171581<pc>852,2<k1>yAvacCaktitas<k2>yAvac—Cakti-tas<e>3
+575401 old <s>yAvac—Cak°ti-tas</s> ¦ (<ls>Kād.</ls>) <lex>ind.</lex> according to power.<info lex="ind"/>
+;
+575401 new <s>yAvac—Cakti</s> ¦ (for <s>-Sak°</s>; <ls>A.</ls>) or <s>yAvac—Cak°ti-tas</s> (<ls>Kād.</ls>), ¦ <lex>ind.</lex> according to power.<info lex="ind"/><info or="171580,yAvacCakti;171581,yAvacCaktitas"/>
+;---------------------------------------------------
+; ======================================================
+; temp_change_or2 (21)
+; ======================================================
+; <L>92603<pc>480,2<k1>diSoBAga<k2>diSo—BAga<e>3
+312380 old <s>diSo—BAga</s> ¦ <ab>w.r.</ab> for
+;
+312380 new <s>diSo—BAga</s> <ab>w.r.</ab> for <s>diSo—BAj</s>, ¦ <lex>mfn.</lex> one who runs away in all directions, <ls>Pañc. (B) iv, 15, 114/115.</ls><info lex="m:f:n"/><info orwr="92603,diSoBAga;92604,diSoBAj"/>
+;---------------------------------------------------
+; <L>92604<pc>480,2<k1>diSoBAj<k2>diSo—BAj<e>3
+312383 old <s>diSo—BAj</s> ¦ <lex>mfn.</lex> one who runs away in all directions, <ls>Pañc. (B) iv, 15, 114/115.</ls><info lex="m:f:n"/>
+;
+312383 new <s>diSo—BAga</s> <ab>w.r.</ab> for <s>diSo—BAj</s>, ¦ <lex>mfn.</lex> one who runs away in all directions, <ls>Pañc. (B) iv, 15, 114/115.</ls><info lex="m:f:n"/><info orwr="92603,diSoBAga;92604,diSoBAj"/>
+;---------------------------------------------------
+; <L>95205<pc>490,3<k1>dfQavya<k2>dfQavya<e>3
+320848 old <s>df°Qavya</s> ¦ <ab>w.r.</ab> for
+;
+320848 new <s>df°Qavya</s>, <ab>w.r.</ab> for <s>df°QA<srs/>yus</s> <hom>b</hom> ¦ (<ab>q.v.</ab>), <ls>MBh. xiii, 7112.</ls><info orwr="95205,dfQavya;95206,dfQAyus"/>
+;---------------------------------------------------
+; <L>95206<pc>490,3<k1>dfQAyus<k2>dfQAyus<h>b<e>3
+320851 old <s>df°QA<srs/>yus</s> <hom>b</hom> ¦ (<ab>q.v.</ab>), <ls>MBh. xiii, 7112.</ls>
+;
+320851 new <s>df°Qavya</s>, <ab>w.r.</ab> for <s>df°QA<srs/>yus</s> <hom>b</hom> ¦ (<ab>q.v.</ab>), <ls>MBh. xiii, 7112.</ls><info orwr="95205,dfQavya;95206,dfQAyus"/>
+;---------------------------------------------------
+; <L>98434<pc>504,3<k1>dvicatvAriMSika<k2>dvi—catvAriMSika<e>3
+331488 old <s>dvi—catvAriMSika</s> ¦ <ab>w.r.</ab> for
+;
+331488 new <s>dvi—catvAriMSika</s> ¦ <ab>w.r.</ab> for <s>dvi—cAtv°AriMSika</s><info orwr="98434,dvicatvAriMSika;98438,dvicAtvAriMSika"/>
+;---------------------------------------------------
+; <L>98435<pc>504,3<k1>dvicAtvAriMSika<k2>dvi—cAtvAriMSika<h>a<e>3
+331490 old <L>98435<pc>504,3<k1>dvicAtvAriMSika<k2>dvi—cAtvAriMSika<h>a<e>3
+;
+331490 new 
+;---------------------------------------------------
+; <L>98435<pc>504,3<k1>dvicAtvAriMSika<k2>dvi—cAtvAriMSika<h>a<e>3
+331491 old <s>dvi—cAtv°AriMSika</s> <hom>a</hom> ¦ <lex>mfn.</lex> having 2 moons, <ls>Viddh.</ls><info lex="m:f:n"/>
+;
+331491 new 
+;---------------------------------------------------
+; <L>98435<pc>504,3<k1>dvicAtvAriMSika<k2>dvi—cAtvAriMSika<h>a<e>3
+331492 old <LEND>
+;
+331492 new 
+;---------------------------------------------------
+; <L>98438<pc>504,3<k1>dvicAtvAriMSika<k2>dvi—cAtvAriMSika<h>b<e>3
+331499 old <L>98438<pc>504,3<k1>dvicAtvAriMSika<k2>dvi—cAtvAriMSika<h>b<e>3
+;
+331499 new <L>98438<pc>504,3<k1>dvicAtvAriMSika<k2>dvi—cAtvAriMSika<e>3
+;---------------------------------------------------
+; <L>98438<pc>504,3<k1>dvicAtvAriMSika<k2>dvi—cAtvAriMSika<h>b<e>3
+331500 old <s>dvi—cAtvAriMSika</s> <hom>b</hom> ¦ <lex>mfn.</lex> consisting of 2 <ls>L.</ls><info lex="m:f:n"/>
+;
+331500 new <s>dvi—cAtvAriMSika</s> ¦ <lex>mfn.</lex> consisting of 2 <ls>L.</ls><info lex="m:f:n"/><info orwr="98434,dvicatvAriMSika;98438,dvicAtvAriMSika"/>
+;---------------------------------------------------
+; <L>104490<pc>530,3<k1>navakft<k2>na/va—kf/t<e>3
+351671 old <s>na/va—kf/t</s> ¦ (<ls>ŚāṅkhGṛ.</ls>), <ab>prob.</ab> <ab>w.r.</ab> for
+;
+351671 new <s>na/va—kf/t</s> (<ls>ŚāṅkhGṛ.</ls>), <ab>prob.</ab> <ab>w.r.</ab> for <s>na/va—ga/t</s>, ¦ <lex>mfn.</lex> first-bearing, <ls>AV.</ls>; <ls>TS.</ls><info lex="m:f:n"/><info orwr="104490,navakft;104491,navagat"/>
+;---------------------------------------------------
+; <L>104491<pc>530,3<k1>navagat<k2>na/va—ga/t<e>3
+351674 old <s>na/va—ga/t</s> ¦ <lex>mfn.</lex> first-bearing, <ls>AV.</ls>; <ls>TS.</ls><info lex="m:f:n"/>
+;
+351674 new <s>na/va—kf/t</s> (<ls>ŚāṅkhGṛ.</ls>), <ab>prob.</ab> <ab>w.r.</ab> for <s>na/va—ga/t</s>, ¦ <lex>mfn.</lex> first-bearing, <ls>AV.</ls>; <ls>TS.</ls><info lex="m:f:n"/><info orwr="104490,navakft;104491,navagat"/>
+;---------------------------------------------------
+; <L>107642<pc>543,3<k1>nistantra<k2>ni/s—tantra<e>3
+362223 old <s>ni/s—tantra</s> ¦ <ab>w.r.</ab> for
+;
+362223 new <s>ni/s—tantra</s>, <ab>w.r.</ab> for <s>ni/s—tandra</s>, ¦ <lex>mfn.</lex> not lazy, fresh, healthy<info lex="m:f:n"/><info orwr="107642,nistantra;107643,nistandra"/>
+;---------------------------------------------------
+; <L>107643<pc>543,3<k1>nistandra<k2>ni/s—tandra<e>3
+362226 old <s>ni/s—tandra</s> ¦ <lex>mfn.</lex> not lazy, fresh, healthy<info lex="m:f:n"/>
+;
+362226 new <s>ni/s—tantra</s>, <ab>w.r.</ab> for <s>ni/s—tandra</s>, ¦ <lex>mfn.</lex> not lazy, fresh, healthy<info lex="m:f:n"/><info orwr="107642,nistantra;107643,nistandra"/>
+;---------------------------------------------------
+; <L>114508<pc>579,3<k1>pawwikAvApaka<k2>pawwikA—vApaka<e>3
+386353 old <s>pawwikA—vApaka</s> ¦ <ab>prob.</ab> <ab>w.r.</ab> for
+;
+386353 new <s>pawwikA—vApaka</s>, <ab>prob.</ab> <ab>w.r.</ab> for <s>pawwikA—vAyaka</s>, ¦ <lex>m.</lex> a silk-weaver, ribbon-maker, <ls>R.</ls><info lex="m"/><info orwr="114508,pawwikAvApaka;114509,pawwikAvAyaka"/>
+;---------------------------------------------------
+; <L>114509<pc>579,3<k1>pawwikAvAyaka<k2>pawwikA—vAyaka<e>3
+386356 old <s>pawwikA—vAyaka</s> ¦ <lex>m.</lex> a silk-weaver, ribbon-maker, <ls>R.</ls><info lex="m"/>
+;
+386356 new <s>pawwikA—vApaka</s>, <ab>prob.</ab> <ab>w.r.</ab> for <s>pawwikA—vAyaka</s>, ¦ <lex>m.</lex> a silk-weaver, ribbon-maker, <ls>R.</ls><info lex="m"/><info orwr="114508,pawwikAvApaka;114509,pawwikAvAyaka"/>
+;---------------------------------------------------
+; <L>125521<pc>632,3<k1>putrajIva<k2>putra/—jIva<e>3
+422962 old <s>putra/—jIva</s> ¦ <ab>w.r.</ab> for
+;
+422962 new <s>putra/—jIva</s>, <ab>w.r.</ab> for <s>putra/—M-jIva</s>, <s>putra/—M-jI°vaka</s>, ¦ <lex>m.</lex> ‘giving life to children’, <bot>Putranjiva Roxburghii</bot> (from its seeds are made necklaces which are supposed to keep children in good health), <ls>L.</ls><info lex="m"/><info or="125521,putrajIva;125522,putraMjIva;125523,putraMjIvaka"/>
+;---------------------------------------------------
+; <L>125522<pc>632,3<k1>putraMjIva<k2>putra/—M-jIva<e>3
+422965 old <s>putra/—M-jIva</s> ¦ <lex>m.</lex> ‘giving life to children’, <bot>Putranjiva Roxburghii</bot> (from its seeds are made necklaces which are suppose, to keep children in good health), <ls>L.</ls><info lex="m"/>
+;
+422965 new <s>putra/—jIva</s>, <ab>w.r.</ab> for <s>putra/—M-jIva</s>, <s>putra/—M-jI°vaka</s>, ¦ <lex>m.</lex> ‘giving life to children’, <bot>Putranjiva Roxburghii</bot> (from its seeds are made necklaces which are supposed to keep children in good health), <ls>L.</ls><info lex="m"/><info or="125521,putrajIva;125522,putraMjIva;125523,putraMjIvaka"/>
+;---------------------------------------------------
+; <L>125523<pc>632,3<k1>putraMjIvaka<k2>putra/—M-jIvaka<e>3
+422968 old <s>putra/—M-jI°vaka</s> ¦ <lex>m.</lex> ‘giving life to children’, <bot>Putranjiva Roxburghii</bot> (from its seeds are made necklaces which are suppose, to keep children in good health), <ls>L.</ls><info lex="m"/>
+;
+422968 new <s>putra/—jIva</s>, <ab>w.r.</ab> for <s>putra/—M-jIva</s>, <s>putra/—M-jI°vaka</s>, ¦ <lex>m.</lex> ‘giving life to children’, <bot>Putranjiva Roxburghii</bot> (from its seeds are made necklaces which are supposed to keep children in good health), <ls>L.</ls><info lex="m"/><info or="125521,putrajIva;125522,putraMjIva;125523,putraMjIvaka"/>
+;---------------------------------------------------
+; <L>131402<pc>661,3<k1>pratikaRWukayA<k2>prati—kaRWukayA<e>3
+442725 old <s>prati—kaRWukayA</s> ¦ (<ab>prob.</ab>) <ab>w.r.</ab> for
+;
+442725 new <s>prati—kaRWukayA</s>, (<ab>prob.</ab>) <ab>w.r.</ab> for <s>prati—kaR°WikayA</s>, ¦ <lex>ind.</lex> <ab>id.</ab>, <ls>Divyâv.</ls><info lex="ind"/><info orwr="131402,pratikaRWukayA;131403,pratikaRWikayA"/>
+;---------------------------------------------------
+; <L>131403<pc>661,3<k1>pratikaRWikayA<k2>prati—kaRWikayA<e>3
+442728 old <s>prati—kaR°WikayA</s> ¦ <lex>ind.</lex> <ab>id.</ab>, <ls>Divyâv.</ls><info lex="ind"/>
+;
+442728 new <s>prati—kaRWukayA</s>, (<ab>prob.</ab>) <ab>w.r.</ab> for <s>prati—kaR°WikayA</s>, ¦ <lex>ind.</lex> <ab>id.</ab>, <ls>Divyâv.</ls><info lex="ind"/><info orwr="131402,pratikaRWukayA;131403,pratikaRWikayA"/>
+;---------------------------------------------------
