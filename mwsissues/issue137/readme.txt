@@ -892,7 +892,246 @@ and update the correspondents at Cologne web site.
 DONE with corrections to temp_mw_5.txt in change_5.txt.
 
 *************************************************************************
+change_6: Extended Ascii changes in ls
 
+Change a-circumflex to a-macron in <ls>X</ls>, and corresponding
+changes in mwauth/tooltips. There are several other similar changes,
+as mentioned below.
+
+---------------------------------------------------------------
+# get utility program to list extended ascii
+cp /c/xampp/htdocs/sanskrit-lexicon/COLOGNE/eascii/ea.py temp_ea.py
+# get temporary copy of tooltips.
+cp /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/mw/pywork/mwauth/tooltip.txt temp_tooltip_0.txt
+# get list of extended ascii characters in tooltips
+# revise ea.py so it works with tooltips
+cp temp_ea.py ea_tooltip.py
+
+python ea_tooltip.py temp_tooltip_0.txt ea_tooltip_0.txt
+34 extended ascii counts written to ea_tooltip_0.txt
+
+Here are the letters that will be changed:
+â  (\u00e2)    23 := LATIN SMALL LETTER A WITH CIRCUMFLEX -> ā
+ê  (\u00ea)     3 := LATIN SMALL LETTER E WITH CIRCUMFLEX -> e
+î  (\u00ee)     2 := LATIN SMALL LETTER I WITH CIRCUMFLEX -> ī
+ô  (\u00f4)     4 := LATIN SMALL LETTER O WITH CIRCUMFLEX -> o
+û  (\u00fb)     1 := LATIN SMALL LETTER U WITH CIRCUMFLEX -> ū
+
+# get list of ls-instances with extended ascii.
+python ea_ls.py temp_mw_5.txt ea_ls_chars.txt ea_ls_words.txt
+31 extended ascii counts written to ea_ls_chars.txt
+535 extended ascii words written to ea_ls_words.txt
+
+â  (\u00e2)  2316 := LATIN SMALL LETTER A WITH CIRCUMFLEX
+ Aṣṭâṅg. 76, Bhaktâm. 13, BrahmâṇḍaP. 45, Divyâv. 1087, Dūtâṅg. 3, 
+ Gaṇaratnâv. 8, Kathârṇ. 58, Kulârṇ. 46, Kālakâc. 4, Kāvyâd. 942, 
+ Prasaṅgâbh. 2, Prâyaśc. 70, Ratnâ. 1, Ratnâv. 325, Ratnâv., 1, 
+ Siddhântaś. 40, Vedânt. 4, Vedântak. 1, Vedântap. 2, Vedântaparibh. 1, 
+ Vedântas. 253, Śāktân. 24, 
+ê  (\u00ea)    39 := LATIN SMALL LETTER E WITH CIRCUMFLEX
+ Gaṅgêś. 3, Rasêndrac. 37, Yavanêśv. 2, 
+î  (\u00ee)    88 := LATIN SMALL LETTER I WITH CIRCUMFLEX
+ Kṣitîś. 264, 
+ô  (\u00f4)    81 := LATIN SMALL LETTER O WITH CIRCUMFLEX
+ BrahmôttKh. 8, Nalôd. 70, Praśnôt. 2, Puruṣôtt. 4, 
+û  (\u00fb)     1 := LATIN SMALL LETTER U WITH CIRCUMFLEX
+Sûktik. 1,
+ṉ  (\u1e49)     3 := LATIN SMALL LETTER N WITH LINE BELOW -> ṃ
+
+---------------------------------------------------------------
+# apply changes to tooltips
+cp temp_tooltip_0.txt temp_tooltip_1.txt
+python ea_change_tooltip.py temp_tooltip_0.txt temp_tooltip_1.txt
+# manual changes to temp_tooltip_1.txt
+â   -> ā
+ê   -> e
+î   -> ī
+ô   -> o
+û   -> ū
+diff temp_tooltip_0.txt temp_tooltip_1.txt > diff_ea_tooltip.txt
+
+cp temp_tooltip_1.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/mw/pywork/mwauth/tooltip.txt
+# Note: must commit csl-pywork repository.
+
+---------------------------------------------------------------
+touch change_6.txt
+
+# apply changes to mw.txt
+â   -> ā
+ê   -> e
+î   -> ī
+ô   -> o
+û   -> ū
+ṉ   -> ṃ
+
+python ea_change_ls.py temp_mw_5.txt temp_mw_6.txt
+
+# make change_6.txt
+python diff_to_changes_dict.py temp_mw_5.txt temp_mw_6.txt change_6.txt
+2547 changes written to change_6.txt
+
+
+# consistency check
+python updateByLine.py temp_mw_5.txt change_6.txt temp.txt
+2547 change transactions from change_6.txt
+diff temp_mw_6.txt temp.txt
+# no difference expected
+
+# re-examine ls characters
+python ea_ls.py temp_mw_6.txt temp_ea_ls_chars_6.txt temp_ea_ls_words_6.txt
+25 extended ascii counts written to temp_ea_ls_chars_6.txt
+528 extended ascii words written to temp_ea_ls_words_6.txt
+
+diff ea_ls_words.txt temp_ea_ls_words_6.txt > temp.txt
+
+---------------------------------------------------------------
+cp temp_mw_6.txt temp_mw_7.txt
+touch change_7.txt
+---------------------------------------------------------------
+
+# extended ascii characters, Y in <s1 slp1="X">Y</s1>
+
+Correct one exception correction in change_7  (manual_pali)
+# install into temp_mw_7
+python updateByLine.py temp_mw_6.txt change_7.txt temp_mw_7.txt
+1 change transactions from change_7.txt
+
+# get list of s1-instances with extended ascii.
+python ea_s1.py temp_mw_7.txt ea_s1_chars.txt ea_s1_words.txt
+37 extended ascii counts written to ea_s1_chars.txt
+6447 extended ascii words written to ea_s1_words.txt
+
+python ea_change_s1.py temp_mw_7.txt temp_mw_7s1.txt
+python diff_to_changes_dict.py temp_mw_7.txt temp_mw_7s1.txt temp_change_7s1.txt
+1850 changes written to temp_change_7s1.txt
+# insert temp_change_7s1.txt into change_7.txt
+
+python updateByLine.py temp_mw_6.txt change_7.txt temp_mw_7.txt
+1851 change transactions from change_7.txt
+
+---------------------------------------------------------------
+# There are still a few instances of â ê î ô û ṉ .
+For those in etym tags, we leave them unchanged.
+For those in <ab n="X"...>, we change to ā etc.
+Similarly for those in <ns>X</ns>, we change to ā etc.
+--------
+â   -> ā
+python make_change_regex.py 7a temp_mw_7.txt temp_change_regex_7a.txt
+75 cases written to temp_change_regex_7a.txt
+# manually adjust temp_change_regex_7a.txt (leave <etym>X</etym> unchanged)
+# insert temp_change_regex_7a.txt into change_7.txt
+python updateByLine.py temp_mw_6.txt change_7.txt temp_mw_7.txt
+1908 change transactions from change_7.txt
+
+--------
+ê   -> e
+
+python make_change_regex.py 7b temp_mw_7.txt temp_change_regex_7b.txt
+21 cases written to temp_change_regex_7b.txt
+# manually adjust temp_change_regex_7b.txt (leave <etym>X</etym> unchanged)
+# insert temp_change_regex_7b.txt into change_7.txt
+python updateByLine.py temp_mw_6.txt change_7.txt temp_mw_7.txt
+1911 change transactions from change_7.txt
+
+--------
+î   -> ī
+python make_change_regex.py 7c temp_mw_7.txt temp_change_regex_7c.txt
+16 cases written to temp_change_regex_7c.txt
+# manually adjust temp_change_regex_7c.txt (leave <etym>X</etym> unchanged)
+# insert temp_change_regex_7c.txt into change_7.txt
+# NOTE: All î are in <etym>X</etym>, so there are NO changes left!
+python updateByLine.py temp_mw_6.txt change_7.txt temp_mw_7.txt
+1911 change transactions from change_7.txt
+
+--------
+ô   -> o
+python make_change_regex.py 7d temp_mw_7.txt temp_change_regex_7d.txt
+34 cases written to temp_change_regex_7d.txt
+# manually adjust temp_change_regex_7d.txt (leave <etym>X</etym> unchanged)
+# insert temp_change_regex_7d.txt into change_7.txt
+python updateByLine.py temp_mw_6.txt change_7.txt temp_mw_7.txt
+1918 change transactions from change_7.txt
+
+--------
+û   -> ū
+python make_change_regex.py 7e temp_mw_7.txt temp_change_regex_7e.txt
+14 cases written to temp_change_regex_7e.txt
+# manually adjust temp_change_regex_7e.txt (leave <etym>X</etym> unchanged)
+# insert temp_change_regex_7e.txt into change_7.txt
+# NOTE: All û are in <etym>X</etym>, so there are NO changes left!
+python updateByLine.py temp_mw_6.txt change_7.txt temp_mw_7.txt
+1918 change transactions from change_7.txt
+
+--------
+ṉ   -> ṃ
+python make_change_regex.py 7f temp_mw_7.txt temp_change_regex_7f.txt
+17 cases written to temp_change_regex_7f.txt
+# manually adjust temp_change_regex_7f.txt (leave <etym>X</etym> unchanged)
+# insert temp_change_regex_7f.txt into change_7.txt
+python updateByLine.py temp_mw_6.txt change_7.txt temp_mw_7.txt
+1934 change transactions from change_7.txt
+
+---------------------------------------------------------------
+misc. corrections
+1. <etym>√tares</etym> -> √ <etym>tares</etym> (L=87510.1)
+2. L=105217, 238102 remove √ character at end of line
+3. 108659.1  div n="to"/>to blame -> <div n="to"/>to blame
+These changes added to 'change_7'
+python updateByLine.py temp_mw_6.txt change_7.txt temp_mw_7.txt
+1938 change transactions from change_7.txt
+
+---------------------------------------------------------------------------
+cp temp_mw_7.txt temp_mw_8.txt
+touch change_8.txt
+
+841 matches in 724 lines for "(\["
+Change ([X]) to [X].  It is believed ([X]) is a typographical variance
+introduced by me sometime in the dim and distant past. Serves no purpose.
+
+python make_change_regex.py 8a temp_mw_8.txt temp_change_regex_8a.txt
+723 cases written to temp_change_regex_8a.txt
+# insert temp_change_regex_8a.txt into change_8
+python updateByLine.py temp_mw_7.txt change_8.txt temp_mw_8.txt
+723 change transactions from change_8.txt
+
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+install  temp_mw_8.txt to check xml
+cp temp_mw_8.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# correct errors
+# rerun until
+ #prints 'ok'
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue137
+
+# -------------------------------------------------------------
+# iast version of mw.txt for AB
+cd ../../mwtranscode
+python mw_transcode.py slp1 roman ../mwsissues/issue137/temp_mw_5.txt ../mwsissues/issue137/temp_mw_5_iast.txt
+
+#confirm invertibility:
+python mw_transcode.py roman slp1 ../mwsissues/issue137/temp_mw_5_iast.txt ../mwsissues/issue137/temp_mw_5_slp1.txt
+
+diff ../mwsissues/issue137/temp_mw_5.txt ../mwsissues/issue137/temp_mw_5_slp1.txt
+# no difference
+
+cd ../mwsissues/issue137/
+rm temp_mw_5_slp1.txt
+
+--------------------------------------------------------- ---------
+Push repositories to Github.
+ csl-orig  commit 8c03ec760eda239c0c1bc52e70f5a05319d3a27b
+
+ # csl-corrections
+ csl-pywork
+and update the correspondents at Cologne web site.
+
+DONE with corrections to temp_mw_8.txt in change_8.txt.
+
+---------------------------------------------------------------
 ---------------------------------------------------------------
 OPEN QUESTIONS, FOR POSSIBLE FUTURE EXAMINATION
 -----
