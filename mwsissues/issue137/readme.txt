@@ -1110,16 +1110,16 @@ cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue137
 # -------------------------------------------------------------
 # iast version of mw.txt for AB
 cd ../../mwtranscode
-python mw_transcode.py slp1 roman ../mwsissues/issue137/temp_mw_5.txt ../mwsissues/issue137/temp_mw_5_iast.txt
+python mw_transcode.py slp1 roman ../mwsissues/issue137/temp_mw_8.txt ../mwsissues/issue137/temp_mw_8_iast.txt
 
 #confirm invertibility:
-python mw_transcode.py roman slp1 ../mwsissues/issue137/temp_mw_5_iast.txt ../mwsissues/issue137/temp_mw_5_slp1.txt
+python mw_transcode.py roman slp1 ../mwsissues/issue137/temp_mw_8_iast.txt ../mwsissues/issue137/temp_mw_8_slp1.txt
 
-diff ../mwsissues/issue137/temp_mw_5.txt ../mwsissues/issue137/temp_mw_5_slp1.txt
+diff ../mwsissues/issue137/temp_mw_8.txt ../mwsissues/issue137/temp_mw_8_slp1.txt
 # no difference
 
 cd ../mwsissues/issue137/
-rm temp_mw_5_slp1.txt
+rm temp_mw_8_slp1.txt
 
 --------------------------------------------------------- ---------
 Push repositories to Github.
