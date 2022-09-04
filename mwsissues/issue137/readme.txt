@@ -1131,6 +1131,121 @@ and update the correspondents at Cologne web site.
 
 DONE with corrections to temp_mw_8.txt in change_8.txt.
 
+*********************************************************************
+temp_mw_9, change_9
+cp temp_mw_8.txt temp_mw_9.txt
+touch change_9.txt
+
+---------------------------------------------------------------------------
+<div n="to"/><ab>X</ab>
+1200 matches for "<div n="to"/><ab>
+What are the abbreviations?
+Let these 3 cases remain unchanged (n="to")
+ 1 match for "<div n="to"/><ab>cl.</ab."
+13 matches for "<div n="to"/><ab>P\.</ab>"
+43 matches for "<div n="to"/><ab>Ā.</ab>"
+ (+ 1 13 43) = 57
+ 
+Change these to "<div n="vp"/><ab>X</ab>
+59 matches for "<div n="to"/><ab>Intens\.</ab>"
+114 matches for "<div n="to"/><ab>Desid\.</ab>"
+790 matches for "<div n="to"/><ab>Caus\.</ab>"
+180 matches for "<div n="to"/><ab>Pass\.</ab>"
+ (+ 59 114 790 180) = 1143
+
+(+ 57 1143) = 1200 everything accounted for.
+
+python make_change_regex.py 9a temp_mw_9.txt temp_change_regex_9a.txt
+1143 cases written to temp_change_regex_9a.txt
+# insert temp_change_regex_9a.txt into change_9.txt
+python updateByLine.py temp_mw_8.txt change_9.txt temp_mw_9.txt
+1143 change transactions from change_9.txt
+
+Note: Here is what the mw-meta2.txt file says about these div types:
+<div n="X"/>  used to indicate logical breaks; currently used mostly within
+            entries for verbs. Significance of X:
+            to : a new sense (e.g., to be lighted)
+            vp : ('verb paragraph') before verb subsections for Passive,
+                 Causal, etc.
+            p :  ('paragraph') experimental, only 4 instances currently;
+                 within entry for 'iti'
+
+---------------------------------------------------------------------------
+"¦ ," -> ", ¦"
+
+python make_change_regex.py 9b temp_mw_9.txt temp_change_regex_9b.txt
+19 cases written to temp_change_regex_9b.txt
+# manually adjust for spacing
+# insert temp_change_regex_9b.txt into change_9.txt
+python updateByLine.py temp_mw_8.txt change_9.txt temp_mw_9.txt
+1166 change transactions from change_9.txt
+
+NOTE:
+1. delete <L>17787<pc>102,1<k1>avamAnin entry, merge into 17786.
+
+---------------------------------------------------------------------------
+This was noticed when examining L=155336 in previous section.
+madA -> mada
+L=155335 - 155348
+These are not feminine, but inherited masculine.
+L=155335 line 521764
+L=155348 line 521804
+
+python make_oldnew1_range.py 521764 521804 temp_mw_9.txt temp_change_mada.txt
+
+# manually adjust temp_change_mada.txt to change meta-line, and a couple of
+# other places.
+# insert temp_change_mada.txt into change_9
+python updateByLine.py temp_mw_8.txt change_9.txt temp_mw_9.txt
+1181 change transactions from change_9.txt
+
+---------------------------------------------------------------------------
+... [three dots] (13 instances) as
+… [horiz. ellipsis] (no instance as of now)
+
+
+python make_change_regex.py 9c temp_mw_9.txt temp_change_regex_9c.txt
+10 cases written to temp_change_regex_9c.txt
+# manually adjust for spacing
+# insert temp_change_regex_9c.txt into change_9.txt
+python updateByLine.py temp_mw_8.txt change_9.txt temp_mw_9.txt
+1191 change transactions from change_9.txt
+
+
+---------------------------------------------------------------------------
+install  temp_mw_9.txt to check xml
+cp temp_mw_9.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# correct errors
+# rerun until
+ #prints 'ok'
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue137
+
+# -------------------------------------------------------------
+# iast version of mw.txt for AB
+cd ../../mwtranscode
+python mw_transcode.py slp1 roman ../mwsissues/issue137/temp_mw_9.txt ../mwsissues/issue137/temp_mw_9_iast.txt
+
+#confirm invertibility:
+python mw_transcode.py roman slp1 ../mwsissues/issue137/temp_mw_9_iast.txt ../mwsissues/issue137/temp_mw_9_slp1.txt
+
+diff ../mwsissues/issue137/temp_mw_9.txt ../mwsissues/issue137/temp_mw_9_slp1.txt
+# no difference
+
+cd ../mwsissues/issue137/
+rm temp_mw_9_slp1.txt
+END change_9
+--------------------------------------------------------- ---------
+Push repositories to Github.
+ csl-orig  commit a99d54ec71f6de51dc071d1498349002b9c18d5b
+
+and update the correspondents at Cologne web site.
+
+DONE with corrections to temp_mw_9.txt in change_9.txt.
+
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 OPEN QUESTIONS, FOR POSSIBLE FUTURE EXAMINATION
