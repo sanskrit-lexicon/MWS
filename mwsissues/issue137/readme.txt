@@ -1274,3 +1274,28 @@ examine this revision  NO ACTION AT THIS TIME
 2489 matches in 2427 lines for "</ab> <ls>"
 Should some categories have "</ab>, <ls>" ?
 
+**************************************************************
+# transcoding test using altered slp1_roman and roman_slp1
+# difference is using mw_transcode1
+# 1. latest commit of mw.txt
+0e5c12526e769cda439a5fb29e1ea05fcfbd36bd
+cd /c/xampp/htdocs/cologne/csl-orig/
+# generate temp_mw_0 .txt in this directory
+  git show  0e5c1252:v02/mw/mw.txt > /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue137/temp_mw_10.txt
+# return to this directory
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue137/
+
+# 2. transcoding to iast, using the revised transcoder files.
+cd ../../mwtranscode
+python mw_transcode1.py slp1 roman ../mwsissues/issue137/temp_mw_10.txt ../mwsissues/issue137/temp1_mw_10_iast.txt
+
+#confirm invertibility:
+python mw_transcode1.py roman slp1 ../mwsissues/issue137/temp1_mw_10_iast.txt ../mwsissues/issue137/temp1_mw_10_slp1.txt
+
+diff ../mwsissues/issue137/temp_mw_10.txt ../mwsissues/issue137/temp1_mw_10_slp1.txt
+# no difference
+# return to this directory
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue137/
+--------------------------------------------------------
+zip revised iast version
+zip temp1_mw_10_iast.zip temp1_mw_10_iast.txt
