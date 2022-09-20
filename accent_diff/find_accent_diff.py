@@ -20,7 +20,9 @@ def prepare_dict(filein):
 			k1 = meta['k1']
 			k2 = meta['k2']
 			k1 = k1.replace('—', '')
+			k1 = k1.replace('-', '')
 			k2 = k2.replace('—', '')
+			k2 = k2.replace('-', '')
 			if re.search('[\/^]', k2):
 				if k2 not in result[k1]:
 					result[k1].append(k2)
