@@ -21,6 +21,7 @@ def prepare_dict(dict1):
 			meta = parseheadline.parseheadline(lin)
 			k1 = meta['k1']
 			k2 = meta['k2']
+			"""
 			k1 = k1.replace('—', '')
 			k1 = k1.replace('-', '')
 			k2 = k2.replace('—', '')
@@ -28,6 +29,13 @@ def prepare_dict(dict1):
 			if re.search('[\/^]', k2):
 				if k2 not in result[k1]:
 					result[k1].append(k2)
+			"""
+			# Ignore hyphenated differences'
+			if re.search('[\/^]', k2) and ('—' not in k2) and ('-' not in k2):
+				if k2 not in result[k1]:
+					result[k1].append(k2)
+
+
 	fin.close()
 	return result
 
@@ -36,7 +44,7 @@ def write_diff_to_tsv(d1, d2, file_tsv):
 	fout = codecs.open(file_tsv, 'w', 'utf-8')
 	for key in d1:
 		if key in d2:
-			if d1[key] != d2[key]:
+			if set(d1[key]) != set(d2[key]):
 				print(key, d1[key], d2[key])
 				fout.write(key + '\t' + ','.join(d1[key]) + '\t' + ','.join(d2[key]) + '\n')
 	fout.close()
@@ -61,14 +69,16 @@ if __name__ == "__main__":
 	dict2 = sys.argv[2]
 	out_tsv = sys.argv[3]
 	out_html = sys.argv[4]
-	"""
-	print("Prepare dict from ", filein1)
+
+	print("Prepare dict from ", dict1)
 	d1 = prepare_dict(dict1)
-	print("Prepare dict from ", filein2)
-	d2 = prepare_dict(filein2)
+
+	print("Prepare dict from ", dict2)
+	d2 = prepare_dict(dict2)
+
 	print('Write difference to ', out_tsv)
 	write_diff_to_tsv(d1, d2, out_tsv)
-	"""
+	
 	print('Prepare HTML in ', out_html)
 	write_diff_to_html(out_tsv, out_html, dict1, dict2)
 	
