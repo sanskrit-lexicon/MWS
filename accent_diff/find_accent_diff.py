@@ -35,7 +35,6 @@ def prepare_dict(dict1):
 				if k2 not in result[k1]:
 					result[k1].append(k2)
 
-
 	fin.close()
 	return result
 
