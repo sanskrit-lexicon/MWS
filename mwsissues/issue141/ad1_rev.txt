@@ -1,0 +1,44 @@
+aTarvI	aTarvI/	aTa^rvI	17,3,1310,1 checked
+aDorAma	aDo/rAma	aDo^rAma	20,2 checked
+aDrija	aDri/ja	aDri^ja	23,3 checked
+apAcya	apAcya/	apAcya^	54,1 checked
+amuTA	amu/TA	amu^TA	82,1 checked
+ararinda	arari/nda	arari^nda	87,2
+arya	arya/,arya^,a/rya	arya^	93,1 checked
+azAQa	a/zAQa	azA^Qa	116,2 checked
+Adya	Adya/,Adya^	Adya^	137,1,138,1,138,2 checked
+ArAttAt	ArA/ttAt	ArA^ttAt	150,2 checked
+AryakumAra	A/ryakumAra	Arya^kumAra	152,2 checked A/rya inherit
+AryabrAhmaRa	A/ryabrAhmaRa	Arya^brAhmaRa	152,2 checked A/rya inherit
+ISAnakft	ISAnakf/t	ISAnakf^t	171,1 checked
+ukzaRyAyana	ukzaRyA/yana	ukzaRyA^yana	172,1 checked
+UrDvabAhu	UrDva/bAhu	UrDva/bA^hu	222,2 checked UrDva/ inherit
+Ottaravedika	O/ttaravedika	O^ttaravedika	237,1 checked
+kakzya	ka/kzya	kakzya^	242,1 checked
+karIra	karI/ra	karI^ra	255,2 checked
+gfhameDya	gfha/meDya	gfhameDya^	362,2 checked
+jantva	ja/ntva	jantva^	411,2 checked
+jAtya	jA/tya	jAtya^	418,2 checked
+jyEzWya	jyE/zWya	jyE^zWya	427,1 checked
+Jaza	Jaza/	Jaza^	429,1 checked
+tadAnIm	tadA/nIm	tadA^nIm	434,3 checked
+tArpya	tArpya/	tArpya^	444,3 checked
+tfptAMSu	tfptA/MSu	tfptA^MSu	454,1 checked
+dIrGajihvya	dIrGa/jihvya	dIrGajihvya^	482,1 checked dIrGa/ inherit
+devayajya	deva/ya/jya	devayajya^	494,1 checked deva/ inherit
+DIrya	DI/rya,DIrya^	DIrya^	517,1 checked
+navadAvya	na/vadAvya^	navadAvya^	530,3 checked, na/va inherit
+parRaSadya	parRa/Sadya^	parRaSadya^	606,2 checked, parRa/ inherit
+pAdya	pA/dya	pAdya^	618,2 checked
+pfzWya	pfzWya^,pf/zWya	pfzWya^	648,1 checked
+pratIcya	pratI/cya	pratIcya^	675,1 checked
+bahudevatya	bahu/devatya	bahudevatya^	725,1 checked, bahu/ inherit
+brahmaRya	brahmaRya/	brahmaRya^	741,1 checked
+BadravAcya	Badra/vA/cya	BadravAcya^	746,2 checked, Badra/ inherit
+marutvatya	maru/tvatya	marutvatya^	790,3 checked, maru/t inherit
+yajas	ya/jas	yaja^s	839,1 checked
+raRya	ra/Rya	raRya^	864,1,864,2 checked
+vyAmya	vyAmya/	vyAmya^	1038,1 checked
+SloRya	Slo/Rya	SloRya^	1104,3 checked
+suSevya	suSe/vya	suSe^vya	1237,2 checked
+svarmI|a	sva/rmI|a	sva^rmI|a	1281,2 checked sva/r inherit

@@ -1,0 +1,108 @@
+; X means MW typo, need to change / to ^
+; ? means not simple in some way
+; + means MW confirmed to use / in print. no change to be made.
+; NF means the pwg headword not found in mw.
+; Several of these are 'vant' suffix words; most of these have
+; a corresponding mw 'vat' suffix, and are examined for correction in mw.
+akzarya	akzarya+	akzarya^	3,3
+aRvya	NF	aRvya^	NF pwg typo aRavya^
+aDamArDya	aDamArDya+	aDamArDya^	19,3
+aDyarDapaRya	aDyarDapaRya+	aDyarDapaRya^	23,1
+aDyarDapAdya	aDyarDapAdya+	aDyarDapAdya^	23,1
+aDyarDamAzya	aDyarDamAzya+	aDyarDamAzya^	23,1
+aDyarDaSatya	aDyarDaSatya+	aDyarDaSatya^	23,1
+aDyarDaSARya	aDyarDaSARya+	aDyarDaSARya^	23,1
+aDvanya	aDvanya+	aDvanya^	24,1
+anuvAkyavant	anuvAkyaXvat	anuvAkya^vant	38,1
+antarya	antarya+	antarya^	44,1
+apUpya	apUpya+	apUpya^	56,2
+ayasya	NF	ayasya^	NF
+avarArDya	avarArDyaX	avarArDya^	102,2
+azwakya	azwakya+	azwakya^	117,1
+asmadryaYc	asmadryaXYc	asmadrya^Yc	123,2
+ahiGnI	NF	ahiGnI^	NF   mw has only ahiGna, pw has also ahiGna
+AkASya	AkASya+	AkASya^	127,1
+AlamBya	AlamBya+	AlamBya^	153,2
+uttamaraTya	NF	uttamaraTya^	NF
+udApyam	udApyAmX	udApya^m	185,2  mw typo udApya^m
+upalamBya	upalamBya+	upalamBya^	206,1
+ulmukya	ulmukyA	ulmukya^	219,1   MW print error. no accent.
+Ekzavya	NF	Ekzavya^	NF  MW entry missing. ref. 40350, 40350.1 Ekzava
+kawakya	kawakya+	kawakya^	243,3
+kambalya	kambalya+	kambalya^	253,1
+karRecurucurA	karRecurucurA+	ka^rRecurucurA	257,2
+kArdama	kArdama+	kArdama^	275,3
+kAsmarya	NF	kAsmarya^	NF pwg fehlerhafte fur kazmarya^ mw kASmarya (no accent)
+caravya	caravya+	caravya^	390,1,390,2
+cikIrzya	cikIrzya+	cikIrzya^	395,1
+jagatya	jagatya+	jagatya^	408,1
+jihIrzya	jihIrzya+	jihIrzya^	421,3
+jEtrAyaRi	jEtrAyaRi+	jE^trAyaRi	425,1
+jEvantAyani	jEvantAyani+	jE^vantAyani	425,1
+talIqya	NF	talIqya^	NF  mw talIdya^  mw talIdya^
+tAlavya	tAlavya+	tAlavya^	445,2
+tilya	tilya+	tilya^	448,2
+tryara	tryara+	trya^ra	463,1
+tryaSIti	tryaSIti+	trya^SIti	463,1
+dakziRArDya	dakziRArDyaX	dakziRArDya^	465,3
+dASvaDvara	dASvaXDvara	dASva^Dvara	476,3
+droRyaSva	droRyaXSva	droRya^Sva	503,1
+dvyakzara	dvyaXkzara	dvya^kzara	507,3
+DAnAntarvant	NF	DAnA^ntarvant	NF  MW DAnAntarvant+ (no accent)
+DenuzyA	DenuzyA+	DenuzyA^	520,2
+nirupapada	nirupapada+	nirupa^pada	540,3
+nyakna	nyaXkna	nya^kna	571,3
+nyokas	nyokas+	nyo^kas	573,1
+nyojas	nyojas+	nyo^jas	573,2
+pawavya	NF	pawavya^	NF
+paRya	paRya+	paRya^	580,2
+paricAyya	paricAyyaX	paricAyya^	593,3
+pastyAvant	NF	pastyA^vant	NF  MW pastyA/vat -> pastyA^vat
+pAkya	pAkya	pAkya^	614,1
+puronuvAkyavant	NF	puro'nuvAkya^vant	NF MW puronuvAkyAvat error
+puzarya	NF	puzarya^	NF
+pUrvArDya	pUrvArDya+	pUrvArDya^	644,3
+pfTukya	pfTukya+	pfTukya^	647,1
+pravargyavant	NF	pravargya^vant	NF  mw pravargyavat error
+prAsaNgya	prAsaNgya+	prAsaNgya^	702,3
+bahvakzara	bahvakzara+	bahva^kzara	726,2
+bahvaDyana	NF	bahva^Dyana	NF  possibly = mw bahvaDyayana
+bahvaDyAya	bahvaDyAya+	bahva^DyAya	726,2
+brahmavarcasya	brahmavarcasya+	brahmavarcasya^	739,3
+Bojya	Bojya+	Bojya^	760,1,768,2
+BojyozRa	BojyozRa+	Bojyo^zRa	768,2
+maNgalya	maNgalya+	maNgalya^	773,1,773,2
+kaRwakArikA	kaRwakArikA+	kaRwakArikA^	245,2
+yavakya	yavakya+	yavakya^	847,3
+yAjyavant	NF	yAjya^vant	NF yAjyaXvat
+yAdrADya	NF	yAdrADya^	NF  mw yAdrADyaXm
+yogISvara	yogISvara+	yogISvara^	857,3
+rahasya	rahasya+	rahasya^	871,2
+rAjanyavant	NF	rAjanya^vant	NF mw rAjanyaXvat requires change
+rAjamAzya	rAjamAzya+	rAjamAzya^	873,3
+lalAwya	lalAwya+	lalAwya^	898,2
+vayasya	vayasya	vayasya^	920,3  but vayasyA in mw requires change
+vAstozpatya	vAstozpatya+	vAstozpatya^	949,1
+vIqvaNga	vIqvaNga	vIqva^Nga	1005,1
+vIryavant	NF	vIrya^vant	NF mw vIryavat requires change
+vIryAvant	NF	vIryA^vant	NF  mw vIryAvat requires change
+vyazwakA	vyazwakA+	vya^zwakA	1028,3,1034,3
+vyAsAcala	vyAsAcala+	vyAsAcala^	1035,2
+vyoman	vyomanX	vyo^man	1029,1,1041,2
+vyoza	vyoXza	vyo^za	1040,3,1041,3
+Saravya	Saravya	Saravya^	1056,3,1057,3 but SaravyA requires change
+SIrzacCedya	SIrzacCedya+	SIrzacCedya^	1078,3
+Svanvant	NF	Sva^nvant	NF MW SvanvatI requires change Sva^nvatI
+SvaSurya	SvaSurya+	SvaSurya^	1105,3
+zARmAsya	zARmAsya+	zARmAsya^	1111,1
+saktavya	saktavya+	saktavya^	1132,3
+saMgrAhya	NF	saMgrAhya^	NF prob. mw saMgrAhagrAhya may require change
+samAhArya	samAhAryaX	samAhArya^	1163,3
+saMBArya	NF	saMBArya^	NF mw samBArya require change samBArya^
+syandyA	syandyA+	syandyA^	1273,2
+svaraMkfta	svaraMkfta+	sva^raMkfta	1282,1
+svarvant	NF	sva^rvant	NF mw svarvat require change
+svASita	svASita+	svA^Sita	1284,2
+svizwi	svizwiX	svi^zwi	1285,1
+haritya	NF	haritya^	NF
+nIvyA	NF	nIvyA^	NF

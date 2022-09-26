@@ -1,0 +1,124 @@
+114 matches for "<k2>.*\^" in buffer: temp_mw_0.txt
+These are compared to print, and differences noted.
+VN means revision from Additions/Corrections
+'+' means agreement with MW scan;
+'-' means disagreement with MW scan, possibly implied.
++  1977:<L>550.2<pc>1308,2<k1>akzitavya<k2>akzitavya^<e>2
++  1980:<L>550.3<pc>1308,2<k1>akzitavya<k2>akzitavya^<e>2A
++ 17533:<L>4770.1<pc>1310,3<k1>aDvartavya<k2>a-Dvartavya^<e>2
++ 28313:<L>7758<pc>42,1<k1>anUbanDya<k2>anU-banDya^<e>1  VN
++ 70050:<L>19436<pc>112,3<k1>aSitavya<k2>aSitavya^<e>2
++ 75864:<L>21088<pc>121,2<k1>asurya<k2>asurya^<h>1<e>2
++ 75867:<L>21088.1<pc>121,2<k1>asurya<k2>asurya^<e>2A
++ 75870:<L>21088.2<pc>121,2<k1>asurya<k2>asurya^<e>2B
++ 75873:<L>21089<pc>121,2<k1>asurya<k2>asurya^<h>2<e>2
++ 75876:<L>21089.1<pc>121,2<k1>asurya<k2>asurya^<e>2A  see Gmn comment
++ 83834:<L>23390.1<pc>134,3<k1>AtArya<k2>A-tArya^<e>1
++ 88581:<L>24802<pc>142,2<k1>Aptavya<k2>Aptavya^<e>2  VN
++ 95162:<L>26712<pc>153,2<k1>AlaBya<k2>A-laBya^<h>1<e>2 VN
++132436:<L>37448<pc>218,2<k1>ulapya<k2>ulapya^<e>2  Also /. info and?
++132439:<L>37448.1<pc>218,2<k1>ulapya<k2>ulapya^<e>2B empty before ¦?
++132682:<L>37524<pc>219,1<k1>ulmukamaTya<k2>ulmuka—maTya^<e>3 VN
++136109:<L>38510<pc>224,1<k1>ftavya<k2>ftavya^<e>2
++136112:<L>38511<pc>224,1<k1>ftavyA<k2>ftavyA^<e>2B
+?136115:<L>38512<pc>224,1<k1>ftavyavat<k2>ftavya^—vat<e>3  inherited?
++142115:<L>40249<pc>233,1<k1>ezya<k2>ezya^<h>1<e>2 VN
++142145:<L>40258<pc>233,1<k1>ezEzya<k2>ezEzya^<e>3
++142148:<L>40258.1<pc>1323,2<k1>ezEzya<k2>ezEzya^<e>3A
++234225:<L>68750<pc>372,3<k1>grahItavya<k2>grahItavya^<e>2
++234228:<L>68751<pc>372,3<k1>grahItavya<k2>grahItavya^<e>2A
++234231:<L>68752<pc>372,3<k1>grahItavya<k2>grahItavya^<e>2A
++234234:<L>68753<pc>372,3<k1>grahItavya<k2>grahItavya^<e>2A
++234237:<L>68754<pc>372,3<k1>grahItavya<k2>grahItavya^<e>2B
++239059:<L>70267<pc>380,1<k1>GrAtavya<k2>GrAtavya^<e>2
++249244:<L>73358<pc>394,3<k1>cetavya<k2>cetavya^<h>a<e>2
++249247:<L>73359<pc>394,3<k1>cetavya<k2>cetavya^<e>2A
++254363:<L>74909<pc>401,3<k1>cetavya<k2>cetavya^<h>b<e>1
++260879:<L>76959<pc>411,1<k1>janitavya<k2>janitavya^<e>2
++323115:<L>95894<pc>494,1<k1>devamanuzya<k2>deva/—manuzya^<e>3  also zya/. what about deva/  in compounds?
++338593:<L>100604<pc>513,2<k1>Davitavya<k2>Davitavya^<e>2
++371576:<L>110266<pc>559,2<k1>nivAnyavatsA<k2>ni-vAnya^-vatsA<e>4
+-BUT L=110264 needs correction nivAnya
++418252:<L>124040<pc>626,2<k1>pitfdevatya<k2>pitf—devatya^<e>3
++418255:<L>124041<pc>626,2<k1>pitfdevatya<k2>pitf—devatya^<e>3B
++441000:<L>130925<pc>658,3<k1>prajijanayizitavya<k2>pra-jijanayizitavya^<e>3
++460916:<L>136822<pc>691,1<k1>pravastavya<k2>pra-vastavya^<e>3
++469730:<L>139457<pc>705,1<k1>prAcya<k2>prAcya^<h>b<e>2  either a^ or a/
+- BUT 139458 ff. show only a/.  Change to a^
++472788:<L>140343<pc>709,2<k1>prASitavya<k2>prASitavya^<e>3
+- AND 140340 prASavya -> vya^
++500661:<L>148800<pc>748,1<k1>Bartavya<k2>Bartavya^<h>a<e>2
++500664:<L>148801<pc>748,1<k1>Bartavya<k2>Bartavya^<e>2A
++500667:<L>148802<pc>748,1<k1>Bartavya<k2>Bartavya^<e>2A
++501902:<L>149192<pc>749,3<k1>Bavitavya<k2>Bavitavya^<e>2
++501905:<L>149193<pc>749,3<k1>Bavitavya<k2>Bavitavya^<e>2B
++501908:<L>149194<pc>749,3<k1>Bavitavya<k2>Bavitavya^<e>2B
+-501911:<L>149195<pc>749,3<k1>BavitavyatA<k2>Bavitavya^—tA<e>3 no accent cf pwg
++506721:<L>150696<pc>756,3<k1>Bikzitavya<k2>Bikzitavya^<e>2
++528018:<L>157219<pc>785,3<k1>mantavya<k2>mantavya^<h>a<e>2
++528021:<L>157220<pc>785,3<k1>mantavya<k2>mantavya^<e>2A
++528024:<L>157221<pc>785,3<k1>mantavya<k2>mantavya^<e>2A
++528027:<L>157222<pc>785,3<k1>mantavya<k2>mantavya^<e>2A
++528030:<L>157223<pc>785,3<k1>mantavya<k2>mantavya^<e>2A
++528033:<L>157224<pc>785,3<k1>mantavya<k2>mantavya^<e>2B
++529072:<L>157538<pc>787,1<k1>mantavya<k2>mantavya^<h>b<e>1
++529279:<L>157600<pc>787,2<k1>manTitavya<k2>manTitavya^<e>2
+- but L=157599 manTyagra<k2>manTy-a/gra  -> manTy-a^gra 
++568293:<L>169555<pc>841,1<k1>yatavya<k2>yatavya^<e>2
++571158:<L>170290<pc>845,3<k1>yantavya<k2>yantavya^<e>2
++573699:<L>171043<pc>849,2<k1>yAtavya<k2>yAtavya^<h>2<e>2
++576785:<L>171986<pc>854,3<k1>yoktavya<k2>yoktavya^<h>a<e>2
++576788:<L>171987<pc>854,3<k1>yoktavya<k2>yoktavya^<e>2A
++576791:<L>171988<pc>854,3<k1>yoktavya<k2>yoktavya^<e>2A
++576794:<L>171989<pc>854,3<k1>yoktavya<k2>yoktavya^<e>2A
++576797:<L>171990<pc>854,3<k1>yoktavya<k2>yoktavya^<e>2A
++576800:<L>171991<pc>854,3<k1>yoktavya<k2>yoktavya^<e>2A
++580577:<L>173154<pc>860,2<k1>rakzodevatya<k2>rakzo—devatya^<e>3
++592495:<L>176844<pc>875,1<k1>rAjanya<k2>rAjanya^<e>2
+- BUT L=176845-176848  ya/ -> ya^, and 176849 yA/ -> yA
++617582:<L>184617<pc>912,2<k1>vaktavya<k2>vaktavya^<h>b<e>2
++617585:<L>184618<pc>912,2<k1>vaktavya<k2>vaktavya^<e>2A
++617588:<L>184619<pc>912,2<k1>vaktavya<k2>vaktavya^<e>2A
++617591:<L>184620<pc>912,2<k1>vaktavya<k2>vaktavya^<e>2A
++617594:<L>184621<pc>912,2<k1>vaktavya<k2>vaktavya^<e>2A
++617597:<L>184622<pc>912,2<k1>vaktavya<k2>vaktavya^<e>2B
++617600:<L>184623<pc>912,2<k1>vaktavya<k2>vaktavya^<e>2B
++617603:<L>184624<pc>912,2<k1>vaktavya<k2>vaktavya^<e>2B
+-617606:<L>184625<pc>912,2<k1>vaktavyatA<k2>vaktavya^—tA<e>3 no accent. cf pwg
+-617609:<L>184626<pc>912,2<k1>vaktavyatva<k2>vaktavya^—tva<e>3 no accent. cf pwg
+-617612:<L>184627<pc>912,2<k1>vaktavyahfdaya<k2>vaktavya^—hfdaya<e>3 by analogy
++628538:<L>188041<pc>927,2<k1>varzya<k2>varzya^<e>2 (a^ or a)
++628541:<L>188042<pc>927,2<k1>varzya<k2>varzya^<e>2A
++628544:<L>188043<pc>927,2<k1>varzya<k2>varzya^<e>2A
++636036:<L>190328<pc>938,1<k1>vAjaprasavya<k2>vA/ja—prasavya^<e>3
++643172:<L>192594<pc>948,3<k1>vAstavya<k2>vAstavya^<e>2
++643175:<L>192595<pc>948,3<k1>vAstavya<k2>vAstavya^<e>2A
++688418:<L>206062<pc>1017,2<k1>veditavya<k2>veditavya^<e>2
++688421:<L>206063<pc>1017,2<k1>veditavya<k2>veditavya^<e>2A
++702288:<L>210338<pc>1041,2<k1>vyfdDa<k2>vy-f^dDa<e>2
++702291:<L>210339<pc>1041,2<k1>vyfdDa<k2>vy-f^dDa<e>2A
+-702294:<L>210340<pc>1041,2<k1>vyfdDaBAj<k2>vy-f^dDa—BAj<e>3 drop f^ in cpd.
++702297:<L>210341<pc>1041,2<k1>vyfdDi<k2>vy-f^dDi<e>2
++702300:<L>210342<pc>1041,2<k1>vyfdDi<k2>vy-f^dDi<e>2A
++752628:<L>226050<pc>1114,2<k1>saMvaditavya<k2>saM-vaditavya^<e>3
++752631:<L>226051<pc>1114,2<k1>saMvaditavya<k2>saM-vaditavya^<e>3A
++831686:<L>249811<pc>1236,2<k1>suvargya<k2>suvargya^<e>2
++855138:<L>257098<pc>1271,3<k1>smetavya<k2>smetavya^<e>2
++856945:<L>257653<pc>1274,2<k1>srAvayitavya<k2>srAvayitavya^<e>2
++861722:<L>259116<pc>1281,2<k1>svarjyotis<k2>sva^r—jyotis<e>3
++861725:<L>259116.1<pc>1281,2<k1>svarjyotis<k2>sva^r—jyotis<e>3B
++861728:<L>259116.2<pc>1281,2<k1>svarjyotirniDana<k2>sva^r—jyotir-niDana<e>4 sva^r implied
++861731:<L>259116.3<pc>1281,2<k1>svarjyotirniDana<k2>sva^r—jyotir-niDana<e>4B sva^r implied
++861740:<L>259119<pc>1281,2<k1>svarRara<k2>sva^r—Rara<e>3
++861743:<L>259119.1<pc>1281,2<k1>svarRara<k2>sva^r—Rara<e>3A
++861746:<L>259119.2<pc>1281,2<k1>svarRara<k2>sva^r—Rara<e>3B
++861797:<L>259136<pc>1281,2<k1>svarpati<k2>sva^r—pati<e>3
++861800:<L>259136.1<pc>1281,2<k1>svarpati<k2>sva^r—pati<e>3A
++861815:<L>259141<pc>1281,2<k1>svarBAnu<k2>sva^r—BAnu<e>3
++861818:<L>259141.1<pc>1281,2<k1>svarBAnu<k2>sva^r—BAnu<e>3A
++861821:<L>259141.2<pc>1281,2<k1>svarBAnu<k2>sva^r—BAnu<e>3A
++861824:<L>259141.3<pc>1281,2<k1>svarBAnusUdana<k2>sva^r—BAnu—sUdana<e>4 implied
++873480:<L>262764<pc>1297,3<k1>hiMsitavya<k2>hiMsitavya^<e>2
++875962:<L>263496<pc>1301,1<k1>hotavya<k2>hotavya^<e>2
++875965:<L>263497<pc>1301,1<k1>hotavya<k2>hotavya^<e>2A
++875968:<L>263498<pc>1301,1<k1>hotavya<k2>hotavya^<e>2B

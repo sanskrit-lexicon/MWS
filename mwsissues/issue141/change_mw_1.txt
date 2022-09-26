@@ -1,0 +1,162 @@
+; changes to mw for records whose metaline previously contained a svarita accent
+; also confer svarita_mw_0.txt and readme.txt
+; <L>110264<pc>559,2<k1>nivAnyA<k2>ni-vAnyA<e>3
+371570 old <L>110264<pc>559,2<k1>nivAnyA<k2>ni-vAnyA<e>3
+;
+371570 new <L>110264<pc>559,2<k1>nivAnyA<k2>ni-vAnyA^<e>3
+;---------------------------------------------------
+; <L>110264<pc>559,2<k1>nivAnyA<k2>ni-vAnyA<e>3
+371571 old <s>ni-°vAnyA</s> or <s>ni-°vAnya^-vatsA</s>, ¦ <lex>f.</lex> a cow that suckles an adopted calf, <ls>ŚBr.</ls> (= <s>aBi-v°</s>)<info or="110264,nivAnyA;110266,nivAnyavatsA"/><info lex="f"/>
+;
+371571 new <s>ni-°vAnyA^</s> or <s>ni-°vAnya^-vatsA</s>, ¦ <lex>f.</lex> a cow that suckles an adopted calf, <ls>ŚBr.</ls> (= <s>aBi-v°</s>)<info or="110264,nivAnyA;110266,nivAnyavatsA"/><info lex="f"/>
+;---------------------------------------------------
+; <L>110266<pc>559,2<k1>nivAnyavatsA<k2>ni-vAnya^-vatsA<e>4
+371576 old <L>110266<pc>559,2<k1>nivAnyavatsA<k2>ni-vAnya^-vatsA<e>4
+;
+371576 new <L>110266<pc>559,2<k1>nivAnyavatsA<k2>ni-vAnya^-vatsA<e>3
+;---------------------------------------------------
+; <L>110266<pc>559,2<k1>nivAnyavatsA<k2>ni-vAnya^-vatsA<e>4
+371577 old <s>ni-°vAnyA</s> or <s>ni-°vAnya^-vatsA</s>, ¦ <lex>f.</lex> a cow that suckles an adopted calf, <ls>ŚBr.</ls> (= <s>aBi-v°</s>)<info or="110264,nivAnyA;110266,nivAnyavatsA"/><info lex="f"/>
+;
+371577 new <s>ni-°vAnyA^</s> or <s>ni-°vAnya^-vatsA</s>, ¦ <lex>f.</lex> a cow that suckles an adopted calf, <ls>ŚBr.</ls> (= <s>aBi-v°</s>)<info or="110264,nivAnyA;110266,nivAnyavatsA"/><info lex="f"/>
+;---------------------------------------------------
+; <L>139458<pc>705,1<k1>prAcya<k2>prAcya/<e>2A
+469733 old <L>139458<pc>705,1<k1>prAcya<k2>prAcya/<e>2A
+;
+469733 new <L>139458<pc>705,1<k1>prAcya<k2>prAcya^<e>2A
+;---------------------------------------------------
+; <L>139459<pc>705,1<k1>prAcya<k2>prAcya/<e>2A
+469736 old <L>139459<pc>705,1<k1>prAcya<k2>prAcya/<e>2A
+;
+469736 new <L>139459<pc>705,1<k1>prAcya<k2>prAcya^<e>2A
+;---------------------------------------------------
+; <L>139460<pc>705,1<k1>prAcya<k2>prAcya/<e>2B
+469739 old <L>139460<pc>705,1<k1>prAcya<k2>prAcya/<e>2B
+;
+469739 new <L>139460<pc>705,1<k1>prAcya<k2>prAcya^<e>2B
+;---------------------------------------------------
+; <L>139461<pc>705,1<k1>prAcya<k2>prAcya/<e>2B
+469742 old <L>139461<pc>705,1<k1>prAcya<k2>prAcya/<e>2B
+;
+469742 new <L>139461<pc>705,1<k1>prAcya<k2>prAcya^<e>2B
+;---------------------------------------------------
+; <L>139462<pc>705,1<k1>prAcya<k2>prAcya/<e>2B
+469745 old <L>139462<pc>705,1<k1>prAcya<k2>prAcya/<e>2B
+;
+469745 new <L>139462<pc>705,1<k1>prAcya<k2>prAcya^<e>2B
+;---------------------------------------------------
+; <L>139463<pc>705,1<k1>prAcyA<k2>prAcyA/<e>2B
+469748 old <L>139463<pc>705,1<k1>prAcyA<k2>prAcyA/<e>2B
+;
+469748 new <L>139463<pc>705,1<k1>prAcyA<k2>prAcyA<e>2B
+;---------------------------------------------------
+; <L>139463<pc>705,1<k1>prAcyA<k2>prAcyA/<e>2B
+469749 old <s>prAcyA/</s> ¦ <lex>f.</lex> (with or <ab>scil.</ab> <s>BAzA</s>) the dialect spoken in the east of India, <ls>Sāh.</ls><info lex="f"/>
+;
+469749 new <s>prAcyA</s> ¦ <lex>f.</lex> (with or <ab>scil.</ab> <s>BAzA</s>) the dialect spoken in the east of India, <ls>Sāh.</ls><info lex="f"/>
+;---------------------------------------------------
+; <L>140340<pc>709,2<k1>prASavya<k2>prASavya/<e>3
+472779 old <L>140340<pc>709,2<k1>prASavya<k2>prASavya/<e>3
+;
+472779 new <L>140340<pc>709,2<k1>prASavya<k2>prASavya^<e>3
+;---------------------------------------------------
+; <L>140340<pc>709,2<k1>prASavya<k2>prASavya/<e>3
+472780 old <s>prA<srs/>Savya/</s> ¦ <lex>n.</lex> (<ab>fr.</ab> <s>prA<srs/>S</s> or <s>prA<srs/>Sa</s>) food, provisions, <ls>RV.</ls><info lex="n"/>
+;
+472780 new <s>prA<srs/>Savya^</s> ¦ <lex>n.</lex> (<ab>fr.</ab> <s>prA<srs/>S</s> or <s>prA<srs/>Sa</s>) food, provisions, <ls>RV.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>149195<pc>749,3<k1>BavitavyatA<k2>Bavitavya^—tA<e>3
+501911 old <L>149195<pc>749,3<k1>BavitavyatA<k2>Bavitavya^—tA<e>3
+;
+501911 new <L>149195<pc>749,3<k1>BavitavyatA<k2>Bavitavya—tA<e>3
+;---------------------------------------------------
+; <L>149195<pc>749,3<k1>BavitavyatA<k2>Bavitavya^—tA<e>3
+501912 old <s>Bavitavya^—tA</s> ¦ <lex>f.</lex> the being about to be, inevitable consequence, necessity, fate, destiny, <ls>Kāv.</ls>; <ls>Kathās.</ls><info lex="f"/>
+;
+501912 new <s>Bavitavya—tA</s> ¦ <lex>f.</lex> the being about to be, inevitable consequence, necessity, fate, destiny, <ls>Kāv.</ls>; <ls>Kathās.</ls><info lex="f"/>
+;---------------------------------------------------
+; <L>157599<pc>787,2<k1>manTyagra<k2>manTy-a/gra<e>3
+529276 old <L>157599<pc>787,2<k1>manTyagra<k2>manTy-a/gra<e>3
+;
+529276 new <L>157599<pc>787,2<k1>manTyagra<k2>manTy-a^gra<e>3
+;---------------------------------------------------
+; <L>157599<pc>787,2<k1>manTyagra<k2>manTy-a/gra<e>3
+529277 old <s>manTy-a/gra</s> ¦ <lex>mfn.</lex> beginning with mixed <ab n="Soma" slp1="soma">S°</ab>, <ls>TS.</ls><info lex="m:f:n"/>
+;
+529277 new <s>manTy-a^gra</s> ¦ <lex>mfn.</lex> beginning with mixed <ab n="Soma" slp1="soma">S°</ab>, <ls>TS.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>176845<pc>875,1<k1>rAjanya<k2>rAjanya/<e>2B
+592498 old <L>176845<pc>875,1<k1>rAjanya<k2>rAjanya/<e>2B
+;
+592498 new <L>176845<pc>875,1<k1>rAjanya<k2>rAjanya^<e>2B
+;---------------------------------------------------
+; <L>176845<pc>875,1<k1>rAjanya<k2>rAjanya/<e>2B
+592499 old <s>rAjanya/</s> ¦ <lex>m.</lex> a royal personage, man of the regal or military tribe (ancient <ab>N.</ab> of the second or <s1 slp1="kzatriya">Kṣatriya</s1> caste), <ls>ib.</ls> (<ab>cf.</ab> <ls>IW. 228</ls>)<info lex="m"/>
+;
+592499 new <s>rAjanya^</s> ¦ <lex>m.</lex> a royal personage, man of the regal or military tribe (ancient <ab>N.</ab> of the second or <s1 slp1="kzatriya">Kṣatriya</s1> caste), <ls>ib.</ls> (<ab>cf.</ab> <ls>IW. 228</ls>)<info lex="m"/>
+;---------------------------------------------------
+; <L>176846<pc>875,1<k1>rAjanya<k2>rAjanya/<e>2B
+592501 old <L>176846<pc>875,1<k1>rAjanya<k2>rAjanya/<e>2B
+;
+592501 new <L>176846<pc>875,1<k1>rAjanya<k2>rAjanya^<e>2B
+;---------------------------------------------------
+; <L>176847<pc>875,1<k1>rAjanya<k2>rAjanya/<e>2B
+592504 old <L>176847<pc>875,1<k1>rAjanya<k2>rAjanya/<e>2B
+;
+592504 new <L>176847<pc>875,1<k1>rAjanya<k2>rAjanya^<e>2B
+;---------------------------------------------------
+; <L>176848<pc>875,1<k1>rAjanya<k2>rAjanya/<e>2B
+592507 old <L>176848<pc>875,1<k1>rAjanya<k2>rAjanya/<e>2B
+;
+592507 new <L>176848<pc>875,1<k1>rAjanya<k2>rAjanya^<e>2B
+;---------------------------------------------------
+; <L>176849<pc>875,1<k1>rAjanyA<k2>rAjanyA/<e>2B
+592510 old <L>176849<pc>875,1<k1>rAjanyA<k2>rAjanyA/<e>2B
+;
+592510 new <L>176849<pc>875,1<k1>rAjanyA<k2>rAjanyA<e>2B
+;---------------------------------------------------
+; <L>176849<pc>875,1<k1>rAjanyA<k2>rAjanyA/<e>2B
+592511 old <s>rAjanyA/</s> ¦ <lex>f.</lex> a lady of royal rank, <ls>MBh.</ls>; <ls>Hariv.</ls><info lex="f"/>
+;
+592511 new <s>rAjanyA</s> ¦ <lex>f.</lex> a lady of royal rank, <ls>MBh.</ls>; <ls>Hariv.</ls><info lex="f"/>
+;---------------------------------------------------
+; <L>184625<pc>912,2<k1>vaktavyatA<k2>vaktavya^—tA<e>3
+617606 old <L>184625<pc>912,2<k1>vaktavyatA<k2>vaktavya^—tA<e>3
+;
+617606 new <L>184625<pc>912,2<k1>vaktavyatA<k2>vaktavya—tA<e>3
+;---------------------------------------------------
+; <L>184625<pc>912,2<k1>vaktavyatA<k2>vaktavya^—tA<e>3
+617607 old <s>vaktavya^—tA</s> ¦ <lex>f.</lex><info lex="f"/>
+;
+617607 new <s>vaktavya—tA</s> ¦ <lex>f.</lex><info lex="f"/>
+;---------------------------------------------------
+; <L>184626<pc>912,2<k1>vaktavyatva<k2>vaktavya^—tva<e>3
+617609 old <L>184626<pc>912,2<k1>vaktavyatva<k2>vaktavya^—tva<e>3
+;
+617609 new <L>184626<pc>912,2<k1>vaktavyatva<k2>vaktavya—tva<e>3
+;---------------------------------------------------
+; <L>184626<pc>912,2<k1>vaktavyatva<k2>vaktavya^—tva<e>3
+617610 old <s>vaktavya^—tva</s> ¦ <lex>n.</lex> the state of being fit or proper to be said or spoken or spoken to or about or against, reproachableness, blamableness, the having a bad name, accountableness or subjection to, dependence, <ls>Mn.</ls>; <ls>MBh.</ls> &c.<info lex="n"/>
+;
+617610 new <s>vaktavya—tva</s> ¦ <lex>n.</lex> the state of being fit or proper to be said or spoken or spoken to or about or against, reproachableness, blamableness, the having a bad name, accountableness or subjection to, dependence, <ls>Mn.</ls>; <ls>MBh.</ls> &c.<info lex="n"/>
+;---------------------------------------------------
+; <L>184627<pc>912,2<k1>vaktavyahfdaya<k2>vaktavya^—hfdaya<e>3
+617612 old <L>184627<pc>912,2<k1>vaktavyahfdaya<k2>vaktavya^—hfdaya<e>3
+;
+617612 new <L>184627<pc>912,2<k1>vaktavyahfdaya<k2>vaktavya—hfdaya<e>3
+;---------------------------------------------------
+; <L>184627<pc>912,2<k1>vaktavyahfdaya<k2>vaktavya^—hfdaya<e>3
+617613 old <s>vaktavya^—hfdaya</s> ¦ <lex>mfn.</lex> (<ab>ifc.</ab>) one whose heart is accountable to or dependent on <ls>R.</ls><info lex="m:f:n"/>
+;
+617613 new <s>vaktavya—hfdaya</s> ¦ <lex>mfn.</lex> (<ab>ifc.</ab>) one whose heart is accountable to or dependent on <ls>R.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>210340<pc>1041,2<k1>vyfdDaBAj<k2>vy-f^dDa—BAj<e>3
+702294 old <L>210340<pc>1041,2<k1>vyfdDaBAj<k2>vy-f^dDa—BAj<e>3
+;
+702294 new <L>210340<pc>1041,2<k1>vyfdDaBAj<k2>vy-fdDa—BAj<e>3
+;---------------------------------------------------
+; <L>210340<pc>1041,2<k1>vyfdDaBAj<k2>vy-f^dDa—BAj<e>3
+702295 old <s>vy-f^dDa—BAj</s> ¦ <lex>mfn.</lex> receiving a defective oblation as a share, <ls>ib.</ls><info lex="m:f:n"/>
+;
+702295 new <s>vy-fdDa—BAj</s> ¦ <lex>mfn.</lex> receiving a defective oblation as a share, <ls>ib.</ls><info lex="m:f:n"/>
+;---------------------------------------------------

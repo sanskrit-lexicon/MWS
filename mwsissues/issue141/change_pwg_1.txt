@@ -1,0 +1,8 @@
+;
+9920 old <L>1140<pc>1-0084<k1>aRvya<k2>aRvya^
+9920 new <L>1140<pc>1-0084<k1>aRavya<k2>aRavya^
+;
+9921 old {#aRvya^#}¦ (von {#a/Ru#}) <lex>n.</lex> {%ein mit Panicum miliaceum bewachsenes Feld%} 
+;
+9921 new {#aRavya^#}¦ (von {#a/Ru#}) <lex>n.</lex> {%ein mit Panicum miliaceum bewachsenes Feld%} 
+;

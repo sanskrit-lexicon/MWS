@@ -1,0 +1,471 @@
+470 matches for "<k2>.*\^" in buffer: temp_pwg_1.txt
+   1946:<L>223<pc>1-0019<k1>akzarya<k2>akzarya^
+   8941:<L>1041<pc>1-0076<k1>ajrya<k2>ajrya^
+   9920:<L>1140<pc>1-0084<k1>aRavya<k2>aRavya^
+  10965:<L>1251<pc>1-0093<k1>atiGnya<k2>atiGnya^
+  11127:<L>1274<pc>1-0094<k1>atitArya<k2>atitArya^
+  14023:<L>1651<pc>1-0120<k1>aTarvI<k2>aTa^rvI
+  15321:<L>1799<pc>1-0133<k1>adyUtya<k2>adyUtya^
+  15842:<L>1870<pc>1-0138<k1>aDamArDya<k2>aDamArDya^
+  15941:<L>1879<pc>1-0139<k1>aDarAcya<k2>aDarAcya^
+  17790:<L>2083<pc>1-0156<k1>aDorAma<k2>aDo^rAma
+  17986:<L>2106<pc>1-0158<k1>aDyarDapaRya<k2>aDyarDapaRya^
+  17991:<L>2107<pc>1-0158<k1>aDyarDapAdya<k2>aDyarDapAdya^
+  18002:<L>2109<pc>1-0158<k1>aDyarDamAzya<k2>aDyarDamAzya^
+  18025:<L>2113<pc>1-0158<k1>aDyarDaSatya<k2>aDyarDaSatya^
+  18035:<L>2115<pc>1-0158<k1>aDyarDaSARya<k2>aDyarDaSARya^
+  18409:<L>2164<pc>1-0161<k1>aDrija<k2>aDri^ja
+  18546:<L>2176<pc>1-0162<k1>aDvanya<k2>aDvanya^
+  19215:<L>2251<pc>1-0169<k1>anativyADya<k2>anativyADya^
+  20390:<L>2404<pc>1-0178<k1>anavaDarzya<k2>anavaDarzya^
+  25130:<L>3006<pc>1-0219<k1>anuvAkyavant<k2>anuvAkya^vant
+  25135:<L>3007<pc>1-0219<k1>anuvAkyA<k2>anuvAkyA^
+  25329:<L>3036<pc>1-0221<k1>anuvyam<k2>anuvya^m
+  26056:<L>3134<pc>1-0228<k1>anUkya<k2>anUkya^
+  26106:<L>3139<pc>1-0228<k1>anUcya<k2>anUcya^<h>2
+  26224:<L>3153<pc>1-0229<k1>anUpya<k2>anUpya^
+  26709:<L>3214<pc>1-0233<k1>anovAhya<k2>anovAhya^
+  28341:<L>3344<pc>1-0250<k1>antarya<k2>antarya^
+  30966:<L>3648<pc>1-0274<k1>anvAhArya<k2>anvAhArya^
+  33775:<L>4017<pc>1-0297<k1>apasya<k2>apasya^<h>1
+  34124:<L>4066<pc>1-0300<k1>apAcya<k2>apAcya^
+  34841:<L>4122<pc>1-0308<k1>apikakzya<k2>apikakzya^
+  34994:<L>4147<pc>1-0309<k1>apIcya<k2>apIcya^
+  35094:<L>4163<pc>1-0310<k1>apuronuvAkyaka<k2>apuro'nuvAkya^ka
+  35178:<L>4175<pc>1-0310<k1>apUpya<k2>apUpya^
+  36694:<L>4390<pc>1-0324<k1>abalya<k2>abalya^
+  40451:<L>4846<pc>1-0355<k1>aBIti<k2>aBI^ti
+  42775:<L>5131<pc>1-0373<k1>amAvAsya<k2>amAvAsya^<h>1
+  43174:<L>5185<pc>1-0377<k1>amuTA<k2>amu^TA
+  45461:<L>5463<pc>1-0395<k1>ayasya<k2>ayasya^
+  46963:<L>5624<pc>1-0408<k1>ararinda<k2>arari^nda
+  48614:<L>5806<pc>1-0422<k1>arkya<k2>arkya^
+  51554:<L>6027<pc>1-0448<k1>arya<k2>arya^<h>3
+  51645:<L>6034<pc>1-0449<k1>aryamya<k2>aryamya^
+  54550:<L>6335<pc>1-0473<k1>avawya<k2>avawya^
+  56047:<L>6512<pc>1-0485<k1>avarArDya<k2>avarArDya^
+  56956:<L>6624<pc>1-0492<k1>avasAnya<k2>avasAnya^
+  57245:<L>6654<pc>1-0495<k1>avasvanya<k2>avasvanya^
+  57614:<L>6705<pc>1-0497<k1>avArya<k2>avArya^<h>1
+  61717:<L>7202<pc>1-0530<k1>azwakya<k2>azwakya^
+  64433:<L>7445<pc>1-0557<k1>asurya<k2>asurya^
+  65379:<L>7562<pc>1-0565<k1>asmadryaYc<k2>asmadrya^Yc
+  66083:<L>7631<pc>1-0572<k1>ahanya<k2>ahanya^
+  66494:<L>7686<pc>1-0575<k1>ahiGnI<k2>ahiGnI^
+  67609:<L>7800<pc>1-0585<k1>AkAyya<k2>AkAyya^
+  67850:<L>7828<pc>1-0588<k1>AkASya<k2>AkASya^
+  69758:<L>8035<pc>1-0604<k1>ANgUzya<k2>ANgUzya^
+  70035:<L>8070<pc>1-0606<k1>AcArya<k2>AcArya^
+  71430:<L>8240<pc>1-0617<k1>Atapya<k2>Atapya^
+  71499:<L>8251<pc>1-0617<k1>AtArya<k2>AtArya^
+  73582:<L>8481<pc>1-0636<k1>Adya<k2>Adya^<h>1
+  79020:<L>9083<pc>1-0680<k1>Ayuzya<k2>Ayuzya^
+  79723:<L>9151<pc>1-0686<k1>ArAttAt<k2>ArA^ttAt
+  81046:<L>9299<pc>1-0697<k1>AryakumAra<k2>Arya^kumAra
+  81111:<L>9310<pc>1-0698<k1>AryabrAhmaRa<k2>Arya^brAhmaRa
+  81546:<L>9366<pc>1-0701<k1>AlamBya<k2>AlamBya^
+  81645:<L>9377<pc>1-0702<k1>AlAwya<k2>AlAwya^
+  83131:<L>9528<pc>1-0714<k1>Avya<k2>Avya^
+  84538:<L>9678<pc>1-0726<k1>ASvapas<k2>ASva^pas
+  84623:<L>9690<pc>1-0727<k1>ASvaSva<k2>ASva^Sva
+  85604:<L>9747<pc>1-0737<k1>Asanya<k2>Asanya^
+  86414:<L>9838<pc>1-0744<k1>Asya<k2>Asya^
+  86662:<L>9869<pc>1-0746<k1>Ahananya<k2>Ahananya^
+  86878:<L>9887<pc>1-0748<k1>AhArya<k2>AhArya^
+  90084:<L>10015<pc>1-0784<k1>iRqva<k2>iRqva^
+  93241:<L>10330<pc>1-0816<k1>iriRya<k2>iriRya^
+  94159:<L>10385<pc>1-0827<k1>izavya<k2>izavya^
+  96696:<L>10540<pc>1-0853<k1>ISAnakft<k2>ISAnakf^t
+  97530:<L>10604<pc>1-0863<k1>ukTya<k2>ukTya^
+  97749:<L>10611<pc>1-0866<k1>ukzaRyAyana<k2>ukzaRyA^yana
+  98281:<L>10656<pc>1-0870<k1>ucaTya<k2>ucaTya^
+ 100402:<L>10873<pc>1-0888<k1>uttamaraTya<k2>uttamaraTya^
+ 101136:<L>10958<pc>1-0894<k1>uttarArDya<k2>uttarArDya^
+ 102736:<L>11134<pc>1-0907<k1>utsya<k2>utsya^
+ 103418:<L>11215<pc>1-0912<k1>udanya<k2>udanya^
+ 103963:<L>11264<pc>1-0916<k1>udarya<k2>udarya^
+ 104194:<L>11296<pc>1-0918<k1>udApyam<k2>udApya^m
+ 104437:<L>11324<pc>1-0920<k1>udIcya<k2>udIcya^
+ 108154:<L>11758<pc>1-0949<k1>upajijYAsya<k2>upajijYAsya^
+ 108630:<L>11814<pc>1-0953<k1>upadeSya<k2>upadeSya^
+ 109167:<L>11875<pc>1-0958<k1>upapakzya<k2>upapakzya^
+ 110631:<L>12039<pc>1-0971<k1>upalamBya<k2>upalamBya^
+ 114657:<L>12518<pc>1-1003<k1>urvarya<k2>urvarya^
+ 114737:<L>12527<pc>1-1004<k1>urvyUti<k2>urvyU^ti
+ 114788:<L>12534<pc>1-1004<k1>ulapya<k2>ulapya^
+ 115112:<L>12562<pc>1-1007<k1>ulmukya<k2>ulmukya^
+ 115658:<L>12621<pc>1-1011<k1>uzasya<k2>uzasya^
+ 116558:<L>12718<pc>1-1019<k1>UDanya<k2>UDanya^
+ 116920:<L>12747<pc>1-1022<k1>Urjavya<k2>Urjavya^
+ 117577:<L>12815<pc>1-1027<k1>UrDvabAhu<k2>UrDva/bA^hu
+ 118089:<L>12877<pc>1-1031<k1>UzmaRya<k2>UzmaRya^
+ 119973:<L>13035<pc>1-1051<k1>ftavya<k2>ftavya^
+ 124636:<L>13521<pc>1-1097<k1>enasya<k2>enasya^
+ 125358:<L>13592<pc>1-1104<k1>ezEzya<k2>ezEzya^
+ 125383:<L>13596<pc>1-1105<k1>ezya<k2>ezya^
+ 125684:<L>13639<pc>1-1109<k1>Ekzavya<k2>Ekzavya^
+ 126644:<L>13760<pc>1-1117<k1>okya<k2>okya^
+ 126868:<L>13775<pc>1-1120<k1>ojasya<k2>ojasya^
+ 127829:<L>13904<pc>1-1129<k1>Ottaravedika<k2>O^ttaravedika
+ 130620:<L>14219<pc>2-0013<k1>kakzya<k2>kakzya^<h>2
+ 131829:<L>14339<pc>2-0022<k1>kawakya<k2>kawakya^
+ 136356:<L>14809<pc>2-0059<k1>kanyA<k2>kanyA^
+ 138762:<L>15047<pc>2-0079<k1>kambalya<k2>kambalya^
+ 142225:<L>15226<pc>2-0115<k1>karIra<k2>karI^ra
+ 143877:<L>15414<pc>2-0128<k1>karRecurucurA<k2>ka^rRecurucurA
+ 144923:<L>15517<pc>2-0136<k1>karmaRya<k2>karmaRya^
+ 156948:<L>16660<pc>2-0241<k1>kArdama<k2>kArdama^
+ 157160:<L>16684<pc>2-0243<k1>kArya<k2>kArya^
+ 157596:<L>16727<pc>2-0247<k1>kArzmarya<k2>kArzmarya^
+ 161293:<L>17125<pc>2-0278<k1>kAsmarya<k2>kAsmarya^
+ 162087:<L>17229<pc>2-0284<k1>kiMdevatya<k2>kiMdevatya^
+ 171307:<L>18186<pc>2-0361<k1>kulyA<k2>kulyA^<h>3
+ 184939:<L>19712<pc>2-0471<k1>kya<k2>kya^
+ 189803:<L>20057<pc>2-0519<k1>kva<k2>kva^
+ 190042:<L>20068<pc>2-0522<k1>kvala<k2>kva^la
+ 220501:<L>22923<pc>2-0784<k1>gfhameDya<k2>gfhameDya^
+ 228864:<L>23725<pc>2-0856<k1>grahItavya<k2>grahItavya^
+ 229870:<L>23829<pc>2-0864<k1>grAhya<k2>grAhya^
+ 242284:<L>24937<pc>2-0969<k1>caravya<k2>caravya^
+ 246738:<L>25327<pc>2-1007<k1>cikIrzya<k2>cikIrzya^
+ 252223:<L>25860<pc>2-1051<k1>cetavya<k2>cetavya^
+ 255266:<L>26105<pc>2-1081<k1>Candasya<k2>Candasya^
+ 257833:<L>26333<pc>3-0004<k1>jagatya<k2>jagatya^
+ 258210:<L>26380<pc>3-0007<k1>jaGanya<k2>jaGanya^<h>2
+ 260632:<L>26555<pc>3-0029<k1>janitavya<k2>janitavya^
+ 260981:<L>26595<pc>3-0032<k1>jantva<k2>jantva^
+ 267216:<L>27255<pc>3-0082<k1>jAtya<k2>jAtya^
+ 268222:<L>27358<pc>3-0091<k1>jArya<k2>jArya^
+ 270017:<L>27501<pc>3-0106<k1>jihIrzya<k2>jihIrzya^
+ 272419:<L>27721<pc>3-0127<k1>juhvAsya<k2>juhvA^sya
+ 272979:<L>27778<pc>3-0132<k1>jEtrAyaRi<k2>jE^trAyaRi
+ 273086:<L>27793<pc>3-0133<k1>jEvantAyani<k2>jE^vantAyani
+ 275625:<L>27977<pc>3-0159<k1>jyEzWya<k2>jyE^zWya
+ 277286:<L>28122<pc>3-0174<k1>Jaza<k2>Jaza^
+ 279604:<L>28375<pc>3-0195<k1>taNgalva<k2>taNgalva^
+ 281377:<L>28525<pc>3-0212<k1>tadAnIm<k2>tadA^nIm
+ 289117:<L>29070<pc>3-0285<k1>talIqya<k2>talIqya^
+ 289378:<L>29099<pc>3-0287<k1>tavasya<k2>tavasya^
+ 292562:<L>29444<pc>3-0312<k1>tArpya<k2>tArpya^
+ 292996:<L>29476<pc>3-0316<k1>tAlavya<k2>tAlavya^
+ 295053:<L>29703<pc>3-0333<k1>tirya<k2>tirya^
+ 295817:<L>29798<pc>3-0340<k1>tilya<k2>tilya^
+ 295874:<L>29807<pc>3-0341<k1>tizya<k2>tizya^
+ 301618:<L>30422<pc>3-0387<k1>tfptAMSu<k2>tfptA^MSu
+ 302182:<L>30481<pc>3-0393<k1>tejasya<k2>tejasya^
+ 309880:<L>31365<pc>3-0458<k1>tryakzara<k2>trya^kzara
+ 309921:<L>31370<pc>3-0458<k1>tryaNgya<k2>tryaNgya^
+ 309974:<L>31380<pc>3-0458<k1>tryambaka<k2>trya^mbaka
+ 310014:<L>31383<pc>3-0459<k1>tryara<k2>trya^ra
+ 310018:<L>31384<pc>3-0459<k1>tryaruRa<k2>trya^ruRa
+ 310026:<L>31385<pc>3-0459<k1>tryaruza<k2>trya^ruza
+ 310047:<L>31389<pc>3-0459<k1>tryaSIti<k2>trya^SIti
+ 310153:<L>31405<pc>3-0460<k1>tryAvft<k2>tryA^vft
+ 310161:<L>31406<pc>3-0460<k1>tryASir<k2>tryA^Sir
+ 310636:<L>31461<pc>3-0464<k1>tvacasya<k2>tvacasya^
+ 311462:<L>31533<pc>3-0472<k1>tvezya<k2>tvezya^
+ 313045:<L>31664<pc>3-0488<k1>dakziRArDya<k2>dakziRArDya^
+ 313202:<L>31682<pc>3-0490<k1>dakziRya<k2>dakziRya^
+ 325388:<L>32745<pc>3-0604<k1>dASvaDvara<k2>dASva^Dvara
+ 325716:<L>32781<pc>3-0607<k1>dAsya<k2>dAsya^
+ 330775:<L>33202<pc>3-0655<k1>dIrGajihvya<k2>dIrGajihvya^
+ 332388:<L>33404<pc>3-0667<k1>dunduBya<k2>dunduBya^
+ 338165:<L>34100<pc>3-0717<k1>dUtya<k2>dUtya^
+ 341399:<L>34472<pc>3-0745<k1>devatya<k2>devatya^
+ 342360:<L>34599<pc>3-0753<k1>devayajya<k2>devayajya^
+ 343987:<L>34823<pc>3-0766<k1>devya<k2>devya^
+ 345769:<L>35022<pc>3-0781<k1>dozaRya<k2>dozaRya^
+ 350076:<L>35474<pc>3-0817<k1>droRyaSva<k2>droRya^Sva
+ 350251:<L>35496<pc>3-0818<k1>drvanna<k2>drva^nna
+ 354100:<L>35968<pc>3-0848<k1>dvyakzara<k2>dvya^kzara
+ 355728:<L>36159<pc>3-0864<k1>Danvanya<k2>Danvanya^
+ 362402:<L>36556<pc>3-0938<k1>DAnAntarvant<k2>DAnA^ntarvant
+ 362471:<L>36568<pc>3-0939<k1>DAnya<k2>DAnya^
+ 362545:<L>36572<pc>3-0939<k1>DAnyatilvila<k2>DAnya^tilvila
+ 365402:<L>36789<pc>3-0968<k1>DIrya<k2>DIrya^<h>2
+ 368034:<L>37021<pc>3-0992<k1>DfzRvojas<k2>DfzRvo^jas
+ 368235:<L>37034<pc>3-0994<k1>DenuzyA<k2>DenuzyA^
+ 370162:<L>37218<pc>3-1010<k1>Dvanya<k2>Dvanya^
+ 374320:<L>37645<pc>4-0037<k1>naBanya<k2>naBanya^
+ 374490:<L>37656<pc>4-0039<k1>naBasya<k2>naBasya^
+ 375591:<L>37711<pc>4-0050<k1>namasya<k2>namasya^
+ 379679:<L>38103<pc>4-0087<k1>nahuzya<k2>nahuzya^
+ 384075:<L>38595<pc>4-0124<k1>nAvya<k2>nAvya^<h>1
+ 385286:<L>38722<pc>4-0134<k1>nikoSya<k2>nikoSya^
+ 385864:<L>38779<pc>4-0139<k1>nigrABya<k2>nigrABya^
+ 387449:<L>38921<pc>4-0153<k1>niDAnya<k2>niDAnya^
+ 391125:<L>39341<pc>4-0186<k1>nirupapada<k2>nirupa^pada
+ 392808:<L>39541<pc>4-0200<k1>nirmaTya<k2>nirmaTya^
+ 395271:<L>39817<pc>4-0221<k1>nivAnyavatsA<k2>nivAnya^vatsA
+ 398243:<L>40136<pc>4-0248<k1>nizwarkya<k2>nizwarkya^
+ 403501:<L>40614<pc>4-0296<k1>nIviBArya<k2>nIviBArya^
+ 406841:<L>40961<pc>4-0326<k1>nErbADya<k2>nErbADya^
+ 407554:<L>41064<pc>4-0331<k1>nyakta<k2>nya^kta
+ 407560:<L>41065<pc>4-0331<k1>nyakna<k2>nya^kna
+ 407728:<L>41084<pc>4-0333<k1>nyaYc<k2>nya^Yc
+ 407816:<L>41093<pc>4-0333<k1>nyarbuda<k2>nya^rbuda
+ 407827:<L>41094<pc>4-0333<k1>nyarbudi<k2>nya^rbudi
+ 408289:<L>41140<pc>4-0338<k1>nyUna<k2>nyU^na
+ 408366:<L>41146<pc>4-0340<k1>nyokas<k2>nyo^kas
+ 408389:<L>41150<pc>4-0340<k1>nyojas<k2>nyo^jas
+ 409454:<L>41254<pc>4-0350<k1>pakzya<k2>pakzya^
+ 410175:<L>41319<pc>4-0357<k1>pacatya<k2>pacatya^
+ 412924:<L>41650<pc>4-0381<k1>pawavya<k2>pawavya^
+ 414139:<L>41769<pc>4-0392<k1>paRya<k2>paRya^<h>3
+ 425461:<L>42594<pc>4-0505<k1>parArDya<k2>parArDya^
+ 427000:<L>42745<pc>4-0520<k1>paricAyya<k2>paricAyya^
+ 429678:<L>43074<pc>4-0543<k1>parivargya<k2>parivargya^
+ 433073:<L>43458<pc>4-0573<k1>parRaSadya<k2>parRaSadya^
+ 434470:<L>43616<pc>4-0585<k1>parvatya<k2>parvatya^
+ 435755:<L>43747<pc>4-0595<k1>palvalya<k2>palvalya^
+ 436705:<L>43805<pc>4-0606<k1>paSavya<k2>paSavya^
+ 437452:<L>43889<pc>4-0613<k1>paScArDya<k2>paScArDya^
+ 437605:<L>43907<pc>4-0614<k1>paSvekAdaSinI<k2>paSve^kAdaSinI
+ 437650:<L>43913<pc>4-0614<k1>pastya<k2>pastya^
+ 437680:<L>43915<pc>4-0615<k1>pastyAvant<k2>pastyA^vant
+ 438143:<L>43929<pc>4-0620<k1>pAMsavya<k2>pAMsavya^
+ 438761:<L>43995<pc>4-0625<k1>pAkya<k2>pAkya^<h>2
+ 439022:<L>44023<pc>4-0627<k1>pAjasya<k2>pAjasya^
+ 440747:<L>44222<pc>4-0640<k1>pARqva<k2>pARqva^
+ 440762:<L>44224<pc>4-0640<k1>pARya<k2>pARya^<h>1
+ 441008:<L>44242<pc>4-0642<k1>pAtalya<k2>pAtalya^
+ 442709:<L>44444<pc>4-0656<k1>pAdya<k2>pAdya^<h>2
+ 448064:<L>45024<pc>4-0699<k1>pAzya<k2>pAzya^
+ 450376:<L>45256<pc>4-0718<k1>pitfdevatya<k2>pitfdevatya^
+ 458735:<L>46077<pc>4-0789<k1>purIzya<k2>purIzya^
+ 459954:<L>46228<pc>4-0799<k1>puruzya<k2>puruzya^
+ 460357:<L>46278<pc>4-0803<k1>puronuvAkyavant<k2>puro'nuvAkya^vant
+ 460363:<L>46279<pc>4-0803<k1>puronuvAkyA<k2>puro'nuvAkyA^
+ 461103:<L>46348<pc>4-0810<k1>puzarya<k2>puzarya^
+ 466300:<L>46904<pc>4-0852<k1>pUrvArDya<k2>pUrvArDya^
+ 467652:<L>47050<pc>4-0863<k1>pfTukya<k2>pfTukya^
+ 468878:<L>47200<pc>4-0873<k1>pfzWya<k2>pfzWya^<h>1
+ 472227:<L>47611<pc>4-0897<k1>praugya<k2>praugya^
+ 474533:<L>47833<pc>4-0918<k1>praGAsya<k2>praGAsya^
+ 477806:<L>48139<pc>4-0947<k1>pratikAmya<k2>pratikAmya^
+ 482294:<L>48692<pc>4-0984<k1>pratisarya<k2>pratisarya^
+ 482945:<L>48766<pc>4-0990<k1>pratIcya<k2>pratIcya^
+ 485845:<L>49098<pc>4-1015<k1>praTamavAsya<k2>praTamavAsya^
+ 486262:<L>49143<pc>4-1019<k1>pradavya<k2>pradavya^
+ 486458:<L>49161<pc>4-1021<k1>pradAvya<k2>pradAvya^
+ 487018:<L>49216<pc>4-1025<k1>praDanya<k2>praDanya^
+ 487541:<L>49268<pc>4-1030<k1>prapaTya<k2>prapaTya^
+ 492434:<L>49776<pc>4-1071<k1>pravargya<k2>pravargya^
+ 492451:<L>49777<pc>4-1071<k1>pravargyavant<k2>pravargya^vant
+ 492694:<L>49801<pc>4-1073<k1>pravastavya<k2>pravastavya^
+ 492921:<L>49824<pc>4-1075<k1>pravAyya<k2>pravAyya^
+ 493145:<L>49841<pc>4-1077<k1>pravAhya<k2>pravAhya^
+ 497295:<L>50278<pc>4-1112<k1>prahAyya<k2>prahAyya^
+ 502714:<L>50943<pc>4-1156<k1>prASavya<k2>prASavya^
+ 502905:<L>50968<pc>4-1158<k1>prAsaNgya<k2>prAsaNgya^
+ 505823:<L>51286<pc>4-1181<k1>prozya<k2>prozya^
+ 509005:<L>51586<pc>4-1208<k1>Palgva<k2>Palgva^
+ 512115:<L>51847<pc>5-0024<k1>barjahya<k2>barjahya^
+ 512650:<L>51887<pc>5-0029<k1>barhizya<k2>barhizya^
+ 515386:<L>52189<pc>5-0051<k1>bahudevatya<k2>bahudevatya^
+ 516618:<L>52347<pc>5-0060<k1>bahvakzara<k2>bahva^kzara
+ 516629:<L>52349<pc>5-0060<k1>bahvaDyana<k2>bahva^Dyana
+ 516634:<L>52350<pc>5-0060<k1>bahvaDyAya<k2>bahva^DyAya
+ 519306:<L>52635<pc>5-0082<k1>bAhuvIrya<k2>bAhuvIrya^
+ 519553:<L>52661<pc>5-0084<k1>bAhvojas<k2>bAhvo^jas
+ 520250:<L>52741<pc>5-0090<k1>bilva<k2>bilva^
+ 522353:<L>52945<pc>5-0109<k1>buDnya<k2>buDnya^
+ 525342:<L>53345<pc>5-0133<k1>brahmaRya<k2>brahmaRya^
+ 526629:<L>53489<pc>5-0144<k1>brahmavarcasya<k2>brahmavarcasya^
+ 527988:<L>53663<pc>5-0155<k1>brAhmaRAcCaMsya<k2>brAhmaRAcCaMsya^
+ 532494:<L>54046<pc>5-0198<k1>BadravAcya<k2>BadravAcya^
+ 535822:<L>54352<pc>5-0227<k1>Basadya<k2>Basadya^
+ 539012:<L>54654<pc>5-0255<k1>BArya<k2>BArya^
+ 544810:<L>55107<pc>5-0309<k1>Bujizya<k2>Bujizya^
+ 552250:<L>55757<pc>5-0377<k1>Bezajya<k2>Bezajya^
+ 553601:<L>55885<pc>5-0390<k1>Bojya<k2>Bojya^<h>1
+ 553709:<L>55893<pc>5-0391<k1>BojyozRa<k2>Bojyo^zRa
+ 557820:<L>56283<pc>5-0429<k1>maNgalya<k2>maNgalya^
+ 561247:<L>56628<pc>5-0458<k1>matya<k2>matya^
+ 562032:<L>56689<pc>5-0466<k1>maTavya<k2>maTavya^
+ 564003:<L>56887<pc>5-0483<k1>maDavya<k2>maDavya^
+ 569102:<L>57353<pc>5-0528<k1>manuzya<k2>manuzya^
+ 569155:<L>57356<pc>5-0529<k1>manuzyakfta<k2>manuzya^kfta
+ 574120:<L>57853<pc>5-0571<k1>marutvatya<k2>marutvatya^
+ 595004:<L>60114<pc>5-0746<k1>mArjAlya<k2>mArjAlya^
+ 598394:<L>60476<pc>5-0775<k1>mitrya<k2>mitrya^
+ 622337:<L>63261<pc>5-0974<k1>aDizavaRya<k2>aDizavaRya^
+ 630138:<L>64546<pc>5-1023<k1>aBivAnyA<k2>aBivAnyA^
+ 630682:<L>64636<pc>5-1027<k1>aByaYjanya<k2>aByaYjanya^
+ 630992:<L>64688<pc>5-1029<k1>aByUQi<k2>aByU^Qi
+ 632647:<L>64968<pc>5-1039<k1>araRyenuvAkya<k2>araRye'nuvAkya^
+ 637901:<L>65779<pc>5-1074<k1>azAQa<k2>azA^Qa
+ 644931:<L>66879<pc>5-1121<k1>AlamBya<k2>AlamBya^
+ 645530:<L>66966<pc>5-1125<k1>Avya<k2>Avya^<h>2
+ 655853:<L>68441<pc>5-1197<k1>upAtaNkya<k2>upAtaNkya^
+ 662266:<L>69432<pc>5-1239<k1>kaRwakArikA<k2>kaRwakArikA^
+ 669572:<L>70462<pc>5-1286<k1>kAruRya<k2>kAruRya^
+ 678208:<L>71822<pc>5-1336<k1>kyat<k2>kya^t
+ 705034:<L>75742<pc>5-1494<k1>divAkIrtya<k2>divAkIrtya^
+ 712508:<L>76884<pc>5-1538<k1>navadAvya<k2>navadAvya^
+ 715280:<L>77333<pc>5-1554<k1>nirbADya<k2>nirbADya^
+ 738578:<L>80881<pc>6-0013<k1>yajas<k2>yaja^s
+ 738755:<L>80909<pc>6-0014<k1>yajuzya<k2>yajuzya^
+ 740600:<L>81106<pc>6-0029<k1>yatavya<k2>yatavya^
+ 746571:<L>81634<pc>6-0083<k1>yamya<k2>yamya^<h>2
+ 746743:<L>81647<pc>6-0085<k1>yavakya<k2>yavakya^
+ 747645:<L>81756<pc>6-0092<k1>yaSasya<k2>yaSasya^
+ 750430:<L>81877<pc>6-0118<k1>yAjyavant<k2>yAjya^vant
+ 750583:<L>81892<pc>6-0120<k1>yAtavya<k2>yAtavya^<h>2
+ 751110:<L>81950<pc>6-0124<k1>yAdrADya<k2>yAdrADya^
+ 756738:<L>82334<pc>6-0179<k1>yUTya<k2>yUTya^
+ 758276:<L>82510<pc>6-0192<k1>yogISvara<k2>yogISvara^
+ 761727:<L>82867<pc>6-0220<k1>rakzasya<k2>rakzasya^
+ 763782:<L>83053<pc>6-0238<k1>rajasya<k2>rajasya^
+ 763919:<L>83074<pc>6-0239<k1>rajjavya<k2>rajjavya^
+ 764654:<L>83159<pc>6-0245<k1>raRya<k2>raRya^<h>2
+ 769153:<L>83596<pc>6-0282<k1>ramya<k2>ramya^
+ 771810:<L>83883<pc>6-0302<k1>rahasya<k2>rahasya^
+ 773715:<L>84075<pc>6-0319<k1>rAjanya<k2>rAjanya^
+ 773759:<L>84078<pc>6-0319<k1>rAjanyabanDu<k2>rAjanya^banDu
+ 773766:<L>84079<pc>6-0319<k1>rAjanyavant<k2>rAjanya^vant
+ 774226:<L>84145<pc>6-0322<k1>rAjamAzya<k2>rAjamAzya^
+ 780180:<L>84831<pc>6-0370<k1>rItyap<k2>rItya^p
+ 787010:<L>85275<pc>6-0436<k1>revatya<k2>revatya^
+ 791139:<L>85663<pc>6-0470<k1>lakzmaRya<k2>lakzmaRya^
+ 796220:<L>86061<pc>6-0515<k1>lalAwya<k2>lalAwya^
+ 804386:<L>86781<pc>6-0587<k1>lokya<k2>lokya^
+ 809758:<L>87328<pc>6-0629<k1>vacasya<k2>vacasya^
+ 817018:<L>88024<pc>6-0687<k1>vapuzya<k2>vapuzya^
+ 817723:<L>88067<pc>6-0693<k1>vayasya<k2>vayasya^
+ 818037:<L>88100<pc>6-0696<k1>vayya<k2>vayya^
+ 821457:<L>88340<pc>6-0727<k1>varuRya<k2>varuRya^
+ 821606:<L>88350<pc>6-0728<k1>varUTya<k2>varUTya^
+ 822098:<L>88396<pc>6-0732<k1>varcasya<k2>varcasya^
+ 829110:<L>88696<pc>6-0805<k1>varzya<k2>varzya^
+ 832974:<L>88964<pc>6-0842<k1>vasavya<k2>vasavya^
+ 837205:<L>89295<pc>6-0880<k1>vAkovAkya<k2>vAkovAkya^
+ 842613:<L>89947<pc>6-0922<k1>vAnyA<k2>vAnyA^<h>1
+ 843520:<L>90049<pc>6-0930<k1>vAyavya<k2>vAyavya^
+ 849005:<L>90667<pc>6-0972<k1>vAstavya<k2>vAstavya^
+ 849216:<L>90690<pc>6-0973<k1>vAstozpatya<k2>vAstozpatya^
+ 855546:<L>91339<pc>6-1025<k1>vijenya<k2>vijenya^
+ 858610:<L>91599<pc>6-1053<k1>vidaTya<k2>vidaTya^
+ 859285:<L>91671<pc>6-1059<k1>videSya<k2>videSya^
+ 860077:<L>91770<pc>6-1065<k1>vidyutya<k2>vidyutya^
+ 877605:<L>93358<pc>6-1220<k1>viSya<k2>viSya^
+ 878718:<L>93473<pc>6-1228<k1>viSvadAvya<k2>viSvadAvya^
+ 879952:<L>93658<pc>6-1237<k1>viSvANgya<k2>viSvANgya^
+ 886607:<L>94384<pc>6-1292<k1>vIqvaNga<k2>vIqva^Nga
+ 888373:<L>94599<pc>6-1305<k1>vIrya<k2>vIrya^
+ 888527:<L>94613<pc>6-1306<k1>vIryavant<k2>vIrya^vant
+ 888599:<L>94622<pc>6-1307<k1>vIryAvant<k2>vIryA^vant
+ 889374:<L>94728<pc>6-1312<k1>vfkzya<k2>vfkzya^
+ 889463:<L>94736<pc>6-1313<k1>vfjanya<k2>vfjanya^
+ 902945:<L>96129<pc>6-1424<k1>vEzRavya<k2>vEzRavya^
+ 903366:<L>96189<pc>6-1427<k1>vyaMsa<k2>vya^Msa
+ 903644:<L>96209<pc>6-1429<k1>vyaNga<k2>vya^Nga<h>2
+ 905049:<L>96289<pc>6-1443<k1>vyaDvan<k2>vya^Dvan
+ 905062:<L>96291<pc>6-1444<k1>vyanta<k2>vya^nta
+ 905811:<L>96357<pc>6-1450<k1>vyalkaSa<k2>vya^lkaSa
+ 906585:<L>96440<pc>6-1457<k1>vyaSva<k2>vya^Sva
+ 906601:<L>96442<pc>6-1457<k1>vyazwakA<k2>vya^zwakA
+ 906609:<L>96443<pc>6-1457<k1>vyazwi<k2>vya^zwi
+ 908132:<L>96585<pc>6-1470<k1>vyADI<k2>vyA^DI
+ 908429:<L>96613<pc>6-1473<k1>vyApti<k2>vyA^pti
+ 908544:<L>96623<pc>6-1475<k1>vyAmya<k2>vyAmya^
+ 909214:<L>96704<pc>6-1480<k1>vyAsAcala<k2>vyAsAcala^
+ 909579:<L>96755<pc>6-1483<k1>vyuptakeSa<k2>vyu^ptakeSa
+ 909623:<L>96762<pc>6-1483<k1>vyuzwi<k2>vyu^zwi
+ 909667:<L>96765<pc>6-1483<k1>vyUQa<k2>vyU^Qa
+ 909845:<L>96778<pc>6-1485<k1>vyfdDi<k2>vyf^dDi
+ 909861:<L>96780<pc>6-1485<k1>vyenas<k2>vye^nas
+ 909875:<L>96783<pc>6-1485<k1>vyElaba<k2>vyE^laba
+ 909880:<L>96784<pc>6-1485<k1>vyokas<k2>vyo^kas
+ 909976:<L>96798<pc>6-1486<k1>vyoman<k2>vyo^man<h>1
+ 910139:<L>96818<pc>6-1487<k1>vyoza<k2>vyo^za
+ 911583:<L>96924<pc>6-1500<k1>vratya<k2>vratya^<h>1
+ 912282:<L>96995<pc>7-0001<k1>SaMyvanta<k2>SaMyva^nta
+ 919849:<L>97767<pc>7-0062<k1>SapaTeyya<k2>SapaTeyya^
+ 919854:<L>97768<pc>7-0062<k1>SapaTya<k2>SapaTya^
+ 923822:<L>98115<pc>7-0095<k1>Saravya<k2>Saravya^
+ 930492:<L>98885<pc>7-0147<k1>SAmulya<k2>SAmulya^
+ 933749:<L>99213<pc>7-0173<k1>Sikya<k2>Sikya^
+ 941321:<L>100002<pc>7-0230<k1>SIrzacCedya<k2>SIrzacCedya^
+ 941336:<L>100004<pc>7-0230<k1>SIrzaRya<k2>SIrzaRya^
+ 941496:<L>100022<pc>7-0231<k1>SIrzahArya<k2>SIrzahArya^
+ 948689:<L>100710<pc>7-0287<k1>SUzya<k2>SUzya^
+ 949529:<L>100790<pc>7-0293<k1>SftAtaNkya<k2>SftAtaNkya^
+ 954645:<L>101377<pc>7-0330<k1>SyAvyA<k2>SyAvyA^
+ 956233:<L>101502<pc>7-0344<k1>Sravasya<k2>Sravasya^<h>1
+ 956241:<L>101503<pc>7-0344<k1>Sravasya<k2>Sravasya^<h>2
+ 963644:<L>102083<pc>7-0409<k1>SloRya<k2>SloRya^
+ 963925:<L>102116<pc>7-0411<k1>Svanvant<k2>Sva^nvant
+ 964258:<L>102162<pc>7-0413<k1>SvaSurya<k2>SvaSurya^
+ 968463:<L>102662<pc>7-0446<k1>zARmAsya<k2>zARmAsya^
+ 969421:<L>102748<pc>7-0456<k1>saMyAjya<k2>saMyAjya^
+ 971656:<L>102961<pc>7-0475<k1>saMveSya<k2>saMveSya^
+ 974211:<L>103202<pc>7-0498<k1>saMsrAvya<k2>saMsrAvya^
+ 975462:<L>103333<pc>7-0508<k1>saktavya<k2>saktavya^
+ 979070:<L>103652<pc>7-0541<k1>saMgrAhya<k2>saMgrAhya^
+ 979738:<L>103707<pc>7-0546<k1>sacaTya<k2>sacaTya^
+ 980154:<L>103766<pc>7-0549<k1>sajAtya<k2>sajAtya^
+ 983038:<L>104018<pc>7-0575<k1>sattrya<k2>sattrya^
+ 986610:<L>104292<pc>7-0606<k1>sadasya<k2>sadasya^
+ 987999:<L>104468<pc>7-0616<k1>saDamAdya<k2>saDamAdya^
+ 988226:<L>104494<pc>7-0618<k1>saDryaYc<k2>saDrya^Yc
+ 990488:<L>104701<pc>7-0638<k1>saMdeSya<k2>saMdeSya^
+ 992864:<L>104931<pc>7-0658<k1>saparya<k2>saparya^
+ 994668:<L>105164<pc>7-0671<k1>sabva<k2>sabva^
+ 997377:<L>105424<pc>7-0693<k1>samarya<k2>samarya^<h>2
+ 999254:<L>105639<pc>7-0708<k1>samApya<k2>samApya^
+ 999325:<L>105649<pc>7-0708<k1>samAmya<k2>samAmya^
+1000016:<L>105734<pc>7-0714<k1>samAhArya<k2>samAhArya^
+1002297:<L>105992<pc>7-0731<k1>samuhyapurIza<k2>samuhya^purIza
+1005023:<L>106239<pc>7-0756<k1>saMBArya<k2>saMBArya^
+1008247:<L>106479<pc>7-0784<k1>sarasya<k2>sarasya^
+1012709:<L>106824<pc>7-0822<k1>sarvadevatya<k2>sarvadevatya^
+1015030:<L>107188<pc>7-0836<k1>sarvASya<k2>sarvASya^
+1016125:<L>107328<pc>7-0844<k1>savAtya<k2>savAtya^
+1019009:<L>107619<pc>7-0868<k1>sahasya<k2>sahasya^
+1019519:<L>107678<pc>7-0872<k1>sahasrapozya<k2>sahasrapozya^
+1023620:<L>108159<pc>7-0904<k1>sAdanya<k2>sAdanya^
+1026760:<L>108440<pc>7-0931<k1>sAmanya<k2>sAmanya^<h>2
+1032820:<L>109125<pc>7-0978<k1>sikatya<k2>sikatya^
+1043986:<L>110341<pc>7-1063<k1>sudevya<k2>sudevya^
+1045726:<L>110551<pc>7-1075<k1>supaTya<k2>supaTya^
+1047331:<L>110768<pc>7-1085<k1>suprAvya<k2>suprAvya^
+1055120:<L>111738<pc>7-1137<k1>suSevya<k2>suSe^vya
+1060019:<L>112324<pc>7-1172<k1>sUrmya<k2>sUrmya^
+1081708:<L>114277<pc>7-1349<k1>snAvanya<k2>snAvanya^
+1087017:<L>114672<pc>7-1397<k1>syandyA<k2>syandyA^
+1088644:<L>114797<pc>7-1411<k1>srotasya<k2>srotasya^
+1090393:<L>114958<pc>7-1426<k1>svaDvaryu<k2>sva^Dvaryu
+1090969:<L>114994<pc>7-1431<k1>svapasya<k2>svapasya^
+1091423:<L>115049<pc>7-1434<k1>svaBigUrta<k2>sva^BigUrta
+1091484:<L>115058<pc>7-1435<k1>svaByakta<k2>sva^Byakta
+1092306:<L>115161<pc>7-1441<k1>svar<k2>sva^r<h>3
+1092503:<L>115167<pc>7-1443<k1>svaraMkfta<k2>sva^raMkfta
+1093509:<L>115297<pc>7-1450<k1>svargya<k2>svargya^
+1093534:<L>115298<pc>7-1450<k1>svarcakzas<k2>sva^rcakzas
+1093545:<L>115300<pc>7-1451<k1>svarcanas<k2>sva^rcanas
+1093600:<L>115308<pc>7-1451<k1>svarjyotis<k2>sva^rjyotis
+1093969:<L>115367<pc>7-1453<k1>svarRara<k2>sva^rRara
+1094196:<L>115406<pc>7-1454<k1>svarpati<k2>sva^rpati
+1094215:<L>115409<pc>7-1454<k1>svarBAnu<k2>sva^rBAnu
+1094226:<L>115410<pc>7-1455<k1>svarmI|a<k2>sva^rmI|a
+1094240:<L>115412<pc>7-1455<k1>svarya<k2>svarya^
+1094306:<L>115422<pc>7-1455<k1>svarvant<k2>sva^rvant
+1094377:<L>115429<pc>7-1456<k1>svarzAti<k2>sva^rzAti
+1095536:<L>115565<pc>7-1465<k1>svAgrayaRa<k2>svA^grayaRa
+1095609:<L>115578<pc>7-1465<k1>svAtata<k2>svA^tata
+1096877:<L>115738<pc>7-1475<k1>svASita<k2>svA^Sita
+1097103:<L>115767<pc>7-1477<k1>svAhuta<k2>svA^huta
+1097117:<L>115770<pc>7-1477<k1>svAhya<k2>svAhya^
+1097286:<L>115780<pc>7-1479<k1>svizwa<k2>svi^zwa<h>2
+1097331:<L>115783<pc>7-1479<k1>svizwi<k2>svi^zwi<h>1
+1097516:<L>115804<pc>7-1481<k1>svetavya<k2>sve^tavya
+1100992:<L>115994<pc>7-1513<k1>hanavya<k2>hanavya^
+1105082:<L>116207<pc>7-1551<k1>haritya<k2>haritya^
+1107898:<L>116518<pc>7-1572<k1>havizya<k2>havizya^
+1117178:<L>117409<pc>7-1646<k1>hfdayya<k2>hfdayya^<h>1
+1117188:<L>117410<pc>7-1646<k1>hfdayya<k2>hfdayya^<h>2
+1120589:<L>117807<pc>7-1671<k1>hradayya<k2>hradayya^
+1125430:<L>118529<pc>7-1702<k1>arAqya<k2>arAqya^
+1137550:<L>120661<pc>7-1764<k1>nIvyA<k2>nIvyA^
+1146709:<L>122253<pc>7-1809<k1>vyenI<k2>vye^nI

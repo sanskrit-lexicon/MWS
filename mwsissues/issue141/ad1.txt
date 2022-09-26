@@ -1,0 +1,346 @@
+; X means MW typo, need to change / to ^
+; ? means not simple in some way
+; + means MW confirmed to use / in print. no change to be made.
+ajrya	ajrya/X	ajrya^	10,3
+atiGnya	atiGnya/X	atiGnya^	13,3
+atitArya	atitArya/X	atitArya^	14,1
+aTarvI	aTarvI/?	aTa^rvI	17,3,1310,1  aTarvI/ in mw
+adyUtya	adyUtya/X	adyUtya^	19,2
+aDarAcya	aDarAcya/X	aDarAcya^	20,1
+aDorAma	aDo/rAma+	aDo^rAma	20,2
+aDizavaRya	aDizavaRya/X	aDizavaRya^	22,2
+aDrija	a/?Drija	aDri^ja	23,3   aDri/-ja in mw
+anativyADya	anativyADya/X	anativyADya^	24,3
+anavaDarzya	anavaDarzya/X	anavaDarzya^	26,3
+anuvAkyA	anuvAkyA/X	anuvAkyA^	38,1
+anuvyam	anuvya/Xm	anuvya^m	39,2
+anUkya	anUkya/X	anUkya^	41,2
+anUcya	anUcya/?	anUcya^	41,3  #1 anUcya^, #2 anUcya
+anUpya	anUpya/X	anUpya^	42,1
+anovAhya	anovAhya/X	anovAhya^	42,3
+anvAhArya	anvAhArya/X	anvAhArya^	47,2
+apasya	apasya/?	apasya^	53,1  #1 apasya, #2 apasya^ (also apasyA, yA^)
+apAcya	apAcya/+	apAcya^	54,1
+apikakzya	apikakzya/X	apikakzya^	55,1
+apIcya	apIcya/X	apIcya^	56,1
+apuronuvAkyaka	apuro'nuvAkya/Xka	apuro'nuvAkya^ka	56,1
+abalya	abalya/?	abalya^	60,1 with with ^ or with no accent
+aBivAnyA	aBivAnyA/?	aBivAnyA^	69,1,69,2 2 entries
+aByUQi	aByU/XQi	aByU^Qi	69,1,79,2
+aBIti	aBI/?ti	aBI^ti	74,2  74, hom2 is ^; hom1 no accent
+aByaYjanya	aByaYjanya/X	aByaYjanya^	75,2
+amAvAsya	amA/vAsya/?	amAvAsya^	81,2 amA/ inherited
+amuTA	amu/TA+	amu^TA	82,1
+araRyenuvAkya	araRye'nuvAkya/X	araRye'nuvAkya^	86,3
+ararinda	arari/nda+	arari^nda	87,2
+arAqya	arAqya/X	arAqya^	87,2
+arkya	arkya/X	arkya^	89,3
+arya	arya/?,a/rya	arya^	93,1 hom1 arya/, hom2 arya^, hom3 a/rya
+aryamya	aryamya/X	aryamya^	93,2
+avawya	avawya/X	avawya^	98,3
+avasAnya	avasAnya/X	avasAnya^	105,2
+avasvanya	avasvanya/X	avasvanya^	106,2
+avArya	avArya/?	avArya^	107,2   a^ hom1 only
+azAQa	a/zAQa+	azA^Qa	116,2
+ahanya	ahanya/X	ahanya^	124,2
+AkAyya	AkAyya/X	AkAyya^	126,3
+ANgUzya	ANgUzya/X	ANgUzya^	131,2
+AcArya	AcArya/?	AcArya^	131,3,1319,1,132,1    131. 1319 no accent, 132a^
+Atapya	Atapya/X	Atapya^	134,2
+AtArya	AtArya^,AtArya/?	AtArya^	134,3,135,1
+Adya	Adya/?	Adya^	137,1,138,1,138,2  HOM1 a/, hom2 a^ NOT ON 138,2
+Ayuzya	Ayuzya/X	Ayuzya^	149,1
+ArAttAt	ArA/ttAt+	ArA^ttAt	150,2
+AryakumAra	A/ryakumAra+	Arya^kumAra	152,2 A/ is inherited
+AryabrAhmaRa	A/ryabrAhmaRa+	Arya^brAhmaRa	152,2 A/ is inherited
+AlAwya	AlAwya/X	AlAwya^	153,3
+Avya	Avya/X	Avya^	156,3
+ASvapas	ASva/?pas	ASva^pas	158,1,159,2    158 a^, 159 no accent
+ASvaSva	ASva/XSva	ASva^Sva	158,1
+Asanya	Asanya/X	Asanya^	159,3
+Asya	Asya/X	Asya^	159,3,160,1,161,3
+Ahananya	Ahananya/X	Ahananya^	162,2
+AhArya	AhArya/X	AhArya^	163,1
+iRqva	iRqva/X	iRqva^	164,3
+iriRya	iriRya/X	iriRya^	168,2
+izavya	izavya/X	izavya^	168,3
+ISAnakft	ISAnakf/+t	ISAnakf^t	171,1
+ukTya	ukTya/X	ukTya^	172,1
+ukzaRyAyana	ukzaRyA/?yana	ukzaRyA^yana	172,2  (A) 172,1. (B)
+ucaTya	ucaTya/X	ucaTya^	172,3
+uttarArDya	uttarArDya/X	uttarArDya^	178,3
+utsya	utsya/X	utsya^	181,3,183,1
+udanya	udanya/?	udanya^	183,3,184,2  #1 ya #2 a^
+udIcya	udIcya/X	udIcya^	184,2
+udarya	udarya/X	udarya^	184,3
+upajijYAsya	upajijYAsya/?	upajijYAsya^	198,2,1322,1  198 ya^, 1322 ya
+upadeSya	upadeSya/X	upadeSya^	199,1
+upapakzya	upapakzya/X	upapakzya^	201,3
+upAtaNkya	upAtaNkya/X	upAtaNkya^	213,1
+urvyUti	urvyU/Xti	urvyU^ti	218,1
+urvarya	urvarya/?	urvarya^	218,2  urvarya^  AND urva/rya
+uzasya	uzasya/?	uzasya^	220,1  #1 ya^, #2 ya
+UDanya	UDanya/?	UDanya^	221,2   page 221,1
+Urjavya	Urjavya/X	Urjavya^	221,3
+UrDvabAhu	UrDva/bAhu+	UrDva/bA^hu	222,2  va/ inherited.
+UzmaRya	UzmaRya/X	UzmaRya^	223,1
+enasya	enasya/X	enasya^	232,1
+okya	okya/X	okya^	235,1
+ojasya	ojasya/X	ojasya^	235,2
+Ottaravedika	O/+ttaravedika	O^ttaravedika	237,1
+kakzya	ka/?kzya	kakzya^	242,1   headword shows ka/; text shows ya^
+kanyA	kanyA/X	kanyA^	249,1    
+karIra	karI/+ra	karI^ra	255,2
+karmaRya	karmaRya/X	karmaRya^	259,3
+kAruRya	kAruRya/X	kAruRya^	275,1
+kArya	kArya/X	kArya^	276,1,1324,3
+kArzmarya	kArzmarya/X	kArzmarya^	277,1
+kiMdevatya	kiMdevatya/X	kiMdevatya^	283,1
+kulyA	kulyA/X	kulyA^	295,3,296,2
+kya	kya/X	kya^	318,3
+kyat	kya/Xt	kya^t	318,3
+kva	kva/X	kva^	324,2
+kvala	kva/Xla	kva^la	324,3
+gfhameDya	gfha/+meDya	gfhameDya^	362,2
+grAhya	grAhya/X	grAhya^	373,1
+Candasya	Candasya/X	Candasya^	405,1
+jaGanya	jaGanya/X	jaGanya^	408,3
+jantva	ja/+ntva	jantva^	411,2
+jAtya	jA/+tya	jAtya^	418,2
+jArya	jArya/X	jArya^	419,3
+juhvAsya	juhvA/Xsya	juhvA^sya	424,1
+jyEzWya	jyE/+zWya	jyE^zWya	427,1
+Jaza	Jaza/+	Jaza^	429,1
+taNgalva	taNgalva/X	taNgalva^	432,1
+tadAnIm	tadA/+nIm	tadA^nIm	434,3
+tavasya	tavasya/X	tavasya^	441,1
+tArpya	tArpya/+	tArpya^	444,3
+tirya	tirya/?	tirya^	447,3,448,1   hom2 ya^
+tizya	tizya/X	tizya^	448,3
+tfptAMSu	tfptA/+MSu	tfptA^MSu	454,1
+tejasya	tejasya/X	tejasya^	454,3
+tryakzara	trya/Xkzara	trya^kzara	462,3
+tryaNgya	tryaNgya/X	tryaNgya^	463,1
+tryambaka	trya/?mbaka	trya^mbaka	463,1,1328,2  1328 NO ACCENT
+tryaruRa	trya/XruRa	trya^ruRa	463,1
+tryaruza	trya/Xruza	trya^ruza	463,1
+tryAvft	tryA/Xvft	tryA^vft	463,1
+tryASir	tryA/XSir	tryA^Sir	463,1
+tvacasya	tvacasya/X	tvacasya^	463,3
+tvezya	tvezya/X	tvezya^	464,2
+dakziRya	dakziRya/X	dakziRya^	466,2
+dAsya	dAsya/X	dAsya^	477,2
+divAkIrtya	di/vAkIrtya/?	divAkIrtya^	479,1
+dIrGajihvya	dIrGa/?jihvya	dIrGajihvya^	482,1  MW ya (no acc). Ga/ inher
+dunduBya	dunduBya/X	dunduBya^	484,2
+dUtya	dUtya/X	dUtya^	489,2
+devayajya	deva/ya/+jya	devayajya^	494,1
+devatya	devatya/X	devatya^	495,3
+devya	devya/X	devya^	496,2
+dozaRya	dozaRya/X	dozaRya^	498,3
+drvanna	drva/Xnna	drva^nna	502,2
+Danvanya	Danvanya/X	Danvanya^	509,3
+DAnya	DAnya/?	DAnya^	514,2,515,1  #1 ya^, #2 ya
+DAnyatilvila	DAnya/Xtilvila	DAnya^tilvila	514,2
+DIrya	DI/rya,DIrya/?	DIrya^	517,1
+DfzRvojas	DfzRvo/Xjas	DfzRvo^jas	520,1
+Dvanya	Dvanya/X	Dvanya^	522,3
+naBanya	naBanya/X	naBanya^	527,3
+naBasya	naBasya/X	naBasya^	527,3
+namasya	namasya/X	namasya^	528,2
+navadAvya	na/vadAvya/?	navadAvya^	530,3 vya^  (na/va inherited)
+nahuzya	nahuzya/X	nahuzya^	532,3
+nAvya	nAvya/?	nAvya^	538,1   #2 nAvya^,  #1 and #3 nAvya (no accent)
+nikoSya	nikoSya/X	nikoSya^	545,2   pc = 545,1. 
+nigrABya	nigrABya/X	nigrABya^	546,2
+niDAnya	niDAnya/X	niDAnya^	548,3
+nirbADya	nirbADya/X	nirbADya^	555,3
+nirmaTya	nirmaTya/?	nirmaTya^	556,1,556,2  #1 ya^, #2 ya 
+nizwarkya	nizwarkya/X	nizwarkya^	563,1
+nIviBArya	nIviBArya/X	nIviBArya^	567,1
+nErbADya	nErbADya/X	nErbADya^	570,2
+nyakta	nya/Xkta	nya^kta	571,3
+nyaYc	nya/XYc	nya^Yc	571,3
+nyarbuda	nya/Xrbuda	nya^rbuda	572,1
+nyarbudi	nya/Xrbudi	nya^rbudi	572,1
+nyUna	nyU/Xna	nyU^na	573,1
+pakzya	pakzya/X	pakzya^	574,2
+pacatya	pacatya/X	pacatya^	575,2
+parArDya	parArDya/X	parArDya^	587,3
+parivargya	parivargya/X	parivargya^	601,2
+parRaSadya	parRa/Sadya/?	parRaSadya^	606,2   ya^, Ra/ inherited
+parvatya	parvatya/X	parvatya^	609,2
+palvalya	palvalya/X	palvalya^	610,3
+paSavya	paSavya/X	paSavya^	611,2
+paSvekAdaSinI	paSve/XkAdaSinI	paSve^kAdaSinI	612,1
+paScArDya	paScArDya/X	paScArDya^	612,1
+pastya	pastya/X	pastya^	612,3
+pAMsavya	pAMsavya/X	pAMsavya^	613,3
+pAjasya	pAjasya/X	pAjasya^	614,2
+pARya	pARya/?	pARya^	615,3,616,3  #1 ya^, #2 ya
+pARqva	pARqva/X	pARqva^	616,3  pc=616,2
+pAtalya	pAtalya/X	pAtalya^	617,1
+pAdya	pA/+dya	pAdya^	618,2
+pAzya	pAzya/X	pAzya^	624,1
+puronuvAkyA	puro'nuvAkyA/X	puro'nuvAkyA^	635,2
+purIzya	purIzya/X	purIzya^	636,2
+puruzya	puruzya/X	puruzya^	637,3
+pfzWya	pfzWya/,pf/zWya/?	pfzWya^	648,1  
+praugya	praugya/X	praugya^	652,3
+praGAsya	praGAsya/X	praGAsya^	656,3
+pratikAmya	pratikAmya/X	pratikAmya^	661,3
+pratisarya	pratisarya/X	pratisarya^	672,3
+pratIcya	pratI/cya+	pratIcya^	675,1
+praTamavAsya	praTama/vAsya/?	praTamavAsya^	679,1  
+pradavya	pradavya/X	pradavya^	680,1
+pradAvya	pradAvya/X	pradAvya^	680,1
+praDanya	praDanya/X	praDanya^	680,3
+prapaTya	pra/paTya/?	prapaTya^	682,1 
+prozya	prozya/?	prozya^	691,1,714,2  #2 ya^, #1 ya  p. 714 ya
+pravAhya	pravAhya/X	pravAhya^	691,2
+pravAyya	pravAyya/X	pravAyya^	691,2,691,3  ya^, ya pc=691,2
+pravargya	pravargya/X	pravargya^	693,2
+prahAyya	prahAyya/X	prahAyya^	700,3,701,1
+Palgva	Palgva/X	Palgva^	718,1
+barjahya	barjahya/X	barjahya^	722,1
+barhizya	barhizya/X	barhizya^	722,2
+bahudevatya	bahu/devatya+	bahudevatya^	725,1
+bAhuvIrya	bAhu/vIrya/?	bAhuvIrya^	730,3
+bAhvojas	bAhvo/Xjas	bAhvo^jas	730,3
+bilva	bilva/X	bilva^	732,1
+buDnya	buDnya/X	buDnya^	735,1
+brahmaRya	brahmaRya/+	brahmaRya^	741,1  
+brAhmaRAcCaMsya	brAhmaRAcCaMsya/X	brAhmaRAcCaMsya^	741,3
+BadravAcya	Badra/vA/+cya	BadravAcya^	746,2
+Basadya	Basadya/X	Basadya^	750,2
+BArya	BArya/X	BArya^	754,1
+Bujizya	Bujizya/X	Bujizya^	759,3
+Bezajya	Bezajya/X	Bezajya^	766,3
+matya	matya/?	matya^	776,2,783,2   #1 ya^, #2 ya
+maTavya	maTavya/X	maTavya^	777,2
+maDavya	maDavya/X	maDavya^	779,2,781,1
+manuzya	manuzya/X	manuzya^	784,3,787,1
+manuzyakfta	manuzya/Xkfta	manuzya^kfta	784,3
+marutvatya	maru/tvatya+	marutvatya^	790,3
+mArjAlya	mArjAlya/X	mArjAlya^	813,1
+mitrya	mitrya/X	mitrya^	816,3
+yajas	ya/+jas	yaja^s	839,1
+yajuzya	yajuzya/X	yajuzya^	839,2
+yamya	yamya/?	yamya^	847,1  #1 ya, #2 ya^
+yaSasya	yaSasya/X	yaSasya^	848,2
+yUTya	yUTya/X	yUTya^	856,1
+rakzasya	rakzasya/X	rakzasya^	860,1
+rajjavya	rajjavya/X	rajjavya^	861,2
+rajasya	rajasya/?	rajasya^	863,2  #1 ya, #2 ya^
+raRya	ra/Rya+	raRya^	864,1,864,2
+ramya	ramya/X	ramya^	868,2
+rAjanyabanDu	rAjanya/XbanDu	rAjanya^banDu	875,1
+rItyap	rItya/Xp	rItya^p	881,2
+revatya	revatya/X	revatya^	888,2
+lakzmaRya	lakzmaRya/X	lakzmaRya^	892,3
+lokya	lokya/X	lokya^	907,3
+vacasya	vacasya/?	vacasya^	913,1  #1 ya, #2 ya^
+vapuzya	vapuzya/?	vapuzya^	920,1  #1 ya, #2 ya^
+vayya	vayya/X	vayya^	921,1
+varuRya	varuRya/X	varuRya^	921,3
+varUTya	varUTya/X	varUTya^	922,1
+varcasya	varcasya/X	varcasya^	924,2
+vasavya	vasavya/X	vasavya^	930,2
+vAkovAkya	vAkovAkya/X	vAkovAkya^	936,2
+vAnyA	vAnyA/?	vAnyA^	940,3,941,1   #1 yA, #2 yA^
+vAyavya	vAyavya/X	vAyavya^	943,1
+vijenya	vi/jenya/?	vijenya^	950,3
+vidaTya	vida/Tya/?	vidaTya^	963,3
+videSya	videSya/X	videSya^	966,2
+vidyutya	vidyutya/X	vidyutya^	966,3
+viSya	viSya/X	viSya^	989,2
+viSvadAvya	vi/SvadAvya/?	viSvadAvya^	993,1  
+viSvANgya	viSvANgya/X	viSvANgya^	994,1
+vIrya	vIrya/X	vIrya^	1006,3
+vfkzya	vfkzya/X	vfkzya^	1008,3
+vfjanya	vfjanya/X	vfjanya^	1009,1
+vEzRavya	vEzRavya/X	vEzRavya^	1027,3
+vyaMsa	vya/XMsa	vya^Msa	1028,2
+vyaDvan	vya/XDvan	vya^Dvan	1028,3   also chk txt vyaDva
+vyanta	vya/?nta	vya^nta	1028,3,1031,2  1028 ya^, 1031 ya
+vyalkaSa	vya/XlkaSa	vya^lkaSa	1028,3
+vyaSva	vya/?Sva	vya^Sva	1028,3,1034,3
+vyenas	vye/Xnas	vye^nas	1029,1
+vyenI	vye/XnI	vye^nI	1029,1
+vyElaba	vyE/Xlaba	vyE^laba	1029,1
+vyokas	vyo/Xkas	vyo^kas	1029,1
+vyaNga	vya/?Nga	vya^Nga	1028,2,1029,1,1029,3  1028,2 ya; 1029,1 ya^, 1029,2 ya^
+vyazwi	vya/Xzwi	vya^zwi	1034,3
+vyADI	vyA/XDI	vyA^DI	1037,2
+vyApti	vyA/Xpti	vyA^pti	1037,3
+vyAmya	vyAmya/+	vyAmya^	1038,1
+vyuptakeSa	vyu/XptakeSa	vyu^ptakeSa	1040,3
+vyuzwi	vyu/?zwi	vyu^zwi	987,2,1040,3,1041,1   987 no accent; 1040 yu^, 1041 yu
+vyUQa	vyU/?Qa	vyU^Qa	987,3,1041,1 #1 yU, #2 yu^
+vratya	vratya/X	vratya^	1043,1
+SapaTeyya	SapaTeyya/X	SapaTeyya^	1052,1
+SapaTya	SapaTya/X	SapaTya^	1052,1
+SaMyvanta	SaMyva/Xnta	SaMyva^nta	1054,2
+SAmulya	SAmulya/X	SAmulya^	1065,3
+Sikya	Sikya/X	Sikya^	1069,3
+SIrzacCedya	SIrza/?cCedya	SIrzacCedya^	1078,3 za/ inherit; ya (no acc.)
+SIrzahArya	SIrza/hArya/?	SIrzahArya^	1078,3 za/inherit
+SIrzaRya	SIrzaRya/X	SIrzaRya^	1079,1
+SUzya	SUzya/X	SUzya^	1087,1
+SftAtaNkya	SftAtaNkya/X	SftAtaNkya^	1088,1
+SyAvyA	SyAvyA/X	SyAvyA^	1095,1
+Sravasya	Sravasya/?	Sravasya^	1097,1,1097,2  #1 ya, #2 ya^, #3 ya, #4 ya^
+SloRya	Slo/+Rya	SloRya^	1104,3
+saMyAjya	saMyAjya/X	saMyAjya^	1111,3
+saMveSya	saMveSya/X	saMveSya^	1116,1
+saMsrAvya	saMsrAvya/X	saMsrAvya^	1122,2
+sacaTya	sacaTya/X	sacaTya^	1130,3
+sajAtya	sajAtya/X	sajAtya^	1131,2
+sattrya	sattrya/X	sattrya^	1138,3
+sadasya	sadasya/X	sadasya^	1138,3
+sAdanya	sAdanya/X	sAdanya^	1139,1
+saDamAdya	saDamAdya/X	saDamAdya^	1140,2
+saDryaYc	saDrya/XYc	saDrya^Yc	1140,3
+saMdeSya	saMdeSya/X	saMdeSya^	1143,2
+saparya	saparya/?	saparya^	1148,1  #1 ya, #2 ya^
+sabva	sabva/X	sabva^	1151,2
+samarya	samarya/X	samarya^	1157,1,1171,1
+samApya	samApya/X	samApya^	1161,1
+samAmya	samAmya/X	samAmya^	1161,2
+samuhyapurIza	samuhya/XpurIza	samuhya^purIza	1170,3
+sarasya	sarasya/X	sarasya^	1182,2
+sarvadevatya	sa/rvadevatya/?	sarvadevatya^	1186,1   sa/ -> sa
+sarvASya	sarvASya/X	sarvASya^	1188,3
+savAtya	savAtya/?	savAtya^	1191,2   ya/ or ya^
+sahasya	sahasya/X	sahasya^	1193,2
+sahasrapozya	saha/srapozya/?	sahasrapozya^	1196,1  saha/ -> saha
+sAmanya	sAmanya/?	sAmanya^	1205,1,1205,2 #1 ya, #2 ya^
+sikatya	sikatya/X	sikatya^	1214,1
+sudevya	sudevya/X	sudevya^	1225,2
+supaTya	supaTya/X	supaTya^	1227,2
+suprAvya	suprAvya/X	suprAvya^	1229,1
+suSevya	suSe/+vya	suSe^vya	1237,2
+sUrmya	sUrmya/X	sUrmya^	1244,3
+snAvanya	snAvanya/X	snAvanya^	1267,1
+srotasya	srotasya/X	srotasya^	1274,3
+svaDvaryu	sva/XDvaryu	sva^Dvaryu	1280,1
+svapasya	svapasya/?	svapasya^	1281,1 #1 ya^, #2 ya
+svaBigUrta	sva/XBigUrta	sva^BigUrta	1281,1
+svaByakta	sva/XByakta	sva^Byakta	1281,1
+svar	sva/?r	sva^r	1281,1,1281,2   #1,#2 svar  #3 sva^r
+svarcakzas	sva/Xrcakzas	sva^rcakzas	1281,2
+svarcanas	sva/Xrcanas	sva^rcanas	1281,2
+svarmI|a	sva/+rmI|a	sva^rmI|a	1281,2
+svarzAti	sva/XrzAti	sva^rzAti	1281,2
+svargya	svargya/X	svargya^	1281,3
+svAgrayaRa	svA/XgrayaRa	svA^grayaRa	1283,2
+svAtata	svA/Xtata	svA^tata	1283,3
+svAhya	svAhya/X	svAhya^	1284,3
+svAhuta	svA/Xhuta	svA^huta	1284,3
+svizwa	svi/Xzwa	svi^zwa	1285,1
+svarya	svarya/X	svarya^	1282,2,1285,3
+svetavya	sve/Xtavya	sve^tavya	1285,3
+hanavya	hanavya/X	hanavya^	1288,1
+havizya	havizya/X	havizya^	1294,1
+hfdayya	hfdayya/X	hfdayya^	1303,1
+hradayya	hradayya/X	hradayya^	1306,3
