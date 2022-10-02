@@ -272,3 +272,170 @@ push to github.
 At cologne:
  pull csl-orig
  in csl-pywork/v02,  install pwg and mw
+*********************************************************************
+PHASE 2
+Presumably, the corrections are done for cases where PWG shows a
+svarita accent.
+We now investigate the remaining cases from find_accend_diff_pwg.txt.
+In particular, these cases do not have 'compound' markup ('-') in k2.
+First, it is convenient to redo this so that the mw 'pc' (page-column)
+information is included.
+python find_accent_diff3.py temp_mw_2.txt temp_pwg_1.txt ad3.txt
+-----------------------------------------------------------------
+details:
+ For mw, exclude when k2 contains '-' or '—'.
+ For either, require k2 contains an accent
+ For pwg, change 'ant' suffix to 'at' suffix (the mw spelling)
+
+325 differences written to ad3.txt
+# edit ad3.txt.  Confer mw print. Add '+' or 'x' status markup
+# '+' (193) k2-mw agrees with print. No additional changes.
+# 'x' (132) k2-mw may need some change. Various reasons.
+
+NOTE: This will be revised
+-----------------------------------------------------------------
+change_mw_3.txt and change_pwg_2.txt for further corrections
+cp temp_mw_2.txt temp_mw_3.txt
+cp temp_pwg_1.txt temp_pwg_2.txt
+
+-----------------------------------------------------------------
+misc1 changes added to change_mw_3.txt
+k1 change
+<L>42901<pc> - 42902  <k1>kadru -> <k1>kadrU
+
+page number changes d
+<L>24082<pc>138,2<k1>Adya<k2>Adya^<e>1B  <pc>138,1
+<L>70105<pc>379,2 pc 379,1
+<L>81582<pc>431,3 pc 431,2
+<L>149876<pc>753,1 752,3
+
+python updateByLine.py temp_mw_2.txt change_mw_3.txt temp_mw_3.txt
+6 change transactions from change_mw_3.txt
+
+; *********************************************************
+
+-----------------------------------------------------------------
+misc1 added to change_pwg_2.txt
+yamunA,yamya,
+ python updateByLine.py temp_pwg_1.txt change_pwg_2.txt temp_pwg_2.txt
+5 change transactions from change_pwg_2.txt
+
+-----------------------------------------------------------------
+observation on akra.  Not sure how common this is.
+The very first example (akra) exposes a problem in the construction
+of ad3.txt.  
+There are two accented versions in mw: <k2>a/-kra  and <k2>akra/.
+However ad3.txt shows just one form:  akra/.  Why?
+The reason is the '-' in 'a/-kra', which causes this to be excluded,
+as we are wanting to restrict to non-compounds.
+
+
+-----------------------------------------------------------------
+singletons in mw.  These are cases where two accented versions
+appear. But only the first is present in <k2>.
+This could generates 'false positives' when comparing to pwg.
+python singleton_or_and.py 1 temp_mw_3.txt temp_singleton.txt
+115 singleton or/and entries
+
+singleton corrections added to change_mw_3.txt (12 lines changed)
+
+python updateByLine.py temp_mw_2.txt change_mw_3.txt temp_mw_3.txt
+18 change transactions from change_mw_3.txt
+
+# rerun
+python singleton_or_and.py 1 temp_mw_3.txt temp_singleton.txt
+112 entries written to temp_singleton.txt
+0 Problems parsing headline
+
+Now, change metalines for these
+# this introduces another markup convention:
+# k2 in metaline can have multiple 'comma-separated' variants.
+# currently, these 112 are the only such instances.
+python singleton_or_and.py 2 temp_mw_3.txt temp_singleton_k2changes.txt
+112 changes written to temp_singleton_k2changes.txt
+# edit temp_singleton_k2changes.txt and resolve the 'TODO' cases to 'DONE'
+# There are a handful that are further annotated 'NO CHANGE',
+# generally involving '<srs/>' (simple-vowel sandhi); these have only
+# one k2 variant, as the <srs/> markup is is avoided in the metaline syntax.
+# insert temp_singleton_k2changes.txt into chchange_mw_3.txt
+
+python updateByLine.py temp_mw_2.txt change_mw_3.txt temp_mw_3.txt
+132 change transactions from change_mw_3.txt
+
+-----------------------------------------------------------------
+ad3_rev.txt
+Revise ad3, taking into account the new k2 syntax for mw.
+# temp_ad3_a.txt  got by rerunning diff3 version
+python find_accent_diff3.py temp_mw_3.txt temp_pwg_2.txt temp_ad3_orig.txt
+# write: n=5157, nf = 25, neq=4784, nout=348
+
+cp find_accent_diff3.py find_accent_diff3a.py
+python find_accent_diff3a.py temp_mw_3.txt temp_pwg_2.txt temp_ad3a.txt
+# write: n=5158, nf = 25, neq=4787, nout=346
+-----------------------------------------------------------------
+cp find_accent_diff3a.py find_accent_diff3b.py
+python find_accent_diff3b.py temp_mw_3.txt temp_pwg_2.txt temp_ad3b.txt
+# write: n=5158, nf = 25, neq=4767, nout=366
+
+ad3_rev.txt is a merger of ad3.txt and temp_ad3b.txt.
+216 matches for "[+]" in buffer ad3_rev.txt
+  - mw k2 markup confirmed by print
+  - mw k2 different from computed pwg k2.
+  - no further changes expected for these
+162 matches for "[x]" in buffer ad3_rev.txt
+  - mw to be changed for conformity with mw print
+
+-----------------------------------------------------------------
+python ad_change3b.py 'x' ad3_rev.txt temp_mw_3.txt temp_change_mw_3b.txt
+
+# manually finish changes in temp_change_mw_3b.txt
+# insert temp_change_mw_3.txt into change_mw_3b.txt
+
+python updateByLine.py temp_mw_2.txt change_mw_3.txt temp_mw_3.txt
+605 change transactions from change_mw_3.txt
+
+---------------------------------------------------------------------------
+install  temp_mw_3.txt to check xml
+cp temp_mw_3.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# correct errors
+# rerun until
+ #prints 'ok'
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue141
+
+-----------------------------------------------------------------
+mw print changes: noted in csl-corrections.
+<L>83693.1<pc>441,2<k1>tAjadBaNga tAja/d-Ba/Nga -> tAja/d-BaNga (agree PWG)
+-----------------------------------------------------------------
+rerun:
+python find_accent_diff3b.py temp_mw_3.txt temp_pwg_2.txt temp_ad3b_rev.txt
+write: n=5149, nf = 25, neq=4848, nout=276
+compare to previous:
+# write: n=5158, nf = 25, neq=4767, nout=366
+
+# ad3b_rev.txt
+Apply the '+' markup from ad3_rev.txt to temp_ad3b_rev.txt
+python ad_markplus.py ad3_rev.txt temp_ad3b_rev.txt ad3b_rev.txt
+281 records in ad3b_rev.txt
+67 of these not marked as '+'.
+# edit ad3b_rev.txt
+# For all the '_' items, recheck the print of mw and
+# mark as '+' if the k2mw agrees with print
+
+-----------------------------------------------------------------
+# push to github   START
+ csl-orig/v02  commit:
+ csl-corrections
+ mws (this directory)
+*********************************************************************
+
+*********************************************************************
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+mw page 87 3rd col. truncated
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=mw&page=0087
+mw page 648 3rd col. problem

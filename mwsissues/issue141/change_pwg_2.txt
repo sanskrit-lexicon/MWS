@@ -1,0 +1,22 @@
+; <L>81619<pc>6-0082<k1>yamunA<k2>yamu/nA/
+746476 old <L>81619<pc>6-0082<k1>yamunA<k2>yamu/nA/
+;
+746476 new <L>81619<pc>6-0082<k1>yamunA<k2>yamu/nA
+;
+746477 old {#yamu/nA/#}¦ ({#yamunA/#} 
+;
+746477 new {#yamu/nA#}¦ ({#yamunA/#} <ls>UṆĀDIS. 3, 61</ls>) 
+;
+746478 old <ls>UṆĀDIS. 3, 61</ls>) <lex>f.</lex> 
+;
+746478 new <lex>f.</lex> 
+;---------------------------------------------------
+; <L>81633<pc>6-0083<k1>yamya<k2>ya/mya/<h>1
+746565 old <L>81633<pc>6-0083<k1>yamya<k2>ya/mya/<h>1
+;
+746565 new <L>81633<pc>6-0083<k1>yamya<k2>ya/mya<h>1
+;
+746566 old 1. {#ya/mya/#}¦ partic. fut. pass. von {#yam#} 
+;
+746566 new 1. {#ya/mya#}¦ partic. fut. pass. von {#yam#} 
+;---------------------------------------------------
