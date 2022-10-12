@@ -431,11 +431,367 @@ python ad_markplus.py ad3_rev.txt temp_ad3b_rev.txt ad3b_rev.txt
  csl-corrections
  mws (this directory)
 *********************************************************************
-
+Phase 3.  Accents on samAsas.
 *********************************************************************
+-----------------------------------------------------------------
+ad_cpd_non.txt   combine ad2arev.txt and ad3b_rev.txt.
+We will assume these are 'handled', and exclude from subsequent
+difference analysis
+python ad_cpd_non.py ad2arev.txt ad3b_rev.txt ad_cpd_non.txt 
+84 read from ad2arev.txt
+287 read from ad3b_rev.txt
+371 lines written to ad_cpd_non.txt
+
+-----------------------------------------------------------------
+# make a 4th version of mw for changes to come
+cp temp_mw_3.txt temp_mw_4.txt
+touch change_mw_4.txt
+
+-----------------------------------------------------------------
+# accent diff 4.  Find additional differences. Primarily where
+# mw has samAsa markup. Specifically, we exclude differences
+# between mw and pwg which are already known (i.e., present in ad_cpd_non.txt)
+python find_accent_diff4a.py ad_cpd_non.txt temp_mw_4.txt temp_pwg_2.txt temp_ad4a.txt
+write: n=12970, nf = 328, neq=10094, nout=2548
+
+The 2548 cases need to be examined and systematic errors in mw coding corrected.
+
+-----------------------------------------------------------------
+1899 matches in 1893 lines for "[\/^][^	 ]*[\/^]" in buffer: temp_ad4a.txt
+aMsaDrI   	a/MsaDrI/      	aMsaDrI/       	1,2
+Need to change mw k2 a/MsaDrI/ to aMsaDrI/
+
+# option 4a0
+# more than 2 accents OR comma in k2
+python ad_change4a1.py 4a0 temp_ad4a.txt temp_mw_4.txt temp_change_mw_4a0.txt
+14 changes
+# manual edit of temp_change_mw_4a0.txt
+# insert temp_change_mw_4a0.txt into change_mw_4.txt
+python updateByLine.py temp_mw_3.txt change_mw_4.txt temp_mw_4.txt
+25 change transactions from change_mw_4.txt
+
+-----------------------------------------------------------------
+# change_mw_4a1:  mw k2 has TWO accents (and no comma in k2)
+# Program generates changes to metaline and headline.
+# for some headlines, the program doesn't detect the change,
+# and it must be done manually.
+
+python ad_change4a1.py 4a1 temp_ad4a.txt temp_mw_4.txt temp_change_mw_4a1.txt
+make_changes_4a1: 720 changes marked "**" - manual check required
+changes for 2776 entries written to temp_change_mw_4a1.txt
+# edit temp_change_mw_4a1.txt and consider the '**' cases.
+# most of the '**' cases are where broken bar is first character.
+# 81 headlines require attention.
+# insert temp_change_mw_4a1.txt into change_mw_4.txt
+python updateByLine.py temp_mw_3.txt change_mw_4.txt temp_mw_4.txt
+4938 change transactions from change_mw_4.txt
+
+-----------------------------------------------------------------
+ad4a_rev1.txt
+# rerun diff4a
+python find_accent_diff4a.py ad_cpd_non.txt temp_mw_4.txt temp_pwg_2.txt temp_ad4a_rev1.txt
+write: n=12970, nf = 328, neq=11909, nout=733
+Examine the mw print of these and classify rev1 as + or x,
+depending on whether print agrees with the mwk2 shown.
+Those marked 'x' will require further changes.
+# next so git will keep, done after editing
+cp temp_ad4a_rev1.txt ad4a_rev1.txt
+
+-----------------------------------------------------------------
+temp_change_mw_4b_0.txt
+# changes for lines in ad4a_rev1.txt with status code = 0.
+# Remove accent in metaline k2 and in headline
+python ad_change4b.py 0 ad4a_rev1.txt temp_mw_4.txt temp_change_mw_4b_0.txt
+#changes for 387 entries written to temp_change_mw_4b_0.txt
+#make_changes_4a1: 33 changes marked "**" - manual check required
+# edit temp_change_mw_4b_0.txt and resolve the '**' cases manually.
+# insert temp_change_mw_4b_0.txt into change_mw_4.txt
+python updateByLine.py temp_mw_3.txt change_mw_4.txt temp_mw_4.txt
+5630 change transactions from change_mw_4.txt
+
+-----------------------------------------------------------------
+temp_change_mw_4b_p.txt
+# changes for lines in ad4a_rev1.txt with status code = p.
+# Replace the mw accent with the pwg accent, in metaline and headline.
+python ad_change4b.py p ad4a_rev1.txt temp_mw_4.txt temp_change_mw_4b_p.txt
+
+# edit temp_change_mw_4b_p.txt and resolve the '**' cases manually.
+# insert temp_change_mw_4b_p.txt into change_mw_4.txt
+python updateByLine.py temp_mw_3.txt change_mw_4.txt temp_mw_4.txt
+5918 change transactions from change_mw_4.txt
+
+-----------------------------------------------------------------
+temp_change_mw_4b_x.txt
+# changes for lines in ad4a_rev1.txt with status code = x.
+# correct the accents, in metaline and headline.
+python ad_change4b.py x ad4a_rev1.txt temp_mw_4.txt temp_change_mw_4b_x.txt
+
+# edit temp_change_mw_4b_x.txt and resolve all cases manually.
+# insert temp_change_mw_4b_x.txt into change_mw_4.txt
+python updateByLine.py temp_mw_3.txt change_mw_4.txt temp_mw_4.txt
+change transactions from change_mw_4.txt
+6491 change transactions from change_mw_4.txt
+
+-----------------------------------------------------------------
+python find_accent_diff4a.py ad_cpd_non.txt temp_mw_4.txt temp_pwg_2.txt temp_ad4a_rev2.txt
+write: n=12639, nf = 328, neq=12126, nout=185
+compare to previous run of diff4a
+write: n=12970, nf = 328, neq=11909, nout=733
+
+So we've gone down from 733 to 185 (548 more matches with pwg !)
+To be conservative, let's review the mw print for these 185.
+Best way is to mark all these as 'x', and
+temp_ad4a_rev2x.txt has all the initial '_' changed to 'x'
+python ad_change4b.py x temp_ad4a_rev2x.txt temp_mw_4.txt temp_change_mw_4b_x_rev1.txt
+
+Reviewed through <L>13004<pc>74,2<k1>aBIruRa<k2>a-BI/ruRa,aBIru/Ra<e>2
+and found no discrepancies with mw print. Will assume the rest are ok.
+
+-----------------------------------------------------------------
+find_accent_diff4b.py
+find_accent_diff4a.py improvement to handle mw avagraha in k2.
+example: 31859 old <L>8646<pc>45,3<k1>anyatoraRya<k2>anya/to-'raRya<e>3
+
+python find_accent_diff4b.py ad_cpd_non.txt temp_mw_4.txt temp_pwg_2.txt temp_ad4b.txt
+write: n=12639, nf = 328, neq=12130, nout=181
+write: n=12639, nf = 328, neq=12134, nout=177
+ We have mw-pwg matches for 8 additional items, since now avagraha ("'")
+ is removed (in both mw and pwg) before comparison of k2mw and k2pwg.
+
+-----------------------------------------------------------------
+ad_cpd.txt is a copy of temp_ad4b.txt, with the status changed from
+'_' to '+'.
+This contains the remaining pwg headwords where
+(a) there is an accent in pwg
+(b) there is an accent in mw
+(c) The set of accented mw k2 is NOT equal to the set of accented pwg k2.
+
+-----------------------------------------------------------------
+cat ad_cpd_non.txt ad_cpd.txt > ad4b.txt
+
+ad4b.txt contains known disagreements between mw and pwg, for cases
+where pwg has an accent, and mw has an accent.
+
+--------------------------------------------------------------------------
+install  temp_mw_4.txt to check xml
+cp temp_mw_4.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# correct errors
+# rerun until
+ #prints 'ok'
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue141
+
+-----------------------------------------------------------------
+We might still have an accented pwg headword 
+(a) which is also an mw headword, and 
+(b) no mw entry for this headword has an accent.
+
+python find_accent_diff4c.py ad4b.txt temp_mw_4.txt temp_pwg_2.txt temp_ad4c.txt
+write: n=6293, nf = 32, neq=0, nout=6261
+
+6261 is a huge number to examine, but there is no other way. Need
+to classify as +,p,x. All the k2mw cases are unaccented currently in mw.txt.
+
+Take 5 days to examine all the cases, and mark them as '+','p','x','c'.
+# save our hard-won markup so git will track.
+cp temp_ad4c.txt ad4c.txt 
+-
+'p' means mw needs an accent, and the accent is provided by pwg.
+'c' means mw needs a change to metaline '<pc>' value;
+      a few also require an accent and the accent may differ from pwg.
+'x' mw needs an accent and the accent may differ from pwg.
+'+' mw print shows no accent
+5460 matches for "^[+]" in buffer: ad4c.txt
+635 matches for "^p" in buffer: ad4c.txt
+ 95 matches for "^c" in buffer: ad4c.txt
+ 71 matches for "^[x]" in buffer: ad4c.txt
+(+ 5460 635 95 71) = 6261
+There will be some revisions to these counts after 4c_x below
+---------------------------------------------------------------------------
+touch change_mw_5.txt
+cp temp_mw_4.txt temp_mw_5.txt
+
+-----------------------------------------------------------------
+# ad_change4c.py handles 'c' 
+# Also adapts handling of 'p'
+# handle the 'p' cases
+python ad_change4c.py p ad4c.txt temp_mw_5.txt temp_change_mw_4c_p.txt
+#changes for 927 entries written to temp_change_mw_4c_p.txt
+#make_changes_4a1: 142 changes marked "**" - manual check required
+# manual adjustments to temp_change_mw_4c_p.txt
+# insert temp_change_mw_4c_p.txt into change_mw_5.txt
+
+python updateByLine.py temp_mw_4.txt change_mw_5.txt temp_mw_5.txt
+# 1626 change transactions from change_mw_5.txt
+
+# rerun find_accent_diff4c.py with revised temp_mw_5.txt
+python find_accent_diff4c.py ad4b.txt temp_mw_5.txt temp_pwg_2.txt temp_ad4c_rev1.txt
+write: n=5658, nf = 32, neq=0, nout=5626
+compare to prior:
+write: n=6293, nf = 32, neq=0, nout=6261
+(- 6261 5626) 635  so we have reduced the mw-pwg mismatches by 635,
+  which is just the number expected  (the number of "p" cases)
+
+-----------------------------------------------------------------
+# handle the 'c' cases
+python ad_change4c.py c ad4c.txt temp_mw_5.txt temp_change_mw_4c_c.txt
+# 95 adrecs with status c
+# changes for 267 entries written to temp_change_mw_4c_c.txt
+# make_changes_4a1: 0 changes marked "**" - manual check required
+
+# edit temp_change_mw_4c_c.txt and correct the 'pc' in metaline.
+# In a few cases, there will be mw accent changes.
+# insert temp_change_mw_4c_c.txt into change_mw_5.txt
+
+python updateByLine.py temp_mw_4.txt change_mw_5.txt temp_mw_5.txt
+1745 change transactions from change_mw_5.txt
+
+# rerun find_accent_diff4c.py with revised temp_mw_5.txt
+python find_accent_diff4c.py ad4b.txt temp_mw_5.txt temp_pwg_2.txt temp_ad4c_rev2.txt
+write: n=5650, nf = 32, neq=0, nout=5618
+previous: write: n=5658, nf = 32, neq=0, nout=5626
+  so we solved 8 of the accent differences.
+
+-----------------------------------------------------------------
+# handle the 'x' cases
+python ad_change4c.py x ad4c.txt temp_mw_5.txt temp_change_mw_4c_x.txt
+#71 adrecs with status x
+#changes for 219 entries written to temp_change_mw_4c_x.txt
+# manual update of temp_change_mw_4c_x.txt
+# insert temp_change_mw_4c_x.txt into change_mw_5.txt
+
+python updateByLine.py temp_mw_4.txt change_mw_5.txt temp_mw_5.txt
+1978 change transactions from change_mw_5.txt
+
+Revised counts (some 'x' items moved to '+', my clerical error)
+5467 matches for "^[+]" in buffer: ad4c_rev1.txt
+636 matches for "^p" in buffer: ad4c_rev1.txt
+ 95 matches for "^c" in buffer: ad4c_rev1.txt
+ 63 matches for "^[x]" in buffer: ad4c_rev1.txt
+(+ 5467 636 95 63) = 6261 check.
+
+
+-----------------------------------------------------------------
+cat ad4b.txt ad4c.txt > ad5a.txt
+# then change all 'status' to '+' in the ad4c part.
+
+ad5a.txt contains all examined disagreements between pwg and mw, where
+pwg has an accent, and mw may or may not have an accent.
+
+
+python find_accent_diff4c.py ad5a.txt temp_mw_5.txt temp_pwg_2.txt temp_ad4c_rev3.txt
+# write: n=32, nf = 32, neq=0, nout=0
+
+# now remove any restriction on
+python find_accent_diff5a.py ad5a.txt temp_mw_5.txt temp_pwg_2.txt temp_ad5a_rev0.txt
+# prepare_dict_mw: 194046
+# prepare_dict_pw: 20657
+# write: n=12494, nf = 360, neq=12134, nout=0
+neq1 = 10721, neq2 = 1413 (+ 10721 1413) = 12134)
+
+Explanation
+1. start with all k1 of pwg where k2 has an accent. (20657 of these)
+2. start with all k1 of mw, where k2 may or may not have accent (194046 of these)
+3. With few exceptions ('ant'), ignore cases where k1-pwg not found in mw
+   (360 of these)
+4. Also, ignore all k1 appearing in ad5a.txt
+
+There are 12494 k1 in total.
+For each such k1, look at the set of k2 from pwg : set(k2pwg)
+And, look at the set of k2 from mw: set(k2mw).
+If set(k2mw) == set(k2pwg), count as ok, and increment neq1
+if set(k2mw) == set(k2pwg).union(list[k1]), count as ok, and increment neq2.
+Otherwise, count as NOT ok, and increment nout.
+
+As expected, nout = 0. And neq1 and neq2 are as above.
+
+THIS FINISHES THE STUDY OF CASES pwg headwords with an accent.
+
+It remains to examine cases where mw has an accent, EXCLUDING
+the cases thus far examined.
+This will be the next step.
+
+-----------------------------------------------------------------
+install  temp_mw_5.txt to check xml
+cp temp_mw_5.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# correct errors
+# rerun until
+ #prints 'ok'
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue141
+-----------------------------------------------------------------
+# commit to csl-orig: 70b7392b59bad245492e6a06696e3b504dd2b0b6
+# commit to mws repository: 
+
+
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+TODO
+NOTE: anya/to'raRya  ' in k2pwg   apuro'nuvAkya^ka
+pwg: ftu\Sa/s   prA/cInayogIpu/tra  (also mw shows 2 accents!) va/naspa/ti
+mw prA/SnI-putra/
+<L>185990<pc>918,1<k1>vanaspati<k2>va/na-s-pa/ti<h>a<e>3
+<L>189485<pc>934,3<k1>vAtajUta<k2>vA/ta—jUta^<e>3
+=====
+girijA in mw:  not a pwg headword. cdsl incorrectly shows 'inherited' accent
+bahutiTa print change see page 626 -> see page 726  va/naspa/ti
+<L>258981<pc>1280,3<k1>svapnanaMSana mw print shows only svapna-na
+  page 1280 may is truncated in 3rd column.
+  https://archive.org/details/in.ernet.dli.2015.31959/page/n1318/mode/1up
+  page 160 truncated
+Mismarked in k2, but NOT in pwg, so not yet caught.
+
+<L>1321<pc>6,3<k1>agrepA<k2>agre—pA/<e>3
+  headline pU/ not marked.  This is an OR with two words
+<L>1405.1<pc>7,1<k1>aGnyA<k2>a/-GnyA<e>2B
+<L>1405.2<pc>7,1<k1>aGnyA<k2>a/-GnyA<e>2B
+<L>16138<pc>92,1<k1>arDaKArI<k2>arDa/—KArI<e>3 no accent - and others
+<L>20166.6<pc>116,1<k1>azAQA<k2>a/-zAQA<e>1B
+<L>126351<pc>636,3<k1>purunizWA<k2>puru/—nizWA<e>3
+<L>162307<pc>807,2<k1>mAtfbanDU<k2>mAtf/—banDU<e>3B
+<L>204122<pc>1008,1<k1>vfkatAti<k2>vf/ka—tAti<e>3
+<L>113613<pc>576,1<k1>paYcacitIka<k2>paYca—citIka<e>3  pa/
+<L>114548<pc>580,1<k1>paqvISa<k2>paq—vISa<e>3 pa/
+<L>114549<pc>580,1<k1>paqviMSa<k2>pa/q—viMSa<e>3 pa/
+<L>128466.1<pc>646,1<k1>pfTivizWA<k2>pfTivi—zWA<e>4
+<L>140878<pc>711,3<k1>pruzvA<k2>pruzvA/<e>2B info or
+<L>25998<pc>149,2<k1>Arti<k2>Arti<e>2  text refers to hom1 and 2, but no h2.
+
+NEW or entries for L=5164  5164.1, 5164.2, 5164.3
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+2229 matches for "<k2>[^<]*[\/^][^<]*[\/^][^<]*<" in buffer: temp_mw_4.txt
+example: <L>96<pc>1,2<k1>aMsadaGna<k2>a/Msa—daGna/<e>3
+<L>126347<pc>636,3<k1>puruDa<k2>puru—Da/<e>3 headline
+<L>126348<pc>636,3<k1>puruDA<k2>puru/—DA/<e>3 headline
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+-----------------------------------------------------------------
 -----------------------------------------------------------------
 -----------------------------------------------------------------
 
 mw page 87 3rd col. truncated
 https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=mw&page=0087
 mw page 648 3rd col. problem
+mw page 142 problems
+mw page 728
+page 796
+

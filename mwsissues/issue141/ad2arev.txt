@@ -66,7 +66,10 @@ vAstozpatya	vAstozpatya	vAstozpatya^	949,1
 vIqvaNga	vIqvaNga	vIqva^Nga	1005,1
 vyazwakA	vyazwakA	vya^zwakA	1028,3,1034,3
 vyAsAcala	vyAsAcala	vyAsAcala^	1035,2
-SaMyvanta	SaMyva^nta	SaMyva^nta	1054,2
+; SaMyvanta not a difference between mw and pwg. Program
+; find_accent_diff2a.py erroneously considered it a difference,
+; probably because of the accent in middle of a 'vant'
+;SaMyvanta	SaMyva^nta	SaMyva^nta	1054,2  
 Saravya	Saravya	Saravya^	1056,3,1057,3
 SIrzacCedya	SIrzacCedya	SIrzacCedya^	1078,3
 Svanvant	NF	Sva^nvant	NF

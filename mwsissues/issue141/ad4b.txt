@@ -1,0 +1,548 @@
++	akzarya	akzarya	akzarya^	3,3
++	aRavya	aRavya	aRavya^	11,3
++	aDamArDya	aDamArDya	aDamArDya^	19,3
++	aDyarDapaRya	aDyarDapaRya	aDyarDapaRya^	23,1
++	aDyarDapAdya	aDyarDapAdya	aDyarDapAdya^	23,1
++	aDyarDamAzya	aDyarDamAzya	aDyarDamAzya^	23,1
++	aDyarDaSatya	aDyarDaSatya	aDyarDaSatya^	23,1
++	aDyarDaSARya	aDyarDaSARya	aDyarDaSARya^	23,1
++	aDvanya	aDvanya	aDvanya^	24,1
++	antarya	antarya	antarya^	44,1
++	apUpya	apUpya	apUpya^	56,2
++	ayasya	NF	ayasya^	NF
++	azwakya	azwakya	azwakya^	117,1
++	ahiGnI	NF	ahiGnI^	NF
++	AkASya	AkASya	AkASya^	127,1
++	AlamBya	AlamBya	AlamBya^	153,2
++	uttamaraTya	NF	uttamaraTya^	NF
++	udApyam	NF	udApya^m	NF
++	upalamBya	upalamBya	upalamBya^	206,1
++	ulmukya	NF	ulmukya^	NF
++	Ekzavya	NF	Ekzavya^	NF
++	kawakya	kawakya	kawakya^	243,3
++	kambalya	kambalya	kambalya^	253,1
++	karRecurucurA	karRecurucurA	ka^rRecurucurA	257,2
++	kArdama	kArdama	kArdama^	275,3
++	kAsmarya	NF	kAsmarya^	NF
++	caravya	caravya	caravya^	390,1,390,2
++	cikIrzya	cikIrzya	cikIrzya^	395,1
++	jagatya	jagatya	jagatya^	408,1
++	jihIrzya	jihIrzya	jihIrzya^	421,3
++	jEtrAyaRi	jEtrAyaRi	jE^trAyaRi	425,1
++	jEvantAyani	jEvantAyani	jE^vantAyani	425,1
++	talIqya	NF	talIqya^	NF
++	tAlavya	tAlavya	tAlavya^	445,2
++	tilya	tilya	tilya^	448,2
++	tryara	tryara	trya^ra	463,1
++	tryaSIti	tryaSIti	trya^SIti	463,1
++	DenuzyA	DenuzyA	DenuzyA^	520,2
++	nirupapada	nirupapada	nirupa^pada	540,3
++	nyokas	nyokas	nyo^kas	573,1
++	nyojas	nyojas	nyo^jas	573,2
++	pawavya	NF	pawavya^	NF
++	paRya	paRya	paRya^	580,2
++	pAkya	pAkya	pAkya^	614,1
++	puronuvAkyavant	NF	puro'nuvAkya^vant	NF
++	puzarya	NF	puzarya^	NF
++	pUrvArDya	pUrvArDya	pUrvArDya^	644,3
++	pfTukya	pfTukya	pfTukya^	647,1
++	prAsaNgya	prAsaNgya	prAsaNgya^	702,3
++	bahvakzara	bahvakzara	bahva^kzara	726,2
++	bahvaDyana	NF	bahva^Dyana	NF
++	bahvaDyAya	bahvaDyAya	bahva^DyAya	726,2
++	brahmavarcasya	brahmavarcasya	brahmavarcasya^	739,3
++	Bojya	Bojya	Bojya^	760,1,768,2
++	BojyozRa	BojyozRa	Bojyo^zRa	768,2
++	maNgalya	maNgalya	maNgalya^	773,1,773,2
++	kaRwakArikA	kaRwakArikA	kaRwakArikA^	245,2
++	yavakya	yavakya	yavakya^	847,3
++	yAdrADya	NF	yAdrADya^	NF
++	yogISvara	yogISvara	yogISvara^	857,3
++	rahasya	rahasya	rahasya^	871,2
++	rAjamAzya	rAjamAzya	rAjamAzya^	873,3
++	lalAwya	lalAwya	lalAwya^	898,2
++	vayasya	vayasya	vayasya^	920,3
++	vAstozpatya	vAstozpatya	vAstozpatya^	949,1
++	vIqvaNga	vIqvaNga	vIqva^Nga	1005,1
++	vyazwakA	vyazwakA	vya^zwakA	1028,3,1034,3
++	vyAsAcala	vyAsAcala	vyAsAcala^	1035,2
+; SaMyvanta not a difference between mw and pwg. Program
+; find_accent_diff2a.py erroneously considered it a difference,
+; probably because of the accent in middle of a 'vant'
+;SaMyvanta	SaMyva^nta	SaMyva^nta	1054,2  
++	Saravya	Saravya	Saravya^	1056,3,1057,3
++	SIrzacCedya	SIrzacCedya	SIrzacCedya^	1078,3
++	Svanvant	NF	Sva^nvant	NF
++	SvaSurya	SvaSurya	SvaSurya^	1105,3
++	zARmAsya	zARmAsya	zARmAsya^	1111,1
++	saktavya	saktavya	saktavya^	1132,3
++	saMBArya	NF	saMBArya^	NF
++	syandyA	syandyA	syandyA^	1273,2
++	svaraMkfta	svaraMkfta	sva^raMkfta	1282,1
++	svASita	svASita	svA^Sita	1284,2
++	haritya	NF	haritya^	NF
++	nIvyA	NF	nIvyA^	NF
+; **********************************************************
+; ad3b_rev.txt
+; status : key : mw k2 accented : pwg k2 accented : mw pc
+; + (214) the mwk2 agrees with print (as previously determined by ad3_rev.txt)
+; ++ ( 63) the mwk2 agrees with print (by current examination)
+; adhoc rules generally followed where relevant
+; Rule 1: only one accent per headword. Drop accent inherited from parent.
+; Rule 2: parent Xa/Ya  Child (<s>am</s>) Xa/yam   (i.e., inherited)
+;    Example uttaram
+; RULE 3: do not inherit accent in compound (similar to Rule 1)
+; **********************************************************
++	aMhati    	aMhati/        	aMhati/ a/Mhati aMha/ti	1,2
++	akzita    	akzita/ a/kzita	a/kzita        	1308,2 4,1
++	agrya     	agrya/         	a/grya         	6,3
++	ajina     	aji/na         	aji/na ajina/  	10,2
++	ajma      	a/jma          	ajma/          	9,3 10,3
++	atrin     	atri/n         	atri/n a/trin  	17,2
++	aTarvI    	aTarvI/        	aTa^rvI        	17,3 1310,1
++	aDarAk    	aDarA/k        	aDa/rA/k       	20,1
++	aDarAt    	aDarA/t        	a/DarAt aDarA/t	19,3 20,1
++	aDastAt   	aDa/stAt       	a/DastAt       	20,2
++	anila     	a/nila         	anila/         	30,1 1311,3
++	anyodarya 	anyo/darya     	a/nyodarya     	45,3
++	apara     	a/para apara/  	a/para         	50,2 50,3 1314,1
++	apAcya    	apAcya/        	apAcya^        	54,1
++	apsu      	a/psu apsu/    	a/psu          	47,3 59,3
++	aBIka     	aBI/ka         	a/BIka aBI/ka  	74,2 74,3
++	amuTA     	amu/TA         	amu^TA         	82,1
++	ambara    	a/mbara        	a/mbara amba/ra	83,2
++	ambarIza  	ambarI/za      	amba/rIza ambarI/za	83,2
++	ararinda  	arari/nda      	arari^nda      	87,2
++	arAvan    	a/rAvan        	a/rAvan arA/van	87,3
++	ari       	ari/           	ari/ a/ri      	86,2 87,3
++	arcatrya  	arcatrya^      	arca/trya      	90,1
++	arbuda    	a/rbuda arbuda/	arbuda/        	93,1 1316,3
++	arBa      	a/rBa arBa/    	a/rBa          	93,1
++	arvAcIna  	arvAcIna/ arvAcI/na	arvAcIna/      	93,2
++	alIka     	a/lIka         	alIka/ a/lIka  	95,1
++	avArya    	avArya^        	avArya^ avArya/	107,2
++	aSanAyA   	aSanAyA/ aSanA/yA	aSanAyA/       	112,3
++	aSitavya  	aSitavya^      	aSita/vya      	112,3
++	aSman     	a/Sman         	a/Sman aSma/n  	114,1
++	aSri      	a/Sri          	a/Sri aSri/    	114,2
++	aSvaka    	aSvaka/        	aSvaka/ a/Svaka	115,3 1318,1
++	aSvABiDAnI	aSvABiDA/nI    	aSvABiDAnI/    	115,3
++	asita     	a/sita         	a/sita asita/  	120,3 1318,2
++	astA      	astA/ a/stA    	a/stA          	122,1 122,2
++	aha       	a/ha           	a/ha aha/      	124,1 1318,3
++	ahIna     	a/hIna         	ahI/na a/hIna  	124,2 125,3
++	Agnizwomika	A/gnizwomika   	A/gnizwomika Agnizwomika/	130,2
++	AtiTya    	AtiTya/        	A/tiTya AtiTya/	134,3
++	Adya      	Adya/ Adya^    	Adya^ A/dya    	137,1 138,1
++	ADvarika  	A/Dvarika      	ADvarika/      	139,3
++	Ana       	Ana/           	Ana/ A/na      	139,3
++	Apya      	A/pya          	A/pya Apya/    	142,2 1319,3 144,1
++	AmikzA    	Ami/kzA        	Ami/kzA AmikzA/	146,3
++	Ayu       	Ayu/           	Ayu/ A/yu      	148,3
++	Arkzya    	Arkzya/        	A/rkzya Arkzya/	151,2
++	ArzwizeRa 	ArzwizeRa/     	A/rzwizeRa     	153,1
++	Avaya     	Avaya/         	Avaya/ A/vaya  	154,3
++	iti       	i/ti           	i/ti iti/      	163,3 165,1 1320,3 ?
++	iByA      	i/ByA          	iByA/          	167,3
++	IzIkA     	IzI/kA         	I/zIkA         	171,2
++	ukzaRyAyana	ukzaRyA/yana   	ukzaRyA^yana   	172,1
++	uttaram   	u/ttaram       	uttara/m       	178,1  inherit
++	uttarA    	u/ttarA        	uttarA/        	178,1 179,1  inherit
++	udumbara  	udumba/ra      	udu/mbara      	186,3 1321,3
++	udumbala  	udumba/la udumbala/	udumbala/      	186,3
++	uraRa     	u/raRa         	u/raRa uraRa/  	217,2
++	urupraTas 	urupra/Tas uru/praTas	urupra/Tas     	218,1
++	urvarya   	urvarya^ urva/rya	urvarya^       	218,2
++	ulapa     	u/lapa         	u/lapa ula/pa  	218,2
++	ulbaRa    	ulba/Ra ulbaRa/	ulbaRa/        	219,1
++	Urvya     	Urvya/ U/rvya  	U/rvya         	221,3 1322,3
++	fgmiya    	fgmi/ya fg/miya	fgmi/ya f/gmiya	225,1
++	fjra      	fjra/          	fjra/ f/jra    	225,3
++	ftviya    	ftvi/ya        	ftvi/ya f/tviya	224,2 224,3 226,1
++	ekAkzara  	ekAkzara/      	e/kAkzara ekAkzara/	229,3 230,1
++	ekAdaSa   	ekAdaSa/ e/kAdaSa	ekAdaSa/       	230,1
++	OkzRa     	O/kzRa OkzRa/  	OkzRa/         	236,2
++	Ottaravedika	O/ttaravedika  	O^ttaravedika  	237,1
++	kakza     	ka/kza         	ka/kza kakza/  	241,3
++	kakzya    	ka/kzya        	ka/kzya kakzya^	242,1
++	kadru     	ka/dru         	ka/dru kadru/  	248,1
++	kanInaka  	kanInaka/ kanI/naka	kanI/naka      	248,3
++	kanyA     	kanyA^         	kanyA^ kanyA/  	249,1
++	kara      	kara/          	kara/ ka/ra    	253,1 254,3
++	karaRa    	ka/raRa        	karaRa/ ka/raRa	254,1 1324,1 255,1
++	karIra    	karI/ra        	karI^ra        	255,2
++	kartavya  	ka/rtavya kartavya^	karta/vya      	257,3
++	karvara   	ka/rvara       	ka/rvara karvara/	259,3
++	kalA      	kalA/          	ka/lA          	260,2 261,1 261,2
++	kAya      	kAya/          	kAya/ kA/ya    	274,1
++	kAvazeya  	kAvazeya/ kA/vazeya	kAvazeya/      	280,1
++	kASi      	kASi/          	kA/Si          	280,2 280,3
++	kAzWa     	kAzWa/         	kA/zWa         	281,1
++	kIlAla    	kIlA/la kIlAla/	kIlA/la        	285,2 285,3
++	kumbyA    	ku/mbyA kumbyA^	ku/mbyA        	292,3
++	kurIra    	kurI/ra        	kurI/ra ku/rIra	294,1
++	kulyA     	kulyA^         	kulyA/ kulyA^  	295,3 296,2
++	kuSri     	kuSri/ ku/Sri  	kuSri/         	297,3
++	kfdara    	kf/dara        	kf/dara kfdara/	305,1
++	kfpaRa    	kfpaRa/ kfpa/Ra	kfpaRa/ kfpa/Ra kf/paRa	305,1
++	kfmuka    	kfmuka/        	kfmu/ka        	305,3
++	kfzRala   	kfzRa/la       	kfzRala/       	308,1
++	kESorya   	kE/Sorya       	kESorya/       	312,1
++	koza      	koza/          	ko/za koza/    	314,2
++	kORqinyAyana	kO/RqinyAyana kORqinyAyana/	kO/RqinyAyana  	315,3
++	kOzItakeya	kO/zItakeya    	kOzItakeya/    	318,2
++	KAdira    	KAdira/        	KA/dira        	339,2
++	gavya     	ga/vya         	ga/vya gavya/  	351,3 352,1
++	gavyA     	ga/vyA gavyA/  	gavyA/         	351,3
++	guhA      	guhA/ gu/hA    	gu/hA          	360,2 360,3
++	grahaRI   	gra/haRI       	grahaRI/       	372,3
++	grABa     	grABa/         	grA/Ba         	372,3
++	grAmaRIya 	grA/maRIya     	grAmaRI/ya     	373,3
++	Gfta      	Gfta/          	Gf/ta/         	378,2 379,1
++	GrAtavya  	GrAtavya^      	GrAta/vya      	380,1
++	caRqa     	ca/Rqa         	caRqa/         	383,1
++	caturTa   	caturTa/       	caturTa/ ca/turTa	385,2 386,2
++	jaGanya   	jaGanya^       	jaGanya/ jaGanya^	408,3
++	jana      	ja/na          	ja/na jana/    	410,1 410,2
++	jani      	ja/ni          	ja/ni jani/    	411,1
++	jantva    	ja/ntva        	jantva^        	411,2
++	ja|u      	ja/|u          	ja|u/          	416,2
++	javas     	ja/vas java/s  	ja/vas         	416,2 1327,3
++	jAtya     	jA/tya         	jAtya^         	418,2
++	jyEzWya   	jyE/zWya       	jyE^zWya       	427,1
++	Jaza      	Jaza/          	Jaza^          	429,1
++	tadAnIm   	tadA/nIm       	tadA^nIm       	434,3
++	tanti     	tanti/         	ta/nti tanti/  	436,1 436,3
++	taru      	ta/ru          	ta/ru taru/    	439,1 439,2
++	tarda     	tarda/         	ta/rda         	440,2 1328,1
++	tArpya    	tArpya/ tArpya^	tArpya^        	444,3
++	tila      	ti/la tila/    	tila/          	448,1
++	tura      	tura/          	tu/ra tura/    	450,3 451,1
++	turParItu 	turPa/rItu     	tu/rParItu     	451,2
++	tUtuji    	tU/tuji tUtuji/	tU/tuji        	452,2 452,3
++	tfptAMSu  	tfptA/MSu      	tfptA^MSu      	454,1
++	tyAga     	tyAga/         	tyA/ga         	456,3
++	trEvaRIya 	trE/vaRIya     	trEvaRI/ya     	462,2
++	tvAyA     	tvAyA/         	tvA/yA         	463,2 1328,2
++	dakza     	da/kza         	dakza/ da/kza  	465,1
++	dakziRA   	da/kziRA dakziRA/	dakziRA/       	465,2 466,1 inherit
++	dakziRAt  	da/kziRAt      	dakziRA/t      	465,2 466,1 inherit
++	dama      	da/ma          	dama/          	469,2
++	daSama    	daSama/        	daSama/ da/Sama	472,3
++	dAtra     	dA/tra         	dAtra/ dA/tra  	474,3
++	dAnu      	dA/nu          	dA/nu dAnu/    	474,2 474,3
++	dAruRa    	dAruRa/ dA/ruRa	dAruRa/        	476,1
++	dArBya    	dArBya/ dArBya^	dArBya/        	476,2
++	dAvan     	dAva/n         	dAva/n dA/van  	474,2
++	dina      	dina/ di/na    	di/na          	478,1
++	divya     	divya/ di/vya  	divya/         	479,2
++	dohas     	do/has         	doha/s do/has  	499,1
++	dohita    	do/hita        	dohita/        	499,1 inherit
++	dohin     	do/hin         	dohi/n         	499,1 inherit
++	dravat    	dra/vat drava/t	drava/t        	500,3
++	drazwavya 	drazwavya^     	drazwa/vya     	501,2
++	drApi     	drApi/         	drA/pi         	501,3
++	drogDavya 	drogDavya/     	drogDa/vya     	502,3
++	Danu      	Da/nu          	Danu/ Da/nu    	509,1 1329,2
++	DurA      	Du/rA DurA/    	DurA/          	517,2 517,3
++	Druvi     	Druvi/         	Dru/vi         	521,3
++	nagara    	na/gara        	nagara/        	525,1
++	nAga      	nAga/          	nA/ga          	532,3 533,1
++	nArya     	nArya/         	nA/rya         	537,2
++	nidAna    	nidAna/ nidA/na	nidA/na        	548,1
++	nindya    	nindya^ ni/ndya	ni/ndya        	549,2
++	nfti      	nfti/          	nfti/ nf/ti    	568,3
++	paraSu    	paraSu/        	paraSu/ pa/raSu	589,2
++	parAsya   	parA/sya parAsya^	parA/sya       	591,1
++	paruza    	paruza/ paru/za	paruza/        	605,3 606,1
++	parRya    	parRya^        	pa/rRya        	606,3
++	pAka      	pA/ka          	pA/ka pAka/    	613,3 614,1
++	pAdya     	pA/dya         	pA/dya pAdya^  	618,2
++	pAna      	pA/na          	pA/na pAna/    	613,1 613,2 618,2
++	puzwi     	pu/zwi puzwi/  	puzwi/         	639,1 639,2
++	pftanAj   	pf/tanAj       	pftanA/j       	645,3
++	pfzWya    	pfzWya^ pf/zWya	pfzWya^ pfzWya/	648,1
++	potra     	potra/         	potra/ po/tra  	650,1
++	pratIcya  	pratI/cya      	pratIcya^      	675,1
++	pravat    	prava/t pra/vat	prava/t        	690,2 1330,3
++	prASitavya	prASitavya^    	prASita/vya    	709,2
++	plASi     	plASi/         	plA/Si         	715,1
++	bala      	bala/          	ba/la          	722,3
++	bAlya     	bA/lya bAlya^  	bAlya/         	729,3
++	bAhava    	bAha/va        	bAha/va bAhava/	730,1
++	brahmaRya 	brahmaRya/     	brahmaRya^     	741,1
++	Bartavya  	Bartavya^      	Ba/rtavya      	748,1 748,2
++	Bavitavya 	Bavitavya^     	Bavita/vya     	749,3
++	BAga      	BAga/          	BA/ga BAga/    	751,2 751,3
++	BAmin     	BAmi/n         	BA/min         	751,1 752,3
++	Bikzitavya	Bikzitavya^    	Bikzita/vya    	756,3
++	Boga      	Boga/          	Boga/ Bo/ga    	767,2
++	BOvAyana  	BOvAyana/      	BOvA/yana      	769,1
++	makara    	ma/kara        	maka/ra        	771,2
++	maDyA     	ma/DyA maDyA/  	maDyA/         	781,3 782,3 inherit
++	mantavya  	mantavya^      	manta/vya      	785,3 787,1
++	marka     	marka/         	marka/ ma/rka  	791,1
++	malimlu   	mali/mlu malimlu/	mali/mlu       	792,3
++	mahi      	ma/hi          	mahi/ ma/hi    	802,3 803,1 803,3
++	mahiman   	ma/hima/n      	mahima/n       	803,1 803,3
++	mahokza   	mahokza/ maho/kza	mahokza/       	802,2 804,1
++	mAna      	mA/na          	mA/na mAna/    	804,3 809,1 809,3 1331,2
++	muhu      	mu/hu muhu/    	mu/hu          	825,1
++	mfgayA    	mf/gayA        	mfgayA/        	829,2  inherit
++	mehanA    	me/hanA meha/nA	meha/nA        	834,1  inherit
++	Aqambara  	Aqa/mbara      	Aqamba/ra      	133,3
++	ASvameDa  	ASvameDa/      	ASvame/Da      	159,1
++	kroSa     	kro/Sa         	kroSa/         	322,2 323,1
++	Kaqga     	Kaqga/         	Ka/qga         	335,3
++	banDura   	ba/nDura       	banDura/       	721,2
++	yajamAna  	ya/jamAna      	ya/jamAna yajamAna/	839,1
++	yajas     	ya/jas         	yaja^s         	839,1
++	yamya     	yamya^         	ya/mya yamya^  	847,1
++	yahu      	ya/hu          	yahu/          	849,1
++	yuvat     	yu/vat         	yuva/t         	855,3
++	yoktavya  	yoktavya^      	yoktavya/      	854,3 856,2
++	rakzas    	ra/kzas        	ra/kzas rakza/s	860,1
++	raji      	raji/ ra/ji    	raji/          	861,1 1331,3
++	raRya     	ra/Rya         	ra/Rya raRya^  	864,1 864,2
++	raTI      	ra/TI raTI/    	raTI/          	865,2 866,2
++	ranDi     	ra/nDi         	ranDi/         	866,3
++	rAjaka    	rAjaka/        	rAjaka/ rA/jaka	874,3
++	rAjan     	rAja/n         	rA/jan rAja/n  	874,3 875,1
++	rAmyA     	rA/myA rAmyA/  	rAmyA/         	878,3
++	ruDira    	ruDira/ ru/Dira	ruDira/        	884,2 884,3
++	rOdra     	rO/dra rOdra/  	rOdra/         	891,1
++	vaktavya  	vaktavya^      	vakta/vya      	911,2 912,2
++	vacasya   	vacasya^       	vacasya^ vacasya/	913,1
++	vaDatra   	vaDatra/ va/Datra	va/Datra       	916,3
++	varAhu    	varAhu/        	varA/hu        	923,2
++	vasantA   	vasa/ntA vasantA/	vasa/ntA       	930,2
++	vasA      	va/sA vasA/    	va/sA          	930,2 932,3 933,1
++	vAtApya   	vA/tApya       	vAtA/pya       	935,1
++	vArzRa    	vA/rzRa vArzRa/	vA/rzRa        	946,1
++	vAsava    	vAsava/        	vA/sava        	948,1
++	vAhasa    	vAhasa/        	vA/hasa        	949,2
++	vigra     	vi/gra vigra/  	vigra/         	959,3
++	vidAna    	vi/dAna vidAna/	vidA/na        	963,3 965,1 965,3
++	vinA      	vi/nA vinA/    	vi/nA          	969,3
++	vizA      	vi/zA          	vizA/          	995,2 997,3 inherit
++	vIci      	vI/ci          	vI/ci vIci/    	1004,3
++	vIti      	vIti/          	vI/ti          	1004,1 1004,2 1005,1
++	vfSa      	vf/Sa          	vfSa/          	1011,3
++	vfzala    	vfzala/ vf/zala	vfzala/        	1013,1
++	vfzRi     	vfzRi/ vf/zRi  	vfzRi/         	1013,2
++	veda      	veda/          	ve/da veda/    	1015,1 1015,2 1015,3 1017,2 1017,3 1018,1
++	veditavya 	veditavya^     	vedita/vya     	1017,2
++	vEdeha    	vEdeha/ vE/deha	vE/deha        	1022,2
++	vyaTA     	vyaTA/         	vya/TA         	1031,1
++	vyAmya    	vyAmya/        	vyAmya^        	1038,1
++	SatAtfRRa 	SatA/tfRRa     	SatAtfRRa/     	1050,3
++	Sastra    	Sastra/ Sa/stra	Sastra/        	1044,1 1060,3
++	SAkala    	SA/kala        	SAkala/        	1062,1
++	SAkina    	SAkina/        	SAkina/ SA/kina	1061,2 1061,3
++	Sigru     	Sigru/         	Si/gru         	1071,1
++	Sipi      	Sipi/          	Si/pi          	1072,1
++	Simyu     	Si/myu         	Simyu/         	1072,2
++	SumBamAna 	Su/mBamAna SumBa/mAna	Su/mBamAna     	1084,1
++	SUna      	SU/na          	SUna/ SU/na    	1085,1 1086,1 1106,2
++	SevfDa    	Se/vfDa SevfDa/	Se/vfDa        	1088,3
++	Srava     	Srava/         	Sra/va         	1096,3 1097,2 1101,1
++	Sruzwi    	Sruzwi/ Sru/zwi	Sruzwi/        	1102,1 1102,2
++	SloRya    	Slo/Rya        	SloRya^        	1104,3
++	saKI      	sa/KI          	saKI/          	1130,2 1130,3 inherit
++	saDrIcIna 	saDrIcI/na     	saDrIcIna/     	1140,3
++	sanaya    	sana/ya sa/naya	sana/ya        	1141,1
++	sanemi    	sa/nemi        	sa/nemi sane/mi	1141,3 1332,3
++	sarvAtman 	sarvAtma/n sa/rvAtman sarvA/tman	sarvAtma/n sa/rvAtman	1188,2
++	savana    	sa/vana        	sa/vana savana/	1190,1 1190,2 1190,3 1191,2
++	savAtya   	savAtya^ savAtya/	savAtya^       	1191,2
++	sANga     	sANga/ sA/Nga  	sA/Nga         	1199,2
++	sUnu      	sUnu/          	sU/nu          	1239,3 1240,2 1241,3 1242,3
++	sUrI      	sU/rI sUrI/    	sUrI/          	1243,1 1244,2 inherit
++	sfdAku    	sf/dAku        	sfdA/ku        	1245,3
++	soBarIyu  	soBarIyu/      	soBarI/yu      	1249,3
++	sOrya     	sO/rya         	sOrya/         	1254,3
++	skamBana  	skamBana/      	ska/mBana      	1257,1
++	sTUri     	sTUri/         	sTU/ri         	1265,3
++	snAvan    	snA/van snAva/n	snA/van        	1267,1
++	svara     	sva/ra svara/  	svara/         	1282,1 1285,1 1285,2
++	hasa      	ha/sa hasa/    	ha/sa          	1294,2
++	hArda     	hA/rda         	hArda/         	1297,2
++	hArya     	hArya^         	hA/rya         	1289,3 1297,2
++	kramaRa   	kra/maRa       	krama/Ra       	320,1
++	akarman   	akarma/n       	a/karman akarma/n	2,1
++	akfta     	a/kfta         	a/kfta akfta/  	2,2
++	akzRayAvan	akzRayA/van    	akzRa/yAvan    	4,1
++	agada     	agada/         	a/gada agada/  	4,2 1308,3
++	aNgirasvat	aNgirasva/t a/Ngirasvat	aNgirasva/t    	8,2
++	acCinnaparRa	acCinnaparRa/  	a/cCinnaparRa acCinnaparRa/	9,2
++	ajarya    	ajarya/        	aja/rya        	10,1
++	atigrAhya 	atigrAhya^     	atigrA/hya     	13,3
++	atimokza  	atimokza/      	atimo/kza      	12,3 15,1
++	atIreka   	atIreka/       	atIre/ka       	15,2 16,2
++	adyut     	adyu/t         	a/dyut         	19,2
++	aDorAma   	aDo/rAma       	aDo^rAma       	20,2
++	aDrija    	aDri/ja        	aDri^ja        	23,3
++	anAgas    	a/nAgas anAga/s	a/nAgas        	27,3
++	anAgA     	a/nAgA         	anAgA/         	27,3
++	anAvraska 	a/nAvraska anAvraska/	anAvraska/     	28,3
++	animiza   	animiza/       	a/nimiza animiza/	29,3 1311,2
++	animizam  	a/nimizam animiza/m	a/nimizam      	29,3
++	anugra    	a/nugra anugra/	a/nugra        	32,1
++	anudrazwavya	anudrazwavya^  	anudrazwa/vya  	33,2 1311,3
++	anumAna   	anumAna/       	anumA/na anumAna/	36,3 37,1
++	anUbanDya 	anUb/anDya     	anUba/nDya     	42,1
++	antideva  	a/ntideva      	antideva/ a/ntideva	44,2 1313,1
++	annAvfD   	annAvf/D       	annA/vfD       	45,2
++	aprARa    	a/prARa aprARa/	aprARa/        	59,2
++	abalya    	abalya^ a/balya	abalya^        	60,1
++	aBicakzaRa	aBica/kzaRa    	aBi/cakzaRa    	62,1
++	aBIruRa   	aBI/ruRa aBIru/Ra	aBIru/Ra       	74,2
++	aByavadAnya	aByavadAnya^ aByavadA/nya	aByavadA/nya   	76,2
++	amata     	a/mata         	a/mata amata/  	80,1
++	amAvAsya  	amAvAsya^      	amAvAsya^ amAvAsya/	81,2
++	ayoni     	a/yoni ayoni/  	a/yoni         	1316,1 86,1
++	aruRapsu  	aruRa/psu      	aruRapsu/      	88,2
++	arvAksAman	arvA/ksAman    	a/rvAksAman    	93,2
++	arvAgbila 	arvA/gbila     	a/rvAgbila     	93,2
++	alaMkAra  	alaMkAra/      	alaMkA/ra alaMkAra/	94,2 1316,3
++	aSezas    	aSe/zas        	a/Sezas        	113,3
++	aSrama    	aSrama/ a/Srama	aSrama/        	114,2
++	aSvajit   	aSvaji/t aSvajit/	aSvaji/t       	115,1
++	azAQa     	a/zAQa         	a/zAQa azA^Qa  	116,2
++	astfta    	a/stfta astfta/	a/stfta        	122,2
++	asTUri    	asTUri/ a/sTUri	asTUri/        	123,1
++	aharpati  	aharpa/ti/ aharpa/ti	aharpa/ti      	124,3
++	AKa       	A/Ka           	AKa/ A/Ka      	128,3
++	Atapa     	Atapa/         	Atapa/ Ata/pa  	134,2 1319,2
++	Atura     	A/tura         	A/tura Atura/  	135,1
++	ArAttAt   	ArA/ttAt       	ArA^ttAt       	150,2
++	AlaBya    	AlaBya^        	AlaBya/        	153,2
++	AstaraRa  	Asta/raRa      	Asta/raRa AstaraRa/	161,2
++	AspAtra   	AspA/tra       	AspA/tra A/spA/tra	159,3 161,3
++	ISAnakft  	ISAnakf/t      	ISAnakf^t      	171,1
++	utsarga   	utsarga/       	utsa/rga       	182,1 182,3
++	udita     	u/dita         	udita/         	186,1 186,2 916,2
++	udgrahaRa 	udgra/haRa     	u/dgra/haRa    	187,2
++	unmattapralapita	u/nmattapralapita	unmattapralapita/	193,3
++	upasartavya	upasa/rtavya   	upasarta/vya   	210,2
++	upasti    	u/pasti upasti/	u/pasti        	210,3
++	upasTa    	upa/sTa upasTa/	upa/sTa        	211,1
++	urukzaya  	urukza/ya uru/kzaya	urukza/ya      	217,3
++	fjukratu  	fjukratu/      	fjukra/tu      	225,2
++	ftajYA    	fta/jYA        	ftajYA/        	223,3
++	ftayuj    	fta/yuj        	ftayu/j        	223,3
++	ftumuKa   	ftumu/Ka       	ftumuKa/       	224,2
++	ftuSas    	ftuSa/s        	ftu\Sa/s       	224,2
++	ekadevatya	ekadevatya^    	ekadeva/tya    	228,1
++	ekapad    	ekapa/d        	e/kapad        	228,2
++	gataSrI   	gata/SrI       	gataSrI/       	347,2
++	giribuDna 	giri/buDna     	giribuDna/     	355,3
++	gomAyu    	go/mAyu        	go/mAyu gomAyu/	366,1
++	jYAtimuKa 	jYAtimuKa/     	jYAti/muKa     	425,3
++	trayodaSa 	tra/yodaSa trayodaSa/	trayodaSa/     	457,2
++	tripuruza 	tripuruza/ tri/puruza	tripuruza/     	459,3
++	triSukra  	tri/Sukra      	triSukra/ tri/Sukra	461,1
++	dakzakratu	dakzakratu/    	da/kzakratu    	465,1
++	dasyuhatya	dasyuha/tya    	dasyu/hatya    	473,1
++	duriti    	duriti/        	du/riti        	485,1
++	devayajya 	devaya/jya     	devayajya^     	494,1
++	dvAdaSa   	dvAdaSa/ dvA/daSa	dvAdaSa/       	503,3
++	dvidevatya	dvidevatya^    	dvideva/tya    	505,1
++	DanuzkAra 	DanuzkA/ra     	DanuzkAra/     	509,2
++	nakzatradarSa	nakzatradarSa/ 	nakzatrada/rSa 	524,2
++	nanu      	na/nu nanu/    	nanu/          	523,1 526,2
++	naBorUpa  	na/BorUpa naBorUpa/	na/BorUpa      	528,1
++	nirdAha   	nirdAha/       	nirdA/ha       	555,2
++	nfSaMsa   	nf/SaMsa       	nf/SaMsa nfSa/Msa	568,1
++	nfzAti    	nfzA/ti        	nf/zAti        	568,1
++	nyahna    	nyahna/        	nya/hna        	572,2
++	parastAt  	pa/rastAt      	para/stAt      	589,1
++	parivfkta 	parivfkta/ pa/rivfkta	pa/rivfkta     	601,2
++	puruzarUpa	pu/ruzarUpa    	puruzarUpa/    	637,2
++	purohan   	puro/han       	puroha/n       	636,1
++	pUrvacitti	pUrva/citti    	pU/rvacitti    	643,2
++	pfTubuDna 	pfTu/buDna     	pfTu/buDna pfTubuDna/	646,3
++	pratijanya	prati/janya    	pra/tijanya    	662,1
++	pratipuruzam	pratipuruza/m  	pratipu/ruzam  	662,2
++	pratira   	pratira/ prati/ra	pratira/       	669,3 674,2
++	pratnavat 	pratnava/t pratna/vat	pratnava/t     	674,2
++	praTamaSravas	praTama/Sravas 	praTamaSra/vas 	679,1
++	praBfti   	pra/Bfti       	praBf/ti pra/Bfti	685,1
++	prasava   	prasava/ pra/sava	prasava/       	697,2 697,3 698,1
++	prahArya  	prahA/rya prahArya^	prahA/rya      	701,2
++	prAyAsa   	prAyAsa/       	prA/yAsa       	702,2
++	prAvAhaReya	prA/vAhaReya   	prAvAhaReya/   	702,3
++	prASnIputra	prA/SnIputra/  	prA/SnIpu/tra  	709,2
++	banDutA   	banDu/tA       	banDutA/       	721,2
++	brahmaRvat	bra/hmaRvat brahmaRva/t	brahmaRva/t    	741,1
++	brAhmakfteya	brAhma/kfteya  	brAhmakfteya/  	741,2
++	BadravAcya	BadravA/cya    	BadravAcya^    	746,2
++	mahartvij 	maha/rtvij mahartvi/j	maha/rtvij     	794,2 794,3
++	mAhArajana	mAhArajana/    	mA/hArajana    	815,2
++	mftyubanDu	mftyuba/nDu mftyu/banDu	mftyu/banDu    	828,1
++	meDapati  	me/Dapati meDa/pati	meDa/pati      	833,1
++	asnAvaka  	asnAva/ka      	asnAvaka/      	123,1
++	yaTAkAmam 	yaTAkA/mam ya/TAkAma/m	yaTAkAma/m     	841,3
++	yuvaddevatya	yuvaddevatya^  	yuvaddeva/tya  	855,2
++	raDracodana	raDracodana/   	raDraco/dana   	866,3
++	lomaSasakTa	lomaSa/sakTa   	lomaSasa/kTa   	908,2
++	vanaMkaraRa	vanaMka/raRa   	vanaMkara/Ra   	917,3
++	vasudA    	vasudA/        	vasu/dA        	931,1
++	vAtajUta  	vA/tajUta^     	vA/tajUta      	934,3
++	vAtsIputra	vAtsI/pu/tra   	vA/tsIpu/tra   	939,3
++	vAyumaya  	vAyu/maya      	vAyuma/ya      	942,3
++	vikawa    	vi/kawa        	vikawa/        	949,3 953,3
++	vicakzas  	vica/kzas      	vi/cakzas      	958,2
++	vijAni    	vi/jAni        	vijA/ni        	950,3
++	vijijYAsya	vijijYA/sya vijijYAsya^	vijijYA/sya    	961,1
++	videva    	vi/deva videva/	vi/deva        	951,1 965,3
++	viBUdAvan 	viBUdA/van     	viBU/dAvan     	978,3
++	virADana  	virA/Dana      	vi/rADana      	983,1
++	viSiKa    	viSiKa/ vi/SiKa	viSiKa/        	952,3 990,2
++	viSravas  	viSra/vas vi/Sravas	vi/Sravas      	953,1
++	viSvataspad	viSva/taspad   	viSvataspa/d   	994,3
++	viSvaBaras	viSva/Baras    	viSvaBa/ras    	993,2
++	visalya   	visalya/       	visa/lya       	953,1 1000,3
++	vihavya   	viha/vya vihavya^	viha/vya       	1004,1
++	vyenI     	vye^nI         	vye/nI vye^nI  	1029,1
++	vyodana   	vyo^dana       	vyo/dana       	1029,1
++	vrAjapati 	vrAjapati/ vrAja/pati	vrAja/pati     	1042,1
++	Satacakra 	Sata/cakra     	Sataca/kra     	1049,1
++	SataSAKa  	Sata/SAKa      	SataSA/Ka      	1050,2
++	SitibAhu  	SitibA/hu SitibAhu/	SitibA/hu      	1071,3
++	saMvaditavya	saMvaditavya^  	saMvadita/vya  	1114,2
++	saMsarpa  	saMsa/rpa saMsarpa/	saMsarpa/      	1119,1 1120,1 1120,2
++	saMhita   	sa/Mhita saMhita/	sa/Mhita       	1123,1 1144,2
++	saMgrAhya 	saMgrA/hya     	saMgrAhya^     	1129,3
++	saMDAna   	saMDA/na       	saMDAna/       	1144,2 1144,3
++	saptarzi  	saptarzi/      	sapta/rzi      	1150,1
++	sapraTas  	sa/praTas sapra/Tas	sapra/Tas      	1148,3
++	saBApati  	saBApa/ti      	saBA/pati      	1151,3
++	samagra   	sa/magra       	samagra/       	1153,3
++	samaja    	sa/maja        	samaja/        	1153,3
++	samarya   	samarya^       	samarya/ samarya^	1157,1 1171,1
++	samUhya   	samUhya^       	sa/mUhya       	1170,3
++	samoham   	samo/ham       	sa/moham       	1170,3
++	sarvarUpa 	sa/rvarUpa sarva/rUpa	sarva/rUpa     	1187,1
++	sarvaSveta	sa/rvaSveta    	sarva/Sveta sa/rvaSveta	1187,3
++	sasattrin 	sasattri/n sa/sattrin	sasattri/n     	1192,1
++	sahadeva  	saha/deva      	sa/hadeva      	1194,1
++	sahasrapad	saha/srapad    	sahasrapa/d saha/srapad	1195,3
++	sahasrayAjin	saha/srayAjin  	sahasrayAji/n  	1196,1
++	sujyotis  	sujyo/tis sujyoti/s	sujyo/tis      	1223,3
++	sudarSa   	suda/rSa       	su/darSa       	1224,2
++	suPala    	suPa/la suPala/	suPa/la        	1229,1 1230,2
++	suPAla    	suPAla/ suPA/la	suPAla/        	1229,1
++	subanDu   	suba/nDu subanDu/	suba/nDu       	1229,1
++	suyaSas   	su/yaSas       	suya/Sas       	1232,1
++	surApIta  	surApI^ta      	surApIta/      	1235,3
++	suvIra    	suvI/ra        	su/vIra suvI/ra	1234,1
++	suSipra   	suSipra/ suSi/pra	suSipra/       	1237,1
++	suSevya   	suSe/vya       	suSe^vya       	1237,2
++	somacakzas	so/macakzas    	soma/cakzas    	1250,1
++	svapati   	sva/pati svapati/	sva/pati       	1276,1
++	svapas    	sva/pas        	sva/pas svapa/s	1281,1
++	havirmaTi 	havirma/Ti     	havi/rma/Ti    	1293,3
++	hemantajabDa	hemanta/jabDa  	hemantaja/bDa  	1304,1
++	hradecakzus	hradeca/kzus   	hrade/cakzus   	1307,1
++	sasTAvan  	sasTA/van      	sa/sTAvan      	1192,2
