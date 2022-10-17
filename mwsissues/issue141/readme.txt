@@ -729,9 +729,66 @@ cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue141
 # commit to csl-orig: 70b7392b59bad245492e6a06696e3b504dd2b0b6
 # commit to mws repository: 
 
+*********************************************************************
+PHASE 4. MW MULTIPLE ACCENTS
+*********************************************************************
+cp temp_mw_5.txt temp_mw_6.txt
+touch change_mw_6.txt
+[\/^][^	 ]*[\/^]
+-----------------------------------------------------------------
+Manual comparison of mw.txt with scan, page by page.
+Focus on metaline and headline only.
+First,
+cp temp_mw_6.txt temp_mw_6a.txt
+# Now do the following 'loop' for each page
+# 1. manually change temp_mw_6a.txt for accents on page pppp
+# 2. find differences between temp_mw_6.txt and temp_mw_6a.txt
+python diff_to_changes.py temp_mw_5.txt temp_mw_6.txt temp_change_page_pppp.txt
+# 3. insert temp_change_page_pppp.txt into change_mw_6.txt
+# 4. install further changes into temp_mw_6.txt
+python updateByLine.py temp_mw_5.txt change_mw_6.txt temp_mw_6.txt
+# 5. now, temp_mw_6.txt  == temp_mw_6a.txt
+diff temp_mw_6.txt temp_mw_6a.txt # no difference!
+
+Increment page number pppp and go back to step 1.
+
+Repeat this update loop until done (pppp = 1308).
+
+Through page 0059.
+Install temp_mw_6.txt into csl-orig.
 
 -----------------------------------------------------------------
+install  temp_mw_6.txt to check xml
+cp temp_mw_6.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# correct errors
+# rerun until
+ #prints 'ok'
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue141
+
+# commit csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig
+git pull # in case some other work has been done
+git add v02/mw/mw.txt
+git commit -m "MW accent update pages 0001-0059.
+  Ref: https://github.com/sanskrit-lexicon/MWS/issues/141"
+git push
+# commit mws
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue141
+git add .
+git commit -m "MW accent update pages 0001-0059.
+  Ref: https://github.com/sanskrit-lexicon/MWS/issues/141"
+git push
+
+# pull csl-orig at cologne and csl-pywork/v02 redo mw.
+
+------------------------------------------------------------
+# continue this work for pages 0060-1308 in issue141a
 -----------------------------------------------------------------
+<k2>[^<]*[\/^]
 -----------------------------------------------------------------
 -----------------------------------------------------------------
 -----------------------------------------------------------------
@@ -773,7 +830,13 @@ NEW or entries for L=5164  5164.1, 5164.2, 5164.3
 example: <L>96<pc>1,2<k1>aMsadaGna<k2>a/Msa—daGna/<e>3
 <L>126347<pc>636,3<k1>puruDa<k2>puru—Da/<e>3 headline
 <L>126348<pc>636,3<k1>puruDA<k2>puru/—DA/<e>3 headline
+
+<L>4799<pc>24,2<k1>anakzasaNgam   missing or and anakzastamBam
+<L>5164<pc>26,1<k1>anaBiSasta  missing or and entries
+<L>5412<pc>27,2<k1>anasTa<k2>an-asTa/<e>1
+
 -----------------------------------------------------------------
+(<s></s>), 
 -----------------------------------------------------------------
 -----------------------------------------------------------------
 -----------------------------------------------------------------
