@@ -431,6 +431,55 @@ git commit -m "MW accent update pages 0500-0599.
 git push
 
 # pull csl-orig at cologne and csl-pywork/v02 redo mw.
+
+-----------------------------------------------------------------
+BEGIN pages 0600-0699
+cp temp_mw_06.txt temp_mw_07.txt
+cp temp_mw_07.txt temp_mw_07a.txt
+touch change_mw_07.txt
+
+# Now do the following 'loop' for each page pppp
+# 1. manually change temp_mw_07a.txt for accents on page pppp
+# 2. find differences between temp_mw_07.txt and temp_mw_07a.txt
+python diff_to_changes.py temp_mw_07.txt temp_mw_07a.txt temp_change_page_0600.txt
+# 3. insert temp_change_page_0600.txt into change_mw_07.txt
+# 4. install further changes into temp_mw_07.txt
+python updateByLine.py temp_mw_06.txt change_mw_07.txt temp_mw_07.txt
+# 5. now, should have
+diff temp_mw_07.txt temp_mw_07a.txt # no difference!
+
+Increment page number pppp and go back to step 1.
+
+Repeat this update loop through pppp = 0699
+
+-----------------------------------------------------------------
+install  temp_mw_07.txt to check xml
+cp temp_mw_07.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# correct errors
+# rerun until
+ #prints 'ok'
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue142
+
+# commit csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig
+git pull # in case some other work has been done
+git add v02/mw/mw.txt
+git commit -m "MW accent update pages 0600-0699.
+  Ref: https://github.com/sanskrit-lexicon/MWS/issues/142"
+git push
+# commit mws
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue142
+git add .
+git commit -m "MW accent update pages 0600-0699.
+  Ref: https://github.com/sanskrit-lexicon/MWS/issues/142"
+git push
+
+# pull csl-orig at cologne and csl-pywork/v02 redo mw.
+
 -----------------------------------------------------------------
 # emacs tool.
 search-forward-regexp <k2>[^<]*[\/^]
