@@ -529,6 +529,53 @@ git push
 # pull csl-orig at cologne and csl-pywork/v02 redo mw.
 
 -----------------------------------------------------------------
+BEGIN pages 0800-0899
+cp temp_mw_08.txt temp_mw_09.txt
+cp temp_mw_09.txt temp_mw_09a.txt
+touch change_mw_09.txt
+
+# Now do the following 'loop' for each page pppp
+# 1. manually change temp_mw_09a.txt for accents on page pppp
+# 2. find differences between temp_mw_09.txt and temp_mw_09a.txt
+python diff_to_changes.py temp_mw_09.txt temp_mw_09a.txt temp_change_page_0800.txt
+# 3. insert temp_change_page_0800.txt into change_mw_09.txt
+# 4. install further changes into temp_mw_09.txt
+python updateByLine.py temp_mw_08.txt change_mw_09.txt temp_mw_09.txt
+# 5. now, should have
+diff temp_mw_09.txt temp_mw_09a.txt # no difference!
+
+Increment page number pppp and go back to step 1.
+
+Repeat this update loop through pppp = 0899
+
+-----------------------------------------------------------------
+install  temp_mw_09.txt to check xml
+cp temp_mw_09.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# correct errors
+# rerun until
+ #prints 'ok'
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue142
+
+# commit csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig
+git pull # in case some other work has been done
+git add v02/mw/mw.txt
+git commit -m "MW accent update pages 0800-0899.
+  Ref: https://github.com/sanskrit-lexicon/MWS/issues/142"
+git push
+# commit mws
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue142
+git add .
+git commit -m "MW accent update pages 0800-0899.
+  Ref: https://github.com/sanskrit-lexicon/MWS/issues/142"
+git push
+
+# pull csl-orig at cologne and csl-pywork/v02 redo mw.
+-----------------------------------------------------------------
 # emacs tool.
 search-forward-regexp <k2>[^<]*[\/^]
 
@@ -615,6 +662,12 @@ L>87476.3<pc>457,2<k1>trayastriMSatsaMmita<k2>trayas—triMSat—saMmita
 <L>115179.1<pc>583,1<k1>pattastodASa<k2>pat—tas—to-dASa<e>4 pat-to-dASa ?
 <L>158007<pc>789,2<k1>mayanta<k2>ma/yanta<e>1  entry maganda add
 <L>160055<pc>797,3<k1> ... phrase -- into prior entry?
+
+498 matches for "¦ <lex>[mfn]+\.</lex> *<info lex=" in buffer: temp_mw_09a.txt
+  likely missing text, such as N. of wk.
+
+660 matches for "(for <hom>[0-9]+\.</hom> See" in buffer: temp_mw_09a.txt
+  Conjecture most should change to '... see'
 
 -----------------------------------------------------------------
 -----------------------------------------------------------------
