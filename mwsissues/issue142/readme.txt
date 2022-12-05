@@ -623,6 +623,54 @@ git commit -m "MW accent update pages 0900-0999.
 git push
 
 # pull csl-orig at cologne and csl-pywork/v02 redo mw.
+
+-----------------------------------------------------------------
+BEGIN pages 1000-1099
+cp temp_mw_10.txt temp_mw_11.txt
+cp temp_mw_11.txt temp_mw_11a.txt
+touch change_mw_11.txt
+
+# Now do the following 'loop' for each page pppp
+# 1. manually change temp_mw_11a.txt for accents on page pppp
+# 2. find differences between temp_mw_11.txt and temp_mw_11a.txt
+python diff_to_changes.py temp_mw_11.txt temp_mw_11a.txt temp_change_page_1000.txt
+# 3. insert temp_change_page_1000.txt into change_mw_11.txt
+# 4. install further changes into temp_mw_11.txt
+python updateByLine.py temp_mw_10.txt change_mw_11.txt temp_mw_11.txt
+# 5. now, should have
+diff temp_mw_11.txt temp_mw_11a.txt # no difference!
+
+Increment page number pppp and go back to step 1.
+
+Repeat this update loop through pppp = 1099
+
+-----------------------------------------------------------------
+install  temp_mw_11.txt to check xml
+cp temp_mw_11.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# correct errors
+# rerun until
+ #prints 'ok'
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue142
+
+# commit csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig
+git pull # in case some other work has been done
+git add v02/mw/mw.txt
+git commit -m "MW accent update pages 1000-1099.
+  Ref: https://github.com/sanskrit-lexicon/MWS/issues/142"
+git push
+# commit mws
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue142
+git add .
+git commit -m "MW accent update pages 1000-1099.
+  Ref: https://github.com/sanskrit-lexicon/MWS/issues/142"
+git push
+
+# pull csl-orig at cologne and csl-pywork/v02 redo mw.
 -----------------------------------------------------------------
 # emacs tool.
 search-forward-regexp <k2>[^<]*[\/^]
@@ -716,6 +764,9 @@ L>87476.3<pc>457,2<k1>trayastriMSatsaMmita<k2>trayas—triMSat—saMmita
 
 660 matches for "(for <hom>[0-9]+\.</hom> See" in buffer: temp_mw_09a.txt
   Conjecture most should change to '... see'
+
+<L>208302<pc>1029,1<k1>vyenI<k2>vy—e^nI<e>3 PWG vyenI vi/enI and other words
+<L>219565<pc>1082,3<k1>Sunavat<k2>Suna/—vat<e>3 entry SunA/-vat
 
 -----------------------------------------------------------------
 -----------------------------------------------------------------
