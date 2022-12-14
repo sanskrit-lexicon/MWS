@@ -671,6 +671,55 @@ git commit -m "MW accent update pages 1000-1099.
 git push
 
 # pull csl-orig at cologne and csl-pywork/v02 redo mw.
+
+-----------------------------------------------------------------
+BEGIN pages 1100-1199
+cp temp_mw_11.txt temp_mw_12.txt
+cp temp_mw_12.txt temp_mw_12a.txt
+touch change_mw_12.txt
+
+# Now do the following 'loop' for each page pppp
+# 1. manually change temp_mw_12a.txt for accents on page pppp
+# 2. find differences between temp_mw_12.txt and temp_mw_12a.txt
+python diff_to_changes.py temp_mw_12.txt temp_mw_12a.txt temp_change_page_1100.txt
+# 3. insert temp_change_page_1100.txt into change_mw_12.txt
+# 4. install further changes into temp_mw_12.txt
+python updateByLine.py temp_mw_11.txt change_mw_12.txt temp_mw_12.txt
+# 5. now, should have
+diff temp_mw_12.txt temp_mw_12a.txt # no difference!
+
+Increment page number pppp and go back to step 1.
+
+Repeat this update loop through pppp = 1199
+
+-----------------------------------------------------------------
+install  temp_mw_12.txt to check xml
+cp temp_mw_12.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# correct errors
+# rerun until
+ #prints 'ok'
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue142
+
+# commit csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig
+git pull # in case some other work has been done
+git add v02/mw/mw.txt
+git commit -m "MW accent update pages 1100-1199.
+  Ref: https://github.com/sanskrit-lexicon/MWS/issues/142"
+git push
+# commit mws
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue142
+git add .
+git commit -m "MW accent update pages 1100-1199.
+  Ref: https://github.com/sanskrit-lexicon/MWS/issues/142"
+git push
+
+# pull csl-orig at cologne and csl-pywork/v02 redo mw.
+
 -----------------------------------------------------------------
 # emacs tool.
 search-forward-regexp <k2>[^<]*[\/^]
@@ -767,7 +816,14 @@ L>87476.3<pc>457,2<k1>trayastriMSatsaMmita<k2>trayas—triMSat—saMmita
 
 <L>208302<pc>1029,1<k1>vyenI<k2>vy—e^nI<e>3 PWG vyenI vi/enI and other words
 <L>219565<pc>1082,3<k1>Sunavat<k2>Suna/—vat<e>3 entry SunA/-vat
+<L>223428<pc>1101,1<k1>SrutakIrti<k2>Sruta/—kIrti<e>3B scan has (<s>A</s>), ?
+<L>228598<pc>1129,1<k1>saMgItaka<k2>saM-gItaka<e>3 print may have gi^taka ?
+  PW gItaka. MW print change?
+<L>228989<pc>1131,1<k1>sajUs<k2>sa—jU/s<e>3C
+<s>sa—jU/s</s> ¦ <lex>ind.</lex> (or <s>U/r</s>)  add sajUr entry
 
+<L>232494.15<pc>1149,2<k1>saptadaSaDA<k2>sapta—daSa-DA/<e>4
+  missing record sapta-daSa-rAtra/
 -----------------------------------------------------------------
 -----------------------------------------------------------------
 -----------------------------------------------------------------
