@@ -721,6 +721,54 @@ git push
 # pull csl-orig at cologne and csl-pywork/v02 redo mw.
 
 -----------------------------------------------------------------
+BEGIN pages 1200-1308
+cp temp_mw_12.txt temp_mw_13.txt
+cp temp_mw_13.txt temp_mw_13a.txt
+touch change_mw_13.txt
+
+# Now do the following 'loop' for each page pppp
+# 1. manually change temp_mw_13a.txt for accents on page pppp
+# 2. find differences between temp_mw_13.txt and temp_mw_13a.txt
+python diff_to_changes.py temp_mw_13.txt temp_mw_13a.txt temp_change_page_1200.txt
+# 3. insert temp_change_page_1200.txt into change_mw_13.txt
+# 4. install further changes into temp_mw_13.txt
+python updateByLine.py temp_mw_12.txt change_mw_13.txt temp_mw_13.txt
+# 5. now, should have
+diff temp_mw_13.txt temp_mw_13a.txt # no difference!
+
+Increment page number pppp and go back to step 1.
+
+Repeat this update loop through pppp = 1308
+
+-----------------------------------------------------------------
+install  temp_mw_13.txt to check xml
+cp temp_mw_13.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# correct errors
+# rerun until
+ #prints 'ok'
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue142
+
+# commit csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig
+git pull # in case some other work has been done
+git add v02/mw/mw.txt
+git commit -m "MW accent update pages 1200-1308.
+  Ref: https://github.com/sanskrit-lexicon/MWS/issues/142"
+git push
+# commit mws
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue142
+git add .
+git commit -m "MW accent update pages 1200-1308.
+  Ref: https://github.com/sanskrit-lexicon/MWS/issues/142"
+git push
+
+# pull csl-orig at cologne and csl-pywork/v02 redo mw.
+
+-----------------------------------------------------------------
 # emacs tool.
 search-forward-regexp <k2>[^<]*[\/^]
 
@@ -752,7 +800,7 @@ mw prA/SnI-putra/
 girijA in mw:  not a pwg headword. cdsl incorrectly shows 'inherited' accent
 bahutiTa print change see page 626 -> see page 726  va/naspa/ti
 <L>258981<pc>1280,3<k1>svapnanaMSana mw print shows only svapna-na
-  page 1280 may is truncated in 3rd column.
+  page 1280 may be truncated in 3rd column.  PAGE OK -- this is not error!
   https://archive.org/details/in.ernet.dli.2015.31959/page/n1318/mode/1up
   page 160 truncated
 Mismarked in k2, but NOT in pwg, so not yet caught.
@@ -824,6 +872,16 @@ L>87476.3<pc>457,2<k1>trayastriMSatsaMmita<k2>trayas—triMSat—saMmita
 
 <L>232494.15<pc>1149,2<k1>saptadaSaDA<k2>sapta—daSa-DA/<e>4
   missing record sapta-daSa-rAtra/
+<L>248396<pc>1231,2<k1>sumIQa<k2>su—mIQa/<e>3  add mI|a entry
+<L>248447<pc>1231,2<k1>sumfqIka<k2>su—mf/qIka<e>3 add mf|Ika entry
+<L>249722<pc>1235,3<k1>surApAna<k2>surA—pA/na<e>3B
+   add cpd surA-pAna-prAyaScitta
+<L>249811<pc>1236,2<k1>suvargya<k2>suvargya^<e>2 add suvargya entry
+<L>261246<pc>1291,1<k1>harizac<k2>hari—za/c<e>3
+   <s>hari—za/c</s> ¦ (<s>zA/c</s>) mfn  << meaning of zA/c ?
+<L>262803<pc>1298,1<k1>hiNkAra<k2>hiN—kAra/<e>3
+   insert 262803.1 hiN-kf new entry
+
 -----------------------------------------------------------------
 -----------------------------------------------------------------
 -----------------------------------------------------------------
@@ -838,10 +896,10 @@ L>87476.3<pc>457,2<k1>trayastriMSatsaMmita<k2>trayas—triMSat—saMmita
 -----------------------------------------------------------------
 -----------------------------------------------------------------
 
-mw page 87 3rd col. truncated
+mw page 87 3rd col. truncated  
 https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=mw&page=0087
-mw page 648 3rd col. problem
-mw page 142 problems
-mw page 728
-page 796
+mw page 648 3rd col. problem  NOT A PROBLEM!
+mw page 142 problems NOT A PROBLEM
+mw page 728 PROBLEM NOT FOUND
+page 796 PROBLEM NOT FOUND
 
