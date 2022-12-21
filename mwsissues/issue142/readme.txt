@@ -767,6 +767,8 @@ git commit -m "MW accent update pages 1200-1308.
 git push
 
 # pull csl-orig at cologne and csl-pywork/v02 redo mw.
+-----------------------------------------------------------------
+See readme_extra.txt for a few more manual changes.
 
 -----------------------------------------------------------------
 # emacs tool.
@@ -787,119 +789,17 @@ search-forward-regexp <k2>[^<]*[\/^]
 (<s>°</s>), 
 (<s></s>), 
 -----------------------------------------------------------------
+NEW SCANS NEEDED
 page 63, col1 aBi-dUzita bad print
 -----------------------------------------------------------------
------------------------------------------------------------------
-TODO
-NOTE: anya/to'raRya  ' in k2pwg   apuro'nuvAkya^ka
-pwg: ftu\Sa/s   prA/cInayogIpu/tra  (also mw shows 2 accents!) va/naspa/ti
-mw prA/SnI-putra/
-<L>185990<pc>918,1<k1>vanaspati<k2>va/na-s-pa/ti<h>a<e>3
-<L>189485<pc>934,3<k1>vAtajUta<k2>vA/ta—jUta^<e>3
-=====
-girijA in mw:  not a pwg headword. cdsl incorrectly shows 'inherited' accent
-bahutiTa print change see page 626 -> see page 726  va/naspa/ti
-<L>258981<pc>1280,3<k1>svapnanaMSana mw print shows only svapna-na
-  page 1280 may be truncated in 3rd column.  PAGE OK -- this is not error!
+----------------
+An archive.org version of MW
   https://archive.org/details/in.ernet.dli.2015.31959/page/n1318/mode/1up
-  page 160 truncated
-Mismarked in k2, but NOT in pwg, so not yet caught.
-
-<L>1321<pc>6,3<k1>agrepA<k2>agre—pA/<e>3
-  headline pU/ not marked.  This is an OR with two words
-<L>1405.1<pc>7,1<k1>aGnyA<k2>a/-GnyA<e>2B
-<L>1405.2<pc>7,1<k1>aGnyA<k2>a/-GnyA<e>2B
-<L>16138<pc>92,1<k1>arDaKArI<k2>arDa/—KArI<e>3 no accent - and others
-<L>20166.6<pc>116,1<k1>azAQA<k2>a/-zAQA<e>1B
-<L>126351<pc>636,3<k1>purunizWA<k2>puru/—nizWA<e>3
-<L>162307<pc>807,2<k1>mAtfbanDU<k2>mAtf/—banDU<e>3B
-<L>204122<pc>1008,1<k1>vfkatAti<k2>vf/ka—tAti<e>3
-<L>113613<pc>576,1<k1>paYcacitIka<k2>paYca—citIka<e>3  pa/
-<L>114548<pc>580,1<k1>paqvISa<k2>paq—vISa<e>3 pa/
-<L>114549<pc>580,1<k1>paqviMSa<k2>pa/q—viMSa<e>3 pa/
-<L>128466.1<pc>646,1<k1>pfTivizWA<k2>pfTivi—zWA<e>4
-<L>140878<pc>711,3<k1>pruzvA<k2>pruzvA/<e>2B info or
-<L>25998<pc>149,2<k1>Arti<k2>Arti<e>2  text refers to hom1 and 2, but no h2.
-
-NEW or entries for L=5164  5164.1, 5164.2, 5164.3
 -----------------------------------------------------------------
------------------------------------------------------------------
-2229 matches for "<k2>[^<]*[\/^][^<]*[\/^][^<]*<" in buffer: temp_mw_4.txt
-example: <L>96<pc>1,2<k1>aMsadaGna<k2>a/Msa—daGna/<e>3
-<L>126347<pc>636,3<k1>puruDa<k2>puru—Da/<e>3 headline
-<L>126348<pc>636,3<k1>puruDA<k2>puru/—DA/<e>3 headline
-
-<L>4799<pc>24,2<k1>anakzasaNgam   missing or and anakzastamBam
-<L>5164<pc>26,1<k1>anaBiSasta  missing or and entries
-<L>5412<pc>27,2<k1>anasTa<k2>an-asTa/<e>1
 
 -----------------------------------------------------------------
-<L>18500.2<pc>106,3<k1>avAcI<k2>a/vAcI<e>1B  missing first sense. new entry
-<L>18737<pc>108,1<k1>avicftya<k2>a-vicftya/<e>1 new entry
-L>40350<pc>233,3<k1>Ekzava<k2>Ekzava/<e>1  Ekzavya new entry
-   <s>Ekzava/</s> ¦ <lex>mf(<s>I</s>)n.</lex> and <s>Ekzavya^</s>
-<L>41472.1<pc>1323,3<k1>kakuBvat<k2>kaku/Bvat<e>3B  Bv?
-<L>43060<pc>248,3<k1>kanInakA<k2>kanI/nakA<e>2B
-   ¦ (<s>kanI/nakA</s> and <s>kanI/nikA</s>), kanI/nikA entry
-<L>45102<pc>257,3<k1>kartave<k2>ka/rtave<e>1
-  <s>ka/rtave</s> ¦ [<ls>RV.</ls> & <ls>AV.</ls>] and ENTRY <s>ka/rtavE/</s>
-<L>65154.01<pc>1326,2<k1>girijAdevI<k2>giri—jAdevI<e>4
-   is it jAdevI or jadevI?  Similar for several others following.
-<L>87140<pc>455,3<k1>tokma<k2>to/kma<e>3C  should it be tokman?
-  also, is 87139 ok, or should key1=tokman?
-<L>87150<pc>455,3<k1>tote<k2>to/te<e>1 add entry toto?
-L>87476.3<pc>457,2<k1>trayastriMSatsaMmita<k2>trayas—triMSat—saMmita
-  should it be prajApates-trayas—triMSat—saMmita ?
-<L>94867<pc>489,2<k1>dUtI<k2>dUtI<e>1B  short-long
-<L>104496<pc>530,3<k1>navajA<k2>nava—jA/<e>3 mfn?
-<L>115179.1<pc>583,1<k1>pattastodASa<k2>pat—tas—to-dASa<e>4 pat-to-dASa ?
-<L>158007<pc>789,2<k1>mayanta<k2>ma/yanta<e>1  entry maganda add
-<L>160055<pc>797,3<k1> ... phrase -- into prior entry?
-
 498 matches for "¦ <lex>[mfn]+\.</lex> *<info lex=" in buffer: temp_mw_09a.txt
   likely missing text, such as N. of wk.
 
 660 matches for "(for <hom>[0-9]+\.</hom> See" in buffer: temp_mw_09a.txt
   Conjecture most should change to '... see'
-
-<L>208302<pc>1029,1<k1>vyenI<k2>vy—e^nI<e>3 PWG vyenI vi/enI and other words
-<L>219565<pc>1082,3<k1>Sunavat<k2>Suna/—vat<e>3 entry SunA/-vat
-<L>223428<pc>1101,1<k1>SrutakIrti<k2>Sruta/—kIrti<e>3B scan has (<s>A</s>), ?
-<L>228598<pc>1129,1<k1>saMgItaka<k2>saM-gItaka<e>3 print may have gi^taka ?
-  PW gItaka. MW print change?
-<L>228989<pc>1131,1<k1>sajUs<k2>sa—jU/s<e>3C
-<s>sa—jU/s</s> ¦ <lex>ind.</lex> (or <s>U/r</s>)  add sajUr entry
-
-<L>232494.15<pc>1149,2<k1>saptadaSaDA<k2>sapta—daSa-DA/<e>4
-  missing record sapta-daSa-rAtra/
-<L>248396<pc>1231,2<k1>sumIQa<k2>su—mIQa/<e>3  add mI|a entry
-<L>248447<pc>1231,2<k1>sumfqIka<k2>su—mf/qIka<e>3 add mf|Ika entry
-<L>249722<pc>1235,3<k1>surApAna<k2>surA—pA/na<e>3B
-   add cpd surA-pAna-prAyaScitta
-<L>249811<pc>1236,2<k1>suvargya<k2>suvargya^<e>2 add suvargya entry
-<L>261246<pc>1291,1<k1>harizac<k2>hari—za/c<e>3
-   <s>hari—za/c</s> ¦ (<s>zA/c</s>) mfn  << meaning of zA/c ?
-<L>262803<pc>1298,1<k1>hiNkAra<k2>hiN—kAra/<e>3
-   insert 262803.1 hiN-kf new entry
-
------------------------------------------------------------------
------------------------------------------------------------------
------------------------------------------------------------------
------------------------------------------------------------------
------------------------------------------------------------------
------------------------------------------------------------------
------------------------------------------------------------------
------------------------------------------------------------------
------------------------------------------------------------------
------------------------------------------------------------------
------------------------------------------------------------------
------------------------------------------------------------------
------------------------------------------------------------------
-
-mw page 87 3rd col. truncated  
-https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=mw&page=0087
-mw page 648 3rd col. problem  NOT A PROBLEM!
-mw page 142 problems NOT A PROBLEM
-mw page 728 PROBLEM NOT FOUND
-page 796 PROBLEM NOT FOUND
-
