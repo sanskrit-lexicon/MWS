@@ -87,6 +87,12 @@ end miscellaneous changes
 ----------------------
 
 remove 103 blank lines.
+----------------------
+one error noticed and corrected at line 501971 of temp_mw_extra.txt
+< <L>149229<pc>750,1<k1>BavizyatkAla<k2>Bavizyat        —kAla<e>3
+---
+> <L>149229<pc>750,1<k1>BavizyatkAla<k2>Bavizyat—kAla<e>3
+
 
 -----------------------------------------------------------------
 install  temp_mw_extra.txt to check xml
@@ -104,7 +110,7 @@ cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue142
 cd /c/xampp/htdocs/cologne/csl-orig
 git pull # in case some other work has been done
 git add v02/mw/mw.txt
-git commit -m "MW accent update . see readme_extra.txt.
+git commit -m "MW correction noticed during IAST conversion.
   Ref: https://github.com/sanskrit-lexicon/MWS/issues/142"
 git push
 # commit mws
