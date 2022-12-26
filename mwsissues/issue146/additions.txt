@@ -1,0 +1,18 @@
+; insert-1 <L>124<pc>1,2<k1>aṃhomuc<k2>aṃho-múc<e>3
+; comp. word header
+------------
+<L>123.1<pc>1308,1<k1>aṃho<k2>aṃho<h>???<e>???
+<s>aṃho</s> ¦ (in <ab>comp.</ab> for <s>aṃhas</s>).
+<LEND>
+<L>124<pc>1,2<k1>aṃhomuc<k2>aṃho-múc<e>3
+===================================
+; insert-2 <L>160<pc>1,3<k1>akampana<k2>akampana<e>1
+; to keep the group members closeby or adjacent, as are (almost) all others. Only very few appear to be deviating in the file, probably while inserting from Annexure data.
+; Reason: MW did not intend to have the entries in 'strict' alphabetical order, but to have some relation with the neighboring entries.
+------------
+<L>159.3<pc>1308,1<k1>akavara<k2>akavara<e>1
+<s>akabara</s> or <s>akabbara</s> or <s>akavara</s>, ¦ <lex>m.</lex> (emperor) Akbar, <ls>Inscr.</ls>
+<LEND>
+<L>160<pc>1,3<k1>akampana<k2>akampana<e>1
+===================================
+; insert-3
