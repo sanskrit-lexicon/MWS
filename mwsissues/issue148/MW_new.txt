@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mw SYSTEM "mw.dtd">
+<!-- Copyright Universitat Koln and The Sanskrit Library 2012; for details see MWHeader.xml -->
+<mw>
+<L>1<pc>1,1<k1>a<k2>a<h>1<e>1
+<hom>1.</hom> <s>a</s>, ¦ the first letter of the alphabet;
+<LEND>
+<L>1.1<pc>1,1<k1>a<k2>a<e>1A
+¦ the first short vowel inherent in consonants.
+<LEND>
+<L>2<pc>1,1<k1>akāra<k2>a—kāra<e>3
+<s>a—kāra</s>, ¦ <lex>m.</lex> the letter or sound <s>a</s>.<info lex="m"/>
+<LEND>
+<L>3<pc>1,1<k1>a<k2>a<h>2<e>1
+<hom>2.</hom> <s>a</s> ¦ (<s>pragṛhya</s>, <ab>q.v.</ab>), a vocative particle [<s>a ananta</s>, O <s1 slp1="vizRu">Viṣṇu</s1>], <ls>T.</ls>;
+<LEND>
+<L>3.1<pc>1,1<k1>a<k2>a<e>1A
+¦ interjection of pity, Ah!
+<LEND>
+<L>4<pc>1,1<k1>a<k2>a<h>3<e>1
+<hom>3.</hom> <s>a</s> ¦ (before a vowel <s>an</s>, <ab>exc.</ab> <s>a-ṛṇin</s>), a prefix corresponding to <ab>Gk.</ab> <lang n="greek">ἀ</lang>, <lang n="greek">ἀν</lang>, <ab>Lat.</ab> <etym>in</etym>, <ab>Goth.</ab> and <ab>Germ.</ab> <etym>un</etym>, <ab>Eng.</ab> <etym>in</etym> or <etym>un</etym>, and having a negative or privative or contrary sense (<s>an-eka</s> not one; <s>an-anta</s> endless; <s>a-sat</s> not good; <s>a-paśyat</s> not seeing);
+<LEND>
+<L>4.1<pc>1,1<k1>a<k2>a<e>1A
+¦ rarely prefixed to <ab>Inf.</ab> (<s>a-svaptum</s> not to sleep, <ls>TāṇḍyaBr.</ls>) and even to forms of the finite verb (<s>a-spṛhayanti</s> they do not desire, <ls>BhP.</ls>; <ls>Śiś.</ls>) and to pronouns (<s>a-saḥ</s> not he, <ls>Śiś.</ls>; <s>a-tad</s> not that, <ls>BhP.</ls>);
+<LEND>
+<L>4.2<pc>1,1<k1>a<k2>a<e>1A
+¦ occasionally denoting comparison (<s>a-brāhmaṇa</s> like a <s1 slp1="brahman">Brahman</s1>, <ls>T.</ls>);
+<LEND>
+<L>4.3<pc>1,1<k1>a<k2>a<e>1A
+¦ sometimes disparagement (<s>a-yajña</s> a miserable sacrifice);
+<LEND>
+<L>4.4<pc>1,1<k1>a<k2>a<e>1A
+¦ sometimes diminutiveness (<ab>cf.</ab> <s>á-karṇa</s>, <s>an-udarā</s>);
+<LEND>
+<L>4.5<pc>1,1<k1>a<k2>a<e>1A
+¦ rarely an expletive (<ab>cf.</ab> <s>a-kupya</s>, <s>a-pūpa</s>).
+<LEND>
+<L>4.6<pc>1,1<k1>a<k2>a<e>1A
+¦ According to <ls>Pāṇ. vi, 2, 161</ls>, the accent may be optionally either on the first or last syllable in certain compounds formed with <s>a</s> (as <s>á-tīkṣṇa</s> or <s>a-tīkṣṇá</s>, <s>á-śuci</s> or <s>a-śucí</s>, <s>án-anna</s> or <s>an-anná</s>); the same applies to stems ending in <s>tṛ</s> accentuated on the first syllable before <s>a</s> is prefixed; <ab>cf.</ab> also <s>á-tūrta</s> and <s>a-tū́rta</s>, <s>á-bhinna</s> and <s>a-bhinná</s>, &c.
+<LEND>
+; delete <L>4.7<pc>1,1<k1>a<k2>a<e>1A
+; delete ¦ <ab>cf.</ab> also <s>á-tūrta</s> and <s>a-tū́rta</s>, <s>á-bhinna</s> and <s>a-bhinná</s>, &c.
+; delete <LEND>
+<L>5<pc>1,1<k1>a<k2>a<h>4<e>1
+<hom>4.</hom> <s>a</s>, ¦ the base of some pronouns and <ab>pronom.</ab> forms, in <s>asya</s>, <s>atra</s>, &c.<info lexcat="LEXID=pron,STEM=idam"/>
+<LEND>
+<L>6<pc>1,1<k1>a<k2>a<h>5<e>1
+<hom>5.</hom> <s>a</s>, ¦ the augment prefixed to the root in the formation of the imperfect, aorist, and conditional tenses (in the <s1 slp1="veda">Veda</s1> often wanting, as in Homer, the fact being that originally the augment was only prefixed in principal sentences where it was accentuated, whilst it was dropped in subordinate sentences where the root-vowel took the accent).
+<LEND>
+<L>7<pc>1,1<k1>a<k2>a<h>6<e>1
+<hom>6.</hom> <s>a</s>, ¦ {<s>as</s>}, <lex>m.</lex> <ab>N.</ab> of <s1 slp1="vizRu">Viṣṇu</s1>, <ls>L.</ls> (especially as the first of the three sounds in the sacred syllable <s>om</s>).<info lex="m"/>
+<LEND>
+<L>8<pc>1,1<k1>aṛṇin<k2>a-ṛṇin<e>1
+<s>a-ṛṇin</s>, ¦ <lex>mfn.</lex> free from debt, <ls>L.</ls><info lex="m:f:n"/>
+<LEND>
+<L>9<pc>1,1<k1>aṃś<k2>aṃś<e>1
+<s>aṃś</s>, ¦ <ab>cl.</ab> 10. <ab>P.</ab> <s>aṃśayati</s>, to divide, distribute, <ls>L.</ls>; also occasionally <ab>Ā.</ab> <s>aṃśayate</s>, <ls>L.</ls>; also <s>aṃśāpayati</s>, <ls>L.</ls><info verb="genuineroot" cp="10P,10Ā"/>
+<LEND>
+<L>10<pc>1,1<k1>aṃśa<k2>áṃśa<e>1
+<s>áṃśa</s>, ¦ {<s>as</s>}, <lex>m.</lex> (probably <ab>fr.</ab> √ <hom>1.</hom> <s>aś</s>, <ab>perf.</ab> <s>ān-áṃśa</s>, and not from the above √ <s>aṃś</s> fictitiously formed to serve as root), a share, portion, part, party;<info lex="m"/>
+<LEND>
+<L>11<pc>1,1<k1>aṃśa<k2>áṃśa<e>1A
+¦ partition, inheritance;<info lex="inh"/>
+<LEND>
+<L>12<pc>1,1<k1>aṃśa<k2>áṃśa<e>1A
+¦ a share of booty;<info lex="inh"/>
+<LEND>
+<L>13<pc>1,1<k1>aṃśa<k2>áṃśa<e>1A
+¦ earnest money;<info lex="inh"/>
+<LEND>
+<L>14<pc>1,1<k1>aṃśa<k2>áṃśa<e>1A
+¦ stake (in betting), <ls>RV. v, 86, 5</ls>; <ls>TāṇḍyaBr.</ls>;<info lex="inh"/>
+<LEND>
+<L>15<pc>1,1<k1>aṃśa<k2>áṃśa<e>1A
+¦ a lot (<ab>cf.</ab> <hom>2.</hom> <s>prā<srs/>s</s>);<info lex="inh"/>
+<LEND>
+<L>16<pc>1,1<k1>aṃśa<k2>áṃśa<e>1A
+¦ the denominator of a fraction;<info lex="inh"/>
+<LEND>
+<L>17<pc>1,1<k1>aṃśa<k2>áṃśa<e>1A
+¦ a degree of <ab>lat.</ab> or <ab>long.</ab>;<info lex="inh"/>
+<LEND>
+<L>18<pc>1,1<k1>aṃśa<k2>áṃśa<e>1A
+¦ a day, <ls>L.</ls>;<info lex="inh"/>
+<LEND>
+<L>19<pc>1,1<k1>aṃśa<k2>áṃśa<e>1A
+¦ <ab>N.</ab> of an <s1 slp1="Aditya">Āditya</s1>.<info lex="inh"/>
+<LEND>
+<L>20<pc>1,1<k1>aṃśakaraṇa<k2>aṃśa—karaṇa<e>3
+<s>aṃśa—karaṇa</s>, ¦ <lex>n.</lex> act of dividing.<info lex="n"/>
+<LEND>
+<L>21<pc>1,1<k1>aṃśakalpanā<k2>aṃśa—kalpanā<e>3
+<s>aṃśa—kalpanā</s>, <lex>f.</lex> or <s>aṃśa—prakalpanā</s>, <lex>f.</lex> or <s>aṃśa—pradāna</s>, <lex>n.</lex>, ¦ allotment of a portion.<info or="21,aMSakalpanA;22,aMSaprakalpanA;23,aMSapradAna"/><info lex="f"/>
+<LEND>
+<L>22<pc>1,1<k1>aṃśaprakalpanā<k2>aṃśa—prakalpanā<e>3
+<s>aṃśa—kalpanā</s>, <lex>f.</lex> or <s>aṃśa—prakalpanā</s>, <lex>f.</lex> or <s>aṃśa—pradāna</s>, <lex>n.</lex>, ¦ allotment of a portion.<info or="21,aMSakalpanA;22,aMSaprakalpanA;23,aMSapradAna"/><info lex="f"/>
+<LEND>
+<L>23<pc>1,1<k1>aṃśapradāna<k2>aṃśa—pradāna<e>3
+<s>aṃśa—kalpanā</s>, <lex>f.</lex> or <s>aṃśa—prakalpanā</s>, <lex>f.</lex> or <s>aṃśa—pradāna</s>, <lex>n.</lex>, ¦ allotment of a portion.<info or="21,aMSakalpanA;22,aMSaprakalpanA;23,aMSapradAna"/><info lex="n"/>
+<LEND>
+<L>24<pc>1,1<k1>aṃśabhāgin<k2>aṃśa—bhāgin<e>3
+<s>aṃśa—bhāgin</s> or <s>aṃśa—bhāj</s>, ¦ <lex>mfn.</lex> one who has a share, an heir, co-heir.<info or="24,aMSaBAgin;25,aMSaBAj"/><info lex="m:f:n"/>
+<LEND>
+<L>25<pc>1,1<k1>aṃśabhāj<k2>aṃśa—bhāj<e>3
+<s>aṃśa—bhāgin</s> or <s>aṃśa—bhāj</s>, ¦ <lex>mfn.</lex> one who has a share, an heir, co-heir.<info or="24,aMSaBAgin;25,aMSaBAj"/><info lex="m:f:n"/>
+<LEND>
+<L>26<pc>1,1<k1>aṃśabhū<k2>aṃśa—bhū́<e>3
+<s>aṃśa—bhū́</s>, ¦ <lex>m.</lex> partner, associate, <ls>TS.</ls><info lex="m"/>
+<LEND>
+<L>27<pc>1,1<k1>aṃśabhūta<k2>aṃśa—bhūta<e>3
+<s>aṃśa—bhūta</s>, ¦ <lex>mfn.</lex> forming part of.<info lex="m:f:n"/>
+<LEND>
+<L>27.1<pc>1308,1<k1>aṃśarūpiṇī<k2>aṃśa-rūpiṇī<e>3
+<s>aṃśa-rūpiṇī</s>, ¦ <lex>f.</lex> (with <s>śakti</s>) a female personification of the divine energy, <ls>RTL. 187</ls>.<info n="sup"/><info lex="f"/>
+<LEND>
+<L>28<pc>1,1<k1>aṃśavat<k2>aṃśa—vat<e>3
+<s>aṃśa—vat</s> ¦ (for <s>aṃśumat</s>?) <lex>m.</lex> a species of <s1 slp1="soma">Soma</s1> plant, <ls>Suśr.</ls><info lex="m"/>
+<LEND>
+<L>29<pc>1,1<k1>aṃśasavarṇana<k2>aṃśa—savarṇana<e>3
+<s>aṃśa—savarṇana</s>, ¦ <lex>n.</lex> reduction of fractions.<info lex="n"/>
+<LEND>
+<L>30<pc>1,1<k1>aṃśasvara<k2>aṃśa—svara<e>3
+<s>aṃśa—svara</s>, ¦ <lex>m.</lex> key-note or chief note in music.<info lex="m"/>
+<LEND>
+<L>31<pc>1,1<k1>aṃśahara<k2>aṃśa—hara<e>3
+<s>aṃśa—hara</s> or <s>aṃśa—hārin</s>, ¦ <lex>mfn.</lex> taking a share, a sharer.<info or="31,aMSahara;32,aMSahArin"/><info lex="m:f:n"/>
+<LEND>
+<L>32<pc>1,1<k1>aṃśahārin<k2>aṃśa—hārin<e>3
+<s>aṃśa—hara</s> or <s>aṃśa—hārin</s>, ¦ <lex>mfn.</lex> taking a share, a sharer.<info or="31,aMSahara;32,aMSahArin"/><info lex="m:f:n"/>
+<LEND>
+<L>33<pc>1,1<k1>aṃśāṃśa<k2>aṃśāṃśa<e>3
+<s>aṃśā<srs/>ṃśa</s>, ¦ <lex>m.</lex> part of a portion (of a deity), secondary incarnation.<info lex="m"/>
+<LEND>
+<L>34<pc>1,1<k1>aṃśāṃsi<k2>aṃśāṃsi<e>3
+<s>aṃśā<srs/>ṃsi</s>, ¦ <lex>ind.</lex> share by share.<info lex="ind"/>
+<LEND>
+<L>35<pc>1,1<k1>aṃśāvataraṇa<k2>aṃśāvataraṇa<e>3
+<s>aṃśā<srs/>vataraṇa</s>, ¦ <lex>n.</lex> descent of part of a deity;<info lex="n"/>
+<LEND>
+<L>36<pc>1,1<k1>aṃśāvataraṇa<k2>aṃśāvataraṇa<e>3A
+¦ partial incarnation;<info lex="inh"/>
+<LEND>
+<L>37<pc>1,1<k1>aṃśāvataraṇa<k2>aṃśāvataraṇa<e>3A
+¦ title of sections 64-67 of the first book of the <ls>MBh.</ls><info lex="inh"/>
+<LEND>
+<L>38<pc>1,1<k1>aṃśīkṛ<k2>aṃśī-kṛ<h>1<e>3
+<s>aṃśī</s>-√ <hom>1.</hom> <s>kṛ</s>, ¦ to share.<info verb="gati" cp="" parse="aMSI+kf"/>
+<LEND>
+<L>39<pc>1,1<k1>aṃśaka<k2>aṃśaka<h>1<e>2
+<hom>1.</hom> <s>aṃśaka</s>, ¦ <lex>mf(<s>ikā</s>)n.</lex> (<ab>ifc.</ab>) forming part.<info lex="m:f#ikA:n"/>
+<LEND>
+<L>40<pc>1,1<k1>aṃśaka<k2>aṃśaka<h>2<e>2
+<hom>2.</hom> <s>aṃśaka</s>, ¦ {<s>as</s>}, <lex>m.</lex> a share;<info lex="m"/>
+<LEND>
+<L>41<pc>1,1<k1>aṃśaka<k2>aṃśaka<e>2A
+¦ degree of latitude or longitude;<info lex="inh"/>
+<LEND>
+<L>42<pc>1,1<k1>aṃśaka<k2>aṃśaka<e>2A
+¦ a co-heir, <ls>L.</ls>;<info lex="inh"/>
+<LEND>
+<L>43<pc>1,1<k1>aṃśaka<k2>aṃśaka<e>2B
+<s>aṃśaka</s>, ¦ {(<s>am</s>)}, <lex>n.</lex> a day, <ls>L.</ls><info lex="n"/>
+<LEND>
+<L>44<pc>1,1<k1>aṃśala<k2>aṃśala<e>2
+<s>aṃśala</s>, ¦ See <s>aṃsalá</s> next <ab>col.</ab>
+<LEND>
+<L>45<pc>1,1<k1>aṃśin<k2>aṃśin<e>2
+<s>aṃśin</s>, ¦ <lex>mfn.</lex> having a share, <ls>Yājñ.</ls><info lex="m:f:n"/>
+<LEND>
+<L>46<pc>1,1<k1>aṃśitā<k2>aṃśi-tā<e>3
+<s>aṃśi-tā</s>, ¦ <lex>f.</lex> the state of a sharer or co-heir, heirship.<info lex="f"/>
+<LEND>
+<L>47<pc>1,1<k1>aṃśu<k2>aṃśú<e>1
+<s>aṃśú</s>, ¦ {<s>us</s>}, <lex>m.</lex> a filament (especially of the <s1 slp1="soma">Soma</s1> plant);<info lex="m"/>
+<LEND>
+<L>48<pc>1,1<k1>aṃśu<k2>aṃśú<e>1A
+¦ a kind of <s1 slp1="soma">Soma</s1> libation, <ls>ŚBr.</ls>;<info lex="inh"/>
+<LEND>
+<L>49<pc>1,1<k1>aṃśu<k2>aṃśú<e>1A
+¦ thread;<info lex="inh"/>
+<LEND>
+<L>50<pc>1,2<k1>aṃśu<k2>aṃśú<e>1A
+¦ end of a thread, a minute particle;<info lex="inh"/>
+<LEND>
+<L>51<pc>1,2<k1>aṃśu<k2>aṃśú<e>1A
+¦ a point, end;<info lex="inh"/>
+<LEND>
+<L>52<pc>1,2<k1>aṃśu<k2>aṃśú<e>1A
+¦ a ray, sunbeam ;<info n="rev" pc="1308,1"/><info lex="inh"/>
+<LEND>
+<L>53<pc>1,2<k1>aṃśu<k2>aṃśú<e>1A
+¦ cloth, <ls>L.</ls>;<info lex="inh"/>
+<LEND>
+<L>54<pc>1,2<k1>aṃśu<k2>aṃśú<e>1A
+¦ <ab>N.</ab> of a <s1 slp1="fzi">Ṛṣi</s1>, <ls>RV. viii, 5, 26</ls>;<info lex="inh"/>
+<LEND>
+<L>55<pc>1,2<k1>aṃśu<k2>aṃśú<e>1A
+¦ of an ancient Vedic teacher, son of a <s1 slp1="DanaMjaya">Dhanaṃjaya</s1>, <ls>VBr.</ls>;<info lex="inh"/>
+<LEND>
+<L>56<pc>1,2<k1>aṃśu<k2>aṃśú<e>1A
+¦ of a prince.<info lex="inh"/>
+<LEND>
+<L>57<pc>1,2<k1>aṃśujāla<k2>aṃśu—jāla<e>3
+<s>aṃśu—jāla</s>, ¦ <lex>n.</lex> a collection of rays, blaze of light.<info lex="n"/>
+<LEND>
+<L>58<pc>1,2<k1>aṃśudhara<k2>aṃśu—dhara<e>3
+<s>aṃśu—dhara</s>, ¦ <lex>m.</lex> ‘bearer of rays’, the sun, <ls>L.</ls><info lex="m"/>
+<LEND>
+<L>59<pc>1,2<k1>aṃśudhāna<k2>aṃśu—dhāna<e>3
+<s>aṃśu—dhāna</s>, ¦ <lex>n.</lex> <ab>N.</ab> of a village, <ls>R.</ls><info lex="n"/>
+<LEND>
+<L>60<pc>1,2<k1>aṃśudhāraya<k2>aṃśu—dhāraya<e>3
+<s>aṃśu—dhāraya</s>, ¦ <lex>m.</lex> a lamp, <ls>MaitrUp.</ls><info lex="m"/>
+<LEND>
+<L>61<pc>1,2<k1>aṃśunadī<k2>aṃśu—nadī<e>3
+<s>aṃśu—nadī</s>, ¦ <lex>f.</lex> <ab>N.</ab> of a river.<info lex="f"/>
+<LEND>
+<L>62<pc>1,2<k1>aṃśupaṭṭa<k2>aṃśu—paṭṭa<e>3
+<s>aṃśu—paṭṭa</s>, ¦ <lex>n.</lex> a kind of cloth.<info lex="n"/>
+<LEND>
+<L>63<pc>1,2<k1>aṃśupati<k2>aṃśu—pati<e>3
+<s>aṃśu—pati</s> or <s>aṃśu—bhartṛ</s>, ¦ <lex>m.</lex> ‘lord of rays’, the sun, <ls>L.</ls><info or="63,aMSupati;64,aMSuBartf"/><info lex="m"/>
+<LEND>
+<L>64<pc>1,2<k1>aṃśubhartṛ<k2>aṃśu—bhartṛ<e>3
+<s>aṃśu—pati</s> or <s>aṃśu—bhartṛ</s>, ¦ <lex>m.</lex> ‘lord of rays’, the sun, <ls>L.</ls><info or="63,aMSupati;64,aMSuBartf"/><info lex="m"/>
+<LEND>
+<L>65<pc>1,2<k1>aṃśumat<k2>aṃśu—mát<e>3
+<s>aṃśu—mát</s>, ¦ <lex>mfn.</lex> fibrous, rich in filaments;<info lex="m:f:n"/>
+<LEND>
+<L>66<pc>1,2<k1>aṃśumat<k2>aṃśu—mát<e>3A
+¦ rich in <s1 slp1="soma">Soma</s1> plants or <s1 slp1="soma">Soma</s1> juice;<info lex="inh"/>
+<LEND>
+<L>67<pc>1,2<k1>aṃśumat<k2>aṃśu—mát<e>3A
+¦ radiant, luminous;<info lex="inh"/>
+<LEND>
+<L>68<pc>1,2<k1>aṃśumat<k2>aṃśu—mát<e>3A
+¦ pointed;<info lex="inh"/>
+<LEND>
+<L>69<pc>1,2<k1>aṃśumat<k2>aṃśu—mát<e>3B
+<s>aṃśu—mát</s>, ¦ {(<s>ān</s>)}, <lex>m.</lex> the sun, the moon;<info lex="m"/>
+<LEND>
+<L>70<pc>1,2<k1>aṃśumat<k2>aṃśu—mát<e>3B
+¦ <ab>N.</ab> of various persons, especially of a prince of the solar race, son of <s1 slp1="a-samaYja">A-samañja</s1>, grandson of <s1 slp1="sagara">Sagara</s1>;<info lex="inh"/>
+<LEND>
+<L>71<pc>1,2<k1>aṃśumatī<k2>aṃśu—mátī<e>3B
+<s>aṃśu—mátī</s>, ¦ <lex>f.</lex> <ab>N.</ab> of a river (<s1 slp1="yamunA">Yamunā</s1> ?), <ls>RV. viii, 96, 13</ls>-<ls n="RV. viii, 96,">15</ls>;<info lex="f"/>
+<LEND>
+<L>72<pc>1,2<k1>aṃśumatī<k2>aṃśu—mátī<e>3B
+¦ <bot>Hedysarum Gangeticum</bot>, <ls>Suśr.</ls><info lex="inh"/>
+<LEND>
+<L>73<pc>1,2<k1>aṃśumatphalā<k2>aṃśu—matphalā<e>3
+<s>aṃśu—matphalā</s>, ¦ <lex>f.</lex> <bot>Musa Paradisiaca</bot>.<info lex="f"/>
+<LEND>
+<L>74<pc>1,2<k1>aṃśumālā<k2>aṃśu—mālā<e>3
+<s>aṃśu—mālā</s>, ¦ <lex>f.</lex> a garland of light, halo.<info lex="f"/>
+<LEND>
+<L>75<pc>1,2<k1>aṃśumālin<k2>aṃśu—mālin<e>3
+<s>aṃśu—mālin</s>, ¦ <lex>m.</lex> the sun.<info lex="m"/>
+<LEND>
+<L>76<pc>1,2<k1>aṃśuvāṇa<k2>aṃśu—vāṇa<e>3
+<s>aṃśu—vāṇa</s>, ¦ <lex>m.</lex> ‘having rays for arrows’, the sun.<info lex="m"/>
+<LEND>
+<L>77<pc>1,2<k1>aṃśuvimarda<k2>aṃśu—vimarda<e>3
+<s>aṃśu—vimarda</s>, ¦ <lex>m.</lex> ray-obscuration.<info lex="m"/>
+<LEND>
+<L>78<pc>1,2<k1>aṃśuhasta<k2>aṃśu—hasta<e>3
+<s>aṃśu—hasta</s>, ¦ <lex>m.</lex> ‘having rays for hands’, the sun, <ls>L.</ls><info lex="m"/>
+<LEND>
+<L>79<pc>1,2<k1>aṃśūdaka<k2>aṃśūdaka<e>3
+<s>aṃśū<srs/>daka</s>, ¦ <lex>n.</lex> water which has been exposed to the rays of the sun or the moon, <ls>Bhpr.</ls><info lex="n"/>
+<LEND>
+<L>80<pc>1,2<k1>aṃśvādi<k2>aṃśv-ādi<e>3
+<s>aṃśv-ādi</s>, ¦ a gaṇa of <ls>Pāṇ. (vi, 2, 193).</ls>
+<LEND>
+<L>81<pc>1,2<k1>aṃśuka<k2>aṃśuka<e>2
+<s>aṃśuka</s>, ¦ {<s>am</s>}, <lex>n.</lex> cloth;<info lex="n"/>
+<LEND>
+<L>82<pc>1,2<k1>aṃśuka<k2>aṃśuka<e>2A
+¦ fine or white cloth, muslin [see <s>cīnā<srs/>ṃśuka</s>] <ls>L.</ls>;<info lex="inh"/>
+<LEND>
+<L>83<pc>1,2<k1>aṃśuka<k2>aṃśuka<e>2A
+¦ garment, upper garment;<info lex="inh"/>
+<LEND>
+<L>84<pc>1,2<k1>aṃśuka<k2>aṃśuka<e>2A
+¦ tie (for binding a churning-stick).<info lex="inh"/>
+<LEND>
+<L>85<pc>1,2<k1>aṃśula<k2>aṃśula<e>2
+<s>aṃśula</s>, ¦ {<s>as</s>}, <lex>m.</lex> radiant, <ls>T.</ls>;<info lex="m"/>
+<LEND>
+<L>86<pc>1,2<k1>aṃśula<k2>aṃśula<e>2A
+¦ <ab>N.</ab> of the sage <s1 slp1="cARakya">Cāṇakya</s1>, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>87<pc>1,2<k1>aṃs<k2>aṃs<e>1
+<s>aṃs</s> ¦ (<ab>cf.</ab> √ <s>aṃś</s>), <ls>L.</ls> See <s>vyaṃs</s>.<info verb="genuineroot" cp=""/>
+<LEND>
+<L>88<pc>1,2<k1>aṃsa<k2>áṃsa<e>2
+<s>áṃsa</s>, ¦ {<s>as</s>}, <lex>m.</lex> the shoulder, shoulder-blade;<info lex="m"/>
+<LEND>
+<L>89<pc>1,2<k1>aṃsa<k2>áṃsa<e>2A
+¦ corner of a quadrangle;<info lex="inh"/>
+<LEND>
+<L>90<pc>1,2<k1>aṃsa<k2>áṃsa<e>2A
+¦ <ab>N.</ab> of a king;<info lex="inh"/>
+<LEND>
+<L>91<pc>1,2<k1>aṃsau<k2>áṃsau<e>2B
+<s>áṃsau</s>, ¦ {(<s>au</s>)}, <lex>m.</lex> <ab>du.</ab> the two shoulders or angles of an altar;<info lex="m"/>
+<LEND>
+<L>92<pc>1,2<k1>aṃsa<k2>áṃsa<e>2B
+¦ a share (for <s>aṃśa</s>);<info lex="inh"/>
+<LEND>
+<L>92.1<pc>1,2<k1>aṃsa<k2>aṃsa<e>2E
+<s>aṃsa</s>, ¦ [<ab>cf.</ab> <ab>Goth.</ab> <etym>amsa</etym>; <ab>Gk.</ab> <lang n="greek">ὦμος</lang>, <lang n="greek">ἄσιλλα</lang>; <ab>Lat.</ab> <etym>humerus</etym>, <etym>ansa</etym>.]
+<LEND>
+<L>93<pc>1,2<k1>aṃsakūṭa<k2>aṃsa—kūṭa<e>3
+<s>aṃsa—kūṭa</s>, ¦ <lex>m.</lex> the shoulder;<info lex="m"/>
+<LEND>
+<L>94<pc>1,2<k1>aṃsakūṭa<k2>aṃsa—kūṭa<e>3A
+¦ a bull's hump, the protuberance between an ox's shoulders.<info lex="inh"/>
+<LEND>
+<L>95<pc>1,2<k1>aṃsatra<k2>áṃsa—tra<e>3
+<s>áṃsa—tra</s>, ¦ {(áṃsa-)}, <lex>n.</lex> armour to protect the shoulder, <ls>RV.</ls>;<info lex="n"/>
+<LEND>
+<L>95.1<pc>1,2<k1>aṃsatra<k2>áṃsa—tra<e>3A
+¦ a bow, <ls>Nir.</ls>;<info lex="inh"/>
+<LEND>
+<L>95.2<pc>1,2<k1>aṃsatrakośa<k2>áṃsatra—kośa<e>4
+<s>áṃsatra—kośa</s>, ¦ <lex>mfn.</lex> having a cask for its tunic (probably = a <s1 slp1="soma">Soma</s1> filter, <ls>Gmn.</ls>), <ls>RV. x, 101, 7.</ls><info lex="m:f:n"/>
+<LEND>
+<L>96<pc>1,2<k1>aṃsadaghna<k2>aṃsa—daghná<e>3
+<s>aṃsa—daghná</s>, ¦ <lex>mf(<s>ā́</s>)n.</lex> up to the shoulder, <ls>ŚBr.</ls><info lex="m:f#A:n"/>
+<LEND>
+<L>97<pc>1,2<k1>aṃsadhrī<k2>aṃsa—dhrī́<e>3
+<s>aṃsa—dhrī́</s>, ¦ <lex>f.</lex> ‘applied to the Vedi’, <ls>AV. xi, 1, 23</ls><info n="rev" pc="1308,1"/><info lex="f"/>
+<LEND>
+<L>97.2<pc>1308,1<k1>aṃsapīṭha<k2>aṃsa—pīṭha<e>3
+<s>aṃsa—pīṭha</s>, ¦ <lex>m.</lex> the shoulder-blades, <ls>Suśr.</ls><info n="sup"/><info lex="m"/>
+<LEND>
+<L>98<pc>1,2<k1>aṃsapṛṣṭha<k2>aṃsa—pṛṣṭha<e>3
+<s>aṃsa—pṛṣṭha</s>, ¦ <lex>n.</lex> back of the shoulder.<info lex="n"/>
+<LEND>
+<L>99<pc>1,2<k1>aṃsaphalaka<k2>aṃsa—phalaká<e>3
+<s>aṃsa—phalaká</s>, ¦ <lex>n.</lex> shoulder-blade, <ls>ŚBr.</ls>; <ls>Suśr.</ls><info lex="n"/>
+<LEND>
+<L>100<pc>1,2<k1>aṃsabhāra<k2>áṃsa—bhāra<e>3
+<s>áṃsa—bhāra</s> or <s>aṃse-bhāra</s>, ¦ <lex>m.</lex> a burden on the shoulder, (gaṇa <s>bhastrā<srs/>di</s>, <ab>q.v.</ab>)<info or="100,aMsaBAra;101,aMseBAra"/><info lex="m"/>
+<LEND>
+<L>101<pc>1,2<k1>aṃsebhāra<k2>aṃse-bhāra<e>3
+<s>áṃsa—bhāra</s> or <s>aṃse-bhāra</s>, ¦ <lex>m.</lex> a burden on the shoulder, (gaṇa <s>bhastrā<srs/>di</s>, <ab>q.v.</ab>)<info or="100,aMsaBAra;101,aMseBAra"/><info lex="m"/>
+<LEND>
+<L>102<pc>1,2<k1>aṃsabhārika<k2>aṃsa-bhārika<e>3
+<s>aṃsa-bhārika</s>, <lex>mf(<s>ī</s>)n.</lex> or <s>aṃse-bhārika</s>, <lex>mf(<s>ī</s>)n.</lex>, ¦ bearing a burden on the shoulder, <ls>ib.</ls><info or="102,aMsaBArika;103,aMseBArika"/><info lex="m:f#I:n"/>
+<LEND>
+<L>103<pc>1,2<k1>aṃsebhārika<k2>aṃse-bhārika<e>3
+<s>aṃsa-bhārika</s>, <lex>mf(<s>ī</s>)n.</lex> or <s>aṃse-bhārika</s>, <lex>mf(<s>ī</s>)n.</lex>, ¦ bearing a burden on the shoulder, <ls>ib.</ls><info or="102,aMsaBArika;103,aMseBArika"/><info lex="m:f#I:n"/>
+<LEND>
+<L>104<pc>1,2<k1>aṃsamūla<k2>aṃsa-mūla<e>3
+<s>aṃsa-mūla</s>, ¦ <lex>n.</lex> the acromion, <ls>L.</ls><info lex="n"/>
+<LEND>
+<L>104.1<pc>1308,1<k1>aṃsoccaya<k2>aṃsoccaya<e>3
+<s>aṃ°so<srs/>ccaya</s>, ¦ <lex>m.</lex> <ab>du.</ab> the shoulder-blades, <ls>ĀpŚr.</ls><info n="sup"/><info lex="m"/>
+<LEND>
+<L>105<pc>1,2<k1>aṃsala<k2>aṃsalá<e>2
+<s>aṃsalá</s>, ¦ <lex>mfn.</lex> lusty, strong, <ls>ŚBr.</ls> &c.<info lex="m:f:n"/>
+<LEND>
+<L>106<pc>1,2<k1>aṃsya<k2>áṃsya<e>2
+<s>áṃsya</s> (3), ¦ <lex>mfn.</lex> belonging to the shoulder, <ls>RV. i, 191, 7.</ls><info lex="m:f:n"/>
+<LEND>
+<L>107<pc>1,2<k1>aṃh<k2>aṃh<h>1<e>1
+<hom>1.</hom> <s>aṃh</s> ¦ (<ab>cf.</ab> √ <s>aṅgh</s>), <ab>cl.</ab> 1. <ab>Ā.</ab> <s>aṃhate</s>, to go, set out, commence, <ls>L.</ls>;
+<div n="to"/>to approach, <ls>L.</ls>;
+<div n="cl"/><ab>cl.</ab> 10. <ab>P.</ab> <s>aṃhayati</s>, to send, <ls>Bhaṭṭ.</ls>;
+<div n="to"/>to speak, <ls>Bhaṭṭ.</ls>;
+<div n="to"/>to shine, <ls>L.</ls><info verb="genuineroot" cp="1Ā,10P"/>
+<LEND>
+<L>108<pc>1,2<k1>aṃhri<k2>aṃhri<e>2
+<s>aṃhri</s>, ¦ {<s>is</s>}, <lex>m.</lex> a foot, <ls>HPar.</ls>;<info lex="m"/>
+<LEND>
+<L>109<pc>1,2<k1>aṃhri<k2>aṃhri<e>2A
+¦ root of a tree, <ls>L.</ls>;<info lex="inh"/>
+<LEND>
+<L>110<pc>1,2<k1>aṃhri<k2>aṃhri<e>2A
+¦ [<ab>cf.</ab> <s>aṅghri</s>.]<info lex="inh"/>
+<LEND>
+<L>111<pc>1,2<k1>aṃhripa<k2>aṃhri—pa<e>3
+<s>aṃhri—pa</s>, ¦ <lex>m.</lex> ‘root-drinker’, a tree, <ls>L.</ls><info lex="m"/>
+<LEND>
+<L>112<pc>1,2<k1>aṃhriskandha<k2>aṃhri—skandha<e>3
+<s>aṃhri—skandha</s>, <lex>m.</lex> or <s>aṃhri—śiras</s>, <lex>n.</lex>, ¦ a part of the foot between the ancle and the heel, <ls>L.</ls><info or="112,aMhriskanDa;113,aMhriSiras"/><info lex="m"/>
+<LEND>
+<L>113<pc>1,2<k1>aṃhriśiras<k2>aṃhri—śiras<e>3
+<s>aṃhri—skandha</s>, <lex>m.</lex> or <s>aṃhri—śiras</s>, <lex>n.</lex>, ¦ a part of the foot between the ancle and the heel, <ls>L.</ls><info or="112,aMhriskanDa;113,aMhriSiras"/><info lex="n"/>
+<LEND>
+<L>114<pc>1,2<k1>aṃh<k2>aṃh<h>2<e>1
+<hom>2.</hom> <s>aṃh</s>, ¦ to press together, to strangle (conjecturable from <ab>Gk.</ab> <lang n="greek">ἄχος</lang>, <lang n="greek">ἐγγύς</lang>; <ab>Lat.</ab> <etym>angustus</etym>, <etym>anxius</etym>, &c.), <ls>L.</ls><info whitneyroots="aMh,1"/><info verb="genuineroot" cp=""/>
+<LEND>
+<L>115<pc>1,2<k1>aṃhati<k2>aṃhatí<e>2
+<s>aṃhatí</s>, ¦ {<s>is</s>}, <lex>f.</lex> anxiety, distress, trouble, <ls>RV.</ls>;<info lex="f"/>
+<LEND>
+<L>116<pc>1,2<k1>aṃhati<k2>aṃhatí<e>2A
+¦ illness, <ls>L.</ls>;<info lex="inh"/>
+<LEND>
+<L>116.1<pc>1,2<k1>aṃhati<k2>aṃhatí<e>2E
+<s>aṃhatí</s>, ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>ango</etym>];
+<LEND>
+<L>117<pc>1,2<k1>aṃhati<k2>aṃhatí<e>2A
+¦ a gift (also <s>aṃhatī</s> <lex type="nhw">f.</lex>), <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>117.1<pc>1,2<k1>aṃhatī<k2>aṃhatī<e>2C
+<s>aṃhatī</s>, ¦ <lex>f.</lex> a gift (<ab>cf.</ab> <s>aṃhati</s>).<info lex="f"/>
+<LEND>
+<L>117.11<pc>1308,1<k1>aṃhana<k2>aṃhana<e>2
+<s>aṃhana</s>, ¦ <lex>n.</lex> (<ab>fr.</ab> √ <hom>1.</hom> <s>aṃh</s>) the act of moving or creeping (like a snake), <ls>L.</ls><info n="sup"/><info lex="n"/>
+<LEND>
+<L>118<pc>1,2<k1>aṃhas<k2>áṃhas<e>2
+<s>áṃhas</s>, ¦ <lex>n.</lex> anxiety, trouble, <ls>RV.</ls> &c.;<info lex="n"/>
+<LEND>
+<L>119<pc>1,2<k1>aṃhas<k2>áṃhas<e>2A
+¦ sin, <ls>L.</ls>;<info lex="inh"/>
+<LEND>
+<L>120<pc>1,2<k1>aṃhas<k2>áṃhas<e>2E
+¦ [<ab>cf.</ab> <s>aghá</s>, <s>ā́gas</s>; <ab>Gk.</ab> <lang n="greek">ἄχνυμαι</lang>, <lang n="greek">ἄχος</lang>, <lang n="greek">ἄγος</lang>.]<info lex="inh"/>
+<LEND>
+<L>121<pc>1,2<k1>aṃhaspati<k2>aṃhas—pati<e>3
+<s>aṃhas—pati</s> or <s>aṃhasas-patí</s> [<ls>VS.</ls>], ¦ <lex>m.</lex> lord of perplexity, <ab>i.e.</ab> an intercalary month; <ab>cf.</ab> <s>āṃhaspatya</s>.<info lex="m"/><info or="121,aMhaspati;122,aMhasaspati"/>
+<LEND>
+<L>122<pc>1,2<k1>aṃhasaspati<k2>aṃhasas-patí<e>3
+<s>aṃhas—pati</s> or <s>aṃhasas-patí</s> [<ls>VS.</ls>], ¦ <lex>m.</lex> lord of perplexity, <ab>i.e.</ab> an intercalary month; <ab>cf.</ab> <s>āṃhaspatya</s>.<info lex="m"/><info or="121,aMhaspati;122,aMhasaspati"/>
+<LEND>
+<L>123<pc>1,2<k1>aṃhaspatya<k2>aṃhas-patyá<e>3
+<s>aṃhas-patyá</s>, ¦ <lex>n.</lex> power over calamity, <ls>TS.</ls>; <ls>ĀpŚr.</ls><info lex="n"/>
+<LEND>
+; insert-1 <L>124<pc>1,2<k1>aṃhomuc<k2>aṃho-múc<e>3
+<s>aṃho-múc</s>, ¦ <lex>mfn.</lex> delivering from distress, <ls>RV. x, 63, 9</ls>; <ls>VS.</ls><info lex="m:f:n"/>
+<LEND>
+<L>124.1<pc>1308,1<k1>aṃholiṅga<k2>aṃho—liṅga<e>3
+<s>aṃho—liṅga</s>, ¦ <lex>mfn.</lex> characterized by the word <s>aṃhas</s> (said of a series of texts), <ls>Kauś.</ls><info n="sup"/><info lex="m:f:n"/>
+<LEND>
+<L>125<pc>1,2<k1>aṃhiti<k2>aṃhiti<e>2
+<s>aṃhiti</s>, ¦ {<s>is</s>}, <lex>f.</lex> a gift, donation, <ls>L.</ls> See <s>aṃhatí</s>.<info lex="f"/>
+<LEND>
+<L>126<pc>1,2<k1>aṃhu<k2>aṃhu<e>2
+<s>aṃhu</s>, ¦ <lex>mfn.</lex> (only in <ab>compar.</ab> <s>aṃhīyas</s>) narrow, <ls>AitBr.</ls>, see <s>parò'ṃhu</s>;<info lex="m:f:n"/>
+<LEND>
+<L>127<pc>1,2<k1>aṃhu<k2>aṃhú<e>2B
+<s>aṃhú</s>, ¦ {(<s>ú</s>)}, <lex>n.</lex> (only in <ab>Abl.</ab> <s>aṃhós</s>) anxiety, distress, <ls>RV.</ls>;<info lex="n"/>
+<LEND>
+<L>128<pc>1,2<k1>aṃhu<k2>aṃhu<e>2E
+<s>aṃhu</s>, ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἐγγύς</lang>; <ab>Goth.</ab> <etym>aggvus</etym>; <ab>Lat.</ab> <etym>angustus</etym>, <etym>anxius</etym>, &c.]
+<LEND>
+<L>129<pc>1,3<k1>aṃhubhedī<k2>aṃhu—bhédī<e>3
+<s>aṃhu—bhédī</s>, ¦ <lex>f.</lex> having a narrow slit (pudendum muliebre), <ls>VS.</ls><info lex="f"/>
+<LEND>
+<L>130<pc>1,3<k1>aṃhura<k2>aṃhurá<e>2
+<s>aṃhurá</s>, ¦ <lex>mfn.</lex> straitened, distressed, <ls>RV. x, 5, 6.</ls><info lex="m:f:n"/>
+<LEND>
+<L>131<pc>1,3<k1>aṃhūraṇa<k2>aṃhūraṇá<e>2
+<s>aṃhūraṇá</s>, ¦ <lex>mf(<s>ā́</s>)n.</lex> distressing, <ls>RV. vi, 47, 20</ls>;<info lex="m:f#A:n"/>
+<LEND>
+<L>132<pc>1,3<k1>aṃhūraṇa<k2>aṃhūraṇá<e>2B
+<s>aṃhūraṇá</s>, ¦ {(<s>ám</s>)}, <lex>n.</lex> distress, <ls>RV. i, 105, 17</ls>; <ls>AV.</ls><info lex="n"/>
+<LEND>
+<L>133<pc>1,3<k1>aṃhoyu<k2>aṃhoyú<e>2
+<s>aṃhoyú</s>, ¦ <lex>mfn.</lex> troublesome, <ls>RV. v, 15, 3.</ls><info lex="m:f:n"/>
+<LEND>
+<L>134<pc>1,3<k1>ak<k2>ak<e>1
+<s>ak</s>, ¦ <ab>cl.</ab> 1. <ab>P.</ab> <s>akati</s>, to move tortuously (like a snake), <ls>L.</ls>;
+<div n="cf"/><ab>Cf.</ab> √ <s>ag</s> and √ <s>añc</s>.<info verb="genuineroot" cp="1P"/>
+<LEND>
+<L>135<pc>1,3<k1>aka<k2>aka<h>1<e>1
+<hom>1.</hom> <s>aka</s>, ¦ the suffix <s>aka</s> (<s>akac</s>).
+<LEND>
+<L>136<pc>1,3<k1>aka<k2>á-ka<h>2<e>1
+<hom>2.</hom> <s>á-ka</s>, ¦ {<s>am</s>}, <lex>n.</lex> unhappiness, pain, trouble, <ls>TS.</ls>;<info lex="n"/>
+<LEND>
+<L>137<pc>1,3<k1>aka<k2>á-ka<e>1A
+¦ sin, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>138<pc>1,3<k1>akaca<k2>a-kaca<e>1
+<s>a-kaca</s>, ¦ <lex>mfn.</lex> hairless, bald;<info lex="m:f:n"/>
+<LEND>
+<L>139<pc>1,3<k1>akaca<k2>a-kaca<e>1A
+¦ <ab>cf.</ab> <s>ut-</s>, <s>ūrdhva-</s>, <s>vi-</s>;<info lex="inh"/>
+<LEND>
+<L>140<pc>1,3<k1>akaca<k2>a-kaca<e>1B
+<s>a-kaca</s>, ¦ {(<s>as</s>)}, <lex>m.</lex> <ab>N.</ab> of <s1 slp1="ketu">Ketu</s1>, the dragon's tail or descending node (having a headless trunk), <ls>L.</ls><info lex="m"/>
+<LEND>
+<L>141<pc>1,3<k1>akaṭuka<k2>a-kaṭuka<e>1
+<s>a-kaṭuka</s>, ¦ <lex>mfn.</lex> not acrid, not impetuous;<info lex="m:f:n"/>
+<LEND>
+<L>142<pc>1,3<k1>akaṭuka<k2>a-kaṭuka<e>1A
+¦ unwearied, indefatigable.<info lex="inh"/>
+<LEND>
+<L>143<pc>1,3<k1>akaṭuphala<k2>a-kaṭu-phala<e>2
+<s>a-kaṭu-phala</s>, ¦ {<s>as</s>}, <lex>m.</lex> a kind of plant.<info lex="m"/>
+<LEND>
+<L>144<pc>1,3<k1>akaṭhora<k2>a-kaṭhora<e>1
+<s>a-kaṭhora</s>, ¦ <lex>mfn.</lex> not hard, weak.<info lex="m:f:n"/>
+<LEND>
+<L>145<pc>1,3<k1>akaḍama<k2>akaḍama<e>1
+<s>akaḍama</s>, ¦ {<s>am</s>}, <lex>n.</lex> a kind of <ns>Tāntrik</ns> diagram.<info lex="n"/>
+<LEND>
+<L>146<pc>1,3<k1>akaḍamacakra<k2>akaḍama—cakra<e>3
+<s>akaḍama—cakra</s>, ¦ <lex>n.</lex> <ab>id.</ab><info lex="n"/>
+<LEND>
+<L>146.1<pc>1308,1<k1>akaṇaka<k2>a-kaṇaka<e>1
+<s>a-kaṇaka</s>, ¦ <lex>mfn.</lex> (rice) without red particles adhering to the husks, <ls>Divyāv.</ls><info n="sup"/><info lex="m:f:n"/>
+<LEND>
+<L>147<pc>1,3<k1>akaṇṭaka<k2>a-kaṇṭaka<e>1
+<s>a-kaṇṭaka</s>, ¦ <lex>mfn.</lex> thornless, free from troubles or difficulties or enemies.<info lex="m:f:n"/>
+<LEND>
+<L>148<pc>1,3<k1>akaṇṭha<k2>a-kaṇṭha<e>1
+<s>a-kaṇṭha</s>, ¦ <lex>mfn.</lex> having no neck;<info lex="m:f:n"/>
+<LEND>
+<L>149<pc>1,3<k1>akaṇṭha<k2>a-kaṇṭha<e>1A
+¦ having no voice, hoarse.<info lex="inh"/>
+<LEND>
+<L>150<pc>1,3<k1>akatthana<k2>a-katthana<e>1
+<s>a-katthana</s>, ¦ <lex>mfn.</lex> unboastful.<info lex="m:f:n"/>
+<LEND>
+<L>151<pc>1,3<k1>akathaha<k2>akathaha<e>1
+<s>akathaha</s>, ¦ {<s>am</s>}, <lex>n.</lex> a kind of diagram.<info lex="n"/>
+<LEND>
+<L>152<pc>1,3<k1>akathya<k2>a-kathya<e>1
+<s>a-kathya</s>, ¦ <lex>mfn.</lex> unspeakable;<info lex="m:f:n"/>
+<LEND>
+<L>153<pc>1,3<k1>akathya<k2>a-kathya<e>1A
+¦ unutterable, unmentionable.<info lex="inh"/>
+<LEND>
+<L>154<pc>1,3<k1>akaniṣṭha<k2>á-kaniṣṭha<e>1
+<s>á-kaniṣṭha</s>, ¦ <lex>m.</lex> <ab>pl.</ab> of whom none is the youngest (<ab>i.e.</ab> younger than the others), <ls>RV.</ls>;<info lex="m"/>
+<LEND>
+<L>155<pc>1,3<k1>akaniṣṭha<k2>á-kaniṣṭha<e>1A
+¦ a class of <ns>Buddhist</ns> deities.<info lex="inh"/>
+<LEND>
+<L>156<pc>1,3<k1>akaniṣṭhaga<k2>a-kaniṣṭha—ga<e>3
+<s>a-kaniṣṭha—ga</s>, ¦ <lex>m.</lex> a <s1 slp1="budDa">Buddha</s1>, <ls>L.</ls><info lex="m"/>
+<LEND>
+<L>157<pc>1,3<k1>akaniṣṭhapa<k2>a-kaniṣṭha—pa<e>3
+<s>a-kaniṣṭha—pa</s>, ¦ <lex>m.</lex> a <ns>Buddhist</ns> king, <ls>T.</ls><info lex="m"/>
+<LEND>
+<L>158<pc>1,3<k1>akanyā<k2>a-kanyā<e>1
+<s>a-kanyā</s>, ¦ <lex>f.</lex> not a virgin, <ls>Mn.</ls><info lex="f"/>
+<LEND>
+<L>159<pc>1,3<k1>akapīvat<k2>akapīvat<e>1
+<s>akapīvat</s>, ¦ {<s>ān</s>}, <lex>m.</lex> <ab>N.</ab> of a <s1 slp1="fzi">Ṛṣi</s1>.<info lex="m"/>
+<LEND>
+<L>159.1<pc>1308,1<k1>akabara<k2>akabara<e>1
+<s>akabara</s> or <s>akabbara</s> or <s>akavara</s>, ¦ <lex>m.</lex> (emperor) Akbar, <ls>Inscr.</ls><info or="159.1,akabara;159.2,akabbara;222.1,akavara"/><info n="sup"/><info lex="m"/>
+<LEND>
+<L>159.2<pc>1308,1<k1>akabbara<k2>akabbara<e>1
+<s>akabara</s> or <s>akabbara</s> or <s>akavara</s>, ¦ <lex>m.</lex> (emperor) Akbar, <ls>Inscr.</ls><info or="159.1,akabara;159.2,akabbara;222.1,akavara"/><info n="sup"/><info lex="m"/>
+<LEND>
+; insert-2 <L>160<pc>1,3<k1>akampana<k2>akampana<e>1
+<s>akampana</s>, ¦ {<s>as</s>}, <lex>m.</lex> <ab>N.</ab> of a prince;<info lex="m"/>
+<LEND>
+<L>161<pc>1,3<k1>akampana<k2>akampana<e>1A
+¦ of a <s1 slp1="rAkzasa">Rākṣasa</s1>.<info lex="inh"/>
+<LEND>
+<L>162<pc>1,3<k1>akampita<k2>a-kampita<e>1
+<s>a-kampita</s>, ¦ <lex>mfn.</lex> unshaken, firm;<info lex="m:f:n"/>
+<LEND>
+<L>163<pc>1,3<k1>akampita<k2>a-kampita<e>1B
+<s>a-kampita</s>, ¦ {(<s>as</s>)}, <lex>m.</lex> <ab>N.</ab> of one of the 11 chief pupils (<s>gaṇadhara</s> or <s>gaṇā<srs/>dhipa</s>) of <s1 slp1="mahAvIra">Mahāvīra</s1> (the last <s1 slp1="tIrTa-kara">Tīrtha-kara</s1>).<info lex="m"/>
+<LEND>
+<L>164<pc>1,3<k1>akampya<k2>a-kampya<e>2
+<s>a-kampya</s>, ¦ <lex>mfn.</lex> not to be shaken.<info lex="m:f:n"/>
+<LEND>
+<L>165<pc>1,3<k1>akara<k2>a-kara<e>1
+<s>a-kara</s>, ¦ <lex>mfn.</lex> handless, maimed;<info lex="m:f:n"/>
+<LEND>
+<L>166<pc>1,3<k1>akara<k2>a-kara<e>1A
+¦ exempt from tax or duty, privileged;<info lex="inh"/>
+<LEND>
+<L>167<pc>1,3<k1>akara<k2>a-kara<e>1A
+¦ not acting;<info lex="inh"/>
+<LEND>
+<L>168<pc>1,3<k1>akarā<k2>a-karā<e>1B
+<s>a-karā</s>, ¦ {(<s>ā</s>)}, <lex>f.</lex> <bot>Emblic Myrobalan</bot>, <bot>Phyllanthus Emblica</bot>.<info lex="f"/>
+<LEND>
+<L>169<pc>1,3<k1>akaraṇa<k2>a-karaṇa<e>1
+<s>a-karaṇa</s>, ¦ {<s>am</s>}, <lex>n.</lex> absence of action.<info lex="n"/>
+<LEND>
+<L>170<pc>1,3<k1>akaraṇi<k2>a-karaṇi<e>2
+<s>a-karaṇi</s>, ¦ {<s>is</s>}, <lex>f.</lex> non-accomplishment, failure, disappointment (used in imprecations e.g. <s>tasyā<srs/>karaṇir evā<srs/>stu</s> bad luck to him!), <ls>L.</ls><info lex="f"/>
+<LEND>
+<L>171<pc>1,3<k1>akaraṇīya<k2>a-karaṇīya<e>2
+<s>a-karaṇīya</s>, ¦ <lex>mfn.</lex> not to be done.<info lex="m:f:n"/>
+<LEND>
+<L>171.1<pc>1308,1<k1>akariṣyat<k2>a-kariṣyat<e>1
+<s>a-kariṣyat</s>, ¦ <lex>mfn.</lex> not intending to do, <ls>Drāhy.</ls><info n="sup"/><info lexcat="LEXID=fap,STEM=a-karizyat,ROOTCLASS=kf"/>
+<LEND>
+<L>172<pc>1,3<k1>akaruṇa<k2>a-karuṇa<e>1
+<s>a-karuṇa</s>, ¦ <lex>mfn.</lex> merciless, relentless.<info lex="m:f:n"/>
+<LEND>
+<L>173<pc>1,3<k1>akaruṇatva<k2>a-karuṇa—tva<e>3
+<s>a-karuṇa—tva</s>, ¦ <lex>n.</lex> harshness, cruelty.<info lex="n"/>
+<LEND>
+<L>174<pc>1,3<k1>akarkaśa<k2>a-karkaśa<e>1
+<s>a-karkaśa</s>, ¦ <lex>mfn.</lex> not hard, tender.<info lex="m:f:n"/>
+<LEND>
+<L>175<pc>1,3<k1>akarṇa<k2>á-karṇa<e>1
+<s>á-karṇa</s>, ¦ <lex>mf(<s>ā</s>)n.</lex> having diminutive ears, <ls>TS.</ls>; <ls>ŚBr.</ls>;<info lex="m:f#A:n"/>
+<LEND>
+<L>176<pc>1,3<k1>akarṇa<k2>á-karṇa<e>1A
+¦ without ears, deaf;<info lex="inh"/>
+<LEND>
+<L>177<pc>1,3<k1>akarṇa<k2>á-karṇa<e>1A
+¦ without helm or rudder;<info lex="inh"/>
+<LEND>
+<L>178<pc>1,3<k1>akarṇa<k2>á-karṇa<e>1A
+¦ without <s1 slp1="karRa">Karṇa</s1>.<info lex="inh"/>
+<LEND>
+<L>179<pc>1,3<k1>akarṇaka<k2>a-karṇáka<e>2
+<s>a-karṇáka</s>, ¦ <lex>mfn.</lex> without ears, <ls>TS.</ls>, &c.<info lex="m:f:n"/>
+<LEND>
+<L>179.1<pc>1308,1<k1>akarṇīya<k2>a-karṇīya<e>2
+<s>a-karṇīya</s>, ¦ <lex>mfn.</lex> not to be heard, <ls>MBh.</ls><info n="sup"/><info lex="m:f:n"/>
+<LEND>
+<L>180<pc>1,3<k1>akarṇya<k2>a-karṇya<e>2
+<s>a-karṇya</s>, ¦ <lex>mfn.</lex> not fit for the ears, <ls>Pāṇ.</ls>, <ab>Sch.</ab><info lex="m:f:n"/>
+<LEND>
+<L>181<pc>1,3<k1>akarṇadhāra<k2>a-karṇadhāra<e>1
+<s>a-karṇadhāra</s>, ¦ <lex>mfn.</lex> without a helmsman, destitute of a pilot.<info lex="m:f:n"/>
+<LEND>
+<L>182<pc>1,3<k1>akartana<k2>a-kartana<e>1
+<s>a-kartana</s>, ¦ {<s>as</s>}, <lex>m.</lex> a dwarf, <ls>L.</ls><info lex="m"/>
+<LEND>
+<L>183<pc>1,3<k1>akartṛ<k2>a-kartṛ<e>1
+<s>a-kartṛ</s>, ¦ {<s>tā</s>}, <lex>m.</lex> not an agent, <ab>N.</ab> applied to the <s>puruṣa</s> (in <s1 slp1="sANKya">Sāṅkhya</s1> <ab>phil.</ab>);<info lex="m"/>
+<LEND>
+<L>184<pc>1,3<k1>akartṛ<k2>a-kartṛ<e>1A
+¦ not active (in <ab>Gr.</ab>)<info lex="inh"/>
+<LEND>
+<L>185<pc>1,3<k1>akartṛtva<k2>a-kartṛ—tva<e>3
+<s>a-kartṛ—tva</s>, ¦ <lex>n.</lex> state of non-agency.<info lex="n"/>
+<LEND>
+</mw>
