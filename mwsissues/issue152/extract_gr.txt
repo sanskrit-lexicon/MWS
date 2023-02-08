@@ -1,0 +1,44 @@
+; ------------------------------------------------------
+; <L>28747<pc>165,1<k1>iti
+; <ls>Gr. 928.</ls>
+<s>i/ti kftvA</s>, having so considered, having so decided). It may often have reference merely to what is passing in the mind, <ab>e.g.</ab> <s>bAlo 'pi nA<srs/>vamantavyo manuzya i/ti BUmipaH</s>, a king, though a child, is not to be despised, saying to one's self, ‘he is a mortal’, (<ls>Gr. 928.</ls>) In <ab>dram.</ab> <s>i/ti taTA karoti</s> means ‘after these words he acts thus’.
+; ------------------------------------------------------
+; <L>28801<pc>165,2<k1>idam
+; <ls>Gr. 224</ls>
+See <ls>Gr. 224</ls>;
+; ------------------------------------------------------
+; <L>38973<pc>226,2<k1>fBukzin
+; <ls>Gr. 162</ls>
+<s>fBukzi/n</s> ¦ <s>As</s>, <lex>m.</lex> (see <ls>Gr. 162</ls> <ls>Pāṇ. vii, 1, 85 ff.</ls>), <ab>N.</ab> of the above <s1 slp1="fBu">Ṛbhu</s1>s, and <ab>esp.</ab> of the first of them, <ls>RV.</ls><info lex="m"/>
+; ------------------------------------------------------
+; <L>39168<pc>227,3<k1>eka
+; <ls>Gr. 200</ls>
+<s>e/ka</s> ¦ <lex>mfn.</lex> (√ <s>i</s>, <ls>Uṇ. iii, 43</ls>, probably <ab>fr.</ab> a base <s>e</s>; <ab>cf.</ab> <ab>Zd.</ab> <etym>ae-va</etym>; <ab>Gk.</ab> <lang n="greek">οἰ-ν-ός</lang>, <lang n="greek">οἶος</lang>; <ab>Goth.</ab> <etym>ai-n-s</etym>; also <ab>Lat.</ab> <etym>aequu-s</etym>; <ab>g.</ab> <s>sarvA<srs/>di</s>, <ls>Pāṇ. i, 1, 27</ls>; See <ls>Gr. 200</ls>), one (<s>eko'pi</s>, or <s>ekaS-cana</s>, with <s>na</s> preceding or following, no one, nobody; the words <s>ekayA na</s> or <s>ekAn na</s> are used before decade numerals to lessen them by one, <ab>e.g.</ab> <s>ekAn na triMSat</s>, twenty-nine), <ls>RV.</ls> &c.<info lexcat="LEXID=card,STEM=eka"/>
+; ------------------------------------------------------
+; <L>40041<pc>231,2<k1>etad
+; <ls>Gr. 223</ls>
+<s>eta/d</s> ¦ <lex>mfn.</lex> (<ls>Gr. 223</ls>; <ab>g.</ab> <s>sarvA<srs/>di</s>, <ls>Pāṇ. i, 1, 27</ls>) this, this here, here (especially as pointing to what is nearest to the speaker, <ab>e.g.</ab> <s>eza bARaH</s>, this arrow here in my hand; <s>eza yAti panTAH</s>, here passes the way; <s>eza kAlaH</s>, here <ab>i.e.</ab> now, is the time; <s>etad</s>, this here <ab>i.e.</ab> this world here below)<info lexcat="LEXID=pron,STEM=etad"/>
+; ------------------------------------------------------
+; <L>40112.1<pc>232,1<k1>ena
+; <ls>Gr. 223</ls>
+¦ this, that, (this pronoun is enclitic and cannot begin a sentence; it is generally used alone, so that <s>enam puruzam</s>, ‘that man’, would be very unusual if not incorrect. Grammarians assert that the substitution of <s>enam</s> &c. for <s>imam</s> or <s>etam</s> &c. takes place when something is referred to which has already been mentioned in a previous part of the sentence; See <ls>Gr. 223</ls> and <ls n="Gr.">836</ls>)
+; ------------------------------------------------------
+; <L>41031<pc>238,1<k1>OpacCandasika
+; <ls>Gr. 969</ls>
+<s>OpacCandasika</s> ¦ <lex>n.</lex> <ab>N.</ab> of a metre (consisting of four lines of alternately eleven and twelve syllabic instants See <ls>Gr. 969</ls>).<info lex="n"/>
+; ------------------------------------------------------
+; <L>45286<pc>258,3<k1>karmakartf
+; <ls>Gr. 461, iii</ls>   461.d.iii
+<s>karma—kartf</s> ¦ <lex>m.</lex> (in <ab>Gr.</ab>), ‘an object-agent’ or ‘object-containing agent’ <ab>i.e.</ab> an agent which is at the same time the object of an action (this is the idea expressed by the reflexive passive, as in <s>odanaH pacyate</s>, ‘the mashed grain cooks of itself’), <ls>Pāṇ. iii, 1, 62</ls> (<ab>cf.</ab> <ls>Gr. 461, iii</ls>)<info lex="m"/>
+; ------------------------------------------------------
+; <L>45343<pc>259,1<k1>karmaDAraya
+; <ls>Gr. 735, iii</ls>
+<s>karma—DAraya</s> ¦ <lex>m.</lex> <ab>N.</ab> of a class of <s1 slp1="tatpuruza">Tatpuruṣa</s1> (<ab>q.v.</ab>) compounds (in which the members would stand in the same case [<s>samAnA<srs/>DikaraRa</s>] if the compound were dissolved), <ls>Pāṇ. i, 2, 42</ls> (See <ls>Gr. 735, iii</ls>; <ls n="Gr.">755 ff.</ls>)<info lex="m"/>
+; ------------------------------------------------------
+; <L>103825<pc>528,1<k1>nam
+; <ls>Gr.</ls>  602
+<div n="vp"/><ab>Desid.</ab> <s>ninaMsati</s>, <ls>Gr.</ls> :
+; ------------------------------------------------------
+; <L>147598<pc>743,1<k1>Baj
+; <ls>Gr.</ls>  No specific reference found. Should it be <ab>Gr.</ab> ?
+<div n="vp"/><ab>Intens.</ab> <s>bABajyate</s>, <s>bABakti</s>, <ls>Gr.</ls> <info westergaard="vaYcu,33.29,10.0147"/><info whitneyroots="Baj,108"/><info verb="genuineroot" cp="1P,1Ā"/>
