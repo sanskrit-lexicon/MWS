@@ -1,0 +1,114 @@
+; ------------------------------------------------------
+; <L>14863<pc>85,2<k1>ayAna
+; <s>sva.BAva</s>
+54129 old ¦ (= <s>sva.BAva</s>), ‘natural disposition or temperament’, <ls>L.</ls><info lex="inh"/>
+;
+54129 new ¦ (= <s>sva-BAva</s>), ‘natural disposition or temperament’, <ls>L.</ls><info lex="inh"/>
+; ------------------------------------------------------
+; <L>16943<pc>96,1<k1>avana
+; <s>an.avana</s>
+61462 old <s>avana</s> <hom>a</hom> ¦ <lex>n.</lex> favour, preservation, protection, <ls>Nir.</ls>; <ls>BhP.</ls> &c. (<ab>cf.</ab> <s>an.avana</s>)<info lex="n"/>
+;
+61462 new <s>avana</s> <hom>a</hom> ¦ <lex>n.</lex> favour, preservation, protection, <ls>Nir.</ls>; <ls>BhP.</ls> &c. (<ab>cf.</ab> <s>an-avana</s>)<info lex="n"/>
+; ------------------------------------------------------
+; <L>17366<pc>99,1<k1>avatIrRarRa
+; <s>a.f</s>
+62934 old <s>avatIrRarRa</s> ¦ (<s>a.f</s>) <lex>mfn.</lex> freed from debt, <ls>L.</ls><info lex="m:f:n"/>
+;
+62934 new <s>avatIrRarRa</s> ¦ (<s>a-f</s>) <lex>mfn.</lex> freed from debt, <ls>L.</ls><info lex="m:f:n"/>
+; ------------------------------------------------------
+; <L>17371<pc>99,1<k1>avatrasta
+; <s>apa.Dvasta</s>
+62955 old <s>ava-trasta</s> ¦ <lex>mfn.</lex> (√ <s>tras</s>), terrified, <ls>Hariv. 2520</ls> (<ab>v.l.</ab> <s>apa.Dvasta</s>). <info lex="m:f:n"/>
+;
+62955 new <s>ava-trasta</s> ¦ <lex>mfn.</lex> (√ <s>tras</s>), terrified, <ls>Hariv. 2520</ls> (<ab>v.l.</ab> <s>apa-Dvasta</s>). <info lex="m:f:n"/>
+; ------------------------------------------------------
+; <L>18525<pc>107,1<k1>avAcInAgra
+; <s>avAg.agra</s>
+66917 old <s>avAcInA<srs/>gra</s> ¦ <lex>mfn.</lex> = <s>avAg.agra</s>, <ab>q.v.</ab>, <ls>AitBr.</ls><info lex="m:f:n"/>
+;
+66917 new <s>avAcInA<srs/>gra</s> ¦ <lex>mfn.</lex> = <s>avAg-agra</s>, <ab>q.v.</ab>, <ls>AitBr.</ls><info lex="m:f:n"/>
+; ------------------------------------------------------
+; <L>40045<pc>231,2<k1>etad  NO change needed
+; <s>eza vE praTamaH kalpaH . anukalpas tv ayaM jYeyaH</s>
+;141321 old ¦ <s>etad</s> generally refers to what precedes, <ab>esp.</ab> when connected with <s>idam</s>, the latter then referring to what follows (<ab>e.g.</ab> <s>eza vE praTamaH kalpaH . anukalpas tv ayaM jYeyaH</s>, this before-mentioned is the principal rule, but this following may be considered a secondary rule, <ls>Mn. iii, 147</ls>)<info lex="inh"/>
+;
+;141321 new ¦ <s>etad</s> generally refers to what precedes, <ab>esp.</ab> when connected with <s>idam</s>, the latter then referring to what follows (<ab>e.g.</ab> <s>eza vE praTamaH kalpaH . anukalpas tv ayaM jYeyaH</s>, this before-mentioned is the principal rule, but this following may be considered a secondary rule, <ls>Mn. iii, 147</ls>)<info lex="inh"/>
+; ------------------------------------------------------
+; <L>81078<pc>429,1<k1>JAMkfta
+; <s>JaM.k°</s>
+274191 old <s>JAM—kfta</s> ¦ <lex>n.</lex> (<ab>cf.</ab> <s>JaM.k°</s>) a tinkling ornament worn round the toes or feet, <ls>L.</ls><info lex="n"/>
+;
+274191 new <s>JAM—kfta</s> ¦ <lex>n.</lex> (<ab>cf.</ab> <s>JaM-k°</s>) a tinkling ornament worn round the toes or feet, <ls>L.</ls><info lex="n"/>
+; ------------------------------------------------------
+; <L>81711<pc>432,2<k1>taqAkini
+; <s>tawAk.°</s>
+276403 old <s>taqA°kini</s> ¦ for <s>tawAk.°</s> (<ab>C</ab>).
+;
+276403 new <s>taqA°kini</s> ¦ for <s>tawAk°</s> (<ab>C</ab>).
+; ------------------------------------------------------
+; <L>121864.1<pc>617,1<k1>pAd
+; <s>su.p°</s>
+411245 old ¦ also <ab>ifc.</ab> (See <s>tri-p°</s>, <s>dvi-p°</s>, <s>su.p°</s>).
+;
+411245 new ¦ also <ab>ifc.</ab> (See <s>tri-p°</s>, <s>dvi-p°</s>, <s>su-p°</s>).
+; ------------------------------------------------------
+; <L>126104<pc>635,2<k1>puromAruta
+; <s>paScAn.m°</s>
+424919 old <s>puro—mAruta</s> ¦ <lex>m.</lex> a wind blowing from before or in <ab n="front">f°</ab>, east wind (<ab>opp.</ab> to <s>paScAn.m°</s>), <ls>Ragh.</ls><info lex="m"/>
+;
+424919 new <s>puro—mAruta</s> ¦ <lex>m.</lex> a wind blowing from before or in <ab n="front">f°</ab>, east wind (<ab>opp.</ab> to <s>paScAn-m°</s>), <ls>Ragh.</ls><info lex="m"/>
+; ------------------------------------------------------
+; <L>137034<pc>692,2<k1>pravilamb
+; <s>prati.l°</s>
+461602 old <div n="vp"/><ab>Caus.</ab> (<ab>ind.p.</ab> <s>-lambya</s>) to hang up, <ls>Pañcat.</ls> (<ab>v.l.</ab> <s>prati.l°</s>). <info verb="pre" cp="Ā" parse="pra+vi+lamb"/>
+;
+461602 new <div n="vp"/><ab>Caus.</ab> (<ab>ind.p.</ab> <s>-lambya</s>) to hang up, <ls>Pañcat.</ls> (<ab>v.l.</ab> <s>prati-l°</s>). <info verb="pre" cp="Ā" parse="pra+vi+lamb"/>
+; ------------------------------------------------------
+; <L>145791<pc>734,2<k1>bodDavya
+; <s>pra.b°</s>
+490539 old <s>bodDavya</s> ¦ <lex>n.</lex> (<ab>impers.</ab>) it is to be watched or be awaked, <ls>Pañcat.</ls> (<ab>v.l.</ab> <s>pra.b°</s>). <info lex="n"/>
+;
+490539 new <s>bodDavya</s> ¦ <lex>n.</lex> (<ab>impers.</ab>) it is to be watched or be awaked, <ls>Pañcat.</ls> (<ab>v.l.</ab> <s>pra-b°</s>). <info lex="n"/>
+; ------------------------------------------------------
+; <L>152470<pc>764,2<k1>BUzaRa
+; <s>g.arDarcA<srs/>di</s>
+512504 old <s>BUzaRa</s> ¦ <lex>n.</lex> (rarely <lex type="hwalt">m.</lex>, <ab>e.g.</ab> <ls>MBh. iii, 8588</ls>; <ab>cf.</ab> <s>g.arDarcA<srs/>di</s>) embellishment, ornament, decoration (often <ab>ifc.</ab>, with <lex type="hwifc">f(<s>A</s>). </lex>, ‘having anything as ornament’ <ab>i.e.</ab> adorned or decorated with), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex="m:f#A:n"/>
+;
+512504 new <s>BUzaRa</s> ¦ <lex>n.</lex> (rarely <lex type="hwalt">m.</lex>, <ab>e.g.</ab> <ls>MBh. iii, 8588</ls>; <ab>cf.</ab> <ab>g.</ab> <s>arDarcA<srs/>di</s>) embellishment, ornament, decoration (often <ab>ifc.</ab>, with <lex type="hwifc">f(<s>A</s>). </lex>, ‘having anything as ornament’ <ab>i.e.</ab> adorned or decorated with), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex="m:f#A:n"/>
+; ------------------------------------------------------
+; <L>156863<pc>784,2<k1>manIzita
+; <s>yaTA.m°</s>
+526803 old <s>manIzita</s> ¦ <lex>n.</lex> wish, desire, <ls>ib.</ls> (<ab>cf.</ab> <s>yaTA.m°</s>). <info lex="n"/>
+;
+526803 new <s>manIzita</s> ¦ <lex>n.</lex> wish, desire, <ls>ib.</ls> (<ab>cf.</ab> <s>yaTA-m°</s>). <info lex="n"/>
+; ------------------------------------------------------
+; <L>162144<pc>806,3<k1>mARqavI
+; <s>vA/tsI.mARqavI-pu/tra</s>
+544315 old ¦ of a daughter of <s1 slp1="kuSa-Dvaja">Kuśa-dhvaja</s1> and wife of <s1 slp1="Barata">Bharata</s1>, <ls>R.</ls> (<ab>cf.</ab> <s>vA/tsI.mARqavI-pu/tra</s>). <info lex="inh"/>
+;
+544315 new ¦ of a daughter of <s1 slp1="kuSa-Dvaja">Kuśa-dhvaja</s1> and wife of <s1 slp1="Barata">Bharata</s1>, <ls>R.</ls> (<ab>cf.</ab> <s>vA/tsI-mARqavI-pu/tra</s>). <info lex="inh"/>
+; ------------------------------------------------------
+; <L>185523<pc>916,2<k1>vada
+; <s>priyaM.v°</s>
+620467 old <s>vada</s> ¦ <lex>mfn.</lex> speaking, a speaker (only <ab>ifc.</ab>; See <s>ku-v°</s>, <s>priyaM.v°</s>)<info lex="m:f:n"/>
+;
+620467 new <s>vada</s> ¦ <lex>mfn.</lex> speaking, a speaker (only <ab>ifc.</ab>; See <s>ku-v°</s>, <s>priyaM-v°</s>)<info lex="m:f:n"/>
+; ------------------------------------------------------
+; <L>209640<pc>1036,3<k1>vyAcint
+; <s>vy-a.c°</s>
+699887 old <s>vy-A-√ cint</s> ¦ (only 3. <ab>sg.</ab> <ab>impf.</ab> <s>vyAcintayat</s> <ab>w.r.</ab> for <s>vy-a.c°</s>), <ls>Pañcat.</ls><info verb="pre" cp="" parse="vi+A+cint"/>
+;
+699887 new <s>vy-A-√ cint</s> ¦ (only 3. <ab>sg.</ab> <ab>impf.</ab> <s>vyAcintayat</s> <ab>w.r.</ab> for <s>vy-a-c°</s>), <ls>Pañcat.</ls><info verb="pre" cp="" parse="vi+A+cint"/>
+; ------------------------------------------------------
+; <L>212535<pc>1051,3<k1>SanaparRI
+; <s>asana.p°</s>
+709378 old <s>Sana-parRI</s> ¦ <lex>f.</lex> (for <s>SaRa-p°</s>?) <bot>Wrightia Antidysenterica</bot>, <ls>L.</ls> (<ab>cf.</ab> <s>sana</s> and <s>asana.p°</s>). <info lex="f"/>
+;
+709378 new <s>Sana-parRI</s> ¦ <lex>f.</lex> (for <s>SaRa-p°</s>?) <bot>Wrightia Antidysenterica</bot>, <ls>L.</ls> (<ab>cf.</ab> <s>sana</s> and <s>asana-p°</s>). <info lex="f"/>
+; ------------------------------------------------------
+; <L>241656<pc>1201,3<k1>sADujana
+; <s>a.s°</s>
+805380 old <s>sADu—jana</s> ¦ <lex>m.</lex> a <ab n="good">g°</ab> person, honest man, <ls>Kāv.</ls>; <ls>Dhūrtas.</ls> (<s>a.s°</s>). <info lex="m"/>
+;
+805380 new <s>sADu—jana</s> ¦ <lex>m.</lex> a <ab n="good">g°</ab> person, honest man, <ls>Kāv.</ls>; <ls>Dhūrtas.</ls> (<s>a-s°</s>). <info lex="m"/>
