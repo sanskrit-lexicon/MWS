@@ -1939,7 +1939,7 @@ OLD	<s>grāma</s> ¦ [<ab>cf.</ab> <s>ariṣṭa-</s>, <s>mahā-</s>, <s>śūra-
 
 NEW	<s>grāma</s>, ¦ [<ab>cf.</ab> <s>ariṣṭa-</s>, <s>mahā-</s>, <s>śūra-</s>, <s>saṃ-</s>; <ab>cf.</ab> <lang>Hib.</lang> <etym>gramaisg</etym>, ‘the mob’; <etym>gramasgar</etym>, ‘a flock’.]
 ============================
-(235349): Others [Spelling Error; Wrong Tag]
+(235349): Others [Spelling Error]; [Wrong Tag]
 OLD	<s>grīva</s> ¦ [<ab>cf.</ab> <s>ásita-</s>, <s>ṛ́kṣa-</s>, <s>kambu-</s>, <s>kalmā́ṣa-</s>, <s>kṛṣṇá-</s>, <s>tuvi-</s>, <s>niṣká-</s>, &c.; <ab>cf.</ab> also <ab>Lith.</ab> <etym>galwâ</etym>; <ab>Russ.</ab> <etym>glava</etym> & <s>golova</s>.]
 
 NEW	<s>grīva</s>, ¦ [<ab>cf.</ab> <s>ásita-</s>, <s>ṛ́kṣa-</s>, <s>kambu-</s>, <s>kalmā́ṣa-</s>, <s>kṛṣṇá-</s>, <s>tuvi-</s>, <s>niṣká-</s>, &c.; <ab>cf.</ab> also <lang>Lith.</lang> <etym>galwå</etym>; <lang>Russ.</lang> <etym>glava</etym> & <etym>golova</etym>.]
@@ -2736,7 +2736,7 @@ OLD	<s>dhav</s> ¦ <ab>cl.</ab> 1. <ab>Ā.</ab> <s>dhavate</s>, to run, flow, <l
 
 NEW	<s>dhav</s>, ¦ <cl>cl. 1.</cl> <ab>Ā.</ab> <s>dhavate</s>, to run, flow, <ls>RV.</ls> [<ab>Cf.</ab> <hom>2.</hom> <s>dhan</s> and <hom>1.</hom> <s>dhāv</s>; <lang>Gk.</lang> <gk>θεϝ</gk> in <gk>θέω</gk>, <gk>θεύσομαι</gk>, <gk>θοός</gk>]
 ============================
-(338649): Others [Spelling Error; Missing Text]
+(338649): Others [Spelling Error]; [Missing Text]
 OLD	<s>dhā</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>dā</etym>, <etym>dadaiti</etym>; <ab>Gk.</ab> <lang n="greek">θε-</lang>, <lang n="greek">θη-</lang>, <lang n="greek">τίθημι</lang>; <ab>Lith.</ab> <etym>dedú</etym>, <etym>déti</etym>; <ab>Slav.</ab> <etym>dedja</etym>, <etym>diti</etym>; <ab>Old Sax.</ab> <etym>duan</etym>, <etym>dôn</etym>, <ab>Angl.Sax.</ab> <etym>dôn</etym>, <ab>Engl.</ab> <etym>do</etym>; <ab>Germ.</ab> <etym>tuan</etym>; <etym>tuon</etym>, <etym>thun</etym>.]
 
 NEW	<s>dhā</s>, ¦ [<ab>cf.</ab> <lang>Zd.</lang> <etym>dā</etym>, <etym>dadaiti</etym>; <lang>Gk.</lang> <gk>θε-</gk>, <gk>θη-</gk>, <gk>τίθημι</gk>; <lang>Lith.</lang> <etym>dedù</etym>, <etym>dë́ti</etym>; <lang>Slav.</lang> <etym>dedją</etym>, <etym>děti</etym>; <lang>Old Sax.</lang> <etym>duan</etym>, <etym>dôn</etym>, <lang>Angl.Sax.</lang> <etym>dôn</etym>, <lang>Engl.</lang> <etym>to do</etym>; <lang>Germ.</lang> <etym>tuan</etym>; <etym>tuon</etym>, <etym>thun</etym>.]
@@ -3011,7 +3011,7 @@ OLD	<s>pattra</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">πτερόν</la
 
 NEW	<s>pattra</s>, ¦ [<ab>Cf.</ab> <lang>Gk.</lang> <gk>πτερόν</gk> (for <gk>πετερόν</gk>); <lang>Lat.</lang> <etym>penna</etym> (older <etym>pesna</etym> for <etym>pet-na</etym>); <lang>Germ.</lang> <etym>Feder</etym>; <lang>Eng.</lang> <etym>feather</etym>.]
 ============================
-(388006): Others [Spelling Error; Comp. word split as multiple pieces/Space Error]
+(388006): Others [Spelling Error]; [Comp. word split as multiple pieces/Space Error]
 OLD	<s>pati</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">πόσις</lang>, ‘husband’; <ab>Lat.</ab> <etym>potis</etym>, <etym>pos-sum</etym> for <etym>potis-sum</etym>; <ab>Lith.</ab> <etym>patis</etym>, ‘husband’; <ab>Goth.</ab> (<etym>bruth-</etym>) <etym>faths</etym>, ‘bridegroom’]
 
 NEW	<s>pati</s>, ¦ [<ab>Cf.</ab> <lang>Gk.</lang> <gk>πόσις</gk>, ‘husband’; <lang>Lat.</lang> <etym>potis</etym>, <etym>pos-sum</etym> for <etym>potis-sum</etym>; <lang>Lith.</lang> <etym>patìs</etym>, ‘husband’; <lang>Goth.</lang> <etym>(bruth-)faths</etym>, ‘bridegroom’.]
@@ -3146,7 +3146,7 @@ OLD	<s>pāgala</s> ¦ <lex>mfn.</lex> (a word used in <ns>Bengāli</ns>) mad, de
 
 NEW	<s>pāgala</s>, <lex>mfn.</lex> ¦ (a word used in <lang>Bengālī</lang>) mad, deranged, demented, <ls>BrahmaP.</ls>
 ============================
-(409889): Others [Spelling Error; Missing Text]
+(409889): Others [Spelling Error]; [Missing Text]
 OLD	<s>pāṇi</s> ¦ [<ab>Orig.</ab> <s>palni</s>; <ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">παλάμη</lang>; <ab>Lat.</ab> <etym>palma</etym>; <ab>Angl.Sax.</ab> <etym>folm</etym>; <ab>Germ.</ab> <etym>föhlen</etym>; <ab>Eng.</ab> <etym>feel</etym>.]
 
 NEW	<s>pāṇi</s>, ¦ [<ab>Orig.</ab> <s>palni</s>; <ab>cf.</ab> <lang>Gk.</lang> <gk>παλάμη</gk>; <lang>Lat.</lang> <etym>palma</etym>; <lang>Angl.Sax.</lang> <etym>folm</etym>; <lang>Germ.</lang> <etym>fühlen</etym>; <lang>Eng.</lang> <etym>to feel</etym>.]

@@ -6,15 +6,17 @@ from __future__ import print_function
 import sys, re,codecs
 
 class LangGroup(object):
- def __init__(self,lnum,msg,comment,old,new):
+ def __init__(self,lines,lnum,msg,comment,old,new):
+  self.lines = lines
   self.lnum = lnum
   self.msg = msg
-  self.comment = comment
+  self.comment = comment.strip()
   self.old = old
   self.new = new
 
 def groupgen(lines):
  group = []
+ igroup = 0
  for iline,line in enumerate(lines):
   # ignore lines starting with ;
   if line.startswith(';'):
@@ -49,10 +51,12 @@ def groupgen(lines):
     print(group[3])
     exit()
    new = m.group(1)
-   rec = LangGroup(msg_lnum,msg_text,msg_comment,old,new)
-   if False: # dbg
-    if iline < 50:
-     print('groupgen: lnum=%s, msg=%s, comment=%s' % (msg_lnum,msg_text,msg_comment))
+   rec = LangGroup(group,msg_lnum,msg_text,msg_comment,old,new)
+   igroup = igroup + 1
+   if True: # dbg
+    if igroup == 0:
+     for x in rec.lines:
+      print('langgroup check',x)
    yield rec
    group = []
    

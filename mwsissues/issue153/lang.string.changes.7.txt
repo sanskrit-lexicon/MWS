@@ -1,0 +1,240 @@
+(8178): Misc. [Space Error]
+OLD	<s>ajra</s> ¦ [<ab>Lat.</ab> <etym>ager</etym>; <ab>Gk.</ab> <lang n="greek">ἀγρός</lang>: <ab>cf.</ab> <s>ajira</s>].
+
+NEW	<s>ajra</s>, ¦ [<lang>Lat.</lang> <etym>ager</etym>; <lang>Gk.</lang> <gk>ἀγρός</gk> : <ab>cf.</ab> <s>ajira</s>].
+============================
+(30156): Misc. [Print Error]
+OLD	<s>antara</s> ¦ [<ab>cf.</ab> <ab>Goth.</ab> <etym>anthar</etym>, <ab>Theme</ab> <etym>anthara</etym>; <ab>Lith.</ab> <etym>antra-s</etym>, ‘the second’; <ab>Lat.</ab> <etym>alter</etym>].
+
+NEW	<s>antara</s>, ¦ [<ab>cf.</ab> <lang>Goth.</lang> <etym>anthar</etym>, <ab>Thema</ab> <etym>anthara</etym>; <lang>Lith.</lang> <etym>antra-s</etym>, ‘the second’; <lang>Lat.</lang> <etym>alter</etym>].
+============================
+(53112): Misc. [Punctuation Error]
+OLD	¦ <ab>du.</ab> (<s>asī</s>) heaven and earth, <ls>Naigh.</ls>[<ab>Gk.</ab> <lang n="greek">ὄμβρος</lang> <etym>imber</etym>].
+
+NEW	<s>ámbhasī</s>, <ab>du.</ab> (<s>{asī}</s>) ¦ heaven and earth, <ls>Naigh.</ls> [<lang>Gk.</lang> <gk>ὄμβρος</gk>, <etym>imber</etym>].
+============================
+(61447): Misc. [Space Error]
+OLD	<s>av</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἀίω</lang> <ab>Lat.</ab> <etym>aveo</etym>?].
+
+NEW	<s>av</s>, ¦ [<ab>cf.</ab> <lang>Gk.</lang> <gk>ἀίω</gk>; <lang>Lat.</lang> <etym>aveo</etym> ?].
+============================
+(67205): Misc. [Punctuation Error]
+OLD	<s>avi</s> ¦ [<ab>cf.</ab> <ab>Lith.</ab> <etym>awi-s</etym>; <ab>Slav.</ab> <etym>ovjza</etym>, <ab>Lat.</ab> <etym>ovi-s</etym>; <ab>Gk.</ab> <lang n="greek">ὄϊ-ς</lang>; <ab>Goth.</ab> <etym>avistr</etym>].
+
+NEW	<s>avi</s>, ¦ [<ab>cf.</ab> <lang>Lith.</lang> <etym>awi-s</etym>; <lang>Slav.</lang> <etym>ovjza</etym>; <lang>Lat.</lang> <etym>ovi-s</etym>; <lang>Gk.</lang> <gk>ὄϊ-ς</gk>; <lang>Goth.</lang> <etym>avistr</etym>].
+============================
+(73408): Misc. [Punctuation Error]
+OLD	<s>as</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἐσ-τί</lang> <ab>Lat.</ab> <etym>es-t</etym>; <ab>Goth.</ab> <etym>is-t</etym>; <ab>Lith.</ab> <etym>es-ti</etym>.]
+
+NEW	<s>as</s>, ¦ [<ab>cf.</ab> <lang>Gk.</lang> <gk>ἐσ-τί</gk>; <lang>Lat.</lang> <etym>es-t</etym>; <lang>Goth.</lang> <etym>is-t</etym>; <lang>Lith.</lang> <etym>es-ti</etym>.]
+============================
+(99114): Misc. [Space Error]
+OLD	<s>ās</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἧ(σ)-μαι</lang>, <lang n="greek">ἧς-ται</lang>: <ab>Lat.</ab> <etym>âsa</etym> changed to <etym>âra</etym>; <etym>â-nus</etym> for <etym>âs-nus</etym>.]
+
+NEW	<s>ās</s>, ¦ [<ab>cf.</ab> <lang>Gk.</lang> <gk>ἧ(σ)-μαι</gk>, <gk>ἧς-ται</gk> : <lang>Lat.</lang> <etym>âsa</etym> changed to <etym>âra</etym>; <etym>â-nus</etym> for <etym>âs-nus</etym>.]
+============================
+(101892): Misc. [Space Error]
+OLD	<div n="vp"/> [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">εἴκω</lang>, <lang n="greek">οἴχομαι</lang>?]
+
+NEW	 <div n="cf"/> [<ab>cf.</ab> <lang>Gk.</lang> <gk>εἴκω</gk>, <gk>οἴχομαι</gk> ?]
+============================
+(104254): Misc. [Tampered Wording]
+OLD	<s>idhma</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>aesma</etym>; <ab>Hib.</ab> <etym>adhmad</etym>.]
+
+NEW	<s>idhma</s>, ¦ [<ab>cf.</ab> <lang>Zend</lang> <etym>aesma</etym>; <lang>Hib.</lang> <etym>adhmad</etym>.]
+============================
+(104461): Misc. [Punctuation Error]
+OLD	<s>iyat</s> ¦ [<ab>cf.</ab> the syllable <etym>iens</etym>, or <etym>ies</etym> in such <ab>Lat.</ab> words as <etym>totiens</etym>, <etym>toties</etym>, <etym>quotiens</etym>, <etym>quoties</etym>, and in numeral adverbs as <etym>quinquies</etym>.]
+
+NEW	<s>iyat</s>, ¦ [<ab>cf.</ab> the syllable <etym>iens</etym> or <etym>ies</etym> in such <lang>Lat.</lang> words as <etym>totiens</etym>, <etym>toties</etym>, <etym>quotiens</etym>, <etym>quoties</etym>, and in numeral adverbs as <etym>quinquies</etym>.]
+============================
+(107223): Misc. [Tampered Wording]
+OLD	<s>ukṣan</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>ukhshan</etym>; <ab>Goth.</ab> <etym>auhsa</etym> and <etym>auhsu</etym>; <ab>Armen.</ab> <etym>eṣn</etym>.]
+
+NEW	<s>ukṣan</s>, ¦ [<ab>cf.</ab> <lang>Zend</lang> <etym>ukhshan</etym>; <lang>Goth.</lang> <etym>auhsa</etym> and <etym>auhsu</etym>; <lang>Armen.</lang> <etym>eṣn</etym>.]
+============================
+(107367): Misc. [Punctuation Error; Space Error]
+OLD	<s>ugra</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>ughra</etym>: <ab>Gk.</ab> <lang n="greek">ὑγι-ής</lang>, <lang n="greek">ὑγίεια</lang>, <ab>Lat.</ab> <etym>augeo</etym> &c.: <ab>Goth.</ab> <etym>auka</etym>, ‘I increase’; <ab>Lith.</ab> <etym>ug-is</etym>, ‘growth, increase’; <etym>aug-u</etym>, ‘I grow’, &c.]
+
+NEW	<s>ugra</s>, ¦ [<ab>cf.</ab> <lang>Zd.</lang> <etym>ughra</etym> : <lang>Gk.</lang> <gk>ὑγι-ής</gk>, <gk>ὑγίεια</gk> : <lang>Lat.</lang> <etym>augeo</etym> &c. : <lang>Goth.</lang> <etym>auka</etym>, ‘I increase’ : <lang>Lith.</lang> <etym>ug-is</etym>, ‘growth, increase’; <etym>aug-u</etym>, ‘I grow’, &c.]
+============================
+(114071): Misc. [Tampered Wording]
+OLD	<s>ud</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>uz</etym>; <ab>Hib.</ab> <etym>uas</etym> and in composition <etym>os</etym>, <etym>ois</etym>, <ab>e.g.</ab> <etym>os-car</etym>, ‘a leap, bound’, &c. See also <s>uttamá</s>, <hom>1.</hom> <s>úttara</s>, &c.]
+
+NEW	<s>ud</s>, ¦ [<ab>cf.</ab> <lang>Zend</lang> <etym>uz</etym>; <lang>Hib.</lang> <etym>uas</etym> and in composition <etym>os</etym>, <etym>ois</etym>, <ab>e. g.</ab> <etym>os-car</etym>, ‘a leap, bound’, &c. See also <s>uttamá</s>, <hom>1.</hom> <s>úttara</s>, &c.]
+============================
+(126272): Misc. [Space Error]
+OLD	<s>upala</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὤπαλος</lang>; <ab>Lat.</ab> <etym>apalus</etym>?]
+
+NEW	<s>upala</s>, ¦ [<ab>cf.</ab> <lang>Gk.</lang> <gk>ὤπαλος</gk>; <lang>Lat.</lang> <etym>apalus</etym> ?]
+============================
+(133413): Misc. [Punctuation Error]
+OLD	<s>uṣas</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἠώς</lang>; <ab>Lat.</ab> <etym>aurora</etym>; <ab>Lith.</ab> <etym>ausz-ra</etym>; <ab>Old High Germ.</ab> <etym>ôs-tan</etym>.]
+
+NEW	<s>uṣas</s>, ¦ [<ab>cf.</ab> <lang>Gk.</lang> <gk>ἠώς</gk>; <lang>Lat.</lang> <etym>auro-ra</etym>; <lang>Lith.</lang> <etym>ausz-ra</etym>; <lang>Old High Germ.</lang> <etym>ôs-tan</etym>.]
+============================
+(135801): Misc. [Space Error; Punctuation Error]
+OLD	<s>ṛ</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὄρ-νυ-μι</lang>, <lang n="greek">ἐρ-έ-της</lang>, <lang n="greek">ἀρό-ω</lang>, &c.: <ab>Zend</ab> √ <etym>ir</etym>: <ab>Lat.</ab> <etym>or-ior</etym>, <etym>re-mus</etym>, <etym>aro</etym>: <ab>Goth.</ab> <etym>argan</etym>: <ab>Angl.Sax.</ab> <etym>ār</etym>: <ab>Old High Germ.</ab> <etym>ruo-dar</etym>, <etym>ar-an</etym>: <ab>Lith.</ab> <etym>ir-ti</etym>, ‘to row’; <etym>ar-ti</etym>, ‘to plough’.]
+
+NEW	<s>ṛ</s>, ¦ [<ab>cf.</ab> <lang>Gk.</lang> <gk>ὄρ-νυ-μι</gk>, <gk>ἐρ-έ-της</gk>, <gk>ἀρό-ω</gk>, &c. : <lang>Zend</lang> √ <etym>ir</etym> : <lang>Lat.</lang> <etym>or-ior</etym>, <etym>re-mus</etym>, <etym>aro</etym> : <lang>Goth.</lang> <etym>ar-gan</etym> : <lang>Angl.Sax.</lang> <etym>ār</etym> : <lang>Old High Germ.</lang> <etym>ruo-dar</etym>, <etym>ar-an</etym> : <lang>Lith.</lang> <etym>ir-ti</etym>, ‘to row’; <etym>ar-ti</etym>, ‘to plough’.]
+============================
+(137235): Misc. [Punctuation Error]
+OLD	<s>ṛñj</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὀρέ-γω</lang>; <ab>Lat.</ab> <etym>rego</etym>; <ab>Goth.</ab> <etym>rak-ja</etym>.]
+
+NEW	<s>ṛñj</s>, ¦ [<ab>cf.</ab> <lang>Gk.</lang> <gk>ὀρέγω</gk>; <lang>Lat.</lang> <etym>rego</etym>; <lang>Goth.</lang> <etym>rak-ja</etym>.]
+============================
+(141501): Misc. [Punctuation Error]
+OLD	<s>ema</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">οἶμος</lang>, <lang n="greek">οἴμη</lang> <ab>Lith.</ab> <etym>eisme</etym>.]
+
+NEW	 ¦ [<ab>cf.</ab> <lang>Gk.</lang> <gk>οἶμος</gk>, <gk>οἴμη</gk>; <lang>Lith.</lang> <etym>eisme</etym>.]
+============================
+(150954): Misc. [Punctuation Error]
+OLD	¦ (<s>kadha</s> = <s>kadā</s>; <ab>cf.</ab> <ab>Zd.</ab> <etym>kadha</etym>; <ab>cf.</ab> also <s>adhapriya</s>.)
+
+NEW	 ¦ (<s>kadha</s> = <s>kadā</s>; <ab>cf.</ab> <lang>Zd.</lang> <etym>kadha</etym>; <ab>cf.</ab> also <s>adha-priya</s>.)
+============================
+(154127): Misc. [Punctuation Error]
+OLD	<s>kamp</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab><lang n="greek">κάμπτω</lang> <ab>Hib.</ab> <etym>cabhôg</etym>, ‘hastening’.]
+
+NEW	<s>kamp</s>, ¦ [<ab>cf.</ab> <lang>Gk.</lang> <gk>κάμπτω</gk>; <lang>Hib.</lang> <etym>cabhôg</etym>, ‘hastening’.]
+============================
+(200410): Misc. [Punctuation Error]
+OLD	<s>kruś</s> ¦ [<ab>cf.</ab> <ab>Lith.</ab> <etym>klykiu</etym>, ‘to cry’; <etym>kryksztauju</etym>; <ab>Hib.</ab> <etym>cruisigh</etym>, ‘music, song’; <ab>Lat.</ab> <etym>crocis</etym>, <etym>crocito</etym>; <ab>Gk.</ab> <lang n="greek">κρώζω</lang> <lang n="greek">κράζω</lang> <lang n="greek">κραγγή</lang> <ab>Goth.</ab> <etym>krukja</etym>.]
+
+NEW	<s>kruś</s>, ¦ [<ab>cf.</ab> <lang>Lith.</lang> <etym>klykiu</etym>, ‘to cry’; <etym>kryksztauju</etym>; <lang>Hib.</lang> <etym>cruisigh</etym>, ‘music, song’; <lang>Lat.</lang> <etym>crocis</etym>, <etym>crocito</etym>; <lang>Gk.</lang> <gk>κρώζω</gk>, <gk>κράζω</gk>, <gk>κραγγή</gk>; <lang>Goth.</lang> <etym>krukja</etym>.]
+============================
+(232561): Misc. [Space Error]
+OLD	<s>gaura</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>gilvus</etym>?]
+
+NEW	<s>gaura</s>, ¦ [<ab>cf.</ab> <lang>Lat.</lang> <etym>gilvus</etym> ?]
+============================
+(242796): Misc. [Punctuation Error]
+OLD	<s>caturtha</s> ¦ [<ab>cf.</ab> <lang n="greek">τέταρτος</lang>; <ab>Lat.</ab> <etym>quartus</etym> <ab>Lith.</ab> <etym>ketwirtas</etym>; <ab>Slav.</ab> <etym>cetvertyi</etym>; <ab>Germ.</ab> <etym>vierter</etym>.]
+
+NEW	<s>caturtha</s>, ¦ [<ab>cf.</ab> <gk>τέταρτος</gk>; <lang>Lat.</lang> <etym>quartus</etym>; <lang>Lith.</lang> <etym>ketwirtas</etym>; <lang>Slav.</lang> <etym>cetvertyi</etym>; <lang>Germ.</lang> <etym>vierter</etym>.]
+============================
+(259834): Misc. [Punctuation Error]
+OLD	<s>jaṭhara</s> ¦ [<ab>cf.</ab> <lang n="greek">γαστήρ</lang>; <ab>Goth.</ab> <etym>kilthei</etym> or <etym>qvithrs</etym>].
+
+NEW	<s>jaṭhara</s>, ¦ [<ab>cf.</ab> <gk>γαστήρ</gk> ?; <lang>Goth.</lang> <etym>kilthei</etym> or <etym>qvithrs</etym> ?].
+============================
+(260188): Misc. [Space Error]
+OLD	<s>jan</s> ¦ [<ab>cf.</ab> <lang n="greek">γίγνομαι</lang> <ab>Lat.</ab> <etym>gigno</etym>, <etym> (g)nascor</etym>; <ab>Hib.</ab> <etym>genim</etym>, ‘I beget, generate’.]
+
+NEW	<s>jan</s>, ¦ [<ab>cf.</ab> <gk>γίγνομαι</gk>; <lang>Lat.</lang> <etym>gigno</etym>, <etym>(g)nascor</etym>; <lang>Hib.</lang> <etym>genim</etym>, ‘I beget, generate’.]
+============================
+(263052): Misc. [Punctuation Error]
+OLD	<s>járat</s> ¦ <lex>m.</lex> = <ab>Gk.</ab> <lang n="greek">γέρων</lang> an old man, <ls>Śak.</ls> (<ab>v.l.</ab>), <ls>VarBṛS. lxxv.</ls>
+
+NEW	<s>járat</s>, <lex>m.</lex> ¦ = <lang>Gk.</lang> <gk>γέρων</gk>, an old man, <ls>Śak.</ls> (<ab>v. l.</ab>), <ls>VarBṛS. lxxv.</ls>
+============================
+(266914): Misc. [Punctuation Error]
+OLD	<s>jānu</s> ¦ [<ab>cf.</ab> <lang n="greek">γόνυ</lang> <ab>Lat.</ab> <etym>genu</etym>; <ab>Goth.</ab> <etym>kniu</etym>; <ab>Germ.</ab> <etym>Knie</etym>.]
+
+NEW	<s>jānu</s>, ¦ [<ab>cf.</ab> <gk>γόνυ</gk>; <lang>Lat.</lang> <etym>genu</etym>; <lang>Goth.</lang> <etym>kniu</etym>; <lang>Germ.</lang> <etym>Knie</etym>.]
+============================
+(295089): Misc. [Missing Symbol; Extra Text]
+OLD	<s>trayas</s> ¦ [<ab>cf.</ab> <lang n="greek">τρισ-καί-δεκα</lang> for <lang n="greek">τρεῖσ-καί-δεκα</lang>x; <ab>Lat.</ab> <etym>trēdecim</etym> for <etym>trēs-decem</etym>.]
+
+NEW	<s>trayas</s>, ¦ [<ab>cf.</ab> <gk>τρισ-καί-δεκα</gk> for <gk>τρεῖσ-κ°αί-δεκα</gk>; <lang>Lat.</lang> <etym>trēdecim</etym> for <etym>trēs-decem</etym>.]
+============================
+(309817): Misc. [Extra Text]
+OLD	<div n="vp"/><ab>Caus.</ab> <ab>P.</ab> <s>dāśayati</s>, offer, present, <ls>ŚBr. i, 6, 2, 5.</ls>[<ab>cf.</ab> <s>daśasya</s>, and <ab>Gk.</ab> <lang n="greek">δωκ</lang> in <lang n="greek">ἔ-δωκ-α</lang> <s>-a</s>, <lang n="greek">δέ-δωκ-α</lang> <s>-a</s>.]
+
+NEW	 <div n="vp"/> <ab>Caus.</ab> <ab>P.</ab> <s>dāśayati</s>, offer, present, <ls>ŚBr. i, 6, 2, 5</ls>.@<div n="cf"/> [<ab>Cf.</ab> <s>daśasya</s>, and <lang>Gk.</lang> <gk>δωκ</gk> in <gk>ἔ-δωκ-α</gk>, <gk>δέ-δωκ-α</gk>.]
+============================
+(312339): Misc. [Punctuation Error]
+OLD	<s>diś</s> ¦ [<ab>cf.</ab> <lang n="greek">δίκη</lang> <ab>O.H.G.</ab> <etym>zeiga</etym> (See also <s>diśā</s>)]
+
+NEW	 ¦ a hint, reference, instance, example, <ls>Suśr.</ls>; <ls>Sāh.</ls>, <ab>Sch.</ab>; precept, order, manner, <ls>RV.</ls> [<ab>cf.</ab> <gk>δίκη</gk>; <lang>O. H. G.</lang> <etym>zeiga</etym> (see also <s>diśā</s>)];
+============================
+(314525): Misc. [Punctuation Error]
+OLD	<s>du</s> ¦ [<ab>cf.</ab> <lang n="greek">δαίω</lang>. for <lang n="greek">δαϝιω</lang>; <lang n="greek">δύη</lang>, pain; <ab>Lit.</ab> <etym>davyti</etym>, to torment; <ab>Sl.</ab> <etym>daviti</etym>, to worry.]
+
+NEW	<hom>2.</hom> <s>du</s>, ¦ [<ab>cf.</ab> <gk>δαίω</gk> for <gk>δαϝιω</gk>; <gk>δύη</gk>, pain; <lang>Lit.</lang> <etym>davyti</etym>, to torment; <lang>Sl.</lang> <etym>daviti</etym>, to worry.]
+============================
+(315605): Misc. [Print Error ? (missing italics)] ;; There is another place (in this list), where the same word "fores" is rendered in italics!!
+OLD	<s>dúrya</s> ¦ <lex>m. <ab>pl.</ab></lex> a residence (<ab>cf.</ab> <ab>Lat.</ab> fores), <ls>ib.</ls>
+
+NEW	<s>dúrya</s>, <lex>m.</lex> <ab>pl.</ab> ¦ a residence (<ab>cf.</ab> <lang>Lat.</lang> <etym>fores</etym>), <ls>ib.</ls>
+============================
+(328405): Misc. [Punctuation Error]
+OLD	<s>dramma</s> ¦ <ab>fr.</ab> and = <ab>Gk.</ab> <lang n="greek">δραχμή</lang> <ls>Cat.</ls>; <ls>Col.</ls>
+
+NEW	<s>dramma</s>, ¦ <ab>fr.</ab> and = <lang>Gk.</lang> <gk>δραχμή</gk>, <ls>Cat.</ls>; <ls>Col.</ls>
+============================
+(329081): Misc. [Punctuation Error]
+OLD	<div n="vp"/><ab>Desid.</ab> of <ab>Intens.</ab> <s>didaridrāsati</s> and <s>didaridriṣati</s>, <ls>Pāṇ. vi, 1, 14</ls>, <ab>Vārtt.</ab> 2, <ls>Pat.</ls> [<ab>cf.</ab> √ <hom>2.</hom> <s>dru</s> and <s>dram</s>; <ab>Gk.</ab> <lang n="greek">δι-δρά-σκω</lang>, <lang n="greek">δρᾶναι</lang>.]
+
+NEW	 <div n="vp"/> <ab>Desid.</ab> of <ab>Intens.</ab> <s>didaridrāsati</s> and <s>didaridriṣati</s>, <ls>Pāṇ. vi, 1, 14</ls>, <sch>Vārtt. 2, Pat.</sch>@<div n="cf"/> [<ab>Cf.</ab> <hom>2.</hom> √ <s>dru</s> and <s>dram</s>; <lang>Gk.</lang> <gk>δι-δρά-σκω</gk>, <gk>δρᾶ-ναι</gk>.]
+============================
+(352905): Others [Missing Text]
+OLD	<s>nas</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>na</etym>, our; <ab>Gk.</ab> <lang n="greek">νῶϊ</lang>, <lang n="greek">νώ</lang>; <ab>Lat.</ab> <etym>nos-ter</etym>; <ab>Old Lat.</ab> <ab>dat.</ab> <etym>nis</etym>.]
+
+NEW	<s>nas</s>, ¦ [<ab>cf.</ab> <lang>Zd.</lang> <etym>na</etym>, our; <lang>Gk.</lang> <gk>νῶϊ</gk>, <gk>νώ</gk>; <lang>Lat.</lang> <etym>nos</etym>, <etym>nos-ter</etym>; <lang>Old Lat.</lang> <ab>dat.</ab> <etym>nis</etym>.]
+============================
+(353021): Misc. [Space Error]
+OLD	<s>nah</s> ¦ [<ab>Prob.</ab> for <s>nagh</s>; <ab>cf.</ab> <ab>Lat.</ab> <etym>nectere</etym>, <ab>Germ.</ab> <etym>Nestel</etym> (?).]
+
+NEW	<s>nah</s>, ¦ [<ab>Prob.</ab> for <s>nagh</s>; <ab>cf.</ab> <lang>Lat.</lang> <etym>nectere</etym>, <lang>Germ.</lang> <etym>Nestel</etym>(?).]
+============================
+(416713): Misc. [Space Error]
+OLD	<s>piñj</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>pingo</etym>?]
+
+NEW	<s>piñj</s>, ¦ [<ab>cf.</ab> <lang>Lat.</lang> <etym>pingo</etym> ?]
+============================
+(419808): Misc. [Wrong brackets]
+OLD	<s>piṣ</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>pish</etym>; <ab>Gk.</ab> <lang n="greek">πτίσσω</lang> (?); <ab>Lat.</ab> <etym>pinsere</etym>, <etym>pīsere</etym>.]
+
+NEW	<s>piṣ</s>, ¦ [<ab>Cf.</ab> <lang>Zd.</lang> <etym>pish</etym>; <lang>Gk.</lang> <gk>πτίσσω</gk> [?]; <lang>Lat.</lang> <etym>pinsere</etym>, <etym>pīsere</etym>.]
+============================
+(473090): Misc. [Tampered Wording]
+OLD	<s>priyā</s> ¦ [<ab>cf.</ab> new <ab>Sax.</ab> <etym>frî</etym>, <ab>Angl.Sax.</ab> <etym>freó</etym>, ‘a wife’]
+
+NEW	<s>priyā</s>, (<s>{ā}</s>), <lex>f.</lex> ¦ a mistress, wife, <ls>MBh.</ls>; <ls>Kāv.</ls> &c. [<ab>cf.</ab> <lang>Old Sax.</lang> <etym>frî</etym>, <lang>Angl.Sax.</lang> <etym>freó</etym>, ‘a wife’];
+============================
+(496373): Misc. [Punctuation Error]
+OLD	<s>bhakabhakāya</s> ¦ (<ab>onomat.</ab>; <ab>cf.</ab> <s>bheka</s>, a frog, and <ab>Gk.</ab> <lang n="greek">βρεκεκεκέξ</lang>) <ab>Nom.</ab> <ab>Ā.</ab> <s>°yate</s>, to croak, <ls>Subh.</ls> (<ab>cf.</ab> <s>bakabakāya</s>, <s>makamakāya</s>). 
+
+NEW	<s>bhakabhakāya</s>, ¦ (<ab>onomat.</ab>; <ab>cf.</ab> <s>bheka</s>, a frog, and <lang>Gk.</lang> <gk>βρεκεκεκέξ</gk>), <ab>Nom.</ab> <ab>Ā.</ab> <s>°yate</s>, to croak, <ls>Subh.</ls> (<ab>cf.</ab> <s>bakabakāya</s>, <s>makamakāya</s>).
+============================
+(550876): Misc. [Punctuation Error]
+OLD	<s>mitradruh</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>mithradruj</etym>]
+
+NEW	<s>mitradruh</s>, ¦ [<ab>Cf.</ab> <lang>Zd.</lang> <etym>mithra-druj</etym>.]
+============================
+(676589): Misc. [Print Error ? (missing italics)] ;; At two other places (in this list), the same word "Caius" is in italics!!
+OLD	<s>viṣṇu—mitra</s> ¦ <lex>m.</lex> a common name (used like the <ab>Lat.</ab> Caius), <ls>Kaṇ.</ls>; <ls>BhP.</ls>
+
+NEW	<s>viṣṇu—mitra</s>, <lex>m.</lex> ¦ a common name (used like the <lang>Lat.</lang> <etym>Caius</etym>), <ls>Kaṇ.</ls>; <ls>BhP.</ls>
+============================
+(704061): Misc. [Punctuation Error]
+OLD	<s>śak</s> ¦ [<ab>cf.</ab> <ab>accord.</ab> to some, <ab>Gk.</ab> <lang n="greek">ὄπις</lang>, <lang n="greek">ἀοσσητήρ</lang>, <ab>Germ.</ab> <etym>Hag</etym> <etym>Hecke</etym> <etym>hegen</etym>; <etym>behagen</etym>.]
+
+NEW	<s>śak</s>, ¦ [<ab>Cf.</ab>, <ab>accord.</ab> to some, <lang>Gk.</lang> <gk>ὄπις</gk>, <gk>ἀοσσητήρ</gk>; <lang>Germ.</lang> <etym>Hag</etym>, <etym>Hecke</etym>, <etym>hegen</etym>; <etym>behagen</etym>.]
+============================
+(707060): Misc. [Punctuation Error]
+OLD	<s>śata—gu</s> ¦ <lex>mfn.</lex> possessed of a hundred cows, <ls>Mn.</ls>; <ls>Gaut.</ls> [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἑκατόμβη</lang>.;]. 
+
+NEW	<s>śata—gu</s>, <lex>mfn.</lex> ¦ possessed of a hundred cows, <ls>Mn.</ls>; <ls>Gaut.</ls> [<ab>cf.</ab> <lang>Gk.</lang> <gk>ἑκατόμβη</gk>].
+============================
+(812999): Misc. [Wrong brackets]
+OLD	<s>sic</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>hincaiti</etym>; <ab>Gk.</ab> <lang n="greek">ἰκμάς</lang> (?); <ab>Angl.Sax.</ab> <etym>seón</etym>; <ab>Germ.</ab> <etym>seihen</etym>, <etym>seichen</etym>.]
+
+NEW	<s>sic</s>, ¦ [<ab>Cf.</ab> <lang>Zd.</lang> <etym>hincaiti</etym>; <lang>Gk.</lang> <gk>ἰκμάς</gk> [?]; <lang>Angl.Sax.</lang> <etym>seón</etym>; <lang>Germ.</lang> <etym>seihen</etym>, <etym>seichen</etym>.]
+============================
+(845336): Others [Comp. word split as multiple pieces/Space Error]
+OLD	<s>skand</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">σκάνδαλον</lang>; <ab>Lat.</ab> <etym>scando</etym>, <etym>de-scendo</etym>; <etym>scāla</etym> for <etym>scant</etym> <etym> (s) la</etym>.]
+
+NEW	<s>skand</s>, ¦ [<ab>Cf.</ab> <lang>Gk.</lang> <gk>σκάνδαλον</gk>; <lang>Lat.</lang> <etym>scando</etym>, <etym>de-scendo</etym>; <etym>scāla</etym> for <etym>scant(s)la</etym>.]
+============================
+(854198): Misc. [Space Error]
+OLD	<s>sphira</s> ¦ [?<ab>cf.</ab> <ab>Lat.</ab> <etym>pro-sper</etym>.]
+
+NEW	<s>sphira</s>, ¦ [? <ab>Cf.</ab> <lang>Lat.</lang> <etym>pro-sper</etym>.]
+============================
+(874701): Misc. [Space Error]
+OLD	<s>hirā</s> ¦ [<ab>cf.</ab> <ab>accord.</ab> to some, <ab>Lat.</ab> <etym>haru (-spex) </etym>.]
+
+NEW	<s>hirā</s>, ¦ [<ab>Cf.</ab>, <ab>accord.</ab> to some, <lang>Lat.</lang> <etym>haru(-spex)</etym>.]
+============================
