@@ -363,4 +363,55 @@ update mw at at Colgone.
 update this MWS repository
 --------------------------------
 Revise issue/153  comments
+---------------------------------------------------------------------------
+changes regarding 'phi' Greek character
+---------------------------------------------------------------------------
+touch change_6.txt
+python change_6_phi.py temp_mw_5.txt temp_change_6.txt
+select: 14 lines to change
+SMALL LETTER PHI 03C6 changed 15 times
+PHI SYMBOL unchanged 72 times
+14 records written to change_6.txt
 
+#insert temp_change_6.txt into change_6.txt
+# add additional item(s) to change_6
+python updateByLine.py temp_mw_5.txt change_6.txt temp_mw_6.txt
+15 change transactions from change_6.txt
+
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+In Windows 11,
+Consolas represents two phi forms incorrectly.
+Cascadia Code font  incorrect
+Cascadia mono font  incorrect
+Microsoft Sans Serif represents the two phi forms correctly.
+  Note:  This font is not monospace.
+
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+install  temp_mw_6.txt 
+cp temp_mw_6.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# correct errors
+# rerun until
+ #prints 'ok'
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue153
+---------------------------------------------------------------------------
+# update csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig
+git pull
+git add v02/mw/mw.txt
+git commit -m "MW:  Correct 'small phi' to 'phi symbol'.
+Ref: https://github.com/sanskrit-lexicon/MWS/issues/153"
+
+git push
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue153
+--------------------------------
+update mw at at Colgone.
+--------------------------------
+update this MWS repository
+--------------------------------
+Revise issue/153  comments

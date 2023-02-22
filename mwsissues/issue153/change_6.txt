@@ -1,0 +1,82 @@
+; ********************************************
+; temp_change_6.txt
+; Change Greek small letter phi (03c6) to
+; Greek phi symbol  (03d5)  
+; ********************************************
+; ------------------------------------------------------
+; <L>21881<pc>125,2<k1>ahirbuDnyas (1 lines changed)
+78622 old <s>a/hir buDnya^s</s> ¦ <ab>nom.</ab> <ab>sg.</ab> <lex>m.</lex> (<ab>instr.</ab> <s>a/hinA buDnye/na</s>, <ls>RV. iv, 55, 6</ls>) = <lang n="greek">ὄφις</lang> <lang n="greek">Πύθων</lang>, the serpent of the deep (enumerated in <ls>Naigh. v, 4</ls> and <ls>Nir. x, 44</ls> among the divinities of the middle region, the abyss in which he lives being that of the region of mist), <ls>RV.</ls>; <ls>VS. x, 19</ls><info lex="m"/>
+;
+78622 new <s>a/hir buDnya^s</s> ¦ <ab>nom.</ab> <ab>sg.</ab> <lex>m.</lex> (<ab>instr.</ab> <s>a/hinA buDnye/na</s>, <ls>RV. iv, 55, 6</ls>) = <lang n="greek">ὄϕις</lang> <lang n="greek">Πύθων</lang>, the serpent of the deep (enumerated in <ls>Naigh. v, 4</ls> and <ls>Nir. x, 44</ls> among the divinities of the middle region, the abyss in which he lives being that of the region of mist), <ls>RV.</ls>; <ls>VS. x, 19</ls><info lex="m"/>
+; ------------------------------------------------------
+; <L>28217<pc>161,3<k1>AsPujit (1 lines changed)
+100432 old <s>AsPujit</s> ¦ = <lang n="greek">᾿Αφροδίτη</lang> <ab>N.</ab> of the planet Venus.
+;
+100432 new <s>AsPujit</s> ¦ = <lang n="greek">᾿Αϕροδίτη</lang> <ab>N.</ab> of the planet Venus.
+; ------------------------------------------------------
+; <L>37721<pc>220,1<k1>uzas (1 lines changed)
+133395 old ¦ <ab>N.</ab> of a wife of <s1 slp1="Bava">Bhava</s1> (= <lang n="greek">φοῖβος</lang>) or <s1 slp1="rudra">Rudra</s1>, <ls>VP.</ls><info lex="inh"/>
+;
+133395 new ¦ <ab>N.</ab> of a wife of <s1 slp1="Bava">Bhava</s1> (= <lang n="greek">ϕοῖβος</lang>) or <s1 slp1="rudra">Rudra</s1>, <ls>VP.</ls><info lex="inh"/>
+; ------------------------------------------------------
+; <L>59376<pc>328,1<k1>kzi (1 lines changed)
+203930 old <div n="vp"/> [<ab>cf.</ab> <lang n="greek">φθί-νω</lang> <lang n="greek">φθί-σι-ς</lang>, &c.]<info whitneyroots="kzi2,29"/><info verb="genuineroot" cp="1P,5P,9P,9Ā"/>
+;
+203930 new <div n="vp"/> [<ab>cf.</ab> <lang n="greek">ϕθί-νω</lang> <lang n="greek">ϕθί-σι-ς</lang>, &c.]<info whitneyroots="kzi2,29"/><info verb="genuineroot" cp="1P,5P,9P,9Ā"/>
+; ------------------------------------------------------
+; <L>59439<pc>328,2<k1>kzita (1 lines changed)
+204122 old <s>kzita/</s> <hom>a</hom> ¦ <lex>mfn.</lex> (= <lang n="greek">φθι-τό-ς</lang>) wasted, decayed, exhausted, <ls>TS. vi</ls><info lex="m:f:n"/>
+;
+204122 new <s>kzita/</s> <hom>a</hom> ¦ <lex>mfn.</lex> (= <lang n="greek">ϕθι-τό-ς</lang>) wasted, decayed, exhausted, <ls>TS. vi</ls><info lex="m:f:n"/>
+; ------------------------------------------------------
+; <L>69433<pc>376,1<k1>Gana (1 lines changed)
+236457 old <s>Gana/</s> ¦ <lex>m.</lex> (= <lang n="greek">φόνος</lang>) slaying, <ls>RV. vi, 26, 8</ls><info lex="m"/>
+;
+236457 new <s>Gana/</s> ¦ <lex>m.</lex> (= <lang n="greek">ϕόνος</lang>) slaying, <ls>RV. vi, 26, 8</ls><info lex="m"/>
+; ------------------------------------------------------
+; <L>72173<pc>389,1<k1>car (1 lines changed)
+245503 old <div n="vp"/> [<ab>cf.</ab> <lang n="greek">πέλομαι</lang>, <lang n="greek">ἀμφί-πολο-ς</lang>, <lang n="greek">ἀνα-τολή</lang> &c.]<info westergaard="cara,33.71,10.xxxx"/><info whitneyroots="car,45"/><info verb="genuineroot" cp="1Ā,1P"/>
+;
+245503 new <div n="vp"/> [<ab>cf.</ab> <lang n="greek">πέλομαι</lang>, <lang n="greek">ἀμϕί-πολο-ς</lang>, <lang n="greek">ἀνα-τολή</lang> &c.]<info westergaard="cara,33.71,10.xxxx"/><info whitneyroots="car,45"/><info verb="genuineroot" cp="1Ā,1P"/>
+; ------------------------------------------------------
+; <L>77209<pc>412,1<k1>jamBa (1 lines changed)
+261705 old ¦ <s>su-ja/mBa</s> and <s>antar-jamBa/</s> [<ab>cf.</ab> <lang n="greek">γαμφηλαί</lang>.]
+;
+261705 new ¦ <s>su-ja/mBa</s> and <s>antar-jamBa/</s> [<ab>cf.</ab> <lang n="greek">γαμϕηλαί</lang>.]
+; ------------------------------------------------------
+; <L>94717<pc>488,2<k1>duruDarA (1 lines changed)
+319130 old <s>duruDarA</s> ¦ <lex>f.</lex> a peculiar position of the moon (<lang n="greek">δορυφορία</lang>), <ls>Var.</ls><info lex="f"/>
+;
+319130 new <s>duruDarA</s> ¦ <lex>f.</lex> a peculiar position of the moon (<lang n="greek">δορυϕορία</lang>), <ls>Var.</ls><info lex="f"/>
+; ------------------------------------------------------
+; <L>114645<pc>580,2<k1>paRaPara (1 lines changed)
+386793 old <s>paRaPara</s> ¦ <lex>n.</lex> (<ab>fr.</ab> <lang n="greek">ἐπαναφορά</lang>) the astrological house following upon a <s1 slp1="kendra">Kendra</s1> (<ab>q.v.</ab>), <ls>Var.</ls><info lex="n"/>
+;
+386793 new <s>paRaPara</s> ¦ <lex>n.</lex> (<ab>fr.</ab> <lang n="greek">ἐπαναϕορά</lang>) the astrological house following upon a <s1 slp1="kendra">Kendra</s1> (<ab>q.v.</ab>), <ls>Var.</ls><info lex="n"/>
+; ------------------------------------------------------
+; <L>177947<pc>880,1<k1>riHPa (1 lines changed)
+596156 old <s>riHPa</s> ¦ <lex>n.</lex> (for <lang n="greek">ρ῾ιφή</lang>) <ab>N.</ab> of the 12th astrological house, <ls>VarBṛS.</ls><info lex="n"/>
+;
+596156 new <s>riHPa</s> ¦ <lex>n.</lex> (for <lang n="greek">ρ῾ιϕή</lang>) <ab>N.</ab> of the 12th astrological house, <ls>VarBṛS.</ls><info lex="n"/>
+; ------------------------------------------------------
+; <L>197768<pc>974,3<k1>vipASA (1 lines changed)
+660451 old <s>vi-pASA</s> ¦ <lex>f.</lex> the <s1 slp1="vipASA">Vipāśā</s1> or Beas river (one of the 5 rivers of the <ns>Panjāb</ns>, said to be so called as having destroyed the cord with which <s1 slp1="vasizWa">Vasiṣṭha</s1> had tried to hang himself through grief for his son slain by <s1 slp1="viSvAmitra">Viśvāmitra</s1>; it rises in the Kullu range of the <s1 slp1="himAlaya">Himālaya</s1>, and after a course of 290 miles joins the Sutlej at the southern boundary of Kapurthala; it is considered identical with the <lang n="greek">῞ϒφασις</lang> of Arrian, the Hyphasis of Pliny, and <lang n="greek">Βίπασις</lang> of Ptolemy), <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>Var.</ls>; <ls>Pur.</ls><info lex="f"/>
+;
+660451 new <s>vi-pASA</s> ¦ <lex>f.</lex> the <s1 slp1="vipASA">Vipāśā</s1> or Beas river (one of the 5 rivers of the <ns>Panjāb</ns>, said to be so called as having destroyed the cord with which <s1 slp1="vasizWa">Vasiṣṭha</s1> had tried to hang himself through grief for his son slain by <s1 slp1="viSvAmitra">Viśvāmitra</s1>; it rises in the Kullu range of the <s1 slp1="himAlaya">Himālaya</s1>, and after a course of 290 miles joins the Sutlej at the southern boundary of Kapurthala; it is considered identical with the <lang n="greek">῞ϒϕασις</lang> of Arrian, the Hyphasis of Pliny, and <lang n="greek">Βίπασις</lang> of Ptolemy), <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>Var.</ls>; <ls>Pur.</ls><info lex="f"/>
+; ------------------------------------------------------
+; <L>254463.55<pc>1258,1<k1>staB (1 lines changed)
+846587 old <s>staB</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">στέμφυλον</lang>, <lang n="greek">στέμβω</lang>, <lang n="greek">στείβω</lang>; <ab>Lith.</ab> <etym>stambras</etym>, <etym>stimbras</etym>; <ab>Germ.</ab> <etym>stampfôn</etym>, <etym>stampfen</etym>; <ab>Eng.</ab> <etym>stamp</etym>, <etym>stump</etym>.]
+;
+846587 new <s>staB</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">στέμϕυλον</lang>, <lang n="greek">στέμβω</lang>, <lang n="greek">στείβω</lang>; <ab>Lith.</ab> <etym>stambras</etym>, <etym>stimbras</etym>; <ab>Germ.</ab> <etym>stampfôn</etym>, <etym>stampfen</etym>; <ab>Eng.</ab> <etym>stamp</etym>, <etym>stump</etym>.]
+; ------------------------------------------------------
+; <L>256846.1<pc>1270,1<k1>sPij (1 lines changed)
+854267 old <s>sPic</s> or <s>sPij</s> ¦ <lex>f.</lex> (<ab>nom.</ab> <s>sPik</s>; of doubtful derivation) a buttock, hip (<s>°cO</s> or <s>°jO</s> <ab>du.</ab> ‘the buttocks’), <ls>ŚāṅkhGṛ.</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> &c. [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">πυγή</lang>, or <ab>accord.</ab> to some <lang n="greek">ὀσφύς</lang>.]<info or="256846,sPic;256846.1,sPij"/><info lex="f"/>
+;
+854267 new <s>sPic</s> or <s>sPij</s> ¦ <lex>f.</lex> (<ab>nom.</ab> <s>sPik</s>; of doubtful derivation) a buttock, hip (<s>°cO</s> or <s>°jO</s> <ab>du.</ab> ‘the buttocks’), <ls>ŚāṅkhGṛ.</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> &c. [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">πυγή</lang>, or <ab>accord.</ab> to some <lang n="greek">ὀσϕύς</lang>.]<info or="256846,sPic;256846.1,sPij"/><info lex="f"/>
+; ********************************************
+; Misc additional changes
+; ********************************************
+; <L>43396<pc>250,2<k1>kapAla
+152470 old <s>kapAla</s> ¦ [<ab>Gk.</ab>, <lang n="greek">κωπή</lang> ‘handle’; <ab>Lat.</ab> <etym>capere</etym>; <ab>Hib.</ab> <s>gaBEm</s>; <ab>Goth.</ab> <etym>hafyan</etym>; <ab>Angl.Sax.</ab> <etym>haban</etym>, <etym>haefene</etym>, <etym>hafoc</etym>; <ab>Eng.</ab> <etym>haven</etym>, <etym>hawk</etym>; <ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">κεϕαλή</lang> <ab>Lat.</ab> <etym>caput</etym>; <ab>Goth.</ab> <etym>haubith</etym>; <ab>Angl.Sax.</ab> <etym>heafud</etym>.]
+;
+152470 new <s>kapAla</s> ¦ [<ab>Gk.</ab>, <lang n="greek">κωπή</lang> ‘handle’; <ab>Lat.</ab> <etym>capere</etym>; <ab>Hib.</ab> <etym>gabhaim</etym>; <ab>Goth.</ab> <etym>hafyan</etym>; <ab>Angl.Sax.</ab> <etym>haban</etym>, <etym>haefene</etym>, <etym>hafoc</etym>; <ab>Eng.</ab> <etym>haven</etym>, <etym>hawk</etym>; <ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">κεϕαλή</lang> <ab>Lat.</ab> <etym>caput</etym>; <ab>Goth.</ab> <etym>haubith</etym>; <ab>Angl.Sax.</ab> <etym>heafud</etym>.]
