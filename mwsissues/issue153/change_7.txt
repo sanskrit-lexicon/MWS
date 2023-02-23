@@ -1,0 +1,125 @@
+; <L>14105.1<pc>81,3<k1>amitraGAta<k2>amitra—GAta<e>3B
+51338 old <s>amitra—GAta</s> ¦ <lex>m.</lex> (= <lang n="greek">᾿Αμιτροχάτης</lang>) <ab>N.</ab> of <s1 slp1="bindusAra">Bindusāra</s1> (the son of <s1 slp1="candragupta">Candragupta</s1>). <info lex="m"/>
+;
+51338 new <s>amitra—GAta</s> ¦ <lex>m.</lex> (= <lang n="greek">Ἀμιτροχάτης</lang>) <ab>N.</ab> of <s1 slp1="bindusAra">Bindusāra</s1> (the son of <s1 slp1="candragupta">Candragupta</s1>). <info lex="m"/>
+;---------------------------------------------------
+; <L>14876<pc>85,3<k1>ayAsya<k2>ayA/sya<e>2
+54171 old <s>ayA/sya</s> ¦ <lex>mfn.</lex> (4) (= <lang n="greek">ἀιζήιος</lang> <ls>Windisch</ls>; <ab>cf.</ab> <s>ayA/s</s> and <s>aiA/s</s> before), agile, dexterous, valiant, <ls>RV.</ls><info lex="m:f:n"/>
+;
+54171 new <s>ayA/sya</s> ¦ <lex>mfn.</lex> (4) (= <lang n="greek">ἀϊζήϊος</lang> <ls>Windisch</ls>; <ab>cf.</ab> <s>ayA/s</s> and <s>aiA/s</s> before), agile, dexterous, valiant, <ls>RV.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>16952.1<pc>96,1<k1>ava<k2>ava<e>1E
+61501 old <s>ava</s> ¦ [<ab>Zd.</ab> <ab>pron.</ab> <s>ava</s>; <ab>Slav.</ab> <etym>ovo</etym>; <ab>cf.</ab> also the syllable, <lang n="greek">αὐ</lang> in <lang n="greek">αὐτός</lang>, <lang n="greek">αὖ</lang>, <lang n="greek">αὖθι</lang>, &c.; <ab>Lat.</ab> <etym>au-t</etym>, <etym>autem</etym>, &c.]
+;
+61501 new <s>ava</s> ¦ [<ab>Zd.</ab> <ab>pron.</ab> <s>ava</s>; <ab>Slav.</ab> <etym>ovo</etym>; <ab>cf.</ab> also the syllable, <lang n="greek">αὐ</lang> in <lang n="greek">αὐ-τός</lang>, <lang n="greek">αὖ</lang>, <lang n="greek">αὖθι</lang>, &c.; <ab>Lat.</ab> <etym>au-t</etym>, <etym>autem</etym>, &c.]
+;---------------------------------------------------
+; <L>21634.1<pc>1318,3<k1>aha<k2>aha<e>1A
+77785 old ¦ <hom>1.</hom> (also) a particle answering to <s>ha</s> in a preceding sentence (<s>ha-aha</s> = <lang n="greek">μὲν -</lang>-<lang n="greek">δέ</lang>), <ls>Gaṇar.</ls><info n="sup"/>
+;
+77785 new ¦ <hom>1.</hom> (also) a particle answering to <s>ha</s> in a preceding sentence (<s>ha-aha</s> = <lang n="greek">μὲν</lang> - <lang n="greek">δέ</lang>), <ls>Gaṇar.</ls><info n="sup"/>
+;---------------------------------------------------
+; <L>21881<pc>125,2<k1>ahirbuDnyas<k2>a/hir buDnya^s<e>2
+78622 old <s>a/hir buDnya^s</s> ¦ <ab>nom.</ab> <ab>sg.</ab> <lex>m.</lex> (<ab>instr.</ab> <s>a/hinA buDnye/na</s>, <ls>RV. iv, 55, 6</ls>) = <lang n="greek">ὄϕις</lang> <lang n="greek">Πύθων</lang>, the serpent of the deep (enumerated in <ls>Naigh. v, 4</ls> and <ls>Nir. x, 44</ls> among the divinities of the middle region, the abyss in which he lives being that of the region of mist), <ls>RV.</ls>; <ls>VS. x, 19</ls><info lex="m"/>
+;
+78622 new <s>a/hir buDnya^s</s> ¦ <ab>nom.</ab> <ab>sg.</ab> <lex>m.</lex> (<ab>instr.</ab> <s>a/hinA buDnye/na</s>, <ls>RV. iv, 55, 6</ls>) = <lang n="greek">ὄϕις Πύθων</lang>, the serpent of the deep (enumerated in <ls>Naigh. v, 4</ls> and <ls>Nir. x, 44</ls> among the divinities of the middle region, the abyss in which he lives being that  of the region of mist), <ls>RV.</ls>; <ls>VS. x, 19</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>28217<pc>161,3<k1>AsPujit<k2>AsPujit<e>1
+100432 old <s>AsPujit</s> ¦ = <lang n="greek">᾿Αϕροδίτη</lang> <ab>N.</ab> of the planet Venus.
+;
+100432 new <s>AsPujit</s> ¦ = <lang n="greek">Ἀϕροδίτη</lang> <ab>N.</ab> of the planet Venus.
+;---------------------------------------------------
+; <L>31041<pc>177,2<k1>uttAnapAda<k2>ut-tAna—pAda<e>3
+110527 old <s>ut-tAna—pAda</s> ¦ <lex>m.</lex> the star <lang n="greek">Β</lang> in the little bear (personified as son of <s1 slp1="vIra">Vīra</s1> or <s1 slp1="manu">Manu</s1> <s1 slp1="svAyamBuva">Svāyambhuva</s1> and father of <s1 slp1="Druva">Dhruva</s1>), <ls>Hariv.</ls>; <ls>VP.</ls> &c.<info lex="m"/>
+;
+110527 new <s>ut-tAna—pAda</s> ¦ <lex>m.</lex> the star <lang n="greek">β</lang> in the little bear (personified as son of <s1 slp1="vIra">Vīra</s1> or <s1 slp1="manu">Manu</s1> <s1 slp1="svAyamBuva">Svāyambhuva</s1> and father of <s1 slp1="Druva">Dhruva</s1>), <ls>Hariv.</ls>; <ls>VP.</ls> &c.<info lex="m"/>
+;---------------------------------------------------
+; <L>37721<pc>220,1<k1>uzas<k2>uza/s<e>2A
+133395 old ¦ <ab>N.</ab> of a wife of <s1 slp1="Bava">Bhava</s1> (= <lang n="greek">ϕοῖβος</lang>) or <s1 slp1="rudra">Rudra</s1>, <ls>VP.</ls><info lex="inh"/>
+;
+133395 new ¦ <ab>N.</ab> of a wife of <s1 slp1="Bava">Bhava</s1> (= <lang n="greek">Φοῖβος</lang>) or <s1 slp1="rudra">Rudra</s1>, <ls>VP.</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>52267<pc>292,1<k1>kuBA<k2>ku/BA<e>1
+181165 old <s>ku/BA</s> ¦ <lex>f.</lex> the Kabul river (<lang n="greek">Κωπήν</lang>, a river falling into the <s1 slp1="indu">Indu</s1>s), <ls>RV. v, 53, 9</ls>; <ls n="RV.">x, 75, 6.</ls><info lex="f"/>
+;
+181165 new <s>ku/BA</s> ¦ <lex>f.</lex> the Kabul river (<lang n="greek">Κωϕήν</lang>, a river falling into the <s1 slp1="indu">Indu</s1>s), <ls>RV. v, 53, 9</ls>; <ls n="RV.">x, 75, 6.</ls><info lex="f"/>
+;---------------------------------------------------
+; <L>55021<pc>305,3<k1>kfSa<k2>kfSa<e>2E
+190041 old <s>kfSa</s> ¦ [<ab>cf.</ab> <lang n="greek">κολοσσός</lang>. <ab>fr.</ab> <lang n="greek">κολοκ</lang> <lang n="greek">ός</lang>]
+;
+190041 new <s>kfSa</s> ¦ [<ab>cf.</ab> <lang n="greek">κολοσσός</lang>. <ab>fr.</ab> <lang n="greek">κολοκϳός</lang>]
+;---------------------------------------------------
+; <L>60043<pc>331,1<k1>kzudraka<k2>kzudraka<e>2B
+206020 old <s>kzudraka</s> ¦ <lex>m. <ab>pl.</ab></lex> <ab>N.</ab> of a people living by warfare (the <lang n="greek">᾿Οξυδρακοι</lang>), <ls>MBh. ii, 1871</ls>; <ls n="MBh.">vi, 2106</ls>; <ls>Pāṇ. v, 3, 114</ls>, <ls>Kāś.</ls><info lex="m"/>
+;
+206020 new <s>kzudraka</s> ¦ <lex>m. <ab>pl.</ab></lex> <ab>N.</ab> of a people living by warfare (the <lang n="greek">Ὀξυδρακοι</lang>), <ls>MBh. ii, 1871</ls>; <ls n="MBh.">vi, 2106</ls>; <ls>Pāṇ. v, 3, 114</ls>, <ls>Kāś.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>87286<pc>456,2<k1>tOkzika<k2>tOkzika<e>1
+294491 old <s>tOkzika</s> ¦ <lex>m.</lex> (<ab>fr.</ab> <lang n="greek">Τοξότης</lang>) the sign Sagittarius, <ls>VarBṛ. i, 8.</ls><info lex="m"/>
+;
+294491 new <s>tOkzika</s> ¦ <lex>m.</lex> (<ab>fr.</ab> <lang n="greek">τοξότης</lang>) the sign Sagittarius, <ls>VarBṛ. i, 8.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>87466.2<pc>457,2<k1>trayas<k2>trayas<e>2E
+295089 old <s>trayas</s>, ¦ [<ab>cf.</ab> <lang n="greek">τρισ-καί-δεκα</lang> for <lang n="greek">τρεῖσ-καί-δεκα</lang>; <ab>Lat.</ab> <etym>trēdecim</etym> for <etym>trēs-decem</etym>.]
+;
+295089 new <s>trayas</s>, ¦ [<ab>cf.</ab> <lang n="greek">τρισ-καί-δεκα</lang> for <lang n="greek">τρεῖσ-κ°αί-δεκα</lang>; <ab>Lat.</ab> <etym>trēdecim</etym> for <etym>trēs-decem</etym>.]
+;---------------------------------------------------
+; <L>89786.1<pc>467,2<k1>dat<k2>dat<e>1E
+302933 old <s>dat</s> ¦ [<ab>cf.</ab> <lang n="greek">ὀδόντ</lang>, <ab>Lat.</ab> <etym>dens</etym> &c.]
+;
+302933 new <s>dat</s> ¦ [<ab>cf.</ab> <lang n="greek">ὀδόντ-</lang>, <ab>Lat.</ab> <etym>dens</etym> &c.]
+;---------------------------------------------------
+; <L>92977.1<pc>481,3<k1>dIrGa<k2>dIrGa<e>1E
+313553 old <s>dIrGa</s> ¦ [<ab>Fr.</ab> √ <s>drAG</s>; <ab>cf.</ab> also <ab>Gk.</ab> <lang n="greek">δυλιχός</lang>; <ab>Sl.</ab> <etym>dlǔgǔ</etym>.]
+;
+313553 new <s>dIrGa</s> ¦ [<ab>Fr.</ab> √ <s>drAG</s>; <ab>cf.</ab> also <ab>Gk.</ab> <lang n="greek">δολιχός</lang>; <ab>Sl.</ab> <etym>dlǔgǔ</etym>.]
+;---------------------------------------------------
+; <L>145014<pc>730,3<k1>bAhvaNka<k2>bAhv—aNka/<e>3
+488032 old <s>bAhv—aNka/</s> ¦ <lex>m.</lex> the bend of the arm, <lang n="greek">ἀγκων</lang> <ls>AV.</ls><info lex="m"/>
+;
+488032 new <s>bAhv—aNka/</s> ¦ <lex>m.</lex> the bend of the arm, <lang n="greek">ἀγκών</lang> <ls>AV.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>169114.1<pc>839,1<k1>yaj<k2>yaj<e>1E
+566753 old <s>yaj</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>yaz</etym>; <ab>Gk.</ab> <lang n="greek">ἁγνός</lang>, <lang n="greek">ἄγος</lang>, <lang n="greek">ἅζομαι</lang>.]
+;
+566753 new <s>yaj</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>yaz</etym>; <ab>Gk.</ab> <lang n="greek">ἁγνός</lang>, <lang n="greek">ἅγος</lang>, <lang n="greek">ἅζομαι</lang>.]
+;---------------------------------------------------
+; <L>172211<pc>855,3<k1>yuzma<k2>yuzma<e>1
+577466 old <s>yuzma</s> ¦ (<ab>fr.</ab> <s>yu</s> + <s>sma</s>), the actual base of the 2nd <ab>pers.</ab> <ab>pron.</ab> in the <ab>pl.</ab> number (from which all cases except the <ab>nom.</ab> <s>yUya/m</s> are derived, <ab>viz.</ab> <s>yuzmA/n</s>, <s>yuzmA/Bis</s>, <s>yuzma/Byam</s>, <s>yuzma/t</s>, <s>yuzmA/kam</s>, in <ab>Ved.</ab> also <ab>acc.</ab> <lex type="hwinfo">f.</lex> <s>yuzmA/s</s>; <ab>loc.</ab> <s>yuzme/</s>, and <ab>gen.</ab> <s>yuzmAka</s>; <ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὕμμες</lang>, <ab>fr.</ab> <lang n="greek">ὑσμες</lang>).
+;
+577466 new <s>yuzma</s> ¦ (<ab>fr.</ab> <s>yu</s> + <s>sma</s>), the actual base of the 2nd <ab>pers.</ab> <ab>pron.</ab> in the <ab>pl.</ab> number (from which all cases except the <ab>nom.</ab> <s>yUya/m</s> are derived, <ab>viz.</ab> <s>yuzmA/n</s>, <s>yuzmA/Bis</s>, <s>yuzma/Byam</s>, <s>yuzma/t</s>, <s>yuzmA/kam</s>, in <ab>Ved.</ab> also <ab>acc.</ab> <lex type="hwinfo">f.</lex> <s>yuzmA/s</s>; <ab>loc.</ab> <s>yuzme/</s>, and <ab>gen.</ab> <s>yuzmAka</s>; <ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὔμμες</lang>, <ab>fr.</ab> <lang n="greek">ὐσμες</lang>).
+;---------------------------------------------------
+; <L>173342.1<pc>861,2<k1>raj<k2>raj<h>b<e>1
+581189 old <div n="vp"/><ab>Intens.</ab> <s>rArajIti</s> (<ab>Gr.</ab> also <s>rArajyate</s> and <s>rAraNkti</s>), to be greatly excited, exult, <ls>RV. ix, 5, 2</ls> (others ‘to shine bright’). [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ρ῾έζω</lang>, ‘to dye’, <lang n="greek">ρ῾εγεύς</lang>, ‘dyer’.]
+;
+581189 new <div n="vp"/><ab>Intens.</ab> <s>rArajIti</s> (<ab>Gr.</ab> also <s>rArajyate</s> and <s>rAraNkti</s>), to be greatly excited, exult, <ls>RV. ix, 5, 2</ls> (others ‘to shine bright’). [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ῥέζω</lang>, ‘to dye’, <lang n="greek">ῥεγεύς</lang>, ‘dyer’.]
+;---------------------------------------------------
+; <L>177947<pc>880,1<k1>riHPa<k2>riHPa<e>1
+596156 old <s>riHPa</s> ¦ <lex>n.</lex> (for <lang n="greek">ρ῾ιϕή</lang>) <ab>N.</ab> of the 12th astrological house, <ls>VarBṛS.</ls><info lex="n"/>
+;
+596156 new <s>riHPa</s> ¦ <lex>n.</lex> (for <lang n="greek">ῥιϕή</lang>) <ab>N.</ab> of the 12th astrological house, <ls>VarBṛS.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>184615.1<pc>912,1<k1>vac<k2>vac<e>1E
+617542 old <s>vac</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἐπ</lang> for <lang n="greek">ϝεπ</lang> in <lang n="greek">ἔπος</lang>, <lang n="greek">ὄψ</lang>, <lang n="greek">ὄσσα</lang> &c.; <ab>Lat.</ab> <etym>vocare</etym>, <etym>vox</etym>; <ab>Germ.</ab> <etym>gi-waht</etym>, <etym>gi-wahinnen</etym>, <etym>er-wähnen</etym>.]
+;
+617542 new <s>vac</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἐπ</lang> for <lang n="greek">ϝεπ</lang> in <lang n="greek">ἔπος</lang>, <lang n="greek">εῖπον</lang>, <lang n="greek">ὄψ</lang>, <lang n="greek">ὄσσα</lang> &c.; <ab>Lat.</ab> <etym>vocare</etym>, <etym>vox</etym>; <ab>Germ.</ab> <etym>gi-waht</etym>, <etym>gi-wahinnen</etym>, <etym>er-wähnen</etym>.]
+;---------------------------------------------------
+; <L>186745.1<pc>921,3<k1>varUtri<k2>va/rUtri<e>2B
+624353 old <s>va/rUtri</s> ¦ <lex>f.</lex> a female protector, guardian goddess (applied to a <ab>partic.</ab> class of divine beings), <ls>RV.</ls>; <ls>TS.</ls>; <ls>VS.</ls>; <ls>ŚBr.</ls> [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ρ῾ύτωρ</lang> for <lang n="greek">ϝερυτωρ</lang>.] <info orsl="186745,varUtrI;186745.1,varUtri"/><info lex="f"/>
+;
+624353 new <s>va/rUtri</s> ¦ <lex>f.</lex> a female protector, guardian goddess (applied to a <ab>partic.</ab> class of divine beings), <ls>RV.</ls>; <ls>TS.</ls>; <ls>VS.</ls>; <ls>ŚBr.</ls> [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ῥύτωρ</lang> for <lang n="greek">ϝερυτωρ</lang>.] <info orsl="186745,varUtrI;186745.1,varUtri"/><info lex="f"/>
+;---------------------------------------------------
+; <L>197768<pc>974,3<k1>vipASA<k2>vi-pASA<e>2B
+660451 old <s>vi-pASA</s> ¦ <lex>f.</lex> the <s1 slp1="vipASA">Vipāśā</s1> or Beas river (one of the 5 rivers of the <ns>Panjāb</ns>, said to be so called as having destroyed the cord with which <s1 slp1="vasizWa">Vasiṣṭha</s1> had tried to hang himself through grief for his son slain by <s1 slp1="viSvAmitra">Viśvāmitra</s1>; it rises in the Kullu range of the <s1 slp1="himAlaya">Himālaya</s1>, and after a course of 290 miles joins the Sutlej at the southern boundary of Kapurthala; it is considered identical with the <lang n="greek">῞ϒϕασις</lang> of Arrian, the Hyphasis of Pliny, and <lang n="greek">Βίπασις</lang> of Ptolemy), <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>Var.</ls>; <ls>Pur.</ls><info lex="f"/>
+;
+660451 new <s>vi-pASA</s> ¦ <lex>f.</lex> the <s1 slp1="vipASA">Vipāśā</s1> or Beas river (one of the 5 rivers of the <ns>Panjāb</ns>, said to be so called as having destroyed the cord with which <s1 slp1="vasizWa">Vasiṣṭha</s1> had tried to hang himself through grief for his son slain by <s1 slp1="viSvAmitra">Viśvāmitra</s1>; it rises in the Kullu range of the <s1 slp1="himAlaya">Himālaya</s1>, and after a course of 290 miles joins the Sutlej at the southern boundary of Kapurthala; it is considered identical with the <lang n="greek">Ὕϕασις</lang> of Arrian, the Hyphasis of Pliny, and <lang n="greek">Βίπασις</lang> of Ptolemy), <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>Var.</ls>; <ls>Pur.</ls><info lex="f"/>
+;---------------------------------------------------
+; <L>259095.7<pc>1281,2<k1>svar<k2>sva^r<e>2E
+861634 old <s>sva^r</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἠέλιος</lang>, <lang n="greek">ἤλιος</lang>; <ab>Lat.</ab> <etym>sol</etym>; <ab>Lith.</ab> <etym>sáule</etym>; <ab>Goth.</ab> <etym>sauil</etym>; <ab>Angl.Sax.</ab> <etym>sôl</etym>.]
+;
+861634 new <s>sva^r</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἠέλιος</lang>, <lang n="greek">ἥλιος</lang>; <ab>Lat.</ab> <etym>sol</etym>; <ab>Lith.</ab> <etym>sáule</etym>; <ab>Goth.</ab> <etym>sauil</etym>; <ab>Angl.Sax.</ab> <etym>sôl</etym>.]
+;---------------------------------------------------
+; <L>262971.55<pc>1298,3<k1>hima<k2>hima<e>2E
+874110 old <s>hima</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>zima</etym>; <ab>Gk.</ab> <lang n="greek">(δύς)-χιμος</lang>; <lang n="greek">χιών</lang>, <lang n="greek">χειμών</lang>; <ab>Lat.</ab> <etym>bīmus</etym> for <etym>bihimus</etym>; <etym>hiems</etym>; <ab>Slav.</ab> <etym>zima</etym> <ab>Lit.</ab> <etym>żëmà</etym>]
+;
+874110 new <s>hima</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>zima</etym>; <ab>Gk.</ab> <lang n="greek">(δύς-)χιμος</lang>; <lang n="greek">χιών</lang>, <lang n="greek">χειμών</lang>; <ab>Lat.</ab> <etym>bīmus</etym> for <etym>bihimus</etym>; <etym>hiems</etym>; <ab>Slav.</ab> <etym>zima</etym> <ab>Lit.</ab> <etym>żëmà</etym>]
+;---------------------------------------------------

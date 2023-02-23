@@ -415,3 +415,51 @@ update mw at at Colgone.
 update this MWS repository
 --------------------------------
 Revise issue/153  comments
+
+---------------------------------------------------------------------------
+change_7:  more greek corrections
+Based on AB.vs.CDSL.greek.text.differences.txt
+cp temp_mw_6.txt temp_mw_7_work.txt
+# manually edit temp_mw_7_work.txt
+# construct change file for documentation
+python diff_to_changes_dict.py temp_mw_6.txt temp_mw_7_work.txt change_7.txt
+# 25 changes written to change_7.txt
+
+# construct temp_mw_7.txt from change_7
+python updateByLine.py temp_mw_6.txt change_7.txt temp_mw_7.txt
+25 change transactions from change_7.txt
+
+# check temp_mw_7.txt = temp_mw_7_work.txt
+diff temp_mw_7_work.txt temp_mw_7.txt
+# no difference, as expected
+# temp_mw_7_work.txt no longer needed.
+rm temp_mw_7_work.txt
+
+---------------------------------------------------------------------------
+install  temp_mw_7.txt 
+cp temp_mw_7.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# correct errors
+# rerun until
+ #prints 'ok'
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue153
+---------------------------------------------------------------------------
+# update csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig
+git pull
+git add v02/mw/mw.txt
+git commit -m "MW: corrections from AB.vs.CDSL.greek.text.differences.txt.
+Ref: https://github.com/sanskrit-lexicon/MWS/issues/153"
+
+git push
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue153
+--------------------------------
+update mw at at Colgone.
+--------------------------------
+update this MWS repository
+--------------------------------
+Revise issue/153  comments
+
