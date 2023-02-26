@@ -1,0 +1,223 @@
+;CDSL	AB
+* misc (89) miscellaneous corrections 
+
+> (g)nascor<	>(g)nascor<
+> (Sauer-) ampfer<	>(Sauer-)ampfer<
+>abhú<	>abhù<
+>aer-is<	>ær-is<
+>aes<	>æs<
+>agua<	>aqua<
+>as-is<	>æs-is<
+>avibhcal<	>avibheal<
+>aég<	>ǽg<
+>bareṡman<	>bareśman<
+>beide<	>beidê<
+>bilíian<	>bilîban<
+>bim< , >bim<	>bim< , >bin<
+>blizgú<	>blizgù<
+>bogatŭ<	>bogatǔ<
+>bogŭ<	>bogǔ<
+>bos<	>ḃos<
+>bratrû<	>bratrǔ<
+>broter-êlis<	>broter-ė́lis<
+>brothar<	>brôthar<
+>brŭvĭ<	>brǔvǐ<
+>budrús<	>budrùs<
+>budéti<	>budė́ti<
+>bŭdrŭ<	>bǔdrǔ<
+>bŭdĕti<	>bǔděti<
+>ceatkair<	>ceathair<
+>dva-daṡan<	>dva-daśan<
+>egg.<	>egg<.
+>ehe<	>Ehe<
+>fare<	>to fare<
+>fart<	>to fart<
+>frigere<	>frīgere<
+>ganâhs<	>ganôhs< ;; duplicated line
+>ge< minus.	>geminus<.
+>genâh<	>genôh< ;; duplicated line
+>gistra< … (>-dagis<)	>gistra(-dagis)<
+>go<	>to go<
+>gŭnati<	>gǔnati<
+>huithjo<	>haithjo<
+>live<	>to live<
+>lípti<	>lìpti<
+>medús<	>medùs<
+>medŭ<	>medǔ<
+>mentúre<	>mentùrė< ;; duplicated line
+>meth<	>Meth<
+>midjiṡ<	>midjiś<
+>midland<	<i>midland</i> ;; example word (not a cognate)
+>midnight<	<i>midnight</i> ;; example word (not a cognate)
+>midús<	>midùs<
+>mėsà.<	>mėsà<
+>mȩso<	>męso<
+>nac-tus<  … >sum<	>nac-tus sum< ;; duplicated line
+>nose-hole<	nose-hole ;; it's the meaning, not a cognate.
+>nészti<	>nèszti< ;; duplicated line
+>nĕbula<	>něbula<
+>oedhm<	>ædhm<
+>oes-tas<	>æs-tas<
+>oes-tus<	>æs-tus<
+>pañcāṡata<	>pañcāśata<
+>peka<	>peką<
+>pereṡu<	>pereśu<
+>prae-sens<	>præ-sens<
+>púlti<	>pùlti<
+>rab-ŭ<	>rab-ǔ<
+>rathaestā<	>rathæstā<
+>sedéti<	>sedė́ti<
+>segú<	>segù< ;; duplicated line
+>sergéti<	>sergė́ti< ;; duplicated line
+>spëti<	>spë́ti<
+>spírti<	>spìrti<
+>spöle<	>spüle<
+>spĕti<	>spěti<
+>sravéti<	>sravė́ti<
+>sáule<	>sáulė<
+>sésti<	>sė́sti<
+>sĕsti<	>sěsti<
+>viṡ-paiti<	>viś-paiti<
+>where<	>where ?<
+>win<	>to win<
+>wönschen<	>wünschen<
+>yester< … (>-day<)	>yester(-day)<
+>Zinken<	;; full line non-existing (came from the Blues)!!
+>zur<	>zur-<
+>öben<	>üben<
+>ûla<	>üla< ;; duplicated line
+>ĕrĕghant<	>ěrěghant< ;; line deleted by mistake in AB file; in two lines in CDSL file.
+<i>quot</i>?	>quot?<
+<s1>Misr</s1>	>Misr< ;; the Arabic word <ar>مصر</ar> in Roman letters
+>arg<	;; no error, but line deleted by mistake in AB file; in two lines in CDSL file.
+------------------------
+* untag (10) Un-tagged words
+
+cor	>cor<
+cord-is	>cord-is<
+cred-do	>cred-do<
+credo	>credo<	
+Iskandar	>Iskandar< ;; the Arabic word <ar>اسكندر</ar> in Roman letters
+name	>name< ;; the English cognate (line 356257), not a meaning.
+Sacae	>Sacæ<
+spleen	>spleen< ;; the English cognate (line 476367), not a meaning.
+tumultus	>tumultus< ;; a Latin cognate (line 290076), not a meaning
+vetus	>vetus< ;; a Latin cognate (line 620091), not a meaning
+-------------------------
+* diac (60) Diacritic separately marked 
+
+>atrúgas<	>atrúgas<
+>aúgti<	>aúgti<
+>bérżas<	>bérżas<
+>dôn<	>dôn<
+>faírneis<	>faírneis<
+>fâh<	>fâh<
+>gôs<	>gôs<
+>hlinên<	>hlinên<
+>i-dû<	>i-dû<
+>jáunas<	>jáunas<
+>kláusti<	>kláusti<
+>laúkas<	>laúkas<
+>linên<	>linên<
+>lóti<	>lóti<
+>lëcchôn<	>lëcchôn<
+>mâne<	>mâne<
+>mâno<	>mâno<
+>mélynas<	>mélynas<
+>mêna<	>mêna<
+>mė́żti<	>mė́żti<
+>mólis<	>mólis<
+>môna<	>môna<
+>mûs<	>mûs<
+>naújas<	>naújas<
+>nágas<	>nágas<
+>nîwe<	>nîwe<
+>nósis<	>nósis<
+>perkúnas<	>perkúnas<
+>pénktas<	>pénktas<
+>pérnay<	>pérnay<
+>rambókas<	>rambókas<
+>raudónas<	>raudónas<
+>raudóti<	>raudóti<
+>raúdas<	>raúdas<
+>reád<	>reád<
+>reótan<	>reótan<
+>rôt<	>rôt<
+>saúrga<	>saúrga<
+>saúsas<	>saúsas<
+>sápnas<	>sápnas<
+>stîgan<	>stîgan<
+>stógas<	>stógas<
+>sweór<	>sweór<
+>swêete<	>swêete<
+>swôti<	>swôti<
+>szészuras<	>szészuras<
+>szlaítas<	>szlaítas<
+>téon<	>téon<
+>tíhan<	>tíhan<
+>várnas<	>várnas<
+>virshùs<	>virshùs<
+>vìlkas<	>vìlkas<
+>waírthan<	>waírthan<
+>wâjan<	>wâjan<
+>wât<	>wât<
+>wâwan<	>wâwan<
+>wîc<	>wîc<
+>wîch<	>wîch<
+>żálias<	>żálias<
+>żélti<	>żélti<
+----------------
+* hyph (6) Hyphenation errors
+
+>absens<	>ab-sens<
+>argan<	>ar-gan<
+>aurora<	>auro-ra<
+>autem<	>au-tem<
+>Buchstabe<	>Buch-stabe<
+>werewolf<	>were-wolf<
+-----------------
+* etym_s (8) <etym> to <s> 
+
+>divás<	<s>divás</s>	
+>dyavas<	<s>dyavas</s>
+>dyavi<	<s>dyavi</s>
+>dyaús<	<s>dyaús</s>
+>grah<	<s>grah</s>
+>majjan<	<s>majjan</s>
+>svādu<	<s>svādu</s>
+>vatsara<	<s>vatsara</s>
+-----------------
+* s_etym (22) <s> to <etym>
+
+<s>bru</s>	>brû<
+<s>calvus</s>	>calvus<
+<s>cerus</s>	>cerus<
+<s>dacryma</s>	>dacryma<
+<s>daturus</s>	>daturus<
+<s>gratus</s>	>gratus<
+<s>iṣud</s>	>ishud< ;;  a Zend word
+<s>iṣū<srs/>idyāmahi</s>	>ishûidyāmahi< ;; a Zend word
+<s>ká</s>	>ká<
+<s>keresā<srs/>spa</s>	>keresâspa< ;; a Zend word
+<s>kirmele</s>	>kirmele<
+<s>lap-mentum</s>	>lap-mentum<
+<s>londres</s>	>londres<
+<s>lóbis</s>	>lóbis<
+<s>majmū'-dār</s>	>majmū'-dār< ;; the Arabic word <ar>دار</ar> <ar>مجموع</ar> in Roman letters
+<s>mortalis</s>	>mortalis<
+<s>opus</s>	>opus<
+<s>rammāl</s>	>rammāl< ;; the Arabic word <ar>رمال</ar> in Roman letters
+<s>sū-cula</s>	>sū-cula<
+<s>uras</s>	>uras< ;; a Hib. word
+<s>ūder</s>	>ūder<
+<s>ūna</s>	>ūna<
+-----------------------
+* non-skt (7) Indic words 
+
+<s>casamā</s>	<i>casamā</i> ;; a Bengālī word
+<s>cauḍī-</s>	<i>cauḍī-</i> ;; a Prākṛt word
+<s>kel</s>	<i>kel</i> ;; a Prākṛt word
+<s>kīl</s>	<i>kīl</i> ;; a Prākṛt word
+<s>lāḍ</s>	<i>lāḍ</i> ;; a Hindī word
+<s>moṭh</s>	<i>moṭh</i> ;; a Hindī word
+<s>mārisa</s>	<i>mārisa</i> ;; a Pāli word

@@ -1,0 +1,1742 @@
+; *****************************************************
+; temp_change_8_etym_s.txt * etym_s (8) <etym> to <s>
+; *****************************************************
+; ------------------------------------------------------
+; <L>69778<pc>377,2<k1>GiRR
+237515 old <s>GiRR</s> ¦ (<ab>fr.</ab> <ns>Prākṛt</ns> √ <i>geṇh</i>, <i>giṇh</i> = <etym>grah</etym>) <ab>cl.</ab> 1. <ab>Ā.</ab> <s>°RRate</s>, to take, grasp, <ls>Dhātup. xii, 1</ls> (<ab>cf.</ab> √ <s>GuRR</s>, <s>GfRR</s>.)<info westergaard="GiRi,12.1,01.0289"/><info verb="root" cp="1Ā"/>
+;
+;   <etym>grah</etym>  =>  <s>grah</s> 
+;
+237515 new <s>GiRR</s> ¦ (<ab>fr.</ab> <ns>Prākṛt</ns> √ <i>geṇh</i>, <i>giṇh</i> = <s>grah</s>) <ab>cl.</ab> 1. <ab>Ā.</ab> <s>°RRate</s>, to take, grasp, <ls>Dhātup. xii, 1</ls> (<ab>cf.</ab> √ <s>GuRR</s>, <s>GfRR</s>.)<info westergaard="GiRi,12.1,01.0289"/><info verb="root" cp="1Ā"/>
+;
+; ------------------------------------------------------
+; <L>92231.8<pc>478,3<k1>div
+311056 old <s>div</s> ¦ [<ab>cf.</ab> <s>dyu/</s>; <ab>Gk.</ab> <lang n="greek">Ζεύς</lang>, <lang n="greek">Διϝός</lang> &c. = <etym>dyaús</etym>, <etym>divás</etym>; <ab>Lat.</ab> <etym>Jou</etym>, <etym>Ju</etym> in <etym>Ju-piter</etym>, <etym>Jovis</etym>, <etym>Jovi</etym> &c. = <etym>dyavas</etym>, <etym>dyavi</etym>; <ab>O.E.</ab> <etym>Tíw</etym>; <ab>O.H.G.</ab> <etym>Zîu</etym> <ab>O.N.</ab> <etym>Týr</etym>.]
+;
+;   <etym>divás</etym>  =>  <s>diva/s</s> 
+;   <etym>dyavas</etym>  =>  <s>dyavas</s> 
+;   <etym>dyavi</etym>  =>  <s>dyavi</s> 
+;   <etym>dyaús</etym>  =>  <s>dyO/s</s> 
+;
+311056 new <s>div</s> ¦ [<ab>cf.</ab> <s>dyu/</s>; <ab>Gk.</ab> <lang n="greek">Ζεύς</lang>, <lang n="greek">Διϝός</lang> &c. = <s>dyO/s</s>, <s>diva/s</s>; <ab>Lat.</ab> <etym>Jou</etym>, <etym>Ju</etym> in <etym>Ju-piter</etym>, <etym>Jovis</etym>, <etym>Jovi</etym> &c. = <s>dyavas</s>, <s>dyavi</s>; <ab>O.E.</ab> <etym>Tíw</etym>; <ab>O.H.G.</ab> <etym>Zîu</etym> <ab>O.N.</ab> <etym>Týr</etym>.]
+;
+; ------------------------------------------------------
+; <L>154347.1<pc>773,2<k1>majj
+518539 old <s>majj</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>mergere</etym>, and under <etym>majjan</etym>.]
+;
+;   <etym>majjan</etym>  =>  <s>majjan</s> 
+;
+518539 new <s>majj</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>mergere</etym>, and under <s>majjan</s>.]
+;
+; ------------------------------------------------------
+; <L>185410.55<pc>915,3<k1>vatsa
+620091 old <s>vatsa</s> ¦ [<ab>cf.</ab> <etym>vatsara</etym> and <lang n="greek">ἔτος</lang> for <lang n="greek">ϝέτος</lang>; <ab>Lat.</ab> vetus, <etym>vetus-tus</etym>, <etym>vitulus</etym>; <ab>Germ.</ab> <etym>widar</etym>, <etym>Widder</etym>; <ab>Eng.</ab> <etym>wether</etym>.]
+;
+;   <etym>vatsara</etym>  =>  <s>vatsara</s> 
+;
+620091 new <s>vatsa</s> ¦ [<ab>cf.</ab> <s>vatsara</s> and <lang n="greek">ἔτος</lang> for <lang n="greek">ϝέτος</lang>; <ab>Lat.</ab> vetus, <etym>vetus-tus</etym>, <etym>vitulus</etym>; <ab>Germ.</ab> <etym>widar</etym>, <etym>Widder</etym>; <ab>Eng.</ab> <etym>wether</etym>.]
+;
+; ------------------------------------------------------
+; <L>258787.005<pc>1279,3<k1>svad
+860643 old <s>svad</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἥδομαι</lang>; <ab>Lat.</ab> <etym>suadeo</etym>, and under <etym>svādu</etym>.]
+;
+;   <etym>svādu</etym>  =>  <s>svAdu</s> 
+;
+860643 new <s>svad</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἥδομαι</lang>; <ab>Lat.</ab> <etym>suadeo</etym>, and under <s>svAdu</s>.]
+;
+; ------------------------------------------------------
+; <L>258787.55<pc>1279,3<k1>svAd
+860664 old <s>svAd</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἥδομαι</lang>; <ab>Lat.</ab> <etym>suadeo</etym>, and under <etym>svādu</etym>.]
+;
+;   <etym>svādu</etym>  =>  <s>svAdu</s> 
+;
+860664 new <s>svAd</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἥδομαι</lang>; <ab>Lat.</ab> <etym>suadeo</etym>, and under <s>svAdu</s>.]
+;
+; *****************************************************
+; temp_change_8_s_etym.txt * s_etym (19) <s> to <etym>
+; *****************************************************
+; ------------------------------------------------------
+; <L>9816<pc>53,1<k1>apas
+36430 old <hom>1.</hom> <s>a/pas</s> ¦ <lex>n.</lex> (<ab>fr.</ab> <hom>1.</hom> <s>a/p</s>), work, action, especially sacred act, sacrificial act, <ls>RV.</ls>[<ab>Lat.</ab> <s>opus</s>.]<info lex="n"/>
+;
+;   <s>opus</s>  =>  <etym>opus</etym> 
+;
+36430 new <hom>1.</hom> <s>a/pas</s> ¦ <lex>n.</lex> (<ab>fr.</ab> <hom>1.</hom> <s>a/p</s>), work, action, especially sacred act, sacrificial act, <ls>RV.</ls>[<ab>Lat.</ab> <etym>opus</etym>.]<info lex="n"/>
+;
+; ------------------------------------------------------
+; <L>19823.1<pc>114,3<k1>aSru
+71383 old <s>aSru</s> ¦ [supposed to stand for <s>daSru</s> <ab>fr.</ab> √ <s>daMS</s>: <ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">δάκρυ</lang>; <ab>Lat.</ab> <etym>lacryma</etym> for <s>dacryma</s>; <ab>Goth.</ab> <etym>tagrs</etym>; <ab>Eng.</ab> <etym>tear</etym>; <ab>Mod. Germ.</ab> <etym>Zähre</etym>].
+;
+;   <s>dacryma</s>  =>  <etym>dacryma</etym> 
+;
+71383 new <s>aSru</s> ¦ [supposed to stand for <s>daSru</s> <ab>fr.</ab> √ <s>daMS</s>: <ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">δάκρυ</lang>; <ab>Lat.</ab> <etym>lacryma</etym> for <etym>dacryma</etym>; <ab>Goth.</ab> <etym>tagrs</etym>; <ab>Eng.</ab> <etym>tear</etym>; <ab>Mod. Germ.</ab> <etym>Zähre</etym>].
+;
+; ------------------------------------------------------
+; <L>29543<pc>169,2<k1>izuDya
+105280 old <div n="vp"/> [<ab>cf.</ab> <ab>Zd.</ab> <s>izud</s>, ‘prayer’; <s>izU<srs/>idyAmahi</s>, ‘we will pray’.]<info verb="nom" cp="P"/>
+;
+;   <s>izud</s>  =>  <etym>ishud</etym>  ;;  a Zend word
+;   <s>izU<srs/>idyAmahi</s>  =>  <etym>ishûidyāmahi</etym> ;; a Zend word
+;
+105280 new <div n="vp"/> [<ab>cf.</ab> <ab>Zd.</ab> <etym>ishud</etym> , ‘prayer’; <etym>ishûidyāmahi</etym>, ‘we will pray’.]<info verb="nom" cp="P"/>
+;
+; ------------------------------------------------------
+; <L>37975.4<pc>221,1<k1>UDas
+134220 old <s>UDas</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">οὖθαρ</lang>; <ab>Lat.</ab> <etym>ūber</etym>; <ab>Angl.Sax.</ab> <s>Uder</s>; <ab>Old High Germ.</ab> <etym>ūtar</etym>; <ab>Mod. Germ.</ab> <etym>Euter</etym>; <ab>Mod.</ab> <ab>Eng.</ab> <etym>udder</etym>; <ns>Gaël</ns>. <etym>uth</etym>.]
+;
+;   <s>Uder</s>  =>  <etym>ūder</etym> 
+;
+134220 new <s>UDas</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">οὖθαρ</lang>; <ab>Lat.</ab> <etym>ūber</etym>; <ab>Angl.Sax.</ab> <etym>ūder</etym>; <ab>Old High Germ.</ab> <etym>ūtar</etym>; <ab>Mod. Germ.</ab> <etym>Euter</etym>; <ab>Mod.</ab> <ab>Eng.</ab> <etym>udder</etym>; <ns>Gaël</ns>. <etym>uth</etym>.]
+;
+; ------------------------------------------------------
+; <L>44037<pc>253,1<k1>kara
+154521 old <hom>1.</hom> <s>kara/</s> ¦ <lex>mf(<s>I</s>, rarely <s>A</s>)n.</lex> (for <hom>2.</hom> See <pcol>p. 254, col. 3</pcol>) (√ <hom>1.</hom> <s>kf</s>), a doer, maker, causer, doing, making, causing, producing (<ab>esp.</ab> <ab>ifc.</ab>; <ab>cf.</ab> <s>duHKakara</s>, <s>BayaM-k°</s>, <s>sampat-k°</s>, &c.; <ab>cf.</ab> <ab>Lat.</ab> <s>cerus</s>, ‘creator’), <ls>AV. xii, 2, 2</ls>; <ls>Mn.</ls>; <ls>Pañcat.</ls> &c.<info lex="m:f#A:f#I:n"/>
+;
+;   <s>cerus</s>  =>  <etym>cerus</etym> 
+;
+154521 new <hom>1.</hom> <s>kara/</s> ¦ <lex>mf(<s>I</s>, rarely <s>A</s>)n.</lex> (for <hom>2.</hom> See <pcol>p. 254, col. 3</pcol>) (√ <hom>1.</hom> <s>kf</s>), a doer, maker, causer, doing, making, causing, producing (<ab>esp.</ab> <ab>ifc.</ab>; <ab>cf.</ab> <s>duHKakara</s>, <s>BayaM-k°</s>, <s>sampat-k°</s>, &c.; <ab>cf.</ab> <ab>Lat.</ab> <etym>cerus</etym>, ‘creator’), <ls>AV. xii, 2, 2</ls>; <ls>Mn.</ls>; <ls>Pañcat.</ls> &c.<info lex="m:f#A:f#I:n"/>
+;
+; ------------------------------------------------------
+; <L>53234<pc>296,2<k1>kulva
+184222 old <s>kulva</s> ¦ <lex>mfn.</lex> bald, <ls>KātyŚr.</ls> (<ab>cf.</ab> <s>a/ti-k°</s>) [<ab>Lat.</ab> <s>calvus</s>.]<info lex="m:f:n"/>
+;
+;   <s>calvus</s>  =>  <etym>calvus</etym> 
+;
+184222 new <s>kulva</s> ¦ <lex>mfn.</lex> bald, <ls>KātyŚr.</ls> (<ab>cf.</ab> <s>a/ti-k°</s>) [<ab>Lat.</ab> <etym>calvus</etym>.]<info lex="m:f:n"/>
+;
+; ------------------------------------------------------
+; <L>54931.75<pc>305,2<k1>kfmi
+189761 old <s>kfmi</s> ¦ [<ab>cf.</ab> <ab>Lith.</ab> <etym>kirminis</etym>, <s>kirmele</s>; <ab>Russ.</ab> <etym>červj</etym>; <ab>Hib.</ab> <etym>cruimh</etym>; <ab>Cambro-Brit.</ab> <etym>pryv</etym>; <ab>Goth.</ab> <etym>vaurms</etym>; <ab>Lat.</ab> <etym>vermi-s</etym> for <etym>quermi-s</etym>.]
+;
+;   <s>kirmele</s>  =>  <etym>kirmele</etym> 
+;
+189761 new <s>kfmi</s> ¦ [<ab>cf.</ab> <ab>Lith.</ab> <etym>kirminis</etym>, <etym>kirmele</etym>; <ab>Russ.</ab> <etym>červj</etym>; <ab>Hib.</ab> <etym>cruimh</etym>; <ab>Cambro-Brit.</ab> <etym>pryv</etym>; <ab>Goth.</ab> <etym>vaurms</etym>; <ab>Lat.</ab> <etym>vermi-s</etym> for <etym>quermi-s</etym>.]
+;
+; ------------------------------------------------------
+; <L>55046<pc>305,3<k1>kfSASva
+190116 old <s>kfSA<srs/>Sva</s> ¦ <lex>m.</lex> (= <ab>Zd.</ab> <s>keresA<srs/>spa</s>), <ab>N.</ab> of several persons, <ls>MBh.</ls>; <ls>Hariv.</ls> &c.<info lex="m"/>
+;
+;   <s>keresA<srs/>spa</s>  =>  <etym>keresâspa</etym>  ;; a Zend word
+;
+190116 new <s>kfSA<srs/>Sva</s> ¦ <lex>m.</lex> (= <ab>Zd.</ab> <etym>keresâspa</etym> ), <ab>N.</ab> of several persons, <ls>MBh.</ls>; <ls>Hariv.</ls> &c.<info lex="m"/>
+;
+; ------------------------------------------------------
+; <L>65980<pc>359,2<k1>gUrta
+225062 old <s>gUrta/</s> <hom>a</hom> ¦ <lex>mfn.</lex> (<ls>Pāṇ. viii, 2, 61</ls>) approved, welcome, agreeable, (= <ab>Lat.</ab>) <s>gratus</s>, <ls>RV. i, 167, 1</ls>; <ls n="RV.">iv, 19, 8</ls> (<ab>cf.</ab> <s>aBi/-</s>, <s>rA/Do-</s>, <s>viSva/-</s>, <s>sva/-</s>; <s>ari-</s> and <s>purugUrta/</s>.)<info lex="m:f:n"/>
+;
+;   <s>gratus</s>  =>  <etym>gratus</etym> 
+;
+225062 new <s>gUrta/</s> <hom>a</hom> ¦ <lex>mfn.</lex> (<ls>Pāṇ. viii, 2, 61</ls>) approved, welcome, agreeable, (= <ab>Lat.</ab>) <etym>gratus</etym>, <ls>RV. i, 167, 1</ls>; <ls n="RV.">iv, 19, 8</ls> (<ab>cf.</ab> <s>aBi/-</s>, <s>rA/Do-</s>, <s>viSva/-</s>, <s>sva/-</s>; <s>ari-</s> and <s>purugUrta/</s>.)<info lex="m:f:n"/>
+;
+; ------------------------------------------------------
+; <L>91227.7<pc>474,1<k1>dAtf
+307825 old <s>dAtf</s> ¦ [<ab>cf.</ab> <s>a-</s>, <s>fRa-</s>, <s>brahma-</s>; <lang n="greek">δωτήρ</lang>, <lang n="greek">δοτήρ</lang>, <ab>Lat.</ab> <etym>dator</etym>, <s>daturus</s>]
+;
+;   <s>daturus</s>  =>  <etym>daturus</etym> 
+;
+307825 new <s>dAtf</s> ¦ [<ab>cf.</ab> <s>a-</s>, <s>fRa-</s>, <s>brahma-</s>; <lang n="greek">δωτήρ</lang>, <lang n="greek">δοτήρ</lang>, <ab>Lat.</ab> <etym>dator</etym>, <etym>daturus</etym>]
+;
+; ------------------------------------------------------
+; <L>153771.1<pc>770,3<k1>BrU
+516697 old <s>BrU</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὀ-ϕρύς</lang>; <ab>Slav.</ab> <etym>brŭvĭ</etym>; <ab>Angl.Sax.</ab> <s>bru</s>; <ab>Eng.</ab> <etym>brow</etym>.]
+;
+;   <s>bru</s>  =>  <etym>brû</etym> 
+;
+516697 new <s>BrU</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὀ-ϕρύς</lang>; <ab>Slav.</ab> <etym>brŭvĭ</etym>; <ab>Angl.Sax.</ab> <etym>brû</etym>; <ab>Eng.</ab> <etym>brow</etym>.]
+;
+; ------------------------------------------------------
+; <L>154345<pc>773,2<k1>majamudAra
+518523 old <s>majamudAra</s> ¦ <lex>m.</lex> = <lang script="Arabic" n="Arabic">مجموع</lang> <lang script="Arabic" n="Persian">دار</lang> <s>majmU'-dAr</s>, a record-keeper, document-holder, <ls>Kṣitīś.</ls><info lex="m"/>
+;
+;   <s>majmU'-dAr</s>  =>  <etym>majmū'-dār</etym>  ;; the Arabic word <ar>دار</ar> <ar>مجموع</ar> in Roman letters
+;
+518523 new <s>majamudAra</s> ¦ <lex>m.</lex> = <lang script="Arabic" n="Arabic">مجموع</lang> <lang script="Arabic" n="Persian">دار</lang> <etym>majmū'-dār</etym> , a record-keeper, document-holder, <ls>Kṣitīś.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; <L>158469.1<pc>791,1<k1>marta
+532004 old <s>marta</s> ¦ [<ab>Gk.</ab> <lang n="greek">μορτός</lang>, <lang n="greek">βροτός</lang>; <ab>Lat.</ab> <etym>mortuus</etym>, <s>mortalis</s>.]
+;
+;   <s>mortalis</s>  =>  <etym>mortalis</etym> 
+;
+532004 new <s>marta</s> ¦ [<ab>Gk.</ab> <lang n="greek">μορτός</lang>, <lang n="greek">βροτός</lang>; <ab>Lat.</ab> <etym>mortuus</etym>, <etym>mortalis</etym>.]
+;
+; ------------------------------------------------------
+; <L>175217<pc>868,2<k1>ramala
+587188 old <s>ramala</s> ¦ <lex>m.</lex> or <lex type="hw">n.</lex> (<ab>cf.</ab> Arabic <lang script="Arabic" n="Arabic">رمال</lang> <s>rammAl</s>) a mode of fortune-telling by means of dice (a branch of divination borrowed from the Arabs), <ls>Cat.</ls><info lex="m:n"/>
+;
+;   <s>rammAl</s>  =>  <etym>rammāl</etym>  ;; the Arabic word <ar>رمال</ar> in Roman letters
+;
+587188 new <s>ramala</s> ¦ <lex>m.</lex> or <lex type="hw">n.</lex> (<ab>cf.</ab> Arabic <lang script="Arabic" n="Arabic">رمال</lang> <etym>rammāl</etym> ) a mode of fortune-telling by means of dice (a branch of divination borrowed from the Arabs), <ls>Cat.</ls><info lex="m:n"/>
+;
+; ------------------------------------------------------
+; <L>181248<pc>895,3<k1>laRqra
+606721 old <s>laRqra</s> ¦ (<ab>prob.</ab> <ab>fr.</ab> the French <s>londres</s>), London, <ls>L.</ls>
+;
+;   <s>londres</s>  =>  <etym>londres</etym> 
+;
+606721 new <s>laRqra</s> ¦ (<ab>prob.</ab> <ab>fr.</ab> the French <etym>londres</etym>), London, <ls>L.</ls>
+;
+; ------------------------------------------------------
+; <L>181338.1<pc>896,2<k1>lap
+607008 old <s>lap</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὀ-λοϕ-ύρομαι</lang> <pb n="896,2"/>; perhaps <ab>Lat.</ab> <etym>lāmentum</etym> for <s>lap-mentum</s>.]
+;
+;   <s>lap-mentum</s>  =>  <etym>lap-mentum</etym> 
+;
+607008 new <s>lap</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὀ-λοϕ-ύρομαι</lang> <pb n="896,2"/>; perhaps <ab>Lat.</ab> <etym>lāmentum</etym> for <etym>lap-mentum</etym>.]
+;
+; ------------------------------------------------------
+; <L>181359.1<pc>896,2<k1>laB
+607091 old <s>laB</s> ¦ [<ab>Gk.</ab> <lang n="greek">λάϕ-υρον</lang>, <lang n="greek">λαμβ-άνω</lang>; <ab>Lat.</ab> <etym>labor</etym>; <ab>Lith.</ab> <etym>lábas</etym>, <s>lo/bis</s>.]
+;
+;   <s>lo/bis</s>  =>  <etym>lóbis</etym> 
+;
+607091 new <s>laB</s> ¦ [<ab>Gk.</ab> <lang n="greek">λάϕ-υρον</lang>, <lang n="greek">λαμβ-άνω</lang>; <ab>Lat.</ab> <etym>labor</etym>; <ab>Lith.</ab> <etym>lábas</etym>, <etym>lóbis</etym>.]
+;
+; ------------------------------------------------------
+; <L>250829<pc>1240,2<k1>sUkara
+834946 old <s>sU-kara/</s> ¦ <lex>m.</lex> (<ab>prob.</ab> <ab>fr.</ab> <s>sU</s> + <s>kara</s>, making the sound <s>sU</s>; <ab>cf.</ab> <s>SU-kara</s> &c.; <ab>accord.</ab> to others <ab>fr.</ab> <hom>3.</hom> <s>sU</s> and connected with <ab>Lat.</ab> <etym>sū-culus</etym>, <s>sU-cula</s>) a boar, hog, pig, swine (<ab>ifc.</ab> <lex type="hwifc">f(<s>A</s>). </lex>; <s>daMzwrA sUkarasya</s>, <ab>prob.</ab> ‘a <ab>partic.</ab> plant’, <ls>Suśr.</ls>), <ls>RV.</ls> &c. &c.<info lex="m:f#A"/>
+;
+;   <s>sU-cula</s>  =>  <etym>sū-cula</etym> 
+;
+834946 new <s>sU-kara/</s> ¦ <lex>m.</lex> (<ab>prob.</ab> <ab>fr.</ab> <s>sU</s> + <s>kara</s>, making the sound <s>sU</s>; <ab>cf.</ab> <s>SU-kara</s> &c.; <ab>accord.</ab> to others <ab>fr.</ab> <hom>3.</hom> <s>sU</s> and connected with <ab>Lat.</ab> <etym>sū-culus</etym>, <etym>sū-cula</etym>) a boar, hog, pig, swine (<ab>ifc.</ab> <lex type="hwifc">f(<s>A</s>). </lex>; <s>daMzwrA sUkarasya</s>, <ab>prob.</ab> ‘a <ab>partic.</ab> plant’, <ls>Suśr.</ls>), <ls>RV.</ls> &c. &c.<info lex="m:f#A"/>
+;
+; *****************************************************
+; temp_change_8_s_etym1.txt * s_etym1 (3)  <s> to <etym> editing needed
+; *****************************************************
+; ------------------------------------------------------
+; <L>37303.1<pc>217,3<k1>uru
+131999 old <s>uru</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">εὐρύς</lang>, <lang n="greek">εὐρύνω</lang>, &c.: <ab>Hib.</ab> <etym>ur</etym>, ‘very’; <s>uras</s>, ‘power, ability’.]
+;
+;   <s>uras</s>  =>  <etym>uras</etym>  ;; a Hib. word
+;
+131999 new <s>uru</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">εὐρύς</lang>, <lang n="greek">εὐρύνω</lang>, &c.: <ab>Hib.</ab> <etym>ur</etym>, ‘very’; <etym>uras</etym> , ‘power, ability’.]
+;
+; ------------------------------------------------------
+; <L>37981<pc>221,2<k1>Una
+134238 old <s>Una/</s> ¦ <lex>mfn.</lex> (√ <s>av</s>, <ls>Uṇ. iii, 2</ls>; ? <ab>cf.</ab> <ab>Zd.</ab> <s>Una</s>), wanting, deficient, defective, short of the right quantity, less than the right number, not sufficient<info lex="m:f:n"/>
+;
+;   <s>Una</s>  =>  <etym>ūna</etym> 
+;
+134238 new <s>Una/</s> ¦ <lex>mfn.</lex> (√ <s>av</s>, <ls>Uṇ. iii, 2</ls>; ? <ab>cf.</ab> <ab>Zd.</ab> <etym>ūna</etym>), wanting, deficient, defective, short of the right quantity, less than the right number, not sufficient<info lex="m:f:n"/>
+;
+; ------------------------------------------------------
+; <L>41336.05<pc>240,2<k1>ka
+145748 old <s>ka</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>ka</etym>, <etym>kô</etym>, <etym>kâ</etym>, <etym>kat</etym>; <ab>Gk.</ab> <lang n="greek">πόθεν</lang>, <lang n="greek">πῶς</lang>, (<ab>Ion.</ab> <lang n="greek">κόθεν</lang>, <lang n="greek">κῶς</lang>,) <lang n="greek">τίς</lang>, <lang n="greek">τί</lang>; <ab>Lat.</ab> <etym>quis</etym>, <etym>quid</etym>; <ab>Lith.</ab> <etym>kas</etym> <s>ka/</s>; <ab>Goth.</ab> <etym>hvas</etym>, <etym>hvô</etym>, <etym>hva</etym>, <ab>Angl.Sax.</ab> <etym>hwā</etym>, <etym>hwaet</etym>; <ab>Eng.</ab> <etym>who</etym>, <etym>what</etym>.]
+;
+;   <s>ka/</s>  =>  <etym>ká</etym> 
+;
+145748 new <s>ka</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>ka</etym>, <etym>kô</etym>, <etym>kâ</etym>, <etym>kat</etym>; <ab>Gk.</ab> <lang n="greek">πόθεν</lang>, <lang n="greek">πῶς</lang>, (<ab>Ion.</ab> <lang n="greek">κόθεν</lang>, <lang n="greek">κῶς</lang>,) <lang n="greek">τίς</lang>, <lang n="greek">τί</lang>; <ab>Lat.</ab> <etym>quis</etym>, <etym>quid</etym>; <ab>Lith.</ab> <etym>kas</etym> <etym>ká</etym>; <ab>Goth.</ab> <etym>hvas</etym>, <etym>hvô</etym>, <etym>hva</etym>, <ab>Angl.Sax.</ab> <etym>hwā</etym>, <etym>hwaet</etym>; <ab>Eng.</ab> <etym>who</etym>, <etym>what</etym>.]
+;
+; *****************************************************
+; temp_change_8_misc.txt * misc (79) miscellaneous corrections
+; *****************************************************
+; ------------------------------------------------------
+; <L>8930.65<pc>47,3<k1>ap
+33027 old <s>ap</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>agua</etym>; <ab>Goth.</ab> <etym>ahva</etym>, ‘a river’; <ab>Old Germ.</ab> <etym>aha</etym>, and <etym>affa</etym> at the end of compounds; <ab>Lith.</ab> <etym>uppê</etym>, ‘a river’; perhaps <ab>Lat.</ab> <etym>amnis</etym>, ‘a river’, for <etym>apnis</etym> <ab>cf.</ab> also <lang n="greek">ἀϕρός</lang>]
+;
+;   >agua<  =>  >aqua< 
+;
+33027 new <s>ap</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>aqua</etym>; <ab>Goth.</ab> <etym>ahva</etym>, ‘a river’; <ab>Old Germ.</ab> <etym>aha</etym>, and <etym>affa</etym> at the end of compounds; <ab>Lith.</ab> <etym>uppê</etym>, ‘a river’; perhaps <ab>Lat.</ab> <etym>amnis</etym>, ‘a river’, for <etym>apnis</etym> <ab>cf.</ab> also <lang n="greek">ἀϕρός</lang>]
+;
+; ------------------------------------------------------
+; <L>14769.1<pc>85,1<k1>ayas
+53784 old <s>ayas</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>aes</etym>, <etym>aer-is</etym> for <etym>as-is</etym>; <ab>Goth.</ab> <etym>ais</etym>, <ab>Thema</ab> <etym>aisa</etym>; <ab>Old Germ.</ab> <etym>êr</etym>, iron; <ab>Goth.</ab> <etym>eisarn</etym>; <ab>Mod. Germ.</ab> <etym>Eisen</etym>.]
+;
+;   >aer-is<  =>  >ær-is< 
+;   >aes<  =>  >æs< 
+;   >as-is<  =>  >æs-is< 
+;
+53784 new <s>ayas</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>æs</etym>, <etym>ær-is</etym> for <etym>æs-is</etym>; <ab>Goth.</ab> <etym>ais</etym>, <ab>Thema</ab> <etym>aisa</etym>; <ab>Old Germ.</ab> <etym>êr</etym>, iron; <ab>Goth.</ab> <etym>eisarn</etym>; <ab>Mod. Germ.</ab> <etym>Eisen</etym>.]
+;
+; ------------------------------------------------------
+; <L>23472.1<pc>135,1<k1>Atman
+84108 old <s>Atman</s> ¦ [<ab>Old Germ.</ab> <etym>ātum</etym>; <ab>Angl.Sax.</ab> <etym>oedhm</etym>; <ab>Mod. Germ.</ab> <etym>Athem</etym>, <etym>Odem</etym>; <ab>Gk.</ab> <lang n="greek">ἀϋτμήν</lang>, <lang n="greek">ἀτμός</lang> (?).]
+;
+;   >oedhm<  =>  >ædhm< 
+;
+84108 new <s>Atman</s> ¦ [<ab>Old Germ.</ab> <etym>ātum</etym>; <ab>Angl.Sax.</ab> <etym>ædhm</etym>; <ab>Mod. Germ.</ab> <etym>Athem</etym>, <etym>Odem</etym>; <ab>Gk.</ab> <lang n="greek">ἀϋτμήν</lang>, <lang n="greek">ἀτμός</lang> (?).]
+;
+; ------------------------------------------------------
+; <L>24743.1<pc>142,1<k1>Ap
+88390 old <s>Ap</s> ¦ [probably connected with <hom>1.</hom> <s>ap</s>; <ab>cf.</ab> <s>apna</s>; <ab>Gk.</ab> <lang n="greek">ἄϕενος</lang>, <lang n="greek">ἀϕνειός</lang>; <ab>Lat.</ab> <etym>apiscor</etym>, <etym>aptus</etym>, <etym>ops</etym>; <ab>Old Germ.</ab> <etym>uoban</etym>; <ab>Mod. Germ.</ab> <etym>öben</etym>.]
+;
+;   >öben<  =>  >üben< 
+;
+88390 new <s>Ap</s> ¦ [probably connected with <hom>1.</hom> <s>ap</s>; <ab>cf.</ab> <s>apna</s>; <ab>Gk.</ab> <lang n="greek">ἄϕενος</lang>, <lang n="greek">ἀϕνειός</lang>; <ab>Lat.</ab> <etym>apiscor</etym>, <etym>aptus</etym>, <etym>ops</etym>; <ab>Old Germ.</ab> <etym>uoban</etym>; <ab>Mod. Germ.</ab> <etym>üben</etym>.]
+;
+; ------------------------------------------------------
+; <L>25235.1<pc>145,2<k1>ABA
+90097 old <s>ABA</s> ¦ [<ab>cf.</ab> <ab>Hib.</ab> <etym>avibh</etym>, ‘likeness, similitude’; <etym>avibe</etym>, ‘neatness, elegance’; <etym>avibhcal</etym>, ‘a spark of fire’ ?]
+;
+;   >avibhcal<  =>  >avibheal< 
+;
+90097 new <s>ABA</s> ¦ [<ab>cf.</ab> <ab>Hib.</ab> <etym>avibh</etym>, ‘likeness, similitude’; <etym>avibe</etym>, ‘neatness, elegance’; <etym>avibheal</etym>, ‘a spark of fire’ ?]
+;
+; ------------------------------------------------------
+; <L>25408<pc>146,2<k1>Ama
+90674 old <s>Ama</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὠμός</lang>; <ab>Lat.</ab> <etym>amārus</etym>; <ab>Hib.</ab> <etym>amh</etym>, ‘raw, unsodden, crude, unripe’; <ab>Old Germ.</ab> <etym>ampher</etym>; <ab>Mod. Germ.</ab> <etym> (Sauer-) ampfer</etym>.]
+;
+;   > (Sauer-) ampfer<  =>  >(Sauer-)ampfer< 
+;
+90674 new <s>Ama</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὠμός</lang>; <ab>Lat.</ab> <etym>amārus</etym>; <ab>Hib.</ab> <etym>amh</etym>, ‘raw, unsodden, crude, unripe’; <ab>Old Germ.</ab> <etym>ampher</etym>; <ab>Mod. Germ.</ab> <etym>(Sauer-)ampfer</etym>.]
+;
+; ------------------------------------------------------
+; <L>29258.1<pc>167,3<k1>inD
+104203 old <s>inD</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">αἴθω</lang>, <lang n="greek">ἰθαρός</lang>; <lang n="greek">αἰθήρ</lang>, <lang n="greek">Αἴτνη</lang>; <lang n="greek">Ἥϕ-αισ-τος</lang>; <ab>Lat.</ab> <etym>oes-tus</etym>, <etym>oes-tas</etym>; <ab>Old Germ.</ab> <etym>eit</etym>, ‘fire’.]
+;
+;   >oes-tas<  =>  >æs-tas< 
+;   >oes-tus<  =>  >æs-tus< 
+;
+104203 new <s>inD</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">αἴθω</lang>, <lang n="greek">ἰθαρός</lang>; <lang n="greek">αἰθήρ</lang>, <lang n="greek">Αἴτνη</lang>; <lang n="greek">Ἥϕ-αισ-τος</lang>; <ab>Lat.</ab> <etym>æs-tus</etym>, <etym>æs-tas</etym>; <ab>Old Germ.</ab> <etym>eit</etym>, ‘fire’.]
+;
+; ------------------------------------------------------
+; <L>37052.1<pc>216,2<k1>uBa
+131156 old <s>uBa</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>uba</etym>; <ab>Gk.</ab> <lang n="greek">ἄμϕω</lang>; <ab>Lat.</ab> <etym>ambo</etym>; <ab>Goth.</ab> <etym>bai</etym>; <ab>Old High Germ.</ab> <etym>beide</etym>; <ab>Slav.</ab> <etym>oba</etym>; <ab>Lith.</ab> <etym>abhú</etym>.]
+;
+;   >abhú<  =>  >abhù< 
+;   >beide<  =>  >beidê< 
+;
+131156 new <s>uBa</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>uba</etym>; <ab>Gk.</ab> <lang n="greek">ἄμϕω</lang>; <ab>Lat.</ab> <etym>ambo</etym>; <ab>Goth.</ab> <etym>bai</etym>; <ab>Old High Germ.</ab> <etym>beidê</etym>; <ab>Slav.</ab> <etym>oba</etym>; <ab>Lith.</ab> <etym>abhù</etym>.]
+;
+; ------------------------------------------------------
+; <L>37526.75<pc>219,1<k1>ulva
+132732 old <s>ulva</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>alvus</etym>, <etym>vulva</etym>; <ab>Lith.</ab> <etym>urwā</etym>, <etym>ûla</etym>.]
+;
+;   >ûla<  =>  >üla<  ;; duplicated line
+;
+132732 new <s>ulva</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>alvus</etym>, <etym>vulva</etym>; <ab>Lith.</ab> <etym>urwā</etym>, <etym>üla</etym>.]
+;
+; ------------------------------------------------------
+; <L>38965<pc>226,2<k1>fBu
+137631 old <s>fBu</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἀλϕεῖν</lang>; <ab>Lat.</ab> <etym>labor</etym>; <ab>Goth.</ab> <etym>arb-aiths</etym>; <ab>Angl.Sax.</ab> <etym>earfoð</etym>; <ab>Slav.</ab> <etym>rab-ŭ</etym>.]
+;
+;   >rab-ŭ<  =>  >rab-ǔ< 
+;
+137631 new <s>fBu</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἀλϕεῖν</lang>; <ab>Lat.</ab> <etym>labor</etym>; <ab>Goth.</ab> <etym>arb-aiths</etym>; <ab>Angl.Sax.</ab> <etym>earfoð</etym>; <ab>Slav.</ab> <etym>rab-ǔ</etym>.]
+;
+; ------------------------------------------------------
+; <L>40188.1<pc>232,2<k1>eva
+141878 old <s>eva</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">αἰές</lang>, <lang n="greek">αἰών</lang>; <ab>Lat.</ab> <etym>aevu-m</etym>; <ab>Goth.</ab> <etym>aivs</etym>; <ab>O.H.G.</ab> <etym>êwa</etym> and <ab>Angl.Sax.</ab> <etym>êu</etym>, <etym>êo</etym>, ‘custom’, ‘law’; <ab>Germ.</ab> <etym>ehe</etym>.]
+;
+;   >ehe<  =>  >Ehe< 
+;
+141878 new <s>eva</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">αἰές</lang>, <lang n="greek">αἰών</lang>; <ab>Lat.</ab> <etym>aevu-m</etym>; <ab>Goth.</ab> <etym>aivs</etym>; <ab>O.H.G.</ab> <etym>êwa</etym> and <ab>Angl.Sax.</ab> <etym>êu</etym>, <etym>êo</etym>, ‘custom’, ‘law’; <ab>Germ.</ab> <etym>Ehe</etym>.]
+;
+; ------------------------------------------------------
+; <L>42655<pc>246,3<k1>kati
+149991 old <hom>1.</hom> <s>ka/ti</s> ¦ (<ab>fr.</ab> <hom>2.</hom> <s>ka</s> declined in <ab>pl.</ab> only, <ls>Gram. 227</ls> <s>a</s>; all the cases except the <ab>nom.</ab> <ab>voc.</ab> and <ab>acc.</ab> taking terminations, whereas the correlative <s>iti</s> has become fixed as an indeclinable adverb), how many? <i>quot</i>? several (<ab>e.g.</ab> <s>kati devAH</s>, how many gods? <s>kati vyApAdayati kati vA tAqayati</s>, some he kills and some he strikes). In the sense of ‘several’, ‘some’, <s>kati</s> is generally followed by <s>cid</s> or <s>api</s> (<ab>e.g.</ab> <s>katicid ahAni</s>, for several or some days)
+;
+;   <i>quot</i>?  =>  <i>quot?</i>
+;
+149991 new <hom>1.</hom> <s>ka/ti</s> ¦ (<ab>fr.</ab> <hom>2.</hom> <s>ka</s> declined in <ab>pl.</ab> only, <ls>Gram. 227</ls> <s>a</s>; all the cases except the <ab>nom.</ab> <ab>voc.</ab> and <ab>acc.</ab> taking terminations, whereas the correlative <s>iti</s> has become fixed as an indeclinable adverb), how many? <i>quot?</i> several (<ab>e.g.</ab> <s>kati devAH</s>, how many gods? <s>kati vyApAdayati kati vA tAqayati</s>, some he kills and some he strikes). In the sense of ‘several’, ‘some’, <s>kati</s> is generally followed by <s>cid</s> or <s>api</s> (<ab>e.g.</ab> <s>katicid ahAni</s>, for several or some days)
+;
+; ------------------------------------------------------
+; <L>45578.6<pc>260,1<k1>karhi
+159673 old <s>karhi</s> ¦ [<ab>cf.</ab> <ab>Goth.</ab> <etym>hvar</etym>, ‘where ?’ <ab>Eng.</ab> <etym>where</etym> ?]
+;
+;   >where<  =>  >where ?< 
+;
+159673 new <s>karhi</s> ¦ [<ab>cf.</ab> <ab>Goth.</ab> <etym>hvar</etym>, ‘where ?’ <ab>Eng.</ab> <etym>where ?</etym> ?]
+;
+; ------------------------------------------------------
+; <L>59234.1<pc>327,2<k1>kzal
+203480 old <s>kzal</s> ¦ [<ab>cf.</ab> <ab>Lith.</ab> <etym>skalauju</etym>, ‘to wash off’; <etym>skalbju</etym>, ‘to wash’; <ab>Mod. Germ.</ab> <etym>spöle</etym>?]
+;
+;   >spöle<  =>  >spüle< 
+;
+203480 new <s>kzal</s> ¦ [<ab>cf.</ab> <ab>Lith.</ab> <etym>skalauju</etym>, ‘to wash off’; <etym>skalbju</etym>, ‘to wash’; <ab>Mod. Germ.</ab> <etym>spüle</etym>?]
+;
+; ------------------------------------------------------
+; <L>60259<pc>332,1<k1>kzetra
+206702 old <s>kzetra</s> ¦ [<ab>cf.</ab> <s>a/-kz°</s>, <s>anya-</s> and <s>kuru-kzetra/</s>, <s>karma-kz°</s>, <s>deva-kz°</s>, <s>Darma-kz°</s>, <s>raRa-kz°</s>, <s>sidDa-kz°</s>, <s>su-kz°</s>, <s>sure<srs/>SvarI-kz°</s>; <ab>cf.</ab> also <ab>Goth.</ab> <etym>haithi</etym>, <ab>Them.</ab> <etym>huithjo</etym>; <ab>Germ.</ab> <etym>Heide</etym>.]
+;
+;   >huithjo<  =>  >haithjo< 
+;
+206702 new <s>kzetra</s> ¦ [<ab>cf.</ab> <s>a/-kz°</s>, <s>anya-</s> and <s>kuru-kzetra/</s>, <s>karma-kz°</s>, <s>deva-kz°</s>, <s>Darma-kz°</s>, <s>raRa-kz°</s>, <s>sidDa-kz°</s>, <s>su-kz°</s>, <s>sure<srs/>SvarI-kz°</s>; <ab>cf.</ab> also <ab>Goth.</ab> <etym>haithi</etym>, <ab>Them.</ab> <etym>haithjo</etym>; <ab>Germ.</ab> <etym>Heide</etym>.]
+;
+; ------------------------------------------------------
+; <L>66884.64<pc>363,3<k1>go
+228121 old <s>go</s> ¦ [<ab>cf.</ab> <lang n="greek">βοῦς</lang>; <ab>Lat.</ab> <etym>bos</etym>; <ab>Old Germ.</ab> <etym>chuo</etym>; <ab>Mod. Germ.</ab> <etym>Kuh</etym>; <ab>Eng.</ab> <etym>cow</etym>; <ab>Lett.</ab> <etym>gohw</etym>; <ab>cf.</ab> also <lang n="greek">γαῖα</lang>, <lang n="greek">γῆ</lang>; <ab>Goth.</ab> <etym>gavi</etym> and <ab>Mod. Germ.</ab> <etym>Gau</etym>.]
+;
+;   >bos<  =>  >ḃos< 
+;
+228121 new <s>go</s> ¦ [<ab>cf.</ab> <lang n="greek">βοῦς</lang>; <ab>Lat.</ab> <etym>ḃos</etym>; <ab>Old Germ.</ab> <etym>chuo</etym>; <ab>Mod. Germ.</ab> <etym>Kuh</etym>; <ab>Eng.</ab> <etym>cow</etym>; <ab>Lett.</ab> <etym>gohw</etym>; <ab>cf.</ab> also <lang n="greek">γαῖα</lang>, <lang n="greek">γῆ</lang>; <ab>Goth.</ab> <etym>gavi</etym> and <ab>Mod. Germ.</ab> <etym>Gau</etym>.]
+;
+; ------------------------------------------------------
+; <L>71131.1<pc>384,1<k1>catur
+241848 old <s>catur</s> ¦ [<ab>cf.</ab> <lang n="greek">τέσσαρες</lang>, <lang n="greek">τέτταρες</lang>, <ab>Aeol.</ab> <lang n="greek">πίσυρες</lang>; <ab>Goth.</ab> <etym>fidvor</etym>; <ab>Lat.</ab> <etym>quatuor</etym>; <ab>Cambro-Brit.</ab> <etym>pedwar</etym>, <etym>pedair</etym>; <ab>Hib.</ab> <etym>ceatkair</etym>; <ab>Lith.</ab> <etym>keturi</etym>; <ab>Slav.</ab> <etym>cetyrje</etym>.]
+;
+;   >ceatkair<  =>  >ceathair< 
+;
+241848 new <s>catur</s> ¦ [<ab>cf.</ab> <lang n="greek">τέσσαρες</lang>, <lang n="greek">τέτταρες</lang>, <ab>Aeol.</ab> <lang n="greek">πίσυρες</lang>; <ab>Goth.</ab> <etym>fidvor</etym>; <ab>Lat.</ab> <etym>quatuor</etym>; <ab>Cambro-Brit.</ab> <etym>pedwar</etym>, <etym>pedair</etym>; <ab>Hib.</ab> <etym>ceathair</etym>; <ab>Lith.</ab> <etym>keturi</etym>; <ab>Slav.</ab> <etym>cetyrje</etym>.]
+;
+; ------------------------------------------------------
+; <L>76735.1<pc>410,1<k1>jan
+260188 old <s>jan</s>, ¦ [<ab>cf.</ab> <lang n="greek">γίγνομαι</lang>; <ab>Lat.</ab> <etym>gigno</etym>, <etym> (g)nascor</etym>; <ab>Hib.</ab> <etym>genim</etym>, ‘I beget, generate’.]
+;
+;   > (g)nascor<  =>  >(g)nascor< 
+;
+260188 new <s>jan</s>, ¦ [<ab>cf.</ab> <lang n="greek">γίγνομαι</lang>; <ab>Lat.</ab> <etym>gigno</etym>, <etym>(g)nascor</etym>; <ab>Hib.</ab> <etym>genim</etym>, ‘I beget, generate’.]
+;
+; ------------------------------------------------------
+; <L>94676.15<pc>488,2<k1>dus
+318989 old <s>dus</s> ¦ [<ab>cf.</ab> √ <hom>2.</hom> <s>duz</s>; <ab>Zd.</ab> <etym>dush-</etym>; <ab>Gk.</ab> <lang n="greek">δυς-</lang>; <ab>Goth.</ab> <etym>tuz-</etym>; <ab>O.H.G.</ab> <etym>zur</etym>.]
+;
+;   >zur<  =>  >zur-< 
+;
+318989 new <s>dus</s> ¦ [<ab>cf.</ab> √ <hom>2.</hom> <s>duz</s>; <ab>Zd.</ab> <etym>dush-</etym>; <ab>Gk.</ab> <lang n="greek">δυς-</lang>; <ab>Goth.</ab> <etym>tuz-</etym>; <ab>O.H.G.</ab> <etym>zur-</etym>.]
+;
+; ------------------------------------------------------
+; <L>98210.1<pc>503,3<k1>dvAdaSan
+330664 old <s>dvAdaSan</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>dva-daṡan</etym>; <ab>Gk.</ab><lang n="greek">δώ-δεκα</lang>; <ab>Lat.</ab> <etym>duo-decim</etym>.]
+;
+;   >dva-daṡan<  =>  >dva-daśan< 
+;
+330664 new <s>dvAdaSan</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>dva-daśan</etym>; <ab>Gk.</ab><lang n="greek">δώ-δεκα</lang>; <ab>Lat.</ab> <etym>duo-decim</etym>.]
+;
+; ------------------------------------------------------
+; <L>103761.1<pc>527,3<k1>naBas
+349252 old <s>naBas</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">νέϕος</lang>, <lang n="greek">νεϕέλη</lang>; <ab>Lat.</ab> <etym>nĕbula</etym>; <ab>Slav.</ab> <etym>nebo</etym>; <ab>Germ.</ab> <etym>nëbul</etym>, <etym>nëbel</etym>, <etym>Nebel</etym>; <ab>Angl.Sax.</ab> <etym>nifol</etym>, ‘dark’.]
+;
+;   >nĕbula<  =>  >něbula< 
+;
+349252 new <s>naBas</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">νέϕος</lang>, <lang n="greek">νεϕέλη</lang>; <ab>Lat.</ab> <etym>něbula</etym>; <ab>Slav.</ab> <etym>nebo</etym>; <ab>Germ.</ab> <etym>nëbul</etym>, <etym>nëbel</etym>, <etym>Nebel</etym>; <ab>Angl.Sax.</ab> <etym>nifol</etym>, ‘dark’.]
+;
+; ------------------------------------------------------
+; <L>104757.55<pc>531,3<k1>naMS
+352672 old <s>naMS</s> ¦ [<ab>cf.</ab> <hom>1.</hom> <s>aS</s> and <s>nakz</s>; <ab>Lat.</ab> <etym>nac-tus</etym> <etym>sum</etym>; <ab>Lith.</ab> <etym>nészti</etym>; <ab>Slav.</ab> <etym>nesti</etym>; <ab>Goth.</ab> <etym>ganâhs</etym>; <ab>Germ.</ab> <etym>genug</etym>; <ab>Angl.Sax.</ab> <etym>genâh</etym>; <ab>Eng.</ab> <etym>enough</etym>.]
+;
+;   >ganâhs<  =>  >ganôhs<  ;; duplicated line
+;   >genâh<  =>  >genôh<  ;; duplicated line
+;   >nészti<  =>  >nèszti<  ;; duplicated line
+;
+352672 new <s>naMS</s> ¦ [<ab>cf.</ab> <hom>1.</hom> <s>aS</s> and <s>nakz</s>; <ab>Lat.</ab> <etym>nac-tus</etym> <etym>sum</etym>; <ab>Lith.</ab> <etym>nèszti</etym>; <ab>Slav.</ab> <etym>nesti</etym>; <ab>Goth.</ab> <etym>ganôhs</etym>; <ab>Germ.</ab> <etym>genug</etym>; <ab>Angl.Sax.</ab> <etym>genôh</etym>; <ab>Eng.</ab> <etym>enough</etym>.]
+;
+; ------------------------------------------------------
+; <L>104829.1<pc>532,2<k1>nas
+352922 old <s>nas</s> ¦ [<ab>cf.</ab> <s>nAsA</s>, <s>nAsikA</s>; <ab>Lat.</ab> <etym>nas-turcium</etym>, <etym>nāres</etym>; <ab>Lith.</ab> <etym>nósis</etym>; <ab>Slav.</ab> <etym>nosǔ</etym>; <ab>Germ.</ab> <etym>Nase</etym>; <ab>Angl.Sax.</ab> <etym>nosu</etym>; <ab>Eng.</ab> <etym>nose</etym>, <etym>nostril</etym> = <etym>nose-thrill</etym>, <etym>nose-hole</etym>.]
+;
+;   >nose-hole<  =>  nose-hole  ;; it's the meaning, not a cognate.
+;
+352922 new <s>nas</s> ¦ [<ab>cf.</ab> <s>nAsA</s>, <s>nAsikA</s>; <ab>Lat.</ab> <etym>nas-turcium</etym>, <etym>nāres</etym>; <ab>Lith.</ab> <etym>nósis</etym>; <ab>Slav.</ab> <etym>nosǔ</etym>; <ab>Germ.</ab> <etym>Nase</etym>; <ab>Angl.Sax.</ab> <etym>nosu</etym>; <ab>Eng.</ab> <etym>nose</etym>, <etym>nostril</etym> = <etym>nose-thrill</etym>, <etym>nose-hole</etym>.]
+;
+; ------------------------------------------------------
+; <L>113414.1<pc>575,1<k1>pac
+382502 old <s>pac</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">πέσσω</lang> for <lang n="greek">πεκ-ϳω</lang>; <ab>Lat.</ab> <etym>coquo</etym>; <ab>Slav.</ab> <etym>peka</etym>, <etym>pešti</etym>.]
+;
+;   >peka<  =>  >peką< 
+;
+382502 new <s>pac</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">πέσσω</lang> for <lang n="greek">πεκ-ϳω</lang>; <ab>Lat.</ab> <etym>coquo</etym>; <ab>Slav.</ab> <etym>peką</etym>, <etym>pešti</etym>.]
+;
+; ------------------------------------------------------
+; <L>114203.1<pc>578,3<k1>paYcASat
+385352 old <s>paYcASat</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>pañcāṡata</etym>; <ab>Gk.</ab> <lang n="greek">πεντήκοντα</lang>; <ab>Lat.</ab> <etym>quinquāginta</etym>.]
+;
+;   >pañcāṡata<  =>  >pañcāśata< 
+;
+385352 new <s>paYcASat</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>pañcāśata</etym>; <ab>Gk.</ab> <lang n="greek">πεντήκοντα</lang>; <ab>Lat.</ab> <etym>quinquāginta</etym>.]
+;
+; ------------------------------------------------------
+; <L>119581.1<pc>606,3<k1>pard
+403795 old <s>pard</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">πέρδω</lang>; <ab>Lat.</ab> <etym>pēdo</etym>, <etym>pōdex</etym>; <ab>Lith.</ab> <etym>pérdżu</etym>; <ab>Germ.</ab> <etym>farzen</etym>, <etym>furzen</etym>; <ab>Angl.Sax.</ab> <etym>feortan</etym>; <ab>Eng.</ab> <etym>fart</etym>.]
+;
+;   >fart<  =>  >to fart< 
+;
+403795 new <s>pard</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">πέρδω</lang>; <ab>Lat.</ab> <etym>pēdo</etym>, <etym>pōdex</etym>; <ab>Lith.</ab> <etym>pérdżu</etym>; <ab>Germ.</ab> <etym>farzen</etym>, <etym>furzen</etym>; <ab>Angl.Sax.</ab> <etym>feortan</etym>; <ab>Eng.</ab> <etym>to fart</etym>.]
+;
+; ------------------------------------------------------
+; <L>120075<pc>609,2<k1>parSu
+405399 old <hom>1.</hom> <s>pa/rSu</s> ¦ <lex>m.</lex> a rib, <ls>AV.</ls>; <ls>TS.</ls>; <ls>Br.</ls> [<ab>cf.</ab> <ab>Zd.</ab> <etym>pereṡu</etym>]; a curved knife, sickle, <ls>AV.</ls>; <ls>Kauś.</ls> <info lex="m"/>
+;
+;   >pereṡu<  =>  >pereśu< 
+;
+405399 new <hom>1.</hom> <s>pa/rSu</s> ¦ <lex>m.</lex> a rib, <ls>AV.</ls>; <ls>TS.</ls>; <ls>Br.</ls> [<ab>cf.</ab> <ab>Zd.</ab> <etym>pereśu</etym>]; a curved knife, sickle, <ls>AV.</ls>; <ls>Kauś.</ls> <info lex="m"/>
+;
+; ------------------------------------------------------
+; <L>128300.1<pc>645,1<k1>pf
+432127 old <s>pf</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">περάω</lang>, <lang n="greek">πόρος</lang>, <lang n="greek">πορεύεσθαι</lang>; <ab>Lat.</ab> <etym>porta</etym>, <etym>peritus</etym>; <ab>Slav.</ab> <etym>pirati</etym>; <ab>Germ.</ab> <etym>fahren</etym>; <ab>Eng.</ab> <etym>fare</etym>.]
+;
+;   >fare<  =>  >to fare< 
+;
+432127 new <s>pf</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">περάω</lang>, <lang n="greek">πόρος</lang>, <lang n="greek">πορεύεσθαι</lang>; <ab>Lat.</ab> <etym>porta</etym>, <etym>peritus</etym>; <ab>Slav.</ab> <etym>pirati</etym>; <ab>Germ.</ab> <etym>fahren</etym>; <ab>Eng.</ab> <etym>to fare</etym>.]
+;
+; ------------------------------------------------------
+; <L>145569.1<pc>733,2<k1>buD
+489836 old <s>buD</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>bud</etym>; <ab>Gk.</ab> <lang n="greek">πυθ</lang> for <lang n="greek">(ϕυθ)</lang> in <lang n="greek">πυνθάνομαι</lang>, <lang n="greek">πυθέσθαι</lang>, <ab>Slav.</ab> <etym>bŭdĕti</etym>, <etym>bŭdrŭ</etym>; <ab>Lith.</ab> <etym>budéti</etym>, <etym>budrús</etym>; <ab>Goth.</ab> <etym>biudan</etym>; <ab>Germ.</ab> <etym>biotan</etym>, <etym>bieten</etym>; <ab>Angl.Sax.</ab> <etym>béodan</etym>; <ab>Eng.</ab> <etym>bid</etym>.]
+;
+;   >budrús<  =>  >budrùs< 
+;   >budéti<  =>  >budė́ti< 
+;   >bŭdrŭ<  =>  >bǔdrǔ< 
+;   >bŭdĕti<  =>  >bǔděti< 
+;
+489836 new <s>buD</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>bud</etym>; <ab>Gk.</ab> <lang n="greek">πυθ</lang> for <lang n="greek">(ϕυθ)</lang> in <lang n="greek">πυνθάνομαι</lang>, <lang n="greek">πυθέσθαι</lang>, <ab>Slav.</ab> <etym>bǔděti</etym>, <etym>bǔdrǔ</etym>; <ab>Lith.</ab> <etym>budė́ti</etym>, <etym>budrùs</etym>; <ab>Goth.</ab> <etym>biudan</etym>; <ab>Germ.</ab> <etym>biotan</etym>, <etym>bieten</etym>; <ab>Angl.Sax.</ab> <etym>béodan</etym>; <ab>Eng.</ab> <etym>bid</etym>.]
+;
+; ------------------------------------------------------
+; <L>147764.1<pc>743,3<k1>Baga
+497178 old <s>Baga</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>bagha</etym> = <ab>Old Pers.</ab> <etym>baga</etym>; <ab>Gk.</ab> <lang n="greek">Ζεὺς Βαγαῖος</lang>; <ab>Slav.</ab> <etym>bogŭ</etym>, <etym>bogatŭ</etym>; <ab>Lith.</ab> <etym>bagótas</etym>, <etym>na-bágas</etym>.]
+;
+;   >bogatŭ<  =>  >bogatǔ< 
+;   >bogŭ<  =>  >bogǔ< 
+;
+497178 new <s>Baga</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>bagha</etym> = <ab>Old Pers.</ab> <etym>baga</etym>; <ab>Gk.</ab> <lang n="greek">Ζεὺς Βαγαῖος</lang>; <ab>Slav.</ab> <etym>bogǔ</etym>, <etym>bogatǔ</etym>; <ab>Lith.</ab> <etym>bagótas</etym>, <etym>na-bágas</etym>.]
+;
+; ------------------------------------------------------
+; <L>153489.1<pc>769,2<k1>Brajj
+515778 old <s>Brajj</s> ¦ [<ab>cf.</ab> √ <s>BrAj</s>; <ab>Gk.</ab> <lang n="greek">ϕρύγω</lang>; <ab>Lat.</ab> <etym>frigere</etym>.]
+;
+;   >frigere<  =>  >frīgere< 
+;
+515778 new <s>Brajj</s> ¦ [<ab>cf.</ab> √ <s>BrAj</s>; <ab>Gk.</ab> <lang n="greek">ϕρύγω</lang>; <ab>Lat.</ab> <etym>frīgere</etym>.]
+;
+; ------------------------------------------------------
+; <L>153678.1<pc>770,2<k1>BrAj
+516385 old <s>BrAj</s> ¦ [<ab>cf.</ab> <s>Bfgu</s>; <ab>Gk.</ab> <lang n="greek">ϕλέγω</lang>; <ab>Lat.</ab> <etym>fulgere</etym>, <etym>flamma</etym> for <etym>flag-ma</etym> &c.; <ab>Lith.</ab> <etym>blizgú</etym>; <ab>Germ.</ab> <etym>bleichen</etym>; <ab>Eng.</ab> <etym>bleach</etym>.]
+;
+;   >blizgú<  =>  >blizgù< 
+;
+516385 new <s>BrAj</s> ¦ [<ab>cf.</ab> <s>Bfgu</s>; <ab>Gk.</ab> <lang n="greek">ϕλέγω</lang>; <ab>Lat.</ab> <etym>fulgere</etym>, <etym>flamma</etym> for <etym>flag-ma</etym> &c.; <ab>Lith.</ab> <etym>blizgù</etym>; <ab>Germ.</ab> <etym>bleichen</etym>; <ab>Eng.</ab> <etym>bleach</etym>.]
+;
+; ------------------------------------------------------
+; <L>153710.1<pc>770,2<k1>BrAtf
+516487 old <s>BrAtf</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>brātar</etym>; <ab>Gk.</ab> <lang n="greek">ϕράτηρ</lang> &c.; <ab>Lat.</ab> <etym>frater</etym>; <ab>Lith.</ab> <etym>broter-êlis</etym>; <ab>Slav.</ab> <etym>bratrû</etym>; <ab>Goth.</ab> <etym>brothar</etym>; <ab>Germ.</ab> <etym>bruoder</etym>, <etym>Bruder</etym>; <ab>Eng.</ab> <etym>brother</etym>.]
+;
+;   >bratrû<  =>  >bratrǔ< 
+;   >broter-êlis<  =>  >broter-ė́lis< 
+;   >brothar<  =>  >brôthar< 
+;
+516487 new <s>BrAtf</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>brātar</etym>; <ab>Gk.</ab> <lang n="greek">ϕράτηρ</lang> &c.; <ab>Lat.</ab> <etym>frater</etym>; <ab>Lith.</ab> <etym>broter-ė́lis</etym>; <ab>Slav.</ab> <etym>bratrǔ</etym>; <ab>Goth.</ab> <etym>brôthar</etym>; <ab>Germ.</ab> <etym>bruoder</etym>, <etym>Bruder</etym>; <ab>Eng.</ab> <etym>brother</etym>.]
+;
+; ------------------------------------------------------
+; <L>153771.1<pc>770,3<k1>BrU
+516697 old <s>BrU</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὀ-ϕρύς</lang>; <ab>Slav.</ab> <etym>brŭvĭ</etym>; <ab>Angl.Sax.</ab> <etym>brû</etym>; <ab>Eng.</ab> <etym>brow</etym>.]
+;
+;   >brŭvĭ<  =>  >brǔvǐ< 
+;
+516697 new <s>BrU</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὀ-ϕρύς</lang>; <ab>Slav.</ab> <etym>brǔvǐ</etym>; <ab>Angl.Sax.</ab> <etym>brû</etym>; <ab>Eng.</ab> <etym>brow</etym>.]
+;
+; ------------------------------------------------------
+; <L>155187.55<pc>777,1<k1>manT
+521253 old <s>manT</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">μίνθη</lang>; <ab>Lat.</ab> <etym>mentha</etym>, <etym>menta</etym>; <ab>Lit.</ab> <etym>mentúre</etym>; <ab>Germ.</ab> <etym>minza</etym>, <etym>Minze</etym>; <ab>Angl.Sax.</ab> <etym>minte</etym>; <ab>Eng.</ab> <etym>mint</etym>.]
+;
+;   >mentúre<  =>  >mentùrė<  ;; duplicated line
+;
+521253 new <s>manT</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">μίνθη</lang>; <ab>Lat.</ab> <etym>mentha</etym>, <etym>menta</etym>; <ab>Lit.</ab> <etym>mentùrė</etym>; <ab>Germ.</ab> <etym>minza</etym>, <etym>Minze</etym>; <ab>Angl.Sax.</ab> <etym>minte</etym>; <ab>Eng.</ab> <etym>mint</etym>.]
+;
+; ------------------------------------------------------
+; <L>155792.1<pc>779,3<k1>maDu
+523158 old <s>maDu</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab>, <lang n="greek">μέθυ</lang>, <lang n="greek">μέθη</lang>, <ab>Slav.</ab> <etym>medŭ</etym>; <ab>Lith.</ab> <etym>midús</etym>, <etym>medús</etym>; <ab>Germ.</ab> <etym>meth</etym>; <ab>Eng.</ab> <etym>mead</etym>.]
+;
+;   >medús<  =>  >medùs< 
+;   >medŭ<  =>  >medǔ< 
+;   >meth<  =>  >Meth< 
+;   >midús<  =>  >midùs< 
+;
+523158 new <s>maDu</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab>, <lang n="greek">μέθυ</lang>, <lang n="greek">μέθη</lang>, <ab>Slav.</ab> <etym>medǔ</etym>; <ab>Lith.</ab> <etym>midùs</etym>, <etym>medùs</etym>; <ab>Germ.</ab> <etym>Meth</etym>; <ab>Eng.</ab> <etym>mead</etym>.]
+;
+; ------------------------------------------------------
+; <L>156367.05<pc>781,3<k1>maDya
+525054 old <s>maDya</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>maidhya</etym>; <ab>Gk.</ab> <lang n="greek">μέσσος</lang>, <lang n="greek">μέσος</lang> for <lang n="greek">μέθιος</lang>; <ab>Lat.</ab> <etym>medius</etym>; <ab>Goth.</ab> <etym>midjiṡ</etym>; <ab>Eng.</ab> <etym>mid</etym> in <etym>midland</etym>, <etym>midnight</etym> &c.]
+;
+;   >midjiṡ<  =>  >midjiś< 
+;   >midland<  =>  <i>midland</i>  ;; example word (not a cognate)
+;   >midnight<  =>  <i>midnight</i>  ;; example word (not a cognate)
+;
+525054 new <s>maDya</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>maidhya</etym>; <ab>Gk.</ab> <lang n="greek">μέσσος</lang>, <lang n="greek">μέσος</lang> for <lang n="greek">μέθιος</lang>; <ab>Lat.</ab> <etym>medius</etym>; <ab>Goth.</ab> <etym>midjiś</etym>; <ab>Eng.</ab> <etym>mid</etym> in <etym>midland</etym>, <etym>midnight</etym> &c.]
+;
+; ------------------------------------------------------
+; <L>161778.1<pc>805,1<k1>mAMsa
+543178 old <s>mAMsa</s> ¦ [<ab>cf.</ab> <ab>Slav.</ab> <etym>mȩso</etym>; <ab>Pruss.</ab> <etym>mensa</etym>; <ab>Lith.</ab> <etym>mėsà.</etym>]
+;
+;   >mėsà.<  =>  >mėsà< 
+;   >mȩso<  =>  >męso< 
+;
+543178 new <s>mAMsa</s> ¦ [<ab>cf.</ab> <ab>Slav.</ab> <etym>męso</etym>; <ab>Pruss.</ab> <etym>mensa</etym>; <ab>Lith.</ab> <etym>mėsà</etym>]
+;
+; ------------------------------------------------------
+; <L>182615.1<pc>902,2<k1>lip
+611074 old <s>lip</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἀ-λείϕω</lang>, <lang n="greek">λιπαρός</lang>, <ab>Lat.</ab> <etym>lippus</etym>; <ab>Lith.</ab> <etym>lípti</etym>; <ab>Goth.</ab> <etym>bileiban</etym>; <ab>Germ.</ab> <etym>bilíian</etym>, <etym>blîben</etym>, <etym>bleiben</etym>, <etym>leben</etym>, <etym>Leib</etym>; <ab>Angl.Sax.</ab> <etym>libban</etym>; <ab>Eng.</ab> <etym>live</etym>, <etym>life</etym>.]
+;
+;   >bilíian<  =>  >bilîban< 
+;   >live<  =>  >to live< 
+;   >lípti<  =>  >lìpti< 
+;
+611074 new <s>lip</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἀ-λείϕω</lang>, <lang n="greek">λιπαρός</lang>, <ab>Lat.</ab> <etym>lippus</etym>; <ab>Lith.</ab> <etym>lìpti</etym>; <ab>Goth.</ab> <etym>bileiban</etym>; <ab>Germ.</ab> <etym>bilîban</etym>, <etym>blîben</etym>, <etym>bleiben</etym>, <etym>leben</etym>, <etym>Leib</etym>; <ab>Angl.Sax.</ab> <etym>libban</etym>; <ab>Eng.</ab> <etym>to live</etym>, <etym>life</etym>.]
+;
+; ------------------------------------------------------
+; <L>185710.1<pc>917,2<k1>van
+621051 old <s>van</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>venia</etym>, <etym>Venus</etym>; <ab>Got.</ab> <etym>gawinnan</etym>; <ab>Germ.</ab> <etym>gewinnen</etym>; <ab>Eng.</ab> <etym>win</etym>.]
+;
+;   >win<  =>  >to win< 
+;
+621051 new <s>van</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>venia</etym>, <etym>Venus</etym>; <ab>Got.</ab> <etym>gawinnan</etym>; <ab>Germ.</ab> <etym>gewinnen</etym>; <ab>Eng.</ab> <etym>to win</etym>.]
+;
+; ------------------------------------------------------
+; <L>187842<pc>926,3<k1>varSman
+627889 old <s>varSman</s> ¦ <lex>m.</lex> = <ab>Zd.</ab> <etym>bareṡman</etym> <ls>Cat.</ls><info lex="m"/>
+;
+;   >bareṡman<  =>  >bareśman< 
+;
+627889 new <s>varSman</s> ¦ <lex>m.</lex> = <ab>Zd.</ab> <etym>bareśman</etym> <ls>Cat.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; <L>190461.1<pc>938,3<k1>vAYC
+636455 old <s>vAYC</s> ¦ [<ab>cf.</ab> <ab>Germ.</ab> <etym>wunsc</etym>, <etym>Wunsch</etym>, <etym>wönschen</etym>; <ab>Angl.Sax.</ab> <etym>wŷscan</etym>; <ab>Eng.</ab> <etym>wish</etym>.]
+;
+;   >wönschen<  =>  >wünschen< 
+;
+636455 new <s>vAYC</s> ¦ [<ab>cf.</ab> <ab>Germ.</ab> <etym>wunsc</etym>, <etym>Wunsch</etym>, <etym>wünschen</etym>; <ab>Angl.Sax.</ab> <etym>wŷscan</etym>; <ab>Eng.</ab> <etym>wish</etym>.]
+;
+; ------------------------------------------------------
+; <L>192825.1<pc>949,3<k1>vi
+643854 old <s>vi</s> ¦ [<ab>cf.</ab> <hom>1.</hom> <s>va/yas</s>; <ab>Gk.</ab> <lang n="greek">οἰωνός</lang> for <lang n="greek">ὀϝιωνος</lang>; <ab>Lat.</ab> <etym>a-vis</etym>; <ab>accord.</ab> to some <ab>Germ.</ab> <etym>Ei</etym>; <ab>Angl.Sax.</ab> <etym>aég</etym>; <ab>Eng.</ab> <etym>egg.</etym>]
+;
+;   >aég<  =>  >ǽg< 
+;   >egg.<  =>  >egg<. 
+;
+643854 new <s>vi</s> ¦ [<ab>cf.</ab> <hom>1.</hom> <s>va/yas</s>; <ab>Gk.</ab> <lang n="greek">οἰωνός</lang> for <lang n="greek">ὀϝιωνος</lang>; <ab>Lat.</ab> <etym>a-vis</etym>; <ab>accord.</ab> to some <ab>Germ.</ab> <etym>Ei</etym>; <ab>Angl.Sax.</ab> <etym>ǽg</etym>; <ab>Eng.</ab> <etym>egg</etym>.]
+;
+; ------------------------------------------------------
+; <L>200396.1<pc>989,2<k1>viSpati
+669282 old <s>viSpati</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>viṡ-paiti</etym>; <ab>Lith.</ab> <etym>vë́sz-patis</etym>.]
+;
+;   >viṡ-paiti<  =>  >viś-paiti< 
+;
+669282 new <s>viSpati</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>viś-paiti</etym>; <ab>Lith.</ab> <etym>vë́sz-patis</etym>.]
+;
+; ------------------------------------------------------
+; <L>216842.1<pc>1071,2<k1>SiNGinI
+;722856 old <s>SiNGinI</s> ¦ [<ab>cf.</ab> <ab>Germ.</ab> <etym>Zinken</etym>]
+;
+;   >Zinken<  =>   ;; full line non-existing (came from the Blues)!!
+;
+;722856 new <s>SiNGinI</s> ¦ [<ab>cf.</ab> <ab>Germ.</ab> <etym/etym>]
+;
+; ------------------------------------------------------
+; <L>229218.55<pc>1132,3<k1>saj
+763319 old <s>saj</s> ¦ [<ab>cf.</ab> <ab>accord.</ab> to some, <ab>Lat.</ab> <etym>segnis</etym>; <ab>Lith.</ab> <etym>segú</etym>, ‘I attach’.]
+;
+;   >segú<  =>  >segù<  ;; duplicated line
+;
+763319 new <s>saj</s> ¦ [<ab>cf.</ab> <ab>accord.</ab> to some, <ab>Lat.</ab> <etym>segnis</etym>; <ab>Lith.</ab> <etym>segù</etym>, ‘I attach’.]
+;
+; ------------------------------------------------------
+; <L>229504.1<pc>1134,2<k1>sat
+764222 old <s>sat</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὥν</lang>, <lang n="greek">ἐών</lang> for <lang n="greek">ἐσων</lang>; <ab>Lat.</ab> <etym>sens</etym> in <etym>absens</etym>, <etym>prae-sens</etym>; <etym>sons</etym>, ‘guilty’, <ab>orig.</ab> ‘the real doer’; <ab>Lith.</ab> <etym>są̄s</etym>, <etym>ė́sąs</etym>; <ab>Slav.</ab> <etym>sy</etym>, <etym>sąšta</etym>.]
+;
+;   >prae-sens<  =>  >præ-sens< 
+;
+764222 new <s>sat</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὥν</lang>, <lang n="greek">ἐών</lang> for <lang n="greek">ἐσων</lang>; <ab>Lat.</ab> <etym>sens</etym> in <etym>absens</etym>, <etym>præ-sens</etym>; <etym>sons</etym>, ‘guilty’, <ab>orig.</ab> ‘the real doer’; <ab>Lith.</ab> <etym>są̄s</etym>, <etym>ė́sąs</etym>; <ab>Slav.</ab> <etym>sy</etym>, <etym>sąšta</etym>.]
+;
+; ------------------------------------------------------
+; <L>230505.1<pc>1138,2<k1>sad
+767707 old <s>sad</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἵζω</lang> for <lang n="greek">σίσδω</lang>; <ab>Lat.</ab> <etym>sidere</etym>, <etym>sedere</etym>; <ab>Lith.</ab> <etym>sésti</etym>, <etym>sedéti</etym>; <ab>Slav.</ab> <etym>sĕsti</etym>; <ab>Goth.</ab> <etym>sitan</etym>; <ab>Germ.</ab> <etym>sitzen</etym>; <ab>Angl.Sax.</ab> <etym>sittan</etym>; <ab>Eng.</ab> <etym>sit</etym>.]
+;
+;   >sedéti<  =>  >sedė́ti< 
+;   >sésti<  =>  >sė́sti< 
+;   >sĕsti<  =>  >sěsti< 
+;
+767707 new <s>sad</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἵζω</lang> for <lang n="greek">σίσδω</lang>; <ab>Lat.</ab> <etym>sidere</etym>, <etym>sedere</etym>; <ab>Lith.</ab> <etym>sė́sti</etym>, <etym>sedė́ti</etym>; <ab>Slav.</ab> <etym>sěsti</etym>; <ab>Goth.</ab> <etym>sitan</etym>; <ab>Germ.</ab> <etym>sitzen</etym>; <ab>Angl.Sax.</ab> <etym>sittan</etym>; <ab>Eng.</ab> <etym>sit</etym>.]
+;
+; ------------------------------------------------------
+; <L>251816.55<pc>1244,3<k1>sUrkzy
+838094 old <s>sUrkzy</s> ¦ [<ab>cf.</ab> <ab>accord.</ab> to some, <ab>Lith.</ab> <etym>sergéti</etym> <pb n="1244,3"/>; <ab>Goth.</ab> <etym>saúrga</etym>; <ab>Germ.</ab> <etym>Sorge</etym>; <ab>Angl.Sax.</ab> <etym>sorh</etym>; <ab>Eng.</ab> <etym>sorrow</etym>.]
+;
+;   >sergéti<  =>  >sergė́ti<  ;; duplicated line
+;
+838094 new <s>sUrkzy</s> ¦ [<ab>cf.</ab> <ab>accord.</ab> to some, <ab>Lith.</ab> <etym>sergė́ti</etym> <pb n="1244,3"/>; <ab>Goth.</ab> <etym>saúrga</etym>; <ab>Germ.</ab> <etym>Sorge</etym>; <ab>Angl.Sax.</ab> <etym>sorh</etym>; <ab>Eng.</ab> <etym>sorrow</etym>.]
+;
+; ------------------------------------------------------
+; <L>256804.1<pc>1270,1<k1>sPal
+854129 old <s>sPal</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">σϕάλλω</lang>; <ab>Lat.</ab> <etym>fallo</etym>; <ab>Lith.</ab> <etym>púlti</etym>; <ab>Germ.</ab> <etym>fallen</etym>; <ab>Eng.</ab> <etym>fall</etym>.]
+;
+;   >púlti<  =>  >pùlti< 
+;
+854129 new <s>sPal</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">σϕάλλω</lang>; <ab>Lat.</ab> <etym>fallo</etym>; <ab>Lith.</ab> <etym>pùlti</etym>; <ab>Germ.</ab> <etym>fallen</etym>; <ab>Eng.</ab> <etym>fall</etym>.]
+;
+; ------------------------------------------------------
+; <L>256812.1<pc>1270,1<k1>sPAy
+854159 old <s>sPAy</s> ¦ [?<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">σϕηλός</lang>; <ab>Lit.</ab> <etym>spëti</etym>; <ab>Slav.</ab> <etym>spĕti</etym>.]
+;
+;   >spëti<  =>  >spë́ti< 
+;   >spĕti<  =>  >spěti< 
+;
+854159 new <s>sPAy</s> ¦ [?<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">σϕηλός</lang>; <ab>Lit.</ab> <etym>spë́ti</etym>; <ab>Slav.</ab> <etym>spěti</etym>.]
+;
+; ------------------------------------------------------
+; <L>256968.1<pc>1271,1<k1>sPur
+854676 old <s>sPur</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">σπαίρω</lang>, <lang n="greek">σϕυρόν</lang>; <ab>Lat.</ab> <etym>sperno</etym>; <ab>Lith.</ab> <etym>spírti</etym>; <ab>Germ.</ab> <etym>sporo</etym>, <etym>spor</etym>, <etym>Sporn</etym>; <ab>Eng.</ab> <etym>spur</etym>, <etym>spurn</etym>.]
+;
+;   >spírti<  =>  >spìrti< 
+;
+854676 new <s>sPur</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">σπαίρω</lang>, <lang n="greek">σϕυρόν</lang>; <ab>Lat.</ab> <etym>sperno</etym>; <ab>Lith.</ab> <etym>spìrti</etym>; <ab>Germ.</ab> <etym>sporo</etym>, <etym>spor</etym>, <etym>Sporn</etym>; <ab>Eng.</ab> <etym>spur</etym>, <etym>spurn</etym>.]
+;
+; ------------------------------------------------------
+; <L>257621.1<pc>1274,2<k1>sru
+856821 old <s>sru</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ῥέω</lang> (for <lang n="greek">σρεϝω</lang>), <lang n="greek">ῥύσις</lang> &c.; <ab>Lith.</ab> <etym>sravéti</etym>; <ab>Germ.</ab> <etym>stroum</etym>, <etym>Strom</etym>; <ab>Angl.Sax.</ab> <etym>streám</etym>; <ab>Eng.</ab> <etym>stream</etym>.]
+;
+;   >sravéti<  =>  >sravė́ti< 
+;
+856821 new <s>sru</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ῥέω</lang> (for <lang n="greek">σρεϝω</lang>), <lang n="greek">ῥύσις</lang> &c.; <ab>Lith.</ab> <etym>sravė́ti</etym>; <ab>Germ.</ab> <etym>stroum</etym>, <etym>Strom</etym>; <ab>Angl.Sax.</ab> <etym>streám</etym>; <ab>Eng.</ab> <etym>stream</etym>.]
+;
+; ------------------------------------------------------
+; <L>259095.7<pc>1281,2<k1>svar
+861634 old <s>sva^r</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἠέλιος</lang>, <lang n="greek">ἥλιος</lang>; <ab>Lat.</ab> <etym>sol</etym>; <ab>Lith.</ab> <etym>sáule</etym>; <ab>Goth.</ab> <etym>sauil</etym>; <ab>Angl.Sax.</ab> <etym>sôl</etym>.]
+;
+;   >sáule<  =>  >sáulė< 
+;
+861634 new <s>sva^r</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἠέλιος</lang>, <lang n="greek">ἥλιος</lang>; <ab>Lat.</ab> <etym>sol</etym>; <ab>Lith.</ab> <etym>sáulė</etym>; <ab>Goth.</ab> <etym>sauil</etym>; <ab>Angl.Sax.</ab> <etym>sôl</etym>.]
+;
+; ------------------------------------------------------
+; <L>260297.1<pc>1287,2<k1>han
+865537 old <s>han</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">θείνω</lang>, <lang n="greek">θάνατος</lang>; <lang n="greek">ϕόνος</lang>, <lang n="greek">ἔπεϕνον</lang> <lang n="greek">πέϕαται</lang>; <ab>Lat.</ab> <etym>de-fendere</etym>, <etym>of-fendere</etym>; <ab>Lit.</ab> <etym>genu</etym>, <etym>gíti</etym>; <ab>Slav.</ab> <etym>gŭnati</etym>.]
+;
+;   >gŭnati<  =>  >gǔnati< 
+;
+865537 new <s>han</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">θείνω</lang>, <lang n="greek">θάνατος</lang>; <lang n="greek">ϕόνος</lang>, <lang n="greek">ἔπεϕνον</lang> <lang n="greek">πέϕαται</lang>; <ab>Lat.</ab> <etym>de-fendere</etym>, <etym>of-fendere</etym>; <ab>Lit.</ab> <etym>genu</etym>, <etym>gíti</etym>; <ab>Slav.</ab> <etym>gǔnati</etym>.]
+;
+; *****************************************************
+; temp_change_8_misc1.txt * misc1 (9)  misc changes that need editing
+; *****************************************************
+; ------------------------------------------------------
+; <L>38692.1<pc>224,3<k1>fGAvat
+136698 old <s>fGAvat</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>ĕrĕghant</etym>; <ab>Mod. Germ.</ab> <etym>arg</etym>.]
+;
+;   <etym>ĕrĕghant</etym>  =>  <etym>ěrěghant</etym> ;; two lines in CDSL file.
+;
+136698 new <s>fGAvat</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>ěrěghant</etym>; <ab>Mod. Germ.</ab> <etym>arg</etym>.]
+;
+; ------------------------------------------------------
+; <L>38693.1<pc>224,3<k1>fGAvan
+136704 old <s>fGAvan</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>ĕrĕghant</etym>; <ab>Mod. Germ.</ab> <etym>arg</etym>.]
+;
+;   <etym>ĕrĕghant</etym>  =>  <etym>ěrěghant</etym> ;; two lines in CDSL file.
+;
+136704 new <s>fGAvan</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>ěrěghant</etym>; <ab>Mod. Germ.</ab> <etym>arg</etym>.]
+;
+; ------------------------------------------------------
+; <L>64493.1<pc>352,1<k1>gA
+220345 old <s>gA</s> ¦ [<ab>cf.</ab> <lang n="greek">βίβημι</lang>, <lang n="greek">ἔβην</lang>; <ab>Old Germ.</ab> <etym>gām</etym>, <etym>gās</etym>, &c.; <ab>Goth.</ab> <etym>ga-tvo</etym>; <ab>Eng.</ab> <etym>go</etym>.]
+;
+;   <etym>go</etym>  =>  <etym>to go</etym> 
+;
+220345 new <s>gA</s> ¦ [<ab>cf.</ab> <lang n="greek">βίβημι</lang>, <lang n="greek">ἔβην</lang>; <ab>Old Germ.</ab> <etym>gām</etym>, <etym>gās</etym>, &c.; <ab>Goth.</ab> <etym>ga-tvo</etym>; <ab>Eng.</ab> <etym>to go</etym>.]
+;
+; ------------------------------------------------------
+; <L>78916.1<pc>419,1<k1>jAmi
+267181 old <s>jAmi</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>ge</etym> minus.]
+;
+;   <etym>ge</etym> minus  =>  <etym>geminus</etym> 
+;
+267181 new <s>jAmi</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>geminus</etym>.]
+;
+; ------------------------------------------------------
+; <L>104757.55<pc>531,3<k1>naMS
+;352672 old <s>naMS</s> ¦ [<ab>cf.</ab> <hom>1.</hom> <s>aS</s> and <s>nakz</s>; <ab>Lat.</ab> <etym>nac-tus</etym> <etym>sum</etym>; <ab>Lith.</ab> <etym>nèszti< /etym>; <ab>Slav.</ab> <etym>nesti</etym>; <ab>Goth.</ab> <etym>ganôhs< /etym>; <ab>Germ.</ab> <etym>genug</etym>; <ab>Angl.Sax.</ab> <etym>genôh< /etym>; <ab>Eng.</ab> <etym>enough</etym>.]
+;
+352672 old <s>naMS</s> ¦ [<ab>cf.</ab> <hom>1.</hom> <s>aS</s> and <s>nakz</s>; <ab>Lat.</ab> <etym>nac-tus</etym> <etym>sum</etym>; <ab>Lith.</ab> <etym>nèszti</etym>; <ab>Slav.</ab> <etym>nesti</etym>; <ab>Goth.</ab> <etym>ganôhs</etym>; <ab>Germ.</ab> <etym>genug</etym>; <ab>Angl.Sax.</ab> <etym>genôh</etym>; <ab>Eng.</ab> <etym>enough</etym>.]
+;
+;   <etym>nac-tus</etym> <etym>sum</etym>  =>  <etym>nac-tus sum</etym> 
+;
+352672 new <s>naMS</s> ¦ [<ab>cf.</ab> <hom>1.</hom> <s>aS</s> and <s>nakz</s>; <ab>Lat.</ab> <etym>nac-tus sum</etym>; <ab>Lith.</ab> <etym>nèszti</etym>; <ab>Slav.</ab> <etym>nesti</etym>; <ab>Goth.</ab> <etym>ganôhs</etym>; <ab>Germ.</ab> <etym>genug</etym>; <ab>Angl.Sax.</ab> <etym>genôh</etym>; <ab>Eng.</ab> <etym>enough</etym>.]
+;
+; ------------------------------------------------------
+; <L>151456.1<pc>760,2<k1>BU
+509247 old <s>BU</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>bū</etym>; <ab>Gk.</ab> <lang n="greek">ϕύω</lang>, <lang n="greek">ἔϕυν</lang>; <ab>Lat.</ab> <etym>fuit</etym>, <etym>fuat</etym> &c.; <ab>Slav.</ab> <etym>byti</etym>; <ab>Lith.</ab> <etym>búti</etym>; <ab>Germ.</ab> <etym>bim</etym>, <etym>bim</etym>; <ab>Angl.Sax.</ab> <etym>beó</etym>; <ab>Eng.</ab> <etym>be</etym>.]
+;
+;   <etym>bim</etym>, <etym>bim</etym>  =>  <etym>bim</etym>, <etym>bin</etym> 
+;
+509247 new <s>BU</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>bū</etym>; <ab>Gk.</ab> <lang n="greek">ϕύω</lang>, <lang n="greek">ἔϕυν</lang>; <ab>Lat.</ab> <etym>fuit</etym>, <etym>fuat</etym> &c.; <ab>Slav.</ab> <etym>byti</etym>; <ab>Lith.</ab> <etym>búti</etym>; <ab>Germ.</ab> <etym>bim</etym>, <etym>bin</etym>; <ab>Angl.Sax.</ab> <etym>beó</etym>; <ab>Eng.</ab> <etym>be</etym>.]
+;
+; ------------------------------------------------------
+; <L>164569<pc>818,2<k1>misara
+552173 old <s>misara</s> ¦ <lex>m.</lex> or <lex type="hw">n.</lex> (perhaps = <lang script="Arabic" n="Arabic">مصر</lang> <s1 slp1="misr">Misr</s1>, Egypt?) <ab>N.</ab> of a place, <ls>Cat.</ls> (<ab>cf.</ab> <s>miSara</s>.)<info lex="m:n"/>
+;
+;   <s1 slp1="misr">Misr</s1>  =>  <ns>Misr</ns> ;; Arabic word <ar>مصر</ar> in Roman letters
+;
+552173 new <s>misara</s> ¦ <lex>m.</lex> or <lex type="hw">n.</lex> (perhaps = <lang script="Arabic" n="Arabic">مصر</lang> <ns>Misr</ns>, Egypt?) <ab>N.</ab> of a place, <ls>Cat.</ls> (<ab>cf.</ab> <s>miSara</s>.)<info lex="m:n"/>
+;
+; ------------------------------------------------------
+; <L>174723.1<pc>866,1<k1>raTezWa
+585580 old <s>raTezWa</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>rathaestā</etym>.]
+;
+;   <etym>rathaestā</etym>  =>  <etym>rathæstā</etym>      ;; two lines
+;
+585580 new <s>raTezWa</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>rathæstā</etym>.]
+;
+; ------------------------------------------------------
+; <L>174724.1<pc>866,1<k1>raTezWA
+585586 old <s>raTezWA</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>rathaestā</etym>.]
+;
+;   <etym>rathaestā</etym>  =>  <etym>rathæstā</etym>      ;; two lines
+;
+585586 new <s>raTezWA</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>rathæstā</etym>.]
+;
+; ------------------------------------------------------
+; <L>264653.1<pc>1306,3<k1>hyas
+879675 old <s>hyas</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">χθές</lang>; <ab>Lat.</ab> <etym>hesternus</etym>, <etym>heri</etym>; <ab>Goth.</ab> <etym>gistra</etym> (<etym>-dagis</etym>); <ab>Germ.</ab> <etym>gëstaron</etym>, <etym>gestern</etym>; <ab>Angl.Sax.</ab> <etym>geostra</etym>; <ab>Eng.</ab> <etym>yester</etym> (<etym>-day</etym>).]
+;
+;   <etym>gistra</etym> (<etym>-dagis</etym>)  =>  <etym>gistra(-dagis)</etym> 
+;   <etym>yester</etym> (<etym>-day</etym>)  =>  <etym>yester(-day)</etym> 
+;
+879675 new <s>hyas</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">χθές</lang>; <ab>Lat.</ab> <etym>hesternus</etym>, <etym>heri</etym>; <ab>Goth.</ab> <etym>gistra(-dagis)</etym>; <ab>Germ.</ab> <etym>gëstaron</etym>, <etym>gestern</etym>; <ab>Angl.Sax.</ab> <etym>geostra</etym>; <ab>Eng.</ab> <etym>yester(-day)</etym>.]
+;
+; *****************************************************
+; temp_change_8_untag.txt * untag (7) Un-tagged items
+; *****************************************************
+; ------------------------------------------------------
+; <L>85941<pc>450,3<k1>tumula
+290076 old <s>tumula</s> ¦ <lex>n.</lex> (<ab>Lat.</ab>) tumultus, tumult, clatter, confusion, <ls>MBh.</ls> (once <lex type="hwalt">m.</lex>, <ls n="MBh.">vii, 154, 21</ls>) &c.<info lex="m:n"/>
+;
+;   (<ab>Lat.</ab>) tumultus  =>  (<ab>Lat.</ab>) <etym>tumultus</etym>  ;; a Latin cognate (line 290076)
+;
+290076 new <s>tumula</s> ¦ <lex>n.</lex> (<ab>Lat.</ab>) <etym>tumultus</etym>, tumult, clatter, confusion, <ls>MBh.</ls> (once <lex type="hwalt">m.</lex>, <ls n="MBh.">vii, 154, 21</ls>) &c.<info lex="m:n"/>
+;
+; ------------------------------------------------------
+; <L>105836.1<pc>536,2<k1>nAman
+356257 old <s>nAman</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>nāman</etym>; <ab>Gk.</ab> <lang n="greek">ὄ-νομα</lang>; <ab>Lat.</ab> <etym>nōmen</etym>; <ab>Goth.</ab> <etym>namō</etym>; <ab>Germ.</ab> <etym>namo</etym> &c.; <ab>Eng.</ab> name.]
+;
+;   <ab>Eng.</ab> name  =>  <ab>Eng.</ab> <etym>name</etym> 
+;
+356257 new <s>nAman</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>nāman</etym>; <ab>Gk.</ab> <lang n="greek">ὄ-νομα</lang>; <ab>Lat.</ab> <etym>nōmen</etym>; <ab>Goth.</ab> <etym>namō</etym>; <ab>Germ.</ab> <etym>namo</etym> &c.; <ab>Eng.</ab> <etym>name</etym>.]
+;
+; ------------------------------------------------------
+; <L>141462.1<pc>715,1<k1>plIhan
+476367 old <s>plIhan</s> ¦ [<ab>Orig.</ab> <s>splIhan</s>; <ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">σπλήν</lang>, <lang n="greek">σπλάγχνον</lang>; <ab>Lat.</ab> <etym>lien</etym> for <etym>splihen</etym>; <ab>Slav.</ab> <etym>slezena</etym> for <etym>splezena</etym>; <ab>Eng.</ab> spleen.]
+;
+;   <ab>Eng.</ab> spleen  =>  <ab>Eng.</ab> <etym>spleen</etym> ;; the English cognate (line 476367), not a meaning.
+;
+476367 new <s>plIhan</s> ¦ [<ab>Orig.</ab> <s>splIhan</s>; <ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">σπλήν</lang>, <lang n="greek">σπλάγχνον</lang>; <ab>Lat.</ab> <etym>lien</etym> for <etym>splihen</etym>; <ab>Slav.</ab> <etym>slezena</etym> for <etym>splezena</etym>; <ab>Eng.</ab> <etym>spleen</etym>.]
+;
+; ------------------------------------------------------
+; <L>185410.55<pc>915,3<k1>vatsa
+620091 old <s>vatsa</s> ¦ [<ab>cf.</ab> <s>vatsara</s> and <lang n="greek">ἔτος</lang> for <lang n="greek">ϝέτος</lang>; <ab>Lat.</ab> vetus, <etym>vetus-tus</etym>, <etym>vitulus</etym>; <ab>Germ.</ab> <etym>widar</etym>, <etym>Widder</etym>; <ab>Eng.</ab> <etym>wether</etym>.]
+;
+;   <ab>Lat.</ab> vetus  =>  <ab>Lat.</ab> <etym>vetus</etym> ;; a Latin cognate (line 620091), not a meaning
+;
+620091 new <s>vatsa</s> ¦ [<ab>cf.</ab> <s>vatsara</s> and <lang n="greek">ἔτος</lang> for <lang n="greek">ϝέτος</lang>; <ab>Lat.</ab> <etym>vetus</etym>, <etym>vetus-tus</etym>, <etym>vitulus</etym>; <ab>Germ.</ab> <etym>widar</etym>, <etym>Widder</etym>; <ab>Eng.</ab> <etym>wether</etym>.]
+;
+; ------------------------------------------------------
+; <L>211201<pc>1045,3<k1>Saka
+704995 old they are sometimes regarded as the followers of <s1 slp1="Saka">Śaka</s1> or <s1 slp1="SAli-vAhana">Śāli-vāhana</s1>, and are probably to be identified with the Tartars or Indo-Scythians [<ab>Lat.</ab> Sacae] who overran India before the <ns>Āryans</ns>, and were conquered by the great <s1 slp1="vikramAditya">Vikramāditya</s1> [<ab>q.v.</ab>];
+;
+;   Sacae  =>  <etym>Sacæ</etym> 
+;
+704995 new they are sometimes regarded as the followers of <s1 slp1="Saka">Śaka</s1> or <s1 slp1="SAli-vAhana">Śāli-vāhana</s1>, and are probably to be identified with the Tartars or Indo-Scythians [<ab>Lat.</ab> <etym>Sacæ</etym>] who overran India before the <ns>Āryans</ns>, and were conquered by the great <s1 slp1="vikramAditya">Vikramāditya</s1> [<ab>q.v.</ab>];
+;
+; ------------------------------------------------------
+; <L>222321<pc>1095,3<k1>Srat
+740191 old <s>Sra/t</s> or <s>Sra/d</s> ¦ <lex>ind.</lex> (<ab>accord.</ab> to <ls>Naigh. iii, 10</ls> = <s>satya</s>, ‘truth, faithfulness’; <ab>prob.</ab> allied to <ab>Lat.</ab> credo for cred-do; cor, cord-is; <ab>Gk.</ab> <lang n="greek">καρδία</lang>, <lang n="greek">κραδίη</lang>, <ab>Eng.</ab> ‘heart’; only in <ab>comp.</ab> with √ <s>kf</s> and <s>dAna</s> and √ <s>DA</s> and its derivations See below). <info or="222321,Srat;222321.1,Srad"/><info lex="ind"/>
+;
+;   credo for cred-do; cor, cord-is  =>  <etym>credo</etym> for <etym>cred-do</etym>; <etym>cor</etym>, <etym>cord-is</etym> 
+;
+740191 new <s>Sra/t</s> or <s>Sra/d</s> ¦ <lex>ind.</lex> (<ab>accord.</ab> to <ls>Naigh. iii, 10</ls> = <s>satya</s>, ‘truth, faithfulness’; <ab>prob.</ab> allied to <ab>Lat.</ab> <etym>credo</etym> for <etym>cred-do</etym>; <etym>cor</etym>, <etym>cord-is</etym>; <ab>Gk.</ab> <lang n="greek">καρδία</lang>, <lang n="greek">κραδίη</lang>, <ab>Eng.</ab> ‘heart’; only in <ab>comp.</ab> with √ <s>kf</s> and <s>dAna</s> and √ <s>DA</s> and its derivations See below). <info or="222321,Srat;222321.1,Srad"/><info lex="ind"/>
+;
+; ------------------------------------------------------
+; <L>222321.1<pc>1095,3<k1>Srad
+740194 old <s>Sra/t</s> or <s>Sra/d</s> ¦ <lex>ind.</lex> (<ab>accord.</ab> to <ls>Naigh. iii, 10</ls> = <s>satya</s>, ‘truth, faithfulness’; <ab>prob.</ab> allied to <ab>Lat.</ab> credo for cred-do; cor, cord-is; <ab>Gk.</ab> <lang n="greek">καρδία</lang>, <lang n="greek">κραδίη</lang>, <ab>Eng.</ab> ‘heart’; only in <ab>comp.</ab> with √ <s>kf</s> and <s>dAna</s> and √ <s>DA</s> and its derivations See below). <info or="222321,Srat;222321.1,Srad"/><info lex="ind"/>
+;
+;   credo for cred-do; cor, cord-is  =>  <etym>credo</etym> for <etym>cred-do</etym>; <etym>cor</etym>, <etym>cord-is</etym> 
+;
+740194 new <s>Sra/t</s> or <s>Sra/d</s> ¦ <lex>ind.</lex> (<ab>accord.</ab> to <ls>Naigh. iii, 10</ls> = <s>satya</s>, ‘truth, faithfulness’; <ab>prob.</ab> allied to <ab>Lat.</ab> <etym>credo</etym> for <etym>cred-do</etym>; <etym>cor</etym>, <etym>cord-is</etym>; <ab>Gk.</ab> <lang n="greek">καρδία</lang>, <lang n="greek">κραδίη</lang>, <ab>Eng.</ab> ‘heart’; only in <ab>comp.</ab> with √ <s>kf</s> and <s>dAna</s> and √ <s>DA</s> and its derivations See below). <info or="222321,Srat;222321.1,Srad"/><info lex="ind"/>
+;
+; ------------------------------------------------------
+; <L>252079<pc>1246,1<k1>sekanDara
+839002 old <s>sekanDara</s> ¦ <lex>m.</lex> = <lang script="Arabic" n="Arabic">اسكندر</lang>, Iskandar (Alexander), <ls>Cat.</ls><info lex="m"/>
+;
+;   Iskandar  =>  <etym>Iskandar</etym> ;; the Arabic word in Roman letters
+;
+839002 new <s>sekanDara</s> ¦ <lex>m.</lex> = <lang script="Arabic" n="Arabic">اسكندر</lang>, <etym>Iskandar</etym> (Alexander), <ls>Cat.</ls><info lex="m"/>
+;
+; *****************************************************
+; temp_change_8_diac.txt * diac (60) Diacritic separately marked
+; *****************************************************
+; ------------------------------------------------------
+; <L>28539.1<pc>163,3<k1>i
+101564 old <s>i</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">εἶ-μι</lang>, <lang n="greek">ἴ-μεν</lang>; <ab>Lat.</ab> <etym>e-o</etym>, <etym>ī-mus</etym>, <etym>i-ter</etym>, &c.; <ab>Lith.</ab> <etym>ei-mì</etym>, ‘I go’; <ab>Slav.</ab> <etym>i-dû</etym>, ‘I go’, <etym>i-ti</etym>, ‘to go’; <ab>Goth.</ab> <etym>i-ddja</etym>, ‘I went’.]
+;
+;   >i-dû<  =>  >i-dû< 
+;
+101564 new <s>i</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">εἶ-μι</lang>, <lang n="greek">ἴ-μεν</lang>; <ab>Lat.</ab> <etym>e-o</etym>, <etym>ī-mus</etym>, <etym>i-ter</etym>, &c.; <ab>Lith.</ab> <etym>ei-mì</etym>, ‘I go’; <ab>Slav.</ab> <etym>i-dû</etym>, ‘I go’, <etym>i-ti</etym>, ‘to go’; <ab>Goth.</ab> <etym>i-ddja</etym>, ‘I went’.]
+;
+; ------------------------------------------------------
+; <L>92472.1<pc>479,3<k1>diS
+311941 old <s>diS</s> ¦ [<ab>cf.</ab> <ab>Z.</ab> <etym>dis</etym>; <ab>Gk.</ab> <lang n="greek">δείκνυμι</lang>; <ab>Lat.</ab> <etym>dīco</etym>, <etym>in-dĭcare</etym> &c.; <ab>Goth.</ab> <etym>teihan</etym>; <ab>O.E.</ab> <etym>téon</etym> (<ab>fr.</ab> <etym>tíhan</etym>).]
+;
+;   >téon<  =>  >téon< 
+;   >tíhan<  =>  >tíhan< 
+;
+311941 new <s>diS</s> ¦ [<ab>cf.</ab> <ab>Z.</ab> <etym>dis</etym>; <ab>Gk.</ab> <lang n="greek">δείκνυμι</lang>; <ab>Lat.</ab> <etym>dīco</etym>, <etym>in-dĭcare</etym> &c.; <ab>Goth.</ab> <etym>teihan</etym>; <ab>O.E.</ab> <etym>téon</etym> (<ab>fr.</ab> <etym>tíhan</etym>).]
+;
+; ------------------------------------------------------
+; <L>100607.1<pc>513,3<k1>DA
+338649 old <s>DA</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>dā</etym>, <etym>dadaiti</etym>; <ab>Gk.</ab> <lang n="greek">θε-</lang>, <lang n="greek">θη-</lang>, <lang n="greek">τίθημι</lang>; <ab>Lith.</ab> <etym>dedù</etym>, <etym>dë́ti</etym>; <ab>Slav.</ab> <etym>dedją</etym>, <etym>děti</etym>; <ab>Old Sax.</ab> <etym>duan</etym>, <etym>dôn</etym>, <ab>Angl.Sax.</ab> <etym>dôn</etym>, <ab>Engl.</ab> <etym>to do</etym>; <ab>Germ.</ab> <etym>tuan</etym>; <etym>tuon</etym>, <etym>thun</etym>.]
+;
+;   >dôn<  =>  >dôn< 
+;
+338649 new <s>DA</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>dā</etym>, <etym>dadaiti</etym>; <ab>Gk.</ab> <lang n="greek">θε-</lang>, <lang n="greek">θη-</lang>, <lang n="greek">τίθημι</lang>; <ab>Lith.</ab> <etym>dedù</etym>, <etym>dë́ti</etym>; <ab>Slav.</ab> <etym>dedją</etym>, <etym>děti</etym>; <ab>Old Sax.</ab> <etym>duan</etym>, <etym>dôn</etym>, <ab>Angl.Sax.</ab> <etym>dôn</etym>, <ab>Engl.</ab> <etym>to do</etym>; <ab>Germ.</ab> <etym>tuan</etym>; <etym>tuon</etym>, <etym>thun</etym>.]
+;
+; ------------------------------------------------------
+; <L>102941.1<pc>524,3<k1>naKa
+346611 old <s>naKa</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὄνυξ</lang>, stem <lang n="greek">ὀ-νυχ</lang>; <ab>Lat.</ab> <etym>unguis</etym>; <ab>Lit.</ab> <etym>nágas</etym>; <ab>Slav.</ab> <etym>nogǔtǐ</etym>; <ab>Angl.Sax.</ab> <etym>naegel</etym>; <ab>Eng.</ab> <etym>nail</etym>; <ab>Germ.</ab> <etym>Nagel</etym>.]
+;
+;   >nágas<  =>  >nágas< 
+;
+346611 new <s>naKa</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὄνυξ</lang>, stem <lang n="greek">ὀ-νυχ</lang>; <ab>Lat.</ab> <etym>unguis</etym>; <ab>Lit.</ab> <etym>nágas</etym>; <ab>Slav.</ab> <etym>nogǔtǐ</etym>; <ab>Angl.Sax.</ab> <etym>naegel</etym>; <ab>Eng.</ab> <etym>nail</etym>; <ab>Germ.</ab> <etym>Nagel</etym>.]
+;
+; ------------------------------------------------------
+; <L>104483.55<pc>530,3<k1>nava
+351624 old <s>nava</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>nava</etym>; <ab>Gk.</ab> <lang n="greek">νέος</lang> for <lang n="greek">νέϝος</lang>; <ab>Lat.</ab> <etym>novus</etym>; <ab>Lith.</ab> <etym>naújas</etym>; <ab>Slav.</ab> <etym>nǒvǔ</etym>; <ab>Goth.</ab> <etym>niujis</etym>; <ab>Angl.Sax.</ab> <etym>nîwe</etym>; <ab>HGerm.</ab> <etym>niuwi</etym>; <etym>niuwe</etym>, <etym>neu</etym>; <ab>Eng.</ab> <etym>new</etym>.]
+;
+;   >naújas<  =>  >naújas< 
+;   >nîwe<  =>  >nîwe< 
+;
+351624 new <s>nava</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>nava</etym>; <ab>Gk.</ab> <lang n="greek">νέος</lang> for <lang n="greek">νέϝος</lang>; <ab>Lat.</ab> <etym>novus</etym>; <ab>Lith.</ab> <etym>naújas</etym>; <ab>Slav.</ab> <etym>nǒvǔ</etym>; <ab>Goth.</ab> <etym>niujis</etym>; <ab>Angl.Sax.</ab> <etym>nîwe</etym>; <ab>HGerm.</ab> <etym>niuwi</etym>; <etym>niuwe</etym>, <etym>neu</etym>; <ab>Eng.</ab> <etym>new</etym>.]
+;
+; ------------------------------------------------------
+; <L>104829.1<pc>532,2<k1>nas
+;352922 old <s>nas</s> ¦ [<ab>cf.</ab> <s>nAsA</s>, <s>nAsikA</s>; <ab>Lat.</ab> <etym>nas-turcium</etym>, <etym>nāres</etym>; <ab>Lith.</ab> <etym>nósis</etym>; <ab>Slav.</ab> <etym>nosǔ</etym>; <ab>Germ.</ab> <etym>Nase</etym>; <ab>Angl.Sax.</ab> <etym>nosu</etym>; <ab>Eng.</ab> <etym>nose</etym>, <etym>nostril</etym> = <etym>nose-thrill</etym>, <etymnose-hole /etym>.]
+;
+352922 old <s>nas</s> ¦ [<ab>cf.</ab> <s>nAsA</s>, <s>nAsikA</s>; <ab>Lat.</ab> <etym>nas-turcium</etym>, <etym>nāres</etym>; <ab>Lith.</ab> <etym>nósis</etym>; <ab>Slav.</ab> <etym>nosǔ</etym>; <ab>Germ.</ab> <etym>Nase</etym>; <ab>Angl.Sax.</ab> <etym>nosu</etym>; <ab>Eng.</ab> <etym>nose</etym>, <etym>nostril</etym> = <etym>nose-thrill</etym>, <etym>nose-hole</etym>.]
+;
+;   >nósis<  =>  >nósis< 
+;
+352922 new <s>nas</s> ¦ [<ab>cf.</ab> <s>nAsA</s>, <s>nAsikA</s>; <ab>Lat.</ab> <etym>nas-turcium</etym>, <etym>nāres</etym>; <ab>Lith.</ab> <etym>nósis</etym>; <ab>Slav.</ab> <etym>nosǔ</etym>; <ab>Germ.</ab> <etym>Nase</etym>; <ab>Angl.Sax.</ab> <etym>nosu</etym>; <ab>Eng.</ab> <etym>nose</etym>, <etym>nostril</etym> = <etym>nose-thrill</etym>, <etym>nose-hole</etym>.]
+;
+; ------------------------------------------------------
+; <L>114152.1<pc>578,2<k1>paYcaTa
+385193 old <s>paYcaTa</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>pukhdha</etym>; <ab>Gk.</ab> <lang n="greek">πέμπτος</lang>; <ab>Lat.</ab> <etym>quinctus</etym>, <etym>quintus</etym> for <etym>pinctus</etym>; <ab>Lith.</ab> <etym>pénktas</etym>; <ab>Goth.</ab> <etym>fimfta</etym>; <ab>Germ.</ab> <etym>fünfte</etym>; <ab>Angl.Sax.</ab> <etym>fīfta</etym>; <ab>Eng.</ab> <etym>fifth</etym>.]
+;
+;   >pénktas<  =>  >pénktas< 
+;
+385193 new <s>paYcaTa</s> ¦ [<ab>cf.</ab> <ab>Zd.</ab> <etym>pukhdha</etym>; <ab>Gk.</ab> <lang n="greek">πέμπτος</lang>; <ab>Lat.</ab> <etym>quinctus</etym>, <etym>quintus</etym> for <etym>pinctus</etym>; <ab>Lith.</ab> <etym>pénktas</etym>; <ab>Goth.</ab> <etym>fimfta</etym>; <ab>Germ.</ab> <etym>fünfte</etym>; <ab>Angl.Sax.</ab> <etym>fīfta</etym>; <ab>Eng.</ab> <etym>fifth</etym>.]
+;
+; ------------------------------------------------------
+; <L>119423.1<pc>606,1<k1>parut
+403291 old <s>parut</s> ¦ [<ab>cf.</ab> <s>parAri</s>; <ab>Gk.</ab> <lang n="greek">πέρυτι</lang>, <lang n="greek">πέρυσι</lang>; <ab>Lith.</ab> <etym>pérnay</etym>; <ab>Goth.</ab> <etym>faírneis</etym>; <ab>Angl.Sax.</ab> <etym>fyrn</etym>; <ab>HGerm.</ab> <etym>vërt</etym>, <etym>vërne</etym>.]
+;
+;   >faírneis<  =>  >faírneis< 
+;   >pérnay<  =>  >pérnay< 
+;
+403291 new <s>parut</s> ¦ [<ab>cf.</ab> <s>parAri</s>; <ab>Gk.</ab> <lang n="greek">πέρυτι</lang>, <lang n="greek">πέρυσι</lang>; <ab>Lith.</ab> <etym>pérnay</etym>; <ab>Goth.</ab> <etym>faírneis</etym>; <ab>Angl.Sax.</ab> <etym>fyrn</etym>; <ab>HGerm.</ab> <etym>vërt</etym>, <etym>vërne</etym>.]
+;
+; ------------------------------------------------------
+; <L>119458.55<pc>606,2<k1>parjanya
+403414 old <s>parjanya</s> ¦ [<ab>cf.</ab> <ab>Goth.</ab> <etym>fairguni</etym>; <ab>Icel.</ab> <etym>fiörgyn</etym>; <ab>Lith.</ab> <etym>perkúnas</etym>.]
+;
+;   >perkúnas<  =>  >perkúnas< 
+;
+403414 new <s>parjanya</s> ¦ [<ab>cf.</ab> <ab>Goth.</ab> <etym>fairguni</etym>; <ab>Icel.</ab> <etym>fiörgyn</etym>; <ab>Lith.</ab> <etym>perkúnas</etym>.]
+;
+; ------------------------------------------------------
+; <L>124422.1<pc>628,1<k1>piS
+419440 old <s>piS</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ποικίλος</lang>; <ab>Slav.</ab> <etym>pišati</etym>; <ab>Angl.Sax.</ab> <etym>fâh</etym>.]
+;
+;   >fâh<  =>  >fâh< 
+;
+419440 new <s>piS</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ποικίλος</lang>; <ab>Slav.</ab> <etym>pišati</etym>; <ab>Angl.Sax.</ab> <etym>fâh</etym>.]
+;
+; ------------------------------------------------------
+; <L>152459.1<pc>764,2<k1>BUrja
+512466 old <s>BUrja</s> ¦ [<ab>cf.</ab> <ab>Slav.</ab> <etym>brěza</etym>; <ab>Lith.</ab> <etym>bérżas</etym>; <ab>Germ.</ab> <etym>bircha</etym>, <etym>Birke</etym>; <ab>Eng.</ab> <etym>birch</etym>.]
+;
+;   >bérżas<  =>  >bérżas< 
+;
+512466 new <s>BUrja</s> ¦ [<ab>cf.</ab> <ab>Slav.</ab> <etym>brěza</etym>; <ab>Lith.</ab> <etym>bérżas</etym>; <ab>Germ.</ab> <etym>bircha</etym>, <etym>Birke</etym>; <ab>Eng.</ab> <etym>birch</etym>.]
+;
+; ------------------------------------------------------
+; <L>158647.1<pc>792,1<k1>mala
+532562 old <s>mala</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">μέλας</lang>; <ab>Lat.</ab> <etym>mǎlus</etym>; <ab>Lith.</ab> <etym>mólis</etym>, <etym>mélynas</etym>.]
+;
+;   >mélynas<  =>  >mélynas< 
+;   >mólis<  =>  >mólis< 
+;
+532562 new <s>mala</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">μέλας</lang>; <ab>Lat.</ab> <etym>mǎlus</etym>; <ab>Lith.</ab> <etym>mólis</etym>, <etym>mélynas</etym>.]
+;
+; ------------------------------------------------------
+; <L>163895.55<pc>814,3<k1>mAs
+549910 old <s>mAs</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">μήν</lang>, <lang n="greek">μήνη</lang>; <ab>Lat.</ab> <etym>Mēna</etym>, <etym>mensis</etym>; <ab>Slav.</ab> <etym>měsecǐ</etym>; <ab>Lith.</ab> <etym>mėnů</etym>, <etym>mėnesis</etym>; <ab>Goth.</ab>, <etym>mêna</etym>; <ab>Germ.</ab> <etym>mâno</etym>, <etym>mâne</etym>, <etym>Mond</etym>; <ab>Angl.Sax.</ab> <etym>môna</etym>; <ab>Eng.</ab> <etym>moon</etym> 1.]
+;
+;   >mâne<  =>  >mâne< 
+;   >mâno<  =>  >mâno< 
+;   >mêna<  =>  >mêna< 
+;   >môna<  =>  >môna< 
+;
+549910 new <s>mAs</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">μήν</lang>, <lang n="greek">μήνη</lang>; <ab>Lat.</ab> <etym>Mēna</etym>, <etym>mensis</etym>; <ab>Slav.</ab> <etym>měsecǐ</etym>; <ab>Lith.</ab> <etym>mėnů</etym>, <etym>mėnesis</etym>; <ab>Goth.</ab>, <etym>mêna</etym>; <ab>Germ.</ab> <etym>mâno</etym>, <etym>mâne</etym>, <etym>Mond</etym>; <ab>Angl.Sax.</ab> <etym>môna</etym>; <ab>Eng.</ab> <etym>moon</etym> 1.]
+;
+; ------------------------------------------------------
+; <L>164576.1<pc>818,2<k1>mih
+552206 old <s>mih</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὀμιχεῖν</lang>, <ab>Lat.</ab> <etym>mingere</etym>, <etym>mejere</etym>; <ab>Slav.</ab> <etym>migla</etym>; <ab>Lith.</ab> <etym>mė́żti</etym>, <ab>Angl.Sax.</ab> <etym>mîgan</etym>; <ab>Germ.</ab> <etym>Mist</etym>.]
+;
+;   >mė́żti<  =>  >mė́żti< 
+;
+552206 new <s>mih</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὀμιχεῖν</lang>, <ab>Lat.</ab> <etym>mingere</etym>, <etym>mejere</etym>; <ab>Slav.</ab> <etym>migla</etym>; <ab>Lith.</ab> <etym>mė́żti</etym>, <ab>Angl.Sax.</ab> <etym>mîgan</etym>; <ab>Germ.</ab> <etym>Mist</etym>.]
+;
+; ------------------------------------------------------
+; <L>166550.1<pc>827,1<k1>mUz
+558569 old <s>mUz</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">μῦς</lang>; <ab>Lat.</ab> <etym>mus</etym>; <ab>Germ.</ab> <etym>myšǐ</etym> <ab>Germ.</ab> <etym>mûs</etym>, <etym>Maus</etym>; <ab>Eng.</ab> <etym>mouse</etym>.]
+;
+;   >mûs<  =>  >mûs< 
+;
+558569 new <s>mUz</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">μῦς</lang>; <ab>Lat.</ab> <etym>mus</etym>; <ab>Germ.</ab> <etym>myšǐ</etym> <ab>Germ.</ab> <etym>mûs</etym>, <etym>Maus</etym>; <ab>Eng.</ab> <etym>mouse</etym>.]
+;
+; ------------------------------------------------------
+; <L>172164.1<pc>855,2<k1>yuvan
+577325 old <s>yuvan</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>juvenis</etym>, <etym>juventa</etym>; <ab>Slav.</ab> <etym>junǔ</etym>; <ab>Lith.</ab> <etym>jáunas</etym>; <ab>Goth.</ab> <etym>juggs</etym> <pb n="855,3"/>; <ab>Germ.</ab> <etym>junc</etym>, <etym>jung</etym>; <ab>Angl.Sax.</ab> <etym>geong</etym>; <ab>Eng.</ab> <etym>young</etym>.]
+;
+;   >jáunas<  =>  >jáunas< 
+;
+577325 new <s>yuvan</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>juvenis</etym>, <etym>juventa</etym>; <ab>Slav.</ab> <etym>junǔ</etym>; <ab>Lith.</ab> <etym>jáunas</etym>; <ab>Goth.</ab> <etym>juggs</etym> <pb n="855,3"/>; <ab>Germ.</ab> <etym>junc</etym>, <etym>jung</etym>; <ab>Angl.Sax.</ab> <etym>geong</etym>; <ab>Eng.</ab> <etym>young</etym>.]
+;
+; ------------------------------------------------------
+; <L>175239.1<pc>868,2<k1>ramb
+587260 old <s>ramb</s> ¦ [<ab>cf.</ab> <ab>Lith.</ab> <etym>rambùs</etym>, <etym>rambókas</etym>.]
+;
+;   >rambókas<  =>  >rambókas< 
+;
+587260 new <s>ramb</s> ¦ [<ab>cf.</ab> <ab>Lith.</ab> <etym>rambùs</etym>, <etym>rambókas</etym>.]
+;
+; ------------------------------------------------------
+; <L>178506.1<pc>883,1<k1>rud
+598010 old <s>rud</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>rudere</etym>; <ab>Lith.</ab> <etym>rùdis</etym>, <etym>raudà</etym>, <etym>raudóti</etym>; <ab>Angl.Sax.</ab> <etym>reótan</etym>.]
+;
+;   >raudóti<  =>  >raudóti< 
+;   >reótan<  =>  >reótan< 
+;
+598010 new <s>rud</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>rudere</etym>; <ab>Lith.</ab> <etym>rùdis</etym>, <etym>raudà</etym>, <etym>raudóti</etym>; <ab>Angl.Sax.</ab> <etym>reótan</etym>.]
+;
+; ------------------------------------------------------
+; <L>178829.1<pc>884,3<k1>ruDira
+599090 old <s>ruDira</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἐρυθρός</lang>, <lang n="greek">ἔρευθος</lang>; <ab>Lat.</ab> <etym>ruber</etym>, <etym>rubeo</etym>, <etym>rufus</etym>; <ab>Lith.</ab> <etym>rùdas</etym>, <etym>raúdas</etym>, <etym>raudónas</etym>; <ab>Slav.</ab> <etym>rǔdrǔ</etym>, <etym>rǔděti</etym>; <ab>Goth.</ab> <etym>rauths</etym>; <ab>Angl.Sax.</ab> <etym>reád</etym>; <ab>Eng.</ab> <etym>red</etym>; <ab>Germ.</ab> <etym>rôt</etym>, <etym>rot</etym>.]
+;
+;   >raudónas<  =>  >raudónas< 
+;   >raúdas<  =>  >raúdas< 
+;   >reád<  =>  >reád< 
+;   >rôt<  =>  >rôt< 
+;
+599090 new <s>ruDira</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἐρυθρός</lang>, <lang n="greek">ἔρευθος</lang>; <ab>Lat.</ab> <etym>ruber</etym>, <etym>rubeo</etym>, <etym>rufus</etym>; <ab>Lith.</ab> <etym>rùdas</etym>, <etym>raúdas</etym>, <etym>raudónas</etym>; <ab>Slav.</ab> <etym>rǔdrǔ</etym>, <etym>rǔděti</etym>; <ab>Goth.</ab> <etym>rauths</etym>; <ab>Angl.Sax.</ab> <etym>reád</etym>; <ab>Eng.</ab> <etym>red</etym>; <ab>Germ.</ab> <etym>rôt</etym>, <etym>rot</etym>.]
+;
+; ------------------------------------------------------
+; <L>179533.1<pc>888,1<k1>rE
+601303 old <s>rE</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>latrare</etym>; <ab>Lith.</ab> <etym>rė́ti</etym>, <etym>lóti</etym>; <ab>Slav.</ab> <etym>lajati</etym>; <ab>Goth.</ab> <etym>laian</etym>.]
+;
+;   >lóti<  =>  >lóti< 
+;
+601303 new <s>rE</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>latrare</etym>; <ab>Lith.</ab> <etym>rė́ti</etym>, <etym>lóti</etym>; <ab>Slav.</ab> <etym>lajati</etym>; <ab>Goth.</ab> <etym>laian</etym>.]
+;
+; ------------------------------------------------------
+; <L>179993.1<pc>890,1<k1>romanTa
+602705 old <s>romanTa</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἐρεύγειν</lang>, <lang n="greek">ἐρυγή</lang>; <ab>Lat.</ab> <etym>e-rugere</etym>, <etym>ructare</etym>, <etym>ruminare</etym>, <ab>fr.</ab> <etym>rugminare</etym>; <ab>Slav.</ab> <etym>rygati</etym>; <ab>Lith.</ab> <etym>atrúgas</etym>; <ab>Germ.</ab> <etym>itarucchen</etym>, <etym>itrücken</etym>; <ab>Angl.Sax.</ab> <etym>roccettan</etym>, <etym>edroccian</etym>.]
+;
+;   >atrúgas<  =>  >atrúgas< 
+;
+602705 new <s>romanTa</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἐρεύγειν</lang>, <lang n="greek">ἐρυγή</lang>; <ab>Lat.</ab> <etym>e-rugere</etym>, <etym>ructare</etym>, <etym>ruminare</etym>, <ab>fr.</ab> <etym>rugminare</etym>; <ab>Slav.</ab> <etym>rygati</etym>; <ab>Lith.</ab> <etym>atrúgas</etym>; <ab>Germ.</ab> <etym>itarucchen</etym>, <etym>itrücken</etym>; <ab>Angl.Sax.</ab> <etym>roccettan</etym>, <etym>edroccian</etym>.]
+;
+; ------------------------------------------------------
+; <L>182726.1<pc>903,1<k1>lih
+611421 old <s>lih</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">λείχω</lang>; <ab>Lat.</ab> <etym>lingo</etym>; <ab>Slav.</ab> <etym>ližati</etym>; <ab>Lith.</ab> <etym>lë́żti</etym>; <ab>Germ.</ab> <etym>lëcchôn</etym>, <etym>lecken</etym>; <ab>Angl.Sax.</ab> <etym>liccian</etym>; <ab>Eng.</ab> <etym>lick</etym>.]
+;
+;   >lëcchôn<  =>  >lëcchôn< 
+;
+611421 new <s>lih</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">λείχω</lang>; <ab>Lat.</ab> <etym>lingo</etym>; <ab>Slav.</ab> <etym>ližati</etym>; <ab>Lith.</ab> <etym>lë́żti</etym>; <ab>Germ.</ab> <etym>lëcchôn</etym>, <etym>lecken</etym>; <ab>Angl.Sax.</ab> <etym>liccian</etym>; <ab>Eng.</ab> <etym>lick</etym>.]
+;
+; ------------------------------------------------------
+; <L>183241.1<pc>906,2<k1>loka
+613147 old <s>loka</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>lūcus</etym>, originally, ‘a clearing of a forest’; <ab>Lith.</ab> <etym>laúkas</etym>, a field.]
+;
+;   >laúkas<  =>  >laúkas< 
+;
+613147 new <s>loka</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>lūcus</etym>, originally, ‘a clearing of a forest’; <ab>Lith.</ab> <etym>laúkas</etym>, a field.]
+;
+; ------------------------------------------------------
+; <L>184521.1<pc>911,3<k1>vakz
+617193 old <s>vakz</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἀέξω</lang>, <lang n="greek">αὐξάνω</lang>; <ab>Lith.</ab> <etym>aúgti</etym>; <ab>Goth.</ab> <etym>wahsjan</etym>, 1; <ab>Germ.</ab> <etym>wahsan</etym>, <etym>wachsen</etym>; <ab>Angl.Sax.</ab> <etym>weaxan</etym>; <ab>Eng.</ab> <etym>wax</etym>; See also under √ <hom>1.</hom> <s>ukz</s>.]
+;
+;   >aúgti<  =>  >aúgti< 
+;
+617193 new <s>vakz</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἀέξω</lang>, <lang n="greek">αὐξάνω</lang>; <ab>Lith.</ab> <etym>aúgti</etym>; <ab>Goth.</ab> <etym>wahsjan</etym>, 1; <ab>Germ.</ab> <etym>wahsan</etym>, <etym>wachsen</etym>; <ab>Angl.Sax.</ab> <etym>weaxan</etym>; <ab>Eng.</ab> <etym>wax</etym>; See also under √ <hom>1.</hom> <s>ukz</s>.]
+;
+; ------------------------------------------------------
+; <L>187308.55<pc>924,2<k1>varRa
+626243 old <s>varRa</s> ¦ [<ab>Cf.</ab>, <ab>accord.</ab> to some, <ab>Slav.</ab> <etym>vranǔ</etym>, ‘black’, ‘a crow’; <ab>Lith.</ab> <etym>várnas</etym>, ‘a crow’.]
+;
+;   >várnas<  =>  >várnas< 
+;
+626243 new <s>varRa</s> ¦ [<ab>Cf.</ab>, <ab>accord.</ab> to some, <ab>Slav.</ab> <etym>vranǔ</etym>, ‘black’, ‘a crow’; <ab>Lith.</ab> <etym>várnas</etym>, ‘a crow’.]
+;
+; ------------------------------------------------------
+; <L>188049.1<pc>927,2<k1>varziman
+628522 old <s>varziman</s> ¦ [<ab>cf.</ab> <ab>Slav.</ab> <etym>vrǐchǔ</etym> <ab>Lith.</ab> <etym>virshùs</etym>.]
+;
+;   >virshùs<  =>  >virshùs< 
+;
+628522 new <s>varziman</s> ¦ [<ab>cf.</ab> <ab>Slav.</ab> <etym>vrǐchǔ</etym> <ab>Lith.</ab> <etym>virshùs</etym>.]
+;
+; ------------------------------------------------------
+; <L>189436.1<pc>934,2<k1>vA
+633136 old <s>vA</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἄημι</lang> for <lang n="greek">ϝαημι</lang>; <ab>Lat.</ab> <etym>ventus</etym>; <ab>Slav.</ab> <etym>vejati</etym>; <ab>Goth.</ab> <etym>waian</etym>, <etym>winds</etym>; <ab>Germ.</ab> <etym>wâjan</etym>, <etym>wæjen</etym>, <etym>wehen</etym>, <etym>Wind</etym>; <ab>Angl.Sax.</ab> <etym>wâwan</etym>; <ab>Eng.</ab> <etym>wind</etym>.]
+;
+;   >wâjan<  =>  >wâjan< 
+;   >wâwan<  =>  >wâwan< 
+;
+633136 new <s>vA</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἄημι</lang> for <lang n="greek">ϝαημι</lang>; <ab>Lat.</ab> <etym>ventus</etym>; <ab>Slav.</ab> <etym>vejati</etym>; <ab>Goth.</ab> <etym>waian</etym>, <etym>winds</etym>; <ab>Germ.</ab> <etym>wâjan</etym>, <etym>wæjen</etym>, <etym>wehen</etym>, <etym>Wind</etym>; <ab>Angl.Sax.</ab> <etym>wâwan</etym>; <ab>Eng.</ab> <etym>wind</etym>.]
+;
+; ------------------------------------------------------
+; <L>195626.1<pc>963,2<k1>vid
+653288 old <s>vid</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">εἶδον</lang> for <lang n="greek">ἐϝιδον</lang>, <lang n="greek">οἶδα</lang> for <lang n="greek">ϝοιδα</lang> = <s>veda</s>; <ab>Lat.</ab> <etym>videre</etym>; <ab>Slav.</ab> <etym>věděti</etym>; <ab>Goth.</ab> <etym>witan</etym>, <etym>wait</etym>; <ab>Germ.</ab> <etym>wizzan</etym>, <etym>wissen</etym>; <ab>Angl.Sax.</ab> <etym>wât</etym>; <ab>Eng.</ab> <etym>wot</etym>.]
+;
+;   >wât<  =>  >wât< 
+;
+653288 new <s>vid</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">εἶδον</lang> for <lang n="greek">ἐϝιδον</lang>, <lang n="greek">οἶδα</lang> for <lang n="greek">ϝοιδα</lang> = <s>veda</s>; <ab>Lat.</ab> <etym>videre</etym>; <ab>Slav.</ab> <etym>věděti</etym>; <ab>Goth.</ab> <etym>witan</etym>, <etym>wait</etym>; <ab>Germ.</ab> <etym>wizzan</etym>, <etym>wissen</etym>; <ab>Angl.Sax.</ab> <etym>wât</etym>; <ab>Eng.</ab> <etym>wot</etym>.]
+;
+; ------------------------------------------------------
+; <L>200376.1<pc>989,1<k1>viS
+669219 old <s>viS</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">οἶκος</lang>; <ab>Lat.</ab> <etym>vicus</etym>; <ab>Lith.</ab> <etym>vëszė́ti</etym>; <ab>Slav.</ab> <etym>vǐsǐ</etym>; <ab>Goth.</ab> <etym>weihs</etym>; <ab>Angl.Sax.</ab> <etym>wîc</etym>; <ab>Germ.</ab> <etym>wîch</etym>, <etym>Weich-bild</etym>.]
+;
+;   >wîc<  =>  >wîc< 
+;   >wîch<  =>  >wîch< 
+;
+669219 new <s>viS</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">οἶκος</lang>; <ab>Lat.</ab> <etym>vicus</etym>; <ab>Lith.</ab> <etym>vëszė́ti</etym>; <ab>Slav.</ab> <etym>vǐsǐ</etym>; <ab>Goth.</ab> <etym>weihs</etym>; <ab>Angl.Sax.</ab> <etym>wîc</etym>; <ab>Germ.</ab> <etym>wîch</etym>, <etym>Weich-bild</etym>.]
+;
+; ------------------------------------------------------
+; <L>204114.1<pc>1008,1<k1>vfka
+681888 old <s>vfka</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">λύκος</lang>; <ab>Lat.</ab> <etym>lupus</etym>; <ab>Slav.</ab> <etym>vlǔkǔ</etym>; <ab>Lith.</ab> <etym>vìlkas</etym>; <ab>Goth.</ab> <etym>wulfs</etym>; <ab>Germ.</ab> <ab>Eng.</ab> <etym>wolf</etym>]
+;
+;   >vìlkas<  =>  >vìlkas< 
+;
+681888 new <s>vfka</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">λύκος</lang>; <ab>Lat.</ab> <etym>lupus</etym>; <ab>Slav.</ab> <etym>vlǔkǔ</etym>; <ab>Lith.</ab> <etym>vìlkas</etym>; <ab>Goth.</ab> <etym>wulfs</etym>; <ab>Germ.</ab> <ab>Eng.</ab> <etym>wolf</etym>]
+;
+; ------------------------------------------------------
+; <L>204340.1<pc>1009,2<k1>vft
+682696 old <s>vft</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>vertere</etym>; <ab>Slav.</ab> <etym>vrǔtěti</etym>, <etym>vratiti</etym>; <ab>Lith.</ab> <etym>vartýti</etym>; <ab>Goth.</ab> <etym>waírthan</etym>; <ab>Germ.</ab> <etym>werden</etym>; <ab>Eng.</ab> <etym>-ward</etym>.]
+;
+;   >waírthan<  =>  >waírthan< 
+;
+682696 new <s>vft</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>vertere</etym>; <ab>Slav.</ab> <etym>vrǔtěti</etym>, <etym>vratiti</etym>; <ab>Lith.</ab> <etym>vartýti</etym>; <ab>Goth.</ab> <etym>waírthan</etym>; <ab>Germ.</ab> <etym>werden</etym>; <ab>Eng.</ab> <etym>-ward</etym>.]
+;
+; ------------------------------------------------------
+; <L>219943.1<pc>1084,3<k1>Suz
+732820 old <s>Suz</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">αὔω</lang> for <lang n="greek">σαύσω</lang>; <ab>Lat.</ab> <etym>siccus</etym>; <ab>Slav.</ab> <etym>sǔchati</etym>; <ab>Lith.</ab> <etym>susù</etym>, <etym>sausiù</etym>, <etym>saúsas</etym> &c.]
+;
+;   >saúsas<  =>  >saúsas< 
+;
+732820 new <s>Suz</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">αὔω</lang> for <lang n="greek">σαύσω</lang>; <ab>Lat.</ab> <etym>siccus</etym>; <ab>Slav.</ab> <etym>sǔchati</etym>; <ab>Lith.</ab> <etym>susù</etym>, <etym>sausiù</etym>, <etym>saúsas</etym> &c.]
+;
+; ------------------------------------------------------
+; <L>222829.1<pc>1098,1<k1>Sri
+741849 old <s>Sri</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">κλίνω</lang>, <lang n="greek">κλίνη</lang>, <lang n="greek">κλῖμαξ</lang>; <ab>Lat.</ab> <etym>clino</etym>, <etym>clivus</etym>; <ab>Lith.</ab> <etym>szlýti</etym>, <etym>szlë́ti</etym>, <etym>szlaítas</etym>; <ab>Goth.</ab> <etym>hlains</etym>; <etym>hlaiw</etym>; <ab>Germ.</ab> <etym>hlinên</etym>, <etym>linên</etym>, <etym>lehnen</etym>; <ab>Angl.Sax.</ab> <etym>hlinian</etym>; <ab>Eng.</ab> <etym>lean</etym>.]
+;
+;   >hlinên<  =>  >hlinên< 
+;   >linên<  =>  >linên< 
+;   >szlaítas<  =>  >szlaítas< 
+;
+741849 new <s>Sri</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">κλίνω</lang>, <lang n="greek">κλίνη</lang>, <lang n="greek">κλῖμαξ</lang>; <ab>Lat.</ab> <etym>clino</etym>, <etym>clivus</etym>; <ab>Lith.</ab> <etym>szlýti</etym>, <etym>szlë́ti</etym>, <etym>szlaítas</etym>; <ab>Goth.</ab> <etym>hlains</etym>; <etym>hlaiw</etym>; <ab>Germ.</ab> <etym>hlinên</etym>, <etym>linên</etym>, <etym>lehnen</etym>; <ab>Angl.Sax.</ab> <etym>hlinian</etym>; <ab>Eng.</ab> <etym>lean</etym>.]
+;
+; ------------------------------------------------------
+; <L>223678.1<pc>1102,1<k1>Sruz
+744661 old <s>Sruz</s> ¦ [<ab>cf.</ab> <ab>Lith.</ab> <etym>kláusti</etym>; <ab>Slav.</ab> <etym>sluchǔ</etym>.]
+;
+;   >kláusti<  =>  >kláusti< 
+;
+744661 new <s>Sruz</s> ¦ [<ab>cf.</ab> <ab>Lith.</ab> <etym>kláusti</etym>; <ab>Slav.</ab> <etym>sluchǔ</etym>.]
+;
+; ------------------------------------------------------
+; <L>224364.1<pc>1105,3<k1>SvaSura
+746876 old <s>SvaSura</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἑκυρός</lang>; <ab>Lat.</ab> <etym>socer</etym>; <ab>Lith.</ab> <etym>szészuras</etym>; <ab>Slav.</ab> <etym>svekrǔ</etym>; <ab>Goth.</ab> <etym>swaihra</etym>; <ab>Angl.Sax.</ab> <etym>sweór</etym>; <ab>Germ.</ab> <etym>swëher</etym>, <etym>Schwäher</etym>.]
+;
+;   >sweór<  =>  >sweór< 
+;   >szészuras<  =>  >szészuras< 
+;
+746876 new <s>SvaSura</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἑκυρός</lang>; <ab>Lat.</ab> <etym>socer</etym>; <ab>Lith.</ab> <etym>szészuras</etym>; <ab>Slav.</ab> <etym>svekrǔ</etym>; <ab>Goth.</ab> <etym>swaihra</etym>; <ab>Angl.Sax.</ab> <etym>sweór</etym>; <ab>Germ.</ab> <etym>swëher</etym>, <etym>Schwäher</etym>.]
+;
+; ------------------------------------------------------
+; <L>251816.05<pc>1244,3<k1>sUrkz
+838086 old <s>sUrkz</s> ¦ [<ab>cf.</ab> <ab>accord.</ab> to some, <ab>Lith.</ab> <etym>sergė́ti</etym> <pb n="1244,3"/>; <ab>Goth.</ab> <etym>saúrga</etym>; <ab>Germ.</ab> <etym>Sorge</etym>; <ab>Angl.Sax.</ab> <etym>sorh</etym>; <ab>Eng.</ab> <etym>sorrow</etym>.]
+;
+;   >saúrga<  =>  >saúrga< 
+;
+838086 new <s>sUrkz</s> ¦ [<ab>cf.</ab> <ab>accord.</ab> to some, <ab>Lith.</ab> <etym>sergė́ti</etym> <pb n="1244,3"/>; <ab>Goth.</ab> <etym>saúrga</etym>; <ab>Germ.</ab> <etym>Sorge</etym>; <ab>Angl.Sax.</ab> <etym>sorh</etym>; <ab>Eng.</ab> <etym>sorrow</etym>.]
+;
+; ------------------------------------------------------
+; <L>254590.1<pc>1258,3<k1>stiG
+846994 old <s>stiG</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">στείχω</lang>; <ab>Slav.</ab> <etym>stignąti</etym>; <ab>Goth.</ab> <etym>steigan</etym>; <ab>Germ.</ab> <etym>stîgan</etym>, <etym>steigen</etym>; <ab>Eng.</ab> <etym>sty</etym>.]
+;
+;   >stîgan<  =>  >stîgan< 
+;
+846994 new <s>stiG</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">στείχω</lang>; <ab>Slav.</ab> <etym>stignąti</etym>; <ab>Goth.</ab> <etym>steigan</etym>; <ab>Germ.</ab> <etym>stîgan</etym>, <etym>steigen</etym>; <ab>Eng.</ab> <etym>sty</etym>.]
+;
+; ------------------------------------------------------
+; <L>255154.1<pc>1261,3<k1>sTag
+848880 old <s>sTag</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">στέγω</lang>, <lang n="greek">στέγη</lang>, <lang n="greek">τέγος</lang>, &c.; <ab>Lat.</ab> <etym>tegere</etym>, <etym>toga</etym>, <etym>tugurium</etym>; <ab>Lith.</ab> <etym>stė́gti</etym>, <etym>stógas</etym>; <ab>Germ.</ab> <etym>decken</etym>, <etym>Dach</etym>; <ab>Eng.</ab> <etym>thatch</etym>.]
+;
+;   >stógas<  =>  >stógas< 
+;
+848880 new <s>sTag</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">στέγω</lang>, <lang n="greek">στέγη</lang>, <lang n="greek">τέγος</lang>, &c.; <ab>Lat.</ab> <etym>tegere</etym>, <etym>toga</etym>, <etym>tugurium</etym>; <ab>Lith.</ab> <etym>stė́gti</etym>, <etym>stógas</etym>; <ab>Germ.</ab> <etym>decken</etym>, <etym>Dach</etym>; <ab>Eng.</ab> <etym>thatch</etym>.]
+;
+; ------------------------------------------------------
+; <L>258815.1<pc>1279,3<k1>svAdu
+860751 old <s>svAdu</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἡδύς</lang>; <ab>Lat.</ab> <etym>suavis</etym>; <ab>Old Sax.</ab> <etym>swôti</etym>; <ab>Angl.Sax.</ab> <etym>swêete</etym>; <ab>Eng.</ab> <etym>sweet</etym>; <ab>Germ.</ab> <etym>süss</etym>.]
+;
+;   >swêete<  =>  >swêete< 
+;   >swôti<  =>  >swôti< 
+;
+860751 new <s>svAdu</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἡδύς</lang>; <ab>Lat.</ab> <etym>suavis</etym>; <ab>Old Sax.</ab> <etym>swôti</etym>; <ab>Angl.Sax.</ab> <etym>swêete</etym>; <ab>Eng.</ab> <etym>sweet</etym>; <ab>Germ.</ab> <etym>süss</etym>.]
+;
+; ------------------------------------------------------
+; <L>258948.1<pc>1280,2<k1>svap
+861180 old <s>svap</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὕπ-νος</lang>; <ab>Lat.</ab> <etym>somnus</etym> for <etym>sop-nus</etym>, <etym>sopor</etym>, <etym>sopire</etym>; <ab>Slav.</ab> <etym>sǔpati</etym>; <ab>Lith.</ab> <etym>sápnas</etym>; <ab>Angl.Sax.</ab> <etym>swefan</etym>, ‘to sleep’.]
+;
+;   >sápnas<  =>  >sápnas< 
+;
+861180 new <s>svap</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὕπ-νος</lang>; <ab>Lat.</ab> <etym>somnus</etym> for <etym>sop-nus</etym>, <etym>sopor</etym>, <etym>sopire</etym>; <ab>Slav.</ab> <etym>sǔpati</etym>; <ab>Lith.</ab> <etym>sápnas</etym>; <ab>Angl.Sax.</ab> <etym>swefan</etym>, ‘to sleep’.]
+;
+; ------------------------------------------------------
+; <L>260066.1<pc>1286,2<k1>haMsa
+864785 old <s>haMsa</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">χήν</lang>; <ab>Lat.</ab> <etym>anser</etym> for <etym>hanser</etym>; <ab>Lit.</ab> <etym>żąsìs</etym>; <ab>Germ.</ab> <etym>Gans</etym>; <ab>Angl.Sax.</ab> <etym>gôs</etym>; <ab>Eng.</ab> <etym>goose</etym>.]
+;
+;   >gôs<  =>  >gôs< 
+;
+864785 new <s>haMsa</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">χήν</lang>; <ab>Lat.</ab> <etym>anser</etym> for <etym>hanser</etym>; <ab>Lit.</ab> <etym>żąsìs</etym>; <ab>Germ.</ab> <etym>Gans</etym>; <ab>Angl.Sax.</ab> <etym>gôs</etym>; <ab>Eng.</ab> <etym>goose</etym>.]
+;
+; ------------------------------------------------------
+; <L>260929.1<pc>1289,3<k1>hari
+867469 old <s>hari</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>holus</etym>, <etym>helvus</etym>, <etym>fulvus</etym>; <ab>Lith.</ab> <etym>żálias</etym>, <etym>żélti</etym>; <ab>Slav.</ab> <etym>zelenǔ</etym>; <ab>Germ.</ab> <etym>gëlo</etym>, <etym>gelb</etym>; <ab>Eng.</ab> <etym>yellow</etym>.]
+;
+;   >żálias<  =>  >żálias< 
+;   >żélti<  =>  >żélti< 
+;
+867469 new <s>hari</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>holus</etym>, <etym>helvus</etym>, <etym>fulvus</etym>; <ab>Lith.</ab> <etym>żálias</etym>, <etym>żélti</etym>; <ab>Slav.</ab> <etym>zelenǔ</etym>; <ab>Germ.</ab> <etym>gëlo</etym>, <etym>gelb</etym>; <ab>Eng.</ab> <etym>yellow</etym>.]
+;
+; *****************************************************
+; temp_change_8_hyph.txt * hyph (6) Hyphenation errors
+; *****************************************************
+; ------------------------------------------------------
+; <L>16952.1<pc>96,1<k1>ava
+61501 old <s>ava</s> ¦ [<ab>Zd.</ab> <ab>pron.</ab> <s>ava</s>; <ab>Slav.</ab> <etym>ovo</etym>; <ab>cf.</ab> also the syllable, <lang n="greek">αὐ</lang> in <lang n="greek">αὐ-τός</lang>, <lang n="greek">αὖ</lang>, <lang n="greek">αὖθι</lang>, &c.; <ab>Lat.</ab> <etym>au-t</etym>, <etym>autem</etym>, &c.]
+;
+;   >autem<  =>  >au-tem< 
+;
+61501 new <s>ava</s> ¦ [<ab>Zd.</ab> <ab>pron.</ab> <s>ava</s>; <ab>Slav.</ab> <etym>ovo</etym>; <ab>cf.</ab> also the syllable, <lang n="greek">αὐ</lang> in <lang n="greek">αὐ-τός</lang>, <lang n="greek">αὖ</lang>, <lang n="greek">αὖθι</lang>, &c.; <ab>Lat.</ab> <etym>au-t</etym>, <etym>au-tem</etym>, &c.]
+;
+; ------------------------------------------------------
+; <L>37727<pc>220,1<k1>uzas
+133413 old <s>uzas</s>, ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἠώς</lang>; <ab>Lat.</ab> <etym>aurora</etym>; <ab>Lith.</ab> <etym>ausz-ra</etym>; <ab>Old High Germ.</ab> <etym>ôs-tan</etym>.]
+;
+;   >aurora<  =>  >auro-ra< 
+;
+133413 new <s>uzas</s>, ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ἠώς</lang>; <ab>Lat.</ab> <etym>auro-ra</etym>; <ab>Lith.</ab> <etym>ausz-ra</etym>; <ab>Old High Germ.</ab> <etym>ôs-tan</etym>.]
+;
+; ------------------------------------------------------
+; <L>38410.1<pc>223,2<k1>f
+135801 old <s>f</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὄρ-νυ-μι</lang>, <lang n="greek">ἐρ-έ-της</lang>, <lang n="greek">ἀρό-ω</lang>, &c. : <ab>Zend</ab> √ <etym>ir</etym> : <ab>Lat.</ab> <etym>or-ior</etym>, <etym>re-mus</etym>, <etym>aro</etym> : <ab>Goth.</ab> <etym>argan</etym> : <ab>Angl.Sax.</ab> <etym>ār</etym> : <ab>Old High Germ.</ab> <etym>ruo-dar</etym>, <etym>ar-an</etym> : <ab>Lith.</ab> <etym>ir-ti</etym>, ‘to row’; <etym>ar-ti</etym>, ‘to plough’.]
+;
+;   >argan<  =>  >ar-gan< 
+;
+135801 new <s>f</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὄρ-νυ-μι</lang>, <lang n="greek">ἐρ-έ-της</lang>, <lang n="greek">ἀρό-ω</lang>, &c. : <ab>Zend</ab> √ <etym>ir</etym> : <ab>Lat.</ab> <etym>or-ior</etym>, <etym>re-mus</etym>, <etym>aro</etym> : <ab>Goth.</ab> <etym>ar-gan</etym> : <ab>Angl.Sax.</ab> <etym>ār</etym> : <ab>Old High Germ.</ab> <etym>ruo-dar</etym>, <etym>ar-an</etym> : <ab>Lith.</ab> <etym>ir-ti</etym>, ‘to row’; <etym>ar-ti</etym>, ‘to plough’.]
+;
+; ------------------------------------------------------
+; <L>147598.1<pc>743,1<k1>Baj
+496638 old <s>Baj</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ϕαγεῖν</lang>, <lang n="greek">ϕᾱγός</lang>, <lang n="greek">ϕηγός</lang>; <ab>Lat.</ab> <etym>fāgus</etym>; <ab>Goth. Old S.</ab> <etym>bōk</etym>; <ab>Germ.</ab> <etym>Buch</etym>, <etym>Buchstabe</etym>; <ab>Eng.</ab> <etym>buck-</etym>, <etym>beech</etym>.]
+;
+;   >Buchstabe<  =>  >Buch-stabe< 
+;
+496638 new <s>Baj</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ϕαγεῖν</lang>, <lang n="greek">ϕᾱγός</lang>, <lang n="greek">ϕηγός</lang>; <ab>Lat.</ab> <etym>fāgus</etym>; <ab>Goth. Old S.</ab> <etym>bōk</etym>; <ab>Germ.</ab> <etym>Buch</etym>, <etym>Buch-stabe</etym>; <ab>Eng.</ab> <etym>buck-</etym>, <etym>beech</etym>.]
+;
+; ------------------------------------------------------
+; <L>203601.1<pc>1005,3<k1>vIra
+680133 old <s>vIra</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>vir</etym>; <ab>Lith.</ab> <etym>výras</etym>; <ab>Goth.</ab> <etym>wair</etym>; <ab>Angl.Sax.</ab> <etym>wër</etym>, <etym>wëre-wulf</etym>; <ab>Eng.</ab> <etym>werewolf</etym>; <ab>Germ.</ab> <etym>Werwolf</etym>, <etym>Wergeld</etym>.]
+;
+;   >werewolf<  =>  >were-wolf< 
+;
+680133 new <s>vIra</s> ¦ [<ab>cf.</ab> <ab>Lat.</ab> <etym>vir</etym>; <ab>Lith.</ab> <etym>výras</etym>; <ab>Goth.</ab> <etym>wair</etym>; <ab>Angl.Sax.</ab> <etym>wër</etym>, <etym>wëre-wulf</etym>; <ab>Eng.</ab> <etym>were-wolf</etym>; <ab>Germ.</ab> <etym>Werwolf</etym>, <etym>Wergeld</etym>.]
+;
+; ------------------------------------------------------
+; <L>229504.1<pc>1134,2<k1>sat
+764222 old <s>sat</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὥν</lang>, <lang n="greek">ἐών</lang> for <lang n="greek">ἐσων</lang>; <ab>Lat.</ab> <etym>sens</etym> in <etym>absens</etym>, <etym>præ-sens</etym>; <etym>sons</etym>, ‘guilty’, <ab>orig.</ab> ‘the real doer’; <ab>Lith.</ab> <etym>są̄s</etym>, <etym>ė́sąs</etym>; <ab>Slav.</ab> <etym>sy</etym>, <etym>sąšta</etym>.]
+;
+;   >absens<  =>  >ab-sens< 
+;
+764222 new <s>sat</s> ¦ [<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ὥν</lang>, <lang n="greek">ἐών</lang> for <lang n="greek">ἐσων</lang>; <ab>Lat.</ab> <etym>sens</etym> in <etym>ab-sens</etym>, <etym>præ-sens</etym>; <etym>sons</etym>, ‘guilty’, <ab>orig.</ab> ‘the real doer’; <ab>Lith.</ab> <etym>są̄s</etym>, <etym>ė́sąs</etym>; <ab>Slav.</ab> <etym>sy</etym>, <etym>sąšta</etym>.]
+;
+; *****************************************************
+; temp_change_8_indic.txt * indic (7) Indic words
+; *****************************************************
+; ------------------------------------------------------
+; <L>34428<pc>197,2<k1>upacakzus
+122191 old ¦ spectacles (<ab>Beng.</ab> <s>casamA</s>), <ls>T.</ls><info lex="inh"/>
+;
+;   <s>casamA</s>  =>  <i>casamā</i> ;; a Bengālī word
+;
+122191 new ¦ spectacles (<ab>Beng.</ab> <i>casamā</i>), <ls>T.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; <L>55793<pc>309,3<k1>kel
+192528 old <div n="to"/>to be frolic-some, sport (<ab>cf.</ab> <ns>Prākṛt</ns> √ <s>kIl</s> = <s>krIq</s>), <ls>W.</ls><info westergaard="kelf,15.30,01.0352"/><info verb="root" cp="1P"/>
+;
+;   <s>kIl</s>  =>  <i>kīl</i> ;; a Prākṛt word
+;
+192528 new <div n="to"/>to be frolic-some, sport (<ab>cf.</ab> <ns>Prākṛt</ns> √ <i>kīl</i> = <s>krIq</s>), <ls>W.</ls><info westergaard="kelf,15.30,01.0352"/><info verb="root" cp="1P"/>
+;
+; ------------------------------------------------------
+; <L>60659<pc>334,1<k1>kzvel
+207980 old <s>kzvel</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> <s>°lati</s> (<ab>v.l.</ab> <s>kvel</s>, <ls>Dhātup. xv, 32</ls>; probably <ab>fr.</ab> <ns>Prākṛt</ns> √ <s>kel</s> = <s>krIq</s>),
+;
+;   <s>kel</s>  =>  <i>kel</i> ;; a Prākṛt word
+;
+207980 new <s>kzvel</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> <s>°lati</s> (<ab>v.l.</ab> <s>kvel</s>, <ls>Dhātup. xv, 32</ls>; probably <ab>fr.</ab> <ns>Prākṛt</ns> √ <i>kel</i> = <s>krIq</s>),
+;
+; ------------------------------------------------------
+; <L>75207<pc>403,1<k1>cOrapaYcASikA
+255285 old <s>cOra—paYcASikA</s> ¦ <lex>f.</lex> <ab>irr.</ab> abbreviation for <s>cOrI-surata-p°</s> (for <s>cOqI-</s>, <ns>Prākṛt</ns> <ab>fr.</ab> <s>cApotkawI-</s>?) ‘50 stanzas on secret love (or on the love of the <s1 slp1="cApotkawa">Cāpotkaṭa</s1> princess)’, a famous poem by <s1 slp1="bilhaRa">Bilhaṇa</s1>.<info lex="f"/>
+;
+;   <s>cOqI-</s>  =>  <i>cauḍī-</i> ;; a Prākṛt word
+;
+255285 new <s>cOra—paYcASikA</s> ¦ <lex>f.</lex> <ab>irr.</ab> abbreviation for <s>cOrI-surata-p°</s> (for <i>cauḍī-</i>, <ns>Prākṛt</ns> <ab>fr.</ab> <s>cApotkawI-</s> ?) ‘50 stanzas on secret love (or on the love of the <s1 slp1="cApotkawa">Cāpotkaṭa</s1> princess)’, a famous poem by <s1 slp1="bilhaRa">Bilhaṇa</s1>.<info lex="f"/>
+;
+; ------------------------------------------------------
+; <L>163281<pc>811,3<k1>mAriza
+547939 old <s>mAriza</s> ¦ <lex>m.</lex> (perhaps <ab>fr.</ab> <s1 slp1="pAli">Pāli</s1> <s>mArisa</s> = <s>mAdfSa</s>, ‘colleague’; <ab>cf.</ab> <s>mArza</s>) a worthy or respectable man (<ab>esp.</ab> in the <ab>voc.</ab> as a term of address = ‘worthy friend’ or ‘dear sir’ <pb n="812,1"/>; in <ab>dram.</ab> applied to the manager or one of the principal actors), <ls>MBh.</ls>; <ls>Kāv.</ls>; <ls>BhP.</ls><info lex="m"/>
+;
+;   <s>mArisa</s>  =>  <i>mārisa</i> ;; a Pāli word
+;
+547939 new <s>mAriza</s> ¦ <lex>m.</lex> (perhaps <ab>fr.</ab> <s1 slp1="pAli">Pāli</s1> <i>mārisa</i> = <s>mAdfSa</s>, ‘colleague’; <ab>cf.</ab> <s>mArza</s>) a worthy or respectable man (<ab>esp.</ab> in the <ab>voc.</ab> as a term of address = ‘worthy friend’ or ‘dear sir’ <pb n="812,1"/>; in <ab>dram.</ab> applied to the manager or one of the principal actors), <ls>MBh.</ls>; <ls>Kāv.</ls>; <ls>BhP.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; <L>168468<pc>835,2<k1>mowa
+564690 old <s>mowa</s> ¦ <lex>m.</lex> or <lex type="hw">n.</lex> a bundle (= <ns>Hindī</ns> <s>moW</s>), <ls>Divyāv.</ls> (also written <s>mUQa</s>, <s>muwa</s>, <s>mUwa</s>). <info lex="m:n"/>
+;
+;   <s>moW</s>  =>  <i>moṭh</i> ;; a Hindī word
+;
+564690 new <s>mowa</s> ¦ <lex>m.</lex> or <lex type="hw">n.</lex> a bundle (= <ns>Hindī</ns> <i>moṭh</i>), <ls>Divyāv.</ls> (also written <s>mUQa</s>, <s>muwa</s>, <s>mUwa</s>). <info lex="m:n"/>
+;
+; ------------------------------------------------------
+; <L>181585<pc>897,3<k1>lard
+607810 old <s>lard</s> ¦ <ab>cl.</ab> 10. <ab>P.</ab> <s>lardayati</s>, to load, <ls>Divyāv.</ls> (<ab>cf.</ab> <ns>Hindī</ns> <s>lAq</s>). <info verb="root" cp="10P"/>
+;
+;   <s>lAq</s>  =>  <i>lāḍ</i> ;; a Hindī word
+;
+607810 new <s>lard</s> ¦ <ab>cl.</ab> 10. <ab>P.</ab> <s>lardayati</s>, to load, <ls>Divyāv.</ls> (<ab>cf.</ab> <ns>Hindī</ns> <i>lāḍ</i>). <info verb="root" cp="10P"/>
+;
+; *****************************************************
+; temp_change_8_cog_nots.txt * cog_nots (10) other changes
+; *****************************************************
+; ------------------------------------------------------
+; <L>16952.1<pc>96,1<k1>ava
+61501 old <s>ava</s> ¦ [<ab>Zd.</ab> <ab>pron.</ab> <s>ava</s>; <ab>Slav.</ab> <etym>ovo</etym>; <ab>cf.</ab> also the syllable, <lang n="greek">αὐ</lang> in <lang n="greek">αὐ-τός</lang>, <lang n="greek">αὖ</lang>, <lang n="greek">αὖθι</lang>, &c.; <ab>Lat.</ab> <etym>au-t</etym>, <etym>au-tem</etym>, &c.]
+;
+;   <ab>Zd.</ab> <ab>pron.</ab> <s>ava</s>  =>  <ab>Zd.</ab> <ab>pron.</ab> <etym>ava</etym> 
+;
+61501 new <s>ava</s> ¦ [<ab>Zd.</ab> <ab>pron.</ab> <etym>ava</etym>; <ab>Slav.</ab> <etym>ovo</etym>; <ab>cf.</ab> also the syllable, <lang n="greek">αὐ</lang> in <lang n="greek">αὐ-τός</lang>, <lang n="greek">αὖ</lang>, <lang n="greek">αὖθι</lang>, &c.; <ab>Lat.</ab> <etym>au-t</etym>, <etym>au-tem</etym>, &c.]
+;
+; ------------------------------------------------------
+; <L>31613<pc>180,2<k1>utpAtika
+112504 old <s>ut-pAtika</s> ¦ <lex>mfn.</lex> (<ns>Prākṛt</ns> <i>upp107475iya</i>) supernatural, <ls>Jain.</ls><info lex="m:f:n"/>
+;
+;   <i>upp107475iya</i>  =>  <i>uppāiya</i> 
+;
+112504 new <s>ut-pAtika</s> ¦ <lex>mfn.</lex> (<ns>Prākṛt</ns> <i>uppāiya</i>) supernatural, <ls>Jain.</ls><info lex="m:f:n"/>
+;
+; ------------------------------------------------------
+; <L>47267<pc>268,1<k1>kAgada
+165142 old <s>kAgada</s> ¦ <lex>n.</lex> paper (<ns>Hindūstānī</ns> <s>kAGaS</s>). <info lex="n"/>
+;
+;   <s>kAGaS</s>  =>  <i>kāghaz</i> 
+;
+165142 new <s>kAgada</s> ¦ <lex>n.</lex> paper (<ns>Hindūstānī</ns> <i>kāghaz</i>). <info lex="n"/>
+;
+; ------------------------------------------------------
+; <L>61560<pc>338,1<k1>KarbUja
+210908 old <s>KarbUja</s> ¦ <lex>n.</lex> (<ab>fr.</ab> the <ab>Pers.</ab> <lang script="Arabic" n="Persian">خربوزه</lang>, <s>kkarbUSa</s>), the water-melon, <ls>Bhpr. v, 6, 43 f.</ls><info lex="n"/>
+;
+;   <s>kkarbUSa</s>  =>  <i>kkarbūza</i> 
+;
+210908 new <s>KarbUja</s> ¦ <lex>n.</lex> (<ab>fr.</ab> the <ab>Pers.</ab> <lang script="Arabic" n="Persian">خربوزه</lang>, <i>kkarbūza</i>), the water-melon, <ls>Bhpr. v, 6, 43 f.</ls><info lex="n"/>
+;
+; ------------------------------------------------------
+; <L>69597<pc>376,3<k1>GariRI
+236959 old <s>GariRI</s> ¦ <lex>f.</lex> (for <s>gfhiRI</s>?, <s1 slp1="pAli">Pāli</s1> <s>°raRI</s>) a woman possessing a house (?, widow?), <ls>Divyāv. ii, 428.</ls><info lex="f"/>
+;
+;   <s1 slp1="pAli">Pāli</s1> <s>°raRI</s>  =>  <s1 slp1="pAli">Pāli</s1> <i>°raṇī</i> 
+;
+236959 new <s>GariRI</s> ¦ <lex>f.</lex> (for <s>gfhiRI</s>?, <s1 slp1="pAli">Pāli</s1> <i>°raṇī</i>) a woman possessing a house (?, widow?), <ls>Divyāv. ii, 428.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; <L>100635<pc>513,3<k1>DAtugarBa
+338733 old <s>DAtu—garBa</s> ¦ <lex>m.</lex> (with, <ls>Buddh.</ls>) receptacle for ashes or relics, a <ns>Dāgaba</ns> or <ns>Dāgoba</ns> (Sinhalese corruption of <s1 slp1="pAli">Pāli</s1> <ns>Dhātu-gabbha</ns>), <ls>MWB. xxxv</ls><info lex="m"/>
+;
+;   <ns>Dhātu-gabbha</ns>  =>  <i>Dhātu-gabbha</i> 
+;   <ns>Dāgaba</ns>  =>  <i>Dāgaba</i> 
+;   <ns>Dāgoba</ns>  =>  <i>Dāgoba</i> ;; 3 of these
+;
+338733 new <s>DAtu—garBa</s> ¦ <lex>m.</lex> (with, <ls>Buddh.</ls>) receptacle for ashes or relics, a <i>Dāgaba</i> or <i>Dāgoba</i> (Sinhalese corruption of <s1 slp1="pAli">Pāli</s1> <i>Dhātu-gabbha</i>), <ls>MWB. xxxv</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; <L>100709<pc>514,1<k1>DAtustUpa
+338958 old <s>DAtu—stUpa</s> ¦ <lex>m.</lex> (with, <ls>Buddh.</ls>) ‘relic-receptacle’, a <ns>Dāgaba</ns>, <ls>MWB. 504</ls>; <ls>Kāraṇḍ.</ls><info lex="m"/>
+;
+;   <ns>Dāgaba</ns>  =>  <i>Dāgaba</i> 
+;
+338958 new <s>DAtu—stUpa</s> ¦ <lex>m.</lex> (with, <ls>Buddh.</ls>) ‘relic-receptacle’, a <i>Dāgaba</i>, <ls>MWB. 504</ls>; <ls>Kāraṇḍ.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; <L>100713<pc>514,1<k1>DAtvavaropaRa
+338970 old <s>DAtv-avaropaRa</s> ¦ <lex>n.</lex> depositing of relics (inside a <ns>Dāgaba</ns> or <s1 slp1="stUpa">Stūpa</s1>), <ls>Kāraṇḍ.</ls> (printed <s>°tvA<srs/>va°</s> and <s>DyAnA<srs/>va°</s>). <info lex="n"/>
+;
+;   <ns>Dāgaba</ns>  =>  <i>Dāgaba</i> 
+;
+338970 new <s>DAtv-avaropaRa</s> ¦ <lex>n.</lex> depositing of relics (inside a <i>Dāgaba</i> or <s1 slp1="stUpa">Stūpa</s1>), <ls>Kāraṇḍ.</ls> (printed <s>°tvA<srs/>va°</s> and <s>DyAnA<srs/>va°</s>). <info lex="n"/>
+;
+; ------------------------------------------------------
+; <L>148924<pc>748,3<k1>Bala
+501040 old <hom>1.</hom> <s>Bala</s> ¦ <lex>ind.</lex> certainly, indeed, <ls>RV.</ls>; <ls>AV.</ls> (<ab>cf.</ab> <s>bal</s>, <s>baw</s>, and <ns>Marāṭhī</ns> <s>Balla</s>, ‘well’)<info lex="ind"/>
+;
+;   <ns>Marāṭhī</ns> <s>Balla</s>  =>  <ns>Marāṭhī</ns> <i>bhalla</i> 
+;
+501040 new <hom>1.</hom> <s>Bala</s> ¦ <lex>ind.</lex> certainly, indeed, <ls>RV.</ls>; <ls>AV.</ls> (<ab>cf.</ab> <s>bal</s>, <s>baw</s>, and <ns>Marāṭhī</ns> <i>bhalla</i>, ‘well’)<info lex="ind"/>
+;
+; ------------------------------------------------------
+; <L>229923<pc>1136,1<k1>satyanArAyaRa
+765708 old <s>satya—nArAyaRa</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <ab>partic.</ab> divinity (called <ns>Satyapīr</ns> in <ns>Bengālī</ns>), <ls>MW.</ls><info lex="m"/>
+;
+;   <ns>Satyapīr</ns>  =>  <i>Satyapīr</i> 
+;
+765708 new <s>satya—nArAyaRa</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <ab>partic.</ab> divinity (called <i>Satyapīr</i> in <ns>Bengālī</ns>), <ls>MW.</ls><info lex="m"/>
+;
+; *****************************************************
+; temp_change_8_cog_s.txt * cog_s (32)  Change <s> to <i>.
+; *****************************************************
+; ------------------------------------------------------
+; <L>371.1<pc>1308,2<k1>akopya
+1337 old <s>a-kopya</s> ¦ <lex>mfn.</lex> (<ab>fr.</ab> <s1 slp1="pAli">Pāli</s1> <s>akuppa</s>) not to be disregarded, <ls>Divyāv.</ls><info n="sup"/><info lex="m:f:n"/>
+;
+;   <s>akuppa</s>  =>  <i>akuppa</i> 
+;
+1337 new <s>a-kopya</s> ¦ <lex>mfn.</lex> (<ab>fr.</ab> <s1 slp1="pAli">Pāli</s1> <i>akuppa</i>) not to be disregarded, <ls>Divyāv.</ls><info n="sup"/><info lex="m:f:n"/>
+;
+; ------------------------------------------------------
+; <L>15856.1<pc>1316,2<k1>arTakaTA
+57519 old <s>arTa—kaTA</s> ¦ <lex>f.</lex> (<ab>fr.</ab> <s1 slp1="pAli">Pāli</s1> <s>awWakaTA</s>) ‘explaining meanings’, a class of Buddhist <ab>wks.</ab>, <ls>MWB. 65</ls><info n="sup"/><info lex="f"/>
+;
+;   <s>awWakaTA</s>  =>  <i>aṭṭhakathā</i> 
+;
+57519 new <s>arTa—kaTA</s> ¦ <lex>f.</lex> (<ab>fr.</ab> <s1 slp1="pAli">Pāli</s1> <i>aṭṭhakathā</i>) ‘explaining meanings’, a class of Buddhist <ab>wks.</ab>, <ls>MWB. 65</ls><info n="sup"/><info lex="f"/>
+;
+; ------------------------------------------------------
+; <L>18843<pc>108,3<k1>aviDA
+67991 old <s>aviDA</s> ¦ <lex>ind.</lex> an interjection (said to correspond to the <ns>Prākṛt</ns> <i>avihā</i>, or <s>aviha</s>, used in calling for help) <ab>Comm.</ab> on <ls>Śak.</ls><info lex="ind"/>
+;
+;   <s>aviha</s>  =>  <i>aviha</i> 
+;
+67991 new <s>aviDA</s> ¦ <lex>ind.</lex> an interjection (said to correspond to the <ns>Prākṛt</ns> <i>avihā</i>, or <i>aviha</i>, used in calling for help) <ab>Comm.</ab> on <ls>Śak.</ls><info lex="ind"/>
+;
+; ------------------------------------------------------
+; <L>25172.1<pc>144,3<k1>APIna
+89875 old ¦ (<ns>Hindī</ns> <s>APIm</s> and <s>APU</s> <ab>cf.</ab> <s>a-Pena</s>.)<info lex="inh"/>
+;
+;   <s>APIm</s>  =>  <i>āphīm</i> 
+;   <s>APU</s>  =>  <i>āphū</i> 
+;
+89875 new ¦ (<ns>Hindī</ns> <i>āphīm</i> and <i>āphū</i> <ab>cf.</ab> <s>a-Pena</s>.)<info lex="inh"/>
+;
+; ------------------------------------------------------
+; <L>26542<pc>152,2<k1>Arya
+94584 old ¦ (with <ns>Buddhists</ns> [<s1 slp1="pAli">Pāli</s1> <s>ayyo</s>, or <s>ariyo</s>]) a man who has thought on the four chief truths of Buddhism (See next <ab>col.</ab>) and lives accordingly, a <ns>Buddhist</ns> priest<info lex="inh"/>
+;
+;   <s>ariyo</s>  =>  <i>ariyo</i> 
+;   <s>ayyo</s>  =>  <i>ayyo</i> 
+;
+94584 new ¦ (with <ns>Buddhists</ns> [<s1 slp1="pAli">Pāli</s1> <i>ayyo</i>, or <i>ariyo</i>]) a man who has thought on the four chief truths of Buddhism (See next <ab>col.</ab>) and lives accordingly, a <ns>Buddhist</ns> priest<info lex="inh"/>
+;
+; ------------------------------------------------------
+; <L>26555<pc>152,2<k1>AryagaRa
+94632 old <s>Arya—gaRa</s> ¦ <lex>m.</lex> (<s1 slp1="pAli">Pāli</s1> <s>ayyagaRo</s>) the whole body of (Buddhist) priests.<info lex="m"/>
+;
+;   <s>ayyagaRo</s>  =>  <i>ayyagaṇo</i> 
+;
+94632 new <s>Arya—gaRa</s> ¦ <lex>m.</lex> (<s1 slp1="pAli">Pāli</s1> <i>ayyagaṇo</i>) the whole body of (Buddhist) priests.<info lex="m"/>
+;
+; ------------------------------------------------------
+; <L>26596<pc>152,3<k1>Aryasatya
+94776 old <s>Arya—satya</s> ¦ <lex>n.</lex> (<s1 slp1="pAli">Pāli</s1> <s>ariyasaccam</s>) sublime truth<info lex="n"/>
+;
+;   <s>ariyasaccam</s>  =>  <i>ariyasaccam</i> 
+;
+94776 new <s>Arya—satya</s> ¦ <lex>n.</lex> (<s1 slp1="pAli">Pāli</s1> <i>ariyasaccam</i>) sublime truth<info lex="n"/>
+;
+; ------------------------------------------------------
+; <L>26615<pc>152,3<k1>AryAzwANgamArga
+94845 old <s>AryA<srs/>zwA<srs/>Nga-mArga</s> ¦ <lex>m.</lex> (<s1 slp1="pAli">Pāli</s1> <s>ariyo awWaNgiko maggo</s>) ‘the holy eightfold path’ pointed out by <s1 slp1="budDa">Buddha</s1> for escape from the misery of existence: 1. right views, 2. right thoughts, 3. right words, 4. right actions, 5. right living, 6. right exertion, 7. right recollection, 8. right meditation.<info lex="m"/>
+;
+;   <s>ariyo awWaNgiko maggo</s>  =>  <i>ariyo aṭṭhaṅgiko maggo</i> 
+;
+94845 new <s>AryA<srs/>zwA<srs/>Nga-mArga</s> ¦ <lex>m.</lex> (<s1 slp1="pAli">Pāli</s1> <i>ariyo aṭṭhaṅgiko maggo</i>) ‘the holy eightfold path’ pointed out by <s1 slp1="budDa">Buddha</s1> for escape from the misery of existence: 1. right views, 2. right thoughts, 3. right words, 4. right actions, 5. right living, 6. right exertion, 7. right recollection, 8. right meditation.<info lex="m"/>
+;
+; ------------------------------------------------------
+; <L>28797.11<pc>1320,3<k1>itTA
+102605 old ¦ <ab>accord.</ab> to some also ‘here, hither’, ‘there, thither’, = <ns>Prākṛt</ns> <s>etTa</s>.<info n="sup"/>
+;
+;   <s>etTa</s>  =>  <i>ettha</i> 
+;
+102605 new ¦ <ab>accord.</ab> to some also ‘here, hither’, ‘there, thither’, = <ns>Prākṛt</ns> <i>ettha</i>.<info n="sup"/>
+;
+; ------------------------------------------------------
+; <L>41003.1<pc>1323,2<k1>OdrAyaRa
+144689 old <s>OdrAyaRa</s> ¦ <lex>m.</lex> (for <ns>Prākṛt</ns> <s>uddAyan-a</s>) <ab>N.</ab> of a prince, <ls>HPariś. xiii, 1.</ls> <info n="sup"/><info lex="m"/>
+;
+;   <s>uddAyan-a</s>  =>  <i>uddāyan-a</i> 
+;
+144689 new <s>OdrAyaRa</s> ¦ <lex>m.</lex> (for <ns>Prākṛt</ns> <i>uddāyan-a</i>) <ab>N.</ab> of a prince, <ls>HPariś. xiii, 1.</ls> <info n="sup"/><info lex="m"/>
+;
+; ------------------------------------------------------
+; <L>44770<pc>256,2<k1>karcarikA
+157026 old ¦ (<ab>Beng.</ab> <s>kacurI</s>.)<info lex="inh"/>
+;
+;   <s>kacurI</s>  =>  <i>kacurī</i> 
+;
+157026 new ¦ (<ab>Beng.</ab> <i>kacurī</i>.)<info lex="inh"/>
+;
+; ------------------------------------------------------
+; <L>47042<pc>267,1<k1>kAkapeya
+164446 old <s>kAka—peya</s> ¦ <lex>mfn.</lex> ‘crow-drinkable’, full to the brim or to the brink with water so that a crow may drink <ab>Comm.</ab> on <ls>Pāṇ. ii, 1, 33</ls> (<ab>cf.</ab> <s1 slp1="pAli">Pāli</s1> <s>kAka-peyya</s> in <ns>Mahāparinibbāna</ns> <ns>Sutta</ns>.)<info lex="m:f:n"/>
+;
+;   <s>kAka-peyya</s>  =>  <i>kāka-peyya</i> 
+;
+164446 new <s>kAka—peya</s> ¦ <lex>mfn.</lex> ‘crow-drinkable’, full to the brim or to the brink with water so that a crow may drink <ab>Comm.</ab> on <ls>Pāṇ. ii, 1, 33</ls> (<ab>cf.</ab> <s1 slp1="pAli">Pāli</s1> <i>kāka-peyya</i> in <ns>Mahāparinibbāna</ns> <ns>Sutta</ns>.)<info lex="m:f:n"/>
+;
+; ------------------------------------------------------
+; <L>53891<pc>299,3<k1>kUwasTa
+186333 old ¦ (in <ab>phil.</ab>) immovable, uniform, unchangeable (as the soul, spirit, space, ether, sound, &c.), <ls>Up.</ls>; <ls>Pat.</ls>; <ls>Bhag. vi</ls>, <ls n="Bhag.">xii</ls>; <ls>BhP. iii</ls>, &c. (<s1 slp1="pAli">Pāli</s1>. <s>kUwawWa</s>, <ns>Sāmaññaphala-sutta</ns>)<info lex="inh"/>
+;
+;   <s>kUwawWa</s>  =>  <i>kūṭaṭṭha</i> 
+;
+186333 new ¦ (in <ab>phil.</ab>) immovable, uniform, unchangeable (as the soul, spirit, space, ether, sound, &c.), <ls>Up.</ls>; <ls>Pat.</ls>; <ls>Bhag. vi</ls>, <ls n="Bhag.">xii</ls>; <ls>BhP. iii</ls>, &c. (<s1 slp1="pAli">Pāli</s1>. <i>kūṭaṭṭha</i>, <ns>Sāmaññaphala-sutta</ns>)<info lex="inh"/>
+;
+; ------------------------------------------------------
+; <L>56190<pc>311,1<k1>kEwaBa
+193782 old <s>kEwaBa</s> ¦ <lex>n.</lex> <ab>N.</ab> of a class of writings, <ls>Divyāv. xxxiii</ls> (<s1 slp1="pAli">Pāli</s1> <s>kewuBa</s>), <ls>VarYogay.</ls><info lex="n"/>
+;
+;   <s>kewuBa</s>  =>  <i>keṭubha</i> 
+;
+193782 new <s>kEwaBa</s> ¦ <lex>n.</lex> <ab>N.</ab> of a class of writings, <ls>Divyāv. xxxiii</ls> (<s1 slp1="pAli">Pāli</s1> <i>keṭubha</i>), <ls>VarYogay.</ls><info lex="n"/>
+;
+; ------------------------------------------------------
+; <L>61145<pc>336,1<k1>KaRqasPuwapratisaMskaraRa
+209601 old ¦ (<s1 slp1="pAli">Pāli</s1> <s>°Rqa-Pulla-</s>.)<info lex="inh"/>
+;
+;   <s>°Rqa-Pulla-</s>  =>  <i>°ṇḍa-phulla-</i> 
+;
+209601 new ¦ (<s1 slp1="pAli">Pāli</s1> <i>°ṇḍa-phulla-</i>.)<info lex="inh"/>
+;
+; ------------------------------------------------------
+; <L>62690<pc>343,3<k1>gaRayitrikA
+214541 old <s>gaRayitrikA</s> ¦ <lex>f.</lex> ‘counter’, a rosary, <ls>Jain.</ls> (only <ns>Prākṛt</ns> <s>°NettiyA</s>)<info lex="f"/>
+;
+;   <s>°NettiyA</s>  =>  <i>°ṅettiyā</i> 
+;
+214541 new <s>gaRayitrikA</s> ¦ <lex>f.</lex> ‘counter’, a rosary, <ls>Jain.</ls> (only <ns>Prākṛt</ns> <i>°ṅettiyā</i>)<info lex="f"/>
+;
+; ------------------------------------------------------
+; <L>67806<pc>367,3<k1>goRikA
+231146 old <s>goRikA</s> ¦ <lex>f.</lex> (in <s1 slp1="pAli">Pāli</s1> <s>goRaka</s>) a kind of woollen cloth, <ls>SaddhP. iii.</ls><info lex="f"/>
+;
+;   <s>goRaka</s>  =>  <i>goṇaka</i> 
+;
+231146 new <s>goRikA</s> ¦ <lex>f.</lex> (in <s1 slp1="pAli">Pāli</s1> <i>goṇaka</i>) a kind of woollen cloth, <ls>SaddhP. iii.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; <L>82052<pc>434,1<k1>tad
+277593 old <s>tad</s> ¦ <s>tad</s> (<lex type="hwinfo">ind.</lex>) <s>yaTA</s> ‘in such a manner as follows’, namely, <ab>viz.</ab> <ls>Buddh.</ls> (<ab>cf.</ab> <s1 slp1="pAli">Pāli</s1> <i>seyyathā</i>; <s>sa/ ya/TA-</s>, <ls>ŚBr.</ls>), <ls>Jain.</ls> (in <ns>Prākṛt</ns> <i>taṃ jahā</i>; <ab>cf.</ab> <s>sejjahA</s>), <ls>Pat.</ls>; <ls>Śak.</ls>
+;
+;   <s>sejjahA</s>  =>  <i>sejjahā</i> 
+;
+277593 new <s>tad</s> ¦ <s>tad</s> (<lex type="hwinfo">ind.</lex>) <s>yaTA</s> ‘in such a manner as follows’, namely, <ab>viz.</ab> <ls>Buddh.</ls> (<ab>cf.</ab> <s1 slp1="pAli">Pāli</s1> <i>seyyathā</i>; <s>sa/ ya/TA-</s>, <ls>ŚBr.</ls>), <ls>Jain.</ls> (in <ns>Prākṛt</ns> <i>taṃ jahā</i>; <ab>cf.</ab> <i>sejjahā</i>), <ls>Pat.</ls>; <ls>Śak.</ls>
+;
+; ------------------------------------------------------
+; <L>88466<pc>461,2<k1>trisara
+298409 old ¦ a triple pearl-string (in <ns>Prākṛt</ns> <i>tis°</i> and <s>tisaraya</s> [<s>tri-saraka</s>] <ls>Jain.</ls>), <ls>Pañcad.</ls><info lex="inh"/>
+;
+;   <s>tisaraya</s>  =>  <i>tisaraya</i> 
+;
+298409 new ¦ a triple pearl-string (in <ns>Prākṛt</ns> <i>tis°</i> and <i>tisaraya</i> [<s>tri-saraka</s>] <ls>Jain.</ls>), <ls>Pañcad.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; <L>146442<pc>737,2<k1>bewI
+492697 old <s>bewI</s> ¦ <lex>f.</lex> (<ab>prob.</ab>) a courtezan, <ls>Kāv.</ls> (<ab>cf.</ab> <ab>Hind.</ab> <s>bewI</s>). <info lex="f"/>
+;
+;   <s>bewI</s>  =>  <i>beṭī</i> 
+;
+492697 new <i>beṭī</i> ¦ <lex>f.</lex> (<ab>prob.</ab>) a courtezan, <ls>Kāv.</ls> (<ab>cf.</ab> <ab>Hind.</ab> <i>beṭī</i>). <info lex="f"/>
+;
+; ------------------------------------------------------
+; <L>146524<pc>737,3<k1>bollaka
+492943 old <s>bollaka</s> ¦ <lex>m.</lex> (<s>bahu-b°</s>) a great talker, <ls>Divyāv.</ls> (<ab>cf.</ab> <ab>Hind.</ab> <s>bolnA</s>, to speak). <info lex="m"/>
+;
+;   <s>bolnA</s>  =>  <i>bolnā</i> 
+;
+492943 new <s>bollaka</s> ¦ <lex>m.</lex> (<s>bahu-b°</s>) a great talker, <ls>Divyāv.</ls> (<ab>cf.</ab> <ab>Hind.</ab> <i>bolnā</i>, to speak). <info lex="m"/>
+;
+; ------------------------------------------------------
+; <L>152348<pc>764,1<k1>BUri
+512115 old <s>BU/ri</s> ¦ <lex>f.</lex> (<ab>cf.</ab> <s1 slp1="pAli">Pāli</s1> <s>BUrI</s>) reason, intellect, <ls>Lalit.</ls><info lex="f"/>
+;
+;   <s>BUrI</s>  =>  <i>bhūrī</i> 
+;
+512115 new <s>BU/ri</s> ¦ <lex>f.</lex> (<ab>cf.</ab> <s1 slp1="pAli">Pāli</s1> <i>bhūrī</i>) reason, intellect, <ls>Lalit.</ls><info lex="f"/>
+;
+; ------------------------------------------------------
+; <L>156715<pc>783,2<k1>manaApa
+526286 old <s>mana—Apa</s> ¦ <lex>mfn.</lex> gaining the heart, attracting, beautiful, <ls>L.</ls> (<ab>cf.</ab> <s1 slp1="pAli">Pāli</s1> <s>manApa</s>). <info lex="m:f:n"/>
+;
+;   <s>manApa</s>  =>  <i>manāpa</i> 
+;
+526286 new <s>mana—Apa</s> ¦ <lex>mfn.</lex> gaining the heart, attracting, beautiful, <ls>L.</ls> (<ab>cf.</ab> <s1 slp1="pAli">Pāli</s1> <i>manāpa</i>). <info lex="m:f:n"/>
+;
+; ------------------------------------------------------
+; <L>159253<pc>794,3<k1>mahadgata
+534488 old <s>mahad—gata</s> ¦ <lex>mfn.</lex> great, <ls>Divyāv.</ls> (<ab>cf.</ab> <s1 slp1="pAli">Pāli</s1> <s>mahaggato</s>). <info lex="m:f:n"/>
+;
+;   <s>mahaggato</s>  =>  <i>mahaggato</i> 
+;
+534488 new <s>mahad—gata</s> ¦ <lex>mfn.</lex> great, <ls>Divyāv.</ls> (<ab>cf.</ab> <s1 slp1="pAli">Pāli</s1> <i>mahaggato</i>). <info lex="m:f:n"/>
+;
+; ------------------------------------------------------
+; <L>168461<pc>835,2<k1>mocika
+564669 old <s>mocika</s> ¦ <lex>m.</lex> a tanner or shoemaker (<ab>cf.</ab> <ab>Hind.</ab> <s>moCI</s>), <ls>L.</ls><info lex="m"/>
+;
+;   <s>moCI</s>  =>  <i>mochī</i> 
+;
+564669 new <s>mocika</s> ¦ <lex>m.</lex> a tanner or shoemaker (<ab>cf.</ab> <ab>Hind.</ab> <i>mochī</i>), <ls>L.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; <L>171018<pc>849,1<k1>yA
+573567 old <div n="to"/>to live (<s1 slp1="pAli">Pāli</s1> <s>yApeti</s>), <ls>Divyāv.</ls>;
+;
+;   <s>yApeti</s>  =>  <i>yāpeti</i> 
+;
+573567 new <div n="to"/>to live (<s1 slp1="pAli">Pāli</s1> <i>yāpeti</i>), <ls>Divyāv.</ls>;
+;
+; ------------------------------------------------------
+; <L>237339<pc>1181,2<k1>samyakprahARa
+790787 old <s>samyak—prahARa</s> ¦ <lex>n.</lex> (= <s1 slp1="pAli">Pāli</s1> <s>sammappaDAna</s>) right abandonment, <ab n="right">r°</ab> effort, <ab n="right">r°</ab> exertion (with <ns>Buddhists</ns> of four kinds, 1. to prevent demerit from arising, 2. get rid of it when arisen, 3. produce merit, 4. increase it), <ls>Divyāv.</ls><info lex="n"/>
+;
+;   <s>sammappaDAna</s>  =>  <i>sammappadhāna</i> 
+;
+790787 new <s>samyak—prahARa</s> ¦ <lex>n.</lex> (= <s1 slp1="pAli">Pāli</s1> <i>sammappadhāna</i>) right abandonment, <ab n="right">r°</ab> effort, <ab n="right">r°</ab> exertion (with <ns>Buddhists</ns> of four kinds, 1. to prevent demerit from arising, 2. get rid of it when arisen, 3. produce merit, 4. increase it), <ls>Divyāv.</ls><info lex="n"/>
+;
+; ------------------------------------------------------
+; <L>252304<pc>1247,2<k1>sevi
+839719 old ¦ an apple (in this sense <ab>prob.</ab> <ab>fr.</ab> Persian <s>seb</s>), <ls>L.</ls><info lex="inh"/>
+;
+;   <s>seb</s>  =>  <i>seb</i> 
+;
+839719 new ¦ an apple (in this sense <ab>prob.</ab> <ab>fr.</ab> Persian <i>seb</i>), <ls>L.</ls><info lex="inh"/>
+;
+; ------------------------------------------------------
+; <L>264412<pc>1305,2<k1>hevAka
+878913 old <s>hevAka</s> ¦ <lex>m.</lex> (said to be <ab>fr.</ab> <ns>Marāṭhī</ns> <s>hevA</s>, ‘ardent desire’) a whim, caprice, <ls>Vcar.</ls>; <ls>Āryav.</ls><info lex="m"/>
+;
+;   <s>hevA</s>  =>  <i>hevā</i> 
+;
+878913 new <s>hevAka</s> ¦ <lex>m.</lex> (said to be <ab>fr.</ab> <ns>Marāṭhī</ns> <i>hevā</i>, ‘ardent desire’) a whim, caprice, <ls>Vcar.</ls>; <ls>Āryav.</ls><info lex="m"/>
+;
+; ------------------------------------------------------
+; <L>264459<pc>1305,3<k1>hEvam
+879057 old <s>hEvam</s> ¦ <lex>ind.</lex> = <s1 slp1="pAli">Pāli</s1> <s>hevam</s>, <ls>Divyāv.</ls><info lex="ind"/>
+;
+;   <s>hevam</s>  =>  <i>hevam</i> 
+;
+879057 new <s>hEvam</s> ¦ <lex>ind.</lex> = <s1 slp1="pAli">Pāli</s1> <i>hevam</i>, <ls>Divyāv.</ls><info lex="ind"/>
+;
+; *****************************************************
+; temp_cog_i.txt  no change. These words are marked <i>
+; and classified as cognate words in AB_addl.cognates.txt
+; *****************************************************
+;  * cog (85) Additional cognate words
+;  ; from AB_addl.cognates.txt
+;  ; these are already marked with <i> in cdsl
+;  ; the <i*> below is just for testing.
+;  <i>-rattī</i>	<i*>-rattī</i*>
+;  <i>a-maṇuṇṇa</i>	<i*>a-maṇuṇṇa</i*>
+;  <i>a-māī</i>	<i*>a-māī</i*>
+;  <i>abahā</i>	<i*>abahā</i*>
+;  <i>abbamhaṇaṃ</i>	<i*>abbamhaṇaṃ</i*>
+;  <i>abhisekka</i>	<i*>abhisekka</i*>
+;  <i>accāhida</i>	<i*>accāhida</i*>
+;  <i>addhuṭṭha</i>	<i*>addhuṭṭha</i*>
+;  <i>ajja-utta</i>	<i*>ajja-utta</i*>
+;  <i>asi-laṭṭhi</i>	<i*>asi-laṭṭhi</i*>
+;  <i>assatthadā</i>	<i*>assatthadā</i*>
+;  <i>atthāha</i>	<i*>atthāha</i*>
+;  <i>avahā</i>	<i*>avahā</i*>
+;  <i>avihā</i>	<i*>avihā</i*>
+;  <i>bhaṭṭā</i>	<i*>bhaṭṭā</i*>
+;  <i>ch</i>	<i*>ch</i*>
+;  <i>chauma-ttha</i>	<i*>chauma-ttha</i*>
+;  <i>cokkha</i>	<i*>cokkha</i*>
+;  <i>d</i>	<i*>d</i*>
+;  <i>dasalatha</i>	<i*>dasalatha</i*>
+;  <i>daṃse</i>	<i*>daṃse</i*>
+;  <i>e</i>	<i*>e</i*>
+;  <i>ee</i>	<i*>ee</i*>
+;  <i>ei</i>	<i*>ei</i*>
+;  <i>g</i>	<i*>g</i*>
+;  <i>gallakka</i>	<i*>gallakka</i*>
+;  <i>gaṇṭhi-bheyaga</i>	<i*>gaṇṭhi-bheyaga</i*>
+;  <i>geddha-paṭṭhaga</i>	<i*>geddha-paṭṭhaga</i*>
+;  <i>geruya</i>	<i*>geruya</i*>
+;  <i>geṇh</i>	<i*>geṇh</i*>
+;  <i>ghuṇ'akkhara</i>	<i*>ghuṇ'akkhara</i*>
+;  <i>giṇh</i>	<i*>giṇh</i*>
+;  <i>gosāin</i>	<i*>gosāin</i*>
+;  <i>gov'-inda</i>	<i*>gov'-inda</i*>
+;  <i>guppam°</i>	<i*>guppam°</i*>
+;  <i>gāya-laṭṭhi</i>	<i*>gāya-laṭṭhi</i*>
+;  <i>h</i>	<i*>h</i*>
+;  <i>i</i>	<i*>i</i*>
+;  <i>j</i>	<i*>j</i*>
+;  <i>jadha</i>	<i*>jadha</i*>
+;  <i>jīya</i>	<i*>jīya</i*>
+;  <i>k</i>	<i*>k</i*>
+;  <i>kalla-vatta</i>	<i*>kalla-vatta</i*>
+;  <i>kaḍuida</i>	<i*>kaḍuida</i*>
+;  <i>koḍī-varisa</i>	<i*>koḍī-varisa</i*>
+;  <i>kucca</i>	<i*>kucca</i*>
+;  <i>kumbhī̆laa</i>	<i*>kumbhī̆laa</i*>
+;  <i>l</i>	<i*>l</i*>
+;  <i>mehākkho</i>	<i*>mehākkho</i*>
+;  <i>o</i>	<i*>o</i*>
+;  <i>odhāria</i>	<i*>odhāria</i*>
+;  <i>ou</i>	<i*>ou</i*>
+;  <i>ovaḍaṇa</i>	<i*>ovaḍaṇa</i*>
+;  <i>pabbhāra</i>	<i*>pabbhāra</i*>
+;  <i>r</i>	<i*>r</i*>
+;  <i>ri</i>	<i*>ri</i*>
+;  <i>ru</i>	<i*>ru</i*>
+;  <i>rukkha</i>	<i*>rukkha</i*>
+;  <i>s</i>	<i*>s</i*>
+;  <i>savva-ṇṇu</i>	<i*>savva-ṇṇu</i*>
+;  <i>seyyathā</i>	<i*>seyyathā</i*>
+;  <i>sh</i>	<i*>sh</i*>
+;  <i>t</i>	<i*>t</i*>
+;  <i>taṃ jahā</i>	<i*>taṃ jahā</i*>
+;  <i>teyali</i>	<i*>teyali</i*>
+;  <i>tis°</i>	<i*>tis°</i*>
+;  <i>tti</i>	<i*>tti</i*>
+;  <i>u</i>	<i*>u</i*>
+;  <i>uba-cchandido</i>	<i*>uba-cchandido</i*>
+;  <i>ummādaïttaaṃ</i>	<i*>ummādaïttaaṃ</i*>
+;  <i>uttāṇahiaa</i>	<i*>uttāṇahiaa</i*>
+;  <i>v</i>	<i*>v</i*>
+;  <i>vi-saṃthula</i>	<i*>vi-saṃthula</i*>
+;  <i>w</i>	<i*>w</i*>
+;  <i>y</i>	<i*>y</i*>
+;  <i>°bola</i>	<i*>°bola</i*>
+;  <i>°diddha</i>	<i*>°diddha</i*>
+;  <i>°luka</i>	<i*>°luka</i*>
+;  <i>°miya</i>	<i*>°miya</i*>
+;  <i>°ratta</i>	<i*>°ratta</i*>
+;  <i>°thaka</i>	<i*>°thaka</i*>
+;  <i>°tṛka</i>	<i*>°tṛka</i*>
+;  <i>āojja</i>	<i*>āojja</i*>
+;  <i>āya-rakkhaya</i>	<i*>āya-rakkhaya</i*>
+;  <i>āyāma</i>	<i*>āyāma</i*>
+;  ------------------------------

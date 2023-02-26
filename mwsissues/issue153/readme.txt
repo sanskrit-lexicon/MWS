@@ -418,6 +418,7 @@ Revise issue/153  comments
 
 ---------------------------------------------------------------------------
 change_7:  more greek corrections
+---------------------------------------------------------------------------
 Based on AB.vs.CDSL.greek.text.differences.txt
 cp temp_mw_6.txt temp_mw_7_work.txt
 # manually edit temp_mw_7_work.txt
@@ -452,6 +453,208 @@ cd /c/xampp/htdocs/cologne/csl-orig
 git pull
 git add v02/mw/mw.txt
 git commit -m "MW: corrections from AB.vs.CDSL.greek.text.differences.txt.
+Ref: https://github.com/sanskrit-lexicon/MWS/issues/153"
+
+git push
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue153
+--------------------------------
+update mw at at Colgone.
+--------------------------------
+update this MWS repository
+--------------------------------
+Revise issue/153  comments
+
+---------------------------------------------------------------------------
+change_8:  Additional Corrections from AB
+---------------------------------------------------------------------------
+Based on AB.CDSL_cognates.corrections.txt
+cp temp_mw_7.txt temp_8.txt
+touch change_8.txt
+----------------------
+AB.CDSL_cognates.corrections_slp1.txt
+<s>X</s> -> <s>Y</s>
+In AB file, X is in IAST .
+Change to Y, slp1
+Transcoding rules taken from repository mw-dev at orig/mwtranscode/transcoder1
+
+cd transcode
+python transcode.py roman slp1 ../AB.CDSL_cognates.corrections.txt ../AB.CDSL_cognates.corrections_slp1.txt
+
+220 lines written to ../AB.CDSL_cognates.corrections_slp1.txt
+19 lines changed
+
+Some manual adjustments to .._slp1, to simplify change generation
+
+----------------------
+Construct change_8.txt in 7 steps, for the different groups
+* etym_s (8) <etym> to <s> 
+* s_etym (22) <s> to <etym>
+* misc (89) miscellaneous corrections 
+* untag (10) Un-tagged words
+* diac (60) Diacritic separately marked 
+* hyph (6) Hyphenation errors
+* indic (7) Indic words 
+
+----------------------
+* etym_s (8) <etym> to <s>
+python change_8.py etym_s temp_mw_8.txt AB.CDSL_cognates.corrections_slp1.txt temp_change_8_etym_s.txt
+
+# insert temp_change_8_etym_s.txt into change_8.txt
+python updateByLine.py temp_mw_7.txt change_8.txt temp_mw_8.txt
+
+----------------------
+* s_etym (19) <s> to <etym>
+python change_8.py s_etym temp_mw_8.txt AB.CDSL_cognates.corrections_slp1.txt temp_change_8_s_etym.txt
+
+# insert temp_change_8_s_etym.txt into change_8.txt
+python updateByLine.py temp_mw_7.txt change_8.txt temp_mw_8.txt
+24 change transactions from change_8.txt
+
+----------------------
+* s_etym1 (3)  <s> to <etym> editing needed
+python change_8.py s_etym1 temp_mw_8.txt AB.CDSL_cognates.corrections_slp1.txt temp_change_8_s_etym1.txt
+
+# edit temp_change_8_s_etym1.txt to remove false changes.
+# insert temp_change_8_s_etym1.txt into change_8.txt
+python updateByLine.py temp_mw_7.txt change_8.txt temp_mw_8.txt
+27 change transactions from change_8.txt
+
+----------------------
+* misc (89) miscellaneous corrections 
+
+python change_8.py misc temp_mw_8.txt AB.CDSL_cognates.corrections_slp1.txt temp_change_8_misc.txt
+55 line changes written to temp_change_8_misc.txt
+
+# insert temp_change_8_misc.txt into change_8.txt
+python updateByLine.py temp_mw_7.txt change_8.txt temp_mw_8.txt
+82 change transactions from change_8.txt
+
+----------------------
+* misc1 (3)  <s> to <etym> editing needed
+python change_8.py misc1 temp_mw_8.txt AB.CDSL_cognates.corrections_slp1.txt temp_change_8_misc1.txt
+10 line changes written to temp_change_8_misc1.txt
+W
+# edit temp_change_8_misc1.txt to examine
+# insert temp_change_8_misc1.txt into change_8.txt
+python updateByLine.py temp_mw_7.txt change_8.txt temp_mw_8.txt
+92 change transactions from change_8.txt
+
+ĕ  LATIN SMALL LETTER E WITH BREVE U+0115
+  5 times in mw_AB 3 lines  [Zend]
+ 13 times in mw.txt (before change)
+ě  LATIN SMALL LETTER E WITH CARON U+011B
+ 22 times in mw_AB
+ 18 times in mw.txt (before change)
+
+----------------------
+* untag (7) Un-tagged items
+python change_8.py untag temp_mw_8.txt AB.CDSL_cognates.corrections_slp1.txt temp_change_8_untag.txt
+10 line changes written to temp_change_8_untag.txt
+W
+# spot check temp_change_8_untag.txt
+# insert temp_change_8_untag.txt into change_8.txt
+python updateByLine.py temp_mw_7.txt change_8.txt temp_mw_8.txt
+100 change transactions from change_8.txt
+
+----------------------
+* diac (60) Diacritic separately marked 
+python change_8.py diac temp_mw_8.txt AB.CDSL_cognates.corrections_slp1.txt temp_change_8_diac.txt
+42 line changes written to temp_change_8_diac.txt
+
+# spot check temp_change_8_diac.txt
+# insert temp_change_8_diac.txt into change_8.txt
+python updateByLine.py temp_mw_7.txt change_8.txt temp_mw_8.txt
+142 change transactions from change_8.txt
+
+----------------------
+* hyph (6) Hyphenation errors
+python change_8.py hyph temp_mw_8.txt AB.CDSL_cognates.corrections_slp1.txt temp_change_8_hyph.txt
+6 line changes written to temp_change_8_hyph.txt
+
+# spot check temp_change_8_hyph.txt
+# insert temp_change_8_hyph.txt into change_8.txt
+python updateByLine.py temp_mw_7.txt change_8.txt temp_mw_8.txt
+148 change transactions from change_8.txt
+
+----------------------
+* indic (7) Indic words 
+python change_8.py indic temp_mw_8.txt AB.CDSL_cognates.corrections_slp1.txt temp_change_8_indic.txt
+12 line changes written to temp_change_8_indic.txt
+#  Note a few of these 12 changes are inappropriate.
+# spot check temp_change_8_indic.txt. remove inappropriate changes.
+# insert temp_change_8_indic.txt into change_8.txt
+python updateByLine.py temp_mw_7.txt change_8.txt temp_mw_8.txt
+155 change transactions from change_8.txt
+
+----------------------
+* cog (127) Additional cognate words
+; from AB_addl.cognates.txt
+
+#python change_8.py cog temp_mw_8.txt AB.CDSL_cognates.corrections_slp1.txt temp_change_8_cog.txt
+python change_8.py cog temp_mw_8.txt tempcog.txt temp_change_8_cog.txt
+line changes written to temp_change_8_cog.txt
+#  Note a few of these 12 changes are inappropriate.
+# spot check temp_change_8_cog.txt. remove inappropriate changes.
+# insert temp_change_8_cog.txt into change_8.txt
+python updateByLine.py temp_mw_7.txt change_8.txt temp_mw_8.txt
+change transactions from change_8.txt
+
+
+----------------------
+cd transcode
+python transcode.py roman slp1 ../tempcog_s.txt ../tempcog_s_slp1.txt
+cd ../
+
+
+127  tempcog.txt     all items from  AB_addl.cognates
+ 85 tempcog_i.txt   items from AB_addl.cognates cdsl marked  <i> 
+ 32 tempcog_s_slp1.txt   to change from <s>X</s> to <i>Y</i> (X slp1, Y diacritics)
+ 10  tempcog_nots.txt  not sure how to handle
+(+ 85 32 10) = 127.  
+
+----------------------
+python change_8.py cog_nots temp_mw_8.txt tempcog_nots.txt temp_change_8_cog_nots.txt
+10 line changes written to temp_change_8_cog_nots.txt
+#  Note a few of these 12 changes are inappropriate.
+# spot check temp_change_8_cog_nots.txt. remove inappropriate changes.
+# insert temp_change_8_cog_nots.txt into change_8.txt
+python updateByLine.py temp_mw_7.txt change_8.txt temp_mw_8.txt
+164 change transactions from change_8.txt
+
+----------------------
+python change_8.py cog_s temp_mw_8.txt tempcog_s_slp1.txt temp_change_8_cog_s.txt
+30 line changes written to temp_change_8_cog_s.txt
+#  Note a few of these 12 changes are inappropriate.
+# spot check temp_change_8_cog_s.txt. remove inappropriate changes.
+# insert temp_change_8_cog_s.txt into change_8.txt
+python updateByLine.py temp_mw_7.txt change_8.txt temp_mw_8.txt
+194 change transactions from change_8.txt
+
+----------------------
+<L>216842.1<pc>1071,2<k1>SiNGinI<k2>SiNGinI<e>2E
+722856 old <s>SiNGinI</s> ¦ [<ab>cf.</ab> <ab>Germ.</ab> <etym>Zinken</etym>]
+<LEND>
+  This may be a steganographic entry by Thomas! (Have asked him)
+---------------------------------------------------------------------------
+# install  temp_mw_8.txt 
+cp temp_mw_8.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../mw
+# 11 records not parsed by ET
+#  -- these have to be found and corrected in change_8.txt
+sh xmlchk_xampp.sh mw
+# correct errors
+# rerun until
+ #prints 'ok'
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue153
+---------------------------------------------------------------------------
+# update csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig
+git pull
+git add v02/mw/mw.txt
+git commit -m "MW: corrections from AB.CDSL_cognates.corrections.txta
+and AB_addl.cognates.txt.
 Ref: https://github.com/sanskrit-lexicon/MWS/issues/153"
 
 git push
