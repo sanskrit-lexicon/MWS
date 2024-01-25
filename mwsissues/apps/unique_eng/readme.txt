@@ -1,4 +1,4 @@
-
+https://github.com/sanskrit-lexicon/MWS/issues/127
 cp  ../../unique_section-wise_entries_Andhrabharati/'unique words extracted.txt' temp_unique_words.txt
 
 
@@ -117,3 +117,18 @@ git pull
 cp temp_mw_4.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
 
 cd /c/xampp/htdocs/cologne/csl-orig/v02/
+--------------------------------------------------------------------
+01-25-2024
+Per requests
+in words_mw_noneng_2.txt,
+ Revise comments at Rakshases, Ushases, anum, cerebralisation
+
+in mw.txt (csl-orig),
+ change cerebralisation back to cerebralization
+cp temp_mw_4.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+ revise csl-orig
+revise changes_2.txt (cerebralization)
+in mw_printchange.txt (csl-corrections)
+ Remove cerebralization
+ 
+ 

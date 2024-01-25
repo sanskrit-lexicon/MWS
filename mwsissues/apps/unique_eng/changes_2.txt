@@ -724,9 +724,10 @@
 361775 new <s>niz—kriyA<srs/>tma-tA</s> ¦ <lex>f.</lex> inactivity, non-performance of religious acts or prescribed duties, <ls>Mn.</ls>; <ls>MBh.</ls><info lex="f"/>
 ;---------------------------------------------------
 ; <L>110300<pc>559,3<k1>niveSa<k2>ni-veSa/<h>a<e>3
-371713 old <s>ni-°veSa/</s> <hom>a</hom> ¦ <lex>m.</lex> (the initial <s>n</s> not subject to cerebralisation <ab>g.</ab> <s>kzuBnA<srs/>di</s>) entering, settling in a place, encamping, halting, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex="m"/>
+;; reverted cerebralization to cerebralisation
+;371713 old <s>ni-°veSa/</s> <hom>a</hom> ¦ <lex>m.</lex> (the initial <s>n</s> not subject to cerebralisation <ab>g.</ab> <s>kzuBnA<srs/>di</s>) entering, settling in a place, encamping, halting, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex="m"/>
 ;
-371713 new <s>ni-°veSa/</s> <hom>a</hom> ¦ <lex>m.</lex> (the initial <s>n</s> not subject to cerebralization <ab>g.</ab> <s>kzuBnA<srs/>di</s>) entering, settling in a place, encamping, halting, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex="m"/>
+;371713 new <s>ni-°veSa/</s> <hom>a</hom> ¦ <lex>m.</lex> (the initial <s>n</s> not subject to cerebralization <ab>g.</ab> <s>kzuBnA<srs/>di</s>) entering, settling in a place, encamping, halting, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex="m"/>
 ;---------------------------------------------------
 ; <L>116813<pc>590,1<k1>parAgdfS<k2>parAg—dfS<h>b<e>3
 394282 old <s>parAg—dfS</s> <hom>b</hom> ¦ <lex>mfn.</lex> having the eye tumed towards the outer world, <ls>BhP.</ls><info lex="m:f:n"/>

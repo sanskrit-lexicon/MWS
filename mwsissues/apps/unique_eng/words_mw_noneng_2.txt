@@ -222,7 +222,7 @@ Punnag 1; nf; plant "Punnaag"
 Punpun 1; nf; geographical name
 Putcabarry 1; nf; geographical name
 Quilon 1; nf; former name of Kollam
-Rakshases 2; nf; Rakshasas
+Rakshases 2; nf; Rakshasas ;;AB plural of Rakshas, no change required
 Ramtek 1; nf; geographical name
 Retti 3; nf; Ratti
 Sacae 1; found; an ancient people settled in the eastern part of Iran
@@ -255,7 +255,7 @@ Tinnevelly 1; nf; geographical name
 Tiruparur 1; nf; geographical name, maybe "Tirupur"
 Trimbak 1; nf; geographical name
 Tumbudra 1; nf; geographical name
-Ushases 1; nf; Ushas
+Ushases 1; nf; Ushas ;;AB plural of Ushas, no change required
 VIth 1; nf; number "6th"
 Vaidic 1; nf; Vedic
 Vallasor 1; nf; Vallas or (typo) ;; `<s1 slp1="valla">Valla</s1>s or` prev. change
@@ -319,7 +319,7 @@ anthropophagus 1; found
 antibilious 5; found
 antiphlegmatic 2; nf ;;AB anti-phlegmatic (used to reduce phlegm)
 antorhiza 1; nf; bot (don't marked "bot");; 2024 correction L=70703
-anum 1; nf; maybe "per annum" (in this case - print change) ;; no change. anum in pw, but otherwise not found
+anum 1; nf; maybe "per annum" (in this case - print change) ;; no change. anum in pw, but otherwise not found ;;AB This does not indicate "per annum" ; for the context (there are some more places that pw has used "per anum") seems to mean "from/by anus", anum being the inflected form of Anus (Latin word).
 apishness 1; found
 apostacy 3; found; archaic variant of apostasy
 appetise 1; found
@@ -432,7 +432,10 @@ causelessly 11; found
 ccl 2; nf; col. (typo);; 2024 correction L=132651, 132652
 celestials 2; found
 centrically 1; found
-cerebralisation 1; nf; cerebralization (typo);; 2024 correction L=110300 niveSa PRINT CHANGE
+cerebralisation 1; nf; cerebralization (typo);; 2024 correction L=110300 niveSa PRINT CHANGE ;;AB Revert change
+;; AB there are few more cases of such 's-z' variants-- realization (5) vs. realisation (4); cauterization (4) vs. cauterisation (1)
+;; AB these American and British spelling variations may be seen throughout the MW text (see for e.g. courtezan, courtesan)
+;; AB thus. I feel that this particular 'print-change' correction is to be reverted back. ;; Jim reverted
 cerebralization 1; found
 cerebralize 1; found
 cerebralized 4; found
