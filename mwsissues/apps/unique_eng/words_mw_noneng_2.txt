@@ -1,0 +1,1530 @@
+Abu 1; nf; geographical name
+Acajou 1; found; (cashew-nut)
+Aethiops 1; found; Latin word - Black sulphide of mercury
+Agohya 1; nf; astronomy, Sanskrit word ;; ok <s1 slp1="agohya">Agohya</s1>
+Ajmere 4; nf; Ajmer ;; geographical name
+Akesines 1; nf; geographical name
+Alkindi 1; found; Arabic astronomer
+Ambra 1; nf; perfume
+Amphimacers 1; found; a trisyllabic foot
+Anisum 2; found ;; ? <bot>Anisum</bot>  Maybe remove <bot> markup?
+Antaeci 1; nf; Antoeci ;; a term of geography. Antoeci is like modern spelling
+Aquarii 1; found; Latin, astronomy, aquarians
+Aquilae 1; found; Latin, astronomy, Aquila
+Aravalli 1; found;  a chain of mountains
+Arcot 2; found; a district
+Arka 1; nf; plant ;;  'plant' wrong - sun.  <s1 slp1="arka">Arka</s1> prob.
+Arrian 2; nf; name of a Greek historian
+Attok 1; found; a district
+Aurigae 2; found; Latin, astronomy, Auriga
+Aurungzeb 1; nf; a name
+Bagdad 1; found; geographical name ;;  modern Baghdad
+Bahar 1; nf; geographical name ;; -> Bihar (prtchg) ? cf BUR
+Banarjea 1; nf; a name
+Bandah 1; nf; geographical name "Banda"
+Bandelkhand 2; nf; geographical name "Bundelkhand"
+Bardwaln 1; nf; geographical name "Bardwān'
+Baroch 1; nf; geographical name
+Beas 2; found; a river
+Bedar 1; nf; geographical name
+Beercool 1; nf; geographical name
+Behar 7; found; geographical name
+Betwa 1; found; a river
+Bhagalpur 1; found; geographical name
+Bhatt 1; nf; Bhaṭṭ. and after a semi-colon (should be<ls>Bhaṭṭ.</ls> ) (typo) ;; has been changed
+Bidar 1; found; an inhabitant of the city Bedar
+Bidaspes 1; nf; Greek word
+Bihat 1; nf; geographical name
+Bilsa 1; nf; geographical name
+Bitasta 1; nf; geographical name
+Bitnoben 1; found; a medicinal salt
+Blest 25; found; archaic or literary term for blessed
+Boro 1; found; a kind of rice
+Bos 30; found; bio
+  ;; 41 matches in 39 lines for "\bBos\b" in buffer: temp_mw_2.txt
+  ;; 5 matches for "<bio>Bos</bio> <bio>grunniens</bio>" in buffer: temp_mw_2.txt
+  ;; 2 matches for "<bio>Bos</bio> <bio>gavaeus</bio>" in buffer: temp_mw_2.txt
+  ;; 1 match for "<bio>Bos Grunniens</bio>" in buffer: temp_mw_2.txt
+  ;;  etc. etc.
+
+Brahmin 1; found; also Brahman
+Braj 2; nf; geographical name
+Buddhac 1; nf; name of the text but I don't know which exactly
+   ;; prev. change <ls>Buddhac. ix, 48</ls>; <ls n="Buddhac. ix,">51</ls>  text = Buddhacarita
+Buddhahood 2; found
+Buddhistic 7; found
+Bundalkhand 1; nf; geographical name "Bundelkhand" ;; prev. change
+Bundelcund 2; nf; probably geographical name "Bundelkhand"
+Bundelkhund 1; nf; probably geographical name "Bundelkhand"
+Bundelkund 1; nf; probably geographical name "Bundelkhand"
+Burnouf 1; nf; a name
+Butan 1; nf; geographical name "Bhutan"
+Cabul 2; nf; geographical name "Kabul"
+Cambay 1; found; geographical name
+Canogyza 1; nf; geographical name
+Capello 1; found; bio - the Cobra de Capello
+Capricornus 5; found; a zodiacal constellation
+Carroway 3; nf; plant "Caraway" (print change) ;; no change made. Carroway is print form.
+Catarkot 1; nf; geographical name "Chatarkot"
+Cathartocarpus 1; nf; plant
+Caunpore 1; nf; geographical name (or Cawnpore), former name of Kanpur.
+ChUP 2; nf; title of a text, maybe Chāndogya Upaniṣad ;; previously changed
+Chambal 1; found; a river
+Chandoiu 1; nf; looks like a Sanskrit word ;; prev. change to <ls>Chandom.</ls> ;;AB this is a typo for Chandom. (abbr. for Chandomanjari)
+Charantia 1; nf; plant, should be marked by "bot" ;; prev. change
+Chatarjea 1 nf; name
+Chatarkot 1; nf; geographical name
+Chattar 2; nf; Sanskrit name of a parasol, the "chhatra"
+Chet 1; nf; name
+Chidambaram 1; nf; geographical name
+Chiromantia 1; nf; Chiromancy
+Chor 2; nf; Sanskrit word "Chora"
+Chora 1; nf; Sanskrit word
+Chowrie 2; found; a fly-whisk, also "chowri", "chauri"
+Chupra 1; nf; geographical name
+Coromandel 7; found; geographical name
+Coronoideus 1; nf; Latin word, Anatomy
+Cossia 1; nf; geographical name
+Cucurbitaceous 7; found; plant
+Cuttack 3; found; geographical name
+Dacca 2; found; the former name of Dhaka
+Dakhin 1; nf; geographical name
+Dekhan 15; nf; geographical name
+Deotar 1; nf; a kind of grass
+Devicotta 1; geographical name "Devikot"
+Devikote 1; geographical name "Devikot"
+Dhora 1; nf; a sort of snake
+Dilli 1; nf; geographical name "Delhi", this comment exists in the MW
+Doab 3; found; geographical name
+Dorje 1; found; a ritual object
+Entropium 2; nf; Entropion (print change) ;; no change
+Faithfulnesses 1; found
+Farrukhabad 1; found; geographical name
+Ferash 1; found; a servant (as in the Indian subcontinent)
+Fyzabad 1; nf; geographical name "Faizabad"
+Galmei 1; nf  ;; confirm PW ;;AB German word for Calamine
+Garha 1; nf; geographical name
+Gavaeus 8; nf; Latin word, bio
+Ghauts 1; nf; probably - "ghat", which exists in dictionaries
+Girnar 2; nf; geographical name
+Gogra 3; nf; river "Ghaghara"
+Goldst 1; nf; part of the name ;; prev. change to <ls>Goldst.</ls>
+Gondwana 2; nf; geographical name
+Gorakhpur 1; found; geographical name
+Gorkha 1; nf; name of an ethnic group
+Guzerat 2; found; better to recheck, maybe other meaning - "Gujarat"
+   ;; pwg has Guzerate, wil has Guzerat
+Habush 2; nf ;;AB a plant name in Bengali; look at the SKD entry हपुषा.
+Haraquaiti 1; nf; geographical name
+Hiouenthsang 2 nf; name, also Xuanzang or Hsuan Tsang ;; prev. chg. Hiouen-thsang, per print.
+Holi 3; found; name of a festival
+Hydaspes 2; found; geographical name
+Hyphasis 1; found; ancient Greek name for river Beas
+Indica 2; nf; Latin word, bio ;; bot
+Indoscythians 1; nf; Indo-Scythians (print change) ;; prev. chg.
+Iskandar 1; nf; name
+Jainas 3; found; or "Jains"
+Jains 7; found; adherents of Jainism
+Jumbooseer 1; nf; geographical name
+Jumnotri 1; nf; geographical name "Yamunotri"
+Kaegi 1; nf; name of a Swiss philologist ;; prev. chg to <ls>Kaegi,...
+Kalkia 1; nf; probably a Sanskrit word  ;; prev. chg to <ns>Kalkia</ns> 
+Kandesh 1; nf; geographical name
+Kanouj 5; nf; Kanauj (print change) ;; prev. chg to Kanauj (typo)
+Kapurthala 1; nf; geographical name
+Karil 1; nf; Bengali name of a plant
+Karinda 1; nf; name of a plant
+Karir 1; nf; Urdu name of a plant
+Karman 1; nf; probably here is a Sanskrit grammatical term
+Karnatic 1; nf; Carnatic
+Karonda 1; nf; Hindi name of a plant
+Kayar 1; nf; name of a bird
+Khandesh 1; nf; geographical name
+Khorasan 1; found; geographical name
+Khunmoh 1; nf; geographical name
+Kirrhadae 1; nf; Greek word of an ethnic group
+Kol 1; nf; probably a name or an ethnic group
+Kollam 1; nf; Malayalam Calendar
+Kondavir 1; nf; geographical name
+Koosa 1; nf; geographical name
+Kosam 1; nf; geographical name
+Kosi 1; nf; geographical name
+Kowries 1; nf; Cowries
+Krore 1; nf; Crore
+Kucai 1; nf; name of a plant
+Kullu 1; nf; geographical name
+Kuttack 1; nf; Cuttack
+Lamghan 2; nf; probably geographical name "Laghman"
+Lapis 4; found; Latin word (stone)
+Larus 1; found; bio 
+Lavan 1; nf; Laban (Black Salt - Bit Laban)
+Lhassa 1; nf; Lhasa (print change) ;; not changed. Agrees with print
+Librae 2; found; Latin word, a sign of the zodiac
+Lyrae 1; found; Latin word, a star, constellation 
+Magians 1; found; or "magi"
+Maina 8; nf; name of a bird
+Makkhaliputra 1; nf;  name of an ascetic teacher
+Malabathron 1; nf; Malabathrum (a plant) ;; Malabathron confirmed pwg
+Malwa 7; nf; geographical name
+Manetho 1; found; name of an astronomer
+Manu 1; found; the progenitor and lawgiver of the human race
+Manus 1; found; Pl.of Manu
+Marwar 5; found; geographical name
+Marwur 1; nf; Marwar (print change) ;; print change prev. made
+Mashas 1; found; An unit of weight, but probably uncountable "Masha"
+Megasthenes 1; found; an ancient Greek historian
+Mehter 1; found; a member of a harijan caste of sweepers and scavengers in India
+Mewar 1; found; geographical name
+Midnapur 1 nf; Midnapore
+Mina 1; nf; an astrological sign in India, probably "Mīna"
+Mineralis 1; nf; Latin word, Black sulphide of mercury
+Mohammed 1; found; variant spelling of Muhammad
+Momordica 1; nf; Latin word, bot ;; prev. chg L=14504.3
+Mooltan 1; nf ;;AB a place name (Multān)
+Moslim 1; nf; Muslim
+Muhammedan 2; nf; Mohammedan
+Mukharjea 1; nf; name
+Murshidabad 1; nf; geographical name
+Nagpore 2; nf; geographical name "Nagpur"
+Nakhi 1; nf;  a kind of perfume
+Nauch 1; nf; Nautch (print change)   ;; no change 
+Nazr 1; nf; Arabic word, a vow or commitment to carry out an act
+Nerbudda 6; nf; geographical name
+Newar 5; found; historical inhabitants of the Kathmandu
+Nilajan 1; nf; geographical name
+Noben 1; nf; saline substance, as well Bitnoben
+Nuddea 1; nf; geographical name
+Onko 1; nf; a kind of regnal year used in Orissa
+Orionis 1; found; Latin name of a conspicuous Orion
+Oude 7; nf; Oudh
+Ougein 1; nf; Ujjain
+Oujein 13; nf; Ujjain
+Paisuni 1; nf; geographical name
+Pandharpur 1; nf; geographical name
+Pandits 1; found; Hinduism a variant of pundit
+Paniput 1; nf; Panipat
+Paulomi 1; nf; name
+Paulus 1; nf; an astrological author
+Pauranic 3; nf; Puranic
+Pegasi 1 nf; probably "Pegasus"
+Perinaeum 1; found; or "perineum"
+Pindur 1; nf; probably "Pindar"
+Piring 1; nf; a plant
+Pistacio 1; nf; Pistachio (print change) ;; change previously made
+Pleiads 3; nf; Pleiades
+Pluvius 1; found; Latin "Jupiter Pluvius" (Jupiter who brings rain)
+Pokhar 1; nf; geographical name
+Pousekielofati 1; nf; geographical name
+Pratyaya 1; nf; an affix
+Precative 1; found
+Processus 1; nf; Latin word, anatomy
+Punnag 1; nf; plant "Punnaag"
+Punpun 1; nf; geographical name
+Putcabarry 1; nf; geographical name
+Quilon 1; nf; former name of Kollam
+Rakshases 2; nf; Rakshasas
+Ramtek 1; nf; geographical name
+Retti 3; nf; Ratti
+Sacae 1; found; an ancient people settled in the eastern part of Iran
+Saketa 1; nf; geographical name
+Salik 1; nf; Bengali name of a bird
+Sambhar 2; nf; geographical name
+Sambher 1; nf; Sambhar
+Sarovar 1; nf; Sanskrit word "Sarovara"
+Schneiderian 1; found; medical term
+Scorpionis 1; nf; Scorpius
+Sepiae 9; nf; Latin word
+Silhet 1; nf; geographical name
+Simia 2; found; bio
+Sindh 19; found; geographical name
+Singapur 1; nf; Singapore
+Somawater 1; nf; maybe Soma-water
+Sphex 1; found; bio
+Surjoo 1; nf; name of a river, maybe the same as "Sarju" river
+Sursooty 1; nf; geographical name
+Suwad 1; nf; name of a river, probably "Swat"
+Tantrika 1; nf; Tantric
+Tantrikas 1; nf; Tantrists
+Tauri 3; nf; Taurus
+Telinga 3; nf; a country
+Telingana 1; nf; Telangana
+Teori 2; nf; Bengali name of a plant
+Tertium 1; nf; Latin word
+Thanesar 1; nf; geographical name
+Tinnevelly 1; nf; geographical name
+Tiruparur 1; nf; geographical name, maybe "Tirupur"
+Trimbak 1; nf; geographical name
+Tumbudra 1; nf; geographical name
+Ushases 1; nf; Ushas
+VIth 1; nf; number "6th"
+Vaidic 1; nf; Vedic
+Vallasor 1; nf; Vallas or (typo) ;; `<s1 slp1="valla">Valla</s1>s or` prev. change
+Vedi 1; nf; the sacrificial altar in the Vedic religion
+Vellore 3; found; geographical name
+Vendidad 1; found; a book of formulas - Zoroastrianism
+Veneris 3; found; a term "mons veneris" (mons pubis)
+Virginis 1; found; Latin word (Virgo)
+Visparad 1; found; or a vispered ;; ? Viśpered (pw, pwg)
+Vitlaban 1; black salt "Bit Laban"
+Yogas 1; nf; from astrological terminology ;;
+  ;; 2024 change <s1 slp1="yoga">Yoga</s1>s (L=221615)
+Zaphar 1; nf; name
+abalienate 1; found
+abandoner 2; found
+abided 5; found
+aboar 1; nf; a boar (typo) ;; 2024 change L=128644
+abodeless 1; found
+abominableness 1; found
+absol 1; nf; contraction absol.  previously chgs <ab>absol.</ab> absolutive
+accentless 8; found
+accomplishable 1; found
+accountbook 1; nf; account book ;; account-book at line break.
+acs 1; nf; acts (typo) ;; 2024 correction L=107512,
+acutangulus 1; nf; bot (don't marked "bot") ;; 2024 correction L=56819
+  ;; <bot>Cucumis</bot> acutangulus or sulcatus -> <bot>Cucumis acutangulus</bot> or <bot>sulcatus</bot>
+adaptedness 1; found
+addresser 1; found
+adeps 1; found
+adjectively 3; found
+affectinn 1; affection (typo)  ;; 2024 correction L=8697.1 
+affectionateness 2; found
+afflnity 1; nf; affinity (typo) ;; 2024 correction L=183811.1
+aftaid 1; nf; afraid (typo) ;; 2024 correction L=90381.1
+ag 1; nf; ag° (typo) ;; 2024 correction L=125835 <s>ag°</ab> 
+agni 3; nf;  the sacrificial fire;; 2024 correction L=9839.11 <s>agni</s>
+akac 1; nf; the affix;; 2024 correction L=240954 <s>akac</s>
+albugo 4; found
+allayment 1; found
+alligation 1; found
+allsidedness 1; nf; all-sidedness
+almsgiving 1; found
+alosa 1; nf; bio (don't marked "bio");; 2024 correction L=77872
+alveole 1; found
+ambar 2; nf; "Liquidambar" - bot (print change), should be marked by bot;; ? No change - not a scientific name
+ambidexterous 1; nf; ambidextrous (print change);; no change (prob. old or British spelling); CF OED
+anUp 1; nf; an Up. (contraction of Upanishad);; prev. change
+anapaest 1; found
+ancle 14; found; obsolete spelling of "ankle"
+andropogon 1; found
+ani 3;  nf; Latin word - an anus
+animalculae 1; nf; animalcules
+annoyer 1; found
+annulated 1; found
+annumeration 2; nf ;;AB Addition to a former number (Webster's)
+ano 1; nf; Latin word
+answerless 1; found
+antecedently 2; found
+anthelminthica 1; nf; anthelmintica (print change), should be marked by bot;; 2024 correction L=55183  (not print change)
+anthropophagus 1; found 
+antibilious 5; found
+antiphlegmatic 2; nf ;;AB anti-phlegmatic (used to reduce phlegm)
+antorhiza 1; nf; bot (don't marked "bot");; 2024 correction L=70703
+anum 1; nf; maybe "per annum" (in this case - print change) ;; no change. anum in pw, but otherwise not found
+apishness 1; found
+apostacy 3; found; archaic variant of apostasy
+appetise 1; found
+appliable 1; found
+appointer 2; found
+apportioner 4; found
+apprized 4; found
+approvable 1; found
+aquatica 1; nf; bot (don't marked "bot");; 2024 correction L=87229
+arabicus 2; nf; bot (don't marked "bot");; 2024 correction L=51738, 57200
+aram 1; nf; a ram (typo);; 2024 correction L=168105
+arborea 1; nf; bot (don't marked "bot");; 2024 correction L=55183
+argentea 2; nf; bot (don't marked "bot");; 2024 correction L=58944, 75371
+arith 3; nf; contraction of "arithmetic";; 2024 correction L=28301, 221583, 225153 `<ab n="arithmetic">arith.</ab>`
+armourless 1; found
+arouser 2; found
+arrac 2; nf; arak (print change);; or Arrack. No change
+arrowless 1; found
+artifical 1; nf; probably "artificial" (in this case - print change);; 2024 correction L=147419 (typo)
+ascendency 2; found
+ascensional 4; found
+ascetism 3; nf; maybe "asceticism";; no change
+asiatica 1; nf; bio
+assertor 1; found
+asseverations 1; found
+assister 1; found
+assumer 1; found
+astringing 1; found
+atmospherical 3; nf; atmospheric
+atra 1; nf; Sanskrit word; ;; 2024 correction L=3388
+attackable 1; found
+au 2; nf; <L>125748 - OK "au revoirs", <L>191174 "an anthill" (typo);; 2024 correction L=191174
+audibleness 1; found
+auditorius 1; nf; Latin word
+augmentability 1; nf; maybe "augmentation"
+augmentless 4; found
+auxiliarily 1; nf; maybe "auxiliary"
+auxiliaris 1; nf; Latin word
+avertedness 1; nf
+averter 6; found
+awaked 4; found
+awakener 2; found
+awarder 1; found
+bacchic 1; found
+balsamina 1; found; bot (don't marked "bot");; previously marked bot
+balsamine 2; found
+bannered 18; found
+barkless 1; found
+bason 1; found; more rare variant spelling of "basin"
+bassia 1; found; exist a word "Bassia" - a small genus of European herbs; 
+batatas 1; found
+baving 1; nf; having (typo) ;; 2024 correction L=84112.1
+beautifulness 1; found
+bejoined 1; nf; be joined (typo);; L=225777, previously corrected
+bellower 2; found
+belouging 1; nf; belonging (typo);; 2024 correction L=26642.1
+bemoisten 1; found;  obsolete
+bened 1; nd; contraction of "benedictive";; previously marked as <ab>
+benedictive 1; found
+beneficialness 1; found
+benefitted 1; found
+bengalensis 2; nf; bio (don't marked "bio");; 2024 correction L=50008, 
+besiding 1; nf; bending (typo);; 2024 correction L=103842
+bespeckle 1; found
+bespotted 1; found;  obsolete
+besprinking 1; nf; besprinkling (typo);; 2024 correction L=19216
+bestower 14; found
+betrothment 2; found
+betted 2; found
+betterness 3; found
+bida 1; nf; Sanskrit word;; 2024 correction L=146479
+bipartiteness 1; nf; maybe "bipartition"
+birdless 1; found
+birthnight 1; found
+blackeyed 1; nf; black-eyed (typo);; no change '-' occurs at line break.
+blamableness 3; found
+bleared 2; found
+blest 2; found
+bloatedness 1; found
+boalis 1; nf; bio (don't marked "bio");; 2024 correction L=73874
+bodilessness 1; found
+boly 1; nf; body (typo);; 2024 correction L=82341.1
+bonduc 1; found;; a plant ('grey bonduc')
+boni 1; nf; Latin words "boni ominis" (a good omen)
+borborygm 1; nf; borborygmi (print change);; 2024 correction L=45151 kardana (PRINT CHANGE)
+borborygmi 1; found
+bos 1: nf; Bos (don't marked "bio");; 2024 correction L=93193 dIrGavAlA (PRINT CHANGE)
+braziery 1; found
+brinish 1; found
+brinishness 1; found; exist only in one source - in Wiktionary
+bronchocele 2; found
+brotherless 3; found
+caetera 4; nf; Latin expression "et caetera" - etc
+calculableness 1; found; exist only in one source - in Wiktionary
+calimine 1; nf; calamine (typo)
+cany 1; found
+cara 1; nf; Sanskrit word;;; 2024 correction L=212496
+carcase 2; found
+carpere 1; nf; Latin expression "carpere viam" (seize the road)
+cartilagines 1; nf; Latin word - anatomy (cartilagines costarum); a word costarum is marked "bio");; 2024 correction L=50688 (remove <bio> tag on costarum)
+cartways 1; found
+cartwright 3; found
+caruncula 1; found; Latin anatomical term "caruncula lacrimalis" = the lacrimal caruncle
+catamine 1; nf; catamite (typo);; 2024 correction L=120305
+catamites 1; found
+causa 2; nf; Latin expression "metri causa" (for the sake of the metre)
+causativeness 2; found
+causatives 1; found
+causelessly 11; found
+ccl 2; nf; col. (typo);; 2024 correction L=132651, 132652
+celestials 2; found
+centrically 1; found
+cerebralisation 1; nf; cerebralization (typo);; 2024 correction L=110300 niveSa PRINT CHANGE
+cerebralization 1; found
+cerebralize 1; found
+cerebralized 4; found
+cerebrals 2; found
+ceremnny 1; nf; ceremony (typo);; 2024 correction L=29211.1
+ceylonic 1; nf; maybe "ceylonese"
+chambre 1; found; valet de chambre 
+chamelion 1; nf; chameleon (print change);; 2024 correction L=53146 kulAhaka PRINT CHANGE
+charioteering 1; found
+chariotless 1; nf
+chattar 1; nf; Sanskrit name of a parasol, the chhatra
+chid 1; found
+chilld 1; nf; child (typo);; 2024 correction L=79761.1
+chirming 1; found;; charming previously corrected
+chiromantic 1; found
+cholic 1; nf; colic (print change);; 2024 correction L=25428 AmaSUla PRINT CHANGE
+chorded 2; found
+chowri 4; found; variant of chowrie
+chowrie 19; found
+chowries 3; found
+chowry 1; found; variant of chowrie
+cicatrization 1; found
+circumambulation 4; found
+circumambulations 1; found
+circumanibulation 1; nf; circumambulation (typo);; 2024 correction L=242137
+citta 1; nf; Sanskrit word;; Could not find this as a problem
+clayed 1; found; "clayed" sugar - one of categories of sugar
+clipt 1; found
+coccygis 1; nf; Latin anatomical term "os coccygis" (tailbone)
+coeundi 2; nf; Latin expression "modus coeundi" (method of mating)
+coilings 1; nf; maybe "coils"
+coinless 1; found
+coldless 1; nf; coldness (typo);; 2024 correction L=107000
+coloquintha 1; nf; Latin word - bot (don't marked "bot");; 2024 correction L=73876
+comformable 1; nf; conformable (print change);; 2024 correction L=228175 saMkalparUpa PRINT CHANGE
+commandership 1; found
+comminution 1; found
+comparationis 4; nf; Latin expression "Tertium comparationis" (the third of the comparison)
+compassionated 1; found
+compassionateness 1; found
+compassionating 1; found
+composedness 1; found
+concealableness 1; nf; maybe "concealment"
+conches 1; found
+concremation 2; found
+concrement 1; found
+condisciple 1; found
+conglutination 1; found
+conquerableness 1; nf
+consonantic 1; found
+consulation 1; nf; consultation (typo);; 2024 correction L=157411
+contemporariness 1; found
+contemptibleness 1; found
+contradictoriness 4; found
+contrarieties 1; found
+controversialist 3; found
+contumeliously 1; found
+conveyer 3; found; more commonly variant is "conveyor"
+convincingness 1; found
+cooly 1; nf; coolie (print change);; not changed (cf. OED)
+coparceny 1; found; maybe better to use "coparcenary"
+cornifex 1; nf; carnifex - bio (don't marked "bio", print change);; 2024 correction L=73926 (typo) : WIL shows 'cornifex'
+cosinus 1; nf; cosine (cosine of declination - Astronomy)
+costiveness 3; found
+cotyla 1; found; Astronomy
+counterplea 1; found
+courtezan 52; found; more commonly variant is "courtesan";; courtesan occurs 7 times MW
+courtezans 7; found; more commonly variant is "courtesans"
+coverer 3; found
+cowach 4; nf; "cowhage" or less commonly "cowage" (from kavāch)
+cowherdess 7; nf; a female cowherd
+cowherdesses 5; nf; a female cowherd - plural
+cowry 10; found; more commonly variant is "cowrie"
+creatorship 3; found
+credibleness 2; found
+crepitus 3; nf; Latin expression "ventris crepitus" (belly noises)
+crossways 2; found
+cucculata 1; nf; cucullata - bot (don't marked "bot", print change); ;; 2024 correction L=55052 kfSikA PRINT CHANGE
+cucullaris 1; nf; Anatomy
+cucurbitaceous 1; found
+cummin 8; found; more commonly variant is "cumin"
+cunningness 1; found
+cunque 2; nf; Latin word (soever)
+cupidinous 1; found
+curableness 2; found
+curativeness 2; found
+curser 3; found
+cursers 1; found
+curvedly 1; found
+curvedness 2; found
+cxxiv 1; nf; number 124;; previously corrected
+cyphers 2; found; other variant is "ciphers"
+damaskeened 1; found
+dcceased 1; nf; deceased (typo);; 2024 correction L=9474.3
+decad 6; found; archaic form of "decade"
+deceivable 2; found; archaic form of "deceitful"
+deerless 2; found; mentioned only on wiktionary.org
+defectless 1; found
+deferens 1; found; Anatomy
+defluxions 2; found; medicine obsolete
+delicti 1; found; borrowed from New Latin, corpus delicti (body of the crime)
+delighter 1; found
+delightfulness 1; found
+densified 1; found
+dentals 2; found
+dentated 1; found
+dependance 20; found; more commonly variant is "dependence"
+deplorableness 2; found
+depreciatingly 1; found
+desertedness 1; nf; Noun from "deserted"
+desideratives 2; found
+desireless 7; found
+desistence 4; found; more commonly variant is "desistance"
+desponding 8; found
+desquamation 2; found
+destituteness 1; found
+detestableness 1; found
+devirginating 1; found
+devourable 1; nf; maybe "devouring"
+dewlapped 1; found
+dextrous 1; found; more commonly variant is "dexterous"
+differenced 2; found; from verb "difference", maybe better to use different
+diffusively 1; found
+diffusiveness 1; found
+dilapidations 1; found
+directa 1; nf; Latin expression "oratio directa" (direct speech)
+discharger 3; found
+discriminativeness 3; nf; maybe "discrimination"
+discutient 1; found; Medicine
+disfavourably 2; nf; maybe "unfavorably"
+dishonourableness 1; found
+disliker 1; found
+dismission 3; found
+disparager 1; found
+disquietted 1; nf; disquieted (typo);; 2024 correction L=96993.1
+disrespectfulness 2; found
+dissecter 1; nf; dissector (print change);; 2024 correction L=214540 Sastf PRINT CHANGE
+disticha 1; nf; bot (don't marked "bot");; 2024 correction L=56638
+distinguisher 2; found
+distributer 10; found; or "distributor"
+distributiveness 1; found
+ditcher 1; found
+divisable 1; nf; probably "divisible" (in this case - print change);; 2024 correction L=76047 Ceditavya PRINT CHANGE
+divulger 1; found
+dodecagonal 2; found
+dooly 1; found;  or "doolie"
+doored 1; found
+dramatical 1; found; obsolete, "dramatic"
+drinkables 1; found
+drumbeater 1; found
+dulness 15; found; more commonly variant is "dullness"
+dwelled 2; found
+eatableness 1; nf; maybe "eatables";; = edible
+echinata 1; nf; bot (don't marked "bot");; 2024 correction L=58642
+eclipser 2; found
+ecstacy 1 nf; ecstasy (print change);; 2024 correction L=237761 saromakaRwaka PRINT CHANGE
+ef 4; nf; contraction "ef." or mayby "cf." (confer);; previously corrected to '<ab>cf.</ab>'
+effecter 1; found; more commonly variant is "effector"
+effectless 2; found; archaic, "feckless"
+effluxion 1; found
+embrocated 2; found
+embrown 2; found
+embrowned 1; found
+empoisoned 2; found; archaic,"poisoned"
+emprosthonos 1; nf; probably "emprosthotonos" (in this case - print change);; 2024 correction L=13218 aByantarAyAma PRINT CHANGE
+emprosthotonos 1; found
+emulatively 1; found
+emulously 1; found
+emulousness 1; found
+enchased 1; found
+enclit 3; nf; contraction - enclitic
+encomiasts 1; found
+encyclopaedical 1; found or "encyclopedical", "encyclopedic"
+endearedness 1; nf; maybe "endearingness"
+endurableness 1; found
+enemata 1; found; or "enemas"
+energetical 1; found or "energetic"
+engraven 1; found; obsolete, "engrave"
+enjoyableness 2; found
+entendre 3; found; Linguistics - double entendre
+entireness 3; found
+entrail 2; found
+entwinement 1; found
+enviableness 1; found
+episodical 5; found; more commonly variant is "episodic"
+equableness 2; found
+equalness 3; found; obsolete, "equality"
+equipoised 2; found
+erecter 3; nf; erector (print change);; no change. cf. https://webstersdictionary1828.com/Dictionary/erecter
+escharotics 1; found
+escheating 1; found
+etherial 1; nf; ethereal (print change);; 2024 correction L=53829 kUwa PRINT CHANGE
+etymol 5; nf; contraction - etymology;; previously marked as <ab>etymol.</ab>
+eulogistically 1; found
+euphem 2; nf; contraction - euphemism
+euphonically 1; found
+exanthemas 1; found; or "exanthems"
+excellences 6; nf; probably "excellence" (in this case - print change);; no change
+excogitation 1; found
+excrements 1; nf; excrement (print change);; no change
+execrations 5; found
+exeessively 1; excessively (typo);; previous correction
+exhilarater 2; nf; exhilarator (print change);; no change
+experiencer 2; found
+explan 4; nf; contraction - explanation
+expulsed 1; found
+extendedness 1; found
+facie 1; found; Latin expression "prima facie" (based on first impression)
+faintheartedness ; found
+fameless 1; found
+familias 1; nf; paterfamilias (typo);; 2024 correction L=149144
+fastly 2; found; archaic, "fast" 
+fastuosa 2; nf; bot (don't marked "bot");; 2024 correction L=55297, 55298
+fatuus 2; found; Latin "ignis fatuus" (foolish fire) - will-o'-the-wisp
+favouriteship 2; nf; maybe "favoritism"
+fe 2; nf; fr. (typo), ptobably contraction of "from";; prev. change to <ab>fr.</ab>
+feignedly 4; found
+feminam 1; nf; Latin expression "inire feminam" (enter female)
+fetterer 1; found
+feverless 1; found
+fi 1; nf; fr. (typo), contraction of "from";; prev. change to <ab>fr.</ab>
+firepan 1; found
+firmily 1; nf; firmly (typo);; 2024 correction L=90514.1
+firstlings 3; found
+fishless 1; found
+fivefoldness 3; nf; property of being fivefold
+flameless 1; found
+flexuosa 1; nf; bot (don't marked "bot");; 2024 correction L=49041
+flowerbuds 1; nf; flower buds (print change);; 2024 correction L=154456 maYjarIkf PRINT CHANGE
+flrm 1; nf; firm (typo);; 2024 correction L=227107
+fluviatic 1; found 
+fn 7; nf; abbreviation - ;; 2024 correction L=3357, 14701, 15702, 21516, 90902, 91160. fn. added to abbrevs.
+  ; Anna note: "feminine and neuter" (doesn't exist in the list of abbreviations)
+foamless 1; found
+foldness 2; nf; the quality or state of being fivefold etc
+fomentations 1; found
+foodless 1; found
+foodlessness 1; found
+formularies 14; found
+forsaker 1; found
+fortiori 1; found; Latin expression "a fortiori" (from stronger)
+fossile 1; nf; probably "fossil" (in this case - print change);; no change
+foundery 1; nf; foundry (print change);; no change (cf webster 1828)
+fowler 7; found
+fragrancy 3; found
+francoline 3; nf; francolin (print change);; 2024 correction L=47861 kApiYjala, 61376 KarakoRa, 78480 jANgala PRINT CHANGE
+frogless 1; nf; destitute of frogs
+frothless 3; found
+frounce 1; found; archaic - to frizz
+frustrator 1; nf; frustrater (print change);; 2024 correction L=150896 Bettf PRINT CHANGE
+fulness 28; found; more commonly variant is "fullness"
+fumigations 1; found
+furtherer 3; found
+fusicollis 1; nf; fuscicollis (don't marked "bio", print change);; 2024 correction L=64532  <bio>Pelicanus fusicollis</bio> TYPO cf. pw.
+futuere 4; nf; Latin (to have sexual intercourse)
+ga 2; nf; a-ga (should be marked "Sanskrit word") and nur-durga (typo);; 2024 correction L=763
+  ;; could not find nur-durga
+gangetic 1; found; the correct Latin name is "Delphinus Gangeticus" (print change);; L=72032 no change
+geneological 1; nf; genealogical (print change);; 2024 correction L=184331 aMSya PRINT CHANGE
+generativeness 1; found; but only in one dictionary
+gladdener 4; found
+globeamaranth 2; nf; globe amaranth (print change);; 2024 correction L=187365 varRapuzpaka, 247572 supuzpa PRINT CHANGE
+glomerous 5; nf; bot, maybe "Ficus glomerata"
+graduality 1; found
+gramm 12; nf; abbreviation - "grammatical" term (doesn't exist in the list of abbreviations);; gramm. previously added to list of abbrevs.
+granate 1; nf; pomegranate (print change);; 2024 correction L=183965 lohitapuzpaka PRINT CHANGE
+granulations 1; found
+grassless 2; found
+groundlessness 1; found
+growlingly 1; found
+guideless 1; found
+gynaeum 1; nf; gynaeceum (typo);; 2024 correction L=159232.1
+habitants 1; nf; inhabitants (typo);; 2024 correction L=17616
+hallo 3; found
+halloing 1; found
+hasta 1; nf; probably Sanskrit word (should be marked);; 2024 correction L=71166
+headlessness 1; found
+heathcock 1; nf; heath cock (print change);; no change. cf. webster1828
+hee 1; found; correct text "ha! ha! hee! hee! ah!" (typo);; 2024 correction L=263441
+heliacally 1; found
+hemistichs 2; found; better to recheck if "hemistich" has Pluralis;; no change. plural hemistichs. Cf wiktionary
+heptade 2; nf; heptad (print change);; 2024 correction L=239824 sasaptaka, 242131 sApta PRINT CHANGE
+hesternal 2; found; rare word, more close is "yester"
+hewn 10; found
+hexade 2; found; more common variant is "hexad"
+hiccupping 1; found; more common variant is "hiccuping"
+hickup 1; nf; archaic spelling of "hiccup"
+highmindedness 2; nf; high-mindedness (<L>6410 - print change, <L>163990 - typo);; 2024 correction L=6410 anutseka, 163990 mAhAtmya PRINT CHANGE
+hilsa 1; found; a valuable anadromous herring
+hippology 2; found
+hireless 1; found
+hitherwards 1; found; an archaic word for "hither"
+hoggishness 1; found
+holeless 1; found
+hoodless 1; found
+hooka 1; found; more common variant is "hookah"
+hosticide 1; nf; killer of one's enemy or the act of killing an enemy
+houselessness 1; found
+humpbackedness 1; nf; derived from "humpbacked"
+husbandless 1; found
+husbandship 2; nf; derived from "husband"
+hymnless 3; found
+hypothenuse 4; found; more common variant is "hypotenuse"
+ic 1; nf; Roman numerals - 99;; previously changed
+ig 1; nf; sg. (typo);; previously changed
+ignis 2; found; Latin "ignis fatuus" (foolish fire) - will-o'-the-wisp
+ilc 1; nf; ifc. - abbreviation, in fine compositi (typo);; previously changed
+illimited 1; found; archaic,  "unbounded"
+illude 2; found; literary - "delude"
+illuminer 1; found
+immovableness 5; found
+immovables 1; found
+imparter 2; found
+imperceptibleness 1; found
+imperishableness 6; found
+imperturbed 1; found
+impractible 1; nf; impracticable (print change);; 2024 correction L=19450 aSakya PRINT CHANGE
+impregnatory 1; found
+inadvertible 1; nf; I suppose the meaning  "not invertible" (in one soure exist word "aninvertible"), print change;; no change made
+inanimated 1; nf; inanimate or unanimated (print change);; 2024 correction L=38498 ftAvan PRINT CHANGE
+inarticulated 1; nf; inarticulate (print change);; not changed
+incased 2; found; more common variant is "encased"
+inclose 1; found; more common variant is "enclose"
+inclosed 3; found; more common variant is "enclosed"
+inclosing 2; found; more common variant is "enclosing"
+inclosure 1; found; more common variant is "enclosure"
+incompassionate 1; found
+incompatibleness 1; found; more common variant is "incompatibility"
+incompehensible 1; nf; incomprehensible (typo);; 2024 correction L=2539
+inconsistence 1; found
+incontinency 1; found
+increaser 7; found
+incurableness 3; found
+indeclinables 2; nf; grammatical term
+indescribableness 1; found
+indeterminableness 1; found
+indigestibleness 1; found
+indisputed 1; found; archaic spelling of "undisputed"
+inertion 1; found; archaic spelling of "inertness"
+inevitableness 3; found
+inexpertness 1; found
+inferrible 1; found; archaic spelling of "inferable"
+inflamer 5; found
+inire 1; nf; Latin expression "inire feminam" (enter female)
+inistrument 1; nf; instrument (typo);; 2024 correction L=77867.1
+innumerableness 2; nf; derived from "innumerable", maybe more correct is  "innumerability"
+inobservable 1; found; obsolete, "unobservable"
+inodorousness 1; found
+insolubleness 1; found
+inspissated 13; found
+inspissation 2; found
+instructress 1; found
+insurmountableness 1; found
+intelligibleness 4; found
+intermeddling 1; found
+intermediation 1; found
+intermediator 1; found
+intermittingly 1; found
+interr 5; nf; abbreviation "interrogative" (doesn't exist in the list of abbreviations);; previously changed
+interruptedly 1; found
+intertwinings 2; found
+intertwisted 1; found
+intoxicater 1; nf; intoxicator (print change);; not changed L=155604 
+intrenching 1; found; more common variant is "entrenching"
+introd 3; nf; abbreviation, probably "introduction/introducing/introduced" (doesn't exist in the list of abbreviations);; added <ab>introd.</ab> markup; also mwab_input.txt revised.
+introducer 2; found
+intrust 12; found; more common variant is "entrust"
+intrusted 18; found; more common variant is "entrusted"
+intrusting 3; found; more common variant is "entrusting"
+intwining 1; found; more common variant is "entwining"
+invertedly 5; found
+invertedness 1; nf; maybe "invertibility"
+invincibleness 1; found
+inviter 3; found
+irrespectiveness 1; nf; derived from "irrespective"
+ischury 4; nf; ischuria (print change);; no change. ischury in webster1828
+jaculator 1; nf; Ardea jaculator - bio (don't marked "bio"), maybe obsolete;; add bio markup
+jailor 1; found; more common variant is "jailer"
+jaim 1; nf; "JaimUp." - maybe an abbreviation of one Upanishad (Jaiminiya Upanishad Brahmana);; corrected
+jain 2; found; "Jain." (typo), abbreviation of Jainism;; added markup
+jasmin 4; nf; jasmine (print change);; no change. Variant of jasmine. cf. Webster1828
+jb 1; nf; ib. (typo) - should be an abbreviation "ibidem";; previously changed
+jit 1; nf; Indrajit (typo);; could not find
+juiceless 1; found
+julus 1; found; exist some meanings 1.old genus of myriapod, 2.a catkin, 3.Alternative form of iulus
+karsha 1; nf; measure of weight
+kh 1; nf; the consonant "kha";; no change
+knockkneed 1; nf; knock-kneed (typo);; 2024 correction L=103276.1
+knotless 1; found
+knowableness 1; found
+kubera 1; nf; Kubera (typo);; 2024 correction L=127246.1
+lacrymalis 1; nf; Latin anatomical term "caruncula lacrimalis" = the lacrimal caruncle (typo)
+lacs 3; found
+lactea 1; nf; bot (don't marked "bot");; 2024 correction L=85456
+ladleful 13; found
+lapis 12; found
+latit 1; nf; "latit." abbreviation for "latitude" (doesn't exist in the list of abbreviations);; previously added
+ld 1; nf; id. (typo), abbreviation "idem";; 2024 correction L=253361
+leanish 1; nf; maybe a diminutive from "lean";; 'somewhat lean'
+leatherbag 1; nf; leather bag (print change);; 2024 correction L=45752.1 kalala PRINT CHANGE
+lefthand 1; nf; left-hand (typo);; 2024 correction L=191070
+lengthways 2; found
+lept 6; found; more common variant is "leapt"
+libidinosum 1; nf; Latin word (lustful)
+libitum 1; nf; Latin phrase "ad libitum" (as you desire)
+lickable 1; nf; a derived form of "lick"
+lig 1; nf; fig. (typo) - probably abbreviation for "figurative";; previous change
+lithonthryptic 1; found; more common variant is "lithontriptic"
+lithontriptic 3; found
+liturg 1; nf; it is an abbreviation maybe for "liturgical/liturgy";;  2024 correction L=98573
+liv 1; nf; Roman numeral 54;; previously marked as part of an `<ls>`
+loadstone 11; found; more common variant is "lodestone"
+lokas 1; nf; Pl of Sanskrit term "loka";; 2024 correction L=96010
+longifolia 3; nf; bot, Latin word (don't marked "bot");; 2024 correction L=45012, 49041, 77326
+longness 4; found
+lubricous 1; found; more common variant is "lubricious"
+lustrations 1; found
+lyingly 1; found
+macebearer 1; nf; mace-bearer (typo);; 2024 correction L=205613
+maddener 1; nf; derived from "madden"
+maeks 1; nf; marks (typo);; 2024 correction L=82300.1
+magian 2; nf; Magian (print change);; no change made, print is 'magian'
+mahall 1; nf; Arabic word
+maintainment 1; found; archaic, "maintenance"
+malignous 2; nf; probably archaic, other variant is "malignant"
+maneless 1; found
+maniest 4; nf; ordinal number or quantifier
+manieth 6; nf; From many +‎ -th
+manifestness 3; found
+marrowless 1; found
+marrowy 1; found
+masterhood 2; found
+materia 4; found; a term "materia medica",in <L>263777 and <L>263778 medica marked by "bot";; 2024 correction L=263777, 263778 (remove <bot> markup)
+mathem 3; nf; abbreviation for "mathematics";; 2024 correction L=6595, 95073.97, 95074.35  (<ab>)
+maximus 3; nf; bot. Scirpus maximus (maximus don't marked "bot"), maybe obsolete
+measurableness 1; found; more common variant is "measurability"
+measuredly 1; found
+measuredness 1; found
+medica 2; found; a term "materia medica"
+medicaments 10; found
+mellitus 2; found; a term "diabetes mellitus" - metabolic disorders
+membrum 36; nf; Latin term "membrum virile" (penis)
+memoriter 4; found
+menstruous 5; found
+mesenteric 2; found
+methodizing 1; found
+metr 9; nf; abbreviation probably for "metrical";; previously marked as <ab>
+metri 2; nf; Latin phrase "metri causa" (for the sake of the metre)
+meu 1; nf; men (typo);; previously corrected
+mfn 1; nf; abbreviation - "masculine, feminine and neuter" (exist in the list of abbreviations);; did not find
+milkable 2; nf; that can be milked
+millionfold 1; found
+ministership 2; found
+misborn 1; found
+mixedness 4; found
+modus 2; nf; Latin expression "modus coeundi" (method of mating)
+moistures 1; found
+molossus 2; found
+moneylending 3; found
+monoculous 2; found
+mons 2; found; a term "mons veneris" (mons pubis)
+morae 2; found
+mordaceous 2; nf; maybe archaic, "mordacious"
+mortifications 2; found
+mown 2; found; or "mowed"
+mucilaginousness 1; found
+mudless 1; found
+muliebre 29; nf; Latin expression "pudendum muliebre" (a thing to be ashamed of a woman)
+muliebria 4; nf; Latin anatomical term "pudenda muliebria" (Vagina)
+multiplicator 2; found
+mungoose 3; found; archaic variant of "mongoose"
+musculus 1; found; or "muscle"
+musquito 7; nf; mosquito (obsolete spelling or print change)
+mysogynist 2; nf; misogynist (obsolete spelling or print change)
+myst 3; nf; abbreviation probably for "mystic/mystical";; 2024 correction L=102749, 102766.1, 104451  <ab>, add to mwab_input.txt
+mythol 4; nf; abbreviation for "mythology" (in <L>67521 missed "." after mythol);; 2024 correction L=67521 (other 3 previously marked)
+naufrage 1; found; obsolete (shipwrecking, wreckage)
+naveled 9; nf; derived from "a navel"
+necess 1; nf; abbreviation probably for "necessary/necessity";; 2024 correction L=13201 (add <ab> to mwab_input ? as 'necessary')
+nectarlike 1; found
+neigher 1; found; more common variant is "nicker"
+nien 1; nf; men (typo);; previously corrected
+nocturna 1; nf; Latin expression "pollutio nocturna" (nocturnal pollution)
+nomin 2; nf; abbreviation for "Nominative";; previously corrected
+nonne 1; nf ;; Latin word ;;AB a Latin word used in interrogation
+nonperception 1; nf; Absence of perception
+noosed 1; found
+noseless 8; found
+nourisher 5; found
+nourishers 1; found
+nozzled 1; nf; derived from "nozzle"
+num 1; nf; abbreviation for "number";; previously marked as <ab>
+numerableness 2; found
+objectioner 1; found; mentioned only in 1 dictionary, rare, "objector"
+obl 1; nf; abbreviation maybe for "obligatory" (obl. cases);; previously marked as <ab>
+obsceno 1; nf; Latin expression "sensu obsceno" (obscene speaking)
+obsequial 5; found
+occasioner 1; found
+occulted 1; found
+occuring 1; nf; occurring (typo);; 2024 correction L=31556
+octogon 1; nf; octagon (print change);; 2024 correction L=20179 azwakoRa PRINT CHANGE --Ref:https://thecontentauthority.com/blog/octagon-vs-octogon
+offerers 1; found
+offsprings 1; found
+ominis 1; nf; Latin expression "boni ominis" (a good omen)
+onepointed 1; nf; one-pointed (typo);; 2024 correction L=39947.45
+onom 2; nf; abbreviation for "onomatopoeic";; previously changed
+onomatop 1; nf; abbreviation for "onomatopoeic";; previously changed
+ontologic 1; found; more common variant is "ontological"
+onwards 15; found; more common variant is "onward"
+optionable 1; found
+orach 1; found; more common variant is "orache"
+oratio 4; nf; Latin expression "oratio recta" (Direct speech)
+orbis 1; nf; Latin expression "orbis terrarum" (world, globe)
+ordainers 1; found
+orixense 1; nf; bot, Latin word (don't marked "bot");; 2024 correction L=58505
+orn 2; nf; or n. (typo), abbreviation for "neuter";; previously changed
+ornature 1; found; or ornamentation
+oughtest 1; found; archaic (ought)
+outvie 1; found
+outvied 1; found
+outwardness 1; found
+ovalis 1; nf; bot, Latin word (don't marked "bot");; 2024 correction L=79680
+overcomer 1; found
+overdrinking 1; found
+overflowings 1; nf; I didn't find that "overflowing" can be used as noun;; OVERFLOWING, noun Exuberance; copiousness.  webster1828
+oversalted 2; found
+oxydizing 1; nf; oxidizing (print change);; no change. cf. webster1828
+ozs 1; nf; abbreviation for "ounces";; previously marked <ab>
+pI 1; nf; pl. (typo);; previously corrected
+painer 1; nf; derived from "pain"
+pala 1 nf; A measure of weight of gold or silver
+palankeen 1; found; more common variant is "palanquin"
+palkee 1; found; Indian a palanquin
+pantomimically 1; found
+paradiseus 1; nf; bio, Latin word (don't marked "bio");; 2024 correction L=82628
+parallelepipedon 1; found; more common variant is "parallelepiped"
+paranomasia 1; nf; paronomasia (print change);; 2024 correction L=224063 Sleza  PRINT CHANGE
+pater 1; nf; Latin expression "pater familias" (head of a family)
+patric 1; nf; partic. (typo), abbreviation for "particular", which exists;; previously changed
+patrimonially 1; found
+patronymical 2; nf; could be "patronymic" (in this case print change)
+pawner 1; found
+peakless 1; found
+pease 13; found; an archaic or dialect word for "pea"
+pelonius 1; nf; bio, Latin word (don't marked "bio"), probably archaic;; 2024 correction L=73863
+pendulosity 1; found
+pendulousness 2; found; more common variant is "pendulosity"
+peobably 1; nf; probably (typo);; previously changed
+perceiver 2; found
+perceptibleness 1; found; more common variant is "perceptibility"
+pericarps 1; found
+perinaeum 2; found; more common variant is "perineum"
+periphrastical 2; found; more common variant is "periphrastic"
+perishableness 7; found; more common variant is "perishability"
+permeableness 2; found; more common variant is "permeability
+perplexedness 1; found; archaic (perplexity)
+pervertedly 1; found
+petitio 1; nf; Latin expression "petitio principii" (begging the question)
+ph 1; nf; the consonant "pha"
+phimosis 2; found
+phonetical 1; found; more common variant is "phonetic"
+phthisical 3; found; more common variant is "phthisic"
+pickaxe 1; found; or "pickax"
+pilsers 1; found (only in one source - An insect that flies into a flame)
+pitier 1; found
+plained 1; nf; explained (typo);; previously changed
+plaiter 1; found
+pleasingness 4; found
+pleonast 1; nf; abbreviation probably for "pleonastic"
+plurally 1; found
+plusq 2; nf; abbreviation probably for "plusquamperfekt";; 2024 correction L=12544, 13270
+pluta 1; nf; grammatical term - the long accent
+poisonousness 2; found
+pollutio 1; nf; Latin expression "pollutio nocturna" (nocturnal pollution)
+polysyllableness 1; nf; derived from "polysyllable"
+portionless 4; found
+portress 2; found
+postscenium 1; found
+practicableness 1; found
+praeputii 1; nf; Latin expression "frenum praeputii" (frenulum of prepuce)
+praisable 1; found; or "praiseworthy"
+praiser 29; found
+praisers 4; found
+prastha 1; nf; Sanskrit name for a weight unit
+prec 1; nf; abbreviation - maybe  for "preceding" or "precative";; previously corrected
+precative 2; found
+preceptress 3; found
+predestinarianism 1; found
+pregnation 1; nf; maybe "pregnancy"
+preinventing 1; nf; preventing (typo);; 2024 correction L=199435
+preluded 1; found
+pretendedly 1; found
+pricelessness 1; found
+prima 1; found; Latin expression "prima facie" (based on first impression)
+primariness 2; found
+principii 1; found; "petitio principii" - Medieval Latin, literally, postulation of the beginning
+privities 12; found
+proceleusmaticus 1; nf; can be "proceleusmatic";; Latin word
+proclaimer 13; found
+profitableness 4; found
+progenitress 4; found; more common variant is "progenitrix"
+prolapsus 8; nf; Latin word (prolapse)
+prolated 10; nf; probably "prolate"
+prolation 3; found
+pronominals 2; nf; maybe "pronouns"
+propense 1; found; archaic (prone)
+proportionably 2; found
+prosaical 1; found
+prosod 1; nf; prosod. (typo) - abbreviation, maybe  for "prosody/prosodic";; 2024 correction L=97775 <ab>
+prosodial 11; found
+prosodially 1; found
+prosodically 1; found
+protectorless 1; found
+protectress 11; found
+provableness 1; found
+provincialisms 3; found
+pulcherrima 1; nf; bot "Caesalpinia pulcherrima" (typo for the word Caesalpinia);; 2024 correction L=55243
+pulmonalis 1; nf; Latin name of Tubercular consumption
+pulveriser 1; found; more common variant is "pulverizer"
+pulverizer 1; found
+punctatum 1; nf; bot "Ophidium punctatum" (don't marked "bot");; 2024 correction L=64358  (bot -> bio)
+punisher 11; found
+pupilage 4; found; more common variant is "pupillage"
+pupillari 1; nf; Latin expression "in statu pupillari" (in the state of pupilage)
+pur 2; nf; Pur. (typo), should be marked like abbreviation "Purāṇas";; previously changed
+purposingly 3; nf; can be "purposively"
+putrify 2; nf; putrefy (print change);; 2024 correction L=25012 ApUy, 52041 kuT  PRINT CHANGE
+qq 10; nf; abbreviations qq.v. and qq.vv. from Latin "quae vide" (Which see);; previously changed
+qualis 1; nf; Latin word (quality)
+qualmishness 2; found
+quantus 1; nf; Latin word (how great)
+quietist 1; found
+quitted 15; found
+quiverings 2; nf; maybe "quivering" (in this case - print change)
+ramosa 1; nf; bot, Latin word (don't marked "bot");; 2024 correction L=55183
+rarified 1; found; more common variant is "rarefied"
+rasa 1; nf; Sanskrit term;; 2024 correction L=145523  <s>rasa</s>
+raws 1; nf; rows (typo);; 2024 correction L=176963
+rearer 3; found
+rebeginning 1; found
+recensions 8; found
+receptable 1; nf; receptacle (print change)
+recompence 1; found; archaic variant of "recompense"
+recompenser 2; found
+recta 3; nf; Latin expression "oratio recta" (Direct speech)
+rection 1; found
+redescending 1; found
+redundance 1; found; another name for "redundancy"
+reflexion 2; found; chiefly British spelling of "reflection"
+refuser 1; found
+regardlessness 2; found
+regio 1; nf; Latin anatomical term "regio sacra" (sacral region)
+reiteratedly 1; found
+relat 2; nf; relat. clauses (relative clauses) / for <L>111758 - can be other meaning, better to check;; previously marked as <ab>
+relig 2; nf; relig. = religious;; previously marked as <ab>
+relinquishable 1; nf; can be "relinquished"
+repeller 1; found
+replicant 1; found
+reproachableness 1; found
+respirations 3; nf; respiration (uncountable noun);; 'uncountable noun'  ?
+restrainment 1; found; rare (restraint)
+resultless 1; found
+revealer 3; found
+rever 1; nf; reverberated (typo);; 2024 correction L=133486
+reverer 2; found
+reverseness 1; nf
+rewarder 1; found
+rewatering 2; found
+rhomboides 1; nf;  bot "Sida rhomboides" maybe obsolete = "Sida rhombifolia";; 2024 correction L=55993
+ri 2; nf; Sanskrit vowel;; could not find. probably previously changed
+ricefield 1; nf; rice-field (typo);; 2024 correction L=45731.1
+righthand 1; nf; right-hand (typo);; 2024 correction L=89389.20
+rimam 1; nf; Latin obscon expression "rimam tergens";; obscon =? obscene
+riskful 2; found
+risua 1; nf; bio, Latin word (don't marked "bio");; 2024 correction L=82628
+rivality 1; found
+roadless 2; found
+roarings 2; found
+ruberifolium 1; nf; bot, Latin word (don't marked "bot");; 2024 correction L=74199
+runnet 2; found; dialectal variant of "rennet"
+ruttishness 2; found
+sacrif 2; nf; sacrif. = sacrificial;; previously changed
+sacrificers 6; found
+sacriflcial 1; nf; sacrificial (typo);; 2024 correction L=26027.1
+sagaciousness 1; found
+saintship 1; found
+saltlessness 1; found
+saltness 5; found
+saluter 1; found
+saplessness 1; found
+saponaria 1; nf; bot, Latin word (don't marked "bot");; 2024 correction L=59873
+sappan 2; found; bot - Caesalpina Sappan and sappanwood (here - print change);; no change made.? 
+sarificial 1; nf; sacrificial (typo);; 2024 correction L=169251
+sattva 1; nf; Sanskrit word;; 2024 correction L=13351 <s1> markup added
+scaber 1; nf; bot, Latin word (don't marked "bot");; 2024 correction L=67028
+scentlessness 1; nf; derived from "scentless"
+scymitar 9; nf; scimitar (print change);; no change. scymitar archaic form
+seatless 1; found
+sectarial 17; found
+sedent 4; found
+segregarious 1; nf; can be "segregative"
+semel 1; nf; Latin word (once)
+semidiameter 1; found
+sensu 1; nf; Latin expression "sensu obsceno" (obscene speaking)
+septangular 2; nf; having seven angles, heptangular
+sesam 1; nf; sesame (print change);; 2024 correction L=74806 cUrRa PRINT CHANGE (sesam is German, from PW)
+sesamum 3; found
+sexangle 1; found; hexagon
+sg 5; nf; abbreviation for "Singular";; 2024 correction L=17590, 20353, 90227, 137011
+shamer 1; found
+sheat 9; nf; sheatfish (print change);; no change 'sheat fish' (3), 'sheat-fish' (6)
+shelterless 3; found
+shieldless 1; found
+shoed 2; found
+shorn 16; found
+shortlived 2; nf; short-lived (typo);; 2024 correction L=16911, 118250.35
+shoulderless 1; nf; derived from "shoulder"
+shrubless 1; found
+shu 1; nf; °shu (a part of a headword), (typo);; previously changed
+sigus 1; nf; signs (typo)
+silentness 1; found
+simples 1; found
+sinlessness 1; found
+sixfoldness 1; nf; the quality or state of being sixfold
+sixteenfold 2; nf; 
+sixtyfold 1; nf; By a factor of sixty
+skeat 1; nf; sheatfish (print change);; 10850 apriyA . no change mw72 also has 'skeat' ?
+smatterer 1; found
+sochal 10; nf; kind of salt
+soleness 1; found
+solidungulate 2; found
+solidungulous 1; found; more common variant is "solidungular"
+somaniest 1; nf 
+somniterous 1; nf; somniferous (typo);; 2024 correction L=258968
+sonless 7; found
+sonlessness 1; nf; derived from "sonless"
+sonship 6; found
+sorrowless 2; found
+souud 1; nf; sound (typo);; 2024 correction L=18512.1
+spaech 1; nf; speech (typo)
+specifical 1; nf; archaic (specific)
+spinage 5; found; Obsolete spelling of "spinach"
+spiritous 1; nf; spirituous (typo);; 2024 correction L=155657
+spontaneousness 1; found
+sportful 1; found
+sportfulness 1; found
+spottedness 1; found
+springiiig 1; nf; springing (typo);; 2024 correction L=30353.1
+staffless 1; nf; derived from "staff"
+stainlessness 6; found
+staphylea 1; nf; bot, Latin word (don't marked "bot");; 2024 correction L=51297
+statu 2; nf; Latin expression "in statu pupillari" (in the state of pupilage)
+strategem 1; nf; stratagem (print change);; 2024 correction L=38906 fRodgrahaRa PRINT CHANGE
+stratums 1; nf; strata (print change);; no change. stratums alternate plural of stratum
+strawman 1; nf; straw man (print change);; 2024 correction L=70772 straw-man (typo)
+strengthless 3; found
+strided 1; nf; strode (print change);; no change; acc. to Wiktionary, strided is '(nonstandard) simple past and past participle of stride'
+stringless 1; found
+strychnos 1; found; bot - Strychnos (don't marked "bot"), (print change);; 2024 correction L=201690 vizaGnikA PRINT CHANGE
+stypic 1; nf; styptic (typo);; 2024 correction L=121138
+substantiality 3; found
+successfulness 3; found
+successiveness 1; found
+successless 1; found
+sudorifics 8; found
+sulcatus 1; nf; bot, Latin word (don't marked "bot");; 2024 correction L=56819
+sulphuret 8; found
+summum 1; found; Latin expression "summum jus" (strict legal right)
+superinduced 2; found
+supportless 6; found
+suppressions 1; found
+surnamed 2; found
+sutoria 3; nf; bio, Latin word (don't marked "bio");; 2024 correction L=70818, 70819
+sv 4; nf; maybe the abbreviation sv. = s.v.;; previously changed
+swinishness 1; found
+swordless 1; found
+swordlike 1; found
+swordmanship 1; nf; swordsmanship (print change);; 2024 correction L=61040 KaqgavidyA PRINT CHANGE
+tabour 2; found; more common variant is "tabor"
+tabours 1; found; more common variant is "tabors"
+talkihg 1; nf; talking (typo);; 2024 correction L=130164.1
+tbe 2; nf; the (typo);; 2024 correction L=67126.1, 222538.1
+tergens 1; nf; Latin obscene expression "rimam tergens"
+terrarum 1; nf; Latin expression "orbis terrarum" (world, globe)
+terrifier 1; found
+tertium 3; nf; Latin expression "Tertium comparationis" (the third of the comparison)
+tetranomial 1; nf; Having four terms/names
+th 2; nf; <L>6846 - "th° into" (better to recheck). <L>25773 - "the" (typo);; 2024 correction L=6846.2, 25773.1, 166068
+thighless 1; nf; derived from "thigh"
+thornless 2; found
+threstening 1; nf; threatening (typo);; 2024 correction L=17722.1
+thriven 1; found
+thunderless 1; found
+tighting 2; nf; fighting (typo);; 2024 correction L=tighting
+togrther 1; nf; wheel together (typo);; 2024 correction L=70445.1
+toothlessness 1; found
+tortilis 1; nf; bot - Latin word (don't marked "bot");; 2024 correction L=85435
+toucher 1; found
+tranquillization 5; found; more common variant is "tranquilization"
+transmigrations 4; found
+transparence 1; found; or "transparency"
+treasureless 1; found
+trinkled 1; found; more common variant is "trickled"
+tripleness 2; found; more common variant is "triplicity"
+trom 1; nf; from (typo);; 2024 correction L=39947.25
+tud 1; nf; √tud - should be marked like a Sanskrit root;; could not find - previously changed?
+tumed 2; nf; turned (typo);; 2024 correction L=116813
+tumultus 1; nf; Latin word (tumult) 
+tutanag 2; nf; tutenag (the Indian word for zinc) (print change)
+tutenag 2; found
+twa 1; nf; Gothic word
+twilights 1; found
+twitchings 1; nf; maybe better "twitches"
+udderless 1; found
+un 10; nf; see:
+unconquered (typo);; 2024 correction L=14967
+uncharacterized (typo);; 2024 correction L=16541
+unseparated, joint (typo);; 2024 correction L=18910
+unpierceable (typo);; 2024 correction L=19202
+unascertained (typo);; 2024 correction L=19610
+unauthorized (typo);; 2024 correction L=20789
+unintelligent (typo);; 2024 correction L=76683
+unorganic - "inorganic" (print change)202032 vizaya  PRINT CHANGE
+unaccentuated 2; found; more common variant is "unaccented"
+unaccused 1; found
+unachieved 1; found
+unactionable 1; found; mentioned only on Wiktionary
+unader 1; nf; under (typo);; 2024 correction L=211282
+unadvantageous 1; found
+unafflicted 1; found
+unagitated 2; found
+unallowed 1; found
+unamiable 1; found
+unannealed 3; found
+unanointed 1; found
+unanswerableness 1; found
+unanxious 2; found
+unapprehensive 1; found
+unapproached 1; found
+unarrived 1; found; mentioned only on Wiktionary
+unascertainable 1; found
+unascertained 6; found
+unaspirate 1; nf; unaspirated (print change);; 2024 correction L=134511 praTama PRINT CHANGE
+unaspirated 2; found
+unattackable 1; found
+unattacked 1; found
+unattainableness 1; found; mentioned only in one sourse
+unauspicious 1; found; more common variant is "inauspicious"
+unauthoritative 1; found
+unavaricious 1; nf; not avaricious
+unaverted 1; found
+unbathed 1; found
+unbearded 1; found
+unbecomingness 2; found
+unbeheld 1; found
+unblamable 6; found
+unblamed 1; found
+unblended 2; found
+unbloody 1; found
+unboastful 1; found
+unbrahmanical 1; nf; not brahmanical 
+unbribable 1; found
+unbridledness 1; found
+unbrokenness 1; found
+uncared 1; found
+uncastrated 2; found
+unchangeableness 6; found
+uncleansed 3; found
+unclever 2; found
+uncloven 1; found
+uncompared 1; nf; incomparable
+uncompassionate 1; found
+unconsigned 1; nf; not consigned
+unconstrainedly 2; found
+uncontradicted 1; found
+uncrushed 1; found
+uncurbed 1; found
+uncurtailed 5; found
+undecayed 1; found
+undecaying 15; found; mentioned only on Wiktionary
+undeceitful 1; found; mentioned only on Wiktionary
+undecomposed 1; found
+undepressed 1; found
+underived 1; found
+undesignedly 1; found
+undesiredly 1; nf; undesirably
+undesirous 4; found
+undespised 1; nf; not despised
+undesponding 1; found; mentioned only on Wiktionary
+undestroyed 3; found
+undeterminable 1; found
+undevoted 1; nf; not devoted
+undiscernible 3; found
+undiscernibleness 1; found
+undiscriminated 3; found
+undispersed 1; found; mentioned only on Wiktionary
+undissembling 1; found
+undistinguishableness 1; found
+undistracted 1; found
+undisturbedness 2; found
+undoubtingly 1; found
+undried 4; found
+undulata 1; nf; bot - Latin word (don't marked "bot");; 2024 correction L=51298
+uneffected 4; found
+unembodied 1; found
+unenduring 2; found
+unenergetic 3; found
+unenjoyed 2; found
+unentire 1; nf; not entire
+unentitled 1; found
+unenvious 2; found
+unequable 1; found
+unerotically 1; found
+unerringness 1; found
+uneternal 2; nf; not eternal
+unevolved 2; found
+unexcluded 1; found
+unexhausted 1; found
+unexpiated 1; found
+unexpounded 1; nf; not expounded
+unextended 2; found
+unextinguished 4; found
+unextirpated 1; found
+unfaded 3; found
+unfavourableness 1; found
+unfearful 1; found
+unfeathered 2; found
+unfertile 2; found
+unfixedness 1; found
+unfluctuating 1; found
+unforbidden 3; found
+unfrequent 1; found; more common variant is "infrequent"
+unfrequently 2; found; more common variant is "infrequently"
+unfurrowed 1; found
+ungenerated 1; nf; not generated
+ungreasing 1; nf; not greasing
+unhospitable 1; found; more common variant is "inhospitable"
+unhostile 1; found
+unhusk 2; found
+unhusked 4; found
+unhusking 1; found
+unilluminated 2; found
+uninclosed 1; found; more common variant is "unenclosed"
+unindebted 1; nf; not indebted
+uninherited 1; nf; not inherited
+uninjurious 1; found
+unintermittent 1; found
+unintermittingly 1; nf; maybe "unintermittedly"
+uninterruptedness 9; found
+unintoxicated 1; nf; not intoxicated
+uninvestigated 1; found
+unitus 1; nf; bio, probably obsolete;; 2024 correction L=44893
+unliberated 2; found
+unlicked 1; found
+unlook 1; nf; unlock (typo);; 2024 correction L=32874
+unmanifested 2; found
+unmanliness 8; found
+unmeaningly 2; found
+unmenaced 1; nf; not menaced
+unmetrically 1; nf; not metrically
+unmingled 1; found
+unnoosed 1; nf; not noosed
+unnourished 1; found
+unobstructedly 3; found
+unobtained 5; found
+unoppressed 1; found
+unpartitioned 1; found
+unpassed 1; found
+unperishable 1; found
+unpermitted 1; found
+unperplexed 4; found
+unpierced 1; found
+unpitied 1; found
+unplait 1; found
+unplaited 1; found
+unpossessed 1; found
+unpreceded 4; found
+unpreferred 1; found; obsolete (not preferred)
+unprescribed 2; found
+unproduced 1; found
+unprofitableness 6; found
+unprolific 1; found
+unquietness 2; found
+unreally 1; found
+unreclaimable 1; found
+unreflectingly 1; found
+unrefuted 5; found
+unreproached 4; found
+unresisted 1; found
+unrespected 1; found
+unrestrainable 7; found
+unreviled 1; found; obsolete (not reviled)
+unrighteously 1; found
+unrivalledness 1; nf; derived from "unrivalled"
+unsalaried 1; found
+unscriptural 2; found
+unseasonableness 2; found
+unsentient 1; nf; insentient (print change);; no change -- appears in OED
+unseparated 4; found
+unserviceableness 1; found
+unsettledness 1; found
+unsheath 1; nf; unsheathe (print change);; 2024 correction L=200218 vivf PRINT CHANGE
+unsimultaneousness 2; nf; not simultaneousness
+unskilful 6; found
+unskilfully 1; found
+unskilfulness 6; found
+unsmeared 3; found
+unsown 2; found
+unsteadfastness 1; found
+unstitching 1; found
+unsubmissive 1; found
+unsuccessfulness 1; found
+unsummoned 1; found
+unsurrounded 1; nf; not surrounded
+untamable 2; found
+untenableness 1; found; more common variant is "untenability"
+unterrific 1; nf; not terrific
+unterrified 1; found
+unthrashed 1; nf; not thrashed
+unthreshed 1; found
+untonsured 1; nf; not tonsured
+untraced 1; found
+ununited 1; found
+unusualness 2; found
+unvariable 1; found; archaic (invariable)
+unvenomous 1; nf; not venomous
+unvexed 1; found
+unviolated 1; found
+unvitiated 2; found; archaic (unsullied, uncontaminated)
+unweakened 1; found
+unweariedly 1; found
+unwidowed 1; nf; not widowed
+unwinnowed 1; found
+unwithered 1; found
+unwrought 2; found
+upheaving 1; found
+uprooter 1; found
+uptearer 1; nf; derived from "uptear"
+upto 1; nf; up to (typo);; 2024 correction L=13509
+urined 4; nf; urinated (print change);; no change.  urine is a verb acc. to OED 
+urining 6; nf; urinating (print change);; no change.  urine is a verb acc. to OED 
+utens 1; nf; utensil (typo);; previously changed
+utinam 1; nf; Latin expression (if only/I wish that)
+utrum 1; nf; Latin word whether)
+vacuities 1; found
+vainness 1; found
+vanishment 1; found
+vc 1; nf; Roman numeral (95);; [xvci = 96]  previously corrected
+vci 1; nf; Roman numeral (96);;  previously corrected
+vender 8; found; more common variant is "vendor"
+veneris 1; found; a term "mons veneris" (mons pubis)
+venomless 1; found
+ventris 3; nf; Latin expression "ventris crepitus" (belly noises)
+vertebrated 2; found
+vesicatorius 1; nf; bot, probably obsolete (vesicarius), (don't marked "bot");; 2024 correction L=73460
+vetus 1; nf; Latin word, should be marked "Latin";; it is marked '<ab>Lat.</ab> <etym>vetus</etym>'
+viS 1; nf; Sansrit words: °peRa pra-√ viS (by SLP1) or °peṇa pra-√ viś (should be marked like Sanskrit);; previously marked
+viam 1; nf; Latin expression "carpere viam" (size the road)
+vinepalm 1; nf; wine palm (print change);; 2024 correction L=123692 piYjA : 'vine-palm' (cf. mw72)
+violences 1; found
+virginis 1; nf; Latin word (lunar mansion)
+virgo 2; nf; bio, "Ardea virgo" - kind of bird (now it marked by bot);; 2024 correction L=57621, 57638
+vivants 2; nf; French term "tableaux vivants" (living pictures)
+vivaras 1; nf; from Sanskrit "vivara", here - number 9. (typo - since missed simbols "semi-colon" deviding the text);; 2024 correction L=720
+vix 1; nf; maybe a  abbreviation "viz." (in this case - print change);; previously changed
+vocat 1; nf; vocat. = vocative;; 2024 correction L=103414.1
+voidness 2; found
+volitions 1; nf; "volition" is uncountable but Sanskrit word should be plural.;; no change
+vomition 4; found
+wardness 1; nf; waywardness (typo);; 2024 correction L=94272
+waterjar 1; nf; water-jar (print change);; 2024 correction L=51917.1
+waveless 1; found
+wbo 1; nf; who (typo);; 2024 correction L=38009.1
+weanedness 1; found
+wellbeing 2; nf; well-being (typo);; 2024 correction L=152039, 250573
+wetted 17; found
+whisp 2; found; more common variant is "wisp"
+whoremonger 1; found
+wickless 1; found
+wideopened 1; nf; wide-open (print change);; 2024 correction L=9975.1  wide-opened (typo)
+windwards 1; nf; exist a word "windward" (in this case - print change);; L=12324 aBivAtam : no change. cf. OED 'to the windward side'
+winkings 1; found
+winterly 1; found
+wipings 1; found
+wolfishness 2; found
+wordly 2; nf; worldly (typo);; 2024 correction L=202077, 208991.1
+woundless 1; found
+wrapt 2; found
+xiif 1 nf; xii f. (typo);; previously corrected
+yava 1; nf; Sanskrit word, a measure of weight;; 2024 correction L=2484 aRqikA  '<s1 slp1="yava">yava</s1>'
+yi 1; nf; vi (typo);; previously corrected
+yogas 1; found;; 2024 correction L=52723 kurukzetrin  <s1 slp1="yoga">yoga</s1>s
+yoker 3; found; A person who yokes (obsolete)
+zebet 1; nf; as you can understand from the text - a variant of civet cat;; no change: 'zibet' occurs in OED
+

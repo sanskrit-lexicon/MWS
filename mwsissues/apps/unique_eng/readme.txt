@@ -65,5 +65,55 @@ python find_instance.py temp.txt temp_mw.txt instance_mw_noneng.txt
 try api at https://dictionaryapi.dev/
 python dictionaryapi.py words_nonenglish.txt words_english1.txt words_nonenglish1.txt
 ; ----------------------------------------------
-Search for words found outside of 
+*********************************************************************
+01-22-2024
+Review words_mw_noneng_1.txt
+Make corrections to current mw from csl-orig
 
+# copy of current mw (csl-orig commit f387a72276467b7fd92949fc5ce93999627f68c0)
+cp /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt temp_mw_1.txt
+cp temp_mw_1.txt temp_mw_2.txt
+
+cp words_mw_noneng_1.txt words_mw_noneng_2.txt
+  # edit words_mw_noneng_2.txt
+    # Jim's comments in marked ';;'
+
+Changes to temp_mw_2.txt
+  Temporary markup '*' for changes (no * otherwise in mw.txt)
+
+41 matches in 39 lines for "\bBos\b" in buffer: temp_mw_2.txt
+5 matches for "<bio>Bos</bio> <bio>grunniens</bio>" in buffer: temp_mw_2.txt
+2 matches for "<bio>Bos</bio> <bio>gavaeus</bio>" in buffer: temp_mw_2.txt
+1 match for "<bio>Bos Grunniens</bio>" in buffer: temp_mw_2.txt
+ etc. etc.
+
+mwab_input.txt in csl-pywork several additions
+
+python diff_to_changes_dict.py temp_mw_1.txt temp_mw_2.txt changes_2.txt
+211 changes written to changes_2.txt
+
+#  some changes were made to csl-orig/v02/mw/mw.txt while temp_mw_2.txt was
+#  changed.
+cp /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt temp_mw_3.txt
+
+# apply the changes_2.txt to temp_mw_3.txt
+
+python updateByLine.py temp_mw_3.txt changes_2.txt temp_mw_4.txt
+880516 lines read from temp_mw_3.txt
+880516 records written to temp_mw_4.txt
+212 change transactions from changes_2.txt
+212 of type new
+
+# NOte: The change application works without problem, since by luck
+## the diffs between _1 and _3  are 'orthogonal' to the diffs between _1 and _2.
+
+# note PRINT CHANGE in csl-corrections/dictionaries/mw/mw_printchange.txt
+--------------------------------------------------------------------
+## add/commit/push csl-corrections, csl-pywork to Github
+## csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+git pull
+# cd back here
+cp temp_mw_4.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+
+cd /c/xampp/htdocs/cologne/csl-orig/v02/
