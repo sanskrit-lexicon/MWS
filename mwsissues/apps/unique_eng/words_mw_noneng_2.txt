@@ -222,7 +222,7 @@ Punnag 1; nf; plant "Punnaag"
 Punpun 1; nf; geographical name
 Putcabarry 1; nf; geographical name
 Quilon 1; nf; former name of Kollam
-Rakshases 2; nf; Rakshasas ;;AB plural of Rakshas, no change required
+Rakshases 2; nf; Rakshasas ;;AB plural of Rakshas, no change required;; AB <ns>Rakshases</ns>
 Ramtek 1; nf; geographical name
 Retti 3; nf; Ratti
 Sacae 1; found; an ancient people settled in the eastern part of Iran
@@ -255,7 +255,7 @@ Tinnevelly 1; nf; geographical name
 Tiruparur 1; nf; geographical name, maybe "Tirupur"
 Trimbak 1; nf; geographical name
 Tumbudra 1; nf; geographical name
-Ushases 1; nf; Ushas ;;AB plural of Ushas, no change required
+Ushases 1; nf; Ushas ;;AB plural of Ushas, no change required;; AB <ns>Ushases</ns>
 VIth 1; nf; number "6th"
 Vaidic 1; nf; Vedic
 Vallasor 1; nf; Vallas or (typo) ;; `<s1 slp1="valla">Valla</s1>s or` prev. change

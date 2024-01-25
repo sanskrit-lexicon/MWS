@@ -132,3 +132,10 @@ in mw_printchange.txt (csl-corrections)
  Remove cerebralization
  
  
+---------------------------------------------------------------------
+01-25-2024
+Per AB request (https://github.com/sanskrit-lexicon/MWS/issues/127#issuecomment-1910699452):
+revise /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+ Rakshases -> <ns>Rakshases</ns> (2),
+ Similar for Ushases (1)
+revise comments at words_mw_noneng_2.txt
