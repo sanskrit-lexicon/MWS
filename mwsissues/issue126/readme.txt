@@ -71,7 +71,7 @@ new: <ls>Dhātup. vii, 76</ls>, <ls n="Dhātup. vii,">77</ls>
 ---
 <L>205298<pc>1013,3<k1>vekz
 old: <ls>Dhātup. xxxv, 84, 6</ls>
-new: ?? problem with '6'
+new: ?? problem with '6'  see 'further corrections' below
 ---
 <L>210272<pc>1040,3<k1>vyuz
 old: <ls n="Dhātup. xxvi,">xxxii, 92.</ls>
@@ -88,7 +88,8 @@ new: (in explaining √ <s>mur</s>)
 <L>263399<pc>1300,3<k1>hillolaya
 old:  <ls>Dhātup. xxxv, 84, 6.</ls>
 new:  UNCHANGED  COULD NOT FIND REF. to hillolaya in
-  '6'.??
+  '6'.?? see 'further corrections' below
+
 -----------------------------------------------
 Rerun after changes to temp_mw_1.txt
 python dhatup.py temp_mw_1.txt dhatup_1.txt
@@ -98,3 +99,36 @@ python dhatup.py temp_mw_1.txt dhatup_1.txt
 -----------------------------------------------
 install temp_mw_1.txt in csl-orig
 cp temp_mw_1.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt  
+-----------------------------------------------
+01-30-2024
+2 further corrections courtesy 
+ https://github.com/sanskrit-lexicon/MWS/issues/126#issuecomment-1916078204
+ (ref pwg)
+Due to intervening changes to csl-orig/v02/mw/mw.txt
+cp /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt  temp_mw_2.txt 
+---
+<L>205298<pc>1013,3<k1>vekz
+old: <ls>Dhātup. xxxv, 84, 6</ls>
+new: <ls>Dhātup. xxxv, 84, b</ls>
+print change
+---
+<L>263399<pc>1300,3<k1>hillolaya
+old: <ls>Dhātup. xxxv, 84, 6.</ls>
+new: <ls>Dhātup. xxxv, 84, h.</ls>
+print change
+-----------------------------------------------
+install temp_mw_2.txt in csl-orig
+
+cp temp_mw_2.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt  
+etc.
+sync csl-orig to github, install at Cologne
+-------------------------------------------------------
+revise basicadjust.php (csl-websanlexicon) to link to Westergaard Dhātup.
+for MW.
+Also for PW, and PWG.
+Copy basicadjust and basicdisplay to csl-apidev repo (for simple-search).
+Change DHĀTUP ls tooltip for MW.
+sync csl-websanlexicon, csl-pywork to github, then sync cologne.
+remake displays for pw, pwg, mw at cologne.
+------------------------------------------------------------------
+
