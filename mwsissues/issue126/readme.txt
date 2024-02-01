@@ -223,3 +223,37 @@ install the print change noted above.
 ----------------------------------------------------------
 02-02-2024  dhatup links in schmidt.
 
+
+csl-orig at commit 47c9b8f974e7aaa175663b47a4bdb286e579cec3
+cp /c/xampp/htdocs/cologne/csl-orig/v02/sch/sch.txt  temp_sch_1.txt
+
+'Dhātup.' is the spelling in SCH for references to Westergaard dhatupatha
+13 instances found.
+
+Here the change to sch.txt  is to include the 'numbers' within the ls.
+I'll do this manually.
+cp temp_sch_1.txt temp_sch_2.txt
+edit temp_sch_2.txt
+
+</ls> <ls n="Dhātup.">
+cp dhatup_pwg.py dhatup_sch.py
+python dhatup_sch.py temp_sch_2.txt dhatup_sch_2.txt temp_change_sch_2.txt
+
+These two may be wrong (there is no subsection 960 or 840 in section 1
+ of Westergaard).
+ ??
+<L>11832<pc>162-3<k1>Kadana : Dhātup. 1, 960.
+<L>13009<pc>179-2<k1>can : Dhātup. 1, 840.
+-------------------------------------------------------
+install temp_sch_2.txt in local csl-orig
+cp  temp_sch_2.txt /c/xampp/htdocs/cologne/csl-orig/v02/sch/sch.txt 
+
+
+revise csl-websanlexicon so westergaard is a link target for Dhātup.
+change basicadjust.php as needed.
+copy also to csl-apidev
+
+sync csl-orig, csl-websanlexicon, csl-apidev at Github and cologne.
+Regenerate sch displays at Cologne.
+
+DONE!
