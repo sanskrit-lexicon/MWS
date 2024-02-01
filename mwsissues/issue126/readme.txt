@@ -131,4 +131,95 @@ Change DHĀTUP ls tooltip for MW.
 sync csl-websanlexicon, csl-pywork to github, then sync cologne.
 remake displays for pw, pwg, mw at cologne.
 ------------------------------------------------------------------
+01-31-2021
+pwg: look for markup errors re <ls>DHĀTUP. XX</ls>
+csl-orig at commit ff1180e0e05b2845d997cdc9fc1df8f62fca5b48
+cp /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt  temp_pwg_1.txt
+
+cp dhatup.py dhatup_pwg.py
+
+python dhatup_pwg.py temp_pwg_1.txt dhatup_pwg_1.txt tempchange_pwg_2.txt
+2626 dhatupada cases
+2626 cases
+392 cases with non-standard form
+2626 cases written to dhatup_pwg_1.txt
+392 change cases written to tempchange_pwg_2.txt
+188 programmatic changes
+
+
+cp tempchange_pwg_2.txt change_pwg_2.txt
+edit change_pwg_2.txt
+
+---
+Question: Should 'v. l.' be within scope of <ls> ?
+e.g. <ls>DHĀTUP. 32, 115, v. l.</ls> 
+I choose to move v. l. out of ls
+e.g. <ls>DHĀTUP. 32, 115</ls>, v. l.
+
+---
+TODO: v. l. -> <ab>v. l.</ab>  add to pwgab_input.txt if needed (csl-pywork)
+
+
+---
+L>24850<pc>2-0948<k1>cam
+<ls>53.</ls> — {#camno/ti#} ved.
+---
+Note:
+<is>Kār.</is> 2 aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls>
+---
+; <L>51129<pc>4-1173<k1>preNKolay
+;  <ls>DHĀTUP. 379,a.</ls> -> ??
+504702 old <ls>WEST.</ls> im <ls>DHĀTUP. 379,a.</ls> {#preNKolita#} {%geschwungen, geschaukelt%} 
+ 379 looks like page number (last page),
+  but don't see reference to preNKolay
+
+
+----------------------------------------------------------------------
+Have finished editing change_pwg_2.txt.
+apply changes
+python updateByLine.py temp_pwg_1.txt change_pwg_2.txt temp_pwg_2.txt
+1149413 records written to temp_pwg_2.txt
+394 change transactions from change_pwg_2.txt
+
+rerun analysis on pwg_2
+python dhatup_pwg.py temp_pwg_2.txt dhatup_pwg_2.txt temp_change_pwg_2a.txt
+35 cases with non-standard form
+2607 cases written to dhatup_pwg_2.txt
+33 change cases written to temp_change_pwg_2a.txt
+
+A few edits of change_pwg_2.txt, including
+---
+<L>86154<pc>6-0521<k1>laS
+old: DHĀTUP. 36, 55
+new: DHĀTUP. 33, 55
+PRINT CHANGE
+
+============================================================
+02-01-2024
+Have finished editing change_pwg_2.txt.
+apply changes again
+python updateByLine.py temp_pwg_1.txt change_pwg_2.txt temp_pwg_2.txt
+1149413 records written to temp_pwg_2.txt
+394 change transactions from change_pwg_2.txt
+
+rerun analysis on pwg_2
+python dhatup_pwg.py temp_pwg_2.txt dhatup_pwg_2.txt change_pwg_2_unused.txt
+25 cases with non-standard form
+2607 cases written to dhatup_pwg_2.txt
+25 change cases written to change_pwg_2_unused.txt
+
+change_pwg_2_unused.txt has the non-standard forms that remain.
+They are deemed ok, even though they differ from the current
+meaning of 'standard form' per program dhatup_pwg.py.
+-----------------------------------------------------------
+Install the changes:
+1) in local csl-orig/v02/pwg/pwg.txt
+cp temp_pwg_2.txt /c/xampp/htdocs/cologne/csl-orig/v02/pwg/pwg.txt
+update local installation for csl-orig
+push to github
+install at cologne and regenerate pwg displays.
+2) csl-corrections
+install the print change noted above.
+----------------------------------------------------------
+02-02-2024  dhatup links in schmidt.
 

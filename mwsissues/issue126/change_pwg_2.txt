@@ -1,0 +1,2357 @@
+; -------------------------------------------------------
+; <L>791<pc>1-0059<k1>ac
+;  <ls>DHĀTUP. 7, 6. 21, 2.</ls> -> <ls>DHĀTUP. 7, 6.</ls> <ls n="DHĀTUP.">21, 2.</ls>
+6733 old <ls>DHĀTUP. 7, 6. 21, 2.</ls> <ls>VOP. 8, 58.</ls> {#svatantrA kaTamaYcasi#} 
+;
+6733 new <ls>DHĀTUP. 7, 6.</ls> <ls n="DHĀTUP.">21, 2.</ls> <ls>VOP. 8, 58.</ls> {#svatantrA kaTamaYcasi#} 
+; -------------------------------------------------------
+; <L>1129<pc>1-0083<k1>aW
+;  <ls>DHĀTUP. 8, 8, v. l.</ls> -> ls>DHĀTUP. 8, 8</ls>, v. l.
+9857 old <ls>DHĀTUP. 8, 8, v. l.</ls> 
+;
+9857 new <ls>DHĀTUP. 8, 8</ls>, v. l. 
+; -------------------------------------------------------
+; <L>1132<pc>1-0083<k1>aq
+;  <ls>DHĀTUP. 27, 25, v. l.</ls> -> ls>DHĀTUP. 27, 25</ls>, v. l.
+9873 old <ls>DHĀTUP. 27, 25, v. l.</ls> für {#ah#} .
+;
+9873 new <ls>DHĀTUP. 27, 25</ls>, v. l. für {#ah#} .
+; -------------------------------------------------------
+; <L>2199<pc>1-0164<k1>an
+;  <ls>DHĀTUP. 24, 62. 26, 66.</ls> -> <ls>DHĀTUP. 24, 62.</ls> <ls n="DHĀTUP.">26, 66.</ls>
+18746 old <ls>DHĀTUP. 24, 62. 26, 66.</ls> {#AnI^davA\taM sva\DayA\ tadeka^m#} 
+;
+18746 new <ls>DHĀTUP. 24, 62.</ls> <ls n="DHĀTUP.">26, 66.</ls> {#AnI^davA\taM sva\DayA\ tadeka^m#} 
+; -------------------------------------------------------
+; <L>5873<pc>1-0431<k1>art
+;  <ls>DHĀTUP. 24, 1,</ls> -> done
+49659 old <ls>DHĀTUP. 24, 1,</ls> 
+;
+49659 new <ls>DHĀTUP. 24, 1, N.</ls>
+49660 old <ls>N.</ls> 
+49660 new 
+; -------------------------------------------------------
+; <L>6075<pc>1-0453<k1>arh
+;  <ls>DHĀTUP. 33, 58. 34, 24.</ls> -> <ls>DHĀTUP. 33, 58.</ls> <ls n="DHĀTUP.">34, 24.</ls>
+52159 old <ls>DHĀTUP. 33, 58. 34, 24.</ls> {#sragviRaM talpa AsInamarhayet#} ({%beschenke er%}) — {#gavA#} 
+;
+52159 new <ls>DHĀTUP. 33, 58.</ls> <ls n="DHĀTUP.">34, 24.</ls> {#sragviRaM talpa AsInamarhayet#} ({%beschenke er%}) — {#gavA#} 
+; -------------------------------------------------------
+; <L>6398<pc>1-0478<k1>avaDIray
+;  <ls>DHĀTUP. 35, 84, 1.</ls> -> done
+55118 old <ls>DHĀTUP. 35, 84, 1.</ls> {#hitavacanamavaDIrya#} 
+;
+55118 new <ls>DHĀTUP. 35, 84, l.</ls> {#hitavacanamavaDIrya#} 
+; -------------------------------------------------------
+; <L>6619<pc>1-0492<k1>avasAdana
+;  <ls>DHĀTUP. 20, 24. 28, 133.</ls> -> <ls>DHĀTUP. 20, 24.</ls> <ls n="DHĀTUP.">28, 133.</ls>
+56897 old <ls>DHĀTUP. 20, 24. 28, 133.</ls> 
+;
+56897 new <ls>DHĀTUP. 20, 24.</ls> <ls n="DHĀTUP.">28, 133.</ls> 
+; -------------------------------------------------------
+; <L>7189<pc>1-0529<k1>az
+;  <ls>DHĀTUP. 21, 21, v. l.</ls> -> ls>DHĀTUP. 21, 21</ls>, v. l.
+61558 old <ls>DHĀTUP. 21, 21, v. l.</ls> für 3. {#as#} .
+;
+61558 new <ls>DHĀTUP. 21, 21</ls>, v. l. für 3. {#as#} .
+; -------------------------------------------------------
+; <L>9978<pc>1-0779<k1>iK
+;  <ls>DHĀTUP. 5, 26. 27.</ls> -> done
+89627 old <ls>DHĀTUP. 5, 26. 27.</ls> Nicht belegbare Wurzel; vgl. {#INK#} .
+;
+89627 new <ls>DHĀTUP. 5, 26.</ls> <ls n="DHĀTUP. 5,">27.</ls> Nicht belegbare Wurzel; vgl. {#INK#} .
+; -------------------------------------------------------
+; <L>10088<pc>1-0797<k1>iD
+;  <ls>DHĀTUP. 29, 11. 3.</ls> -> done
+91122 old <ls>PAT.</ls> zu <ls>P. 6, 1, 186</ls>) <ls>DHĀTUP. 29, 11. 3.</ls> pl. {#inDa/te#} und {#inDate/#}; conj. 3. sg. {#iDate/#} und {#ina/Date#} (
+;
+91122 new <ls>PAT.</ls> zu <ls>P. 6, 1, 186</ls>) <ls>DHĀTUP. 29, 11.</ls> 3. pl. {#inDa/te#} und {#inDate/#}; conj. 3. sg. {#iDate/#} und {#ina/Date#} (
+; -------------------------------------------------------
+; <L>10478<pc>1-0844<k1>INK
+;  <ls>DHĀTUP. 5, 28, v. l.</ls> -> ls>DHĀTUP. 5, 28</ls>, v. l.
+95739 old <ls>DHĀTUP. 5, 28, v. l.</ls>
+;
+95739 new <ls>DHĀTUP. 5, 28</ls>, v. l.
+; -------------------------------------------------------
+; <L>10619<pc>1-0867<k1>uK
+;  <ls>DHĀTUP. 5, 14. 15.</ls> -> done
+97825 old <ls>DHĀTUP. 5, 14. 15.</ls> {#uvoKa, UKatus#} 
+;
+97825 new <ls>DHĀTUP. 5, 14.</ls> <ls n="DHĀTUP. 5,">15.</ls> {#uvoKa, UKatus#} 
+; -------------------------------------------------------
+; <L>10753<pc>1-0878<k1>uYC
+;  <ls>DHĀTUP. 7, 36. 28, 13.</ls> -> <ls>DHĀTUP. 7, 36.</ls> <ls n="DHĀTUP.">28, 13.</ls>
+99227 old <ls>DHĀTUP. 7, 36. 28, 13.</ls> {#uYCan#} 
+;
+99227 new <ls>DHĀTUP. 7, 36.</ls> <ls n="DHĀTUP.">28, 13.</ls> {#uYCan#} 
+; -------------------------------------------------------
+; <L>11554<pc>1-0936<k1>uDras
+;  <ls>DHĀTUP. 31, 52. 33, 68.</ls> -> <ls>DHĀTUP. 31, 52.</ls> <ls n="DHĀTUP.">33, 68.</ls>
+106448 old <ls>DHĀTUP. 31, 52. 33, 68.</ls>
+;
+106448 new <ls>DHĀTUP. 31, 52.</ls> <ls n="DHĀTUP.">33, 68.</ls>
+; -------------------------------------------------------
+; <L>14223<pc>2-0013<k1>kaK
+;  <ls>DHĀTUP. 5, 6. 19, 22.</ls> -> <ls>DHĀTUP. 5, 6.</ls> <ls n="DHĀTUP.">19, 22.</ls>
+130686 old <ls>DHĀTUP. 5, 6. 19, 22.</ls> {#akaKIt#} 
+;
+130686 new <ls>DHĀTUP. 5, 6.</ls> <ls n="DHĀTUP.">19, 22.</ls> {#akaKIt#} 
+; -------------------------------------------------------
+; <L>14331<pc>2-0020<k1>kaw
+;  <ls n="DHĀTUP.">2.</ls> -> done
+131644 old <ls n="DHĀTUP.">2.</ls> {#kaw, ka/wati#} {%regnen; umgeben%} 
+;
+131644 new 2. {#kaw, ka/wati#} {%regnen; umgeben%} 
+; -------------------------------------------------------
+; <L>14531<pc>2-0034<k1>kaRW
+;  <ls>DHĀTUP. 8, 11. 34, 40.</ls> -> <ls>DHĀTUP. 8, 11.</ls> <ls n="DHĀTUP.">34, 40.</ls>
+133467 old <ls>DHĀTUP. 8, 11. 34, 40.</ls> 
+;
+133467 new <ls>DHĀTUP. 8, 11.</ls> <ls n="DHĀTUP.">34, 40.</ls> 
+; -------------------------------------------------------
+; <L>14559<pc>2-0036<k1>kaRq
+;  <ls n="DHĀTUP.">45.</ls> -> done
+133736 old <ls n="DHĀTUP.">45.</ls> 
+;
+133736 new <ls n="DHĀTUP. 32,">45.</ls> 
+; -------------------------------------------------------
+; <L>15035<pc>2-0078<k1>kamb
+;  <ls>DHĀTUP. 11, 26, v. l.</ls> -> ls>DHĀTUP. 11, 26</ls>, v. l.
+138657 old <ls>DHĀTUP. 11, 26, v. l.</ls> für {#karb#} .
+;
+138657 new <ls>DHĀTUP. 11, 26</ls>, v. l. für {#karb#} .
+; -------------------------------------------------------
+; <L>15071<pc>2-0080<k1>kar
+;  <ls>DHĀTUP. 30, 10. 22, 4.</ls> -> <ls>DHĀTUP. 30, 10.</ls> <ls n="DHĀTUP.">22, 4.</ls>
+138969 old <ls>DHĀTUP. 30, 10. 22, 4.</ls> {#kfv#} 
+;
+138969 new <ls>DHĀTUP. 30, 10.</ls> <ls n="DHĀTUP.">22, 4.</ls> {#kfv#} 
+; -------------------------------------------------------
+; <L>15074<pc>2-0103<k1>kar
+;  <ls>DHĀTUP. 31, 15. 26. 27, 7.</ls> -> done
+140782 old <ls>DHĀTUP. 31, 15. 26. 27, 7.</ls> {#akarIzwa, akarizwa, akIrzwa; karizIzwa, kIrzIzwa#} 
+;
+140782 new <ls>DHĀTUP. 31, 15.</ls> <ls n="DHĀTUP. 31,">26.</ls> <ls n="DHĀTUP.">27, 7.</ls> {#akarIzwa, akarizwa, akIrzwa; karizIzwa, kIrzIzwa#} 
+; -------------------------------------------------------
+; <L>15075<pc>2-0104<k1>kar
+;  <ls>DHĀTUP. 33, 33, v. l.</ls> -> ls>DHĀTUP. 33, 33</ls>, v. l.
+140797 old <ls>DHĀTUP. 33, 33, v. l.</ls> für {#gar (gF)#} .
+;
+140797 new <ls>DHĀTUP. 33, 33</ls>, v. l. für {#gar (gF)#} .
+; -------------------------------------------------------
+; <L>15604<pc>2-0151<k1>kal
+;  <ls n="DHĀTUP.">35, 13, v. l.</ls> -> done
+146333 old <ls n="DHĀTUP.">35, 13, v. l.</ls> : {%die Zeit%} ({#kAla#}) {%anzeigen.%}
+;
+146333 new <ls n="DHĀTUP.">35, 13</ls>, v. l. : {%die Zeit%} ({#kAla#}) {%anzeigen.%}
+; -------------------------------------------------------
+; <L>15749<pc>2-0166<k1>kalp
+;  <ls>DHĀTUP. 33, 74)</ls> -> done
+148218 old <ls>VOP.</ls> (s. <ls>DHĀTUP. 33, 74)</ls> hat {#kalpay#} auch noch die Bed. von {#yuti#} und {#citra#} .
+;
+148218 new <ls>VOP.</ls> (s. <ls>DHĀTUP. 33, 74</ls>) hat {#kalpay#} auch noch die Bed. von {#yuti#} und {#citra#} .
+; -------------------------------------------------------
+; <L>15914<pc>2-0188<k1>kaz
+;  <ls n="DHĀTUP.">17, 77, v. l.</ls> -> done
+150288 old <ls n="DHĀTUP.">17, 77, v. l.</ls> {%springen%}, nach 
+;
+150288 new <ls n="DHĀTUP.">17, 77</ls>, v. l. {%springen%}, nach 
+; -------------------------------------------------------
+; <L>15914<pc>2-0188<k1>kaz
+;  <ls n="DHĀTUP.">32, 121, v. l.</ls> -> done
+150289 old <ls n="DHĀTUP.">32, 121, v. l.</ls> {#kaz, kAza/yati#} {%beschädigen.%} 
+;
+150289 new <ls n="DHĀTUP.">32, 121</ls>, v. l. {#kaz, kAza/yati#} {%beschädigen.%} 
+; -------------------------------------------------------
+; <L>15972<pc>2-0193<k1>kAMs
+;  <ls>DHĀTUP. 16, 46, v. l.</ls> -> ls>DHĀTUP. 16, 46</ls>, v. l.
+150871 old <ls>DHĀTUP. 16, 46, v. l.</ls> für {#kAS, kA/Sate#} .
+;
+150871 new <ls>DHĀTUP. 16, 46</ls>, v. l. für {#kAS, kA/Sate#} .
+; -------------------------------------------------------
+; <L>16832<pc>2-0256<k1>kAlay
+;  <ls>DHĀTUP. 35, 28, v. l.</ls> -> ls>DHĀTUP. 35, 28</ls>, v. l.
+158710 old <ls>DHĀTUP. 35, 28, v. l.</ls>
+;
+158710 new <ls>DHĀTUP. 35, 28</ls>, v. l.
+; -------------------------------------------------------
+; <L>17196<pc>2-0282<k1>kiw
+;  <ls>DHĀTUP. 9, 14. 32.</ls> -> done
+161833 old <ls>DHĀTUP. 9, 14. 32.</ls>
+;
+161833 new <ls>DHĀTUP. 9, 14.</ls> <ls n="DHĀTUP. 9,">32.</ls>
+; -------------------------------------------------------
+; <L>17289<pc>2-0292<k1>kil
+;  <ls>DHĀTUP. 32, 64, v. l.</ls> -> ls>DHĀTUP. 32, 64</ls>, v. l.
+162835 old <ls>DHĀTUP. 32, 64, v. l.</ls> für {#kal#} .
+;
+162835 new <ls>DHĀTUP. 32, 64</ls>, v. l. für {#kal#} .
+; -------------------------------------------------------
+; <L>17408<pc>2-0303<k1>kuMS
+;  <ls>DHĀTUP. 33, 90. 92.</ls> -> done
+164109 old <ls>DHĀTUP. 33, 90. 92.</ls>
+;
+164109 new <ls>DHĀTUP. 33, 90.</ls> <ls n="DHĀTUP. 33,">92.</ls>
+; -------------------------------------------------------
+; <L>17550<pc>2-0315<k1>kuwumbay
+;  <ls>DHĀTUP. 33, 5, v. l.</ls> -> ls>DHĀTUP. 33, 5</ls>, v. l.
+165506 old <ls>DHĀTUP. 33, 5, v. l.</ls>
+;
+165506 new <ls>DHĀTUP. 33, 5</ls>, v. l.
+; -------------------------------------------------------
+; <L>17587<pc>2-0317<k1>kuq
+;  <ls n="DHĀTUP.">101.</ls> -> done
+165842 old <ls n="DHĀTUP.">101.</ls>
+;
+165842 new <ls n="DHĀTUP. 28,">101.</ls>
+; -------------------------------------------------------
+; <L>17606<pc>2-0318<k1>kuR
+;  <ls n="DHĀTUP.">35, 41. - Als v. l.</ls> -> done
+165985 old <ls n="DHĀTUP.">35, 41. - Als v. l.</ls> von {#kUR#} 
+;
+165985 new <ls n="DHĀTUP.">35, 41.</ls> - Als v. l. von {#kUR#} 
+; -------------------------------------------------------
+; <L>17862<pc>2-0339<k1>kumAlay
+;  <ls>DHĀTUP. 35, 25, v. l.</ls> -> ls>DHĀTUP. 35, 25</ls>, v. l.
+168504 old <ls>DHĀTUP. 35, 25, v. l.</ls>
+;
+168504 new <ls>DHĀTUP. 35, 25</ls>, v. l.
+; -------------------------------------------------------
+; <L>17885<pc>2-0340<k1>kumb
+;  <ls>DHĀTUP. 11, 36. 32, 112.</ls> -> <ls>DHĀTUP. 11, 36.</ls> <ls n="DHĀTUP.">32, 112.</ls>
+168727 old <ls>DHĀTUP. 11, 36. 32, 112.</ls> 
+;
+168727 new <ls>DHĀTUP. 11, 36.</ls> <ls n="DHĀTUP.">32, 112.</ls> 
+; -------------------------------------------------------
+; <L>18409<pc>2-0377<k1>kU
+;  <ls n="DHĀTUP.">31, 10, v. l.</ls> -> done
+173305 old <ls n="DHĀTUP.">31, 10, v. l.</ls> für {#knU#} und {#knu#}.{# cakuvuruccEH pakziRaScAnukUlAH#} 
+;
+173305 new <ls n="DHĀTUP.">31, 10</ls>, v. l. für {#knU#} und {#knu#}.{# cakuvuruccEH pakziRaScAnukUlAH#} 
+; -------------------------------------------------------
+; <L>18466<pc>2-0382<k1>kUR
+;  <ls>DHĀTUP. 33, 15. 35, 42.</ls> -> <ls>DHĀTUP. 33, 15.</ls> <ls n="DHĀTUP.">35, 42.</ls>
+173872 old <ls>DHĀTUP. 33, 15. 35, 42.</ls> {#kURita#} {%zusammengezogen, eingeschnürt%}: {#sirA#} 
+;
+173872 new <ls>DHĀTUP. 33, 15.</ls> <ls n="DHĀTUP.">35, 42.</ls> {#kURita#} {%zusammengezogen, eingeschnürt%}: {#sirA#} 
+; -------------------------------------------------------
+; <L>19756<pc>2-0475<k1>krand
+;  <ls>DHĀTUP. 3, 34. 19, 11</ls> -> <ls>DHĀTUP. 3, 34.</ls> <ls n="DHĀTUP.">19, 11</ls>
+185365 old <ls>DHĀTUP. 3, 34. 19, 11</ls>; {#cakranda#} und {#cakrade#} (ved. s. u. {#anu)#}; ved. aor. 
+;
+185365 new <ls>DHĀTUP. 3, 34.</ls> <ls n="DHĀTUP.">19, 11</ls>; {#cakranda#} und {#cakrade#} (ved. s. u. {#anu)#}; ved. aor. 
+; -------------------------------------------------------
+; <L>19756<pc>2-0475<k1>krand
+;  <ls n="DHĀTUP.">2.</ls> -> done
+185384 old <ls n="DHĀTUP.">2.</ls> {#kar#} und dort nachzutragen) {#kra^ndadA\Dye^ Si\vAyE^#} 
+;
+185384 new <hom>2.</hom> {#kar#} und dort nachzutragen) {#kra^ndadA\Dye^ Si\vAyE^#} 
+; -------------------------------------------------------
+; <L>20018<pc>2-0515<k1>klav
+;  <ls>DHĀTUP. 19, 13,</ls> -> done
+189331 old <ls>DHĀTUP. 19, 13,</ls> Zusatz des <ls>VOP.</ls>
+;
+189331 new <ls>DHĀTUP. 19, 13</ls>, Zusatz des <ls>VOP.</ls>
+; -------------------------------------------------------
+; <L>20022<pc>2-0516<k1>klind
+;  <ls>DHĀTUP. 3, 36. 2, 14.</ls> -> <ls>DHĀTUP. 3, 36.</ls> <ls n="DHĀTUP.">2, 14.</ls>
+189410 old <ls>DHĀTUP. 3, 36. 2, 14.</ls> 
+;
+189410 new <ls>DHĀTUP. 3, 36.</ls> <ls n="DHĀTUP.">2, 14.</ls> 
+; -------------------------------------------------------
+; <L>20146<pc>2-0530<k1>kzap
+;  <ls>DHĀTUP. 35,84,c.</ls> -> done no change
+190953 old <ls>DHĀTUP. 35,84,c.</ls>
+;
+190953 new <ls>DHĀTUP. 35,84,c.</ls>
+; -------------------------------------------------------
+; <L>20207<pc>2-0538<k1>kzal
+;  <ls>DHĀTUP. 20, 21, v. l.</ls> -> ls>DHĀTUP. 20, 21</ls>, v. l.
+191825 old <ls>DHĀTUP. 20, 21, v. l.</ls> für {#kzar#} .
+;
+191825 new <ls>DHĀTUP. 20, 21</ls>, v. l. für {#kzar#} .
+; -------------------------------------------------------
+; <L>20274<pc>2-0544<k1>kzi
+;  <ls>DHĀTUP. 31, 35. 27, 29. 7, 62</ls> -> done
+192496 old <ls>DHĀTUP. 31, 35. 27, 29. 7, 62</ls>; {#kzIyAt#} 
+;
+192496 new <ls>DHĀTUP. 31, 35.</ls> <ls n="DHĀTUP.">27, 29.</ls> <ls n="DHĀTUP.">7, 62</ls>; {#kzIyAt#} 
+; -------------------------------------------------------
+; <L>20341<pc>2-0556<k1>kziv
+;  <ls>DHĀTUP. 15, 59. 26, 4.</ls> -> <ls>DHĀTUP. 15, 59.</ls> <ls n="DHĀTUP.">26, 4.</ls>
+193732 old <ls>DHĀTUP. 15, 59. 26, 4.</ls> 
+;
+193732 new <ls>DHĀTUP. 15, 59.</ls> <ls n="DHĀTUP.">26, 4.</ls> 
+; -------------------------------------------------------
+; <L>20342<pc>2-0556<k1>kzI
+;  <ls>DHĀTUP. 31, 35, v. l.</ls> -> ls>DHĀTUP. 31, 35</ls>, v. l.
+193738 old <ls>DHĀTUP. 31, 35, v. l.</ls>
+;
+193738 new <ls>DHĀTUP. 31, 35</ls>, v. l.
+; -------------------------------------------------------
+; <L>20546<pc>2-0568<k1>kzuB
+;  <ls>DHĀTUP. 18,12. 26,129. 31,47.</ls> -> done
+195235 old <ls>SIDDH. K.</ls> zu d. St.) <ls>DHĀTUP. 18,12. 26,129. 31,47.</ls> {%agitari, schwanken, zittern, in Bewegung —, in Aufregung gerathen%}; eig. (von Flüssigem) und übertr.: {#yadetadAdityasya maDye kzoBata iva#} 
+;
+195235 new <ls>SIDDH. K.</ls> zu d. St.) <ls>DHĀTUP. 18, 12.</ls> <ls n="DHĀTUP.">26, 129.</ls> <ls n="DHĀTUP.">31, 47.</ls> {%agitari, schwanken, zittern, in Bewegung —, in Aufregung gerathen%}; eig. (von Flüssigem) und übertr.: {#yadetadAdityasya maDye kzoBata iva#} 
+; -------------------------------------------------------
+; <L>20553<pc>2-0569<k1>kzur
+;  <ls>DHĀTUP. 28, 54. 52.</ls> -> done
+195377 old <ls>DHĀTUP. 28, 54. 52.</ls> — Aus {#kzura#} geschlossen.
+;
+195377 new <ls>DHĀTUP. 28, 54.</ls> <ls n="DHĀTUP. 28,">52.</ls> — Aus {#kzura#} geschlossen.
+; -------------------------------------------------------
+; <L>20741<pc>2-0584<k1>kzvid
+;  <ls n="DHĀTUP.">2.</ls> -> done
+197143 old <ls n="DHĀTUP.">2.</ls> {#kzviq#} 
+;
+197143 new 2. {#kzviq#} 
+; -------------------------------------------------------
+; <L>20741<pc>2-0584<k1>kzvid
+;  <ls n="DHĀTUP.">26, 134. 18, 4.</ls> -> done
+197144 old <ls n="DHĀTUP.">26, 134. 18, 4.</ls> — partic. {#kzviRRa#} 
+;
+197144 new <ls n="DHĀTUP.">26, 134.</ls> <ls n="DHĀTUP.">18, 4.</ls> — partic. {#kzviRRa#} 
+; -------------------------------------------------------
+; <L>20752<pc>2-0586<k1>KakK
+;  <ls>DHĀTUP. 5, 6, v. l.</ls> -> ls>DHĀTUP. 5, 6</ls>, v. l.
+197331 old <ls>DHĀTUP. 5, 6, v. l.</ls> für {#kaK#} .
+;
+197331 new <ls>DHĀTUP. 5, 6</ls>, v. l. für {#kaK#} .
+; -------------------------------------------------------
+; <L>20782<pc>2-0587<k1>Kac
+;  <ls n="DHĀTUP.">35, 84, o.</ls> -> done - no change
+197543 old <ls n="DHĀTUP.">35, 84, o.</ls> {#Kac, Kacayati#} {%binden.%}
+;
+197543 new <ls n="DHĀTUP.">35, 84, o.</ls> {#Kac, Kacayati#} {%binden.%}
+; -------------------------------------------------------
+; <L>21088<pc>2-0608<k1>Kav
+;  <ls>DHĀTUP. 31. 59.</ls> -> done
+200366 old <ls>DHĀTUP. 31. 59.</ls>
+;
+200366 new <ls>DHĀTUP. 31, 59.</ls>
+; -------------------------------------------------------
+; <L>21232<pc>2-0616<k1>Kuq
+;  <ls>DHĀTUP. 32, 47, v. l.</ls> -> ls>DHĀTUP. 32, 47</ls>, v. l.
+201484 old <ls>DHĀTUP. 32, 47, v. l.</ls> für {#KuRq#} .
+;
+201484 new <ls>DHĀTUP. 32, 47</ls>, v. l. für {#KuRq#} .
+; -------------------------------------------------------
+; <L>21295<pc>2-0620<k1>Kowana
+;  <ls>DHĀTUP. 9, 57. 15, 44.</ls> -> <ls>DHĀTUP. 9, 57.</ls> <ls n="DHĀTUP.">15, 44.</ls>
+201982 old <ls>DHĀTUP. 9, 57. 15, 44.</ls>
+;
+201982 new <ls>DHĀTUP. 9, 57.</ls> <ls n="DHĀTUP.">15, 44.</ls>
+; -------------------------------------------------------
+; <L>21337<pc>2-0628<k1>gagG
+;  <ls>DHĀTUP. 5, 53, v. l.</ls> -> ls>DHĀTUP. 5, 53</ls>, v. l.
+202696 old <ls>DHĀTUP. 5, 53, v. l.</ls>
+;
+202696 new <ls>DHĀTUP. 5, 53</ls>, v. l.
+; -------------------------------------------------------
+; <L>21442<pc>2-0634<k1>gaq
+;  <ls n="DHĀTUP.">2.) 35,84,g.</ls> -> done
+203423 old <ls>DHĀTUP. 19, 15.</ls> — {#gaqa/yati#} {%verhüllen%} (vgl. {#gaqa#} 
+203423 new <ls>DHĀTUP. 19, 15.</ls> — {#gaqa/yati#} {%verhüllen%} (vgl. {#gaqa#} 2.)
+;
+203424 old <ls n="DHĀTUP.">2.) 35,84,g.</ls>
+;
+203424 new <ls n="DHĀTUP.">35,84,g.</ls>
+; -------------------------------------------------------
+; <L>21898<pc>2-0696<k1>garj
+;  <ls n="DHĀTUP.">74.</ls> -> done
+210085 old <ls n="DHĀTUP.">74.</ls> {#gfYj, gf/Yjati#} 
+;
+210085 new <ls n="DHĀTUP. 7,">74.</ls> {#gfYj, gf/Yjati#} 
+; -------------------------------------------------------
+; <L>21898<pc>2-0696<k1>garj
+;  <ls n="DHĀTUP.">75.</ls> -> done
+210086 old <ls n="DHĀTUP.">75.</ls> {#garj, garja/yati#} 
+;
+210086 new <ls n="DHĀTUP. 7,">75.</ls> {#garj, garja/yati#} 
+; -------------------------------------------------------
+; <L>21898<pc>2-0696<k1>garj
+;  <ls n="DHĀTUP.">32, 105. 123.</ls> -> done
+210087 old <ls n="DHĀTUP.">32, 105. 123.</ls>) {#ga/rjati; garjan#} und {#garjamAna; jagarja; agarjIt#} 
+;
+210087 new <ls n="DHĀTUP.">32, 105.</ls> <ls n="DHĀTUP. 32,">123.</ls>) {#ga/rjati; garjan#} und {#garjamAna; jagarja; agarjIt#} 
+; -------------------------------------------------------
+; <L>21920<pc>2-0699<k1>gard
+;  <ls>DHĀTUP. 3, 20. 32, 123.</ls> -> <ls>DHĀTUP. 3, 20.</ls> <ls n="DHĀTUP.">32, 123.</ls>
+210359 old <ls>DHĀTUP. 3, 20. 32, 123.</ls>
+;
+210359 new <ls>DHĀTUP. 3, 20.</ls> <ls n="DHĀTUP.">32, 123.</ls>
+; -------------------------------------------------------
+; <L>22034<pc>2-0707<k1>garv
+;  <ls>DHĀTUP. 15, 74. 35, 53.</ls> -> <ls>DHĀTUP. 15, 74.</ls> <ls n="DHĀTUP.">35, 53.</ls>
+211322 old <ls>DHĀTUP. 15, 74. 35, 53.</ls> — Eine unbelegte Wurzel, welche viell. aus {#garva#} gefolgert worden ist.
+;
+211322 new <ls>DHĀTUP. 15, 74.</ls> <ls n="DHĀTUP.">35, 53.</ls> — Eine unbelegte Wurzel, welche viell. aus {#garva#} gefolgert worden ist.
+; -------------------------------------------------------
+; <L>22158<pc>2-0718<k1>gah
+;  <ls>DHĀTUP. 35,84.g.</ls> -> done 
+212612 old <ls>DHĀTUP. 35,84.g.</ls> {#gahayati SAstraM yataDIH#} {%vertieft sich in%} 
+;
+212612 new <ls>DHĀTUP. 35,84,g.</ls> {#gahayati SAstraM yataDIH#} {%vertieft sich in%} 
+; -------------------------------------------------------
+; <L>22497<pc>2-0750<k1>gu
+;  <ls>DHĀTUP. 22. 52.</ls> -> done
+216350 old <ls>DHĀTUP. 22. 52.</ls> Nur in den reduplicirten Formen {#jo/guve, jo/guvAna#} zu belegen und zwar in der caus. Bed. {%ertönen lassen; laut aussprechen, verkünden%}: {#upo^ ve\nasya\ jogu^vAna o\RiM sa\dyo Bu^vadvI\ryA^ya no\DAH#} 
+;
+216350 new <ls>DHĀTUP. 22, 52.</ls> Nur in den reduplicirten Formen {#jo/guve, jo/guvAna#} zu belegen und zwar in der caus. Bed. {%ertönen lassen; laut aussprechen, verkünden%}: {#upo^ ve\nasya\ jogu^vAna o\RiM sa\dyo Bu^vadvI\ryA^ya no\DAH#} 
+; -------------------------------------------------------
+; <L>22519<pc>2-0752<k1>guj
+;  <ls>DHĀTUP. 28, 76. 7, 23.</ls> -> <ls>DHĀTUP. 28, 76.</ls> <ls n="DHĀTUP.">7, 23.</ls>
+216560 old <ls>DHĀTUP. 28, 76. 7, 23.</ls> {#guYjanmaDuvrata#} 
+;
+216560 new <ls>DHĀTUP. 28, 76.</ls> <ls n="DHĀTUP.">7, 23.</ls> {#guYjanmaDuvrata#} 
+; -------------------------------------------------------
+; <L>22628<pc>2-0761<k1>guRW
+;  <ls>DHĀTUP. 32, 46, v. l.</ls> -> ls>DHĀTUP. 32, 46</ls>, v. l.
+217618 old <ls>DHĀTUP. 32, 46, v. l.</ls> {#(muKam), guRWitaM raRareRunA#} 
+;
+217618 new <ls>DHĀTUP. 32, 46</ls>, v. l. {#(muKam), guRWitaM raRareRunA#} 
+; -------------------------------------------------------
+; <L>22630<pc>2-0761<k1>guRq
+;  <ls>DHĀTUP. 32. 46.</ls> -> done
+217646 old <ls>DHĀTUP. 32. 46.</ls> {#guRqita = rUzita#} {%zerstäubt%} 
+;
+217646 new <ls>DHĀTUP. 32, 46.</ls> {#guRqita = rUzita#} {%zerstäubt%} 
+; -------------------------------------------------------
+; <L>22660<pc>2-0763<k1>guD
+;  <ls>DHĀTUP. 2, 23, v. l.</ls> -> ls>DHĀTUP. 2, 23</ls>, v. l.
+217880 old <ls>DHĀTUP. 2, 23, v. l.</ls> für {#gurd#}.{# - guDitvA#} 
+;
+217880 new <ls>DHĀTUP. 2, 23</ls>, v. l. für {#gurd#}.{# - guDitvA#} 
+; -------------------------------------------------------
+; <L>22664<pc>2-0763<k1>gundr
+;  <ls>DHĀTUP. 32, 6, v. l.</ls> -> ls>DHĀTUP. 32, 6</ls>, v. l.
+217903 old <ls>DHĀTUP. 32, 6, v. l.</ls> für {#kundr#} .
+;
+217903 new <ls>DHĀTUP. 32, 6</ls>, v. l. für {#kundr#} .
+; -------------------------------------------------------
+; <L>22683<pc>2-0766<k1>gur
+;  <ls n="DHĀTUP.">33. 21.</ls> -> done
+218259 old <ls n="DHĀTUP.">33. 21.</ls> {#gUr, gU/ryate#} {%verletzen; gehen%} 
+;
+218259 new <ls n="DHĀTUP.">33, 21.</ls> {#gUr, gU/ryate#} {%verletzen; gehen%} 
+; -------------------------------------------------------
+; <L>22777<pc>2-0776<k1>gU
+;  <ls>DHĀTUP. 28, 106, v. l.</ls> -> ls>DHĀTUP. 28, 106</ls>, v. l.
+219449 old <ls>DHĀTUP. 28, 106, v. l.</ls>
+;
+219449 new <ls>DHĀTUP. 28, 106</ls>, v. l.
+; -------------------------------------------------------
+; <L>23621<pc>2-0830<k1>graT
+;  <ls n="DHĀTUP.">34, 19. 31.</ls> -> done
+226522 old <ls n="DHĀTUP.">34, 19. 31.</ls>
+;
+226522 new <ls n="DHĀTUP.">34, 19.</ls> <ls n="DHĀTUP. 34,">31.</ls>
+; -------------------------------------------------------
+; <L>23621<pc>2-0830<k1>graT
+;  <ls n="DHĀTUP.">31.</ls> -> done
+226525 old <ls n="DHĀTUP.">31.</ls> {#gra/Tati, °te#} 
+;
+226525 new <ls n="DHĀTUP. 34,">31.</ls> {#gra/Tati, °te#} 
+; -------------------------------------------------------
+; <L>23621<pc>2-0830<k1>graT
+;  <ls n="DHĀTUP.">19, v. l. 2, 35, v. l.</ls> -> done
+226526 old <ls n="DHĀTUP.">19, v. l. 2, 35, v. l.</ls> {#jagranTus#} und {#greTus#} 
+;
+226526 new <ls n="DHĀTUP. 34,">19</ls>, v. l. <ls n="DHĀTUP.">2, 35</ls>, v. l. {#jagranTus#} und {#greTus#} 
+; -------------------------------------------------------
+; <L>23656<pc>2-0834<k1>graB
+;  <ls>DHĀTUP. 16, 49, v. l.</ls> -> ls>DHĀTUP. 16, 49</ls>, v. l.
+227348 old <ls>DHĀTUP. 16, 49, v. l.</ls>
+;
+227348 new <ls>DHĀTUP. 16, 49</ls>, v. l.
+; -------------------------------------------------------
+; <L>23661<pc>2-0849<k1>gras
+;  <ls>DHĀTUP. 16, 29. 33, 76</ls> -> <ls>DHĀTUP. 16, 29.</ls> <ls n="DHĀTUP.">33, 76</ls>
+228145 old <ls>DHĀTUP. 16, 29. 33, 76</ls>; {#grasizyati; agrasIt#}; ved. {#jagrasIta, jagrasAna/; grasita/#} ved. und {#grasta#} klass. ( = {#Bukta#} 
+;
+228145 new <ls>DHĀTUP. 16, 29.</ls> <ls n="DHĀTUP.">33, 76</ls>; {#grasizyati; agrasIt#}; ved. {#jagrasIta, jagrasAna/; grasita/#} ved. und {#grasta#} klass. ( = {#Bukta#} 
+; -------------------------------------------------------
+; <L>23868<pc>2-0868<k1>gluc
+;  <ls>DHĀTUP. v. l.</ls> -> done
+230377 old <ls>DHĀTUP. v. l.</ls> 
+;
+230377 new <ls>DHĀTUP.</ls>  v. l.
+; -------------------------------------------------------
+; <L>23871<pc>2-0868<k1>glep
+;  <ls>DHĀTUP. 10, 5. 8.</ls> -> done
+230399 old <ls>DHĀTUP. 10, 5. 8.</ls>
+;
+230399 new <ls>DHĀTUP. 10, 5.</ls> <ls n="DHĀTUP. 5,">8.</ls>
+; -------------------------------------------------------
+; <L>23873<pc>2-0869<k1>glez
+;  <ls>DHĀTUP. 16, 13, v. l.</ls> -> ls>DHĀTUP. 16, 13</ls>, v. l.
+230411 old <ls>DHĀTUP. 16, 13, v. l.</ls>
+;
+230411 new <ls>DHĀTUP. 16, 13</ls>, v. l.
+; -------------------------------------------------------
+; <L>23881<pc>2-0870<k1>GaMz
+;  <ls>DHĀTUP. 16, 50, v. l.</ls> -> ls>DHĀTUP. 16, 50</ls>, v. l.
+230510 old <ls>DHĀTUP. 16, 50, v. l.</ls>
+;
+230510 new <ls>DHĀTUP. 16, 50</ls>, v. l.
+; -------------------------------------------------------
+; <L>23883<pc>2-0870<k1>Gaw
+;  <ls n="DHĀTUP.">93.</ls> -> done
+230593 old <ls n="DHĀTUP.">93.</ls>
+;
+230593 new <ls n="DHĀTUP. 33,">93.</ls>
+; -------------------------------------------------------
+; <L>23925<pc>2-0876<k1>GaR
+;  <ls>DHĀTUP. 30, 7, v. l.</ls> -> ls>DHĀTUP. 30, 7</ls>, v. l.
+231130 old <ls>DHĀTUP. 30, 7, v. l.</ls> für {#GfR#} .
+;
+231130 new <ls>DHĀTUP. 30, 7</ls>, v. l. für {#GfR#} .
+; -------------------------------------------------------
+; <L>24080<pc>2-0887<k1>Guw
+;  <ls n="DHĀTUP.">77, v. l.</ls> -> done
+232618 old <ls n="DHĀTUP.">77, v. l.</ls> — {#Go/wate#} {%umkehren%} ({#parivartane#}) 
+;
+232618 new <ls n="DHĀTUP. 28,">77</ls>, v. l.— {#Go/wate#} {%umkehren%} ({#parivartane#}) 
+; -------------------------------------------------------
+; <L>24082<pc>2-0887<k1>Guq
+;  <ls>DHĀTUP. 28, 91, v. l.</ls> -> ls>DHĀTUP. 28, 91</ls>, v. l.
+232644 old <ls>DHĀTUP. 28, 91, v. l.</ls> {%schützen%} 
+;
+232644 new <ls>DHĀTUP. 28, 91</ls>, v. l. {%schützen%} 
+; -------------------------------------------------------
+; <L>24082<pc>2-0887<k1>Guq
+;  <ls n="DHĀTUP.">77, v. l.</ls> -> done
+232645 old <ls n="DHĀTUP.">77, v. l.</ls>
+;
+232645 new <ls n="DHĀTUP. 28,">77</ls>, v. l.
+; -------------------------------------------------------
+; <L>24110<pc>2-0890<k1>GUrR
+;  <ls>DHĀTUP. 28, 49. 12, 5.</ls> -> <ls>DHĀTUP. 28, 49.</ls> <ls n="DHĀTUP.">12, 5.</ls>
+232939 old <ls>DHĀTUP. 28, 49. 12, 5.</ls> {#guruBArasamAkrAntaScacAla ca juGUrRa ca#} 
+;
+232939 new <ls>DHĀTUP. 28, 49.</ls> <ls n="DHĀTUP.">12, 5.</ls> {#guruBArasamAkrAntaScacAla ca juGUrRa ca#} 
+; -------------------------------------------------------
+; <L>24261<pc>2-0905<k1>cak
+;  <ls>DHĀTUP. 4, 19. 19, 21.</ls> -> <ls>DHĀTUP. 4, 19.</ls> <ls n="DHĀTUP.">19, 21.</ls>
+234711 old <ls>DHĀTUP. 4, 19. 19, 21.</ls> 
+;
+234711 new <ls>DHĀTUP. 4, 19.</ls> <ls n="DHĀTUP.">19, 21.</ls> 
+; -------------------------------------------------------
+; <L>24382<pc>2-0914<k1>cakz
+;  <ls n="DHĀTUP.">3. p.</ls> -> done
+235812 old <ls n="DHĀTUP.">3. p.</ls>; {#ca/kzIta#} 
+;
+235812 new 3. p.; {#ca/kzIta#} 
+; -------------------------------------------------------
+; <L>24850<pc>2-0948<k1>cam
+;  <ls n="DHĀTUP.">53.</ls> -> done
+240263 old <ls n="DHĀTUP.">53.</ls> — {#camno/ti#} ved. 
+;
+240263 new <ls>53.</ls> — {#camno/ti#} ved. 
+; -------------------------------------------------------
+; <L>24876<pc>2-0950<k1>camp
+;  <ls>DHĀTUP. 32, 76, v. l.</ls> -> ls>DHĀTUP. 32, 76</ls>, v. l.
+240533 old <ls>DHĀTUP. 32, 76, v. l.</ls> für {#Camp#} . 
+;
+240533 new <ls>DHĀTUP. 32, 76</ls>, v. l. für {#Camp#} . 
+; -------------------------------------------------------
+; <L>24902<pc>2-0952<k1>car
+;  <ls>DHĀTUP. 15, 51, v. l.</ls> -> ls>DHĀTUP. 15, 51</ls>, v. l.
+240965 old <ls>DHĀTUP. 15, 51, v. l.</ls>; vgl. jedoch u. {#A#}.{# tapasA indriyagrAmaM yaScaret#} {%die Sinnesorgane mit Kasteiungen behandeln, kasteien%} 
+;
+240965 new <ls>DHĀTUP. 15, 51</ls>, v. l.; vgl. jedoch u. {#A#}.{# tapasA indriyagrAmaM yaScaret#} {%die Sinnesorgane mit Kasteiungen behandeln, kasteien%} 
+; -------------------------------------------------------
+; <L>24959<pc>2-0971<k1>carkarIta
+;  <ls>DHĀTUP. 24,72.</ls> -> done
+242534 old <ls>DHĀTUP. 24,72.</ls> 
+;
+242534 new <ls>DHĀTUP. 24, 72.</ls> 
+; -------------------------------------------------------
+; <L>24962<pc>2-0971<k1>carc
+;  <ls>DHĀTUP. 17, 67. 28, 17</ls> -> <ls>DHĀTUP. 17, 67.</ls> <ls n="DHĀTUP.">28, 17</ls>
+242560 old <ls>DHĀTUP. 17, 67. 28, 17</ls> : {%schelten%} ({#pariBAzaRa#}), {%drohen%} ({#tarjana#}), {%verletzen.%} {#carcita#} hat in den folgg. Beispp. die Bed. {%mit einem Ueberzug von Etwas%} (geht im comp. voran) {%versehen, bedeckt%} (also gleichsam {%verdoppelt)%}: {#BujaM candanacarcitam#} 
+;
+242560 new <ls>DHĀTUP. 17, 67.</ls> <ls n="DHĀTUP.">28, 17</ls> : {%schelten%} ({#pariBAzaRa#}), {%drohen%} ({#tarjana#}), {%verletzen.%} {#carcita#} hat in den folgg. Beispp. die Bed. {%mit einem Ueberzug von Etwas%} (geht im comp. voran) {%versehen, bedeckt%} (also gleichsam {%verdoppelt)%}: {#BujaM candanacarcitam#} 
+; -------------------------------------------------------
+; <L>24974<pc>2-0972<k1>cart
+;  <ls>DHĀTUP. 34, 14, v. l.</ls> -> ls>DHĀTUP. 34, 14</ls>, v. l.
+242704 old <ls>DHĀTUP. 34, 14, v. l.</ls> für {#Card (Cfd)#} . — desid. {#cicartizati#} und {#cicftsati#} 
+;
+242704 new <ls>DHĀTUP. 34, 14</ls>, v. l. für {#Card (Cfd)#} . — desid. {#cicartizati#} und {#cicftsati#} 
+; -------------------------------------------------------
+; <L>24978<pc>2-0973<k1>carp
+;  <ls>DHĀTUP. 34, 14, v. l.</ls> -> ls>DHĀTUP. 34, 14</ls>, v. l.
+242772 old <ls>DHĀTUP. 34, 14, v. l.</ls> für {#Card (Cfd)#} .
+;
+242772 new <ls>DHĀTUP. 34, 14</ls>, v. l. für {#Card (Cfd)#} .
+; -------------------------------------------------------
+; <L>25046<pc>2-0981<k1>cal
+;  <ls>DHĀTUP. 32, 68, v. l.</ls> -> ls>DHĀTUP. 32, 68</ls>, v. l.
+243649 old <ls>DHĀTUP. 32, 68, v. l.</ls> für {#bal#} .
+;
+243649 new <ls>DHĀTUP. 32, 68</ls>, v. l. für {#bal#} .
+; -------------------------------------------------------
+; <L>25082<pc>2-0983<k1>cah
+;  <ls>DHĀTUP. 17, 80. 32, 82</ls> -> <ls>DHĀTUP. 17, 80.</ls> <ls n="DHĀTUP.">32, 82</ls>
+243999 old <ls>DHĀTUP. 17, 80. 32, 82</ls> (v. l. für {#cap#}). 
+;
+243999 new <ls>DHĀTUP. 17, 80.</ls> <ls n="DHĀTUP.">32, 82</ls> (v. l. für {#cap#}). 
+; -------------------------------------------------------
+; <L>25297<pc>2-0997<k1>ci
+;  <ls>DHĀTUP. 32,85.</ls> -> done
+245912 old <ls>DHĀTUP. 32,85.</ls> 
+;
+245912 new <ls>DHĀTUP. 32, 85.</ls> 
+; -------------------------------------------------------
+; <L>25298<pc>2-1002<k1>ci
+;  <ls n="DHĀTUP.">3.</ls> -> done
+246277 old <ls n="DHĀTUP.">3.</ls> imperat., {#a/ciDvam, (ni) cike/Te#}; partic. {#nicita#} . In der klass. Sprache {#cinoti, cinute#} 
+;
+246277 new 3. imperat., {#a/ciDvam, (ni) cike/Te#}; partic. {#nicita#} . In der klass. Sprache {#cinoti, cinute#} 
+; -------------------------------------------------------
+; <L>25300<pc>2-1005<k1>ci
+;  <ls n="DHĀTUP.">3.</ls> -> done
+246519 old <ls n="DHĀTUP.">3.</ls> {#ci#} 
+;
+246519 new 3. {#ci#} 
+; -------------------------------------------------------
+; <L>25331<pc>2-1007<k1>cikk
+;  <ls>DHĀTUP. 32, 56, v. l.</ls> -> ls>DHĀTUP. 32, 56</ls>, v. l.
+246785 old <ls>DHĀTUP. 32, 56, v. l.</ls> 
+;
+246785 new <ls>DHĀTUP. 32, 56</ls>, v. l. 
+; -------------------------------------------------------
+; <L>25733<pc>2-1040<k1>cuw
+;  <ls>DHĀTUP. 28, 84. 32, 72.</ls> -> <ls>DHĀTUP. 28, 84.</ls> <ls n="DHĀTUP.">32, 72.</ls>
+250871 old <ls>DHĀTUP. 28, 84. 32, 72.</ls> — {#co/wati#}
+;
+250871 new <ls>DHĀTUP. 28, 84.</ls> <ls n="DHĀTUP.">32, 72.</ls> — {#co/wati#}
+; -------------------------------------------------------
+; <L>25733<pc>2-1040<k1>cuw
+;  <ls n="DHĀTUP.">9, 39. 32, 24, v. l.</ls> -> done
+250874 old <ls n="DHĀTUP.">9, 39. 32, 24, v. l.</ls> 
+;
+250874 new <ls n="DHĀTUP.">9, 39.</ls> <ls n="DHĀTUP.">32, 24</ls> , v. l.
+; -------------------------------------------------------
+; <L>25737<pc>2-1041<k1>cuR
+;  <ls>DHĀTUP. 28, 84, v. l.</ls> -> ls>DHĀTUP. 28, 84</ls>, v. l.
+250898 old <ls>DHĀTUP. 28, 84, v. l.</ls>
+;
+250898 new <ls>DHĀTUP. 28, 84</ls>, v. l.
+; -------------------------------------------------------
+; <L>25740<pc>2-1041<k1>cuRW
+;  <ls>DHĀTUP. 32, 91, v. l.</ls> -> ls>DHĀTUP. 32, 91</ls>, v. l.
+250917 old <ls>DHĀTUP. 32, 91, v. l.</ls>
+;
+250917 new <ls>DHĀTUP. 32, 91</ls>, v. l.
+; -------------------------------------------------------
+; <L>25751<pc>2-1043<k1>cup
+;  <ls>DHĀTUP. 28, 125, v. l.</ls> -> ls>DHĀTUP. 28, 125</ls>, v. l.
+251169 old <ls>DHĀTUP. 28, 125, v. l.</ls> für {#Cup#} .
+;
+251169 new <ls>DHĀTUP. 28, 125</ls>, v. l. für {#Cup#} .
+; -------------------------------------------------------
+; <L>25758<pc>2-1044<k1>cumb
+;  <ls>DHĀTUP. 32, 91, v. l.</ls> -> ls>DHĀTUP. 32, 91</ls>, v. l.
+251225 old <ls>DHĀTUP. 32, 91, v. l.</ls> auch = simpl.
+;
+251225 new <ls>DHĀTUP. 32, 91</ls>, v. l. auch = simpl.
+; -------------------------------------------------------
+; <L>26080<pc>2-1073<k1>Cad
+;  <ls>DHĀTUP. 34, 27. 32, 41, v. l.</ls> -> done
+254561 old <ls>DHĀTUP. 34, 27. 32, 41, v. l.</ls> ({#Ca/dati#} nicht zu belegen; ebenso wenig {#Canda/yati#} 
+;
+254561 new <ls>DHĀTUP. 34, 27.</ls> <ls n="DHĀTUP.">32, 41</ls>, v. l. ({#Ca/dati#} nicht zu belegen; ebenso wenig {#Canda/yati#} 
+; -------------------------------------------------------
+; <L>26080<pc>2-1073<k1>Cad
+;  <ls n="DHĀTUP.">35, 80, v. l.</ls> -> done
+254563 old <ls n="DHĀTUP.">35, 80, v. l.</ls> nur 
+;
+254563 new <ls n="DHĀTUP.">35, 80</ls>, v. l. nur 
+; -------------------------------------------------------
+; <L>26083<pc>2-1077<k1>Cand
+;  <ls>DHĀTUP. 34, 14, v. l.</ls> -> ls>DHĀTUP. 34, 14</ls>, v. l.
+254913 old <ls>DHĀTUP. 34, 14, v. l.</ls> für {#Card#} .
+;
+254913 new <ls>DHĀTUP. 34, 14</ls>, v. l. für {#Card#} .
+; -------------------------------------------------------
+; <L>26144<pc>2-1083<k1>Carp
+;  <ls>DHĀTUP. 34, 14, v. l.</ls> -> ls>DHĀTUP. 34, 14</ls>, v. l.
+255574 old <ls>DHĀTUP. 34, 14, v. l.</ls> für {#Card#} .
+;
+255574 new <ls>DHĀTUP. 34, 14</ls>, v. l. für {#Card#} .
+; -------------------------------------------------------
+; <L>26826<pc>3-0054<k1>jarj
+;  <ls>DHĀTUP. 17, 66, v. l. 28, 17, v. l.</ls> -> done
+263472 old <ls>DHĀTUP. 17, 66, v. l. 28, 17, v. l.</ls> — {#jarjita#} {%zerfetzt, verwundet%}: {#°kalevara#} 
+;
+263472 new <ls>DHĀTUP. 17, 66</ls>, v. l. <ls n="DHĀTUP.">28, 17</ls>, v. l. — {#jarjita#} {%zerfetzt, verwundet%}: {#°kalevara#} 
+; -------------------------------------------------------
+; <L>27126<pc>3-0069<k1>jaz
+;  <ls>DHĀTUP. 17, 37. 21, 25, v. l.</ls> -> done
+265791 old <ls>DHĀTUP. 17, 37. 21, 25, v. l.</ls>
+;
+265791 new <ls>DHĀTUP. 17, 37.</ls> <ls n="DHĀTUP.">21, 25</ls>, v. l.
+; -------------------------------------------------------
+; <L>27412<pc>3-0095<k1>ji
+;  <ls>DHĀTUP. 15, 53. 22, 48.</ls> -> <ls>DHĀTUP. 15, 53.</ls> <ls n="DHĀTUP.">22, 48.</ls>
+268768 old <ls>DHĀTUP. 15, 53. 22, 48.</ls> 
+;
+268768 new <ls>DHĀTUP. 15, 53.</ls> <ls n="DHĀTUP.">22, 48.</ls> 
+; -------------------------------------------------------
+; <L>27479<pc>3-0104<k1>jinendra
+;  <ls>DHĀTUP. II.</ls> -> done
+269765 old <ls>DHĀTUP. II.</ls>
+;
+269765 new <ls>DHĀTUP.</ls> II.
+; -------------------------------------------------------
+; <L>27480<pc>3-0104<k1>jinendrabudDi
+;  <ls>DHĀTUP. II.</ls> -> done
+269772 old <ls>DHĀTUP. II.</ls>
+;
+269772 new <ls>DHĀTUP.</ls> II.
+; -------------------------------------------------------
+; <L>27487<pc>3-0105<k1>jim
+;  <ls>DHĀTUP. 13, 30, v. l.</ls> -> ls>DHĀTUP. 13, 30</ls>, v. l.
+269857 old <ls>DHĀTUP. 13, 30, v. l.</ls> 
+;
+269857 new <ls>DHĀTUP. 13, 30</ls>, v. l. 
+; -------------------------------------------------------
+; <L>27688<pc>3-0123<k1>juq
+;  <ls n="DHĀTUP.">37.</ls> -> done
+272009 old <ls n="DHĀTUP.">37.</ls> — {#joqa/yati#} {%schicken, senden%} 
+;
+272009 new <ls n="DHĀTUP. 28,">37.</ls> — {#joqa/yati#} {%schicken, senden%} 
+; -------------------------------------------------------
+; <L>27838<pc>3-0135<k1>jYA
+;  <ls n="DHĀTUP.">32, 80. 19, 50</ls> -> done
+273600 old <ls n="DHĀTUP.">32, 80. 19, 50</ls> = {#mAraRa, tozaRa#} und {#niSAna (niSAmana)#}; vgl. u. {#A#} und {#sam#} . — desid. vom caus. {#jijYapayizati#} und {#jYIpsati#} 
+;
+273600 new <ls n="DHĀTUP.">32, 80.</ls> <ls n="DHĀTUP.">19, 50</ls> = {#mAraRa, tozaRa#} und {#niSAna (niSAmana)#}; vgl. u. {#A#} und {#sam#} . — desid. vom caus. {#jijYapayizati#} und {#jYIpsati#} 
+; -------------------------------------------------------
+; <L>28052<pc>3-0167<k1>jri
+;  <ls>DHĀTUP. 34, 9, v. l. 31, 24, v. l.</ls> -> done
+276473 old <ls>DHĀTUP. 34, 9, v. l. 31, 24, v. l.</ls> 
+;
+276473 new <ls>DHĀTUP. 34, 9</ls>, v. l. <ls n="DHĀTUP.">31, 24</ls>, v. l. 
+; -------------------------------------------------------
+; <L>28063<pc>3-0169<k1>jval
+;  <ls>DHĀTUP. 20, 1. 19, 43.</ls> -> <ls>DHĀTUP. 20, 1.</ls> <ls n="DHĀTUP.">19, 43.</ls>
+276614 old <ls>DHĀTUP. 20, 1. 19, 43.</ls> {#jajvAla, jvalizyati, ajvAlIt#} 
+;
+276614 new <ls>DHĀTUP. 20, 1.</ls> <ls n="DHĀTUP.">19, 43.</ls> {#jajvAla, jvalizyati, ajvAlIt#} 
+; -------------------------------------------------------
+; <L>28063<pc>3-0169<k1>jval
+;  <ls>DHĀTUP. 19, 43. 67.</ls> -> done
+276658 old <ls>DHĀTUP. 19, 43. 67.</ls> 
+;
+276658 new <ls>DHĀTUP. 19, 43.</ls> <ls n="DHĀTUP. 19,">67.</ls> 
+; -------------------------------------------------------
+; <L>28101<pc>3-0173<k1>Jar
+;  <ls>DHĀTUP. 26, 23. 31, 24, v. l.</ls> -> done
+277112 old <ls>DHĀTUP. 26, 23. 31, 24, v. l.</ls>
+;
+277112 new <ls>DHĀTUP. 26, 23.</ls> <ls n="DHĀTUP.">31, 24</ls>, v. l.
+; -------------------------------------------------------
+; <L>28103<pc>3-0173<k1>Jarc
+;  <ls>DHĀTUP. 17, 66, v. l. 28, 17, v. l.</ls> -> done
+277126 old <ls>DHĀTUP. 17, 66, v. l. 28, 17, v. l.</ls>
+;
+277126 new <ls>DHĀTUP. 17, 66</ls>, v. l. <ls n="DHĀTUP.">28, 17</ls>, v. l.
+; -------------------------------------------------------
+; <L>28121<pc>3-0174<k1>Jaz
+;  <ls>DHĀTUP. 21. 26.</ls> -> done
+277282 old <ls>DHĀTUP. 21. 26.</ls> {#Ja^zati#} {%verletzen%} 
+;
+277282 new <ls>DHĀTUP. 21, 26.</ls> {#Ja^zati#} {%verletzen%} 
+; -------------------------------------------------------
+; <L>28164<pc>3-0176<k1>Jyu
+;  <ls>DHĀTUP. 22, 60, v. l.</ls> -> ls>DHĀTUP. 22, 60</ls>, v. l.
+277601 old <ls>DHĀTUP. 22, 60, v. l.</ls>
+;
+277601 new <ls>DHĀTUP. 22, 60</ls>, v. l.
+; -------------------------------------------------------
+; <L>28282<pc>3-0184<k1>qip
+;  <ls n="DHĀTUP.">26, 121. 28, 78. 32, 132.</ls> -> done
+278538 old <ls n="DHĀTUP.">26, 121. 28, 78. 32, 132.</ls> Auch {#qimb, qimbayate#} 
+;
+278538 new <ls n="DHĀTUP.">26, 121.</ls> <ls n="DHĀTUP.">28, 78.</ls> <ls n="DHĀTUP.">32, 132.</ls> Auch {#qimb, qimbayate#} 
+; -------------------------------------------------------
+; <L>28292<pc>3-0185<k1>qI
+;  <ls>DHĀTUP. 22, 72. 26, 26.</ls> -> <ls>DHĀTUP. 22, 72.</ls> <ls n="DHĀTUP.">26, 26.</ls>
+278639 old <ls>DHĀTUP. 22, 72. 26, 26.</ls> nimmt einen Bindevocal an <is>Kār.</is> 1 aus 
+;
+278639 new <ls>DHĀTUP. 22, 72.</ls> <ls n="DHĀTUP.">26, 26.</ls> nimmt einen Bindevocal an <is>Kār.</is> 1 aus 
+; -------------------------------------------------------
+; <L>28332<pc>3-0191<k1>taMs
+;  <ls>DHĀTUP. 17, 31. 33, 56.</ls> -> <ls>DHĀTUP. 17, 31.</ls> <ls n="DHĀTUP.">33, 56.</ls>
+279123 old <ls>DHĀTUP. 17, 31. 33, 56.</ls> reflex. {#taMsate, ataMsizwa#} 
+;
+279123 new <ls>DHĀTUP. 17, 31.</ls> <ls n="DHĀTUP.">33, 56.</ls> reflex. {#taMsate, ataMsizwa#} 
+; -------------------------------------------------------
+; <L>28392<pc>3-0196<k1>taq
+;  <ls>DHĀTUP. 32, 43. 2.</ls> -> done
+279781 old <ls>DHĀTUP. 32, 43. 2.</ls> imperat. {#tA|i/#} (vgl. u. {#vi#}) 
+;
+279781 new <ls>DHĀTUP. 32, 43.</ls> 2. imperat. {#tA|i/#} (vgl. u. {#vi#}) 
+; -------------------------------------------------------
+; <L>28670<pc>3-0233<k1>tantrapradIpa
+;  <ls>DHĀTUP. II.</ls> -> done
+283463 old <ls>DHĀTUP. II.</ls>
+;
+283463 new <ls>DHĀTUP.</ls> II.
+; -------------------------------------------------------
+; <L>29029<pc>3-0280<k1>tarP
+;  <ls>DHĀTUP. 28, 24. 25.</ls> -> done
+288580 old <ls>DHĀTUP. 28, 24. 25.</ls> 
+;
+288580 new <ls>DHĀTUP. 28, 24.</ls> <ls n="DHĀTUP. 28,">25.</ls> 
+; -------------------------------------------------------
+; <L>29633<pc>3-0328<k1>tip
+;  <ls n="DHĀTUP.">4</ls> -> done
+294459 old <ls n="DHĀTUP.">4</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls>
+;
+294459 new 4 aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls>
+; -------------------------------------------------------
+; <L>29737<pc>3-0336<k1>til
+;  <ls>DHĀTUP. 28, 62. 32, 67.</ls> -> <ls>DHĀTUP. 28, 62.</ls> <ls n="DHĀTUP.">32, 67.</ls>
+295323 old <ls>DHĀTUP. 28, 62. 32, 67.</ls> Wohl nur eine aus {#tila#} geschlossene Wurzel.
+;
+295323 new <ls>DHĀTUP. 28, 62.</ls> <ls n="DHĀTUP.">32, 67.</ls> Wohl nur eine aus {#tila#} geschlossene Wurzel.
+; -------------------------------------------------------
+; <L>29799<pc>3-0340<k1>till
+;  <ls>DHĀTUP. 15, 27, v. l.</ls> -> ls>DHĀTUP. 15, 27</ls>, v. l.
+295828 old <ls>DHĀTUP. 15, 27, v. l.</ls> für {#til#} .
+;
+295828 new <ls>DHĀTUP. 15, 27</ls>, v. l. für {#til#} .
+; -------------------------------------------------------
+; <L>29966<pc>3-0355<k1>tuq
+;  <ls>DHĀTUP. 9, 67. 28, 92.</ls> -> <ls>DHĀTUP. 9, 67.</ls> <ls n="DHĀTUP.">28, 92.</ls>
+297607 old <ls>ŚKDR.</ls>) <ls>DHĀTUP. 9, 67. 28, 92.</ls> {#toqa/yati#} 
+;
+297607 new <ls>ŚKDR.</ls>) <ls>DHĀTUP. 9, 67.</ls> <ls n="DHĀTUP.">28, 92.</ls> {#toqa/yati#} 
+; -------------------------------------------------------
+; <L>29968<pc>3-0355<k1>tuqq
+;  <ls>DHĀTUP. 9, 72, v. l.</ls> -> ls>DHĀTUP. 9, 72</ls>, v. l.
+297620 old <ls>DHĀTUP. 9, 72, v. l.</ls> 
+;
+297620 new <ls>DHĀTUP. 9, 72</ls>, v. l. 
+; -------------------------------------------------------
+; <L>29998<pc>3-0358<k1>tund
+;  <ls>DHĀTUP. 2, 32, v. l.</ls> -> ls>DHĀTUP. 2, 32</ls>, v. l.
+297957 old <ls>DHĀTUP. 2, 32, v. l.</ls>
+;
+297957 new <ls>DHĀTUP. 2, 32</ls>, v. l.
+; -------------------------------------------------------
+; <L>30015<pc>3-0359<k1>tup
+;  <ls>DHĀTUP. 11, 10. 11. 14. 15. 28, 26. 27.</ls> -> done
+298092 old <ls>DHĀTUP. 11, 10. 11. 14. 15. 28, 26. 27.</ls> 
+;
+298092 new <ls>DHĀTUP. 11, 10.</ls> <ls n="DHĀTUP. 11,">11.</ls> <ls n="DHĀTUP. 11,">14.</ls> <ls n="DHĀTUP. 11,">15.</ls> <ls n="DHĀTUP.">28, 26.</ls> <ls n="DHĀTUP. 28,">27.</ls> 
+; -------------------------------------------------------
+; <L>30018<pc>3-0359<k1>tuB
+;  <ls>DHĀTUP. 18, 14. 26, 131. 31, 49.</ls> -> done
+298116 old <ls>DHĀTUP. 18, 14. 26, 131. 31, 49.</ls> {#saMkrudDo muzwinAtuBnAdaNgado 'laM mahodaram#} 
+;
+298116 new <ls>DHĀTUP. 18, 14.</ls> <ls n="DHĀTUP.">26, 131.</ls> <ls n="DHĀTUP.">31, 49.</ls> {#saMkrudDo muzwinAtuBnAdaNgado 'laM mahodaram#} 
+; -------------------------------------------------------
+; <L>30187<pc>3-0373<k1>tuz
+;  <ls n="DHĀTUP.">6</ls> -> done
+299652 old <ls n="DHĀTUP.">6</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls> {#tutoza; tokzyati; tozwA; atuzat#} (
+;
+299652 new 6 aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls> {#tutoza; tokzyati; tozwA; atuzat#} (
+; -------------------------------------------------------
+; <L>30230<pc>3-0377<k1>tUq
+;  <ls n="DHĀTUP.">72.</ls> -> done
+300156 old <ls n="DHĀTUP.">72.</ls>
+;
+300156 new <ls n="DHĀTUP. 9,">72.</ls>
+; -------------------------------------------------------
+; <L>30231<pc>3-0377<k1>tUR
+;  <ls>DHĀTUP. 32, 99. 35, 42.</ls> -> <ls>DHĀTUP. 32, 99.</ls> <ls n="DHĀTUP.">35, 42.</ls>
+300161 old <ls>DHĀTUP. 32, 99. 35, 42.</ls> {#tURayate#} {%füllen%} 
+;
+300161 new <ls>DHĀTUP. 32, 99.</ls> <ls n="DHĀTUP.">35, 42.</ls> {#tURayate#} {%füllen%} 
+; -------------------------------------------------------
+; <L>30471<pc>3-0390<k1>tejana
+;  <ls>DHĀTUP. 23, 26. 24, 28.</ls> -> <ls>DHĀTUP. 23, 26.</ls> <ls n="DHĀTUP.">24, 28.</ls>
+301973 old <ls>DHĀTUP. 23, 26. 24, 28.</ls> {%das Entzünden%}: {#tvaksTasyAgneH#} 
+;
+301973 new <ls>DHĀTUP. 23, 26.</ls> <ls n="DHĀTUP.">24, 28.</ls> {%das Entzünden%}: {#tvaksTasyAgneH#} 
+; -------------------------------------------------------
+; <L>30612<pc>3-0400<k1>toqana
+;  <ls>DHĀTUP. 8, 23. 9, 67. 28, 92.</ls> -> done
+303204 old <ls>DHĀTUP. 8, 23. 9, 67. 28, 92.</ls>
+;
+303204 new <ls>DHĀTUP. 8, 23.</ls> <ls n="DHĀTUP.">9, 67.</ls> <ls n="DHĀTUP.">28, 92.</ls>
+; -------------------------------------------------------
+; <L>30758<pc>3-0413<k1>traNg
+;  <ls>DHĀTUP. 5, 42, v. l.</ls> -> ls>DHĀTUP. 5, 42</ls>, v. l.
+304630 old <ls>DHĀTUP. 5, 42, v. l.</ls> für {#tvaNg#} .
+;
+304630 new <ls>DHĀTUP. 5, 42</ls>, v. l. für {#tvaNg#} .
+; -------------------------------------------------------
+; <L>31269<pc>3-0452<k1>trup
+;  <ls>DHĀTUP. 11, 12. 13. 16. 17.</ls> -> done
+309152 old <ls>DHĀTUP. 11, 12. 13. 16. 17.</ls> 
+;
+309152 new <ls>DHĀTUP. 11, 12.</ls> <ls n="DHĀTUP. 11,">13.</ls> <ls n="DHĀTUP. 11,">16.</ls> <ls n="DHĀTUP. 11,">17.</ls> 
+; -------------------------------------------------------
+; <L>31431<pc>3-0462<k1>tvakz
+;  <ls>DHĀTUP. 17, 13, v. l.</ls> -> ls>DHĀTUP. 17, 13</ls>, v. l.
+310369 old <ls>DHĀTUP. 17, 13, v. l.</ls> <ls>KAVIKALPATARU</ls> im <ls>ŚKDR.</ls>
+;
+310369 new <ls>DHĀTUP. 17, 13</ls>, v. l. <ls>KAVIKALPATARU</ls> im <ls>ŚKDR.</ls>
+; -------------------------------------------------------
+; <L>31452<pc>3-0463<k1>tvaNg
+;  <ls>DHĀTUP. 5, 42. 49.</ls> -> done
+310517 old <ls>DHĀTUP. 5, 42. 49.</ls> {#tvaNgatturaMgasaMGAtaKurAgrANkanaKakzatA#} ({#BUmi#}) 
+;
+310517 new <ls>DHĀTUP. 5, 42.</ls> <ls n="DHĀTUP. 5,">49.</ls> {#tvaNgatturaMgasaMGAtaKurAgrANkanaKakzatA#} ({#BUmi#}) 
+; -------------------------------------------------------
+; <L>32063<pc>3-0520<k1>dar
+;  <ls n="DHĀTUP.">19, 47. 34, 15</ls> -> done
+316681 old <ls n="DHĀTUP.">19, 47. 34, 15</ls>): {#parvatA api dIryeyuH kiM punaryuDi rAkzasAH#} 
+;
+316681 new <ls n="DHĀTUP.">19, 47.</ls> <ls n="DHĀTUP.">34, 15</ls>): {#parvatA api dIryeyuH kiM punaryuDi rAkzasAH#} 
+; -------------------------------------------------------
+; <L>32104<pc>3-0526<k1>darp
+;  <ls n="DHĀTUP.">4. 8.</ls> -> done
+317325 old <ls n="DHĀTUP.">4. 8.</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10</ls>; {#drapsyati; darpitA, darptA#} und {#draptA#} 
+;
+317325 new 4. 8. aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10</ls>; {#drapsyati; darpitA, darptA#} und {#draptA#} 
+; -------------------------------------------------------
+; <L>32106<pc>3-0527<k1>darp
+;  <ls>DHĀTUP. 34, 14, v. l.</ls> -> ls>DHĀTUP. 34, 14</ls>, v. l.
+317374 old <ls>DHĀTUP. 34, 14, v. l.</ls>
+;
+317374 new <ls>DHĀTUP. 34, 14</ls>, v. l.
+; -------------------------------------------------------
+; <L>32167<pc>3-0543<k1>dal
+;  <ls>DHĀTUP. 19, 57. 33, 78.</ls> -> <ls>DHĀTUP. 19, 57.</ls> <ls n="DHĀTUP.">33, 78.</ls>
+318861 old <ls>DHĀTUP. 19, 57. 33, 78.</ls> {#anyadDi kamalAgraM BfNgeRa dalyate#} 
+;
+318861 new <ls>DHĀTUP. 19, 57.</ls> <ls n="DHĀTUP.">33, 78.</ls> {#anyadDi kamalAgraM BfNgeRa dalyate#} 
+; -------------------------------------------------------
+; <L>32927<pc>3-0615<k1>dip
+;  <ls>DHĀTUP. 10, 1, v. l.</ls> -> ls>DHĀTUP. 10, 1</ls>, v. l.
+326774 old <ls>DHĀTUP. 10, 1, v. l.</ls> für {#tip#} .
+;
+326774 new <ls>DHĀTUP. 10, 1</ls>, v. l. für {#tip#} .
+; -------------------------------------------------------
+; <L>32938<pc>3-0617<k1>div
+;  <ls n="DHĀTUP.">32.</ls> -> done
+326957 old <ls n="DHĀTUP.">32.</ls>
+;
+326957 new <ls n="DHĀTUP. 33,">32.</ls>
+; -------------------------------------------------------
+; <L>33323<pc>3-0661<k1>du
+;  <ls>DHĀTUP. 27, 10. 26, 24</ls> -> <ls>DHĀTUP. 27, 10.</ls> <ls n="DHĀTUP.">26, 24</ls>
+331698 old <ls>DHĀTUP. 27, 10. 26, 24</ls> ({#dU#}). {%brennen, vor innerer Hitze vergehen, sich verzehren, vor Kummer, Trauer vergehen%}: {#dunoti cittaM yadi taM na paSye#} 
+;
+331698 new <ls>DHĀTUP. 27, 10.</ls> <ls n="DHĀTUP.">26, 24</ls> ({#dU#}). {%brennen, vor innerer Hitze vergehen, sich verzehren, vor Kummer, Trauer vergehen%}: {#dunoti cittaM yadi taM na paSye#} 
+; -------------------------------------------------------
+; <L>33916<pc>3-0699<k1>duz
+;  <ls n="DHĀTUP.">6</ls> -> done
+336363 old <ls n="DHĀTUP.">6</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls> {%verderben, schlecht werden, zu Grunde gehen, Schaden nehmen; verunreinigt werden, sich verunreinigen, einen Fehltritt —, eine Sünde begehen%}: {#medaM prajApate reto duzat#} 
+;
+336363 new 6 aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls> {%verderben, schlecht werden, zu Grunde gehen, Schaden nehmen; verunreinigt werden, sich verunreinigen, einen Fehltritt —, eine Sünde begehen%}: {#medaM prajApate reto duzat#} 
+; -------------------------------------------------------
+; <L>35321<pc>3-0802<k1>drA
+;  <ls n="DHĀTUP.">24, 46, v. l.</ls> -> done
+348373 old <ls n="DHĀTUP.">24, 46, v. l.</ls> {#nAdrAsIdezaH#} 
+;
+348373 new <ls n="DHĀTUP.">24, 46</ls>, v. l. {#nAdrAsIdezaH#} 
+; -------------------------------------------------------
+; <L>35367<pc>3-0809<k1>druq
+;  <ls>DHĀTUP. 28, 100, v. l.</ls> -> ls>DHĀTUP. 28, 100</ls>, v. l.
+349156 old <ls>DHĀTUP. 28, 100, v. l.</ls>
+;
+349156 new <ls>DHĀTUP. 28, 100</ls>, v. l.
+; -------------------------------------------------------
+; <L>35423<pc>3-0813<k1>drU
+;  <ls>DHĀTUP. 27, 33, v. l.</ls> -> ls>DHĀTUP. 27, 33</ls>, v. l.
+349657 old <ls>DHĀTUP. 27, 33, v. l.</ls>
+;
+349657 new <ls>DHĀTUP. 27, 33</ls>, v. l.
+; -------------------------------------------------------
+; <L>36186<pc>3-0868<k1>Dar
+;  <ls>DHĀTUP. 34, 8,</ls> -> done
+356145 old <ls>DHĀTUP. 34, 8,</ls> 
+;
+356145 new <ls>DHĀTUP. 34, 8</ls>, 
+; -------------------------------------------------------
+; <L>37122<pc>3-1000<k1>Draj
+;  <ls n="DHĀTUP.">43.</ls> -> done
+369008 old <ls n="DHĀTUP.">43.</ls> 
+;
+369008 new <ls n="DHĀTUP. 7,">43.</ls> 
+; -------------------------------------------------------
+; <L>37130<pc>3-1000<k1>Dras
+;  <ls>DHĀTUP. 31, 52. 33, 68.</ls> -> <ls>DHĀTUP. 31, 52.</ls> <ls n="DHĀTUP.">33, 68.</ls>
+369051 old <ls>DHĀTUP. 31, 52. 33, 68.</ls> — Nach Andern lautet die Wurzel {#uDras#} .
+;
+369051 new <ls>DHĀTUP. 31, 52.</ls> <ls n="DHĀTUP.">33, 68.</ls> — Nach Andern lautet die Wurzel {#uDras#} .
+; -------------------------------------------------------
+; <L>37134<pc>3-1000<k1>DrAG
+;  <ls>DHĀTUP. 4, 40. 41.</ls> -> done
+369072 old <ls>DHĀTUP. 4, 40. 41.</ls> {#daDrAGe#} 
+;
+369072 new <ls>DHĀTUP. 4, 40.</ls> <ls n="DHĀTUP. 4,">41.</ls> {#daDrAGe#} 
+; -------------------------------------------------------
+; <L>37181<pc>3-1007<k1>Dvaj
+;  <ls>DHĀTUP. 7, 44. 45.</ls> -> done
+369772 old <ls>DHĀTUP. 7, 44. 45.</ls>
+;
+369772 new <ls>DHĀTUP. 7, 44.</ls> <ls n="DHĀTUP. 7,">45.</ls>
+; -------------------------------------------------------
+; <L>37209<pc>3-1009<k1>Dvan
+;  <ls>DHĀTUP. 19, 55. 80.</ls> -> done
+370042 old <ls>DHĀTUP. 19, 55. 80.</ls> {#Dvanati pavanavidDaH parvatAnAM darIzu (davAgniH)#} 
+;
+370042 new <ls>DHĀTUP. 19, 55.</ls> <ls n="DHĀTUP. 19,">80.</ls> {#Dvanati pavanavidDaH parvatAnAM darIzu (davAgniH)#} 
+; -------------------------------------------------------
+; <L>37209<pc>3-1009<k1>Dvan
+;  <ls>DHĀTUP. 19, 55. 80.</ls> -> done
+370064 old <ls>DHĀTUP. 19, 55. 80.</ls> {%tönen%} 
+;
+370064 new <ls>DHĀTUP. 19, 55.</ls> <ls n="DHĀTUP. 19,">80.</ls> {%tönen%} 
+; -------------------------------------------------------
+; <L>37346<pc>4-0010<k1>naK
+;  <ls>DHĀTUP. 5, 20. 21.</ls> -> done
+371318 old <ls>DHĀTUP. 5, 20. 21.</ls>
+;
+371318 new <ls>DHĀTUP. 5, 20.</ls> <ls n="DHĀTUP. 5,">21.</ls>
+; -------------------------------------------------------
+; <L>37456<pc>4-0016<k1>naw
+;  <ls>DHĀTUP. 19. 19. 9, 23</ls> -> done
+372135 old <ls>DHĀTUP. 19. 19. 9, 23</ls> (nach 
+;
+372135 new <ls>DHĀTUP. 19, 19.</ls> <ls n="DHĀTUP.">9, 23</ls> (nach 
+; -------------------------------------------------------
+; <L>37456<pc>4-0016<k1>naw
+;  <ls>DHĀTUP. 32, 12. 33, 117</ls> -> <ls>DHĀTUP. 32, 12.</ls> <ls n="DHĀTUP.">33, 117</ls>
+372141 old <ls>DHĀTUP. 32, 12. 33, 117</ls> ({#BAzArTa#} oper {#BAsArTa#}). {%als Schauspieler Etwas%} (acc.) {%darstellen, aufführen%}: {#nAwayandivyanAwakam#} 
+;
+372141 new <ls>DHĀTUP. 32, 12.</ls> <ls n="DHĀTUP.">33, 117</ls> ({#BAzArTa#} oper {#BAsArTa#}). {%als Schauspieler Etwas%} (acc.) {%darstellen, aufführen%}: {#nAwayandivyanAwakam#} 
+; -------------------------------------------------------
+; <L>38340<pc>4-0101<k1>nAT
+;  <ls>DHĀTUP. 2, 5. 6</ls> -> done
+381560 old <ls>DHĀTUP. 2, 5. 6</ls> ({#yAcYopatApESvaryASiHzu#}). in der alten Sprache davon nur die particc. {#nA/DamAna#} {%Hülfe suchend, flehend, supplex%}, und {#nADita/, nATita/#} {%hülfsbedürftig, in Noth befindlich, bedrängt%}: {#SrotA\ hava\M nADa^mAnasya kA\roH#} 
+;
+381560 new <ls>DHĀTUP. 2, 5.</ls> <ls n="DHĀTUP. 2,">6</ls> ({#yAcYopatApESvaryASiHzu#}). in der alten Sprache davon nur die particc. {#nA/DamAna#} {%Hülfe suchend, flehend, supplex%}, und {#nADita/, nATita/#} {%hülfsbedürftig, in Noth befindlich, bedrängt%}: {#SrotA\ hava\M nADa^mAnasya kA\roH#} 
+; -------------------------------------------------------
+; <L>39208<pc>4-0176<k1>nirasana
+;  <ls>DHĀTUP. 15, 52. 26, 4.</ls> -> <ls>DHĀTUP. 15, 52.</ls> <ls n="DHĀTUP.">26, 4.</ls>
+390088 old <ls>MED. n. 188.</ls> <ls>DHĀTUP. 15, 52. 26, 4.</ls> {%das Hinauswerfen, Verjagen%}; = {#yApana#} 
+;
+390088 new <ls>MED. n. 188.</ls> <ls>DHĀTUP. 15, 52.</ls> <ls n="DHĀTUP.">26, 4.</ls> {%das Hinauswerfen, Verjagen%}; = {#yApana#} 
+; -------------------------------------------------------
+; <L>39894<pc>4-0229<k1>niSAna
+;  <ls>DHĀTUP. 23, 2. 27, 3. 32, 109.</ls> -> done
+396151 old <ls>DHĀTUP. 23, 2. 27, 3. 32, 109.</ls> 
+;
+396151 new <ls>DHĀTUP. 23, 2.</ls> <ls n="DHĀTUP.">27, 3.</ls> <ls n="DHĀTUP.">32, 109.</ls> 
+; -------------------------------------------------------
+; <L>40628<pc>4-0301<k1>nud
+;  <ls>DHĀTUP. 28, 2. 132.</ls> -> done
+403902 old <ls>DHĀTUP. 28, 2. 132.</ls> {#praRudyAt#} 
+;
+403902 new <ls>DHĀTUP. 28, 2.</ls> <ls n="DHĀTUP. 28,">132.</ls> {#praRudyAt#} 
+; -------------------------------------------------------
+; <L>41184<pc>4-0344<k1>pakz
+;  <ls>DHĀTUP. 17, 14. 32, 17.</ls> -> <ls>DHĀTUP. 17, 14.</ls> <ls n="DHĀTUP.">32, 17.</ls>
+408721 old <ls>DHĀTUP. 17, 14. 32, 17.</ls>
+;
+408721 new <ls>DHĀTUP. 17, 14.</ls> <ls n="DHĀTUP.">32, 17.</ls>
+; -------------------------------------------------------
+; <L>42307<pc>4-0470<k1>par
+;  <ls>DHĀTUP. 31, 19).</ls> -> done
+421859 old (<ls>DHĀTUP. 31, 19).</ls> {#pfRIhi/#}; daraus ein neuer Stamm {#pfR#} (
+;
+421859 new (<ls>DHĀTUP. 31, 19</ls>). {#pfRIhi/#}; daraus ein neuer Stamm {#pfR#} (
+; -------------------------------------------------------
+; <L>42650<pc>4-0512<k1>parikalkana
+;  <ls>DHĀTUP. 17, 80. 32, 82. 35, 14.</ls> -> done
+426066 old <ls>DHĀTUP. 17, 80. 32, 82. 35, 14.</ls> 
+;
+426066 new <ls>DHĀTUP. 17, 80.</ls> <ls n="DHĀTUP.">32, 82.</ls> <ls n="DHĀTUP.">35, 14.</ls> 
+; -------------------------------------------------------
+; <L>43413<pc>4-0570<k1>parj
+;  <ls>DHĀTUP. 24, 20. v. l.</ls> -> done
+432708 old <ls>DHĀTUP. 24, 20. v. l.</ls> für {#pij#} 18. Vgl. {#anavapfgRa#} (welches der Form nach auf keine andere Wurzel zurückzuführen war) und {#avaprajjana#} .
+;
+432708 new <ls>DHĀTUP. 24, 20.</ls> v. l. für {#pij#} <ls n="DHĀTUP. 24,">18.</ls> Vgl. {#anavapfgRa#} (welches der Form nach auf keine andere Wurzel zurückzuführen war) und {#avaprajjana#} .
+; -------------------------------------------------------
+; <L>43446<pc>4-0572<k1>parRay
+;  <ls>DHĀTUP. 35,84,a.</ls> -> done nochg
+433007 old <ls>DHĀTUP. 35,84,a.</ls>
+;
+433007 new <ls>DHĀTUP. 35,84,a.</ls>
+; -------------------------------------------------------
+; <L>43910<pc>4-0614<k1>pas
+;  <ls>DHĀTUP. 21, 22. v. l.</ls> -> done
+437632 old <ls>DHĀTUP. 21, 22. v. l.</ls> für {#paS, pASayati#} (s. {#pASay#}) 
+;
+437632 new <ls>DHĀTUP. 21, 22.</ls> v. l. für {#paS, pASayati#} (s. {#pASay#}) 
+; -------------------------------------------------------
+; <L>45431<pc>4-0732<k1>piz
+;  <ls>DHĀTUP. 32, 31, v. l.</ls> -> ls>DHĀTUP. 32, 31</ls>, v. l.
+452124 old <ls n="SUŚR.">380, 17. 222, 20.</ls> nach <ls>DHĀTUP. 32, 31, v. l.</ls> = {#piYj, piYjayati#} {%zu nahe treten; stark sein; nehmen; wohnen%}; vgl. {#pis#} .
+;
+452124 new <ls n="SUŚR.">380, 17. 222, 20.</ls> nach <ls>DHĀTUP. 32, 31</ls>, v. l. = {#piYj, piYjayati#} {%zu nahe treten; stark sein; nehmen; wohnen%}; vgl. {#pis#} .
+; -------------------------------------------------------
+; <L>45449<pc>4-0734<k1>pis
+;  <ls n="DHĀTUP.">32,32.</ls> -> done
+452359 old <ls n="DHĀTUP.">32,32.</ls>
+;
+452359 new <ls n="DHĀTUP.">32, 32.</ls>
+; -------------------------------------------------------
+; <L>45449<pc>4-0734<k1>pis
+;  <ls n="DHĀTUP.">31, v. l.</ls> -> done
+452362 old <ls n="DHĀTUP.">31, v. l.</ls>; vgl. {#piz#} caus. 
+;
+452362 new <ls n="DHĀTUP. 32,">31</ls>, v. l.; vgl. {#piz#} caus. 
+; -------------------------------------------------------
+; <L>45666<pc>4-0753<k1>puC
+;  <ls>DHĀTUP. 7, 35, v. l.</ls> -> ls>DHĀTUP. 7, 35</ls>, v. l.
+454611 old <ls>DHĀTUP. 7, 35, v. l.</ls> für {#yuC, muC#} .
+;
+454611 new <ls>DHĀTUP. 7, 35</ls>, v. l. für {#yuC, muC#} .
+; -------------------------------------------------------
+; <L>45680<pc>4-0754<k1>puw
+;  <ls>DHĀTUP. 9, 38).</ls> -> done
+454730 old (<ls>DHĀTUP. 9, 38).</ls> {#puwa/yati#} {%in Berührung sein (ligare, nectere%} 
+;
+454730 new (<ls>DHĀTUP. 9, 38</ls>). {#puwa/yati#} {%in Berührung sein (ligare, nectere%} 
+; -------------------------------------------------------
+; <L>45680<pc>4-0754<k1>puw
+;  <ls n="DHĀTUP.">32, 24, v. l.</ls> -> done
+454735 old <ls n="DHĀTUP.">32, 24, v. l.</ls> {#puwita#} <lex>adj.</lex> = {#pAwita#} {%gespalten, aufgerissen%}; = {#syUta#} {%zusammengenäht%}; <lex>n.</lex> = {#ahipuwa#} (wofür 
+;
+454735 new <ls n="DHĀTUP.">32, 24</ls>, v. l. {#puwita#} <lex>adj.</lex> = {#pAwita#} {%gespalten, aufgerissen%}; = {#syUta#} {%zusammengenäht%}; <lex>n.</lex> = {#ahipuwa#} (wofür 
+; -------------------------------------------------------
+; <L>45696<pc>4-0755<k1>puq
+;  <ls n="DHĀTUP.">9, 38, v. l.</ls> -> done
+454928 old <ls n="DHĀTUP.">9, 38, v. l.</ls> für {#muw#}; auch {#puRq, puRqa/ti#} ebend.
+;
+454928 new <ls n="DHĀTUP.">9, 38</ls>, v. l. für {#muw#}; auch {#puRq, puRqa/ti#} ebend.
+; -------------------------------------------------------
+; <L>46306<pc>4-0805<k1>pul
+;  <ls>DHĀTUP. 20, 11. 32, 61.</ls> -> <ls>DHĀTUP. 20, 11.</ls> <ls n="DHĀTUP.">32, 61.</ls>
+460557 old <ls>DHĀTUP. 20, 11. 32, 61.</ls>
+;
+460557 new <ls>DHĀTUP. 20, 11.</ls> <ls n="DHĀTUP.">32, 61.</ls>
+; -------------------------------------------------------
+; <L>46562<pc>4-0824<k1>pU
+;  <ls>DHĀTUP. 14, 40, v. l.)</ls> -> done
+463089 old <ls>NAIGH. 2, 14</ls> (vgl. <ls>DHĀTUP. 14, 40, v. l.)</ls> Vgl. {#pavamAna#} . 
+;
+463089 new <ls>NAIGH. 2, 14</ls> (vgl. <ls>DHĀTUP. 14, 40</ls>, v. l.) Vgl. {#pavamAna#} . 
+; -------------------------------------------------------
+; <L>46587<pc>4-0830<k1>pUR
+;  <ls>DHĀTUP. 32, 93, v. l.</ls> -> ls>DHĀTUP. 32, 93</ls>, v. l.
+463630 old <ls>DHĀTUP. 32, 93, v. l.</ls> 
+;
+463630 new <ls>DHĀTUP. 32, 93</ls>, v. l. 
+; -------------------------------------------------------
+; <L>46928<pc>4-0854<k1>pUl
+;  <ls>DHĀTUP. 15, 21. 32, 93.</ls> -> <ls>DHĀTUP. 15, 21.</ls> <ls n="DHĀTUP.">32, 93.</ls>
+466520 old <ls>DHĀTUP. 15, 21. 32, 93.</ls>
+;
+466520 new <ls>DHĀTUP. 15, 21.</ls> <ls n="DHĀTUP.">32, 93.</ls>
+; -------------------------------------------------------
+; <L>47224<pc>4-0875<k1>peb
+;  <ls>DHĀTUP. 10, 11, v. l.</ls> -> ls>DHĀTUP. 10, 11</ls>, v. l.
+469101 old <ls>DHĀTUP. 10, 11, v. l.</ls> 
+;
+469101 new <ls>DHĀTUP. 10, 11</ls>, v. l. 
+; -------------------------------------------------------
+; <L>47606<pc>4-0896<k1>pyuz
+;  <ls>DHĀTUP. 26, 7. 32, 92.</ls> -> <ls>DHĀTUP. 26, 7.</ls> <ls n="DHĀTUP.">32, 92.</ls>
+472173 old <ls>DHĀTUP. 26, 7. 32, 92.</ls>
+;
+472173 new <ls>DHĀTUP. 26, 7.</ls> <ls n="DHĀTUP.">32, 92.</ls>
+; -------------------------------------------------------
+; <L>51080<pc>4-1168<k1>prIRana
+;  <ls>DHĀTUP. 26, 86. 27, 24.</ls> -> <ls>DHĀTUP. 26, 86.</ls> <ls n="DHĀTUP.">27, 24.</ls>
+504105 old <ls>MED. ṇ. 91.</ls> <ls>DHĀTUP. 26, 86. 27, 24.</ls> {#indriya°#} 
+;
+504105 new <ls>MED. ṇ. 91.</ls> <ls>DHĀTUP. 26, 86.</ls> <ls n="DHĀTUP.">27, 24.</ls> {#indriya°#} 
+; -------------------------------------------------------
+; <L>51129<pc>4-1173<k1>preNKolay
+;  <ls>DHĀTUP. 379,a.</ls> -> ?
+504702 old <ls>WEST.</ls> im <ls>DHĀTUP. 379,a.</ls> {#preNKolita#} {%geschwungen, geschaukelt%} 
+;
+504702 new <ls>WEST.</ls> im <ls>DHĀTUP. 379,a.</ls> {#preNKolita#} {%geschwungen, geschaukelt%} 
+; -------------------------------------------------------
+; <L>51323<pc>4-1184<k1>plab
+;  <ls>DHĀTUP. 10, 10, v. l.</ls> -> ls>DHĀTUP. 10, 10</ls>, v. l.
+506137 old <ls>DHĀTUP. 10, 10, v. l.</ls>
+;
+506137 new <ls>DHĀTUP. 10, 10</ls>, v. l.
+; -------------------------------------------------------
+; <L>51355<pc>4-1186<k1>plI
+;  <ls>DHĀTUP. 31, 82, v. l.</ls> -> ls>DHĀTUP. 31, 82</ls>, v. l.
+506502 old <ls>DHĀTUP. 31, 82, v. l.</ls>
+;
+506502 new <ls>DHĀTUP. 31, 82</ls>, v. l.
+; -------------------------------------------------------
+; <L>51365<pc>4-1187<k1>plu
+;  <ls>DHĀTUP. 22, 62. 14, 40</ls> -> <ls>DHĀTUP. 22, 62.</ls> <ls n="DHĀTUP.">14, 40</ls>
+506569 old <ls>DHĀTUP. 22, 62. 14, 40</ls> ({#plav; plab#} 
+;
+506569 new <ls>DHĀTUP. 22, 62.</ls> <ls n="DHĀTUP.">14, 40</ls> ({#plav; plab#} 
+; -------------------------------------------------------
+; <L>51365<pc>4-1187<k1>plu
+;  <ls n="DHĀTUP.">10, 10, v. l.</ls> -> done
+506570 old <ls n="DHĀTUP.">10, 10, v. l.</ls>): {#pupluve; aplozwa#} 
+;
+506570 new <ls n="DHĀTUP.">10, 10</ls>, v. l.): {#pupluve; aplozwa#} 
+; -------------------------------------------------------
+; <L>51370<pc>4-1193<k1>pluz
+;  <ls>DHĀTUP. 26, 107. 7, v. l.</ls> -> done
+507153 old <ls>DHĀTUP. 26, 107. 7, v. l.</ls>) 
+;
+507153 new <ls>DHĀTUP. 26, 107.</ls> <ls n="DHĀTUP. 26,">7</ls>, v. l.) 
+; -------------------------------------------------------
+; <L>51374<pc>4-1194<k1>plus
+;  <ls>DHĀTUP. 26, 107, v. l.</ls> -> ls>DHĀTUP. 26, 107</ls>, v. l.
+507199 old <ls>DHĀTUP. 26, 107, v. l.</ls> für {#pluz#}; {%vertheilen%} 
+;
+507199 new <ls>DHĀTUP. 26, 107</ls>, v. l. für {#pluz#}; {%vertheilen%} 
+; -------------------------------------------------------
+; <L>51686<pc>5-0001<k1>baMh
+;  <ls n="DHĀTUP.">2.</ls> -> done
+509826 old <ls n="DHĀTUP.">2.</ls> {#barh#} . Das partic. {#bAQa#} s. bes. und vgl. {#baMhiman#} fgg., {#bahala, bahu#} . — caus. {%befestigen, stärken, augere%}: {#svAmeva taddevatAM paSuBirbaMhayante (BaMhayante#} 
+;
+509826 new 2. {#barh#} . Das partic. {#bAQa#} s. bes. und vgl. {#baMhiman#} fgg., {#bahala, bahu#} . — caus. {%befestigen, stärken, augere%}: {#svAmeva taddevatAM paSuBirbaMhayante (BaMhayante#} 
+; -------------------------------------------------------
+; <L>51856<pc>5-0027<k1>barh
+;  <ls n="DHĀTUP.">96.</ls> -> done
+512359 old <ls n="DHĀTUP.">96.</ls> {%ein Leid zufügen%} 
+;
+512359 new <ls n="DHĀTUP. 33,">96.</ls> {%ein Leid zufügen%} 
+; -------------------------------------------------------
+; <L>51894<pc>5-0031<k1>bal
+;  <ls n="DHĀTUP.">33, 27, v. l. für</ls> -> done
+512779 old <ls n="DHĀTUP.">33, 27, v. l. für</ls> {#Bal#} . Dieselben Bedeutungen bei {#barh, balh#} 
+;
+512779 new <ls n="DHĀTUP.">33, 27</ls>, v. l. für {#Bal#} . Dieselben Bedeutungen bei {#barh, balh#} 
+; -------------------------------------------------------
+; <L>51894<pc>5-0031<k1>bal
+;  <ls n="DHĀTUP.">33, 27, v. l. für</ls> -> done
+512784 old <ls n="DHĀTUP.">33, 27, v. l. für</ls> {#Bal#} .
+;
+512784 new <ls n="DHĀTUP.">33, 27</ls>, v. l. für {#Bal#} .
+; -------------------------------------------------------
+; <L>52665<pc>5-0085<k1>biq
+;  <ls>DHĀTUP. 9, 30, v. l.</ls> -> ls>DHĀTUP. 9, 30</ls>, v. l.
+519580 old <ls>DHĀTUP. 9, 30, v. l.</ls>
+;
+519580 new <ls>DHĀTUP. 9, 30</ls>, v. l.
+; -------------------------------------------------------
+; <L>52723<pc>5-0089<k1>bil
+;  <ls>DHĀTUP. 28, 67. 32, 66.</ls> -> <ls>DHĀTUP. 28, 67.</ls> <ls n="DHĀTUP.">32, 66.</ls>
+520080 old <ls>DHĀTUP. 28, 67. 32, 66.</ls>
+;
+520080 new <ls>DHĀTUP. 28, 67.</ls> <ls n="DHĀTUP.">32, 66.</ls>
+; -------------------------------------------------------
+; <L>52854<pc>5-0097<k1>buq
+;  <ls n="DHĀTUP.">90.</ls> -> done
+521150 old <ls n="DHĀTUP.">90.</ls>
+;
+521150 new <ls n="DHĀTUP. 28,">90.</ls>
+; -------------------------------------------------------
+; <L>52927<pc>5-0102<k1>buD
+;  <ls>DHĀTUP. 20, 28. 21, 11.</ls> -> <ls>DHĀTUP. 20, 28.</ls> <ls n="DHĀTUP.">21, 11.</ls>
+521738 old <ls>DHĀTUP. 20, 28. 21, 11.</ls> {#bu/Dyate#} (ep. auch {#buDyati#}) 
+;
+521738 new <ls>DHĀTUP. 20, 28.</ls> <ls n="DHĀTUP.">21, 11.</ls> {#bu/Dyate#} (ep. auch {#buDyati#}) 
+; -------------------------------------------------------
+; <L>54387<pc>5-0230<k1>BA
+;  <ls>DHĀTUP. 24. 43.</ls> -> done
+536131 old <ls>DHĀTUP. 24. 43.</ls> 
+;
+536131 new <ls>DHĀTUP. 24, 43.</ls> 
+; -------------------------------------------------------
+; <L>55050<pc>5-0301<k1>Buj
+;  <ls n="DHĀTUP.">3</ls> -> done
+543957 old <ls n="DHĀTUP.">3</ls> pl. {#BuYja/te#} und {#BuYjate/#}, ved. {#Bo/jate#} und {#Bojam; BunajAmahE, BuYjyAm (BuYjIyAm#} 
+;
+543957 new 3 pl. {#BuYja/te#} und {#BuYjate/#}, ved. {#Bo/jate#} und {#Bojam; BunajAmahE, BuYjyAm (BuYjIyAm#} 
+; -------------------------------------------------------
+; <L>55960<pc>5-0399<k1>Bram
+;  <ls>DHĀTUP. 20, 20. 26, 96.</ls> -> <ls>DHĀTUP. 20, 20.</ls> <ls n="DHĀTUP.">26, 96.</ls>
+554589 old <ls>PĀR. GṚHY. 3, 7</ls>) <ls>DHĀTUP. 20, 20. 26, 96.</ls> <ls>NAIGH. 2, 14.</ls> <ls>NIR. 6, 20.</ls> <ls>P. 3, 1, 70.</ls> <ls n="P.">7, 3, 74.</ls> <ls>VOP. 8, 67. 125. 11, 3.</ls> {#baBrAma, baBramiTa#} und {#BremiTa, baBramus#} und {#Bremus#} 
+;
+554589 new <ls>PĀR. GṚHY. 3, 7</ls>) <ls>DHĀTUP. 20, 20.</ls> <ls n="DHĀTUP.">26, 96.</ls> <ls>NAIGH. 2, 14.</ls> <ls>NIR. 6, 20.</ls> <ls>P. 3, 1, 70.</ls> <ls n="P.">7, 3, 74.</ls> <ls>VOP. 8, 67. 125. 11, 3.</ls> {#baBrAma, baBramiTa#} und {#BremiTa, baBramus#} und {#Bremus#} 
+; -------------------------------------------------------
+; <L>55999<pc>5-0406<k1>BrAj
+;  <ls>DHĀTUP. 6, 22. 19, 75.</ls> -> <ls>DHĀTUP. 6, 22.</ls> <ls n="DHĀTUP.">19, 75.</ls>
+555286 old <ls>DHĀTUP. 6, 22. 19, 75.</ls> seltener act.; {#baBrAje#} und {#Breje, baBrAjire#} und {#Brejire#} 
+;
+555286 new <ls>DHĀTUP. 6, 22.</ls> <ls n="DHĀTUP.">19, 75.</ls> seltener act.; {#baBrAje#} und {#Breje, baBrAjire#} und {#Brejire#} 
+; -------------------------------------------------------
+; <L>56101<pc>5-0414<k1>Blez
+;  <ls>DHĀTUP. 21, 20, v. l.</ls> -> ls>DHĀTUP. 21, 20</ls>, v. l.
+556238 old <ls>DHĀTUP. 21, 20, v. l.</ls>
+;
+556238 new <ls>DHĀTUP. 21, 20</ls>, v. l.
+; -------------------------------------------------------
+; <L>56162<pc>5-0420<k1>makz
+;  <ls>DHĀTUP. 17, 12, v. l.</ls> -> ls>DHĀTUP. 17, 12</ls>, v. l.
+556805 old <ls>DHĀTUP. 17, 12, v. l.</ls> 
+;
+556805 new <ls>DHĀTUP. 17, 12</ls>, v. l. 
+; -------------------------------------------------------
+; <L>56300<pc>5-0430<k1>majj
+;  <ls n="DHĀTUP.">2</ls> -> done
+557979 old <ls n="DHĀTUP.">2</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls> {#mamajja, maNkzyati (majjizyati#} ep.) 
+;
+557979 new 2 aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls> {#mamajja, maNkzyati (majjizyati#} ep.) 
+; -------------------------------------------------------
+; <L>56324<pc>5-0434<k1>maYc
+;  <ls>DHĀTUP. 6, 12, v. l.</ls> -> ls>DHĀTUP. 6, 12</ls>, v. l.
+558394 old <ls>DHĀTUP. 6, 12, v. l.</ls> 
+;
+558394 new <ls>DHĀTUP. 6, 12</ls>, v. l. 
+; -------------------------------------------------------
+; <L>56324<pc>5-0434<k1>maYc
+;  <ls n="DHĀTUP.">7, 15, v. l.</ls> -> done
+558397 old <div n="1">— 3) = {#gati#} ebend. <ls n="DHĀTUP.">7, 15, v. l.</ls>
+;
+558397 new <div n="1">— 3) = {#gati#} ebend. <ls n="DHĀTUP.">7, 15</ls>, v. l.
+; -------------------------------------------------------
+; <L>57513<pc>5-0540<k1>mantray
+;  <ls>DHĀTUP. 8, 54) 15769. 16381. 5, 7174. 8, 4721.</ls> -> done
+570598 old <ls>DHĀTUP. 8, 54) 15769. 16381. 5, 7174. 8, 4721.</ls> 
+;
+570598 new <ls>DHĀTUP. 8, 54</ls>) <ls n="MBH. 3,">15769.</ls> <ls n="MBH. 3,">16381.</ls> <ls n="MBH.">5, 7174.</ls> <ls n="MBH.">8, 4721.</ls> 
+; -------------------------------------------------------
+; <L>57785<pc>5-0565<k1>mar
+;  <ls>DHĀTUP. 31, 22. 26.</ls> -> done
+573400 old <ls>DHĀTUP. 31, 22. 26.</ls> {%zermalmen, zerschlagen%} (vgl. {#mard): mf\RI\hi viSvA\ pAtrA^Ri#} {%zerdrücken%} 
+;
+573400 new <ls>DHĀTUP. 31, 22.</ls> <ls n="DHĀTUP. 31,">26.</ls> {%zermalmen, zerschlagen%} (vgl. {#mard): mf\RI\hi viSvA\ pAtrA^Ri#} {%zerdrücken%} 
+; -------------------------------------------------------
+; <L>57924<pc>5-0575<k1>marj
+;  <ls>DHĀTUP. 32, 119) 7426.</ls> -> done
+574864 old <ls>DHĀTUP. 32, 119) 7426.</ls> — {#aByamfjyanta#} 
+;
+574864 new <ls>DHĀTUP. 32, 119</ls>) <ls n="MBH. 13,">7426.</ls> — {#aByamfjyanta#} 
+; -------------------------------------------------------
+; <L>57925<pc>5-0581<k1>marj
+;  <ls>DHĀTUP. 7, 76. 77.</ls> -> done
+575151 old <ls>DHĀTUP. 7, 76. 77.</ls> 
+;
+575151 new <ls>DHĀTUP. 7, 76.</ls> <ls n="DHĀTUP. 7,">77.</ls> 
+; -------------------------------------------------------
+; <L>60565<pc>5-0782<k1>mil
+;  <ls>DHĀTUP. 28, 71. 135.</ls> -> done
+599185 old <ls>DHĀTUP. 28, 71. 135.</ls> {%sich vereinigen mit, sich zu Jmd gesellen, Jmd begegnen, sich einstellen bei, sich einfinden bei, zusammenkommen mit%} (mit gen. instr. oder loc. der Per- son, und auch mit {#saha)#}; {%sich zusammenfinden, zusammenkommen, zusammentreffen, sich vereinigen%}: {#na milati Kalu yasyA vallaBo dEvayogAt#} 
+;
+599185 new <ls>DHĀTUP. 28, 71.</ls> <ls n="DHĀTUP. 28,">135.</ls> {%sich vereinigen mit, sich zu Jmd gesellen, Jmd begegnen, sich einstellen bei, sich einfinden bei, zusammenkommen mit%} (mit gen. instr. oder loc. der Per- son, und auch mit {#saha)#}; {%sich zusammenfinden, zusammenkommen, zusammentreffen, sich vereinigen%}: {#na milati Kalu yasyA vallaBo dEvayogAt#} 
+; -------------------------------------------------------
+; <L>60885<pc>5-0820<k1>muc
+;  <ls>DHĀTUP. 6, 12, v. l.</ls> -> ls>DHĀTUP. 6, 12</ls>, v. l.
+603155 old <ls>DHĀTUP. 6, 12, v. l.</ls>
+;
+603155 new <ls>DHĀTUP. 6, 12</ls>, v. l.
+; -------------------------------------------------------
+; <L>60896<pc>5-0820<k1>muj
+;  <ls>DHĀTUP. 7, 76. 77.</ls> -> done
+603237 old <ls>DHĀTUP. 7, 76. 77.</ls> nach <ls>VOP.</ls> {#moja/yati#} und {#muYja/yati (mfjADvanyoH)#} .
+;
+603237 new <ls>DHĀTUP. 7, 76.</ls> <ls n="DHĀTUP. 7,">77.</ls> nach <ls>VOP.</ls> {#moja/yati#} und {#muYja/yati (mfjADvanyoH)#} .
+; -------------------------------------------------------
+; <L>60929<pc>5-0822<k1>muRq
+;  <ls n="DHĀTUP.">40.</ls> -> done
+603473 old <ls n="DHĀTUP.">40.</ls> ({#mArjane#}, v.l. {#magne#} und {#muRqane#}; vgl. {#muRqay)#} 
+;
+603473 new <ls n="DHĀTUP. 9,">40.</ls> ({#mArjane#}, v.l. {#magne#} und {#muRqane#}; vgl. {#muRqay)#} 
+; -------------------------------------------------------
+; <L>61102<pc>5-0836<k1>mul
+;  <ls>DHĀTUP. 32, 63, v. l.</ls> -> ls>DHĀTUP. 32, 63</ls>, v. l.
+605064 old <ls>DHĀTUP. 32, 63, v. l.</ls> für {#mUl, molayati vfkzaM lokaH#}; nach Anderen {%wachsen%} ({#rohaRe, janmani#}) 
+;
+605064 new <ls>DHĀTUP. 32, 63</ls>, v. l. für {#mUl, molayati vfkzaM lokaH#}; nach Anderen {%wachsen%} ({#rohaRe, janmani#}) 
+; -------------------------------------------------------
+; <L>61106<pc>5-0836<k1>muz
+;  <ls>DHĀTUP. 17, 25, v. l.</ls> -> ls>DHĀTUP. 17, 25</ls>, v. l.
+605087 old <ls>DHĀTUP. 17, 25, v. l.</ls> ved. {#mo/zaTa, muzAya/ti; mumozaH amozIt#} 
+;
+605087 new <ls>DHĀTUP. 17, 25</ls>, v. l. ved. {#mo/zaTa, muzAya/ti; mumozaH amozIt#} 
+; -------------------------------------------------------
+; <L>61108<pc>5-0837<k1>muz
+;  <ls>DHĀTUP. 17, 41, v. l.</ls> -> ls>DHĀTUP. 17, 41</ls>, v. l.
+605224 old <ls>DHĀTUP. 17, 41, v. l.</ls>
+;
+605224 new <ls>DHĀTUP. 17, 41</ls>, v. l.
+; -------------------------------------------------------
+; <L>61109<pc>5-0838<k1>muz
+;  <ls>DHĀTUP. 26, 111, v. l.</ls> -> ls>DHĀTUP. 26, 111</ls>, v. l.
+605230 old <ls>DHĀTUP. 26, 111, v. l.</ls> Hierher ziehen die Scholiasten den aor. in der Stelle {#rAGavasyAmuzaH kAntAm#} 
+;
+605230 new <ls>DHĀTUP. 26, 111</ls>, v. l. Hierher ziehen die Scholiasten den aor. in der Stelle {#rAGavasyAmuzaH kAntAm#} 
+; -------------------------------------------------------
+; <L>61911<pc>5-0896<k1>meq
+;  <ls>DHĀTUP. 9, 5, v. l.</ls> -> ls>DHĀTUP. 9, 5</ls>, v. l.
+612465 old <ls>DHĀTUP. 9, 5, v. l.</ls> (<ls>VOP.).</ls>
+;
+612465 new <ls>DHĀTUP. 9, 5</ls>, v. l. (<ls>VOP.).</ls>
+; -------------------------------------------------------
+; <L>62007<pc>5-0904<k1>meb
+;  <ls>DHĀTUP. 10, 11, v. l.</ls> -> ls>DHĀTUP. 10, 11</ls>, v. l.
+613439 old <ls>DHĀTUP. 10, 11, v. l.</ls>
+;
+613439 new <ls>DHĀTUP. 10, 11</ls>, v. l.
+; -------------------------------------------------------
+; <L>62365<pc>5-0931<k1>mrakzaRa
+;  <ls>DHĀTUP. 29, 21. 32, 119.</ls> -> <ls>DHĀTUP. 29, 21.</ls> <ls n="DHĀTUP.">32, 119.</ls>
+616726 old <ls>DHĀTUP. 29, 21. 32, 119.</ls> 
+;
+616726 new <ls>DHĀTUP. 29, 21.</ls> <ls n="DHĀTUP.">32, 119.</ls> 
+; -------------------------------------------------------
+; <L>62380<pc>5-0932<k1>mlakz
+;  <ls>DHĀTUP. 32, 119, v. l.</ls> -> ls>DHĀTUP. 32, 119</ls>, v. l.
+616864 old <ls>DHĀTUP. 32, 119, v. l.</ls>
+;
+616864 new <ls>DHĀTUP. 32, 119</ls>, v. l.
+; -------------------------------------------------------
+; <L>66451<pc>5-1103<k1>ADfzIya
+;  <ls>DHĀTUP. 34</ls> -> ok nochg
+642212 old <ls>DHĀTUP. 34</ls> am Schluss; 
+;
+642212 new <ls>DHĀTUP. 34</ls> am Schluss; 
+; -------------------------------------------------------
+; <L>81526<pc>6-0063<k1>yam
+;  <ls>DHĀTUP. 19, 71. 32, 81</ls> -> <ls>DHĀTUP. 19, 71.</ls> <ls n="DHĀTUP.">32, 81</ls>
+744673 old <ls>DHĀTUP. 19, 71. 32, 81</ls> ({#parivezaRe#} und {#aparivezaRe#}). {%in Schranken halten%} 
+;
+744673 new <ls>DHĀTUP. 19, 71.</ls> <ls n="DHĀTUP.">32, 81</ls> ({#parivezaRe#} und {#aparivezaRe#}). {%in Schranken halten%} 
+; -------------------------------------------------------
+; <L>82914<pc>6-0223<k1>rag
+;  <ls>DHĀTUP. 33, 63, v. l.</ls> -> ls>DHĀTUP. 33, 63</ls>, v. l.
+762102 old <ls>DHĀTUP. 33, 63, v. l.</ls>
+;
+762102 new <ls>DHĀTUP. 33, 63</ls>, v. l.
+; -------------------------------------------------------
+; <L>82915<pc>6-0223<k1>raG
+;  <ls>DHĀTUP. 33, 63, v. l.</ls> -> ls>DHĀTUP. 33, 63</ls>, v. l.
+762107 old <ls>DHĀTUP. 33, 63, v. l.</ls>
+;
+762107 new <ls>DHĀTUP. 33, 63</ls>, v. l.
+; -------------------------------------------------------
+; <L>83511<pc>6-0264<k1>ran
+;  <ls>DHĀTUP. 19, 33. 56.</ls> -> done
+767384 old <ls>DHĀTUP. 19, 33. 56.</ls>
+;
+767384 new <ls>DHĀTUP. 19, 33.</ls> <ls n="DHĀTUP. 19,">56.</ls>
+; -------------------------------------------------------
+; <L>83540<pc>6-0267<k1>raP
+;  <ls n="DHĀTUP.">23, v. l.</ls> -> done
+767669 old <ls n="DHĀTUP.">23, v. l.</ls> {#raPita/#} etwa {%herabgekommen, elend%} 
+;
+767669 new <ls n="DHĀTUP. 28,">23</ls>, v. l. {#raPita/#} etwa {%herabgekommen, elend%} 
+; -------------------------------------------------------
+; <L>83631<pc>6-0284<k1>rarP
+;  <ls>DHĀTUP. 11, 18, v. l.</ls> -> ls>DHĀTUP. 11, 18</ls>, v. l.
+769484 old <ls>DHĀTUP. 11, 18, v. l.</ls>
+;
+769484 new <ls>DHĀTUP. 11, 18</ls>, v. l.
+; -------------------------------------------------------
+; <L>83873<pc>6-0301<k1>rah
+;  <ls>DHĀTUP. 17, 82. 32, 83. 35, 6.</ls> -> done
+771673 old <ls>DHĀTUP. 17, 82. 32, 83. 35, 6.</ls> {#rahati suKaM dInaH#} und {#rahayati SokaM DIraH#} 
+;
+771673 new <ls>DHĀTUP. 17, 82.</ls> <ls n="DHĀTUP.">32, 83.</ls> <ls n="DHĀTUP.">35, 6.</ls> {#rahati suKaM dInaH#} und {#rahayati SokaM DIraH#} 
+; -------------------------------------------------------
+; <L>84781<pc>6-0365<k1>rimP
+;  <ls>DHĀTUP. 28, 30, v. l.</ls> -> ls>DHĀTUP. 28, 30</ls>, v. l.
+779696 old <ls>DHĀTUP. 28, 30, v. l.</ls> {#rimPati#} und {#riPati#} 
+;
+779696 new <ls>DHĀTUP. 28, 30</ls>, v. l. {#rimPati#} und {#riPati#} 
+; -------------------------------------------------------
+; <L>84799<pc>6-0367<k1>riz
+;  <ls n="DHĀTUP.">26, 120, v. l.</ls> -> done
+779835 old <ls n="DHĀTUP.">26, 120, v. l.</ls> und {#rizyate; rizat, rizAma, rizATana, rizan, re/zat; rezitA#} und {#rezwA#} 
+;
+779835 new <ls n="DHĀTUP.">26, 120</ls>, v. l. und {#rizyate; rizat, rizAma, rizATana, rizan, re/zat; rezitA#} und {#rezwA#} 
+; -------------------------------------------------------
+; <L>84834<pc>6-0370<k1>rIv
+;  <ls>DHĀTUP. 21, 15, v. l.</ls> -> ls>DHĀTUP. 21, 15</ls>, v. l.
+780199 old <ls>DHĀTUP. 21, 15, v. l.</ls> 
+;
+780199 new <ls>DHĀTUP. 21, 15</ls>, v. l. 
+; -------------------------------------------------------
+; <L>84925<pc>6-0384<k1>ruW
+;  <ls n="DHĀTUP.">18, 9, v. l.</ls> -> done
+781669 old <ls n="DHĀTUP.">18, 9, v. l.</ls> {%quälen, peinigen%}: {#roWamAnasya vEdehIM mAMsArTe vAyasasya#} 
+;
+781669 new <ls n="DHĀTUP.">18, 9</ls>, v. l. {%quälen, peinigen%}: {#roWamAnasya vEdehIM mAMsArTe vAyasasya#} 
+; -------------------------------------------------------
+; <L>84929<pc>6-0384<k1>ruRW
+;  <ls n="DHĀTUP.">58, v. l.</ls> -> done
+781693 old <ls n="DHĀTUP.">58, v. l.</ls> ({#steye#}) 
+;
+781693 new <ls n="DHĀTUP. 9,">58</ls>, v. l. ({#steye#}) 
+; -------------------------------------------------------
+; <L>84929<pc>6-0384<k1>ruRW
+;  <ls n="DHĀTUP.">41, v. l.</ls> -> done
+781694 old <ls n="DHĀTUP.">41, v. l.</ls>
+;
+781694 new <ls n="DHĀTUP. 9,">41</ls>, v. l.
+; -------------------------------------------------------
+; <L>84930<pc>6-0384<k1>ruRq
+;  <ls>DHĀTUP. 9, 41, v. l.</ls> -> ls>DHĀTUP. 9, 41</ls>, v. l.
+781699 old <ls>DHĀTUP. 9, 41, v. l.</ls>
+;
+781699 new <ls>DHĀTUP. 9, 41</ls>, v. l.
+; -------------------------------------------------------
+; <L>85085<pc>6-0405<k1>ruz
+;  <ls n="DHĀTUP.">5</ls> -> done
+783778 old <ls n="DHĀTUP.">5</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls> {#aruzat; rozwA#} und {#rozitA#} 
+;
+783778 new 5 aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls> {#aruzat; rozwA#} und {#rozitA#} 
+; -------------------------------------------------------
+; <L>85183<pc>6-0428<k1>rUz
+;  <ls>DHĀTUP. 35. 84, p.</ls> -> ok nochg
+786047 old <ls>DHĀTUP. 35. 84, p.</ls> 
+;
+786047 new <ls>DHĀTUP. 35. 84, p.</ls> 
+; -------------------------------------------------------
+; <L>85284<pc>6-0436<k1>rezaRa
+;  <ls>DHĀTUP. 22, 63. 31, 30.</ls> -> <ls>DHĀTUP. 22, 63.</ls> <ls n="DHĀTUP.">31, 30.</ls>
+787075 old <ls>DHĀTUP. 22, 63. 31, 30.</ls> 
+;
+787075 new <ls>DHĀTUP. 22, 63.</ls> <ls n="DHĀTUP.">31, 30.</ls> 
+; -------------------------------------------------------
+; <L>85360<pc>6-0442<k1>roq
+;  <ls n="DHĀTUP.">72, v. l.</ls> -> done
+787869 old <ls n="DHĀTUP.">72, v. l.</ls> 
+;
+787869 new <ls n="DHĀTUP. 9,">72</ls>, v. l. 
+; -------------------------------------------------------
+; <L>85607<pc>6-0461<k1>lak
+;  <ls>DHĀTUP. 33, 63, v. l.</ls> -> ls>DHĀTUP. 33, 63</ls>, v. l.
+790256 old <ls>DHĀTUP. 33, 63, v. l.</ls>
+;
+790256 new <ls>DHĀTUP. 33, 63</ls>, v. l.
+; -------------------------------------------------------
+; <L>85874<pc>6-0486<k1>laNG
+;  <ls>DHĀTUP. 33, 87. 121.</ls> -> done
+793105 old <ls>DHĀTUP. 33, 87. 121.</ls> ({#BAzArTa, BAsArTa#}). aus metrischen Rücksichten hier und da auch med. 
+;
+793105 new <ls>DHĀTUP. 33, 87.</ls> <ls n="DHĀTUP. 33,">121.</ls> ({#BAzArTa, BAsArTa#}). aus metrischen Rücksichten hier und da auch med. 
+; -------------------------------------------------------
+; <L>85884<pc>6-0489<k1>laj
+;  <ls>DHĀTUP. 7 64.</ls> -> done
+793417 old <ls>DHĀTUP. 7 64.</ls> 
+;
+793417 new <ls>DHĀTUP. 7, 64.</ls> 
+; -------------------------------------------------------
+; <L>85900<pc>6-0491<k1>laYj
+;  <ls>DHĀTUP. 32, 30, v. l.</ls> -> ls>DHĀTUP. 32, 30</ls>, v. l.
+793623 old <ls>DHĀTUP. 32, 30, v. l.</ls> ({#BAzArTa#}, v. l. {#BAsArTa#}) 
+;
+793623 new <ls>DHĀTUP. 32, 30</ls>, v. l. ({#BAzArTa#}, v. l. {#BAsArTa#}) 
+; -------------------------------------------------------
+; <L>85900<pc>6-0491<k1>laYj
+;  <ls n="DHĀTUP.">35, 66, v. l.</ls> -> done
+793626 old <ls n="DHĀTUP.">35, 66, v. l.</ls> 
+;
+793626 new <ls n="DHĀTUP.">35, 66</ls>, v. l. 
+; -------------------------------------------------------
+; <L>85913<pc>6-0491<k1>laq
+;  <ls n="DHĀTUP.">35, 81, v. l.</ls> -> done
+793749 old <ls n="DHĀTUP.">35, 81, v. l.</ls> {#lAqa/yati#} ({#upasevAyAm#}) 
+;
+793749 new <ls n="DHĀTUP.">35, 81</ls>, v. l. {#lAqa/yati#} ({#upasevAyAm#}) 
+; -------------------------------------------------------
+; <L>85913<pc>6-0491<k1>laq
+;  <ls n="DHĀTUP.">33, 15, v. l.</ls> -> done
+793751 old <ls n="DHĀTUP.">33, 15, v. l.</ls> {#laqita = lalita#} 
+;
+793751 new <ls n="DHĀTUP.">33, 15</ls>, v. l. {#laqita = lalita#} 
+; -------------------------------------------------------
+; <L>85996<pc>6-0497<k1>laB
+;  <ls n="DHĀTUP.">5</ls> -> done
+794498 old <ls n="DHĀTUP.">5</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10</ls>). {#alabDa#} 
+;
+794498 new 5 aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10</ls>). {#alabDa#} 
+; -------------------------------------------------------
+; <L>86045<pc>6-0512<k1>lal
+;  <ls n="DHĀTUP.">76</ls> -> done
+796015 old <ls n="DHĀTUP.">76</ls>) und {#lalate#}; {%tändeln, scherzen, spielen, sich frei gehen lassen%}: {#gAyantI ca lalantI ca#} 
+;
+796015 new <ls n="DHĀTUP. 9,">76</ls>) und {#lalate#}; {%tändeln, scherzen, spielen, sich frei gehen lassen%}: {#gAyantI ca lalantI ca#} 
+; -------------------------------------------------------
+; <L>86154<pc>6-0521<k1>laS
+;  <ls>DHĀTUP. 36, 55, v. l.</ls> -> ls>DHĀTUP. 33, 55</ls>, v. l.  (35 -> 33 is print change)
+797081 old <ls>DHĀTUP. 36, 55, v. l.</ls> für {#las#} .
+;
+797081 new <ls>DHĀTUP. 33, 55</ls>, v. l. für {#las#} .
+; -------------------------------------------------------
+; <L>86157<pc>6-0522<k1>laz
+;  <ls>DHĀTUP. 35, 56 v. l.</ls> -> done
+797147 old <ls>DHĀTUP. 35, 56 v. l.</ls> für {#las#} .
+;
+797147 new <ls>DHĀTUP. 35, 56</ls> v. l. für {#las#} .
+; -------------------------------------------------------
+; <L>86247<pc>6-0529<k1>lAq
+;  <ls>DHĀTUP. 35, 81, v. l.</ls> -> ls>DHĀTUP. 35, 81</ls>, v. l.
+798082 old <ls>KAVIKALP.</ls> im <ls>ŚKDR.</ls>) <ls>DHĀTUP. 35, 81, v. l.</ls>
+;
+798082 new <ls>KAVIKALP.</ls> im <ls>ŚKDR.</ls>) <ls>DHĀTUP. 35, 81</ls>, v. l.
+; -------------------------------------------------------
+; <L>86492<pc>6-0557<k1>luYj
+;  <ls>DHĀTUP. 32, 31, v. l.</ls> -> ls>DHĀTUP. 32, 31</ls>, v. l.
+801016 old <ls>DHĀTUP. 32, 31, v. l.</ls> ({#BAzArTa#} oder {#BAsArTa#}) 
+;
+801016 new <ls>DHĀTUP. 32, 31</ls>, v. l. ({#BAzArTa#} oder {#BAsArTa#}) 
+; -------------------------------------------------------
+; <L>86499<pc>6-0558<k1>luq
+;  <ls>DHĀTUP. 9, 27, v. l.</ls> -> ls>DHĀTUP. 9, 27</ls>, v. l.
+801139 old <ls>DHĀTUP. 9, 27, v. l.</ls> {#luqa/ti#} ({#saMSlezaRe, Sleze, saMvftO#}) 
+;
+801139 new <ls>DHĀTUP. 9, 27</ls>, v. l. {#luqa/ti#} ({#saMSlezaRe, Sleze, saMvftO#}) 
+; -------------------------------------------------------
+; <L>86499<pc>6-0558<k1>luq
+;  <ls n="DHĀTUP.">28, 87, v. l.</ls> -> done
+801140 old <ls n="DHĀTUP.">28, 87, v. l.</ls> 
+;
+801140 new <ls n="DHĀTUP.">28, 87</ls>, v. l. 
+; -------------------------------------------------------
+; <L>86504<pc>6-0559<k1>luRW
+;  <ls>DHĀTUP. 9, 42, v. l.</ls> -> ls>DHĀTUP. 9, 42</ls>, v. l.
+801260 old <ls>DHĀTUP. 9, 42, v. l.</ls> ({#Alasye pratiGAte ca, Kowe#} st. {#pratiGAte#} <ls>VOP.</ls>) 
+;
+801260 new <ls>DHĀTUP. 9, 42</ls>, v. l. ({#Alasye pratiGAte ca, Kowe#} st. {#pratiGAte#} <ls>VOP.</ls>) 
+; -------------------------------------------------------
+; <L>86504<pc>6-0559<k1>luRW
+;  <ls n="DHĀTUP.">58.</ls> -> done
+801261 old <ls n="DHĀTUP.">58.</ls> ({#gatO#}) 
+;
+801261 new <ls n="DHĀTUP. 9,">58.</ls> ({#gatO#}) 
+; -------------------------------------------------------
+; <L>86504<pc>6-0559<k1>luRW
+;  <ls n="DHĀTUP.">62.</ls> -> done
+801262 old <ls n="DHĀTUP.">62.</ls> {%aufrühren%} (vgl. {#luq#}):{#luRWitA krIqatA #}
+;
+801262 new <ls n="DHĀTUP. 9,">62.</ls> {%aufrühren%} (vgl. {#luq#}):{#luRWitA krIqatA #}
+; -------------------------------------------------------
+; <L>86512<pc>6-0560<k1>luRq
+;  <ls>DHĀTUP. 9, 42, v. l.</ls> -> ls>DHĀTUP. 9, 42</ls>, v. l.
+801343 old <ls>DHĀTUP. 9, 42, v. l.</ls> {#luRqa/yati#} dass. 
+;
+801343 new <ls>DHĀTUP. 9, 42</ls>, v. l. {#luRqa/yati#} dass. 
+; -------------------------------------------------------
+; <L>86512<pc>6-0560<k1>luRq
+;  <ls n="DHĀTUP.">32, 27, v. l.</ls> -> done
+801344 old <ls n="DHĀTUP.">32, 27, v. l.</ls>
+;
+801344 new <ls n="DHĀTUP.">32, 27</ls>, v. l.
+; -------------------------------------------------------
+; <L>86530<pc>6-0565<k1>lul
+;  <ls>DHĀTUP. 9, 27, v. l.</ls> -> ls>DHĀTUP. 9, 27</ls>, v. l.
+801863 old <ls>DHĀTUP. 9, 27, v. l.</ls> {%sich hinundherbewegen%}:
+;
+801863 new <ls>DHĀTUP. 9, 27</ls>, v. l. {%sich hinundherbewegen%}:
+; -------------------------------------------------------
+; <L>86633<pc>6-0574<k1>lER
+;  <ls>DHĀTUP. 13, 15, v. l.</ls> -> ls>DHĀTUP. 13, 15</ls>, v. l.
+802986 old <ls>DHĀTUP. 13, 15, v. l.</ls>
+;
+802986 new <ls>DHĀTUP. 13, 15</ls>, v. l.
+; -------------------------------------------------------
+; <L>87039<pc>6-0603<k1>lOq
+;  <ls>DHĀTUP. 9, 74, v. l.</ls> -> ls>DHĀTUP. 9, 74</ls>, v. l.
+806700 old <ls>DHĀTUP. 9, 74, v. l.</ls> 
+;
+806700 new <ls>DHĀTUP. 9, 74</ls>, v. l. 
+; -------------------------------------------------------
+; <L>87080<pc>6-0604<k1>lpI
+;  <ls>DHĀTUP. 31, 31, v. l.</ls> -> ls>DHĀTUP. 31, 31</ls>, v. l.
+806983 old <ls>DHĀTUP. 31, 31, v. l.</ls> für {#lI#} .
+;
+806983 new <ls>DHĀTUP. 31, 31</ls>, v. l. für {#lI#} .
+; -------------------------------------------------------
+; <L>87081<pc>6-0604<k1>lyI
+;  <ls>DHĀTUP. 31, 31, v. l.</ls> -> ls>DHĀTUP. 31, 31</ls>, v. l.
+806988 old <ls>DHĀTUP. 31, 31, v. l.</ls> für {#lI#} .
+;
+806988 new <ls>DHĀTUP. 31, 31</ls>, v. l. für {#lI#} .
+; -------------------------------------------------------
+; <L>87082<pc>6-0604<k1>lvI
+;  <ls>DHĀTUP. 31, 32, v. l.</ls> -> ls>DHĀTUP. 31, 32</ls>, v. l.
+806993 old <ls>DHĀTUP. 31, 32, v. l.</ls> für {#vlI, plI#} .
+;
+806993 new <ls>DHĀTUP. 31, 32</ls>, v. l. für {#vlI, plI#} .
+; -------------------------------------------------------
+; <L>87154<pc>6-0610<k1>vak
+;  <ls n="DHĀTUP.">21</ls> -> done
+807623 old <ls n="DHĀTUP.">21</ls> ({#gatO#}).
+;
+807623 new <ls n="DHĀTUP. 4,">21</ls> ({#gatO#}).
+; -------------------------------------------------------
+; <L>87158<pc>6-0610<k1>vakk
+;  <ls>DHĀTUP. 4, 27, v. l.</ls> -> ls>DHĀTUP. 4, 27</ls>, v. l.
+807646 old <ls>DHĀTUP. 4, 27, v. l.</ls>
+;
+807646 new <ls>DHĀTUP. 4, 27</ls>, v. l.
+; -------------------------------------------------------
+; <L>87510<pc>6-0640<k1>vaw
+;  <ls n="DHĀTUP.">65</ls> -> done
+811279 old <ls n="DHĀTUP.">65</ls> ({#viBAjane#}).
+;
+811279 new <ls n="DHĀTUP. 35,">65</ls> ({#viBAjane#}).
+; -------------------------------------------------------
+; <L>87577<pc>6-0644<k1>vaRw
+;  <ls n="DHĀTUP.">32, 48. 35, 65.</ls> -> done
+811817 old <ls>DURGĀD.</ls> im <ls>ŚKDR.</ls>) dass. <ls n="DHĀTUP.">32, 48. 35, 65.</ls> {%vertheilen%}: {#jYAtiBirvaRwyate nEva - vidyAratnaM mahADanam#} 
+;
+811817 new <ls>DURGĀD.</ls> im <ls>ŚKDR.</ls>) dass. <ls n="DHĀTUP.">32, 48.</ls> <ls n="DHĀTUP.">35, 65.</ls> {%vertheilen%}: {#jYAtiBirvaRwyate nEva - vidyAratnaM mahADanam#} 
+; -------------------------------------------------------
+; <L>87584<pc>6-0645<k1>vaRq
+;  <ls n="DHĀTUP.">32, 48, v. l.</ls> -> done
+811892 old <ls n="DHĀTUP.">32, 48, v. l.</ls> 
+;
+811892 new <ls n="DHĀTUP.">32, 48</ls>, v. l. 
+; -------------------------------------------------------
+; <L>87736<pc>6-0665<k1>van
+;  <ls n="DHĀTUP.">34, 33, v. l.</ls> -> done
+814198 old <ls n="DHĀTUP.">34, 33, v. l.</ls> ({#SradDopakaraRayoH, SradDopahananayoH, upakftO SradDAGAte SabdopatApayoH#}). {#vanoti#} und {#vanute#} ({#yAcane#}) 
+;
+814198 new <ls n="DHĀTUP.">34, 33</ls>, v. l. ({#SradDopakaraRayoH, SradDopahananayoH, upakftO SradDAGAte SabdopatApayoH#}). {#vanoti#} und {#vanute#} ({#yAcane#}) 
+; -------------------------------------------------------
+; <L>87736<pc>6-0665<k1>van
+;  <ls>DHĀTUP. 34, 33, v. l.</ls> -> ls>DHĀTUP. 34, 33</ls>, v. l.
+814263 old <ls>DHĀTUP. 34, 33, v. l.</ls>
+;
+814263 new <ls>DHĀTUP. 34, 33</ls>, v. l.
+; -------------------------------------------------------
+; <L>88099<pc>6-0696<k1>vayohAni
+;  <ls>DHĀTUP. 26, 23. 31, 24. 34, 9.</ls> -> done
+818034 old <ls>DHĀTUP. 26, 23. 31, 24. 34, 9.</ls>
+;
+818034 new <ls>DHĀTUP. 26, 23.</ls> <ls n="DHĀTUP.">31, 24.</ls> <ls n="DHĀTUP.">34, 9.</ls>
+; -------------------------------------------------------
+; <L>88101<pc>6-0696<k1>var
+;  <ls n="DHĀTUP.">31, 16. 20.</ls> -> done
+818050 old <ls n="DHĀTUP.">31, 16. 20.</ls> {#vavA/ra, vava/rTa#} ved. und {#vavariTa#} 
+;
+818050 new <ls n="DHĀTUP.">31, 16.</ls> <ls n="DHĀTUP. 31,">20.</ls> {#vavA/ra, vava/rTa#} ved. und {#vavariTa#} 
+; -------------------------------------------------------
+; <L>88102<pc>6-0706<k1>var
+;  <ls n="DHĀTUP.">31, 16. 20.</ls> -> done
+818930 old <ls n="DHĀTUP.">31, 16. 20.</ls> {#avfRi#} 
+;
+818930 new <ls n="DHĀTUP.">31, 16.</ls> <ls n="DHĀTUP. 31,">20.</ls> {#avfRi#} 
+; -------------------------------------------------------
+; <L>88389<pc>6-0731<k1>varc
+;  <ls>DHĀTUP. 29, 24, v. l.</ls> -> ls>DHĀTUP. 29, 24</ls>, v. l.
+821973 old <ls>DHĀTUP. 29, 24, v. l.</ls> 
+;
+821973 new <ls>DHĀTUP. 29, 24</ls>, v. l. 
+; -------------------------------------------------------
+; <L>88455<pc>6-0743<k1>varRay
+;  <ls n="DHĀTUP.">32, 18, v. l.</ls> -> done
+823170 old <ls n="DHĀTUP.">32, 18, v. l.</ls> ({#varRane, preraRe#}). 
+;
+823170 new <ls n="DHĀTUP.">32, 18</ls>, v. l. ({#varRane, preraRe#}). 
+; -------------------------------------------------------
+; <L>88834<pc>6-0817<k1>valh
+;  <ls n="DHĀTUP.">40</ls> -> done
+830537 old <ls n="DHĀTUP.">40</ls> ({#pariBAzaRahiMsAdAnezu, CAdana#} st. {#dAna#} 
+;
+830537 new <ls n="DHĀTUP. 16,">40</ls> ({#pariBAzaRahiMsAdAnezu, CAdana#} st. {#dAna#} 
+; -------------------------------------------------------
+; <L>88910<pc>6-0825<k1>vazk
+;  <ls>DHĀTUP. 4, 27, v. l.</ls> -> ls>DHĀTUP. 4, 27</ls>, v. l.
+831487 old <ls>DHĀTUP. 4, 27, v. l.</ls> für {#vask#} .
+;
+831487 new <ls>DHĀTUP. 4, 27</ls>, v. l. für {#vask#} .
+; -------------------------------------------------------
+; <L>88914<pc>6-0826<k1>vas
+;  <ls n="DHĀTUP.">2.</ls> -> done
+831675 old <ls>DHĀTUP. 35, 33</ls> und <ls n="DHĀTUP.">2.</ls> {#nivAsana#} .
+;
+831675 new <ls>DHĀTUP. 35, 33</ls> und 2. {#nivAsana#} .
+; -------------------------------------------------------
+; <L>88916<pc>6-0827<k1>vas
+;  <ls>DHĀTUP. 35,84,e.</ls> -> ok nochg
+831965 old <ls>DHĀTUP. 35,84,e.</ls>
+;
+831965 new <ls>DHĀTUP. 35,84,e.</ls>
+; -------------------------------------------------------
+; <L>91096<pc>6-1006<k1>vic
+;  <ls n="DHĀTUP.">2</ls> -> done
+853279 old <ls n="DHĀTUP.">2</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls> {%durch%}
+;
+853279 new 2 aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls> {%durch%}
+; -------------------------------------------------------
+; <L>91433<pc>6-1032<k1>viq
+;  <ls>DHĀTUP. 9, 30, v. l.</ls> -> ls>DHĀTUP. 9, 30</ls>, v. l.
+856324 old <ls>DHĀTUP. 9, 30, v. l.</ls> 
+;
+856324 new <ls>DHĀTUP. 9, 30</ls>, v. l. 
+; -------------------------------------------------------
+; <L>91462<pc>6-1034<k1>viRw
+;  <ls>DHĀTUP. 32, 116, v. l.</ls> -> ls>DHĀTUP. 32, 116</ls>, v. l.
+856556 old <ls>DHĀTUP. 32, 116, v. l.</ls>
+;
+856556 new <ls>DHĀTUP. 32, 116</ls>, v. l.
+; -------------------------------------------------------
+; <L>91839<pc>6-1070<k1>viD
+;  <ls>DHĀTUP. 2, 32.fg.</ls> -> ok nochg
+860686 old <ls>DHĀTUP. 2, 32.fg.</ls>
+;
+860686 new <ls>DHĀTUP. 2, 32. fg.</ls>
+; -------------------------------------------------------
+; <L>93003<pc>6-1170<k1>viloqana
+;  <ls>DHĀTUP. 2, 4. 3, 5. 9, 27. 16,48. 20, 18. 26, 113. 31, 40.</ls> -> done
+872422 old <ls>DHĀTUP. 2, 4. 3, 5. 9, 27. 16,48. 20, 18. 26, 113. 31, 40.</ls>
+;
+872422 new <ls>DHĀTUP. 2, 4.</ls> <ls n="DHĀTUP.">3, 5.</ls> <ls n="DHĀTUP.">9, 27.</ls> <ls n="DHĀTUP.">16, 48.</ls> <ls n="DHĀTUP.">20, 18.</ls> <ls n="DHĀTUP.">26, 113.</ls> <ls n="DHĀTUP.">31, 40.</ls>
+; -------------------------------------------------------
+; <L>93223<pc>6-1208<k1>viSaraRa
+;  <ls>DHĀTUP. 14,13. 15,9.</ls> -> <ls>DHĀTUP. 14, 13.</ls> <ls n="DHĀTUP.">15, 9.</ls>
+876214 old <ls>DHĀTUP. 14,13. 15,9.</ls> <ls>Verz. d. Oxf. H. 167,b,16</ls> (?). 
+;
+876214 new <ls>DHĀTUP. 14, 13.</ls> <ls n="DHĀTUP.">15, 9.</ls> <ls>Verz. d. Oxf. H. 167,b,16</ls> (?). 
+; -------------------------------------------------------
+; <L>93942<pc>6-1258<k1>vizk
+;  <ls>DHĀTUP. 35,84,b, v. l.</ls> -> done
+882531 old <ls>DHĀTUP. 35,84,b, v. l.</ls>
+;
+882531 new <ls>DHĀTUP. 35,84,b</ls>, v. l.
+; -------------------------------------------------------
+; <L>94746<pc>6-1314<k1>vft
+;  <ls n="DHĀTUP.">19, 79. 23, 41. 28, 108. 143. 31, 32</ls> -> done
+889589 old <ls>DHĀTUP.</ls> (z. B. nach <ls n="DHĀTUP.">19, 79. 23, 41. 28, 108. 143. 31, 32</ls>) den {%Schluss%} einer zu einer bestimmten grammatischen Regel gehörenden Reihe von Wurzeln, die in der Grammatik durch die erste Wurzel mit nachfolgendem {#Adi#} oder {#praBfti#} kurz angegeben wird. 
+;
+889589 new <ls>DHĀTUP.</ls> (z. B. nach <ls n="DHĀTUP.">19, 79.</ls> <ls n="DHĀTUP.">23, 41.</ls> <ls n="DHĀTUP.">28, 108.</ls> <ls n="DHĀTUP. 28,">143.</ls> <ls n="DHĀTUP.">31, 32</ls>) den {%Schluss%} einer zu einer bestimmten grammatischen Regel gehörenden Reihe von Wurzeln, die in der Grammatik durch die erste Wurzel mit nachfolgendem {#Adi#} oder {#praBfti#} kurz angegeben wird. 
+; -------------------------------------------------------
+; <L>95135<pc>6-1348<k1>vekz
+;  <ls>DHĀTUP. 35, 84,b.</ls> -> ok nochg
+893609 old <ls>DHĀTUP. 35, 84,b.</ls> 
+;
+893609 new <ls>DHĀTUP. 35, 84,b.</ls> 
+; -------------------------------------------------------
+; <L>95452<pc>6-1371<k1>ven
+;  <ls>DHĀTUP. 21. 13, v. l.</ls> -> done
+896522 old <ls>DHĀTUP. 21. 13, v. l.</ls> ({#gatijYAnacintAniSAmanavAditragrahaRezu#}). 
+;
+896522 new <ls>DHĀTUP. 21, 13</ls>, v. l. ({#gatijYAnacintAniSAmanavAditragrahaRezu#}). 
+; -------------------------------------------------------
+; <L>95572<pc>6-1384<k1>veh
+;  <ls n="DHĀTUP.">2.</ls> -> done
+898003 old <ls>DHĀTUP. 16, 42</ls>; vgl. <ls n="DHĀTUP.">2.</ls> {#vAh#}.{# = vehAy#} 
+;
+898003 new <ls>DHĀTUP. 16, 42</ls>; vgl. 2. {#vAh#}. = {#vehAy#} 
+; -------------------------------------------------------
+; <L>95576<pc>6-1384<k1>vehl
+;  <ls>DHĀTUP. 15, 33, v. l.</ls> -> ls>DHĀTUP. 15, 33</ls>, v. l.
+898037 old <ls>DHĀTUP. 15, 33, v. l.</ls>
+;
+898037 new <ls>DHĀTUP. 15, 33</ls>, v. l.
+; -------------------------------------------------------
+; <L>96334<pc>6-1448<k1>vyay
+;  <ls>DHĀTUP. 32, 95, v. l.</ls> -> ls>DHĀTUP. 32, 95</ls>, v. l.
+905498 old <ls>DHĀTUP. 32, 95, v. l.</ls> für {#vyap#}.{# nudi (= preraRe)#} 
+;
+905498 new <ls>DHĀTUP. 32, 95</ls>, v. l. für {#vyap#}.{# nudi (= preraRe)#} 
+; -------------------------------------------------------
+; <L>96757<pc>6-1483<k1>vyuz
+;  <ls n="DHĀTUP.">106.</ls> -> done
+909593 old <ls n="DHĀTUP.">106.</ls> {#vyo/zayati (utsarge)#} 
+;
+909593 new <ls n="DHĀTUP. 26,">106.</ls> {#vyo/zayati (utsarge)#} 
+; -------------------------------------------------------
+; <L>96821<pc>6-1488<k1>vraj
+;  <ls>DHĀTUP. 7, 79. 40, v. l.</ls> -> done
+910175 old <ls>DHĀTUP. 7, 79. 40, v. l.</ls> {#vajrA/ja; avrAjIt#} 
+;
+910175 new <ls>DHĀTUP. 7, 79.</ls> <ls n="DHĀTUP 7,.">40</ls>, v. l. {#vajrA/ja; avrAjIt#} 
+; -------------------------------------------------------
+; <L>96959<pc>6-1504<k1>vrIMs
+;  <ls>DHĀTUP. 32, 121, v. l.</ls> -> ls>DHĀTUP. 32, 121</ls>, v. l.
+912000 old <ls>DHĀTUP. 32, 121, v. l.</ls>
+;
+912000 new <ls>DHĀTUP. 32, 121</ls>, v. l.
+; -------------------------------------------------------
+; <L>96987<pc>6-1506<k1>vlekz
+;  <ls>DHĀTUP. 35, 84,b,</ls> -> done nochg
+912218 old <ls>DHĀTUP. 35, 84,b,</ls> v. l.
+;
+912218 new <ls>DHĀTUP. 35, 84,b,</ls> v. l.
+; -------------------------------------------------------
+; <L>97400<pc>7-0038<k1>Saw
+;  <ls n="DHĀTUP.">33, 18, v. l.</ls> -> done
+916616 old <ls n="DHĀTUP.">33, 18, v. l.</ls> für {#SaW#} .
+;
+916616 new <ls n="DHĀTUP.">33, 18</ls>, v. l. für {#SaW#} .
+; -------------------------------------------------------
+; <L>97732<pc>7-0057<k1>Sad
+;  <ls>DHĀTUP. 20, 25. 28, 134.</ls> -> <ls>DHĀTUP. 20, 25.</ls> <ls n="DHĀTUP.">28, 134.</ls>
+919355 old <ls>DHĀTUP. 20, 25. 28, 134.</ls> {#SaSAda, Sedus; aSadat#} 
+;
+919355 new <ls>DHĀTUP. 20, 25.</ls> <ls n="DHĀTUP.">28, 134.</ls> {#SaSAda, Sedus; aSadat#} 
+; -------------------------------------------------------
+; <L>97760<pc>7-0060<k1>Sap
+;  <ls>DHĀTUP. 23, 31. 26, 59</ls> -> <ls>DHĀTUP. 23, 31.</ls> <ls n="DHĀTUP.">26, 59</ls>
+919639 old <ls>BHAṬṬ.</ls>) <ls>DHĀTUP. 23, 31. 26, 59</ls> ({#AkroSe#}).{# SaSApa, Sepe; Sapsyati#} und {#°te#} (<is>Kār.</is> 5 aus 
+;
+919639 new <ls>BHAṬṬ.</ls>) <ls>DHĀTUP. 23, 31.</ls> <ls n="DHĀTUP.">26, 59</ls> ({#AkroSe#}).{# SaSApa, Sepe; Sapsyati#} und {#°te#} (<is>Kār.</is> 5 aus 
+; -------------------------------------------------------
+; <L>97901<pc>7-0075<k1>Sam
+;  <ls>DHĀTUP. 19, 70. 33, 22.</ls> -> <ls>DHĀTUP. 19, 70.</ls> <ls n="DHĀTUP.">33, 22.</ls>
+921361 old <ls>DHĀTUP. 19, 70. 33, 22.</ls> das med. nicht zu belegen). Mit {#ni#} {%inne —, gewahr werden, vernehmen, hören, erfahren, kennen lernen%}: {#niSamya#} absol. 
+;
+921361 new <ls>DHĀTUP. 19, 70.</ls> <ls n="DHĀTUP.">33, 22.</ls> das med. nicht zu belegen). Mit {#ni#} {%inne —, gewahr werden, vernehmen, hören, erfahren, kennen lernen%}: {#niSamya#} absol. 
+; -------------------------------------------------------
+; <L>97952<pc>7-0080<k1>Samb
+;  <ls n="DHĀTUP.">32, 21, v. l.</ls> -> done
+921990 old <ls n="DHĀTUP.">32, 21, v. l.</ls>
+;
+921990 new <ls n="DHĀTUP.">32, 21</ls>, v. l.
+; -------------------------------------------------------
+; <L>98258<pc>7-0106<k1>Sal
+;  <ls>DHĀTUP. 20, 13. v. l.</ls> -> done
+925111 old <ls>DHĀTUP. 20, 13. v. l.</ls> für {#Sval (ASugamane)#} 
+;
+925111 new <ls>DHĀTUP. 20, 13.</ls> v. l. für {#Sval (ASugamane)#} 
+; -------------------------------------------------------
+; <L>98511<pc>7-0124<k1>SA
+;  <ls>DHĀTUP. 22, 21, v. l.</ls> -> ls>DHĀTUP. 22, 21</ls>, v. l.
+927497 old <ls>DHĀTUP. 22, 21, v. l.</ls> für {#SrA (SrE)#} .
+;
+927497 new <ls>DHĀTUP. 22, 21</ls>, v. l. für {#SrA (SrE)#} .
+; -------------------------------------------------------
+; <L>98994<pc>7-0155<k1>SAl
+;  <ls>DHĀTUP. 8, 37 v. l.</ls> -> done
+931515 old <ls>DHĀTUP. 8, 37 v. l.</ls> für {#SAq#} .
+;
+931515 new <ls>DHĀTUP. 8, 37</ls> v. l. für {#SAq#} .
+; -------------------------------------------------------
+; <L>99832<pc>7-0220<k1>SIk
+;  <ls n="DHĀTUP.">11, v. l.</ls> -> done
+939899 old <ls n="DHĀTUP.">11, v. l.</ls> ({#gatyarTa#}). {%tröpfeln, stieben%}: {#SiSIke SoRitaM vyoma#} 
+;
+939899 new <ls n="DHĀTUP. 4,">11</ls>, v. l. ({#gatyarTa#}). {%tröpfeln, stieben%}: {#SiSIke SoRitaM vyoma#} 
+; -------------------------------------------------------
+; <L>100069<pc>7-0235<k1>Su
+;  <ls n="DHĀTUP.">22, 42, v. l.</ls> -> done
+941959 old <ls n="DHĀTUP.">22, 42, v. l.</ls> bei den <is>Kamboja</is> gebraucht 
+;
+941959 new <ls n="DHĀTUP.">22, 42</ls>, v. l. bei den <is>Kamboja</is> gebraucht 
+; -------------------------------------------------------
+; <L>100265<pc>7-0250<k1>SuRW
+;  <ls>DHĀTUP. 9, 56, v. l.</ls> -> ls>DHĀTUP. 9, 56</ls>, v. l.
+944011 old <ls>DHĀTUP. 9, 56, v. l.</ls> ({#gatipratiDAte#}). 60 ({#SozaRe#}). {#SuRWayati#} 
+;
+944011 new <ls>DHĀTUP. 9, 56</ls>, v. l. ({#gatipratiDAte#}). 60 ({#SozaRe#}). {#SuRWayati#} 
+; -------------------------------------------------------
+; <L>100271<pc>7-0250<k1>SuRq
+;  <ls>DHĀTUP. 9, 40, v. l.</ls> -> ls>DHĀTUP. 9, 40</ls>, v. l.
+944047 old <ls>DHĀTUP. 9, 40, v. l.</ls> ({#KaRqanapramardanayoH#}).
+;
+944047 new <ls>DHĀTUP. 9, 40</ls>, v. l. ({#KaRqanapramardanayoH#}).
+; -------------------------------------------------------
+; <L>100333<pc>7-0254<k1>SudDi
+;  <ls>DHĀTUP. 3, 37. 24, 58.</ls> -> <ls>DHĀTUP. 3, 37.</ls> <ls n="DHĀTUP.">24, 58.</ls>
+944582 old <ls>DHĀTUP. 3, 37. 24, 58.</ls> 
+;
+944582 new <ls>DHĀTUP. 3, 37.</ls> <ls n="DHĀTUP.">24, 58.</ls> 
+; -------------------------------------------------------
+; <L>100490<pc>7-0269<k1>Sulkay
+;  <ls n="DHĀTUP.">34.</ls> -> done
+946364 old <ls n="DHĀTUP.">34.</ls>
+;
+946364 new <ls n="DHĀTUP. 32,">34.</ls>
+; -------------------------------------------------------
+; <L>100660<pc>7-0284<k1>SUrpay
+;  <ls>DHĀTUP. 32, 71, v. l.</ls> -> ls>DHĀTUP. 32, 71</ls>, v. l.
+948242 old <ls>DHĀTUP. 32, 71, v. l.</ls>
+;
+948242 new <ls>DHĀTUP. 32, 71</ls>, v. l.
+; -------------------------------------------------------
+; <L>100820<pc>7-0295<k1>Sel
+;  <ls>DHĀTUP. 15, 36. v. l.</ls> -> done
+949762 old <ls>DHĀTUP. 15, 36. v. l.</ls> {#sel#} .
+;
+949762 new <ls>DHĀTUP. 15, 36.</ls> v. l. {#sel#} .
+; -------------------------------------------------------
+; <L>101140<pc>7-0315<k1>SozaRa
+;  <ls>DHĀTUP. 23, 10. 26, 74.</ls> -> <ls>DHĀTUP. 23, 10.</ls> <ls n="DHĀTUP.">26, 74.</ls>
+952607 old <ls>MED. ṣ. 29.</ls> <ls>DHĀTUP. 23, 10. 26, 74.</ls> {#mahArRavAnAm#} 
+;
+952607 new <ls>MED. ṣ. 29.</ls> <ls>DHĀTUP. 23, 10.</ls> <ls n="DHĀTUP.">26, 74.</ls> {#mahArRavAnAm#} 
+; -------------------------------------------------------
+; <L>101517<pc>7-0344<k1>SrA
+;  <ls>DHĀTUP. 19, 49. 22, 21.</ls> -> <ls>DHĀTUP. 19, 49.</ls> <ls n="DHĀTUP.">22, 21.</ls>
+956348 old <ls>DHĀTUP. 19, 49. 22, 21.</ls> {#SrA/yati (pAke#}, nach 
+;
+956348 new <ls>DHĀTUP. 19, 49.</ls> <ls n="DHĀTUP.">22, 21.</ls> {#SrA/yati (pAke#}, nach 
+; -------------------------------------------------------
+; <L>102019<pc>7-0400<k1>SlaT
+;  <ls>DHĀTUP. 35, 18, v. l.</ls> -> ls>DHĀTUP. 35, 18</ls>, v. l.
+962705 old <ls>DHĀTUP. 35, 18, v. l.</ls> ({#dOrbalye#}). {%locker machen, lösen%}: {#banDanAni#} 
+;
+962705 new <ls>DHĀTUP. 35, 18</ls>, v. l. ({#dOrbalye#}). {%locker machen, lösen%}: {#banDanAni#} 
+; -------------------------------------------------------
+; <L>102106<pc>7-0410<k1>SvaRW
+;  <ls>DHĀTUP. 32, 29, v. l.</ls> -> ls>DHĀTUP. 32, 29</ls>, v. l.
+963786 old <ls>DHĀTUP. 32, 29, v. l.</ls>
+;
+963786 new <ls>DHĀTUP. 32, 29</ls>, v. l.
+; -------------------------------------------------------
+; <L>102134<pc>7-0412<k1>SvaBray
+;  <ls>DHĀTUP. 32, 79, v. l.</ls> -> ls>DHĀTUP. 32, 79</ls>, v. l.
+964080 old <ls>DHĀTUP. 32, 79, v. l.</ls> ({#gatyAm, kfcCrajIvane, bile, taNke#}).{# SvaBrita/#} <lex>adj.</lex> {%löcherig%} (ein Boden) <is>gaṇa</is> {#tArakAdi#} 
+;
+964080 new <ls>DHĀTUP. 32, 79</ls>, v. l. ({#gatyAm, kfcCrajIvane, bile, taNke#}).{# SvaBrita/#} <lex>adj.</lex> {%löcherig%} (ein Boden) <is>gaṇa</is> {#tArakAdi#} 
+; -------------------------------------------------------
+; <L>102712<pc>7-0449<k1>zWiv
+;  <ls>DHĀTUP. 15, 52. 26, 4</ls> -> <ls>DHĀTUP. 15, 52.</ls> <ls n="DHĀTUP.">26, 4</ls>
+968856 old <ls>DHĀTUP. 15, 52. 26, 4</ls> ({#nirasane#}). 
+;
+968856 new <ls>DHĀTUP. 15, 52.</ls> <ls n="DHĀTUP.">26, 4</ls> ({#nirasane#}). 
+; -------------------------------------------------------
+; <L>102712<pc>7-0449<k1>zWiv
+;  <ls n="DHĀTUP.">7, 3, 75. 6, 1, 64</ls> -> done
+968857 old <ls n="DHĀTUP.">7, 3, 75. 6, 1, 64</ls>, <is>Vārtt</is>. <ls>VOP. 8, 42. 66. 71.</ls> {#wizWeva#} und {#tizWeva#} 72. {%spucken, ausspeien%} 
+;
+968857 new <ls n="P.">7, 3, 75.</ls> <ls n="P.">6, 1, 64</ls>, <is>Vārtt</is>. <ls>VOP. 8, 42. 66. 71.</ls> {#wizWeva#} und {#tizWeva#} <ls n="VOP. 8,">72.</ls> {%spucken, ausspeien%} 
+; -------------------------------------------------------
+; <L>102789<pc>7-0461<k1>saMrAdDi
+;  <ls>DHĀTUP. 26, 83. fg.</ls> -> done nochg
+969926 old <ls>DHĀTUP. 26, 83. fg.</ls>
+;
+969926 new <ls>DHĀTUP. 26, 83. fg.</ls>
+; -------------------------------------------------------
+; <L>103569<pc>7-0533<k1>saMgama
+;  <ls>DHĀTUP. Einl. II.</ls> -> ok nochg
+978227 old <ls>COLEBR. Misc. Ess. 2, 255. fgg.</ls> <ls>WESTERGAARD</ls>, <ls>DHĀTUP. Einl. II.</ls> 
+;
+978227 new <ls>COLEBR. Misc. Ess. 2, 255. fgg.</ls> <ls>WESTERGAARD</ls>, <ls>DHĀTUP. Einl. II.</ls> 
+; -------------------------------------------------------
+; <L>103899<pc>7-0568<k1>saww
+;  <ls>DHĀTUP. 32, 31, v. l.</ls> -> ls>DHĀTUP. 32, 31</ls>, v. l.
+982156 old <ls>DHĀTUP. 32, 31, v. l.</ls> ({#hiMsAbalAdAnaniketanezu, dAna#} st. {#AdAna#} v. l.). 
+;
+982156 new <ls>DHĀTUP. 32, 31</ls>, v. l. ({#hiMsAbalAdAnaniketanezu, dAna#} st. {#AdAna#} v. l.). 
+; -------------------------------------------------------
+; <L>104655<pc>7-0634<k1>saMdarBa
+;  <ls>DHĀTUP. 31, 41. 34, 31.</ls> -> <ls>DHĀTUP. 31, 41.</ls> <ls n="DHĀTUP.">34, 31.</ls>
+990089 old u.s.w.) <ls>H. 653.</ls> <ls>HALĀY. 4, 45.</ls> <ls>DHĀTUP. 31, 41. 34, 31.</ls> {%ein kunstgemässes Zusammenlegen, - Aufstellen%}: {#AyuDa°#} 
+;
+990089 new u.s.w.) <ls>H. 653.</ls> <ls>HALĀY. 4, 45.</ls> <ls>DHĀTUP. 31, 41.</ls> <ls n="DHĀTUP.">34, 31.</ls> {%ein kunstgemässes Zusammenlegen, - Aufstellen%}: {#AyuDa°#} 
+; -------------------------------------------------------
+; <L>106049<pc>7-0738<k1>saMparcana
+;  <ls>DHĀTUP. 20, 27. 34, 10.</ls> -> <ls>DHĀTUP. 20, 27.</ls> <ls n="DHĀTUP.">34, 10.</ls>
+1002977 old <ls>DHĀTUP. 20, 27. 34, 10.</ls>
+;
+1002977 new <ls>DHĀTUP. 20, 27.</ls> <ls n="DHĀTUP.">34, 10.</ls>
+; -------------------------------------------------------
+; <L>108087<pc>7-0900<k1>sAway
+;  <ls>DHĀTUP. 35, 84, 1</ls> -> done
+1023057 old <ls>DHĀTUP. 35, 84, 1</ls> ({#prakASane#}).
+;
+1023057 new <ls>DHĀTUP. 35, 84, r</ls> ({#prakASane#}).
+; -------------------------------------------------------
+; <L>108554<pc>7-0940<k1>sAmb
+;  <ls>DHĀTUP. 32, 21, v. l.</ls> -> ls>DHĀTUP. 32, 21</ls>, v. l.
+1027842 old <ls>DHĀTUP. 32, 21, v. l.</ls> für {#samb#} .
+;
+1027842 new <ls>DHĀTUP. 32, 21</ls>, v. l. für {#samb#} .
+; -------------------------------------------------------
+; <L>109534<pc>7-1011<k1>siB
+;  <ls>DHĀTUP. 11, 41, v. l.</ls> -> ls>DHĀTUP. 11, 41</ls>, v. l.
+1036880 old <ls>DHĀTUP. 11, 41, v. l.</ls> 
+;
+1036880 new <ls>DHĀTUP. 11, 41</ls>, v. l. 
+; -------------------------------------------------------
+; <L>109544<pc>7-1011<k1>simB
+;  <ls>DHĀTUP. 11, 41, v. l.</ls> -> ls>DHĀTUP. 11, 41</ls>, v. l.
+1036945 old <ls>DHĀTUP. 11, 41, v. l.</ls>
+;
+1036945 new <ls>DHĀTUP. 11, 41</ls>, v. l.
+; -------------------------------------------------------
+; <L>109597<pc>7-1013<k1>sIk
+;  <ls>DHĀTUP. 4, 1, v. l.</ls> -> ls>DHĀTUP. 4, 1</ls>, v. l.
+1037285 old <ls>DHĀTUP. 4, 1, v. l.</ls>
+;
+1037285 new <ls>DHĀTUP. 4, 1</ls>, v. l.
+; -------------------------------------------------------
+; <L>111065<pc>7-1104<k1>sur
+;  <ls>DHĀTUP. 35, 11, v. l.</ls> -> ls>DHĀTUP. 35, 11</ls>, v. l.
+1050048 old <ls>DHĀTUP. 35, 11, v. l.</ls>
+;
+1050048 new <ls>DHĀTUP. 35, 11</ls>, v. l.
+; -------------------------------------------------------
+; <L>113425<pc>7-1235<k1>skand
+;  <ls>DHĀTUP. 35, 84, t.</ls> -> ok nochg
+1069053 old <ls>DHĀTUP. 35, 84, t.</ls>
+;
+1069053 new <ls>DHĀTUP. 35, 84, t.</ls>
+; -------------------------------------------------------
+; <L>113455<pc>7-1239<k1>skanD
+;  <ls>DHĀTUP. 35, 84,</ls> -> done
+1069393 old <ls>DHĀTUP. 35, 84,</ls> t, v. l. für {#skandayati#} .
+;
+1069393 new <ls>DHĀTUP. 35, 84, t</ls>, v. l. für {#skandayati#} .
+; -------------------------------------------------------
+; <L>113519<pc>7-1245<k1>stan
+;  <ls>DHĀTUP. 19, 81. 35, 7</ls> -> <ls>DHĀTUP. 19, 81.</ls> <ls n="DHĀTUP.">35, 7</ls>
+1070132 old <ls>DHĀTUP. 19, 81. 35, 7</ls> ({#devaSabde#}). dass.: {#a\BrAH#} 
+;
+1070132 new <ls>DHĀTUP. 19, 81.</ls> <ls n="DHĀTUP.">35, 7</ls> ({#devaSabde#}). dass.: {#a\BrAH#} 
+; -------------------------------------------------------
+; <L>113617<pc>7-1260<k1>star
+;  <ls>DHĀTUP. 27, 13, v. l.</ls> -> ls>DHĀTUP. 27, 13</ls>, v. l.
+1071766 old <ls>DHĀTUP. 27, 13, v. l.</ls> für {#spar#} .
+;
+1071766 new <ls>DHĀTUP. 27, 13</ls>, v. l. für {#spar#} .
+; -------------------------------------------------------
+; <L>113642<pc>7-1262<k1>stA
+;  <ls>DHĀTUP. 22, 25, v. l.</ls> -> ls>DHĀTUP. 22, 25</ls>, v. l.
+1071952 old <ls>DHĀTUP. 22, 25, v. l.</ls> partic. {#stAya/nt#} {%verstohlen%} 
+;
+1071952 new <ls>DHĀTUP. 22, 25</ls>, v. l. partic. {#stAya/nt#} {%verstohlen%} 
+; -------------------------------------------------------
+; <L>114208<pc>7-1343<k1>sTErya
+;  <ls>DHĀTUP. 3, 13. fg.</ls> -> done nochg
+1081010 old <ls>DHĀTUP. 3, 13. fg.</ls> 
+;
+1081010 new <ls>DHĀTUP. 3, 13. fg.</ls> 
+; -------------------------------------------------------
+; <L>114229<pc>7-1344<k1>snas
+;  <ls n="DHĀTUP.">19, 65, v. l.</ls> -> done
+1081173 old <ls n="DHĀTUP.">19, 65, v. l.</ls> 
+;
+1081173 new <ls n="DHĀTUP.">19, 65</ls>, v. l. 
+; -------------------------------------------------------
+; <L>114295<pc>7-1351<k1>snu
+;  <ls n="DHĀTUP.">1</ls> -> done
+1081920 old <ls n="DHĀTUP.">1</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls> <ls>VOP. 8, 60. 69.</ls> {#asnAvIt#} 
+;
+1081920 new 1 aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls> <ls>VOP. 8, 60. 69.</ls> {#asnAvIt#} 
+; -------------------------------------------------------
+; <L>114315<pc>7-1353<k1>snehana
+;  <ls>DHĀTUP. 18, 3. 26, 133. 32, 8. 36.</ls> -> done
+1082190 old <ls>DHĀTUP. 18, 3. 26, 133. 32, 8. 36.</ls> 
+;
+1082190 new <ls>DHĀTUP. 18, 3.</ls> <ls n="DHĀTUP.">26, 133.</ls> <ls n="DHĀTUP.">32, 8.</ls> <ls n="DHĀTUP. 32,">36.</ls> 
+; -------------------------------------------------------
+; <L>114357<pc>7-1358<k1>sparS
+;  <ls>DHĀTUP. 33</ls> -> done
+1082849 old <ls>VOP.</ls> in <ls>DHĀTUP. 33</ls>, 7) 
+;
+1082849 new <ls>VOP.</ls> in <ls>DHĀTUP. 33, 7</ls>) 
+; -------------------------------------------------------
+; <L>114389<pc>7-1365<k1>sparz
+;  <ls>DHĀTUP. 16, 12, v. l.</ls> -> ls>DHĀTUP. 16, 12</ls>, v. l.
+1083363 old <ls>DHĀTUP. 16, 12, v. l.</ls> für {#parz#} .
+;
+1083363 new <ls>DHĀTUP. 16, 12</ls>, v. l. für {#parz#} .
+; -------------------------------------------------------
+; <L>114437<pc>7-1369<k1>sPaw
+;  <ls>DHĀTUP. 9, 44, v. l.</ls> -> ls>DHĀTUP. 9, 44</ls>, v. l.
+1083893 old <ls>DHĀTUP. 9, 44, v. l.</ls> ({#SIrRO#}) 
+;
+1083893 new <ls>DHĀTUP. 9, 44</ls>, v. l. ({#SIrRO#}) 
+; -------------------------------------------------------
+; <L>114437<pc>7-1369<k1>sPaw
+;  <ls>DHĀTUP. 32, 90, v. l.</ls> -> ls>DHĀTUP. 32, 90</ls>, v. l.
+1083895 old <ls>DHĀTUP. 32, 90, v. l.</ls> {#sPAwita#} (v. l. {#sPuwita#}) {%gesprungen, gespalten%} 
+;
+1083895 new <ls>DHĀTUP. 32, 90</ls>, v. l. {#sPAwita#} (v. l. {#sPuwita#}) {%gesprungen, gespalten%} 
+; -------------------------------------------------------
+; <L>114446<pc>7-1370<k1>sPaRw
+;  <ls>DHĀTUP. 9, 44, v. l.</ls> -> ls>DHĀTUP. 9, 44</ls>, v. l.
+1083972 old <ls>DHĀTUP. 9, 44, v. l.</ls> {#sPaRwayati#} und {#sPaRq, sPaRqayati (parihAse)#} 
+;
+1083972 new <ls>DHĀTUP. 9, 44</ls>, v. l. {#sPaRwayati#} und {#sPaRq, sPaRqayati (parihAse)#} 
+; -------------------------------------------------------
+; <L>114446<pc>7-1370<k1>sPaRw
+;  <ls n="DHĀTUP.">32, 4, v. l.</ls> -> done
+1083973 old <ls n="DHĀTUP.">32, 4, v. l.</ls>
+;
+1083973 new <ls n="DHĀTUP.">32, 4</ls>, v. l.
+; -------------------------------------------------------
+; <L>114477<pc>7-1372<k1>sPiw
+;  <ls>DHĀTUP. 32, 36, v. l.</ls> -> ls>DHĀTUP. 32, 36</ls>, v. l.
+1084260 old <ls>DHĀTUP. 32, 36, v. l.</ls> ({#anAdare#}) 
+;
+1084260 new <ls>DHĀTUP. 32, 36</ls>, v. l. ({#anAdare#}) 
+; -------------------------------------------------------
+; <L>114477<pc>7-1372<k1>sPiw
+;  <ls n="DHĀTUP. 32,">37, v. l.</ls> -> done
+1084261 old <ls n="DHĀTUP. 32,">37, v. l.</ls> ({#hiMsAyAm#}) 
+;
+1084261 new <ls n="DHĀTUP. 32,">37</ls>, v. l. ({#hiMsAyAm#}) 
+; -------------------------------------------------------
+; <L>114477<pc>7-1372<k1>sPiw
+;  <ls n="DHĀTUP. 32,">90, v. l.</ls> -> done
+1084262 old <ls n="DHĀTUP. 32,">90, v. l.</ls> 
+;
+1084262 new <ls n="DHĀTUP. 32,">90</ls> , v. l.
+; -------------------------------------------------------
+; <L>114492<pc>7-1375<k1>sPuway
+;  <ls>DHĀTUP. 35,84,k.</ls> -> done nochg
+1084574 old <ls>DHĀTUP. 35,84,k.</ls> {%deutlich —, offenbar machen%} 
+;
+1084574 new <ls>DHĀTUP. 35,84,k.</ls> {%deutlich —, offenbar machen%} 
+; -------------------------------------------------------
+; <L>114504<pc>7-1375<k1>sPuRw
+;  <ls n="DHĀTUP.">32, 4, v. l.</ls> -> done
+1084650 old <ls n="DHĀTUP.">32, 4, v. l.</ls>
+;
+1084650 new <ls n="DHĀTUP.">32, 4</ls>, v. l.
+; -------------------------------------------------------
+; <L>114612<pc>7-1389<k1>smi
+;  <ls>DHĀTUP. 32, 37,</ls> -> done
+1086216 old <ls>DHĀTUP. 32, 37,</ls> v. l.; vgl. {#smiw#} .
+;
+1086216 new <ls>DHĀTUP. 32, 37</ls>, v. l.; vgl. {#smiw#} .
+; -------------------------------------------------------
+; <L>114613<pc>7-1391<k1>smiw
+;  <ls n="DHĀTUP.">36, v. l.</ls> -> done
+1086327 old <ls n="DHĀTUP.">36, v. l.</ls>
+;
+1086327 new <ls n="DHĀTUP. 32,">36</ls>, v. l.
+; -------------------------------------------------------
+; <L>114704<pc>7-1399<k1>sraMs
+;  <ls n="DHĀTUP.">10, 33, v. l.</ls> -> done
+1087309 old <ls n="DHĀTUP.">10, 33, v. l.</ls> (für {#SramB prasAde, pramAde)#}.{# asraMsizwa#} und {#asrasat#} 
+;
+1087309 new <ls n="DHĀTUP.">10, 33</ls>, v. l. (für {#SramB prasAde, pramAde)#}.{# asraMsizwa#} und {#asrasat#} 
+; -------------------------------------------------------
+; <L>114709<pc>7-1401<k1>sraMh
+;  <ls>DHĀTUP. 18, 18, v. l.</ls> -> ls>DHĀTUP. 18, 18</ls>, v. l.
+1087483 old <ls>DHĀTUP. 18, 18, v. l.</ls>
+;
+1087483 new <ls>DHĀTUP. 18, 18</ls>, v. l.
+; -------------------------------------------------------
+; <L>114761<pc>7-1404<k1>sriB
+;  <ls>DHĀTUP. 11, 40, v. l.</ls> -> ls>DHĀTUP. 11, 40</ls>, v. l.
+1087986 old <ls>DHĀTUP. 11, 40, v. l.</ls>
+;
+1087986 new <ls>DHĀTUP. 11, 40</ls>, v. l.
+; -------------------------------------------------------
+; <L>114855<pc>7-1417<k1>svaNg
+;  <ls>DHĀTUP. 5, 44, v. l.</ls> -> ls>DHĀTUP. 5, 44</ls>, v. l.
+1089308 old <ls>DHĀTUP. 5, 44, v. l.</ls>
+;
+1089308 new <ls>DHĀTUP. 5, 44</ls>, v. l.
+; -------------------------------------------------------
+; <L>116979<pc>7-1617<k1>hindolay
+;  <ls>DHĀTUP. 35,84,h.</ls> -> ok nochg
+1113422 old <ls>DHĀTUP. 35,84,h.</ls> 
+;
+1113422 new <ls>DHĀTUP. 35,84,h.</ls> 
+; -------------------------------------------------------
+; <L>117204<pc>7-1629<k1>hillolay
+;  <ls>DHĀTUP. 35,84,h.</ls> -> ok nochg
+1115174 old <ls>DHĀTUP. 35,84,h.</ls>
+;
+1115174 new <ls>DHĀTUP. 35,84,h.</ls>
+; -------------------------------------------------------
+; <L>117206<pc>7-1629<k1>hizk
+;  <ls>DHĀTUP. 33, 12, v. l.</ls> -> ls>DHĀTUP. 33, 12</ls>, v. l.
+1115183 old <ls>DHĀTUP. 33, 12, v. l.</ls>
+;
+1115183 new <ls>DHĀTUP. 33, 12</ls>, v. l.
+; -------------------------------------------------------
+; <L>117258<pc>7-1637<k1>huRq
+;  <ls n="DHĀTUP.">24, v. l.</ls> -> done
+1116004 old <ls n="DHĀTUP.">24, v. l.</ls> ({#varaRe, haraRe#}).{# huRqati#} 
+;
+1116004 new <ls n="DHĀTUP. 8,">24</ls>, v. l. ({#varaRe, haraRe#}).{# huRqati#} 
+; -------------------------------------------------------
+; <L>117290<pc>7-1638<k1>hul
+;  <ls>DHĀTUP. 20, 14. fg.</ls> -> ok nochg
+1116227 old <ls>DHĀTUP. 20, 14. fg.</ls> {#hulet#} 
+;
+1116227 new <ls>DHĀTUP. 20, 14. fg.</ls> {#hulet#} 
+; -------------------------------------------------------
+; <L>117323<pc>7-1640<k1>hUrCana
+;  <ls n="DHĀTUP.">31, 21, v. l.</ls> -> done
+1116449 old <ls n="DHĀTUP.">31, 21, v. l.</ls>
+;
+1116449 new <ls n="DHĀTUP.">31, 21</ls>, v. l.
+; -------------------------------------------------------
+; <L>117473<pc>7-1649<k1>heW
+;  <ls>DHĀTUP. 9, 35. 8, 13.</ls> -> <ls>DHĀTUP. 9, 35.</ls> <ls n="DHĀTUP.">8, 13.</ls>
+1117678 old <ls>DHĀTUP. 9, 35. 8, 13.</ls> {#heWRAti#} 
+;
+1117678 new <ls>DHĀTUP. 9, 35.</ls> <ls n="DHĀTUP.">8, 13.</ls> {#heWRAti#} 
+; -------------------------------------------------------
+; <L>117795<pc>7-1670<k1>hmal
+;  <ls n="DHĀTUP.">20, 14, v. l.</ls> -> done
+1120472 old <ls n="DHĀTUP.">20, 14, v. l.</ls> ({#gatO#}).{# ahmAlIt#} 
+;
+1120472 new <ls n="DHĀTUP.">20, 14</ls>, v. l. ({#gatO#}).{# ahmAlIt#} 
+; -------------------------------------------------------
+; <L>117795<pc>7-1670<k1>hmal
+;  <ls>DHĀTUP. 19, 45. 67.</ls> -> done
+1120474 old <ls>DHĀTUP. 19, 45. 67.</ls> 
+;
+1120474 new <ls>DHĀTUP. 19, 45.</ls> <ls n="DHĀTUP. 19,">67.</ls> 
+; -------------------------------------------------------
+; <L>117813<pc>7-1672<k1>hrap
+;  <ls>DHĀTUP. 32, 115, v. l.</ls> -> ls>DHĀTUP. 32, 115</ls>, v. l.
+1120639 old <ls>DHĀTUP. 32, 115, v. l.</ls> 
+;
+1120639 new <ls>DHĀTUP. 32, 115</ls>, v. l. 
+; -------------------------------------------------------
+; <L>117877<pc>7-1676<k1>hruq
+;  <ls>DHĀTUP. 9, 71, v. l.</ls> -> ls>DHĀTUP. 9, 71</ls>, v. l.
+1121261 old <ls>DHĀTUP. 9, 71, v. l.</ls>
+;
+1121261 new <ls>DHĀTUP. 9, 71</ls>, v. l.
+; -------------------------------------------------------
+; <L>117880<pc>7-1676<k1>hrUq
+;  <ls>DHĀTUP. 9, 71, v. l.</ls> -> ls>DHĀTUP. 9, 71</ls>, v. l.
+1121278 old <ls>DHĀTUP. 9, 71, v. l.</ls>
+;
+1121278 new <ls>DHĀTUP. 9, 71</ls>, v. l.
+; -------------------------------------------------------
+; <L>117883<pc>7-1676<k1>hrep
+;  <ls>DHĀTUP. 10, 11, v. l.</ls> -> ls>DHĀTUP. 10, 11</ls>, v. l.
+1121294 old <ls>DHĀTUP. 10, 11, v. l.</ls> — {#hrepay#} s. unter caus. von 1. {#hrI#} .
+;
+1121294 new <ls>DHĀTUP. 10, 11</ls>, v. l. — {#hrepay#} s. unter caus. von 1. {#hrI#} .
+; -------------------------------------------------------
+; <L>117890<pc>7-1676<k1>hrOq
+;  <ls>DHĀTUP. 9, 71, v. l.</ls> -> ls>DHĀTUP. 9, 71</ls>, v. l.
+1121340 old <ls>DHĀTUP. 9, 71, v. l.</ls>
+;
+1121340 new <ls>DHĀTUP. 9, 71</ls>, v. l.
+; -------------------------------------------------------
+; <L>117913<pc>7-1678<k1>hvar
+;  <ls>DHĀTUP. 31, 21, v. l.</ls> -> ls>DHĀTUP. 31, 21</ls>, v. l.
+1121555 old <ls>DHĀTUP. 31, 21, v. l.</ls> {#hvAr#} 
+;
+1121555 new <ls>DHĀTUP. 31, 21</ls>, v. l. {#hvAr#} 
+; -------------------------------------------------------
+; <L>117917<pc>7-1679<k1>hval
+;  <ls n="DHĀTUP.">20, 14, v. l.</ls> -> done
+1121638 old <ls n="DHĀTUP.">20, 14, v. l.</ls> ({#gatO#}). {%schief gehen, auf Abwege gerathen; straucheln, fallen; das Ziel verfehlen, irren, verunglücken%}: {#hvalati vA eza yo yajYapaTAdeti#} 
+;
+1121638 new <ls n="DHĀTUP.">20, 14</ls>, v. l. ({#gatO#}). {%schief gehen, auf Abwege gerathen; straucheln, fallen; das Ziel verfehlen, irren, verunglücken%}: {#hvalati vA eza yo yajYapaTAdeti#} 
+; -------------------------------------------------------
+; <L>117917<pc>7-1679<k1>hval
+;  <ls>DHĀTUP. 19, 44. 67.</ls> -> done
+1121649 old <ls>DHĀTUP. 19, 44. 67.</ls> 
+;
+1121649 new <ls>DHĀTUP. 19, 44.</ls> <ls n="DHĀTUP. 19,">67.</ls> 
+; -------------------------------------------------------
+; <L>122118<pc>7-1806<k1>vil
+;  <ls n="DHĀTUP.">32, 65, v. l.</ls> -> done
+1145949 old <ls n="DHĀTUP.">32, 65, v. l.</ls>
+;
+1145949 new <ls n="DHĀTUP.">32, 65</ls>, v. l.
