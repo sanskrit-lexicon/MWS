@@ -256,4 +256,20 @@ copy also to csl-apidev
 sync csl-orig, csl-websanlexicon, csl-apidev at Github and cologne.
 Regenerate sch displays at Cologne.
 
-DONE!
+--------------------------------------------------------
+02-02-2024
+<L>11832<pc>162-3<k1>Kadana : Dhātup. 1, 960.
+<L>13009<pc>179-2<k1>can : Dhātup. 1, 840.
+Andhrabharati points out these are references to Panini's DP.
+
+02-05-2024
+cp temp_sch_2.txt temp_sch_3.txt
+
+old: <ls>Dhātup. 1, 960.</ls>
+new:  <ab n="DHĀTUPĀṬHA">Dhātup.</ab> <ls n="DhātupB.">1, 960.</ls>
+
+add to schauth/tooltip.txt in csl-pywork:
+DhātupB.	(CSL) DHĀTUPĀṬHA, Ausg. von Böhtlingk 
+
+# install temp_sch_3.txt in local csl-orig
+cp  temp_sch_3.txt /c/xampp/htdocs/cologne/csl-orig/v02/sch/sch.txt 
