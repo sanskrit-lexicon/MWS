@@ -11,3 +11,7 @@ Assume we are in local installation:
 relative path to mw.txt from here is ../../../cologne/csl-orig/v02/mw/mw.txt
 python tagunique.py bot ../../../cologne/csl-orig/v02/mw/mw.txt mw_bot.txt
 python tagunique.py bio ../../../cologne/csl-orig/v02/mw/mw.txt mw_bio.txt
+
+----------------------------------------------------------------
+04-03-2024
+Recompute mw_bot.txt and mw_bio.txt (using current value of mw.txt)
