@@ -84,9 +84,6 @@ The 4 AB lang tags not found in cdsl mw:
 <lang>W.</lang>
 
 ---
-missing in AB file
-'<ab>Sax.</ab>' , '<lang>Sax.</lang>  (1)
----
 print change ?
 <L>204858.1<pc>1332,2<k1>vfz  Gaelic -> Gaëlic
 
