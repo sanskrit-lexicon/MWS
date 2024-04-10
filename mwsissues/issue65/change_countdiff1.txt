@@ -1,0 +1,496 @@
+; <L>1573.1<pc>1309,2<k1>aNgareja<k2>aNgareja<e>3
+; <lang>English</lang>
+;; lines 5809, 579228, 579228 don't indicate a language, but a country.
+5809 old <s>aNgareja</s> ¦ <lex>mfn.</lex> <lang>English</lang>, <ls>Inscr.</ls><info n="sup"/><info lex="m:f:n"/>
+;
+5809 new <s>aNgareja</s> ¦ <lex>mfn.</lex> English, <ls>Inscr.</ls><info n="sup"/><info lex="m:f:n"/>
+; --------------------------------------------------
+; <L>2564<pc>12,2<k1>ati<k2>a/ti<e>1
+; <lang>Zend</lang>
+;; addl. lines: 9358, 31497, 37591, 107223, 289283, 290505, 298763, 299077, 300069
+9358 old <s>a/ti</s> ¦ <lex>ind.</lex> [probably <ab>neut.</ab> of an obsolete <ab>adj.</ab> <s>atin</s>, passing, going, beyond; See √ <s>at</s>, and <ab>cf.</ab> <lang>Old Germ.</lang> <etym>anti</etym>, <etym>unti</etym>, <etym>inti</etym>, <etym>unde</etym>, <etym>indi</etym>, &c.; <lang>Eng.</lang> <etym>and</etym>; <lang>Germ.</lang> <etym>und</etym>; <lang>Gk.</lang> <lang n="greek">ἔτι</lang>, <lang n="greek">ἀντί</lang>, <lang>Lat.</lang> <etym>ante</etym>; <lang>Lith.</lang> <etym>ant</etym>; <lang>Arm.</lang> <etym>ti</etym>; <lang>Zd.</lang> <etym>aitì</etym>]. <info lex="ind"/>
+;
+9358 new <s>a/ti</s> ¦ <lex>ind.</lex> [probably <ab>neut.</ab> of an obsolete <ab>adj.</ab> <s>atin</s>, passing, going, beyond; See √ <s>at</s>, and <ab>cf.</ab> <lang>Old Germ.</lang> <etym>anti</etym>, <etym>unti</etym>, <etym>inti</etym>, <etym>unde</etym>, <etym>indi</etym>, &c.; <lang>Eng.</lang> <etym>and</etym>; <lang>Germ.</lang> <etym>und</etym>; <lang>Gk.</lang> <lang n="greek">ἔτι</lang>, <lang n="greek">ἀντί</lang>, <lang>Lat.</lang> <etym>ante</etym>; <lang>Lith.</lang> <etym>ant</etym>; <lang>Arm.</lang> <etym>ti</etym>; <lang>Zend</lang> <etym>aitì</etym>]. <info lex="ind"/>
+; --------------------------------------------------
+; <L>8567.1<pc>45,2<k1>anya<k2>anya<e>1E
+; <lang>Zend</lang>
+;; addl. lines: 9358, 31497, 37591, 107223, 289283, 290505, 298763, 299077, 300069
+31497 old <s>anya</s> ¦ [<ab>cf.</ab> <lang>Zd.</lang> <etym>anya</etym>; <lang>Armen.</lang> <etym>ail</etym>; <lang>Lat.</lang> <etym>alius</etym>; <lang>Goth.</lang> <etym>aljis</etym>, <ab>Theme</ab> <etym>alja</etym>; <lang>Gk.</lang> <lang n="greek">ἄλλος</lang> for <lang n="greek">ἄλϳο-ς</lang>; <ab>cf.</ab> also <lang n="greek">ἔνιοι</lang>].
+;
+31497 new <s>anya</s> ¦ [<ab>cf.</ab> <lang>Zend</lang> <etym>anya</etym>; <lang>Armen.</lang> <etym>ail</etym>; <lang>Lat.</lang> <etym>alius</etym>; <lang>Goth.</lang> <etym>aljis</etym>, <ab>Theme</ab> <etym>alja</etym>; <lang>Gk.</lang> <lang n="greek">ἄλλος</lang> for <lang n="greek">ἄλϳο-ς</lang>; <ab>cf.</ab> also <lang n="greek">ἔνιοι</lang>].
+; --------------------------------------------------
+; <L>10132.05<pc>55,1<k1>api<k2>api<e>1E
+; <lang>Zend</lang>
+;; addl. lines: 9358, 31497, 37591, 107223, 289283, 290505, 298763, 299077, 300069
+37591 old <s>api</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">ἐπί</lang> <lang>Zd.</lang> <etym>api</etym>; <lang>Germ.</lang> and <lang>Eng.</lang> prefix <etym>be</etym>]
+;
+37591 new <s>api</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">ἐπί</lang>; <lang>Zend</lang> <etym>api</etym>; <lang>Germ.</lang> and <lang>Eng.</lang> prefix <etym>be</etym>]
+; --------------------------------------------------
+; <L>16736<pc>95,1<k1>alika<k2>alika<e>1A
+; <lang>Prākṛt</lang>
+;; addl. lines 60666, 256967, 321823
+60666 old ¦ <ab>N.</ab> of a <ns>Prākrit</ns> <ab>poet.</ab><info lex="inh"/>
+;
+60666 new ¦ <ab>N.</ab> of a <lang>Prākṛt</lang> <ab>poet.</ab><info lex="inh"/>
+; --------------------------------------------------
+; <L>30088.1<pc>172,2<k1>ukzan<k2>ukzan<e>2E
+; <lang>Zend</lang>
+;; addl. lines: 9358, 31497, 37591, 107223, 289283, 290505, 298763, 299077, 300069
+107223 old <s>ukzan</s> ¦ [<ab>cf.</ab> <ab>Zebd</ab> <etym>ukhshan</etym>; <lang>Goth.</lang> <etym>auhsa</etym> and <etym>auhsu</etym>; <lang>Armen.</lang> <etym>eṣn</etym>.]
+;
+107223 new <s>ukzan</s> ¦ [<ab>cf.</ab> <lang>Zend</lang> <etym>ukhshan</etym>; <lang>Goth.</lang> <etym>auhsa</etym> and <etym>auhsu</etym>; <lang>Armen.</lang> <etym>eṣn</etym>.]
+; --------------------------------------------------
+; <L>32059.05<pc>183,1<k1>ud<k2>ud<e>1E
+; <lang>Eng.</lang> NO CHG
+;; lines 114081, 134220 to be merged as "Mod. Eng." 
+;; lines 342487 to be changed as "E."
+;; lines 321815, 345151, 345191 to be changed as "Engl."
+114081 old <s>ud</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">ὕδωρ</lang>; <lang>Lat.</lang> <etym>unda</etym>; <lang>Goth.</lang> <etym>vat-o</etym>; <lang>Old High Germ.</lang> <etym>waz-ar</etym>; <lang>Mod. Eng.</lang> <etym>wat-er</etym>; <lang>Lith.</lang> <etym>wand-ū́</etym>.]
+;
+114081 new <s>ud</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">ὕδωρ</lang>; <lang>Lat.</lang> <etym>unda</etym>; <lang>Goth.</lang> <etym>vat-o</etym>; <lang>Old High Germ.</lang> <etym>waz-ar</etym>; <lang>Mod. Eng.</lang> <etym>wat-er</etym>; <lang>Lith.</lang> <etym>wand-ū́</etym>.]
+; --------------------------------------------------
+; <L>37975.4<pc>221,1<k1>UDas<k2>UDas<e>1E
+; <lang>Eng.</lang> no change
+;; lines 114081, 134220 to be merged as "Mod. Eng." ;; lines 342487 to be changed as "E.";; lines 321815, 345151, 345191 to be changed as "Engl."
+134220 old <s>UDas</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">οὖθαρ</lang>; <lang>Lat.</lang> <etym>ūber</etym>; <lang>Angl.Sax.</lang> <etym>ūder</etym>; <lang>Old High Germ.</lang> <etym>ūtar</etym>; <lang>Mod. Germ.</lang> <etym>Euter</etym>; <lang>Mod. Eng.</lang> <etym>udder</etym>; <lang>Gaël.</lang> <etym>uth</etym>.]
+;
+134220 new <s>UDas</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">οὖθαρ</lang>; <lang>Lat.</lang> <etym>ūber</etym>; <lang>Angl.Sax.</lang> <etym>ūder</etym>; <lang>Old High Germ.</lang> <etym>ūtar</etym>; <lang>Mod. Germ.</lang> <etym>Euter</etym>; <lang>Mod. Eng.</lang> <etym>udder</etym>; <lang>Gaël.</lang> <etym>uth</etym>.]
+; --------------------------------------------------
+; <L>40107<pc>232,1<k1>eDa<k2>eDa<e>1E
+; <lang>O. H. G.</lang>
+;; addl. lines: 141556, 141878, 142159, 146396, 146617, 151813, 151855, 311053, 318983 (CDSL has O.H.G. at these places)
+141556 old <s>eDa</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">αἰθός</lang>, <lang n="greek">αἶθος</lang>; <lang>Hib.</lang> <etym>aodh</etym>; <ab>O.H.G.</ab> <etym>eit</etym>; <lang>Angl.Sax.</lang> <etym>âd</etym>.]
+;
+141556 new <s>eDa</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">αἰθός</lang>, <lang n="greek">αἶθος</lang>; <lang>Hib.</lang> <etym>aodh</etym>; <lang>O. H. G.</lang> <etym>eit</etym>; <lang>Angl.Sax.</lang> <etym>âd</etym>.]
+; --------------------------------------------------
+; <L>40188.1<pc>232,2<k1>eva<k2>eva<e>1E
+; <lang>O. H. G.</lang>
+;; addl. lines: 141556, 141878, 142159, 146396, 146617, 151813, 151855, 311053, 318983 (CDSL has O.H.G. at these places)
+141878 old <s>eva</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">αἰές</lang>, <lang n="greek">αἰών</lang>; <lang>Lat.</lang> <etym>aevu-m</etym>; <lang>Goth.</lang> <etym>aivs</etym>; <ab>O.H.G.</ab> <etym>êwa</etym> and <lang>Angl.Sax.</lang> <etym>êu</etym>, <etym>êo</etym>, ‘custom’, ‘law’; <lang>Germ.</lang> <etym>Ehe</etym>.]
+;
+141878 new <s>eva</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">αἰές</lang>, <lang n="greek">αἰών</lang>; <lang>Lat.</lang> <etym>aevu-m</etym>; <lang>Goth.</lang> <etym>aivs</etym>; <lang>O. H. G.</lang> <etym>êwa</etym> and <lang>Angl.Sax.</lang> <etym>êu</etym>, <etym>êo</etym>, ‘custom’, ‘law’; <lang>Germ.</lang> <etym>Ehe</etym>.]
+; --------------------------------------------------
+; <L>40257.1<pc>233,1<k1>eza<k2>eza<e>1E
+; <lang>O. H. G.</lang>
+;; addl. lines: 141556, 141878, 142159, 146396, 146617, 151813, 151855, 311053, 318983 (CDSL has O.H.G. at these places)
+142159 old <s>eza</s> ¦ [<ab>cf.</ab> <lang>Zd.</lang> <etym>aêsha</etym>; <ab>O.H.G.</ab> <etym>ērā</etym>.]
+;
+142159 new <s>eza</s> ¦ [<ab>cf.</ab> <lang>Zd.</lang> <etym>aêsha</etym>; <lang>O. H. G.</lang> <etym>ērā</etym>.]
+; --------------------------------------------------
+; <L>41526.1<pc>241,3<k1>kakza<k2>kakza<e>1E
+; <lang>O. H. G.</lang>
+;; addl. lines: 141556, 141878, 142159, 146396, 146617, 151813, 151855, 311053, 318983 (CDSL has O.H.G. at these places)
+146396 old <s>kakza</s> ¦ [<ab>cf.</ab> <lang>Lat.</lang> <etym>coxa</etym>, ‘hip’; <ab>O.H.G.</ab> <etym>hahsa</etym>; <lang>Zd.</lang> <etym>kasha</etym>; <ab>cf.</ab> <lang>Sk.</lang> <s>kacCa</s>]
+;
+146396 new <s>kakza</s> ¦ [<ab>cf.</ab> <lang>Lat.</lang> <etym>coxa</etym>, ‘hip’; <lang>O. H. G.</lang> <etym>hahsa</etym>; <lang>Zd.</lang> <etym>kasha</etym>; <ab>cf.</ab> <lang>Sk.</lang> <s>kacCa</s>]
+; --------------------------------------------------
+; <L>41598.05<pc>242,1<k1>kaK<k2>kaK<e>1E
+; <lang>O. H. G.</lang>
+;; addl. lines: 141556, 141878, 142159, 146396, 146617, 151813, 151855, 311053, 318983 (CDSL has O.H.G. at these places)
+146617 old <s>kaK</s> ¦ [<ab>cf.</ab> <lang>Lat.</lang> <etym>cachinnare</etym>; <lang>Gk.</lang> <lang n="greek">καχάζω</lang>, <lang n="greek">καγχάζω</lang>; <ab>O.H.G.</ab> <etym>huoch</etym>; <lang>Germ.</lang> <etym>häher</etym>, <etym>heher</etym>; <lang>Eng.</lang> <etym>cackle</etym>.]
+;
+146617 new <s>kaK</s> ¦ [<ab>cf.</ab> <lang>Lat.</lang> <etym>cachinnare</etym>; <lang>Gk.</lang> <lang n="greek">καχάζω</lang>, <lang n="greek">καγχάζω</lang>; <lang>O. H. G.</lang> <etym>huoch</etym>; <lang>Germ.</lang> <etym>häher</etym>, <etym>heher</etym>; <lang>Eng.</lang> <etym>cackle</etym>.]
+; --------------------------------------------------
+; <L>42451<pc>245,3<k1>kaRwala<k2>kaRwala<e>2
+; <lang>Arabic</lang> no change
+;; lines 149317, 212074 don't indicate a language, but a country.
+149317 old <s>kaRwala</s> ¦ <lex>m.</lex> <bot>Mimosa Arabica</bot> (commonly called <ns>Vāvalā</ns>; a tree yielding a species of Gum Arabic; the branches are prickly, whence the name, <ls>W.</ls>), <ls>L.</ls><info lex="m"/>
+;
+149317 new <s>kaRwala</s> ¦ <lex>m.</lex> <bot>Mimosa Arabica</bot> (commonly called <ns>Vāvalā</ns>; a tree yielding a species of Gum Arabic; the branches are prickly, whence the name, <ls>W.</ls>), <ls>L.</ls><info lex="m"/>
+; --------------------------------------------------
+; <L>43184<pc>249,2<k1>kanTA<k2>kanTA<e>1E
+; <lang>O. H. G.</lang>
+;; addl. lines: 141556, 141878, 142159, 146396, 146617, 151813, 151855, 311053, 318983 (CDSL has O.H.G. at these places)
+151813 old <s>kanTA</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">κέντρων</lang>; <lang>Lat.</lang> <etym>centon</etym>; <ab>O.H.G.</ab> <etym>hadara</etym>; <lang>Germ.</lang> <etym>hader</etym>]
+;
+151813 new <s>kanTA</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">κέντρων</lang>; <lang>Lat.</lang> <etym>centon</etym>; <lang>O. H. G.</lang> <etym>hadara</etym>; <lang>Germ.</lang> <etym>hader</etym>]
+; --------------------------------------------------
+; <L>43198<pc>249,3<k1>kanda<k2>kanda<e>1E
+; <lang>O. H. G.</lang>
+;; addl. lines: 141556, 141878, 142159, 146396, 146617, 151813, 151855, 311053, 318983 (CDSL has O.H.G. at these places)
+151855 old <s>kanda</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">κόνδος</lang>, <lang n="greek">κονδύλος</lang>; <ab>O.H.G.</ab> <etym>hnūtr</etym>, <etym>hnūta</etym>]
+;
+151855 new <s>kanda</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">κόνδος</lang>, <lang n="greek">κονδύλος</lang>; <lang>O. H. G.</lang> <etym>hnūtr</etym>, <etym>hnūta</etym>]
+; --------------------------------------------------
+; <L>44711<pc>256,1<k1>karkara<k2>karkara<e>1E
+; <lang>W.</lang> ?
+;; addl. line 156840
+; <lang>Gaël.</lang>
+;; addl. line: 156840 
+156840 old <s>karkara</s> ¦ [<ab>cf.</ab> <s>karaNka</s>, <s>Sarkara</s>; <lang>Gk.</lang> <lang n="greek">κρόκη</lang>, <lang n="greek">κροκάλη</lang>; <lang>Lat.</lang> <etym>hallus</etym>, <etym>calx</etym>; <lang>Hib.</lang> <etym>carraice</etym>; <ab>Gael.</ab> <etym>carraig</etym> <ls>W.</ls> <etym>careg</etym>.]
+;
+156840 new <s>karkara</s> ¦ [<ab>cf.</ab> <s>karaNka</s>, <s>Sarkara</s>; <lang>Gk.</lang> <lang n="greek">κρόκη</lang>, <lang n="greek">κροκάλη</lang>; <lang>Lat.</lang> <etym>hallus</etym>, <etym>calx</etym>; <lang>Hib.</lang> <etym>carraice</etym>; <lang>Gaël.</lang> <etym>carraig</etym> <lang>W.</lang> <etym>careg</etym>.]
+; --------------------------------------------------
+; <L>60552<pc>333,3<k1>kzOdra<k2>kzOdra<e>1A
+; <lang>Māgadhī</lang>
+;; addl. line 505970
+;; lines 207634, 519281 don't indicate a language, but a 'type'.
+207634 old ¦ <ab>N.</ab> of a mixed caste (son of a <s1 slp1="vEdeha">Vaideha</s1> and a <lang>Māgadhī</lang>), <ls>MBh. xiii, 2584</ls><info lex="inh"/>
+;
+207634 new ¦ <ab>N.</ab> of a mixed caste (son of a <s1 slp1="vEdeha">Vaideha</s1> and a Māgadhī), <ls>MBh. xiii, 2584</ls><info lex="inh"/>
+; --------------------------------------------------
+; <L>61041<pc>335,3<k1>KaqgaSimbI<k2>Kaqga—SimbI<e>3
+; <lang>French</lang>
+;; line 209259 doesn't indicate a language, but a country.
+209259 old <s>Kaqga—SimbI</s> ¦ <lex>f.</lex> ‘sword bean’, <lang>French</lang> bean, <ls>L.</ls><info lex="f"/>
+;
+209259 new <s>Kaqga—SimbI</s> ¦ <lex>f.</lex> ‘sword bean’, French bean, <ls>L.</ls><info lex="f"/>
+; --------------------------------------------------
+; <L>61935<pc>340,1<k1>Kindaka<k2>Kindaka<e>1
+; <lang>Arabic</lang>
+;; lines 149317, 212074 don't indicate a language, but a country.
+212074 old <s>Kindaka</s> ¦ <lex>m.</lex> <ab>N.</ab> of the <lang>Arabic</lang> astronomer Alkindi.<info lex="m"/>
+;
+212074 new <s>Kindaka</s> ¦ <lex>m.</lex> <ab>N.</ab> of the Arabic astronomer Alkindi.<info lex="m"/>
+; --------------------------------------------------
+; <L>64493<pc>352,1<k1>gA<k2>gA<h>1<e>1
+; <lang>Class.</lang> no change
+;; line 220333 stands combined as "Class. Sanskṛt".
+220333 old in <lang>Class. Sanskṛt</lang> only the <ab>aor.</ab> <ab>P.</ab> <s>agAt</s> occurs, for <ab>Ā.</ab> See <s>aDi-</s>; <ab>aor.</ab> <ab>Pass.</ab> <s>agAyi</s>, <s>agAsAtAm</s>, <ls>Kāś.</ls> on <ls>Pāṇ. ii, 4, 45</ls> and <ls n="Pāṇ. ii, 4">77</ls>; <ab>cl.</ab> 2. <ab>P.</ab> <s>gA/ti</s>, <ls>Naigh. ii, 14</ls>; <ab>Ā.</ab> <s>gAte</s>, <ls>Dhātup. xx, 53</ls>)
+;
+220333 new in <lang>Class. Sanskṛt</lang> only the <ab>aor.</ab> <ab>P.</ab> <s>agAt</s> occurs, for <ab>Ā.</ab> See <s>aDi-</s>; <ab>aor.</ab> <ab>Pass.</ab> <s>agAyi</s>, <s>agAsAtAm</s>, <ls>Kāś.</ls> on <ls>Pāṇ. ii, 4, 45</ls> and <ls n="Pāṇ. ii, 4">77</ls>; <ab>cl.</ab> 2. <ab>P.</ab> <s>gA/ti</s>, <ls>Naigh. ii, 14</ls>; <ab>Ā.</ab> <s>gAte</s>, <ls>Dhātup. xx, 53</ls>)
+; --------------------------------------------------
+; <L>66808.1<pc>363,1<k1>gF<k2>gF<e>1E
+; <lang>Old Pruss.</lang>
+;; addl. line: 227747
+; <lang>Pruss.</lang>
+;; line: 227747 stands combined as "Old Pruss.".
+227747 old <s>gF</s> ¦ [<ab>cf.</ab> <lang n="greek">γηρύω</lang>, <lang n="greek">γλῶσσα</lang>; <lang>Hib.</lang> <etym>goirim</etym>; <lang>Old Germ.</lang> <etym>quar</etym>, <etym>quir</etym>, &c.; Old <lang>Pruss.</lang> <etym>gerbu</etym>, ‘to speak’; <lang>Angl.Sax.</lang> <etym>gale</etym>; <lang>Germ.</lang> <etym>Nachtigal</etym>; <lang>Lat.</lang> <etym>gallus</etym> ?]
+;
+227747 new <s>gF</s> ¦ [<ab>cf.</ab> <lang n="greek">γηρύω</lang>, <lang n="greek">γλῶσσα</lang>; <lang>Hib.</lang> <etym>goirim</etym>; <lang>Old Germ.</lang> <etym>quar</etym>, <etym>quir</etym>, &c.; <lang>Old Pruss.</lang> <etym>gerbu</etym>, ‘to speak’; <lang>Angl.Sax.</lang> <etym>gale</etym>; <lang>Germ.</lang> <etym>Nachtigal</etym>; <lang>Lat.</lang> <etym>gallus</etym> ?]
+; --------------------------------------------------
+; <L>75735<pc>405,3<k1>Calli<k2>Calli<e>1
+; <lang>Prākṛt</lang>
+;; addl. lines 60666, 256967, 321823
+256967 old <s>Calli</s> ¦ <lex>f.</lex> (<ns>Prākrit</ns> <ab>fr.</ab> <hom>1.</hom> <s>Cardi/s</s>) bark [<s>°llI</s>, <ls>Kalpabh. i, 165 f.</ls>; <ls n="Kalpabh.">iv, 324</ls>], <ls>L.</ls><info lex="f"/>
+;
+256967 new <s>Calli</s> ¦ <lex>f.</lex> (<lang>Prākṛt</lang> <ab>fr.</ab> <hom>1.</hom> <s>Cardi/s</s>) bark [<s>°llI</s>, <ls>Kalpabh. i, 165 f.</ls>; <ls n="Kalpabh.">iv, 324</ls>], <ls>L.</ls><info lex="f"/>
+; --------------------------------------------------
+; <L>77411<pc>413,1<k1>jayanArAyaRa<k2>jaya—nArAyaRa<e>3
+; <lang>Bengālī</lang>
+;; addl. line: 262355
+262355 old <s>jaya—nArAyaRa</s> ¦ <lex>m.</lex> <ab>N.</ab> of the author of the Bengali poem <s1 slp1="kASi-KaRqa">Kāśi-khaṇḍa</s1>.<info lex="m"/>
+;
+262355 new <s>jaya—nArAyaRa</s> ¦ <lex>m.</lex> <ab>N.</ab> of the author of the <lang>Bengālī</lang> poem <s1 slp1="kASi-KaRqa">Kāśi-khaṇḍa</s1>.<info lex="m"/>
+; --------------------------------------------------
+; <L>83695<pc>441,2<k1>tAjika<k2>tAjika<e>2
+; <lang>Persian</lang>
+;; line 282956, 394411, 413612, 413642, 413654, 413660, 562210 doesn't indicate a language, but a country.
+282956 old <s>tAjika</s> ¦ <lex>m.</lex> a <lang>Persian</lang><ab>pl.</ab> the Persians (<ab>cf.</ab> <s>tarj°</s> and <s>tAyika</s>), <ls>Kathās. xxxvii, 36</ls>; <ls>Romakas.</ls> (also <s>°jIka</s>)<info lex="m"/>
+;
+282956 new <s>tAjika</s> ¦ <lex>m.</lex> a Persian, <ab>pl.</ab> the Persians (<ab>cf.</ab> <s>tarj°</s> and <s>tAyika</s>), <ls>Kathās. xxxvii, 36</ls>; <ls>Romakas.</ls> (also <s>°jIka</s>)<info lex="m"/>
+; --------------------------------------------------
+; <L>85705.1<pc>449,3<k1>tu<k2>tu<e>1E
+; <lang>Zend</lang>
+;; addl. lines: 9358, 31497, 37591, 107223, 289283, 290505, 298763, 299077, 300069
+289283 old <s>tu</s> ¦ [<lang>Zd.</lang> <etym>tav</etym>, ‘to be able’; <lang>Lat.</lang> <etym>tumour</etym>, <etym>tueri</etym>, <etym>totus</etym>.]
+;
+289283 new <s>tu</s> ¦ [<lang>Zend</lang> <etym>tav</etym>, ‘to be able’; <lang>Lat.</lang> <etym>tumour</etym>, <etym>tueri</etym>, <etym>totus</etym>.]
+; --------------------------------------------------
+; <L>86069<pc>451,1<k1>turIya<k2>turI/ya<h>2<e>1
+; <lang>Zend</lang>
+;; addl. lines: 9358, 31497, 37591, 107223, 289283, 290505, 298763, 299077, 300069
+290505 old <hom>2.</hom> <s>turI/ya</s> ¦ <lex>mfn.</lex> (for <s>ktur°</s> [<lang>Zd.</lang> <etym>khtuiria</etym>] <ab>fr.</ab> <s>catu/r</s>) (<ls>Pāṇ. v, 2, 51</ls>, <ab>Vārtt.</ab> 1) <lang>Ved.</lang> 4th, <ls>RV.</ls> &c.<info lex="m:f:n"/>
+;
+290505 new <hom>2.</hom> <s>turI/ya</s> ¦ <lex>mfn.</lex> (for <s>ktur°</s> [<lang>Zend</lang> <etym>khtuiria</etym>] <ab>fr.</ab> <s>catu/r</s>) (<ls>Pāṇ. v, 2, 51</ls>, <ab>Vārtt.</ab> 1) <lang>Ved.</lang> 4th, <ls>RV.</ls> &c.<info lex="m:f:n"/>
+; --------------------------------------------------
+; <L>88580<pc>461,3<k1>trita<k2>trita/<e>2
+; <lang>Zend</lang> no change 
+;; addl. lines: 9358, 31497, 37591, 107223, 289283, 290505, 298763, 299077, 300069
+298763 old <s>trita/</s> ¦ <lex>m.</lex> ‘third’ (<lang n="greek">τρίτος</lang>), <ab>N.</ab> of a Vedic deity (associated with the <s1 slp1="marut">Marut</s1>s, <s1 slp1="vAyu">Vāyu</s1>, and <s1 slp1="indra">Indra</s1>;
+;
+298763 new <s>trita/</s> ¦ <lex>m.</lex> ‘third’ (<lang n="greek">τρίτος</lang>), <ab>N.</ab> of a Vedic deity (associated with the <s1 slp1="marut">Marut</s1>s, <s1 slp1="vAyu">Vāyu</s1>, and <s1 slp1="indra">Indra</s1>;
+; --------------------------------------------------
+; <L>88676<pc>462,2<k1>trEtana<k2>trEtana/<e>3
+; <lang>Zend</lang>
+;; addl. lines: 9358, 31497, 37591, 107223, 289283, 290505, 298763, 299077, 300069
+299077 old <s>trE°tana/</s> ¦ <lex>m.</lex> <ab>N.</ab> of a deity (connected with <s1 slp1="trita">Trita</s1>; = <lang>Zd.</lang> <etym>Thraetaona</etym>, <lang>Pers.</lang> <etym>Feridun</etym>), <ls>RV. i, 158, 5.</ls><info lex="m"/>
+;
+299077 new <s>trE°tana/</s> ¦ <lex>m.</lex> <ab>N.</ab> of a deity (connected with <s1 slp1="trita">Trita</s1>; = <lang>Zend</lang> <etym>Thraetaona</etym>, <lang>Pers.</lang> <etym>Feridun</etym>), <ls>RV. i, 158, 5.</ls><info lex="m"/>
+; --------------------------------------------------
+; <L>88987.1<pc>463,2<k1>tvakz<k2>tvakz<e>1E
+; <lang>Zend</lang>
+;; addl. lines: 9358, 31497, 37591, 107223, 289283, 290505, 298763, 299077, 300069
+300069 old <s>tvakz</s> ¦ [<ab>cf.</ab> <s>pra-tvakzARa/</s>; <lang>Zd.</lang> <etym>thwakhsh</etym>, <lang n="greek">τυκ</lang>, <lang n="greek">τυχ</lang>.]
+;
+300069 new <s>tvakz</s> ¦ [<ab>cf.</ab> <s>pra-tvakzARa/</s>; <lang>Zend</lang> <etym>thwakhsh</etym>, <lang n="greek">τυκ</lang>, <lang n="greek">τυχ</lang>.]
+; --------------------------------------------------
+; <L>92231.8<pc>478,3<k1>div<k2>div<e>2E
+; <lang>O. H. G.</lang>
+;; addl. lines: 141556, 141878, 142159, 146396, 146617, 151813, 151855, 311053, 318983 (CDSL has O.H.G. at these places)
+311053 old <s>div</s> ¦ [<ab>cf.</ab> <s>dyu/</s>; <lang>Gk.</lang> <lang n="greek">Ζεύς</lang>, <lang n="greek">Διϝός</lang> &c. = <s>dyO/s</s>, <s>diva/s</s>; <lang>Lat.</lang> <etym>Jou</etym>, <etym>Ju</etym> in <etym>Ju-piter</etym>, <etym>Jovis</etym>, <etym>Jovi</etym> &c. = <s>dyavas</s>, <s>dyavi</s>; <lang>O. E.</lang> <etym>Tíw</etym>; <ab>O.H.G.</ab> <etym>Zîu</etym> <lang>O. N.</lang> <etym>Týr</etym>.]
+;
+311053 new <s>div</s> ¦ [<ab>cf.</ab> <s>dyu/</s>; <lang>Gk.</lang> <lang n="greek">Ζεύς</lang>, <lang n="greek">Διϝός</lang> &c. = <s>dyO/s</s>, <s>diva/s</s>; <lang>Lat.</lang> <etym>Jou</etym>, <etym>Ju</etym> in <etym>Ju-piter</etym>, <etym>Jovis</etym>, <etym>Jovi</etym> &c. = <s>dyavas</s>, <s>dyavi</s>; <lang>O. E.</lang> <etym>Tíw</etym>; <lang>O. H. G.</lang> <etym>Zîu</etym> <lang>O. N.</lang> <etym>Týr</etym>.]
+; --------------------------------------------------
+; <L>92642.1<pc>480,2<k1>dih<k2>dih<e>1E
+; <lang>E.</lang>
+;; addl. line 312487
+; <lang>Fr.</lang>  use local abbrev
+;; lines 312487 & 313550 indicate the abbr. 'From', and not the 'French' language.
+312487 old <s>dih</s> ¦ [<lang>Fr.</lang> <ab>orig.</ab> <s>DiG</s>; <ab>cf.</ab> <lang n="greek">θιγγάνω</lang>, <lang n="greek">ἔ-θιγ-ον</lang>, <lang n="greek">τεῖχος</lang>, <lang n="greek">τοῖχος</lang>; <lang>Lat.</lang> <etym>fingo</etym>, <etym>figulus</etym>, <etym>figura</etym>; <lang>Goth.</lang> <etym>deigan</etym>, <etym>gadigis</etym>; <lang>O. E.</lang> <etym>dāh</etym>; <lang>Eng.</lang> <etym>dough</etym>; <lang>Germ.</lang> <etym>Teig</etym>.]
+;
+312487 new <s>dih</s> ¦ [<ab n="From">Fr.</ab> <ab>orig.</ab> <s>DiG</s>; <ab>cf.</ab> <lang n="greek">θιγγάνω</lang>, <lang n="greek">ἔ-θιγ-ον</lang>, <lang n="greek">τεῖχος</lang>, <lang n="greek">τοῖχος</lang>; <lang>Lat.</lang> <etym>fingo</etym>, <etym>figulus</etym>, <etym>figura</etym>; <lang>Goth.</lang> <etym>deigan</etym>, <etym>gadigis</etym>; <lang>O. E.</lang> <etym>dāh</etym>; <lang>E.</lang> <etym>dough</etym>; <lang>Germ.</lang> <etym>Teig</etym>.]
+; --------------------------------------------------
+; <L>92977.1<pc>481,3<k1>dIrGa<k2>dIrGa<e>1E
+; <lang>Fr.</lang>
+;; lines 312487 & 313550 indicate the abbr. 'From', and not the 'French' language.
+313550 old <s>dIrGa</s> ¦ [<lang>Fr.</lang> √ <s>drAG</s>; <ab>cf.</ab> also <lang>Gk.</lang> <lang n="greek">δολιχός</lang>; <lang>Sl.</lang> <etym>dlǔgǔ</etym>.]
+;
+313550 new <s>dIrGa</s> ¦ [<ab n="From">Fr.</ab> √ <s>drAG</s>; <ab>cf.</ab> also <lang>Gk.</lang> <lang n="greek">δολιχός</lang>; <lang>Sl.</lang> <etym>dlǔgǔ</etym>.]
+; --------------------------------------------------
+; <L>94676.1<pc>488,2<k1>dus<k2>dus<e>2A
+; <lang>O. H. G.</lang>  no chg
+;; addl. lines: 141556, 141878, 142159, 146396, 146617, 151813, 151855, 311053, 318983 (CDSL has O.H.G. at these places)
+318983 old ¦ badly, hardly; slight, inferior &c. (<ab>opp.</ab> to <s>su</s>), often = <lang>Engl.</lang> <etym>in-</etym> or <etym>un-</etym> <info lex="inh"/>
+;
+318983 new ¦ badly, hardly; slight, inferior &c. (<ab>opp.</ab> to <s>su</s>), often = <lang>Engl.</lang> <etym>in-</etym> or <etym>un-</etym> <info lex="inh"/>
+; --------------------------------------------------
+; <L>94676.15<pc>488,2<k1>dus<k2>dus<e>2E
+; <lang>O. H. G.</lang>
+318986 old <s>dus</s> ¦ [<ab>cf.</ab> √ <hom>2.</hom> <s>duz</s>; <lang>Zd.</lang> <etym>dush-</etym>; <lang>Gk.</lang> <lang n="greek">δυς-</lang>; <lang>Goth.</lang> <etym>tuz-</etym>; <ab>O.H.G.</ab> <etym>zur-</etym>.]
+;
+318986 new <s>dus</s> ¦ [<ab>cf.</ab> √ <hom>2.</hom> <s>duz</s>; <lang>Zd.</lang> <etym>dush-</etym>; <lang>Gk.</lang> <lang n="greek">δυς-</lang>; <lang>Goth.</lang> <etym>tuz-</etym>; <lang>O. H. G.</lang> <etym>zur-</etym>.]
+; --------------------------------------------------
+; <L>95496.1<pc>492,2<k1>dF<k2>dF<e>1E
+; <lang>Engl.</lang>
+;; addl. lines: 321815, 345151, 345191
+; <lang>Eng.</lang>
+;; lines 114081, 134220 to be merged as "Mod. Eng." ;; lines 342487 to be changed as "E.";; lines 321815, 345151, 345191 to be changed as "Engl."
+321815 old <s>dF</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">δέρω</lang> and <lang n="greek">δαίρω</lang>; <lang>Lith.</lang> <etym>dirù</etym>; <lang>Slav.</lang> <etym>drati</etym>; <lang>Goth.</lang> <etym>tairan</etym>; <lang>Angl.Sax.</lang> <etym>tëran</etym>; <lang>Eng.</lang> <etym>to tear</etym>; <lang>Germ.</lang> <etym>zerren</etym>, <etym>zehren</etym>.]
+;
+321815 new <s>dF</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">δέρω</lang> and <lang n="greek">δαίρω</lang>; <lang>Lith.</lang> <etym>dirù</etym>; <lang>Slav.</lang> <etym>drati</etym>; <lang>Goth.</lang> <etym>tairan</etym>; <lang>Angl.Sax.</lang> <etym>tëran</etym>; <lang>Engl.</lang> <etym>to tear</etym>; <lang>Germ.</lang> <etym>zerren</etym>, <etym>zehren</etym>.]
+; --------------------------------------------------
+; <L>95498<pc>492,2<k1>deuliya<k2>deuliya<e>1
+; <lang>Prākṛt</lang>
+;; addl. lines 60666, 256967, 321823
+321823 old <s>deuliya</s> ¦ <lex>n.</lex> (<ns>Prākrit</ns> for <s>devakulya</s>?) <ab>N.</ab> of a <s1 slp1="grAma">Grāma</s1>, <ls>Kṣitīś.</ls><info lex="n"/>
+;
+321823 new <s>deuliya</s> ¦ <lex>n.</lex> (<lang>Prākṛt</lang> for <s>devakulya</s>?) <ab>N.</ab> of a <s1 slp1="grAma">Grāma</s1>, <ls>Kṣitīś.</ls><info lex="n"/>
+; --------------------------------------------------
+; <L>101804<pc>519,1<k1>DUsara<k2>DUsara<e>1B
+; <lang>Eng.</lang> no change
+;; lines 114081, 134220 to be merged as "Mod. Eng." 
+;; lines 342487 to be changed as "E."
+;; lines 321815, 345151, 345191 to be changed as "Engl."
+342487 old <L>101804<pc>519,1<k1>DUsara<k2>DUsara<e>1B
+;
+342487 new <L>101804<pc>519,1<k1>DUsara<k2>DUsara<e>1B
+; --------------------------------------------------
+; <L>102614.1<pc>523,1<k1>Dvf<k2>Dvf<e>1E
+; <lang>Angl.S.</lang>
+;; addl. line 345151
+; <lang>Engl.</lang>
+;; addl. lines: 321815, 345151, 345191
+; <lang>Angl.Sax.</lang>
+;; line 345151 to be changed as "Angl.S." 
+;; line 592437, 669216 to be changed as "Angl.-Sax."
+; <lang>Eng.</lang>
+;; lines 114081, 134220 to be merged as "Mod. Eng." ;; lines 342487 to be changed as "E.";; lines 321815, 345151, 345191 to be changed as "Engl."
+345151 old <s>Dvf</s> ¦ [<ab>cf.</ab> <s>DUrv</s>; <lang>Goth.</lang> <etym>dvals</etym>; <lang>Angl.Sax.</lang> <etym>dwellan</etym>; <lang>Eng.</lang> <etym>dull</etym>, <etym>dolt</etym>; <lang>Germ.</lang> <etym>toll</etym>.]
+;
+345151 new <s>Dvf</s> ¦ [<ab>cf.</ab> <s>DUrv</s>; <lang>Goth.</lang> <etym>dvals</etym>; <lang>Angl.S.</lang> <etym>dwellan</etym>; <lang>Engl.</lang> <etym>dull</etym>, <etym>dolt</etym>; <lang>Germ.</lang> <etym>toll</etym>.]
+; --------------------------------------------------
+; <L>102621.6<pc>523,1<k1>na<k2>na<e>1E
+; <lang>Engl.</lang>
+;; addl. lines: 321815, 345151, 345191
+; <lang>Eng.</lang>
+;; lines 114081, 134220 to be merged as "Mod. Eng." ;; lines 342487 to be changed as "E.";; lines 321815, 345151, 345191 to be changed as "Engl."
+345191 old <s>na</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">νη-</lang>; <lang>Lat.</lang> <etym>ně-</etym>; <lang>Angl.Sax.</lang> <etym>ne</etym>, ‘not’; <lang>Eng.</lang> <etym>no</etym>, &c.]
+;
+345191 new <s>na</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">νη-</lang>; <lang>Lat.</lang> <etym>ně-</etym>; <lang>Angl.Sax.</lang> <etym>ne</etym>, ‘not’; <lang>Engl.</lang> <etym>no</etym>, &c.]
+; --------------------------------------------------
+; <L>103271<pc>525,3<k1>nata<k2>nata/<e>2B
+; <lang>Prākṛ.</lang> no chg.
+;; addl. lines 348646, 354182, 360125, 399179, 469333, 482982, 498615, 518511, 519151;; lines 347649, 617106, 617148 missed in AB version
+347649 old <LEND>
+;
+347649 new <LEND>
+; --------------------------------------------------
+; <L>103576<pc>527,1<k1>nandipadacCandas<k2>nandi—pada-cCandas<e>3
+; <lang>Prākṛ.</lang>
+;; addl. lines 348646, 354182, 360125, 399179, 469333, 482982, 498615, 518511, 519151;; lines 347649, 617106, 617148 missed in AB version
+348646 old <s>nandi—pada-cCandas</s> ¦ <lex>n.</lex> <ab>N.</ab> of <ab>wk.</ab> on <lang>Prākṛt</lang> metres (in <lang>Prākṛt</lang>.), <ls>Cat.</ls><info lex="n"/>
+;
+348646 new <s>nandi—pada-cCandas</s> ¦ <lex>n.</lex> <ab>N.</ab> of <ab>wk.</ab> on <lang>Prākṛt</lang> metres (in <lang>Prākṛ.</lang>), <ls>Cat.</ls><info lex="n"/>
+; --------------------------------------------------
+; <L>105219<pc>533,3<k1>nAgammA<k2>nAgammA<e>1
+; <lang>Prākṛ.</lang>
+;; addl. lines 348646, 354182, 360125, 399179, 469333, 482982, 498615, 518511, 519151;; lines 347649, 617106, 617148 missed in AB version
+354182 old <s>nAgammA</s> ¦ <lex>f.</lex> (<ab>Prākr.</ab> for <s>na-agamyA</s>? [<ab>prob.</ab> <ab>fr.</ab> <lang>Tamil</lang>]) <ab>N.</ab> of a poetess, <ls>Cat.</ls><info lex="f"/>
+;
+354182 new <s>nAgammA</s> ¦ <lex>f.</lex> (<lang>Prākr.</lang> for <s>na-agamyA</s>? [<ab>prob.</ab> <ab>fr.</ab> <lang>Tamil</lang>]) <ab>N.</ab> of a poetess, <ls>Cat.</ls><info lex="f"/>
+; --------------------------------------------------
+; <L>107014<pc>541,1<k1>nirdawa<k2>nir—dawa<e>3
+; <lang>Prākṛ.</lang>
+;; addl. lines 348646, 354182, 360125, 399179, 469333, 482982, 498615, 518511, 519151;; lines 347649, 617106, 617148 missed in AB version
+360125 old <s>nir—dawa</s> or <s>nir—daqa</s>, ¦ <lex>mfn.</lex> (<ab>Prākr.</ab> for <s>dfta</s> <ab>fr.</ab> √ <s>df</s> <ab>cf.</ab> <s>A-df</s>?) unkind, malicious, censorious, slanderous<info or="107014,nirdawa;107017,nirdaqa"/><info lex="m:f:n"/>
+;
+360125 new <s>nir—dawa</s> or <s>nir—daqa</s>, ¦ <lex>mfn.</lex> (<lang>Prākṛ.</lang> for <s>dfta</s> <ab>fr.</ab> √ <s>df</s> <ab>cf.</ab> <s>A-df</s>?) unkind, malicious, censorious, slanderous<info or="107014,nirdawa;107017,nirdaqa"/><info lex="m:f:n"/>
+; --------------------------------------------------
+; <L>116854<pc>590,1<k1>parAdana<k2>parAdana<e>1
+; <lang>Persian</lang>
+;; line 282956, 394411, 413612, 413642, 413654, 413660, 562210 doesn't indicate a language, but a country.
+394411 old <s>parAdana</s> ¦ <lex>m.</lex> a horse of <lang>Persian</lang>breed, <ls>L.</ls><info lex="m"/>
+;
+394411 new <s>parAdana</s> ¦ <lex>m.</lex> a horse of Persian breed, <ls>L.</ls><info lex="m"/>
+; --------------------------------------------------
+; <L>118231<pc>598,3<k1>parimala<k2>pari-mala<e>1
+; <lang>Prākṛ.</lang>
+;; addl. lines 348646, 354182, 360125, 399179, 469333, 482982, 498615, 518511, 519151;; lines 347649, 617106, 617148 missed in AB version
+399179 old <s>pari-mala</s> ¦ <lex>m.</lex> (<ab>Prākr.</ab> <ab>fr.</ab> √ <s>mfd</s>?) fragrance, or a fragrant substance, perfume (<ab>esp.</ab> arising from the trituration of fragrant substances), <ls>Kāv.</ls>; <ls>Pañc.</ls> &c.<info lex="m"/>
+;
+399179 new <s>pari-mala</s> ¦ <lex>m.</lex> (<lang>Prākṛ.</lang> <ab>fr.</ab> √ <s>mfd</s>?) fragrance, or a fragrant substance, perfume (<ab>esp.</ab> arising from the trituration of fragrant substances), <ls>Kāv.</ls>; <ls>Pañc.</ls> &c.<info lex="m"/>
+; --------------------------------------------------
+; <L>122605<pc>620,2<k1>pArasa<k2>pArasa<e>1
+; <lang>Persian</lang> no change
+;; line 282956, 394411, 413612, 413642, 413654, 413660, 562210 doesn't indicate a language, but a country.
+413612 old <s>pArasa</s> ¦ <lex>mf(<s>I</s>)n.</lex> Persian<info lex="m:f#I:n"/>
+;
+413612 new <s>pArasa</s> ¦ <lex>mf(<s>I</s>)n.</lex> Persian<info lex="m:f#I:n"/>
+; --------------------------------------------------
+; <L>122614<pc>620,2<k1>pArasIka<k2>pArasIka<e>3
+; <lang>Persian</lang>
+;; line 282956, 394411, 413612, 413642, 413654, 413660, 562210 doesn't indicate a language, but a country.
+413642 old <s>pAra°sIka</s> ¦ <lex>mfn.</lex> <lang>Persian</lang>(<ab>cf.</ab> below)<info lex="m:f:n"/>
+;
+413642 new <s>pAra°sIka</s> ¦ <lex>mfn.</lex> Persian (<ab>cf.</ab> below)<info lex="m:f:n"/>
+; --------------------------------------------------
+; <L>122617<pc>620,2<k1>pArasIkatEla<k2>pArasIka—tEla<e>4
+; <lang>Persian</lang> no change
+;; line 282956, 394411, 413612, 413642, 413654, 413660, 562210 doesn't indicate a language, but a country.
+413654 old <s>pAra°sIka—tEla</s> ¦ <lex>n.</lex> ‘Persian oil’, Naphtha, <ls>Vcar.</ls><info lex="n"/>
+;
+413654 new <s>pAra°sIka—tEla</s> ¦ <lex>n.</lex> ‘Persian oil’, Naphtha, <ls>Vcar.</ls><info lex="n"/>
+; --------------------------------------------------
+; <L>122619<pc>620,2<k1>pArasIkeya<k2>pArasIkeya<e>3
+; <lang>Persian</lang> no change
+;; line 282956, 394411, 413612, 413642, 413654, 413660, 562210 doesn't indicate a language, but a country.
+413660 old <s>pAra°sIkeya</s> ¦ <lex>mf(<s>I</s>)n.</lex> Persian, <ls>Bhpr.</ls><info lex="m:f#I:n"/>
+;
+413660 new <s>pAra°sIkeya</s> ¦ <lex>mf(<s>I</s>)n.</lex> Persian, <ls>Bhpr.</ls><info lex="m:f#I:n"/>
+; --------------------------------------------------
+; <L>139342<pc>704,2<k1>prAgBAra<k2>prAg—BAra<e>3
+; <lang>Prākṛ.</lang>
+;; addl. lines 348646, 354182, 360125, 399179, 469333, 482982, 498615, 518511, 519151;; lines 347649, 617106, 617148 missed in AB version
+469333 old <s>prAg—BAra</s> ¦ <lex>m.</lex> (<ab>prob.</ab> <ab>fr.</ab> <lang>Prākṛt</lang>. <i>pabbhāra</i> = <s>pra-hvAra</s>, √ <s>hvf</s>) the slope of a mountain, <ls>Mālatīm.</ls>; <ls>Kathās.</ls>; <ls>Bālar.</ls><info lex="m"/>
+;
+469333 new <s>prAg—BAra</s> ¦ <lex>m.</lex> (<ab>prob.</ab> <ab>fr.</ab> <lang>Prākṛ.</lang> <i>pabbhāra</i> = <s>pra-hvAra</s>, √ <s>hvf</s>) the slope of a mountain, <ls>Mālatīm.</ls>; <ls>Kathās.</ls>; <ls>Bālar.</ls><info lex="m"/>
+; --------------------------------------------------
+; <L>143459<pc>724,2<k1>bazwa<k2>bazwa<e>1
+; <lang>Prākṛ.</lang>
+;; addl. lines 348646, 354182, 360125, 399179, 469333, 482982, 498615, 518511, 519151;; lines 347649, 617106, 617148 missed in AB version
+482982 old <s>bazwa</s> ¦ <lex>m.</lex> (<lang>Prākṛt</lang>.) = <s>mUrKa</s>, a fool, <ls>L.</ls><info lex="m"/>
+;
+482982 new <s>bazwa</s> ¦ <lex>m.</lex> (<lang>Prākṛ.</lang>) = <s>mUrKa</s>, a fool, <ls>L.</ls><info lex="m"/>
+; --------------------------------------------------
+; <L>148172<pc>745,2<k1>BawwinI<k2>BawwinI<e>2
+; <lang>Prākṛ.</lang>
+;; addl. lines 348646, 354182, 360125, 399179, 469333, 482982, 498615, 518511, 519151;; lines 347649, 617106, 617148 missed in AB version
+498615 old <s>BawwinI</s> ¦ <lex>f.</lex> (<ab>fr.</ab> <s>Bartf</s>, <ab>Prākr.</ab> <i>bhaṭṭā</i>; formed in analogy to <s>patnI</s>) a noble lady (applied to queens not crowned or consecrated like the <s1 slp1="devI">Devī</s1>, to the wife of a <ns>Brāhman</ns> and any woman of high rank), <ls>L.</ls><info lex="f"/>
+;
+498615 new <s>BawwinI</s> ¦ <lex>f.</lex> (<ab>fr.</ab> <s>Bartf</s>, <lang>Prākṛ.</lang> <i>bhaṭṭā</i>; formed in analogy to <s>patnI</s>) a noble lady (applied to queens not crowned or consecrated like the <s1 slp1="devI">Devī</s1>, to the wife of a <ns>Brāhman</ns> and any woman of high rank), <ls>L.</ls><info lex="f"/>
+; --------------------------------------------------
+; <L>150486<pc>755,3<k1>BAzA<k2>BAzA<e>2A
+; <lang>Māgadhī</lang>
+;; addl. line 505970;; lines 207634, 519281 don't indicate a language, but a 'type'.
+505970 old ¦ any <lang>Prākṛt</lang> dialect or a <ab>partic.</ab> group of 5 of them (<ab>viz.</ab> <lang>Māhārāṣṭrī</lang>, <lang>Śaurasenī</lang>, <s1 slp1="mAgaDa">Māgadha</s1>, <lang>Prācyā</lang>, and <s1 slp1="avanti">Avanti</s1>, also called <s1 slp1="paYca-viDA">Pañca-vidhā</s1> <s1 slp1="BAzA">Bhāṣā</s1>; <ab>cf.</ab> under <s>prAkfta</s>, <ab>p.</ab> 703), <ls>Cat.</ls><info lex="inh"/>
+;
+505970 new ¦ any <lang>Prākṛt</lang> dialect or a <ab>partic.</ab> group of 5 of them (<ab>viz.</ab> <lang>Māhārāṣṭrī</lang>, <lang>Śaurasenī</lang>, <lang>Māgadhī</lang>, <lang>Prācyā</lang>, and <s1 slp1="avanti">Avanti</s1>, also called <s1 slp1="paYca-viDA">Pañca-vidhā</s1> <s1 slp1="BAzA">Bhāṣā</s1>; <ab>cf.</ab> under <s>prAkfta</s>, <ab>p.</ab> 703), <ls>Cat.</ls><info lex="inh"/>
+; --------------------------------------------------
+; <L>154342<pc>773,2<k1>macCa<k2>macCa<e>1
+; <lang>Prākṛ.</lang>
+;; addl. lines 348646, 354182, 360125, 399179, 469333, 482982, 498615, 518511, 519151;; lines 347649, 617106, 617148 missed in AB version
+518511 old <s>macCa</s> ¦ <lex>m.</lex> (<ab>Prākr.</ab> for <s>matsya</s>) a fish, <ls>L.</ls><info lex="m"/>
+;
+518511 new <s>macCa</s> ¦ <lex>m.</lex> (<lang>Prākṛ.</lang> for <s>matsya</s>) a fish, <ls>L.</ls><info lex="m"/>
+; --------------------------------------------------
+; <L>154544<pc>774,2<k1>mawa<k2>mawa<e>1
+; <lang>Prākṛ.</lang>
+;; addl. lines 348646, 354182, 360125, 399179, 469333, 482982, 498615, 518511, 519151;; lines 347649, 617106, 617148 missed in AB version
+519151 old <s>mawa</s> ¦ <lex>m.</lex> (<ab>Prākr.</ab> for <s>mfta</s>) the son of a <s1 slp1="vESya">Vaiśya</s1> and a <s1 slp1="kuwi">Kuṭi</s1>, <ls>L.</ls><info lex="m"/>
+;
+519151 new <s>mawa</s> ¦ <lex>m.</lex> (<lang>Prākṛ.</lang> for <s>mfta</s>) the son of a <s1 slp1="vESya">Vaiśya</s1> and a <s1 slp1="kuwi">Kuṭi</s1>, <ls>L.</ls><info lex="m"/>
+; --------------------------------------------------
+; <L>154586<pc>774,2<k1>maqqukErika<k2>maqqu—kErika<e>3
+; <lang>Māgadhī</lang>
+;; addl. line 505970;; lines 207634, 519281 don't indicate a language, but a 'type'.
+519281 old <s>maqqu—kErika</s> ¦ <lex>m.</lex> the son of a <s1 slp1="nizAda">Niṣāda</s1> and a <lang>Māgadhī</lang>, <ls>L.</ls><info lex="m"/>
+;
+519281 new <s>maqqu—kErika</s> ¦ <lex>m.</lex> the son of a <s1 slp1="nizAda">Niṣāda</s1> and a <s1 slp1="mAgaDI">Māgadhī</s1>, <ls>L.</ls><info lex="m"/>
+; --------------------------------------------------
+; <L>156604<pc>782,3<k1>maDva<k2>maDva<e>1
+; <lang>Kanarese</lang>
+;; lines 525852, 694450  don't indicate a language, but a country.
+525852 old <s>maDva</s> ¦ <lex>m.</lex> <ab>N.</ab> of the founder of a sect of <s1 slp1="vEzRava">Vaiṣṇava</s1>s in the south of India (he was a <lang>Kanarese</lang> <ns>Brāhman</ns> otherwise called <s1 slp1="Ananda-tIrTa">Ānanda-tīrtha</s1>, <s1 slp1="Bagavat">Bhagavat</s1>-<s1 slp1="pAda">pāda</s1> or <s1 slp1="maDu">Madhu</s1>, said to have been born about 1200; his doctrine is commonly called <s1 slp1="dvEta">Dvaita</s1>, ‘Duality’, in opposition to the <s1 slp1="a-dvEta">A-dvaita</s1>, ‘Nonduality’, of the great <ns>Vedāntist</ns> <s1 slp1="SaMkarAcArya">Śaṃkarācārya</s1>, and his sect are called <s1 slp1="mADva">Mādhva</s1>s), <ls>RTL. 130</ls> &c.<info lex="m"/>
+;
+525852 new <s>maDva</s> ¦ <lex>m.</lex> <ab>N.</ab> of the founder of a sect of <s1 slp1="vEzRava">Vaiṣṇava</s1>s in the south of India (he was a Kanarese <ns>Brāhman</ns> otherwise called <s1 slp1="Ananda-tIrTa">Ānanda-tīrtha</s1>, <s1 slp1="Bagavat">Bhagavat</s1>-<s1 slp1="pAda">pāda</s1> or <s1 slp1="maDu">Madhu</s1>, said to have been born about 1200; his doctrine is commonly called <s1 slp1="dvEta">Dvaita</s1>, ‘Duality’, in opposition to the <s1 slp1="a-dvEta">A-dvaita</s1>, ‘Nonduality’, of the great <ns>Vedāntist</ns> <s1 slp1="SaMkarAcArya">Śaṃkarācārya</s1>, and his sect are called <s1 slp1="mADva">Mādhva</s1>s), <ls>RTL. 130</ls> &c.<info lex="m"/>
+; --------------------------------------------------
+; <L>167687<pc>832,1<k1>meGAkza<k2>meGAkza<e>3
+; <lang>Persian</lang>
+;; line 282956, 394411, 413612, 413642, 413654, 413660, 562210 doesn't indicate a language, but a country.
+562210 old <s>meGA<srs/>kza</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <lang>Persian</lang>king, <ls>Mudr.</ls><info lex="m"/>
+;
+562210 new <s>meGA<srs/>kza</s> ¦ <lex>m.</lex> <ab>N.</ab> of a Persian king, <ls>Mudr.</ls><info lex="m"/>
+; --------------------------------------------------
+; <L>172747<pc>858,1<k1>yojana<k2>yo/jana<e>2A
+; <lang>English</lang>
+;; lines 5809, 579228, 579228 don't indicate a language, but a country.
+; <lang>English</lang>
+;; lines 5809, 579228, 579228 don't indicate a language, but a country.
+579228 old ¦ (sometimes <lex type="hwalt">m.</lex>; <ab>ifc.</ab> <lex type="hwifc">f(<s>A</s>). </lex>) a stage or <s1 slp1="yojana">Yojana</s1> (<ab>i.e.</ab> a distance traversed in one harnessing or without unyoking; <ab>esp.</ab> a <ab>partic.</ab> measure of distance, sometimes regarded as equal to 4 or 5 <lang>English</lang> miles, but more correctly = 4 <s1 slp1="kroSa">Krośa</s1>s or about 9 miles; according to other calculations = 2 1/2 <lang>English</lang> miles, and according to some = 8 <s1 slp1="kroSa">Krośa</s1>s), <ls>RV.</ls> &c. &c.<info lex="m:f#A"/><info lex="inh"/>
+;
+579228 new ¦ (sometimes <lex type="hwalt">m.</lex>; <ab>ifc.</ab> <lex type="hwifc">f(<s>A</s>). </lex>) a stage or <s1 slp1="yojana">Yojana</s1> (<ab>i.e.</ab> a distance traversed in one harnessing or without unyoking; <ab>esp.</ab> a <ab>partic.</ab> measure of distance, sometimes regarded as equal to 4 or 5 English miles, but more correctly = 4 <s1 slp1="kroSa">Krośa</s1>s or about 9 miles; according to other calculations = 2 1/2 English miles, and according to some = 8 <s1 slp1="kroSa">Krośa</s1>s), <ls>RV.</ls> &c. &c.<info lex="m:f#A"/><info lex="inh"/>
+; --------------------------------------------------
+; <L>176837.1<pc>875,1<k1>rAjan<k2>rAjan<e>2E
+; <lang>Angl.-Sax.</lang>
+;; addl. lines 592437, 669216
+; <lang>Angl.Sax.</lang>
+;; line 345151 to be changed as "Angl.S." ;; line 592437, 669216 to be changed as "Angl.-Sax."
+592437 old <s>rAjan</s> ¦ [<ab>cf.</ab> <lang>Lat.</lang> <etym>rex</etym>; <lang>Kelt.</lang> <etym>rîg</etym>, <ab>fr.</ab> which <lang>Old Germ.</lang> <etym>rîk</etym>; <lang>Goth.</lang> <etym>reiks</etym>; <lang>Angl.Sax.</lang> <etym>rîce</etym>; <lang>Eng.</lang> <etym>rich</etym>.]
+;
+592437 new <s>rAjan</s> ¦ [<ab>cf.</ab> <lang>Lat.</lang> <etym>rex</etym>; <lang>Kelt.</lang> <etym>rîg</etym>, <ab>fr.</ab> which <lang>Old Germ.</lang> <etym>rîk</etym>; <lang>Goth.</lang> <etym>reiks</etym>; <lang>Angl.-Sax.</lang> <etym>rîce</etym>; <lang>Eng.</lang> <etym>rich</etym>.]
+; --------------------------------------------------
+; <L>180704<pc>893,2<k1>lag<k2>lag<e>1
+; <lang>Hindī</lang>
+;; addl. lines: 605028, 734895
+605028 old <div n="vp"/><ab>Caus.</ab> or <ab>cl.</ab> 10. (<ls>Dhātup. xxxiii, 63</ls>) <s>lAgayati</s>, ‘to taste’ or ‘to obtain’ (<s>AsvAdane</s>, or <s>AsAdane</s>). [In Hindi this root often means ‘to begin’.]<info westergaard="lage,19.24,01.0520;laga,33.63,10.0184"/><info whitneyroots="lag,144"/><info verb="genuineroot" cp="1P,10"/>
+;
+605028 new <div n="vp"/><ab>Caus.</ab> or <ab>cl.</ab> 10. (<ls>Dhātup. xxxiii, 63</ls>) <s>lAgayati</s>, ‘to taste’ or ‘to obtain’ (<s>AsvAdane</s>, or <s>AsAdane</s>). [In <lang>Hindī</lang> this root often means ‘to begin’.]<info westergaard="lage,19.24,01.0520;laga,33.63,10.0184"/><info whitneyroots="lag,144"/><info verb="genuineroot" cp="1P,10"/>
+; --------------------------------------------------
+; <L>184496<pc>911,2<k1>vaNkimadAsa<k2>vaNkima-dAsa<e>2
+; <lang>Prākṛ.</lang> no change
+;; addl. lines 348646, 354182, 360125, 399179, 469333, 482982, 498615, 518511, 519151;; lines 347649, 617106, 617148 missed in AB version
+617106 old <s>vaNkima-dAsa</s> ¦ <lex>m.</lex> (<lang>Prākṛ.</lang> for <s>vakrima-d°</s>?), with <s>kavi-rAja</s> <ab>N.</ab> of an author, <ls>Cat.</ls><info lex="m"/>
+;
+617106 new <s>vaNkima-dAsa</s> ¦ <lex>m.</lex> (<lang>Prākṛ.</lang> for <s>vakrima-d°</s>?), with <s>kavi-rAja</s> <ab>N.</ab> of an author, <ls>Cat.</ls><info lex="m"/>
+; --------------------------------------------------
+; <L>184509<pc>911,2<k1>vakkalin<k2>vakkalin<e>1
+; <lang>Prākṛ.</lang> no change
+;; addl. lines 348646, 354182, 360125, 399179, 469333, 482982, 498615, 518511, 519151;; lines 347649, 617106, 617148 missed in AB version
+617148 old <s>vakkalin</s> ¦ <lex>m.</lex> (<lang>Prākṛ.</lang> for <s>valkalin</s>) <ab>N.</ab> of a <s1 slp1="fzi">Ṛṣi</s1>, <ls>Buddh.</ls><info lex="m"/>
+;
+617148 new <s>vakkalin</s> ¦ <lex>m.</lex> (<lang>Prākṛ.</lang> for <s>valkalin</s>) <ab>N.</ab> of a <s1 slp1="fzi">Ṛṣi</s1>, <ls>Buddh.</ls><info lex="m"/>
+; --------------------------------------------------
+; <L>200376.1<pc>989,1<k1>viS<k2>viS<e>1E
+; <lang>Angl.-Sax.</lang>
+;; addl. lines 592437, 669216
+; <lang>Angl.Sax.</lang>
+;; line 345151 to be changed as "Angl.S." ;; line 592437, 669216 to be changed as "Angl.-Sax."
+669216 old <s>viS</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">οἶκος</lang>; <lang>Lat.</lang> <etym>vicus</etym>; <lang>Lith.</lang> <etym>vëszė́ti</etym>; <lang>Slav.</lang> <etym>vǐsǐ</etym>; <lang>Goth.</lang> <etym>weihs</etym>; <lang>Angl.Sax.</lang> <etym>wîc</etym>; <lang>Germ.</lang> <etym>wîch</etym>, <etym>Weich-bild</etym>.]
+;
+669216 new <s>viS</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">οἶκος</lang>; <lang>Lat.</lang> <etym>vicus</etym>; <lang>Lith.</lang> <etym>vëszė́ti</etym>; <lang>Slav.</lang> <etym>vǐsǐ</etym>; <lang>Goth.</lang> <etym>weihs</etym>; <lang>Angl.-Sax.</lang> <etym>wîc</etym>; <lang>Germ.</lang> <etym>wîch</etym>, <etym>Weich-bild</etym>.]
+; --------------------------------------------------
+; <L>208013<pc>1027,2<k1>vEzRava<k2>vEzRava/<e>1B
+; <lang>Kanarese</lang>
+;; lines 525852, 694450  don't indicate a language, but a country.
+694450 old 2. the <s1 slp1="mADva">Mādhva</s1>s, founded by a <lang>Kanarese</lang> <ns>Brāhman</ns> named <s1 slp1="maDva">Madhva</s1>, whose chief doctrines are described at <pcol>p. 782, col. 3</pcol>, and in <ls>RTL. p. 130</ls> &c.; 3. the <s1 slp1="vallaBa">Vallabha</s1>s, founded by <s1 slp1="vallaBAcArya">Vallabhācārya</s1>, whose chief doctrines are described at <pcol>p. 928, col. 3</pcol>, and in <ls>RTL. p. 134</ls> &c.;
+;
+694450 new 2. the <s1 slp1="mADva">Mādhva</s1>s, founded by a Kanarese <ns>Brāhman</ns> named <s1 slp1="maDva">Madhva</s1>, whose chief doctrines are described at <pcol>p. 782, col. 3</pcol>, and in <ls>RTL. p. 130</ls> &c.; 3. the <s1 slp1="vallaBa">Vallabha</s1>s, founded by <s1 slp1="vallaBAcArya">Vallabhācārya</s1>, whose chief doctrines are described at <pcol>p. 928, col. 3</pcol>, and in <ls>RTL. p. 134</ls> &c.;
+; --------------------------------------------------
+; <L>220613<pc>1087,3<k1>SfNgAwaka<k2>SfNgAwaka<e>2B
+; <lang>Hindī</lang>
+;; addl. lines: 605028, 734895
+734895 old <s>SfNgAwaka</s> ¦ <lex>n.</lex> a kind of pastry or minced meat &c. (called <ns>Samūsā</ns> in Hindi), <ls>Bhpr.</ls><info lex="n"/>
+;
+734895 new <s>SfNgAwaka</s> ¦ <lex>n.</lex> a kind of pastry or minced meat &c. (called <ns>Samūsā</ns> in <lang>Hindī</lang>), <ls>Bhpr.</ls><info lex="n"/>
+; --------------------------------------------------

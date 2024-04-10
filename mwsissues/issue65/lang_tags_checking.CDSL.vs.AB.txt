@@ -1,0 +1,120 @@
+Tag	CDSL	AB
+--------------------------------	
+case (a)-- CDSL counts  = 0:	4
+
+<lang>Angl.-Sax.</lang>	0	2
+;; addl. lines 592437, 669216
+<lang>Angl.S.</lang>	0	1
+;; addl. line 345151
+<lang>E.</lang>	0	1
+;; addl. line 312487
+<lang>W.</lang>	0	1
+;; addl. line 156840
+--------------------------------	
+case (b)-- less counts in CDSL than AB:	7
+
+<lang>Bengālī</lang>	5	6
+;; addl. line: 262355
+<lang>Engl.</lang>	9	11
+;; addl. lines: 321815, 345151, 345191
+;; line 344465 deleted in AB version (duplicated group entry).
+<lang>Gaël.</lang>	2	3
+;; addl. line: 156840 
+<lang>Hindī</lang>	8	9
+;; addl. lines: 605028, 734895
+;; line 686682 deleted in AB version (duplicated group entry).
+<lang>O. H. G.</lang>	1	10
+;; addl. lines: 141556, 141878, 142159, 146396, 146617, 151813, 151855, 311053, 318983 (CDSL has O.H.G. at these places)
+<lang>Old Pruss.</lang>	4	5
+;; addl. line: 227747
+<lang>Zend</lang>	12	21
+;; addl. lines: 9358, 31497, 37591, 107223, 289283, 290505, 298763, 299077, 300069
+--------------------------------	
+case (c)-- CDSL counts < 100: 22
+
+<lang>Apabhraṃśa</lang>	7	6
+;; line 703494 deleted in AB version (duplicated group entry).
+<lang>Arabic</lang>	14	13
+;; lines 149317, 212074 don't indicate a language, but a country.
+<lang>Class.</lang>	35	32
+;; line 220333 stands combined as "Class. Sanskṛt".
+;; lines 589787 deleted in AB version (duplicated group entry).
+<lang>English</lang>	16	12
+;; lines 5809, 579228, 579228 don't indicate a language, but a country.
+;; line 12791 deleted in AB version (duplicated group entry).
+<lang>Fr.</lang>	4	2
+;; lines 312487 & 313550 indicate the abbr. 'From', and not the 'French' language.
+<lang>French</lang>	2	1
+;; line 209259 doesn't indicate a language, but a country.
+<lang>HGerm.</lang>	9	8
+;; line 349042 deleted in AB version (duplicated group entry).
+<lang>Hib.</lang>	54	53
+;; line 204814 deleted in AB version (duplicated group entry).
+<lang>Kanarese</lang>	3	1
+;; lines 525852, 694450  don't indicate a language, but a country.
+<lang>Lit.</lang>	21	19
+;; lines 314533, 521250 deleted in AB version (duplicated group entry).
+<lang>Mod. Eng.</lang>	3	2
+;; line 114091 deleted in AB version (duplicated group entry).
+<lang>Mod. Germ.</lang>	34	33
+;; line 136704 deleted in AB version (duplicated group entry).
+<lang>Māgadhī</lang>	3	2
+;; addl. line 505970
+;; lines 207634, 519281 don't indicate a language, but a 'type'.
+<lang>Old High Germ.</lang>	11	10
+;; line 114091 deleted in AB version (duplicated group entry).
+<lang>old Prākṛt</lang>	2	1
+;; line 254116 deleted in AB version (duplicated group entry).
+<lang>Pers.</lang>	18	17
+;; line 434330 deleted in AB version (duplicated group entry).
+<lang>Persian</lang>	18	10
+;; line 854073 deleted in AB version (duplicated group entry).
+;; line 282956, 394411, 413612, 413642, 413654, 413660, 562210 doesn't indicate a language, but a country.
+<lang>Pruss.</lang>	2	1
+;; line: 227747 stands combined as "Old Pruss.".
+<lang>Prākṛ.</lang>	3	9
+;; lines 347649, 617106, 617148 missed in AB version
+;; addl. lines 348646, 354182, 360125, 399179, 469333, 482982, 498615, 518511, 519151
+<lang>Pāli</lang>	32	31
+;; line 340937 deleted in AB version (duplicated group entry).
+<lang>Sl.</lang>	3	2
+;; line 314533 deleted in AB version (duplicated group entry).
+<lang>Tamil</lang>	4	3
+;; line 686682 deleted in AB version (duplicated group entry).
+<lang>Telugu</lang>	3	2
+;; line 686682 deleted in AB version (duplicated group entry).
+--------------------------------	
+case (d)-- CDSL counts > 100 & diff.  < 10: 6
+
+<lang>Angl.Sax.</lang>	137	128
+;; lines 344465, 349042, 352669, 521250, 750942, 838091, 847881 deleted in AB version (duplicated group entry).
+;; line 345151 to be changed as "Angl.S."
+;; line 592437, 669216 to be changed as "Angl.-Sax."
+<lang>Germ.</lang>	218	209
+;; lines 290009, 344465, 352669, 521250, 750942, 838091, 846584, 847881 deleted in AB version (duplicated group entry).
+<lang>Goth.</lang>	205	199
+;; lines 30162, 114091, 352669, 750942, 838091, 847881 deleted in AB version (duplicated group entry).
+<lang>Lith.</lang>	190	181
+;; lines 30162, 114091, 132732, 141507, 352669, 750942, 763319, 838091, 846584 deleted in AB version (duplicated group entry).
+**<lang>Prākṛt</lang>	233	228
+;; addl. lines 60666, 256967, 321823
+;; lines 11488, 34624, 300868, 340937, 646739, 716902 deleted in AB version (duplicated group entry).
+<lang>Slav.</lang>	112	111
+;; line 352669 deleted in AB version (duplicated group entry).
+--------------------------------	
+case (e)-- CDSL counts > 100 & diff. >= 10: 5
+
+**<lang>Ved.</lang>	634	604
+;; line 589787 deleted in AB version (duplicated group entry).
+<lang>Eng.</lang>	204	190
+;; lines 114091, 352669, 521250, 740191, 750942, 838091, 846584, 847881 deleted in AB version (duplicated group entry).
+;; lines 114081, 134220 to be merged as "Mod. Eng."
+;; lines 342487 to be changed as "E."
+;; lines 321815, 345151, 345191 to be changed as "Engl."
+<lang>Gk.</lang>	518	504
+;; lines 114091, 141507, 329927, 365888, 382811, 521250, 581186, 624350, 740191, 750942, 846584, 847881, 854264, 860661 deleted in AB version (duplicated group entry).
+**<lang>Lat.</lang>	540	523
+;; lines 114091, 290009, 349042, 352669, 521250, 750942, 847881 deleted in AB version (duplicated group entry).
+**<lang>Zd.</lang>	149	139
+;; lines 136704 , 349042, 585583 deleted in AB version (duplicated group entry).
+;; CDSL at 8 other lines has Zd. and at one line has 'Zebd' (for 'Zend') [details at the last line in the case (b) above].
