@@ -9,10 +9,6 @@ cd /c/xampp/htdocs/sanskrit-lexicon/mws/mwsissues/issue65
 cd /c/xampp/htdocs/cologne/csl-orig
 git show 640c6e43e:v02/mw/mw.txt > /c/xampp/htdocs/sanskrit-lexicon/mws/mwsissues/issue65/temp_mw_0.txt
 
-# start with copy of mwab_input.txt
-  at commit 4877c0f725656ecd069b4562ef6d1f02058a2454
-cd /c/xampp/htdocs/cologne/csl-pywork
-git show 4877c0f7:v02/distinctfiles/mw/pywork/mwab/mwab_input.txt > /c/xampp/htdocs/sanskrit-lexicon/mws/mwsissues/issue65/mwab_input_0.txt
 
 cd /c/xampp/htdocs/sanskrit-lexicon/mws/mwsissues/issue65
 
@@ -122,8 +118,19 @@ Generate a change transaction file from lang_tags_checking.CDSL.vs.AB_1.txt.
 countdiff_tags_del.txt has the tags on lines deleted by AB.
 These must be taken into account when comparing counts.
 
-python make_change_countdiff.py lang_tags_checking.CDSL.vs.AB_1.txt temp_mw_4.txt temp_countdiff.org countdiff_tags_del.txt
+python make_change_countdiff.py lang_tags_checking.CDSL.vs.AB_1.txt temp_mw_4.txt temp_countdiff.org countdiff_tags_del.txt ab_lnums_del.txt
 
+45 groups found in lang_tags_checking.CDSL.vs.AB_1.txt
+880516 lines read from temp_mw_4.txt
+66 distinct lnums found, excluding AB deletes
+11 lnums found more than once
+66 change records written to temp_countdiff.org
+39 distinct lnums found from AB deletes
+50 lnums found more than once
+89 written to countdiff_tags_del.txt
+89 items written to countdiff_tags_del.txt
+0 lnums in both chg and del
+39 written to ab_lnums_del.txt
 
 # manually edit temp_countdiff.org
 ---
@@ -194,6 +201,9 @@ TODO: https://github.com/sanskrit-lexicon/mw-dev/issues/21
   AB suggests using '<gk>X</gk>' instead of <lang n="Greek">x</lang>
   Similarly for Arabic , <ar>
 
+---------------------------------------------------------
+04-10-2024
+  resolving.lang.diff.counts.txt (From Andhrabharati)
   
 ---------------------------------------------------------
 check local installation
@@ -206,6 +216,22 @@ cp ../../../PWK/pwkissues/issue106/redolocal.sh .
 # temp generate local displays using temp_mw_1.txt
 sh redolocal.sh 1
 # ok
+*************************************************************
+work on tooltips. 
 
+# start with copy of mwab_input.txt
+  at commit 4877c0f725656ecd069b4562ef6d1f02058a2454
+cd /c/xampp/htdocs/cologne/csl-pywork
+git show 4877c0f7:v02/distinctfiles/mw/pywork/mwab/mwab_input.txt > /c/xampp/htdocs/sanskrit-lexicon/mws/mwsissues/issue65/mwab_input_0.txt
 
-Examine display for 'a'. Looks ok
+04-10-2024.
+Changed mwab_input.txt by removing the <id>X</id> item. This item is unused
+in displays or elsewhere.
+old format:
+abbrv<TAB><id>abbrv</id> <disp>tooltip</disp>
+new format:
+abbrv<TAB><disp>tooltip</disp>
+
+mkdir tooltips  # do work here
+mv mwab_input_0.txt tooltips
+# manually edit, so 'new format' is used

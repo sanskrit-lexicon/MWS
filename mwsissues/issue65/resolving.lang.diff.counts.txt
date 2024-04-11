@@ -1,0 +1,40 @@
+TAG	CDSLREV	AB	CDSLREV-AB
+
+<lang>Apabhraṃśa</lang>	6	5	1
+;; line 703494 deleted (being a dupl. entry) in AB version
+jim: 7 matches for "<lang>Apabhraṃśa</lang>" in buffer: temp_mw_5.txt
+    703494 AB-deleted.  So Jim still has 1 more
+-----------------------------------------
+<lang>Class.</lang>	33	32	1
+;; line 340942 deleted (being a dupl. entry) in AB version
+jim: 35 matches in 34 lines for "<lang>Class\.</lang>" in buffer: temp_mw_5.txt
+  589787 
+
+-----------------------------------------
+<lang>Germ.</lang>	210	209	1
+;; line 558566 should have Slav. & Germ. in that order
+-----------------------------------------
+<lang>Slav.</lang>	112	113	1
+;; line 558566 should have Slav. & Germ. in that order
+-----------------------------------------
+<lang>Lat.</lang>	526	523	3
+;; lines 114091, 132732, 233087 deleted (being a dupl. entry) in AB version
+-----------------------------------------
+<lang>Prākṛ.</lang>	11	11	0
+;; no difference
+-----------------------------------------
+<lang>Prākṛt</lang>	233	231	-2.
+;; lines 11488, 340937 deleted (being a dupl. entry) in AB version
+-----------------------------------------
+<lang>Ved.</lang>	640	610	30
+;; changed ved. to Ved. at 6 places
+;; line 12638 & 12644 should have only one Ved. and "<s>a/-tra</s> (or <lang>Ved.</lang> <s>a/-trA</s>" after the broken bar to be deleted in these lines.
+;; lines 1025, 12644, 12791, 14397, 14602, 14605, 37709, 141589, 158068, 418398, 491319, 521220, 586096, 589787, 694842, 731785, 740396, 761312, 774323, 847850, 856083, 856483, 860646 (2) deleted in AB version (duplicated group entry), each with single instance of Ved.
+;; line 64183 stands for the abbr. <s1 n="Vedānta">Ved.</s1>
+;; lines 418392, 418395, 418398 should not have "(Ved.)"
+-----------------------------------------
+<lang>Zd.</lang>	140	139	1
+;; line 298777 should have Zend
+-----------------------------------------
+<lang>Zend</lang>	20	21	-1
+;; line 298777 should have Zend

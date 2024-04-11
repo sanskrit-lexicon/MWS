@@ -1,0 +1,392 @@
+A.	<disp>Active</disp> <INFER/>
+Ā.	<disp>Ātmane-pada</disp>  used in VLEX
+Ādi-p.	<disp>Ādi-parvanof the mahā-Bhārata</disp> <UNMARKED>
+abl.	<disp>ablative case</disp>
+Abl.	<disp>ablative case</disp> <INFER/>
+above	<disp>a reference to some preceeding word (not necessarily in the same page)</disp>  <UNMARKED>
+abstr.	<disp>abstract</disp> <INFER/>
+acc.	<disp>accusative case OR according</disp>
+Acc.	<disp>accusative case OR according</disp>  <INFER/>
+accord.	<disp>according (to)</disp>
+add.	<disp>additions</disp>
+adj.	<disp>adjective (cf. mfn.)</disp>
+adv.	<disp>adverb</disp>
+Aeol.	<disp>AEolic</disp>
+Afghan.	<disp>language of Afghanistan</disp>
+alg.	<disp>algebra</disp>
+anat.	<disp>anatomy</disp>
+Angl.Sax.	<disp>Anglo-Saxon</disp>
+A.S.	<disp>Anglo-Saxon</disp>
+OSax.	<disp>Old Saxon</disp>
+Old Sax.	<disp>Old Saxon</disp>
+Goth. Old S.	<disp>Gothic Old Saxon</disp>
+A.D.	<disp>anno Domini, in the year of the Lord</disp>
+B.C.	<disp>before Christ</disp>
+B	<disp>Bombay edition</disp>
+C	<disp>Calcutta edition</disp>
+Calc.	<disp>Calcutta edition</disp>
+anom.	<disp>anomalous</disp>
+Aor.	<disp>Aorist</disp>
+aor.	<disp>Aorist</disp>
+Arab.	<disp>Arabic</disp>
+arithm.	<disp>arithmetic</disp>
+Arm.	<disp>Armorican or the language of Brittany</disp>
+Armen.	<disp>Armenian</disp>
+Armor.	<disp>Armorican or the language of Brittany</disp> <UNMARKED>
+astrol.	<disp>astrology</disp>
+astron.	<disp>astronomy</disp>
+B.	<disp>Bombay edition</disp>
+Beng.	<disp>Bengali</disp> <UNMARKED>
+Boh.	<disp>Bohemian</disp> <UNMARKED>
+Bohem.	<disp>Bohemian</disp> <UNMARKED>
+Bomb.	<disp>Bombay edition</disp> <INFER/>
+Br.	<disp>Brāhmaṇa</disp>  <UNMARKED>
+Bret.	<disp>Breton</disp>  <UNMARKED>
+C.	<disp>Calcutta edition</disp>
+Buddh.	<disp>Buddhist</disp>
+c.	<disp>case</disp>
+Cambro-Brit.	<disp>Cambro-Briton, or Welsh</disp> <INFER/>
+Cat.	<disp>catalogue or catalogues</disp>  <UNMARKED> <ls>?
+Caus.	<disp>Causal, Causative</disp>
+cf.	<disp>confer, compare</disp>
+Cf.	<disp>confer, compare</disp> <INFER/>
+ch.	<disp>chapter</disp>
+cl.	<disp>class</disp>  <UNMARKED> used in <vlex>, not <ab>
+Class.	<disp>Classical</disp>
+class.	<disp>Classical</disp>
+col.	<disp>column</disp>
+cols.	<disp>columns</disp>
+Comm.	<disp>commentator or commentary</disp>
+Comms.	<disp>commentators or commentaries</disp> <INFER/>
+comp.	<disp>compound</disp>
+compar.	<disp>Comparative degree</disp>
+Compar.	<disp>Comparative degree</disp> <INFER/>
+concl.	<disp>conclusion</disp> <UNMARKED>
+Concl.	<disp>conclusion</disp> <INFER/>
+concr.	<disp>concrete</disp> <INFER/>
+Cond.	<disp>Conditional</disp>
+cond.	<disp>Conditional</disp> <INFER/>
+conj.	<disp>conjectural</disp>
+Conj.	<disp>conjectural</disp>
+cons.	<disp>consonant</disp>
+dat.	<disp>dative case</disp>
+Dat.	<disp>dative case</disp>  <INFER/>
+defect.	<disp>defective</disp>
+Desid.	<disp>Desiderative</disp>
+Des.	<disp>Desiderative</disp>
+Desid. Caus.	<disp>Desiderative Causal</disp>
+Desid. Pass.	<disp>Desiderative Passive</disp>
+dimin.	<disp>diminutive</disp>
+Dor.	<disp>Doric</disp>
+dram.	<disp>dramatic language</disp>
+du.	<disp>dual number</disp>
+e.g.	<disp>exempli gratia, ‘for example’</disp>
+ed.	<disp>edition</disp>
+encl.	<disp>enclitic</disp>
+Eng.	<disp>English</disp>
+Engl.	<disp>English</disp> <INFER/>
+Ep.	<disp>Epic</disp>  <UNMARKED>  (lower case marked)
+ep.	<disp>Epic</disp>
+esp.	<disp>especially</disp>
+etym.	<disp>etymology</disp>
+f.	<disp>feminine</disp> NOTE: NORMALLY in <lex>
+fem.	<disp>feminine</disp> <INFER/>
+fig.	<disp>figuratively</disp>
+Feb.	<disp>February</disp>
+fn.	<disp>feminine or neuter</disp>   USED IN <lex>
+fr.	<disp>from</disp>
+Fr.	<disp>From or French</disp>
+Fut.	<disp>future</disp>
+fut.	<disp>future</disp>
+fut.p.p.	<disp>future passive participle</disp>  <UNMARKED>
+fut.Pass.p.	<disp>future passive participle</disp>  <INFER/>
+g.	<disp>gaṇa</disp>
+G.	<disp>Gaspard Gorresio Italian edition</disp> <INFER/>
+G	<disp>Gaspard Gorresio Italian edition</disp> <INFER/>
+Gorr.	<disp>Gaspard Gorresio Italian edition</disp> <INFER/>
+Gorresio	<disp>Gaspard Gorresio</disp> <INFER/>
+Gael.	<disp>Gaelic</disp>
+gen.	<disp>genitive case</disp>
+Gen.	<disp>genitive case</disp>
+gend.	<disp>gender</disp>  <UNMARKED>
+geom.	<disp>geometry</disp>
+Germ.	<disp>German</disp>
+Old Germ.	<disp>Old German</disp>
+Old Pers.	<disp>Old Persian</disp>
+Old Persian	<disp>Old Persian</disp>
+Old High Germ.	<disp>Old High German</disp>
+Old Slav.	<disp>Old Slavic</disp>
+Gk.	<disp>Greek</disp>
+Got.	<disp>Gothic</disp>  <INFER/>
+Goth.	<disp>Gothic</disp>
+Govind.	</id>Govind.</id> <disp>Govinda</disp> <INFER/> def? hw = jawADAriSEvamata, darSanAvaraRIya
+Gr.	<disp>Grammar.</disp>
+Gram.	<disp>grammar</disp>  <INFER/>
+gram.	<disp>grammar</disp>  <INFER/>
+Gramm.	<disp>grammar</disp>  <INFER/>
+HGerm.	<disp>High German</disp> <INFER/>
+NHGerm.	<disp>New High German</disp> <INFER/>
+OGerm.	<disp>Old German</disp> <INFER/>
+Hib.	<disp>Hibernian or Irish</disp>
+Hind.	<disp>Hindī</disp>
+Kelt.	<disp>Keltic (or Celtic)</disp>
+i.e.	<disp>id est, or ‘that is’</disp>
+ib.	<disp>ibidem or ‘in the same place or book or text’ as the preceding</disp>
+ibc.	<disp>in the beginning of a compound</disp>
+Icel.	<disp>Icelandic</disp>
+id.	<disp>idem or ‘the same meaning as that of a preceding word’</disp>
+ident.	<disp>identical</disp>  <INFER>
+ifc.	<disp>in fine compositi or ‘at the end of a compound’</disp>
+impers.	<disp>impersonal or used impersonally</disp>
+impf.	<disp>imperfect tense</disp>
+Impf.	<disp>imperfect tense</disp> <INFER/>
+Impv.	<disp>imperative</disp>
+impv.	<disp>imperative</disp> <INFER/>
+Imp.	<disp>imperative</disp> <INFER/>
+Imper.	<disp>imperative</disp> <INFER/>
+ind.	<disp>indeclinable</disp>
+Ind.	<disp>indeclinable</disp>
+ind.p.	<disp>indeclinable participle</disp>  <INFER/>
+Indic.	<disp>indicative (= optative)</disp>  <INFER/>
+inf.	<disp>infinitive mood</disp>
+Inf.	<disp>infinitive mood</disp>  <INFER/>
+Inscr.	<disp>Inscriptions</disp> <UNMARKED>
+instr.	<disp>instrumental case</disp>
+inst.	<disp>instrumental case</disp> <INFER/>
+Inst.	<disp>instrumental case</disp> <INFER/>
+Intens.	<disp>Intensive</disp>
+intens.	<disp>Intensive</disp> <INFER/>
+interj.	<disp>interjection</disp>   <INFER/>
+interpol.	<disp>interpolation</disp>
+intrans.	<disp>intransitive</disp>
+intr.	<disp>intransitive</disp>
+Introd.	<disp>Introduction</disp>
+introd.	<disp>Introduction</disp>
+Ion.	<disp>Ionic</disp> <UNMARKED>
+irr.	<disp>irregular</disp>
+irreg.	<disp>irregular</disp>   <INFER/>
+L.	<disp>lexicographers (i.e. a word or meaning which although give in native lexicons, has not yet been met with in any published text)</disp>
+Lat.	<disp>Latin</disp>
+lat.	<disp>latitude</disp> <UNMARKED>
+Lett.	<disp>Lettish</disp>
+lit.	<disp>literally</disp>
+Lith.	<disp>Lithuanian</disp>
+Lit.	<disp>Lithuanian</disp>  <INFER/> ? hw= Dfz
+liturg.	<disp>liturgical</disp>
+Lin.	<disp>Carl Linnaeus</disp>  <INFER/>
+Loc.	<disp>locative case</disp> <INFER/>
+loc.	<disp>locative case</disp>
+log.	<disp>logic</disp>
+long.	<disp>longitude</disp>
+m.	<disp>masculine gender</disp>  USED IN <lex>
+m.c.	<disp>metri causa, or ‘for the sake of the meter’ in poetry</disp>
+mc.	<disp>metri causa, or ‘for the sake of the meter’ in poetry</disp> <INFER/>  177 cases. Maybe print is always m.c. ?
+math.	<disp>mathematics</disp>
+mathem.	<disp>mathematics</disp>
+med.	<disp>medicine</disp>
+medic.	<disp>medicine</disp>
+metron.	<disp>metronymic</disp>
+mfn.	<disp>masculine, feminine and neuter; or = adjective</disp>
+mf.	<disp>masculine, feminine </disp>
+mn.	<disp>masculine or neuter</disp>   USED IN <lex>
+Mod.	<disp>modern</disp>
+MS.	<disp>manuscript</disp>
+MSS.	<disp>manuscripts</disp>
+mystic.	<disp>mystical</disp>
+myst.	<disp>mystical</disp>
+myth.	<disp>mythology</disp>
+N.	<disp>Name (also = title or epithet)</disp>
+n.	<disp>neuter gender</disp>   USED IN <lex>
+neg.	<disp>negative</disp>
+negat.	<disp>negative</disp>
+Nom.	<disp>Nominal verb</disp>
+nom.	<disp>nominative case</disp>
+O.	<disp>Old</disp> <INFER/>
+O.E.	<disp>Old English</disp> <INFER/>
+O.H.G.	<disp>Old High German</disp> <INFER/>
+O.N.	<disp>Old Norse</disp> <INFER/>
+O.Pr.	<disp>Old Prussian</disp> <INFER/>
+O.S.	<disp>Old Slavonic</disp> <INFER/>
+obs.	<disp>obsolete</disp>
+onomat.	<disp>onomatopoetic (i.e. formed from imitation of sounds)</disp>
+opp.	<disp>opposed</disp> <INFER/> 446 cases. Maybe all opp. to ?
+opp. to	<disp>opposed to</disp>
+opt.	<disp>optative</disp> <UNMARKED>
+Opt.	<disp>optative</disp> <INFER/>
+Osk.	<disp>Oskan</disp> <INFER/>
+orig.	<disp>originally</disp>
+Orig.	<disp>originally</disp>
+Osset.	<disp>Ossetic</disp>
+others	<disp>according to others</disp>  <UNMARKED>
+oxyt.	<disp>oxytone, having an acute accent on last syllable</disp>  <INFER/>
+P.	<disp>Parasmai-pada</disp>
+p.	<disp>page or participle (cf. p.p.)</disp>
+p.p.	<disp>past participle</disp>
+pp.	<disp>past participle</disp>  <INFER/>
+p.p.p.	<disp>past participle</disp>  <INFER/> hw agDA. see gDa
+Paddh.	<disp>Paddhati, guide book or manual</disp> <INFER/>
+parox.	<disp>paroxytone, having an acute accent on penultimate syllable</disp>
+part.	<disp>participle</disp>
+partic.	<disp>particular</disp>
+Pass.	<disp>Passive voice</disp>
+pass.	<disp>Passive voice</disp>  <INFER/>
+patr.	<disp>patronymic</disp>
+periphr.	<disp>periphrastic</disp> <INFER/>
+perf.	<disp>perfect tense</disp>  <INFER/>
+perh.	<disp>perhaps</disp>
+Pers.	<disp>Persian</disp>
+pers.	<disp>person</disp>
+pf.	<disp>perfect tense</disp>
+phil.	<disp>philosophy</disp>
+Phil.	<disp>philosophy</disp> <INFER/>
+pl.	<disp>plural number</disp>
+plusq.	<disp>plusquamperfect, pluperfect</disp>
+poet.	<disp>poetry or poetic</disp>
+possess.	<disp>possessive</disp> <INFER/>
+Pot.	<disp>Potential</disp>
+Pol.	<disp>Polish</disp>
+Pr.	<disp>proper</disp>
+Prāk.	<disp>Prākṛit</disp>   <UNMARKED>
+Prākr.	<disp>Prākṛit</disp>  <MARKED, BUT WITH Pra1kr>
+pr.	<disp>present</disp> <INFER/>
+pr. p.	<disp>present participle</disp>  <INFER/> 320
+pr.p.	<disp>present participle</disp>  <INFER/> 51
+pres.p.	<disp>present participle</disp>  <INFER/> 3
+Prec.	<disp>precative or preceding</disp>
+prec.	<disp>preceding</disp>
+prep.	<disp>preposition</disp>
+prepos.	<disp>preposition</disp>
+pres.	<disp>present tense</disp>
+Pres.	<disp>present tense</disp> <INFER/>
+priv.	<disp>privative</disp>
+prob.	<disp>probably</disp>
+Prob.	<disp>probably</disp>
+pron.	<disp>pronoun</disp>
+pronom.	<disp>pronominal</disp>
+propar.	<disp>proparoxytone</disp>  <UNMARKED>
+proparox.	<disp>proparoxytone, or stress on third last syllable</disp>  <INFER/>
+Pruss.	<disp>Prussian</disp>  <UNMARKED>
+quot.	<disp>quotation</disp>
+q.v.	<disp>quod vide, which see</disp>
+qq.vv.	<disp>quod vide, which see</disp> <INFER/>
+qq.v.	<disp>quod vide, which see</disp> <INFER/>
+redupl.	<disp>reduplicated</disp>
+Rec.	<disp>Recension </disp> <INFER/> 
+Reflex.	<disp>Reflexive or used reflexively</disp>   <UNMARKED>
+reflex.	<disp>Reflexive or used reflexively</disp>   <UNMARKED>
+rhet.	<disp>rhetoric</disp>
+rt.	<disp>root</disp> <UNMARKED>
+rts.	<disp>roots</disp> <UNMARKED>
+Russ.	<disp>Russian</disp>
+RV.	<disp>Ṛg-veda</disp>
+Sax.	<disp>Saxon</disp>
+sc.	<disp>scilicet, or ‘that is to say’, ‘namely’</disp>
+Sch.	<disp>Scholiast or Commentator</disp>
+Schol.	<disp>Scholiast or Commentator</disp>
+scil.	<disp>scilicet</disp>
+Scot.	<disp>Scotch or Highland-Scotch</disp>   <UNMARKED>
+seq.	<disp>sequens, the following one</disp>
+seqq.	<disp>sequentia, the following ones</disp>
+sev.	<disp>several</disp>
+sg.	<disp>singular number</disp> <INFER/>
+st.	<disp>Stadt (German); instead of</disp>
+collect.	<disp>collective or collectively</disp>
+sing.	<disp>singular number</disp>
+Sk.	<disp>Sanskrit</disp>
+Skr.	<disp>Sanskrit</disp>
+Slav.	<disp>Slavonic or Slavonian</disp>
+Sl.	<disp>Slavonic or Slavonian.</disp>
+Subj.	<disp>subjunctive</disp>
+subst.	<disp>substantive</disp>
+suff.	<disp>suffix</disp>
+superl.	<disp>superlative degree</disp>
+Superl.	<disp>superlative degree</disp>
+surg.	<disp>surgery</disp>
+s.v.	<disp>sub voce, i.e. the word in the Sanskrit order</disp>
+ss.vv.	<disp>sub voce, i.e. the word in the Sanskrit order</disp>  <INFER/>
+SV.	<disp>Sāma-Veda </disp>  <INFER/> (should be ls? hw=traya)
+Svargakh.	<disp>Svargakhaṇḍa. 3rd book of Padma-Purāṇa</disp> <INFER/>   
+trans.	<disp>transitive</disp>
+Upan.	<disp>Upaniṣad</disp> <INFER/>
+Vārt.	<disp>Vārttika</disp>   <UNMARKED>
+Vārtt.	<disp>Vārttika</disp>  <PROBLEM? - LS?>
+vb.	<disp>verb</disp>
+Ved.	<disp>Vedic or Veda</disp>
+v.l.	<disp>varia lectio, or ‘variant reading or readings’</disp>
+vv.ll.	<disp>varia lectio, or ‘variant reading or readings’</disp>
+viz.	<disp>namely, in other words. From Latin videlicet</disp> <INFER/>
+voc.	<disp>vocative case</disp>
+vocat.	<disp>vocative</disp>
+vow.	<disp>vowel</disp>
+v.r.	<disp>variant reading</disp> <INFER/>
+w.r.	<disp>wrong reading</disp>
+wk.	<disp>work</disp>
+wks.	<disp>works</disp>
+YV.	<disp>Yajur-Veda</disp> <INFER/> should be ls? 
+YV	<disp>Yajur-Veda</disp> <INFER/> should be ls? 
+Zd.	<disp>Zend</disp>
+Zend	<disp>Zend</disp>
+Z.	<disp>Zend</disp>
+Sept.	<disp>September</disp>
+Oct.	<disp>October</disp>
+Nov.	<disp>November</disp>
+Them.	<disp>Thema or base</disp>
+Theme	<disp>Thema or base</disp>
+Thema	<disp>Thema or base</disp>
+Transl.	<disp>translation</disp>
+Umbr.	<disp>Umbrian</disp>
+N.W.	<disp>north-west</disp>
+S.E.	<disp>south-east</disp>
+S.W.	<disp>south-west</disp>
+N.E.	<disp>north-east</disp>
+S.	<disp>south</disp>
+Up.	<disp>Upaniṣad</disp> <INFER/>
+pref.	<disp>preface</disp>
+imp.	<disp>imperative</disp> <INFER/>
+Mr.	<disp>Mister</disp>
+St.	<disp>Saint</disp>
+absol.	<disp>absolutive</disp>
+act.	<disp>active</disp>
+astr.	<disp>astronomy</disp>
+caus.	<disp>causal</disp>
+chs.	<disp>chapters</disp>
+coll.	<disp>collectively</disp>
+comps.	<disp>compounds</disp>
+contr.	<disp>contraction</disp>
+corr.	<disp>correct(ly)</disp>
+correl.	<disp>correlative</disp>
+deriv.	<disp>derived</disp>
+etc.	<disp>et cetera, and so on</disp>
+etymol.	<disp>etymology</disp>
+exc.	<disp>except</disp>
+gr.	<disp>grammar</disp>
+gramm.	<disp>grammar or grammatical</disp>
+interrog.	<disp>interrogative</disp>
+lang.	<disp>language</disp>
+latit.	<disp>latitude</disp>
+lbs.	<disp>pounds</disp>
+metaph.	<disp>metaphorically</disp>
+metr.	<disp>metronymic</disp>
+mus.	<disp>music</disp>
+mythol.	<disp>mythology</disp>
+necess.	<disp>necessitative</disp>
+neut.	<disp>neuter</disp>
+nomin.	<disp>nominative</disp>
+num.	<disp>number</disp>
+obl.	<disp>oblique</disp>
+onom.	<disp>onomatopoetic</disp>
+onomatop.	<disp>onomatopoetic</disp>
+ozs.	<disp>ounces</disp>
+patron.	<disp>patronymic</disp>
+philos.	<disp>philosophy</disp>
+plur.	<disp>plural</disp>
+polit.	<disp>politics</disp>
+prop.	<disp>proparoxytone, or stress on third last syllable</disp>
+pros.	<disp>prosody</disp>
+prosod.	<disp>prosody, prosodical</disp>
+rel.	<disp>relative</disp>
+relat.	<disp>relative</disp>
+relig.	<disp>religion</disp>
+rhetor.	<disp>rhetoric, rhetorical</disp>
+sacrif.	<disp>sacrificial</disp>
+interr.	<disp>interrogative</disp>

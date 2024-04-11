@@ -151,7 +151,7 @@ def write_changes(fileout,changes):
   outrecs.append(outarr)
  write_recs(fileout,outrecs)
 
-def write_tags_del(fileout ,d):
+def write_tags_del(fileout,d):
  outarr = []
  for lnum in d:
   recs_del = d[lnum]
@@ -159,6 +159,12 @@ def write_tags_del(fileout ,d):
    outarr.append('%s %s' %(lnum,rec.langtag))
  write_lines(fileout,outarr)
  print(len(outarr),"items written to",fileout)
+
+def write_lnums_del(fileout,d):
+ deletes = d.keys()
+ deletes = sorted(deletes)
+ outarr = [str(delete) for delete in deletes]
+ write_lines(fileout,outarr)
 
 def check_del(d1,d2):
  n = 0
@@ -173,6 +179,7 @@ if __name__=="__main__":
  filein = sys.argv[2] #  xxx.txt 
  fileout = sys.argv[3] #
  fileout1 = sys.argv[4]
+ fileout2 = sys.argv[5]
  diffrecs = init_diffrecs(filetagdiff)
  lines = read_lines(filein)
  print(len(lines),"lines read from",filein)
@@ -184,3 +191,6 @@ if __name__=="__main__":
  write_tags_del(fileout1,lnums_del_dict)
  # check the lnums_chg_dict and lnums_del_dict are disjoint re lnum
  check_del(lnums_chg_dict,lnums_del_dict)
+ # 04-10-2024  just the lnums AB marked as delete
+ write_lnums_del(fileout2,lnums_del_dict)
+ 
