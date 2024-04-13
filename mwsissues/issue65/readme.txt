@@ -415,8 +415,50 @@ python lla/diffgroups.py lla/lla3.txt lla/diffgroups_lla3.txt
 zip temp_mw_6.zip temp_mw_6.txt
 post to issues/65 comment
 commit this repository.
+--------------------------------------------
+Further changes to cdsl mentioned in AB comments
+cp temp_mw_6.txt temp_mw_7.txt
+
+Manual changes to temp_mw_7.txt
+
+---
+Māgadhī in line 519281 is tagged as <s1, but to be done in line 207634 as well.
+ made the change at 207634 
+---
+Avantī in line 63845 is wrongly tagged as <lang, instead of in line 505970 (as suggested above).
+  this was done in temp_mw_6.txt
+---
+https://github.com/sanskrit-lexicon/mws/issues/65#issuecomment-2051868713
+TODO: Jim appears yet to consider the posts 1 and 2 above
+1: https://github.com/sanskrit-lexicon/MWS/issues/65#issuecomment-2048362664
+ Also, I had changed the <ab>ep.</ab> to <lang>ep.</lang>, as it stands for the "Epic Sanskrit" language.
+
+[Note: In a school of thought, the Skt. language is divided as (a) Vedic, (b) Brahmanic (and Upanishadic), (c) Epic, (d) classic and (e) later period types.]
+
+Jim changes temp_mw_7.txt :  <ab>ep.</ab> -> <lang>ep.</lang>
+ replaced 345 occurrences
+---
+Re: https://github.com/sanskrit-lexicon/MWS/issues/65#issuecomment-2048393555
+<s> tags to be easily identified as non-Skt. language terms near the <lang tags.
+
+Jim changes in temp_mw_7.txt:
+156672 <s>cancer</s> -> <etym>cancer</etym>
+
+263223 ' <s>pas</s>' deleted
+
+566277  <s>y</s> -> <i>y</i>
+566277  <s>j</s> -> <i>j</i>
+------------------------------
+Generate change file for possible reference
+python diff_to_changes_dict.py temp_mw_6.txt temp_mw_7.txt change_6_7.txt
+339 changes written to change_6_7.txt
+
+python updatebyLine.py temp_mw_6.txt change_6_7.txt temp.txt
+diff temp_mw_7.txt temp.txt | wc -l
+# 0 as expected
 
 *************************************************************
+
 *************************************************************
 work on tooltips. 
 
