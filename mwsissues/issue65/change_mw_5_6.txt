@@ -1,0 +1,1979 @@
+; **************************************************
+; 01: 24 'simple' changes
+; 01a: 1 Saṃskṛt -> Sanskṛt
+; 02:  1 change (';; deleted')
+; 03:  3 changes (';; matter rearranged
+; **************************************************
+; <L>3500<pc>17,2<k1>atra<k2>a/-tra<h>1<e>1
+; (CDSL):	12644	<lang>Ved.</lang>, <lang>Ved.</lang>
+; (AB):	12644	<lang>Ved.</lang>
+;; should have only one Ved. and "<s>a/-tra</s> (or <lang>Ved.</lang> <s>a/-trA</s>" after the broken bar to be deleted
+;; difference to be incorporated in cdsl
+12644 old <hom>1.</hom> <s>a/-tra</s> (or <lang>Ved.</lang> <s>a/-trA</s>), ¦ <lex>ind.</lex> <s>a/-tra</s> (or <lang>Ved.</lang> <s>a/-trA</s>) (<ab>fr.</ab> pronominal base <s>a</s>; often used in sense of <ab>loc.</ab> case <s>asmin</s>), in this matter, in this respect<info or="3500,atra;3499.1,atrA"/><info lex="ind"/>
+;
+12644 new <hom>1.</hom> <s>a/-tra</s> (or <lang>Ved.</lang> <s>a/-trA</s>), ¦ <lex>ind.</lex> (<ab>fr.</ab> pronominal base <s>a</s>; often used in sense of <ab>loc.</ab> case <s>asmin</s>), in this matter, in this respect<info or="3500,atra;3499.1,atrA"/><info lex="ind"/>
+; --------------------------------------------------
+; <L>17641<pc>100,3<k1>avantInagara<k2>avantI—nagara<e>3
+; (CDSL):	63845	<lang>Avantī</lang>
+; (AB):	63845	----------
+;; it is not a language, but a city (with <s1 tag)
+;; difference to be incorporated in cdsl
+63845 old <s>avantI—nagara</s> ¦ <lex>n.</lex> the city <lang>Avantī</lang>, <ls>Kād.</ls><info lex="n"/>
+;
+63845 new <s>avantI—nagara</s> ¦ <lex>n.</lex> the city <s1 slp1="avantI">Avantī</s1>, <ls>Kād.</ls><info lex="n"/>
+; --------------------------------------------------
+; <L>17738<pc>101,3<k1>avaBAsana<k2>ava-BAsana<e>2A
+; (CDSL):	64183	<lang>Ved.</lang>
+; (AB):	64183	----------
+;; it is not the language (Ved.), but the abbr. for Vedānta
+;; difference to be incorporated in cdsl
+64183 old ¦ (in <lang>Ved.</lang> <ab>phil.</ab>) illuminating.<info lex="inh"/>
+;
+64183 new ¦ (in <ab n="Vedānta" slp1="vedAnta">Ved.</ab> <ab>phil.</ab>) illuminating.<info lex="inh"/>
+; --------------------------------------------------
+; <L>20609<pc>118,3<k1>asan<k2>asa/n<h>2<e>1
+; (CDSL):	74272	<lang>ved.</lang>
+; (AB):	74272	<lang>Ved.</lang>
+74272 old <hom>2.</hom> <s>asa/n</s> ¦ <lex>n.</lex> <lang>ved.</lang> the base of some cases (<ab>viz.</ab> <ab>instr.</ab> <s>asnA/</s> <ab>gen.</ab> <ab>abl.</ab> <s>asna/s</s> <ab>gen.</ab> <ab>pl.</ab> <s>asnA/m</s>) of <s>a/sfj</s>, <ab>q.v.</ab>, <ls>AV.</ls>; <ls>VS.</ls>; <ls>MaitrS.</ls> &c.<info lex="n"/>
+;
+74272 new <hom>2.</hom> <s>asa/n</s> ¦ <lex>n.</lex> <lang>Ved.</lang> the base of some cases (<ab>viz.</ab> <ab>instr.</ab> <s>asnA/</s> <ab>gen.</ab> <ab>abl.</ab> <s>asna/s</s> <ab>gen.</ab> <ab>pl.</ab> <s>asnA/m</s>) of <s>a/sfj</s>, <ab>q.v.</ab>, <ls>AV.</ls>; <ls>VS.</ls>; <ls>MaitrS.</ls> &c.<info lex="n"/>
+; --------------------------------------------------
+; <L>63409<pc>346,3<k1>gam<k2>gam<h>1<e>1
+; (CDSL):	216876	<lang>ved.</lang>
+; (AB):	216876	<lang>Ved.</lang>
+216876 old <div n="vp"/><ab>Caus.</ab> <s>gamayati</s> (<ls>Pāṇ. ii, 4, 46</ls>; <ab>Impv.</ab> 2. <ab>sg.</ab> <lang>ved.</lang> <s>gamayA</s> or <s>gAmaya</s> [<ls>RV. v, 5, 10</ls>], 3. <ab>sg.</ab> <s>gamayatAt</s>, <ls>AitBr. ii, 6</ls>; <ab>perf.</ab> <s>gamayA/M cakAra</s>, <ls>AV.</ls> &c.)
+;
+216876 new <div n="vp"/><ab>Caus.</ab> <s>gamayati</s> (<ls>Pāṇ. ii, 4, 46</ls>; <ab>Impv.</ab> 2. <ab>sg.</ab> <lang>Ved.</lang> <s>gamayA</s> or <s>gAmaya</s> [<ls>RV. v, 5, 10</ls>], 3. <ab>sg.</ab> <s>gamayatAt</s>, <ls>AitBr. ii, 6</ls>; <ab>perf.</ab> <s>gamayA/M cakAra</s>, <ls>AV.</ls> &c.)
+; --------------------------------------------------
+; <L>74836<pc>401,2<k1>cUrRI<k2>cUrRI<e>2A
+; (CDSL):	254101	<lang>old Prākṛt</lang>
+; (AB):	254101	<lang>Old Prākṛt</lang>
+254101 old ¦ of the <lang>old Prākṛt</lang> commentaries on <ns>Jain</ns> texts<info lex="inh"/>
+;
+254101 new ¦ of the <lang>Old Prākṛt</lang> commentaries on <ns>Jain</ns> texts<info lex="inh"/>
+; --------------------------------------------------
+; <L>81630<pc>431,3<k1>takzan<k2>ta/kzan<e>2
+; (CDSL):	276122	<lang>Ved.</lang>, <lang>class.</lang>  no change AB to change
+; (AB):	276122	<lang>Ved.</lang>, <lang>Class.</lang>  
+;276122 old <s>ta/kzan</s> ¦ <lex>m.</lex> (<lang>Ved.</lang> <ab>acc.</ab> <s>°kzaRam</s>, <lang>class.</lang> <s>°kzaRam</s>, <ls>Pāṇ. vi, 4, 9</ls>, <ls>Kāś.</ls>) a wood-cutter, carpenter, <lang n="greek">τέκτων</lang> <ls>RV. ix, 112, 1</ls>; <ls>AV. x, 6, 3</ls>; <ls>VS.</ls> &c.<info lex="m"/>
+;
+;276122 new <s>ta/kzan</s> ¦ <lex>m.</lex> (<lang>Ved.</lang> <ab>acc.</ab> <s>°kzaRam</s>, <lang>class.</lang> <s>°kzaRam</s>, <ls>Pāṇ. vi, 4, 9</ls>, <ls>Kāś.</ls>) a wood-cutter, carpenter, <lang n="greek">τέκτων</lang> <ls>RV. ix, 112, 1</ls>; <ls>AV. x, 6, 3</ls>; <ls>VS.</ls> &c.<info lex="m"/>
+; --------------------------------------------------
+; <L>105219<pc>533,3<k1>nAgammA<k2>nAgammA<e>1
+; (CDSL):	354182	<lang>Prākr.</lang>, <lang>Tamil</lang>
+; (AB):	354182	<lang>Prākṛ.</lang>, <lang>Tamil</lang>
+;; difference (Prākr. -> Prākṛ.) to be incorporated in cdsl
+354182 old <s>nAgammA</s> ¦ <lex>f.</lex> (<lang>Prākr.</lang> for <s>na-agamyA</s>? [<ab>prob.</ab> <ab>fr.</ab> <lang>Tamil</lang>]) <ab>N.</ab> of a poetess, <ls>Cat.</ls><info lex="f"/>
+;
+354182 new <s>nAgammA</s> ¦ <lex>f.</lex> (<lang>Prākṛ.</lang> for <s>na-agamyA</s>? [<ab>prob.</ab> <ab>fr.</ab> <lang>Tamil</lang>]) <ab>N.</ab> of a poetess, <ls>Cat.</ls><info lex="f"/>
+; --------------------------------------------------
+; <L>122611<pc>620,2<k1>pArasInAmamAlA<k2>pArasI—nAma-mAlA<e>4
+; (CDSL):	413630	<lang>Sanskṛt-Persian</lang>
+; (AB):	413630	<lang>Sanskṛt</lang>-<lang>Persian</lang>
+;; AB has tagged the two languages separately, as these do not indicate a combo (or derived) langauge as Anglo-Saxon or Combro-Briton.
+;; cdsl might also consider doing the same
+413630 old <s>pAra°sI—nAma-mAlA</s> ¦ <lex>f.</lex> a <lang>Sanskṛt-Persian</lang> vocabulary<info lex="f"/>
+;
+413630 new <s>pAra°sI—nAma-mAlA</s> ¦ <lex>f.</lex> a <lang>Sanskṛt</lang>-<lang>Persian</lang> vocabulary<info lex="f"/>
+; --------------------------------------------------
+; <L>124093<pc>626,3<k1>pitfyARa<k2>pitf—yA/Ra<e>3B
+; (CDSL):	418392	<lang>Ved.</lang>
+; (AB):	418392	----------
+;; should not have (Ved.)
+418392 old <s>pitf—yA/Ra</s> ¦ <lex>m.</lex> (<lang>Ved.</lang>) (with or <ab>scil.</ab> <s>paTin</s>) the path leading to the <ab n="Pitṛ" slp1="pitf">P°</ab>s <ls>RV.</ls>; <ls>AV.</ls>; <ls>MBh.</ls> &c.<info lex="m"/>
+;
+418392 new <s>pitf—yA/Ra</s> ¦ <lex>m.</lex> (with or <ab>scil.</ab> <s>paTin</s>) the path leading to the <ab n="Pitṛ" slp1="pitf">P°</ab>s <ls>RV.</ls>; <ls>AV.</ls>; <ls>MBh.</ls> &c.<info lex="m"/>
+; --------------------------------------------------
+; ? <L>124095<pc>626,3<k1>pitfyARa<k2>pitf—yA/Ra<e>3B
+; (CDSL):	418395	<lang>Ved.</lang>
+; (AB):	418395	----------
+;; should not have (Ved.)
+418395 old <s>pitf—yA/Ra</s> ¦ <lex>n.</lex> (<lang>Ved.</lang>) the vehicle of the <ab n="Pitṛ" slp1="pitf">P°</ab>s, a car to convey virtuous persons after their decease to heaven, <ls>W.</ls><info lex="n"/>
+;
+418395 new <s>pitf—yA/Ra</s> ¦ <lex>n.</lex> the vehicle of the <ab n="Pitṛ" slp1="pitf">P°</ab>s, a car to convey virtuous persons after their decease to heaven, <ls>W.</ls><info lex="n"/>
+; --------------------------------------------------
+; <L>124096<pc>626,3<k1>pitfyAna<k2>pitf—yAna<e>3
+; (CDSL):	418398	<lang>Ved.</lang>
+; (AB):	418398	----------
+;; should not have (Ved.)
+418398 old <s>pitf—yA/Ra</s> (<lang>Ved.</lang>) and <s>pitf—yAna</s>, ¦ <lex>mfn.</lex> trodden by or leading to the <ab n="Pitṛ" slp1="pitf">P°</ab>s (path), <ls>RV.</ls>; <ls>AV.</ls>; <ls>ChUp.</ls><info and="124092,pitfyARa;124096,pitfyAna"/><info lex="m:f:n"/>
+;
+418398 new <s>pitf—yA/Ra</s> and <s>pitf—yAna</s>, ¦ <lex>mfn.</lex> trodden by or leading to the <ab n="Pitṛ" slp1="pitf">P°</ab>s (path), <ls>RV.</ls>; <ls>AV.</ls>; <ls>ChUp.</ls><info and="124092,pitfyARa;124096,pitfyAna"/><info lex="m:f:n"/>
+; --------------------------------------------------
+; <L>134650<pc>679,3<k1>pradAtavya<k2>pra-dAtavya<e>2
+; (CDSL):	453523	<lang>Saṃskṛt</lang>, <lang>Saṃskṛt</lang>
+; (AB):	453523	<lang>Sanskṛt</lang>, <lang>Sanskṛt</lang>
+;; AB has opted to change Saṃskṛt as Sanskṛt
+;; cdsl might also consider doing the same
+453523 old <s>pra-dAtavya</s> ¦ <lex>mfn.</lex> to be given (also in marriage) or offered or presented or restored or imparted &c. (<s>tezAM saMskftam pradAtavyam</s>, to these <lang>Saṃskṛt</lang> is to be imparted <ab>i.e.</ab> these are to be taught <lang>Saṃskṛt</lang>, <ls>Sāh.</ls>), <ls>Mn.</ls>; <ls>MBh.</ls> &c.<info lex="m:f:n"/>
+;
+453523 new <s>pra-dAtavya</s> ¦ <lex>mfn.</lex> to be given (also in marriage) or offered or presented or restored or imparted &c. (<s>tezAM saMskftam pradAtavyam</s>, to these <lang>Sanskṛt</lang> is to be imparted <ab>i.e.</ab> these are to be taught <lang>Sanskṛt</lang>, <ls>Sāh.</ls>), <ls>Mn.</ls>; <ls>MBh.</ls> &c.<info lex="m:f:n"/>
+; --------------------------------------------------
+; <L>139051<pc>703,1<k1>prAkfta<k2>prAkfta<e>1B
+; (CDSL):	468388	<lang>Saṃskṛt</lang>, <lang>Śaurasenī</lang>, <lang>Māhārāṣṭrī</lang>, <lang>Apabhraṃśa</lang>, <lang>Paiśācī</lang>
+; (AB):	468388	<lang>Sanskṛt</lang>, <lang>Śaurasenī</lang>, <lang>Māhārāṣṭrī</lang>, <lang>Apabhraṃśa</lang>, <lang>Paiśācī</lang>
+;; AB has opted to change Saṃskṛt as Sanskṛt
+;; cdsl might also consider doing the same
+468388 old <s>prAkfta</s> ¦ <lex>n.</lex> any provincial or vernacular dialect cognate with <lang>Saṃskṛt</lang> (<ab>esp.</ab> the language spoken by women and inferior characters in the plays, but also occurring in other kinds of literature and usually divided into 4 dialects, <ab>viz.</ab> <lang>Śaurasenī</lang>, <lang>Māhārāṣṭrī</lang>, <lang>Apabhraṃśa</lang> and <lang>Paiśācī</lang>), <ls>Kāv.</ls>; <ls>Kathās.</ls>; <ls>Kāvyād.</ls> &c.<info lex="n"/>
+;
+468388 new <s>prAkfta</s> ¦ <lex>n.</lex> any provincial or vernacular dialect cognate with <lang>Sanskṛt</lang> (<ab>esp.</ab> the language spoken by women and inferior characters in the plays, but also occurring in other kinds of literature and usually divided into 4 dialects, <ab>viz.</ab> <lang>Śaurasenī</lang>, <lang>Māhārāṣṭrī</lang>, <lang>Apabhraṃśa</lang> and <lang>Paiśācī</lang>), <ls>Kāv.</ls>; <ls>Kathās.</ls>; <ls>Kāvyād.</ls> &c.<info lex="n"/>
+; --------------------------------------------------
+; <L>150486<pc>755,3<k1>BAzA<k2>BAzA<e>2A
+; (CDSL):	505970	<lang>Prākṛt</lang>, <lang>Māhārāṣṭrī</lang>, <lang>Śaurasenī</lang>, <lang>Māgadhī</lang>, <lang>Prācyā</lang>
+; (AB):	505970	<lang>Prākṛt</lang>, <lang>Māhārāṣṭrī</lang>, <lang>Śaurasenī</lang>, <lang>Māgadhī</lang>, <lang>Prācyā</lang>, <lang>Avantī</lang>
+505970 old ¦ any <lang>Prākṛt</lang> dialect or a <ab>partic.</ab> group of 5 of them (<ab>viz.</ab> <lang>Māhārāṣṭrī</lang>, <lang>Śaurasenī</lang>, <lang>Māgadhī</lang>, <lang>Prācyā</lang>, and <s1 slp1="avanti">Avanti</s1>, also called <s1 slp1="paYca-viDA">Pañca-vidhā</s1> <s1 slp1="BAzA">Bhāṣā</s1>; <ab>cf.</ab> under <s>prAkfta</s>, <ab>p.</ab> 703), <ls>Cat.</ls><info lex="inh"/>
+;
+505970 new ¦ any <lang>Prākṛt</lang> dialect or a <ab>partic.</ab> group of 5 of them (<ab>viz.</ab> <lang>Māhārāṣṭrī</lang>, <lang>Śaurasenī</lang>, <lang>Māgadhī</lang>, <lang>Prācyā</lang>, and <lang>Avantī</lang>, also called <s1 slp1="paYca-viDA">Pañca-vidhā</s1> <s1 slp1="BAzA">Bhāṣā</s1>; <ab>cf.</ab> under <s>prAkfta</s>, <ab>p.</ab> 703), <ls>Cat.</ls><info lex="inh"/>
+; --------------------------------------------------
+; <L>160850<pc>800,3<k1>mahAvyutpatti<k2>mahA—vyutpatti<e>3
+; (CDSL):	540128	<lang>Sanskṛt-Tibetan</lang>
+; (AB):	540128	<lang>Sanskṛt</lang>-<lang>Tibetan</lang>
+;; AB has tagged the two languages separately, as these do not indicate a combo (or derived) langauge as Anglo-Saxon or Combro-Briton.
+;; cdsl might also consider doing the same
+540128 old <s>mahA—vyutpatti</s> ¦ <lex>f.</lex> <ab>N.</ab> of a <lang>Sanskṛt-Tibetan</lang> lexicon.<info lex="f"/>
+;
+540128 new <s>mahA—vyutpatti</s> ¦ <lex>f.</lex> <ab>N.</ab> of a <lang>Sanskṛt</lang>-<lang>Tibetan</lang> lexicon.<info lex="f"/>
+; --------------------------------------------------
+; <L>166550.1<pc>827,1<k1>mUz<k2>mUz<e>2E
+; (CDSL):	558566	<lang>Gk.</lang>, <lang>Lat.</lang>, <lang>Germ.</lang>, <lang>Germ.</lang>, <lang>Eng.</lang>
+; (AB):	558566	        <lang>Gk.</lang>, <lang>Lat.</lang>, <lang>Slav.</lang>, <lang>Germ.</lang>, <lang>Eng.</lang>
+;; should have Slav. & Germ. in that order
+;; difference to be incorporated in cdsl
+558566 old <s>mUz</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">μῦς</lang>; <lang>Lat.</lang> <etym>mus</etym>; <lang>Germ.</lang> <etym>myšǐ</etym> <lang>Germ.</lang> <etym>mûs</etym>, <etym>Maus</etym>; <lang>Eng.</lang> <etym>mouse</etym>.]
+;
+558566 new <s>mUz</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">μῦς</lang>; <lang>Lat.</lang> <etym>mus</etym>; <lang>Slav.</lang> <etym>myšǐ</etym>; <lang>Germ.</lang> <etym>mûs</etym>, <etym>Maus</etym>; <lang>Eng.</lang> <etym>mouse</etym>.]
+; --------------------------------------------------
+; <L>172148<pc>855,2<k1>yuva<k2>yuva/<h>1<e>1
+; (CDSL):	577271	<lang>ved.</lang>
+; (AB):	577271	<lang>Ved.</lang>
+577271 old <hom>1.</hom> <s>yuva/</s> ¦ actual base of the 2nd <ab>pers.</ab> <ab>pron.</ab> in the dual number (from which the forms <s>yuvA/m</s>, <s>yuvA/ByAm</s>, <s>yuva/yos</s>; <lang>ved.</lang> also <s>yuva/m</s>, <s>yuva/ByAm</s>, <s>yuva/t</s>, <s>yuvo/s</s>, are derived). <info lexcat="LEXID=pron,STEM=yuzmad"/>
+;
+577271 new <hom>1.</hom> <s>yuva/</s> ¦ actual base of the 2nd <ab>pers.</ab> <ab>pron.</ab> in the dual number (from which the forms <s>yuvA/m</s>, <s>yuvA/ByAm</s>, <s>yuva/yos</s>; <lang>Ved.</lang> also <s>yuva/m</s>, <s>yuva/ByAm</s>, <s>yuva/t</s>, <s>yuvo/s</s>, are derived). <info lexcat="LEXID=pron,STEM=yuzmad"/>
+; --------------------------------------------------
+; <L>186901<pc>922,3<k1>vararuci<k2>vara—ruci<e>3B
+; (CDSL):	624953	<lang>Prākṛt</lang>
+; (AB):	624953	<lang>Prākṛt</lang>, <lang>Prākṛt</lang>
+624953 old <s>vara—ruci</s> ¦ <lex>m.</lex> <ab>N.</ab> of a grammarian (also a poet, lexicographer, and writer on medicine, sometimes identified with <s1 slp1="kAtyAyana">Kātyāyana</s1>, the reputed author of the <s1 slp1="vArttika">Vārttika</s1>s or supplementary rules of <s1 slp1="pARini">Pāṇini</s1>; he is placed by some among the nine gems of the court of <s1 slp1="vikramAditya">Vikramāditya</s1>, and by others among the ornaments of the court of <s1 slp1="Boja">Bhoja</s1>; he was the author of the <ns>Prākrit</ns> grammar called <s1 slp1="prAkfta-prakASa">Prākṛta-prakāśa</s1>, and is said to be the first grammarian who reduced the various dialects of <lang>Prākṛt</lang> to a system), <ls>Pañcat.</ls>; <ls>Kathās.</ls> &c.<info lex="m"/>
+;
+624953 new <s>vara—ruci</s> ¦ <lex>m.</lex> <ab>N.</ab> of a grammarian (also a poet, lexicographer, and writer on medicine, sometimes identified with <s1 slp1="kAtyAyana">Kātyāyana</s1>, the reputed author of the <s1 slp1="vArttika">Vārttika</s1>s or supplementary rules of <s1 slp1="pARini">Pāṇini</s1>; he is placed by some among the nine gems of the court of <s1 slp1="vikramAditya">Vikramāditya</s1>, and by others among the ornaments of the court of <s1 slp1="Boja">Bhoja</s1>; he was the author of the <lang>Prākṛt</lang> grammar called <s1 slp1="prAkfta-prakASa">Prākṛta-prakāśa</s1>, and is said to be the first grammarian who reduced the various dialects of <lang>Prākṛt</lang> to a system), <ls>Pañcat.</ls>; <ls>Kathās.</ls> &c.<info lex="m"/>
+; --------------------------------------------------
+; <L>196113<pc>965,3<k1>vidAya<k2>vi-dAya<e>3A
+; (CDSL):	654932	<lang>Saṃskṛt</lang>
+; (AB):	654932	<lang>Sanskṛt</lang>
+;; AB has opted to change Saṃskṛt as Sanskṛt
+;; cdsl might also consider doing the same
+654932 old ¦ permission to go away, dismissal with good wishes (in this sense perhaps not a <lang>Saṃskṛt</lang> word; <ab>cf.</ab> <lang script="Arabic" n="Arabic">وداع</lang>). <info lex="inh"/>
+;
+654932 new ¦ permission to go away, dismissal with good wishes (in this sense perhaps not a <lang>Sanskṛt</lang> word; <ab>cf.</ab> <lang script="Arabic" n="Arabic">وداع</lang>). <info lex="inh"/>
+; --------------------------------------------------
+; <L>208176<pc>1028,2<k1>vora<k2>vora<e>1
+; (CDSL):	694917	<lang>Saṃskṛt</lang>
+; (AB):	694917	<lang>Sanskṛt</lang>
+;; AB has opted to change Saṃskṛt as Sanskṛt
+;; cdsl might also consider doing the same
+694917 old <s>vora</s> ¦ <lex>m.</lex> (<ab>prob.</ab> not a <lang>Saṃskṛt</lang> word) a sort of pulse, <bot>Dolichos Catjang</bot>, <ls>W.</ls><info lex="m"/>
+;
+694917 new <s>vora</s> ¦ <lex>m.</lex> (<ab>prob.</ab> not a <lang>Sanskṛt</lang> word) a sort of pulse, <bot>Dolichos Catjang</bot>, <ls>W.</ls><info lex="m"/>
+; --------------------------------------------------
+; <L>224361<pc>1105,3<k1>SvaSura<k2>Sva/Sura<e>1
+; (CDSL):	746861	<lang>Class.</lang>
+; (AB):	746861	----------
+;; combined as <ab n="Classical language">Class. lang°</ab>, as the <lang>Class.</lang> indicates "Classical Sanskrit"
+;; cdsl might also consider doing the same
+746861 old <s>Sva/Sura</s> ¦ <lex>m.</lex> (<ab>prob.</ab> for <ab>orig.</ab> <s>svaSura</s>; <ab>cf.</ab> below) a father-in-law, husband's or wife's father (in the oldest language commonly the former, in the <s1 slp1="sUtra">Sūtra</s1>s the latter, in <lang>Class.</lang> <ab n="language">lang°</ab> both meanings; also applied to a maternal uncle and to any venerable person), <ls>RV.</ls> &c. &c.<info lex="m"/>
+;
+746861 new <s>Sva/Sura</s> ¦ <lex>m.</lex> (<ab>prob.</ab> for <ab>orig.</ab> <s>svaSura</s>; <ab>cf.</ab> below) a father-in-law, husband's or wife's father (in the oldest language commonly the former, in the <s1 slp1="sUtra">Sūtra</s1>s the latter, in <ab n="Classical language">Class. lang°</ab> both meanings; also applied to a maternal uncle and to any venerable person), <ls>RV.</ls> &c. &c.<info lex="m"/>
+; --------------------------------------------------
+; <L>230505<pc>1138,2<k1>sad<k2>sad<h>2<e>1
+; (CDSL):	767696	<lang>ved.</lang>
+; (AB):	767696	<lang>Ved.</lang>
+767696 old <hom>2.</hom> <s>sad</s> ¦ <ab>cl.</ab> 1. or <ab>cl.</ab> 6. <ab>P.</ab> (<ls>Dhātup. xx, 24</ls> and <ls n="Dhātup.">xxvii, 133</ls>) <s>sIdati</s> (<ab>ep.</ab> also <s>°te</s>; <lang>ved.</lang> <s>sa/dati</s> or <s>sI/dati</s>, <s>°te</s>; <ab>pf.</ab> <s>sasA/da</s>, <s>sasa/tTa</s>, <s>sedu/s</s>, <s>sedire/</s>, <ls>RV.</ls>; <s>sIdatus</s>, <ls>MBh.</ls>; <s>sasadyAt</s>, <ls>AV.</ls>; <ab>aor.</ab> <s>asadat</s> [<ab>cf.</ab> <ab>pres.</ab> stem] <ab>Gr.</ab>; 2. 3. <ab>sg.</ab> <s>sa/tsi</s>, <s>sa/tsat</s>, <ls>RV.</ls>; <s>asAdIt</s>, <ls>TĀr.</ls>; <ab>fut.</ab> <s>sattA</s> <ab>Gr.</ab>; <s>satsyati</s>, <ls>Br.</ls>; <s>sIdizyati</s>, <ls>Pur.</ls>; <ab>inf.</ab> <s>sa/de</s>, <ls>RV.</ls>; <s>sattum</s>, <ls>Br.</ls>; <s>sIditum</s>, <ls>MBh.</ls>; <ab>ind.p.</ab> <s>-sa/dya</s>, <s>-sa/dam</s>, <ls>RV.</ls>; <s>-sAdam</s>, <ls>Br.</ls>),
+;
+767696 new <hom>2.</hom> <s>sad</s> ¦ <ab>cl.</ab> 1. or <ab>cl.</ab> 6. <ab>P.</ab> (<ls>Dhātup. xx, 24</ls> and <ls n="Dhātup.">xxvii, 133</ls>) <s>sIdati</s> (<ab>ep.</ab> also <s>°te</s>; <lang>Ved.</lang> <s>sa/dati</s> or <s>sI/dati</s>, <s>°te</s>; <ab>pf.</ab> <s>sasA/da</s>, <s>sasa/tTa</s>, <s>sedu/s</s>, <s>sedire/</s>, <ls>RV.</ls>; <s>sIdatus</s>, <ls>MBh.</ls>; <s>sasadyAt</s>, <ls>AV.</ls>; <ab>aor.</ab> <s>asadat</s> [<ab>cf.</ab> <ab>pres.</ab> stem] <ab>Gr.</ab>; 2. 3. <ab>sg.</ab> <s>sa/tsi</s>, <s>sa/tsat</s>, <ls>RV.</ls>; <s>asAdIt</s>, <ls>TĀr.</ls>; <ab>fut.</ab> <s>sattA</s> <ab>Gr.</ab>; <s>satsyati</s>, <ls>Br.</ls>; <s>sIdizyati</s>, <ls>Pur.</ls>; <ab>inf.</ab> <s>sa/de</s>, <ls>RV.</ls>; <s>sattum</s>, <ls>Br.</ls>; <s>sIditum</s>, <ls>MBh.</ls>; <ab>ind.p.</ab> <s>-sa/dya</s>, <s>-sa/dam</s>, <ls>RV.</ls>; <s>-sAdam</s>, <ls>Br.</ls>),
+; --------------------------------------------------
+; <L>264172<pc>1304,2<k1>hemacandra<k2>hema—candra<e>3B
+; (CDSL):	878139	<lang>Saṃskṛt</lang>, <lang>Prākṛt</lang>
+; (AB):	878139	<lang>Sanskṛt</lang>, <lang>Prākṛt</lang>
+;; AB has opted to change Saṃskṛt as Sanskṛt
+;; cdsl might also consider doing the same
+878139 old ¦ of a celebrated <s1 slp1="jEna">Jaina</s1> author (pupil of <s1 slp1="deva-candra">Deva-candra</s1> <s1 slp1="sUri">Sūri</s1> and teacher of king <s1 slp1="kumAra-pAla">Kumāra-pāla</s1>; he lived between 1089 and 1173 <ab>A.D.</ab> and is the author of a great many works, <ab>esp.</ab> of the <s1 slp1="anekArTa-keSa">Anekārtha-keśa</s1>, the <s1 slp1="aBiDAnacintAmaRi">Abhidhānacintāmaṇi</s1>, the <s1 slp1="uRAdi-sUtra-vftti">Uṇādi-sūtra-vṛtti</s1>, the <s1 slp1="deSI-nAmamAlA">Deśī-nāmamālā</s1>, a <lang>Saṃskṛt</lang> and <lang>Prākṛt</lang> grammar &c.)<info lex="inh"/>
+;
+878139 new ¦ of a celebrated <s1 slp1="jEna">Jaina</s1> author (pupil of <s1 slp1="deva-candra">Deva-candra</s1> <s1 slp1="sUri">Sūri</s1> and teacher of king <s1 slp1="kumAra-pAla">Kumāra-pāla</s1>; he lived between 1089 and 1173 <ab>A.D.</ab> and is the author of a great many works, <ab>esp.</ab> of the <s1 slp1="anekArTa-keSa">Anekārtha-keśa</s1>, the <s1 slp1="aBiDAnacintAmaRi">Abhidhānacintāmaṇi</s1>, the <s1 slp1="uRAdi-sUtra-vftti">Uṇādi-sūtra-vṛtti</s1>, the <s1 slp1="deSI-nAmamAlA">Deśī-nāmamālā</s1>, a <lang>Sanskṛt</lang> and <lang>Prākṛt</lang> grammar &c.)<info lex="inh"/>
+; --------------------------------------------------
+; **************************************************
+; 01a: 1 Saṃskṛt -> Sanskṛt 
+; **************************************************
+; <L>205937<pc>1016,3<k1>vedANga<k2>vedANga
+; Saṃskṛt -> Sanskṛt
+687854 old 2. <s>Candas</s>, ‘metre’ [represented by a treatise ascribed to <s1 slp1="piNgala-nAga">Piṅgala-nāga</s1>, which, however, treats of <lang>Prākṛt</lang> as well as <lang>Saṃskṛt</lang> metres, and includes only a few of the leading Vedic metres] :
+;
+687854 new 2. <s>Candas</s>, ‘metre’ [represented by a treatise ascribed to <s1 slp1="piNgala-nAga">Piṅgala-nāga</s1>, which, however, treats of <lang>Prākṛt</lang> as well as <lang>Sanskṛt</lang> metres, and includes only a few of the leading Vedic metres] :
+; **************************************************
+; 02:  1 change (';; deleted')
+; Includes 62 other commented out transactions
+; **************************************************
+; <L>291<pc>2,2<k1>akutrA<k2>a-ku/trA<e>2
+;(CDSL):	1025	<lang>Ved.</lang>
+;(AB):	1025	----------
+;; deleted (dup. entry)
+; 1025 old <s>a-kutra</s> or (<lang>Ved.</lang>) <s>a-ku/trA</s>, ¦ <lex>ind.</lex> nowhere, astray<info or="290,akutra;291,akutrA"/><info lex="ind"/>
+;
+; 1025 new <s>a-kutra</s> or (<lang>Ved.</lang>) <s>a-ku/trA</s>, ¦ <lex>ind.</lex> nowhere, astray<info or="290,akutra;291,akutrA"/><info lex="ind"/>
+; --------------------------------------------------
+; <L>3175.1<pc>15,2<k1>aWillA<k2>aWillA<h>b<e>1
+;(CDSL):	11488	<lang>Prākṛt</lang>
+;(AB):	11488	----------
+;; deleted (dup. entry)
+; 11488 old <s>atilihA</s> or <s>aWillA</s> ¦ <lex>f.</lex> <ab>N.</ab> of a <lang>Prākṛt</lang> metre (of four lines each containing sixteen <s1 slp1="mAtra">Mātra</s1>s). <info or="3175,atilihA;3175.1,aWillA"/><info lex="f"/>
+;
+; 11488 new <s>atilihA</s> or <s>aWillA</s> ¦ <lex>f.</lex> <ab>N.</ab> of a <lang>Prākṛt</lang> metre (of four lines each containing sixteen <s1 slp1="mAtra">Mātra</s1>s). <info or="3175,atilihA;3175.1,aWillA"/><info lex="f"/>
+; --------------------------------------------------
+; changed <L>3499.1<pc>17,2<k1>atrA<k2>a/-trA<e>1
+;(CDSL):	12638	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	12638	----------
+;; deleted (dup. entry)
+12638 old <hom>1.</hom> <s>a/-tra</s> (or <lang>Ved.</lang> <s>a/-trA</s>), ¦ <lex>ind.</lex> <s>a/-tra</s> (or <lang>Ved.</lang> <s>a/-trA</s>) (<ab>fr.</ab> pronominal base <s>a</s>; often used in sense of <ab>loc.</ab> case <s>asmin</s>), in this matter, in this respect<info or="3500,atra;3499.1,atrA"/><info lex="ind"/>
+;
+12638 new <hom>1.</hom> <s>a/-tra</s> (or <lang>Ved.</lang> <s>a/-trA</s>), ¦ <lex>ind.</lex> <s>a/-tra</s> (or <lang>Ved.</lang> <s>a/-trA</s>) (<ab>fr.</ab> pronominal base <s>a</s>; often used in sense of <ab>loc.</ab> case <s>asmin</s>), in this matter, in this respect<info or="3500,atra;3499.1,atrA"/><info lex="ind"/>
+; --------------------------------------------------
+; <L>3531.8<pc>17,3<k1>aTA<k2>a/TA<e>1
+;(CDSL):	12791	<lang>Ved.</lang>, <lang>English</lang>
+;(AB):	12791	----------
+;; deleted (dup. entry)
+; 12791 old <s>a/Ta</s> or <s>a/TA</s> (or <lang>Ved.</lang> <s>a/TA</s>), ¦ <lex>ind.</lex> (probably <ab>fr.</ab> <ab>pronom.</ab> base <s>a</s>) an auspicious and inceptive particle (not easily expressed in <lang>English</lang>), now<info or="3531,aTa;3531.8,aTA"/><info lex="ind"/>
+;
+; 12791 new <s>a/Ta</s> or <s>a/TA</s> (or <lang>Ved.</lang> <s>a/TA</s>), ¦ <lex>ind.</lex> (probably <ab>fr.</ab> <ab>pronom.</ab> base <s>a</s>) an auspicious and inceptive particle (not easily expressed in <lang>English</lang>), now<info or="3531,aTa;3531.8,aTA"/><info lex="ind"/>
+; --------------------------------------------------
+; <L>3953.2<pc>19,3<k1>aDA<k2>a/DA<h>a<e>1
+;(CDSL):	14397	<lang>Ved.</lang>
+;(AB):	14397	----------
+;; deleted (dup. entry)
+; 14397 old <s>a/Da</s> or <s>a/DA</s> ¦ <lex>ind.</lex>, <lang>Ved.</lang> (= <s>a/Ta</s>, used chiefly as an inceptive particle), now; then, therefore; moreover, so much the more; and, partly. <s>a/Da</s>—<s>a/Da</s> as well as, partly partly.<info or="3951,aDa;3953.2,aDA"/><info lex="ind"/>
+;
+; 14397 new <s>a/Da</s> or <s>a/DA</s> ¦ <lex>ind.</lex>, <lang>Ved.</lang> (= <s>a/Ta</s>, used chiefly as an inceptive particle), now; then, therefore; moreover, so much the more; and, partly. <s>a/Da</s>—<s>a/Da</s> as well as, partly partly.<info or="3951,aDa;3953.2,aDA"/><info lex="ind"/>
+; --------------------------------------------------
+; <L>4005<pc>20,1<k1>aDarAcya<k2>aDarAcya^<e>2
+;(CDSL):	14602	<lang>Ved.</lang>
+;(AB):	14602	----------
+;; deleted (dup. entry)
+; 14602 old <s>aDarAcI/na</s> [<ls>RV. ii, 17, 5</ls>] or <s>aDarAcya^</s> [(5); <ls>AV.</ls>], ¦ <lex>mfn.</lex> or <s>aDarA/Yc</s>, <s>A/N</s>, <s>A/cI</s>, <s>A/k</s>, <lang>Ved.</lang> tending downwards, to the nadir or the lower region, tending towards the south.<info or="4004,aDarAcIna;4005,aDarAcya;4006,aDarAYc"/>
+;
+; 14602 new <s>aDarAcI/na</s> [<ls>RV. ii, 17, 5</ls>] or <s>aDarAcya^</s> [(5); <ls>AV.</ls>], ¦ <lex>mfn.</lex> or <s>aDarA/Yc</s>, <s>A/N</s>, <s>A/cI</s>, <s>A/k</s>, <lang>Ved.</lang> tending downwards, to the nadir or the lower region, tending towards the south.<info or="4004,aDarAcIna;4005,aDarAcya;4006,aDarAYc"/>
+; --------------------------------------------------
+; <L>4006<pc>20,1<k1>aDarAYc<k2>aDarA/Yc<e>2
+;(CDSL):	14605	<lang>Ved.</lang>
+;(AB):	14605	----------
+;; deleted (dup. entry)
+; 14605 old <s>aDarAcI/na</s> [<ls>RV. ii, 17, 5</ls>] or <s>aDarAcya^</s> [(5); <ls>AV.</ls>], ¦ <lex>mfn.</lex> or <s>aDarA/Yc</s>, <s>A/N</s>, <s>A/cI</s>, <s>A/k</s>, <lang>Ved.</lang> tending downwards, to the nadir or the lower region, tending towards the south.<info or="4004,aDarAcIna;4005,aDarAcya;4006,aDarAYc"/>
+;
+; 14605 new <s>aDarAcI/na</s> [<ls>RV. ii, 17, 5</ls>] or <s>aDarAcya^</s> [(5); <ls>AV.</ls>], ¦ <lex>mfn.</lex> or <s>aDarA/Yc</s>, <s>A/N</s>, <s>A/cI</s>, <s>A/k</s>, <lang>Ved.</lang> tending downwards, to the nadir or the lower region, tending towards the south.<info or="4004,aDarAcIna;4005,aDarAcya;4006,aDarAYc"/>
+; --------------------------------------------------
+; <L>8197.105<pc>43,3<k1>antara<k2>antara<e>1E
+;(CDSL):	30162	<lang>Goth.</lang>, <lang>Lith.</lang>, <lang>Lat.</lang>
+;(AB):	30162	----------
+;; deleted (dup. entry)
+; 30162 old <s>antara</s> ¦ [<ab>cf.</ab> <lang>Goth.</lang> <etym>anthar</etym>, <ab>Theme</ab> <etym>anthara</etym>; <lang>Lith.</lang> <etym>antra-s</etym>, ‘the second’; <lang>Lat.</lang> <etym>alter</etym>].
+;
+; 30162 new <s>antara</s> ¦ [<ab>cf.</ab> <lang>Goth.</lang> <etym>anthar</etym>, <ab>Theme</ab> <etym>anthara</etym>; <lang>Lith.</lang> <etym>antra-s</etym>, ‘the second’; <lang>Lat.</lang> <etym>alter</etym>].
+; --------------------------------------------------
+; <L>9359.7<pc>50,2<k1>apaBraMsa<k2>apa-BraMsa<e>1A
+;(CDSL):	34624	<lang>Prākṛt</lang>
+;(AB):	34624	----------
+;; deleted (dup. entry)
+; 34624 old ¦ the most corrupt of the <lang>Prākṛt</lang> dialects.<info lex="inh"/>
+;
+; 34624 new ¦ the most corrupt of the <lang>Prākṛt</lang> dialects.<info lex="inh"/>
+; --------------------------------------------------
+; <L>10157<pc>55,1<k1>apigrAhya<k2>api-grAhya<e>2
+;(CDSL):	37709	<lang>Ved.</lang>
+;(AB):	37709	----------
+;; deleted (dup. entry)
+; 37709 old <hom>2.</hom> <s>api-gfhya</s> [<lang>Ved.</lang> <ls>Pāṇ. iii, 1, 118</ls>] or <s>api-grAhya</s> [<ab>ib.</ab> <ab>Comm.</ab>], ¦ <s>am</s>, <lex>n.</lex> <ab>impers.</ab> (with <ab>abl.</ab>) the mouth to be closed before (a bad smell, &c.)<info or="10156,apigfhya;10157,apigrAhya"/><info lex="n"/>
+;
+; 37709 new <hom>2.</hom> <s>api-gfhya</s> [<lang>Ved.</lang> <ls>Pāṇ. iii, 1, 118</ls>] or <s>api-grAhya</s> [<ab>ib.</ab> <ab>Comm.</ab>], ¦ <s>am</s>, <lex>n.</lex> <ab>impers.</ab> (with <ab>abl.</ab>) the mouth to be closed before (a bad smell, &c.)<info or="10156,apigfhya;10157,apigrAhya"/><info lex="n"/>
+; --------------------------------------------------
+; <L>32059.55<pc>183,1<k1>und<k2>und<e>1E
+;(CDSL):	114091	<lang>Gk.</lang>, <lang>Lat.</lang>, <lang>Goth.</lang>, <lang>Old High Germ.</lang>, <lang>Mod. Eng.</lang>, <lang>Lith.</lang>
+;(AB):	114091	----------
+;; deleted (dup. entry)
+; 114091 old <s>und</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">ὕδωρ</lang>; <lang>Lat.</lang> <etym>unda</etym>; <lang>Goth.</lang> <etym>vat-o</etym>; <lang>Old High Germ.</lang> <etym>waz-ar</etym>; <lang>Mod. Eng.</lang> <etym>wat-er</etym>; <lang>Lith.</lang> <etym>wand-ū́</etym>.]
+;
+; 114091 new <s>und</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">ὕδωρ</lang>; <lang>Lat.</lang> <etym>unda</etym>; <lang>Goth.</lang> <etym>vat-o</etym>; <lang>Old High Germ.</lang> <etym>waz-ar</etym>; <lang>Mod. Eng.</lang> <etym>wat-er</etym>; <lang>Lith.</lang> <etym>wand-ū́</etym>.]
+; --------------------------------------------------
+; <L>37526.75<pc>219,1<k1>ulva<k2>ulva<e>1E
+;(CDSL):	132732	<lang>Lat.</lang>, <lang>Lith.</lang>
+;(AB):	132732	----------
+;; deleted (dup. entry)
+; 132732 old <s>ulva</s> ¦ [<ab>cf.</ab> <lang>Lat.</lang> <etym>alvus</etym>, <etym>vulva</etym>; <lang>Lith.</lang> <etym>urwā</etym>, <etym>üla</etym>.]
+;
+; 132732 new <s>ulva</s> ¦ [<ab>cf.</ab> <lang>Lat.</lang> <etym>alvus</etym>, <etym>vulva</etym>; <lang>Lith.</lang> <etym>urwā</etym>, <etym>üla</etym>.]
+; --------------------------------------------------
+; <L>38693.1<pc>224,3<k1>fGAvan<k2>fGAvan<e>3E
+;(CDSL):	136704	<lang>Zd.</lang>, <lang>Mod. Germ.</lang>
+;(AB):	136704	----------
+;; deleted (dup. entry)
+; 136704 old <s>fGAvan</s> ¦ [<ab>cf.</ab> <lang>Zd.</lang> <etym>ěrěghant</etym>; <lang>Mod. Germ.</lang> <etym>arg</etym>.]
+;
+; 136704 new <s>fGAvan</s> ¦ [<ab>cf.</ab> <lang>Zd.</lang> <etym>ěrěghant</etym>; <lang>Mod. Germ.</lang> <etym>arg</etym>.]
+; --------------------------------------------------
+; <L>40094.1<pc>231,3<k1>eman<k2>eman<e>2E
+;(CDSL):	141507	<lang>Gk.</lang>, <lang>Lith.</lang>
+;(AB):	141507	----------
+;; deleted (dup. entry)
+; 141507 old <s>eman</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">οἶμος</lang>, <lang n="greek">οἴμη</lang> <lang>Lith.</lang> <etym>eisme</etym>.]
+;
+; 141507 new <s>eman</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">οἶμος</lang>, <lang n="greek">οἴμη</lang> <lang>Lith.</lang> <etym>eisme</etym>.]
+; --------------------------------------------------
+; <L>40113.1<pc>232,1<k1>enA<k2>enA<e>1
+;(CDSL):	141589	<lang>Ved.</lang>
+;(AB):	141589	----------
+;; deleted (dup. entry)
+; 141589 old <hom>2.</hom> <s>ena</s> and <s>enA</s>, ¦ <lang>Ved.</lang> <ab>instr.</ab> of <s>idam</s>, <ab>q.v.</ab><info and="40113,ena;40113.1,enA"/>
+;
+; 141589 new <hom>2.</hom> <s>ena</s> and <s>enA</s>, ¦ <lang>Ved.</lang> <ab>instr.</ab> of <s>idam</s>, <ab>q.v.</ab><info and="40113,ena;40113.1,enA"/>
+; --------------------------------------------------
+; <L>45102.1<pc>257,3<k1>kartavE<k2>ka/rtavE/<e>1
+;(CDSL):	158068	<lang>Ved.</lang>
+;(AB):	158068	----------
+;; deleted (dup. entry)
+; 158068 old <s>ka/rtave</s> [<ls>RV.</ls> & <ls>AV.</ls>] and <s>ka/rtavE/</s> [<ls>Naigh.</ls>; <ls>ŚBr.</ls>], ¦ <lang>Ved.</lang> <ab>inf.</ab> of √ <hom>1.</hom> <s>kf</s>, to do <ab>q.v.</ab><info and="45102,kartave;45102.1,kartavE"/>
+;
+; 158068 new <s>ka/rtave</s> [<ls>RV.</ls> & <ls>AV.</ls>] and <s>ka/rtavE/</s> [<ls>Naigh.</ls>; <ls>ŚBr.</ls>], ¦ <lang>Ved.</lang> <ab>inf.</ab> of √ <hom>1.</hom> <s>kf</s>, to do <ab>q.v.</ab><info and="45102,kartave;45102.1,kartavE"/>
+; --------------------------------------------------
+; <L>59654.3<pc>329,2<k1>kzIv<k2>kzIv<e>1E
+;(CDSL):	204814	<lang>Hib.</lang>
+;(AB):	204814	----------
+;; deleted (dup. entry)
+; 204814 old <s>kzIb</s> ¦ [<ab>cf.</ab> √ <s>kziv</s> &c.; <ab>cf.</ab> also <lang>Hib.</lang> <etym>siobhas</etym>, ‘rage, madness’.]
+;
+; 204814 new <s>kzIb</s> ¦ [<ab>cf.</ab> √ <s>kziv</s> &c.; <ab>cf.</ab> also <lang>Hib.</lang> <etym>siobhas</etym>, ‘rage, madness’.]
+; --------------------------------------------------
+; <L>68437.55<pc>370,3<k1>granT<k2>granT<e>1E
+;(CDSL):	233087	<lang>Lat.</lang>
+;(AB):	233087	----------
+;; deleted (dup. entry)
+; 233087 old <s>granT</s> ¦ [<ab>cf.</ab> <lang n="greek">κλώθω</lang>; <lang>Lat.</lang> <etym>glut-en</etym> ?]
+;
+; 233087 new <s>granT</s> ¦ [<ab>cf.</ab> <lang n="greek">κλώθω</lang>; <lang>Lat.</lang> <etym>glut-en</etym> ?]
+; --------------------------------------------------
+; <L>74841<pc>401,2<k1>cUrRi<k2>cUrRi<e>2A
+;(CDSL):	254116	<lang>old Prākṛt</lang>
+;(AB):	254116	----------
+;; deleted (dup. entry)
+; 254116 old ¦ of the <lang>old Prākṛt</lang> commentaries on <ns>Jain</ns> texts<info lex="inh"/>
+;
+; 254116 new ¦ of the <lang>old Prākṛt</lang> commentaries on <ns>Jain</ns> texts<info lex="inh"/>
+; --------------------------------------------------
+; <L>85921.55<pc>450,2<k1>tuP<k2>tuP<e>1E
+;(CDSL):	290009	<lang>Lat.</lang>, <lang>Germ.</lang>
+;(AB):	290009	----------
+;; deleted (dup. entry)
+; 290009 old <s>tuP</s> ¦ [<ab>cf.</ab> <s>tuB</s>, <s>tump</s>; <lang n="greek">τύπ-τ-ω</lang>, <lang n="greek">τύμπανον</lang>; <lang>Lat.</lang> <etym>stupeo</etym>; <lang>Germ.</lang> <etym>stumpf</etym>.]
+;
+; 290009 new <s>tuP</s> ¦ [<ab>cf.</ab> <s>tuB</s>, <s>tump</s>; <lang n="greek">τύπ-τ-ω</lang>, <lang n="greek">τύμπανον</lang>; <lang>Lat.</lang> <etym>stupeo</etym>; <lang>Germ.</lang> <etym>stumpf</etym>.]
+; --------------------------------------------------
+; <L>89230.1<pc>464,3<k1>daMs<k2>daMs<h>1<e>1
+;(CDSL):	300868	<lang>Prākṛt</lang>
+;(AB):	300868	----------
+;; deleted (dup. entry)
+; 300868 old <div n="to"/> <ab>cl.</ab> 1. <ab>P.</ab> and <ab>cl.</ab> 10. <ab>Ā.</ab> (<ab>fr.</ab> <lang>Prākṛt</lang> <i>daṃse</i>) to show, 2 f.
+;
+; 300868 new <div n="to"/> <ab>cl.</ab> 1. <ab>P.</ab> and <ab>cl.</ab> 10. <ab>Ā.</ab> (<ab>fr.</ab> <lang>Prākṛt</lang> <i>daṃse</i>) to show, 2 f.
+; --------------------------------------------------
+; <L>93282.55<pc>482,3<k1>dU<k2>dU<e>1E
+;(CDSL):	314533	<lang>Lit.</lang>, <lang>Sl.</lang>
+;(AB):	314533	----------
+;; deleted (dup. entry)
+; 314533 old <s>dU</s> ¦ [<ab>cf.</ab> <lang n="greek">δαίω</lang>. for <lang n="greek">δαϝιω</lang>; <lang n="greek">δύη</lang>, pain; <lang>Lit.</lang> <etym>davyti</etym>, to torment; <lang>Sl.</lang> <etym>daviti</etym>, to worry.]
+;
+; 314533 new <s>dU</s> ¦ [<ab>cf.</ab> <lang n="greek">δαίω</lang>. for <lang n="greek">δαϝιω</lang>; <lang n="greek">δύη</lang>, pain; <lang>Lit.</lang> <etym>davyti</etym>, to torment; <lang>Sl.</lang> <etym>daviti</etym>, to worry.]
+; --------------------------------------------------
+; <L>98000.55<pc>502,3<k1>drA<k2>drA<e>1E
+;(CDSL):	329927	<lang>Gk.</lang>, <lang>Lat.</lang>
+;(AB):	329927	----------
+;; deleted (dup. entry)
+; 329927 old <s>drA</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">ἔδραθον</lang>, <lang>Lat.</lang> <etym>dormio</etym>].
+;
+; 329927 new <s>drA</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">ἔδραθον</lang>, <lang>Lat.</lang> <etym>dormio</etym>].
+; --------------------------------------------------
+; <L>99700.55<pc>509,3<k1>DmA<k2>DmA<e>1E
+;(CDSL):	335640	<lang>Slav.</lang>
+;(AB):	335640	----------
+;; deleted (dup. entry)
+; 335640 old <s>DmA</s> ¦ [<ab>cf.</ab> <lang>Slav.</lang> <etym>dumo</etym> ‘smoke’]
+;
+; 335640 new <s>DmA</s> ¦ [<ab>cf.</ab> <lang>Slav.</lang> <etym>dumo</etym> ‘smoke’]
+; --------------------------------------------------
+; <L>101325.1<pc>517,1<k1>DIdA<k2>DIdA<h>2<e>1
+;(CDSL):	340937	<lang>Pāli</lang>, <lang>Prākṛt</lang>
+;(AB):	340937	----------
+;; deleted (dup. entry)
+; 340937 old <s>DItA</s> (<ls>Buddh.</ls>) and <hom>2.</hom> <s>DIdA</s> (<ls>Mṛcch.</ls>; <ls>Ratn.</ls>), ¦ <lex>f.</lex> (<lang>Pāli</lang> and <lang>Prākṛt</lang> forms for <s>duhitA</s>) daughter.<info lex="f"/><info or="101325,DItA;101325.1,DIdA"/>
+;
+; 340937 new <s>DItA</s> (<ls>Buddh.</ls>) and <hom>2.</hom> <s>DIdA</s> (<ls>Mṛcch.</ls>; <ls>Ratn.</ls>), ¦ <lex>f.</lex> (<lang>Pāli</lang> and <lang>Prākṛt</lang> forms for <s>duhitA</s>) daughter.<info lex="f"/><info or="101325,DItA;101325.1,DIdA"/>
+; --------------------------------------------------
+; <L>102398.3<pc>522,1<k1>Dvas<k2>Dvas<e>1E
+;(CDSL):	344465	<lang>Germ.</lang>, <lang>Angl.Sax.</lang>, <lang>Engl.</lang>
+;(AB):	344465	----------
+;; deleted (dup. entry)
+; 344465 old <s>DvaMs</s> ¦ [<ab>cf.</ab> <lang>Germ.</lang> <etym>dunst</etym>, <etym>tunst</etym>; <lang>Angl.Sax.</lang> <etym>dûst</etym>, <lang>Engl.</lang> <etym>dust</etym>.]
+;
+; 344465 new <s>DvaMs</s> ¦ [<ab>cf.</ab> <lang>Germ.</lang> <etym>dunst</etym>, <etym>tunst</etym>; <lang>Angl.Sax.</lang> <etym>dûst</etym>, <lang>Engl.</lang> <etym>dust</etym>.]
+; --------------------------------------------------
+; <L>104757.55<pc>531,3<k1>naMS<k2>naMS<e>1E
+;(CDSL):	352669	<lang>Lat.</lang>, <lang>Lith.</lang>, <lang>Slav.</lang>, <lang>Goth.</lang>, <lang>Germ.</lang>, <lang>Angl.Sax.</lang>, <lang>Eng.</lang>
+;(AB):	352669	----------
+;; deleted (dup. entry)
+; 352669 old <s>naMS</s> ¦ [<ab>cf.</ab> <hom>1.</hom> <s>aS</s> and <s>nakz</s>; <lang>Lat.</lang> <etym>nac-tus sum</etym>; <lang>Lith.</lang> <etym>nèszti</etym>; <lang>Slav.</lang> <etym>nesti</etym>; <lang>Goth.</lang> <etym>ganôhs</etym>; <lang>Germ.</lang> <etym>genug</etym>; <lang>Angl.Sax.</lang> <etym>genôh</etym>; <lang>Eng.</lang> <etym>enough</etym>.]
+;
+; 352669 new <s>naMS</s> ¦ [<ab>cf.</ab> <hom>1.</hom> <s>aS</s> and <s>nakz</s>; <lang>Lat.</lang> <etym>nac-tus sum</etym>; <lang>Lith.</lang> <etym>nèszti</etym>; <lang>Slav.</lang> <etym>nesti</etym>; <lang>Goth.</lang> <etym>ganôhs</etym>; <lang>Germ.</lang> <etym>genug</etym>; <lang>Angl.Sax.</lang> <etym>genôh</etym>; <lang>Eng.</lang> <etym>enough</etym>.]
+; --------------------------------------------------
+; <L>108659.1<pc>549,2<k1>nid<k2>nid<e>1
+;(CDSL):	365888	<lang>Gk.</lang>
+;(AB):	365888	----------
+;; deleted (dup. entry)
+; 365888 old <div n="vp"/><ab>Desid.</ab> <s>ni/nitsati</s>, <s>°te</s>, to wish to blame &c., <ls>RV.</ls>; <ls>ĀśvŚr.</ls> [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">ὄ-νειδος</lang>.]
+;
+; 365888 new <div n="vp"/><ab>Desid.</ab> <s>ni/nitsati</s>, <s>°te</s>, to wish to blame &c., <ls>RV.</ls>; <ls>ĀśvŚr.</ls> [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">ὄ-νειδος</lang>.]
+; --------------------------------------------------
+; <L>113507.55<pc>575,2<k1>paYj<k2>paYj<e>1E
+;(CDSL):	382811	<lang>Gk.</lang>, <lang>Lat.</lang>
+;(AB):	382811	----------
+;; deleted (dup. entry)
+; 382811 old <s>paYj</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">πήγνυμι</lang>; <lang>Lat.</lang> <etym>pango</etym>.]
+;
+; 382811 new <s>paYj</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">πήγνυμι</lang>; <lang>Lat.</lang> <etym>pango</etym>.]
+; --------------------------------------------------
+; <L>114548.15<pc>580,1<k1>paqvISa<k2>paqvISa<e>3E
+;(CDSL):	386470	<lang>Lat.</lang>
+;(AB):	386470	----------
+;; deleted (dup. entry)
+; 386470 old <s>paqvISa</s> ¦ [<lang>Lat.</lang> <etym>vincio</etym>, <etym>vinculum</etym>?]
+;
+; 386470 new <s>paqvISa</s> ¦ [<lang>Lat.</lang> <etym>vincio</etym>, <etym>vinculum</etym>?]
+; --------------------------------------------------
+; <L>114549.15<pc>580,1<k1>paqviMSa<k2>paqviMSa<e>3E
+;(CDSL):	386482	<lang>Lat.</lang>
+;(AB):	386482	----------
+;; deleted (dup. entry)
+; 386482 old <s>paqviMSa</s> ¦ [<lang>Lat.</lang> <etym>vincio</etym>, <etym>vinculum</etym>?]
+;
+; 386482 new <s>paqviMSa</s> ¦ [<lang>Lat.</lang> <etym>vincio</etym>, <etym>vinculum</etym>?]
+; --------------------------------------------------
+; <L>128969.1<pc>648,2<k1>peroja<k2>peroja<h>a<e>1
+;(CDSL):	434330	<lang>Pers.</lang>
+;(AB):	434330	----------
+;; deleted (dup. entry)
+; 434330 old <s>peraja</s> or <s>peroja</s> ¦ <lex>n.</lex> a turquoise, <ls>L.</ls> (<ab>cf.</ab> <lang>Pers.</lang> <lang script="Arabic" n="Persian">فيروزه</lang>). <info or="128969,peraja;128969.1,peroja"/><info lex="n"/>
+;
+; 434330 new <s>peraja</s> or <s>peroja</s> ¦ <lex>n.</lex> a turquoise, <ls>L.</ls> (<ab>cf.</ab> <lang>Pers.</lang> <lang script="Arabic" n="Persian">فيروزه</lang>). <info or="128969,peraja;128969.1,peroja"/><info lex="n"/>
+; --------------------------------------------------
+; <L>146034.1<pc>735,2<k1>vfh<k2>vfh<h>a<e>1
+;(CDSL):	491319	<lang>Ved.</lang>
+;(AB):	491319	----------
+;; deleted (dup. entry)
+; 491319 old <div n="vp"/> <s>vfha/ti</s> (<ab>pf.</ab> <s>babarha</s>, <s>vava/rha</s>; <ab>fut.</ab> <s>varkzyati</s>, <s>varhizyati</s>; <s>varQA</s>, <s>varhitA</s>; <ab>aor.</ab> <s>barhIt</s>, <s>avfkzat</s>; <ab>ind.p.</ab> <s>vriQvA</s>, <s>varhitvA</s>, <s>vf/hya</s>, <s>barham</s>, <s>va/rham</s>; <lang>Ved.</lang> <ab>inf.</ab> <s>vfhas</s>:
+;
+; 491319 new <div n="vp"/> <s>vfha/ti</s> (<ab>pf.</ab> <s>babarha</s>, <s>vava/rha</s>; <ab>fut.</ab> <s>varkzyati</s>, <s>varhizyati</s>; <s>varQA</s>, <s>varhitA</s>; <ab>aor.</ab> <s>barhIt</s>, <s>avfkzat</s>; <ab>ind.p.</ab> <s>vriQvA</s>, <s>varhitvA</s>, <s>vf/hya</s>, <s>barham</s>, <s>va/rham</s>; <lang>Ved.</lang> <ab>inf.</ab> <s>vfhas</s>:
+; --------------------------------------------------
+; <L>155187.1<pc>777,1<k1>manT<k2>manT<h>a<e>1
+;(CDSL):	521220	<lang>Ved.</lang>
+;(AB):	521220	----------
+;; deleted (dup. entry)
+; 521220 old (<lang>Ved.</lang> and <ab>ep.</ab> also <ab>Ā.</ab> <s>ma/Tate</s>, <s>ma/nTate</s> and <s>maTnIte</s>;
+;
+; 521220 new (<lang>Ved.</lang> and <ab>ep.</ab> also <ab>Ā.</ab> <s>ma/Tate</s>, <s>ma/nTate</s> and <s>maTnIte</s>;
+; --------------------------------------------------
+; <L>155187.55<pc>777,1<k1>manT<k2>manT<e>1E
+;(CDSL):	521250	<lang>Gk.</lang>, <lang>Lat.</lang>, <lang>Lit.</lang>, <lang>Germ.</lang>, <lang>Angl.Sax.</lang>, <lang>Eng.</lang>
+;(AB):	521250	----------
+;; deleted (dup. entry)
+; 521250 old <s>manT</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">μίνθη</lang>; <lang>Lat.</lang> <etym>mentha</etym>, <etym>menta</etym>; <lang>Lit.</lang> <etym>mentùrė</etym>; <lang>Germ.</lang> <etym>minza</etym>, <etym>Minze</etym>; <lang>Angl.Sax.</lang> <etym>minte</etym>; <lang>Eng.</lang> <etym>mint</etym>.]
+;
+; 521250 new <s>manT</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">μίνθη</lang>; <lang>Lat.</lang> <etym>mentha</etym>, <etym>menta</etym>; <lang>Lit.</lang> <etym>mentùrė</etym>; <lang>Germ.</lang> <etym>minza</etym>, <etym>Minze</etym>; <lang>Angl.Sax.</lang> <etym>minte</etym>; <lang>Eng.</lang> <etym>mint</etym>.]
+; --------------------------------------------------
+; <L>173342.1<pc>861,2<k1>raj<k2>raj<h>b<e>1
+;(CDSL):	581186	<lang>Gk.</lang>
+;(AB):	581186	----------
+;; deleted (dup. entry)
+; 581186 old <div n="vp"/><ab>Intens.</ab> <s>rArajIti</s> (<ab>Gr.</ab> also <s>rArajyate</s> and <s>rAraNkti</s>), to be greatly excited, exult, <ls>RV. ix, 5, 2</ls> (others ‘to shine bright’). [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">ῥέζω</lang>, ‘to dye’, <lang n="greek">ῥεγεύς</lang>, ‘dyer’.]
+;
+; 581186 new <div n="vp"/><ab>Intens.</ab> <s>rArajIti</s> (<ab>Gr.</ab> also <s>rArajyate</s> and <s>rAraNkti</s>), to be greatly excited, exult, <ls>RV. ix, 5, 2</ls> (others ‘to shine bright’). [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">ῥέζω</lang>, ‘to dye’, <lang n="greek">ῥεγεύς</lang>, ‘dyer’.]
+; --------------------------------------------------
+; <L>174724.1<pc>866,1<k1>raTezWA<k2>raTezWA<e>3E
+;(CDSL):	585583	<lang>Zd.</lang>
+;(AB):	585583	----------
+;; deleted (dup. entry)
+; 585583 old <s>raTezWA</s> ¦ [<ab>cf.</ab> <lang>Zd.</lang> <etym>rathæstā</etym>.]
+;
+; 585583 new <s>raTezWA</s> ¦ [<ab>cf.</ab> <lang>Zd.</lang> <etym>rathæstā</etym>.]
+; --------------------------------------------------
+; <L>174809.1<pc>866,3<k1>ranD<k2>ranD<h>a<e>1
+;(CDSL):	585896	<lang>Ved.</lang>
+;(AB):	585896	----------
+;; deleted (dup. entry)
+; 585896 old <div n="vp"/><ab>Caus.</ab> <s>ranDa/yati</s> (<lang>Ved.</lang> also <s>°te</s>; <ab>aor.</ab> <s>rIraDat</s>, <ls>RV.</ls>; <s>araranDat</s> <ab>Gr.</ab>),
+;
+; 585896 new <div n="vp"/><ab>Caus.</ab> <s>ranDa/yati</s> (<lang>Ved.</lang> also <s>°te</s>; <ab>aor.</ab> <s>rIraDat</s>, <ls>RV.</ls>; <s>araranDat</s> <ab>Gr.</ab>),
+; --------------------------------------------------
+; <L>174870.1<pc>867,1<k1>ramB<k2>ramB<h>a<e>1
+;(CDSL):	586096	<lang>Ved.</lang>
+;(AB):	586096	----------
+;; deleted (dup. entry)
+; 586096 old <s>raB</s> or <s>ramB</s> ¦ (mostly <ab>comp.</ab> with a <ab>prep.</ab>; <ab>cf.</ab> √ <s>graB</s> and See √ <s>laB</s> with which <s>raB</s> is connected) <ab>cl.</ab> 1. <ab>Ā.</ab> (<ls>Dhātup. xxiii, 5</ls>) <s>ra/Bate</s> (<ab>mc.</ab> also <s>°ti</s> and <ab>ep.</ab> <s>ramBati</s>, <s>°te</s>; <ab>pf.</ab> <s>reBe/</s>, <ls>RV.</ls>; also <s>rAraBe</s> and 1. <ab>pl.</ab> <s>raraBma/</s>; <ab>aor.</ab> <s>a/rabDa</s>, <ls>RV.</ls>; <ab>fut.</ab> <s>rabDA</s> <ab>Gr.</ab>; <s>rapsyati</s>, <ls>MBh.</ls>; <s>°te</s>, <ls>ib.</ls> &c.; <ab>inf.</ab> <s>rabDum</s>, <ls>MBh.</ls>; <lang>Ved.</lang> <s>ra/Bam</s>, <s>ra/Be</s>; <ab>ind.p.</ab> <s>ra/Bya</s>, <ls>RV.</ls> &c.), <info or="174870,raB;174870.1,ramB"/><info westergaard="raBa,23.5,01.0693"/><info whitneyroots="raB,136"/><info verb="genuineroot" cp="1Ā"/>
+;
+; 586096 new <s>raB</s> or <s>ramB</s> ¦ (mostly <ab>comp.</ab> with a <ab>prep.</ab>; <ab>cf.</ab> √ <s>graB</s> and See √ <s>laB</s> with which <s>raB</s> is connected) <ab>cl.</ab> 1. <ab>Ā.</ab> (<ls>Dhātup. xxiii, 5</ls>) <s>ra/Bate</s> (<ab>mc.</ab> also <s>°ti</s> and <ab>ep.</ab> <s>ramBati</s>, <s>°te</s>; <ab>pf.</ab> <s>reBe/</s>, <ls>RV.</ls>; also <s>rAraBe</s> and 1. <ab>pl.</ab> <s>raraBma/</s>; <ab>aor.</ab> <s>a/rabDa</s>, <ls>RV.</ls>; <ab>fut.</ab> <s>rabDA</s> <ab>Gr.</ab>; <s>rapsyati</s>, <ls>MBh.</ls>; <s>°te</s>, <ls>ib.</ls> &c.; <ab>inf.</ab> <s>rabDum</s>, <ls>MBh.</ls>; <lang>Ved.</lang> <s>ra/Bam</s>, <s>ra/Be</s>; <ab>ind.p.</ab> <s>ra/Bya</s>, <ls>RV.</ls> &c.), <info or="174870,raB;174870.1,ramB"/><info westergaard="raBa,23.5,01.0693"/><info whitneyroots="raB,136"/><info verb="genuineroot" cp="1Ā"/>
+; --------------------------------------------------
+; <L>176008.1<pc>871,2<k1>rAs<k2>rAs<h>2<e>1
+;(CDSL):	589787	<lang>Ved.</lang>, <lang>Class.</lang>
+;(AB):	589787	----------
+;; deleted (dup. entry)
+; 589787 old <hom>1.</hom> <s>rA</s> or <hom>2.</hom> <s>rAs</s> ¦ <ab>cl.</ab> 2. <ab>P.</ab> (<ls>Dhātup. xxiv, 49</ls>) <s>rA/ti</s> (<lang>Ved.</lang> also <ab>Ā.</ab> <s>rAte/</s>; <ab>Impv.</ab> <s>rirIhi</s>, <s>rarAsva</s>, <s>rariDvam</s>; <ab>p.</ab> <s>rarARa</s>; 3. <ab>sg.</ab> <s>ra/rate</s> and <s>rAsate</s>; <ab>pf.</ab> <s>rarima/</s>, <s>rare/</s>; <ab>aor.</ab> <s>a/rAsma</s> <ab>Subj.</ab> <s>rA/tat</s> &c. <ab>Pot.</ab> <s>rAsIya</s>; <lang>Class.</lang> forms are only <ab>pr.</ab> <s>rAti</s>; <ab>fut.</ab> <s>rAtA</s>, <ls>BhP.</ls>; <s>rAsyati</s>, <ls>Vop.</ls>, and <ab>inf.</ab> <s>rA<srs/>tave</s>, <ls>BhP.</ls>), to grant, give, bestow, impart, yield, surrender, <ls>RV.</ls>; &c.<info or="176008,rA;176008.1,rAs"/><info westergaard="rA,24.49,02.0060"/><info whitneyroots="rA1,138"/><info verb="genuineroot" cp="2P,2Ā"/>
+;
+; 589787 new <hom>1.</hom> <s>rA</s> or <hom>2.</hom> <s>rAs</s> ¦ <ab>cl.</ab> 2. <ab>P.</ab> (<ls>Dhātup. xxiv, 49</ls>) <s>rA/ti</s> (<lang>Ved.</lang> also <ab>Ā.</ab> <s>rAte/</s>; <ab>Impv.</ab> <s>rirIhi</s>, <s>rarAsva</s>, <s>rariDvam</s>; <ab>p.</ab> <s>rarARa</s>; 3. <ab>sg.</ab> <s>ra/rate</s> and <s>rAsate</s>; <ab>pf.</ab> <s>rarima/</s>, <s>rare/</s>; <ab>aor.</ab> <s>a/rAsma</s> <ab>Subj.</ab> <s>rA/tat</s> &c. <ab>Pot.</ab> <s>rAsIya</s>; <lang>Class.</lang> forms are only <ab>pr.</ab> <s>rAti</s>; <ab>fut.</ab> <s>rAtA</s>, <ls>BhP.</ls>; <s>rAsyati</s>, <ls>Vop.</ls>, and <ab>inf.</ab> <s>rA<srs/>tave</s>, <ls>BhP.</ls>), to grant, give, bestow, impart, yield, surrender, <ls>RV.</ls>; &c.<info or="176008,rA;176008.1,rAs"/><info westergaard="rA,24.49,02.0060"/><info whitneyroots="rA1,138"/><info verb="genuineroot" cp="2P,2Ā"/>
+; --------------------------------------------------
+; <L>186745.1<pc>921,3<k1>varUtri<k2>va/rUtri<e>2B
+;(CDSL):	624350	<lang>Gk.</lang>
+;(AB):	624350	----------
+;; deleted (dup. entry)
+; 624350 old <s>va/rUtri</s> ¦ <lex>f.</lex> a female protector, guardian goddess (applied to a <ab>partic.</ab> class of divine beings), <ls>RV.</ls>; <ls>TS.</ls>; <ls>VS.</ls>; <ls>ŚBr.</ls> [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">ῥύτωρ</lang> for <lang n="greek">ϝερυτωρ</lang>.] <info orsl="186745,varUtrI;186745.1,varUtri"/><info lex="f"/>
+;
+; 624350 new <s>va/rUtri</s> ¦ <lex>f.</lex> a female protector, guardian goddess (applied to a <ab>partic.</ab> class of divine beings), <ls>RV.</ls>; <ls>TS.</ls>; <ls>VS.</ls>; <ls>ŚBr.</ls> [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">ῥύτωρ</lang> for <lang n="greek">ϝερυτωρ</lang>.] <info orsl="186745,varUtrI;186745.1,varUtri"/><info lex="f"/>
+; --------------------------------------------------
+; <L>193661<pc>953,1<k1>visaMsTula<k2>vi—saMsTula<h>a<e>3
+;(CDSL):	646739	<lang>Prākṛt</lang>
+;(AB):	646739	----------
+;; deleted (dup. entry)
+; 646739 old <s>vi—saMzWula</s> (<ls>Kpr.</ls>; <ls>Rājat.</ls> &c.) or <s>vi—saMsTula</s> (<ls>HYog.</ls>; <ls>Śatr.</ls>), ¦ <lex>mfn.</lex> (<ab>fr.</ab> <lang>Prākṛt</lang> <i>vi-saṃthula</i>, <ab>prob.</ab> derived from √ <s>SraT</s>) unsteady, infirm, tottering<info or="193660,visaMzWula;193661,visaMsTula"/><info lex="m:f:n"/>
+;
+; 646739 new <s>vi—saMzWula</s> (<ls>Kpr.</ls>; <ls>Rājat.</ls> &c.) or <s>vi—saMsTula</s> (<ls>HYog.</ls>; <ls>Śatr.</ls>), ¦ <lex>mfn.</lex> (<ab>fr.</ab> <lang>Prākṛt</lang> <i>vi-saṃthula</i>, <ab>prob.</ab> derived from √ <s>SraT</s>) unsteady, infirm, tottering<info or="193660,visaMzWula;193661,visaMsTula"/><info lex="m:f:n"/>
+; --------------------------------------------------
+; <L>205584<pc>1014,3<k1>vetAlapaYcaviMSatikA<k2>vetAla—paYca-viMSatikA<e>3
+;(CDSL):	686682	<lang>Hindī</lang>, <lang>Tamil</lang>, <lang>Telugu</lang>
+;(AB):	686682	----------
+;; deleted (dup. entry)
+; 686682 old <s>vetAla—paYca-viMSati</s> or <s>vetAla—paYca-viMSa°tikA</s>, ¦ <lex>f.</lex> a collection of 25 tales or fables told by a <s1 slp1="vetAla">Vetāla</s1> or demon to king <s1 slp1="vikramAditya">Vikramāditya</s1> (of which there are 5 recensions extant, one by <s1 slp1="kzemendra">Kṣemendra</s1> in his <s1 slp1="bfhat-kaTA-maYjarI">Bṛhat-kathā-mañjarī</s1>, one by <s1 slp1="soma-deva">Soma-deva</s1> in the <s1 slp1="kaTA-sarit-sAgara">Kathā-sarit-sāgara</s1>, and the other three by <s1 slp1="jamBala-datta">Jambhala-datta</s1>, <s1 slp1="vallaBa">Vallabha</s1>, and <s1 slp1="Siva-dAsa">Śiva-dāsa</s1> <pb n="1015,1"/>; versions of these popular tales exist in <lang>Hindī</lang>, <lang>Tamil</lang> and <lang>Telugu</lang>, and almost every <ns>Hindū</ns> vernacular). <info or="205583,vetAlapaYcaviMSati;205584,vetAlapaYcaviMSatikA"/><info lex="f"/>
+;
+; 686682 new <s>vetAla—paYca-viMSati</s> or <s>vetAla—paYca-viMSa°tikA</s>, ¦ <lex>f.</lex> a collection of 25 tales or fables told by a <s1 slp1="vetAla">Vetāla</s1> or demon to king <s1 slp1="vikramAditya">Vikramāditya</s1> (of which there are 5 recensions extant, one by <s1 slp1="kzemendra">Kṣemendra</s1> in his <s1 slp1="bfhat-kaTA-maYjarI">Bṛhat-kathā-mañjarī</s1>, one by <s1 slp1="soma-deva">Soma-deva</s1> in the <s1 slp1="kaTA-sarit-sAgara">Kathā-sarit-sāgara</s1>, and the other three by <s1 slp1="jamBala-datta">Jambhala-datta</s1>, <s1 slp1="vallaBa">Vallabha</s1>, and <s1 slp1="Siva-dAsa">Śiva-dāsa</s1> <pb n="1015,1"/>; versions of these popular tales exist in <lang>Hindī</lang>, <lang>Tamil</lang> and <lang>Telugu</lang>, and almost every <ns>Hindū</ns> vernacular). <info or="205583,vetAlapaYcaviMSati;205584,vetAlapaYcaviMSatikA"/><info lex="f"/>
+; --------------------------------------------------
+; <L>208142<pc>1028,1<k1>vo|ave<k2>vo/|ave<e>2
+;(CDSL):	694842	<lang>Ved.</lang>
+;(AB):	694842	----------
+;; deleted (dup. entry)
+; 694842 old <s>vo/Qave</s> or <s>vo/|ave</s>, <lang>Ved.</lang> <ab>inf.</ab> of √ <hom>1.</hom> <s>vah</s>.<info or="208141,voQave;208142,vo|ave"/>
+;
+; 694842 new <s>vo/Qave</s> or <s>vo/|ave</s>, <lang>Ved.</lang> <ab>inf.</ab> of √ <hom>1.</hom> <s>vah</s>.<info or="208141,voQave;208142,vo|ave"/>
+; --------------------------------------------------
+; <L>210728.1<pc>1043,1<k1>vrAcaqa<k2>vrAcaqa<e>1
+;(CDSL):	703494	<lang>Apabhraṃśa</lang>
+;(AB):	703494	----------
+;; deleted (dup. entry)
+; 703494 old <s>vrAcawa</s> or <s>vrAcaqa</s> ¦ <lex>m.</lex> a kind of <lang>Apabhraṃśa</lang> dialect, <ls>Cat.</ls><info or="210728,vrAcawa;210728.1,vrAcaqa"/><info lex="m"/>
+;
+; 703494 new <s>vrAcawa</s> or <s>vrAcaqa</s> ¦ <lex>m.</lex> a kind of <lang>Apabhraṃśa</lang> dialect, <ls>Cat.</ls><info or="210728,vrAcawa;210728.1,vrAcaqa"/><info lex="m"/>
+; --------------------------------------------------
+; <L>214925<pc>1062,2<k1>SAkyaSramaRaka<k2>SAkya—SramaRaka<e>3
+;(CDSL):	716902	<lang>Prākṛt</lang>
+;(AB):	716902	----------
+;; deleted (dup. entry)
+; 716902 old <s>SAkya—SramaRa</s> or <s>SAkya—Srama°Raka</s>, ¦ <lex>m.</lex> a <ns>Buddhist</ns> monk, <ls>Mṛcch.</ls> (in <lang>Prākṛt</lang>). <info or="214924,SAkyaSramaRa;214925,SAkyaSramaRaka"/><info lex="m"/>
+;
+; 716902 new <s>SAkya—SramaRa</s> or <s>SAkya—Srama°Raka</s>, ¦ <lex>m.</lex> a <ns>Buddhist</ns> monk, <ls>Mṛcch.</ls> (in <lang>Prākṛt</lang>). <info or="214924,SAkyaSramaRa;214925,SAkyaSramaRaka"/><info lex="m"/>
+; --------------------------------------------------
+; <L>219616.1<pc>1083,1<k1>SumB<k2>SumB<h>1<e>1
+;(CDSL):	731785	<lang>Ved.</lang>
+;(AB):	731785	----------
+;; deleted (dup. entry)
+; 731785 old (<ab>ep.</ab> also <s>SoBati</s>, and <lang>Ved.</lang> <s>Su/mBate</s>; 3. <ab>sg.</ab> <s>So/Be</s>, <ls>RV.</ls>; <ab>pf.</ab> <s>SuSoBa</s>, <s>SuSuBe</s>, <ls>MBh.</ls> &c.; <s>SuSumBa</s> <ab>Gr.</ab>; <ab>aor.</ab>, <s>aSuBat</s>, <s>aSoBizwa</s>, <s>aSumBIt</s>, <ls>ib.</ls>; <ab>p.</ab> <s>Su/mBAna</s>, <s>SuBAna/</s>, <ls>RV.</ls>; <ab>fut.</ab> <s>SoBitA</s> or <s>SumBitA</s> <ab>Gr.</ab>; <s>SoBizyati</s>, <ls>MBh.</ls>; <s>SumBizyati</s> <ab>Gr.</ab>; <ab>inf.</ab> <s>SuBe/</s>, <s>SoBAse</s>, <ls>RV.</ls>; <s>SoBitum</s> <ab>Gr.</ab>),
+;
+; 731785 new (<ab>ep.</ab> also <s>SoBati</s>, and <lang>Ved.</lang> <s>Su/mBate</s>; 3. <ab>sg.</ab> <s>So/Be</s>, <ls>RV.</ls>; <ab>pf.</ab> <s>SuSoBa</s>, <s>SuSuBe</s>, <ls>MBh.</ls> &c.; <s>SuSumBa</s> <ab>Gr.</ab>; <ab>aor.</ab>, <s>aSuBat</s>, <s>aSoBizwa</s>, <s>aSumBIt</s>, <ls>ib.</ls>; <ab>p.</ab> <s>Su/mBAna</s>, <s>SuBAna/</s>, <ls>RV.</ls>; <ab>fut.</ab> <s>SoBitA</s> or <s>SumBitA</s> <ab>Gr.</ab>; <s>SoBizyati</s>, <ls>MBh.</ls>; <s>SumBizyati</s> <ab>Gr.</ab>; <ab>inf.</ab> <s>SuBe/</s>, <s>SoBAse</s>, <ls>RV.</ls>; <s>SoBitum</s> <ab>Gr.</ab>),
+; --------------------------------------------------
+; <L>222321.1<pc>1095,3<k1>Srad<k2>Sra/d<e>1
+;(CDSL):	740191	<lang>Lat.</lang>, <lang>Gk.</lang>, <lang>Eng.</lang>
+;(AB):	740191	----------
+;; deleted (dup. entry)
+; 740191 old <s>Sra/t</s> or <s>Sra/d</s> ¦ <lex>ind.</lex> (<ab>accord.</ab> to <ls>Naigh. iii, 10</ls> = <s>satya</s>, ‘truth, faithfulness’; <ab>prob.</ab> allied to <lang>Lat.</lang> <etym>credo</etym> for <etym>cred-do</etym>; <etym>cor</etym>, <etym>cord-is</etym>; <lang>Gk.</lang> <lang n="greek">καρδία</lang>, <lang n="greek">κραδίη</lang>, <lang>Eng.</lang> ‘heart’; only in <ab>comp.</ab> with √ <s>kf</s> and <s>dAna</s> and √ <s>DA</s> and its derivations See below). <info or="222321,Srat;222321.1,Srad"/><info lex="ind"/>
+;
+; 740191 new <s>Sra/t</s> or <s>Sra/d</s> ¦ <lex>ind.</lex> (<ab>accord.</ab> to <ls>Naigh. iii, 10</ls> = <s>satya</s>, ‘truth, faithfulness’; <ab>prob.</ab> allied to <lang>Lat.</lang> <etym>credo</etym> for <etym>cred-do</etym>; <etym>cor</etym>, <etym>cord-is</etym>; <lang>Gk.</lang> <lang n="greek">καρδία</lang>, <lang n="greek">κραδίη</lang>, <lang>Eng.</lang> ‘heart’; only in <ab>comp.</ab> with √ <s>kf</s> and <s>dAna</s> and √ <s>DA</s> and its derivations See below). <info or="222321,Srat;222321.1,Srad"/><info lex="ind"/>
+; --------------------------------------------------
+; <L>222382.1<pc>1096,1<k1>SranT<k2>SranT<e>1
+;(CDSL):	740396	<lang>Ved.</lang>
+;(AB):	740396	----------
+;; deleted (dup. entry)
+; 740396 old <s>SraT</s> or <s>SranT</s> ¦ (<ab>cf.</ab> √ <s>SlaT</s>) <ab>cl.</ab> 9. <ab>P.</ab> (<ls>Dhātup. xxxi, 39</ls>) <s>SraTnAti</s> (<lang>Ved.</lang> also <s>SraTnIte</s> and <s>SfnTati</s>, and <ab>accord.</ab> to <ls>Dhātup.</ls> also <s>SraTati</s>, <s>SrATayati</s>, <s>SranTati</s>, <s>°te</s>; <ab>pf.</ab> <s>SaSrATa</s> or <s>SaSranTa</s> <ab>Gr.</ab>; 3. <ab>sg.</ab> <s>-SaSraTe</s>, <ls>RV.</ls>; 3. <ab>pl.</ab> <s>SreTuH</s> or <s>SaSranTuH</s> <ab>Gr.</ab>; <ab>aor.</ab> <s>aSranTIt</s>, <s>°Tizwa</s>, <ls>ib.</ls>; <ab>fut.</ab> <s>SranTizyati</s>, <ls>ib.</ls>; <ab>inf.</ab> <s>SraTitum</s> or <s>SranTitum</s>, <ls>ib.</ls>; <ab>ind.p.</ab> <s>SraTitvA</s> or <s>SranTitvA</s>, <ls>ib.</ls>; <s>-SraTya</s>, <ls>Nir.</ls>), <info or="222382,SraT;222382.1,SranT"/><info westergaard="SranTa,31.39,09.0045;SraTa,32.13,10.0013;granTa,34.31,10.0229"/><info whitneyroots="SraT,177"/><info verb="genuineroot" cp="9P,9Ā"/>
+;
+; 740396 new <s>SraT</s> or <s>SranT</s> ¦ (<ab>cf.</ab> √ <s>SlaT</s>) <ab>cl.</ab> 9. <ab>P.</ab> (<ls>Dhātup. xxxi, 39</ls>) <s>SraTnAti</s> (<lang>Ved.</lang> also <s>SraTnIte</s> and <s>SfnTati</s>, and <ab>accord.</ab> to <ls>Dhātup.</ls> also <s>SraTati</s>, <s>SrATayati</s>, <s>SranTati</s>, <s>°te</s>; <ab>pf.</ab> <s>SaSrATa</s> or <s>SaSranTa</s> <ab>Gr.</ab>; 3. <ab>sg.</ab> <s>-SaSraTe</s>, <ls>RV.</ls>; 3. <ab>pl.</ab> <s>SreTuH</s> or <s>SaSranTuH</s> <ab>Gr.</ab>; <ab>aor.</ab> <s>aSranTIt</s>, <s>°Tizwa</s>, <ls>ib.</ls>; <ab>fut.</ab> <s>SranTizyati</s>, <ls>ib.</ls>; <ab>inf.</ab> <s>SraTitum</s> or <s>SranTitum</s>, <ls>ib.</ls>; <ab>ind.p.</ab> <s>SraTitvA</s> or <s>SranTitvA</s>, <ls>ib.</ls>; <s>-SraTya</s>, <ls>Nir.</ls>), <info or="222382,SraT;222382.1,SranT"/><info westergaard="SranTa,31.39,09.0045;SraTa,32.13,10.0013;granTa,34.31,10.0229"/><info whitneyroots="SraT,177"/><info verb="genuineroot" cp="9P,9Ā"/>
+; --------------------------------------------------
+; <L>225563.55<pc>1111,1<k1>zWIv<k2>zWIv<e>1E
+;(CDSL):	750942	<lang>Gk.</lang>, <lang>Lat.</lang>, <lang>Lith.</lang>, <lang>Goth.</lang>, <lang>Germ.</lang>, <lang>Angl.Sax.</lang>, <lang>Eng.</lang>
+;(AB):	750942	----------
+;; deleted (dup. entry)
+; 750942 old <s>zWIv</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang>, <lang n="greek">πτύω</lang>; <lang>Lat.</lang> <etym>spuo</etym>: <lang>Lith.</lang> <etym>spiáuju</etym>; <lang>Goth.</lang> <etym>speiwan</etym>; <lang>Germ.</lang> <etym>spîwan</etym>, <etym>speien</etym>; <lang>Angl.Sax.</lang> <etym>spīwan</etym>; <lang>Eng.</lang> <etym>spew</etym>.]
+;
+; 750942 new <s>zWIv</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang>, <lang n="greek">πτύω</lang>; <lang>Lat.</lang> <etym>spuo</etym>: <lang>Lith.</lang> <etym>spiáuju</etym>; <lang>Goth.</lang> <etym>speiwan</etym>; <lang>Germ.</lang> <etym>spîwan</etym>, <etym>speien</etym>; <lang>Angl.Sax.</lang> <etym>spīwan</etym>; <lang>Eng.</lang> <etym>spew</etym>.]
+; --------------------------------------------------
+; <L>228613.1<pc>1129,2<k1>saMgraB<k2>saM-graB<h>b<e>1
+;(CDSL):	761312	<lang>Ved.</lang>
+;(AB):	761312	----------
+;; deleted (dup. entry)
+; 761312 old <s>saM-√ graB</s> <hom>b</hom> (or -√ <s>grah</s>) ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-gfhRAti</s>, <s>-gfhRIte</s> (<lang>Ved.</lang> generally <s>-gfBRAti</s>, <s>-gfBRIte</s>), to seize or hold together, take or lay hold of, grab, grasp, gripe, clasp, clench, snatch, <ls>RV.</ls> &c. &c.;<info or="228613,saMgrah;228613.1,saMgraB"/><info verb="pre" cp="PĀ" parse="sam+graB"/>
+;
+; 761312 new <s>saM-√ graB</s> <hom>b</hom> (or -√ <s>grah</s>) ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-gfhRAti</s>, <s>-gfhRIte</s> (<lang>Ved.</lang> generally <s>-gfBRAti</s>, <s>-gfBRIte</s>), to seize or hold together, take or lay hold of, grab, grasp, gripe, clasp, clench, snatch, <ls>RV.</ls> &c. &c.;<info or="228613,saMgrah;228613.1,saMgraB"/><info verb="pre" cp="PĀ" parse="sam+graB"/>
+; --------------------------------------------------
+; <L>229218.55<pc>1132,3<k1>saj<k2>saj<e>1E
+;(CDSL):	763319	<lang>Lat.</lang>, <lang>Lith.</lang>
+;(AB):	763319	----------
+;; deleted (dup. entry)
+; 763319 old <s>saj</s> ¦ [<ab>cf.</ab> <ab>accord.</ab> to some, <lang>Lat.</lang> <etym>segnis</etym>; <lang>Lith.</lang> <etym>segù</etym>, ‘I attach’.]
+;
+; 763319 new <s>saj</s> ¦ [<ab>cf.</ab> <ab>accord.</ab> to some, <lang>Lat.</lang> <etym>segnis</etym>; <lang>Lith.</lang> <etym>segù</etym>, ‘I attach’.]
+; --------------------------------------------------
+; <L>232468<pc>1149,2<k1>saptajAmi<k2>sapta—jAmi<e>3
+;(CDSL):	774323	<lang>Ved.</lang>
+;(AB):	774323	----------
+;; deleted (dup. entry)
+; 774323 old <s>sapta—jAni</s> or <s>sapta—jAmi</s>, ¦ <lex>mfn.</lex> (<lang>Ved.</lang>; <ab>prob.</ab>) having 7 brothers or sisters, <ls>MW.</ls><info or="232467,saptajAni;232468,saptajAmi"/><info lex="m:f:n"/>
+;
+; 774323 new <s>sapta—jAni</s> or <s>sapta—jAmi</s>, ¦ <lex>mfn.</lex> (<lang>Ved.</lang>; <ab>prob.</ab>) having 7 brothers or sisters, <ls>MW.</ls><info or="232467,saptajAni;232468,saptajAmi"/><info lex="m:f:n"/>
+; --------------------------------------------------
+; <L>251816.55<pc>1244,3<k1>sUrkzy<k2>sUrkzy<e>1E
+;(CDSL):	838091	<lang>Lith.</lang>, <lang>Goth.</lang>, <lang>Germ.</lang>, <lang>Angl.Sax.</lang>, <lang>Eng.</lang>
+;(AB):	838091	----------
+;; deleted (dup. entry)
+; 838091 old <s>sUrkzy</s> ¦ [<ab>cf.</ab> <ab>accord.</ab> to some, <lang>Lith.</lang> <etym>sergė́ti</etym> <pb n="1244,3"/>; <lang>Goth.</lang> <etym>saúrga</etym>; <lang>Germ.</lang> <etym>Sorge</etym>; <lang>Angl.Sax.</lang> <etym>sorh</etym>; <lang>Eng.</lang> <etym>sorrow</etym>.]
+;
+; 838091 new <s>sUrkzy</s> ¦ [<ab>cf.</ab> <ab>accord.</ab> to some, <lang>Lith.</lang> <etym>sergė́ti</etym> <pb n="1244,3"/>; <lang>Goth.</lang> <etym>saúrga</etym>; <lang>Germ.</lang> <etym>Sorge</etym>; <lang>Angl.Sax.</lang> <etym>sorh</etym>; <lang>Eng.</lang> <etym>sorrow</etym>.]
+; --------------------------------------------------
+; <L>254463.55<pc>1258,1<k1>staB<k2>staB<e>1E
+;(CDSL):	846584	<lang>Gk.</lang>, <lang>Lith.</lang>, <lang>Germ.</lang>, <lang>Eng.</lang>
+;(AB):	846584	----------
+;; deleted (dup. entry)
+; 846584 old <s>staB</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">στέμϕυλον</lang>, <lang n="greek">στέμβω</lang>, <lang n="greek">στείβω</lang>; <lang>Lith.</lang> <etym>stambras</etym>, <etym>stimbras</etym>; <lang>Germ.</lang> <etym>stampfôn</etym>, <etym>stampfen</etym>; <lang>Eng.</lang> <etym>stamp</etym>, <etym>stump</etym>.]
+;
+; 846584 new <s>staB</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">στέμϕυλον</lang>, <lang n="greek">στέμβω</lang>, <lang n="greek">στείβω</lang>; <lang>Lith.</lang> <etym>stambras</etym>, <etym>stimbras</etym>; <lang>Germ.</lang> <etym>stampfôn</etym>, <etym>stampfen</etym>; <lang>Eng.</lang> <etym>stamp</etym>, <etym>stump</etym>.]
+; --------------------------------------------------
+; <L>254842.1<pc>1260,1<k1>stF<k2>stF<h>1<e>1
+;(CDSL):	847850	<lang>Ved.</lang>
+;(AB):	847850	----------
+;; deleted (dup. entry)
+; 847850 old (<lang>Ved.</lang> and <ab>ep.</ab> also <s>sta/rati</s>, <s>°te</s>;
+;
+; 847850 new (<lang>Ved.</lang> and <ab>ep.</ab> also <s>sta/rati</s>, <s>°te</s>;
+; --------------------------------------------------
+; <L>254842.55<pc>1260,1<k1>stF<k2>stF<e>1E
+;(CDSL):	847881	<lang>Gk.</lang>, <lang>Lat.</lang>, <lang>Goth.</lang>, <lang>Germ.</lang>, <lang>Angl.Sax.</lang>, <lang>Eng.</lang>
+;(AB):	847881	----------
+;; deleted (dup. entry)
+; 847881 old <s>stF</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">στορέννυμι</lang>, <lang n="greek">στρώννυμι</lang>; <lang>Lat.</lang> <etym>sternere</etym>; <lang>Goth.</lang> <etym>straujan</etym>; <lang>Germ.</lang> <etym>streuen</etym>; <lang>Angl.Sax.</lang> <etym>streowian</etym>; <lang>Eng.</lang> <etym>strew</etym>.]
+;
+; 847881 new <s>stF</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">στορέννυμι</lang>, <lang n="greek">στρώννυμι</lang>; <lang>Lat.</lang> <etym>sternere</etym>; <lang>Goth.</lang> <etym>straujan</etym>; <lang>Germ.</lang> <etym>streuen</etym>; <lang>Angl.Sax.</lang> <etym>streowian</etym>; <lang>Eng.</lang> <etym>strew</etym>.]
+; --------------------------------------------------
+; <L>256788<pc>1269,3<k1>sParaka<k2>sParaka<e>2
+;(CDSL):	854073	<lang>Persian</lang>
+;(AB):	854073	----------
+;; deleted (dup. entry)
+; 854073 old <s>sPara</s> or <s>sParaka</s>, ¦ <lex>m.</lex> a shield, <ls>L.</ls> (<ab>accord.</ab> to some <ab>fr.</ab> <lang>Persian</lang> <lang script="Arabic" n="Persian">سِپَرْ</lang>). <info or="256787,sPara;256788,sParaka"/><info lex="m"/>
+;
+; 854073 new <s>sPara</s> or <s>sParaka</s>, ¦ <lex>m.</lex> a shield, <ls>L.</ls> (<ab>accord.</ab> to some <ab>fr.</ab> <lang>Persian</lang> <lang script="Arabic" n="Persian">سِپَرْ</lang>). <info or="256787,sPara;256788,sParaka"/><info lex="m"/>
+; --------------------------------------------------
+; <L>256846.1<pc>1270,1<k1>sPij<k2>sPij<e>1
+;(CDSL):	854264	<lang>Gk.</lang>
+;(AB):	854264	----------
+;; deleted (dup. entry)
+; 854264 old <s>sPic</s> or <s>sPij</s> ¦ <lex>f.</lex> (<ab>nom.</ab> <s>sPik</s>; of doubtful derivation) a buttock, hip (<s>°cO</s> or <s>°jO</s> <ab>du.</ab> ‘the buttocks’), <ls>ŚāṅkhGṛ.</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> &c. [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">πυγή</lang>, or <ab>accord.</ab> to some <lang n="greek">ὀσϕύς</lang>.]<info or="256846,sPic;256846.1,sPij"/><info lex="f"/>
+;
+; 854264 new <s>sPic</s> or <s>sPij</s> ¦ <lex>f.</lex> (<ab>nom.</ab> <s>sPik</s>; of doubtful derivation) a buttock, hip (<s>°cO</s> or <s>°jO</s> <ab>du.</ab> ‘the buttocks’), <ls>ŚāṅkhGṛ.</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> &c. [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">πυγή</lang>, or <ab>accord.</ab> to some <lang n="greek">ὀσϕύς</lang>.]<info or="256846,sPic;256846.1,sPij"/><info lex="f"/>
+; --------------------------------------------------
+; <L>257403.1<pc>1273,1<k1>syad<k2>syad<h>a<e>1
+;(CDSL):	856083	<lang>Ved.</lang>
+;(AB):	856083	----------
+;; deleted (dup. entry)
+; 856083 old <div n="vp"/><ab>Caus.</ab> <s>syandayati</s> (<ab>aor.</ab> <s>a/sizyadat</s>; <lang>Ved.</lang> <ab>inf.</ab> <s>syandayADyE</s>),
+;
+; 856083 new <div n="vp"/><ab>Caus.</ab> <s>syandayati</s> (<ab>aor.</ab> <s>a/sizyadat</s>; <lang>Ved.</lang> <ab>inf.</ab> <s>syandayADyE</s>),
+; --------------------------------------------------
+; <L>257528.1<pc>1273,3<k1>sras<k2>sras<h>a<e>1
+;(CDSL):	856483	<lang>Ved.</lang>
+;(AB):	856483	----------
+;; deleted (dup. entry)
+; 856483 old <s>sras</s> <hom>a</hom> (or <s>sraMs</s>; sometimes written <s>SraMS</s> or <s>SraMs</s>) ¦ <ab>cl.</ab> 1. <ab>Ā.</ab> (<ls>Dhātup. xviii, 15</ls>) <s>sraMsate</s> (<ab>ep.</ab> and <ab>mc.</ab> also <s>°ti</s>; <ab>pf.</ab> <s>sesraMsa</s>, <s>°MsuH</s>, <ls>Br.</ls>; 3. <ab>pl.</ab> <s>-sraMsire</s>, <ls>Hariv.</ls>; <ab>aor.</ab> <s>asrat</s>, <ls>Br.</ls>; <s>asrasat</s>, <s>srasema</s>, <ls>RV.</ls>; <s>asraMsizwa</s>, <ls>Br.</ls>; <ab>fut.</ab> <s>sraMsitA</s>, <s>sraMsizyate</s> <ab>Gr.</ab>; <lang>Ved.</lang> <ab>inf.</ab> <s>-sra/sas</s>; <s>sraMsitum</s> <ab>Gr.</ab>; <ab>ind.p.</ab> <s>sraMsitvA</s>, <s>srastvA</s>, <ls>ib.</ls>; <s>-sraMsya</s>, <s>-srasya</s>, <ls>Br.</ls> &c.), <info or="257528,sraMs;257528.1,sras"/><info westergaard="sransu,18.15,01.0488"/><info whitneyroots="sraMs,199"/><info verb="genuineroot" cp="1Ā"/>
+;
+; 856483 new <s>sras</s> <hom>a</hom> (or <s>sraMs</s>; sometimes written <s>SraMS</s> or <s>SraMs</s>) ¦ <ab>cl.</ab> 1. <ab>Ā.</ab> (<ls>Dhātup. xviii, 15</ls>) <s>sraMsate</s> (<ab>ep.</ab> and <ab>mc.</ab> also <s>°ti</s>; <ab>pf.</ab> <s>sesraMsa</s>, <s>°MsuH</s>, <ls>Br.</ls>; 3. <ab>pl.</ab> <s>-sraMsire</s>, <ls>Hariv.</ls>; <ab>aor.</ab> <s>asrat</s>, <ls>Br.</ls>; <s>asrasat</s>, <s>srasema</s>, <ls>RV.</ls>; <s>asraMsizwa</s>, <ls>Br.</ls>; <ab>fut.</ab> <s>sraMsitA</s>, <s>sraMsizyate</s> <ab>Gr.</ab>; <lang>Ved.</lang> <ab>inf.</ab> <s>-sra/sas</s>; <s>sraMsitum</s> <ab>Gr.</ab>; <ab>ind.p.</ab> <s>sraMsitvA</s>, <s>srastvA</s>, <ls>ib.</ls>; <s>-sraMsya</s>, <s>-srasya</s>, <ls>Br.</ls> &c.), <info or="257528,sraMs;257528.1,sras"/><info westergaard="sransu,18.15,01.0488"/><info whitneyroots="sraMs,199"/><info verb="genuineroot" cp="1Ā"/>
+; --------------------------------------------------
+; <L>258787.1<pc>1279,2<k1>svAd<k2>svAd<e>1
+;(CDSL):	860646	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	860646	----------
+;; deleted (dup. entry)
+; 860646 old <s>svad</s> or <s>svAd</s> ¦ (<ab>prob.</ab> <ab>fr.</ab> <hom>5.</hom> <s>su √ ad</s>) <ab>cl.</ab> 1. <ab>Ā.</ab> (<ls>Dhātup. ii, 17</ls>) <s>sva/date</s> (<lang>Ved.</lang> also <ab>P.</ab> <s>sva/dati</s>; <ab>pf.</ab> <s>sasvade</s>, <ls>Śiś.</ls>; <s>sasvAde</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>svA<shortlong/>ditA</s>, <s>svA<shortlong/>dizyate</s>, <ls>ib.</ls>; <lang>Ved.</lang> <ab>inf.</ab> <s>-su/de</s>; <ab>ind.p.</ab> <s>-svAdya</s>, <ls>R.</ls>), <info or="258787,svad;258787.1,svAd"/><info westergaard="zvada,2.17,01.0018;svAda,2.27,01.0024;zvada,33.130,10.0199"/><info whitneyroots="svad,201"/><info verb="genuineroot" cp="1Ā,1P"/>
+;
+; 860646 new <s>svad</s> or <s>svAd</s> ¦ (<ab>prob.</ab> <ab>fr.</ab> <hom>5.</hom> <s>su √ ad</s>) <ab>cl.</ab> 1. <ab>Ā.</ab> (<ls>Dhātup. ii, 17</ls>) <s>sva/date</s> (<lang>Ved.</lang> also <ab>P.</ab> <s>sva/dati</s>; <ab>pf.</ab> <s>sasvade</s>, <ls>Śiś.</ls>; <s>sasvAde</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>svA<shortlong/>ditA</s>, <s>svA<shortlong/>dizyate</s>, <ls>ib.</ls>; <lang>Ved.</lang> <ab>inf.</ab> <s>-su/de</s>; <ab>ind.p.</ab> <s>-svAdya</s>, <ls>R.</ls>), <info or="258787,svad;258787.1,svAd"/><info westergaard="zvada,2.17,01.0018;svAda,2.27,01.0024;zvada,33.130,10.0199"/><info whitneyroots="svad,201"/><info verb="genuineroot" cp="1Ā,1P"/>
+; --------------------------------------------------
+; <L>258787.55<pc>1279,3<k1>svAd<k2>svAd<e>1E
+;(CDSL):	860661	<lang>Gk.</lang>, <lang>Lat.</lang>
+;(AB):	860661	----------
+;; deleted (dup. entry)
+; 860661 old <s>svAd</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">ἥδομαι</lang>; <lang>Lat.</lang> <etym>suadeo</etym>, and under <s>svAdu</s>.]
+;
+; 860661 new <s>svAd</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">ἥδομαι</lang>; <lang>Lat.</lang> <etym>suadeo</etym>, and under <s>svAdu</s>.]
+; --------------------------------------------------
+; **************************************************
+; 03:  3 changes (';; matter rearranged
+; **************************************************
+; <L>3260<pc>16,1<k1>atizkand<k2>ati-zkand<e>1
+;(CDSL):	11782	<lang>Ved.</lang>
+;(CDSL):	11783	<lang>Ved.</lang>
+;(AB):	11782	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	11783	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 11782 old <div n="to"/>to leap or jump over, <lang>Ved.</lang> <ab>Inf.</ab> (<ab>dat.</ab>) <s>ati-zka/de</s>, <ls>RV. viii, 67, 59</ls>;
+;
+; 11782 new <div n="to"/>to leap or jump over, <lang>Ved.</lang> <ab>Inf.</ab> (<ab>dat.</ab>) <s>ati-zka/de</s>, <ls>RV. viii, 67, 59</ls>;
+; --------------------------------------------------
+; <L>3260<pc>16,1<k1>atizkand<k2>ati-zkand<e>1
+;(CDSL):	11782	<lang>Ved.</lang>
+;(CDSL):	11783	<lang>Ved.</lang>
+;(AB):	11782	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	11783	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 11783 old <div n="vp"/> <lang>Ved.</lang> <ab>Inf.</ab> (<ab>abl.</ab>) <s>-zka/das</s>, <ls>RV. x, 108, 2</ls>;
+;
+; 11783 new <div n="vp"/> <lang>Ved.</lang> <ab>Inf.</ab> (<ab>abl.</ab>) <s>-zka/das</s>, <ls>RV. x, 108, 2</ls>;
+; --------------------------------------------------
+; <L>14451.1<pc>83,2<k1>ambA<k2>ambA<e>1E
+;(CDSL):	52659	<lang>Germ.</lang>, <lang>Old Germ.</lang>
+;(AB):	52656	<lang>Germ.</lang>, <lang>Old Germ.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 52659 old <s>ambA</s> ¦ [<lang>Germ.</lang> <etym>Amme</etym>, a nurse; <lang>Old Germ.</lang> <etym>amma</etym>, <ab>Them.</ab> <etym>ammôn</etym>, <etym>ammûn</etym>]
+;
+; 52659 new <s>ambA</s> ¦ [<lang>Germ.</lang> <etym>Amme</etym>, a nurse; <lang>Old Germ.</lang> <etym>amma</etym>, <ab>Them.</ab> <etym>ammôn</etym>, <etym>ammûn</etym>]
+; --------------------------------------------------
+; <L>16114.1<pc>91,3<k1>arDa<k2>arDa<e>2E
+;(CDSL):	58459	<lang>Osset.</lang>
+;(AB):	58456	<lang>Osset.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 58459 old <s>arDa</s> ¦ [<ab>cf.</ab> <lang>Osset.</lang> <etym>ardag</etym>]
+;
+; 58459 new <s>arDa</s> ¦ [<ab>cf.</ab> <lang>Osset.</lang> <etym>ardag</etym>]
+; --------------------------------------------------
+; <L>19416<pc>112,2<k1>aS<k2>aS<h>2<e>1
+;(CDSL):	70011	<lang>classical Sanskṛt</lang>
+;(AB):	70010	<lang>classical Sanskṛt</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 70011 old <div n="to"/>to eat, consume (with <ab>acc.</ab> [this only in <lang>classical Sanskṛt</lang>] or <ab>gen.</ab>), <ls>RV.</ls> &c.;
+;
+; 70011 new <div n="to"/>to eat, consume (with <ab>acc.</ab> [this only in <lang>classical Sanskṛt</lang>] or <ab>gen.</ab>), <ls>RV.</ls> &c.;
+; --------------------------------------------------
+; <L>19823.1<pc>114,3<k1>aSru<k2>aSru<e>1E
+;(CDSL):	71383	<lang>Gk.</lang>, <lang>Lat.</lang>, <lang>Goth.</lang>, <lang>Eng.</lang>, <lang>Mod. Germ.</lang>
+;(AB):	71381	        <lang>Gk.</lang>, <lang>Lat.</lang>, <lang>Goth.</lang>, <lang>Eng.</lang>, <lang>Mod. Germ.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 71383 old <s>aSru</s> ¦ [supposed to stand for <s>daSru</s> <ab>fr.</ab> √ <s>daMS</s>: <ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">δάκρυ</lang>; <lang>Lat.</lang> <etym>lacryma</etym> for <etym>dacryma</etym>; <lang>Goth.</lang> <etym>tagrs</etym>; <lang>Eng.</lang> <etym>tear</etym>; <lang>Mod. Germ.</lang> <etym>Zähre</etym>].
+;
+; 71383 new <s>aSru</s> ¦ [supposed to stand for <s>daSru</s> <ab>fr.</ab> √ <s>daMS</s>: <ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">δάκρυ</lang>; <lang>Lat.</lang> <etym>lacryma</etym> for <etym>dacryma</etym>; <lang>Goth.</lang> <etym>tagrs</etym>; <lang>Eng.</lang> <etym>tear</etym>; <lang>Mod. Germ.</lang> <etym>Zähre</etym>].
+; --------------------------------------------------
+; <L>21652.2<pc>124,2<k1>ahan<k2>a/han<e>1A
+;(CDSL):	77854	<lang>Ved.</lang>
+;(CDSL):	77860	<lang>Ved.</lang>
+;(AB):	77848	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	77860	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 77854 old ¦ <ab>loc.</ab> <s>a/han</s> (<lang>Ved.</lang>) or <s>a/hani</s>, or <s>ahni</s>, &c.
+;
+; 77854 new ¦ <ab>loc.</ab> <s>a/han</s> (<lang>Ved.</lang>) or <s>a/hani</s>, or <s>ahni</s>, &c.
+; --------------------------------------------------
+; <L>21652.4<pc>124,2<k1>ahan<k2>a/han<e>1A
+;(CDSL):	77854	<lang>Ved.</lang>
+;(CDSL):	77860	<lang>Ved.</lang>
+;(AB):	77848	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	77860	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 77860 old ¦ only <lang>Ved.</lang> are the middle cases of the <ab>pl.</ab> <s>a/haByas</s> [<ls>RV.</ls>], <s>a/haBis</s> [<ls>RV.</ls>, nine times], and <s>a/hasu</s> [<ls>RV. i, 124, 9</ls>], while the later language forms them <ab>fr.</ab> the base <s>a/has</s>, <ab>q.v.</ab>
+;
+; 77860 new ¦ only <lang>Ved.</lang> are the middle cases of the <ab>pl.</ab> <s>a/haByas</s> [<ls>RV.</ls>], <s>a/haBis</s> [<ls>RV.</ls>, nine times], and <s>a/hasu</s> [<ls>RV. i, 124, 9</ls>], while the later language forms them <ab>fr.</ab> the base <s>a/has</s>, <ab>q.v.</ab>
+; --------------------------------------------------
+; <L>22015.50<pc>126,2<k1>A<k2>A/<e>1A
+;(CDSL):	79111	<lang>classical Sanskṛt</lang>
+;(CDSL):	79120	<lang>Lat.</lang>
+;(AB):	79111	<lang>classical Sanskṛt</lang>, <lang>Lat.</lang>
+;(AB):	79120	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 79111 old ¦ (as a conjunctive particle) moreover, further, and (it is placed either between the two words connected [rarely after the second, <ls>RV. x, 16, 11</ls>, or after both, <ls>RV. x, 92, 8</ls>] or, if there are more, after the last [<ls>RV. iv, 57, 1</ls> and <ls n="RV.">x, 75, 5</ls>]; See also <s>A<srs/>taS ca</s> <ab>s.v.</ab>) In <lang>classical Sanskṛt</lang> it may denote the limit ‘to’, ‘until’, ‘as far as’, ‘from’, either not including the object named or including it (sometimes with <ab>acc.</ab> or <ab>abl.</ab> or forming an <ab>adv.</ab>) <ab>e.g.</ab> <s>A-maraRam</s> or <s>A-maraRAt</s>, ‘till death’, <ls>Pañcat.</ls> (<ab>cf.</ab> <s>A-maraRA<srs/>nta</s> &c.)
+;
+; 79111 new ¦ (as a conjunctive particle) moreover, further, and (it is placed either between the two words connected [rarely after the second, <ls>RV. x, 16, 11</ls>, or after both, <ls>RV. x, 92, 8</ls>] or, if there are more, after the last [<ls>RV. iv, 57, 1</ls> and <ls n="RV.">x, 75, 5</ls>]; See also <s>A<srs/>taS ca</s> <ab>s.v.</ab>) In <lang>classical Sanskṛt</lang> it may denote the limit ‘to’, ‘until’, ‘as far as’, ‘from’, either not including the object named or including it (sometimes with <ab>acc.</ab> or <ab>abl.</ab> or forming an <ab>adv.</ab>) <ab>e.g.</ab> <s>A-maraRam</s> or <s>A-maraRAt</s>, ‘till death’, <ls>Pañcat.</ls> (<ab>cf.</ab> <s>A-maraRA<srs/>nta</s> &c.)
+; --------------------------------------------------
+; <L>22015.65<pc>126,2<k1>A<k2>A/<e>1A
+;(CDSL):	79111	<lang>classical Sanskṛt</lang>
+;(CDSL):	79120	<lang>Lat.</lang>
+;(AB):	79111	<lang>classical Sanskṛt</lang>, <lang>Lat.</lang>
+;(AB):	79120	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 79120 old ¦ <s>A-kumAram</s>, ‘from a child’ or ‘from childhood’ or ‘to a child’ (<ab>cf.</ab> <lang>Lat.</lang> <etym>a puero</etym>), <ls>MBh. iii, 1403</ls>
+;
+; 79120 new ¦ <s>A-kumAram</s>, ‘from a child’ or ‘from childhood’ or ‘to a child’ (<ab>cf.</ab> <lang>Lat.</lang> <etym>a puero</etym>), <ls>MBh. iii, 1403</ls>
+; --------------------------------------------------
+; <L>28747<pc>165,1<k1>iti<k2>iti<h>2<e>1
+;(CDSL):	102419	<lang>Prākṛt</lang>
+;(AB):	102417	<lang>Prākṛt</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 102419 old <ab>cf.</ab> <lang>Prākṛt</lang> <i>ti</i> and <i>tti</i>.)<info lex="ind"/>
+;
+; 102419 new <ab>cf.</ab> <lang>Prākṛt</lang> <i>ti</i> and <i>tti</i>.)<info lex="ind"/>
+; --------------------------------------------------
+; <L>28801<pc>165,2<k1>idam<k2>ida/m<h>1<e>1
+;(CDSL):	102629	<lang>Lat.</lang>
+;(AB):	102626	<lang>Lat.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 102629 old a kind of <ab>neut.</ab> of the <ab>pronom.</ab> base <hom>3.</hom> <s>i</s> with <s>am</s> [<ab>cf.</ab> <lang>Lat.</lang> <etym>is</etym>, <etym>ea</etym>, <etym>id</etym>, and <etym>idem</etym>];
+;
+; 102629 new a kind of <ab>neut.</ab> of the <ab>pronom.</ab> base <hom>3.</hom> <s>i</s> with <s>am</s> [<ab>cf.</ab> <lang>Lat.</lang> <etym>is</etym>, <etym>ea</etym>, <etym>id</etym>, and <etym>idem</etym>];
+; --------------------------------------------------
+; <L>29761<pc>170,2<k1>Ir<k2>Ir<e>1
+;(CDSL):	106066	<lang>Ved.</lang>
+;(AB):	106065	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 106066 old <div n="to"/> <lang>Ved.</lang> <ab>inf.</ab> <s>ira/DyE</s>, <ls>RV. i, 134, 2</ls>, to go, move, rise, arise from, <ls>RV.</ls>;
+;
+; 106066 new <div n="to"/> <lang>Ved.</lang> <ab>inf.</ab> <s>ira/DyE</s>, <ls>RV. i, 134, 2</ls>, to go, move, rise, arise from, <ls>RV.</ls>;
+; --------------------------------------------------
+; <L>38410<pc>223,2<k1>f<k2>f<h>4<e>1
+;(CDSL):	135796	<lang>Ved.</lang>
+;(AB):	135797	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 135796 old <div n="to"/>to give back, restore, <ls>Mn. viii, 191</ls>; <ls>Yājñ.</ls>; <ls>Śak.</ls> &c.: <lang>Ved.</lang> <ab>Intens.</ab> <s>alarti</s>, <ls>RV. viii, 48, 8</ls>;
+;
+; 135796 new <div n="to"/>to give back, restore, <ls>Mn. viii, 191</ls>; <ls>Yājñ.</ls>; <ls>Śak.</ls> &c.: <lang>Ved.</lang> <ab>Intens.</ab> <s>alarti</s>, <ls>RV. viii, 48, 8</ls>;
+; --------------------------------------------------
+; <L>40194<pc>232,2<k1>evam<k2>eva/m<e>1
+;(CDSL):	141898	<lang>classical Sanskṛt</lang>
+;(AB):	141896	<lang>classical Sanskṛt</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 141898 old in <lang>classical Sanskṛt</lang> <s>evam</s> occurs very frequently, especially in connection with the roots <s>vac</s>, ‘to speak’, and <s>Sru</s>, ‘to hear’, and refers to what precedes as well as to what follows
+;
+; 141898 new in <lang>classical Sanskṛt</lang> <s>evam</s> occurs very frequently, especially in connection with the roots <s>vac</s>, ‘to speak’, and <s>Sru</s>, ‘to hear’, and refers to what precedes as well as to what follows
+; --------------------------------------------------
+; <L>41336.3<pc>240,3<k1>ka<k2>ka/<e>1A
+;(CDSL):	145769	<lang>classical Sanskṛt</lang>
+;(AB):	145764	<lang>classical Sanskṛt</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 145769 old <s>na kaScana</s>, no one), and a relative is sometimes connected with it (<ab>e.g.</ab> <s>yat kiMcana</s>, anything whatsoever). Examples of <s>cid</s> with the interrogative are common; <s>vA</s> and <s>api</s> are not so common, but the latter is often found in <lang>classical Sanskṛt</lang> (<ab>e.g.</ab> <s>kaScid</s>, any one;
+;
+; 145769 new <s>na kaScana</s>, no one), and a relative is sometimes connected with it (<ab>e.g.</ab> <s>yat kiMcana</s>, anything whatsoever). Examples of <s>cid</s> with the interrogative are common; <s>vA</s> and <s>api</s> are not so common, but the latter is often found in <lang>classical Sanskṛt</lang> (<ab>e.g.</ab> <s>kaScid</s>, any one;
+; --------------------------------------------------
+; <L>54148<pc>300,3<k1>kf<k2>kf<h>1<e>1
+;(CDSL):	187141	<lang>Ved.</lang>
+;(CDSL):	187154	<lang>classical Sanskṛt</lang>
+;(CDSL):	187167	<lang>Ved.</lang>
+;(CDSL):	187168	<lang>Class.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	187141	<lang>Ved.</lang>, <lang>classical Sanskṛt</lang>, <lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	187154	----------
+;(AB):	187167	----------
+;(AB):	187168	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 187141 old <hom>1.</hom> <s>kf</s> ¦ <lang>Ved.</lang>
+;
+; 187141 new <hom>1.</hom> <s>kf</s> ¦ <lang>Ved.</lang>
+; --------------------------------------------------
+; <L>54148<pc>300,3<k1>kf<k2>kf<h>1<e>1
+;(CDSL):	187141	<lang>Ved.</lang>
+;(CDSL):	187154	<lang>classical Sanskṛt</lang>
+;(CDSL):	187167	<lang>Ved.</lang>
+;(CDSL):	187168	<lang>Class.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	187141	<lang>Ved.</lang>, <lang>classical Sanskṛt</lang>, <lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	187154	----------
+;(AB):	187167	----------
+;(AB):	187168	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 187154 old IV) <ab>cl.</ab> 8. (this is the usual formation in the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s; <s1 slp1="sUtra">Sūtra</s1>s, and in <lang>classical Sanskṛt</lang>)
+;
+; 187154 new IV) <ab>cl.</ab> 8. (this is the usual formation in the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s; <s1 slp1="sUtra">Sūtra</s1>s, and in <lang>classical Sanskṛt</lang>)
+; --------------------------------------------------
+; <L>54148<pc>300,3<k1>kf<k2>kf<h>1<e>1
+;(CDSL):	187141	<lang>Ved.</lang>
+;(CDSL):	187154	<lang>classical Sanskṛt</lang>
+;(CDSL):	187167	<lang>Ved.</lang>
+;(CDSL):	187168	<lang>Class.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	187141	<lang>Ved.</lang>, <lang>classical Sanskṛt</lang>, <lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	187154	----------
+;(AB):	187167	----------
+;(AB):	187168	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 187167 old <ab>P.</ab> <lang>Ved.</lang> <s>cakaram</s> (<ls>RV. iv, 42, 6</ls>), <s>acakrat</s> (<ls>RV. iv, 18, 12</ls>), <s>a/cakriran</s> (<ls>RV. viii, 6, 20</ls>);
+;
+; 187167 new <ab>P.</ab> <lang>Ved.</lang> <s>cakaram</s> (<ls>RV. iv, 42, 6</ls>), <s>acakrat</s> (<ls>RV. iv, 18, 12</ls>), <s>a/cakriran</s> (<ls>RV. viii, 6, 20</ls>);
+; --------------------------------------------------
+; <L>54148<pc>300,3<k1>kf<k2>kf<h>1<e>1
+;(CDSL):	187141	<lang>Ved.</lang>
+;(CDSL):	187154	<lang>classical Sanskṛt</lang>
+;(CDSL):	187167	<lang>Ved.</lang>
+;(CDSL):	187168	<lang>Class.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	187141	<lang>Ved.</lang>, <lang>classical Sanskṛt</lang>, <lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	187154	----------
+;(AB):	187167	----------
+;(AB):	187168	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 187168 old <ab>Ā.</ab> 1. <ab>sg.</ab> <s>kfske</s> (<ls>RV. x, 49, 7</ls>); <lang>Class.</lang> <s>akArzIt</s> (<ls>Pāṇ. vii, 2, 1</ls>, <ls>Kāś.</ls>; once <s>akArazIt</s>, <ls>BhP. i, 10, 1</ls>); <ab>Pass.</ab> <ab>aor.</ab> <ab>reflex.</ab> <s>akAri</s> and <s>akfta</s> (<ls>Pāṇ. iii, 1, 62</ls>, <ls>Kāś.</ls>) : <ab>Inf.</ab> <s>ka/rtum</s>, <lang>Ved.</lang> <s>ka/rtave</s>, <s>ka/rtavE/</s>, <s>ka/rtos</s> (See <ab>ss.vv.</ab>); <ab>ind.p.</ab> <s>kftvA/</s>, <lang>Ved.</lang> <s>kftvI/</s> [<ls>RV.</ls>] and <s>kftvA/ya</s> [<ls>TS. iv</ls>, <ls n="TS.">v</ls>];
+;
+; 187168 new <ab>Ā.</ab> 1. <ab>sg.</ab> <s>kfske</s> (<ls>RV. x, 49, 7</ls>); <lang>Class.</lang> <s>akArzIt</s> (<ls>Pāṇ. vii, 2, 1</ls>, <ls>Kāś.</ls>; once <s>akArazIt</s>, <ls>BhP. i, 10, 1</ls>); <ab>Pass.</ab> <ab>aor.</ab> <ab>reflex.</ab> <s>akAri</s> and <s>akfta</s> (<ls>Pāṇ. iii, 1, 62</ls>, <ls>Kāś.</ls>) : <ab>Inf.</ab> <s>ka/rtum</s>, <lang>Ved.</lang> <s>ka/rtave</s>, <s>ka/rtavE/</s>, <s>ka/rtos</s> (See <ab>ss.vv.</ab>); <ab>ind.p.</ab> <s>kftvA/</s>, <lang>Ved.</lang> <s>kftvI/</s> [<ls>RV.</ls>] and <s>kftvA/ya</s> [<ls>TS. iv</ls>, <ls n="TS.">v</ls>];
+; --------------------------------------------------
+; <L>54675<pc>304,1<k1>kftvas<k2>kf/tvas<h>a<e>2
+;(CDSL):	188888	<lang>classical Sanskṛt</lang>
+;(AB):	188891	<lang>classical Sanskṛt</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 188888 old <s>kf/tvas</s> <hom>a</hom> ¦ <lex>ind.</lex> at the end of a numeral or numeral adjective, -fold, times (<ab>e.g.</ab> <s>daSa-kftvas</s>, ten times; <s>bahu-k°</s>, many times; <s>paYca-k°</s>, fivefold, <ls>Pāṇ. ii, 3, 64</ls>). In the <s1 slp1="veda">Veda</s1> <s>kf/tvas</s> is used as a separate word (<ab>e.g.</ab> <s>BU/ri k°</s>, many times, <ls>RV. iii, 18, 4</ls>; <s>pa/Yca k°</s>, <ls>TS. vi</ls>), but according to, <ls>Pāṇ. v, 4, 17</ls> and <ls n="Pāṇ. v, 4">20</ls> (<ls>Vop. vii, 70</ls>) it is only an affix, and it is so used in <lang>classical Sanskṛt</lang><info lex="ind"/>
+;
+; 188888 new <s>kf/tvas</s> <hom>a</hom> ¦ <lex>ind.</lex> at the end of a numeral or numeral adjective, -fold, times (<ab>e.g.</ab> <s>daSa-kftvas</s>, ten times; <s>bahu-k°</s>, many times; <s>paYca-k°</s>, fivefold, <ls>Pāṇ. ii, 3, 64</ls>). In the <s1 slp1="veda">Veda</s1> <s>kf/tvas</s> is used as a separate word (<ab>e.g.</ab> <s>BU/ri k°</s>, many times, <ls>RV. iii, 18, 4</ls>; <s>pa/Yca k°</s>, <ls>TS. vi</ls>), but according to, <ls>Pāṇ. v, 4, 17</ls> and <ls n="Pāṇ. v, 4">20</ls> (<ls>Vop. vii, 70</ls>) it is only an affix, and it is so used in <lang>classical Sanskṛt</lang><info lex="ind"/>
+; --------------------------------------------------
+; <L>63409<pc>346,3<k1>gam<k2>gam<h>1<e>1
+;(CDSL):	216848	<lang>Ved.</lang>
+;(CDSL):	216859	<lang>Ved.</lang>, <lang>Class.</lang>
+;(CDSL):	216861	<lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>
+;(AB):	216848	<lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>
+;(AB):	216859	----------
+;(AB):	216861	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 216848 old <hom>1.</hom> <s>gam</s> ¦ <lang>Ved.</lang> <ab>cl.</ab> 1. <ab>P.</ab> <s>ga/mati</s> (<ls>Naigh.</ls>; <ab>Subj.</ab> <s>gamam</s>, <s>ga/mat</s> [<s>gamAtas</s>, <s>gamATa</s>, <ls>AV.</ls>], <s>gamAma</s>, <s>gaman</s>, <ls>RV.</ls>; <ab>Pot.</ab> <s>game/ma</s>, <ls>RV.</ls>; <ab>inf.</ab> <s>ga/maDyE</s>, <ls>RV. i, 154, 6</ls>);
+;
+; 216848 new <hom>1.</hom> <s>gam</s> ¦ <lang>Ved.</lang> <ab>cl.</ab> 1. <ab>P.</ab> <s>ga/mati</s> (<ls>Naigh.</ls>; <ab>Subj.</ab> <s>gamam</s>, <s>ga/mat</s> [<s>gamAtas</s>, <s>gamATa</s>, <ls>AV.</ls>], <s>gamAma</s>, <s>gaman</s>, <ls>RV.</ls>; <ab>Pot.</ab> <s>game/ma</s>, <ls>RV.</ls>; <ab>inf.</ab> <s>ga/maDyE</s>, <ls>RV. i, 154, 6</ls>);
+; --------------------------------------------------
+; <L>63409<pc>346,3<k1>gam<k2>gam<h>1<e>1
+;(CDSL):	216848	<lang>Ved.</lang>
+;(CDSL):	216859	<lang>Ved.</lang>, <lang>Class.</lang>
+;(CDSL):	216861	<lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>
+;(AB):	216848	<lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>
+;(AB):	216859	----------
+;(AB):	216861	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 216859 old <lang>Ved.</lang> and <lang>Class.</lang> <ab>cl.</ab> 1. <ab>P.</ab> (also <ab>Ā.</ab> <ls>MBh.</ls> &c.), with substitution of <s>gacC</s> [= <lang n="greek">βάσκ-ω</lang>] for <s>gam</s>, <s>ga/cCati</s>
+;
+; 216859 new <lang>Ved.</lang> and <lang>Class.</lang> <ab>cl.</ab> 1. <ab>P.</ab> (also <ab>Ā.</ab> <ls>MBh.</ls> &c.), with substitution of <s>gacC</s> [= <lang n="greek">βάσκ-ω</lang>] for <s>gam</s>, <s>ga/cCati</s>
+; --------------------------------------------------
+; <L>63409<pc>346,3<k1>gam<k2>gam<h>1<e>1
+;(CDSL):	216848	<lang>Ved.</lang>
+;(CDSL):	216859	<lang>Ved.</lang>, <lang>Class.</lang>
+;(CDSL):	216861	<lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>
+;(AB):	216848	<lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>
+;(AB):	216859	----------
+;(AB):	216861	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 216861 old for <ab>Ā.</ab> with prepositions <ab>cf.</ab> <ls>Pāṇ. i, 2, 13</ls>; 2nd <ab>fut.</ab> <s>gamizyati</s>, <ls>AV.</ls> &c.; 1st <ab>fut.</ab> <s>ga/ntA</s> [<ls>Pāṇ. vii, 2, 58</ls>] <ls>RV.</ls> &c.; <ab>perf.</ab> 1. <ab>sg.</ab> <s>jagamA</s> [<ls>RV.</ls>], 3. <ab>sg.</ab> <s>jagAma</s>, 2. <ab>du.</ab> <s>jagmaTur</s>, 3. <ab>pl.</ab> <s>jagmu/r</s>, <ls>RV.</ls> &c.; <ab>p.</ab> <s>jaganva/s</s> [<ls>RV.</ls> &c.] or <s>jagmivas</s>, <ls>Pāṇ. vii, 2, 68</ls> <lex type="part">f.</lex> <s>jagmu/zI</s>, <ls>RV.</ls> &c. <pb n="347,1"/>; <lang>Ved.</lang> <ab>inf.</ab> <s>ga/ntave</s>, <s>ga/ntavE/</s>; <lang>Class.</lang> <ab>inf.</ab> <s>gantum</s>: <lang>Ved.</lang> <ab>ind.p.</ab> <s>gatvAya</s>, <s>gatvI/</s>; <lang>Class.</lang> <ab>ind.p.</ab> <s>gatvA/</s> [<ls>AV.</ls> &c.], with prepositions <s>-gamya</s> or <s>-gatya</s>, <ls>Pāṇ. vi, 4, 38</ls>)
+;
+; 216861 new for <ab>Ā.</ab> with prepositions <ab>cf.</ab> <ls>Pāṇ. i, 2, 13</ls>; 2nd <ab>fut.</ab> <s>gamizyati</s>, <ls>AV.</ls> &c.; 1st <ab>fut.</ab> <s>ga/ntA</s> [<ls>Pāṇ. vii, 2, 58</ls>] <ls>RV.</ls> &c.; <ab>perf.</ab> 1. <ab>sg.</ab> <s>jagamA</s> [<ls>RV.</ls>], 3. <ab>sg.</ab> <s>jagAma</s>, 2. <ab>du.</ab> <s>jagmaTur</s>, 3. <ab>pl.</ab> <s>jagmu/r</s>, <ls>RV.</ls> &c.; <ab>p.</ab> <s>jaganva/s</s> [<ls>RV.</ls> &c.] or <s>jagmivas</s>, <ls>Pāṇ. vii, 2, 68</ls> <lex type="part">f.</lex> <s>jagmu/zI</s>, <ls>RV.</ls> &c. <pb n="347,1"/>; <lang>Ved.</lang> <ab>inf.</ab> <s>ga/ntave</s>, <s>ga/ntavE/</s>; <lang>Class.</lang> <ab>inf.</ab> <s>gantum</s>: <lang>Ved.</lang> <ab>ind.p.</ab> <s>gatvAya</s>, <s>gatvI/</s>; <lang>Class.</lang> <ab>ind.p.</ab> <s>gatvA/</s> [<ls>AV.</ls> &c.], with prepositions <s>-gamya</s> or <s>-gatya</s>, <ls>Pāṇ. vi, 4, 38</ls>)
+; --------------------------------------------------
+; <L>64493<pc>352,1<k1>gA<k2>gA<h>1<e>1
+;(CDSL):	220333	<lang>Class. Sanskṛt</lang>
+;(AB):	220332	<lang>Class. Sanskṛt</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 220333 old in <lang>Class. Sanskṛt</lang> only the <ab>aor.</ab> <ab>P.</ab> <s>agAt</s> occurs, for <ab>Ā.</ab> See <s>aDi-</s>; <ab>aor.</ab> <ab>Pass.</ab> <s>agAyi</s>, <s>agAsAtAm</s>, <ls>Kāś.</ls> on <ls>Pāṇ. ii, 4, 45</ls> and <ls n="Pāṇ. ii, 4">77</ls>; <ab>cl.</ab> 2. <ab>P.</ab> <s>gA/ti</s>, <ls>Naigh. ii, 14</ls>; <ab>Ā.</ab> <s>gAte</s>, <ls>Dhātup. xx, 53</ls>)
+;
+; 220333 new in <lang>Class. Sanskṛt</lang> only the <ab>aor.</ab> <ab>P.</ab> <s>agAt</s> occurs, for <ab>Ā.</ab> See <s>aDi-</s>; <ab>aor.</ab> <ab>Pass.</ab> <s>agAyi</s>, <s>agAsAtAm</s>, <ls>Kāś.</ls> on <ls>Pāṇ. ii, 4, 45</ls> and <ls n="Pāṇ. ii, 4">77</ls>; <ab>cl.</ab> 2. <ab>P.</ab> <s>gA/ti</s>, <ls>Naigh. ii, 14</ls>; <ab>Ā.</ab> <s>gAte</s>, <ls>Dhātup. xx, 53</ls>)
+; --------------------------------------------------
+; <L>66884<pc>363,3<k1>go<k2>go/<e>1
+;(CDSL):	228017	<lang>Ved.</lang>
+;(AB):	228016	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 228017 old <ab>du.</ab> <s>gA/vA</s> [<lang>Ved.</lang>], <s>gA/vO</s>;
+;
+; 228017 new <ab>du.</ab> <s>gA/vA</s> [<lang>Ved.</lang>], <s>gA/vO</s>;
+; --------------------------------------------------
+; <L>68591<pc>371,2<k1>grah<k2>grah<e>1
+;(CDSL):	233578	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(CDSL):	233582	<lang>Ved.</lang>
+;(CDSL):	233586	<lang>Ved.</lang>
+;(CDSL):	233587	<lang>Ved.</lang>
+;(AB):	233575	<lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	233582	----------
+;(AB):	233586	----------
+;(AB):	233587	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 233578 old <ab>Impv.</ab> 2. <ab>sg.</ab> <s>gfhARa/</s>, [<s>°RA/</s>, <s1 slp1="saMhitA-pAWa">Saṃhitā-pāṭha</s1>, <ab>p.</ab> <ab>Pass.</ab> <ab>nom.</ab> <ab>pl.</ab> <lex type="hwinfo">n.</lex>, <ls>Gmn.</ls>] <ls n="RV.">x, 103, 12</ls>; <ls>AV. xi, 1, 10</ls>; <ls>ŚBr.</ls> &c.; <s>gfBRAna/</s> & <s>gfhR°</s> [<lang>Ved.</lang>]; <s>gfhRa</s>, <ls>Hcat.</ls>; <ls>Pañcad. i, 71</ls>; <s>-gfhRAhi</s>, <s>-gfBRIhi</s> See <s>prati-√ graB</s>; <ab>Ā.</ab> <s>gfBRIzva</s> [<ls>VS. i, 18</ls>] or <s>gfhR°</s>; 3. <ab>sg.</ab> <ab>P.</ab> <s>gfhRItAt</s>; <lang>Ved.</lang> <ab>Impv.</ab> <s>gfBAya/</s> &c. See <ab>s.v.</ab> <s>°ya</s> <ab>cf.</ab> <s>gfhaya</s>;
+;
+; 233578 new <ab>Impv.</ab> 2. <ab>sg.</ab> <s>gfhARa/</s>, [<s>°RA/</s>, <s1 slp1="saMhitA-pAWa">Saṃhitā-pāṭha</s1>, <ab>p.</ab> <ab>Pass.</ab> <ab>nom.</ab> <ab>pl.</ab> <lex type="hwinfo">n.</lex>, <ls>Gmn.</ls>] <ls n="RV.">x, 103, 12</ls>; <ls>AV. xi, 1, 10</ls>; <ls>ŚBr.</ls> &c.; <s>gfBRAna/</s> & <s>gfhR°</s> [<lang>Ved.</lang>]; <s>gfhRa</s>, <ls>Hcat.</ls>; <ls>Pañcad. i, 71</ls>; <s>-gfhRAhi</s>, <s>-gfBRIhi</s> See <s>prati-√ graB</s>; <ab>Ā.</ab> <s>gfBRIzva</s> [<ls>VS. i, 18</ls>] or <s>gfhR°</s>; 3. <ab>sg.</ab> <ab>P.</ab> <s>gfhRItAt</s>; <lang>Ved.</lang> <ab>Impv.</ab> <s>gfBAya/</s> &c. See <ab>s.v.</ab> <s>°ya</s> <ab>cf.</ab> <s>gfhaya</s>;
+; --------------------------------------------------
+; <L>68591<pc>371,2<k1>grah<k2>grah<e>1
+;(CDSL):	233578	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(CDSL):	233582	<lang>Ved.</lang>
+;(CDSL):	233586	<lang>Ved.</lang>
+;(CDSL):	233587	<lang>Ved.</lang>
+;(AB):	233575	<lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	233582	----------
+;(AB):	233586	----------
+;(AB):	233587	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 233582 old <ab>Subj.</ab> 2. <ab>pl.</ab> <s>graBIzwa</s>, <ls>RV. ii, 29, 5</ls>; <ab>Ā.</ab> <s>agrahIzwa</s>, <ls>BhP. iv, 30, 11</ls>; <s>aGfkzata</s>, <ls>Pāṇ. vii, 3, 73</ls>, <ab>Sch.</ab> [not in <ls>Kāś.</ls>]; <lang>Ved.</lang> 3. <ab>pl.</ab> <s>agfBran</s> [<ls>RV. v, 2, 4</ls>] and <s>agfBIzata</s>;
+;
+; 233582 new <ab>Subj.</ab> 2. <ab>pl.</ab> <s>graBIzwa</s>, <ls>RV. ii, 29, 5</ls>; <ab>Ā.</ab> <s>agrahIzwa</s>, <ls>BhP. iv, 30, 11</ls>; <s>aGfkzata</s>, <ls>Pāṇ. vii, 3, 73</ls>, <ab>Sch.</ab> [not in <ls>Kāś.</ls>]; <lang>Ved.</lang> 3. <ab>pl.</ab> <s>agfBran</s> [<ls>RV. v, 2, 4</ls>] and <s>agfBIzata</s>;
+; --------------------------------------------------
+; <L>68591<pc>371,2<k1>grah<k2>grah<e>1
+;(CDSL):	233578	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(CDSL):	233582	<lang>Ved.</lang>
+;(CDSL):	233586	<lang>Ved.</lang>
+;(CDSL):	233587	<lang>Ved.</lang>
+;(AB):	233575	<lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	233582	----------
+;(AB):	233586	----------
+;(AB):	233587	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 233586 old <lang>Ved.</lang> <ab>Subj.</ab> 3. <ab>pl.</ab> <s>gfhyAntE</s>, <ls>Kāś.</ls> on <ls n="Pāṇ.">iii, 4, 8</ls> and <ls n="Pāṇ. iii, 4,">96</ls>;
+;
+; 233586 new <lang>Ved.</lang> <ab>Subj.</ab> 3. <ab>pl.</ab> <s>gfhyAntE</s>, <ls>Kāś.</ls> on <ls n="Pāṇ.">iii, 4, 8</ls> and <ls n="Pāṇ. iii, 4,">96</ls>;
+; --------------------------------------------------
+; <L>68591<pc>371,2<k1>grah<k2>grah<e>1
+;(CDSL):	233578	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(CDSL):	233582	<lang>Ved.</lang>
+;(CDSL):	233586	<lang>Ved.</lang>
+;(CDSL):	233587	<lang>Ved.</lang>
+;(AB):	233575	<lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	233582	----------
+;(AB):	233586	----------
+;(AB):	233587	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 233587 old <lang>Ved.</lang> <ab>Pass.</ab> 3. <ab>sg.</ab> <s>gfhate</s> [<ls>RV. v, 32, 12</ls>] or <s>gfhe</s> [<ls>MaitrS. i, 9, 5</ls>] or <s>gfhaye</s> [<ls>Kāṭh. ix, 13</ls>; <ab>cf.</ab> <s>gfhaya</s>];
+;
+; 233587 new <lang>Ved.</lang> <ab>Pass.</ab> 3. <ab>sg.</ab> <s>gfhate</s> [<ls>RV. v, 32, 12</ls>] or <s>gfhe</s> [<ls>MaitrS. i, 9, 5</ls>] or <s>gfhaye</s> [<ls>Kāṭh. ix, 13</ls>; <ab>cf.</ab> <s>gfhaya</s>];
+; --------------------------------------------------
+; <L>70283<pc>380,1<k1>ca<k2>ca<h>2<e>1
+;(CDSL):	239110	<lang>Lat.</lang>
+;(CDSL):	239114	<lang>class. Sanskṛt</lang>
+;(CDSL):	239117	<lang>Ved.</lang>, <lang>class. Sanskṛt</lang>
+;(AB):	239110	<lang>Lat.</lang>, <lang>class. Sanskṛt</lang>, <lang>Ved.</lang>, <lang>Class. Sanskṛt</lang>
+;(AB):	239114	----------
+;(AB):	239117	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 239110 old <hom>2.</hom> <s>ca</s> ¦ <lex>ind.</lex> and, both, also, moreover, as well as (= <lang n="greek">τε</lang>, <lang>Lat.</lang> <etym>que</etym>, placed like these particles as an enclitic after the word which it connects with what precedes;
+;
+; 239110 new <hom>2.</hom> <s>ca</s> ¦ <lex>ind.</lex> and, both, also, moreover, as well as (= <lang n="greek">τε</lang>, <lang>Lat.</lang> <etym>que</etym>, placed like these particles as an enclitic after the word which it connects with what precedes;
+; --------------------------------------------------
+; <L>70283<pc>380,1<k1>ca<k2>ca<h>2<e>1
+;(CDSL):	239110	<lang>Lat.</lang>
+;(CDSL):	239114	<lang>class. Sanskṛt</lang>
+;(CDSL):	239117	<lang>Ved.</lang>, <lang>class. Sanskṛt</lang>
+;(AB):	239110	<lang>Lat.</lang>, <lang>class. Sanskṛt</lang>, <lang>Ved.</lang>, <lang>Class. Sanskṛt</lang>
+;(AB):	239114	----------
+;(AB):	239117	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 239114 old the double <s>ca</s> may also be used somewhat redundantly in <lang>class. Sanskṛt</lang> (<ab>e.g.</ab> <s>kva hariRakAnAM jIvitaM cA<srs/>tilolaM kva ca vajra-sArAH SarAs te</s>, ‘where is the frail existence, of fawns and where are thy adamantine arrows?’, <ls>Śak. i, 10</ls>);
+;
+; 239114 new the double <s>ca</s> may also be used somewhat redundantly in <lang>class. Sanskṛt</lang> (<ab>e.g.</ab> <s>kva hariRakAnAM jIvitaM cA<srs/>tilolaM kva ca vajra-sArAH SarAs te</s>, ‘where is the frail existence, of fawns and where are thy adamantine arrows?’, <ls>Śak. i, 10</ls>);
+; --------------------------------------------------
+; <L>70283<pc>380,1<k1>ca<k2>ca<h>2<e>1
+;(CDSL):	239110	<lang>Lat.</lang>
+;(CDSL):	239114	<lang>class. Sanskṛt</lang>
+;(CDSL):	239117	<lang>Ved.</lang>, <lang>class. Sanskṛt</lang>
+;(AB):	239110	<lang>Lat.</lang>, <lang>class. Sanskṛt</lang>, <lang>Ved.</lang>, <lang>Class. Sanskṛt</lang>
+;(AB):	239114	----------
+;(AB):	239117	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 239117 old in <lang>Ved.</lang> and even in <lang>class. Sanskṛt</lang> [<ls>Mn. iii, 20</ls>; <ls n="Mn.">ix, 322</ls>; <ls>Hit.</ls>],
+;
+; 239117 new in <lang>Ved.</lang> and even in <lang>class. Sanskṛt</lang> [<ls>Mn. iii, 20</ls>; <ls n="Mn.">ix, 322</ls>; <ls>Hit.</ls>],
+; --------------------------------------------------
+; <L>72049<pc>388,2<k1>cam<k2>cam<e>1
+;(CDSL):	245083	<lang>Ved.</lang>
+;(AB):	245084	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 245083 old <div n="to"/>to eat, <ls>Bhaṭṭ. xiv, 53</ls> : <lang>Ved.</lang> <ab>cl.</ab> 5. <s>camnoti</s>, <ls>Dhātup. xxvii, 27</ls> :
+;
+; 245083 new <div n="to"/>to eat, <ls>Bhaṭṭ. xiv, 53</ls> : <lang>Ved.</lang> <ab>cl.</ab> 5. <s>camnoti</s>, <ls>Dhātup. xxvii, 27</ls> :
+; --------------------------------------------------
+; <L>72173<pc>389,1<k1>car<k2>car<e>1
+;(CDSL):	245471	<lang>Ved.</lang>
+;(AB):	245464	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 245471 old <ab>inf.</ab> <s>ca/ritum</s> [<ls n="ŚBr.">ii</ls>; <ls>MBh. i</ls>, <ls n="MBh.">iii</ls>; <ls>R.</ls>] or <s>cartum</s> [<ls>MBh. iii</ls>, <ls n="MBh.">xiii</ls>; <ls>R. iii</ls>; <ls>BhP. v</ls>], <lang>Ved.</lang> <s>cara/DyE</s> [<ls>RV. i, 61, 12</ls>], <s>ca/ritave</s> [<ls n="RV. i,">113, 5</ls>], <s>cara/se</s> [<ls n="RV. i,">92, 9</ls> and <ls n="RV.">v, 47, 4</ls>], <s>carA/yE</s> [<ls n="RV.">vii, 77, 1</ls>], <s>caritos</s> [<ls>AitĀr. i, 1, 1, 7</ls>];
+;
+; 245471 new <ab>inf.</ab> <s>ca/ritum</s> [<ls n="ŚBr.">ii</ls>; <ls>MBh. i</ls>, <ls n="MBh.">iii</ls>; <ls>R.</ls>] or <s>cartum</s> [<ls>MBh. iii</ls>, <ls n="MBh.">xiii</ls>; <ls>R. iii</ls>; <ls>BhP. v</ls>], <lang>Ved.</lang> <s>cara/DyE</s> [<ls>RV. i, 61, 12</ls>], <s>ca/ritave</s> [<ls n="RV. i,">113, 5</ls>], <s>cara/se</s> [<ls n="RV. i,">92, 9</ls> and <ls n="RV.">v, 47, 4</ls>], <s>carA/yE</s> [<ls n="RV.">vii, 77, 1</ls>], <s>caritos</s> [<ls>AitĀr. i, 1, 1, 7</ls>];
+; --------------------------------------------------
+; <L>73297<pc>394,2<k1>ci<k2>ci<h>1<e>1
+;(CDSL):	249019	<lang>Ved.</lang>
+;(AB):	249008	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 249019 old <lang>Ved.</lang> <s>cikayAm akar</s>, <ls n="Pāṇ.">iii, 1, 42</ls>, <ls>Kāś.</ls>;
+;
+; 249019 new <lang>Ved.</lang> <s>cikayAm akar</s>, <ls n="Pāṇ.">iii, 1, 42</ls>, <ls>Kāś.</ls>;
+; --------------------------------------------------
+; <L>73440<pc>395,1<k1>ciKalla<k2>ciKalla<e>1A
+;(CDSL):	249502	<lang>Prākṛt</lang>
+;(AB):	249499	<lang>Prākṛt</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 249502 old ¦ (used in <lang>Prākṛt</lang>.)<info lex="inh"/>
+;
+; 249502 new ¦ (used in <lang>Prākṛt</lang>.)<info lex="inh"/>
+; --------------------------------------------------
+; <L>75116<pc>402,3<k1>cokza<k2>cokza<e>1A
+;(CDSL):	255003	<lang>Prākṛt</lang>
+;(AB):	255000	<lang>Prākṛt</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 255003 old ¦ (often in <lang>Prākṛt</lang> <i>cokkha</i> <ls>Jain.</ls>)<info lex="inh"/>
+;
+; 255003 new ¦ (often in <lang>Prākṛt</lang> <i>cokkha</i> <ls>Jain.</ls>)<info lex="inh"/>
+; --------------------------------------------------
+; <L>76735<pc>410,1<k1>jan<k2>jan<e>1
+;(CDSL):	260166	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	260165	<lang>Ved.</lang>, <lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 260166 old twice <ab>cl.</ab> 3. (<ab>Subj.</ab> <s>jaja/nat</s>, <ls>MaitrS. i, 3, 20</ls> and <ls n="MaitrS. i,">9, 1</ls> [<ls>Kāṭh. ix, 8</ls>]; <ab>cf.</ab> <ls>Pāṇ. vi, 1, 192</ls> and <ls n="Pāṇ.">vii, 4, 78</ls>, <ls>Kāś.</ls>; <ab>pr.</ab> <s>jajanti</s>, <ls>Dhātup. xxv, 24</ls>; <ab>aor.</ab> <ab>Ā.</ab> <s>ja/nizwa</s>; <ab>Ā.</ab> <s>a/jani</s>, <ls>RV. ii, 34, 2</ls>; <ab>perf.</ab> <s>jajA/na</s>; 3. <ab>pl.</ab> <s>jajYu/r</s>, <ls>RV.</ls> &c.; once <s>jajanu/r</s>, <ls n="RV.">viii, 97, 10</ls>; <ab>p.</ab> <s>°jYivas</s>; <lang>Ved.</lang> <ab>inf.</ab> <s>ja/nitos</s>, <ls n="RV.">iv, 6, 7</ls>; <ls>AitBr.</ls>; <ls>ŚBr. iii</ls>; [<ls>Pāṇ. iii, 4, 6</ls>]; <lang>Ved.</lang> <ab>ind.p.</ab> <s>°nitvI/</s>, <ls>RV. x, 65, 7</ls>)
+;
+; 260166 new twice <ab>cl.</ab> 3. (<ab>Subj.</ab> <s>jaja/nat</s>, <ls>MaitrS. i, 3, 20</ls> and <ls n="MaitrS. i,">9, 1</ls> [<ls>Kāṭh. ix, 8</ls>]; <ab>cf.</ab> <ls>Pāṇ. vi, 1, 192</ls> and <ls n="Pāṇ.">vii, 4, 78</ls>, <ls>Kāś.</ls>; <ab>pr.</ab> <s>jajanti</s>, <ls>Dhātup. xxv, 24</ls>; <ab>aor.</ab> <ab>Ā.</ab> <s>ja/nizwa</s>; <ab>Ā.</ab> <s>a/jani</s>, <ls>RV. ii, 34, 2</ls>; <ab>perf.</ab> <s>jajA/na</s>; 3. <ab>pl.</ab> <s>jajYu/r</s>, <ls>RV.</ls> &c.; once <s>jajanu/r</s>, <ls n="RV.">viii, 97, 10</ls>; <ab>p.</ab> <s>°jYivas</s>; <lang>Ved.</lang> <ab>inf.</ab> <s>ja/nitos</s>, <ls n="RV.">iv, 6, 7</ls>; <ls>AitBr.</ls>; <ls>ŚBr. iii</ls>; [<ls>Pāṇ. iii, 4, 6</ls>]; <lang>Ved.</lang> <ab>ind.p.</ab> <s>°nitvI/</s>, <ls>RV. x, 65, 7</ls>)
+; --------------------------------------------------
+; <L>78427<pc>417,1<k1>jAgf<k2>jAgf<e>1
+;(CDSL):	265564	<lang>Ved.</lang>
+;(CDSL):	265565	<lang>class.</lang>
+;(AB):	265554	<lang>Ved.</lang>, <lang>class.</lang>
+;(AB):	265565	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 265564 old <ab>pf.</ab> <lang>Ved.</lang> <s>jA<srs/>gA/ra</s> [<ls>RV.</ls>; <ls>AV.</ls>], 1. <ab>sg.</ab> <s>°ga/ra</s> [<ls>RV. x, 149, 5</ls>], <ab>p.</ab> <s>°gfva/s</s> [see <ab>s.v.</ab>];
+;
+; 265564 new <ab>pf.</ab> <lang>Ved.</lang> <s>jA<srs/>gA/ra</s> [<ls>RV.</ls>; <ls>AV.</ls>], 1. <ab>sg.</ab> <s>°ga/ra</s> [<ls>RV. x, 149, 5</ls>], <ab>p.</ab> <s>°gfva/s</s> [see <ab>s.v.</ab>];
+; --------------------------------------------------
+; <L>78427<pc>417,1<k1>jAgf<k2>jAgf<e>1
+;(CDSL):	265564	<lang>Ved.</lang>
+;(CDSL):	265565	<lang>class.</lang>
+;(AB):	265554	<lang>Ved.</lang>, <lang>class.</lang>
+;(AB):	265565	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 265565 old <ab>pf.</ab> <lang>class.</lang> [<ls>Pāṇ. iii, 1, 38</ls>; <ls n="Pāṇ.">vii, 3, 85</ls>; but <ab>cf.</ab> <ls n="Pāṇ.">vi, 1, 8</ls> <ab>Vārtt.</ab> 1] <s>jajAgAra</s> or <s>jAgaraM-cakAra</s>;
+;
+; 265565 new <ab>pf.</ab> <lang>class.</lang> [<ls>Pāṇ. iii, 1, 38</ls>; <ls n="Pāṇ.">vii, 3, 85</ls>; but <ab>cf.</ab> <ls n="Pāṇ.">vi, 1, 8</ls> <ab>Vārtt.</ab> 1] <s>jajAgAra</s> or <s>jAgaraM-cakAra</s>;
+; --------------------------------------------------
+; <L>82046<pc>434,1<k1>tad<k2>ta/d<e>2
+;(CDSL):	277539	<lang>Ved.</lang>
+;(AB):	277537	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 277539 old <lang>Ved.</lang> <s>te/Bis</s>, <ls>RV.</ls>;
+;
+; 277539 new <lang>Ved.</lang> <s>te/Bis</s>, <ls>RV.</ls>;
+; --------------------------------------------------
+; <L>82226<pc>435,1<k1>tan<k2>tan<h>3<e>1
+;(CDSL):	278155	<lang>class.</lang>
+;(AB):	278150	<lang>Class.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 278155 old <ab>pf.</ab> <ab>P.</ab> <s>tatA/na</s>, once <s>tAt°</s>, <ls>RV. i, 105, 12</ls>; 2. <ab>sg.</ab> <s>tata/nTa</s> [<ls>RV.</ls>], <lang>class.</lang> <s>teniTa</s> [<ls>Pāṇ. vii, 2, 64</ls>, <ls>Kāś.</ls>];
+;
+; 278155 new <ab>pf.</ab> <ab>P.</ab> <s>tatA/na</s>, once <s>tAt°</s>, <ls>RV. i, 105, 12</ls>; 2. <ab>sg.</ab> <s>tata/nTa</s> [<ls>RV.</ls>], <lang>class.</lang> <s>teniTa</s> [<ls>Pāṇ. vii, 2, 64</ls>, <ls>Kāś.</ls>];
+; --------------------------------------------------
+; <L>86817<pc>454,2<k1>tF<k2>tF<e>1
+;(CDSL):	292953	<lang>Ved.</lang>
+;(AB):	292950	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 292953 old with prepositions <lang>Ved.</lang> chiefly <ab>cl.</ab> 6. <ab>Ā.</ab> <ab>P.</ab>
+;
+; 292953 new with prepositions <lang>Ved.</lang> chiefly <ab>cl.</ab> 6. <ab>Ā.</ab> <ab>P.</ab>
+; --------------------------------------------------
+; <L>88580<pc>461,3<k1>trita<k2>trita/<e>2
+;(CDSL):	298777	<lang>Zd.</lang>
+;(AB):	298763	<lang>Zend</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+298777 old <lang>Zd.</lang> <etym>Thrita</etym>;
+;
+298777 new <lang>Zend</lang> <etym>Thrita</etym>;
+; --------------------------------------------------
+; <L>89342<pc>465,1<k1>dakza<k2>dakza<e>2E
+;(CDSL):	301251	<lang>Lat.</lang>, <lang>Goth.</lang>
+;(AB):	301248	<lang>Lat.</lang>, <lang>Goth.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 301251 old <s>dakza</s> ¦ [<ab>cf.</ab> <lang n="greek">δεξιός</lang>; <lang>Lat.</lang> <etym>dex-ter</etym>; <lang>Goth.</lang> <etym>taihsvs</etym>.]
+;
+; 301251 new <s>dakza</s> ¦ [<ab>cf.</ab> <lang n="greek">δεξιός</lang>; <lang>Lat.</lang> <etym>dex-ter</etym>; <lang>Goth.</lang> <etym>taihsvs</etym>.]
+; --------------------------------------------------
+; <L>92231<pc>478,2<k1>div<k2>di/v<h>3<e>2
+;(CDSL):	311031	<lang>Ved.</lang>, <lang>later Skr.</lang>, <lang>Ved.</lang>
+;(AB):	311018	<lang>Ved.</lang>, <lang>later Skr.</lang>, <lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 311031 old the latter is declined through all cases like <s>go</s>, but really does not occur except in forms mentioned above and in <s>dyo-salila</s>, <ls>MBh. viii, 4658</ls>, while <s>div</s> and <s>dyu</s> regularly alternate before <ab>vow.</ab> and <ab>cons.</ab>) <lex>m.</lex> (rarely <lex>f.</lex>) in <lang>Ved.</lang>, <lex>f.</lex> in <lang>later Skr.</lang> heaven, the sky (regarded in <lang>Ved.</lang> as rising in three tiers [<s>avama</s>, <s>maDyama</s>, <s>uttama</s> or <s>tftIya</s>, <ls>RV. v, 60, 6</ls> &c.], and generally as the father (<s>dyO/z pitA/</s>, while the earth is the mother [<ab>cf.</ab> <s>dyAvA-pfTivI</s>], and <s1 slp1="uzas">Uṣas</s1> the daughter), rarely as a goddess, daughter of <s1 slp1="prajA-pati">Prajā-pati</s1>, <ls>AitBr. iii, 33</ls>;
+;
+; 311031 new the latter is declined through all cases like <s>go</s>, but really does not occur except in forms mentioned above and in <s>dyo-salila</s>, <ls>MBh. viii, 4658</ls>, while <s>div</s> and <s>dyu</s> regularly alternate before <ab>vow.</ab> and <ab>cons.</ab>) <lex>m.</lex> (rarely <lex>f.</lex>) in <lang>Ved.</lang>, <lex>f.</lex> in <lang>later Skr.</lang> heaven, the sky (regarded in <lang>Ved.</lang> as rising in three tiers [<s>avama</s>, <s>maDyama</s>, <s>uttama</s> or <s>tftIya</s>, <ls>RV. v, 60, 6</ls> &c.], and generally as the father (<s>dyO/z pitA/</s>, while the earth is the mother [<ab>cf.</ab> <s>dyAvA-pfTivI</s>], and <s1 slp1="uzas">Uṣas</s1> the daughter), rarely as a goddess, daughter of <s1 slp1="prajA-pati">Prajā-pati</s1>, <ls>AitBr. iii, 33</ls>;
+; --------------------------------------------------
+; <L>94676.1<pc>488,2<k1>dus<k2>dus<e>2A
+;(CDSL):	318983	<lang>Engl.</lang>
+;(CDSL):	318986	<lang>Zd.</lang>, <lang>Gk.</lang>, <lang>Goth.</lang>, <lang>O. H. G.</lang>
+;(AB):	318983	<lang>Engl.</lang>, <lang>Zd.</lang>, <lang>Gk.</lang>, <lang>Goth.</lang>, <lang>O. H. G.</lang>
+;(AB):	318986	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 318983 old ¦ badly, hardly; slight, inferior &c. (<ab>opp.</ab> to <s>su</s>), often = <lang>Engl.</lang> <etym>in-</etym> or <etym>un-</etym> <info lex="inh"/>
+;
+; 318983 new ¦ badly, hardly; slight, inferior &c. (<ab>opp.</ab> to <s>su</s>), often = <lang>Engl.</lang> <etym>in-</etym> or <etym>un-</etym> <info lex="inh"/>
+; --------------------------------------------------
+; <L>94676.15<pc>488,2<k1>dus<k2>dus<e>2E
+;(CDSL):	318983	<lang>Engl.</lang>
+;(CDSL):	318986	<lang>Zd.</lang>, <lang>Gk.</lang>, <lang>Goth.</lang>, <lang>O. H. G.</lang>
+;(AB):	318983	<lang>Engl.</lang>, <lang>Zd.</lang>, <lang>Gk.</lang>, <lang>Goth.</lang>, <lang>O. H. G.</lang>
+;(AB):	318986	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 318986 old <s>dus</s> ¦ [<ab>cf.</ab> √ <hom>2.</hom> <s>duz</s>; <lang>Zd.</lang> <etym>dush-</etym>; <lang>Gk.</lang> <lang n="greek">δυς-</lang>; <lang>Goth.</lang> <etym>tuz-</etym>; <lang>O. H. G.</lang> <etym>zur-</etym>.]
+;
+; 318986 new <s>dus</s> ¦ [<ab>cf.</ab> √ <hom>2.</hom> <s>duz</s>; <lang>Zd.</lang> <etym>dush-</etym>; <lang>Gk.</lang> <lang n="greek">δυς-</lang>; <lang>Goth.</lang> <etym>tuz-</etym>; <lang>O. H. G.</lang> <etym>zur-</etym>.]
+; --------------------------------------------------
+; <L>95496<pc>492,2<k1>dF<k2>dF<e>1
+;(CDSL):	321798	<lang>Ved.</lang>
+;(AB):	321797	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 321798 old <div n="vp"/> <ab>cl.</ab> 2. <ab>P.</ab> 2. <ab>sg.</ab> <ab>Subj.</ab> <s>da/rzi</s>, 2. 3. <ab>sg.</ab> <s>da/rt</s> <ab>impf.</ab> 2. <ab>sg.</ab> <s>adar</s>, <ls>RV.</ls> (<ab>pf.</ab> <s>dadA/ra</s>, [2. <ab>sg.</ab> <s>dadariTa</s>, <ls>Pāṇ. vi, 4, 126</ls>, <ab>Sch.</ab>; 3. <ab>pl.</ab> <s>dadrur</s> or <s>dadarur</s>, <ls n="Pāṇ.">vii, 4, 12</ls>, <ab>Sch.</ab>] <ab>aor.</ab> <s>adarat</s> [<lang>Ved.</lang> <s>adArIt</s>] <ls>Pāṇ. iii, 1, 59</ls>, <ab>Sch.</ab>; <ab>Subj.</ab> <ab>P.</ab> <s>darzasi</s>, <s>da/rzat</s>; <ab>Ā.</ab> <s>darzate</s>; <ab>Pot.</ab> <s>°zIzwa</s>, <ls>RV.</ls>; <ab>Prec.</ab> <s>dIryAt</s>, <ls>Hariv. 15177</ls>)
+;
+; 321798 new <div n="vp"/> <ab>cl.</ab> 2. <ab>P.</ab> 2. <ab>sg.</ab> <ab>Subj.</ab> <s>da/rzi</s>, 2. 3. <ab>sg.</ab> <s>da/rt</s> <ab>impf.</ab> 2. <ab>sg.</ab> <s>adar</s>, <ls>RV.</ls> (<ab>pf.</ab> <s>dadA/ra</s>, [2. <ab>sg.</ab> <s>dadariTa</s>, <ls>Pāṇ. vi, 4, 126</ls>, <ab>Sch.</ab>; 3. <ab>pl.</ab> <s>dadrur</s> or <s>dadarur</s>, <ls n="Pāṇ.">vii, 4, 12</ls>, <ab>Sch.</ab>] <ab>aor.</ab> <s>adarat</s> [<lang>Ved.</lang> <s>adArIt</s>] <ls>Pāṇ. iii, 1, 59</ls>, <ab>Sch.</ab>; <ab>Subj.</ab> <ab>P.</ab> <s>darzasi</s>, <s>da/rzat</s>; <ab>Ā.</ab> <s>darzate</s>; <ab>Pot.</ab> <s>°zIzwa</s>, <ls>RV.</ls>; <ab>Prec.</ab> <s>dIryAt</s>, <ls>Hariv. 15177</ls>)
+; --------------------------------------------------
+; <L>100607<pc>513,2<k1>DA<k2>DA<h>1<e>1
+;(CDSL):	338623	<lang>Ved.</lang>
+;(CDSL):	338625	<lang>Class.</lang>
+;(AB):	338623	<lang>Ved.</lang>, <lang>Class.</lang>
+;(AB):	338625	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 338623 old <lang>Ved.</lang> also <s>°tave</s>, <s>°tavE/</s>, <s>°tos</s>;
+;
+; 338623 new <lang>Ved.</lang> also <s>°tave</s>, <s>°tavE/</s>, <s>°tos</s>;
+; --------------------------------------------------
+; <L>100607<pc>513,2<k1>DA<k2>DA<h>1<e>1
+;(CDSL):	338623	<lang>Ved.</lang>
+;(CDSL):	338625	<lang>Class.</lang>
+;(AB):	338623	<lang>Ved.</lang>, <lang>Class.</lang>
+;(AB):	338625	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 338625 old <lang>Class.</lang> also <s>-Ditum</s>;
+;
+; 338625 new <lang>Class.</lang> also <s>-Ditum</s>;
+; --------------------------------------------------
+; <L>120795<pc>612,3<k1>pA<k2>pA<h>1<e>1
+;(CDSL):	407760	<lang>Ved.</lang>
+;(AB):	407759	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 407760 old (<lang>Ved.</lang> and <ab>ep.</ab> also <ab>Ā.</ab> <s>°te</s>;
+;
+; 407760 new (<lang>Ved.</lang> and <ab>ep.</ab> also <ab>Ā.</ab> <s>°te</s>;
+; --------------------------------------------------
+; <L>140444.55<pc>710,1<k1>priyA<k2>priyA<e>2E
+;(CDSL):	473087	<lang>Old Sax.</lang>, <lang>Angl.Sax.</lang>
+;(AB):	473084	<lang>Old Sax.</lang>, <lang>Angl.Sax.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 473087 old ¦ [<ab>cf.</ab> <lang>Old Sax.</lang> <etym>frî</etym>, <lang>Angl.Sax.</lang> <etym>freó</etym>, ‘a wife’]
+;
+; 473087 new ¦ [<ab>cf.</ab> <lang>Old Sax.</lang> <etym>frî</etym>, <lang>Angl.Sax.</lang> <etym>freó</etym>, ‘a wife’]
+; --------------------------------------------------
+; <L>141734.1<pc>716,3<k1>Pala<k2>Pala<e>2E
+;(CDSL):	477286	<lang>Goth.</lang>, <lang>Icel.</lang>
+;(AB):	477283	<lang>Goth.</lang>, <lang>Icel.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 477286 old <s>Pala</s> ¦ [<ab>cf.</ab> <lang>Goth.</lang> <etym>spilda</etym>; <lang>Icel.</lang> <etym>spjald</etym>]
+;
+; 477286 new <s>Pala</s> ¦ [<ab>cf.</ab> <lang>Goth.</lang> <etym>spilda</etym>; <lang>Icel.</lang> <etym>spjald</etym>]
+; --------------------------------------------------
+; <L>146034<pc>735,2<k1>bfh<k2>bfh<h>1<e>1
+;(CDSL):	491310	<lang>Ved.</lang>
+;(AB):	491309	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 491310 old <div n="vp"/> <s>vfha/ti</s> (<ab>pf.</ab> <s>babarha</s>, <s>vava/rha</s>; <ab>fut.</ab> <s>varkzyati</s>, <s>varhizyati</s>; <s>varQA</s>, <s>varhitA</s>; <ab>aor.</ab> <s>barhIt</s>, <s>avfkzat</s>; <ab>ind.p.</ab> <s>vriQvA</s>, <s>varhitvA</s>, <s>vf/hya</s>, <s>barham</s>, <s>va/rham</s>; <lang>Ved.</lang> <ab>inf.</ab> <s>vfhas</s>:
+;
+; 491310 new <div n="vp"/> <s>vfha/ti</s> (<ab>pf.</ab> <s>babarha</s>, <s>vava/rha</s>; <ab>fut.</ab> <s>varkzyati</s>, <s>varhizyati</s>; <s>varQA</s>, <s>varhitA</s>; <ab>aor.</ab> <s>barhIt</s>, <s>avfkzat</s>; <ab>ind.p.</ab> <s>vriQvA</s>, <s>varhitvA</s>, <s>vf/hya</s>, <s>barham</s>, <s>va/rham</s>; <lang>Ved.</lang> <ab>inf.</ab> <s>vfhas</s>:
+; --------------------------------------------------
+; <L>147534<pc>742,2<k1>Bakz<k2>Bakz<e>1
+;(CDSL):	496386	<lang>Ved.</lang>
+;(AB):	496385	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 496386 old <div n="to"/>to eat or drink, devour, partake of (with <ab>acc.</ab>, in <lang>Ved.</lang> also with <ab>gen.</ab>; in the older language usually of fluids, in the later only exceptionally so), <ls>RV.</ls> &c. &c.;
+;
+; 496386 new <div n="to"/>to eat or drink, devour, partake of (with <ab>acc.</ab>, in <lang>Ved.</lang> also with <ab>gen.</ab>; in the older language usually of fluids, in the later only exceptionally so), <ls>RV.</ls> &c. &c.;
+; --------------------------------------------------
+; <L>147987.1<pc>744,3<k1>BaNga<k2>BaNga<e>2E
+;(CDSL):	498045	<lang>Lith.</lang>
+;(AB):	498042	<lang>Lith.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 498045 old <s>BaNga</s> ¦ [<ab>cf.</ab> <lang>Lith.</lang> <etym>bangà</etym>]
+;
+; 498045 new <s>BaNga</s> ¦ [<ab>cf.</ab> <lang>Lith.</lang> <etym>bangà</etym>]
+; --------------------------------------------------
+; <L>148896.1<pc>748,2<k1>Bargas<k2>Bargas<e>2E
+;(CDSL):	500942	<lang>Gk.</lang>, <lang>Lat.</lang>
+;(AB):	500939	<lang>Gk.</lang>, <lang>Lat.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 500942 old <s>Bargas</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">ϕλέγος</lang>; <lang>Lat.</lang> <etym>fulgur</etym>]
+;
+; 500942 new <s>Bargas</s> ¦ [<ab>cf.</ab> <lang>Gk.</lang> <lang n="greek">ϕλέγος</lang>; <lang>Lat.</lang> <etym>fulgur</etym>]
+; --------------------------------------------------
+; <L>150969<pc>758,1<k1>BI<k2>BI<h>1<e>1
+;(CDSL):	507575	<lang>Ved.</lang>
+;(AB):	507570	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 507575 old <lang>Ved.</lang> also <ab>cl.</ab> 1. <ab>Ā.</ab> <s>Ba/yate</s>, and accord, to, <ls>Dhātup. xxxiv, 15</ls>, <ab>cl.</ab> 10. <ab>P.</ab> <s>BAyayati</s>;
+;
+; 507575 new <lang>Ved.</lang> also <ab>cl.</ab> 1. <ab>Ā.</ab> <s>Ba/yate</s>, and accord, to, <ls>Dhātup. xxxiv, 15</ls>, <ab>cl.</ab> 10. <ab>P.</ab> <s>BAyayati</s>;
+; --------------------------------------------------
+; <L>151348<pc>759,2<k1>Buj<k2>Buj<h>3<e>1
+;(CDSL):	508812	<lang>Ved.</lang>
+;(AB):	508799	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 508812 old <div n="to"/>to enjoy, use, possess, (<ab>esp.</ab>) enjoy a meal, eat, eat and drink, consume (mostly <ab>Ā.</ab>; in <lang>Ved.</lang> generally with <ab>instr.</ab>, later with <ab>acc.</ab>), <ls>RV.</ls> &c. &c. <pb n="759,3"/>;
+;
+; 508812 new <div n="to"/>to enjoy, use, possess, (<ab>esp.</ab>) enjoy a meal, eat, eat and drink, consume (mostly <ab>Ā.</ab>; in <lang>Ved.</lang> generally with <ab>instr.</ab>, later with <ab>acc.</ab>), <ls>RV.</ls> &c. &c. <pb n="759,3"/>;
+; --------------------------------------------------
+; <L>152494<pc>764,3<k1>Bf<k2>Bf<h>1<e>1
+;(CDSL):	512591	<lang>Ved.</lang>
+;(AB):	512573	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 512591 old <ab>inf.</ab> <s>Ba/rtum</s>, <s>Ba/rtave</s>, <s>Ba/rtavE/</s>, <lang>Ved.</lang>;
+;
+; 512591 new <ab>inf.</ab> <s>Ba/rtum</s>, <s>Ba/rtave</s>, <s>Ba/rtavE/</s>, <lang>Ved.</lang>;
+; --------------------------------------------------
+; <L>155187<pc>777,1<k1>maT<k2>maT<h>1<e>1
+;(CDSL):	521186	<lang>Ved.</lang>
+;(AB):	521185	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 521186 old (<lang>Ved.</lang> and <ab>ep.</ab> also <ab>Ā.</ab> <s>ma/Tate</s>, <s>ma/nTate</s> and <s>maTnIte</s>;
+;
+; 521186 new (<lang>Ved.</lang> and <ab>ep.</ab> also <ab>Ā.</ab> <s>ma/Tate</s>, <s>ma/nTate</s> and <s>maTnIte</s>;
+; --------------------------------------------------
+; <L>158299<pc>790,2<k1>marut<k2>maru/t<e>1
+;(CDSL):	531441	<lang>Gk.</lang>
+;(AB):	531440	<lang>Gk.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 531441 old <ab>cf.</ab> <s>marIci</s> and <lang>Gk.</lang> <lang n="greek">μαρμαίρω</lang>) the storm-gods (<s1 slp1="indra">Indra</s1>'s companions and sometimes, <ab>e.g.</ab> <ls>Ragh. xii, 101</ls> = <s>devAH</s>, the gods or deities in general;
+;
+; 531441 new <ab>cf.</ab> <s>marIci</s> and <lang>Gk.</lang> <lang n="greek">μαρμαίρω</lang>) the storm-gods (<s1 slp1="indra">Indra</s1>'s companions and sometimes, <ab>e.g.</ab> <ls>Ragh. xii, 101</ls> = <s>devAH</s>, the gods or deities in general;
+; --------------------------------------------------
+; <L>161697<pc>804,2<k1>mA<k2>mA<h>3<e>1
+;(CDSL):	542890	<lang>Ved.</lang>
+;(AB):	542888	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 542890 old <div n="vp"/> <ab>cl.</ab> 4. <ab>Ā.</ab> (<ls n="Dhātup.">xxvi, 33</ls>) <s>mAyate</s> (<lang>Ved.</lang> and <ab>ep.</ab> also <s>mimAti</s> <ab>Pot.</ab> <s>mimIyAt</s> <ab>Impv.</ab>, <s>mimIhi</s>; <ab>Pot.</ab> <s>mimet</s>, <ls>Br.</ls>; <ab>pf.</ab> <s>mamO/</s>, <s>mame</s>, <s>mamire/</s>, <ls>RV.</ls>; <ab>aor.</ab> <s>a/mAsi</s> <ab>Subj.</ab> <s>mA/sAtE</s>, <ls>AV.</ls>; <s>amAsIt</s> <ab>Gr.</ab>; <ab>Prec.</ab> <s>mAsIzwa</s>, <s>meyAt</s>, <ls>ib.</ls>; <ab>fut.</ab> <s>mAtA</s>; <s>mAsyati</s>, <s>mAsyate</s>, <ls>ib.</ls>; <ab>inf.</ab> <s>-me/</s>, <s>-mE/</s>, <ls>RV.</ls>; <s>mAtum</s>, <ls>Br.</ls>; <ab>ind.p.</ab> <s>mitvA/</s>, <s>-mA/ya</s>, <ls>RV.</ls> &c. &c.),
+;
+; 542890 new <div n="vp"/> <ab>cl.</ab> 4. <ab>Ā.</ab> (<ls n="Dhātup.">xxvi, 33</ls>) <s>mAyate</s> (<lang>Ved.</lang> and <ab>ep.</ab> also <s>mimAti</s> <ab>Pot.</ab> <s>mimIyAt</s> <ab>Impv.</ab>, <s>mimIhi</s>; <ab>Pot.</ab> <s>mimet</s>, <ls>Br.</ls>; <ab>pf.</ab> <s>mamO/</s>, <s>mame</s>, <s>mamire/</s>, <ls>RV.</ls>; <ab>aor.</ab> <s>a/mAsi</s> <ab>Subj.</ab> <s>mA/sAtE</s>, <ls>AV.</ls>; <s>amAsIt</s> <ab>Gr.</ab>; <ab>Prec.</ab> <s>mAsIzwa</s>, <s>meyAt</s>, <ls>ib.</ls>; <ab>fut.</ab> <s>mAtA</s>; <s>mAsyati</s>, <s>mAsyate</s>, <ls>ib.</ls>; <ab>inf.</ab> <s>-me/</s>, <s>-mE/</s>, <ls>RV.</ls>; <s>mAtum</s>, <ls>Br.</ls>; <ab>ind.p.</ab> <s>mitvA/</s>, <s>-mA/ya</s>, <ls>RV.</ls> &c. &c.),
+; --------------------------------------------------
+; <L>167121<pc>829,2<k1>mfj<k2>mfj<h>1<e>1
+;(CDSL):	560379	<lang>Ved.</lang>
+;(AB):	560378	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 560379 old (<lang>Ved.</lang> also <ab>Ā.</ab> <s>mfzwe/</s> and <ab>cl.</ab> 6. <ab>P.</ab> <ab>Ā.</ab> <s>mfja/ti</s>, <s>°te</s>, 3. <ab>pl.</ab> <s>mfYjata</s>, <ls>RV.</ls>;
+;
+; 560379 new (<lang>Ved.</lang> also <ab>Ā.</ab> <s>mfzwe/</s> and <ab>cl.</ab> 6. <ab>P.</ab> <ab>Ā.</ab> <s>mfja/ti</s>, <s>°te</s>, 3. <ab>pl.</ab> <s>mfYjata</s>, <ls>RV.</ls>;
+; --------------------------------------------------
+; <L>168905<pc>837,3<k1>mleC<k2>mleC<e>1
+;(CDSL):	566070	<lang>Ved.</lang>
+;(CDSL):	566071	<lang>Sanskṛt</lang>
+;(AB):	566070	<lang>Ved.</lang>, <lang>Sanskṛt</lang>
+;(AB):	566071	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 566070 old <s>mleC</s> ¦ (= √ <s>mliC</s>) <ab>cl.</ab> 1. <ab>P.</ab> (<ls>Dhātup. vii, 25</ls>) <s>mlecCati</s> (<ab>Gr.</ab> also <ab>pf.</ab> <s>mimlecCa</s> <ab>fut.</ab> <s>mlecCitA</s> &c.; <lang>Ved.</lang> <ab>inf.</ab> <s>mlecCitavE</s>, <ls>Pat.</ls>),
+;
+; 566070 new <s>mleC</s> ¦ (= √ <s>mliC</s>) <ab>cl.</ab> 1. <ab>P.</ab> (<ls>Dhātup. vii, 25</ls>) <s>mlecCati</s> (<ab>Gr.</ab> also <ab>pf.</ab> <s>mimlecCa</s> <ab>fut.</ab> <s>mlecCitA</s> &c.; <lang>Ved.</lang> <ab>inf.</ab> <s>mlecCitavE</s>, <ls>Pat.</ls>),
+; --------------------------------------------------
+; <L>168905<pc>837,3<k1>mleC<k2>mleC<e>1
+;(CDSL):	566070	<lang>Ved.</lang>
+;(CDSL):	566071	<lang>Sanskṛt</lang>
+;(AB):	566070	<lang>Ved.</lang>, <lang>Sanskṛt</lang>
+;(AB):	566071	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 566071 old <div n="to"/>to speak indistinctly (like a foreigner or barbarian who does not speak <lang>Sanskṛt</lang>), <ls>ŚBr.</ls>; <ls>MBh.</ls> :
+;
+; 566071 new <div n="to"/>to speak indistinctly (like a foreigner or barbarian who does not speak <lang>Sanskṛt</lang>), <ls>ŚBr.</ls>; <ls>MBh.</ls> :
+; --------------------------------------------------
+; <L>169114<pc>838,3<k1>yaj<k2>yaj<h>1<e>1
+;(CDSL):	566717	<lang>Ved.</lang>
+;(CDSL):	566721	<lang>Ved.</lang>
+;(CDSL):	566730	<lang>Ved.</lang>
+;(AB):	566715	<lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	566721	----------
+;(AB):	566730	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 566717 old <lang>Ved.</lang> <ab>Impv.</ab> <s>ya/kzi</s> or <s>°zva</s>;
+;
+; 566717 new <lang>Ved.</lang> <ab>Impv.</ab> <s>ya/kzi</s> or <s>°zva</s>;
+; --------------------------------------------------
+; <L>169114<pc>838,3<k1>yaj<k2>yaj<h>1<e>1
+;(CDSL):	566717	<lang>Ved.</lang>
+;(CDSL):	566721	<lang>Ved.</lang>
+;(CDSL):	566730	<lang>Ved.</lang>
+;(AB):	566715	<lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	566721	----------
+;(AB):	566730	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 566721 old <lang>Ved.</lang> <ab>aor.</ab> <s>ayAkzIt</s> or <s>ayAw</s>;
+;
+; 566721 new <lang>Ved.</lang> <ab>aor.</ab> <s>ayAkzIt</s> or <s>ayAw</s>;
+; --------------------------------------------------
+; <L>169114<pc>838,3<k1>yaj<k2>yaj<h>1<e>1
+;(CDSL):	566717	<lang>Ved.</lang>
+;(CDSL):	566721	<lang>Ved.</lang>
+;(CDSL):	566730	<lang>Ved.</lang>
+;(AB):	566715	<lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	566721	----------
+;(AB):	566730	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 566730 old <lang>Ved.</lang> <s>°wave</s>;
+;
+; 566730 new <lang>Ved.</lang> <s>°wave</s>;
+; --------------------------------------------------
+; <L>169118.1<pc>839,1<k1>yajata<k2>yajata<e>2E
+;(CDSL):	566765	<lang>Zd.</lang>
+;(AB):	566762	<lang>Zd.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 566765 old <s>yajata</s> ¦ [<ab>cf.</ab> <lang>Zd.</lang> <etym>yazata</etym>]
+;
+; 566765 new <s>yajata</s> ¦ [<ab>cf.</ab> <lang>Zd.</lang> <etym>yazata</etym>]
+; --------------------------------------------------
+; <L>170258<pc>845,2<k1>yam<k2>yam<e>1
+;(CDSL):	570991	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	570990	<lang>Ved.</lang>, <lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 570991 old (<lang>Ved.</lang> also <s>°te</s>, and <lang>Ved.</lang> <ab>ep.</ab> <s>ya/mati</s>, <s>°te</s>;
+;
+; 570991 new (<lang>Ved.</lang> also <s>°te</s>, and <lang>Ved.</lang> <ab>ep.</ab> <s>ya/mati</s>, <s>°te</s>;
+; --------------------------------------------------
+; <L>171018<pc>849,1<k1>yA<k2>yA<h>1<e>1
+;(CDSL):	573515	<lang>Ved.</lang>
+;(AB):	573502	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 573515 old <lang>Ved.</lang> <ab>inf.</ab> <s>yE/</s>, <s>yA/tave</s> or <s>°vE/</s>;
+;
+; 573515 new <lang>Ved.</lang> <ab>inf.</ab> <s>yE/</s>, <s>yA/tave</s> or <s>°vE/</s>;
+; --------------------------------------------------
+; <L>171731<pc>853,2<k1>yuj<k2>yuj<h>1<e>1
+;(CDSL):	575865	<lang>Ved.</lang>
+;(CDSL):	575869	<lang>Class.</lang>
+;(CDSL):	575870	<lang>Ved.</lang>
+;(CDSL):	575871	<lang>Ved.</lang>, <lang>Class.</lang>
+;(AB):	575863	<lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>
+;(AB):	575869	----------
+;(AB):	575870	----------
+;(AB):	575871	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 575865 old <lang>Ved.</lang> <s>yojati</s>, <s>°te</s>;
+;
+; 575865 new <lang>Ved.</lang> <s>yojati</s>, <s>°te</s>;
+; --------------------------------------------------
+; <L>171731<pc>853,2<k1>yuj<k2>yuj<h>1<e>1
+;(CDSL):	575865	<lang>Ved.</lang>
+;(CDSL):	575869	<lang>Class.</lang>
+;(CDSL):	575870	<lang>Ved.</lang>
+;(CDSL):	575871	<lang>Ved.</lang>, <lang>Class.</lang>
+;(AB):	575863	<lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>
+;(AB):	575869	----------
+;(AB):	575870	----------
+;(AB):	575871	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 575869 old <ab>aor.</ab> <lang>Class.</lang> <ab>P.</ab> <s>ayokzIt</s>, <s>ayOkzIt</s> or <s>ayujat</s>;
+;
+; 575869 new <ab>aor.</ab> <lang>Class.</lang> <ab>P.</ab> <s>ayokzIt</s>, <s>ayOkzIt</s> or <s>ayujat</s>;
+; --------------------------------------------------
+; <L>171731<pc>853,2<k1>yuj<k2>yuj<h>1<e>1
+;(CDSL):	575865	<lang>Ved.</lang>
+;(CDSL):	575869	<lang>Class.</lang>
+;(CDSL):	575870	<lang>Ved.</lang>
+;(CDSL):	575871	<lang>Ved.</lang>, <lang>Class.</lang>
+;(AB):	575863	<lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>
+;(AB):	575869	----------
+;(AB):	575870	----------
+;(AB):	575871	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 575870 old <lang>Ved.</lang> also <ab>Ā.</ab> <s>a/yuji</s>;
+;
+; 575870 new <lang>Ved.</lang> also <ab>Ā.</ab> <s>a/yuji</s>;
+; --------------------------------------------------
+; <L>171731<pc>853,2<k1>yuj<k2>yuj<h>1<e>1
+;(CDSL):	575865	<lang>Ved.</lang>
+;(CDSL):	575869	<lang>Class.</lang>
+;(CDSL):	575870	<lang>Ved.</lang>
+;(CDSL):	575871	<lang>Ved.</lang>, <lang>Class.</lang>
+;(AB):	575863	<lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>
+;(AB):	575869	----------
+;(AB):	575870	----------
+;(AB):	575871	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 575871 old <lang>Ved.</lang> and <lang>Class.</lang> <s>ayukzi</s>, <s>ayukta</s>;
+;
+; 575871 new <lang>Ved.</lang> and <lang>Class.</lang> <s>ayukzi</s>, <s>ayukta</s>;
+; --------------------------------------------------
+; <L>182034<pc>899,2<k1>lAsya<k2>lAsya<e>2
+;(CDSL):	609210	<lang>Sanskṛt</lang>, <lang>Prākṛt</lang>, <lang>Prākṛt</lang>, <lang>Sanskṛt</lang>
+;(AB):	609209	<lang>Sanskṛt</lang>, <lang>Prākṛt</lang>, <lang>Prākṛt</lang>, <lang>Sanskṛt</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 609210 old including also a style of dramatic composition in which there is abrupt transition from <lang>Sanskṛt</lang> to <lang>Prākṛt</lang> and from <lang>Prākṛt</lang> to <lang>Sanskṛt</lang>;
+;
+; 609210 new including also a style of dramatic composition in which there is abrupt transition from <lang>Sanskṛt</lang> to <lang>Prākṛt</lang> and from <lang>Prākṛt</lang> to <lang>Sanskṛt</lang>;
+; --------------------------------------------------
+; <L>184615<pc>912,1<k1>vac<k2>vac<e>1
+;(CDSL):	617506	<lang>Ved.</lang>
+;(AB):	617504	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 617506 old <lang>Ved.</lang> also <ab>cl.</ab> 3. <ab>P.</ab> <s>vi/vakti</s>;
+;
+; 617506 new <lang>Ved.</lang> also <ab>cl.</ab> 3. <ab>P.</ab> <s>vi/vakti</s>;
+; --------------------------------------------------
+; <L>189238<pc>933,2<k1>vah<k2>vah<h>1<e>1
+;(CDSL):	632420	<lang>Ved.</lang>
+;(CDSL):	632425	<lang>Ved.</lang>
+;(AB):	632414	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	632425	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 632420 old <ab>aor.</ab> <lang>Ved.</lang> <s>a/vAkzIt</s> or <s>a/vAw</s> <ab>Subj.</ab> <s>va/kzat</s>, <s>°ati</s>, <ab>Prec.</ab> <s>uhyAt</s>;
+;
+; 632420 new <ab>aor.</ab> <lang>Ved.</lang> <s>a/vAkzIt</s> or <s>a/vAw</s> <ab>Subj.</ab> <s>va/kzat</s>, <s>°ati</s>, <ab>Prec.</ab> <s>uhyAt</s>;
+; --------------------------------------------------
+; <L>189238<pc>933,2<k1>vah<k2>vah<h>1<e>1
+;(CDSL):	632420	<lang>Ved.</lang>
+;(CDSL):	632425	<lang>Ved.</lang>
+;(AB):	632414	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	632425	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 632425 old <ab>inf.</ab> <s>voQum</s>, <ls>RV.</ls> &c. &c. [<lang>Ved.</lang> also <s>°Qave</s> and <s>°QavE</s>];
+;
+; 632425 new <ab>inf.</ab> <s>voQum</s>, <ls>RV.</ls> &c. &c. [<lang>Ved.</lang> also <s>°Qave</s> and <s>°QavE</s>];
+; --------------------------------------------------
+; <L>195939<pc>964,3<k1>vid<k2>vid<h>3<e>1
+;(CDSL):	654352	<lang>Ved.</lang>
+;(CDSL):	654359	<lang>Ved.</lang>
+;(AB):	654351	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	654359	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 654352 old (<lang>Ved.</lang> also <s>vitte/</s>, <s>vide/</s>;
+;
+; 654352 new (<lang>Ved.</lang> also <s>vitte/</s>, <s>vide/</s>;
+; --------------------------------------------------
+; <L>195939<pc>964,3<k1>vid<k2>vid<h>3<e>1
+;(CDSL):	654352	<lang>Ved.</lang>
+;(CDSL):	654359	<lang>Ved.</lang>
+;(AB):	654351	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	654359	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 654359 old 3. [<lang>Ved.</lang> <ab>Subj.</ab> <s>vidA/si</s>, <s>°dA/t</s>; <ab>Pot.</ab> <s>vide/t</s>, <s>deta</s>, <ls>VS.</ls>; <ls>AV.</ls>; <ls>Br.</ls>; <ab>sg.</ab> <s>videzwa</s>, <ls>AV. ii, 36, 3</ls>];
+;
+; 654359 new 3. [<lang>Ved.</lang> <ab>Subj.</ab> <s>vidA/si</s>, <s>°dA/t</s>; <ab>Pot.</ab> <s>vide/t</s>, <s>deta</s>, <ls>VS.</ls>; <ls>AV.</ls>; <ls>Br.</ls>; <ab>sg.</ab> <s>videzwa</s>, <ls>AV. ii, 36, 3</ls>];
+; --------------------------------------------------
+; <L>204309<pc>1008,3<k1>vfj<k2>vfj<h>1<e>1
+;(CDSL):	682486	<lang>Ved.</lang>
+;(AB):	682484	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 682486 old (<lang>Ved.</lang> and <ls>BhP.</ls> also <s>va/rjate</s> and <s>vfNkte/</s>;
+;
+; 682486 new (<lang>Ved.</lang> and <ls>BhP.</ls> also <s>va/rjate</s> and <s>vfNkte/</s>;
+; --------------------------------------------------
+; <L>204573<pc>1010,2<k1>vfD<k2>vfD<e>1
+;(CDSL):	683420	<lang>Ved.</lang>
+;(CDSL):	683422	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(CDSL):	683428	<lang>Ved.</lang>
+;(CDSL):	683429	<lang>Class.</lang>
+;(AB):	683419	<lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>
+;(AB):	683422	----------
+;(AB):	683428	----------
+;(AB):	683429	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 683420 old (<lang>Ved.</lang> and <ab>ep.</ab> also <s>°ti</s>;
+;
+; 683420 new (<lang>Ved.</lang> and <ab>ep.</ab> also <s>°ti</s>;
+; --------------------------------------------------
+; <L>204573<pc>1010,2<k1>vfD<k2>vfD<e>1
+;(CDSL):	683420	<lang>Ved.</lang>
+;(CDSL):	683422	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(CDSL):	683428	<lang>Ved.</lang>
+;(CDSL):	683429	<lang>Class.</lang>
+;(AB):	683419	<lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>
+;(AB):	683422	----------
+;(AB):	683428	----------
+;(AB):	683429	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 683422 old [<lang>Ved.</lang> also <s>vA<srs/>vf°</s>; <s>vavfDAti</s>, <s>°DItA/s</s>, <s>°Da/sva</s>, <ls>RV.</ls>; <s>vAvfDe/te</s>, <ls>RV.</ls>; <ab>p.</ab> <s>vA<shortlong/>vfDa/t</s>, <ls>RV.</ls>; <ls>AV.</ls>; <ab>aor.</ab> <lang>Ved.</lang> <s>avfDat</s>, <s>vfDAtas</s>, <s>°DAtu</s>; <ab>p.</ab> <s>vfDa/t</s>, <s>°DAna/</s>];
+;
+; 683422 new [<lang>Ved.</lang> also <s>vA<srs/>vf°</s>; <s>vavfDAti</s>, <s>°DItA/s</s>, <s>°Da/sva</s>, <ls>RV.</ls>; <s>vAvfDe/te</s>, <ls>RV.</ls>; <ab>p.</ab> <s>vA<shortlong/>vfDa/t</s>, <ls>RV.</ls>; <ls>AV.</ls>; <ab>aor.</ab> <lang>Ved.</lang> <s>avfDat</s>, <s>vfDAtas</s>, <s>°DAtu</s>; <ab>p.</ab> <s>vfDa/t</s>, <s>°DAna/</s>];
+; --------------------------------------------------
+; <L>204573<pc>1010,2<k1>vfD<k2>vfD<e>1
+;(CDSL):	683420	<lang>Ved.</lang>
+;(CDSL):	683422	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(CDSL):	683428	<lang>Ved.</lang>
+;(CDSL):	683429	<lang>Class.</lang>
+;(AB):	683419	<lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>
+;(AB):	683422	----------
+;(AB):	683428	----------
+;(AB):	683429	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 683428 old <ab>inf.</ab> <lang>Ved.</lang> <s>vfDe</s> [‘for increase’, ‘to make glad’], <s>vfDa/se</s>, <s>vAvfDa/DyE</s>;
+;
+; 683428 new <ab>inf.</ab> <lang>Ved.</lang> <s>vfDe</s> [‘for increase’, ‘to make glad’], <s>vfDa/se</s>, <s>vAvfDa/DyE</s>;
+; --------------------------------------------------
+; <L>204573<pc>1010,2<k1>vfD<k2>vfD<e>1
+;(CDSL):	683420	<lang>Ved.</lang>
+;(CDSL):	683422	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(CDSL):	683428	<lang>Ved.</lang>
+;(CDSL):	683429	<lang>Class.</lang>
+;(AB):	683419	<lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>
+;(AB):	683422	----------
+;(AB):	683428	----------
+;(AB):	683429	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 683429 old <lang>Class.</lang> <s>varDitum</s>;
+;
+; 683429 new <lang>Class.</lang> <s>varDitum</s>;
+; --------------------------------------------------
+; <L>205937<pc>1016,3<k1>vedANga<k2>vedANga<h>b<e>2
+;(CDSL):	687854	<lang>Prākṛt</lang>, <lang>Sanskṛt</lang>
+;(AB):	687850	<lang>Prākṛt</lang>, <lang>Sanskṛt</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+;; AB has opted to change Saṃskṛt as Sanskṛt
+;; cdsl might also consider doing the same
+; 687854 old 2. <s>Candas</s>, ‘metre’ [represented by a treatise ascribed to <s1 slp1="piNgala-nAga">Piṅgala-nāga</s1>, which, however, treats of <lang>Prākṛt</lang> as well as <lang>Sanskṛt</lang> metres, and includes only a few of the leading Vedic metres] :
+;
+; 687854 new 2. <s>Candas</s>, ‘metre’ [represented by a treatise ascribed to <s1 slp1="piNgala-nAga">Piṅgala-nāga</s1>, which, however, treats of <lang>Prākṛt</lang> as well as <lang>Sanskṛt</lang> metres, and includes only a few of the leading Vedic metres] :
+; --------------------------------------------------
+; <L>211201<pc>1045,3<k1>Saka<k2>Saka<h>3<e>1
+;(CDSL):	704992	<lang>Lat.</lang>
+;(AB):	704989	<lang>Lat.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 704992 old they are sometimes regarded as the followers of <s1 slp1="Saka">Śaka</s1> or <s1 slp1="SAli-vAhana">Śāli-vāhana</s1>, and are probably to be identified with the Tartars or Indo-Scythians [<lang>Lat.</lang> <etym>Sacæ</etym>] who overran India before the <ns>Āryans</ns>, and were conquered by the great <s1 slp1="vikramAditya">Vikramāditya</s1> [<ab>q.v.</ab>];
+;
+; 704992 new they are sometimes regarded as the followers of <s1 slp1="Saka">Śaka</s1> or <s1 slp1="SAli-vAhana">Śāli-vāhana</s1>, and are probably to be identified with the Tartars or Indo-Scythians [<lang>Lat.</lang> <etym>Sacæ</etym>] who overran India before the <ns>Āryans</ns>, and were conquered by the great <s1 slp1="vikramAditya">Vikramāditya</s1> [<ab>q.v.</ab>];
+; --------------------------------------------------
+; <L>215993.1<pc>1067,2<k1>SAlA<k2>SAlA<e>2E
+;(CDSL):	720228	<lang>Germ.</lang>, <lang>Eng.</lang>
+;(AB):	720225	<lang>Germ.</lang>, <lang>Eng.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 720228 old <s>SAlA</s> ¦ [<ab>cf.</ab> <lang>Germ.</lang> <etym>saal</etym>; <lang>Eng.</lang> <etym>hall</etym>]
+;
+; 720228 new <s>SAlA</s> ¦ [<ab>cf.</ab> <lang>Germ.</lang> <etym>saal</etym>; <lang>Eng.</lang> <etym>hall</etym>]
+; --------------------------------------------------
+; <L>216290<pc>1068,3<k1>SAs<k2>SAs<h>1<e>1
+;(CDSL):	721135	<lang>Ved.</lang>
+;(AB):	721134	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 721135 old (<lang>Ved.</lang> and <ab>ep.</ab> also <s>SA/ste</s> and <s>SAsati</s>, <s>°te</s>;
+;
+; 721135 new (<lang>Ved.</lang> and <ab>ep.</ab> also <s>SA/ste</s> and <s>SAsati</s>, <s>°te</s>;
+; --------------------------------------------------
+; <L>218170<pc>1077,1<k1>SI<k2>SI<h>1<e>1
+;(CDSL):	727183	<lang>Class.</lang>
+;(CDSL):	727187	<lang>ved.</lang>
+;(AB):	727182	<lang>Class.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>
+;(CDSL):	727190	<lang>ved.</lang>, <lang>Class.</lang>
+;(AB):	727187	----------
+;(AB):	727190	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 727183 old (with <s1 slp1="guRa">Guṇa</s1> throughout the <ab>pr.</ab> stem : thus, <s>Sa/ye</s> [in <ls>RV.</ls> also 3. <ab>sg.</ab>], <s>Se/ze</s> &c., 3. <ab>pl.</ab> <s>Se/rate</s> [in <ls>AV.</ls> also <s>Se/re</s> and <lang>Class.</lang> <s>Sayire</s>];
+;
+; 727183 new (with <s1 slp1="guRa">Guṇa</s1> throughout the <ab>pr.</ab> stem : thus, <s>Sa/ye</s> [in <ls>RV.</ls> also 3. <ab>sg.</ab>], <s>Se/ze</s> &c., 3. <ab>pl.</ab> <s>Se/rate</s> [in <ls>AV.</ls> also <s>Se/re</s> and <lang>Class.</lang> <s>Sayire</s>];
+; --------------------------------------------------
+; <L>218170<pc>1077,1<k1>SI<k2>SI<h>1<e>1
+;(CDSL):	727183	<lang>Class.</lang>
+;(CDSL):	727187	<lang>ved.</lang>
+;(AB):	727182	<lang>Class.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>
+;(CDSL):	727190	<lang>ved.</lang>, <lang>Class.</lang>
+;(AB):	727187	----------
+;(AB):	727190	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+727187 old <lang>ved.</lang> and <ab>ep.</ab> also <ab>cl.</ab> 1. <s>Sa/yate</s>, <s>°ti</s>;
+;
+727187 new <lang>Ved.</lang> and <ab>ep.</ab> also <ab>cl.</ab> 1. <s>Sa/yate</s>, <s>°ti</s>;
+; --------------------------------------------------
+; <L>218170<pc>1077,1<k1>SI<k2>SI<h>1<e>1
+;(CDSL):	727183	<lang>Class.</lang>
+;(CDSL):	727187	<lang>ved.</lang>
+;(AB):	727182	<lang>Class.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>
+;(CDSL):	727190	<lang>ved.</lang>, <lang>Class.</lang>
+;(AB):	727187	----------
+;(AB):	727190	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+727190 old <ab>p.</ab> <lang>ved.</lang> <s>SaSayAna/</s>, <lang>Class.</lang> <s>SiSyAna</s>;
+;
+727190 new <ab>p.</ab> <lang>Ved.</lang> <s>SaSayAna/</s>, <lang>Class.</lang> <s>SiSyAna</s>;
+; --------------------------------------------------
+; <L>219616<pc>1083,1<k1>SuB<k2>SuB<h>1<e>1
+;(CDSL):	731767	<lang>Ved.</lang>
+;(AB):	731766	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 731767 old (<ab>ep.</ab> also <s>SoBati</s>, and <lang>Ved.</lang> <s>Su/mBate</s>; 3. <ab>sg.</ab> <s>So/Be</s>, <ls>RV.</ls>; <ab>pf.</ab> <s>SuSoBa</s>, <s>SuSuBe</s>, <ls>MBh.</ls> &c.; <s>SuSumBa</s> <ab>Gr.</ab>; <ab>aor.</ab>, <s>aSuBat</s>, <s>aSoBizwa</s>, <s>aSumBIt</s>, <ls>ib.</ls>; <ab>p.</ab> <s>Su/mBAna</s>, <s>SuBAna/</s>, <ls>RV.</ls>; <ab>fut.</ab> <s>SoBitA</s> or <s>SumBitA</s> <ab>Gr.</ab>; <s>SoBizyati</s>, <ls>MBh.</ls>; <s>SumBizyati</s> <ab>Gr.</ab>; <ab>inf.</ab> <s>SuBe/</s>, <s>SoBAse</s>, <ls>RV.</ls>; <s>SoBitum</s> <ab>Gr.</ab>),
+;
+; 731767 new (<ab>ep.</ab> also <s>SoBati</s>, and <lang>Ved.</lang> <s>Su/mBate</s>; 3. <ab>sg.</ab> <s>So/Be</s>, <ls>RV.</ls>; <ab>pf.</ab> <s>SuSoBa</s>, <s>SuSuBe</s>, <ls>MBh.</ls> &c.; <s>SuSumBa</s> <ab>Gr.</ab>; <ab>aor.</ab>, <s>aSuBat</s>, <s>aSoBizwa</s>, <s>aSumBIt</s>, <ls>ib.</ls>; <ab>p.</ab> <s>Su/mBAna</s>, <s>SuBAna/</s>, <ls>RV.</ls>; <ab>fut.</ab> <s>SoBitA</s> or <s>SumBitA</s> <ab>Gr.</ab>; <s>SoBizyati</s>, <ls>MBh.</ls>; <s>SumBizyati</s> <ab>Gr.</ab>; <ab>inf.</ab> <s>SuBe/</s>, <s>SoBAse</s>, <ls>RV.</ls>; <s>SoBitum</s> <ab>Gr.</ab>),
+; --------------------------------------------------
+; <L>223393<pc>1100,3<k1>Sru<k2>Sru<h>1<e>1
+;(CDSL):	743723	<lang>Ved.</lang>
+;(CDSL):	743727	<lang>Ved.</lang>
+;(AB):	743722	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	743727	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 743723 old (<lang>Ved.</lang> and <ab>ep.</ab> also <ab>Ā.</ab> <s>SfRute</s>, and in <ls>RV.</ls> 3. <ab>sg.</ab> <s>SfRve/</s>, 2. <ab>sg.</ab> <s>°vize/</s>, 3. <ab>pl.</ab> <s>°vire/</s> [<ab>cf.</ab> below];
+;
+; 743723 new (<lang>Ved.</lang> and <ab>ep.</ab> also <ab>Ā.</ab> <s>SfRute</s>, and in <ls>RV.</ls> 3. <ab>sg.</ab> <s>SfRve/</s>, 2. <ab>sg.</ab> <s>°vize/</s>, 3. <ab>pl.</ab> <s>°vire/</s> [<ab>cf.</ab> below];
+; --------------------------------------------------
+; <L>223393<pc>1100,3<k1>Sru<k2>Sru<h>1<e>1
+;(CDSL):	743723	<lang>Ved.</lang>
+;(CDSL):	743727	<lang>Ved.</lang>
+;(AB):	743722	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	743727	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 743727 old <ab>aor.</ab> <lang>Ved.</lang> <s>a/Sravam</s>, <s>a/Srot</s>, 2. <ab>sg.</ab> <s>Sro/zi</s>;
+;
+; 743727 new <ab>aor.</ab> <lang>Ved.</lang> <s>a/Sravam</s>, <s>a/Srot</s>, 2. <ab>sg.</ab> <s>Sro/zi</s>;
+; --------------------------------------------------
+; <L>224444.1<pc>1106,1<k1>Svastana<k2>Svastana<e>2E
+;(CDSL):	747139	<lang>Lat.</lang>
+;(AB):	747136	<lang>Lat.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 747139 old <s>Svastana</s> ¦ [<ab>cf.</ab> <lang>Lat.</lang> <etym>crastinus</etym>]
+;
+; 747139 new <s>Svastana</s> ¦ [<ab>cf.</ab> <lang>Lat.</lang> <etym>crastinus</etym>]
+; --------------------------------------------------
+; <L>225713<pc>1112,1<k1>saMyu<k2>saM-yu<e>1
+;(CDSL):	751462	<lang>Ved.</lang>
+;(AB):	751461	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 751462 old <div n="to"/> <s>-yunAti</s>, <s>°nIte</s> (<lang>Ved.</lang> also <s>-yuvati</s>, <s>°te</s>), to join or unite with one's self, take into one's self, devour, <ls>RV.</ls>;
+;
+; 751462 new <div n="to"/> <s>-yunAti</s>, <s>°nIte</s> (<lang>Ved.</lang> also <s>-yuvati</s>, <s>°te</s>), to join or unite with one's self, take into one's self, devour, <ls>RV.</ls>;
+; --------------------------------------------------
+; <L>232987<pc>1152,1<k1>sam<k2>sa/m<h>2<e>1
+;(CDSL):	776241	<lang>Gk.</lang>, <lang>Lat.</lang>
+;(CDSL):	776246	<lang>Ved.</lang>
+;(AB):	776241	<lang>Gk.</lang>, <lang>Lat.</lang>, <lang>Ved.</lang>
+;(AB):	776246	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 776241 old <hom>2.</hom> <s>sa/m</s> ¦ <lex>ind.</lex> (connected with <hom>7.</hom> <s>sa</s> and <hom>2.</hom> <s>sama</s>, and <ab>opp.</ab> to <hom>3.</hom> <s>vi</s>, <ab>q.v.</ab>) with, together with, along with, together, altogether (used as a preposition or prefix to verbs and verbal derivatives, like <lang>Gk.</lang> <lang n="greek">σύν</lang>, <lang>Lat.</lang> <etym>con</etym>, and expressing ‘conjunction’, ‘union’, ‘thoroughness’, ‘intensity’, ‘completeness’ <ab>e.g.</ab> <s>saM√ yuj</s>, ‘to join together’;
+;
+; 776241 new <hom>2.</hom> <s>sa/m</s> ¦ <lex>ind.</lex> (connected with <hom>7.</hom> <s>sa</s> and <hom>2.</hom> <s>sama</s>, and <ab>opp.</ab> to <hom>3.</hom> <s>vi</s>, <ab>q.v.</ab>) with, together with, along with, together, altogether (used as a preposition or prefix to verbs and verbal derivatives, like <lang>Gk.</lang> <lang n="greek">σύν</lang>, <lang>Lat.</lang> <etym>con</etym>, and expressing ‘conjunction’, ‘union’, ‘thoroughness’, ‘intensity’, ‘completeness’ <ab>e.g.</ab> <s>saM√ yuj</s>, ‘to join together’;
+; --------------------------------------------------
+; <L>232987<pc>1152,1<k1>sam<k2>sa/m<h>2<e>1
+;(CDSL):	776241	<lang>Gk.</lang>, <lang>Lat.</lang>
+;(CDSL):	776246	<lang>Ved.</lang>
+;(AB):	776241	<lang>Gk.</lang>, <lang>Lat.</lang>, <lang>Ved.</lang>
+;(AB):	776246	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 776246 old in <lang>Ved.</lang> the verb connected with it has sometimes to be supplied, <ab>e.g.</ab> <s>A/po agni/m yaSa/saH sa/M hi/ pUrvI/H</s>, ‘for many glorious waters surrounded <s1 slp1="agni">Agni</s1>’;
+;
+; 776246 new in <lang>Ved.</lang> the verb connected with it has sometimes to be supplied, <ab>e.g.</ab> <s>A/po agni/m yaSa/saH sa/M hi/ pUrvI/H</s>, ‘for many glorious waters surrounded <s1 slp1="agni">Agni</s1>’;
+; --------------------------------------------------
+; <L>239967<pc>1192,3<k1>sah<k2>sah<h>1<e>1
+;(CDSL):	799786	<lang>Ved.</lang>
+;(CDSL):	799789	<lang>Ved.</lang>
+;(AB):	799785	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	799789	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 799786 old (<lang>Ved.</lang> and <ab>ep.</ab> also <s>°ti</s> and exceptionally <s>sAhati</s>, once in <ls>MBh. 1.</ls> <ab>sg.</ab> <s>sahyAmi</s>;
+;
+; 799786 new (<lang>Ved.</lang> and <ab>ep.</ab> also <s>°ti</s> and exceptionally <s>sAhati</s>, once in <ls>MBh. 1.</ls> <ab>sg.</ab> <s>sahyAmi</s>;
+; --------------------------------------------------
+; <L>239967<pc>1192,3<k1>sah<k2>sah<h>1<e>1
+;(CDSL):	799786	<lang>Ved.</lang>
+;(CDSL):	799789	<lang>Ved.</lang>
+;(AB):	799785	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	799789	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 799789 old <lang>Ved.</lang> also <s>sasA<shortlong/>he/</s> and <s>sAsAhat</s>;
+;
+; 799789 new <lang>Ved.</lang> also <s>sasA<shortlong/>he/</s> and <s>sAsAhat</s>;
+; --------------------------------------------------
+; <L>240499<pc>1195,2<k1>sahasra<k2>saha/sra<h>b<e>1
+;(CDSL):	801613	<lang>Gk.</lang>
+;(CDSL):	801614	<lang>Pers.</lang>
+;(AB):	801613	<lang>Gk.</lang>, <lang>Pers.</lang>
+;(AB):	801614	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 801613 old <s>saha/sra</s> <hom>b</hom> ¦ <lex>n.</lex> (rarely) <lex type="hw">m.</lex> (perhaps <ab>fr.</ab> <hom>7.</hom> <s>sa + hasra</s> = <lang>Gk.</lang> <lang n="greek">χίλιοι</lang> for <lang n="greek">χεσλοι</lang>;
+;
+; 801613 new <s>saha/sra</s> <hom>b</hom> ¦ <lex>n.</lex> (rarely) <lex type="hw">m.</lex> (perhaps <ab>fr.</ab> <hom>7.</hom> <s>sa + hasra</s> = <lang>Gk.</lang> <lang n="greek">χίλιοι</lang> for <lang n="greek">χεσλοι</lang>;
+; --------------------------------------------------
+; <L>240499<pc>1195,2<k1>sahasra<k2>saha/sra<h>b<e>1
+;(CDSL):	801613	<lang>Gk.</lang>
+;(CDSL):	801614	<lang>Pers.</lang>
+;(AB):	801613	<lang>Gk.</lang>, <lang>Pers.</lang>
+;(AB):	801614	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 801614 old <ab>cf.</ab> <lang>Pers.</lang> <etym>hazār</etym>) a thousand (with the counted object in the same case <ab>sg.</ab> or <ab>pl.</ab>, <ab>e.g.</ab> <s>sahasreRa bAhunA</s>, ‘with a thousand arms’, <ls>Hariv.</ls>;
+;
+; 801614 new <ab>cf.</ab> <lang>Pers.</lang> <etym>hazār</etym>) a thousand (with the counted object in the same case <ab>sg.</ab> or <ab>pl.</ab>, <ab>e.g.</ab> <s>sahasreRa bAhunA</s>, ‘with a thousand arms’, <ls>Hariv.</ls>;
+; --------------------------------------------------
+; <L>241500<pc>1200,3<k1>sAD<k2>sAD<h>1<e>1
+;(CDSL):	804870	<lang>Ved.</lang>
+;(AB):	804869	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 804870 old <div n="vp"/> <ab>accord.</ab> to <ls>Dhātup. xxvi, 71</ls> and <ls n="Dhātup.">xxvii, 16</ls>, <ab>cl.</ab> 4. <s>sADyati</s>, <ab>cl.</ab> 5. <s>sADnoti</s> (in <ls>JaimBr.</ls> also <s>saDnoti</s>; <ab>pf.</ab> <s>sasADa</s>; <ab>aor.</ab> <s>asAtsIt</s>; <ab>fut.</ab> <s>sAdDA</s>, <s>sAtsyati</s>; <ab>inf.</ab> <s>sAdDum</s>, in later language <s>sADitum</s>; <lang>Ved.</lang> <ab>inf.</ab> <s>sa/Dase</s>, <ab>q.v.</ab>),
+;
+; 804870 new <div n="vp"/> <ab>accord.</ab> to <ls>Dhātup. xxvi, 71</ls> and <ls n="Dhātup.">xxvii, 16</ls>, <ab>cl.</ab> 4. <s>sADyati</s>, <ab>cl.</ab> 5. <s>sADnoti</s> (in <ls>JaimBr.</ls> also <s>saDnoti</s>; <ab>pf.</ab> <s>sasADa</s>; <ab>aor.</ab> <s>asAtsIt</s>; <ab>fut.</ab> <s>sAdDA</s>, <s>sAtsyati</s>; <ab>inf.</ab> <s>sAdDum</s>, in later language <s>sADitum</s>; <lang>Ved.</lang> <ab>inf.</ab> <s>sa/Dase</s>, <ab>q.v.</ab>),
+; --------------------------------------------------
+; <L>251924<pc>1245,1<k1>sfj<k2>sfj<h>1<e>1
+;(CDSL):	838481	<lang>Ved.</lang>
+;(CDSL):	838488	<lang>Ved.</lang>
+;(AB):	838480	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	838488	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 838481 old (<lang>Ved.</lang> and <ab>ep.</ab> also <s>°te</s>, and once in <ls>AV.</ls> <s>sa/rjati</s>;
+;
+; 838481 new (<lang>Ved.</lang> and <ab>ep.</ab> also <s>°te</s>, and once in <ls>AV.</ls> <s>sa/rjati</s>;
+; --------------------------------------------------
+; <L>251924<pc>1245,1<k1>sfj<k2>sfj<h>1<e>1
+;(CDSL):	838481	<lang>Ved.</lang>
+;(CDSL):	838488	<lang>Ved.</lang>
+;(AB):	838480	<lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	838488	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 838488 old [<lang>Ved.</lang> also <s>a/sfgram</s> or <s>°ran</s>; <s>a/sarji</s>; <s>asrAk</s>, <s>asrAw</s>; <s>srAs</s>; <s>srakzat</s>; <ab>p.</ab> <s>sfjAna/</s>, <ab>q.v.</ab>] <ls>ib.</ls> <pb n="1245,2"/>;
+;
+; 838488 new [<lang>Ved.</lang> also <s>a/sfgram</s> or <s>°ran</s>; <s>a/sarji</s>; <s>asrAk</s>, <s>asrAw</s>; <s>srAs</s>; <s>srakzat</s>; <ab>p.</ab> <s>sfjAna/</s>, <ab>q.v.</ab>] <ls>ib.</ls> <pb n="1245,2"/>;
+; --------------------------------------------------
+; <L>254842<pc>1260,1<k1>stf<k2>stf<h>1<e>1
+;(CDSL):	847815	<lang>Ved.</lang>
+;(AB):	847814	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 847815 old (<lang>Ved.</lang> and <ab>ep.</ab> also <s>sta/rati</s>, <s>°te</s>;
+;
+; 847815 new (<lang>Ved.</lang> and <ab>ep.</ab> also <s>sta/rati</s>, <s>°te</s>;
+; --------------------------------------------------
+; <L>260297<pc>1287,2<k1>han<k2>han<h>1<e>1
+;(CDSL):	865494	<lang>Ved.</lang>
+;(CDSL):	865497	<lang>Ved.</lang>
+;(CDSL):	865500	<lang>Ved.</lang>
+;(CDSL):	865505	<lang>Ved.</lang>
+;(CDSL):	865506	<lang>Ved.</lang>
+;(AB):	865491	<lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	865497	----------
+;(AB):	865500	----------
+;(AB):	865505	----------
+;(AB):	865506	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 865494 old and <ab>cl.</ab> 1. <s>hanati</s>, <lang>Ved.</lang> also <s>jiGnate</s>, <s>°ti</s>;
+;
+; 865494 new and <ab>cl.</ab> 1. <s>hanati</s>, <lang>Ved.</lang> also <s>jiGnate</s>, <s>°ti</s>;
+; --------------------------------------------------
+; <L>260297<pc>1287,2<k1>han<k2>han<h>1<e>1
+;(CDSL):	865494	<lang>Ved.</lang>
+;(CDSL):	865497	<lang>Ved.</lang>
+;(CDSL):	865500	<lang>Ved.</lang>
+;(CDSL):	865505	<lang>Ved.</lang>
+;(CDSL):	865506	<lang>Ved.</lang>
+;(AB):	865491	<lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	865497	----------
+;(AB):	865500	----------
+;(AB):	865505	----------
+;(AB):	865506	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 865497 old <ab>impf.</ab> <s>a/han</s>, <lang>Ved.</lang> and <ab>ep.</ab> also <s>ahanat</s>, <s>ahanan</s>, <s>aGnanta</s>;
+;
+; 865497 new <ab>impf.</ab> <s>a/han</s>, <lang>Ved.</lang> and <ab>ep.</ab> also <s>ahanat</s>, <s>ahanan</s>, <s>aGnanta</s>;
+; --------------------------------------------------
+; <L>260297<pc>1287,2<k1>han<k2>han<h>1<e>1
+;(CDSL):	865494	<lang>Ved.</lang>
+;(CDSL):	865497	<lang>Ved.</lang>
+;(CDSL):	865500	<lang>Ved.</lang>
+;(CDSL):	865505	<lang>Ved.</lang>
+;(CDSL):	865506	<lang>Ved.</lang>
+;(AB):	865491	<lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	865497	----------
+;(AB):	865500	----------
+;(AB):	865505	----------
+;(AB):	865506	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 865500 old <ab>p.</ab> <s>jaGniva/s</s>, <lang>Ved.</lang> also <s>jaGanvas</s>;
+;
+; 865500 new <ab>p.</ab> <s>jaGniva/s</s>, <lang>Ved.</lang> also <s>jaGanvas</s>;
+; --------------------------------------------------
+; <L>260297<pc>1287,2<k1>han<k2>han<h>1<e>1
+;(CDSL):	865494	<lang>Ved.</lang>
+;(CDSL):	865497	<lang>Ved.</lang>
+;(CDSL):	865500	<lang>Ved.</lang>
+;(CDSL):	865505	<lang>Ved.</lang>
+;(CDSL):	865506	<lang>Ved.</lang>
+;(AB):	865491	<lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	865497	----------
+;(AB):	865500	----------
+;(AB):	865505	----------
+;(AB):	865506	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 865505 old <ab>inf.</ab> <s>ha/ntum</s>, <lang>Ved.</lang> also <s>ha/ntave</s>, <s>°tavE/</s>, <s>°toH</s>;
+;
+; 865505 new <ab>inf.</ab> <s>ha/ntum</s>, <lang>Ved.</lang> also <s>ha/ntave</s>, <s>°tavE/</s>, <s>°toH</s>;
+; --------------------------------------------------
+; <L>260297<pc>1287,2<k1>han<k2>han<h>1<e>1
+;(CDSL):	865494	<lang>Ved.</lang>
+;(CDSL):	865497	<lang>Ved.</lang>
+;(CDSL):	865500	<lang>Ved.</lang>
+;(CDSL):	865505	<lang>Ved.</lang>
+;(CDSL):	865506	<lang>Ved.</lang>
+;(AB):	865491	<lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>
+;(AB):	865497	----------
+;(AB):	865500	----------
+;(AB):	865505	----------
+;(AB):	865506	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 865506 old <ab>ind.p.</ab> <s>hatvA/</s>, <lang>Ved.</lang> also <s>°tvI/</s>, <s>°tvAya</s>, <s>-hatya</s>;
+;
+; 865506 new <ab>ind.p.</ab> <s>hatvA/</s>, <lang>Ved.</lang> also <s>°tvI/</s>, <s>°tvAya</s>, <s>-hatya</s>;
+; --------------------------------------------------
+; <L>263443<pc>1300,3<k1>hu<k2>hu<h>1<e>1
+;(CDSL):	875745	<lang>Ved.</lang>
+;(AB):	875744	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 875745 old (<lang>Ved.</lang> and <ab>ep.</ab> also <ab>Ā.</ab> <s>juhute/</s>; 3. <ab>pl.</ab> <ab>pr.</ab> <pb n="1301,1"/> <s>ju/hvati</s>, <s>°te</s>, <ls>RV.</ls> &c.;
+;
+; 875745 new (<lang>Ved.</lang> and <ab>ep.</ab> also <ab>Ā.</ab> <s>juhute/</s>; 3. <ab>pl.</ab> <ab>pr.</ab> <pb n="1301,1"/> <s>ju/hvati</s>, <s>°te</s>, <ls>RV.</ls> &c.;
+; --------------------------------------------------
+; <L>264875<pc>1308,2<k1>hve<k2>hve<e>1
+;(CDSL):	880408	<lang>Ved.</lang>
+;(CDSL):	880425	<lang>Class.</lang>
+;(CDSL):	880426	<lang>Ved.</lang>
+;(CDSL):	880428	<lang>Class.</lang>
+;(CDSL):	880429	<lang>Ved.</lang>
+;(AB):	880407	<lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>
+;(AB):	880425	----------
+;(AB):	880426	----------
+;(AB):	880428	----------
+;(AB):	880429	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 880408 old (<lang>Ved.</lang> also <s>ha/vate</s> and <s>huva/ti</s>, <s>°te</s>;
+;
+; 880408 new (<lang>Ved.</lang> also <s>ha/vate</s> and <s>huva/ti</s>, <s>°te</s>;
+; --------------------------------------------------
+; <L>264875<pc>1308,2<k1>hve<k2>hve<e>1
+;(CDSL):	880408	<lang>Ved.</lang>
+;(CDSL):	880425	<lang>Class.</lang>
+;(CDSL):	880426	<lang>Ved.</lang>
+;(CDSL):	880428	<lang>Class.</lang>
+;(CDSL):	880429	<lang>Ved.</lang>
+;(AB):	880407	<lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>
+;(AB):	880425	----------
+;(AB):	880426	----------
+;(AB):	880428	----------
+;(AB):	880429	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 880425 old <ab>inf.</ab> <lang>Class.</lang> <s>hvAtum</s>;
+;
+; 880425 new <ab>inf.</ab> <lang>Class.</lang> <s>hvAtum</s>;
+; --------------------------------------------------
+; <L>264875<pc>1308,2<k1>hve<k2>hve<e>1
+;(CDSL):	880408	<lang>Ved.</lang>
+;(CDSL):	880425	<lang>Class.</lang>
+;(CDSL):	880426	<lang>Ved.</lang>
+;(CDSL):	880428	<lang>Class.</lang>
+;(CDSL):	880429	<lang>Ved.</lang>
+;(AB):	880407	<lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>
+;(AB):	880425	----------
+;(AB):	880426	----------
+;(AB):	880428	----------
+;(AB):	880429	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 880426 old <lang>Ved.</lang> <s>ha/vitave</s>, <s>hva/yitum</s>, <s>°tavE/</s>;
+;
+; 880426 new <lang>Ved.</lang> <s>ha/vitave</s>, <s>hva/yitum</s>, <s>°tavE/</s>;
+; --------------------------------------------------
+; <L>264875<pc>1308,2<k1>hve<k2>hve<e>1
+;(CDSL):	880408	<lang>Ved.</lang>
+;(CDSL):	880425	<lang>Class.</lang>
+;(CDSL):	880426	<lang>Ved.</lang>
+;(CDSL):	880428	<lang>Class.</lang>
+;(CDSL):	880429	<lang>Ved.</lang>
+;(AB):	880407	<lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>
+;(AB):	880425	----------
+;(AB):	880426	----------
+;(AB):	880428	----------
+;(AB):	880429	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 880428 old <ab>ind.p.</ab> <lang>Class.</lang> <s>hUtvA</s>;
+;
+; 880428 new <ab>ind.p.</ab> <lang>Class.</lang> <s>hUtvA</s>;
+; --------------------------------------------------
+; <L>264875<pc>1308,2<k1>hve<k2>hve<e>1
+;(CDSL):	880408	<lang>Ved.</lang>
+;(CDSL):	880425	<lang>Class.</lang>
+;(CDSL):	880426	<lang>Ved.</lang>
+;(CDSL):	880428	<lang>Class.</lang>
+;(CDSL):	880429	<lang>Ved.</lang>
+;(AB):	880407	<lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>
+;(AB):	880425	----------
+;(AB):	880426	----------
+;(AB):	880428	----------
+;(AB):	880429	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+; 880429 old <lang>Ved.</lang> <s>-hU/ya</s> and <s>-hAvam</s>),
+;
+; 880429 new <lang>Ved.</lang> <s>-hU/ya</s> and <s>-hAvam</s>),
+; --------------------------------------------------

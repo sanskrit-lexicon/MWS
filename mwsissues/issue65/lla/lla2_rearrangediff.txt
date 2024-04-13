@@ -1,0 +1,406 @@
+(CDSL):	11782	<lang>Ved.</lang>
+(CDSL):	11783	<lang>Ved.</lang>
+(AB):	11782	<lang>Ved.</lang>, <lang>Ved.</lang>
+(AB):	11783	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	52659	<lang>Germ.</lang>, <lang>Old Germ.</lang>
+(AB):	52656	<lang>Germ.</lang>, <lang>Old Germ.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	58459	<lang>Osset.</lang>
+(AB):	58456	<lang>Osset.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	70011	<lang>classical Sanskṛt</lang>
+(AB):	70010	<lang>classical Sanskṛt</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	71383	<lang>Gk.</lang>, <lang>Lat.</lang>, <lang>Goth.</lang>, <lang>Eng.</lang>, <lang>Mod. Germ.</lang>
+(AB):	71381	<lang>Gk.</lang>, <lang>Lat.</lang>, <lang>Goth.</lang>, <lang>Eng.</lang>, <lang>Mod. Germ.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	77854	<lang>Ved.</lang>
+(CDSL):	77860	<lang>Ved.</lang>
+(AB):	77848	<lang>Ved.</lang>, <lang>Ved.</lang>
+(AB):	77860	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	79111	<lang>classical Sanskṛt</lang>
+(CDSL):	79120	<lang>Lat.</lang>
+(AB):	79111	<lang>classical Sanskṛt</lang>, <lang>Lat.</lang>
+(AB):	79120	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	102419	<lang>Prākṛt</lang>
+(AB):	102417	<lang>Prākṛt</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	102629	<lang>Lat.</lang>
+(AB):	102626	<lang>Lat.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	106066	<lang>Ved.</lang>
+(AB):	106065	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	135796	<lang>Ved.</lang>
+(AB):	135797	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	141898	<lang>classical Sanskṛt</lang>
+(AB):	141896	<lang>classical Sanskṛt</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	145769	<lang>classical Sanskṛt</lang>
+(AB):	145764	<lang>classical Sanskṛt</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	187141	<lang>Ved.</lang>
+(CDSL):	187154	<lang>classical Sanskṛt</lang>
+(CDSL):	187167	<lang>Ved.</lang>
+(CDSL):	187168	<lang>Class.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>
+(AB):	187141	<lang>Ved.</lang>, <lang>classical Sanskṛt</lang>, <lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>
+(AB):	187154	----------
+(AB):	187167	----------
+(AB):	187168	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	188888	<lang>classical Sanskṛt</lang>
+(AB):	188891	<lang>classical Sanskṛt</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	216848	<lang>Ved.</lang>
+(CDSL):	216859	<lang>Ved.</lang>, <lang>Class.</lang>
+(CDSL):	216861	<lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>
+(AB):	216848	<lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>
+(AB):	216859	----------
+(AB):	216861	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	220333	<lang>Class. Sanskṛt</lang>
+(AB):	220332	<lang>Class. Sanskṛt</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	228017	<lang>Ved.</lang>
+(AB):	228016	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	233578	<lang>Ved.</lang>, <lang>Ved.</lang>
+(CDSL):	233582	<lang>Ved.</lang>
+(CDSL):	233586	<lang>Ved.</lang>
+(CDSL):	233587	<lang>Ved.</lang>
+(AB):	233575	<lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>
+(AB):	233582	----------
+(AB):	233586	----------
+(AB):	233587	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	239110	<lang>Lat.</lang>
+(CDSL):	239114	<lang>class. Sanskṛt</lang>
+(CDSL):	239117	<lang>Ved.</lang>, <lang>class. Sanskṛt</lang>
+(AB):	239110	<lang>Lat.</lang>, <lang>class. Sanskṛt</lang>, <lang>Ved.</lang>, <lang>Class. Sanskṛt</lang>
+(AB):	239114	----------
+(AB):	239117	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	245083	<lang>Ved.</lang>
+(AB):	245084	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	245471	<lang>Ved.</lang>
+(AB):	245464	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	249019	<lang>Ved.</lang>
+(AB):	249008	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	249502	<lang>Prākṛt</lang>
+(AB):	249499	<lang>Prākṛt</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	255003	<lang>Prākṛt</lang>
+(AB):	255000	<lang>Prākṛt</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	260166	<lang>Ved.</lang>, <lang>Ved.</lang>
+(AB):	260165	<lang>Ved.</lang>, <lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	265564	<lang>Ved.</lang>
+(CDSL):	265565	<lang>class.</lang>
+(AB):	265554	<lang>Ved.</lang>, <lang>class.</lang>
+(AB):	265565	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	277539	<lang>Ved.</lang>
+(AB):	277537	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	278155	<lang>class.</lang>
+(AB):	278150	<lang>Class.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	292953	<lang>Ved.</lang>
+(AB):	292950	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	298777	<lang>Zd.</lang>
+(AB):	298763	<lang>Zend</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	301251	<lang>Lat.</lang>, <lang>Goth.</lang>
+(AB):	301248	<lang>Lat.</lang>, <lang>Goth.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	311031	<lang>Ved.</lang>, <lang>later Skr.</lang>, <lang>Ved.</lang>
+(AB):	311018	<lang>Ved.</lang>, <lang>later Skr.</lang>, <lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	318983	<lang>Engl.</lang>
+(CDSL):	318986	<lang>Zd.</lang>, <lang>Gk.</lang>, <lang>Goth.</lang>, <lang>O. H. G.</lang>
+(AB):	318983	<lang>Engl.</lang>, <lang>Zd.</lang>, <lang>Gk.</lang>, <lang>Goth.</lang>, <lang>O. H. G.</lang>
+(AB):	318986	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	321798	<lang>Ved.</lang>
+(AB):	321797	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	338623	<lang>Ved.</lang>
+(CDSL):	338625	<lang>Class.</lang>
+(AB):	338623	<lang>Ved.</lang>, <lang>Class.</lang>
+(AB):	338625	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	407760	<lang>Ved.</lang>
+(AB):	407759	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	473087	<lang>Old Sax.</lang>, <lang>Angl.Sax.</lang>
+(AB):	473084	<lang>Old Sax.</lang>, <lang>Angl.Sax.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	477286	<lang>Goth.</lang>, <lang>Icel.</lang>
+(AB):	477283	<lang>Goth.</lang>, <lang>Icel.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	491310	<lang>Ved.</lang>
+(AB):	491309	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	496386	<lang>Ved.</lang>
+(AB):	496385	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	498045	<lang>Lith.</lang>
+(AB):	498042	<lang>Lith.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	500942	<lang>Gk.</lang>, <lang>Lat.</lang>
+(AB):	500939	<lang>Gk.</lang>, <lang>Lat.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	507575	<lang>Ved.</lang>
+(AB):	507570	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	508812	<lang>Ved.</lang>
+(AB):	508799	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	512591	<lang>Ved.</lang>
+(AB):	512573	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	521186	<lang>Ved.</lang>
+(AB):	521185	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	531441	<lang>Gk.</lang>
+(AB):	531440	<lang>Gk.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	542890	<lang>Ved.</lang>
+(AB):	542888	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	560379	<lang>Ved.</lang>
+(AB):	560378	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	566070	<lang>Ved.</lang>
+(CDSL):	566071	<lang>Sanskṛt</lang>
+(AB):	566070	<lang>Ved.</lang>, <lang>Sanskṛt</lang>
+(AB):	566071	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	566717	<lang>Ved.</lang>
+(CDSL):	566721	<lang>Ved.</lang>
+(CDSL):	566730	<lang>Ved.</lang>
+(AB):	566715	<lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>
+(AB):	566721	----------
+(AB):	566730	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	566765	<lang>Zd.</lang>
+(AB):	566762	<lang>Zd.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	570991	<lang>Ved.</lang>, <lang>Ved.</lang>
+(AB):	570990	<lang>Ved.</lang>, <lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	573515	<lang>Ved.</lang>
+(AB):	573502	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	575865	<lang>Ved.</lang>
+(CDSL):	575869	<lang>Class.</lang>
+(CDSL):	575870	<lang>Ved.</lang>
+(CDSL):	575871	<lang>Ved.</lang>, <lang>Class.</lang>
+(AB):	575863	<lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>
+(AB):	575869	----------
+(AB):	575870	----------
+(AB):	575871	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	609210	<lang>Sanskṛt</lang>, <lang>Prākṛt</lang>, <lang>Prākṛt</lang>, <lang>Sanskṛt</lang>
+(AB):	609209	<lang>Sanskṛt</lang>, <lang>Prākṛt</lang>, <lang>Prākṛt</lang>, <lang>Sanskṛt</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	617506	<lang>Ved.</lang>
+(AB):	617504	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	632420	<lang>Ved.</lang>
+(CDSL):	632425	<lang>Ved.</lang>
+(AB):	632414	<lang>Ved.</lang>, <lang>Ved.</lang>
+(AB):	632425	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	654352	<lang>Ved.</lang>
+(CDSL):	654359	<lang>Ved.</lang>
+(AB):	654351	<lang>Ved.</lang>, <lang>Ved.</lang>
+(AB):	654359	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	682486	<lang>Ved.</lang>
+(AB):	682484	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	683420	<lang>Ved.</lang>
+(CDSL):	683422	<lang>Ved.</lang>, <lang>Ved.</lang>
+(CDSL):	683428	<lang>Ved.</lang>
+(CDSL):	683429	<lang>Class.</lang>
+(AB):	683419	<lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>
+(AB):	683422	----------
+(AB):	683428	----------
+(AB):	683429	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	687854	<lang>Prākṛt</lang>, <lang>Sanskṛt</lang>
+(AB):	687850	<lang>Prākṛt</lang>, <lang>Sanskṛt</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+;; AB has opted to change Saṃskṛt as Sanskṛt
+;; cdsl might also consider doing the same
+=================================
+(CDSL):	704992	<lang>Lat.</lang>
+(AB):	704989	<lang>Lat.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	720228	<lang>Germ.</lang>, <lang>Eng.</lang>
+(AB):	720225	<lang>Germ.</lang>, <lang>Eng.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	721135	<lang>Ved.</lang>
+(AB):	721134	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	727183	<lang>Class.</lang>
+(CDSL):	727187	<lang>ved.</lang>
+(AB):	727182	<lang>Class.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>
+(CDSL):	727190	<lang>ved.</lang>, <lang>Class.</lang>
+(AB):	727187	----------
+(AB):	727190	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	731767	<lang>Ved.</lang>
+(AB):	731766	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	743723	<lang>Ved.</lang>
+(CDSL):	743727	<lang>Ved.</lang>
+(AB):	743722	<lang>Ved.</lang>, <lang>Ved.</lang>
+(AB):	743727	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	747139	<lang>Lat.</lang>
+(AB):	747136	<lang>Lat.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	751462	<lang>Ved.</lang>
+(AB):	751461	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	776241	<lang>Gk.</lang>, <lang>Lat.</lang>
+(CDSL):	776246	<lang>Ved.</lang>
+(AB):	776241	<lang>Gk.</lang>, <lang>Lat.</lang>, <lang>Ved.</lang>
+(AB):	776246	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	799786	<lang>Ved.</lang>
+(CDSL):	799789	<lang>Ved.</lang>
+(AB):	799785	<lang>Ved.</lang>, <lang>Ved.</lang>
+(AB):	799789	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	801613	<lang>Gk.</lang>
+(CDSL):	801614	<lang>Pers.</lang>
+(AB):	801613	<lang>Gk.</lang>, <lang>Pers.</lang>
+(AB):	801614	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	804870	<lang>Ved.</lang>
+(AB):	804869	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	838481	<lang>Ved.</lang>
+(CDSL):	838488	<lang>Ved.</lang>
+(AB):	838480	<lang>Ved.</lang>, <lang>Ved.</lang>
+(AB):	838488	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	847815	<lang>Ved.</lang>
+(AB):	847814	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	865494	<lang>Ved.</lang>
+(CDSL):	865497	<lang>Ved.</lang>
+(CDSL):	865500	<lang>Ved.</lang>
+(CDSL):	865505	<lang>Ved.</lang>
+(CDSL):	865506	<lang>Ved.</lang>
+(AB):	865491	<lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>, <lang>Ved.</lang>
+(AB):	865497	----------
+(AB):	865500	----------
+(AB):	865505	----------
+(AB):	865506	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	875745	<lang>Ved.</lang>
+(AB):	875744	<lang>Ved.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	880408	<lang>Ved.</lang>
+(CDSL):	880425	<lang>Class.</lang>
+(CDSL):	880426	<lang>Ved.</lang>
+(CDSL):	880428	<lang>Class.</lang>
+(CDSL):	880429	<lang>Ved.</lang>
+(AB):	880407	<lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>, <lang>Class.</lang>, <lang>Ved.</lang>
+(AB):	880425	----------
+(AB):	880426	----------
+(AB):	880428	----------
+(AB):	880429	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================

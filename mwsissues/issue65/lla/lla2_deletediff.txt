@@ -1,0 +1,252 @@
+(CDSL):	1025	<lang>Ved.</lang>
+(AB):	1025	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	11488	<lang>Prākṛt</lang>
+(AB):	11488	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	12638	<lang>Ved.</lang>, <lang>Ved.</lang>
+(AB):	12638	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	12791	<lang>Ved.</lang>, <lang>English</lang>
+(AB):	12791	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	14397	<lang>Ved.</lang>
+(AB):	14397	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	14602	<lang>Ved.</lang>
+(AB):	14602	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	14605	<lang>Ved.</lang>
+(AB):	14605	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	30162	<lang>Goth.</lang>, <lang>Lith.</lang>, <lang>Lat.</lang>
+(AB):	30162	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	34624	<lang>Prākṛt</lang>
+(AB):	34624	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	37709	<lang>Ved.</lang>
+(AB):	37709	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	114091	<lang>Gk.</lang>, <lang>Lat.</lang>, <lang>Goth.</lang>, <lang>Old High Germ.</lang>, <lang>Mod. Eng.</lang>, <lang>Lith.</lang>
+(AB):	114091	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	132732	<lang>Lat.</lang>, <lang>Lith.</lang>
+(AB):	132732	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	136704	<lang>Zd.</lang>, <lang>Mod. Germ.</lang>
+(AB):	136704	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	141507	<lang>Gk.</lang>, <lang>Lith.</lang>
+(AB):	141507	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	141589	<lang>Ved.</lang>
+(AB):	141589	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	158068	<lang>Ved.</lang>
+(AB):	158068	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	204814	<lang>Hib.</lang>
+(AB):	204814	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	233087	<lang>Lat.</lang>
+(AB):	233087	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	254116	<lang>old Prākṛt</lang>
+(AB):	254116	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	290009	<lang>Lat.</lang>, <lang>Germ.</lang>
+(AB):	290009	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	300868	<lang>Prākṛt</lang>
+(AB):	300868	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	314533	<lang>Lit.</lang>, <lang>Sl.</lang>
+(AB):	314533	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	329927	<lang>Gk.</lang>, <lang>Lat.</lang>
+(AB):	329927	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	335640	<lang>Slav.</lang>
+(AB):	335640	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	340937	<lang>Pāli</lang>, <lang>Prākṛt</lang>
+(AB):	340937	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	344465	<lang>Germ.</lang>, <lang>Angl.Sax.</lang>, <lang>Engl.</lang>
+(AB):	344465	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	352669	<lang>Lat.</lang>, <lang>Lith.</lang>, <lang>Slav.</lang>, <lang>Goth.</lang>, <lang>Germ.</lang>, <lang>Angl.Sax.</lang>, <lang>Eng.</lang>
+(AB):	352669	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	365888	<lang>Gk.</lang>
+(AB):	365888	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	382811	<lang>Gk.</lang>, <lang>Lat.</lang>
+(AB):	382811	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	386470	<lang>Lat.</lang>
+(AB):	386470	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	386482	<lang>Lat.</lang>
+(AB):	386482	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	434330	<lang>Pers.</lang>
+(AB):	434330	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	491319	<lang>Ved.</lang>
+(AB):	491319	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	521220	<lang>Ved.</lang>
+(AB):	521220	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	521250	<lang>Gk.</lang>, <lang>Lat.</lang>, <lang>Lit.</lang>, <lang>Germ.</lang>, <lang>Angl.Sax.</lang>, <lang>Eng.</lang>
+(AB):	521250	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	581186	<lang>Gk.</lang>
+(AB):	581186	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	585583	<lang>Zd.</lang>
+(AB):	585583	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	585896	<lang>Ved.</lang>
+(AB):	585896	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	586096	<lang>Ved.</lang>
+(AB):	586096	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	589787	<lang>Ved.</lang>, <lang>Class.</lang>
+(AB):	589787	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	624350	<lang>Gk.</lang>
+(AB):	624350	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	646739	<lang>Prākṛt</lang>
+(AB):	646739	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	686682	<lang>Hindī</lang>, <lang>Tamil</lang>, <lang>Telugu</lang>
+(AB):	686682	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	694842	<lang>Ved.</lang>
+(AB):	694842	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	703494	<lang>Apabhraṃśa</lang>
+(AB):	703494	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	716902	<lang>Prākṛt</lang>
+(AB):	716902	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	731785	<lang>Ved.</lang>
+(AB):	731785	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	740191	<lang>Lat.</lang>, <lang>Gk.</lang>, <lang>Eng.</lang>
+(AB):	740191	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	740396	<lang>Ved.</lang>
+(AB):	740396	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	750942	<lang>Gk.</lang>, <lang>Lat.</lang>, <lang>Lith.</lang>, <lang>Goth.</lang>, <lang>Germ.</lang>, <lang>Angl.Sax.</lang>, <lang>Eng.</lang>
+(AB):	750942	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	761312	<lang>Ved.</lang>
+(AB):	761312	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	763319	<lang>Lat.</lang>, <lang>Lith.</lang>
+(AB):	763319	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	774323	<lang>Ved.</lang>
+(AB):	774323	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	838091	<lang>Lith.</lang>, <lang>Goth.</lang>, <lang>Germ.</lang>, <lang>Angl.Sax.</lang>, <lang>Eng.</lang>
+(AB):	838091	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	846584	<lang>Gk.</lang>, <lang>Lith.</lang>, <lang>Germ.</lang>, <lang>Eng.</lang>
+(AB):	846584	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	847850	<lang>Ved.</lang>
+(AB):	847850	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	847881	<lang>Gk.</lang>, <lang>Lat.</lang>, <lang>Goth.</lang>, <lang>Germ.</lang>, <lang>Angl.Sax.</lang>, <lang>Eng.</lang>
+(AB):	847881	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	854073	<lang>Persian</lang>
+(AB):	854073	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	854264	<lang>Gk.</lang>
+(AB):	854264	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	856083	<lang>Ved.</lang>
+(AB):	856083	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	856483	<lang>Ved.</lang>
+(AB):	856483	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	860646	<lang>Ved.</lang>, <lang>Ved.</lang>
+(AB):	860646	----------
+;; deleted (dup. entry)
+=================================
+(CDSL):	860661	<lang>Gk.</lang>, <lang>Lat.</lang>
+(AB):	860661	----------
+;; deleted (dup. entry)
+=================================

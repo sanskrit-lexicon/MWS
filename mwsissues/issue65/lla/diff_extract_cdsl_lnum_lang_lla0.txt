@@ -1,0 +1,22 @@
+294c294
+< (CDSL):	74272	<lang>ved.</lang>
+---
+> (CDSL):	74272	<lang>Ved.</lang>
+725c725
+< (CDSL):	216876	<lang>ved.</lang>
+---
+> (CDSL):	216876	<lang>Ved.</lang>
+1475c1475
+< (CDSL):	577271	<lang>ved.</lang>
+---
+> (CDSL):	577271	<lang>Ved.</lang>
+1734,1735c1734,1735
+< (CDSL):	727187	<lang>ved.</lang>
+< (CDSL):	727190	<lang>ved.</lang>, <lang>Class.</lang>
+---
+> (CDSL):	727187	<lang>Ved.</lang>
+> (CDSL):	727190	<lang>Ved.</lang>, <lang>Class.</lang>
+1817c1817
+< (CDSL):	767696	<lang>ved.</lang>
+---
+> (CDSL):	767696	<lang>Ved.</lang>

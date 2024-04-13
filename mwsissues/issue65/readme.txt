@@ -134,7 +134,7 @@ python make_change_countdiff.py lang_tags_checking.CDSL.vs.AB_1.txt temp_mw_4.tx
 
 # manually edit temp_countdiff.org
 ---
-TODO:
+DONE: W. = Welsh (AB discovered) - see issues/65 comment
   <ls>W.</ls> -> <lang>W.</lang>  really - there is <ls>W.</ls>
   <L>44711<pc>256,1<k1>karkara
 ---
@@ -216,6 +216,207 @@ cp ../../../PWK/pwkissues/issue106/redolocal.sh .
 # temp generate local displays using temp_mw_1.txt
 sh redolocal.sh 1
 # ok
+*************************************************************
+04-12-2024
+Further work to resolve diffs in lang tags between temp_mw_5.txt and
+AB's unpublished version of mw.txt.
+
+Since this issue65 directory is getting cluttered, keep most intermediate
+files and code in a new subdirectory,
+mkdir lla  # lnum_lang_analysis
+# start with AB file posted in github comment
+ https://github.com/sanskrit-lexicon/mws/issues/65#issuecomment-2051868713
+and downloaded.  change name to lla0.txt
+cp ~/Downloads/andhrabharati/MWS/lnum_lang.analysis.CDSL.vs.AB.txt lla/lla0.txt
+
+-----------------------------
+reproduce the cdsl lines of lla0.txt using temp_mw_5.txt.
+python lla/extract_cdsl_lnum_lang.py temp_mw_5.txt lla/extract_cdsl_lnum_lang.txt
+2024 written to lla/extract_cdsl_lnum_lang.txt
+
+grep '(CDSL)' lla/lla0.txt > lla/temp_lla0_cdsl.txt
+diff lla/extract_cdsl_lnum_lang.txt  lla/temp_lla0_cdsl.txt > lla/diff_extract_cdsl_lnum_lang_lla0.txt
+
+There are differences:
+ in 6 lines (lnums = 74272, 216876, 577271, 727187, 727190, 767696),
+   temp_mw_5.txt has <lang>ved.</lang> (lower-case) but
+   lla0.txt CDSL has <lang>Ved.</lang>.  Why?
+Assume Ved. is correct, these need to be changed in cdsl.
+Solution:
+ cp lla/lla0.txt lla/lla1.txt
+ manually edit lla1 and change CDSL (to 'ved.') in those 6 lines.
+ 
+# redo the comparison:
+grep '(CDSL)' lla/lla1.txt > lla/temp_lla1_cdsl.txt
+diff lla/extract_cdsl_lnum_lang.txt  lla/temp_lla1_cdsl.txt | wc -l
+# 0 As expected.
+
+Further work uses lla1.txt, whose CDSL lines are consistent with temp_mw_5.txt.
+
+Note: 1 further change to lla1.txt.  Add a group-ending line at end of file
+-----------------------------
+
+63 matches for ";; deleted (dup. entry)" in buffer: lla1.txt
+   Cf. ab_lnums_del.txt  had '39' lines so identfied.
+   Why the extra 24?
+
+80 matches for ";; matter rearranged," in buffer: lla1.txt
+  These also are 'non-standard'
+
+Analysis of these two groups (143 lnums) is more complex and
+will be deferred.
+
+First order is to extract 'simple' lnums where there are lang-tag diffs
+between AB and cdsl.
+
+python simple_diff.py lla1.txt lla1_simplediff.txt
+1982 groups
+1839 simple groups
+24 TODO among simplediffs
+24 records written to lla1_simplediff.txt
+
+# generate changes based on simplediff
+# 
+python lla/make_change_simple.py temp_mw_5.txt lla/lla1_simplediff.txt lla/temp_change_mw_5_1.org
+
+# manual edit lla/temp_change_mw_5_1.org
+Notes:
+---  
+(CDSL):	276122	<lang>Ved.</lang>, <lang>class.</lang>
+(AB):	276122	<lang>Ved.</lang>, <lang>Class.</lang>   print has 'class.'
+; Jim request AB to change
+---
+
+------------------
+After the editing: 
+cp lla/temp_change_mw_5_1.org lla/temp_change_mw_5_1.txt
+# remove Emacs Org mode markup in lla/temp_change_mw_5_1.txt
+touch change_mw_5_6.txt
+# manual insert lla/temp_change_mw_5_1.txt into change_mw_5_6.txt
+# compute temp_mw_6.txt
+python updateByLine.py temp_mw_5.txt change_mw_5_6.txt temp_mw_6.txt
+880516 lines read from temp_mw_5.txt
+880516 records written to temp_mw_6.txt
+23 change transactions from change_mw_5_6.txt
+23 of type new
+
+
+--------------------------------------------
+lla1 -- revise CDSL lines based on temp_mw_6.txt
+python lla/revise_lla.py temp_mw_6.txt lla/lla1.txt lla/lla2.txt
+880516 read from temp_mw_6.txt
+6203 read from lla/lla1.txt
+6203 written to lla/lla2.txt
+
+As a check, redo
+python lla/simple_diff.py lla/lla2.txt lla/lla2_simplediff.txt
+1982 groups
+1839 simple groups
+1 TODO among simplediffs
+1 records written to lla/lla2_simplediff.txt
+NOTE: That 1 records is 276122 (where AB is to change Class. to class.
+
+--------------------------------------------
+Generate prototype change file for ';; deleted'
+
+Also, generate file of lnums which AB marks as deleted
+
+python deleted_diff.py lla2.txt lla2_deletediff.txt ab_lnums_del2.txt
+1982 groups
+63 groups marked as deleted (in AB version)
+63 records written to lla2_deletediff.txt
+63 written to ab_lnums_del2.txt
+
+
+python lla/make_change_deleted.py temp_mw_6.txt lla/lla2_deletediff.txt lla/temp_change_mw_5_2.org
+
+880516 lines read from temp_mw_6.txt
+63 groups
+63 change records written to lla/temp_change_mw_5_2.org
+
+# manual edit lla/temp_change_mw_5_2.org
+
+Notes:
+---
+2 matches for "<lang>ved\." in buffer: temp_mw_6.txt
+ 727187:<lang>ved.</lang> and <ab>ep.</ab> also <ab>cl.</ab> 1. <s>Sa/yate</s>, <s>°ti</s>;
+ 727190:<ab>p.</ab> <lang>ved.</lang> <s>SaSayAna/</s>, <lang>Class.</lang> <s>SiSyAna</s>;
+
+
+------------------
+After the editing: 
+cp lla/temp_change_mw_5_2.org lla/temp_change_mw_5_2.txt
+# remove Emacs Org mode markup in lla/temp_change_mw_5_2.txt
+
+# manual insert lla/temp_change_mw_5_2.txt into change_mw_5_6.txt
+# compute temp_mw_6.txt
+python updateByLine.py temp_mw_5.txt change_mw_5_6.txt temp_mw_6.txt
+880516 lines read from temp_mw_5.txt
+880516 records written to temp_mw_6.txt
+25 change transactions from change_mw_5_6.txt
+25 of type new
+
+--------------------------------------------
+Generate prototype change file for ';; matter rearranged'  
+
+python rearranged_diff.py lla2.txt lla2_rearrangediff.txt ab_lnums_rear2.txt
+1982 groups
+80 groups marked as deleted (in AB version)
+80 records written to lla2_rearrangediff.txt
+122 written to ab_lnums_rear2.txt
+
+Note: lla/make_change_rearranged.py is functionally identical to
+lla/make_change_deleted.py
+
+python lla/make_change_rearranged.py temp_mw_6.txt lla/lla2_rearrangediff.txt lla/temp_change_mw_5_3.org
+880516 lines read from temp_mw_6.txt
+80 groups
+122 change records written to lla/temp_change_mw_5_3.org
+
+# manual edit lla/temp_change_mw_5_3.org
+
+Notes:
+---
+;(AB):	239110	<lang>Lat.</lang>, <lang>class. Sanskṛt</lang>, <lang>Ved.</lang>, <lang>Class. Sanskṛt</lang>
+last one shld be <lang>class. Sanskṛt</lang>  request AB to change
+---
+;(AB):	278150	<lang>Class.</lang>
+should be <lang>class.</lang>  request AB to change
+---
+
+------------------
+After the editing: 
+cp lla/temp_change_mw_5_3.org lla/temp_change_mw_5_3.txt
+# remove Emacs Org mode markup in lla/temp_change_mw_5_3.txt
+
+# manual insert lla/temp_change_mw_5_3.txt into change_mw_5_6.txt
+# compute temp_mw_6.txt
+python updateByLine.py temp_mw_5.txt change_mw_5_6.txt temp_mw_6.txt
+880516 lines read from temp_mw_5.txt
+880516 records written to temp_mw_6.txt
+28 change transactions from change_mw_5_6.txt
+
+--------------------------------------------
+lla3 -- revise CDSL lines based on temp_mw_6.txt
+python lla/revise_lla.py temp_mw_6.txt lla/lla2.txt lla/lla3.txt
+880516 read from temp_mw_6.txt
+6203 read from lla/lla1.txt
+6203 written to lla/lla2.txt
+
+--------------------------------------------
+compare lang lists for each group except those marked as ';; deleted'
+python lla/diffgroups.py lla/lla3.txt lla/diffgroups_lla3.txt
+1982 groups
+1919 groups marked as non-deleted (in AB version)
+3 records written to lla/diffgroups_lla3.txt
+
+
+--------------------------------------------
+zip temp_mw_6.zip temp_mw_6.txt
+post to issues/65 comment
+commit this repository.
+
+*************************************************************
 *************************************************************
 work on tooltips. 
 

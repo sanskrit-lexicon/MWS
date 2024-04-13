@@ -1,0 +1,100 @@
+(CDSL):	12644	<lang>Ved.</lang>, <lang>Ved.</lang>
+(AB):	12644	<lang>Ved.</lang>
+;; should have only one Ved. and "<s>a/-tra</s> (or <lang>Ved.</lang> <s>a/-trA</s>" after the broken bar to be deleted
+;; difference to be incorporated in cdsl
+=================================
+(CDSL):	63845	<lang>Avantī</lang>
+(AB):	63845	----------
+;; it is not a language, but a city (with <s1 tag)
+;; difference to be incorporated in cdsl
+=================================
+(CDSL):	64183	<lang>Ved.</lang>
+(AB):	64183	----------
+;; it is not the language (Ved.), but the abbr. for Vedānta
+;; difference to be incorporated in cdsl
+=================================
+(CDSL):	74272	<lang>ved.</lang>
+(AB):	74272	<lang>Ved.</lang>
+=================================
+(CDSL):	216876	<lang>ved.</lang>
+(AB):	216876	<lang>Ved.</lang>
+=================================
+(CDSL):	254101	<lang>old Prākṛt</lang>
+(AB):	254101	<lang>Old Prākṛt</lang>
+=================================
+(CDSL):	276122	<lang>Ved.</lang>, <lang>class.</lang>
+(AB):	276122	<lang>Ved.</lang>, <lang>Class.</lang>
+=================================
+(CDSL):	354182	<lang>Prākr.</lang>, <lang>Tamil</lang>
+(AB):	354182	<lang>Prākṛ.</lang>, <lang>Tamil</lang>
+;; difference (Prākr. -> Prākṛ.) to be incorporated in cdsl
+=================================
+(CDSL):	413630	<lang>Sanskṛt-Persian</lang>
+(AB):	413630	<lang>Sanskṛt</lang>-<lang>Persian</lang>
+;; AB has tagged the two languages separately, as these do not indicate a combo (or derived) langauge as Anglo-Saxon or Combro-Briton.
+;; cdsl might also consider doing the same
+=================================
+(CDSL):	418392	<lang>Ved.</lang>
+(AB):	418392	----------
+;; should not have (Ved.)
+=================================
+(CDSL):	418395	<lang>Ved.</lang>
+(AB):	418395	----------
+;; should not have (Ved.)
+=================================
+(CDSL):	418398	<lang>Ved.</lang>
+(AB):	418398	----------
+;; should not have (Ved.)
+=================================
+(CDSL):	453523	<lang>Saṃskṛt</lang>, <lang>Saṃskṛt</lang>
+(AB):	453523	<lang>Sanskṛt</lang>, <lang>Sanskṛt</lang>
+;; AB has opted to change Saṃskṛt as Sanskṛt
+;; cdsl might also consider doing the same
+=================================
+(CDSL):	468388	<lang>Saṃskṛt</lang>, <lang>Śaurasenī</lang>, <lang>Māhārāṣṭrī</lang>, <lang>Apabhraṃśa</lang>, <lang>Paiśācī</lang>
+(AB):	468388	<lang>Sanskṛt</lang>, <lang>Śaurasenī</lang>, <lang>Māhārāṣṭrī</lang>, <lang>Apabhraṃśa</lang>, <lang>Paiśācī</lang>
+;; AB has opted to change Saṃskṛt as Sanskṛt
+;; cdsl might also consider doing the same
+=================================
+(CDSL):	505970	<lang>Prākṛt</lang>, <lang>Māhārāṣṭrī</lang>, <lang>Śaurasenī</lang>, <lang>Māgadhī</lang>, <lang>Prācyā</lang>
+(AB):	505970	<lang>Prākṛt</lang>, <lang>Māhārāṣṭrī</lang>, <lang>Śaurasenī</lang>, <lang>Māgadhī</lang>, <lang>Prācyā</lang>, <lang>Avantī</lang>
+=================================
+(CDSL):	540128	<lang>Sanskṛt-Tibetan</lang>
+(AB):	540128	<lang>Sanskṛt</lang>-<lang>Tibetan</lang>
+;; AB has tagged the two languages separately, as these do not indicate a combo (or derived) langauge as Anglo-Saxon or Combro-Briton.
+;; cdsl might also consider doing the same
+=================================
+(CDSL):	558566	<lang>Gk.</lang>, <lang>Lat.</lang>, <lang>Germ.</lang>, <lang>Germ.</lang>, <lang>Eng.</lang>
+(AB):	558566	<lang>Gk.</lang>, <lang>Lat.</lang>, <lang>Slav.</lang>, <lang>Germ.</lang>, <lang>Eng.</lang>
+;; should have Slav. & Germ. in that order
+;; difference to be incorporated in cdsl
+=================================
+(CDSL):	577271	<lang>ved.</lang>
+(AB):	577271	<lang>Ved.</lang>
+=================================
+(CDSL):	624953	<lang>Prākṛt</lang>
+(AB):	624953	<lang>Prākṛt</lang>, <lang>Prākṛt</lang>
+=================================
+(CDSL):	654932	<lang>Saṃskṛt</lang>
+(AB):	654932	<lang>Sanskṛt</lang>
+;; AB has opted to change Saṃskṛt as Sanskṛt
+;; cdsl might also consider doing the same
+=================================
+(CDSL):	694917	<lang>Saṃskṛt</lang>
+(AB):	694917	<lang>Sanskṛt</lang>
+;; AB has opted to change Saṃskṛt as Sanskṛt
+;; cdsl might also consider doing the same
+=================================
+(CDSL):	746861	<lang>Class.</lang>
+(AB):	746861	----------
+;; combined as <ab n="Classical language">Class. lang°</ab>, as the <lang>Class.</lang> indicates "Classical Sanskrit"
+;; cdsl might also consider doing the same
+=================================
+(CDSL):	767696	<lang>ved.</lang>
+(AB):	767696	<lang>Ved.</lang>
+=================================
+(CDSL):	878139	<lang>Saṃskṛt</lang>, <lang>Prākṛt</lang>
+(AB):	878139	<lang>Sanskṛt</lang>, <lang>Prākṛt</lang>
+;; AB has opted to change Saṃskṛt as Sanskṛt
+;; cdsl might also consider doing the same
+=================================

@@ -1,0 +1,15 @@
+(CDSL):	239110	<lang>Lat.</lang>
+(CDSL):	239114	<lang>class. Sanskṛt</lang>
+(CDSL):	239117	<lang>Ved.</lang>, <lang>class. Sanskṛt</lang>
+(AB):	239110	<lang>Lat.</lang>, <lang>class. Sanskṛt</lang>, <lang>Ved.</lang>, <lang>Class. Sanskṛt</lang>
+(AB):	239114	----------
+(AB):	239117	----------
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
+(CDSL):	276122	<lang>Ved.</lang>, <lang>class.</lang>
+(AB):	276122	<lang>Ved.</lang>, <lang>Class.</lang>
+=================================
+(CDSL):	278155	<lang>class.</lang>
+(AB):	278150	<lang>Class.</lang>
+;; matter rearranged, resulting in changed line number(s) and/or merger into a single line
+=================================
