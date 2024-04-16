@@ -1,0 +1,460 @@
+A.S.	<disp>Anglo-Saxon</disp> <count>lang,1</count>
+Aeol.	<disp>AEolic</disp> <count>lang,4</count>
+Afghan.	<disp>Pashto, a language of Afghanistan</disp> <count>lang,1</count>
+Angl.-Sax.	<disp>Anglo-Saxon</disp> <count>lang,2</count>
+Angl.S.	<disp>Anglo-Saxon</disp> <count>lang,1</count>
+Angl.Sax.	<disp>Anglo-Saxon</disp> <count>lang,135</count>
+Apabhraṃśa	<disp>a Prākṛt dialect, used in Jaina literature, also the Jaina Prākṛt</disp> <count>lang,7</count>
+Arab	<disp>Arabic</disp> <count>lang,1</count>
+Arab.	<disp>Arabic</disp> <count>lang,4</count>
+Arabic	<disp>Arabic</disp> <count>lang,13</count>
+Arm.	<disp>Armorican or the language of Brittany</disp> <count>lang,3</count>
+Armen.	<disp>Armenian</disp> <count>lang,6</count>
+Avantī	<disp>a Prākṛt dialect</disp> <count>lang,1</count>
+Beng.	<disp>Bengālī language</disp> <count>lang,2</count>
+Bengālī	<disp>Bengālī language</disp> <count>lang,6</count>
+Cambro-Brit.	<disp>Cambro-Briton, or Welsh</disp> <count>lang,5</count>
+Class.	<disp>Classical Sanskṛt</disp> <count>lang,34</count>
+class.	<disp>Classical Sanskṛt</disp> <count>lang,8</count>
+class. Sanskṛt	<disp>Classical Sanskṛt</disp> <count>lang,6</count>
+Class. Sanskṛt	<disp>Classical Sanskṛt</disp> <count>lang,1</count>
+classical Sanskṛt	<disp>Classical Sanskṛt</disp> <count>lang,17</count>
+Dor.	<disp>Doric</disp> <count>lang,1</count>
+E.	<disp>English</disp> <count>lang,1</count>
+Eng.	<disp>English</disp> <count>lang,197</count>
+Engl.	<disp>English</disp> <count>lang,12</count>
+English	<disp>English</disp> <count>lang,13</count>
+ep.	<disp>Epic Sanskṛt</disp> <count>lang,345</count>
+Fr.	<disp>French</disp> <count>lang,2</count>
+French	<disp>French</disp> <count>lang,1</count>
+Gaël.	<disp>Gaëlic</disp> <count>lang,3</count>
+Gaëlic	<disp>Gaëlic</disp> <count>lang,1</count>
+Germ.	<disp>German</disp> <count>lang,217</count>
+Gk.	<disp>Greek</disp> <count>lang,518</count>
+Got.	<disp>Gothic</disp> <count>lang,6</count>
+Goth.	<disp>Gothic</disp> <count>lang,205</count>
+HGerm.	<disp>High German</disp> <count>lang,8</count>
+Hib.	<disp>Hibernian or Irish</disp> <count>lang,54</count>
+Hind.	<disp>Hindī (in Devanagari script) or Hindūstānī (in Urdu script)</disp> <count>lang,4</count>
+Hindī	<disp>Hindī</disp> <count>lang,10</count>
+Hindūstānī	<disp>Hindūstānī, also known as Urdu</disp> <count>lang,2</count>
+Icel.	<disp>Icelandic</disp> <count>lang,3</count>
+Ion.	<disp>Ionic</disp> <count>lang,1</count>
+Irish	<disp>Irish, language of Ireland</disp> <count>lang,2</count>
+Jaina Prākṛt	<disp>a Prākṛt dialect, used in Jaina literature, also the Apabhraṃśa</disp> <count>lang,5</count>
+Kanarese	<disp>a South Indian laguage, used in North Karnataka region</disp> <count>lang,1</count>
+Kelt.	<disp>Keltic (or Celtic)</disp> <count>lang,1</count>
+Lat.	<disp>Latin</disp> <count>lang,539</count>
+later Sanskṛt	<disp>later Sanskṛt</disp> <count>lang,7</count>
+later Skr.	<disp>later Sanskṛt</disp> <count>lang,1</count>
+Lett.	<disp>Lettish</disp> <count>lang,2</count>
+Lit.	<disp>Lithuanian</disp> <count>lang,21</count>
+Lith.	<disp>Lithuanian</disp> <count>lang,190</count>
+Mahratta	<disp>a Prākṛt dialect, used in Māhārāṣṭra region</disp> <count>lang,1</count>
+Mahrattī	<disp>a Prākṛt dialect, used in Māhārāṣṭra region</disp> <count>lang,1</count>
+Malayālam	<disp>a South Indian laguage, used in Kerala region</disp> <count>lang,1</count>
+Marāṭhī	<disp>a Prākṛt dialect, used in Māhārāṣṭra region</disp> <count>lang,5</count>
+medieval Lat.	<disp>medieval Latin</disp> <count>lang,1</count>
+Mod. Eng.	<disp>Modern English</disp> <count>lang,3</count>
+Mod. Germ.	<disp>Modern German</disp> <count>lang,34</count>
+modern Sanskṛt	<disp>modern Sanskṛt</disp> <count>lang,1</count>
+Māgadhī	<disp>a Prākṛt dialect, used in Magadha region</disp> <count>lang,2</count>
+Māhārāṣṭrī	<disp>a Prākṛt dialect, used in Māhārāṣṭra region</disp> <count>lang,2</count>
+NHGerm.	<disp>New High German</disp> <count>lang,1</count>
+O. E.	<disp>Old English</disp> <count>lang,3</count>
+O. H. G.	<disp>Old High German</disp> <count>lang,10</count>
+O. N.	<disp>Old Norse</disp> <count>lang,1</count>
+O. Pers.	<disp>Old Persian</disp> <count>lang,2</count>
+O. Pr.	<disp>Old Prussian</disp> <count>lang,1</count>
+O. Pruss.	<disp>Old Prussian</disp> <count>lang,1</count>
+O. Slav.	<disp>Old Slavic</disp> <count>lang,1</count>
+OGerm.	<disp>Old German</disp> <count>lang,1</count>
+Old Germ.	<disp>Old German</disp> <count>lang,43</count>
+Old HGerm.	<disp>Old High German</disp> <count>lang,1</count>
+Old High Germ.	<disp>Old High German</disp> <count>lang,11</count>
+Old Lat.	<disp>Old Latin</disp> <count>lang,3</count>
+Old Pers.	<disp>Old Persian</disp> <count>lang,4</count>
+Old Persian	<disp>Old Persian</disp> <count>lang,1</count>
+Old Pruss.	<disp>Old Prussian</disp> <count>lang,5</count>
+Old Prākṛt	<disp>Old Prākṛt</disp> <count>lang,2</count>
+Old S.	<disp>Old Saxon</disp> <count>lang,1</count>
+Old Sax.	<disp>Old Saxon</disp> <count>lang,6</count>
+Old Slav.	<disp>Old Slavic</disp> <count>lang,1</count>
+OSax.	<disp>Old Saxon</disp> <count>lang,1</count>
+Osk.	<disp>Oskan</disp> <count>lang,1</count>
+Osset.	<disp>Ossetic</disp> <count>lang,1</count>
+Paiśācī	<disp>a Prākṛt dialect</disp> <count>lang,1</count>
+Pers.	<disp>Persian</disp> <count>lang,18</count>
+Persian	<disp>Persian</disp> <count>lang,11</count>
+Pol.	<disp>Polish</disp> <count>lang,1</count>
+Pruss.	<disp>Prussian</disp> <count>lang,1</count>
+Prācyā	<disp>a Prākṛt dialect</disp> <count>lang,1</count>
+Prākṛ.	<disp>Prākṛt</disp> <count>lang,12</count>
+Prākṛt	<disp>Prākṛt</disp> <count>lang,234</count>
+Pāli	<disp>a Prākṛt dialect, used in Buddhist literature, also the Māgadhī</disp> <count>lang,32</count>
+Russ.	<disp>Russian</disp> <count>lang,11</count>
+Sanskṛt	<disp>Sanskṛt</disp> <count>lang,51</count>
+Sinhalese	<disp>Sinhalese</disp> <count>lang,1</count>
+Sk.	<disp>Sanskrit</disp> <count>lang,2</count>
+Sl.	<disp>Slavonic or Slavonian.</disp> <count>lang,3</count>
+Slav.	<disp>Slavonic or Slavonian</disp> <count>lang,113</count>
+Tamil	<disp>a South Indian laguage, used in Tamil region</disp> <count>lang,4</count>
+Telugu	<disp>a South Indian laguage, used in Andhra region</disp> <count>lang,3</count>
+Tibetan	<disp>Tibetan</disp> <count>lang,1</count>
+Tulu	<disp>a South Indian laguage, used in South Karnataka region</disp> <count>lang,1</count>
+Umbr.	<disp>Umbrian</disp> <count>lang,1</count>
+Ved.	<disp>Vedic Sanskṛt</disp> <count>lang,635</count>
+W.	<disp>Welsh, or Cambro-Briton</disp> <count>lang,1</count>
+Z.	<disp>Zend</disp> <count>lang,1</count>
+Zd.	<disp>Zend</disp> <count>lang,141</count>
+Zend	<disp>Zend</disp> <count>lang,21</count>
+Śaurasenī	<disp>a Prākṛt dialect</disp> <count>lang,2</count>
+Śākārī	<disp>a Śaka dialect</disp> <count>lang,1</count>
+A.	<disp>Active</disp> <count></count>
+A.D.	<disp>anno Domini, in the year of the Lord</disp> <count>ab,141</count>
+abl.	<disp>ablative case</disp> <count>ab,1056</count>
+Abl.	<disp>ablative case</disp> <count>ab,3</count>
+above	<disp>a reference to some preceeding word (not necessarily in the same page)</disp> <count></count>
+absol.	<disp>absolutive</disp> <count>ab,1</count>
+abstr.	<disp>abstract</disp> <count>ab,59</count>
+acc.	<disp>accusative case OR according</disp> <count>ab,2696</count>
+Acc.	<disp>accusative case OR according</disp> <count>ab,2</count>
+accord.	<disp>according (to)</disp> <count>ab,954</count>
+act.	<disp>active</disp> <count>ab,13</count>
+add.	<disp>additions</disp> <count>ab,34</count>
+adj.	<disp>adjective (cf. mfn.)</disp> <count>ab,38</count>
+adv.	<disp>adverb</disp> <count>ab,50</count>
+alg.	<disp>algebra</disp> <count>ab,53</count>
+anat.	<disp>anatomy</disp> <count>ab,9</count>
+anom.	<disp>anomalous</disp> <count>ab,7</count>
+Aor.	<disp>Aorist</disp> <count>ab,1</count>
+aor.	<disp>Aorist</disp> <count>ab,1529</count>
+arithm.	<disp>arithmetic</disp> <count>ab,106</count>
+Armor.	<disp>Armorican or the language of Brittany</disp> <count></count>
+astr.	<disp>astronomy</disp> <count>ab,4</count>
+astrol.	<disp>astrology</disp> <count>ab,120</count>
+astron.	<disp>astronomy</disp> <count>ab,266</count>
+B	<disp>Bombay edition</disp> <count>ab,19</count>
+B.	<disp>Bombay edition</disp> <count>ab,166</count>
+B.C.	<disp>before Christ</disp> <count>ab,13</count>
+Boh.	<disp>Bohemian</disp> <count></count>
+Bohem.	<disp>Bohemian</disp> <count></count>
+Bomb.	<disp>Bombay edition</disp> <count>ab,55</count>
+Br.	<disp>Brāhmaṇa</disp> <count></count>
+Bret.	<disp>Breton</disp> <count></count>
+Buddh.	<disp>Buddhist</disp> <count>ab,2</count>
+C	<disp>Calcutta edition</disp> <count>ab,22</count>
+C.	<disp>Calcutta edition</disp> <count>ab,59</count>
+c.	<disp>case</disp> <count>ab,16</count>
+Calc.	<disp>Calcutta edition</disp> <count>ab,19</count>
+Cat.	<disp>catalogue or catalogues</disp> <count></count>
+Caus.	<disp>Causal, Causative</disp> <count>ab,3056</count>
+caus.	<disp>causal</disp> <count>ab,3</count>
+cf.	<disp>confer, compare</disp> <count>ab,11899</count>
+Cf.	<disp>confer, compare</disp> <count>ab,35</count>
+ch.	<disp>chapter</disp> <count>ab,562</count>
+chs.	<disp>chapters</disp> <count>ab,43</count>
+cl.	<disp>class</disp> <count>ab,2475</count>
+col.	<disp>column</disp> <count>ab,681</count>
+coll.	<disp>collectively</disp> <count>ab,4</count>
+collect.	<disp>collective or collectively</disp> <count></count>
+cols.	<disp>columns</disp> <count>ab,62</count>
+Comm.	<disp>commentator or commentary</disp> <count>ab,1802</count>
+Comms.	<disp>commentators or commentaries</disp> <count>ab,39</count>
+comp.	<disp>compound</disp> <count>ab,3470</count>
+compar.	<disp>Comparative degree</disp> <count>ab,185</count>
+Compar.	<disp>Comparative degree</disp> <count>ab,13</count>
+comps.	<disp>compounds</disp> <count>ab,2</count>
+concl.	<disp>conclusion</disp> <count></count>
+Concl.	<disp>conclusion</disp> <count>ab,7</count>
+concr.	<disp>concrete</disp> <count>ab,3</count>
+Cond.	<disp>Conditional</disp> <count>ab,27</count>
+cond.	<disp>Conditional</disp> <count>ab,6</count>
+conj.	<disp>conjectural</disp> <count>ab,14</count>
+Conj.	<disp>conjectural</disp> <count>ab,3</count>
+cons.	<disp>consonant</disp> <count>ab,3</count>
+contr.	<disp>contraction</disp> <count>ab,2</count>
+corr.	<disp>correct(ly)</disp> <count>ab,1</count>
+correl.	<disp>correlative</disp> <count>ab,7</count>
+dat.	<disp>dative case</disp> <count>ab,677</count>
+Dat.	<disp>dative case</disp> <count>ab,3</count>
+defect.	<disp>defective</disp> <count>ab,5</count>
+deriv.	<disp>derived</disp> <count>ab,8</count>
+Des.	<disp>Desiderative</disp> <count>ab,1</count>
+Desid.	<disp>Desiderative</disp> <count>ab,955</count>
+Desid. Caus.	<disp>Desiderative Causal</disp> <count>ab,4</count>
+Desid. Pass.	<disp>Desiderative Passive</disp> <count>ab,1</count>
+dimin.	<disp>diminutive</disp> <count>ab,32</count>
+dram.	<disp>dramatic language</disp> <count>ab,174</count>
+du.	<disp>dual number</disp> <count>ab,948</count>
+e.g.	<disp>exempli gratia, ‘for example’</disp> <count>ab,1280</count>
+ed.	<disp>edition</disp> <count>ab,105</count>
+encl.	<disp>enclitic</disp> <count>ab,5</count>
+Ep.	<disp>Epic</disp> <count></count>
+esp.	<disp>especially</disp> <count>ab,1367</count>
+etc.	<disp>et cetera, and so on</disp> <count>ab,7</count>
+etym.	<disp>etymology</disp> <count>ab,43</count>
+etymol.	<disp>etymology</disp> <count>ab,5</count>
+exc.	<disp>except</disp> <count>ab,1</count>
+f.	<disp>feminine</disp> <count>ab,37</count>
+Feb.	<disp>February</disp> <count>ab,1</count>
+fem.	<disp>feminine</disp> <count>ab,30</count>
+ff.	<disp>and the following ones</disp> <count>ab,1</count>
+fig.	<disp>figuratively</disp> <count>ab,250</count>
+fn.	<disp>feminine or neuter</disp> <count></count>
+fr.	<disp>from</disp> <count>ab,7590</count>
+Fut.	<disp>future</disp> <count>ab,1</count>
+fut.	<disp>future</disp> <count>ab,657</count>
+fut.p.p.	<disp>future passive participle</disp> <count></count>
+fut.Pass.p.	<disp>future passive participle</disp> <count>ab,1</count>
+G	<disp>Gaspard Gorresio Italian edition</disp> <count>ab,5</count>
+g.	<disp>gaṇa</disp> <count>ab,4328</count>
+G.	<disp>Gaspard Gorresio Italian edition</disp> <count>ab,2</count>
+Gael.	<disp>Gaelic</disp> <count></count>
+gen.	<disp>genitive case</disp> <count>ab,1676</count>
+Gen.	<disp>genitive case</disp> <count>ab,2</count>
+gend.	<disp>gender</disp> <count></count>
+geom.	<disp>geometry</disp> <count>ab,39</count>
+Gorr.	<disp>Gaspard Gorresio Italian edition</disp> <count></count>
+Gorresio	<disp>Gaspard Gorresio</disp> <count>ab,3</count>
+Goth. Old S.	<disp>Gothic Old Saxon</disp> <count></count>
+Govind.	<disp>Govinda</disp> <count>ab,2</count>
+Gr.	<disp>Grammar.</disp> <count>ab,971</count>
+gr.	<disp>grammar</disp> <count>ab,2</count>
+Gram.	<disp>grammar</disp> <count>ab,2</count>
+gram.	<disp>grammar</disp> <count>ab,313</count>
+Gramm.	<disp>grammar</disp> <count>ab,1</count>
+gramm.	<disp>grammar or grammatical</disp> <count>ab,14</count>
+i.e.	<disp>id est, or ‘that is’</disp> <count>ab,1547</count>
+ib.	<disp>ibidem or ‘in the same place or book or text’ as the preceding</disp> <count>ab,285</count>
+ibc.	<disp>in the beginning of a compound</disp> <count>ab,323</count>
+id.	<disp>idem or ‘the same meaning as that of a preceding word’</disp> <count>ab,4491</count>
+ident.	<disp>identical</disp> <count>ab,1</count>
+ifc.	<disp>in fine compositi or ‘at the end of a compound’</disp> <count>ab,3440</count>
+Imp.	<disp>imperative</disp> <count>ab,2</count>
+imp.	<disp>imperative</disp> <count>ab,3</count>
+Imper.	<disp>imperative</disp> <count>ab,148</count>
+impers.	<disp>impersonal or used impersonally</disp> <count>ab,233</count>
+impf.	<disp>imperfect tense</disp> <count>ab,420</count>
+Impf.	<disp>imperfect tense</disp> <count>ab,6</count>
+Impv.	<disp>imperative</disp> <count>ab,420</count>
+impv.	<disp>imperative</disp> <count>ab,1</count>
+ind.	<disp>indeclinable</disp> <count>ab,14</count>
+Ind.	<disp>indeclinable</disp> <count>ab,3</count>
+ind.p.	<disp>indeclinable participle</disp> <count>ab,1248</count>
+Indic.	<disp>indicative (= optative)</disp> <count>ab,2</count>
+inf.	<disp>infinitive mood</disp> <count>ab,806</count>
+Inf.	<disp>infinitive mood</disp> <count>ab,126</count>
+Inscr.	<disp>Inscriptions</disp> <count></count>
+inst.	<disp>instrumental case</disp> <count>ab,19</count>
+Inst.	<disp>instrumental case</disp> <count>ab,1</count>
+instr.	<disp>instrumental case</disp> <count>ab,1653</count>
+Intens.	<disp>Intensive</disp> <count>ab,632</count>
+intens.	<disp>Intensive</disp> <count>ab,2</count>
+interj.	<disp>interjection</disp> <count>ab,2</count>
+interpol.	<disp>interpolation</disp> <count>ab,3</count>
+interr.	<disp>interrogative</disp> <count>ab,5</count>
+interrog.	<disp>interrogative</disp> <count>ab,1</count>
+intr.	<disp>intransitive</disp> <count>ab,32</count>
+intrans.	<disp>intransitive</disp> <count>ab,55</count>
+Introd.	<disp>Introduction</disp> <count>ab,202</count>
+introd.	<disp>Introduction</disp> <count>ab,3</count>
+irr.	<disp>irregular</disp> <count>ab,58</count>
+irreg.	<disp>irregular</disp> <count>ab,36</count>
+lang.	<disp>language</disp> <count>ab,6</count>
+lat.	<disp>latitude</disp> <count></count>
+latit.	<disp>latitude</disp> <count>ab,1</count>
+lbs.	<disp>pounds</disp> <count>ab,2</count>
+Lin.	<disp>Carl Linnaeus</disp> <count>ab,7</count>
+lit.	<disp>literally</disp> <count>ab,220</count>
+liturg.	<disp>liturgical</disp> <count></count>
+Loc.	<disp>locative case</disp> <count>ab,1</count>
+loc.	<disp>locative case</disp> <count>ab,2070</count>
+log.	<disp>logic</disp> <count>ab,15</count>
+long.	<disp>longitude</disp> <count>ab,6</count>
+m.	<disp>masculine gender</disp> <count>ab,83</count>
+m.c.	<disp>metri causa, or ‘for the sake of the meter’ in poetry</disp> <count>ab,50</count>
+masc.	<disp>masculine</disp> <count>ab,1</count>
+math.	<disp>mathematics</disp> <count>ab,34</count>
+mathem.	<disp>mathematics</disp> <count>ab,3</count>
+mc.	<disp>metri causa, or ‘for the sake of the meter’ in poetry</disp> <count>ab,180</count>
+med.	<disp>medicine</disp> <count>ab,91</count>
+medic.	<disp>medicine</disp> <count>ab,47</count>
+met.	<disp>?</disp> <count>ab,30</count>
+metaph.	<disp>metaphorically</disp> <count>ab,3</count>
+metr.	<disp>metronymic</disp> <count>ab,9</count>
+metron.	<disp>metronymic</disp> <count>ab,205</count>
+mf.	<disp>masculine, feminine </disp> <count></count>
+mfn.	<disp>masculine, feminine and neuter; or = adjective</disp> <count>ab,16</count>
+mn.	<disp>masculine or neuter</disp> <count></count>
+Mod.	<disp>modern</disp> <count></count>
+Mr.	<disp>Mister</disp> <count>ab,2</count>
+MS.	<disp>manuscript</disp> <count>ab,23</count>
+MSS.	<disp>manuscripts</disp> <count>ab,15</count>
+mus.	<disp>music</disp> <count>ab,27</count>
+myst.	<disp>mystical</disp> <count>ab,3</count>
+mystic.	<disp>mystical</disp> <count>ab,6</count>
+myth.	<disp>mythology</disp> <count>ab,9</count>
+mythol.	<disp>mythology</disp> <count>ab,4</count>
+N.	<disp>Name (also = title or epithet)</disp> <count>ab,47894</count>
+n.	<disp>neuter gender</disp> <count>ab,1</count>
+N.B.	<disp>nota bene (note well)</disp> <count>ab,1</count>
+N.E.	<disp>north-east</disp> <count>ab,1</count>
+N.W.	<disp>north-west</disp> <count>ab,4</count>
+necess.	<disp>necessitative</disp> <count>ab,1</count>
+neg.	<disp>negative</disp> <count>ab,152</count>
+negat.	<disp>negative</disp> <count>ab,2</count>
+neut.	<disp>neuter</disp> <count>ab,9</count>
+Nom.	<disp>Nominal verb</disp> <count>ab,1306</count>
+nom.	<disp>nominative case</disp> <count>ab,591</count>
+nomin.	<disp>nominative</disp> <count>ab,2</count>
+Nov.	<disp>November</disp> <count>ab,1</count>
+num.	<disp>number</disp> <count>ab,1</count>
+O.	<disp>Old</disp> <count></count>
+O.E.	<disp>Old English</disp> <count></count>
+O.H.G.	<disp>Old High German</disp> <count></count>
+O.N.	<disp>Old Norse</disp> <count></count>
+O.Pr.	<disp>Old Prussian</disp> <count></count>
+O.S.	<disp>Old Slavonic</disp> <count></count>
+obl.	<disp>oblique</disp> <count>ab,1</count>
+obs.	<disp>obsolete</disp> <count>ab,4</count>
+Oct.	<disp>October</disp> <count>ab,2</count>
+onom.	<disp>onomatopoetic</disp> <count>ab,2</count>
+onomat.	<disp>onomatopoetic (i.e. formed from imitation of sounds)</disp> <count>ab,107</count>
+onomatop.	<disp>onomatopoetic</disp> <count>ab,1</count>
+opp.	<disp>opposed</disp> <count>ab,455</count>
+opp. to	<disp>opposed to</disp> <count></count>
+opt.	<disp>optative</disp> <count></count>
+Opt.	<disp>optative</disp> <count>ab,34</count>
+orig.	<disp>originally</disp> <count>ab,52</count>
+Orig.	<disp>originally</disp> <count>ab,5</count>
+others	<disp>according to others</disp> <count></count>
+oxyt.	<disp>oxytone, having an acute accent on last syllable</disp> <count>ab,10</count>
+ozs.	<disp>ounces</disp> <count>ab,1</count>
+P.	<disp>Parasmai-pada</disp> <count>ab,6216</count>
+p.	<disp>page or participle (cf. p.p.)</disp> <count>ab,1551</count>
+p.p.	<disp>past participle</disp> <count>ab,57</count>
+p.p.p.	<disp>past participle</disp> <count>ab,1</count>
+Paddh.	<disp>Paddhati, guide book or manual</disp> <count>ab,24</count>
+parox.	<disp>paroxytone, having an acute accent on penultimate syllable</disp> <count>ab,6</count>
+part.	<disp>participle</disp> <count>ab,17</count>
+partic.	<disp>particular</disp> <count>ab,3715</count>
+Pass.	<disp>Passive voice</disp> <count>ab,921</count>
+pass.	<disp>Passive voice</disp> <count>ab,56</count>
+patr.	<disp>patronymic</disp> <count>ab,1684</count>
+patron.	<disp>patronymic</disp> <count>ab,34</count>
+perf.	<disp>perfect tense</disp> <count>ab,329</count>
+perh.	<disp>perhaps</disp> <count>ab,4</count>
+periphr.	<disp>periphrastic</disp> <count>ab,2</count>
+pers.	<disp>person</disp> <count>ab,76</count>
+pf.	<disp>perfect tense</disp> <count>ab,929</count>
+phil.	<disp>philosophy</disp> <count>ab,207</count>
+Phil.	<disp>philosophy</disp> <count>ab,1</count>
+philos.	<disp>philosophy</disp> <count>ab,24</count>
+pl.	<disp>plural number</disp> <count>ab,5390</count>
+plur.	<disp>plural</disp> <count>ab,4</count>
+plusq.	<disp>plusquamperfect, pluperfect</disp> <count>ab,2</count>
+poet.	<disp>poetry or poetic</disp> <count>ab,44</count>
+polit.	<disp>politics</disp> <count>ab,1</count>
+possess.	<disp>possessive</disp> <count>ab,1</count>
+Pot.	<disp>Potential</disp> <count>ab,358</count>
+pp.	<disp>past participle</disp> <count>ab,43</count>
+Pr.	<disp>proper</disp> <count>ab,1</count>
+pr.	<disp>present</disp> <count>ab,77</count>
+pr. p.	<disp>present participle</disp> <count>ab,320</count>
+pr.p.	<disp>present participle</disp> <count>ab,55</count>
+Prec.	<disp>precative or preceding</disp> <count>ab,133</count>
+prec.	<disp>preceding</disp> <count>ab,584</count>
+pref.	<disp>preface</disp> <count>ab,2</count>
+prep.	<disp>preposition</disp> <count>ab,43</count>
+prepos.	<disp>preposition</disp> <count>ab,2</count>
+pres.	<disp>present tense</disp> <count>ab,67</count>
+Pres.	<disp>present tense</disp> <count>ab,17</count>
+pres.p.	<disp>present participle</disp> <count>ab,4</count>
+priv.	<disp>privative</disp> <count>ab,5</count>
+prob.	<disp>probably</disp> <count>ab,2029</count>
+Prob.	<disp>probably</disp> <count>ab,5</count>
+pron.	<disp>pronoun</disp> <count>ab,41</count>
+pronom.	<disp>pronominal</disp> <count>ab,26</count>
+prop.	<disp>proparoxytone, or stress on third last syllable</disp> <count>ab,1</count>
+propar.	<disp>proparoxytone</disp> <count></count>
+proparox.	<disp>proparoxytone, or stress on third last syllable</disp> <count>ab,5</count>
+pros.	<disp>prosody</disp> <count>ab,1</count>
+prosod.	<disp>prosody, prosodical</disp> <count>ab,1</count>
+Prāk.	<disp>Prākṛit</disp> <count></count>
+Prākr.	<disp>Prākṛit</disp> <count>ab,1</count>
+q.v.	<disp>quod vide, which see</disp> <count>ab,3647</count>
+qq.v.	<disp>quod vide, which see</disp> <count>ab,15</count>
+qq.vv.	<disp>quod vide, which see</disp> <count>ab,88</count>
+quot.	<disp>quotation</disp> <count>ab,3</count>
+Rec.	<disp>Recension </disp> <count>ab,1</count>
+redupl.	<disp>reduplicated</disp> <count>ab,14</count>
+Reflex.	<disp>Reflexive or used reflexively</disp> <count></count>
+reflex.	<disp>Reflexive or used reflexively</disp> <count>ab,2</count>
+rel.	<disp>relative</disp> <count>ab,3</count>
+relat.	<disp>relative</disp> <count>ab,2</count>
+relig.	<disp>religion</disp> <count>ab,2</count>
+rhet.	<disp>rhetoric</disp> <count>ab,210</count>
+rhetor.	<disp>rhetoric, rhetorical</disp> <count>ab,3</count>
+rt.	<disp>root</disp> <count></count>
+rts.	<disp>roots</disp> <count></count>
+RV.	<disp>Ṛg-veda</disp> <count>ab,1</count>
+S.	<disp>south</disp> <count>ab,1</count>
+S.E.	<disp>south-east</disp> <count>ab,2</count>
+s.v.	<disp>sub voce, i.e. the word in the Sanskrit order</disp> <count>ab,572</count>
+S.W.	<disp>south-west</disp> <count>ab,1</count>
+sacrif.	<disp>sacrificial</disp> <count>ab,2</count>
+Sax.	<disp>Saxon</disp> <count></count>
+sc.	<disp>scilicet, or ‘that is to say’, ‘namely’</disp> <count>ab,102</count>
+Sch.	<disp>Scholiast or Commentator</disp> <count>ab,5484</count>
+Schol.	<disp>Scholiast or Commentator</disp> <count>ab,2</count>
+scil.	<disp>scilicet</disp> <count>ab,568</count>
+Scot.	<disp>Scotch or Highland-Scotch</disp> <count></count>
+Sept.	<disp>September</disp> <count>ab,1</count>
+seq.	<disp>sequens, the following one</disp> <count>ab,32</count>
+seqq.	<disp>sequentia, the following ones</disp> <count>ab,45</count>
+sev.	<disp>several</disp> <count>ab,276</count>
+sg.	<disp>singular number</disp> <count>ab,1516</count>
+sing.	<disp>singular number</disp> <count>ab,15</count>
+Skr.	<disp>Sanskrit</disp> <count></count>
+sq.	<disp>sequentia (the following one)</disp> <count>ab,2</count>
+sqq.	<disp>sequentiae (the following ones)</disp> <count>ab,1</count>
+ss.vv.	<disp>sub voce, i.e. the word in the Sanskrit order</disp> <count>ab,16</count>
+st.	<disp>Stadt (German); instead of</disp> <count></count>
+St.	<disp>Saint</disp> <count>ab,1</count>
+Subj.	<disp>subjunctive</disp> <count>ab,471</count>
+subj.	<disp>subjunctive</disp> <count>ab,5</count>
+subst.	<disp>substantive</disp> <count>ab,28</count>
+suff.	<disp>suffix</disp> <count>ab,2</count>
+superl.	<disp>superlative degree</disp> <count>ab,232</count>
+Superl.	<disp>superlative degree</disp> <count>ab,10</count>
+surg.	<disp>surgery</disp> <count>ab,3</count>
+SV.	<disp>Sāma-Veda </disp> <count>ab,1</count>
+Svargakh.	<disp>Svargakhaṇḍa. 3rd book of Padma-Purāṇa</disp> <count></count>
+Them.	<disp>Thema or base</disp> <count>ab,2</count>
+Thema	<disp>Thema or base</disp> <count>ab,2</count>
+Theme	<disp>Thema or base</disp> <count>ab,3</count>
+trans.	<disp>transitive</disp> <count>ab,69</count>
+Transl.	<disp>translation</disp> <count>ab,1</count>
+Up.	<disp>Upaniṣad</disp> <count>ab,1</count>
+Upan.	<disp>Upaniṣad</disp> <count>ab,1</count>
+v.l.	<disp>varia lectio, or ‘variant reading or readings’</disp> <count>ab,3585</count>
+v.r.	<disp>variant reading</disp> <count>ab,12</count>
+vb.	<disp>verb</disp> <count>ab,1</count>
+viz.	<disp>namely, in other words. From Latin videlicet</disp> <count>ab,398</count>
+voc.	<disp>vocative case</disp> <count>ab,147</count>
+Voc.	<disp>vocative case</disp> <count>ab,2</count>
+vocat.	<disp>vocative</disp> <count>ab,1</count>
+vow.	<disp>vowel</disp> <count>ab,2</count>
+vv.ll.	<disp>varia lectio, or ‘variant reading or readings’</disp> <count>ab,75</count>
+Vārt.	<disp>Vārttika</disp> <count>ab,1</count>
+Vārtt.	<disp>Vārttika</disp> <count>ab,1056</count>
+w.r.	<disp>wrong reading</disp> <count>ab,2074</count>
+wk.	<disp>work</disp> <count>ab,12434</count>
+wks.	<disp>works</disp> <count>ab,102</count>
+YV	<disp>Yajur-Veda</disp> <count>ab,8</count>
+YV.	<disp>Yajur-Veda</disp> <count>ab,6</count>
+Ā.	<disp>Ātmane-pada</disp> <count>ab,3967</count>
+Ādi-p.	<disp>Ādi-parvanof the mahā-Bhārata</disp> <count></count>
+nf.	<disp>neuter or feminine</disp>
+nm.	<disp>neuter or masculine</disp>

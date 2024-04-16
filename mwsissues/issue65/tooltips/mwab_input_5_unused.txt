@@ -1,0 +1,38 @@
+A.	<disp>Active</disp> <count></count>
+above	<disp>a reference to some preceeding word (not necessarily in the same page)</disp> <count></count>
+Armor.	<disp>Armorican or the language of Brittany</disp> <count></count>
+Boh.	<disp>Bohemian</disp> <count></count>
+Bohem.	<disp>Bohemian</disp> <count></count>
+Br.	<disp>Brāhmaṇa</disp> <count></count>
+Bret.	<disp>Breton</disp> <count></count>
+Cat.	<disp>catalogue or catalogues</disp> <count></count>
+collect.	<disp>collective or collectively</disp> <count></count>
+concl.	<disp>conclusion</disp> <count></count>
+Ep.	<disp>Epic</disp> <count></count>
+fut.p.p.	<disp>future passive participle</disp> <count></count>
+Gael.	<disp>Gaelic</disp> <count></count>
+gend.	<disp>gender</disp> <count></count>
+Gorr.	<disp>Gaspard Gorresio Italian edition</disp> <count></count>
+Goth. Old S.	<disp>Gothic Old Saxon</disp> <count></count>
+Inscr.	<disp>Inscriptions</disp> <count></count>
+lat.	<disp>latitude</disp> <count></count>
+liturg.	<disp>liturgical</disp> <count></count>
+Mod.	<disp>modern</disp> <count></count>
+O.	<disp>Old</disp> <count></count>
+O.E.	<disp>Old English</disp> <count></count>
+O.H.G.	<disp>Old High German</disp> <count></count>
+O.N.	<disp>Old Norse</disp> <count></count>
+O.Pr.	<disp>Old Prussian</disp> <count></count>
+O.S.	<disp>Old Slavonic</disp> <count></count>
+opp. to	<disp>opposed to</disp> <count></count>
+opt.	<disp>optative</disp> <count></count>
+others	<disp>according to others</disp> <count></count>
+propar.	<disp>proparoxytone</disp> <count></count>
+Prāk.	<disp>Prākṛit</disp> <count></count>
+Reflex.	<disp>Reflexive or used reflexively</disp> <count></count>
+rts.	<disp>roots</disp> <count></count>
+Sax.	<disp>Saxon</disp> <count></count>
+Scot.	<disp>Scotch or Highland-Scotch</disp> <count></count>
+Skr.	<disp>Sanskrit</disp> <count></count>
+Svargakh.	<disp>Svargakhaṇḍa. 3rd book of Padma-Purāṇa</disp> <count></count>
+Ādi-p.	<disp>Ādi-parvanof the mahā-Bhārata</disp> <count></count>

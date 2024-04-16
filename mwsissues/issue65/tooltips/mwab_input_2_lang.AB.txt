@@ -1,0 +1,111 @@
+A.S.	<disp>Anglo-Saxon</disp> <count>lang,1</count>
+Aeol.	<disp>AEolic</disp> <count>lang,4</count>
+Afghan.	<disp>Pashto, a language of Afghanistan</disp> <count>lang,1</count>
+Angl.-Sax.	<disp>Anglo-Saxon</disp> <count>lang,2</count>
+Angl.S.	<disp>Anglo-Saxon</disp> <count>lang,1</count>
+Angl.Sax.	<disp>Anglo-Saxon</disp> <count>lang,135</count>
+Apabhraṃśa	<disp>a Prākṛt dialect, used in Jaina literature, also the Jaina Prākṛt</disp> <count>lang,7</count>
+Arab.	<disp>Arabic</disp> <count>lang,4</count>
+Arabic	<disp>Arabic</disp> <count>lang,13</count>
+Arm.	<disp>Armorican or the language of Brittany</disp> <count>lang,3</count>
+Armen.	<disp>Armenian</disp> <count>lang,6</count>
+Avantī	<disp>a Prākṛt dialect</disp> <count>lang,1</count>
+Beng.	<disp>Bengālī language</disp> <count>lang,2</count>
+Bengālī	<disp>Bengālī language</disp> <count>lang,6</count>
+Cambro-Brit.	<disp>Cambro-Briton, or Welsh</disp> <count>lang,5</count>
+Class.	<disp>Classical Sanskṛt</disp> <count>lang,34</count>
+class.	<disp>Classical Sanskṛt</disp> <count>lang,8</count>
+class. Sanskṛt	<disp>Classical Sanskṛt</disp> <count>lang,6</count>
+Class. Sanskṛt	<disp>Classical Sanskṛt</disp> <count>lang,1</count>
+classical Sanskṛt	<disp>Classical Sanskṛt</disp> <count>lang,17</count>
+Dor.	<disp>Doric</disp> <count>lang,1</count>
+E.	<disp>English</disp> <count>lang,1</count>
+Eng.	<disp>English</disp> <count>lang,197</count>
+Engl.	<disp>English</disp> <count>lang,12</count>
+English	<disp>English</disp> <count>lang,13</count>
+ep.	<disp>Epic Sanskṛt</disp> <count>lang,345</count>
+Fr.	<disp>French</disp> <count>lang,2</count> ;;  AB has tagged the two places as <ab n="From">Fr.</ab> to avoid the duality
+French	<disp>French</disp> <count>lang,1</count>
+Gaël.	<disp>Gaëlic</disp> <count>lang,3</count>
+Gaëlic	<disp>Gaëlic</disp> <count>lang,1</count>
+Germ.	<disp>German</disp> <count>lang,217</count>
+Gk.	<disp>Greek</disp> <count>lang,518</count>
+Got.	<disp>Gothic</disp> <count>lang,6</count>
+Goth.	<disp>Gothic</disp> <count>lang,205</count>
+HGerm.	<disp>High German</disp> <count>lang,8</count>
+Hib.	<disp>Hibernian or Irish</disp> <count>lang,54</count>
+Hind.	<disp>Hindī (in Devanagari script) or Hindūstānī (in Urdu script)</disp> <count>lang,5</count>
+Hindī	<disp>Hindī</disp> <count>lang,10</count>
+Hindūstānī	<disp>Hindūstānī, also known as Urdu</disp> <count>lang,2</count>
+Icel.	<disp>Icelandic</disp> <count>lang,3</count>
+Ion.	<disp>Ionic</disp> <count>lang,1</count>
+Irish	<disp>Irish, language of Ireland</disp> <count>lang,2</count>
+Jaina Prākṛt	<disp>a Prākṛt dialect, used in Jaina literature, also the Apabhraṃśa</disp> <count>lang,5</count>
+Kanarese	<disp>a South Indian laguage, used in North Karnataka region</disp> <count>lang,1</count>
+Kelt.	<disp>Keltic (or Celtic)</disp> <count>lang,1</count>
+Lat.	<disp>Latin</disp> <count>lang,539</count>
+later Sanskṛt	<disp>later Sanskṛt</disp> <count>lang,7</count>
+later Skr.	<disp>later Sanskṛt</disp> <count>lang,1</count>
+Lett.	<disp>Lettish</disp> <count>lang,2</count>
+Lit.	<disp>Lithuanian</disp> <count>lang,21</count>
+Lith.	<disp>Lithuanian</disp> <count>lang,190</count>
+Mahratta	<disp>a Prākṛt dialect, used in Māhārāṣṭra region</disp> <count>lang,1</count>
+Mahrattī	<disp>a Prākṛt dialect, used in Māhārāṣṭra region</disp> <count>lang,1</count>
+Malayālam	<disp>a South Indian laguage, used in Kerala region</disp> <count>lang,1</count>
+Marāṭhī	<disp>a Prākṛt dialect, used in Māhārāṣṭra region</disp> <count>lang,5</count>
+medieval Lat.	<disp>medieval Latin</disp> <count>lang,1</count>
+Mod. Eng.	<disp>Modern English</disp> <count>lang,3</count>
+Mod. Germ.	<disp>Modern German</disp> <count>lang,34</count>
+modern Sanskṛt	<disp>modern Sanskṛt</disp> <count>lang,1</count>
+Māgadhī	<disp>a Prākṛt dialect, used in Magadha region</disp> <count>lang,2</count>
+Māhārāṣṭrī	<disp>a Prākṛt dialect, used in Māhārāṣṭra region</disp> <count>lang,2</count>
+NHGerm.	<disp>New High German</disp> <count>lang,1</count>
+O. E.	<disp>Old English</disp> <count>lang,3</count>
+O. H. G.	<disp>Old High German</disp> <count>lang,10</count>
+O. N.	<disp>Old Norse</disp> <count>lang,1</count>
+O. Pers.	<disp>Old Persian</disp> <count>lang,2</count>
+O. Pr.	<disp>Old Prussian</disp> <count>lang,1</count>
+O. Pruss.	<disp>Old Prussian</disp> <count>lang,1</count>
+O. Slav.	<disp>Old Slavic</disp> <count>lang,1</count>
+OGerm.	<disp>Old German</disp> <count>lang,1</count>
+Old Germ.	<disp>Old German</disp> <count>lang,43</count>
+Old HGerm.	<disp>Old High German</disp> <count>lang,1</count>
+Old High Germ.	<disp>Old High German</disp> <count>lang,11</count>
+Old Lat.	<disp>Old Latin</disp> <count>lang,3</count>
+Old Pers.	<disp>Old Persian</disp> <count>lang,4</count>
+Old Persian	<disp>Old Persian</disp> <count>lang,1</count>
+Old Pruss.	<disp>Old Prussian</disp> <count>lang,5</count>
+Old Prākṛt	<disp>Old Prākṛt</disp> <count>lang,2</count>
+Old S.	<disp>Old Saxon</disp> <count>lang,1</count>
+Old Sax.	<disp>Old Saxon</disp> <count>lang,6</count>
+Old Slav.	<disp>Old Slavic</disp> <count>lang,1</count>
+OSax.	<disp>Old Saxon</disp> <count>lang,1</count>
+Osk.	<disp>Oskan</disp> <count>lang,1</count>
+Osset.	<disp>Ossetic</disp> <count>lang,1</count>
+Paiśācī	<disp>a Prākṛt dialect</disp> <count>lang,1</count>
+Pers.	<disp>Persian</disp> <count>lang,18</count>
+Persian	<disp>Persian</disp> <count>lang,11</count>
+Pol.	<disp>Polish</disp> <count>lang,1</count>
+Pruss.	<disp>Prussian</disp> <count>lang,1</count>
+Prācyā	<disp>a Prākṛt dialect</disp> <count>lang,1</count>
+Prākṛ.	<disp>Prākṛt</disp> <count>lang,12</count>
+Prākṛt	<disp>Prākṛt</disp> <count>lang,234</count>
+Pāli	<disp>a Prākṛt dialect, used in Buddhist literature, also the Māgadhī</disp> <count>lang,32</count>
+Russ.	<disp>Russian</disp> <count>lang,11</count>
+Sanskṛt	<disp>Sanskṛt</disp> <count>lang,51</count>
+Sinhalese	<disp>Sinhalese</disp> <count>lang,1</count>
+Sk.	<disp>Sanskrit</disp> <count>lang,2</count>
+Sl.	<disp>Slavonic or Slavonian.</disp> <count>lang,3</count>
+Slav.	<disp>Slavonic or Slavonian</disp> <count>lang,113</count>
+Tamil	<disp>a South Indian laguage, used in Tamil region</disp> <count>lang,4</count>
+Telugu	<disp>a South Indian laguage, used in Andhra region</disp> <count>lang,3</count>
+Tibetan	<disp>Tibetan</disp> <count>lang,1</count>
+Tulu	<disp>a South Indian laguage, used in South Karnataka region</disp> <count>lang,1</count>
+Umbr.	<disp>Umbrian</disp> <count>lang,1</count>
+Ved.	<disp>Vedic Sanskṛt</disp> <count>lang,635</count>
+W.	<disp>Welsh, or Cambro-Briton</disp> <count>lang,1</count>
+Z.	<disp>Zend</disp> <count>lang,1</count>
+Zd.	<disp>Zend</disp> <count>lang,141</count>
+Zend	<disp>Zend</disp> <count>lang,21</count>
+Śaurasenī	<disp>a Prākṛt dialect</disp> <count>lang,2</count>
+Śākārī	<disp>a Śaka dialect</disp> <count>lang,1</count>

@@ -478,3 +478,384 @@ abbrv<TAB><disp>tooltip</disp>
 mkdir tooltips  # do work here
 mv mwab_input_0.txt tooltips
 # manually edit, so 'new format' is used
+-------------------------------------------------
+04-13-2024
+mwab_input_1.txt  tooltips for:
+* <ab>X</ab>  The original purpose of these tooltips
+* <lang>X</lang>  New usage.
+   cf. csl-websanlexicon/v02/.../webtc/basicadjust.php at '// 04-08-2024'
+        preg_replace('|<lang>(.*?)</lang>|', '<ab>\1</ab>',$line1);
+cd tooltips
+python tips1.py ab,lang ../temp_mw_7.txt mwab_input_0.txt mwab_input_1.txt
+
+-------------------------------
+cp mwab_input_1.txt mwab_input_2.txt
+edit mwab_input_2.txt to provide tooltips for the lang elements.
+112 abbreviations X appear in <lang>X</lang> in temp_mw_7.txt
+extract these 112 as temp_mwab_input_2_lang.txt
+
+-------------------------------------------
+04-14-2024
+
+# AB revisions to tooltips for <lang> tags.
+cp ~/Downloads/andhrabharati/MWS/mwab_input_2_lang.AB.txt  .
+diff temp_mwab_input_2_lang.txt mwab_input_2_lang.AB.txt
+notes:
+
+# temp_mwab_input_2_ab.txt
+  The 'non-lang' tooltips
+mwab_input_3.txt is concatenation of 
+
+----------------------------------------
+temp_mw_8.txt  Several changes Jim missed.
+Ref: https://github.com/sanskrit-lexicon/mws/issues/65#issuecomment-2053882550
+   and next comment.
+
+cp temp_mw_7.txt temp_mw_8.txt
+# manual edit temp_mw_8.txt
+---
+(CDSL): 254116 old Prākṛt
+(AB): 254116 ----------
+;; deleted (dup. entry)
+Jim changes.
+---
+54627:	<lang n="Hindūstānī">Hind.</lang> done ?
+---
+413624:	<lang n="Persian">P°</lang> done
+---
+413633:	<lang n="Persian">P°</lang> done
+413633:	<lang n="Sanskṛt">S°</lang> done
+---
+413636:	<lang n="Persian">P°</lang> done
+413636:	<lang n="Sanskṛt">S°</lang> done
+---
+413639:	<lang n="Persian">P°</lang> done
+413639:	<lang n="Sanskṛt">S°</lang> done
+413639:	<lang>Arab</lang> done
+note 'Arab.' is in mwab_input
+Add 'Arab' to mwab_input
+---
+from note in AB's
+< Fr.	<disp>From or French</disp> <count>lang,2</count>
+> Fr.	<disp>French</disp> <count>lang,2</count>
+;;  AB has tagged the two places as <ab n="From">Fr.</ab> to avoid the duality
+This previously done by Jim
+---
+------------------------------------------------
+Generate change file for possible reference
+python diff_to_changes_dict.py temp_mw_7.txt temp_mw_8.txt change_7_8.txt
+6 changes written to change_7_8.txt
+
+
+------------------------------------------------
+Back to revisions of mwab_input_3.txt
+---
+Add 'Arab' to mwab_input
+Arab	<disp>Arabic</disp> <count>lang,4</count>
+
+------------------
+mwab_input_4.txt
+# recompute counts
+python tips1.py ab,lang ../temp_mw_8.txt mwab_input_3.txt mwab_input_4.txt
+
+The lex tag in mw is complex. See basicadjust.php in
+ csl-websanlexicon/v02/makotemplates/web/webtc/basicadjust.php
+ in function add_lex_markup_mw.
+ This ultimately depends on mwab_input.txt for the abbreviation tooltips.
+ Thus, we need to revise mwab_input_4.txt to include lex tag.
+
+# recompute counts, using also lex tag
+# A revision to tips1 program required
+
+python tips2.py lex,lang,ab ../temp_mw_8.txt mwab_input_4.txt mwab_input_5.txt
+
+
+Changes to temp_mw_8.txt, mwab_input_4 based on examination of mwab_input
+---
+<L>90572<pc>470,3<k1>darvI
+<ab>Vārtt. 2</ab> -> <ab>Vārtt.</ab> 2
+remove: Vārtt. 2	<disp>?</disp>
+---
+<L>195583<pc>963,1<k1>vitF
+<ab>Caus</ab>: -> <ab>Caus.</ab>
+remove: Caus	<disp>?</disp> <count>ab,1</count>
+---
+old: ff.	<disp>?</disp>
+new: ff.	<disp>and the following ones</disp>
+---
+<L>84012<pc>443,1<k1>tAmasa
+old: <ls>Pravar. i, 1 (<ab>J</ab>)</ls>
+new: <ls>Pravar. i, 1 (J)</ls>
+remove mwab: J	<disp>?</disp>
+---
+<L>26943.3<pc>154,2<k1>Ava
+old: <ab>Loc</ab>. <s>Ava/yos</s>
+new: <ab>Loc.</ab> <s>Ava/yos</s>
+remove mwab: Loc	<disp>?</disp> 
+---
+old: masc.	<disp>?</disp>
+new: masc.	<disp>masculine</disp>
+---
+<L>257781<pc>1275,1<k1>sva
+old: N.B.	<disp>?</disp>
+new: N.B.	<disp>nota bene (note well)</disp> 
+---
+<L>75185<pc>403,1<k1>cOdrAyaRa
+old: <ab>p></ab> 1323
+new: <ab>p.</ab> 1323
+remove mwab: p>	<disp>?</disp>
+---
+<L>22293<pc>128,1<k1>Akenipa
+old: <ab>q̲.v.</ab>
+new: <ab>q.v.</ab>
+remove mwab: q̲.v.	<disp>?</disp> <count>ab,1</count>
+---
+old: sq.	<disp>?</disp> <count>ab,2</count>
+new: sq.	<disp>sequentia (the following one)</disp>
+---
+old: sqq.	<disp></disp> <count>ab,1</count>
+new: sqq.	<disp>sequentiae (the following ones)</disp>
+---
+<L>111813.1<pc>567,3<k1>nf
+<ab>st</ab>. -> <ab>st.</ab>
+remove mwab: st	<disp>?</disp> <count>ab,1</count>
+---
+old: subj.	<disp>?</disp>
+new: subj.	<disp>subjunctive</disp>
+---
+<L>99564<pc>509,2<k1>Danurdurga
+old: (<ab>v.l</ab> <s>Danva-</s>)
+new: (<ab>v.l.</ab> <s>Danva-</s>)
+
+<L>105268<pc>534,1<k1>nAgarika
+old: (<ab>v.l</ab> <s>°raka</s>)
+new: (<ab>v.l.</ab> <s>°raka</s>)
+
+Remove mwab: v.l	<disp>?</disp> <count>ab,2</count>
+---
+mwab
+old: Voc.	<disp>?</disp>
+new: Voc.	<disp>vocative case</disp> 
+---
+Ā	<disp>?</disp> <count>ab,9</count>
+<ab>Ā</ab> -> <ab>Ā.</ab>  9 occurrences changed in temp_mw_8
+remove mwab: Ā	<disp>?</disp> 
+---
+L. occurs 7 times as <ab>L.</ab>
+L. occurs 6 times as <lex>L.</lex>
+      41267 as <ls>L.</ls>
+Change <ab>L.</ab> to <ls>L.</ls>  7 occurrences
+Change <lex>L.</lex> to <ls>L.</ls> 6 occurrences
+Remove mwab: L.	<disp>lexicographers (i.e. a word or meaning which although give in native lexicons, has not yet been met with in any published text)</disp>
+
+---
+Add tooltips for two <lex>X</lex>
+nf.	<disp>neuter or feminine</disp>
+nm.	<disp>neuter or masculine</disp>
+---
+TODO: met.	<disp>?</disp> <count>ab,30</count>  need a tooltip!
+
+---
+old: <ab n="root">rt.</ab>
+new: <ab>rt.</ab>
+3 instances.
+---
+
+-----------------------------------------------------------------
+# rerun tips2
+
+python tips2.py lex,lang,ab ../temp_mw_8.txt mwab_input_4.txt mwab_input_5.txt
+880516 read from ../temp_mw_8.txt
+460 tips read from mwab_input_4.txt
+460 written to mwab_input_5.txt
+
+-----------------------------------------------------------------
+mwab_input_6.txt
+ Remove those with <count></count> These are unused. in temp_mw_8.txt.
+ 38 instances.
+ save as:
+ mwab_input_5_unused.txt
+ 
+-----------------------------------------------------------------
+04-15-2024
+# regenerate change_7_8
+python diff_to_changes_dict.py temp_mw_7.txt temp_mw_8.txt change_7_8.txt
+40 changes written to change_7_8.txt
+
+# from tooltips directory:
+cp mwab_input_6.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/mw/pywork/mwab/mwab_input.txt
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Unexpected glitch
+The change (from change_7_8.txt
+; <L>15014<pc>86,2<k1>araGawwa<k2>ara—Gawwa<e>3
+;54627 old <s>ara—Gawwa</s> ¦ <lex>m.</lex> a wheel or machine for raising water from a well (<lang>Hind.</lang> <lang script="Arabic" n="Hindustani">ارهٿ</lang>), <ls>Pañcat.</ls><info lex="m"/>
+; ***************
+; next change does not work - some  error from xmlvalidate
+; ***************
+; 54627 new <s>ara—Gawwa</s> ¦ <lex>m.</lex> a wheel or machine for raising water from a well (<lang n="Hindūstānī">Hind.</lang> <lang script="Arabic" n="Hindustani">ارهٿ</lang>), <ls>Pañcat.</ls><info lex="m"/>
+
+Here is error from xmlvalidate
+python3 ../../xmlvalidate.py ../../mw/pywork/mw.xml ../../mw/pywork/mw.dtd
+Problem validating
+Traceback (most recent call last):
+  File "C:\xampp\htdocs\cologne\xmlvalidate.py", line 29, in <module>
+    validate(xmlfile,dtdfile)
+  File "C:\xampp\htdocs\cologne\xmlvalidate.py", line 21, in validate
+    print(errmsg)
+  File "C:\Users\jimfu\AppData\Local\Programs\Python\Python39\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\u1e5b' in position 77: character maps to <undefined>
+
+SOLUTION: change one.dtd.
+Apparently the problem occurs when lxml generates an error message when
+an 'invalid' (xml doesn't agree with dtd) message. Probably because
+being run on Windows.  Could be that my version of lxml is incompatible
+with Python 3.9 on Windows.
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+------------------------------
+display problem.
+For araGawwa, there is no tooltip for 'Hind.'
+<lang n="Hindūstānī">Hind.</lang>
+
+Probably basicadjust (or basicdisplay) need tweaking.
+
+<i>Hind.</i> missing 'title' attribute
+and <i>ارهٿ</i>  should not be italic
+
+04-16-2024
+To solve this display problem, it seems necessary to use the 'gk' and 'arab'
+tags, instead of <lang n="greek">X</lang>
+
+python lang_to_tag.py temp_mw_8.txt temp_mw_9.txt
+
+40 matches in 38 lines for "<lang script="Arabic" n="Persian">"
+In some of these, there is no <lang>Pers.</lang>.
+Example:
+<L>62463<pc>342,3<k1>gaYja<k2>gaYja<h>2<e>1
+<hom>2.</hom> <s>gaYja</s> ¦ <lex>mn.</lex> = <lang script="Arabic" n="Persian">گنج</lang> a treasury
+
+If we change this to
+<hom>2.</hom> <s>gaYja</s> ¦ <lex>mn.</lex> = <arab>گنج</arab> a treasury
+
+then we have lost the information that this is a word in the Persian language.
+
+<lang>Pers.</lang> <lang script="Arabic" n="Persian">هندي</lang>
+
+-----------------------
+solution:
+Add 'lang' attribute to 'arab' tag
+(So 'arab' tag represents 'arabic script'.
+ <arab>X</arab>  X is in Arabic language and Arabic script
+ <arab lang="LANGNAME">X</arab>  X is in LANGNAME language and Arabic script
+Minor adjustments to basicadjust.php and basicdisplay.php
+Note: there still remain 8 instances of <lang n="Y">X</lang>
+---------------------------------------------------------
+For possible reference, generate change_8_9.txt 
+python diff_to_changes_dict.py temp_mw_8.txt temp_mw_9.txt change_8_9.txt
+828 changes written to change_8_9.txt
+
+---------------------------------------------------------
+For possible reference, generate change_0_8.txt 
+python diff_to_changes_dict.py temp_mw_0.txt temp_mw_8.txt change_0_8.txt
+2343 changes written to change_0_8.txt
+
+change_0_8.txt along with change_8_9.txt provide all changes to mw.txt
+
+---------------------------------------------------------
+Installation of csl-orig, csl-pywork, csl-websanlexicon, csl-apidev
+
+# install version 9 of mw.txt into csl-orig
+cp temp_mw_9.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+
+# recompute local installation
+
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok
+
+# sync to github
+--- csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "MW lang tag and related.
+Ref: https://github.com/sanskrit-lexicon/mws/issues/65"
+
+#  1 file changed, 2553 insertions(+), 2553 deletions(-)
+
+git push
+
+--- csl-pywork
+cd /c/xampp/htdocs/cologne/csl-pywork
+git status
+#       modified:   v02/distinctfiles/mw/pywork/mwab/mwab_input.txt
+        modified:   v02/makotemplates/pywork/one.dtd
+
+git add .
+git commit -m "MW lang tag and related.
+Ref: https://github.com/sanskrit-lexicon/mws/issues/65"
+
+git push
+
+--- csl-websanlexicon
+cd /c/xampp/htdocs/cologne/csl-websanlexicon
+git status
+#       modified:   v02/distinctfiles/mw/websanlexicon/mwab/mwab_input.txt
+        modified:   v02/makotemplates/websanlexicon/one.dtd
+
+git add .
+git commit -m "MW lang tag and related.
+Ref: https://github.com/sanskrit-lexicon/mws/issues/65"
+
+ 2 files changed, 12 insertions(+), 5 deletions(-)
+
+git push
+
+--- csl-apidev
+cd /c/xampp/htdocs/cologne/csl-apidev
+git status
+        modified:   basicadjust.php
+        modified:   basicdisplay.php
+
+git add .
+git commit -m "MW lang tag and related.
+Ref: https://github.com/sanskrit-lexicon/mws/issues/65"
+
+ 2 files changed, 12 insertions(+), 5 deletions(-)
+
+git push
+
+---------------------------------------------------------
+
+install changes to cologne server from repositories
+ csl-orig, csl-pywork, csl-websanlexicon, csl-apidev
+
+recompute mw displays in csl-pywork/v02 at cologne server
+---------------------------------------------------------
+zip temp_mw_9.zip temp_mw_9.txt
+
+push this MWS repository to github
+
+in addition to this readme.txt file, additional files this commit:
+        change_0_8.txt
+        change_7_8.txt
+        change_7_8_prev.txt
+        change_8_9.txt
+        lang_to_tag.py
+        tooltips/mwab_input_1.txt
+        tooltips/mwab_input_2.txt
+        tooltips/mwab_input_2_lang.AB.txt
+        tooltips/mwab_input_3.txt
+        tooltips/mwab_input_4.txt
+        tooltips/mwab_input_5.txt
+        tooltips/mwab_input_5_unused.txt
+        tooltips/mwab_input_6.txt
+        tooltips/tips1.py
+        tooltips/tips2.py
+
+
+---------------------------------------------------------
+THE END
