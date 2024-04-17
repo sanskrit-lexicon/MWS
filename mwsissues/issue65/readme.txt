@@ -858,4 +858,62 @@ in addition to this readme.txt file, additional files this commit:
 
 
 ---------------------------------------------------------
+04-17-2024
+---
+revise mwab_input.txt (in csl-pywork)
+Ref: https://github.com/sanskrit-lexicon/mws/issues/65#issuecomment-2060400207
+---
+# happened to notice ',;' in mw.txt
+cp temp_mw_9.txt temp_mw_10.txt
+# Revise temp_mw_10.txt
+# generate change file for possible reference
+python diff_to_changes_dict.py temp_mw_9.txt temp_mw_10.txt change_9_10.txt
+
+---------------
+revise csl-orig and sync to github
+
+cp temp_mw_10.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+
+# recompute local installation
+
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok
+
+# sync to github
+--- csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig
+git add .
+git commit -m "MW minor corrections re ',;' 
+Ref: https://github.com/sanskrit-lexicon/mws/issues/65"
+
+#  1 file changed, 2553 insertions(+), 2553 deletions(-)
+
+git push
+-------------
+cd /c/xampp/htdocs/cologne/csl-pywork
+git add .
+git commit -m "mwab_input revised
+Ref: https://github.com/sanskrit-lexicon/mws/issues/65"
+
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+
+git push
+
+---------------
+install changes to cologne server from repositories
+ csl-orig, csl-pywork
+
+recompute mw displays in csl-pywork/v02 at cologne server
+
+---------------
+Revise this repo.
+cd /c/xampp/htdocs/sanskrit-lexicon/mws/mwsissues/issue65
+git add .
+git commit -m "#65 revise mwab_input"
+git push
+
+# Close issue
+---------------------------------------------------------
 THE END
