@@ -916,4 +916,47 @@ git push
 
 # Close issue
 ---------------------------------------------------------
+04-24-2024
+ Possible Revisions to mwab_input and mw.txt based on comments:
+ https://github.com/sanskrit-lexicon/mws/issues/65#issuecomment-2068039919
+   and next two comments (from gasyoun and andhrabharati
+Note: some corrections were made to mwab_input in csl-pywork.
+cd tooltips
+cp /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/mw/pywork/mwab/mwab_input.txt mwab_input_7.txt
+
+manual edit mwab_input_7.txt and make corrections needed.
+only 1 change (remove period:
+Old: <disp>Slavonic or Slavonian.</disp>
+new: <disp>Slavonic or Slavonian</disp>
+Question
+Śākārī	<disp>a Śaka dialect</disp>
+Śākārī	<disp>a Prākṛt dialect</disp>  ? better
+
+manual change to mw:
+AB noted :
+ Just noticed that my file had lagauge (instead of language) at 5 places
+However, this is not found in the current mw.txt of csl-orig.
+Thus no change here
+cd ../
+cp temp_mw_10.txt temp_mw_11.txt
+----------------
+Install change to mwab_input in csl-pywork
+
+cp mwab_input_7.txt /c/xampp/htdocs/cologne/csl-pywork/v02/distinctfiles/mw/pywork/mwab/mwab_input.txt
+
+----------------
+Request by gasyoun to have counts which aggregate over tooltips
+We do this by reading the latest mwab_input
+mwab_input has counts per Abbreviation.
+We want to have summary 'by tooltip' (aggregating minor changes in abbreviation)
+
+cp tips2.py tips2_tipcount.py
+
+python tips2_tipcount.py mwab_input_7.txt mwab_tipcount.txt
+422 tip records read from mwab_input_7.txt
+311 written to mwab_tipcount.txt
+
+
+
+---------------------------------------------------------
 THE END

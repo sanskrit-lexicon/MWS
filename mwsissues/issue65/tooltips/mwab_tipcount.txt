@@ -1,0 +1,311 @@
+33010	f.,fem.	<disp>feminine</disp>
+   35	fn.	<disp>feminine or neuter</disp>
+ 5646	ind.,Ind.	<disp>indeclinable</disp>
+66818	m.	<disp>masculine gender</disp>
+  262	mf.	<disp>masculine, feminine </disp>
+58221	mfn.	<disp>masculine, feminine and neuter; or = adjective</disp>
+  598	mn.	<disp>masculine or neuter</disp>
+34738	n.	<disp>neuter gender</disp>
+   28	nf.	<disp>neuter or feminine</disp>
+    1	nm.	<disp>neuter or masculine</disp>
+  139	A.S.,Angl.-Sax.,Angl.S.,Angl.Sax.	<disp>Anglo-Saxon</disp>
+    4	Aeol.	<disp>AEolic</disp>
+    1	Afghan.	<disp>Pashto, a language of Afghanistan</disp>
+    7	Apabhraṃśa	<disp>a Prākṛt dialect, used in Jaina literature, also the Jaina Prākṛt</disp>
+   18	Arab,Arab.,Arabic	<disp>Arabic</disp>
+    3	Arm.	<disp>Armorican or the language of Brittany</disp>
+    6	Armen.	<disp>Armenian</disp>
+    5	Avantī,Paiśācī,Prācyā,Śaurasenī	<disp>a Prākṛt dialect</disp>
+    8	Beng.,Bengālī	<disp>Bengālī language</disp>
+    5	Cambro-Brit.	<disp>Cambro-Briton, or Welsh</disp>
+   66	Class.,class.,class. Sanskṛt,Class. Sanskṛt,classical Sanskṛt	<disp>Classical Sanskṛt</disp>
+    1	Dor.	<disp>Doric</disp>
+  223	E.,Eng.,Engl.,English	<disp>English</disp>
+  345	ep.	<disp>Epic Sanskṛt</disp>
+    3	Fr.,French	<disp>French</disp>
+    4	Gaël.,Gaëlic	<disp>Gaëlic</disp>
+  217	Germ.	<disp>German</disp>
+  518	Gk.	<disp>Greek</disp>
+  211	Got.,Goth.	<disp>Gothic</disp>
+    8	HGerm.	<disp>High German</disp>
+   54	Hib.	<disp>Hibernian or Irish</disp>
+    4	Hind.	<disp>Hindī (in Devanagari script) or Hindūstānī (in Urdu script)</disp>
+   10	Hindī	<disp>Hindī</disp>
+    2	Hindūstānī	<disp>Hindūstānī, also known as Urdu</disp>
+    3	Icel.	<disp>Icelandic</disp>
+    1	Ion.	<disp>Ionic</disp>
+    2	Irish	<disp>Irish, language of Ireland</disp>
+    5	Jaina Prākṛt	<disp>a Prākṛt dialect, used in Jaina literature, also the Apabhraṃśa</disp>
+    1	Kanarese	<disp>a South Indian laguage, used in North Karnataka region</disp>
+    1	Kelt.	<disp>Keltic (or Celtic)</disp>
+  539	Lat.	<disp>Latin</disp>
+    8	later Sanskṛt,later Skr.	<disp>later Sanskṛt</disp>
+    2	Lett.	<disp>Lettish</disp>
+  211	Lit.,Lith.	<disp>Lithuanian</disp>
+    9	Mahratta,Mahrattī,Marāṭhī,Māhārāṣṭrī	<disp>a Prākṛt dialect, used in Māhārāṣṭra region</disp>
+    1	Malayālam	<disp>a South Indian laguage, used in Kerala region</disp>
+    1	medieval Lat.	<disp>medieval Latin</disp>
+    3	Mod. Eng.	<disp>Modern English</disp>
+   34	Mod. Germ.	<disp>Modern German</disp>
+    1	modern Sanskṛt	<disp>modern Sanskṛt</disp>
+    2	Māgadhī	<disp>a Prākṛt dialect, used in Magadha region</disp>
+    1	NHGerm.	<disp>New High German</disp>
+    3	O. E.	<disp>Old English</disp>
+   22	O. H. G.,Old HGerm.,Old High Germ.	<disp>Old High German</disp>
+    1	O. N.	<disp>Old Norse</disp>
+    7	O. Pers.,Old Pers.,Old Persian	<disp>Old Persian</disp>
+    7	O. Pr.,O. Pruss.,Old Pruss.	<disp>Old Prussian</disp>
+    2	O. Slav.,Old Slav.	<disp>Old Slavic</disp>
+   44	OGerm.,Old Germ.	<disp>Old German</disp>
+    3	Old Lat.	<disp>Old Latin</disp>
+    2	Old Prākṛt	<disp>Old Prākṛt</disp>
+    8	Old S.,Old Sax.,OSax.	<disp>Old Saxon</disp>
+    1	Osk.	<disp>Oskan</disp>
+    1	Osset.	<disp>Ossetic</disp>
+   29	Pers.,Persian	<disp>Persian</disp>
+    1	Pol.	<disp>Polish</disp>
+    1	Pruss.	<disp>Prussian</disp>
+  246	Prākṛ.,Prākṛt	<disp>Prākṛt</disp>
+   32	Pāli	<disp>a Prākṛt dialect, used in Buddhist literature, also the Māgadhī</disp>
+   11	Russ.	<disp>Russian</disp>
+   51	Sanskṛt	<disp>Sanskṛt</disp>
+    1	Sinhalese	<disp>Sinhalese</disp>
+    2	Sk.	<disp>Sanskrit</disp>
+  116	Sl.,Slav.	<disp>Slavonic or Slavonian</disp>
+    4	Tamil	<disp>a South Indian laguage, used in Tamil region</disp>
+    3	Telugu	<disp>a South Indian laguage, used in Andhra region</disp>
+    1	Tibetan	<disp>Tibetan</disp>
+    1	Tulu	<disp>a South Indian laguage, used in South Karnataka region</disp>
+    1	Umbr.	<disp>Umbrian</disp>
+  635	Ved.	<disp>Vedic Sanskṛt</disp>
+    1	W.	<disp>Welsh, or Cambro-Briton</disp>
+  163	Z.,Zd.,Zend	<disp>Zend</disp>
+    1	Śākārī	<disp>a Śaka dialect</disp>
+  141	A.D.	<disp>anno Domini, in the year of the Lord</disp>
+ 1059	abl.,Abl.	<disp>ablative case</disp>
+    1	absol.	<disp>absolutive</disp>
+   59	abstr.	<disp>abstract</disp>
+ 2698	acc.,Acc.	<disp>accusative case OR according</disp>
+  954	accord.	<disp>according (to)</disp>
+   13	act.	<disp>active</disp>
+   34	add.	<disp>additions</disp>
+   38	adj.	<disp>adjective (cf. mfn.)</disp>
+   50	adv.	<disp>adverb</disp>
+   53	alg.	<disp>algebra</disp>
+    9	anat.	<disp>anatomy</disp>
+    7	anom.	<disp>anomalous</disp>
+ 1530	Aor.,aor.	<disp>Aorist</disp>
+  106	arithm.	<disp>arithmetic</disp>
+  270	astr.,astron.	<disp>astronomy</disp>
+  120	astrol.	<disp>astrology</disp>
+  240	B,B.,Bomb.	<disp>Bombay edition</disp>
+   13	B.C.	<disp>before Christ</disp>
+    2	Buddh.	<disp>Buddhist</disp>
+  100	C,C.,Calc.	<disp>Calcutta edition</disp>
+   16	c.	<disp>case</disp>
+ 3057	Caus.	<disp>Causal, Causative</disp>
+    3	caus.	<disp>causal</disp>
+11934	cf.,Cf.	<disp>confer, compare</disp>
+  562	ch.	<disp>chapter</disp>
+   43	chs.	<disp>chapters</disp>
+ 2475	cl.	<disp>class</disp>
+  681	col.	<disp>column</disp>
+    4	coll.	<disp>collectively</disp>
+   62	cols.	<disp>columns</disp>
+ 1802	Comm.	<disp>commentator or commentary</disp>
+   39	Comms.	<disp>commentators or commentaries</disp>
+ 3470	comp.	<disp>compound or Comparative degree</disp>
+  198	compar.,Compar.	<disp>Comparative degree</disp>
+    2	comps.	<disp>compounds</disp>
+    7	Concl.	<disp>conclusion</disp>
+    3	concr.	<disp>concrete</disp>
+   33	Cond.,cond.	<disp>Conditional</disp>
+   17	conj.,Conj.	<disp>conjectural</disp>
+    3	cons.	<disp>consonant</disp>
+    2	contr.	<disp>contraction</disp>
+    1	corr.	<disp>correct(ly)</disp>
+    7	correl.	<disp>correlative</disp>
+  680	dat.,Dat.	<disp>dative case</disp>
+    5	defect.	<disp>defective</disp>
+    8	deriv.	<disp>derived</disp>
+  956	Des.,Desid.	<disp>Desiderative</disp>
+    4	Desid. Caus.	<disp>Desiderative Causal</disp>
+    1	Desid. Pass.	<disp>Desiderative Passive</disp>
+   32	dimin.	<disp>diminutive</disp>
+  174	dram.	<disp>dramatic language</disp>
+  948	du.	<disp>dual number</disp>
+ 1280	e.g.	<disp>exempli gratia, ‘for example’</disp>
+  105	ed.	<disp>edition</disp>
+    5	encl.	<disp>enclitic</disp>
+ 1367	esp.	<disp>especially</disp>
+    7	etc.	<disp>et cetera, and so on</disp>
+   48	etym.,etymol.	<disp>etymology</disp>
+    1	exc.	<disp>except</disp>
+    1	Feb.	<disp>February</disp>
+    1	ff.	<disp>and the following ones</disp>
+  250	fig.	<disp>figuratively</disp>
+ 7590	fr.	<disp>from</disp>
+  658	Fut.,fut.	<disp>future</disp>
+    1	fut.Pass.p.	<disp>future passive participle</disp>
+    7	G,G.	<disp>Gaspard Gorresio Italian edition</disp>
+ 4328	g.	<disp>gaṇa</disp>
+ 1678	gen.,Gen.	<disp>genitive case</disp>
+   39	geom.	<disp>geometry</disp>
+    3	Gorresio	<disp>Gaspard Gorresio</disp>
+    2	Govind.	<disp>Govinda</disp>
+  971	Gr.	<disp>Grammar.</disp>
+  318	gr.,Gram.,gram.,Gramm.	<disp>grammar</disp>
+   14	gramm.	<disp>grammar or grammatical</disp>
+ 1547	i.e.	<disp>id est, or ‘that is’</disp>
+  285	ib.	<disp>ibidem or ‘in the same place or book or text’ as the preceding</disp>
+  323	ibc.	<disp>in the beginning of a compound</disp>
+ 4491	id.	<disp>idem or ‘the same meaning as that of a preceding word’</disp>
+    1	ident.	<disp>identical</disp>
+ 3440	ifc.	<disp>in fine compositi or ‘at the end of a compound’</disp>
+  574	Imp.,imp.,Imper.,Impv.,impv.	<disp>imperative</disp>
+  233	impers.	<disp>impersonal or used impersonally</disp>
+  426	impf.,Impf.	<disp>imperfect tense</disp>
+ 1248	ind.p.	<disp>indeclinable participle</disp>
+    2	Indic.	<disp>indicative (= optative)</disp>
+  932	inf.,Inf.	<disp>infinitive mood</disp>
+ 1673	inst.,Inst.,instr.	<disp>instrumental case</disp>
+  634	Intens.,intens.	<disp>Intensive</disp>
+    2	interj.	<disp>interjection</disp>
+    3	interpol.	<disp>interpolation</disp>
+    6	interr.,interrog.	<disp>interrogative</disp>
+   87	intr.,intrans.	<disp>intransitive</disp>
+  205	Introd.,introd.	<disp>Introduction</disp>
+   94	irr.,irreg.	<disp>irregular</disp>
+    6	lang.	<disp>language</disp>
+    1	latit.	<disp>latitude</disp>
+    2	lbs.	<disp>pounds</disp>
+    7	Lin.	<disp>Carl Linnaeus</disp>
+  220	lit.	<disp>literally</disp>
+ 2072	Loc.,loc.	<disp>locative case</disp>
+   15	log.	<disp>logic</disp>
+    6	long.	<disp>longitude</disp>
+  230	m.c.,mc.	<disp>metri causa, or ‘for the sake of the meter’ in poetry</disp>
+    1	masc.	<disp>masculine</disp>
+   37	math.,mathem.	<disp>mathematics</disp>
+  138	med.,medic.	<disp>medicine</disp>
+   33	met.,metaph.	<disp>metaphorically</disp>
+  214	metr.,metron.	<disp>metronymic</disp>
+    2	Mr.	<disp>Mister</disp>
+   23	MS.	<disp>manuscript</disp>
+   15	MSS.	<disp>manuscripts</disp>
+   27	mus.	<disp>music</disp>
+    9	myst.,mystic.	<disp>mystical</disp>
+   13	myth.,mythol.	<disp>mythology</disp>
+47894	N.	<disp>Name (also = title or epithet)</disp>
+    1	N.B.	<disp>nota bene (note well)</disp>
+    1	N.E.	<disp>north-east</disp>
+    4	N.W.	<disp>north-west</disp>
+    1	necess.	<disp>necessitative</disp>
+  154	neg.,negat.	<disp>negative</disp>
+    9	neut.	<disp>neuter</disp>
+ 1306	Nom.	<disp>Nominal verb</disp>
+  591	nom.	<disp>nominative case</disp>
+    2	nomin.	<disp>nominative</disp>
+    1	Nov.	<disp>November</disp>
+    1	num.	<disp>number</disp>
+    1	obl.	<disp>oblique</disp>
+    4	obs.	<disp>obsolete</disp>
+    2	Oct.	<disp>October</disp>
+    3	onom.,onomatop.	<disp>onomatopoetic</disp>
+  107	onomat.	<disp>onomatopoetic (i.e. formed from imitation of sounds)</disp>
+  455	opp.	<disp>opposed</disp>
+   34	Opt.	<disp>optative</disp>
+   57	orig.,Orig.	<disp>originally</disp>
+   10	oxyt.	<disp>oxytone, having an acute accent on last syllable</disp>
+    1	ozs.	<disp>ounces</disp>
+ 6216	P.	<disp>Parasmai-pada</disp>
+ 1552	p.	<disp>page or participle (cf. p.p.)</disp>
+  100	p.p.,pp.	<disp>past participle</disp>
+    1	p.p.p.	<disp>perfect passive participle</disp>
+   24	Paddh.	<disp>Paddhati, guide book or manual</disp>
+    6	parox.	<disp>paroxytone, having an acute accent on penultimate syllable</disp>
+   17	part.	<disp>participle</disp>
+ 3715	partic.	<disp>particular</disp>
+  977	Pass.,pass.	<disp>Passive voice</disp>
+ 1718	patr.,patron.	<disp>patronymic</disp>
+ 1258	perf.,pf.	<disp>perfect tense</disp>
+    4	perh.	<disp>perhaps</disp>
+    2	periphr.	<disp>periphrastic</disp>
+   76	pers.	<disp>person</disp>
+  232	phil.,Phil.,philos.	<disp>philosophy</disp>
+ 5390	pl.	<disp>plural number</disp>
+    4	plur.	<disp>plural</disp>
+    2	plusq.	<disp>plusquamperfect, pluperfect</disp>
+   44	poet.	<disp>poetry or poetic</disp>
+    1	polit.	<disp>politics</disp>
+    1	possess.	<disp>possessive</disp>
+  358	Pot.	<disp>Potential</disp>
+    1	Pr.	<disp>proper</disp>
+   77	pr.	<disp>present</disp>
+  379	pr. p.,pr.p.,pres.p.	<disp>present participle</disp>
+  133	Prec.	<disp>precative or preceding</disp>
+  584	prec.	<disp>preceding</disp>
+    2	pref.	<disp>preface</disp>
+   45	prep.,prepos.	<disp>preposition</disp>
+   84	pres.,Pres.	<disp>present tense</disp>
+    5	priv.	<disp>privative</disp>
+ 2034	prob.,Prob.	<disp>probably</disp>
+   41	pron.	<disp>pronoun</disp>
+   26	pronom.	<disp>pronominal</disp>
+    6	prop.,proparox.	<disp>proparoxytone, or stress on third last syllable</disp>
+    1	pros.	<disp>prosody</disp>
+    1	prosod.	<disp>prosody, prosodical</disp>
+    1	Prākr.	<disp>Prākṛit</disp>
+ 3648	q.v.	<disp>quod vide, which see</disp>
+  103	qq.v.,qq.vv.	<disp>quae vide, which see</disp>
+    3	quot.	<disp>quotation</disp>
+    1	Rec.	<disp>Recension </disp>
+   14	redupl.	<disp>reduplicated</disp>
+    2	reflex.	<disp>Reflexive or used reflexively</disp>
+    5	rel.,relat.	<disp>relative</disp>
+    2	relig.	<disp>religion</disp>
+  210	rhet.	<disp>rhetoric</disp>
+    3	rhetor.	<disp>rhetoric, rhetorical</disp>
+    3	rt.	<disp>root</disp>
+    1	RV.	<disp>Ṛg-veda</disp>
+    1	S.	<disp>south</disp>
+    2	S.E.	<disp>south-east</disp>
+  572	s.v.	<disp>sub voce, i.e. the word in the Sanskrit order</disp>
+    1	S.W.	<disp>south-west</disp>
+    2	sacrif.	<disp>sacrificial</disp>
+  102	sc.	<disp>scilicet, or ‘that is to say’, ‘namely’</disp>
+ 5486	Sch.,Schol.	<disp>Scholiast or Commentator</disp>
+  568	scil.	<disp>scilicet</disp>
+    1	Sept.	<disp>September</disp>
+   32	seq.	<disp>sequens, the following one</disp>
+   45	seqq.	<disp>sequentia, the following ones</disp>
+  276	sev.	<disp>several</disp>
+ 1531	sg.,sing.	<disp>singular number</disp>
+    2	sq.	<disp>sequentia (the following one)</disp>
+    1	sqq.	<disp>sequentiae (the following ones)</disp>
+   16	ss.vv.	<disp>sub vocibus, i.e. the word(s) in the Sanskrit order</disp>
+    1	st.	<disp>Stadt (German); instead of</disp>
+    1	St.	<disp>Saint</disp>
+  476	Subj.,subj.	<disp>subjunctive</disp>
+   28	subst.	<disp>substantive</disp>
+    2	suff.	<disp>suffix</disp>
+  242	superl.,Superl.	<disp>superlative degree</disp>
+    3	surg.	<disp>surgery</disp>
+    1	SV.	<disp>Sāma-Veda </disp>
+    7	Them.,Thema,Theme	<disp>Thema or base</disp>
+   69	trans.	<disp>transitive</disp>
+    1	Transl.	<disp>translation</disp>
+    2	Up.,Upan.	<disp>Upaniṣad</disp>
+ 3662	v.l.,vv.ll.	<disp>varia lectio, or ‘variant reading or readings’</disp>
+   12	v.r.	<disp>variant reading</disp>
+    1	vb.	<disp>verb</disp>
+  398	viz.	<disp>namely, in other words. From Latin videlicet</disp>
+  149	voc.,Voc.	<disp>vocative case</disp>
+    1	vocat.	<disp>vocative</disp>
+    2	vow.	<disp>vowel</disp>
+ 1058	Vārt.,Vārtt.	<disp>Vārttika</disp>
+ 2074	w.r.	<disp>wrong reading</disp>
+12434	wk.	<disp>work</disp>
+  102	wks.	<disp>works</disp>
+   14	YV,YV.	<disp>Yajur-Veda</disp>
+ 3976	Ā.	<disp>Ātmane-pada</disp>
