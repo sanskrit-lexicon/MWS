@@ -935,10 +935,7 @@ Question
 manual change to mw:
 AB noted :
  Just noticed that my file had lagauge (instead of language) at 5 places
-However, this is not found in the current mw.txt of csl-orig.
-Thus no change here
-cd ../
-cp temp_mw_10.txt temp_mw_11.txt
+ mwab_input_7.txt edited and change made
 ----------------
 Install change to mwab_input in csl-pywork
 
@@ -955,8 +952,6 @@ cp tips2.py tips2_tipcount.py
 python tips2_tipcount.py mwab_input_7.txt mwab_tipcount.txt
 422 tip records read from mwab_input_7.txt
 311 written to mwab_tipcount.txt
-
-
 
 ---------------------------------------------------------
 THE END
