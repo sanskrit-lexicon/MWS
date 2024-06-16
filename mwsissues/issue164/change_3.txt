@@ -1,0 +1,50 @@
+; <L>33378<pc>190,2<k1>udBU<k2>ud-BU<h>2<e>2
+118586 old <hom>2.</hom> <s>ud-BU</s> ¦ <lex>mf(<s>BvI/</s>)n.</lex> (<s>Bu/<shortlong/></s>) ‘being up to what is wanted’, sufficient<info lex="m:f#BvI:n"/>
+;
+118586 new <hom>2.</hom> <s>ud-BU</s> ¦ <lex>mf(<s>BvI/</s>)n.</lex> (<s>Bu/</s> or <s>BU/</s>) ‘being up to what is wanted’, sufficient<info lex="m:f#BvI:n"/>
+;---------------------------------------------------
+; <L>100607<pc>513,2<k1>DA<k2>DA<h>1<e>1
+338587 old (<ab>pf.</ab> <ab>P.</ab> <s>daDO/</s>, <s>°DA/Ta</s>, <s>°Datur</s>, <s>°DimA/<shortlong/></s>, <s>°Dur</s>, <ls>RV.</ls> &c.;
+;
+338587 new (<ab>pf.</ab> <ab>P.</ab> <s>daDO/</s>, <s>°DA/Ta</s>, <s>°Datur</s>, <s>°DimA/</s> or <s>°Dima/</s>, <s>°Dur</s>, <ls>RV.</ls> &c.;
+;---------------------------------------------------
+; <L>100607<pc>513,2<k1>DA<k2>DA<h>1<e>1
+338602 old <ab>Impv.</ab> <s>DizvA/<shortlong/></s>, <ls n="RV.">ii, 11, 18</ls>, &c.;
+;
+338602 new <ab>Impv.</ab> <s>DizvA/</s> or <s>Dizva/</s>, <ls n="RV.">ii, 11, 18</ls>, &c.;
+;---------------------------------------------------
+; <L>109667<pc>555,2<k1>nirDUta<k2>nir-DUta<e>3
+369482 old <s>nir-°DUta</s> ¦ <lex>mfn.</lex> shaken, agitated &c., <ls>Mn.</ls>; <ls>MBh.</ls> &c. (also <s>-Du/<shortlong/>ta</s>)<info lex="m:f:n"/>
+;
+369482 new <s>nir-°DUta</s> ¦ <lex>mfn.</lex> shaken, agitated &c., <ls>Mn.</ls>; <ls>MBh.</ls> &c. (also <s>-Du/ta</s> or <s>-DU/ta</s>)<info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>112031<pc>568,2<k1>nft<k2>nft<h>1<e>1
+377715 old <div n="vp"/><ab>Intens.</ab> <s>narinartti</s> or <s>narInartti</s><shortlong/>, <ls>Var.</ls>; <ls>Kāv.</ls> <pb n="568,3"/>;
+;
+377715 new <div n="vp"/><ab>Intens.</ab> <s>narinartti</s> or <s>narInartti</s>, <ls>Var.</ls>; <ls>Kāv.</ls> <pb n="568,3"/>;
+;---------------------------------------------------
+; <L>112031<pc>568,2<k1>nft<k2>nft<h>1<e>1
+377717 old <div n="to"/> <s>narnartti</s>, <s>narnftIti</s>, <s>narinftIti</s> or <s>narInftIti</s> <shortlong/><ab>Gr.</ab>, to dance about or cause to dance about (<ab>cf.</ab> <s>naw</s>). <info westergaard="nftI,26.9,04.0009"/><info whitneyroots="nft,92"/><info verb="genuineroot" cp="4P"/>
+;
+377717 new <div n="to"/> <s>narnartti</s>, <s>narnftIti</s>, <s>narinftIti</s> or <s>narInftIti</s> <ab>Gr.</ab>, to dance about or cause to dance about (<ab>cf.</ab> <s>naw</s>). <info westergaard="nftI,26.9,04.0009"/><info whitneyroots="nft,92"/><info verb="genuineroot" cp="4P"/>
+;---------------------------------------------------
+; <L>126299<pc>636,2<k1>puru<k2>puru/<e>1
+425573 old <s>puru/</s> ¦ <lex>mf(<s>pUrvI/</s>)n.</lex> (√ <s>pF</s>) much, many, abundant (only <s>purU</s> or <s>puru</s>, <s>°rU/Ri</s>, <s>°rURAm</s> and <ab>sev.</ab> cases of <lex type="hwinfo">f.</lex> <s>pUrvI</s>; in later language only <ab>ibc.</ab>), <ls>RV.</ls> &c. &c. (<s>°ru/<shortlong/></s>. much, often, very [also with a <ab>compar.</ab> or <ab>superl.</ab>]; with <s>simA</s>, everywhere; with <s>tira/s</s>, far off, from afar; <s>purA<srs/>ru/</s>, far and wide; <s>puru/ vi/Sva</s>, one and all, every, <ls>RV.</ls>)<info lex="m:f#pUrvI:n"/>
+;
+425573 new <s>puru/</s> ¦ <lex>mf(<s>pUrvI/</s>)n.</lex> (√ <s>pF</s>) much, many, abundant (only <s>purU</s> or <s>puru</s>, <s>°rU/Ri</s>, <s>°rURAm</s> and <ab>sev.</ab> cases of <lex type="hwinfo">f.</lex> <s>pUrvI</s>; in later language only <ab>ibc.</ab>), <ls>RV.</ls> &c. &c. (<s>°ru/</s> or <s>°rU/</s>. much, often, very [also with a <ab>compar.</ab> or <ab>superl.</ab>]; with <s>simA</s>, everywhere; with <s>tira/s</s>, far off, from afar; <s>purA<srs/>ru/</s>, far and wide; <s>puru/ vi/Sva</s>, one and all, every, <ls>RV.</ls>)<info lex="m:f#pUrvI:n"/>
+;---------------------------------------------------
+; <L>142082<pc>718,1<k1>Palgu<k2>Palgu/<e>1
+478429 old <s>Palgu/</s> ¦ <lex>mf(<s>U/<shortlong/></s>, or <s>vI</s>)n.</lex> reddish, red, <ls>TS.</ls><info lex="m:f#U:f#u:f#vI:n"/>
+;
+478429 new <s>Palgu/</s> ¦ <lex>mf(<s>U/</s> or <s>u/</s> or <s>vI</s>)n.</lex> reddish, red, <ls>TS.</ls><info lex="m:f#U:f#u:f#vI:n"/>
+;---------------------------------------------------
+; <L>223393<pc>1100,3<k1>Sru<k2>Sru<h>1<e>1
+743691 old <ab>Impv.</ab> <s>SfRu</s>, <s>°RuDI/<shortlong/></s> and <s>°RuhI/<shortlong/></s> <ab>pl.</ab> <s>SfRutA/<shortlong/></s>, <s>°Rota</s> and <s>°Rotana</s>, <ls>RV.</ls>;
+;
+743691 new <ab>Impv.</ab> <s>SfRu</s>, <s>°RuDI/</s> or <s>°RuDi/</s> and <s>°RuhI/</s> or <s>°Ruhi/</s> <ab>pl.</ab> <s>SfRutA/</s> or <s>SfRuta/</s>, <s>°Rota</s> and <s>°Rotana</s>, <ls>RV.</ls>;
+;---------------------------------------------------
+; <L>223393<pc>1100,3<k1>Sru<k2>Sru<h>1<e>1
+743697 old <ab>Impv.</ab> <s>SruDI/<shortlong/></s>, <s>Sro/tu</s>, <ls>RV.</ls>;
+;
+743697 new <ab>Impv.</ab> <s>SruDI/</s> or <s>SruDi/</s>, <s>Sro/tu</s>, <ls>RV.</ls>;
+;---------------------------------------------------
