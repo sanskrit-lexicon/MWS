@@ -1,0 +1,105 @@
+; <L>13034<pc>74,3<k1>aBIpada<k2>aBI-pada<h>b<e>1
+47611 old <L>13034<pc>74,3<k1>aBIpada<k2>aBI-pada<h>b<e>1
+;
+47611 new <L>13034<pc>74,3<k1>aBIpAda<k2>aBI-pAda<e>1
+;---------------------------------------------------
+; <L>13034<pc>74,3<k1>aBIpada<k2>aBI-pada<h>b<e>1
+47612 old <s>aBI-pAda</s> or <s>aBI-pada</s> <hom>b</hom> ¦ See <hom>1.</hom> <s>a-BI</s>.<info orsl="13034,aBIpada;13034.1,aBIpAda"/>
+;
+47612 new <s>aBI-pAda</s> or <s>aBI-pada</s> <hom>b</hom> ¦ See <hom>1.</hom> <s>a-BI</s>.<info orsl="13034,aBIpAda;13034.1,aBIpada"/>
+;---------------------------------------------------
+; <L>13034.1<pc>74,3<k1>aBIpAda<k2>aBI-pAda<e>1
+47614 old <L>13034.1<pc>74,3<k1>aBIpAda<k2>aBI-pAda<e>1
+;
+47614 new <L>13034.1<pc>74,3<k1>aBIpada<k2>aBI-pada<h>b<e>1
+;---------------------------------------------------
+; <L>13034.1<pc>74,3<k1>aBIpAda<k2>aBI-pAda<e>1
+47615 old <s>aBI-pAda</s> or <s>aBI-pada</s> <hom>b</hom> ¦ See <hom>1.</hom> <s>a-BI</s>.<info orsl="13034,aBIpada;13034.1,aBIpAda"/>
+;
+47615 new <s>aBI-pAda</s> or <s>aBI-pada</s> <hom>b</hom> ¦ See <hom>1.</hom> <s>a-BI</s>.<info orsl="13034,aBIpAda;13034.1,aBIpada"/>
+;---------------------------------------------------
+; <L>33378<pc>190,2<k1>udBU<k2>ud-BU<h>2<e>2
+118586 old <hom>2.</hom> <s>ud-BU</s> ¦ <lex>mf(<s>BvI/</s>)n.</lex> (<s>Bu/</s> or <s>BU/</s>) ‘being up to what is wanted’, sufficient<info lex="m:f#BvI:n"/>
+;
+118586 new <hom>2.</hom> <s>ud-BU</s> ¦ <lex>mf(<s>BvI/</s>)n(<s>Bu/</s>).</lex> ‘being up to what is wanted’, sufficient<info lex="m:f#BvI:n"/>
+;---------------------------------------------------
+; <L>94728<pc>488,2<k1>duli<k2>duli<e>1B
+319150 old <L>94728<pc>488,2<k1>duli<k2>duli<e>1B
+;
+319150 new <L>94728<pc>488,2<k1>dulI<k2>dulI<e>1B
+;---------------------------------------------------
+; <L>94728<pc>488,2<k1>duli<k2>duli<e>1B
+319151 old <s>duli</s> or <s>dulI</s> ¦ <lex>f.</lex> a small or female tortoise, <ls>L.</ls> (<ab>Cf.</ab> <s>dOleya</s>.)<info orsl="94728,duli;94728.1,dulI"/><info lex="f"/>
+;
+319151 new <s>dulI</s> or <s>duli</s> ¦ <lex>f.</lex> a small or female tortoise, <ls>L.</ls> (<ab>Cf.</ab> <s>dOleya</s>.)<info orsl="94728,dulI;94728.1,duli"/><info lex="f"/>
+;---------------------------------------------------
+; <L>94728.1<pc>488,2<k1>dulI<k2>dulI<e>1B
+319153 old <L>94728.1<pc>488,2<k1>dulI<k2>dulI<e>1B
+;
+319153 new <L>94728.1<pc>488,2<k1>duli<k2>duli<e>1B
+;---------------------------------------------------
+; <L>94728.1<pc>488,2<k1>dulI<k2>dulI<e>1B
+319154 old <s>duli</s> or <s>dulI</s> ¦ <lex>f.</lex> a small or female tortoise, <ls>L.</ls> (<ab>Cf.</ab> <s>dOleya</s>.)<info orsl="94728,duli;94728.1,dulI"/><info lex="f"/>
+;
+319154 new <s>dulI</s> or <s>duli</s> ¦ <lex>f.</lex> a small or female tortoise, <ls>L.</ls> (<ab>Cf.</ab> <s>dOleya</s>.)<info orsl="94728,dulI;94728.1,duli"/><info lex="f"/>
+;---------------------------------------------------
+; <L>106376<pc>538,3<k1>niHSreRi<k2>niH—SreRi<e>3
+358015 old <L>106376<pc>538,3<k1>niHSreRi<k2>niH—SreRi<e>3
+;
+358015 new <L>106376<pc>538,3<k1>niHSreRI<k2>niH—SreRI<e>3
+;---------------------------------------------------
+; <L>106376<pc>538,3<k1>niHSreRi<k2>niH—SreRi<e>3
+358016 old <s>niH—SreRi</s> ¦ <lex>f(<s>i</s> or <s>I</s>). </lex> = <s>ni-SreRI</s>, <ls>L.</ls><info lex="f#i:f#I"/>
+;
+358016 new <s>niH—SreRI</s> or <s>niH—SreRi</s> ¦ <lex>f.</lex> = <s>ni-SreRI</s>, <ls>L.</ls>; the wild date tree, <ls>L.</ls><info orsl="106376,niHSreRI;106377,niHSreRi"/><info lex="f#I:f#i"/>
+;---------------------------------------------------
+; <L>106377<pc>538,3<k1>niHSreRi<k2>niH—SreRi<e>3A
+358018 old <L>106377<pc>538,3<k1>niHSreRi<k2>niH—SreRi<e>3A
+;
+358018 new <L>106377<pc>538,3<k1>niHSreRi<k2>niH—SreRi<e>3
+;---------------------------------------------------
+; <L>106377<pc>538,3<k1>niHSreRi<k2>niH—SreRi<e>3A
+358019 old ¦ the wild date tree, <ls>L.</ls><info lex="inh"/>
+;
+358019 new <s>niH—SreRI</s> or <s>niH—SreRi</s> ¦ <lex>f.</lex> = <s>ni-SreRI</s>, <ls>L.</ls>; the wild date tree, <ls>L.</ls><info orsl="106376,niHSreRI;106377,niHSreRi"/><info lex="f#I:f#i"/>
+;---------------------------------------------------
+; <L>108203<pc>546,3<k1>nicAy<k2>ni-cAy<e>1
+364153 old <s>ni-√ cAy</s> ¦ (only <ab>ind.p.</ab> <s>-cA/yya</s> or <s>-cA/yyA</s>) to regard with reverence, honour, worship, <ls>RV.</ls>;
+;
+364153 new <s>ni-√ cAy</s> ¦ (only <ab>ind.p.</ab> <s>-cA/yyA</s> or <s>-cA/yya</s>) to regard with reverence, honour, worship, <ls>RV.</ls>;
+;---------------------------------------------------
+; <L>109667<pc>555,2<k1>nirDUta<k2>nir-DUta<e>3
+369482 old <s>nir-°DUta</s> ¦ <lex>mfn.</lex> shaken, agitated &c., <ls>Mn.</ls>; <ls>MBh.</ls> &c. (also <s>-Du/ta</s> or <s>-DU/ta</s>)<info lex="m:f:n"/>
+;
+369482 new <s>nir-°DUta</s> ¦ <lex>mfn.</lex> shaken, agitated &c., <ls>Mn.</ls>; <ls>MBh.</ls> &c. (also <s>-Du/ta</s>)<info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>113820<pc>577,1<k1>paYcamuzwi<k2>paYca—muzwi<e>3
+383923 old <L>113820<pc>577,1<k1>paYcamuzwi<k2>paYca—muzwi<e>3
+;
+383923 new <L>113820<pc>577,1<k1>paYcamuzwI<k2>paYca—muzwI<e>3
+;---------------------------------------------------
+; <L>113820<pc>577,1<k1>paYcamuzwi<k2>paYca—muzwi<e>3
+383924 old <s>paYca—muzwi</s> or <s>paYca—muzwI</s> ¦ <lex>f.</lex> <bot>Trigonella Corniculata</bot>, <ls>L.</ls><info orsl="113820,paYcamuzwi;113820.1,paYcamuzwI"/><info lex="f"/>
+;
+383924 new <s>paYca—muzwI</s> or <s>paYca—muzwi</s> ¦ <lex>f.</lex> <bot>Trigonella Corniculata</bot>, <ls>L.</ls><info orsl="113820,paYcamuzwI;113820.1,paYcamuzwi"/><info lex="f"/>
+;---------------------------------------------------
+; <L>113820.1<pc>577,1<k1>paYcamuzwI<k2>paYca—muzwI<e>3
+383926 old <L>113820.1<pc>577,1<k1>paYcamuzwI<k2>paYca—muzwI<e>3
+;
+383926 new <L>113820.1<pc>577,1<k1>paYcamuzwi<k2>paYca—muzwi<e>3
+;---------------------------------------------------
+; <L>113820.1<pc>577,1<k1>paYcamuzwI<k2>paYca—muzwI<e>3
+383927 old <s>paYca—muzwi</s> or <s>paYca—muzwI</s> ¦ <lex>f.</lex> <bot>Trigonella Corniculata</bot>, <ls>L.</ls><info orsl="113820,paYcamuzwi;113820.1,paYcamuzwI"/><info lex="f"/>
+;
+383927 new <s>paYca—muzwI</s> or <s>paYca—muzwi</s> ¦ <lex>f.</lex> <bot>Trigonella Corniculata</bot>, <ls>L.</ls><info orsl="113820,paYcamuzwI;113820.1,paYcamuzwi"/><info lex="f"/>
+;---------------------------------------------------
+; <L>126299<pc>636,2<k1>puru<k2>puru/<e>1
+425573 old <s>puru/</s> ¦ <lex>mf(<s>pUrvI/</s>)n.</lex> (√ <s>pF</s>) much, many, abundant (only <s>purU</s> or <s>puru</s>, <s>°rU/Ri</s>, <s>°rURAm</s> and <ab>sev.</ab> cases of <lex type="hwinfo">f.</lex> <s>pUrvI</s>; in later language only <ab>ibc.</ab>), <ls>RV.</ls> &c. &c. (<s>°ru/</s> or <s>°rU/</s>. much, often, very [also with a <ab>compar.</ab> or <ab>superl.</ab>]; with <s>simA</s>, everywhere; with <s>tira/s</s>, far off, from afar; <s>purA<srs/>ru/</s>, far and wide; <s>puru/ vi/Sva</s>, one and all, every, <ls>RV.</ls>)<info lex="m:f#pUrvI:n"/>
+;
+425573 new <s>puru/</s> ¦ <lex>mf(<s>pUrvI/</s>)n.</lex> (√ <s>pF</s>) much, many, abundant (only <s>purU</s> or <s>puru</s>, <s>°rU/Ri</s>, <s>°rURAm</s> and <ab>sev.</ab> cases of <lex type="hwinfo">f.</lex> <s>pUrvI</s>; in later language only <ab>ibc.</ab>), <ls>RV.</ls> &c. &c. (<s>°ru/</s>, <lex>ind.</lex> much, often, very [also with a <ab>compar.</ab> or <ab>superl.</ab>]; with <s>simA</s>, everywhere; with <s>tira/s</s>, far off, from afar; <s>purA<srs/>ru/</s>, far and wide; <s>puru/ vi/Sva</s>, one and all, every, <ls>RV.</ls>)<info lex="m:f#pUrvI:n"/>
+;---------------------------------------------------
+; <L>254632<pc>1259,1<k1>stu<k2>stu<h>1<e>1
+847109 old <div n="vp"/> <s>stAyamAna</s> or <s>stayamAna</s> <lex type="part">mfn.</lex> being praised, <ls>ib.</ls> :
+;
+847109 new <div n="vp"/> <s>stUyamAna</s>, <lex type="part">mfn.</lex> being praised, <ls>ib.</ls> :
+;---------------------------------------------------

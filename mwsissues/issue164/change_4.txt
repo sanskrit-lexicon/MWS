@@ -1,0 +1,60 @@
+; <L>10089<pc>54,3<k1>apAvftta<k2>apA-vftta<e>2
+37436 old <s>apA-vftta</s> ¦ <lex>mfn.</lex> (for <s>apa-</s> or <s>apA-</s>, the vowel being metrically lengthened in the antepenultimate of a <s1 slp1="Sloka">śloka</s1>), (with <ab>abl.</ab>) turned away from, <ls>R.</ls><info lex="m:f:n"/>
+;
+37436 new <s>apA-vftta</s> ¦ <lex>mfn.</lex> (for <s>apa-</s>, the vowel being metrically lengthened in the antepenultimate of a <s1 slp1="Sloka">śloka</s1>), (with <ab>abl.</ab>) turned away from, <ls>R.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>32836<pc>187,2<k1>udgrAhavat<k2>ud-grAha—vat<e>3
+116753 old <s>ud-grAha—vat</s> ¦ <lex>n.</lex> a kind of <s1 slp1="saMDi">Sandhi</s1> (causing the change of <s>A</s> and <s>a</s> to <s>a</s> or <s>A</s> before <s>f</s>), <ls>RPrāt. 136.</ls><info lex="n"/>
+;
+116753 new <s>ud-grAha—vat</s> ¦ <lex>n.</lex> a kind of <s1 slp1="saMDi">Sandhi</s1> (causing the change of <s>A</s> and <s>a</s> to <s>a</s> before <s>f</s>), <ls>RPrāt. 136.</ls><info lex="n"/>
+;---------------------------------------------------
+; <L>111916.1<pc>568,1<k1>nfzahya<k2>nf—za/hya<e>3
+377238 old <s>nf—za/hya</s> ¦ <lex>mfn.</lex> overpowering men, <ls>ib.</ls><info orsl="111916,nfzAhya;111916.1,nfzahya"/><info lex="m:f:n"/>
+;
+377238 new <s>nf—zA/hya</s> or <s>nf—za/hya</s> ¦ <lex>mfn.</lex> overpowering men, <ls>ib.</ls>; <lex>n.</lex> the overpowering of men, <ls>ib.</ls><info orsl="111916,nfzAhya;111916.1,nfzahya"/><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>150904<pc>757,3<k1>BindipAla<k2>BindipAla<e>1
+507331 old <s>BindipAla</s> or <s>BindipA°laka</s>, ¦ <lex>m.</lex> a short javelin or arrow thrown from the hand or shot through a tube (others ‘a stone fastened to a string’ or ‘a kind of sling for throwing stones’), <ls>MBh.</ls>; <ls>R.</ls> &c. (<ab>v.l.</ab> <s>BindapAla</s>, <s>BiRqimAlA</s> or <s>BiRqimAla</s>, <s>BindomAla</s>, <s>BindimAla</s> or <s>°laka</s>, <s>BindumAla</s>). <info or="150904,BindipAla;150904.1,BindipAlaka"/><info lex="m"/>
+;
+507331 new <s>BindipAla</s> or <s>BindipA°laka</s>, ¦ <lex>m.</lex> a short javelin or arrow thrown from the hand or shot through a tube (others ‘a stone fastened to a string’ or ‘a kind of sling for throwing stones’), <ls>MBh.</ls>; <ls>R.</ls> &c. (<ab>v.l.</ab> <s>BindapAla</s>, <s>BiRqimAlA</s> or <s>BiRqimAla</s>, <s>BindomAla</s>, <s>BindimAlA</s> or <s>BindimAla</s> or <s>°laka</s>, <s>BindumAla</s>). <info or="150904,BindipAla;150904.1,BindipAlaka"/><info lex="m"/>
+;---------------------------------------------------
+; <L>150904.1<pc>757,3<k1>BindipAlaka<k2>BindipAlaka<e>1
+507334 old <s>BindipAla</s> or <s>BindipA°laka</s>, ¦ <lex>m.</lex> a short javelin or arrow thrown from the hand or shot through a tube (others ‘a stone fastened to a string’ or ‘a kind of sling for throwing stones’), <ls>MBh.</ls>; <ls>R.</ls> &c. (<ab>v.l.</ab> <s>BindapAla</s>, <s>BiRqimAlA</s> or <s>BiRqimAla</s>, <s>BindomAla</s>, <s>BindimAla</s> or <s>°laka</s>, <s>BindumAla</s>). <info or="150904,BindipAla;150904.1,BindipAlaka"/><info lex="m"/>
+;
+507334 new <s>BindipAla</s> or <s>BindipA°laka</s>, ¦ <lex>m.</lex> a short javelin or arrow thrown from the hand or shot through a tube (others ‘a stone fastened to a string’ or ‘a kind of sling for throwing stones’), <ls>MBh.</ls>; <ls>R.</ls> &c. (<ab>v.l.</ab> <s>BindapAla</s>, <s>BiRqimAlA</s> or <s>BiRqimAla</s>, <s>BindomAla</s>, <s>BindimAlA</s> or <s>BindimAla</s> or <s>°laka</s>, <s>BindumAla</s>). <info or="150904,BindipAla;150904.1,BindipAlaka"/><info lex="m"/>
+;---------------------------------------------------
+; <L>152430<pc>764,2<k1>BUrizah<k2>BUri—za/h<e>3
+512331 old <s>BUri—za/h</s> or <s>BUri—zAh</s> ¦ (for <s>sAh</s> or <s>sah</s>) <lex>mfn.</lex> bearing or carrying much, <ls>RV.</ls><info or="152430,BUrizah;152431,BUrizAh"/><info lex="m:f:n"/>
+;
+512331 new <s>BUri—za/h</s> or <s>BUri—zAh</s> ¦ (for <s>sah</s> or <s>sAh</s>) <lex>mfn.</lex> bearing or carrying much, <ls>RV.</ls><info or="152430,BUrizah;152431,BUrizAh"/><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>152431<pc>764,2<k1>BUrizAh<k2>BUri—zAh<e>3
+512334 old <s>BUri—za/h</s> or <s>BUri—zAh</s> ¦ (for <s>sAh</s> or <s>sah</s>) <lex>mfn.</lex> bearing or carrying much, <ls>RV.</ls><info or="152430,BUrizah;152431,BUrizAh"/><info lex="m:f:n"/>
+;
+512334 new <s>BUri—za/h</s> or <s>BUri—zAh</s> ¦ (for <s>sah</s> or <s>sAh</s>) <lex>mfn.</lex> bearing or carrying much, <ls>RV.</ls><info or="152430,BUrizah;152431,BUrizAh"/><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>186529<pc>920,3<k1>vayunADa<k2>vayunA-Da/<e>3
+623644 old <s>vayunA-Da/</s> or <s>vayunA-DA/</s> ¦ (for <s>vayuna-DA</s> or <s>vayuna-Da</s>), <lex>mfn.</lex> establishing rule or order, <ls>MaitrS.</ls><info or="186529,vayunADa;186530,vayunADA"/><info lex="m:f:n"/>
+;
+623644 new <s>vayunA-Da/</s> or <s>vayunA-DA/</s> ¦ (for <s>vayuna-Da</s> or <s>vayuna-DA</s>), <lex>mfn.</lex> establishing rule or order, <ls>MaitrS.</ls><info or="186529,vayunADa;186530,vayunADA"/><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>186530<pc>920,3<k1>vayunADA<k2>vayunA-DA/<e>3
+623647 old <s>vayunA-Da/</s> or <s>vayunA-DA/</s> ¦ (for <s>vayuna-DA</s> or <s>vayuna-Da</s>), <lex>mfn.</lex> establishing rule or order, <ls>MaitrS.</ls><info or="186529,vayunADa;186530,vayunADA"/><info lex="m:f:n"/>
+;
+623647 new <s>vayunA-Da/</s> or <s>vayunA-DA/</s> ¦ (for <s>vayuna-Da</s> or <s>vayuna-DA</s>), <lex>mfn.</lex> establishing rule or order, <ls>MaitrS.</ls><info or="186529,vayunADa;186530,vayunADA"/><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>191029<pc>941,2<k1>vAmoru<k2>vAmoru<e>3
+638237 old <s>vAmo<srs/>ru</s> or <s>vAmo<srs/>rU</s>, ¦ <lex>f.</lex> (<ab n = "Nominative case">Nom.</ab> <s>°rUs</s>, <ls>Śiś. viii, 24</ls>; <ab>voc.</ab> <s>°rU</s>; <ab>cf.</ab> <ls>Vām. v, 2, 49</ls>; <ab>compar.</ab> <s>°rU-tarA</s> or <s>°ru-tarA</s>, <ls>Vop.</ls>) a handsome-thighed woman, <ls>MBh.</ls>; <ls>Kāv.</ls>; <ls>BhP.</ls><info or="191029,vAmoru;191030,vAmorU"/><info lex="f"/>
+;
+638237 new <s>vAmo<srs/>ru</s> or <s>vAmo<srs/>rU</s>, ¦ <lex>f.</lex> (<ab n = "Nominative case">Nom.</ab> <s>°rUs</s>, <ls>Śiś. viii, 24</ls>; <ab>voc.</ab> <s>°rU</s>; <ab>cf.</ab> <ls>Vām. v, 2, 49</ls>; <ab>compar.</ab> <s>°ru-tarA</s> or <s>°rU-tarA</s>, <ls>Vop.</ls>) a handsome-thighed woman, <ls>MBh.</ls>; <ls>Kāv.</ls>; <ls>BhP.</ls><info or="191029,vAmoru;191030,vAmorU"/><info lex="f"/>
+;---------------------------------------------------
+; <L>191030<pc>941,2<k1>vAmorU<k2>vAmorU<e>3
+638240 old <s>vAmo<srs/>ru</s> or <s>vAmo<srs/>rU</s>, ¦ <lex>f.</lex> (<ab n = "Nominative case">Nom.</ab> <s>°rUs</s>, <ls>Śiś. viii, 24</ls>; <ab>voc.</ab> <s>°rU</s>; <ab>cf.</ab> <ls>Vām. v, 2, 49</ls>; <ab>compar.</ab> <s>°rU-tarA</s> or <s>°ru-tarA</s>, <ls>Vop.</ls>) a handsome-thighed woman, <ls>MBh.</ls>; <ls>Kāv.</ls>; <ls>BhP.</ls><info or="191029,vAmoru;191030,vAmorU"/><info lex="f"/>
+;
+638240 new <s>vAmo<srs/>ru</s> or <s>vAmo<srs/>rU</s>, ¦ <lex>f.</lex> (<ab n = "Nominative case">Nom.</ab> <s>°rUs</s>, <ls>Śiś. viii, 24</ls>; <ab>voc.</ab> <s>°rU</s>; <ab>cf.</ab> <ls>Vām. v, 2, 49</ls>; <ab>compar.</ab> <s>°ru-tarA</s> or <s>°rU-tarA</s>, <ls>Vop.</ls>) a handsome-thighed woman, <ls>MBh.</ls>; <ls>Kāv.</ls>; <ls>BhP.</ls><info or="191029,vAmoru;191030,vAmorU"/><info lex="f"/>
+;---------------------------------------------------
+; <L>239967<pc>1192,3<k1>sah<k2>sah<h>1<e>1
+799773 old <s>sA/hizIma/hi</s>, <ls>RV.</ls>;
+;
+799773 new <s>sAhizIma/hi</s> or <s>sahizIma/hi</s>, <ls>RV.</ls>;
+;---------------------------------------------------
