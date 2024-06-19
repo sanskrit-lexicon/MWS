@@ -1,0 +1,114 @@
+<L>831<pc>4,3	agastyasaMhitA	ag/stya—saMhitA	agstyasaMhitA
+<L>1164.1<pc>6,1	agnIzomIyapaSvanuzWAna	agnIzom/ya—paSv-anuzWAna	agnIzomyapaSvanuzWAna
+<L>6414<pc>33,1	anudaka	an-udakam	anudakam
+<L>8336<pc>44,2	antika	antikA/t	antikAt
+<L>8337<pc>44,2	antika	antikA/t	antikAt
+<L>18838<pc>108,3	avidviz	a-vidvize	avidvize
+<L>20488.3<pc>118,1	asaNga	a/-saNga(<s>as</s>), 	asaNga(<s>as<s>)
+<L>20488.5<pc>118,1	asaNga	a/-saNga(<s>as</s>), 	asaNga(<s>as<s>)
+<L>20488.6<pc>118,1	asaNga	a/-saNga(<s>as</s>), 	asaNga(<s>as<s>)
+<L>21881<pc>125,2	ahirbuDnyas	a/hir buDnya^s	ahir buDnyas
+<L>27885<pc>159,3	Asanizu	Asa/nn—izu	Asannizu
+<L>28702<pc>164,3	iqAyAspade	iLAyA/s-pade/	iLAyAspade
+<L>32131<pc>183,2	udaSvidvat	uda—Svi/t-vat	udaSvitvat
+<L>35591<pc>205,2	uparizwAllakzman	upa/rizwA—lakzman	uparizwAlakzman
+<L>38447<pc>223,3	ftadyumna	fta/ —dyumna	fta dyumna
+<L>39787.70<pc>230,1	ekAdaSAratni	/kAdaSAratni	kAdaSAratni
+<L>40430<pc>234,1	EndrI	EndraI	EndraI
+<L>46511<pc>264,2	kavi	kav	kav
+<L>46512<pc>264,2	kavi	kav	kav
+<L>46513<pc>264,2	kavi	kav	kav
+<L>46514<pc>264,2	kavi	kav	kav
+<L>73842.80<pc>397,1	citraraTa	citra/—raTI	citraraTI
+<L>87330<pc>456,3	tta	-tta	-tta
+<L>87331<pc>456,3	tti	-tti	-tti
+<L>93038.1<pc>482,1	dIrGatamasorka	dIrGa—tamaso 'rka	dIrGatamaso rka
+<L>93038.2<pc>482,1	dIrGatamasovrata	dIrGa—tamaso vrata	dIrGatamaso vrata
+<L>96011<pc>494,2	devalokegata	deva—loke gata	devaloke gata
+<L>98836<pc>506,2	dvijaropaRI	dvi-ja/=—ropaRI	dvija=ropaRI
+<L>99021<pc>507,1	dvIpavat	dvIpa—vatI	dvIpavatI
+<L>103160<pc>525,2	nagnaikA	na/gnikA	nagnikA
+<L>105511.1<pc>535,1	nAnAvinA	nA/nA	nAnA
+<L>120204<pc>610,1	palASI	palASa/	palASa
+<L>120205<pc>610,1	palASI	palASa/	palASa
+<L>120295.1<pc>610,2	pallISarawayoHPalAPalavicAra	pallI—SarawayoH PalAPala-vicAra	pallISarawayoH PalAPalavicAra
+<L>120295.2<pc>610,2	pallISarawayoHSAnti	pallI—SarawayoH SAnti	pallISarawayoH SAnti
+<L>120473<pc>611,1	pavitrarogaparihAraprayoga	pavi/ra—roga-parihAra-prayoga	pavirarogaparihAraprayoga
+<L>124573<pc>628,3	pizwarAtryAHkalpa	pizwa—rAtryAH kalpa	pizwarAtryAH kalpa
+<L>125501<pc>632,3	putra	putrI	putrI
+<L>125502<pc>632,3	putra	putraI	putraI
+<L>132934.3<pc>669,2	pratiyogijYAnasyahetutvaKaRqana	prati-yogi—jYAnasya hetutva-KaRqana	pratiyogijYAnasya hetutvaKaRqana
+<L>132934.8<pc>669,2	pratiyogyanaDikaraRenASasyotpattinirAsa	prati-yogyanaDikaraRe nASasyotpatti-nirAsa	pratiyogyanaDikaraRe nASasyotpattinirAsa
+<L>135161<pc>682,2	prapApAlikA	pra-pAlikA	prapAlikA
+<L>135161.1<pc>682,2	prapApAlI	pra-pAlI	prapAlI
+<L>138171<pc>698,3	prasfmara	pa-sfmara	pasfmara
+<L>146247.02<pc>736,2	bfhadAraRyakopanizad	bfhad—AraRya	bfhadAraRya
+<L>146712<pc>738,3	brahmatantregAyatrIpaYjara	brahma—tantre gAyatrI-paYjara	brahmatantre gAyatrIpaYjara
+<L>147157<pc>740,3	brahmARqayAmalepaYcamIsADana	brahmARqa—yAmale paYcamI-sADana	brahmARqayAmale paYcamIsADana
+<L>147409<pc>741,3	brAhmaRAcCaMsinaukTya	brAhmaRAc-CaMsina ukTya	brAhmaRAcCaMsina ukTya
+<L>149632<pc>751,3	BAgavatasamuccayesahasranAmastotra	BAgavata—samuccaye sahasra-nAma-stotra	BAgavatasamuccaye sahasranAmastotra
+<L>159381<pc>795,1	mahAkAlaBEravatantreSaraBakavaca	mahA—kAla—BErava-tantre SaraBa-kavaca	mahAkAlaBEravatantre SaraBakavaca
+<L>159381.2<pc>795,1	mahAkAlayogaSAstreKecarIvidyA	mahA—kAla—yoga-SAstre KecarI-vidyA	mahAkAlayogaSAstre KecarIvidyA
+<L>159392<pc>795,1	mahAkASaBEravakalpeSaraBeSvarakavaca	mahA—kASa-BErava-kalpe SaraBeSvara-kavaca	mahAkASaBEravakalpe SaraBeSvarakavaca
+<L>159462<pc>795,2	mahAgaRapatikalpepaYcatriMSatpIWikA	mahA—gaRa—pati-kalpe paYca-triMSatpIWikA	mahAgaRapatikalpe paYcatriMSatpIWikA
+<L>159464<pc>795,2	mahAgaReSapurARegaReSagItA	mahA—gaReSa—purARe gaReSa-gItA	mahAgaReSapurARe gaReSagItA
+<L>160518<pc>799,2	mahAyogapaYcaratneASvalAyanopayogyADAnaprakaraRa	mahA—yoga-paYcaratne ASvalAyanopayogyADAna-prakaraRa	mahAyogapaYcaratne ASvalAyanopayogyADAnaprakaraRa
+<L>160784<pc>800,2	mahAvizRormahAstuti	mahA—vizRor mahA-stuti	mahAvizRor mahAstuti
+<L>161836<pc>805,1	mAMsamayIpeSI	mAMsa—mayI peSI	mAMsamayI peSI
+<L>164214<pc>816,2	mitramahas	mitra/Q—mahas	mitraQmahas
+<L>166027<pc>825,1	mugDaboDAKyAjvarAdirogacikitsA	mugDa—boDAKyA jvarAdi-roga-cikitsA	mugDaboDAKyA jvarAdirogacikitsA
+<L>168025<pc>833,3	meruvirahatantreBuvaneSvarIsahasranAmastotra	meru—viraha-tantre BuvaneSvarI-sahasra-nAma-stotra	meruvirahatantre BuvaneSvarIsahasranAmastotra
+<L>169899.2<pc>842,3	yaTAyogenam	yaTA—am	yaTAam
+<L>170797<pc>848,1	yavanaSAstremalapraSna	yavana—SAstre 'mala-praSna	yavanaSAstre malapraSna
+<L>172620<pc>857,3	yogAvalItantrekuladIpinI	yogAvalI-tantre kula-dIpinI	yogAvalItantre kuladIpinI
+<L>174418.1<pc>865,1	ratnasArajAtakejyotizasArasaMgraha	ratna—sAra—jAtake jyotiza-sAra-saMgraha	ratnasArajAtake jyotizasArasaMgraha
+<L>183016<pc>905,1	lubDajAtakevarzavarDApanaviDAna	lubDa—jAtake varza-varDApana-viDAna	lubDajAtake varzavarDApanaviDAna
+<L>183293<pc>906,2	lokaDAtf	loka—DAtrI	lokaDAtrI
+<L>183707<pc>908,2	lomaSA	lomaS/	lomaS
+<L>184640<pc>912,2	vaktftA	vaktf —tA	vaktf tA
+<L>184641<pc>912,2	vaktftva	vaktf —tva	vaktf tva
+<L>184642<pc>912,2	vaktftvaSakti	vaktf -tva-Sakti	vaktf tvaSakti
+<L>186734<pc>921,3	varuRAnyAHsAman	varuRAnyAH sAman	varuRAnyAH sAman
+<L>190313.1<pc>938,1	vAjapeyakratorudgAtfprayoga	vAja—peya—krator udgAtf-prayoga	vAjapeyakrator udgAtfprayoga
+<L>192173<pc>946,3	vAlukI	vAluka	vAluka
+<L>192174<pc>946,3	vAlukI	vAluka	vAluka
+<L>192641<pc>948,3	vAstuyAgaviDestattva	vAstu—yAga—viDes tattva	vAstuyAgaviDes tattva
+<L>195261<pc>961,1	vijYAtavya	v/-jYAtavya	vjYAtavya
+<L>195862<pc>964,2	vidyAvizayehomaviDi	vidyA—vizaye homa-viDi	vidyAvizaye homaviDi
+<L>200080.1<pc>987,2	vivAhahomopayuktAmantra	vi-vAha—homopayuktA mantra	vivAhahomopayuktA mantra
+<L>200082<pc>987,2	vivAhAdikarmaRAmprayoga	vi-vAhAdi-karmaRAm prayoga	vivAhAdikarmaRAm prayoga
+<L>202559<pc>1000,1	vizRumahimnaHstava	vizRu—mahimnaH stava	vizRumahimnaH stava
+<L>203796<pc>1006,2	vIrasiMhamitrodayesaMskAraprakaraRa	vIra—siMha—mitrodaye saMskAra-prakaraRa	vIrasiMhamitrodaye saMskAraprakaraRa
+<L>204806<pc>1011,3	vfndAvanaKaRqegargasaMhitA	vfndA—vana—KaRqe garga-saMhitA	vfndAvanaKaRqe gargasaMhitA
+<L>205804<pc>1016,1	vedavedAntatattvasAreSAlagrAmamAhAtmya	veda—vedAnta-tattva-sAre SAlagrAma-mAhAtmya	vedavedAntatattvasAre SAlagrAmamAhAtmya
+<L>205976<pc>1017,1	vedAntanyAyaratnAvalIbrahmAdvEtAmftaprakASikA	vedAnta—nyAya-ratnAvalI brahmAdvEtAmfta-prakASikA	vedAntanyAyaratnAvalI brahmAdvEtAmftaprakASikA
+<L>206033.1<pc>1017,2	vedAntasUtravfttisaMkziptA	vedAnta—sUtra—vftti saMkziptA	vedAntasUtravftti saMkziptA
+<L>207951<pc>1027,1	vESvAnarI	vESvAnaraI	vESvAnaraI
+<L>212118<pc>1050,1	SatayAyin	Sata—yojana—yAyin	SatayojanayAyin
+<L>212119<pc>1050,1	SatayAyinvat	Sata—yojana—vat	Satayojanavat
+<L>212200<pc>1050,2	SataSlokirAmAyaRa	Sata—Sloki rAmAyaRa	SataSloki rAmAyaRa
+<L>212720.1<pc>1052,3	SabdaparicCedarahasyepUrvavAdarahasya	Sabda—paricCeda—rahasye 'pUrvavAdarahasya	SabdaparicCedarahasye pUrvavAdarahasya
+<L>217744.3<pc>1075,1	SivamahimnaHstotra	Siva—mahimnaH stotra	SivamahimnaH stotra
+<L>222096<pc>1094,3	SyAmasAhSaMkara	SyAma—sAh SaMkara	SyAmasAh SaMkara
+<L>222495<pc>1096,3	Srava	Srava-eza	Sravaeza
+<L>222715.3<pc>1097,3	SrAdDakalpaBAzyagoBilIya	SrAdDa—kalpa—BAzya goBilIya	SrAdDakalpaBAzya goBilIya
+<L>223174<pc>1099,3	SrImahimnaHstava	SrI—mahimnaH stava	SrImahimnaH stava
+<L>223499<pc>1101,2	SrutaSravonuja	Sruta—Sravo 'nuja	SrutaSravo nuja
+<L>224963<pc>1108,2	zawkUwaSlokAnAmarTAH	zaw—kUwa-SlokAnAm arTAH	zawkUwaSlokAnAm arTAH
+<L>225412<pc>1110,2	zoqaSI	zo-qaS/	zoqaS
+<L>226715<pc>1118,2	saMSravasaHsAma	saM-SravasaH sAma	saMSravasaH sAma
+<L>228350.2<pc>1127,3	saMkziptarAgAnugApUjApadDati	saM-kzipta—rAgAnugA pUjA-padDati	saMkziptarAgAnugA pUjApadDati
+<L>228584.50<pc>1129,1	saMgItavinodenftyADyAya	saM-gIta—vinode nftyADyAya	saMgItavinode nftyADyAya
+<L>232453<pc>1149,2	saptagranTanibarhaRaSEvavEzRavavicAra	sapta—granTa-nibarhaRa SEva-vEzRava-vicAra	saptagranTanibarhaRa SEvavEzRavavicAra
+<L>240192<pc>1194,1	sahajanyI	saha—janyA/	sahajanyA
+<L>243265<pc>1210,2	sArvaBOmasarvasverAmasUkta	sArva—BOma—sarvasve rAma-sUkta	sArvaBOmasarvasve rAmasUkta
+<L>246063<pc>1222,3	sugaBasti	su,—gaBasti,su-ga/Basti	su
+<L>247201<pc>1226,3	sunO	su—nu	sunu
+<L>252921<pc>1250,2	somaBakzayoHprayoga	soma—BakzayoH prayoga	somaBakzayoH prayoga
+<L>253580<pc>1253,2	sOBAgyalakzmIkalpeSyAmalAmbAstotra	sOBAgya—lakzmI-kalpe SyAmalAmbA-stotra	sOBAgyalakzmIkalpe SyAmalAmbAstotra
+<L>253581<pc>1253,2	sOBAgyalakzmItantreSyAmalAmbAvarmaratna	sOBAgya—lakzmI-tantre SyAmalAmbA-varma-ratna	sOBAgyalakzmItantre SyAmalAmbAvarmaratna
+<L>255101<pc>1261,2	strISUdrAdInAMdevArcanavicAra	strI—SUdrA-dInAM devArcana-vicAra	strISUdrAdInAM devArcanavicAra
+<L>255643<pc>1264,2	sTita	sTit/	sTit
+<L>255655.1<pc>1264,2	sTitavatvatI	sTita—vatI	sTitavatI
+<L>257900<pc>1275,3	svatantramuKamardana	sva—tantra—muKa mardana	svatantramuKa mardana
+<L>258657<pc>1278,3	svayamBUliNgasamBUtA	svayam—B/—liNga-samBUtA	svayamBliNgasamBUtA

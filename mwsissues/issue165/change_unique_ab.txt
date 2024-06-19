@@ -1,0 +1,352 @@
+73860 old <L>20488.3<pc>118,1<k1>asaNga<k2>a/-saNga(<s>as</s>), <e>1A
+;abinfo: <L>20488.3<pc>118,1	asaNga	a/-saNga(<s>as</s>), 	asaNga(<s>as<s>)
+73860 new <L>20488.3<pc>118,1<k1>asaNga<k2>a/-saNga,a-saNga/<e>1A
+; status=done
+;---------------------------------------------
+73866 old <L>20488.5<pc>118,1<k1>asaNga<k2>a/-saNga(<s>as</s>), <e>1B
+;abinfo: <L>20488.5<pc>118,1	asaNga	a/-saNga(<s>as</s>), 	asaNga(<s>as<s>)
+73866 new <L>20488.5<pc>118,1<k1>asaNga<k2>a/-saNga<e>1B
+; status=done
+;---------------------------------------------
+73869 old <L>20488.6<pc>118,1<k1>asaNga<k2>a/-saNga(<s>as</s>), <e>1B
+;abinfo: <L>20488.6<pc>118,1	asaNga	a/-saNga(<s>as</s>), 	asaNga(<s>as<s>)
+73869 new <L>20488.6<pc>118,1<k1>asaNga<k2>a/-saNga<e>1B
+; status=done
+;---------------------------------------------
+78618 old <L>21881<pc>125,2<k1>ahirbuDnyas<k2>a/hir buDnya^s<e>2
+;abinfo: <L>21881<pc>125,2	ahirbuDnyas	a/hir buDnya^s	ahir buDnyas
+78618 new <L>21881<pc>125,2<k1>ahirbuDnyas<k2>a/hir buDnya^s<e>2
+; status=nochange
+;---------------------------------------------
+135908 old <L>38447<pc>223,3<k1>ftadyumna<k2>fta/ —dyumna<e>3
+;abinfo: <L>38447<pc>223,3	ftadyumna	fta/ —dyumna	fta dyumna
+135908 new <L>38447<pc>223,3<k1>ftadyumna<k2>fta/—dyumna<e>3
+; status=done
+;---------------------------------------------
+294616 old <L>87330<pc>456,3<k1>tta<k2>-tta<e>1
+;abinfo: <L>87330<pc>456,3	tta	-tta	-tta
+294616 new <L>87330<pc>456,3<k1>tta<k2>-tta<e>1
+; status=nochange
+;---------------------------------------------
+294619 old <L>87331<pc>456,3<k1>tti<k2>-tti<e>2
+;abinfo: <L>87331<pc>456,3	tti	-tti	-tti
+294619 new <L>87331<pc>456,3<k1>tti<k2>-tti<e>2
+; status=nochange
+;---------------------------------------------
+313729 old <L>93038.1<pc>482,1<k1>dIrGatamasorka<k2>dIrGa—tamaso 'rka<e>4
+;abinfo: <L>93038.1<pc>482,1	dIrGatamasorka	dIrGa—tamaso 'rka	dIrGatamaso rka
+313729 new <L>93038.1<pc>482,1<k1>dIrGatamasorka<k2>dIrGa—tamaso 'rka<e>4
+; status=nochange
+;---------------------------------------------
+313732 old <L>93038.2<pc>482,1<k1>dIrGatamasovrata<k2>dIrGa—tamaso vrata<e>4
+;abinfo: <L>93038.2<pc>482,1	dIrGatamasovrata	dIrGa—tamaso vrata	dIrGatamaso vrata
+313732 new <L>93038.2<pc>482,1<k1>dIrGatamasovrata<k2>dIrGa—tamaso vrata<e>4
+; status=nochange
+;---------------------------------------------
+323440 old <L>96011<pc>494,2<k1>devalokegata<k2>deva—loke gata<e>4
+;abinfo: <L>96011<pc>494,2	devalokegata	deva—loke gata	devaloke gata
+323440 new <L>96011<pc>494,2<k1>devalokegata<k2>deva—loke gata<e>4
+; status=nochange
+;---------------------------------------------
+332841 old <L>98836<pc>506,2<k1>dvijaropaRI<k2>dvi-ja/=—ropaRI<e>3
+;abinfo: <L>98836<pc>506,2	dvijaropaRI	dvi-ja/=—ropaRI	dvija=ropaRI
+332841 new <L>98836<pc>506,2<k1>dvijaropaRI<k2>dvi-ja/—ropaRI<e>3
+; status=done
+;---------------------------------------------
+406075 old <L>120295.1<pc>610,2<k1>pallISarawayoHPalAPalavicAra<k2>pallI—SarawayoH PalAPala-vicAra<e>4
+;abinfo: <L>120295.1<pc>610,2	pallISarawayoHPalAPalavicAra	pallI—SarawayoH PalAPala-vicAra	pallISarawayoH PalAPalavicAra
+406075 new <L>120295.1<pc>610,2<k1>pallISarawayoHPalAPalavicAra<k2>pallI—SarawayoH PalAPala-vicAra<e>4
+; status=nochange
+;---------------------------------------------
+406078 old <L>120295.2<pc>610,2<k1>pallISarawayoHSAnti<k2>pallI—SarawayoH SAnti<e>4
+;abinfo: <L>120295.2<pc>610,2	pallISarawayoHSAnti	pallI—SarawayoH SAnti	pallISarawayoH SAnti
+406078 new <L>120295.2<pc>610,2<k1>pallISarawayoHSAnti<k2>pallI—SarawayoH SAnti<e>4
+; status=nochange
+;---------------------------------------------
+419894 old <L>124573<pc>628,3<k1>pizwarAtryAHkalpa<k2>pizwa—rAtryAH kalpa<e>4
+;abinfo: <L>124573<pc>628,3	pizwarAtryAHkalpa	pizwa—rAtryAH kalpa	pizwarAtryAH kalpa
+419894 new <L>124573<pc>628,3<k1>pizwarAtryAHkalpa<k2>pizwa—rAtryAH kalpa<e>4
+; status=nochange
+;---------------------------------------------
+447756 old <L>132934.3<pc>669,2<k1>pratiyogijYAnasyahetutvaKaRqana<k2>prati-yogi—jYAnasya hetutva-KaRqana<e>4
+;abinfo: <L>132934.3<pc>669,2	pratiyogijYAnasyahetutvaKaRqana	prati-yogi—jYAnasya hetutva-KaRqana	pratiyogijYAnasya hetutvaKaRqana
+447756 new <L>132934.3<pc>669,2<k1>pratiyogijYAnasyahetutvaKaRqana<k2>prati-yogi—jYAnasya hetutva-KaRqana<e>4
+; status=nochange
+;---------------------------------------------
+447774 old <L>132934.8<pc>669,2<k1>pratiyogyanaDikaraRenASasyotpattinirAsa<k2>prati-yogyanaDikaraRe nASasyotpatti-nirAsa<e>4
+;abinfo: <L>132934.8<pc>669,2	pratiyogyanaDikaraRenASasyotpattinirAsa	prati-yogyanaDikaraRe nASasyotpatti-nirAsa	pratiyogyanaDikaraRe nASasyotpattinirAsa
+447774 new <L>132934.8<pc>669,2<k1>pratiyogyanaDikaraRenASasyotpattinirAsa<k2>prati-yogyanaDikaraRe nASasyotpatti-nirAsa<e>4
+; status=nochange
+;---------------------------------------------
+493515 old <L>146712<pc>738,3<k1>brahmatantregAyatrIpaYjara<k2>brahma—tantre gAyatrI-paYjara<e>4
+;abinfo: <L>146712<pc>738,3	brahmatantregAyatrIpaYjara	brahma—tantre gAyatrI-paYjara	brahmatantre gAyatrIpaYjara
+493515 new <L>146712<pc>738,3<k1>brahmatantregAyatrIpaYjara<k2>brahma—tantre gAyatrI-paYjara<e>4
+; status=nochange
+;---------------------------------------------
+495045 old <L>147157<pc>740,3<k1>brahmARqayAmalepaYcamIsADana<k2>brahmARqa—yAmale paYcamI-sADana<e>4
+;abinfo: <L>147157<pc>740,3	brahmARqayAmalepaYcamIsADana	brahmARqa—yAmale paYcamI-sADana	brahmARqayAmale paYcamIsADana
+495045 new <L>147157<pc>740,3<k1>brahmARqayAmalepaYcamIsADana<k2>brahmARqa—yAmale paYcamI-sADana<e>4
+; status=nochange
+;---------------------------------------------
+495920 old <L>147409<pc>741,3<k1>brAhmaRAcCaMsinaukTya<k2>brAhmaRAc-CaMsina ukTya<e>4
+;abinfo: <L>147409<pc>741,3	brAhmaRAcCaMsinaukTya	brAhmaRAc-CaMsina ukTya	brAhmaRAcCaMsina ukTya
+495920 new <L>147409<pc>741,3<k1>brAhmaRAcCaMsinaukTya<k2>brAhmaRAc-CaMsina ukTya<e>4
+; status=nochange
+;---------------------------------------------
+503258 old <L>149632<pc>751,3<k1>BAgavatasamuccayesahasranAmastotra<k2>BAgavata—samuccaye sahasra-nAma-stotra<e>3
+;abinfo: <L>149632<pc>751,3	BAgavatasamuccayesahasranAmastotra	BAgavata—samuccaye sahasra-nAma-stotra	BAgavatasamuccaye sahasranAmastotra
+503258 new <L>149632<pc>751,3<k1>BAgavatasamuccayesahasranAmastotra<k2>BAgavata—samuccaye sahasra-nAma-stotra<e>3
+; status=nochange
+;---------------------------------------------
+534871 old <L>159381<pc>795,1<k1>mahAkAlaBEravatantreSaraBakavaca<k2>mahA—kAla—BErava-tantre SaraBa-kavaca<e>4
+;abinfo: <L>159381<pc>795,1	mahAkAlaBEravatantreSaraBakavaca	mahA—kAla—BErava-tantre SaraBa-kavaca	mahAkAlaBEravatantre SaraBakavaca
+534871 new <L>159381<pc>795,1<k1>mahAkAlaBEravatantreSaraBakavaca<k2>mahA—kAla—BErava-tantre SaraBa-kavaca<e>4
+; status=nochange
+;---------------------------------------------
+534877 old <L>159381.2<pc>795,1<k1>mahAkAlayogaSAstreKecarIvidyA<k2>mahA—kAla—yoga-SAstre KecarI-vidyA<e>4
+;abinfo: <L>159381.2<pc>795,1	mahAkAlayogaSAstreKecarIvidyA	mahA—kAla—yoga-SAstre KecarI-vidyA	mahAkAlayogaSAstre KecarIvidyA
+534877 new <L>159381.2<pc>795,1<k1>mahAkAlayogaSAstreKecarIvidyA<k2>mahA—kAla—yoga-SAstre KecarI-vidyA<e>4
+; status=nochange
+;---------------------------------------------
+534928 old <L>159392<pc>795,1<k1>mahAkASaBEravakalpeSaraBeSvarakavaca<k2>mahA—kASa-BErava-kalpe SaraBeSvara-kavaca<e>3
+;abinfo: <L>159392<pc>795,1	mahAkASaBEravakalpeSaraBeSvarakavaca	mahA—kASa-BErava-kalpe SaraBeSvara-kavaca	mahAkASaBEravakalpe SaraBeSvarakavaca
+534928 new <L>159392<pc>795,1<k1>mahAkASaBEravakalpeSaraBeSvarakavaca<k2>mahA—kASa-BErava-kalpe SaraBeSvara-kavaca<e>3
+; status=nochange
+;---------------------------------------------
+535144 old <L>159462<pc>795,2<k1>mahAgaRapatikalpepaYcatriMSatpIWikA<k2>mahA—gaRa—pati-kalpe paYca-triMSatpIWikA<e>4
+;abinfo: <L>159462<pc>795,2	mahAgaRapatikalpepaYcatriMSatpIWikA	mahA—gaRa—pati-kalpe paYca-triMSatpIWikA	mahAgaRapatikalpe paYcatriMSatpIWikA
+535144 new <L>159462<pc>795,2<k1>mahAgaRapatikalpepaYcatriMSatpIWikA<k2>mahA—gaRa—pati-kalpe paYca-triMSatpIWikA<e>4
+; status=nochange
+;---------------------------------------------
+535162 old <L>159464<pc>795,2<k1>mahAgaReSapurARegaReSagItA<k2>mahA—gaReSa—purARe gaReSa-gItA<e>4
+;abinfo: <L>159464<pc>795,2	mahAgaReSapurARegaReSagItA	mahA—gaReSa—purARe gaReSa-gItA	mahAgaReSapurARe gaReSagItA
+535162 new <L>159464<pc>795,2<k1>mahAgaReSapurARegaReSagItA<k2>mahA—gaReSa—purARe gaReSa-gItA<e>4
+; status=nochange
+;---------------------------------------------
+538789 old <L>160518<pc>799,2<k1>mahAyogapaYcaratneASvalAyanopayogyADAnaprakaraRa<k2>mahA—yoga-paYcaratne ASvalAyanopayogyADAna-prakaraRa<e>3
+;abinfo: <L>160518<pc>799,2	mahAyogapaYcaratneASvalAyanopayogyADAnaprakaraRa	mahA—yoga-paYcaratne ASvalAyanopayogyADAna-prakaraRa	mahAyogapaYcaratne ASvalAyanopayogyADAnaprakaraRa
+538789 new <L>160518<pc>799,2<k1>mahAyogapaYcaratneASvalAyanopayogyADAnaprakaraRa<k2>mahA—yoga-paYcaratne ASvalAyanopayogyADAna-prakaraRa<e>3
+; status=nochange
+;---------------------------------------------
+539857 old <L>160784<pc>800,2<k1>mahAvizRormahAstuti<k2>mahA—vizRor mahA-stuti<e>4
+;abinfo: <L>160784<pc>800,2	mahAvizRormahAstuti	mahA—vizRor mahA-stuti	mahAvizRor mahAstuti
+539857 new <L>160784<pc>800,2<k1>mahAvizRormahAstuti<k2>mahA—vizRor mahA-stuti<e>4
+; status=nochange
+;---------------------------------------------
+543315 old <L>161836<pc>805,1<k1>mAMsamayIpeSI<k2>mAMsa—mayI peSI<e>4
+;abinfo: <L>161836<pc>805,1	mAMsamayIpeSI	mAMsa—mayI peSI	mAMsamayI peSI
+543315 new <L>161836<pc>805,1<k1>mAMsamayIpeSI<k2>mAMsa—mayI peSI<e>4
+; status=nochange
+;---------------------------------------------
+556876 old <L>166027<pc>825,1<k1>mugDaboDAKyAjvarAdirogacikitsA<k2>mugDa—boDAKyA jvarAdi-roga-cikitsA<e>4
+;abinfo: <L>166027<pc>825,1	mugDaboDAKyAjvarAdirogacikitsA	mugDa—boDAKyA jvarAdi-roga-cikitsA	mugDaboDAKyA jvarAdirogacikitsA
+556876 new <L>166027<pc>825,1<k1>mugDaboDAKyAjvarAdirogacikitsA<k2>mugDa—boDAKyA jvarAdi-roga-cikitsA<e>4
+; status=nochange
+;---------------------------------------------
+563239 old <L>168025<pc>833,3<k1>meruvirahatantreBuvaneSvarIsahasranAmastotra<k2>meru—viraha-tantre BuvaneSvarI-sahasra-nAma-stotra<e>3
+;abinfo: <L>168025<pc>833,3	meruvirahatantreBuvaneSvarIsahasranAmastotra	meru—viraha-tantre BuvaneSvarI-sahasra-nAma-stotra	meruvirahatantre BuvaneSvarIsahasranAmastotra
+563239 new <L>168025<pc>833,3<k1>meruvirahatantreBuvaneSvarIsahasranAmastotra<k2>meru—viraha-tantre BuvaneSvarI-sahasra-nAma-stotra<e>3
+; status=nochange
+;---------------------------------------------
+572736 old <L>170797<pc>848,1<k1>yavanaSAstremalapraSna<k2>yavana—SAstre 'mala-praSna<e>3
+;abinfo: <L>170797<pc>848,1	yavanaSAstremalapraSna	yavana—SAstre 'mala-praSna	yavanaSAstre malapraSna
+572736 new <L>170797<pc>848,1<k1>yavanaSAstremalapraSna<k2>yavana—SAstre 'mala-praSna<e>3
+; status=nochange
+;---------------------------------------------
+578777 old <L>172620<pc>857,3<k1>yogAvalItantrekuladIpinI<k2>yogAvalI-tantre kula-dIpinI<e>3
+;abinfo: <L>172620<pc>857,3	yogAvalItantrekuladIpinI	yogAvalI-tantre kula-dIpinI	yogAvalItantre kuladIpinI
+578777 new <L>172620<pc>857,3<k1>yogAvalItantrekuladIpinI<k2>yogAvalI-tantre kula-dIpinI<e>3
+; status=done
+;---------------------------------------------
+584547 old <L>174418.1<pc>865,1<k1>ratnasArajAtakejyotizasArasaMgraha<k2>ratna—sAra—jAtake jyotiza-sAra-saMgraha<e>4
+;abinfo: <L>174418.1<pc>865,1	ratnasArajAtakejyotizasArasaMgraha	ratna—sAra—jAtake jyotiza-sAra-saMgraha	ratnasArajAtake jyotizasArasaMgraha
+584547 new <L>174418.1<pc>865,1<k1>ratnasArajAtakejyotizasArasaMgraha<k2>ratna—sAra—jAtake jyotiza-sAra-saMgraha<e>4
+; status=nochange
+;---------------------------------------------
+612366 old <L>183016<pc>905,1<k1>lubDajAtakevarzavarDApanaviDAna<k2>lubDa—jAtake varza-varDApana-viDAna<e>3
+;abinfo: <L>183016<pc>905,1	lubDajAtakevarzavarDApanaviDAna	lubDa—jAtake varza-varDApana-viDAna	lubDajAtake varzavarDApanaviDAna
+612366 new <L>183016<pc>905,1<k1>lubDajAtakevarzavarDApanaviDAna<k2>lubDa—jAtake varza-varDApana-viDAna<e>3
+; status=nochange
+;---------------------------------------------
+617580 old <L>184640<pc>912,2<k1>vaktftA<k2>vaktf —tA<e>3
+;abinfo: <L>184640<pc>912,2	vaktftA	vaktf —tA	vaktf tA
+617580 new <L>184640<pc>912,2<k1>vaktftA<k2>vaktf—tA<e>3
+; status=done
+; extra
+617581 old <s>vaktf —tA</s> ¦ <lex>f.</lex> ability to speak, talkativeness, eloquence, <s1 slp1="satr">Satr</s1>.<info lex="f"/>
+;
+617581 new <s>vaktf—tA</s> ¦ <lex>f.</lex> ability to speak, talkativeness, eloquence, <s1 slp1="satr">Satr</s1>.<info lex="f"/>
+;---------------------------------------------
+617583 old <L>184641<pc>912,2<k1>vaktftva<k2>vaktf —tva<e>3
+;abinfo: <L>184641<pc>912,2	vaktftva	vaktf —tva	vaktf tva
+617583 new <L>184641<pc>912,2<k1>vaktftva<k2>vaktf—tva<e>3
+; status=done
+; extra
+617584 old <s>vaktf —tva</s> ¦ <lex>n.</lex> <ab>id.</ab>, <ls>Kṣem.</ls><info lex="n"/>
+;
+617584 new <s>vaktf—tva</s> ¦ <lex>n.</lex> <ab>id.</ab>, <ls>Kṣem.</ls><info lex="n"/>
+;---------------------------------------------
+617586 old <L>184642<pc>912,2<k1>vaktftvaSakti<k2>vaktf -tva-Sakti<e>3
+;abinfo: <L>184642<pc>912,2	vaktftvaSakti	vaktf -tva-Sakti	vaktf tvaSakti
+617586 new <L>184642<pc>912,2<k1>vaktftvaSakti<k2>vaktf-tva-Sakti<e>3
+; status=done
+; extra
+617587 old <s>vaktf -tva-Sakti</s> ¦ <lex>f.</lex> power of speech, <ls>MW.</ls><info lex="f"/>
+;
+617587 new <s>vaktf-tva-Sakti</s> ¦ <lex>f.</lex> power of speech, <ls>MW.</ls><info lex="f"/>
+;---------------------------------------------
+624277 old <L>186734<pc>921,3<k1>varuRAnyAHsAman<k2>varuRAnyAH sAman<e>3
+;abinfo: <L>186734<pc>921,3	varuRAnyAHsAman	varuRAnyAH sAman	varuRAnyAH sAman
+624277 new <L>186734<pc>921,3<k1>varuRAnyAHsAman<k2>varuRAnyAH sAman<e>3
+; status=nochange
+;---------------------------------------------
+635890 old <L>190313.1<pc>938,1<k1>vAjapeyakratorudgAtfprayoga<k2>vAja—peya—krator udgAtf-prayoga<e>4
+;abinfo: <L>190313.1<pc>938,1	vAjapeyakratorudgAtfprayoga	vAja—peya—krator udgAtf-prayoga	vAjapeyakrator udgAtfprayoga
+635890 new <L>190313.1<pc>938,1<k1>vAjapeyakratorudgAtfprayoga<k2>vAja—peya—krator udgAtf-prayoga<e>4
+; status=nochange
+;---------------------------------------------
+643245 old <L>192641<pc>948,3<k1>vAstuyAgaviDestattva<k2>vAstu—yAga—viDes tattva<e>4
+;abinfo: <L>192641<pc>948,3	vAstuyAgaviDestattva	vAstu—yAga—viDes tattva	vAstuyAgaviDes tattva
+643245 new <L>192641<pc>948,3<k1>vAstuyAgaviDestattva<k2>vAstu—yAga—viDes tattva<e>4
+; status=nochange
+;---------------------------------------------
+654071 old <L>195862<pc>964,2<k1>vidyAvizayehomaviDi<k2>vidyA—vizaye homa-viDi<e>3
+;abinfo: <L>195862<pc>964,2	vidyAvizayehomaviDi	vidyA—vizaye homa-viDi	vidyAvizaye homaviDi
+654071 new <L>195862<pc>964,2<k1>vidyAvizayehomaviDi<k2>vidyA—vizaye homa-viDi<e>3
+; status=nochange
+;---------------------------------------------
+668131 old <L>200080.1<pc>987,2<k1>vivAhahomopayuktAmantra<k2>vi-vAha—homopayuktA mantra<e>3
+;abinfo: <L>200080.1<pc>987,2	vivAhahomopayuktAmantra	vi-vAha—homopayuktA mantra	vivAhahomopayuktA mantra
+668131 new <L>200080.1<pc>987,2<k1>vivAhahomopayuktAmantra<k2>vi-vAha—homopayuktA mantra<e>3
+; status=nochange
+;---------------------------------------------
+668137 old <L>200082<pc>987,2<k1>vivAhAdikarmaRAmprayoga<k2>vi-vAhAdi-karmaRAm prayoga<e>3
+;abinfo: <L>200082<pc>987,2	vivAhAdikarmaRAmprayoga	vi-vAhAdi-karmaRAm prayoga	vivAhAdikarmaRAm prayoga
+668137 new <L>200082<pc>987,2<k1>vivAhAdikarmaRAmprayoga<k2>vi-vAhAdi-karmaRAm prayoga<e>3
+; status=nochange
+;---------------------------------------------
+676537 old <L>202559<pc>1000,1<k1>vizRumahimnaHstava<k2>vizRu—mahimnaH stava<e>4
+;abinfo: <L>202559<pc>1000,1	vizRumahimnaHstava	vizRu—mahimnaH stava	vizRumahimnaH stava
+676537 new <L>202559<pc>1000,1<k1>vizRumahimnaHstava<k2>vizRu—mahimnaH stava<e>4
+; status=nochange
+;---------------------------------------------
+680780 old <L>203796<pc>1006,2<k1>vIrasiMhamitrodayesaMskAraprakaraRa<k2>vIra—siMha—mitrodaye saMskAra-prakaraRa<e>4
+;abinfo: <L>203796<pc>1006,2	vIrasiMhamitrodayesaMskAraprakaraRa	vIra—siMha—mitrodaye saMskAra-prakaraRa	vIrasiMhamitrodaye saMskAraprakaraRa
+680780 new <L>203796<pc>1006,2<k1>vIrasiMhamitrodayesaMskAraprakaraRa<k2>vIra—siMha—mitrodaye saMskAra-prakaraRa<e>4
+; status=nochange
+;---------------------------------------------
+684146 old <L>204806<pc>1011,3<k1>vfndAvanaKaRqegargasaMhitA<k2>vfndA—vana—KaRqe garga-saMhitA<e>4
+;abinfo: <L>204806<pc>1011,3	vfndAvanaKaRqegargasaMhitA	vfndA—vana—KaRqe garga-saMhitA	vfndAvanaKaRqe gargasaMhitA
+684146 new <L>204806<pc>1011,3<k1>vfndAvanaKaRqegargasaMhitA<k2>vfndA—vana—KaRqe garga-saMhitA<e>4
+; status=nochange
+;---------------------------------------------
+687354 old <L>205804<pc>1016,1<k1>vedavedAntatattvasAreSAlagrAmamAhAtmya<k2>veda—vedAnta-tattva-sAre SAlagrAma-mAhAtmya<e>3
+;abinfo: <L>205804<pc>1016,1	vedavedAntatattvasAreSAlagrAmamAhAtmya	veda—vedAnta-tattva-sAre SAlagrAma-mAhAtmya	vedavedAntatattvasAre SAlagrAmamAhAtmya
+687354 new <L>205804<pc>1016,1<k1>vedavedAntatattvasAreSAlagrAmamAhAtmya<k2>veda—vedAnta-tattva-sAre SAlagrAma-mAhAtmya<e>3
+; status=nochange
+;---------------------------------------------
+687984 old <L>205976<pc>1017,1<k1>vedAntanyAyaratnAvalIbrahmAdvEtAmftaprakASikA<k2>vedAnta—nyAya-ratnAvalI brahmAdvEtAmfta-prakASikA<e>3
+;abinfo: <L>205976<pc>1017,1	vedAntanyAyaratnAvalIbrahmAdvEtAmftaprakASikA	vedAnta—nyAya-ratnAvalI brahmAdvEtAmfta-prakASikA	vedAntanyAyaratnAvalI brahmAdvEtAmftaprakASikA
+687984 new <L>205976<pc>1017,1<k1>vedAntanyAyaratnAvalIbrahmAdvEtAmftaprakASikA<k2>vedAnta—nyAya-ratnAvalI brahmAdvEtAmfta-prakASikA<e>3
+; status=nochange
+;---------------------------------------------
+688230 old <L>206033.1<pc>1017,2<k1>vedAntasUtravfttisaMkziptA<k2>vedAnta—sUtra—vftti saMkziptA<e>4
+;abinfo: <L>206033.1<pc>1017,2	vedAntasUtravfttisaMkziptA	vedAnta—sUtra—vftti saMkziptA	vedAntasUtravftti saMkziptA
+688230 new <L>206033.1<pc>1017,2<k1>vedAntasUtravfttisaMkziptA<k2>vedAnta—sUtra—vftti saMkziptA<e>4
+; status=nochange
+;---------------------------------------------
+708272 old <L>212200<pc>1050,2<k1>SataSlokirAmAyaRa<k2>Sata—Sloki rAmAyaRa<e>3
+;abinfo: <L>212200<pc>1050,2	SataSlokirAmAyaRa	Sata—Sloki rAmAyaRa	SataSloki rAmAyaRa
+708272 new <L>212200<pc>1050,2<k1>SataSlokirAmAyaRa<k2>Sata—Sloki rAmAyaRa<e>3
+; status=nochange
+;---------------------------------------------
+709926 old <L>212720.1<pc>1052,3<k1>SabdaparicCedarahasyepUrvavAdarahasya<k2>Sabda—paricCeda—rahasye 'pUrvavAdarahasya<e>4
+;abinfo: <L>212720.1<pc>1052,3	SabdaparicCedarahasyepUrvavAdarahasya	Sabda—paricCeda—rahasye 'pUrvavAdarahasya	SabdaparicCedarahasye pUrvavAdarahasya
+709926 new <L>212720.1<pc>1052,3<k1>SabdaparicCedarahasyepUrvavAdarahasya<k2>Sabda—paricCeda—rahasye 'pUrvavAdarahasya<e>4
+; status=nochange
+;---------------------------------------------
+725739 old <L>217744.3<pc>1075,1<k1>SivamahimnaHstotra<k2>Siva—mahimnaH stotra<e>4
+;abinfo: <L>217744.3<pc>1075,1	SivamahimnaHstotra	Siva—mahimnaH stotra	SivamahimnaH stotra
+725739 new <L>217744.3<pc>1075,1<k1>SivamahimnaHstotra<k2>Siva—mahimnaH stotra<e>4
+; status=nochange
+;---------------------------------------------
+739452 old <L>222096<pc>1094,3<k1>SyAmasAhSaMkara<k2>SyAma—sAh SaMkara<e>3
+;abinfo: <L>222096<pc>1094,3	SyAmasAhSaMkara	SyAma—sAh SaMkara	SyAmasAh SaMkara
+739452 new <L>222096<pc>1094,3<k1>SyAmasAhSaMkara<k2>SyAma—sAh SaMkara<e>3
+; status=nochange
+;---------------------------------------------
+741443 old <L>222715.3<pc>1097,3<k1>SrAdDakalpaBAzyagoBilIya<k2>SrAdDa—kalpa—BAzya goBilIya<e>4
+;abinfo: <L>222715.3<pc>1097,3	SrAdDakalpaBAzyagoBilIya	SrAdDa—kalpa—BAzya goBilIya	SrAdDakalpaBAzya goBilIya
+741443 new <L>222715.3<pc>1097,3<k1>SrAdDakalpaBAzyagoBilIya<k2>SrAdDa—kalpa—BAzya goBilIya<e>4
+; status=nochange
+;---------------------------------------------
+742944 old <L>223174<pc>1099,3<k1>SrImahimnaHstava<k2>SrI—mahimnaH stava<e>4
+;abinfo: <L>223174<pc>1099,3	SrImahimnaHstava	SrI—mahimnaH stava	SrImahimnaH stava
+742944 new <L>223174<pc>1099,3<k1>SrImahimnaHstava<k2>SrI—mahimnaH stava<e>4
+; status=nochange
+;---------------------------------------------
+744063 old <L>223499<pc>1101,2<k1>SrutaSravonuja<k2>Sruta—Sravo 'nuja<e>4
+;abinfo: <L>223499<pc>1101,2	SrutaSravonuja	Sruta—Sravo 'nuja	SrutaSravo nuja
+744063 new <L>223499<pc>1101,2<k1>SrutaSravonuja<k2>Sruta—Sravo 'nuja<e>4
+; status=nochange
+;---------------------------------------------
+748762 old <L>224963<pc>1108,2<k1>zawkUwaSlokAnAmarTAH<k2>zaw—kUwa-SlokAnAm arTAH<e>3
+;abinfo: <L>224963<pc>1108,2	zawkUwaSlokAnAmarTAH	zaw—kUwa-SlokAnAm arTAH	zawkUwaSlokAnAm arTAH
+748762 new <L>224963<pc>1108,2<k1>zawkUwaSlokAnAmarTAH<k2>zaw—kUwa-SlokAnAm arTAH<e>3
+; status=nochange
+;---------------------------------------------
+754798 old <L>226715<pc>1118,2<k1>saMSravasaHsAma<k2>saM-SravasaH sAma<e>4
+;abinfo: <L>226715<pc>1118,2	saMSravasaHsAma	saM-SravasaH sAma	saMSravasaH sAma
+754798 new <L>226715<pc>1118,2<k1>saMSravasaHsAma<k2>saM-SravasaH sAma<e>4
+; status=nochange
+;---------------------------------------------
+760242 old <L>228350.2<pc>1127,3<k1>saMkziptarAgAnugApUjApadDati<k2>saM-kzipta—rAgAnugA pUjA-padDati<e>3
+;abinfo: <L>228350.2<pc>1127,3	saMkziptarAgAnugApUjApadDati	saM-kzipta—rAgAnugA pUjA-padDati	saMkziptarAgAnugA pUjApadDati
+760242 new <L>228350.2<pc>1127,3<k1>saMkziptarAgAnugApUjApadDati<k2>saM-kzipta—rAgAnugA pUjA-padDati<e>3
+; status=nochange
+;---------------------------------------------
+761137 old <L>228584.50<pc>1129,1<k1>saMgItavinodenftyADyAya<k2>saM-gIta—vinode nftyADyAya<e>3
+;abinfo: <L>228584.50<pc>1129,1	saMgItavinodenftyADyAya	saM-gIta—vinode nftyADyAya	saMgItavinode nftyADyAya
+761137 new <L>228584.50<pc>1129,1<k1>saMgItavinodenftyADyAya<k2>saM-gIta—vinode nftyADyAya<e>3
+; status=nochange
+;---------------------------------------------
+774247 old <L>232453<pc>1149,2<k1>saptagranTanibarhaRaSEvavEzRavavicAra<k2>sapta—granTa-nibarhaRa SEva-vEzRava-vicAra<e>3
+;abinfo: <L>232453<pc>1149,2	saptagranTanibarhaRaSEvavEzRavavicAra	sapta—granTa-nibarhaRa SEva-vEzRava-vicAra	saptagranTanibarhaRa SEvavEzRavavicAra
+774247 new <L>232453<pc>1149,2<k1>saptagranTanibarhaRaSEvavEzRavavicAra<k2>sapta—granTa-nibarhaRa SEva-vEzRava-vicAra<e>3
+; status=nochange
+;---------------------------------------------
+810497 old <L>243265<pc>1210,2<k1>sArvaBOmasarvasverAmasUkta<k2>sArva—BOma—sarvasve rAma-sUkta<e>4
+;abinfo: <L>243265<pc>1210,2	sArvaBOmasarvasverAmasUkta	sArva—BOma—sarvasve rAma-sUkta	sArvaBOmasarvasve rAmasUkta
+810497 new <L>243265<pc>1210,2<k1>sArvaBOmasarvasverAmasUkta<k2>sArva—BOma—sarvasve rAma-sUkta<e>4
+; status=nochange
+;---------------------------------------------
+819468 old <L>246063<pc>1222,3<k1>sugaBasti<k2>su/—gaBasti,su-ga/Basti<e>3
+;abinfo: <L>246063<pc>1222,3	sugaBasti	su,—gaBasti,su-ga/Basti	su
+819468 new <L>246063<pc>1222,3<k1>sugaBasti<k2>su/—gaBasti,su-ga/Basti<e>3
+; status=nochange
+;---------------------------------------------
+841593 old <L>252921<pc>1250,2<k1>somaBakzayoHprayoga<k2>soma—BakzayoH prayoga<e>4
+;abinfo: <L>252921<pc>1250,2	somaBakzayoHprayoga	soma—BakzayoH prayoga	somaBakzayoH prayoga
+841593 new <L>252921<pc>1250,2<k1>somaBakzayoHprayoga<k2>soma—BakzayoH prayoga<e>4
+; status=nochange
+;---------------------------------------------
+843672 old <L>253580<pc>1253,2<k1>sOBAgyalakzmIkalpeSyAmalAmbAstotra<k2>sOBAgya—lakzmI-kalpe SyAmalAmbA-stotra<e>3
+;abinfo: <L>253580<pc>1253,2	sOBAgyalakzmIkalpeSyAmalAmbAstotra	sOBAgya—lakzmI-kalpe SyAmalAmbA-stotra	sOBAgyalakzmIkalpe SyAmalAmbAstotra
+843672 new <L>253580<pc>1253,2<k1>sOBAgyalakzmIkalpeSyAmalAmbAstotra<k2>sOBAgya—lakzmI-kalpe SyAmalAmbA-stotra<e>3
+; status=nochange
+;---------------------------------------------
+843675 old <L>253581<pc>1253,2<k1>sOBAgyalakzmItantreSyAmalAmbAvarmaratna<k2>sOBAgya—lakzmI-tantre SyAmalAmbA-varma-ratna<e>3
+;abinfo: <L>253581<pc>1253,2	sOBAgyalakzmItantreSyAmalAmbAvarmaratna	sOBAgya—lakzmI-tantre SyAmalAmbA-varma-ratna	sOBAgyalakzmItantre SyAmalAmbAvarmaratna
+843675 new <L>253581<pc>1253,2<k1>sOBAgyalakzmItantreSyAmalAmbAvarmaratna<k2>sOBAgya—lakzmI-tantre SyAmalAmbA-varma-ratna<e>3
+; status=nochange
+;---------------------------------------------
+848676 old <L>255101<pc>1261,2<k1>strISUdrAdInAMdevArcanavicAra<k2>strI—SUdrA-dInAM devArcana-vicAra<e>3
+;abinfo: <L>255101<pc>1261,2	strISUdrAdInAMdevArcanavicAra	strI—SUdrA-dInAM devArcana-vicAra	strISUdrAdInAM devArcanavicAra
+848676 new <L>255101<pc>1261,2<k1>strISUdrAdInAMdevArcanavicAra<k2>strI—SUdrA-dInAM devArcana-vicAra<e>3
+; status=nochange
+;---------------------------------------------
+857664 old <L>257900<pc>1275,3<k1>svatantramuKamardana<k2>sva—tantra—muKa mardana<e>4
+;abinfo: <L>257900<pc>1275,3	svatantramuKamardana	sva—tantra—muKa mardana	svatantramuKa mardana
+857664 new <L>257900<pc>1275,3<k1>svatantramuKamardana<k2>sva—tantra—muKa mardana<e>4
+; status=nochange
+;---------------------------------------------

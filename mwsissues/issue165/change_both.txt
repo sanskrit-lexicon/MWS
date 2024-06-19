@@ -1,0 +1,250 @@
+3038 old <L>831<pc>4,3<k1>agastyasaMhitA<k2>ag/stya—saMhitA<e>3
+; info: <L>831<pc>4,3	agastyasaMhitA	ag/stya—saMhitA	agstyasaMhitA
+; done
+3038 new <L>831<pc>4,3<k1>agastyasaMhitA<k2>aga/stya—saMhitA<e>3
+; ---------------------------------------------
+4289 old <L>1164.1<pc>6,1<k1>agnIzomIyapaSvanuzWAna<k2>agnIzom/ya—paSv-anuzWAna<e>4
+; info: <L>1164.1<pc>6,1	agnIzomIyapaSvanuzWAna	agnIzom/ya—paSv-anuzWAna	agnIzomyapaSvanuzWAna
+; done
+4289 new <L>1164.1<pc>6,1<k1>agnIzomIyapaSvanuzWAna<k2>agnIzomI/ya—paSv-anuzWAna<e>4
+; ---------------------------------------------
+23487 old <L>6414<pc>33,1<k1>anudaka<k2>an-udakam<e>1C
+; info: <L>6414<pc>33,1	anudaka	an-udakam	anudakam
+23487 new <L>6414<pc>33,1<k1>anudakam<k2>an-udakam<e>1C
+; done
+; ---------------------------------------------
+30695 old <L>8336<pc>44,2<k1>antika<k2>antikA/t<e>2B
+; info: <L>8336<pc>44,2	antika	antikA/t	antikAt
+30695 new <L>8336<pc>44,2<k1>antikAt<k2>antikA/t<e>2C
+; done
+; ---------------------------------------------
+30698 old <L>8337<pc>44,2<k1>antika<k2>antikA/t<e>2B
+; info: <L>8337<pc>44,2	antika	antikA/t	antikAt
+30698 new <L>8337<pc>44,2<k1>antikAt<k2>antikA/t<e>2C
+; done
+; ---------------------------------------------
+67969 old <L>18838<pc>108,3<k1>avidviz<k2>a-vidvize<e>1C
+; info: <L>18838<pc>108,3	avidviz	a-vidvize	avidvize
+67969 new <L>18838<pc>108,3<k1>avidvize<k2>a-vidvize<e>1C
+; done
+; ---------------------------------------------
+99246 old <L>27885<pc>159,3<k1>Asanizu<k2>Asa/nn—izu<e>3
+; info: <L>27885<pc>159,3	Asanizu	Asa/nn—izu	Asannizu
+99246 new <L>27885<pc>159,3<k1>Asannizu<k2>Asa/nn—izu<e>3
+; done
+; ---------------------------------------------
+102213 old <L>28702<pc>164,3<k1>iqAyAspade<k2>iLAyA/s-pade/<e>3
+; info: <L>28702<pc>164,3	iqAyAspade	iLAyA/s-pade/	iLAyAspade
+102213 new <L>28702<pc>164,3<k1>iLAyAspade<k2>iLAyA/s-pade/<e>3
+; done
+; ---------------------------------------------
+114318 old <L>32131<pc>183,2<k1>udaSvidvat<k2>uda—Svi/t-vat<e>4
+; info: <L>32131<pc>183,2	udaSvidvat	uda—Svi/t-vat	udaSvitvat
+114318 new <L>32131<pc>183,2<k1>udaSvitvat<k2>uda—Svi/t-vat<e>4
+; done
+; ---------------------------------------------
+126167 old <L>35591<pc>205,2<k1>uparizwAllakzman<k2>upa/rizwA—lakzman<e>3
+; info: <L>35591<pc>205,2	uparizwAllakzman	upa/rizwA—lakzman	uparizwAlakzman
+126167 new <L>35591<pc>205,2<k1>uparizwAllakzman<k2>upa/rizwAl—lakzman<e>3
+; done
+; ---------------------------------------------
+140301 old <L>39787.70<pc>230,1<k1>ekAdaSAratni<k2>/kAdaSAratni<e>4
+; info: <L>39787.70<pc>230,1	ekAdaSAratni	/kAdaSAratni	kAdaSAratni
+140301 new <L>39787.70<pc>230,1<k1>ekAdaSAratni<k2>ekAdaSAratni<e>4
+; done  Do all the cpds starting with <L>39787.05 need accent on initial 'e'?
+; ---------------------------------------------
+142710 old <L>40430<pc>234,1<k1>EndrI<k2>EndraI<e>1B
+; info: <L>40430<pc>234,1	EndrI	EndraI	EndraI
+142710 new <L>40430<pc>234,1<k1>EndrI<k2>EndrI<e>1B
+; done
+; ---------------------------------------------
+162735 old <L>46511<pc>264,2<k1>kavi<k2>kav<e>1B
+; info: <L>46511<pc>264,2	kavi	kav	kav
+162735 new <L>46511<pc>264,2<k1>kavi<k2>kavi/<e>1B
+; done
+; ---------------------------------------------
+162738 old <L>46512<pc>264,2<k1>kavi<k2>kav<e>1B
+; info: <L>46512<pc>264,2	kavi	kav	kav
+162738 new <L>46512<pc>264,2<k1>kavi<k2>kavi/<e>1B
+; done
+; ---------------------------------------------
+162741 old <L>46513<pc>264,2<k1>kavi<k2>kav<e>1B
+; info: <L>46513<pc>264,2	kavi	kav	kav
+162741 new <L>46513<pc>264,2<k1>kavi<k2>kavi/<e>1B
+; done
+; ---------------------------------------------
+162744 old <L>46514<pc>264,2<k1>kavi<k2>kav<e>1B
+; info: <L>46514<pc>264,2	kavi	kav	kav
+162744 new <L>46514<pc>264,2<k1>kavi<k2>kavi/<e>1B
+; done
+; ---------------------------------------------
+250856 old <L>73842.80<pc>397,1<k1>citraraTa<k2>citra/—raTI<e>3B
+; info: <L>73842.80<pc>397,1	citraraTa	citra/—raTI	citraraTI
+250856 new <L>73842.80<pc>397,1<k1>citraraTI<k2>citra/—raTI<e>3B
+; done
+; ---------------------------------------------
+333451 old <L>99021<pc>507,1<k1>dvIpavat<k2>dvIpa—vatI<e>3B
+; info: <L>99021<pc>507,1	dvIpavat	dvIpa—vatI	dvIpavatI
+333451 new <L>99021<pc>507,1<k1>dvIpavatI<k2>dvIpa—vatI<e>3B
+; done
+; ---------------------------------------------
+347282 old <L>103160<pc>525,2<k1>nagnaikA<k2>na/gnikA<e>2B
+; info: <L>103160<pc>525,2	nagnaikA	na/gnikA	nagnikA
+347282 new <L>103160<pc>525,2<k1>nagnikA<k2>na/gnikA<e>2B
+; done
+; ---------------------------------------------
+355080 old <L>105511.1<pc>535,1<k1>nAnAvinA<k2>nA/nA<e>1C
+; info: <L>105511.1<pc>535,1	nAnAvinA	nA/nA	nAnA
+355080 new <L>105511.1<pc>535,1<k1>nAnA<k2>nA/nA<e>1C
+; done
+; ---------------------------------------------
+405777 old <L>120204<pc>610,1<k1>palASI<k2>palASa/<e>1B
+; info: <L>120204<pc>610,1	palASI	palASa/	palASa
+405777 new <L>120204<pc>610,1<k1>palASI<k2>palASI<e>1B
+; done
+; ---------------------------------------------
+405780 old <L>120205<pc>610,1<k1>palASI<k2>palASa/<e>1B
+; info: <L>120205<pc>610,1	palASI	palASa/	palASa
+405780 new <L>120205<pc>610,1<k1>palASI<k2>palASI<e>1B
+; done
+; ---------------------------------------------
+405783 old <L>120206<pc>610,1<k1>palASa<k2>palASa/<e>1B
+; extra: 
+405783 new <L>120206<pc>610,1<k1>palASI<k2>palASI<e>1B
+; ---------------------------------------------
+405784 old <s>palASa/</s> ¦ <lex>mfn.</lex> green, <ls>L.</ls> (<ab>w.r.</ab> for <s>pAlASa</s>). <info lex="m:f:n"/>
+; extra
+405784 new ¦ <lex>mfn.</lex> green, <ls>L.</ls> (<ab>w.r.</ab> for <s>pAlASa</s>). <info lex="inh"/>
+; ---------------------------------------------
+406635 old <L>120473<pc>611,1<k1>pavitrarogaparihAraprayoga<k2>pavi/ra—roga-parihAra-prayoga<e>3
+; info: <L>120473<pc>611,1	pavitrarogaparihAraprayoga	pavi/ra—roga-parihAra-prayoga	pavirarogaparihAraprayoga
+406635 new <L>120473<pc>611,1<k1>pavitrarogaparihAraprayoga<k2>pavi/tra—roga-parihAra-prayoga<e>3
+; done
+; ---------------------------------------------
+422842 old <L>125501<pc>632,3<k1>putra<k2>putrI<e>1B
+; info: <L>125501<pc>632,3	putra	putrI	putrI
+422842 new <L>125501<pc>632,3<k1>putrI<k2>putrI<e>1B
+; done
+; ---------------------------------------------
+422845 old <L>125502<pc>632,3<k1>putra<k2>putraI<e>1B
+; info: <L>125502<pc>632,3	putra	putraI	putraI
+422845 new <L>125502<pc>632,3<k1>putrI<k2>putrI<e>1B
+; done
+; ---------------------------------------------
+455195 old <L>135161<pc>682,2<k1>prapApAlikA<k2>pra-pAlikA<e>3
+; info: <L>135161<pc>682,2	prapApAlikA	pra-pAlikA	prapAlikA
+455195 new <L>135161<pc>682,2<k1>prapApAlikA<k2>pra-pA—pAlikA<e>3
+; done
+; extra
+455196 old <s>pra-pAlikA</s> ¦ <lex>f.</lex> a woman who distributes water to travellers, <ls>Vcar.</ls><info lex="f"/>
+;
+455196 new <s>pra-pA—pAlikA</s> ¦ <lex>f.</lex> a woman who distributes water to travellers, <ls>Vcar.</ls><info lex="f"/>
+; ---------------------------------------------
+455198 old <L>135161.1<pc>682,2<k1>prapApAlI<k2>pra-pAlI<e>3
+; info: <L>135161.1<pc>682,2	prapApAlI	pra-pAlI	prapAlI
+455198 new <L>135161.1<pc>682,2<k1>prapApAlI<k2>pra-pA—pAlI<e>3
+;
+; extra
+455199 old <s>pra-pAlI</s> ¦ <lex>f.</lex> a woman who distributes water to travellers, <ls>Vcar.</ls><info lex="f"/>
+;
+455199 new <s>pra-pA—pAlI</s> ¦ <lex>f.</lex> a woman who distributes water to travellers, <ls>Vcar.</ls><info lex="f"/>
+; ---------------------------------------------
+465456 old <L>138171<pc>698,3<k1>prasfmara<k2>pa-sfmara<h>a<e>3
+; info: <L>138171<pc>698,3	prasfmara	pa-sfmara	pasfmara
+465456 new <L>138171<pc>698,3<k1>prasfmara<k2>pra-sfmara<h>a<e>3
+; done
+; ---------------------------------------------
+491976 old <L>146247.02<pc>736,2<k1>bfhadAraRyakopanizad<k2>bfhad—AraRya<e>3
+; info: <L>146247.02<pc>736,2	bfhadAraRyakopanizad	bfhad—AraRya	bfhadAraRya
+491976 new <L>146247.02<pc>736,2<k1>bfhadAraRyakopanizad<k2>bfhad—AraRya°ko/panizad<e>3
+; done
+; ---------------------------------------------
+550926 old <L>164214<pc>816,2<k1>mitramahas<k2>mitra/Q—mahas<e>3
+; info: <L>164214<pc>816,2	mitramahas	mitra/Q—mahas	mitraQmahas
+550926 new <L>164214<pc>816,2<k1>mitramahas<k2>mitra/—mahas<e>3
+; done
+; extra
+550927 old <s>mitra/—mahas</s> ¦ (<s>mitra/-</s>), <lex>mfn.</lex> (perhaps) having plenty of <ab n="friend">fr°</ab>, rich in <ab n="friend">fr°</ab>, <ls>RV.</ls><info lex="m:f:n"/>
+;
+550927 new <s>mitra/—mahas</s> ¦ (<s>mitra/-</s>), <lex>mfn.</lex> (perhaps) having plenty of <ab n="friend">fr°</ab>s, rich in <ab n="friend">fr°</ab>s, <ls>RV.</ls><info lex="m:f:n"/>
+; ---------------------------------------------
+569545 old <L>169899.2<pc>842,3<k1>yaTAyogenam<k2>yaTA—am<e>3B
+; info: <L>169899.2<pc>842,3	yaTAyogenam	yaTA—am	yaTAam
+569545 new <L>169899.2<pc>842,3<k1>yaTAyogena<k2>yaTA—yogena<e>3B
+; done
+; ---------------------------------------------
+613272 old <L>183293<pc>906,2<k1>lokaDAtf<k2>loka—DAtrI<e>3B
+; info: <L>183293<pc>906,2	lokaDAtf	loka—DAtrI	lokaDAtrI
+613272 new <L>183293<pc>906,2<k1>lokaDAtrI<k2>loka—DAtrI<e>3B
+; done
+; ---------------------------------------------
+614582 old <L>183707<pc>908,2<k1>lomaSA<k2>lomaS/<e>2B
+; info: <L>183707<pc>908,2	lomaSA	lomaS/	lomaS
+614582 new <L>183707<pc>908,2<k1>lomaSA<k2>lomaSA<e>2B
+; done
+; ---------------------------------------------
+641781 old <L>192173<pc>946,3<k1>vAlukI<k2>vAluka<e>2B
+; info: <L>192173<pc>946,3	vAlukI	vAluka	vAluka
+641781 new <L>192173<pc>946,3<k1>vAlukI<k2>vAlukI<e>2B
+; done
+; ---------------------------------------------
+641784 old <L>192174<pc>946,3<k1>vAlukI<k2>vAluka<e>2B
+; info: <L>192174<pc>946,3	vAlukI	vAluka	vAluka
+641784 new <L>192174<pc>946,3<k1>vAlukI<k2>vAlukI<e>2B
+; done
+; ---------------------------------------------
+652002 old <L>195261<pc>961,1<k1>vijYAtavya<k2>v/-jYAtavya<e>3A
+; info: <L>195261<pc>961,1	vijYAtavya	v/-jYAtavya	vjYAtavya
+652002 new <L>195261<pc>961,1<k1>vijYAtavya<k2>vi-jYAtavya<e>3A
+; done
+; ---------------------------------------------
+694216 old <L>207951<pc>1027,1<k1>vESvAnarI<k2>vESvAnaraI<e>2B
+; info: <L>207951<pc>1027,1	vESvAnarI	vESvAnaraI	vESvAnaraI
+694216 new <L>207951<pc>1027,1<k1>vESvAnarI<k2>vESvAnarI<e>2B
+; done
+; ---------------------------------------------
+707999 old <L>212118<pc>1050,1<k1>SatayAyin<k2>Sata—yojana—yAyin<e>3
+; info: <L>212118<pc>1050,1	SatayAyin	Sata—yojana—yAyin	SatayojanayAyin
+707999 new <L>212118<pc>1050,1<k1>SatayojanayAyin<k2>Sata—yojana—yAyin<e>3
+; done
+; ---------------------------------------------
+708002 old <L>212119<pc>1050,1<k1>SatayAyinvat<k2>Sata—yojana—vat<e>4
+; info: <L>212119<pc>1050,1	SatayAyinvat	Sata—yojana—vat	Satayojanavat
+708002 new <L>212119<pc>1050,1<k1>Satayojanavat<k2>Sata—yojana—vat<e>4
+; done
+; ---------------------------------------------
+740726 old <L>222495<pc>1096,3<k1>Srava<k2>Srava-eza<h>a<e>3
+; info: <L>222495<pc>1096,3	Srava	Srava-eza	Sravaeza
+740726 new <L>222495<pc>1096,3<k1>Sravaeza<k2>Srava-eza<h>a<e>3
+; done
+; ---------------------------------------------
+750395 old <L>225412<pc>1110,2<k1>zoqaSI<k2>zo-qaS/<e>2B
+; info: <L>225412<pc>1110,2	zoqaSI	zo-qaS/	zoqaS
+750395 new <L>225412<pc>1110,2<k1>zoqaSI<k2>zo-qaSI<e>2B
+; done
+; ---------------------------------------------
+800538 old <L>240192<pc>1194,1<k1>sahajanyI<k2>saha—janyA/<e>3B
+; info: <L>240192<pc>1194,1	sahajanyI	saha—janyA/	sahajanyA
+800538 new <L>240192<pc>1194,1<k1>sahajanyA<k2>saha—janyA/<e>3B
+; done
+; ---------------------------------------------
+823172 old <L>247201<pc>1226,3<k1>sunO<k2>su—nu<e>3B
+; info: <L>247201<pc>1226,3	sunO	su—nu	sunu
+823172 new <L>247201<pc>1226,3<k1>sunO<k2>su—nO<e>3B
+; done ?  Sense is 'water', Ap has sunO 'water ?' under 'su'
+; ---------------------------------------------
+850408 old <L>255643<pc>1264,2<k1>sTita<k2>sTit/<e>2B
+; info: <L>255643<pc>1264,2	sTita	sTit/	sTit
+850408 new <L>255643<pc>1264,2<k1>sTita<k2>sTita<e>2B
+; done
+; ---------------------------------------------
+850447 old <L>255655.1<pc>1264,2<k1>sTitavatvatI<k2>sTita—vatI<e>4
+; info: <L>255655.1<pc>1264,2	sTitavatvatI	sTita—vatI	sTitavatI
+850447 new <L>255655.1<pc>1264,2<k1>sTitavatI<k2>sTita—vatI<e>4
+; done
+; ---------------------------------------------
+860178 old <L>258657<pc>1278,3<k1>svayamBUliNgasamBUtA<k2>svayam—B/—liNga-samBUtA<e>4
+; info: <L>258657<pc>1278,3	svayamBUliNgasamBUtA	svayam—B/—liNga-samBUtA	svayamBliNgasamBUtA
+860178 new <L>258657<pc>1278,3<k1>svayamBUliNgasamBUtA<k2>svayam—BU—liNga-samBUtA<e>4
+; done
+; ---------------------------------------------
