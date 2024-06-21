@@ -242,5 +242,8 @@ python k2_to_k1_diffs.py 3 temp_mw_4.txt k2_to_k1_diffs_4_3.txt
 0 lines written to k2_to_k1_diffs_4_3.txt
 # thus, no additional cases to consider.
 *********************************************************************
+06-20-2024
+Revise two corrections per AB review:
+ https://github.com/sanskrit-lexicon/MWS/issues/165#issuecomment-2179293508
 THE END
 
