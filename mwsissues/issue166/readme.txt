@@ -86,76 +86,9 @@ cd /c/xampp/htdocs/cologne/csl-orig/v02/mw/
 git add mw.txt
 git commit -m "MW dot.corrections :
 Ref: https://github.com/sanskrit-lexicon/csl-orig/issues/1645#issuecomment-2198054242
-Ref: 
+Ref: https://github.com/sanskrit-lexicon/MWS/issues/166"
+
 git push
 cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue166
 
-------------------------------------------------------------------------
-cp temp_mw_2.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
-cd /c/xampp/htdocs/cologne/csl-pywork/v02
-sh generate_dict.sh mw  ../../mw
-sh xmlchk_xampp.sh mw
-
-cd /c/xampp/htdocs/cologne/csl-orig/v02/mw/
-git add mw.txt
-git commit -m "change_unique_cdsl Ref: https://github.com/sanskrit-lexicon/MWS/issues/166"
-git push
-cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue166
-
-------------------------------------------------------------------------
-cp temp_mw_3.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
-cd /c/xampp/htdocs/cologne/csl-pywork/v02
-sh generate_dict.sh mw  ../../mw
-sh xmlchk_xampp.sh mw
-
-cd /c/xampp/htdocs/cologne/csl-orig/v02/mw/
-git add mw.txt
-git commit -m "change_unique_ab Ref: https://github.com/sanskrit-lexicon/MWS/issues/166"
-git push
-cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue166
-
-------------------------------------------------------------------------
-cp temp_mw_4.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
-cd /c/xampp/htdocs/cologne/csl-pywork/v02
-sh generate_dict.sh mw  ../../mw
-sh xmlchk_xampp.sh mw
-
-cd /c/xampp/htdocs/cologne/csl-orig/v02/mw/
-git add mw.txt
-git commit -m "small misc rewrite Ref: https://github.com/sanskrit-lexicon/MWS/issues/166"
-git push
-cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue166
-
-*********************************************************************
-Minor revision
-python k2_to_k1_diffs.py 3 temp_mw_0.txt k2_to_k1_diffs_0_3.txt
-73 lines written to k2_to_k1_diffs_0_3.txt
-  comparable to k2_to_k1_diffs_0_2.txt
------------------------------
-$ diff k2_to_k1_diffs_0_2.txt k2_to_k1_diffs_0_3.txt
-9a10,12
-> <L>20488.3<pc>118,1   asaNga  a/-saNga(<s>as</s>),
-> <L>20488.5<pc>118,1   asaNga  a/-saNga(<s>as</s>),
-> <L>20488.6<pc>118,1   asaNga  a/-saNga(<s>as</s>),
-17,20c20,23
-< <L>40032<pc>231,2     etaSa   e/taSa,
-< <L>40033<pc>231,2     etaSa   e/taSa,
-< <L>40034<pc>231,2     etaSa   e/taSa,
-< <L>40035<pc>231,2     etaSa   e/taSa,
----
-> <L>40032<pc>231,2     etaSa   e/taSa,<s>etaSa/        setaSa
-> <L>40033<pc>231,2     etaSa   e/taSa,<s>etaSa/        setaSa
-> <L>40034<pc>231,2     etaSa   e/taSa,<s>etaSa/        setaSa
-> <L>40035<pc>231,2     etaSa   e/taSa,<s>etaSa/        setaSa
-----------------------------------
-
-Look for problems in temp_mw_4:
-python k2_to_k1_diffs.py 3 temp_mw_4.txt k2_to_k1_diffs_4_3.txt
-0 lines written to k2_to_k1_diffs_4_3.txt
-# thus, no additional cases to consider.
-*********************************************************************
-06-20-2024
-Revise two corrections per AB review:
- https://github.com/sanskrit-lexicon/MWS/issues/166#issuecomment-2179293508
-THE END
-
+# also sync csl-pywork (for mwab)
