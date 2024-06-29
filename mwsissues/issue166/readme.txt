@@ -73,7 +73,6 @@ python updateByLine.py temp_mw_0.txt change_1.txt temp_mw_1.txt
 880453 records written to temp_mw_1.txt
 247 change transactions from change_1.txt
 
-# ready to install.
 *********************************************************************
 
 ------------------------------------------------------------------------
@@ -92,3 +91,19 @@ git push
 cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue166
 
 # also sync csl-pywork (for mwab)
+
+------------------------------------------------------------------------
+temp_mw_2.txt deletes entry 203569, as mentioned above.
+
+cp temp_mw_2.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+
+cd /c/xampp/htdocs/cologne/csl-orig/v02/mw/
+git add mw.txt
+git commit -m "MW: L=203569  deleted.
+Ref: https://github.com/sanskrit-lexicon/MWS/issues/166"
+
+git push
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue166
