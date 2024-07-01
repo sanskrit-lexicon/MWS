@@ -1,0 +1,60 @@
+; <L>439<pc>3,1<k1>akzaDur<k2>akza—Dur<e>3
+1603 old <s>/kza—Dur</s> ¦ <lex>f.</lex> the pin at the end of an axle, pole attached to an axle.<info lex="f"/>
+;
+1603 new <s>akza—Dur</s> ¦ <lex>f.</lex> the pin at the end of an axle, pole attached to an axle.<info lex="f"/>
+;---------------------------------------------------
+; <L>14787<pc>85,1<k1>ayasmayAdi<k2>ayas—mayAdi<e>4
+53835 old <s>ayas—m/yA<srs/>di</s> ¦ a <s1 slp1="gaRa">gaṇa</s1> of <ls>Pāṇ. i, 4, 20.</ls>
+;
+53835 new <s>ayas—mayA<srs/>di</s> ¦ a <s1 slp1="gaRa">gaṇa</s1> of <ls>Pāṇ. i, 4, 20.</ls>
+;---------------------------------------------------
+; <L>35588<pc>205,2<k1>uparizwAdvAta<k2>uparizwAd—vAta/<e>3
+126144 old <s>up/rizwAd—vAta/</s> ¦ <lex>m.</lex> wind coming from above, <ls>MaitrS.</ls><info lex="m"/>
+;
+126144 new <s>uparizwAd—vAta/</s> ¦ <lex>m.</lex> wind coming from above, <ls>MaitrS.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>36365<pc>211,2<k1>upasTAnasAhasrI<k2>upa-sTAna—sAhasrI<e>3
+128751 old <s>upa-sT/na—sAhasrI</s> ¦ <lex>f.</lex> <ab>N.</ab> of <ab>wk.</ab><info lex="f"/>
+;
+128751 new <s>upa-sTAna—sAhasrI</s> ¦ <lex>f.</lex> <ab>N.</ab> of <ab>wk.</ab><info lex="f"/>
+;---------------------------------------------------
+; <L>106185<pc>538,1<k1>nAvyA<k2>nAvyA<e>2B
+357380 old <s>nAvy/</s> ¦ (<s>A</s>), <lex>f.</lex> a navigable river, <ls>RV.</ls>; <ls>ŚBr.</ls><info lex="f"/>
+;
+357380 new <s>nAvyA</s> ¦ (<s>A</s>), <lex>f.</lex> a navigable river, <ls>RV.</ls>; <ls>ŚBr.</ls><info lex="f"/>
+;---------------------------------------------------
+; <L>138668.1<pc>701,2<k1>prahArya<k2>pra-hA/rya,pra-hArya^<e>3
+467080 old <s>pra-°hAr/ya</s> (or <s>°hArya^</s>), ¦ <lex>mfn.</lex> to be taken away or removed, <ls>ŚBr.</ls> (<ab>cf.</ab> <s>pra-hAyya^</s> under <s>pra-√ hi</s>) to be beaten, <ls>MW.</ls><info lex="m:f:n"/><info or="138668.1,prahArya"/>
+;
+467080 new <s>pra-°hA/rya</s> (or <s>°hArya^</s>), ¦ <lex>mfn.</lex> to be taken away or removed, <ls>ŚBr.</ls> (<ab>cf.</ab> <s>pra-hAyya^</s> under <s>pra-√ hi</s>) to be beaten, <ls>MW.</ls><info lex="m:f:n"/><info or="138668.1,prahArya"/>
+;---------------------------------------------------
+; <L>164880.2<pc>819,3<k1>muKataHkAram<k2>muKa—/taH-kAram<h>1<e>4
+553165 old <L>164880.2<pc>819,3<k1>muKataHkAram<k2>muKa—/taH-kAram<h>1<e>4
+;
+553165 new <L>164880.2<pc>819,3<k1>muKataHkAram<k2>muKa—taH-kAram<h>1<e>4
+;---------------------------------------------------
+; <L>164880.2<pc>819,3<k1>muKataHkAram<k2>muKa—/taH-kAram<h>1<e>4
+553166 old <hom>1.</hom> <s>muKa—/taH-kAram</s> ¦ <lex>ind.</lex>, <ls>Pāṇ. iii, 4, 61</ls>, <ab>Sch.</ab><info lex="ind"/>
+;
+553166 new <hom>1.</hom> <s>muKa—taH-kAram</s> ¦ <lex>ind.</lex>, <ls>Pāṇ. iii, 4, 61</ls>, <ab>Sch.</ab><info lex="ind"/>
+;---------------------------------------------------
+; <L>208652<pc>1031,1<k1>vyaTArahita<k2>vyaTA—rahita<e>3
+696441 old <s>vyaTA—r/hita</s> ¦ <lex>mfn.</lex> free from pain, <ls>W.</ls><info lex="m:f:n"/>
+;
+696441 new <s>vyaTA—rahita</s> ¦ <lex>mfn.</lex> free from pain, <ls>W.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>218963<pc>1080,1<k1>Sukradanta<k2>Sukra—danta<e>3
+729608 old <s>Sukr/—danta</s> ¦ <lex>m.</lex> ‘white toothed’, <ab>N.</ab> of a man, <ls>Rājat.</ls><info lex="m"/>
+;
+729608 new <s>Sukra—danta</s> ¦ <lex>m.</lex> ‘white toothed’, <ab>N.</ab> of a man, <ls>Rājat.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>219573<pc>1082,3<k1>SunAsIrya<k2>SunA-sIrya^<e>3
+731560 old <s>SunA-s/°rya^</s> ¦ <lex>mfn.</lex> belonging or relating to <s1 slp1="SunA-sira">Śunā-sira</s1>, <ls>VS.</ls>; <ls>ŚBr.</ls> (<ab>cf.</ab> <ls>Pāṇ. iv, 2, 32</ls>)<info lex="m:f:n"/>
+;
+731560 new <s>SunA-sI°rya^</s> ¦ <lex>mfn.</lex> belonging or relating to <s1 slp1="SunA-sira">Śunā-sira</s1>, <ls>VS.</ls>; <ls>ŚBr.</ls> (<ab>cf.</ab> <ls>Pāṇ. iv, 2, 32</ls>)<info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>228869<pc>1130,3<k1>saKivigraha<k2>saKi—vigraha<e>3
+762092 old <s>s/Ki—vigraha</s> ¦ <lex>m.</lex> war of friends, civil war, <ls>MW.</ls><info lex="m"/>
+;
+762092 new <s>saKi—vigraha</s> ¦ <lex>m.</lex> war of friends, civil war, <ls>MW.</ls><info lex="m"/>
+;---------------------------------------------------
