@@ -57,3 +57,18 @@ git push
 cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue167
 
 ------------------------------------------------------------------------
+AB comment re accent display:
+"
+And, this also showed [at 731560] an error in the mw transcoder file given by Jim earlier (for my usage), rendering "◌̂" (u+0302, combining circumflex) instead of "◌̀" (u+0300, combining grave) for the grave accent.
+There are 748 such places in total text data.
+
+Interestingly, the web display of these are properly showing grave accent in Roman, though showing a wrong character in Devanagari!
+"
+
+Manually construct unicode_testin.txt by cut/paste from MW display
+This shows how the slp1 text "SunA-sI°rya^" is displayed in
+ iast and in devanagari.
+
+# Show the sequence of unicode characters.
+python unicode_dump.py unicode_testin.txt unicode_testout.txt
+
