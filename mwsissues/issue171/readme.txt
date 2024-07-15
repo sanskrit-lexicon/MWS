@@ -1,0 +1,148 @@
+mwsissues/issue171  hierarchy placement of MW supplement entries.
+Begin 07-12-2024
+
+Ref: https://github.com/sanskrit-lexicon/MWS/issues/171
+
+This directory:
+
+cd /c/xampp/htdocs/sanskrit-lexicon/mws/mwsissues/issue171
+
+In mw.txt, the material from the 1899 supplement section has been
+integrated into the 'main' text.  However, recent corrections from
+Scott Rhodes identified some supplement issues which have been misplaced.
+
+
+First goal: identify  entries which have been misplaced,
+  and move them in mw.txt to where they should be.
+
+cd /c/xampp/htdocs/sanskrit-lexicon/mws/mwsissues/issue171
+
+# -------------------------------------------------------------
+# -------------------------------------------------------------
+# -------------------------------------------------------------
+Start with a copy of csl-orig/v02/mw/mw.txt at commit
+  45cad97424c2ab8c9a6bfb7cb8c14c7cc9a508cf  (07-12-2024)
+
+# change to csl-orig repository on local installation
+cd /c/xampp/htdocs/cologne/csl-orig/
+# generate temp_mw_0 .txt in this directory
+  git show  45cad9742:v02/mw/mw.txt > /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue171/temp_mw_0.txt
+# return to this directory
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue171
+
+# -------------------------------------------------------------
+Alphabetical misplacements of 'sup' entries.
+alphabetical ordering  may be one way to identify.
+Hypothetical
+
+python alphasup.py temp_mw_0.txt alphasup.txt
+880450 lines read from temp_mw_0.txt
+287582 entries found
+nonalpha nsup =  6395
+# misordered =  216
+216 records written to alphasup.txt
+
+# more information needed for correcting to new L
+python alphasup1.py temp_mw_0.txt alphasup1.txt
+
+880450 lines read from temp_mw_0.txt
+287582 entries found
+nonalpha nsup =  6395
+# misordered =  216
+216 records written to alphasup1.txt
+216 lines written to alphasup1.txt
+
+cp alphasup1.txt to alphasup1_edit.txt
+# Examine each case, and mark those which can be 'solved'
+  Markup example
+  OLD: * bahirmAlA 3 144102.1 sup -> ?
+  NEW: * bahirmAlA 3 144102.1 sup -> 144148.1
+# 149 marked as above.
+
+------------------
+# manually construct L_change_01.txt from alphasup1_edit.txt
+Format of each line is
+LOLD LNEW
+
+------------------
+# construct 'standard' change file
+python make_change_L.py temp_mw_0.txt L_change_01.txt change_01.txt
+------------------
+apply the standard change file
+python updateByLine.py temp_mw_0.txt change_01.txt temp_mw_0a.txt
+
+# temp_mw_0a.txt:  An implicit assumption of mw.txt is that the
+  entries are ordered by L.
+  Since our file temp_mw_0a does not fulfill this condition.
+  So we must re-order the entries.
+
+# temp_mw_01.txt  sorted by L
+python L_order.py temp_mw_0a.txt temp_mw_01.txt
+880450 lines read from temp_mw_0a.txt
+287582 entries found
+287582 records (880445 lines) written to temp_mw_01.txt
+
+Note: Why 5 fewer lines in output?
+   Because lines outside of <L>...<LEND> are discarded in output.
+   In our example there are 5 such lines
+ a) before first <L>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mw SYSTEM "mw.dtd">
+<!-- Copyright Universitat Koln and The Sanskrit Library 2012; for details see MWHeader.xml -->
+<mw>
+ b) after last <LEND>
+</mw>
+
+-------------------
+# check validity of temp_mw_01.txt
+cp temp_mw_01.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+# grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../mwissue171
+
+--------------------------------------------------------------
+Review of changes in L_change_01.txt.
+However we got these proposed changes, it is useful to review them in
+context of the respective versions of mw.txt
+
+Note first parm is option regarding input file L_change_01.txt
+ option = 1:  Assume Lold Lnew and use Lold
+ option = 2:  Assume Lold Lnew and use Lnew
+
+# context for the OLD L
+python L_context.py 1 temp_mw_0.txt L_change_01.txt L_context_01_old.txt
+
+# context for the NEW L
+python L_context.py 2 temp_mw_01.txt L_change_01.txt L_context_01_new.txt
+
+# -------------------------------------------------------------
+
+Misc. comments while editing alphasup1.txt
+----
+OLD: ?
+<L>4052<pc>20,1<k1>aDokza<k2>aDo-'kza/<e>3
+<s>aDo-'kza/</s> ¦ <lex>mfn.</lex> being below (or not coming up to) the axle, <ls>RV. iii, 33, 9.</ls><info lex="m:f:n"/>
+NEW:
+<L>4052<pc>20,1<k1>aDoakza<k2>aDo-akza/<e>3
+<s>aDo-akza/</s> ¦ <lex>mfn.</lex> being below (or not coming up to) the axle, <ls>RV. iii, 33, 9.</ls><info lex="m:f:n"/>
+---
+hiving a face  (anyatomuKa)  -> having a face
+--- duplicate in suppl
+aparaSvas 3 9455 xxx
+<L>9455<pc>50,3<k1>aparaSvas<k2>apara—Svas<h>a<e>3
+<s>apara—Svas</s> <hom>a</hom> ¦ <lex>ind.</lex> the day after to-morrow, <ls>Gobh.</ls><info lex="ind"/>
+
+<L>9458.1<pc>1314,1<k1>aparaSvas<k2>apara—Svas<h>b<e>3
+<s>apara—Svas</s> <hom>b</hom> ¦ <lex>ind.</lex> the day after to-morrow, <ls>Gobh.</ls><info n="sup"/><info lex="ind"/>
+
+---
+<L>28744.1<pc>1320,3<k1>itaHpradAna<k2>itaH—pradAna<h>a<e>3
+<s>itaH—pradAna</s> <hom>a</hom> ¦ (<s>ita/H</s> also) <lex>n.</lex> oblation from hence, <ls>TS.</ls><info n="sup"/><info lex="n"/>
+
+<L>28745<pc>165,1<k1>itaHpradAna<k2>ita/H-pradAna<h>b<e>3
+<s>ita/H-pradAna</s> <hom>b</hom> ¦ <lex>mfn.</lex> offering from hence <ab>i.e.</ab> from this world, <ls>TS.</ls>; <ls>ŚBr.</ls><info lex="m:f:n"/>
+
+---
+nizpezavat 3 111005.1 sup  should be 4
+
+*********************************************************************

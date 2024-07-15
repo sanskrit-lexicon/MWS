@@ -1,0 +1,450 @@
+; ******************************************************
+; 149 changes
+; ******************************************************
+925 old <L>264.1<pc>1308,1<k1>akAlakOmudI<k2>a-kAla—kOmudI<e>3
+925 new <L>257.1<pc>1308,1<k1>akAlakOmudI<k2>a-kAla—kOmudI<e>3
+;
+1009 old <L>286.2<pc>1308,1<k1>akutomftyu<k2>a-ku—to-mftyu<e>3
+1009 new <L>288.1<pc>1308,1<k1>akutomftyu<k2>a-ku—to-mftyu<e>3
+;
+1827 old <L>507.1<pc>1308,2<k1>akzaSikzA<k2>akza—SikzA<e>3
+1827 new <L>506.1<pc>1308,2<k1>akzaSikzA<k2>akza—SikzA<e>3
+;
+1830 old <L>507.2<pc>1308,2<k1>akzaSIla<k2>akza—SIla<e>3
+1830 new <L>506.2<pc>1308,2<k1>akzaSIla<k2>akza—SIla<e>3
+;
+4160 old <L>1130.1<pc>1309,1<k1>agnisTala<k2>agni—sTala<e>3
+4160 new <L>1131.01<pc>1309,1<k1>agnisTala<k2>agni—sTala<e>3
+;
+4553 old <L>1233.1<pc>1309,1<k1>agratalasaMcAra<k2>agra—tala-saMcAra<e>3
+4553 new <L>1232.1<pc>1309,1<k1>agratalasaMcAra<k2>agra—tala-saMcAra<e>3
+;
+5075 old <L>1378.1<pc>1309,1<k1>aGaya<k2>aGaya<e>2
+5075 new <L>1366.1<pc>1309,1<k1>aGaya<k2>aGaya<e>2
+;
+5344 old <L>1449.2<pc>1309,2<k1>aNkAsya<k2>aN—kAsya<e>3
+5344 new <L>1451.1<pc>1309,2<k1>aNkAsya<k2>aN—kAsya<e>3
+;
+5850 old <L>1585.1<pc>1309,2<k1>aNgasamAKyAyam<k2>aNga—samAKyAyam<e>3
+5850 new <L>1590.1<pc>1309,2<k1>aNgasamAKyAyam<k2>aNga—samAKyAyam<e>3
+;
+9903 old <L>2723.1<pc>1309,3<k1>atimanoraTakrama<k2>ati-manoraTa-krama<e>3
+9903 new <L>2722.1<pc>1309,3<k1>atimanoraTakrama<k2>ati-manoraTa-krama<e>3
+;
+10137 old <L>2796.1<pc>1309,3<k1>ativIryapraBa<k2>ati-vIrya-praBa<e>3
+10137 new <L>2799.1<pc>1309,3<k1>ativIryapraBa<k2>ati-vIrya-praBa<e>3
+;
+10284 old <L>2839.1<pc>1309,3<k1>atisitANgavihaMga<k2>ati-sitANga-vihaMga<e>3
+10284 new <L>2838.1<pc>1309,3<k1>atisitANgavihaMga<k2>ati-sitANga-vihaMga<e>3
+;
+10518 old <L>2908.1<pc>1310,1<k1>atyUrjitam<k2>aty-Urjitam<e>3
+10518 new <L>2909.01<pc>1310,1<k1>atyUrjitam<k2>aty-Urjitam<e>3
+;
+14955 old <L>4103.1<pc>1310,3<k1>aDovAsas<k2>aDo—vAsas<e>3
+14955 new <L>4105.1<pc>1310,3<k1>aDovAsas<k2>aDo—vAsas<e>3
+;
+14967 old <L>4106.1<pc>1310,3<k1>aDoMSuka<k2>aDo—'MSuka<e>3
+14967 new <L>4051.3<pc>1310,3<k1>aDoMSuka<k2>aDo—'MSuka<e>3
+;
+16079 old <L>4375.3<pc>1310,3<k1>aDivAsanA<k2>aDivAsanA<e>2
+16079 new <L>4384.01<pc>1310,3<k1>aDivAsanA<k2>aDivAsanA<e>2
+;
+17903 old <L>4860.1<pc>1311,1<k1>anatidfSna<k2>a/n-atidfSna<e>3
+17903 new <L>4859.3<pc>1311,1<k1>anatidfSna<k2>a/n-atidfSna<e>3
+;
+20177 old <L>5499.1<pc>1311,2<k1>anAtmatA<k2>an-AtmatA<e>2
+20177 new <L>5498.1<pc>1311,2<k1>anAtmatA<k2>an-AtmatA<e>2
+;
+24650 old <L>6745.1<pc>1312,1<k1>anupAde<k2>anu-pAde<e>1
+24650 new <L>6745.6<pc>1312,1<k1>anupAde<k2>anu-pAde<e>1
+;
+24653 old <L>6745.2<pc>1312,1<k1>anupADirAmaRIya<k2>an-upADi-rAmaRIya<e>1
+24653 new <L>6745.7<pc>1312,1<k1>anupADirAmaRIya<k2>an-upADi-rAmaRIya<e>1
+;
+25826 old <L>7054.1<pc>1312,2<k1>anuyoktavya<k2>anu-yoktavya<e>2
+25826 new <L>7053.1<pc>1312,2<k1>anuyoktavya<k2>anu-yoktavya<e>2
+;
+27195 old <L>7446.1<pc>1312,2<k1>anuSloka<k2>a/nu-Sloka<e>1
+27195 new <L>7445.2<pc>1312,2<k1>anuSloka<k2>a/nu-Sloka<e>1
+;
+28979 old <L>7918.1<pc>1312,3<k1>antakarman<k2>anta—karman<e>3
+28979 new <L>7917.2<pc>1312,3<k1>antakarman<k2>anta—karman<e>3
+;
+29045 old <L>7932.42<pc>1312,3<k1>antadvIpa<k2>anta—dvIpa<e>3
+29045 new <L>7933.11<pc>1312,3<k1>antadvIpa<k2>anta—dvIpa<e>3
+;
+29048 old <L>7932.43<pc>1312,3<k1>antadvIpin<k2>anta—dvIpin<e>3
+29048 new <L>7933.12<pc>1312,3<k1>antadvIpin<k2>anta—dvIpin<e>3
+;
+29654 old <L>8071.1<pc>1313,1<k1>antariti<k2>antar—iti<h>a<e>3
+29654 new <L>8070.2<pc>1313,1<k1>antariti<k2>antar—iti<h>a<e>3
+;
+29822 old <L>8117.2<pc>1313,1<k1>antarDinAman<k2>antar—DinAman<e>3
+29822 new <L>8118.01<pc>1313,1<k1>antarDinAman<k2>antar—DinAman<e>3
+;
+29993 old <L>8151.2<pc>1313,1<k1>antarvAvat<k2>antar—vA/vat<h>a<e>3
+29993 new <L>8156.1<pc>1313,1<k1>antarvAvat<k2>antar—vA/vat<h>a<e>3
+;
+29996 old <L>8151.3<pc>1313,1<k1>antarvftti<k2>antar—vftti<e>3
+29996 new <L>8159.1<pc>1313,1<k1>antarvftti<k2>antar—vftti<e>3
+;
+30650 old <L>8323.1<pc>1313,1<k1>antitara<k2>anti—tara<e>3
+30650 new <L>8324.1<pc>1313,1<k1>antitara<k2>anti—tara<e>3
+;
+30833 old <L>8380.1<pc>1313,1<k1>antyArDa<k2>an—tyArDa<e>3
+30833 new <L>8377.1<pc>1313,1<k1>antyArDa<k2>an—tyArDa<e>3
+;
+31673 old <L>8609.1<pc>1313,2<k1>anyalokya<k2>anya—lokya<e>3
+31673 new <L>8611.1<pc>1313,2<k1>anyalokya<k2>anya—lokya<e>3
+;
+31676 old <L>8609.2<pc>1313,2<k1>anyaloha<k2>anya—loha<e>3
+31676 new <L>8611.2<pc>1313,2<k1>anyaloha<k2>anya—loha<e>3
+;
+31718 old <L>8619.1<pc>1313,2<k1>anyalohaka<k2>anya—lohaka<e>3
+31718 new <L>8611.3<pc>1313,2<k1>anyalohaka<k2>anya—lohaka<e>3
+;
+31967 old <L>8661.2<pc>1313,2<k1>anyaTAjAtIyaka<k2>anyaTA—jAtIyaka<e>3
+31967 new <L>8663.1<pc>1313,2<k1>anyaTAjAtIyaka<k2>anyaTA—jAtIyaka<e>3
+;
+34157 old <L>9238.1<pc>1313,3<k1>apadAlaka<k2>apa-dAlaka<e>1
+34157 new <L>9239.1<pc>1313,3<k1>apadAlaka<k2>apa-dAlaka<e>1
+;
+34160 old <L>9238.2<pc>1313,3<k1>apadibadDa<k2>a-padi-badDa<e>1
+34160 new <L>9239.2<pc>1313,3<k1>apadibadDa<k2>a-padi-badDa<e>1
+;
+34653 old <L>9366.2<pc>1313,3<k1>apamaNgala<k2>apa-maNgala<e>1
+34653 new <L>9363.1<pc>1313,3<k1>apamaNgala<k2>apa-maNgala<e>1
+;
+34994 old <L>9454.1<pc>1314,1<k1>aparavallaBa<k2>apara—vallaBa<e>3
+34994 new <L>9453.1<pc>1314,1<k1>aparavallaBa<k2>apara—vallaBa<e>3
+;
+34997 old <L>9454.2<pc>1314,1<k1>aparavedanIya<k2>apara—vedanIya<e>3
+34997 new <L>9453.2<pc>1314,1<k1>aparavedanIya<k2>apara—vedanIya<e>3
+;
+35903 old <L>9682.1<pc>1314,2<k1>apavarRa<k2>apa-varRa<e>1
+35903 new <L>9681.1<pc>1314,2<k1>apavarRa<k2>apa-varRa<e>1
+;
+36145 old <L>9743.1<pc>1314,2<k1>apavartya<k2>apa-vartya<e>2
+36145 new <L>9746.1<pc>1314,2<k1>apavartya<k2>apa-vartya<e>2
+;
+37941 old <L>10227.1<pc>1314,2<k1>apisomopITa<k2>api—somopITa<e>1
+37941 new <L>10229.1<pc>1314,2<k1>apisomopITa<k2>api—somopITa<e>1
+;
+40436 old <L>10958.1<pc>1314,3<k1>abalAgni<k2>a-ba—lAgni<e>3
+40436 new <L>10957.1<pc>1314,3<k1>abalAgni<k2>a-ba—lAgni<e>3
+;
+41834 old <L>11342.2<pc>1315,1<k1>aBicarita<k2>aBi—carita<e>2
+41834 new <L>11344.1<pc>1315,1<k1>aBicarita<k2>aBi—carita<e>2
+;
+45699 old <L>12466.1<pc>1315,2<k1>aBivratin<k2>aBi-vratin<e>1
+45699 new <L>12465.1<pc>1315,2<k1>aBivratin<k2>aBi-vratin<e>1
+;
+46106 old <L>12588.1<pc>1315,2<k1>aBizekaBUmipratilamBa<k2>aBi-zeka-BUmi-pratilamBa<e>3
+46106 new <L>12587.1<pc>1315,2<k1>aBizekaBUmipratilamBa<k2>aBi-zeka-BUmi-pratilamBa<e>3
+;
+46978 old <L>12851.1<pc>1315,2<k1>aBisambuD<k2>aBi-sam-buD<e>1
+46978 new <L>12853.1<pc>1315,2<k1>aBisambuD<k2>aBi-sam-buD<e>1
+;
+49943 old <L>13702.2<pc>1315,3<k1>aBramaya<k2>aBra—maya<e>3
+49943 new <L>13701.2<pc>1315,3<k1>aBramaya<k2>aBra—maya<e>3
+;
+51268 old <L>14094.2<pc>1315,3<k1>amitASanA<k2>a-mi—tASanA<e>3
+51268 new <L>14099.2<pc>1315,3<k1>amitASanA<k2>a-mi—tASanA<e>3
+;
+51286 old <L>14099.1<pc>1315,3<k1>amitAyurDyAnasUtra<k2>a-mi—tAyur-DyAna-sUtra<e>3
+51286 new <L>14098.1<pc>1315,3<k1>amitAyurDyAnasUtra<k2>a-mi—tAyur-DyAna-sUtra<e>3
+;
+52211 old <L>14327.1<pc>1315,3<k1>ameDyapratimantraRa<k2>a-meDya-pratimantraRa<e>3
+52211 new <L>14329.1<pc>1315,3<k1>ameDyapratimantraRa<k2>a-meDya-pratimantraRa<e>3
+;
+52388 old <L>14380.1<pc>1315,3<k1>amoGavatI<k2>a-moGa—vatI<e>3
+52388 new <L>14377.1<pc>1315,3<k1>amoGavatI<k2>a-moGa—vatI<e>3
+;
+52835 old <L>14502.2<pc>1315,3<k1>ambujIvin<k2>ambu—jIvin<e>3
+52835 new <L>14503.1<pc>1315,3<k1>ambujIvin<k2>ambu—jIvin<e>3
+;
+56648 old <L>15608.1<pc>1316,1<k1>arkadugDa<k2>arka—dugDa<e>3
+56648 new <L>15607.1<pc>1316,1<k1>arkadugDa<k2>arka—dugDa<e>3
+;
+57086 old <L>15728.1<pc>1316,2<k1>arcicayizu<k2>arcicayizu<e>2
+57086 new <L>15724.1<pc>1316,2<k1>arcicayizu<k2>arcicayizu<e>2
+;
+58815 old <L>16225.1<pc>1316,2<k1>arDamAnuza<k2>arDa—mAnuza<e>3
+58815 new <L>16230.06<pc>1316,2<k1>arDamAnuza<k2>arDa—mAnuza<e>3
+;
+58896 old <L>16244.11<pc>1316,2<k1>arDarcasya<k2>arDa—rcasya<e>4
+58896 new <L>16244.21<pc>1316,2<k1>arDarcasya<k2>arDa—rcasya<e>4
+;
+59091 old <L>16299.1<pc>1316,2<k1>arDAvizwa<k2>ar—DAvizwa<e>3
+59091 new <L>16300.1<pc>1316,2<k1>arDAvizwa<k2>ar—DAvizwa<e>3
+;
+60237 old <L>16612.1<pc>1316,3<k1>alaMkArAnusAriRI<k2>alaM-kA—rAnusAriRI<e>4
+60237 new <L>16613.1<pc>1316,3<k1>alaMkArAnusAriRI<k2>alaM-kA—rAnusAriRI<e>4
+;
+65538 old <L>18146.1<pc>1317,1<k1>avaSyaBAgIyaka<k2>a-vaSya—BAgIyaka<e>3
+65538 new <L>18143.1<pc>1317,1<k1>avaSyaBAgIyaka<k2>a-vaSya—BAgIyaka<e>3
+;
+66823 old <L>18503.1<pc>1317,2<k1>avAksrotas<k2>avAk—srotas<e>3
+66823 new <L>18507.1<pc>1317,2<k1>avAksrotas<k2>avAk—srotas<e>3
+;
+68443 old <L>18975.1<pc>1317,2<k1>avirUQa<k2>a-virUQa<e>1
+68443 new <L>18977.1<pc>1317,2<k1>avirUQa<k2>a-virUQa<e>1
+;
+71637 old <L>19890.1<pc>1317,3<k1>aSvagopa<k2>aSva—gopa<e>3
+71637 new <L>19891.1<pc>1317,3<k1>aSvagopa<k2>aSva—gopa<e>3
+;
+72333 old <L>20070.1<pc>1318,1<k1>aSvAjAneya<k2>aS—vAjAneya<e>3
+72333 new <L>20065.1<pc>1318,1<k1>aSvAjAneya<k2>aS—vAjAneya<e>3
+;
+72600 old <L>20145.1<pc>1318,1<k1>aSvisAlokya<k2>aSvi—sAlokya<e>3
+72600 new <L>20150.1<pc>1318,1<k1>aSvisAlokya<k2>aSvi—sAlokya<e>3
+;
+72603 old <L>20145.2<pc>1318,1<k1>aSvisuta<k2>aSvi—suta<e>3
+72603 new <L>20150.2<pc>1318,1<k1>aSvisuta<k2>aSvi—suta<e>3
+;
+73134 old <L>20291.1<pc>1318,1<k1>azwAratni<k2>az—wAratni<e>3
+73134 new <L>20290.1<pc>1318,1<k1>azwAratni<k2>az—wAratni<e>3
+;
+79228 old <L>22049.1<pc>1318,3<k1>AkarRaka<k2>A-karRaka<e>2
+79228 new <L>22048.1<pc>1318,3<k1>AkarRaka<k2>A-karRaka<e>2
+;
+82903 old <L>23124.1<pc>1319,1<k1>AjiSoBin<k2>Aji—SoBin<e>3
+82903 new <L>23123.1<pc>1319,1<k1>AjiSoBin<k2>Aji—SoBin<e>3
+;
+85496 old <L>23881.1<pc>1319,2<k1>Adisvarita<k2>Adi—svarita<e>3
+85496 new <L>23880.2<pc>1319,2<k1>Adisvarita<k2>Adi—svarita<e>3
+;
+85814 old <L>23967.1<pc>1319,2<k1>AdinAntam<k2>A-dinAntam<e>1
+85814 new <L>23969.1<pc>1319,2<k1>AdinAntam<k2>A-dinAntam<e>1
+;
+86036 old <L>24031.1<pc>1319,2<k1>Adarin<k2>A-darin<e>2
+86036 new <L>24030.1<pc>1319,2<k1>Adarin<k2>A-darin<e>2
+;
+88512 old <L>24785.2<pc>1319,3<k1>AptavAda<k2>Apta—vAda<e>3
+88512 new <L>24793.1<pc>1319,3<k1>AptavAda<k2>Apta—vAda<e>3
+;
+88515 old <L>24785.3<pc>1319,3<k1>AptaviBaktika<k2>Apta—viBaktika<e>3
+88515 new <L>24793.2<pc>1319,3<k1>AptaviBaktika<k2>Apta—viBaktika<e>3
+;
+89156 old <L>24970.1<pc>1319,3<k1>ApArzRi<k2>A-pArzRi<e>1
+89156 new <L>24969.3<pc>1319,3<k1>ApArzRi<k2>A-pArzRi<e>1
+;
+89236 old <L>24990.2<pc>1319,3<k1>ApIqin<k2>ApI—qin<e>2
+89236 new <L>24997.1<pc>1319,3<k1>ApIqin<k2>ApI—qin<e>2
+;
+95003 old <L>26669.1<pc>1320,1<k1>AlajAla<k2>Ala—jAla<e>3
+95003 new <L>26668.1<pc>1320,1<k1>AlajAla<k2>Ala—jAla<e>3
+;
+97500 old <L>27388.1<pc>1320,2<k1>ASApurA<k2>ASA—purA<e>3
+97500 new <L>27390.1<pc>1320,2<k1>ASApurA<k2>ASA—purA<e>3
+;
+97680 old <L>27443.1<pc>1320,2<k1>ASApAlIya<k2>ASA—pAlIya<e>3
+97680 new <L>27444.1<pc>1320,2<k1>ASApAlIya<k2>ASA—pAlIya<e>3
+;
+98200 old <L>27591.1<pc>1320,2<k1>AScaryamaYjarI<k2>AScarya—maYjarI<e>3
+98200 new <L>27592.1<pc>1320,2<k1>AScaryamaYjarI<k2>AScarya—maYjarI<e>3
+;
+99276 old <L>27896.1<pc>1320,3<k1>AsyamETunika<k2>Asya—mETunika<e>3
+99276 new <L>27895.2<pc>1320,3<k1>AsyamETunika<k2>Asya—mETunika<e>3
+;
+99670 old <L>28000.1<pc>1320,2<k1>AsarvA<k2>AsarvA<e>1
+99670 new <L>27997.1<pc>1320,2<k1>AsarvA<k2>AsarvA<e>1
+;
+102375 old <L>28744.2<pc>1320,3<k1>itaHpraBfti<k2>itaH—praBfti<e>3
+102375 new <L>28745.1<pc>1320,3<k1>itaHpraBfti<k2>itaH—praBfti<e>3
+;
+105014 old <L>29478.1<pc>1321,1<k1>izupad<k2>izu—pad<e>3
+105014 new <L>29479.01<pc>1321,1<k1>izupad<k2>izu—pad<e>3
+;
+111033 old <L>31197.1<pc>1321,2<k1>uttaraGfta<k2>uttara—Gfta<e>3
+111033 new <L>31198.1<pc>1321,2<k1>uttaraGfta<k2>uttara—Gfta<e>3
+;
+114916 old <L>32311.1<pc>1321,3<k1>udIcIpaTa<k2>udIcI-paTa<e>2
+114916 new <L>32313.1<pc>1321,3<k1>udIcIpaTa<k2>udIcI-paTa<e>2
+;
+116467 old <L>32759.1<pc>1322,1<k1>udgAla<k2>ud-gAla<e>1
+116467 new <L>32760.1<pc>1322,1<k1>udgAla<k2>ud-gAla<e>1
+;
+120781 old <L>34025.1<pc>1322,1<k1>unmokzA<k2>un-mokzA/<e>2
+120781 new <L>34027.1<pc>1322,1<k1>unmokzA<k2>un-mokzA/<e>2
+;
+121179 old <L>34133.1<pc>1322,1<k1>upakartavya<k2>upa-kartavya<e>2
+121179 new <L>34132.1<pc>1322,1<k1>upakartavya<k2>upa-kartavya<e>2
+;
+140199 old <L>39776.1<pc>1323,1<k1>ekAtmapakza<k2>ekAtma-pakza<e>4
+140199 new <L>39777.1<pc>1323,1<k1>ekAtmapakza<k2>ekAtma-pakza<e>4
+;
+140202 old <L>39776.2<pc>1323,1<k1>ekAtmapakzavAda<k2>ekAtma-pakza—vAda<e>4
+140202 new <L>39777.2<pc>1323,1<k1>ekAtmapakzavAda<k2>ekAtma-pakza—vAda<e>4
+;
+145883 old <L>41375.1<pc>1323,2<k1>kaMsaDvaMsana<k2>kaMsa—DvaMsana<e>3
+145883 new <L>41380.1<pc>1323,2<k1>kaMsaDvaMsana<k2>kaMsa—DvaMsana<e>3
+;
+145886 old <L>41375.2<pc>1323,3<k1>kaMsaniDana<k2>kaMsa—niDana<e>3
+145886 new <L>41380.2<pc>1323,3<k1>kaMsaniDana<k2>kaMsa—niDana<e>3
+;
+145889 old <L>41375.3<pc>1323,3<k1>kaMsaparimfj<k2>kaMsa—parimfj<e>3
+145889 new <L>41381.1<pc>1323,3<k1>kaMsaparimfj<k2>kaMsa—parimfj<e>3
+;
+147029 old <L>41728.1<pc>1323,3<k1>kacarUpin<k2>kaca—rUpin<e>3
+147029 new <L>41729.1<pc>1323,3<k1>kacarUpin<k2>kaca—rUpin<e>3
+;
+151145 old <L>42979.1<pc>1323,3<k1>kanakaSfNgamaya<k2>kanaka—SfNga—maya<e>3
+151145 new <L>42982.1<pc>1323,3<k1>kanakaSfNgamaya<k2>kanaka—SfNga—maya<e>3
+;
+154868 old <L>44148.1<pc>1324,1<k1>kararuD<k2>kara—ruD<h>a<e>3
+154868 new <L>44149.1<pc>1324,1<k1>kararuD<k2>kara—ruD<h>a<e>3
+;
+155747 old <L>44369.1<pc>1324,1<k1>karagfhIti<k2>kara—gfhIti<h>b<e>3
+155747 new <L>44366.3<pc>1324,1<k1>karagfhIti<k2>kara—gfhIti<h>b<e>3
+;
+158787 old <L>45335.1<pc>1324,1<k1>karmadaRqa<k2>karma—daRqa<e>3
+158787 new <L>45336.1<pc>1324,1<k1>karmadaRqa<k2>karma—daRqa<e>3
+;
+158790 old <L>45335.2<pc>1324,1<k1>karmadAyAda<k2>karma—dAyAda<e>3
+158790 new <L>45336.2<pc>1324,1<k1>karmadAyAda<k2>karma—dAyAda<e>3
+;
+164550 old <L>47082.1<pc>1324,2<k1>kAkaSekikin<k2>kAka-Sekikin<e>3
+164550 new <L>47087.1<pc>1324,2<k1>kAkaSekikin<k2>kAka-Sekikin<e>3
+;
+168073 old <L>48192.2<pc>1324,2<k1>kAmavaktavyahfdaya<k2>kAma—vaktavya-hfdaya<e>3
+168073 new <L>48166.1<pc>1324,2<k1>kAmavaktavyahfdaya<k2>kAma—vaktavya-hfdaya<e>3
+;
+169047 old <L>48489.1<pc>1324,2<k1>kAyAvatAra<k2>kA—yAvatAra<e>3
+169047 new <L>48490.1<pc>1324,2<k1>kAyAvatAra<k2>kA—yAvatAra<e>3
+;
+170281 old <L>48867.1<pc>1324,3<k1>kAryakaraRa<k2>kArya—karaRa<e>3
+170281 new <L>48866.1<pc>1324,3<k1>kAryakaraRa<k2>kArya—karaRa<e>3
+;
+172348 old <L>49521.1<pc>1324,3<k1>kAlaviprakarza<k2>kAla—viprakarza<h>b<e>3
+172348 new <L>49519.1<pc>1324,3<k1>kAlaviprakarza<k2>kAla—viprakarza<h>b<e>3
+;
+175257 old <L>50420.1<pc>1324,3<k1>kimadyaka<k2>kim—adyaka<e>3
+175257 new <L>50419.1<pc>1324,3<k1>kimadyaka<k2>kim—adyaka<e>3
+;
+177114 old <L>51003.1<pc>1324,3<k1>kuDfti<k2>ku—Dfti<e>3
+177114 new <L>51019.1<pc>1324,3<k1>kuDfti<k2>ku—Dfti<e>3
+;
+180067 old <L>51951.1<pc>1325,1<k1>kuRqalaka<k2>kuRqalaka<e>2
+180067 new <L>51950.1<pc>1325,1<k1>kuRqalaka<k2>kuRqalaka<e>2
+;
+184845 old <L>53433.1<pc>1325,1<k1>kuSalAvasAnatA<k2>kuSa—lAvasAnatA<e>3
+184845 new <L>53432.1<pc>1325,1<k1>kuSalAvasAnatA<k2>kuSa—lAvasAnatA<e>3
+;
+191378 old <L>55445.1<pc>1325,2<k1>kfzRaSIrzan<k2>kfzRa—SIrzan<e>3
+191378 new <L>55446.1<pc>1325,2<k1>kfzRaSIrzan<k2>kfzRa—SIrzan<e>3
+;
+197318 old <L>57327.1<pc>1325,2<k1>kOleSI<k2>kOleSI<e>3
+197318 new <L>57326.1<pc>1325,2<k1>kOleSI<k2>kOleSI<e>3
+;
+204235 old <L>59482.1<pc>1325,3<k1>kzIRAsrava<k2>kzIRAsrava<e>3
+204235 new <L>59483.1<pc>1325,3<k1>kzIRAsrava<k2>kzIRAsrava<e>3
+;
+212907 old <L>62201.1<pc>1326,1<k1>gaganANgaRa<k2>gaga—nANgaRa<e>3
+212907 new <L>62195.1<pc>1326,1<k1>gaganANgaRa<k2>gaga—nANgaRa<e>3
+;
+222909 old <L>65313.1<pc>1326,2<k1>gItAgIta<k2>gItAgIta<e>3
+222909 new <L>65312.1<pc>1326,2<k1>gItAgIta<k2>gItAgIta<e>3
+;
+226942 old <L>66574.1<pc>1326,2<k1>gfhapawala<k2>gfha—pawala<e>3
+226942 new <L>66575.1<pc>1326,2<k1>gfhapawala<k2>gfha—pawala<e>3
+;
+227991 old <L>66883.1<pc>1326,2<k1>gallapUraRa<k2>galla-pUraRa<e>1
+227991 new <L>64309.1<pc>1326,2<k1>gallapUraRa<k2>galla-pUraRa<e>1
+;
+238143 old <L>69985.1<pc>1326,3<k1>Gftapfkta<k2>Gfta—pfkta<e>3
+238143 new <L>69978.1<pc>1326,3<k1>Gftapfkta<k2>Gfta—pfkta<e>3
+;
+245949 old <L>72325.1<pc>1327,1<k1>caritrapuzpa<k2>ca/ritra-puzpa<e>3
+245949 new <L>72324.1<pc>1327,1<k1>caritrapuzpa<k2>ca/ritra-puzpa<e>3
+;
+250454 old <L>73739.1<pc>1327,1<k1>citrajavanikA<k2>citra—javanikA<e>3
+250454 new <L>73740.1<pc>1327,1<k1>citrajavanikA<k2>citra—javanikA<e>3
+;
+266418 old <L>78687.1<pc>1327,3<k1>jAtinirRaya<k2>jAti—nirRaya<e>3
+266418 new <L>78688.1<pc>1327,3<k1>jAtinirRaya<k2>jAti—nirRaya<e>3
+;
+269866 old <L>79761.1<pc>1327,3<k1>jIvasUvarI<k2>jIva—sUvarI<e>3
+269866 new <L>79762.1<pc>1327,3<k1>jIvasUvarI<k2>jIva—sUvarI<e>3
+;
+275498 old <L>81453.1<pc>1328,1<k1>quRQi<k2>quRQi<e>1
+275498 new <L>81449.1<pc>1328,1<k1>quRQi<k2>quRQi<e>1
+;
+290236 old <L>85990.1<pc>1328,2<k1>turagapAtaka<k2>turaga—pAtaka<e>4
+290236 new <L>85991.1<pc>1328,2<k1>turagapAtaka<k2>turaga—pAtaka<e>4
+;
+301607 old <L>89435.1<pc>1328,2<k1>dakziRAprAYc<k2>dakziRA—prAYc<e>3
+301607 new <L>89435.4<pc>1328,2<k1>dakziRAprAYc<k2>dakziRA—prAYc<e>3
+;
+307277 old <L>91115.1<pc>1328,3<k1>daSAvipAka<k2>daSA-vipAka<e>3
+307277 new <L>91114.1<pc>1328,3<k1>daSAvipAka<k2>daSA-vipAka<e>3
+;
+307542 old <L>91188.3<pc>1328,3<k1>dahanakalpa<k2>dahana—kalpa<e>3
+307542 new <L>91183.1<pc>1328,3<k1>dahanakalpa<k2>dahana—kalpa<e>3
+;
+309223 old <L>91667.1<pc>1328,3<k1>dAragupti<k2>dAra-gupti<e>3
+309223 new <L>91668.1<pc>1328,3<k1>dAragupti<k2>dAra-gupti<e>3
+;
+337415 old <L>100265.1<pc>1329,2<k1>DarmavIra<k2>Darma—vIra<e>3
+337415 new <L>100272.1<pc>1329,2<k1>DarmavIra<k2>Darma—vIra<e>3
+;
+400333 old <L>118585.01<pc>1330,1<k1>parivezabanDin<k2>pariveza-banDin<e>4
+400333 new <L>118584.1<pc>1330,1<k1>parivezabanDin<k2>pariveza-banDin<e>4
+;
+407269 old <L>120661.1<pc>1330,2<k1>paSusaMKya<k2>paSu—saMKya<e>3
+407269 new <L>120660.2<pc>1330,2<k1>paSusaMKya<k2>paSu—saMKya<e>3
+;
+411034 old <L>121812.1<pc>1330,2<k1>pAtAnaprasTa<k2>pAtAna-prasTa<e>1
+411034 new <L>121814.1<pc>1330,2<k1>pAtAnaprasTa<k2>pAtAna-prasTa<e>1
+;
+451229 old <L>133961.1<pc>1330,3<k1>pratyagapavarga<k2>pratyag—apavarga<e>3
+451229 new <L>133955.1<pc>1330,3<k1>pratyagapavarga<k2>pratyag—apavarga<e>3
+;
+474651 old <L>140947.1<pc>1331,1<k1>pretasaMsTA<k2>preta—saMsTA<e>3
+474651 new <L>140946.1<pc>1331,1<k1>pretasaMsTA<k2>preta—saMsTA<e>3
+;
+484968 old <L>144091.2<pc>1331,1<k1>bahirvESravaRa<k2>bahir—vESravaRa<e>3
+484968 new <L>144176.1<pc>1331,1<k1>bahirvESravaRa<k2>bahir—vESravaRa<e>3
+;
+485010 old <L>144102.1<pc>1331,1<k1>bahirmAlA<k2>bahir—mAlA<e>3
+485010 new <L>144148.1<pc>1331,1<k1>bahirmAlA<k2>bahir—mAlA<e>3
+;
+495872 old <L>147398.1<pc>1331,1<k1>brAhmaRasamBAza<k2>brAhmaRa—samBAza<e>3
+495872 new <L>147399.1<pc>1331,1<k1>brAhmaRasamBAza<k2>brAhmaRa—samBAza<e>3
+;
+514049 old <L>152962.2<pc>1331,2<k1>BEkzAhAra<k2>BE—kzAhAra<h>a<e>3
+514049 new <L>152965.1<pc>1331,2<k1>BEkzAhAra<k2>BE—kzAhAra<h>a<e>3
+;
+568822 old <L>169702.1<pc>1331,3<k1>yaTAgIta<k2>yaTA—gIta<e>3
+568822 new <L>169701.1<pc>1331,3<k1>yaTAgIta<k2>yaTA—gIta<e>3
+;
+569350 old <L>169853.1<pc>1331,3<k1>yaTAbAlam<k2>yaTA—bAlam<e>3
+569350 new <L>169846.3<pc>1331,3<k1>yaTAbAlam<k2>yaTA—bAlam<e>3
+;
+569959 old <L>169998.1<pc>1331,3<k1>yaTAsaMvAdam<k2>yaTA—saMvAdam<e>3
+569959 new <L>169997.1<pc>1331,3<k1>yaTAsaMvAdam<k2>yaTA—saMvAdam<e>3
+;
+621812 old <L>185966.1<pc>1332,1<k1>vanasaMSraya<k2>vana—saMSraya<e>3
+621812 new <L>185967.1<pc>1332,1<k1>vanasaMSraya<k2>vana—saMSraya<e>3
+;
+622851 old <L>186288.1<pc>1332,1<k1>vapatra<k2>vapatra<e>2
+622851 new <L>186281.1<pc>1332,1<k1>vapatra<k2>vapatra<e>2
+;
+627996 old <L>187898.1<pc>1332,1<k1>varzapavitra<k2>varza-pavitra<e>3
+627996 new <L>187896.1<pc>1332,1<k1>varzapavitra<k2>varza-pavitra<e>3
+;
+633381 old <L>189533.1<pc>1332,1<k1>vAtayAna<k2>vAta—yAna<e>3
+633381 new <L>189535.1<pc>1332,1<k1>vAtayAna<k2>vAta—yAna<e>3
+;
+633780 old <L>189653.1<pc>1332,2<k1>vAtezu<k2>vA—tezu<e>3
+633780 new <L>189652.1<pc>1332,2<k1>vAtezu<k2>vA—tezu<e>3
+;
+678191 old <L>203049.1<pc>1332,2<k1>visraMsikA<k2>vi-sraMsikA<h>a<e>3
+678191 new <L>203055.1<pc>1332,2<k1>visraMsikA<k2>vi-sraMsikA<h>a<e>3
+;
+680525 old <L>203739.2<pc>1332,2<k1>vIrarAjavarman<k2>vIra—rAja-varman<e>3
+680525 new <L>203743.1<pc>1332,2<k1>vIrarAjavarman<k2>vIra—rAja-varman<e>3
+;
+699063 old <L>209425.1<pc>1332,2<k1>vyAkulavezwana<k2>vy-Akula-vezwana<e>4
+699063 new <L>209424.1<pc>1332,2<k1>vyAkulavezwana<k2>vy-Akula-vezwana<e>4
+;

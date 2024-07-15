@@ -1,0 +1,1080 @@
+prev: akAlasaha 3 264
+ cur: akAlakOmudI 3 264.1
+next: akAlahInam 3 265
+
+
+prev: akutaScid 3 286.1
+ cur: akutomftyu 3 286.2
+next: akutoBaya 3 287
+
+
+prev: akzaSORqa 3 507
+ cur: akzaSikzA 3 507.1
+next: akzaSIla 3 507.2
+
+
+prev: akzarasamAmnAya 3 617
+ cur: akzarasaMhAta 3 617.1
+next: akzarasaMGAta 3 617.2
+
+
+prev: akzarasaMhAta 3 617.1
+ cur: akzarasaMGAta 3 617.2
+next: akzarasaMhitA 3 617.3
+
+
+prev: agnistamBana 3 1130
+ cur: agnisTala 3 1130.1
+next: agnistoka 3 1131
+
+
+prev: agratas 3 1233
+ cur: agratalasaMcAra 3 1233.1
+next: agratIrTa 3 1234
+
+
+prev: aGala 2 1378
+ cur: aGaya 2 1378.1
+next: aGAya 2 1379
+
+
+prev: aGarikA 1 1380.1
+ cur: aGUrRa 1 1380.2
+next: aGawamAna 1 1381
+
+
+prev: aGawamAna 1 1381
+ cur: aGaRwa 1 1381.1
+next: aGawitaGawita 1 1381.2
+
+
+prev: aGaRwa 1 1381.1
+ cur: aGawitaGawita 1 1381.2
+next: aGana 1 1382
+
+
+prev: aNkasaMjYA 3 1449.1
+ cur: aNkAsya 3 1449.2
+next: aNkANka 3 1450
+
+
+prev: aNkuraya 2 1473.2
+ cur: aNkUraya 2 1473.3
+next: aNkurAya 2 1473.4
+
+
+prev: aNkUraya 2 1473.3
+ cur: aNkurAya 2 1473.4
+next: aNkurita 2 1474
+
+
+prev: aNgaSas 3 1585
+ cur: aNgasamAKyAyam 3 1585.1
+next: aNgasaMskAra 3 1586
+
+
+prev: aNgArakayantra 3 1672.1
+ cur: BOmayantra 3 1672.2
+next: aNgArakavAra 3 1673
+
+
+prev: aNGrivallikA 3 1764
+ cur: aNGripAta 3 1764.1
+next: aNGripAna 3 1765
+
+
+prev: acCera 1 1908.1
+ cur: aYSera 1 1908.2
+next: acyuta 1 1909
+
+
+prev: atimarSa 3 2723
+ cur: atimanoraTakrama 3 2723.1
+next: atimAna 3 2724
+
+
+prev: ativilambin 3 2796
+ cur: ativIryapraBa 3 2796.1
+next: ativiSrabDanavoQA 3 2797
+
+
+prev: atisidDi 3 2839
+ cur: atisitANgavihaMga 3 2839.1
+next: atisujana 3 2840
+
+
+prev: atyuzRa 3 2908
+ cur: atyUrjitam 3 2908.1
+next: atyUDnI 3 2909
+
+
+prev: atiTipUjA 3 3006
+ cur: atiTIBU 3 3006.1
+next: atiTivat 3 3007
+
+
+prev: aDovaSa 3 4103
+ cur: aDovAsas 3 4103.1
+next: aDovAyu 3 4104
+
+
+prev: aDovekzin 3 4106
+ cur: aDoMSuka 3 4106.1
+next: aDoSvam 3 4107
+
+
+prev: aDivasati 2 4375.2
+ cur: aDivAsanA 2 4375.3
+next: aDivAsa 2 4376
+
+
+prev: anatidfSya 3 4860
+ cur: anatidfSna 3 4860.1
+next: anatidButa 3 4861
+
+
+prev: ananUyAja 1 4912.01
+ cur: ananuyoga 1 4912.1
+next: ananuvAkya 1 4912.2
+
+
+prev: ananvavAyana 1 5057.2
+ cur: ananvavajaya 1 5057.3
+next: ananvABakta 1 5058
+
+
+prev: anaBizvaNga 1 5165.01
+ cur: anaBizekya 1 5165.1
+next: anaBizecanIya 1 5165.2
+
+
+prev: anAkranda 1 5431.01
+ cur: anAktAkza 1 5431.1
+next: anAkrAnta 1 5432
+
+
+prev: anAtmanIna 2 5499
+ cur: anAtmatA 2 5499.1
+next: anAtmya 2 5500
+
+
+prev: anupAde 1 6745.1
+ cur: anupADirAmaRIya 1 6745.2
+next: anupAtta 1 6745.3
+
+
+prev: anupF 1 6775
+ cur: anupUraRa 1 6775.1
+next: anupeta 1 6776
+
+
+prev: anuyoktf 2 7054
+ cur: anuyoktavya 2 7054.1
+next: anuyoga 2 7055
+
+
+prev: anuSvas 1 7446
+ cur: anuSloka 1 7446.1
+next: anuza 1 7446.2
+
+
+prev: anusaMhf 1 7545
+ cur: anusakTam 1 7545.1
+next: anusaMkal 1 7546
+
+
+prev: antakArin 3 7918
+ cur: antakarman 3 7918.1
+next: antakAla 3 7919
+
+
+prev: antadvIpa 3 7932.42
+ cur: antadvIpin 3 7932.43
+next: antadIpaka 3 7933
+
+
+prev: antaHpurADyakza 3 8016
+ cur: antaHpurAvacara 3 8016.1
+next: antaHpurasahAya 3 8017
+
+
+prev: antarindriya 3 8071
+ cur: antariti 3 8071.1
+next: antarIpa 3 8072
+
+
+prev: antarDana 3 8117.1
+ cur: antarDinAman 3 8117.2
+next: antarDA 3 8118
+
+
+prev: antarvAvat 3 8151.2
+ cur: antarvftti 3 8151.3
+next: antarvasat 3 8152
+
+
+prev: antaScaRqAla 3 8172.3
+ cur: antaScara 3 8172.4
+next: antarhfdaya 3 8173
+
+
+prev: antigfha 3 8323
+ cur: antitara 3 8323.1
+next: antitama 3 8324
+
+
+prev: antyAvasAyin 3 8380
+ cur: antyArDa 3 8380.1
+next: antyAhuti 3 8381
+
+
+prev: anyalokya 3 8609.1
+ cur: anyaloha 3 8609.2
+next: anyaliNga 3 8610
+
+
+prev: anyastrIga 3 8619
+ cur: anyalohaka 3 8619.1
+next: anyAdfkza 3 8620
+
+
+prev: anyataHplakzA 3 8643
+ cur: anyatomuKa 3 8643.1
+next: anyataHsitibAhu 3 8643.2
+
+
+prev: anyatomuKa 3 8643.1
+ cur: anyataHsitibAhu 3 8643.2
+next: anyataHsitiranDra 3 8643.3
+
+
+prev: anyaTAkfti 3 8661.1
+ cur: anyaTAjAtIyaka 3 8661.2
+next: anyaTAKyAti 3 8662
+
+
+prev: apadAlaka 1 9238.1
+ cur: apadibadDa 1 9238.2
+next: apadArTa 1 9239
+
+
+prev: apamaSiYjinI 1 9366.1
+ cur: apamaNgala 1 9366.2
+next: apamada 1 9366.3
+
+
+prev: aparAvapizWa 1 9409.2
+ cur: aparAvApa 1 9409.3
+next: apara 1 9410
+
+
+prev: aparaSarad 3 9454
+ cur: aparavallaBa 3 9454.1
+next: aparavedanIya 3 9454.2
+
+
+prev: aparaspara 3 9458
+ cur: aparaSvas 3 9458.1
+next: aparasvastika 3 9459
+
+
+prev: aparasvastika 3 9459
+ cur: aparASA 3 9459.1
+next: aparahemanta 3 9460
+
+
+prev: aparihIRakAlam 1 9598.2
+ cur: aparihIyamARa 1 9598.3
+next: aparihARa 1 9599
+
+
+prev: aparkyapfzWa 1 9609.2
+ cur: aparuz 1 9609.3
+next: aparuza 1 9610
+
+
+prev: apavarta 1 9682
+ cur: apavarRa 1 9682.1
+next: apavas 1 9683
+
+
+prev: apavartya 2 9743.1
+ cur: apavartikA 2 9743.2
+next: apavartita 2 9744
+
+
+prev: apisic 1 10227
+ cur: apisomopITa 1 10227.1
+next: apisf 1 10228
+
+
+prev: abalAbala 3 10958
+ cur: abalAgni 3 10958.1
+next: abaliman 3 10958.2
+
+
+prev: aBayagirivihAra 3 11137
+ cur: aBayagirivihAra 3 11137.1
+next: aBayaMkara 3 11138
+
+
+prev: aBicaraRa 2 11342.1
+ cur: aBicarita 2 11342.2
+next: aBicaraRIya 2 11343
+
+
+prev: aBijYatA 3 11414
+ cur: aBijYetara 3 11414.1
+next: aBijYatva 3 11415
+
+
+prev: aBivlaNga 1 12466
+ cur: aBivratin 1 12466.1
+next: aBivlI 1 12467
+
+
+prev: aBizekaSAlA 3 12588
+ cur: aBizekaBUmipratilamBa 3 12588.1
+next: aBizekArdraSiras 3 12589
+
+
+prev: aBisaMhita 1 12733
+ cur: aBisaMhftya 1 12733.1
+next: aBisaMkruD 1 12734
+
+
+prev: aBisambADa 1 12851
+ cur: aBisambuD 1 12851.1
+next: aBisambudDa 1 12852
+
+
+prev: aBraKaRqa 3 13689.12
+ cur: aBraga 3 13689.13
+next: aBraMga 3 13689.14
+
+
+prev: aBraga 3 13689.13
+ cur: aBraMga 3 13689.14
+next: aBragaNgA 3 13690
+
+
+prev: aBramAMsI 3 13702
+ cur: aBramaya 3 13702.2
+next: aBramAtaNga 3 13703
+
+
+prev: amitaskanDa 3 14094.1
+ cur: amitASanA 3 14094.2
+next: amitAkzara 3 14095
+
+
+prev: amitAyus 3 14099
+ cur: amitAyurDyAnasUtra 3 14099.1
+next: amitOjas 3 14100
+
+
+prev: ameDyakuRapASin 3 14327
+ cur: ameDyapratimantraRa 3 14327.1
+next: ameDyatA 3 14328
+
+
+prev: amoGavAYCita 3 14380
+ cur: amoGavatI 3 14380.1
+next: amoGavikrama 3 14381
+
+
+prev: ambujAsanA 3 14502.1
+ cur: ambujIvin 3 14502.2
+next: ambujAnanA 3 14503
+
+
+prev: arI|a 1 15392
+ cur: arIRa 1 15392.1
+next: arIti 1 15393
+
+
+prev: arkaDAnA 3 15608
+ cur: arkadugDa 3 15608.1
+next: arkanandana 3 15609
+
+
+prev: arcitf 2 15728
+ cur: arcicayizu 2 15728.1
+next: arcin 2 15729
+
+
+prev: arDamARavaka 3 16225
+ cur: arDamAnuza 3 16225.1
+next: arDamAtra 3 16226
+
+
+prev: arDarcaSas 4 16244.1
+ cur: arDarcasya 4 16244.11
+next: arDarcaSasya 4 16244.2
+
+
+prev: arDAvalIQa 3 16299
+ cur: arDAvizwa 3 16299.1
+next: arDAvaSeza 3 16300
+
+
+prev: alati 1 16583
+ cur: alatikA 1 16583.1
+next: alaMtama 1 16584
+
+
+prev: alaMkArasUra 4 16612
+ cur: alaMkArAnusAriRI 4 16612.1
+next: alaMkArahIna 4 16613
+
+
+prev: avaSyamBAvitva 3 18146
+ cur: avaSyaBAgIyaka 3 18146.1
+next: avaSyayAtavyatA 3 18146.2
+
+
+prev: avAkSAKa 3 18503
+ cur: avAksrotas 3 18503.1
+next: avAkSiras 3 18504
+
+
+prev: avirADayat 1 18975
+ cur: avirUQa 1 18975.1
+next: avirudDa 1 18976
+
+
+prev: aSruvadana 3 19829.5
+ cur: aSruvaha 3 19829.6
+next: aSrupUrRa 3 19830
+
+
+prev: aSvaganDA 3 19890
+ cur: aSvagopa 3 19890.1
+next: aSvagupta 3 19891
+
+
+prev: aSvaballava 3 19944.1
+ cur: aSvamaRiMda 3 19944.2
+next: aSvabAhu 3 19945
+
+
+prev: aSvaBAra 3 19948
+ cur: aSvamatallikA 3 19948.1
+next: aSvamacarcikA 3 19948.2
+
+
+prev: aSvamatallikA 3 19948.1
+ cur: aSvamacarcikA 3 19948.2
+next: aSvamandurA 3 19949
+
+
+prev: aSvAntaka 3 20070
+ cur: aSvAjAneya 3 20070.1
+next: aSvAnana 3 20070.2
+
+
+prev: aSvisAlokya 3 20145.1
+ cur: aSvisuta 3 20145.2
+next: aSvinakfta 3 20146
+
+
+prev: azwABujA 3 20270
+ cur: azwAdaSarca 3 20270.1
+next: azwAdaSavakra 3 20270.2
+
+
+prev: azwAraTa 3 20291
+ cur: azwAratni 3 20291.1
+next: azwArDa 3 20291.2
+
+
+prev: asaMpAta 1 20733
+ cur: asampuza 1 20733.1
+next: asaMpUrRa 1 20734
+
+
+prev: asaMpUrRa 1 20734
+ cur: asampfkta 1 20734.1
+next: asaMpfYcAna 1 20735
+
+
+prev: asamprajYAta 1 20735.1
+ cur: asamprajYAna 1 20735.2
+next: asaMprati 1 20736
+
+
+prev: asaMpramAda 1 20739
+ cur: asampramARa 1 20739.1
+next: asaMpramoza 1 20740
+
+
+prev: astakzitiBft 3 21253
+ cur: astaMgacCat 3 21253.1
+next: astagamana 3 21254
+
+
+prev: aheru 1 21976
+ cur: ahelin 1 21976.1
+next: aheLat 1 21977
+
+
+prev: AkarRamUlam 2 22049
+ cur: AkarRaka 2 22049.1
+next: AkarRaya 2 22050
+
+
+prev: Ajisft 3 23124
+ cur: AjiSoBin 3 23124.1
+next: AjihIna 3 23125
+
+
+prev: AdISvara 3 23881
+ cur: Adisvarita 3 23881.1
+next: Adyanta 3 23882
+
+
+prev: Adin 1 23967
+ cur: AdinAntam 1 23967.1
+next: Adinava 1 23968
+
+
+prev: Adartavya 2 24031
+ cur: Adarin 2 24031.1
+next: Aduri 2 24032
+
+
+prev: AptavAda 3 24785.2
+ cur: AptaviBaktika 3 24785.3
+next: AptavajrasUci 3 24786
+
+
+prev: AptavajrasUci 3 24786
+ cur: Aptastoma 3 24786.1
+next: Aptavarga 3 24787
+
+
+prev: ApAla 1 24970
+ cur: ApArzRi 1 24970.1
+next: ApAli 1 24971
+
+
+prev: ApIqakajAta 2 24990.1
+ cur: ApIqin 2 24990.2
+next: ApIqana 2 24991
+
+
+prev: AlAkta 3 26669
+ cur: AlajAla 3 26669.1
+next: AlAsya 3 26670
+
+
+prev: ASAkfta 3 27388
+ cur: ASApurA 3 27388.1
+next: ASAnvita 3 27389
+
+
+prev: ASApAla 3 27443
+ cur: ASApAlIya 3 27443.1
+next: ASAparA 3 27444
+
+
+prev: AScaryatva 3 27591
+ cur: AScaryamaYjarI 3 27591.1
+next: AScaryaBUta 3 27592
+
+
+prev: Asyamodaka 3 27896
+ cur: AsyamETunika 3 27896.1
+next: AsyalANgala 3 27897
+
+
+prev: Asawa 1 27947.1
+ cur: Asaqa 1 27947.2
+next: AsaMjYita 1 27948
+
+
+prev: AsAyam 1 28000
+ cur: AsarvA 1 28000.1
+next: AsAra 1 28001
+
+
+prev: iqABaNga 3 28694.68
+ cur: iqopahavana 3 28694.69
+next: iqAcamasa 3 28696
+
+
+prev: itaHpradAna 3 28744.1
+ cur: itaHpraBfti 3 28744.2
+next: itaHpradAna 3 28745
+
+
+prev: itihAsa 3 28773.1
+ cur: itihoti 3 28773.2
+next: ititi 3 28773.3
+
+
+prev: itihoti 3 28773.2
+ cur: ititi 3 28773.3
+next: ityanta 3 28774
+
+
+prev: idaMSabda 3 28803.41
+ cur: idamIya 3 28803.42
+next: idaMyu 3 28804
+
+
+prev: izupa 3 29478
+ cur: izupad 3 29478.1
+next: izupaTa 3 29479
+
+
+prev: izupaTa 3 29479
+ cur: izupAta 3 29479.1
+next: izuparzin 3 29479.2
+
+
+prev: izupAta 3 29479.1
+ cur: izuparzin 3 29479.2
+next: izupuzpA 3 29480
+
+
+prev: ISADara 3 29844.4
+ cur: ISeSvara 3 29844.5
+next: ISagItA 3 29846
+
+
+prev: ucciliNga 2 30364.3
+ cur: uccicIzA 2 30364.4
+next: ucceya 2 30365
+
+
+prev: uttaragItA 3 31197
+ cur: uttaraGfta 3 31197.1
+next: uttaragranTa 3 31198
+
+
+prev: udAcam 2 32311
+ cur: udIcIpaTa 2 32311.1
+next: udIcIna 2 32312
+
+
+prev: udgAtf 1 32759
+ cur: udgAla 1 32759.1
+next: udgAra 1 32760
+
+
+prev: unmukzA 2 34025
+ cur: unmokzA 2 34025.1
+next: unmuca 2 34026
+
+
+prev: upakartf 2 34133
+ cur: upakartavya 2 34133.1
+next: upakAra 2 34134
+
+
+prev: UrRodara 3 38102
+ cur: UrRAmfdu 3 38102.1
+next: UrRAlaMkftamuKatA 3 38102.2
+
+
+prev: UrRAmfdu 3 38102.1
+ cur: UrRAlaMkftamuKatA 3 38102.2
+next: UrRAmradas 3 38102.3
+
+
+prev: UrRAlaMkftamuKatA 3 38102.2
+ cur: UrRAmradas 3 38102.3
+next: UrRAvAhi 3 38102.4
+
+
+prev: UrDvajyotis 3 38169
+ cur: UrDvajvalana 3 38169.1
+next: UrDvaMjAnu 3 38170
+
+
+prev: ekAtmapakza 4 39776.1
+ cur: ekAtmapakzavAda 4 39776.2
+next: ekAtmatA 4 39777
+
+
+prev: evaMsamfdDa 3 40210
+ cur: evaMkarman 3 40210.1
+next: evaMkAram 3 40211
+
+
+prev: kaMsaniDana 3 41375.2
+ cur: kaMsaparimfj 3 41375.3
+next: kaMsakAra 3 41377
+
+
+prev: kacamAla 3 41728
+ cur: kacarUpin 3 41728.1
+next: kacaripuPalA 3 41729
+
+
+prev: kaTaMvIrya 3 42767
+ cur: kaTaMkaTA 3 42767.1
+next: kaTaMkaTika 3 42768
+
+
+prev: kanakavigraha 3 42979
+ cur: kanakaSfNgamaya 3 42979.1
+next: kanakaSaka 3 42980
+
+
+prev: kamalACAyA 3 43863
+ cur: kamalAtmikA 3 43863.1
+next: kamalAtIrTa 3 43864
+
+
+prev: karamocana 3 44148
+ cur: kararuD 3 44148.1
+next: kararudDa 3 44149
+
+
+prev: karagrAhin 3 44369
+ cur: karagfhIti 3 44369.1
+next: karajAla 3 44370
+
+
+prev: karmadaRqa 3 45335.1
+ cur: karmadAyAda 3 45335.2
+next: karmatyAga 3 45336
+
+
+prev: kalottAla 3 45681
+ cur: kalAMSarUpiRI 3 45681.1
+next: kalArUpiRI 3 45681.2
+
+
+prev: kAkavyAGragomAyu 3 47082
+ cur: kAkaSekikin 3 47082.1
+next: kAkaSabda 3 47083
+
+
+prev: kAmaveraRIya 3 48192
+ cur: kAmaveSin 3 48192.1
+next: kAmavaktavyahfdaya 3 48192.2
+
+
+prev: kAmaveSin 3 48192.1
+ cur: kAmavaktavyahfdaya 3 48192.2
+next: kAmavyAhArin 3 48193
+
+
+prev: kAyAgni 3 48489
+ cur: kAyAvatAra 3 48489.1
+next: kAyArohaRa 3 48490
+
+
+prev: kAryakartf 3 48867
+ cur: kAryakaraRa 3 48867.1
+next: kAryakAraRa 3 48868
+
+
+prev: kAlaviBAga 3 49521
+ cur: kAlaviprakarza 3 49521.1
+next: kAlaviroDa 3 49521.2
+
+
+prev: kimaDikaraRa 3 50420
+ cur: kimadyaka 3 50420.1
+next: kimantara 3 50421
+
+
+prev: kudizwi 3 51003
+ cur: kuDfti 3 51003.1
+next: kudfSya 3 51004
+
+
+prev: kuRqalanA 2 51951
+ cur: kuRqalaka 2 51951.1
+next: kuRqalikA 2 51952
+
+
+prev: kuSalavAc 3 53433
+ cur: kuSalAvasAnatA 3 53433.1
+next: kuSalasAgara 3 53434
+
+
+prev: kfzRaSimbI 3 55445
+ cur: kfzRaSIrzan 3 55445.1
+next: kfzRaSilA 3 55446
+
+
+prev: kOleSvara 3 57327
+ cur: kOleSI 3 57327.1
+next: kOlopanizad 3 57328
+
+
+prev: kzaRArDa 3 58798
+ cur: kzaRAMSu 3 58798.1
+next: kzaRepAka 3 58799
+
+
+prev: kzIRASrava 3 59482
+ cur: kzIRAsrava 3 59482.1
+next: kzIRAzwakarman 3 59483
+
+
+prev: kzipraSyena 3 59576
+ cur: kzipraMsuvana 3 59576.1
+next: kziprasaMDi 3 59577
+
+
+prev: kzetrasiMha 3 60328.2
+ cur: KetasiMha 3 60328.3
+next: kzetrasImA 3 60329
+
+
+prev: kzemasiMha 3 60434.1
+ cur: KemasiMha 3 60434.2
+next: kzemAditya 3 60435
+
+
+prev: gaganAnanda 3 62201
+ cur: gaganANgaRa 3 62201.1
+next: gaganApagA 3 62202
+
+
+prev: gItAcArya 3 65313
+ cur: gItAgIta 3 65313.1
+next: gItAyana 3 65314
+
+
+prev: gfhanIqa 3 66574
+ cur: gfhapawala 3 66574.1
+next: gfhapa 3 66575
+
+
+prev: gErikaMvUla 1 66883.05
+ cur: gallapUraRa 1 66883.1
+next: go 1 66884
+
+
+prev: godAna 3 67126
+ cur: godAnavrata 3 67126.1
+next: godAna 3 67127
+
+
+prev: GftaprASana 3 69985
+ cur: Gftapfkta 3 69985.1
+next: GftaprI 3 69986
+
+
+prev: caritrabanDaka 3 72325
+ cur: caritrapuzpa 3 72325.1
+next: caritravat 3 72326
+
+
+prev: cittapAvan 3 73562.1
+ cur: citpAvan 3 73562.2
+next: cittapramATin 3 73563
+
+
+prev: citraja 3 73739
+ cur: citrajavanikA 3 73739.1
+next: citrajalpa 3 73740
+
+
+prev: Cadizmat 3 75488
+ cur: CadistfRa 3 75488.1
+next: CadiHsammita 3 75489
+
+
+prev: jAtiDvaMsa 3 78687
+ cur: jAtinirRaya 3 78687.1
+next: jAtiMDara 3 78688
+
+
+prev: jIvasuta 3 79761
+ cur: jIvasUvarI 3 79761.1
+next: jIvasU 3 79762
+
+
+prev: qunduka 1 81453
+ cur: quRQi 1 81453.1
+next: qumba 1 81454
+
+
+prev: QilI 2 81502.01
+ cur: QillI 2 81502.1
+next: QillikA 2 81502.2
+
+
+prev: tatprakfta 3 81937.1
+ cur: tatpratyayam 3 81937.2
+next: tatpratyayatva 3 81937.3
+
+
+prev: tatpratyayam 3 81937.2
+ cur: tatpratyayatva 3 81937.3
+next: tatpraTama 3 81938
+
+
+prev: turaganIlatAla 4 85990
+ cur: turagapAtaka 4 85990.1
+next: turagaparicAraka 4 85991
+
+
+prev: dakziRApavarga 3 89435
+ cur: dakziRAprAYc 3 89435.1
+next: dakziRApratigraha 3 89435.2
+
+
+prev: dakziRAprAYc 3 89435.1
+ cur: dakziRApratigraha 3 89435.2
+next: dakziRApravaRa 3 89435.3
+
+
+prev: daSAviSeza 3 91115
+ cur: daSAvipAka 3 91115.1
+next: daSenDana 3 91116
+
+
+prev: dahanavat 3 91188.1
+ cur: dahanasAraTi 3 91188.2
+next: dahanakalpa 3 91188.3
+
+
+prev: dahanasAraTi 3 91188.2
+ cur: dahanakalpa 3 91188.3
+next: dahanAguru 3 91189
+
+
+prev: dArakriyA 3 91667
+ cur: dAragupti 3 91667.1
+next: dAragava 3 91668
+
+
+prev: Darmaviplava 3 100265
+ cur: DarmavIra 3 100265.1
+next: DarmaviroDavat 3 100266
+
+
+prev: nizpeza 3 111005
+ cur: nizpezavat 3 111005.1
+next: nizpezaRa 3 111006
+
+
+prev: nepAlAbda 3 112211.2
+ cur: nEpAlikAbda 3 112211.3
+next: nepAlavizaya 3 112212
+
+
+prev: parivezavat 4 118585
+ cur: parivezabanDin 4 118585.01
+next: parivezin 4 118585.1
+
+
+prev: paSusaKa 3 120661
+ cur: paSusaMKya 3 120661.1
+next: paSusani 3 120662
+
+
+prev: pAtatriRa 1 121812
+ cur: pAtAnaprasTa 1 121812.1
+next: pAtalya 1 121813
+
+
+prev: pfTivyAsaMsarpa 3 128472.1
+ cur: pfTivyupara 3 128472.20
+next: pfTivIkampa 3 128473
+
+
+prev: pratyagAnanda 3 133961
+ cur: pratyagapavarga 3 133961.1
+next: pratyagASApati 3 133962
+
+
+prev: pretasamkxpta 3 140947
+ cur: pretasaMsTA 3 140947.1
+next: pretasparSin 3 140948
+
+
+prev: bahiHprayARa 3 144091.1
+ cur: bahirvESravaRa 3 144091.2
+next: bahiHSAlA 3 144092
+
+
+prev: bahiHsTAyin 3 144102
+ cur: bahirmAlA 3 144102.1
+next: bahiHsTita 3 144103
+
+
+prev: brAhmaRasattama 3 147398
+ cur: brAhmaRasamBAza 3 147398.1
+next: brAhmaRasaMtarpaRa 3 147399
+
+
+prev: BEkzArTin 3 152962.1
+ cur: BEkzAhAra 3 152962.2
+next: BEkzASin 3 152963
+
+
+prev: yaTAguRam 3 169702
+ cur: yaTAgIta 3 169702.1
+next: yaTAgfham 3 169703
+
+
+prev: yaTABAjanam 3 169853
+ cur: yaTAbAlam 3 169853.1
+next: yaTABAva 3 169854
+
+
+prev: yaTAsaMvfttam 3 169998
+ cur: yaTAsaMvAdam 3 169998.1
+next: yaTAsaMvedam 3 169999
+
+
+prev: vanazad 3 185966
+ cur: vanasaMSraya 3 185966.1
+next: vanasaMkawa 3 185967
+
+
+prev: vapanIya 2 186288
+ cur: vapatra 2 186288.1
+next: vaptf 2 186289
+
+
+prev: varzapAkin 3 187898
+ cur: varzapavitra 3 187898.1
+next: varzapAta 3 187899
+
+
+prev: vAtameha 3 189533
+ cur: vAtayAna 3 189533.1
+next: vAtayantra 3 189534
+
+
+prev: vAtEkaBakza 3 189653
+ cur: vAtezu 3 189653.1
+next: vAteSvaratIrTa 3 189654
+
+
+prev: visraMsajA 3 203049
+ cur: visraMsikA 3 203049.1
+next: visraMsana 3 203050
+
+
+prev: vIraravivarman 3 203739.1
+ cur: vIrarAjavarman 3 203739.2
+next: vIrarasa 3 203740
+
+
+prev: vyAkulahfdaya 4 209425
+ cur: vyAkulavezwana 4 209425.1
+next: vyAkulAlApa 4 209426
+
+
+prev: SuBajAni 3 219674
+ cur: SuBajAlihasta 3 219674.1
+next: SuBaMcarA 3 219675
+
+
+prev: Srutakevalin 3 223430
+ cur: Srutagraha 3 223430.1
+next: SrutaMjaya 3 223431
+
+
