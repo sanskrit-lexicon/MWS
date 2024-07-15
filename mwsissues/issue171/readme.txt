@@ -145,4 +145,19 @@ aparaSvas 3 9455 xxx
 ---
 nizpezavat 3 111005.1 sup  should be 4
 
+--------------------------------------------------------------
+installation of temp_mw_01.txt
+
+cp temp_mw_01.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+# grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../mw
+# sync csl-orig with github
+cd /c/xampp/htdocs/cologne/csl-orig/v02
+git add .
+git commit -m "MW: sup-replacement.
+Ref: https://github.com/sanskrit-lexicon/MWS/issues/171"
+git push
+
+End of phase 1 work on issue171. 07-15-2024
 *********************************************************************
