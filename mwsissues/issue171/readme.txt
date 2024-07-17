@@ -161,3 +161,6 @@ git push
 
 End of phase 1 work on issue171. 07-15-2024
 *********************************************************************
+07-17-2024  legacy directory.  Some files from Cologne server
+  relating to additions (ca 2012).
+  

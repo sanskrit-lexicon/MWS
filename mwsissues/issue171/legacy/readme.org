@@ -1,0 +1,785 @@
+Additions to MW.
+This work begun Jan 11, 2010 - ejf
+At some point, I gave up trying to document all the changes and
+processes used.  All the code and intermediate files are in the
+mwupdate/additions/step1 subdirectory.
+The final file used to update MW was ADD3.xml. 
+This was done on Jan 21, 2010.
+The additions records are identifiable by having an L value of 
+300000-399999.
+The MW display shows any additional records at the end of the display,
+since the display is ordered by L.  The same fact is the case for
+the mwquery (MW Advanced search).
+The monier.xml download also contains the additions.
+====================================================
+
+* orig directory
+These files from Malten.
+They are similar, but not identical.
+ MON-ADD.ALL  
+ MONIER.ADD
+
+* step1
+ perl chardistrib.pl < ../orig/MON-ADD.ALL > MON_ADD_ALL_chars.txt
+4116 lines read
+ perl chardistrib.pl < ../orig/MONIER.ADD > MONIER_ADD_chars.txt
+4064 lines read
+
+ perl char_standard.pl < ../orig/MON-ADD.ALL > ADD1.txt
+ perl char_standard.pl < ../orig/MONIER.ADD > ADD2.txt
+ removes carriage returns (code 13)
+ for non-printing characters,
+  a. if char code < 32 (but not 10 = new line), remove char
+  b. if char 128 <= char code, change to <###>  (### = char code in decimal)
+
+====================================================================
+* FROM HERE ON, only ADD2.txt (the one from MONIER.ADD) is used.
+====================================================================
+* step1/ADD2a.txt notes:
+ 
+ A few manual changes made to ADD2.txt
+** lines deleted at end
+.#{1}<179>. #{Adi}, (also) the third part in the 7-partite Sa1man, ChUp.; %{<205>kezavA7STaka}, n. N. of a Stotra; %{<205>guru}, m. `first father', N. of Brahma1, Bhag.; %{<205>grantha}, m. N. of the first division or principal section of the sacred book of the Sikhs, RTL. 161; 169; IW, 325, n. 1; %{<205>tA}, f. the being the beginning of anything, S3is3.; %{<205>dIpa}, m. N. of a Rudra, Hcat.; %{<205>pitAmaha}, m. N. of Brahma1, Prasan3g.; %{<205>bhavAnI}, f. the S3akti of Parama-purusha, W.; %{<205>yAmala}, n. N. of a Tantra; %{<205>vaktR}, m. the first propounder of a doctrine, A1ryabh., Introd.; %{<205>varAha}, m. N. of Bhoja (Kanouj king), Inscr.; %{<205>zUra}, m. N. of a king of Bengal (also called A1di7s3vara), IW. 210, n.; %{<205>siMha}, m. N. of a king, Inscr.; %{<205>sthAyika}, see %{sthAyika} (p. 1264); %{<205>svarita}, mfn. having the Svarita accent on the first syllable, VPrat., Sch.<222>1859
+.#{2}<179>. #{asta} (in comp.); %{<205>gAmin}, mfn. going down, Ha1sy.; %{<205>M-gacchat}, m. (= %{lagna}), Su1ryas.; [1318,3] %{<205>m-ayA7cala}, m. (= %{asta-giri}), L.; %{<205>m-ito7ditA}, f. (scil. %{paurNa-mAsI}) the day on which the moon rises full after sunset, Gobh.; %{<205>lagna}, n. the western horizon, Su1ryas., Sch.; %{<248>tA7bhi-lASin}, mfn. verging towards sunset, Mudr.<222>1720
+.#{<248>pin}<179>  mfn., Pa1n2. viii, 4, 11, Sch.<222>3819
+
+NOTE: These lines were finally included.
+
+** removed 'header' lines:
+.%***This File is C:\SANSKRIT\MONIER\SEPT96\MONIER.ADD, Last update 01.12.96
+.ADDITIONS AND CORRECTIONS.
+.Obs. When no meaning is given some addition or rectification of accent is intended}. The word #{pra-kriyA} has been accidentally omitted at p. 654, but will be found at p. 1330. [1308,1]
+
+** changes:
+old:
+.#{ruda4<141>kAdazikA}<179>  f. = %{<248>dazinI}, Baudh.<222>3882
+new:
+.#{rudraaikAdazikA}<179>  f. = %{<248>dazinI}, Baudh.<222>3882
+
+old:
+.#{cakSuh,-zrotra}<179>  mfn. possessing sight and hearing, JainiUp.<222>3084
+new:
+.#{cakSuH-zrotra}<179>  mfn. possessing sight and hearing, JainiUp.<222>3084
+
+old:
+.#{anu-kA}, P. %{<205>kAyati} = %{abhidhatte}, Pat.<222>621
+new:
+.#{anu-kA}<179> P. %{<205>kAyati} = %{abhidhatte}, Pat.<222>621
+
+old:
+.#{anu-pravap} (A1. %{<205>vapate}), to shave or be shaved in turn, Ta1n2d2Br.<222>708
+new:
+.#{anu-pravap}<179> (A1. %{<205>vapate}), to shave or be shaved in turn, Ta1n2d2Br.<222>708
+
+old:
+.#{anu-vas} (only %{<205>vAvase}), to rush at, RV, viii, 4, 8.<222>747
+new:
+.#{anu-vas}<179> (only %{<205>vAvase}), to rush at, RV, viii, 4, 8.<222>747
+
+old:
+.#{abhi-sU}, to bring forth, Ba1lar.<222>1247
+new:
+.#{abhi-sU}<179> to bring forth, Ba1lar.<222>1247
+
+old:
+.#{A-kR} (Caus. %{<205>kArayati}, also) to imply by signs, Divya7v.<222>1778
+new:
+.#{A-kR}<179> (Caus. %{<205>kArayati}, also) to imply by signs, Divya7v.<222>1778
+
+old:
+.#{Asand14-vat}<179> (S3Br.).<222>2079
+new:
+.#{AsandI4-vat}<179> (S3Br.).<222>2079
+
+old:
+.#{anUpA71u}<179>  n. a kind of poisonous root, Gal.<222>795
+new:
+.#{anUpA7u}<179>  n. a kind of poisonous root, Gal.<222>795
+
+old:
+.#{jh5NajjhaNatkArin}<179>  mfn. making a rattling or tisikling, Pracan2d2.<222>3220
+new:
+.#{jhaNajjhaNatkArin}<179>  mfn. making a rattling or tisikling, Pracan2d2.<222>3220
+
+old:
+.#{tar14}<179>  f. = %{starI}, a barren eow, MaitrS.<222>3259
+new: also, it was out of order in file. However, the <L> numbering may be ok.
+     Also, 'eow'=>'cow'
+.#{tarI4}<179>  f. = %{starI}, a barren cow, MaitrS.<222>3259
+
+old:
+.#{A14rbhava}<179> (S3Br.).<222>2005
+new:
+.#{A4rbhava}<179> (S3Br.).<222>2005
+
+old:
+.#{paru3}<179>  (also) Bos Grunniens, L.<222>3576
+new:
+.#{paru}<179>  (also) Bos Grunniens, L.<222>3576
+
+old:
+.#{rAjan1ya-prabha}<179>  m. = %{amitA7bha}, Sukh. i.<222>3873
+new:
+.#{rAjanIya-prabha}<179>  m. = %{amitA7bha}, Sukh. i.<222>3873
+
+old:
+.#{lalita-v1graha-rAja}<179>  N. of a Na1t2aka.<222>3888
+new:
+.#{lalita-vigraha-rAja}<179>  N. of a Na1t2aka.<222>3888
+
+old:
+.#{adhvara-zri41}<179>  (accord. to some) turning towards the sacrifice, RV, i, 47, 8 &c.<222>441
+new:
+.#{adhvara-zrI4}<179>  (accord. to some) turning towards the sacrifice, RV, i, 47, 8 &c.<222>441
+
+old:
+.#{tarda}<179> (accoed. to some', a field insect').<222>3264
+new:
+.#{tarda}<179> (accord. to some', a field insect').<222>3264
+
+old:
+.#{bhaJj}<179> (<251>2. %{bhaJj}, cl. zo. P. %{bhaiJjayati}), `to speak' or `to shine', Dha1tup. xxxiii, 86.<222>3747
+new:
+.#{bhaJj}<179> (<251>2. %{bhaJj}, cl. 10. P. %{bhaJjayati}), `to speak' or `to shine', Dha1tup. xxxiii, 86.<222>3747
+
+old:
+.#{mukha}<179> (incomp.); %{<205>padma}, n. a lotus-face, Bcar.; %{<205>vAta}, m. `mouth-wind', breath, Hir.; %{<248>khenA7dAyin},m. pl. N. of a partic.class of self-mortifying devotees, Baudh.<222>3828
+new:
+.#{mukha}<179> (incomp.); %{<205>padma}, n. a lotus-face, Bcar.; %{<205>vAta}, m. `mouth-wind', breath, Hir.; %{<248>khenA7dAyin},m. pl. N. of a partic. class of self-mortifying devotees, Baudh.<222>3828
+
+old:
+.#{gaNa}<179> (in comp.); %{<205>pati-nAga}, m. N. of a king in Arytva7rta, Inscr.; %{<205>puraNa}, mf(%{I})n. forming a number or assembly, L.; %{<253>-bhogya}, mfn. to be possessed in joint tenure by a number of persons (as opp. to %{eka-bhogya}), Inscr.; %{<248>Ne7za}, m. (with Jainas) a disciple who is put in charge of a few others.<222>2991
+new: <253> => <205>
+.#{gaNa}<179> (in comp.); %{<205>pati-nAga}, m. N. of a king in Arytva7rta, Inscr.; %{<205>puraNa}, mf(%{I})n. forming a number or assembly, L.; %{<205>-bhogya}, mfn. to be possessed in joint tenure by a number of persons (as opp. to %{eka-bhogya}), Inscr.; %{<248>Ne7za}, m. (with Jainas) a disciple who is put in charge of a few others.<222>2991
+
+old:
+.#{kaTa}<179> (in comp.); %{<205>kaTa}, (also) n. sea-salt, L.; %{<205>kara} %{<205>karman}, m. a straw-mat maker (the son of a Vais3ya and a S3u1dr1), L.; %{<248>tA7kSaya}, Nom. P. %{<248>yati}, to regard with a side glance, Pa1rv.<222>2628
+new: 'tA7kSaya' => 'TA7kSaya'
+.#{kaTa}<179> (in comp.); %{<205>kaTa}, (also) n. sea-salt, L.; %{<205>kara} %{<205>karman}, m. a straw-mat maker (the son of a Vais3ya and a S3u1dr1), L.; %{<248>tA7kSaya}, Nom. P. %{<248>yati}, to regard with a side glance, Pa1rv.<222>2628
+
+old:
+.#{kaNDu}<179>  f. an itching or ardent desire, S3is.; %{<248>dU7la}, mfn. itching, ardently desiring, Car.; S3is3., Sch.<222>2640
+new:  'dU7la' => 'DU7la' Note: scan has dental 'd', but this is probably wrong.
+.#{kaNDu}<179>  f. an itching or ardent desire, S3is.; %{<248>dU7la}, mfn. itching, ardently desiring, Car.; S3is3., Sch.<222>2640
+
+old:
+.#{kula}<179> (in comp.); %{<205>kumArI}, f. a girl of good family, Ma1latim.; %{<205>gotra}, n. du. f<248> and tribe, Mn. iii, 109.; %{<205>pAMsana}, mf (%{I})n., %{<248>sin}, and %{<248>sula}, mfn. disgracing a f<248>, MBh R. &c %{<205>pAlin}, mfn. maintaining (the honour of) a f<248>, R.; %{pravAa}, m. the scion or offspring of a f<248>, Bcar.; %{<205>bhaTa}, m. N. of a S3u1rasena chief. Inscr.; %{<205>rAjadhAnI}, f. chief residence, Ragh.; %{<205>zskhara-deva}, m. N. of a king, Inscr.; %{<205>saMgata}, m. (= %{<205>mitra}), Gaut.; %{<205>stambha} (?) and %{<248>IA7ditya}, m. N. of chiefs, Inscr.; %{<248>Io7cita}, mfn. customary in a f<248> Bcar.<222>2836
+new: 'IA7ditya' => 'lA7ditya', 'Io7cita' => 'lo7cita'
+.#{kula}<179> (in comp.); %{<205>kumArI}, f. a girl of good family, Ma1latim.; %{<205>gotra}, n. du. f<248> and tribe, Mn. iii, 109.; %{<205>pAMsana}, mf (%{I})n., %{<248>sin}, and %{<248>sula}, mfn. disgracing a f<248>, MBh R. &c %{<205>pAlin}, mfn. maintaining (the honour of) a f<248>, R.; %{pravAa}, m. the scion or offspring of a f<248>, Bcar.; %{<205>bhaTa}, m. N. of a S3u1rasena chief. Inscr.; %{<205>rAjadhAnI}, f. chief residence, Ragh.; %{<205>zskhara-deva}, m. N. of a king, Inscr.; %{<205>saMgata}, m. (= %{<205>mitra}), Gaut.; %{<205>stambha} (?) and %{<248>lA7ditya}, m. N. of chiefs, Inscr.; %{<248>Io7cita}, mfn. customary in a f<248> Bcar.<222>2836
+
+old:
+.#{kuza}<179> (in comp.); %{<205>cIrin}, mfn. wearing a garment of Kus3a grass, MBh.; %{<205>pavitra}, n. Kus3a grass as a means of purification, Ka1tyS3r.; %{<205>prasU}, f. flowering K<248> ge<248>, ib.; %{<205>bhAra}, m. a load of K<248> gr<248>, S3a1n3khS3r.; %{<205>mAlin}, m. N. of aii ocean, Ja1takam.; %{<248>se7NDva}, n. a covering for the hands made of K<248> gr<248>.<222>2840
+new: 'se7NDva' => 'ze7NDva'
+.#{kuza}<179> (in comp.); %{<205>cIrin}, mfn. wearing a garment of Kus3a grass, MBh.; %{<205>pavitra}, n. Kus3a grass as a means of purification, Ka1tyS3r.; %{<205>prasU}, f. flowering K<248> ge<248>, ib.; %{<205>bhAra}, m. a load of K<248> gr<248>, S3a1n3khS3r.; %{<205>mAlin}, m. N. of aii ocean, Ja1takam.; %{<248>ze7NDva}, n. a covering for the hands made of K<248> gr<248>.<222>2840
+
+old:
+.#{jAla}<179> (in comp.); %{<205><248>bhUSaNa}, m. the son of a Maitreya and a Kshatriys, L.; %{<205>mArga}, m. the way through the window, Ma1lati1m.; %{<248>tA7baddhA7Gguli-pANi-pAda-talstA}, f. the having the soles of the feet and palms and fingers covered with nets (or cross-lines; one of the 32 signs of perfection), Dharmas. 83; %{<248>lo7pajIvin}, m. a fisherman, S3ak.<222>3192
+new: 'tA7baddhA7Gguli' => 'lA7baddhA7Gguli'
+.#{jAla}<179> (in comp.); %{<205><248>bhUSaNa}, m. the son of a Maitreya and a Kshatriys, L.; %{<205>mArga}, m. the way through the window, Ma1lati1m.; %{<248>lA7baddhA7Gguli-pANi-pAda-talstA}, f. the having the soles of the feet and palms and fingers covered with nets (or cross-lines; one of the 32 signs of perfection), Dharmas. 83; %{<248>lo7pajIvin}, m. a fisherman, S3ak.<222>3192
+
+old:
+.#{tulya}<179> (in comp.); %{<205>krama}, mfn. keeping the same pace, Jatakam.; %{<205>gariman}, mfn. of the same dignity with (instr.), Pracan2d2.; %{<205>codana}, n. an equally important rule, Dra1by.; %{<205>vat}, ind. like, ApY.; %{<248>i4yA7bhidhAna}, mfn. of equal name (i.e. having a name corresponding to one's qualities), Bcar.<222>3297
+new: 'i4yA7bhidhAna' => 'lyA7bhidhAna'
+.#{tulya}<179> (in comp.); %{<205>krama}, mfn. keeping the same pace, Jatakam.; %{<205>gariman}, mfn. of the same dignity with (instr.), Pracan2d2.; %{<205>codana}, n. an equally important rule, Dra1by.; %{<205>vat}, ind. like, ApY.; %{<248>lyA7bhidhAna}, mfn. of equal name (i.e. having a name corresponding to one's qualities), Bcar.<222>3297
+
+old:
+.#{nAnA}<179> (in comp.); %{<205><248>vastha} (%{nAnA7v<248>}), mfn. differently conditioned, Ka1vya1d.; %{<248>zraya} (%{nAnA7zr<248>}), mfn. wearing different forms (or, `resorting to various means'), Bcar. xiii, 18.<222>3479
+new: '<205><248>vastha' => '<248a>A7vastha'
+     '<248>zraya' => '<248a>A7zraya'
+.#{nAnA}<179> (in comp.); %{<248a>A7vastha} (%{nAnA7v<248>}), mfn. differently conditioned, Ka1vya1d.; %{<248a>A7zraya} (%{nAnA7zr<248>}), mfn. wearing different forms (or, `resorting to various means'), Bcar. xiii, 18.<222>3479
+
+old:
+.#{bhaikhA7rthin}<179>  mfn. seeking for alms, Baudh.; %{<248>okSA7hAra}, mfn. living on alms, ib.<222>3773
+new: 'bhaikhA7rthin' => 'bhaikSA7rthin', 'okSA7hAra' => 'kSA7hAra'
+.#{bhaikSA7rthin}<179>  mfn. seeking for alms, Baudh.; %{<248>kSA7hAra}, mfn. living on alms, ib.<222>3773
+
+old:
+.#{loSTa-citi}<179>  f. = %{zmazAnakaraNa}, BaudhP. Loha (in comp.); %{<205>cumbakanyAya}, m. the rule of iron and magnet (i.e. of a very close afflnity between two things), A.; %{<248>hA7rya} m. N. of a Jaina teacher, Inscr.<222>3895
+new: 'Loha' is a separate entry.
+.#{loSTa-citi}<179>  f. = %{zmazAnakaraNa}, BaudhP. <222>3895
+.#{loha}<179> (in comp.); %{<205>cumbakanyAya}, m. the rule of iron and magnet (i.e. of a very close afflnity between two things), A.; %{<248>hA7rya} m. N. of a Jaina teacher, Inscr.<222>3895.5
+
+old:
+.#{lAsakayavan}<179>  m. a young dancer, L. Linduma, m. a partic. fragrant substance, L.<222>3893
+new:  Linduma is a separate entry
+.#{lAsakayavan}<179>  m. a young dancer, L.<222>3893
+.#{linduma}<179> m. a partic. fragrant substance, L.<222>3893.5
+
+old:
+.#{a-gamya-rUpa}<179>  mf(%{A}) n. difficult to be traversed, Kir.<222>84
+new:
+.#{a-gamya-rUpa}<179>  mf(%{A})n. difficult to be traversed, Kir.<222>84
+
+old:
+.#{aGghri}<179>  (also) division, branch, sphere, AgP.; %{<205>pAta}, m. setting dowu the feet, a footstep, BhP.; %{<205>saMdhi}, m. `footjoint', the ancle, L.; %{<248>ghry-avanejana}, mf(%{I}) n. washing the feet (%{<205>tva}, n.), BhP.; fit for washing the feet, ib. <251>1.<222>143
+new:
+.#{aGghri}<179>  (also) division, branch, sphere, AgP.; %{<205>pAta}, m. setting dowu the feet, a footstep, BhP.; %{<205>saMdhi}, m. `footjoint', the ancle, L.; %{<248>ghry-avanejana}, mf(%{I})n. washing the feet (%{<205>tva}, n.), BhP.; fit for washing the feet, ib. <251>1.<222>143
+
+old:
+.#{amA-putra}<179>  mf(%{A}) n. together with the son or daughter; (%{A}), f. (with %{dRSad}) the larger with the smaller mill-stone, Kaus3.<222>1304
+new:
+.#{amA-putra}<179>  mf(%{A})n. together with the son or daughter; (%{A}), f. (with %{dRSad}) the larger with the smaller mill-stone, Kaus3.<222>1304
+
+old:
+under 'ambu'
+ mf(%{I}) n.
+new:
+ mf(%{I})n.
+
+old: under azma
+mf(%{I}) n.
+new:
+mf(%{I})n.
+
+old: under kApeya
+mf(%{I}) n.
+new:
+mf(%{I})n.
+
+old: under gahsna-STha4
+mf (%{A}) n.
+new:
+mf(%{A})n.
+
+old: under diva-stambhana
+mf(%{I}) n.
+new:
+mf(%{I})n.
+
+old:
+.#{sA7d}<179> (erase `m.'; %{sa4dA}= `ever' in AV. iv,4, 7). 3.<222>4039
+new:
+.#{sa4d}<179> (erase `m.'; %{sa4dA}= `ever' in AV. iv,4, 7). 3.<222>4039
+
+old:
+.#{ut-pre7kSA}<179> (in comp.); %{<205><248>kSepa} (%{<248>kSA7k<248>}), m. a paritc. figure of speech, Va1s., Sch.; %{<205>dhvani}, m. a partic. figure of sp<248> Ha1la, Sch.<222>2267
+new: '<205><248>kSepa' => '<248>kSepa'
+.#{ut-pre7kSA}<179> (in comp.); %{<248>kSepa} (%{<248>kSA7k<248>}), m. a paritc. figure of speech, Va1s., Sch.; %{<205>dhvani}, m. a partic. figure of sp<248> Ha1la, Sch.<222>2267
+
+old:
+.#{iha}<179> (in comp.); %{<205>manas}, mfn. having the mind turned hither, A1pS3r.; %{<248>hA71rtha}, mfn. useful here (i. e. for this world), MBh.; (%{am}), ind. for the sake of this world, Bcar.; %{<248>hA7rthin}, mfn. busy in worldly objects, Mn. ii, 37; %{<248>he7ha-mAtR} (others, `born at the same time').<222>2157
+new: 'hA71rtha' => 'hA7rtha'
+.#{iha}<179> (in comp.); %{<205>manas}, mfn. having the mind turned hither, A1pS3r.; %{<248>hA71rtha}, mfn. useful here (i. e. for this world), MBh.; (%{am}), ind. for the sake of this world, Bcar.; %{<248>hA7rthin}, mfn. busy in worldly objects, Mn. ii, 37; %{<248>he7ha-mAtR} (others, `born at the same time').<222>2157
+
+old:
+.#{anyathA}<179> (in comp.); %{<205>karaNa}, n. (Campak.), %{<205>kRti}, f. (L.) changing, change; %{<205>jAtIyaka}, mfn. of another kind, Pat.; %{<205>darzana}, n. false trial (of a lawsuit), Ya1jn5., Sch.; %{<205><248>bhidhAna} (%{<248>thA7bh<248>}), n. false statement or deposition, ib.; %{<205>zIlika}, mfn. accustomed to act differently from (%{atas}), GopBr.; %{<205>sambhAvin}, mfn. suspecting something else, distrustful, Ratna7v.<222>848
+new: '<205><248>bhidhAna' => '<248>A7bhidhAna'
+.#{anyathA}<179> (in comp.); %{<205>karaNa}, n. (Campak.), %{<205>kRti}, f. (L.) changing, change; %{<205>jAtIyaka}, mfn. of another kind, Pat.; %{<205>darzana}, n. false trial (of a lawsuit), Ya1jn5., Sch.; %{<205><248>bhidhAna} (%{<248>thA7bh<248>}), n. false statement or deposition, ib.; %{<205>zIlika}, mfn. accustomed to act differently from (%{atas}), GopBr.; %{<205>sambhAvin}, mfn. suspecting something else, distrustful, Ratna7v.<222>848
+
+old:
+.#{kanyA}<179> (in comp.); %{<205><248>gAra} (%{<248>nyA7g<248>}) or %{<205>griha}, n. the women's apirtments, Das3.; %{<205>darzam}, ind. at tlie sight of a girl, Pa1n2 iii, 4, 29, Sch.; %{<205>pip<140>likA}, f. a very small ant, L.; %{<205>pravahaNa}, n. (= %{pradAna}), Sa1mavBr.<222>2656
+new: '<205><248>gAra' => '<248>A7gAra'
+.#{kanyA}<179> (in comp.); %{<205><248>gAra} (%{<248>nyA7g<248>}) or %{<205>griha}, n. the women's apirtments, Das3.; %{<205>darzam}, ind. at tlie sight of a girl, Pa1n2 iii, 4, 29, Sch.; %{<205>pip<140>likA}, f. a very small ant, L.; %{<205>pravahaNa}, n. (= %{pradAna}), Sa1mavBr.<222>2656
+
+old:
+.#{kanyA}<179> (in comp.); %{<248>A7gAra} (%{<248>nyA7g<248>}) or %{<205>griha}, n. the women's apirtments, Das3.; %{<205>darzam}, ind. at tlie sight of a girl, Pa1n2 iii, 4, 29, Sch.; %{<205>pip<140>likA}, f. a very small ant, L.; %{<205>pravahaNa}, n. (= %{pradAna}), Sa1mavBr.<222>2656
+new: '<205>pip<140>likA' => '<205>pipIlikA'
+.#{kanyA}<179> (in comp.); %{<248>A7gAra} (%{<248>nyA7g<248>}) or %{<205>griha}, n. the women's apirtments, Das3.; %{<205>darzam}, ind. at tlie sight of a girl, Pa1n2 iii, 4, 29, Sch.; %{<205>pip<140>likA}, f. a very small ant, L.; %{<205>pravahaNa}, n. (= %{pradAna}), Sa1mavBr.<222>2656
+
+old:
+.#{kukSi}<179> (in comp.); %{<205>kUjita}, n. belching, L.; %{<205>bheda} (read `an eclipse' for `darkness'); %{<205>`matI}, f. far advanced in pregnancy, Divya7v.; (%{<248>Sy}) %{<205>agni}, m. the (digestive) tire of the stomach, L.<222>2809
+new: '<205>`matI' => '<205>matI'
+.#{kukSi}<179> (in comp.); %{<205>kUjita}, n. belching, L.; %{<205>bheda} (read `an eclipse' for `darkness'); %{<205>matI}, f. far advanced in pregnancy, Divya7v.; (%{<248>Sy}) %{<205>agni}, m. the (digestive) tire of the stomach, L.<222>2809
+
+old:
+.#{khaDga}<179> (in comp.); %{<205>ratna}, n. an excellent sword (one of the 7 precious things of a king), Dharnias. 85; %{iatA-}, f. a sw<248>-blade, Ma1atim.; %{<205>var1ri} n. blood dripping from a sword, Vcar.; [1326,1] %{<205>viSANa}, m. a rhinoceros, Divya7v.; %{<205>zataka}, n. N. of wk.; %{<248>gA7Gga}, m. a fire-spark, L.; %{<248>gA-khaDgi}, ind. sword against sword, in close fight, Campak.<222>2961
+new: '<205>var1ri' => '<205>vAri'
+.#{khaDga}<179> (in comp.); %{<205>ratna}, n. an excellent sword (one of the 7 precious things of a king), Dharnias. 85; %{iatA-}, f. a sw<248>-blade, Ma1atim.; %{<205>var1ri} n. blood dripping from a sword, Vcar.; [1326,1] %{<205>viSANa}, m. a rhinoceros, Divya7v.; %{<205>zataka}, n. N. of wk.; %{<248>gA7Gga}, m. a fire-spark, L.; %{<248>gA-khaDgi}, ind. sword against sword, in close fight, Campak.<222>2961
+
+old:
+.#{gaGgA}<179> (in comp.); %{villAsa}, m. N. of wk.; %{<205><248>STaka} (%{<248>gA7ST<248>}), n. a hymn consisting of 8 verses and addressed to Gan3ga1 whilst bathing, RTL 399, %{<248>ge7STi}, f. a pearl, L.<222>2989
+new: '<205><248>STaka' => '<248>A7STaka'
+.#{gaGgA}<179> (in comp.); %{villAsa}, m. N. of wk.; %{<205><248>STaka} (%{<248>gA7ST<248>}), n. a hymn consisting of 8 verses and addressed to Gan3ga1 whilst bathing, RTL 399, %{<248>ge7STi}, f. a pearl, L.<222>2989
+
+old:
+.#{gaja}<179> (in comp.); %{<205>pUrva} (see %{gaja}, p, 643); %{<205>.prayantR}, m. an el<248>-driver MBh.; %{<205>mAna}, m. N. of a man, Mr2icch.; %{<205>rathapura}, n. N. of a town, Inscr.; %{<205>vadhU} f. a female elephant, Ma1lati1m.; %{<248>jA7lAna}, n. a rope for fettering an elephant, Ragh.<222>2990
+new: '<205>.prayantR' => '<205>prayantR'
+.#{gaja}<179> (in comp.); %{<205>pUrva} (see %{gaja}, p, 643); %{<205>.prayantR}, m. an el<248>-driver MBh.; %{<205>mAna}, m. N. of a man, Mr2icch.; %{<205>rathapura}, n. N. of a town, Inscr.; %{<205>vadhU} f. a female elephant, Ma1lati1m.; %{<248>jA7lAna}, n. a rope for fettering an elephant, Ragh.<222>2990
+
+old:
+.#{guNa}<179> (also `power, might'; %{At}, `by viriue of', `in consequence of.' `by means of'); %{<205>kathA}, f. (in rhet.) enlogy, Rasat.; %{<205>gaudha}. vat, mfn. having the fragrance of (i.e. resenibling) virtue, Bcar.; %{<205>guru}, mfn. respectable through v<248>, Ma1lati1m.; %{<205>dhRta}, mfn. upheld by virtue (and `by ropes'), Mr2icch.; %{<205>vat-payaska}, mfn. producing excellent milk, Bcar.; %{<205>vad-vapus}, mfn. of excellent form, ib.; %{<205>vipramukta}, mfn. freed from qualities, BhP.; %{<205>hArya}, mfn. to be won by virtues, Mr2icch.; %{<248>NA7t1pAta}, m. acting against nature, Bhar.; %{<248>No7jjvala}, mfn. shining with virtues, Ma1lati1m.; %{<248>No7daya}, m. rising or development of v<248>, Mn. vii, 211.<222>3040
+new: 'viriue' => 'virtue', '`in consequence of.'' => '`in consequence of','
+     'resenibling' => 'resembling',
+     '<248>NA7t1pAta' => '<248>NA7tipAta'
+.#{guNa}<179> (also `power, might'; %{At}, `by virtue of', `in consequence of', `by means of'); %{<205>kathA}, f. (in rhet.) enlogy, Rasat.; %{<205>gaudha}. vat, mfn. having the fragrance of (i.e. resembling) virtue, Bcar.; %{<205>guru}, mfn. respectable through v<248>, Ma1lati1m.; %{<205>dhRta}, mfn. upheld by virtue (and `by ropes'), Mr2icch.; %{<205>vat-payaska}, mfn. producing excellent milk, Bcar.; %{<205>vad-vapus}, mfn. of excellent form, ib.; %{<205>vipramukta}, mfn. freed from qualities, BhP.; %{<205>hArya}, mfn. to be won by virtues, Mr2icch.; %{<248>NA7tipAta}, m. acting against nature, Bhar.; %{<248>No7jjvala}, mfn. shining with virtues, Ma1lati1m.; %{<248>No7daya}, m. rising or development of v<248>, Mn. vii, 211.<222>3040
+
+old: in 'jala':
+<205>taraMg2NI
+new:
+<205>taraMgiNI
+
+old: in 'jAla'
+<205><248>bhUSaNa
+new:
+<205>bhUSaNa
+
+old:
+.#{jyA}<179> (in comp.); %{<205>nivAraNa}, n. a leathern fence for the arm, L.; %{<205><248>rohaNa} (%{jyA7r<248>}), n. the fixing a bow-string, Cat.<222>3206
+new: '<205><248>rohaNa' => '<248>A7rohaNa'
+.#{jyA}<179> (in comp.); %{<205>nivAraNa}, n. a leathern fence for the arm, L.; %{<205><248>rohaNa} (%{jyA7r<248>}), n. the fixing a bow-string, Cat.<222>3206
+
+old:
+.#{tamo}<179> (in comp.); %{<205>niSTha}, mfn. founded on d<248>, Mn. xii1, 95; %{<205>vitA1a}, mfn. full of darkness, Sa1m2khyak.<222>3256
+new: '<205>vitA1a' => '<205>vizAla'
+.#{tamo}<179> (in comp.); %{<205>niSTha}, mfn. founded on d<248>, Mn. xii1, 95; %{<205>vitA1a}, mfn. full of darkness, Sa1m2khyak.<222>3256
+
+old: in tRSNA
+<205><248>rta
+new:
+<248>A7rta
+
+old: in dayA
+<205><248>lasa
+new:
+<248>A7lasa
+
+old: in duS
+<205>prat<140>ti-kara
+new:
+<205>pratI7ti-kara
+
+old: in nidhana
+<205>.vAda
+new:
+<205>vAda
+
+old: in nir
+<205>mumukS2u
+new:
+<205>mumukSu
+
+old:
+.#{phala}<179> (in comp.); %{<205>kriyA}, f. acting with an object in view, L.; %{<205>pravr2tti}f id., Bcar.; %{<205>stha}, mfn. useful (cf. %{<205>saMstha}),ib.; %{<248>le7psA}, f. desire of future reward, ib.<222>3714
+new: '{<205>pravr2tti}f ' => '{<205>pravRtti} f. '
+.#{phala}<179> (in comp.); %{<205>kriyA}, f. acting with an object in view, L.; %{<205>pravr2tti}f id., Bcar.; %{<205>stha}, mfn. useful (cf. %{<205>saMstha}),ib.; %{<248>le7psA}, f. desire of future reward, ib.<222>3714
+
+old: in mahA
+<205><248>bhra-ghoSa
+new:
+<248>A7bhra-ghoSa
+
+old: in yaTA
+%{<205><248>dhyAyam@(yathA7dh<248>})
+new:
+%{<248>A7dhyAyam} (%{yathA7dh<248>})
+
+old: in yaTA
+<205>bA1am
+new:
+<205>bAlam
+
+old: in yaTA
+%{<205><248>zraya@(yathA7zr<248>})
+new:
+%{<248>A7zraya} (%{yathA7zr<248>})
+
+old: in vizva
+<248>zvA7bhi@rakSaNa
+new:
+<248>zvA7bhirakSaNa
+
+old: in vrata
+<248>tA7vr2tti
+new:
+<248>tA7vRtti
+
+
+** changed 10 instances of ' mfn ' to ' mfn. '
+            2              ' m ' to ' m. '
+            2              ' f ' to ' f. '
+            1              ' n ' to ' n. '
+
+** Changed 32 instances of 'Ma1latim.' to 'Ma1lati1m.'
+** Changed 107 instances of 'Hir.' to 'HirP.'
+   HirP is a known work/author which appears 24 times.  It is an assumption
+   that the instances of "Hir." mean the same as 'HirP'.
+** Changed 24 instances of 'BaudhP.' to 'Baudh.'
+   'Baudh.' occurs 100+ times, and is a know work/author.
+** note:
+ - <251> => <root/> This may occur in the key field.
+
+** 14 sub-records initially coded with '??'
+.#{an-ubha??yA7tman}<179> , mfn. of neither kind (%{<248>tma-tA}, f.), Sa1h.<222>722.02
+.#{a-pAtra??Sin}<179> , mfn. liberal towards the und<248>, Hit.<222>1064.02
+.#{UrNA??laMkRta-mukhatA}<179>  (%{UrNA7l<248>}),f. having soft hair between the brows (one of the 32 signs of perfection), Dharmas. 83<222>2498.01
+.#{kaTa??tA7kSaya}<179> , Nom. P. %{<248>yati}, to regard with a side glance, Pa1rv.<222>2628.03
+.#{kaNDu??dU7la}<179> , mfn. itching, ardently desiring, Car.; S3is3., Sch.<222>2640.01
+.#{karma??gin}<179> , mfn. attached to action, ib.<222>2696.14
+.#{kalA??Mza-rUpiNI}<179>  (%{<248>lA7Mz<248>}) and %{<205>rUpiNI}, f. N. of pattic. female personifications, RTL. 187<222>2709.01
+.#{kula??Io7cita}<179> , mfn. customary in a f<248> Bcar.<222>2836.09
+.#{kuza??se7NDva}<179> , n. a covering for the hands made of K<248> gr<248>.<222>2840.06
+.#{jAla??tA7baddhA7Gguli-pANi-pAda-talstA}<179> , f. the having the soles of the feet and palms and fingers covered with nets (or cross-lines; one of the 32 signs of perfection), Dharmas. 83<222>3192.03
+.#{tulya??i4yA7bhidhAna}<179> , mfn. of equal name (i.e. having a name corresponding to one's qualities), Bcar.<222>3297.05
+.#{nAnA??zraya}<179>  (%{nAnA7zr<248>}), mfn. wearing different forms (or, `resorting to various means'), Bcar. xiii, 18.<222>3479.02
+.#{bhaikhA7rthin??okSA7hAra}<179> , mfn. living on alms, ib.<222>3773.01
+.#{loSTa-citi??hA7rya}<179>  m. N. of a Jaina teacher, Inscr.<222>3895.02
+
+** ADD2a1.txt  (from ADD2a.txt)
+sh add2a1.sh
+This separates out the multiple records (sub-headwords), but leaves most of
+the coding of ADDa.txt as it was.
+Suppose the record in ADD2a.txt starts as
+.#{x}<179>
+Records are recognized by the string '; %{<205>y}' - in this
+   case the <205> is a '-', and the new record has headword z=x--y.
+   Note: since '--' is not found elsewhere in ADD2a, headwords of this
+         form are recognizable.
+There are 1988 such cases.
+The other way they are recognized is '; %{<248>y' - in this 
+   case, the <248> represents a small-circle, and the new record 
+   has a headword, z,  that is derived in a more complex way from x and y.
+   Algorithmically, the first character of 'y' is matched to a character
+   of 'x', reading x backwards:
+    suppose 'c' is the first character of y.
+    suppose the characters of 'x' are x1 x2 ... xn
+    Look for 'c' sequentially in xn, x(n-1),... and suppose the
+    first match found is x(i).
+    Then set u = x1 ... x(i-1). 
+    Then  the new headword z = u++y.
+   Note: The algorithm just described assumes that MW intended the 
+    new headword to be derived from the initial headword 'x' and the
+    new fragmentary headword 'y'.  However, there are a few cases where
+    the new headword should be derived from a previous fragmentary 
+    headword w.  This was noticed in  14 cases where the algorithm failed
+    (i.e., there was no match for 'c' in 'x').  These are marked as 
+    x??y
+Example 1:
+
+** ADD2b.txt (from ADD2a1.txt)
+sh add2b.sh
+Creates MW structure <H1><h>h</h><body>b</body><tail>t</tail></H1>
+The choice of 'H1' is arbitrarily chosen.
+h = <hc3>000</hc3><key1>key1</key1><hc1>1</hc1><key2>key2</key2></h>
+The 'key' of an input record in ADD2a.txt is
+  .#{x}<179>
+key2 and key1 are constructed from x:
+ key2:  
+   <251> => <root/>
+   7 => <srs/>  
+   9 => <srs/>
+   4 => /  (accent)
+ key1:
+   <251> removed
+   -     removed
+   7 removed
+   9 removed
+   4 removed
+   ' removed
+
+t = <tail><pc>?</pc><L>L</L>
+  L:  the digits after the '<222>' (sequence number).
+      Note: it was noticed that the sequence number order seems to correspond
+      to the order in scans.  However, the order of lines does not always
+      match the sequence order (example: see tarI, L=3259)
+
+     Note2: to facilitate later interpolation of headwords, I multiply
+     L by 100.
+
+To facilitate intermediate work, I put a copy of 'L' at the beginning of the
+record (6 characters, blank filled, right-justified).
+
+* Work by PMS, Pawan, and Sharon. Aug 16, 2012
+The purpose of this work is to integrate the additions into the 
+numbering scheme of the body of the text.
+After completion, there will be no 300000-399999 records.
+I count 7141 of these records.
+* Saving monier.xml before this work
+The following two are saved:
+monier-20120705.dtd and monier-20120705.xml
+They are saved in directory mwupdate/additions/step2/prevmonier/
+
+* step2/v0
+This was a preliminary step
+** A and B
+logA_update.txt and logB.txt were provided by PMS.
+ 185 records: logB removes those '(in comp.)' records from the supplement
+ 3219 records: logA modifies many of the remaining 
+* step2 (Aug 23, 2012) (This step redone below)
+PMS provided a pair of update files: logA_update_1808.txt and logB.txt.
+I then processed these as follows:
+1. (see the section dated Jul2, 2008 in file readme.txt in mwupdate directory)
+in directory mwupdate/additions/step2:
+cp logA_update_1808.txt ../../updlogs/log_20120823_01.txt
+cp logB.txt ../../updlogs/log_20120823_02.txt
+
+2. cd to mwupdate
+3. do the preupdate
+perl mwtab_pre_update.pl log_20120823_01.txt
+   SUccess 3233 records
+  (had to (a) remove a blank line at end
+   (b) change 332860.1 to 332860.10 (not sure why this a problem)
+  )
+perl mwtab_pre_update.pl log_20120823_02.txt
+  SUCCESS 185 records
+
+4. do the update
+perl mwtab_update.pl updlogs/log_20120823_01.txt
+ SUCCESS
+perl mwtab_update.pl updlogs/log_20120823_02.txt
+ SUCCESS
+
+5. Do the reconstruction of monier.xml
+  in directory mwupdate, do steps 0a,0b,1,2,3,4 from readme.txt
+ a. xmllint showed that the _01 file (logA) had a persistent xml error:
+    key2 did not have the closing tag </key2> properly; for instance:
+  <H2B><h><hc3>110</hc3><key1>anugItA</key1><hc1>2</hc1><key2>anu-gItA</key2</h>
+  This is a serious error.
+  The first wrong record (re lnum) is L=214,
+   which has not been touched at all!
+ 
+
+ b. I checked the saved monier-20120705 via xmllint, and it is fine.
+
+ c1. in mwupdate/sqlite/prepare, there is file
+    monier_input.txt
+    which is tab-delimited version of mw, dated 6/20/2012 3:05:48PM.
+ c2. According to mwupdate/updlogs, there were (manual) updates done
+     log_20120816.txt and log_20120817.txt. Thus, there were no other
+     updates done between the time of free (20120620) and today but these two.
+     Thus, the monier-20120705.xml can be inferred to have the same data
+     as monier_input.txt
+     PLAN:
+        clear the monier table
+        reload monier table using monier_input.txt
+        redo the updates of 20120816 and 20120817
+     Then, we should be back to where we started today!
+ c3a. in mwupdate/additions/step2,
+     mkdir redomonier
+     
+ c3b. mv monier_input.txt to redomonier; from mwupdate/additions/step2:
+      mv ../../sqlite/prepare/monier_input.txt redomonier/
+ c3c. construct a shell script to clear monier table and reload from monier_input.txt
+      in redominer,
+      sh reload.sh
+ 
+ c3d. in mwupdate/updlogs,
+      remove the two log update files of today:
+        rm log_20120823*
+      in mwupdate/updlogs/redo, also remove
+        rm log_20120823*
+ c3e. in mwupdate/updlogs,
+      Change the names of the two subsequent updates, so they may be redone
+      as batch files:
+      mv log_20120816.txt log_20120816_01.txt
+      mv log_20120817.txt log_20120817_01.txt
+      NOTE: There are no 'redo' files for these manual updates.
+ c3f. Perform batch updates
+      in mwupdate:
+       perl mwtab_pre_update.pl log_20120816_01.txt
+       perl mwtab_update.pl updlogs/log_20120816_01.txt
+
+       perl mwtab_pre_update.pl log_20120817_01.txt
+       perl mwtab_update.pl updlogs/log_20120817_01.txt
+
+ c3g. Reconstruct monier.xml, and check that it is ok.
+      in mwupdate:
+      perl monier_xml.pl monier.xml
+      xmllint --valid --noout monier.xml
+ 
+      It is ok. (xmllint gives no output).
+
+ WHEW!  Now, we are back where we started.
+
+
+* step2  (Aug 23, 2012) . Try again!
+
+There must be something about the logA update file that is wrong.
+Could it be end-of-line characters?
+The end-of-line characters are '0d0a'  (view logA_update_1808.txt in mode-hexl)
+
+** check logA with oxygen
+ download to local computer; remove the 'Update' and '<L>' lines.
+ We are left with the <Hxx> lines.
+ Add the xml header lines and footer line. Result is logA.xml.
+ Try to validate with oxygen.
+The first many lines are bad, having the </key2> error. (3090+ such errors).
+<H3><h><hc3>000</hc3><key1>aMSarUpiRI</key1><hc1>1</hc1><key2>aMSa-rUpiRI</key2</h><body> <lex>f.</lex> (with <s>Sakti</s>) a female personification of the divine energy, <ls>RTL. 187</ls>.</body><tail><pc>1308,1</pc><L>300010</L></tail></H3>
+
+When the </key2< => </key2><  change is made, logA.xml validates.
+
+** corrected logA. logB ok
+ call it logA_update_2308.txt in step2 directory
+ Similarly checked logB.txt; it was fine.  Present in step2 directory.
+
+** redo the update
+1. (see the section dated Jul2, 2008 in file readme.txt in mwupdate directory)
+in directory mwupdate/additions/step2:
+cp logA_update_2308.txt ../../updlogs/log_20120823_01.txt
+cp logB.txt ../../updlogs/log_20120823_02.txt
+
+2. cd to mwupdate
+3a. do the update for the 01 file
+perl mwtab_pre_update.pl log_20120823_01.txt
+perl mwtab_update.pl updlogs/log_20120823_01.txt
+
+3b. do the update for the 02 file
+perl mwtab_pre_update.pl log_20120823_02.txt
+perl mwtab_update.pl updlogs/log_20120823_02.txt
+5. Do the reconstruction of monier.xml
+  in directory mwupdate, do steps 0a,0b,1,2,3,4 from readme.txt
+ (no errors from xmllint now!)
+
+* step2 (Sep 4, 2012). logB_3008.txt
+Received from PMS.  Some additional deletions of supplement records.
+I validated the deleted records with oxygen.
+1. (see the section dated Jul2, 2008 in file readme.txt in mwupdate directory)
+in directory mwupdate/additions/step2:
+cp logB_3008.txt ../../updlogs/log_20120904_01.txt
+
+2. cd to mwupdate
+3. do the update for the 01 file
+perl mwtab_pre_update.pl log_20120904_01.txt
+perl mwtab_update.pl updlogs/log_20120904_01.txt
+
+
+4. Do the reconstruction of monier.xml
+  in directory mwupdate, do steps 0a,0b,1,2,3,4 from readme.txt
+ (no errors from xmllint now!)
+* step3 (Oct 29, 2012): files from sanskrit1d
+** updlogs.zip
+Work was done by PMS and Pawan Goyal and 'Sharon' to develop
+update 'log' files to effect integration of the supplement/additions.
+updlogs.zip contains a copy of all these update transactions.
+They can be run at any time, but a few programmatic changes are required
+to take into account two slight modifications of the xml structure.
+** monier.dtd, corrections-factual.txt
+These also changed.
+
+* step3 (Oct 29, 2012) : identify program changes
+** dtd changes to 'L'
+ add attribute 'supL' to 'L' whose value is 
+   the value of the L of a supplement record prior to supplement integration
+ add attribute 'revL' to 'L' whose value is
+   the value of the L of the supplement record that specified a revision to a 
+   base MW record but  which itself is not included in the post-supplement 
+   integration monier.xml
+** dtd change to 'pc'
+ add attribute 'type' whose only value is 'rev'; the
+ contents is the page and column on which the entry 
+ begins the revision record in the supplement
+  (see updlogs/log_20121025_01.txt)
+
+* DONE step3: changes in Cologne update programs
+** DONE save critical files 'just in case'
+ in 'mwupdate/additions/20120904' folder,
+  copy the latest 'old'  monier.xml and monier.dtd
+  also copy corrections_factual.txt
+** DONE copy new monier.dtd, corrections_factual.txt to mwupdate
+  copy from mwupdate/additions/step3/
+** DONE change init_monier.php 
+ in directory mwupdate/sqlite/prepare:  <L> => <L.*?>
+** DONE extract_keys.pl in mwupdate/keysxml
+  change to: if ($x =~ /<L.*?>(.*?)<\/L>/)
+* DONE step3: changes in online display programs
+ 
+** DONE docs/monier/webtc/monierdisp.php
+ <L> => <L.*?> in initGreek
+ <pc .*?> => <pc> in line_adjust
+** DONE docs/monier/webtc5/monierdisp.php
+ <L> => <L.*?> in initGreek
+ <pc .*?> => <pc> in line_adjust
+** DONE docs/mwquery
+  The display urls are found in alt-main.js. There are several Perl scripts:
+** DONE  /cgi-bin/mwquery/alt-getWord.pl (no changes required)
+** DONE /cgi-bin/mwquery/monierMulti.pl (no changes required)
+   Uses '../monier/monierdisp.pm', rather than the local 'monierdisp.pm'.
+** DONE /cgi-bin/mwquery/monierdisp.pm  (may not be used)
+  No <L found.
+ $line = preg_replace('/<pc .*?>/','<pc>',$line); // remove attrib Oct 30,2012
+
+** DONE /cgi-bin/mwquery/monierMultidisp.pm  (may not be used)
+  No <L found.
+  $line =~ s/<pc .*?>/<pc>/; # Oct 30, 2012 (in line_adjust)
+** DONE /cgi-bin/monier/monier.pl (no changes required)
+** DONE /cgi-bin/monier/monierdisp.pm
+  <L> => <L.*?> in initGreek
+  $line =~ s/<pc .*?>/<pc>/; # Oct 30, 2012 (in line_adjust)
+** DONE /cgi-bin/mwupdate/util.pl
+  <L> => <L.*?>
+** DONE /cgi-bin/mwupdate/monierdisp.pm (where used?)
+  $line =~ s/<pc .*?>/<pc>/; # Oct 30, 2012 (in line_adjust)
+** DONE /cgi-bin/mwupdate/monierdisp-ejf.pm (where used?)
+  $line =~ s/<pc .*?>/<pc>/; # Oct 30, 2012 (in line_adjust)
+** DONE /cgi-bin/mwupdate/getWordUpd.pl  (where used?)
+  <L> => <L.*?>
+* TODO perform the updates
+** DONE copy log_yyyymmdd-xx.txt files from sanskrit1d
+  from=  mwupdate/additions/step3/updlogs/log_201210*.*  to mwupate/updlogs/
+** DONE in mwupdate/additions/step3, create logfiles.txt
+  this file contains the 32 log_yyyymmdd_xx.txt file names
+** DONE create make_update.txt
+   This has the commands to do pre update and update for all the 32 files.
+ sh make_update.sh > make_update.txt
+** DONE do the commands in make_update.txt
+  This could be run as a script. However, there would be a problem recovering
+  from errors. Although more tedious, I run the commands manually,
+  copying from make_update.txt and pasting into an ssh terminal.
+  The commands are run in mwupdate.
+** DONE Need to remove the 9 files
+   log_20121019_11 through .._20
+   These are from a prior misunderstanding about the encoding of the
+   transactions.  They are not needed. The log files removed from updlogs.
+** TODO Problem encountered in log_20121019_02.txt
+DBD::mysql::st execute failed: Duplicate entry '39947.10' for key 'lnum' at mwtab_update.pl line 144, <INFILE> line 21606.
+warning: lnum = 39947.1:  Could not Insert Duplicate key. Updated
+11686 records updated
+
+from the log file:
+
+Delete
+<L>325212.51</L>
+<H3><h><hc3>000</hc3><key1>ekaBogya</key1><hc1>1</hc1><key2>eka--Bogya</key2></h><body> <AND/> <lex>n.</lex> sole and entire right of enjoyment, <ls>Inscr.</ls></body><tail><pc>1323,1</pc><L>325212.51</L></tail></H3>
+Insert
+<L>39947.1</L>
+<H3><h><hc3>000</hc3><key1>ekaBogya</key1><hc1>1</hc1><key2>eka--Bogya</key2></h><body> <AND/> <lex>n.</lex> sole and entire right of enjoyment, <ls>Inscr.</ls></body><tail><pc>1323,1</pc><L supL="325212.51">39947.1</L></tail></H3>
+
+<L>325212.7</L>
+<H3><h><hc3>000</hc3><key1>ekaloka</key1><hc1>1</hc1><key2>/eka--loka</key2></h><body> <lex>mfn.</lex> possessing one world, <ls>MaitrS.</ls></body><tail><pc>1323,1</pc><L>325212.7</L></tail></H3>
+Insert
+<L>39947.1</L>
+<H3><h><hc3>000</hc3><key1>ekaloka</key1><hc1>1</hc1><key2>/eka--loka</key2></h><body> <lex>mfn.</lex> possessing one world, <ls>MaitrS.</ls></body><tail><pc>1323,1</pc><L supL="325212.7">39947.1</L></tail></H3>
+
+39947.1 now is ekaloka;  there is no ekaBogya 
+The other records in log file appear to process properly
+
+** DONE check 1 : validity of monier.xml re monier.dtd
+   a. perl monier_xml.pl monier.xml
+   b. xmllint --valid --noout monier.xml
+** check 2: synchrony of Cologne and sanskrit1d
+   compare monier.xml with the one on sanskrit1d:
+   First, copy monier.xml to a spot on sanskrit1d:
+   scp monier.xml jfunderb@sanskrit1d.ccv.brown.edu:mwclone/monier-cologne.xml
+   Second, on sanskrit1d, do a diff of monier_cologne.xml with the latest
+   monier.xml
+   diff monier-cologne.xml /data/webapps/data/lexicons/mw/mwupdate/monier.xml > monier_cologne_diff.txt
+       MANY DIFFERENCES (but they are invisible!)
+   diff -b monier-cologne.xml /data/webapps/data/lexicons/mw/mwupdate/monier.xml > monier_cologne_diff1.txt
+       '-b' means ignore chanes in the amount of white space
+    Only 1 difference:  Cologne has corrected 'hinding' to 'hiding'
+sanskrit1d:
+<H1><h><hc3>501</hc3><key1>vyAvf</key1><hc1>1</hc1><key2>vy-A-<root>vf</root></key2></h><body> <c>only_<ab>pr.p.</ab></c> <vlex>A1.</vlex> <s>-vfRvAna</s> , <c>hinding_one's_self</c> <ls>BhP._i_,_11_,_38</ls> <p><ab>B.</ab>~<s>vy-A-pfnvAna</s>~,~<c>which</c>~ <ab>accord.</ab>~<c>to</c>~<ab>Sch.</ab>~<eq/>~<s>vy-A-priyamARa</s></p>. </body><tail><mul/> <MW>131983</MW> <pc>1039,1</pc> <L>210020</L></tail></H1>
+
+   Conclusion, with exception of vyAvf, the files are identical EXCEPT FOR
+   WHITE SPACE DIFFERENCES.
+   Examination of file size shows that the Cologne monier.xml has 
+    6,798 more characters than the sanskrit1d file.
+
+diff --strip-trailing-cr monier-cologne.xml /data/webapps/data/lexicons/mw/mwupdate/monier.xml > monier_cologne_diff2.txt
+   Only 1 difference, as with diff1.
+
+  Viewing with emacs on sanskrit1d shows there is an extra 'carriage return'
+  (^M) in the Cologne records.
+   
+* TODO step3: further changes in Cologne
+** TODO  update marking monier with dtd changes
+** TODO (optional) change keysxml to use php.
+  this is optional; but might be convenient. A php version is on sanskrit1d
+* TODO monier/webtc5
+  Can the monierdisp.php here and the one in monier/webtc be consolidated
+  into one program?
+  The new 'keyboard.js' etc. on sanskrit1d (webtc5wa) needs to be installed.
+* TODO docs/mwquery
+  This display is quite complicated. Can it be changed to php?
+* TODO step3: changes in offline display programs
+
+* TODO check outputs
