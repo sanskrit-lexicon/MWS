@@ -1,0 +1,37 @@
+mw,391.1,akramam sup,300480,akrama
+mw,887,agnAvizRU sup,300970,agnAvizRu
+mw,1730,aNgulisaMdaMSa sup,301380.5,aNgulisaMdeSa
+mw,3659,adasIya sup,302820,adayIya
+mw,5271,amalAnanda sup,05030.2,analAnanda
+mw,5477,anAcCfRRa sup,305330,anACfRRa
+mw,13702,aBramAMsI sup,312940.8,aBramaMsI
+mw,25434,AmASaya sup,319430.5,AmASraya
+mw,27026,AvaSyakabfhadvftti sup,320280,AvaSyakabfhadvftta
+mw,28532,AhvAyayitavya sup,321110,AhvAyitavya
+mw,30391,ucCiNGana sup,321970,ucCiNKana
+mw,34576,upajIkA sup,323630,upajIka
+mw,36856,upAsakadaSA sup,324410,upAsakadaSa
+mw,37524,ulmukamaTya sup,324670,ulmukamaTyA
+; next may be typo in suppl. not sure
+mw,41412,kakAwikA sup,326100,kakAtika
+mw,60622,kzmAvfzan sup,329560,kzmAvfza
+mw,91719,dAruputrikA sup,333620.2,dAruputtrikA
+mw,91720,dAruputrI sup,333620.3,dAruputtrI
+mw,109052.5,nimF sup,335030,nimf
+; next perhaps should be two entries, 2nd for ..van and ..varI
+mw,110899,nizwakvan sup,335120.1,nizwakvarI
+mw,129737,ptA sup,336350,pnA
+mw,141199,protaGana sup,337100,protaGaRa
+; next ? 
+mw,142892,bambaviSvavayas sup,337220,bambaviSvayas
+mw,143948,bahusUvarI sup,337270.8,bahusuvarI
+mw,191577,vArIya sup,339140,varIya
+mw,28698,iqAdaDa sup,321220.1,iqAdaQa
+mw,28698.1,iLAdaDa sup,321220.11,iLAdaQa
+mw,28698.2,ilAdaDa sup,ilAdaDa,ilAdaQa
+;---------------------------------
+; BOmayantra is alternate of aNgArakayantra
+;; mw,1672.2,BOmayantra sup,301330,aNgArakayantra
+; aYSera is alternate of acCera
+; mw,1908.2,aYSera sup,301590,acCera
+; mw Amur and Amuri are alternates; 

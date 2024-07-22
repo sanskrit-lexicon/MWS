@@ -1,0 +1,502 @@
+Changes to add3b.txt, applied in add3c.txt
+---
+old:
+<L>300480<pc>1308,2<k1>akrama<k2>a-krama<e>2
+ (also) <s>am</s>, <lex>ind.</lex> not by degrees, simultaneously, <ls>Naish.</ls>
+new:
+<L>300480<pc>1308,2<k1>akramam<k2>a-krama<e>2
+; forcematch mw,391.1,akramam sup,300480,akrama
+ (also) <s>am</s>, <lex>ind.</lex> not by degrees, simultaneously, <ls>Naish.</ls>
+
+---
+old:
+<L>300970<pc>1309,1<k1>agnAvizRu<k2>agn/A-v/izRu<e>2
+ (<ls>S3Br.</ls>).
+
+new:
+<L>300970<pc>1309,1<k1>agnAvizRU<k2>agn/A-v/izRu<e>2
+; forcematch mw,887,agnAvizRU sup,300970,agnAvizRu
+ (<ls>S3Br.</ls>).
+
+---
+old:
+<L>301380.5<pc>1309,2<k1>aNgulisaMdeSa<k2>aNguli--saMdeSa<e>3
+ (read -<s>saMdaMSa</s>)
+
+new:
+<L>301380.5<pc>1309,2<k1>aNgulisaMdaMSa<k2>aNguli--saMdeSa<e>3
+; forcematch mw,1730,aNgulisaMdaMSa sup,301380.5,aNgulisaMdeSa
+ (read -<s>saMdaMSa</s>)
+
+---
+old:
+<L>302820<pc>1310,1<k1>adayIya<k2>a-dayIya<e>2
+ (<ab>p.</ab> 18, <ab>col.</ab> 2, line 1 read <s>a</s>-<s>dasIya</s>).
+
+new:
+<L>302820<pc>1310,1<k1>adasIya<k2>a-dayIya<e>2
+; forcematch mw,3659,adasIya sup,302820,adayIya
+ (<ab>p.</ab> 18, <ab>col.</ab> 2, line 1 read <s>a</s>-<s>dasIya</s>).
+
+---
+old:
+<L>305030.2<pc>1311,1<k1>analAnanda<k2>ana--<sr/>lA<srs/>nanda<e>3
+ read <s>amal</s><sr1/>
+
+new:
+<L>305030.2<pc>1311,1<k1>amalAnanda<k2>ana--<sr/>lA<srs/>nanda<e>3
+; forcematch mw,5271,amalAnanda sup,05030.2,analAnanda
+ read <s>amal</s><sr1/>
+
+---
+old:
+<L>305330<pc>1311,2<k1>anACfRRa<k2>/an-ACfRRa<e>2
+ read <s>/an</s>-<s>AcC</s><sr1/> (<ab>p.</ab> 27).
+
+new:
+<L>305330<pc>1311,2<k1>anAcCfRRa<k2>/an-ACfRRa<e>2
+; forcematch mw,5477,anAcCfRRa sup,305330,anACfRRa
+ read <s>/an</s>-<s>AcC</s><sr1/> (<ab>p.</ab> 27).
+
+---
+old:
+<L>312940.8<pc>1315,3<k1>aBramaMsI<k2>aBra--maMsI<e>3
+ (read -<s>mAMsI</s>)
+
+new:
+<L>312940.8<pc>1315,3<k1>aBramAMsI<k2>aBra--maMsI<e>3
+; forcematch mw,13702,aBramAMsI sup,312940.8,aBramaMsI
+ (read -<s>mAMsI</s>)
+
+---
+old:
+<L>319430.5<pc>1319,3<k1>AmASraya<k2>A--<sr/>mA<srs/>Sraya<e>3
+ (read <sr1/><s>mA</s><srs/><s>Saya</s>)
+
+new:
+<L>319430.5<pc>1319,3<k1>AmASaya<k2>A--<sr/>mA<srs/>Sraya<e>3
+; forcematch mw,25434,AmASaya sup,319430.5,AmASraya
+ (read <sr1/><s>mA</s><srs/><s>Saya</s>)
+
+---
+old:
+<L>320280<pc>1320,2<k1>AvaSyakabfhadvftta<k2>AvaSyaka-bfhad-vftta<e>2
+ (read -<s>vftti</s>).
+
+new:
+<L>320280<pc>1320,2<k1>AvaSyakabfhadvftti<k2>AvaSyaka-bfhad-vftta<e>2
+; forcematch mw,27026,AvaSyakabfhadvftti sup,320280,AvaSyakabfhadvftta
+ (read -<s>vftti</s>).
+
+---
+old:
+<L>321110<pc>1320,3<k1>AhvAyitavya<k2>A-hvAyitavya<e>2
+ (read <s>A</s>-<s>hvAyayitavya</s>).
+
+new:
+<L>321110<pc>1320,3<k1>AhvAyayitavya<k2>A-hvAyitavya<e>2
+; forcematch mw,28532,AhvAyayitavya sup,321110,AhvAyitavya
+ (read <s>A</s>-<s>hvAyayitavya</s>).
+
+---
+old:
+<L>321970<pc>1321,2<k1>ucCiNKana<k2>uc-CiNKana<e>2
+ (read <s>uc</s>-<s>CiNGana</s>).
+
+new:
+<L>321970<pc>1321,2<k1>ucCiNGana<k2>uc-CiNKana<e>2
+; forcematch mw,30391,ucCiNGana sup,321970,ucCiNKana
+ (read <s>uc</s>-<s>CiNGana</s>).
+
+---
+old:
+<L>323630<pc>1322,1<k1>upajIka<k2>upa-jIka<e>2
+ <etc/> (read, <s>upajIkA</s>, <lex type="nhw">f.</lex> a kind of ant, <ls>AV.</ls>).
+
+new:
+<L>323630<pc>1322,1<k1>upajIkA<k2>upa-jIka<e>2
+; forcematch mw,34576,upajIkA sup,323630,upajIka
+ <etc/> (read, <s>upajIkA</s>, <lex type="nhw">f.</lex> a kind of ant, <ls>AV.</ls>).
+
+---
+old:
+<L>324410<pc>1322,2<k1>upAsakadaSa<k2>upA<srs/>saka-daSa<e>2
+ (read, <quote>-<s>daSA</s>, <lex>f.</lex> <ab>pl.</ab></quote>).
+
+new:
+<L>324410<pc>1322,2<k1>upAsakadaSA<k2>upA<srs/>saka-daSa<e>2
+; forcematch mw,36856,upAsakadaSA sup,324410,upAsakadaSa
+ (read, <quote>-<s>daSA</s>, <lex>f.</lex> <ab>pl.</ab></quote>).
+
+---
+old:
+<L>324670<pc>1322,3<k1>ulmukamaTyA<k2>ulmukamaTyA<e>2
+ (read -<s>maTy/a</s>)
+
+new:
+<L>324670<pc>1322,3<k1>ulmukamaTya<k2>ulmukamaTyA<e>2
+; forcematch mw,37524,ulmukamaTya sup,324670,ulmukamaTyA
+ (read -<s>maTy/a</s>)
+
+---
+old:
+<L>326100<pc>1323,3<k1>kakAtika<k2>kak/Atika<e>2
+ (<ls>AV.</ls>).
+
+new:
+<L>326100<pc>1323,3<k1>kakAwikA<k2>kak/Atika<e>2
+; forcematch mw,41412,kakAwikA sup,326100,kakAtika
+ (<ls>AV.</ls>).
+
+---
+old:
+<L>329560<pc>1325,3<k1>kzmAvfza<k2>kzmA-vfza<e>2
+ (read -<s>vfzan</s>).
+
+new:
+<L>329560<pc>1325,3<k1>kzmAvfzan<k2>kzmA-vfza<e>2
+; forcematch mw,60622,kzmAvfzan sup,329560,kzmAvfza
+ (read -<s>vfzan</s>).
+
+---
+old:
+<L>333620.2<pc>1328,3<k1>dAruputtrikA<k2>dAru--puttrikA<e>3
+ (read -<s>putrikA</s>).
+
+new:
+<L>333620.2<pc>1328,3<k1>dAruputrikA<k2>dAru--puttrikA<e>3
+; forcematch mw,91719,dAruputrikA sup,333620.2,dAruputtrikA
+ (read -<s>putrikA</s>).
+
+---
+old:
+<L>333620.3<pc>1328,3<k1>dAruputtrI<k2>dAru--puttrI<e>3
+ (read  -<s>putrI</s>).
+
+new:
+<L>333620.3<pc>1328,3<k1>dAruputrI<k2>dAru--puttrI<e>3
+; forcematch mw,91720,dAruputrI sup,333620.3,dAruputtrI
+ (read  -<s>putrI</s>).
+
+---
+old:
+<L>335030<pc>1329,3<k1>nimf<k2>ni<root/>mf<e>2
+ (read, <quote><root/><s>mF</s></quote>).
+
+new:
+<L>335030<pc>1329,3<k1>nimF<k2>ni<root/>mf<e>2
+; forcematch mw,109052.5,nimF sup,335030,nimf
+ (read, <quote><root/><s>mF</s></quote>).
+
+---
+old:
+<L>335120.1<pc>1329,3<k1>nizwakvarI<k2>niz--w/akvarI<e>3
+ (rather <quote>roaming, vagrant</quote>)
+
+new:
+<L>335120.1<pc>1329,3<k1>nizwakvan<k2>niz--w/akvarI<e>3
+; forcematch mw,110899,nizwakvan sup,335120.1,nizwakvarI
+ (rather <quote>roaming, vagrant</quote>)
+
+---
+old:
+<L>336350<pc>1330,2<k1>pnA<k2>pnA<e>2
+ (read <s>ptA</s>).
+
+new:
+<L>336350<pc>1330,2<k1>ptA<k2>pnA<e>2
+; forcematch mw,129737,ptA sup,336350,pnA
+ (read <s>ptA</s>).
+
+---
+old:
+<L>337100<pc>1331,1<k1>protaGaRa<k2>pro<srs/>ta-GaRa<e>2
+ (read -<s>Gana</s>).
+
+new:
+<L>337100<pc>1331,1<k1>protaGana<k2>pro<srs/>ta-GaRa<e>2
+; forcematch mw,141199,protaGana sup,337100,protaGaRa
+ (read -<s>Gana</s>).
+
+---
+old:
+<L>337220<pc>1331,1<k1>bambaviSvayas<k2>bamba-viSvavay/as<e>2
+ (<ls>MaitrS.</ls>).
+
+new:
+<L>337220<pc>1331,1<k1>bambaviSvavayas<k2>bamba-viSvavay/as<e>2
+; forcematch mw,142892,bambaviSvavayas sup,337220,bambaviSvayas
+ (<ls>MaitrS.</ls>).
+
+---
+old:
+<L>337270.8<pc>1331,1<k1>bahusuvarI<k2>bahu--suvarI<e>3
+ (read -<s>s/UvarI</s>)
+
+new:
+<L>337270.8<pc>1331,1<k1>bahusUvarI<k2>bahu--suvarI<e>3
+; forcematch mw,143948,bahusUvarI sup,337270.8,bahusuvarI
+ (read -<s>s/UvarI</s>)
+
+---
+old:
+<L>339140<pc>1332,1<k1>varIya<k2>varIya<e>2
+ (read, <s>vArIya</s>, <ab>p.</ab> 943 col 3)
+
+new:
+<L>339140<pc>1332,1<k1>vArIya<k2>varIya<e>2
+; forcematch mw,191577,vArIya sup,339140,varIya
+ (read, <s>vArIya</s>, <ab>p.</ab> 943 col 3)
+
+---
+old:
+<L>321220.1<pc>1320,3<k1>iqAdaQa<k2>iqA--daQa<e>3
+ (read -<s>daDa</s>)
+
+new:
+<L>321220.1<pc>1320,3<k1>iqAdaDa<k2>iqA--daQa<e>3
+; forcematch mw,28698,iqAdaDa sup,321220.1,iqAdaQa
+ (read -<s>daDa</s>)
+
+---
+old:
+<L>321220.11<pc>1320,3<k1>iLAdaQa<k2>iLA--daQa<e>3
+; suppl. addition
+ (read -<s>daDa</s>)
+
+new:
+<L>321220.11<pc>1320,3<k1>iLAdaDa<k2>iLA--daQa<e>3
+; forcematch mw,28698.1,iLAdaDa sup,321220.11,iLAdaQa
+; suppl. addition
+ (read -<s>daDa</s>)
+
+---
+old:
+<L>321220.12<pc>1320,3<k1>ilAdaQa<k2>ilA--daQa<e>3
+; suppl. addition
+ (read -<s>daDa</s>)
+
+new:
+<L>321220.12<pc>1320,3<k1>ilAdaDa<k2>ilA--daQa<e>3
+; forcematch mw,28698.2,ilAdaDa sup,ilAdaDa,ilAdaQa
+; suppl. addition
+ (read -<s>daDa</s>)
+; -----------------------------------------------------
+;delete 314270
+<L>314270<pc>1316,3<k1>alIka<k2>alIka<e>2
+ (also)
+<LEND>
+---
+<L>326470<pc>1323,3<k1>kadrU<k2>kadru<e>2
+; forcematch m2,42900,kadrU sup,326470,kadru
+---
+<L>338510<pc>1331,3<k1>yAvad<k2>yAvad<e>2
+old:
+ (for <s>yAvat</s>)
+new
+ (in <ab>comp.</ab> for <s>yAvat</s>)
+; (for <s>yAvat</s>)
+---
+<L>338571<pc>1331,3<k1>rajaH<k2>rajaH<e>2
+old:
+  <etc/> (for <s>rajas</s>)
+new:
+  &c. (in <ab>comp.</ab> for <s>rajas</s>)
+;  <etc/> (for <s>rajas</s>)
+---
+<L>302960<pc>1310,1<k1>adivA<k2>a-divA<e>2
+old:
+ (in <ab>comp.</ab>)
+new:
+ (in comp.)  ; this will be considered a 'real' supplement
+---
+<L>304510<pc>1311,1<k1>anaqud<k2>anaqud<e>2
+old:
+ (in <ab>comp.</ab> for <sr1/><s>quh</s>)
+new: 
+ (in comp. for <sr1/><s>quh</s>) ; this will be considered a 'real' supplement
+---
+<L>305860<pc>1311,2<k1>anirdaya<k2>a-nirdaya<e>2
+old:
+ (in <ab>comp.</ab>) tenderly, softly, <ls>S3ak.</ls>
+new: 
+ (in comp.) tenderly, softly, <ls>S3ak.</ls>
+; this will be considered a 'real' supplement
+---
+<L>309170<pc>1313,3<k1>apatita<k2>a-patita<e>2
+old:
+ (in <ab>comp.</ab>)
+new: 
+ (in comp.)
+; this will be considered a 'real' supplement
+---
+<L>309720<pc>1314,1<k1>aparAvftta<k2>a-parAvftta<e>2
+old:
+ (in <ab>comp.</ab>)
+new: 
+ (in comp.)
+; this will be considered a 'real' supplement
+---
+<L>309730<pc>1314,1<k1>aparAvftti<k2>a-parAvftti<e>2
+old:
+ (in <ab>comp.</ab>)
+new: 
+ (in comp.)
+; this will be considered a 'real' supplement
+---
+<L>313670<pc>1316,1<k1>arAgadveza<k2>a-rAga-dveza<e>2
+old:
+ (in <ab>comp.</ab>)
+new: 
+ (in comp.)
+; this will be considered a 'real' supplement
+---
+<L>326050<pc>1323,2<k1>Orva<k2>/Orva<e>2
+old:
+ (<ls>RV.</ls>) (in <ab>comp.</ab>)
+new: 
+ (<ls>RV.</ls>) (in comp.)
+; this will be considered a 'real' supplement
+---
+old:
+<L>326670<pc>1324,1<k1>kamaRqalucaryA<k2>kamaRqalu-caryA<e>2
+ (in <ab>comp.</ab>) -<s>caryA</s>, <lex>f.</lex> the practice of carrying a water-jar <ls>Baudh.</ls>
+<LEND>
+
+new:
+<L>326669<pc>1324,1<k1>kamaRqalu</k2>kamaRqalu<e>2
+ (in <ab>comp.</ab>)
+<LEND>
+
+<L>326670<pc>1324,1<k1>kamaRqalucaryA<k2>kamaRqalu-caryA<e>3
+ <lex>f.</lex> the practice of carrying a water-jar <ls>Baudh.</ls>
+<LEND>
+
+---
+<L>328350<pc>1325,1<k1>kurvat<k2>kurv/at<e>2
+<LEND>
+old:
+ = <s>kula</s> (in <ab>comp.</ab>)
+new: 
+ (<ls>AV.</ls>)
+---
+<L>328351<pc>1325,1<k1>kurvARa<k2>kurvAR/a<e>2
+old:
+ <OR/>(<ls>AV.</ls>)  = <s>kula</s> (in <ab>comp.</ab>)
+new: 
+ <OR/>(<ls>AV.</ls>)
+-------------------------------------------------------
+---
+; Merge 313640.1 into 313640, drop 313640.1
+old:
+<L>313640<pc>1316,1<k1>araDra<k2>/a-raDra<e>2
+ (<ab>accord.</ab> to others, <quote>rich, liberal</quote>
+<LEND>
+
+<L>313640.1<pc>1316,1<k1>araDra<k2>/a-raDra<e>2A
+ <ab>cf.</ab> <s>raDra</s>).
+<LEND>
+
+new:
+<L>313640<pc>1316,1<k1>araDra<k2>/a-raDra<e>2
+ (<ab>accord.</ab> to others, <quote>rich, liberal</quote>; <ab>cf.</ab> <s>raDra</s>).
+<LEND>
+---
+319830, 319830.1, 319830.2
+Merge .1 and .2 into 319830, then delete .1 and .2
+
+old: 
+<L>319830<pc>1320,1<k1>ArAgaya<k2>ArAgaya<e>2
+ <vlex>Nom.</vlex> <vlex>P.</vlex> <sr1/><s>yati</s>, to gladden highly, <ls>Vajracch.</ls>
+<LEND>
+
+<L>319830.1<pc>1320,1<k1>ArAgaya<k2>ArAgaya<e>2A
+ to obtain, <ls>Lalit.</ls>
+<LEND>
+
+<L>319830.2<pc>1320,1<k1>ArAgaya<k2>ArAgaya<e>2A
+ to relish, <ls>Divya7v.</ls>
+<LEND>
+new: 
+<L>319830<pc>1320,1<k1>ArAgaya<k2>ArAgaya<e>2
+ <vlex>Nom.</vlex> <vlex>P.</vlex> <sr1/><s>yati</s>, to gladden highly, <ls>Vajracch.</ls>
+ to obtain, <ls>Lalit.</ls>
+ to relish, <ls>Divya7v.</ls>
+<LEND>
+---
+; delete this suppl. entry
+old:
+<L>316460.6<pc>1318,1<k1>azwANga<k2>az--<sr/>wA<srs/>Nga<e>3
+ and <sr1/><s>wA</s>-<s>daSa</s>, see below
+<LEND>
+
+new: 
+---
+302070.1, .2  Merge .2 into .1 and delete .2
+old: 
+<L>302070.1<pc>1309,3<k1>atiTIkf<k2>atiTI--<root/>kf<e>3
+ (<vlex>P.</vlex>  -<s>karoti</s>), to grant anything (<ab>acc.</ab>) to a guest, <ls>Naish.</ls>
+<LEND>
+
+<L>302070.2<pc>1309,3<k1>atiTIkf<k2>atiTI--<root/>kf<e>3A
+ to cause anything (<ab>acc.</ab>) to be a guest, <ab>i.e.</ab> to make it arrive at (<ab>loc.</ab>), <ab>ib.</ab>
+<LEND>
+
+new: 
+<L>302070.1<pc>1309,3<k1>atiTIkf<k2>atiTI--<root/>kf<e>3
+ (<vlex>P.</vlex>  -<s>karoti</s>), to grant anything (<ab>acc.</ab>) to a guest, <ls>Naish.</ls>; to cause anything (<ab>acc.</ab>) to be a guest, <ab>i.e.</ab> to make it arrive at (<ab>loc.</ab>), <ab>ib.</ab>
+<LEND>
+
+---
+320280 and .1;  merge .1 and then delete .1
+old: 
+<L>320280<pc>1320,2<k1>AvaSyakabfhadvftti<k2>AvaSyaka-bfhad-vftta<e>2
+; forcematch mw,27026,AvaSyakabfhadvftti sup,320280,AvaSyakabfhadvftta
+ (read -<s>vftti</s>).
+<LEND>
+
+<L>320280.1<pc>1320,2<k1>AvaSyakabfhadvftti<k2>AvaSyaka-bfhad-vftti<e>2
+ ( <lex>f.</lex> ) 
+<LEND>
+new: 
+<L>320280<pc>1320,2<k1>AvaSyakabfhadvftti<k2>AvaSyaka-bfhad-vftta<e>2
+; forcematch mw,27026,AvaSyakabfhadvftti sup,320280,AvaSyakabfhadvftta
+ (read -<s>vftti</s>, <lex>f.</lex>).
+<LEND>
+---
+old: 
+<L>329850<pc>1326,1<k1>KetasiMha<k2>Keta-siMha<e>2
+ see <s>kzetra</s>-<s>s</s><sr1/>, <s>kzema</s>-<s>s</s><sr1/> (above).
+new: 
+<L>329850<pc>1326,1<k1>KetasiMha<k2>Keta-siMha<e>2
+ see <s>kzetra</s>-<s>s</s><sr1/> (above).
+---
+old:
+<L>329851<pc>1326,1<k1>KemasiMha<k2>Kema-siMha<e>2
+ <OR/> see <s>kzetra</s>-<s>s</s><sr1/>, <s>kzema</s>-<s>s</s><sr1/> (above).
+new:
+<L>329851<pc>1326,1<k1>KemasiMha<k2>Kema-siMha<e>2
+ see <s>kzema</s>-<s>s</s><sr1/> (above).
+---
+;; expand into 3 suppl. entries, for matching with mw
+old:
+<L>334090<pc>1329,1<k1>dyut<k2>dyut<e>2
+ (under<root/> <hom>1</hom>. <s>dyu</s> at <ab>p.</ab>499 read 1. <s>dyut</s>, and at <ab>p.</ab> 500 read <hom>2</hom> <s>dyut</s> and 3. <s>dy/ut</s>). 
+<LEND>
+
+new: 
+<L>334090<pc>1329,1<k1>dyut<k2>dyut<e>2
+ (under<root/> <hom>1</hom>. <s>dyu</s> at <ab>p.</ab>499 read 1. <s>dyut</s>). 
+<LEND>
+
+<L>334091<pc>1329,1<k1>dyut<k2>dyut<e>2
+ (at <ab>p.</ab> 500, for <hom>1</hom> <s>dyut</s>, read <hom>2</hom> <s>dyut</s>). 
+<LEND>
+
+<L>334092<pc>1329,1<k1>dyut<k2>dyut<e>2
+ (at <ab>p.</ab> 500, for <hom>2</hom> <s>dyut</s>, read <hom>3</hom> <s>dyut</s>)
+<LEND>
+
+
+----------------------
+

@@ -163,4 +163,128 @@ End of phase 1 work on issue171. 07-15-2024
 *********************************************************************
 07-17-2024  legacy directory.  Some files from Cologne server
   relating to additions (ca 2012).
-  
+
+# convert to the xxx.txt form (<L>...<LEND>).
+python legacy1/make_add3a.py legacy/ADD3.xml legacy1/add3a.txt
+7145 from legacy/ADD3.xml
+4 non-standard lines
+7141 records written to legacy1/add3a.txt
+
+-------------------------------------------
+## supplement entries whose k1 is unknown in current mw
+python legacy1/match1.py temp_mw_01.txt legacy1/add3a.txt legacy1/match1.txt
+237 records written to legacy1/temp_match1.txt
+
+-------------------------------------------
+## current mw-revsup whose k1 is unknown in add3a
+python legacy1/match1a.py temp_mw_01.txt legacy1/add3a.txt legacy1/match1a.txt
+7141 entries found from add3a
+6921 distinct k1 from legacy1/add3a.txt
+245 records written to legacy1/match1a.txt
+
+# for correction of typos in headwords
+cp legacy1/add3a.txt legacy1/add3b.txt
+cp temp_mw_01.txt temp_mw_02.txt
+
+corrections (add3b)
+refer: add3b_changes.txt
+--------------------
+corrections temp_mw_02
+refer changes_mw_02.txt
+-------------------------------------------
+Rerun using temp_mw_02 and add3b
+## supplement entries whose k1 is unknown in current mw
+python legacy1/match1.py temp_mw_02.txt legacy1/add3b.txt legacy1/match1_rev.txt
+880445 lines read from temp_mw_02.txt
+287582 entries found
+194068 distinct k1 from temp_mw_02.txt
+28560 lines read from legacy1/add3b.txt
+7140 entries found
+41 records written to legacy1/match1_rev.txt
+
+-------------------------------------------
+## current mw-revsup whose k1 is unknown in add3b
+python legacy1/match1a.py temp_mw_02.txt legacy1/add3b.txt legacy1/match1a_rev.txt
+880445 lines read from temp_mw_02.txt
+287582 entries found
+28560 lines read from legacy1/add3b.txt
+7140 entries found
+6920 distinct k1 from legacy1/add3b.txt
+55 records written to legacy1/match1a_rev.txt
+
+-------------------------------------------
+07-19-2024  How to resolve the non-matches of
+match1_rev.txt and match1a_rev.txt ?
+forcematch.txt
+ sample: mw,60622,kzmAvfzan sup,329560,kzmAvfza
+  forces kzmAvfzan in mw to match with kzmAvfza in suppl.
+ 
+## supplement entries whose k1 is unknown in current mw
+python legacy1/match2.py temp_mw_02.txt legacy1/add3b.txt legacy1/forcematch.txt legacy1/match2.txt
+29 from legacy1/forcematch.txt
+16 records written to legacy1/match2.txt
+
+-----
+python legacy1/match2a.py temp_mw_02.txt legacy1/add3b.txt legacy1/forcematch.txt legacy1/match2a.txt
+0 records written to legacy1/match2a.txt
+------
+add3b
+7157 entries
+ 517 "(in <ab>comp.</ab>"
+6640
+----
+temp_mw_02
+6394 "<info n="sup"
+ 247 "<info n="rev"
+6641 (+ 6394 247)
+
+What is that extra one in temp_mw_02 ?
+
+--------------------------------------
+python legacy1/remov
+cp legacy1/add3b.txt legacy1/add3c.txt
+ remove need for forcematch.txt (27 cases)
+   by changing the k1 to agree with temp_mw_02
+
+python legacy1/match3.py 1 temp_mw_02.txt legacy1/add3c.txt legacy1/match3_1.txt
+
+6642 suprev entries in mw body
+6642 suprev entries in mw supplement
+0 lines written to legacy1/match3.txt
+mwkeys same as supkeys?: True
+# of distinct sup keys= 6442
+
+6642 lines written to legacy1/match3_1.txt
+
+python legacy1/match3.py 2 temp_mw_02.txt legacy1/add3c.txt legacy1/match3_difflib.txt
+7487 lines
+
+python legacy1/match3.py 3 temp_mw_02.txt legacy1/add3c.txt legacy1/match3_3.txt
+7487 lines in match3_3.txt
+Output contains mw-suppl. meta-info, using difflib.
+
+xxx = 845  yyy = 845
+(- 7487 845) = 6642  Same as number of sup items
+
+-----------------------------------
+07-22-2024
+--------------
+1. install temp_mw_02.txt into csl-orig
+cp temp_mw_02.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+# grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../
+sh xmlchk_xampp.sh mw
+ok
+# sync csl-orig with github
+cd /c/xampp/htdocs/cologne/csl-orig/v02
+git add .
+git commit -m "MW: revisions re supplement.
+Ref: https://github.com/sanskrit-lexicon/MWS/issues/171 (legacy1)"
+git push
+
+--------------
+2. sync this repo to Github
+
+End of phase 2 work on issue171. 07-22-2024
+*********************************************************************

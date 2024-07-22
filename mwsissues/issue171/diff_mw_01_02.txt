@@ -1,0 +1,196 @@
+29200,29201c29200,29201
+< <L>7974.2<pc>1312,3<k1>antakAmana<k2>anta—kAmana<e>3
+< <s>anta—°kA<srs/>mana</s> ¦ <lex>n.</lex> the jaws of Death, <ab>ib.</ab><info n="sup"/><info lex="n"/>
+---
+> <L>7974.2<pc>1312,3<k1>antakAnana<k2>anta—kAnana<e>3
+> <s>anta—°kA<srs/>nana</s> ¦ <lex>n.</lex> the jaws of Death, <ab>ib.</ab><info n="sup"/><info lex="n"/>
+31852,31854d31851
+< <L>8643.1<pc>1313,2<k1>anyatomuKa<k2>anyato—muKa<h>a<e>3
+< <s>anyato—muKa</s> <hom>a</hom> ¦ (<s>anya/to-</s>), <lex>mfn.</lex> hiving a face only on one side, <ls>ŚBr.</ls><info n="sup"/><info lex="m:f:n"/>
+< <LEND>
+31876,31877c31873,31874
+< <L>8645.2<pc>1313,2<k1>anyatomuKa<k2>anyato—muKa<h>b<e>3
+< <s>anyato—muKa</s> <hom>b</hom> ¦ (<s>anya/to-</s>), <lex>mfn.</lex> hiving a face only on one side, <ls>ŚBr.</ls><info n="sup"/><info lex="m:f:n"/>
+---
+> <L>8645.2<pc>1313,2<k1>anyatomuKa<k2>anyato—muKa<e>3
+> <s>anyato—muKa</s> ¦ (<s>anya/to-</s>), <lex>mfn.</lex> having a face only on one side, <ls>ŚBr.</ls><info n="sup"/><info lex="m:f:n"/>
+73122c73119
+< <s>azwA—pruz</s> ¦ <lex>mfn.</lex> (<ab>nom.</ab> <lex type="hwinfo">n.</lex> <s>-prUw</s> !) having (<ab>i.e.</ab> marked by a sign similar to) eight drops (as a golden coin, <ab>cf.</ab> <s>azwA-pada</s>), <ls>TS.</ls><info lex="m:f:n"/>
+---
+> <s>azwA—pruz</s> ¦ <lex>mfn.</lex> (<ab>nom.</ab> <lex type="hwinfo">n.</lex> <s>-prUw</s> !) having (<ab>i.e.</ab> marked by a sign similar to) eight drops (as a golden coin, <ab>cf.</ab> <s>azwA-pada</s>), <ls>TS.</ls><info n="rev" pc="1316,3"/><info lex="m:f:n"/>
+73545c73542
+< <s>a-saMvlaya</s> ¦ <lex>m.</lex> the not sinking down, <ls>TBr.</ls><info lex="m"/>
+---
+> <s>a-saMvlaya</s> ¦ <lex>m.</lex> the not sinking down, <ls>TBr.</ls><info n="rev" pc="1318,2"/><info lex="m"/>
+73714a73712,73714
+> <L>20452.1<pc>1318,2<k1>asakta<k2>a-sakta<e>1A
+> ¦ eternal, continual, <ls>L.</ls><info n="sup"/><info lex="inh"/>
+> <LEND>
+73724,73726d73723
+< <L>20455.1<pc>1318,2<k1>asaktam<k2>a-saktam<e>1C
+< ¦ eternal, continual, <ls>L.</ls><info n="sup"/><info lex="inh"/>
+< <LEND>
+78108c78105
+< <s>ahar—pa/ti</s> ¦ <lex>m.</lex> (<ls>Pāṇ. viii, 2, 70</ls> <ab>Comm.</ab>) lord of the day, <ls>VS.</ls>; <ls>MaitrS.</ls><info lex="m"/>
+---
+> <s>ahar—pa/ti</s> ¦ <lex>m.</lex> (<ls>Pāṇ. viii, 2, 70</ls> <ab>Comm.</ab>) lord of the day, <ls>VS.</ls>; <ls>MaitrS.</ls><info n="rev" pc="1318,3"/><info lex="m"/>
+85814c85811
+< <s>Adinava—darSa</s> ¦ <lex>mfn.</lex> having in view (another's) misfortune, <ls>VS. xxx, 18.</ls><info lex="m:f:n"/>
+---
+> <s>Adinava—darSa</s> ¦ <lex>mfn.</lex> having in view (another's) misfortune, <ls>VS. xxx, 18.</ls><info n="rev" pc="1319,2"/><info lex="m:f:n"/>
+87314c87311
+< <s>AnandA<srs/>tman</s> ¦ <lex>mfn.</lex> one whose essence consists in happiness, <ls>ŚBr.</ls><info lex="m:f:n"/>
+---
+> <s>AnandA<srs/>tman</s> ¦ <lex>mfn.</lex> one whose essence consists in happiness, <ls>ŚBr.</ls><info n="rev" pc="1319,3"/><info lex="m:f:n"/>
+88142c88139
+< <s>Antya</s> ¦ <lex>m.</lex> one who finishes, personified as <s1 slp1="BOvana">Bhauvana</s1>, <ls>VS.</ls>; <ls>TS.</ls><info lex="m"/>
+---
+> <s>Antya</s> ¦ <lex>m.</lex> one who finishes, personified as <s1 slp1="BOvana">Bhauvana</s1>, <ls>VS.</ls>; <ls>TS.</ls><info n="rev" pc="1319,3"/><info lex="m"/>
+92745c92742
+< ¦ sickness, <ls>AV.</ls>; <ls>VS.</ls>; <ls>KātyŚr.</ls>; <ls>R.</ls>; <ls>Megh.</ls> &c.; (for <hom>2.</hom> <s>Arti</s> see <ab>s.v.</ab>)<info lex="inh"/>
+---
+> ¦ sickness, <ls>AV.</ls>; <ls>VS.</ls>; <ls>KātyŚr.</ls>; <ls>R.</ls>; <ls>Megh.</ls> &c.; (for <hom>2.</hom> <s>Arti</s> see <ab>s.v.</ab>)<info n="rev" pc="1320,1"/><info lex="inh"/>
+93894c93891
+< ¦ descending (= <s>ava-roha</s> ?), <ls>L.</ls> <info n="rev" pc="1320,1"/><info lex="inh"/>
+---
+> ¦ descending (= <s>ava-roha</s> ?), <ls>L.</ls><info lex="inh"/>
+94916c94913
+< <s>Arzeya—vat</s> ¦ <lex>mfn.</lex> connected with sacred descent, <ls>ŚBr.</ls><info lex="m:f:n"/>
+---
+> <s>Arzeya—vat</s> ¦ <lex>mfn.</lex> connected with sacred descent, <ls>ŚBr.</ls><info n="rev" pc="1320,1"/><info lex="m:f:n"/>
+102176,102177c102173,102174
+< <L>28698<pc>164,3<k1>iqAdaQa<k2>iqA—daQa<e>3
+< (<s>iLA—daQa</s> <s>iqA—daQa</s>, and <s>ilA—daQa</s>) ¦, <lex>n.</lex> <ab>N.</ab> of a particular <s1 slp1="izwy-ayana">Iṣṭy-ayana</s1> or sacrificial observance, <ls>AitBr.</ls>; <ls>ĀśvŚr.</ls> <info and="28698,iqAdaQa;28698.1,iLAdaQa;28698.2,ilAdaQa"/><info n="rev" pc="1320,3"/><info lex="n"/>
+---
+> <L>28698<pc>164,3<k1>iqAdaDa<k2>iqA—daDa<e>3
+> (<s>iLA—daDa</s> <s>iqA—daDa</s>, and <s>ilA—daDa</s>) ¦, <lex>n.</lex> <ab>N.</ab> of a particular <s1 slp1="izwy-ayana">Iṣṭy-ayana</s1> or sacrificial observance, <ls>AitBr.</ls>; <ls>ĀśvŚr.</ls> <info and="28698,iqAdaDa;28698.1,iLAdaDa;28698.2,ilAdaDa"/><info n="rev" pc="1320,3"/><info lex="n"/>
+102179,102180c102176,102177
+< <L>28698.1<pc>164,3<k1>iLAdaQa<k2>iLA—daQa<e>3
+< (<s>iLA—daQa</s> <s>iqA—daQa</s>, and <s>ilA—daQa</s>), ¦ <lex>n.</lex> <ab>N.</ab> of a particular <s1 slp1="izwy-ayana">Iṣṭy-ayana</s1> or sacrificial observance, <ls>AitBr.</ls>; <ls>ĀśvŚr.</ls> <info and="28698,iqAdaQa;28698.1,iLAdaQa;28698.2,ilAdaQa"/><info n="rev" pc="1320,3"/><info lex="n"/>
+---
+> <L>28698.1<pc>164,3<k1>iLAdaDa<k2>iLA—daDa<e>3
+> (<s>iLA—daDa</s> <s>iqA—daDa</s>, and <s>ilA—daDa</s>), ¦ <lex>n.</lex> <ab>N.</ab> of a particular <s1 slp1="izwy-ayana">Iṣṭy-ayana</s1> or sacrificial observance, <ls>AitBr.</ls>; <ls>ĀśvŚr.</ls> <info and="28698,iqAdaDa;28698.1,iLAdaDa;28698.2,ilAdaDa"/><info n="rev" pc="1320,3"/><info lex="n"/>
+102182,102183c102179,102180
+< <L>28698.2<pc>164,3<k1>ilAdaQa<k2>ilA—daQa<e>3
+< (<s>iLA—daQa</s> <s>iqA—daQa</s>, and <s>ilA—daQa</s>), ¦ <lex>n.</lex> <ab>N.</ab> of a particular <s1 slp1="izwy-ayana">Iṣṭy-ayana</s1> or sacrificial observance, <ls>AitBr.</ls>; <ls>ĀśvŚr.</ls> <info and="28698,iqAdaQa;28698.1,iLAdaQa;28698.2,ilAdaQa"/><info n="rev" pc="1320,3"/><info lex="n"/>
+---
+> <L>28698.2<pc>164,3<k1>ilAdaDa<k2>ilA—daDa<e>3
+> (<s>iLA—daDa</s> <s>iqA—daDa</s>, and <s>ilA—daDa</s>), ¦ <lex>n.</lex> <ab>N.</ab> of a particular <s1 slp1="izwy-ayana">Iṣṭy-ayana</s1> or sacrificial observance, <ls>AitBr.</ls>; <ls>ĀśvŚr.</ls> <info and="28698,iqAdaDa;28698.1,iLAdaDa;28698.2,ilAdaDa"/><info n="rev" pc="1320,3"/><info lex="n"/>
+105351c105348
+< <s>izwa—deva</s>, <lex>m.</lex> (<ls>L.</ls>) or <s>izwa—devatA</s>, <lex>f.</lex> ¦ a chosen tutelary deity, favourite god, one particularly worshipped (<ab>cf.</ab> <s>aBI<srs/>zwa-devatA</s>). <info or="29573,izwadeva;29574,izwadevatA"/><info lex="f"/>
+---
+> <s>izwa—deva</s>, <lex>m.</lex> (<ls>L.</ls>) or <s>izwa—devatA</s>, <lex>f.</lex> ¦ a chosen tutelary deity, favourite god, one particularly worshipped (<ab>cf.</ab> <s>aBI<srs/>zwa-devatA</s>). <info or="29573,izwadeva;29574,izwadevatA"/><info n="rev" pc="1321,1"/><info lex="f"/>
+105908c105905
+< <hom>2.</hom> <s>Iq</s> ¦ <lex>f.</lex> praise, extolling, <ls>RV. viii, 39, 1.</ls><info lex="f"/>
+---
+> <hom>2.</hom> <s>Iq</s> ¦ <lex>f.</lex> praise, extolling, <ls>RV. viii, 39, 1.</ls><info n="rev" pc="1321,1"/><info lex="f"/>
+111582,111583c111579,111580
+< <L>31362<pc>179,1<k1>uttarIya<k2>uttarI/ya<e>2
+< <s>uttarI/ya</s> ¦ <lex>n.</lex> an upper or outer garment, <ls>KātyŚr.</ls>; <ls>PārGṛ.</ls>; <ls>HirGṛ.</ls>; <ls>MBh.</ls>; <ls>Pañcat.</ls> &c. <info n="rev" pc="1321,3"/><info lex="n"/>
+---
+> <L>31362<pc>179,1<k1>uttarIya<k2>uttarIya<e>2
+> <s>uttarIya</s> ¦ <lex>n.</lex> an upper or outer garment, <ls>KātyŚr.</ls>; <ls>PārGṛ.</ls>; <ls>HirGṛ.</ls>; <ls>MBh.</ls>; <ls>Pañcat.</ls> &c. <info n="rev" pc="1321,3"/><info lex="n"/>
+111585c111582
+< <L>31363<pc>179,1<k1>uttarIya<k2>uttarI/ya<e>2A
+---
+> <L>31363<pc>179,1<k1>uttarIya<k2>uttarIya<e>2A
+111589c111586
+< <s>uttarIya—tA</s> ¦ <lex>f.</lex> the state of being an upper garment, <ls>Gobh. i, 2, 21.</ls> <info n="rev" pc="1321,3"/><info lex="f"/>
+---
+> <s>uttarIya—tA</s> ¦ <lex>f.</lex> the state of being an upper garment, <ls>Gobh. i, 2, 21.</ls><info lex="f"/>
+112204,112205c112201,112202
+< <L>31530.1<pc>1321,3<k1>utTApanI<k2>ut-TApanI<e>2B
+< ¦ (in <ab>dram.</ab>) defiance, <ab>ib.</ab><info n="sup"/><info lex="inh"/>
+---
+> <L>31530.1<pc>1321,3<k1>utTApana<k2>ut-TApana<e>2B
+> <s>ut-TApana</s> ¦ <lex>n.</lex> (in <ab>dram.</ab>) defiance, <ab>ib.</ab><info n="sup"/><info lex="n"/>
+131160,131162d131156
+< <L>37060.2<pc>1322,2<k1>uBayataHpraRava<k2>uBaya—taH—praRava<h>a<e>3
+< <s>uBaya—°taH—praRava</s> <hom>a</hom> ¦ <lex>mfn.</lex> having the syllable <s1 slp1="om">Om</s1> at the beginning and end, <ls>Baudh.</ls><info n="sup"/><info lex="m:f:n"/>
+< <LEND>
+131310,131311c131304,131305
+< <L>37106.1<pc>1322,2<k1>uBayataHpraRava<k2>uBayataH—praRava<h>b<e>3
+< <s>uBaya°taH—praRava</s> <hom>b</hom> ¦ <lex>mfn.</lex> having the syllable <s1 slp1="om">Om</s1> at the beginning and end, <ls>Baudh.</ls><info n="sup"/><info lex="m:f:n"/>
+---
+> <L>37106.1<pc>1322,2<k1>uBayataHpraRava<k2>uBayataH—praRava<e>3
+> <s>uBaya°taH—praRava</s> ¦ <lex>mfn.</lex> having the syllable <s1 slp1="om">Om</s1> at the beginning and end, <ls>Baudh.</ls><info n="sup"/><info lex="m:f:n"/>
+150904,150906d150897
+< <L>42905.1<pc>1323,3<k1>kadrU<k2>kadrU/<e>1
+< <s>kadrU/</s> ¦ (see <s>kadru</s>) <lex>f.</lex> (<ls>RV.</ls>) <info n="rev" pc="1323,3"/><info lex="f"/>
+< <LEND>
+154071c154062
+< <s>kamaRqalu-caryA</s> ¦ (in <ab>comp.</ab>) <s>-caryA</s>, <lex>f.</lex> the practice of carrying a water-jar, <ls>Baudh.</ls><info n="sup"/><info lex="f"/>
+---
+> <lex>f.</lex> the practice of carrying a water-jar, <ls>Baudh.</ls><info n="sup"/><info lex="f"/>
+203910,203912d203900
+< <L>59377.1<pc>1325,3<k1>kzaya<k2>kzaya/<e>2A
+< ¦ the accent is on the last syllable in the sense ‘destruction’, <ab>accord.</ab> to <ls>Pāṇ. iii, 3, 56</ls> and <ls n="Pāṇ.">vi, 1, 63.</ls><info n="sup"/>
+< <LEND>
+206905,206908c206893
+< <s>kzetra—siMha</s> (or <s>Keta-s°</s>), ¦ <lex>m.</lex> <ab>N.</ab> of various kings, <ls>Inscr.</ls><info n="sup"/><info lex="m"/><info or="60328.2,kzetrasiMha;60328.3,KetasiMha"/>
+< <LEND>
+< <L>60328.3<pc>1325,3<k1>KetasiMha<k2>Keta-siMha<e>3
+< <s>kzetra—siMha</s> (or <s>Keta-s°</s>), ¦ <lex>m.</lex> <ab>N.</ab> of various kings, <ls>Inscr.</ls><info n="sup"/><info lex="m"/><info or="60328.2,kzetrasiMha;60328.3,KetasiMha"/>
+---
+> <s>kzetra—siMha</s> (or <s>Keta-s°</s>), ¦ <lex>m.</lex> <ab>N.</ab> of various kings, <ls>Inscr.</ls><info n="sup"/><info lex="m"/><info or="60328.2,kzetrasiMha;62046.1,KetasiMha"/>
+207223,207226c207208
+< <s>kzema-siMha</s> (or <s>Kema-s°</s>), ¦ <lex>m.</lex> <ab>N.</ab> of a king, <ls>Inscr.</ls><info n="sup"/><info lex="m"/><info or="60434.1,kzemasiMha;60434.2,KemasiMha"/>
+< <LEND>
+< <L>60434.2<pc>1325,3<k1>KemasiMha<k2>Kema-siMha<e>3
+< <s>kzema-siMha</s> (or <s>Kema-s°</s>), ¦ <lex>m.</lex> <ab>N.</ab> of a king, <ls>Inscr.</ls><info n="sup"/><info lex="m"/><info or="60434.1,kzemasiMha;60434.2,KemasiMha"/>
+---
+> <s>kzema-siMha</s> (or <s>Kema-s°</s>), ¦ <lex>m.</lex> <ab>N.</ab> of a king, <ls>Inscr.</ls><info n="sup"/><info lex="m"/><info or="60434.1,kzemasiMha;62051.1,KemasiMha"/>
+212407c212389
+< <s>Keta-siMha</s>, <s>Kema-siMha</s>, ¦ see <s>kzetra-s°</s>, <s>kzema-s°</s> (above).<info or="62046.1,KetasiMha;62051.1,KemasiMha"/><info n="sup"/>
+---
+> <s>Keta-siMha</s> ¦ see <s>kzetra-s°</s>(above).<info n="sup"/><info or="60328.2,kzetrasiMha;62046.1,KetasiMha"/>
+222605,222606c222587,222588
+< <L>65217.1<pc>1326,2<k1>girirajaGoza<k2>giri—raja-Goza<e>3
+< <s>giri—raja-Goza</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <s1 slp1="taTAgata">Tathāgata</s1>, <ls>Sukh. i</ls><info n="sup"/><info lex="m"/>
+---
+> <L>65217.1<pc>1326,2<k1>girirAjaGoza<k2>giri—rAja-Goza<e>3
+> <s>giri—rAja-Goza</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <s1 slp1="taTAgata">Tathāgata</s1>, <ls>Sukh. i</ls><info n="sup"/><info lex="m"/>
+222608,222609c222590,222591
+< <L>65217.2<pc>1326,2<k1>girirajaGozeSvara<k2>giri—rajaGo—zeSvara<e>4
+< <s>giri—rajaGo—°ze<srs/>Svara</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <s1 slp1="taTAgata">Tathāgata</s1>, <ls>Sukh. i</ls><info n="sup"/><info lex="m"/>
+---
+> <L>65217.2<pc>1326,2<k1>girirAjaGozeSvara<k2>giri—rAjaGo—zeSvara<e>4
+> <s>giri—rAjaGo—°ze<srs/>Svara</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <s1 slp1="taTAgata">Tathāgata</s1>, <ls>Sukh. i</ls><info n="sup"/><info lex="m"/>
+224920c224902
+< <s>gu/pti</s> ¦ <lex>f.</lex> preserving, protecting, protection, <ls>AV. vi, 122, 3</ls>; <ls n="AV.">xii, 3, 7</ls>; <ls>TS. v f.</ls>; <ls>TBr.</ls> &c.<info n="rev" pc="1326,2"/><info lex="f"/>
+---
+> <s>gu/pti</s> ¦ <lex>f.</lex> preserving, protecting, protection, <ls>AV. vi, 122, 3</ls>; <ls n="AV.">xii, 3, 7</ls>; <ls>TS. v f.</ls>; <ls>TBr.</ls> &c.<info lex="f"/>
+229433,229435d229414
+< <L>67284.2<pc>1326,3<k1>gopAsala<k2>go—pAsala<e>3
+< <s>go—pA<srs/>sala</s> ¦ <lex>m.</lex> <ab>N.</ab> of Gwalior, <ls>Inscr.</ls><info n="sup"/><info lex="m"/>
+< <LEND>
+243190,243191c243169,243170
+< <L>71459.1<pc>1327,1<k1>catuzcatvAriMSadakzara<k2>catuz-catvAriMSad-akzara<e>3
+< <s>catuz-catvAriMSad-akzara</s> ¦ <lex>mfn.</lex> having 44 syllables, <ls>JaimUp.</ls><info n="sup"/><info lex="m:f:n"/>
+---
+> <L>71459.1<pc>1327,1<k1>catuScatvAriMSadakzara<k2>catuS-catvAriMSad-akzara<e>3
+> <s>catuS-catvAriMSad-akzara</s> ¦ <lex>mfn.</lex> having 44 syllables, <ls>JaimUp.</ls><info n="sup"/><info lex="m:f:n"/>
+311139c311118
+< <s>divasa</s> ¦ <lex>m.</lex> (or <lex type="hwalt">n.</lex> <ab>g.</ab> <s>arDarcA<srs/>di</s>, <ls>L.</ls>) heaven, <ls>TBr. i, 7, 6, 6</ls><info lex="m:n"/>
+---
+> <s>divasa</s> ¦ <lex>m.</lex> (or <lex type="hwalt">n.</lex> <ab>g.</ab> <s>arDarcA<srs/>di</s>, <ls>L.</ls>) heaven, <ls>TBr. i, 7, 6, 6</ls><info n="rev" pc="1328,3"/><info lex="m:n"/>
+327901c327880
+< <L>97391<pc>500,1<k1>dyut<k2>dyut<h><e>1
+---
+> <L>97391<pc>500,1<k1>dyut<k2>dyut<h>2<e>1
+328088c328067
+< <hom>4.</hom> <s>dyut</s> ¦ <ab>Caus.</ab> <s>dyotayati</s>, to break, tear open, <ls>AV. iv, 23, 5</ls> (<ab>cf.</ab> <s>aBivi-</s>, <s>A-</s>). <info n="rev" pc="1329,1"/>
+---
+> <hom>4.</hom> <s>dyut</s> ¦ <ab>Caus.</ab> <s>dyotayati</s>, to break, tear open, <ls>AV. iv, 23, 5</ls> (<ab>cf.</ab> <s>aBivi-</s>, <s>A-</s>).
+378280,378282d378258
+< <L>112212.1<pc>1329,3<k1>nepAlAbda<k2>nepA—lAbda<e>3
+< <s>nepA—°lA<srs/>bda</s> ¦ a year of the Newar era (which begins on the 20th October, <ab>A.D.</ab> 879).<info n="sup"/>
+< <LEND>
+379333,379335d379308
+< <L>112529.1<pc>1329,3<k1>nEpAlikAbda<k2>nEpAlikAbda<e>3
+< <s>nEpAlikA<srs/>bda</s> ¦ a year of the Newar era (which begins on the 20th October, <ab>A.D.</ab> 879).<info n="sup"/>
+< <LEND>
+433498c433471
+< <s>pf/Sni—bAhu</s> ¦ (<s>pf/°</s>), <lex>mfn.</lex> having speckled arms <ab>i.e.</ab> front legs (said of a frog), <ls>AV.</ls><info lex="m:f:n"/>
+---
+> <s>pf/Sni—bAhu</s> ¦ (<s>pf/°</s>), <lex>mfn.</lex> having speckled arms <ab>i.e.</ab> front legs (said of a frog), <ls>AV.</ls><info n="rev" pc="1330,2"/><info lex="m:f:n"/>

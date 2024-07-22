@@ -1,0 +1,948 @@
+<L>300050<pc>1308,1<k1>aMho<k2>aMho<e>2
+ (in <ab>comp.</ab> for <s>aMhas</s>)
+<LEND>
+
+<L>300250<pc>1308,1<k1>akutaS<k2>a-kutaS<e>2
+ (in <ab>comp.</ab> for <s>a</s>-<s>kutas</s>)
+<LEND>
+
+<L>300970<pc>1309,1<k1>agnAvizRu<k2>agn/A-v/izRu<e>2
+ (<ls>S3Br.</ls>).
+<LEND>
+
+<L>301380.5<pc>1309,2<k1>aNgulisaMdeSa<k2>aNguli--saMdeSa<e>3
+ (read -<s>saMdaMsa</s>)
+<LEND>
+
+<L>302070<pc>1309,3<k1>atiTI<k2>atiTI<e>2
+ (in <ab>comp.</ab> for <s>atiTi</s>)
+<LEND>
+
+<L>302820<pc>1310,1<k1>adayIya<k2>a-dayIya<e>2
+ (<ab>p.</ab> 18, <ab>col.</ab> 2, line 1 read <s>a</s>-<s>dasIya</s>).
+<LEND>
+
+<L>303181<pc>1310,2<k1>advEtavadin<k2>a-dvEta--vadin<e>3
+ <lex>m.</lex> (also) <ab>N.</ab> of <as0>S3am2kara</as0><as1><s>SaMkara</s></as1>, <ls>Gal.</ls>
+<LEND>
+
+<L>303181.1<pc>1310,2<k1>advEtavadin<k2>a-dvEta--vadin<e>3A
+ of <as0>Buddha</as0><as1><s>budDa</s></as1>, <ls>Divya7v.</ls>
+<LEND>
+
+<L>303260<pc>1310,2<k1>aDastAn<k2>aDastAn<e>2
+ (in <ab>comp.</ab> for <sr1/><s>stAt</s>)
+<LEND>
+
+<L>304130<pc>1310,3<k1>aDo<k2>aDo<e>2
+ (in <ab>comp.</ab> for <s>aDas</s>)
+<LEND>
+
+<L>304540<pc>1311,1<k1>anatidfSrina<k2>/an-atidfSrina<e>2
+ <lex>mfn.</lex> = (or <ab>w.r.</ab> for) <s>an</s>-<s>atidfSy/a</s>, <ls>TS.</ls>
+<LEND>
+
+<L>305030.2<pc>1311,1<k1>analAnanda<k2>ana--<sr/>lA<srs/>nanda<e>3
+ read <s>amal</s><sr1/>
+<LEND>
+
+<L>305330<pc>1311,2<k1>anACfRRa<k2>/an-ACfRRa<e>2
+ read <s>/an</s>-<s>AcC</s><sr1/> (<ab>p.</ab> 27).
+<LEND>
+
+<L>307170<pc>1312,1<k1>anuprahfta<k2>anu-prahfta<e>2
+ (in <ab>comp.</ab>)
+<LEND>
+
+<L>307880.1<pc>1312,2<k1>anUtTAtTAna<k2>anU<srs/>tTA--<sr/>tTAna<e>3
+ see <s>an</s>-<s>anU</s><srs/><s>tT</s><sr1/> (<ab>add.</ab>).
+<LEND>
+
+<L>307950<pc>1312,2<k1>anUpAu<k2>anUpA<srs/>u<e>2
+ <lex>n.</lex> a kind of poisonous root, <ls>Gal.</ls>
+<LEND>
+
+<L>308250.2<pc>1312,3<k1>antakAMana<k2>anta--<sr/>kA<srs/>Mana<e>3
+ <lex>n.</lex> the jaws of Death, <ab>ib.</ab>
+<LEND>
+
+<L>308431.41<pc>1313,2<k1>anyahaka<k2>anya--haka<e>3
+ <OR/> <lex>m.</lex> brass-metal, <ls>L.</ls>
+<LEND>
+
+<L>308440<pc>1313,2<k1>anyat<k2>anyat<e>2
+ (in <ab>comp.</ab>)
+<LEND>
+
+<L>308450<pc>1313,2<k1>anyataH<k2>anyataH<e>2
+ (in <ab>comp.</ab> for <s>anyatas</s>)
+<LEND>
+
+<L>308450.6<pc>1313,2<k1>anyataHmuKa<k2>anyataH--muKa<e>3
+ (<s>any/ato</s>-), <lex>mfn.</lex> hiving a face only on one side, <ls>S3Br.</ls>
+<LEND>
+
+<L>310540.1<pc>1314,2<k1>apahrit<k2>apa-<root/>--<sr/>hrit<e>3
+ <lex>mfn.</lex> taking away (<ab>comp.</ab>), <ls>Ka1v.</ls>
+<LEND>
+
+<L>310840<pc>1314,3<k1>apuvAyate<k2>apuvAyate<e>2
+ <OR/> see <s>apvA</s> (<ab>p.</ab> 59, <ab>col.</ab> 3).
+<LEND>
+
+<L>310970<pc>1314,3<k1>apotsrij<k2>apo<srs/>t-<root/>srij<e>2
+ to relinquish, <ls>Divya7v.</ls>
+<LEND>
+
+<L>311990.3<pc>1315,1<k1>aBinnnARqa<k2>a-Bin--<sr/>nnA<srs/>Rqa<e>3
+ <lex>mfn.</lex> having a whole egg, <ls>Ma1nGr2.</ls>
+<LEND>
+
+<L>312230.2<pc>1315,2<k1>aBirUpaBUyizwa<k2>aBirUpa--BUyizwa<e>3
+ <lex>mfn.</lex> for the most part composed of learned men, <ls>S3ak.</ls>
+<LEND>
+
+<L>312710.1<pc>1315,2<k1>aByavahAravahfta<k2>aBy-avahAr--<sr/>avahfta<e>3
+ <lex>mfn.</lex> eaten, <ls>L.</ls>
+<LEND>
+
+<L>312940.8<pc>1315,3<k1>aBramaMsI<k2>aBra--maMsI<e>3
+ (read -<s>mAMsI</s>)
+<LEND>
+
+<L>313690<pc>1316,1<k1>arAda<k2>arAda<e>2
+ <lex>m.</lex> <ab>N.</ab> of a <as0>Muni</as0><as1><s>muni</s></as1>, <ls>Bcar.</ls>
+<LEND>
+
+<L>314080<pc>1316,3<k1>arvAkarotas<k2>arvAk-arotas<e>2
+ <lex>mfn.</lex> turned downwards in moving (as an animal), <ls>MBh.</ls>
+<LEND>
+
+<L>314880.1<pc>1317,1<k1>avarakaNka<k2>avara--kaNka<e>3
+ <lex>f.</lex> <ab>N.</ab> of a city, <ls>Jain.</ls>
+<LEND>
+
+<L>316140<pc>1317,3<k1>avyupta<k2>/a-vyupta<e>2
+ (in <ab>comp.</ab>)
+<LEND>
+
+<L>316441.1<pc>1318,1<k1>aSvattTodyApana<k2>aSvat--<sr/>tTo<srs/>dyApana<e>3
+ <lex>n.</lex> the ceremony of raising a bank of earth round a holy fig-tree, <ls>Cat.</ls>
+<LEND>
+
+<L>316450<pc>1318,1<k1>aSvi<k2>aSvi<e>2
+ (in <ab>comp.</ab> for <s>aSvin</s>)
+<LEND>
+
+<L>316460.1<pc>1318,1<k1>azwakarMapariBrazwa<k2>azwa--karMa-pariBrazwa<e>3
+ <lex>m.</lex> a <as0>Jaina</as0><as1><s>jEna</s></as1>, <ls>L.</ls>
+<LEND>
+
+<L>316890<pc>1318,2<k1>asamBava<k2>a-samBava<e>2
+ <lex>m.</lex> non-coition, impotence, <ls>A1pGr2.</ls>
+<LEND>
+
+<L>317690<pc>1318,3<k1>Akarnaka<k2>A-karnaka<e>2
+ <lex>m.</lex> <lex>n.</lex> (and <lex>f<p><s>ikA</s></p></lex>) the sheath of a knife, <ls>L.</ls>
+<LEND>
+
+<L>319430.5<pc>1319,3<k1>AmASraya<k2>A--<sr/>mA<srs/>Sraya<e>3
+ (read <sr1/><s>mA</s><srs/><s>Saya</s>)
+<LEND>
+
+<L>319480<pc>1319,3<k1>AmardakatirTanATa<k2>Amardaka-tirTa-nATa<e>2
+ <lex>m.</lex> <ab>N.</ab> of a <as0>S3aiva</as0><as1><s>SEva</s></as1> ascetic, <ls>Inscr.</ls>
+<LEND>
+
+<L>319700.1<pc>1320,1<k1>AyAsadayin<k2>A-yAs/a--dayin<e>3
+ <lex>mfn.</lex> causing affliction, <ls>Bcar.</ls>
+<LEND>
+
+<L>319720<pc>1320,1<k1>AyudbapiSAcikA<k2>Ayudba-piSAcikA<e>2
+ (<ls>MBh.</ls>) or
+<LEND>
+
+<L>319730<pc>1320,1<k1>AyudbapiSAcI<k2>Ayudba-piSAcI<e>2
+ (<ls>Ba1lar.</ls>), <lex>f.</lex> the fondness of a demon for fighting
+<LEND>
+
+<L>319890<pc>1320,1<k1>AruRyopanIzad<k2>AruRyo<srs/>panIzad<e>2
+ <lex>f.</lex> <ab>N.</ab> of an <as0>Upanishad</as0><as1><s>upanizad</s></as1> (also called <s>AruRiko</s><srs/><s>p</s><sr1/> or <s>AruReyo</s><srs/><s>p</s><sr1/> or <s>AruRy</s>-<s>upani</s>-<s>zad</s>).
+<LEND>
+
+<L>320280<pc>1320,2<k1>AvaSyakabfhadvftta<k2>AvaSyaka-bfhad-vftta<e>2
+ (read -<s>vftti</s>).
+<LEND>
+
+<L>320320<pc>1320,2<k1>AviH<k2>AviH<e>2
+ (in <ab>comp.</ab> for <s>Avis</s>)
+<LEND>
+
+<L>320340.1<pc>1320,2<k1>AvidvevidAna<k2>A-vid--v/evidAna<e>3
+ attaining, <ls>RV.</ls>
+<LEND>
+
+<L>320960.1<pc>1320,3<k1>AsvAdanIyadya<k2>A-svAdanIya--dya<e>3
+ (also) <lex>n.</lex> food, <ls>Das3.</ls>
+<LEND>
+
+<L>321110<pc>1320,3<k1>AhvAyitavya<k2>A-hvAyitavya<e>2
+ (read <s>A</s>-<s>hvAyayitavya</s>).
+<LEND>
+
+<L>321120.4<pc>1320,3<k1>ikzuSalaka<k2>ikzu--Salaka<e>3
+ <lex>f.</lex> a thin stick of s<sr1/>ugar-c<sr1/>ane, <ls>MaitrS.</ls>
+<LEND>
+
+<L>321130<pc>1320,3<k1>ikzvAkacandramas<k2>ikzvAka-candramas<e>2
+ <lex>m.</lex> <ab>N.</ab> of <as0>Buddha</as0><as1><s>budDa</s></as1>, <ls>Bcar.</ls>
+<LEND>
+
+<L>321150.2<pc>1320,3<k1>iNgitaIakzya<k2>iNgita--Iakzya<e>3
+ <lex>n.</lex> a patric. <ab>rhet.</ab> figure, <as0>Ha1la</as0><as1><s>hAla</s></as1>, <ab>Sch.</ab>
+<LEND>
+
+<L>321220.5<pc>1320,3<k1>iqepahavana<k2>i--<sr/>qe<srs/>pahavana<e>3
+ <lex>n.</lex> one of the sacrificial utensils, <ls>BaudhP.</ls>
+<LEND>
+
+<L>321230<pc>1320,3<k1>itaH<k2>itaH<e>2
+ (in <ab>comp.</ab> for <s>itas</s>)
+<LEND>
+
+<L>321300<pc>1320,3<k1>idaM<k2>idaM<e>2
+ (in <ab>comp.</ab> for 2. <s>id/am</s>)
+<LEND>
+
+<L>321401.5<pc>1321,1<k1>indrAvasekta<k2>in--<sr/>dr/Avasekta<e>3
+ <lex>m.</lex> <ab>pl.</ab> <quote>watered by <as0>Indra</as0><as1><s>indra</s></as1></quote>, <ab>N.</ab> of a class of ascetics who subsist only on vegetables, <ls>Baudh.</ls>
+<LEND>
+
+<L>321420.4<pc>1321,1<k1>indriyavikAatA<k2>indriya--vikAatA<e>3
+ <lex>f.</lex> defect of the senses (one of the 8 imperfect births), <ls>Dharmas. 134</ls>
+<LEND>
+
+<L>321420.9<pc>1321,1<k1>indriyalozyA<k2>indri--<sr/>yalozyA<e>3
+ <lex>f.</lex> a cow one year old with reddish eyes, <ls>Ta1n2d2Br.</ls>
+<LEND>
+
+<L>321500.5<pc>1321,1<k1>izwATititva<k2>iz--<sr/>wA<srs/>Tititva<e>3
+ <lex>n.</lex> delight in (showing) hospitality, <ls>Bcar. vii, 45</ls>.
+<LEND>
+
+<L>321610<pc>1321,1<k1>IM<k2>IM<e>2
+ (in <ab>comp.</ab> for <s>Im</s>)
+<LEND>
+
+<L>321730.2<pc>1321,1<k1>IzatsadriSa<k2>Izat--sadriSa<e>3
+ <lex>mfn.</lex> a little like, <ls>A1pY.</ls>
+<LEND>
+
+<L>321760.2<pc>1321,1<k1>uktamASra<k2>ukt/a--mASra<e>3
+ <lex>mfn.</lex> merely uttered, <ls>MBh.</ls>
+<LEND>
+
+<L>321900<pc>1321,2<k1>uccilinga<k2>uccilinga<e>2
+ <lex>m.</lex> (= <s>dAqimI</s>), <ls>L.</ls>
+<LEND>
+
+<L>321970<pc>1321,2<k1>ucCiNKana<k2>uc-CiNKana<e>2
+ (read <s>uc</s>-<s>CiNGana</s>).
+<LEND>
+
+<L>322290.1<pc>1321,2<k1>utkzepaIipi<k2>ut-kzepa--Iipi<e>3
+ <lex>m.</lex> a kind of written character, <ls>Buddh.</ls>
+<LEND>
+
+<L>322391<pc>1321,3<k1>uttarArQapUrvArDa<k2>utta--<sr/>rA<srs/>rQ/a-pUrvA<srs/>rDa<e>3
+ (<ls>S3Br.</ls>)
+<LEND>
+
+<L>322560.1<pc>1321,3<k1>utpaladft<k2>utpala--dft<e>3
+ <lex>mfn.</lex> lotus-eyed, <ls>Ma1lati1m.</ls>
+<LEND>
+
+<L>322670.1<pc>1321,3<k1>utprekzepa<k2>ut-pre<srs/>--<sr/>kzepa<e>3
+ (<sr1/><s>kzA</s><srs/><s>k</s><sr1/>), <lex>m.</lex> a <ab>partic.</ab> figure of speech, <ls>Va1s.</ls>, <ab>Sch.</ab>
+<LEND>
+
+<L>322970<pc>1321,3<k1>udIclpaTa<k2>udIcl-paTa<e>2
+ <lex>m.</lex> <ab>N.</ab> of Northern India, <ls>Inscr.</ls>
+<LEND>
+
+<L>323060<pc>1322,1<k1>udGrizwa<k2>ud-Grizwa<e>2
+ (also) <lex>n.</lex> a <ab>partic.</ab> fault in pronunciation, <ls>S3iksh.</ls>
+<LEND>
+
+<L>323360<pc>1322,1<k1>unnateeCa<k2>un-nate<srs/>eCa<e>2
+ <lex>mfn.</lex> magnanimous, <ls>Ragh.</ls>
+<LEND>
+
+<L>323450<pc>1322,1<k1>unmeGin<k2>un-meGin<e>2
+ <lex>mfn.</lex> starting up, <ls>Ma1lati1m.</ls>
+<LEND>
+
+<L>323630<pc>1322,1<k1>upajIka<k2>upa-jIka<e>2
+ <etc/> (read, <s>upajIkA</s>, <lex type="nhw">f.</lex> a kind of ant, <ls>AV.</ls>).
+<LEND>
+
+<L>323810<pc>1322,1<k1>upaninlzu<k2>upa-ninlzu<e>2
+ <lex>mfn.</lex> (<ab>Desid.</ab> of <root/><s>nI</s>) wishing to present, <ls>A1pS3r.</ls>, <ab>Sch.</ab>
+<LEND>
+
+<L>323870<pc>1322,2<k1>upancya<k2>upa-ncya<e>2
+ <lex>mfn.</lex> to be adduced as an example, <ls>Ja1takam.</ls>
+<LEND>
+
+<L>324410<pc>1322,2<k1>upAsakadaSa<k2>upA<srs/>saka-daSa<e>2
+ (read, <quote>-<s>daSA</s>, <lex>f.</lex> <ab>pl.</ab></quote>).
+<LEND>
+
+<L>324670<pc>1322,3<k1>ulmukamaTyA<k2>ulmukamaTyA<e>2
+ (read -<s>maTy/a</s>)
+<LEND>
+
+<L>324900<pc>1322,3<k1>Urikf<k2>Uri-<root/>kf<e>2
+  to incur, undergo, <ls>HParis3.</ls>
+<LEND>
+
+<L>325070.1<pc>1322,3<k1>fjugAtrata<k2>fju--gAtrata<e>3
+ <lex>f.</lex> having all the limbs straight (one of the 32 signs of perfection), <ls>Dharmas. 83</ls>
+<LEND>
+
+<L>325120.2<pc>1323,1<k1>ftuketuIakzaRa<k2>ftu--ketuIakzaRa<e>3
+ <lex>n.</lex> <ab>N.</ab> of the 55th <as0>Paris3isht2a</as0><as1><s>pariSizwa</s></as1> of the <ls>AV.</ls>
+<LEND>
+
+<L>325120.8<pc>1323,1<k1>ftusamA<k2>ftu--samA<e>3
+ <lex>.</lex> <s>veSana</s>, <lex>n.</lex> cohabitation during the fortnight after menstruation, <ls>A1pGr2.</ls>
+<LEND>
+
+<L>325180.5<pc>1323,1<k1>fzaBaIkAdaSa<k2>fza--<sr/>BaI<srs/>kAdaSa<e>3
+ <lex>n.</lex> ten cows and a bull, <ls>Baudh.</ls>
+<LEND>
+
+<L>325180.6<pc>1323,1<k1>fzaBaIkADika<k2>fza--<sr/>BaI<srs/>kA<srs/>Dika<e>3
+ <lex>mfn.</lex> having one bull added, <ab>ib.</ab>
+<LEND>
+
+<L>325213<pc>1323,1<k1>ekavfkIhIya<k2>eka--vfkIhIya<e>3
+ <lex>mfn.</lex> derived trom the same tree or wood, <ls>Ka1tyS3r.</ls>
+<LEND>
+
+<L>325213.7<pc>1323,1<k1>ekasaptatignRa<k2>eka--saptati-gnRa<e>3
+ <lex>mfn.</lex> multiplied by 71, <ls>Mn. i, 79</ls>
+<LEND>
+
+<L>325300<pc>1323,1<k1>ekAmra<k2>ekA<srs/>mra<e>2
+ (in <ab>comp.</ab>)
+<LEND>
+
+<L>325360<pc>1323,1<k1>ekIBAvastottra<k2>ekI-BAva-stottra<e>2
+ <lex>n.</lex> <ab>N.</ab> of a <as0>Stotra</as0><as1><s>stotra</s></as1>.
+<LEND>
+
+<L>325550<pc>1323,2<k1>evaM<k2>evaM<e>2
+ (in <ab>comp.</ab> for <s>evam</s>)
+<LEND>
+
+<L>325580<pc>1323,2<k1>evAsba<k2>/evAsba<e>2
+ <lex>m.</lex> a kind of small animal (<ab>cf.</ab> <s>y/ev</s><sr1/> and <s>yav</s><sr1/>), <ls>MaitrS.</ls>
+<LEND>
+
+<L>325590<pc>1323,2<k1>ezaIzya<k2>ezaI<srs/>zy/a<e>2
+ (<ab>accord.</ab> to some the word is <s>ezE</s><srs/><s>zA</s><srs/>, <quote>impetuous</quote>, and <sr1/><s>zy/A</s> the <ab>instr.</ab> of the fem. <sr1/><s>zi</s>).
+<LEND>
+
+<L>325840.3<pc>1323,2<k1>ozaDihomna<k2>ozaDi--homna<e>3
+ <lex>m.</lex> a kind of oblation, <ls>A1pS3r.</ls>
+<LEND>
+
+<L>325890<pc>1323,2<k1>Odareiza<k2>Odareiza<e>2
+ <lex>mfn.</lex> directed to <as0>Agni</as0><as1><s>agni</s></as1>, <ls>S3is3.</ls>
+<LEND>
+
+<L>325920<pc>1323,2<k1>OduaabarAyaRa<k2>OduaabarAyaRa<e>2
+ (also) a married <as0>Bra1hman</as0><as1>Brahman</as1>, <ls>L.</ls>
+<LEND>
+
+<L>326060<pc>1323,2<k1>OzwIna<k2>OzwIna<e>2
+ <lex>mfn.</lex> being on the lips, <ls>Caurap.</ls>
+<LEND>
+
+<L>326100<pc>1323,3<k1>kakAtika<k2>kak/Atika<e>2
+ (<ls>AV.</ls>).
+<LEND>
+
+<L>326500.1<pc>1323,3<k1>kanakaSfngaviaya<k2>kanaka--Sfngaviaya<e>3
+ (see <s>SfNg</s><sr1/>, <ab>p.</ab> 1087)
+<LEND>
+
+<L>326500.3<pc>1323,3<k1>kanakAAbja<k2>kana--<sr/>kA<srs/>A<srs/>bja<e>3
+ <lex>n.</lex> a gold lotus, <ls>Ma1lati1m.</ls>
+<LEND>
+
+<L>326740.1<pc>1324,1<k1>karagrihIti<k2>kara--grihIti<e>3
+ <lex>f.</lex> levying taxes (and <quote>shaking hands</quote>), <ls>Hcar.</ls>
+<LEND>
+
+<L>326840<pc>1324,1<k1>karkaSiDurohita<k2>kark/aSiDu-rohita<e>2
+ (<ls>VS.</ls>) <lex>m.</lex> a tree, <ls>L.</ls>
+<LEND>
+
+<L>326900<pc>1324,1<k1>kartanaBAnqa<k2>kartana-BAnqa<e>2
+ <lex>n.</lex> <ab>id.</ab>,<ab>L.</ab>
+<LEND>
+
+<L>326961.8<pc>1324,1<k1>karmAvaddna<k2>kar--<sr/>mA<srs/>vaddna<e>3
+ <lex>n.</lex> a great deed, exploit, <ls>Ja1takam.</ls>
+<LEND>
+
+<L>326970<pc>1324,1<k1>karmsRyakft<k2>karmsRya-kft<e>2
+ <lex>mfn.</lex> working for hire, a hireling, <ls>L.</ls>
+<LEND>
+
+<L>326980<pc>1324,1<k1>karaanIya<k2>kar/aanIya<e>2
+ (also) to be ill-treated, <ls>Ja1takam.</ls>
+<LEND>
+
+<L>327070<pc>1324,1<k1>kalaviNasvara<k2>kalaviNa-svara<e>2
+ (also) <lex>mfn.</lex> having a voice (soft) as a sparrow's, <ls>Bcar.</ls>
+<LEND>
+
+<L>327180<pc>1324,2<k1>kalyaoitta<k2>kalyaoitta<e>2
+ <lex>mfn.</lex> sound in mind, <ls>Bcar.</ls>
+<LEND>
+
+<L>327720<pc>1324,3<k1>kArtaviryacampU<k2>kArtavirya-campU<e>2
+ <lex>f.</lex> <ab>N.</ab> of a poem.
+<LEND>
+
+<L>327781<pc>1324,3<k1>kAlaBsda<k2>kAla--Bsda<e>3
+ <lex>m.</lex> <ab>N.</ab> of <ab>wk.</ab>
+<LEND>
+
+<L>327870<pc>1324,3<k1>kASyapIbAlAkyamAWarIputra<k2>kASyapI-bAlAkya-mAWarI-p/utra<e>2
+ (<ls>S3Br.</ls>).
+<LEND>
+
+<L>328200<pc>1325,1<k1>kudrIcl<k2>kudrIcl<e>2
+ <lex>f.</lex> (<ab>prob.</ab>) <ab>N.</ab> of a shrub (= <s>guqIcI</s>), <ls>Kaus3.</ls>
+<LEND>
+
+<L>328260<pc>1325,1<k1>kuBany<k2>kuBan/y<e>2
+ (<ab>accord.</ab> to some -<s>ku</s>-<s>Bany/u</s>, <quote>chattering, noisy</quote>).
+<LEND>
+
+<L>328270.2<pc>1325,1<k1>kumArapitrimeza<k2>kumAra--pitri-meza<e>3
+ <lex>m.</lex> a <ab>partic.</ab> demon hostile to children, <ls>Sus3r.</ls>
+<LEND>
+
+<L>328340.2<pc>1325,1<k1>kurupitangiIa<k2>kuru--pitangiI/a<e>3
+ (<ls>VS.</ls>).
+<LEND>
+
+<L>328361.2<pc>1325,1<k1>kulaSsKaradeva<k2>kula--SsKara-deva<e>3
+ <lex>m.</lex> <ab>N.</ab> of a king, <ls>Inscr.</ls>
+<LEND>
+
+<L>328361.6<pc>1325,1<k1>kullAditya<k2>kul--<sr/>lA<srs/>ditya<e>3
+ <lex>m.</lex> <ab>N.</ab> of chief, <ls>Inscr.</ls>
+<LEND>
+
+<L>328540.3<pc>1325,1<k1>kftapdada<k2>kfta--pdada<e>3
+ <lex>mfn.</lex> being about to (<ab>inf.</ab>), <ls>Subh.</ls>
+<LEND>
+
+<L>328690<pc>1325,2<k1>kekotkaRwba<k2>keko<srs/>tkaRwba<e>2
+ <lex>m.</lex> fond of uttering cries (as a peacock), <ls>Ma1lati1m.</ls>
+<LEND>
+
+<L>328740.4<pc>1325,2<k1>keSaprstigraha<k2>keSa--prstigraha<e>3
+ <lex>m.</lex> a barber, <ls>Gobh.</ls>
+<LEND>
+
+<L>328740.6<pc>1325,2<k1>keSaShakaraRa<k2>keSa--Sha-karaRa<e>3
+ <lex>n.</lex> leaving a remnant of hair, <ls>Pa1rGr2.</ls>
+<LEND>
+
+<L>328740.7<pc>1325,2<k1>keSaSmaSruIomanaKa<k2>keSa--SmaSru-Ioma-naKa<e>3
+ <lex>n.</lex> <ab>pl.</ab> hair and beard and down of the body and nails, <ls>Hir.</ls>
+<LEND>
+
+<L>329380<pc>1325,3<k1>kziRa<k2>kziRa<e>2
+ (in <ab>comp.</ab>)
+<LEND>
+
+<L>329380.1<pc>1325,3<k1>kziRakalmaza<k2>kziRa--kalmaza<e>3
+ <lex>mfn.</lex> freed from sin, <ls>Bhag.</ls>
+<LEND>
+
+<L>329380.2<pc>1325,3<k1>kziRAsrava<k2>kzi--<sr/>RA<srs/>srava<e>3
+ <lex>mfn.</lex> <ab>id.</ab>, <ls>Divya7v.</ls>
+<LEND>
+
+<L>329560<pc>1325,3<k1>kzmAvfza<k2>kzmA-vfza<e>2
+ (read -<s>vfzan</s>).
+<LEND>
+
+<L>329830.2<pc>1326,1<k1>KuramAln<k2>Kura--mAln<e>3
+ <lex>m.</lex> <ab>N.</ab> of an ocean, <ls>Ja1takam.</ls>
+<LEND>
+
+<L>329860.3<pc>1326,1<k1>gaganAngaRa<k2>gaga--<sr/>nA<srs/>ngaRa<e>3
+ <lex>n.</lex> the celestial vault or sky, <ls>Va1s.</ls>
+<LEND>
+
+<L>330130<pc>1326,2<k1>garhitAiiuASana<k2>garhitA<srs/>iiuA<srs/>Sana<e>2
+ <lex>mfn.</lex> eating forbidden food, <ls>Mn. x, 35</ls>.
+<LEND>
+
+<L>330170<pc>1326,2<k1>gElapUraRa<k2>gEla-pUraRa<e>2
+ <lex>mfn.</lex> filling or swelling the cheeks, <ls>Ma1lati1m. 1</ls>.
+<LEND>
+
+<L>330220<pc>1326,2<k1>gahsnazWa<k2>gahsna-zW/a<e>2
+ <lex>mf<p><s>A</s></p>n.</lex> being in the depth, <ls>MaitrS.</ls>
+<LEND>
+
+<L>330240<pc>1326,2<k1>gAYgeyadeva<k2>gAYgeya-deva<e>2
+ <lex>m.</lex> <ab>N.</ab> of a <as0>Kalacuri</as0><as1><s>kalacuri</s></as1> king, <ls>Inscr.</ls>
+<LEND>
+
+<L>330270.4<pc>1326,2<k1>gAtrasaMkaoin<k2>gAtra--saMkaoin<e>3
+ <lex>m.</lex> a cat, <ls>L.</ls>
+<LEND>
+
+<L>330280<pc>1326,2<k1>gAnDArivlARija<k2>gAnDAri-vlARija<e>2
+ <lex>m.</lex> a merchant who goes to the <as0>Gandha1ras</as0><as1><s>ganDAra</s>s</as1>, <ls>Pa1n2. vi, 2, 13, </ls><ls>Ka1s3.</ls>
+<LEND>
+
+<L>330330.21<pc>1326,2<k1>girirajaGozesvara<k2>giri--rajaGo---<sr/>ze<srs/>svara<e>4
+  <lex>m.</lex> <ab>N.</ab> of a <as0>Tatha1gata</as0><as1><s>taTAgata</s></as1>, <ls>Sukh. i</ls>
+<LEND>
+
+<L>330370<pc>1326,2<k1>gucCagUma<k2>gucCagUma<e>2
+ <lex>n.</lex> bushes and shrubs, <ls>Mn. i, 48</ls>.
+<LEND>
+
+<L>330551.4<pc>1326,3<k1>gobijakAYcana<k2>go--bija-kAYcana<e>3
+ <lex>n.</lex> <ab>pl.</ab> cows (and) grain (and) gold, <ls>Mn. viii, 88</ls>
+<LEND>
+
+<L>330580<pc>1326,3<k1>gOtamIaya<k2>gOtamIaya<e>2
+ <lex>n.</lex> <ab>N.</ab> of a <as0>Tantra</as0><as1><s>tantra</s></as1> <ab>wk.</ab>, <ls>RTL. 207</ls>.
+<LEND>
+
+<L>330640.2<pc>1326,3<k1>grAsACAdana<k2>grA--<sr/>sA<srs/>-CAdana<e>3
+ <lex>n.</lex> food and raiment, <ls>Mn. ix, 202</ls>
+<LEND>
+
+<L>330700.1<pc>1326,3<k1>GanadundBisvana<k2>Gana--dundBi-svana<e>3
+ <lex>mfn.</lex> deep as the sound of a drum or of a cloud, <ls>Bcar.</ls>
+<LEND>
+
+<L>330750.1<pc>1326,3<k1>Gftaprikta<k2>Gfta--prikta<e>3
+ <lex>mfn.</lex> full of ghee, <ls>MBh.</ls>
+<LEND>
+
+<L>330770<pc>1326,3<k1>GoskavadAdi<k2>Goskavad-Adi<e>2
+ <lex>mfn.</lex> beginning with a sonant, <ls>Hir.</ls>
+<LEND>
+
+<L>330910<pc>1327,1<k1>catuscatvAriMSadakzara<k2>catus-catvAriMSad-akzara<e>2
+ <lex>mfn.</lex> having 44 syllables, <ls>JaimUp.</ls>
+<LEND>
+
+<L>330950.3<pc>1327,1<k1>candanaBanu<k2>candana--Banu<e>3
+ (also) <ab>N.</ab> of a <as0>Tatha1gata</as0><as1><s>taTAgata</s></as1>, <ls>Sukh. i</ls>
+<LEND>
+
+<L>330960.4<pc>1327,1<k1>candraSakaIa<k2>candra--SakaIa<e>3
+ <lex>m.</lex> <lex>n.</lex> the half-moon, <ls>Ka1d.</ls>
+<LEND>
+
+<L>330960.6<pc>1327,1<k1>candrArkamaraana<k2>can--<sr/>drA<srs/>rka-mar/aana<e>3
+ <lex>m.</lex> <quote>tormenter of sun and moon</quote>, <ab>N.</ab> <ab>cf.</ab> <as0>Ra1hu</as0><as1><s>rAhu</s></as1>, <ls>MW.</ls>
+<LEND>
+
+<L>331110<pc>1327,1<k1>cArORqsrAja<k2>cArORqsrAja<e>2
+ <lex>m.</lex> <ab>N.</ab> of several kings, <ls>Inscr.</ls>
+<LEND>
+
+<L>331130.4<pc>1327,1<k1>cAruSfRgin<k2>cAru--SfRgin<e>3
+ (see <s>Sfngin</s>, <ab>p.</ab> 1088).
+<LEND>
+
+<L>331220.2<pc>1327,1<k1>cittaDArAbudDisaMku<k2>citta--DArA-budDi-saMku<e>3
+ <s>sumitA</s><srs/><s>Byudgata</s>, <lex>m.</lex> <ab>N.</ab> of a <as0>Tatha1gata</as0><as1><s>taTAgata</s></as1>, <ls>Sukh. i</ls>
+<LEND>
+
+<L>331220.5<pc>1327,1<k1>citttADipatya<k2>cit--<sr/>ttA<srs/>Dipatya<e>3
+ <lex>n.</lex> control over the mind, <ls>Bcar.</ls>
+<LEND>
+
+<L>331340.2<pc>1327,2<k1>cEtrasaMkrAti<k2>cEtra--saMkrAti<e>3
+ <lex>f.</lex> <ab>N.</ab> of a festival usually celebrated early in April (in Bengal).
+<LEND>
+
+<L>331370<pc>1327,2<k1>cOdrayaRa<k2>cOdrayaRa<e>2
+ <etc/> (erase and cf, <s>Otdr</s><sr1/>, <ab>p.</ab> 1323).
+<LEND>
+
+<L>331380<pc>1327,2<k1>cOrkilbiza<k2>cOr-kilbiza<e>2
+ <lex>n.</lex> the crime or guilt of a thief, <ls>Mn. viii, 300</ls>.
+<LEND>
+
+<L>331400<pc>1327,2<k1>CandahpratizWAna<k2>C/andah-pratizWAna<e>2
+ <lex>mfn.</lex> based on metre, <ls>MaitrS.</ls>
+<LEND>
+
+<L>331420<pc>1327,2<k1>CAgamARsa<k2>CAga-mARsa<e>2
+ <lex>n.</lex> goat's flesh, Mn, iii, 269.
+<LEND>
+
+<L>331450.4<pc>1327,2<k1>CinnnAbra<k2>Cin--<sr/>nnA<srs/>bra<e>3
+ <lex>n.</lex> a cloud torn asunder, <ls>Bhag.</ls>
+<LEND>
+
+<L>331510.3<pc>1327,2<k1>jagadDitotrman<k2>jagad--Dito<srs/>trman<e>3
+ (for. -<s>hit</s><sr1/>), <lex>mfn.</lex> having the heart set on the salvation of the world, <ls>Bcar.</ls>
+<LEND>
+
+<L>331550.1<pc>1327,2<k1>jawAJaAta<k2>jawA--JaAta<e>3
+ <lex>m.</lex> <ab>N.</ab> of <as0>S3iva</as0><as1><s>Siva</s></as1>, <ls>L.</ls>
+<LEND>
+
+<L>331680<pc>1327,2<k1>jambudvIpoSvara<k2>jambu-dvIpo<srs/>Svara<e>2
+ <lex>m.</lex> a sovereign of India, <ls>Sukh. i</ls>.
+<LEND>
+
+<L>331730<pc>1327,2<k1>jEAyuDa<k2>jEA<srs/>yuDa<e>2
+ <lex>mfn.</lex> having old age as his weapon (said of Death), <ls>Bcar.</ls>
+<LEND>
+
+<L>331840<pc>1327,3<k1>jAiamAyana<k2>jAi/amAyana<e>2
+ a kind of water vessel (<ab>v.l.</ab> <s>jAgm</s><sr1/>), <ls>Kaus3.</ls>
+<LEND>
+
+<L>331850.7<pc>1327,3<k1>jatAnukampa<k2>ja--<sr/>tA<srs/>nukampa<e>3
+ <lex>mfn.</lex> compassionate, <ls>Bcar.</ls>
+<LEND>
+
+<L>331920.3<pc>1327,3<k1>jAlAbadDANgulipARipAdatalstA<k2>jA--<sr/>lA<srs/>badDA<srs/>Nguli-pARi-pAda-talstA<e>3
+ <lex>f.</lex> the having the soles of the feet and palms and fingers covered with nets (or cross-lines ; one of the 32 signs of perfection), <ls>Dharmas. 83</ls>
+<LEND>
+
+<L>331970<pc>1327,3<k1>jivadviBAga<k2>jivad-viBAga<e>2
+ <lex>m.</lex> partition while (the father is still) living, <ls>Br2ihas.</ls>
+<LEND>
+
+<L>332140<pc>1327,3<k1>jvalanADpati<k2>jvalanA<srs/>Dpati<e>2
+ <lex>m.</lex> <ab>N.</ab> of a <as0>Tatha1gata</as0><as1><s>taTAgata</s></as1>, <ls>Sukh. i</ls>.
+<LEND>
+
+<L>332210<pc>1328,1<k1>JiRkA<k2>JiRkA<e>2
+ <lex>f.</lex> hiccough, <ls>L.</ls>
+<LEND>
+
+<L>332240<pc>1328,1<k1>WA<k2>WA<e>2
+ (in <ab>comp.</ab>)
+<LEND>
+
+<L>332240.1<pc>1328,1<k1>WAsamuccaya<k2>WA--samuccaya<e>3
+ <lex>m.</lex>  <lex>n.</lex> <ab>N.</ab> of <ab>wk.</ab>
+<LEND>
+
+<L>332240.2<pc>1328,1<k1>WAsarvasva<k2>WA--sarvasva<e>3
+  <lex>n.</lex> <ab>N.</ab> of <ab>wk.</ab>
+<LEND>
+
+<L>332280<pc>1328,1<k1>WunWupadDati<k2>WunWu-padDati<e>2
+ <lex>f.</lex> <ab>N.</ab> of <ab>wk.</ab>
+<LEND>
+
+<L>332370<pc>1328,1<k1>quRDI<k2>quRDI<e>2
+ (also) <ab>N.</ab> of various authors, <ls>Cat.</ls>
+<LEND>
+
+<L>332390<pc>1328,1<k1>QlI<k2>QlI<e>2
+ <lex>f.</lex> the city Delhi, <ls>Inscr.</ls>
+<LEND>
+
+<L>332410.2<pc>1328,1<k1>takaraka<k2>t/akaraka<e>2
+ = <s>sTakara</s> or <s>sTagara</s>, a <ab>partic.</ab> fragrant powder (Bloomfield's <ls>AV.</ls>, <ab>p.</ab> 311).
+<LEND>
+
+<L>332460.3<pc>1328,1<k1>tatkzaRikaa<k2>tat--kzaRikaa<e>3
+ <lex>f.</lex> a courtezan, <ls>Maha1vy.</ls>
+<LEND>
+
+<L>332530<pc>1328,1<k1>tapah<k2>tapah<e>2
+ (in <ab>comp.</ab> for <s>tapas</s>)
+<LEND>
+
+<L>332530.1<pc>1328,1<k1>tapahpraDAna<k2>tapah--praDAna<e>3
+ <lex>mfn.</lex> pre-eminent in penance, <ls>Bcar.</ls>
+<LEND>
+
+<L>332530.2<pc>1328,1<k1>tapahsahAya<k2>tapah--sahAya<e>3
+ <lex>m.</lex> companion in penance, <ab>ib.</ab>
+<LEND>
+
+<L>332550.1<pc>1328,1<k1>tamaHprcCAdaka<k2>tamaH--prcCAdaka<e>3
+ <lex>mfn.</lex> covering with darkness (said of an evil demon), <ls>Ma1rkP.</ls>
+<LEND>
+
+<L>332680.1<pc>1328,1<k1>tAmrajiva<k2>tAmra--jiva<e>3
+ <lex>m.</lex> the son of a <as0>Ma1gadha</as0><as1><s>mAgaDa</s></as1> and a <as0>Bra1hman2i1</as0><as1><s>brAhmaRI</s></as1> (who works in copper), <ls>L.</ls>
+<LEND>
+
+<L>332690.1<pc>1328,1<k1>tArAcandtodaya<k2>tArA--candto<srs/>daya<e>3
+ <lex>m.</lex> <ab>N.</ab> of a poem
+<LEND>
+
+<L>333000<pc>1328,2<k1>tuzwtUzita<k2>tuzwtUzita<e>2
+ (see <root/><s>stu</s>, <ab>p.</ab> 1259).
+<LEND>
+
+<L>333020<pc>1328,2<k1>tulasadfSasukumArapARitA<k2>tula-sadfSa-sukumAra-pARitA<e>2
+ <lex>f.</lex> the having hands soft as cotton (one of the 80 minor marks of a <as0>Buddha</as0><as1><s>budDa</s></as1>), <ls>Dharmas. 84</ls>.
+<LEND>
+
+<L>333040.2<pc>1328,2<k1>tfzRAsaNsga<k2>tfzRA--saNsga<e>3
+ <lex>m.</lex> attachment to desire, <ls>Bhag.</ls>
+<LEND>
+
+<L>333050.2<pc>1328,2<k1>tejovasdagDyaSIlovat<k2>tejo--vasdagDya-SIlovat<e>3
+ <lex>mfn.</lex> having energy (and) cleverness (and) a good character, <ls>Sa1h.</ls>
+<LEND>
+
+<L>333130.4<pc>1328,2<k1>tripuravNrhna<k2>tri--pura-vNrhna<e>3
+ <lex>m.</lex> the destroyer of <as0>Tripura</as0><as1><s>tripura</s></as1>, <ls>MBh.</ls>
+<LEND>
+
+<L>333130.9<pc>1328,2<k1>triSulapawwitaDara<k2>tri--Sula-pawwita-Dara<e>3
+ <lex>m.</lex> <ab>N.</ab> of <as0>S3iva</as0><as1><s>Siva</s></as1>, <ls>Hariv.</ls>
+<LEND>
+
+<L>333200.4<pc>1328,2<k1>dakziRApraYc<k2>dakziRA--pr/aYc<e>3
+ <lex>mfn.</lex> directed towards the south-east, <ab>ib.</ab>
+<LEND>
+
+<L>333270<pc>1328,3<k1>dadItTa<k2>dadItTa<e>2
+ <lex>.</lex> (also) <ab>N.</ab> of a monkey, <ls>Ba1lar.</ls>
+<LEND>
+
+<L>333340<pc>1328,3<k1>damayantIpariRya<k2>damayantI-pariRya<e>2
+ <lex>m.</lex> <ab>N.</ab> of a poem.
+<LEND>
+
+<L>333470<pc>1328,3<k1>duhwavya<k2>duhwavya<e>2
+ <lex>n.</lex> the act of biting, <ls>Ja1takam.</ls>
+<LEND>
+
+<L>333480.1<pc>1328,3<k1>dahanahalpa<k2>dahana--halpa<e>3
+ <lex>m.</lex> a crematory rite, <ls>HirP.</ls>
+<LEND>
+
+<L>333590<pc>1328,3<k1>dAnApna<k2>dAnA<srs/>pna<e>2
+ (<ls>RV.</ls>).
+<LEND>
+
+<L>333610<pc>1328,3<k1>dAragapti<k2>dAra-gapti<e>2
+ <lex>f.</lex> guarding a wife, <ls>Hir. 3</ls>.
+<LEND>
+
+<L>333620.2<pc>1328,3<k1>dAruputtrikA<k2>dAru--puttrikA<e>3
+ (read -<s>putrikA</s>).
+<LEND>
+
+<L>333620.3<pc>1328,3<k1>dAruputtrI<k2>dAru--puttrI<e>3
+ (read  -<s>putrI</s>).
+<LEND>
+
+<L>333630<pc>1328,3<k1>dArqbajayanti<k2>dArqbajayanti<e>2
+ (see <s>vEpaScita</s>, <ab>p.</ab> 1332).
+<LEND>
+
+<L>333950<pc>1329,1<k1>dfztAdfzwa<k2>dfztA<srs/>dfzwa<e>2
+ (also) dimly seen, <ls>Inscr.</ls>
+<LEND>
+
+<L>335030<pc>1329,3<k1>nimf<k2>ni<root/>mf<e>2
+ (read, <quote><root/><s>mF</s></quote>).
+<LEND>
+
+<L>335120.1<pc>1329,3<k1>nizwakvarI<k2>niz--w/akvarI<e>3
+ (rather <quote>roaming, vagrant</quote>)
+<LEND>
+
+<L>336350<pc>1330,2<k1>pnA<k2>pnA<e>2
+ (read <s>ptA</s>).
+<LEND>
+
+<L>336510<pc>1330,3<k1>praRetri<k2>pra-Retri<e>2
+ (also) a charioteer, <ls>Bcar.</ls>
+<LEND>
+
+<L>337100<pc>1331,1<k1>protaGaRa<k2>pro<srs/>ta-GaRa<e>2
+ (read -<s>Gana</s>).
+<LEND>
+
+<L>337170<pc>1331,1<k1>batwa<k2>batwa<e>2
+ (see <s>vawwa</s>).
+<LEND>
+
+<L>337220<pc>1331,1<k1>bambaviSvayas<k2>bamba-viSvay/as<e>2
+ (<ls>MaitrS.</ls>).
+<LEND>
+
+<L>337240.3<pc>1331,1<k1>balihrit<k2>bali--hrit<e>3
+ (also) offering oblations, <ls>Ma1nGr2.</ls>
+<LEND>
+
+<L>337260.1<pc>1331,1<k1>bahiHprayAna<k2>bahiH--prayAna<e>3
+ <lex>n.</lex> going outside, <ls>Bcar.</ls>
+<LEND>
+
+<L>337260.4<pc>1331,1<k1>bahiHvESravaRa<k2>bahiH--vESravaRa<e>3
+ <lex>m.</lex> <ab>N.</ab> of a <ab>partic.</ab> divinity, <ls>Ma1nGr2.</ls>
+<LEND>
+
+<L>337270.8<pc>1331,1<k1>bahusuvarI<k2>bahu--suvarI<e>3
+ (read -<s>s/UvarI</s>)
+<LEND>
+
+<L>337270.9<pc>1331,1<k1>bahupamA<k2>ba--<sr/>h/upamA<e>3
+ <lex>f.</lex> a kind of comparison (in which many <as0>Upama1nas</as0><as1><s>upamAna</s>s</as1> are contained), <ls>Ka1vya7d.</ls>
+<LEND>
+
+<L>337300.2<pc>1331,1<k1>bAzpahatekskaRa<k2>bAzpa--hate<srs/>kskaRa<e>3
+ <lex>mfn.</lex> blinded by tears, <ab>ib.</ab>
+<LEND>
+
+<L>337310<pc>1331,1<k1>bAteya<k2>bAteya<e>2
+ see <s>vAsteya</s>.
+<LEND>
+
+<L>337560<pc>1331,1<k1>BAravoDf<k2>BAra-voDf<e>2
+ <lex>m.</lex> a bearer of burdens, carrier, <ls>MBh.</ls>
+<LEND>
+
+<L>337670.1<pc>1331,2<k1>BUstriRa<k2>BU--s-triRa<e>3
+ <lex>m.</lex> Andropegon Schoenanthus, <ls>Mn. ; </ls><ls>Sus3r.</ls>
+<LEND>
+
+<L>337770<pc>1331,2<k1>magaDAYira<k2>magaDA<srs/>Yira<e>2
+ <lex>n.</lex> the court of <as0>Magadha</as0><as1><s>magaDa</s></as1>, <ls>Bcar.</ls>
+<LEND>
+
+<L>338070<pc>1331,2<k1>mAtrApaeAra<k2>mAtrA<srs/>paeAra<e>2
+ <lex>m.</lex> wanting of the measure, <ls>A1pY.</ls>
+<LEND>
+
+<L>338510.2<pc>1331,3<k1>yAvadgrahanaM<k2>yAvad--grahanaM<e>3
+ <lex>ind.</lex> (also) until understanding, <ls>Hir.</ls>
+<LEND>
+
+<L>338510.3<pc>1331,3<k1>yAvadgrahanaM<k2>yAvad--grahanaM<e>3A
+ as long as possible, <ls>BaudhP.</ls>
+<LEND>
+
+<L>338610.4<pc>1331,3<k1>ratnamanjarI<k2>ratna--manjarI<e>3
+ <lex>f.</lex> <ab>N.</ab> of a <as0>Sanskr2it</as0><as1>Sanskrit</as1> translation of the <as0>Karpu1ra-man5jari1</as0><as1><s>karpUra-maYjarI</s></as1>
+<LEND>
+
+<L>338660.2<pc>1331,3</pc><pc>Page1332,1<k1>ravivarDana<k2>ravi--varDana-<e>3
+  <s>gaRi</s>, <lex>m.</lex> <ab>N.</ab> of an author, <ls>Jain.</ls>
+<LEND>
+
+<L>338910<pc>1332,1<k1>lANgaleza<k2>lANgale<srs/>za<e>2
+ <lex>f.</lex> the pole of a plough, <ls>La1t2y. ; </ls><ls>Dra1hy.</ls>
+<LEND>
+
+<L>338930<pc>1332,1<k1>lAsakayavan<k2>lAsakayavan<e>2
+ <lex>m.</lex> a young dancer, <ls>L.</ls>
+<LEND>
+
+<L>339050<pc>1332,1<k1>vaDUyA<k2>vaDUyA<srs/><e>2
+ (<ab>accord.</ab> to some also, <quote>a paramour</quote>).
+<LEND>
+
+<L>339120<pc>1332,1<k1>vayah<k2>vayah<e>2
+ (in <ab>comp.</ab> for <s>vayas</s>)
+<LEND>
+
+<L>339120.1<pc>1332,1<k1>vayahprakarza<k2>vayah--prakarza<e>3
+ <lex>m.</lex> prolongation of life, <ab>ib.</ab>
+<LEND>
+
+<L>339120.2<pc>1332,1<k1>vayahsuKa<k2>vayah--suKa<e>3
+ <lex>n.</lex> the pleasures of youth, <ab>ib.</ab>
+<LEND>
+
+<L>339140<pc>1332,1<k1>varIlya<k2>varIlya<e>2
+ (read, <s>vArIya</s>, <ab>p.</ab> 943 col 3)
+<LEND>
+
+<L>339420<pc>1332,2<k1>virajahpraBa<k2>vi-rajah-praBa<e>2
+ <lex>m.</lex> <ab>N.</ab> of a <as0>Tatha1gata</as0><as1><s>taTAgata</s></as1>, <ls>Sukh. i</ls>.
+<LEND>
+
+<L>339490<pc>1332,2<k1>vizwimin<k2>vi-zwimin<e>2
+ <lex>mfn.</lex> (<root/><s>stIm</s>) making or becoming wet,<ls>VS.</ls>
+<LEND>
+
+<L>339520<pc>1332,2<k1>vira<k2>vira<e>2
+ (in <ab>comp.</ab>)
+<LEND>
+
+<L>339520.1<pc>1332,2<k1>virapeSas<k2>vira--peSas<e>3
+ (<sr1/><s>r/a</s>- ; <ab>accord.</ab> to some, <quote>consisting in male children</quote>)
+<LEND>
+
+<L>339520.3<pc>1332,2<k1>viraravivarman<k2>vira--ravi-varman<e>3
+ and -<s>rAja</s>-<s>varman</s>, <lex>m.</lex> <ab>N.</ab> of various kings, <ls>Inscr.</ls>
+<LEND>
+
+<L>339520.4<pc>1332,2<k1>viralIla<k2>vira--lIla<e>3
+ <lex>mfn.</lex> playing at being a hero, <ls>Bcar.</ls>
+<LEND>
+
+<L>339520.5<pc>1332,2<k1>virasena<k2>vira--sena<e>3
+ (also) <ab>N.</ab> of a poet (400 <ls>A.</ls>D.), <ls>Inscr.</ls>
+<LEND>
+
+<L>339710<pc>1332,2<k1>vyavahalrya<k2>vy-avahalrya<e>2
+ (<ab>p.</ab> 1034, <ab>col.</ab> 3, read <quote>see <s>a</s>-<s>vyav</s><sr1/></quote>).
+<LEND>
+
+<L>339840<pc>1332,2<k1>SacIpuraRdara<k2>SacI-puraRdara<e>2
+ <lex>m.</lex> <ab>du.</ab> <as0>S3aci1</as0><as1><s>SacI</s></as1> and <as0>Indra</as0><as1><s>indra</s></as1>, <ls>Ragh.</ls> .
+<LEND>
+
+<L>340320<pc>1332,3<k1>samvartavAta<k2>sam-vartavAta<e>2
+ <lex>m.</lex> a whirlwind, <ls>Hir.</ls>
+<LEND>
+
+<L>340430<pc>1332,3<k1>saemi<k2>s/aemi<e>2
+ (<ab>accord.</ab> to some an <ab>instr.</ab> of <s>sana</s>= <quote>from of old, always</quote>).
+<LEND>
+
+<L>340560<pc>1332,3<k1>sarpirmisra<k2>sarpir-misra<e>2
+ <lex>mfn.</lex> mixed with clarified butter, <ab>ib.</ab>
+<LEND>
+
+<L>340570<pc>1332,3<k1>sarvara<k2>s/arvara<e>2
+ (in <ab>comp.</ab>)
+<LEND>
+
+<L>340570.1<pc>1332,3</pc><pc>Page1333,1<k1>sarvarakuSatamUlapAramitA<k2>s/arvara--kuSata-mUla-pAramitA<e>3
+ <lex>f.</lex> Perfection  of all the sources of merit, <ls>Sukh. i</ls>
+<LEND>
+
+<L>340570.2<pc>1333,1<k1>sarvarapUruza<k2>s/arvara--pUruza<e>3
+ <lex>mfn.</lex> (a house) containing all men, <ls>Hir.</ls>
+<LEND>
+

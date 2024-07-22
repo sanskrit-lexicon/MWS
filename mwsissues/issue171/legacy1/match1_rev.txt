@@ -1,0 +1,164 @@
+<L>300050<pc>1308,1<k1>aMho<k2>aMho<e>2
+ (in <ab>comp.</ab> for <s>aMhas</s>)
+<LEND>
+
+<L>300250<pc>1308,1<k1>akutaS<k2>a-kutaS<e>2
+ (in <ab>comp.</ab> for <s>a</s>-<s>kutas</s>)
+<LEND>
+
+<L>300970<pc>1309,1<k1>agnAvizRu<k2>agn/A-v/izRu<e>2
+ (<ls>S3Br.</ls>).
+<LEND>
+
+<L>301380.5<pc>1309,2<k1>aNgulisaMdeSa<k2>aNguli--saMdeSa<e>3
+ (read -<s>saMdaMsa</s>)
+<LEND>
+
+<L>302070<pc>1309,3<k1>atiTI<k2>atiTI<e>2
+ (in <ab>comp.</ab> for <s>atiTi</s>)
+<LEND>
+
+<L>302820<pc>1310,1<k1>adayIya<k2>a-dayIya<e>2
+ (<ab>p.</ab> 18, <ab>col.</ab> 2, line 1 read <s>a</s>-<s>dasIya</s>).
+<LEND>
+
+<L>303260<pc>1310,2<k1>aDastAn<k2>aDastAn<e>2
+ (in <ab>comp.</ab> for <sr1/><s>stAt</s>)
+<LEND>
+
+<L>304130<pc>1310,3<k1>aDo<k2>aDo<e>2
+ (in <ab>comp.</ab> for <s>aDas</s>)
+<LEND>
+
+<L>305030.2<pc>1311,1<k1>analAnanda<k2>ana--<sr/>lA<srs/>nanda<e>3
+ read <s>amal</s><sr1/>
+<LEND>
+
+<L>305330<pc>1311,2<k1>anACfRRa<k2>/an-ACfRRa<e>2
+ read <s>/an</s>-<s>AcC</s><sr1/> (<ab>p.</ab> 27).
+<LEND>
+
+<L>307170<pc>1312,1<k1>anuprahfta<k2>anu-prahfta<e>2
+ (in <ab>comp.</ab>)
+<LEND>
+
+<L>308440<pc>1313,2<k1>anyat<k2>anyat<e>2
+ (in <ab>comp.</ab>)
+<LEND>
+
+<L>308450<pc>1313,2<k1>anyataH<k2>anyataH<e>2
+ (in <ab>comp.</ab> for <s>anyatas</s>)
+<LEND>
+
+<L>312940.8<pc>1315,3<k1>aBramaMsI<k2>aBra--maMsI<e>3
+ (read -<s>mAMsI</s>)
+<LEND>
+
+<L>316140<pc>1317,3<k1>avyupta<k2>/a-vyupta<e>2
+ (in <ab>comp.</ab>)
+<LEND>
+
+<L>316450<pc>1318,1<k1>aSvi<k2>aSvi<e>2
+ (in <ab>comp.</ab> for <s>aSvin</s>)
+<LEND>
+
+<L>319430.5<pc>1319,3<k1>AmASraya<k2>A--<sr/>mA<srs/>Sraya<e>3
+ (read <sr1/><s>mA</s><srs/><s>Saya</s>)
+<LEND>
+
+<L>320280<pc>1320,2<k1>AvaSyakabfhadvftta<k2>AvaSyaka-bfhad-vftta<e>2
+ (read -<s>vftti</s>).
+<LEND>
+
+<L>320320<pc>1320,2<k1>AviH<k2>AviH<e>2
+ (in <ab>comp.</ab> for <s>Avis</s>)
+<LEND>
+
+<L>321110<pc>1320,3<k1>AhvAyitavya<k2>A-hvAyitavya<e>2
+ (read <s>A</s>-<s>hvAyayitavya</s>).
+<LEND>
+
+<L>321230<pc>1320,3<k1>itaH<k2>itaH<e>2
+ (in <ab>comp.</ab> for <s>itas</s>)
+<LEND>
+
+<L>321300<pc>1320,3<k1>idaM<k2>idaM<e>2
+ (in <ab>comp.</ab> for 2. <s>id/am</s>)
+<LEND>
+
+<L>321610<pc>1321,1<k1>IM<k2>IM<e>2
+ (in <ab>comp.</ab> for <s>Im</s>)
+<LEND>
+
+<L>321970<pc>1321,2<k1>ucCiNKana<k2>uc-CiNKana<e>2
+ (read <s>uc</s>-<s>CiNGana</s>).
+<LEND>
+
+<L>323630<pc>1322,1<k1>upajIka<k2>upa-jIka<e>2
+ <etc/> (read, <s>upajIkA</s>, <lex type="nhw">f.</lex> a kind of ant, <ls>AV.</ls>).
+<LEND>
+
+<L>324410<pc>1322,2<k1>upAsakadaSa<k2>upA<srs/>saka-daSa<e>2
+ (read, <quote>-<s>daSA</s>, <lex>f.</lex> <ab>pl.</ab></quote>).
+<LEND>
+
+<L>324670<pc>1322,3<k1>ulmukamaTyA<k2>ulmukamaTyA<e>2
+ (read -<s>maTy/a</s>)
+<LEND>
+
+<L>325300<pc>1323,1<k1>ekAmra<k2>ekA<srs/>mra<e>2
+ (in <ab>comp.</ab>)
+<LEND>
+
+<L>325550<pc>1323,2<k1>evaM<k2>evaM<e>2
+ (in <ab>comp.</ab> for <s>evam</s>)
+<LEND>
+
+<L>326100<pc>1323,3<k1>kakAtika<k2>kak/Atika<e>2
+ (<ls>AV.</ls>).
+<LEND>
+
+<L>329560<pc>1325,3<k1>kzmAvfza<k2>kzmA-vfza<e>2
+ (read -<s>vfzan</s>).
+<LEND>
+
+<L>331110<pc>1327,1<k1>cAmuRqasrAja<k2>cAmuRqasrAja<e>2
+ <lex>m.</lex> <ab>N.</ab> of several kings, <ls>Inscr.</ls>
+<LEND>
+
+<L>333620.2<pc>1328,3<k1>dAruputtrikA<k2>dAru--puttrikA<e>3
+ (read -<s>putrikA</s>).
+<LEND>
+
+<L>333620.3<pc>1328,3<k1>dAruputtrI<k2>dAru--puttrI<e>3
+ (read  -<s>putrI</s>).
+<LEND>
+
+<L>335030<pc>1329,3<k1>nimf<k2>ni<root/>mf<e>2
+ (read, <quote><root/><s>mF</s></quote>).
+<LEND>
+
+<L>335120.1<pc>1329,3<k1>nizwakvarI<k2>niz--w/akvarI<e>3
+ (rather <quote>roaming, vagrant</quote>)
+<LEND>
+
+<L>336350<pc>1330,2<k1>pnA<k2>pnA<e>2
+ (read <s>ptA</s>).
+<LEND>
+
+<L>337100<pc>1331,1<k1>protaGaRa<k2>pro<srs/>ta-GaRa<e>2
+ (read -<s>Gana</s>).
+<LEND>
+
+<L>337220<pc>1331,1<k1>bambaviSvayas<k2>bamba-viSvay/as<e>2
+ (<ls>MaitrS.</ls>).
+<LEND>
+
+<L>337270.8<pc>1331,1<k1>bahusuvarI<k2>bahu--suvarI<e>3
+ (read -<s>s/UvarI</s>)
+<LEND>
+
+<L>339140<pc>1332,1<k1>varIya<k2>varIya<e>2
+ (read, <s>vArIya</s>, <ab>p.</ab> 943 col 3)
+<LEND>
+

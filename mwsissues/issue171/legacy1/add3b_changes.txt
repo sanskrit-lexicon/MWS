@@ -1,0 +1,797 @@
+Corrections to add3a.txt, applied in add3b.txt
+Also, some other additions to facilitate matching suppl. with mw.txt
+---
+; added for main alternate to akzetrajYa
+<L>300681<pc>1308,3<k1>akzetravid<k2>/a-kzetra-vid<e>2
+; suppl. addition
+ (<ls>S3Br.</ls>).
+<LEND>
+
+---
+duplicate of 301330,aNgArakayantra
+<L>301330.1<pc>1309,2<k1>BOmayantra<k2>aNgAraka-yantra<e>2
+;; duplicate of 301330,aNgArakayantra
+ (or <s>BOma</s>-<s>y</s><sr1/>), <lex>n.</lex> a kind of auspicious diagram, <ls>Inscr.</ls>
+---
+duplicate of 301590, acCera
+-----
+OLD: <L>303181<pc>1310,2<k1>advEtavadin<k2>a-dvEta--vadin<e>3
+NEW: <L>303181<pc>1310,2<k1>advEtavAdin<k2>a-dvEta--vAdin<e>3
+---
+OLD: <L>303181.1<pc>1310,2<k1>advEtavadin<k2>a-dvEta--vadin<e>3A
+NEW: <L>303181.1<pc>1310,2<k1>advEtavAdin<k2>a-dvEta--vAdin<e>3A
+---
+old: <L>304540<pc>1311,1<k1>anatidfSrina<k2>/an-atidfSrina<e>2
+new: <L>304540<pc>1311,1<k1>anatidfSna<k2>/an-atidfSna<e>2
+---
+old: <L>307880.1<pc>1312,2<k1>anUtTAtTAna<k2>anU<srs/>tTA--<sr/>tTAna<e>3
+new: <L>307880.1<pc>1312,2<k1>anUtTAna<k2>anU<srs/><sr/>tTAna<e>3
+---
+old: <L>307880.1<pc>1312,2<k1>anUtTAna<k2>anU<srs/><sr/>tTAna<e>3
+new: <L>307880.1<pc>1312,2<k1>anUtTAna<k2>anU<srs/><sr/>tTAna<e>3
+---
+old: <L>307950<pc>1312,2<k1>anUpAu<k2>anUpA<srs/>u<e>2
+new: <L>307950<pc>1312,2<k1>anUpAlu<k2>anUpA<srs/>lu<e>2
+---
+add antena, antAya, and antAt. In suppl. these are under anta
+old: <L>308230<pc>1312,3<k1>anta<k2>anta<e>2
+ (add, <s>antena</s>, <quote>finally</quote>, <ls>Ma1nGr2.</ls>
+new: <L>308230<pc>1312,3<k1>antena<k2>anta<e>2
+;; under anta in suppl.
+ (add, <s>antena</s>, <quote>finally</quote>, <ls>Ma1nGr2.</ls>
+--
+old: <L>308230.1<pc>1312,3<k1>anta<k2>anta<e>2A
+ <s>antAya</s>-<root/><s>kf</s>, <quote>to fight obstinately</quote>, <ls>MBh.</ls>
+new: <L>308230.1<pc>1312,3<k1>antAya<k2>antAya<e>2
+;; under anta in suppl.
+ <s>antAya</s>-<root/><s>kf</s>, <quote>to fight obstinately</quote>, <ls>MBh.</ls>
+
+--
+old: <L>308230.2<pc>1312,3<k1>anta<k2>anta<e>2A
+ <s>antAd</s> <s>antam</s> <s>parikramya</s>, <quote>walking to and fro</quote>, <ab>ib.</ab>)
+new: <L>308230.2<pc>1312,3<k1>antAt<k2>anta<e>2A
+;; under anta in suppl.
+ <s>antAd</s> <s>antam</s> <s>parikramya</s>, <quote>walking to and fro</quote>, <ab>ib.</ab>)
+
+---
+old: <L>308250.2<pc>1312,3<k1>antakAMana<k2>anta--<sr/>kA<srs/>Mana<e>3
+new: <L>308250.2<pc>1312,3<k1>antakAnana<k2>anta--<sr/>kA<srs/>nana<e>3
+---
+old: <L>308431.41<pc>1313,2<k1>anyahaka<k2>anya--haka<e>3
+new: <L>308431.41<pc>1313,2<k1>anyalohaka<k2>anya--lohaka<e>3
+---
+old: <L>308450.6<pc>1313,2<k1>anyataHmuKa<k2>anyataH--muKa<e>3
+new: <L>308450.6<pc>1313,2<k1>anyatomuKa<k2>anyato--muKa<e>3
+---
+old: <L>310540.1<pc>1314,2<k1>apahrit<k2>apa-<root/>--<sr/>hrit<e>3
+new: <L>310540.1<pc>1314,2<k1>apahft<k2>apa-<root/>--<sr/>hft<e>3
+---
+delete entry:
+<L>310840<pc>1314,3<k1>apuvAyate<k2>apuvAyate<e>2
+ <OR/> see <s>apvA</s> (<ab>p.</ab> 59, <ab>col.</ab> 3).
+<LEND>
+
+AND add "<sr/><s>yate</s>, " to preceding
+<L>310830<pc>1314,3<k1>apuvAya<k2>apuvAya<e>2
+ <sr/><s>yate</s>, see <s>apvA</s> (<ab>p.</ab> 59, <ab>col.</ab> 3).
+<LEND>
+---
+old: <L>308990.1<pc>1313,3<k1>apaNka<k2>a-paNka<e>3
+new: <L>308990.1<pc>1313,3<k1>apaNkatA<k2>a-paNka-tA<e>3
+---
+old: <L>309120.1<pc>1313,3<k1>apatanaDarmin<k2>a-patana-Darmin<e>3
+new: <L>309120.1<pc>1313,3<k1>apatanaDarmitva<k2>a-patana-Darmi-tva<e>3
+---
+old: <L>310970<pc>1314,3<k1>apotsrij<k2>apo<srs/>t-<root/>srij<e>2
+new: <L>310970<pc>1314,3<k1>apotsfj<k2>apo<srs/>t-<root/>sfj<e>2
+---
+old: <L>312710.1<pc>1315,2<k1>aByavahAravahfta<k2>aBy-avahAr--<sr/>avahfta<e>3
+new: <L>312710.1<pc>1315,2<k1>aByavahfta<k2>aBy-<sr/>avahfta<e>3
+---
+old: <L>311990.3<pc>1315,1<k1>aBinnnARqa<k2>a-Bin--<sr/>nnA<srs/>Rqa<e>3
+new: <L>311990.3<pc>1315,1<k1>aBinnARqa<k2>a-Bi--<sr/>nnA<srs/>Rqa<e>3
+---
+old: <L>312230.2<pc>1315,2<k1>aBirUpaBUyizwa<k2>aBirUpa--BUyizwa<e>3
+new: <L>312230.2<pc>1315,2<k1>aBirUpaBUyizWa<k2>aBirUpa--BUyizWa<e>3
+---
+old: <L>312710.1<pc>1315,2<k1>aByavahAravahfta<k2>aBy-avahAr--<sr/>avahfta<e>3
+new: <L>312710.1<pc>1315,2<k1>aByavahfta<k2>aBy-<sr/>avahfta<e>3
+---
+old: <L>313690<pc>1316,1<k1>arAda<k2>arAda<e>2
+new: <L>313690<pc>1316,1<k1>arAqa<k2>arAqa<e>2
+---
+old: <L>314080<pc>1316,3<k1>arvAkarotas<k2>arvAk-arotas<e>2
+new: <L>314080<pc>1316,3<k1>arvAksrotas<k2>arvAk-srotas<e>2
+---
+supplement print change
+old: <L>314880.1<pc>1317,1<k1>avarakaNka<k2>avara--kaNka<e>3
+new: <L>314880.1<pc>1317,1<k1>avarakaNkA<k2>avara--kaNkA<e>3
+---
+extra entry
+<L>316422.41<pc>1318,1<k1>aSvamaRiMda<k2>aSva--maRiMda<e>3
+;; - duplicate of 316422.4, aSvaballava
+ and -<s>maRiMda</s>, <lex>m.</lex> a groom, <ls>Pa1n2. vi, 2, 66, </ls><ls>Ka1s3.</ls>
+<LEND>
+---
+extra entry
+<L>316422.51<pc>1318,1<k1>aSvamacarcikA<k2>aSva--macarcikA<e>3
+; duplicate of 316422.50 aSvamatallikA
+ and -<s>macarcikA</s>, <lex>f.</lex> (= -<s>kuYjara</s>), <ab>ib.</ab> ii, 1, 66, <ls>Ka1s3.</ls>
+<LEND>
+
+---
+old: <L>316441.1<pc>1318,1<k1>aSvattTodyApana<k2>aSvat--<sr/>tTo<srs/>dyApana<e>3
+new: <L>316441.1<pc>1318,1<k1>aSvatTodyApana<k2>aSva--<sr/>tTo<srs/>dyApana<e>3
+---
+old: <L>316460.1<pc>1318,1<k1>azwakarMapariBrazwa<k2>azwa--karMa-pariBrazwa<e>3
+new: <L>316460.1<pc>1318,1<k1>azwakarmapariBrazwa<k2>azwa--karma-pariBrazwa<e>3
+---
+suppl. print change:  mw.txt uses saMBava
+old: <L>316890<pc>1318,2<k1>asamBava<k2>a-samBava<e>2
+new: <L>316890<pc>1318,2<k1>asaMBava<k2>a-saMBava<e>2
+---
+old: <L>317690<pc>1318,3<k1>Akarnaka<k2>A-karnaka<e>2
+new: <L>317690<pc>1318,3<k1>AkarRaka<k2>A-karRaka<e>2
+---
+suppl. print change
+old: <L>319480<pc>1319,3<k1>AmardakatirTanATa<k2>Amardaka-tirTa-nATa<e>2
+new: <L>319480<pc>1319,3<k1>AmardakatIrTanATa<k2>Amardaka-tIrTa-nATa<e>2
+---
+suppl. add entry Amuri as alternate of Amur
+<L>319560.1<pc>1319,3<k1>Amuri<k2>A-muri<e>2
+;; added by Jim dup. Amur
+ <etc/> (read <s>mF</s> for <s>mf</s>).
+<LEND>
+---
+old: <L>319700.1<pc>1320,1<k1>AyAsadayin<k2>A-yAs/a--dayin<e>3
+new: <L>319700.1<pc>1320,1<k1>AyAsadAyin<k2>A-yAs/a--dAyin<e>3
+---
+old: <L>319720<pc>1320,1<k1>AyudbapiSAcikA<k2>Ayudba-piSAcikA<e>2
+new: <L>319720<pc>1320,1<k1>AyuDapiSAcikA<k2>AyuDa-piSAcikA<e>2
+---
+old: L>319730<pc>1320,1<k1>AyudbapiSAcI<k2>Ayudba-piSAcI<e>2
+new: <L>319730<pc>1320,1<k1>AyuDapiSAcI<k2>AyuDa-piSAcI<e>2
+---
+old: <L>319890<pc>1320,1<k1>AruRyopanIzad<k2>AruRyo<srs/>panIzad<e>2
+new: <L>319890<pc>1320,1<k1>AruRIyopanizad<k2>AruRIyo<srs/>panizad<e>2
+---
+; extra entry from suppl. 319960,Arkzya
+<L>319960.1<pc>1320,1<k1>ArkzyAyaRI<k2>ArkzyAyaRI<e>2
+; extra added to suppl. for matching
+ (<ls>SV.</ls>).
+<LEND>
+
+---
+old: <L>320340.1<pc>1320,2<k1>AvidvevidAna<k2>A-vid--v/evidAna<e>3
+new: <L>320340.1<pc>1320,2<k1>AvevidAna<k2>A-v/evidAna<e>3
+---
+old: <L>320960.1<pc>1320,3<k1>AsvAdanIyadya<k2>A-svAdanIya--dya<e>3
+new: <L>320960.1<pc>1320,3<k1>AsvAdya<k2>A-svA--dya<e>3
+---
+old: <L>321120.4<pc>1320,3<k1>ikzuSalaka<k2>ikzu--Salaka<e>3
+new: <L>321120.4<pc>1320,3<k1>ikzuSalAkA<k2>ikzu--SalAkA<e>3
+---
+old: <L>321130<pc>1320,3<k1>ikzvAkacandramas<k2>ikzvAka-candramas<e>2
+new: <L>321130<pc>1320,3<k1>ikzvAkucandramas<k2>ikzvAku-candramas<e>2
+---
+old: <L>321150.2<pc>1320,3<k1>iNgitaIakzya<k2>iNgita--Iakzya<e>3
+new: <L>321150.2<pc>1320,3<k1>iNgitalakzya<k2>iNgita--lakzya<e>3
+---
+; add alternates of iqAdaQa to suppl.
+<L>321220.11<pc>1320,3<k1>iLAdaQa<k2>iLA--daQa<e>3
+; suppl. addition
+ (read -<s>daDa</s>)
+<LEND>
+
+<L>321220.12<pc>1320,3<k1>ilAdaQa<k2>ilA--daQa<e>3
+; suppl. addition
+ (read -<s>daDa</s>)
+<LEND>
+
+---
+old: <L>321220.5<pc>1320,3<k1>iqepahavana<k2>i--<sr/>qe<srs/>pahavana<e>3
+new: <L>321220.5<pc>1320,3<k1>iqopahavana<k2>i--<sr/>qo<srs/>pahavana<e>3
+---
+old: <L>321401.5<pc>1321,1<k1>indrAvasekta<k2>in--<sr/>dr/Avasekta<e>3
+new: <L>321401.5<pc>1321,1<k1>indrAvasikta<k2>in--<sr/>dr/Avasikta<e>3
+---
+old: <L>321420.4<pc>1321,1<k1>indriyavikAatA<k2>indriya--vikAatA<e>3
+new: <L>321420.4<pc>1321,1<k1>indriyavikalatA<k2>indriya--vikalatA<e>3
+---
+old: <L>321420.9<pc>1321,1<k1>indriyalozyA<k2>indri--<sr/>yalozyA<e>3
+new: <L>321420.9<pc>1321,1<k1>indriyEzyA<k2>indri--<sr/>yEzyA<e>3
+---
+suppl. print change
+old: <L>321500.5<pc>1321,1<k1>izwATititva<k2>iz--<sr/>wA<srs/>Tititva<e>3
+new: <L>321500.5<pc>1321,1<k1>izwAtiTitva<k2>iz--<sr/>wA<srs/>tiTitva<e>3
+---
+suppl. print change
+old: <L>321730.2<pc>1321,1<k1>IzatsadriSa<k2>Izat--sadriSa<e>3
+new: <L>321730.2<pc>1321,1<k1>IzatsadfSa<k2>Izat--sadfSa<e>3
+---
+old: <L>321760.2<pc>1321,1<k1>uktamASra<k2>ukt/a--mASra<e>3
+new: <L>321760.2<pc>1321,1<k1>uktamAtra<k2>ukt/a--mAtra<e>3
+---
+old: <L>321900<pc>1321,2<k1>uccilinga<k2>uccilinga<e>2
+new: <L>321900<pc>1321,2<k1>ucciliNga<k2>ucciliNga<e>2
+---
+old: <L>322290.1<pc>1321,2<k1>utkzepaIipi<k2>ut-kzepa--Iipi<e>3
+new: <L>322290.1<pc>1321,2<k1>utkzepalipi<k2>ut-kzepa--lipi<e>3
+---
+old: <L>322391<pc>1321,3<k1>uttarArQapUrvArDa<k2>utta--<sr/>rA<srs/>rQ/a-pUrvA<srs/>rDa<e>3
+new: <L>322391<pc>1321,3<k1>uttarArDapUrvArDa<k2>utta--<sr/>rA<srs/>rD/a-pUrvA<srs/>rDa<e>3
+---
+old: <L>322560.1<pc>1321,3<k1>utpaladft<k2>utpala--dft<e>3
+new: <L>322560.1<pc>1321,3<k1>utpaladfS<k2>utpala--dfS<e>3
+---
+old: <L>322670.1<pc>1321,3<k1>utprekzepa<k2>ut-pre<srs/>--<sr/>kzepa<e>3
+new: <L>322670.1<pc>1321,3<k1>utprekzAkzepa<k2>ut-prekzA<srs/>--kzepa<e>3
+---
+old: <L>322970<pc>1321,3<k1>udIclpaTa<k2>udIcl-paTa<e>2
+new: <L>322970<pc>1321,3<k1>udIcIpaTa<k2>udIcI-paTa<e>2
+---
+old: <L>323060<pc>1322,1<k1>udGrizwa<k2>ud-Grizwa<e>2
+new: <L>323060<pc>1322,1<k1>udGfzwa<k2>ud-Grfzwa<e>2
+---
+old: <L>323360<pc>1322,1<k1>unnateeCa<k2>un-nate<srs/>eCa<e>2
+new: <L>323360<pc>1322,1<k1>unnatecCa<k2>un-nate<srs/>cCa<e>2
+---
+old: <L>323450<pc>1322,1<k1>unmeGin<k2>un-meGin<e>2
+new: <L>323450<pc>1322,1<k1>unmezin<k2>un-mezin<e>2
+---
+old: <L>323810<pc>1322,1<k1>upaninlzu<k2>upa-ninlzu<e>2
+new: <L>323810<pc>1322,1<k1>upaninIzu<k2>upa-ninIzu<e>2
+---
+old: <L>323870<pc>1322,2<k1>upancya<k2>upa-ncya<e>2
+new: <L>323870<pc>1322,2<k1>upancya<k2>upa-ncya<e>2
+---
+old: <L>324900<pc>1322,3<k1>Urikf<k2>Uri-<root/>kf<e>2
+new: <L>324900<pc>1322,3<k1>UrIkf<k2>UrI-<root/>kf<e>2
+---
+old: <L>325070.1<pc>1322,3<k1>fjugAtrata<k2>fju--gAtrata<e>3
+new: <L>325070.1<pc>1322,3<k1>fjugAtratA<k2>fju--gAtratA<e>3
+---
+old: <L>325120.2<pc>1323,1<k1>ftuketuIakzaRa<k2>ftu--ketuIakzaRa<e>3
+new: <L>325120.2<pc>1323,1<k1>ftuketulakzaRa<k2>ftu--ketulakzaRa<e>3
+---
+old: <L>325120.8<pc>1323,1<k1>ftusamA<k2>ftu--samA<e>3
+new: <L>325120.8<pc>1323,1<k1>ftusamAveSana<k2>ftu-samA-veSana<e>3
+---
+old: <L>325180.5<pc>1323,1<k1>fzaBaIkAdaSa<k2>fza--<sr/>BaI<srs/>kAdaSa<e>3
+new: <L>325180.5<pc>1323,1<k1>fzaBEkAdaSa<k2>fza--<sr/>BE<srs/>kAdaSa<e>3
+---
+old: <L>325180.6<pc>1323,1<k1>fzaBaIkADika<k2>fza--<sr/>BaI<srs/>kA<srs/>Dika<e>3
+new: <L>325180.6<pc>1323,1<k1>fzaBEkADika<k2>fza--<sr/>BE<srs/>kA<srs/>Dika<e>3
+---
+old: <L>325213<pc>1323,1<k1>ekavfkIhIya<k2>eka--vfkIhIya<e>3
+new: <L>325213<pc>1323,1<k1>ekavfkzIya<k2>eka--vfkzIya<e>3
+
+---
+old: <L>325213.7<pc>1323,1<k1>ekasaptatignRa<k2>eka--saptati-gnRa<e>3
+new: <L>325213.7<pc>1323,1<k1>ekasaptatiguRa<k2>eka--saptati-guRa<e>3
+---
+old: <L>325360<pc>1323,1<k1>ekIBAvastottra<k2>ekI-BAva-stottra<e>2
+new: <L>325360<pc>1323,1<k1>ekIBAvastotra<k2>ekI-BAva-stotra<e>2
+---
+old: <L>325580<pc>1323,2<k1>evAsba<k2>/evAsba<e>2
+new: <L>325580<pc>1323,2<k1>evAza<k2>/evAza<e>2
+---
+old: <L>325590<pc>1323,2<k1>ezaIzya<k2>ezaI<srs/>zy/a<e>2
+new: <L>325590<pc>1323,2<k1>ezEzya<k2>ezE<srs/>zya\<e>2
+---
+; insert missing suppl. entry
+old: <L>325780<pc>1323,2<k1>otsUryam<k2>o<srs/>tsUry/am<e>2
+ (add <quote>i.e. <s>A</s> + <s>utsUryam</s></quote>). <s>o</s><srs/><s>datI</s> (others, <quote>lustful, wanton</quote>).
+<LEND>
+new: <L>325780<pc>1323,2<k1>otsUryam<k2>o<srs/>tsUry/am<e>2
+ (add <quote>i.e. <s>A</s> + <s>utsUryam</s></quote>).
+<LEND>
+
+<L>325781<pc>1323,2<k1>odatI<k2>o/datI<e>2
+ (others, <quote>lustful, wanton</quote>).
+<LEND>
+---
+old: <L>325840.3<pc>1323,2<k1>ozaDihomna<k2>ozaDi--homna<e>3
+new: <L>325840.3<pc>1323,2<k1>ozaDihoma<k2>ozaDi--homa<e>3
+---
+old: <L>325890<pc>1323,2<k1>Odareiza<k2>Odareiza<e>2
+new: <L>325890<pc>1323,2<k1>Odarciza<k2>Odarciza<e>2
+---
+old: <L>325920<pc>1323,2<k1>OduaabarAyaRa<k2>OduaabarAyaRa<e>2
+new: <L>325920<pc>1323,2<k1>OdumbarAyaRa<k2>OdumbarAyaRa<e>2
+---
+old: <L>326060<pc>1323,2<k1>OzwIna<k2>OzwIna<e>2
+new: <L>326060<pc>1323,2<k1>OzWIna<k2>OzWIna<e>2
+---
+suppl. print change
+old: <L>326100<pc>1323,3<k1>kakAtika<k2>kak/Atika<e>2
+new: 
+---
+old: <L>326500.1<pc>1323,3<k1>kanakaSfngaviaya<k2>kanaka--Sfngaviaya<e>3
+new: <L>326500.1<pc>1323,3<k1>kanakaSfNgamaya<k2>kanaka--SfNgamaya<e>3
+---
+old: <L>326500.3<pc>1323,3<k1>kanakAAbja<k2>kana--<sr/>kA<srs/>A<srs/>bja<e>3
+new: <L>326500.3<pc>1323,3<k1>kanakAbja<k2>kana--<sr/>kA<srs/>bja<e>3
+---
+old: <L>326670<pc>1324,1<k1>kamaRqalu<k2>kamaRqalu<e>2
+new: <L>326670<pc>1324,1<k1>kamaRqalucaryA<k2>kamaRqalu-caryA<e>2
+---
+old: L>326740.1<pc>1324,1<k1>karagrihIti<k2>kara--grihIti<e>3
+new: <L>326740.1<pc>1324,1<k1>karagfhIti<k2>kara--gfhIti<e>3
+---
+old: <L>326840<pc>1324,1<k1>karkaSiDurohita<k2>kark/aSiDu-rohita<e>2
+new: <L>326840<pc>1324,1<k1>karkanDurohita<k2>kar-ka/nDu-rohita<e>2
+---
+old: <L>326900<pc>1324,1<k1>kartanaBAnqa<k2>kartana-BAnqa<e>2
+new: <L>326900<pc>1324,1<k1>kartanaBARqa<k2>kartana-BARqa<e>2
+---
+old: <L>326961.8<pc>1324,1<k1>karmAvaddna<k2>kar--<sr/>mA<srs/>vaddna<e>3
+new: <L>326961.8<pc>1324,1<k1>karmAvadAna<k2>kar--<sr/>mA<srs/>vadAna<e>3
+---
+old: <L>326970<pc>1324,1<k1>karmsRyakft<k2>karmsRya-kft<e>2
+new: <L>326970<pc>1324,1<k1>karmaRyakft<k2>karmaRya-kft<e>2
+---
+old: <L>326980<pc>1324,1<k1>karaanIya<k2>kar/aanIya<e>2
+new: <L>326980<pc>1324,1<k1>karSanIya<k2>karSanIya<e>2
+---
+old: <L>327070<pc>1324,1<k1>kalaviNasvara<k2>kalaviNa-svara<e>2
+new: <L>327070<pc>1324,1<k1>kalaviNkasvara<k2>kalaviNka-svara<e>2
+---
+old: <L>327180<pc>1324,2<k1>kalyaoitta<k2>kalyaoitta<e>2
+new: <L>327180<pc>1324,2<k1>kalyacitta<k2>kalya-citta<e>2
+---
+old: <L>327320<pc>1324,2<k1>kAMsikA<k2>kAMsikA<e>2
+ (also) a kind of measure, <ls>Gobh.</ls>, <ab>Sch.</ab>
+new: <L>327320<pc>1324,2<k1>kAMsa<k2>kAMsa<e>2
+ (also) a kind of measure, <ls>Gobh.</ls>, <ab>Sch.</ab>
+---
+old: <L>327720<pc>1324,3<k1>kArtaviryacampU<k2>kArtavirya-campU<e>2
+new: <L>327720<pc>1324,3<k1>kArtavIryacampU<k2>kArtavIrya-campU<e>2
+---
+old: <L>327780<pc>1324,3<k1>kAla<k2>kAla<e>2
+ 2 (add, <s>kAlena</s> <s>kAlam</s>, <quote>from time to time</quote>, <ls>Divya7v. ; </ls><s>kAla</s>-<s>kAlezu</s>, <quote>at every time, always</quote>, <ls>R.</ls>) in <ab>comp.</ab>
+<LEND>
+
+new: <L>327780<pc>1324,3<k1>kAlena<k2>kAlena<e>2
+; under kAla in suppl.
+ (add, <s>kAlena</s> <s>kAlam</s>, <quote>from time to time</quote>, <ls>Divya7v. ; </ls>
+<LEND>
+
+<L>327780.1<pc>1324,3<k1>kAlakAlezu<k2>kAla-kAlezu<e>2
+; under kAla in suppl.
+ (add, <s>kAla</s>-<s>kAlezu</s>, <quote>at every time, always</quote>, <ls>R.</ls>) in <ab>comp.</ab>
+<LEND>
+---
+old: <L>327781<pc>1324,3<k1>kAlaBsda<k2>kAla--Bsda<e>3
+new: <L>327781<pc>1324,3<k1>kAlaBeda<k2>kAla--Beda<e>3
+---
+kASyapIbAlAkyAmAWarIputra  mw
+kASyapIbAlAkyamAWarIputra  suppl.
+suppl. print change
+old: <L>327870<pc>1324,3<k1>kASyapIbAlAkyamAWarIputra<k2>kASyapI-bAlAkya-mAWarI-p/utra<e>2
+new: <L>327870<pc>1324,3<k1>kASyapIbAlAkyAmAWarIputra<k2>kASyapI-bAlAkyA-mAWarI-p/utra<e>2
+---
+old: <L>328200<pc>1325,1<k1>kudrIcl<k2>kudrIcl<e>2
+new: <L>328200<pc>1325,1<k1>kudrIcI<k2>kudrIcI<e>2
+---
+old: <L>328260<pc>1325,1<k1>kuBany<k2>kuBan/y<e>2
+new: <L>328260<pc>1325,1<k1>kuBanyu<k2>kuBanyu/<e>2
+---
+old: <L>328270.2<pc>1325,1<k1>kumArapitrimeza<k2>kumAra--pitri-meza<e>3
+new: <L>328270.2<pc>1325,1<k1>kumArapitfmeza<k2>kumAra--pitf-meza<e>3
+---
+old: <L>328340.2<pc>1325,1<k1>kurupitangiIa<k2>kuru--pitangiI/a<e>3
+new: <L>328340.2<pc>1325,1<k1>kurupiSaNgila<k2>kuru--piSaNgila<e>3
+---
+old: <L>328361.2<pc>1325,1<k1>kulaSsKaradeva<k2>kula--SsKara-deva<e>3
+new: <L>328361.2<pc>1325,1<k1>kulaSeKaradeva<k2>kula--SeKara-deva<e>3
+---
+old: <L>328361.6<pc>1325,1<k1>kullAditya<k2>kul--<sr/>lA<srs/>ditya<e>3
+new: <L>328361.6<pc>1325,1<k1>kulAditya<k2>ku--<sr/>lA<srs/>ditya<e>3
+---
+old: <L>328540.3<pc>1325,1<k1>kftapdada<k2>kfta--pdada<e>3
+new: <L>328540.3<pc>1325,1<k1>kftapada<k2>kfta--pada<e>3
+---
+old: <L>328690<pc>1325,2<k1>kekotkaRwba<k2>keko<srs/>tkaRwba<e>2
+new: <L>328690<pc>1325,2<k1>kekotkaRWa<k2>keko<srs/>tkaRWa<e>2
+---
+old: <L>328740.4<pc>1325,2<k1>keSaprstigraha<k2>keSa--prstigraha<e>3
+new: <L>328740.4<pc>1325,2<k1>keSapratigraha<k2>keSa--pratigraha<e>3
+---
+old: <L>328740.6<pc>1325,2<k1>keSaShakaraRa<k2>keSa--Sha-karaRa<e>3
+new: <L>328740.6<pc>1325,2<k1>keSaSezakaraRa<k2>keSa--Seza-karaRa<e>3
+---
+old: L>328740.7<pc>1325,2<k1>keSaSmaSruIomanaKa<k2>keSa--SmaSru-Ioma-naKa<e>3
+new: <L>328740.7<pc>1325,2<k1>keSaSmaSrulomanaKa<k2>keSa--SmaSru-loma-naKa<e>3
+---
+old: <L>329380<pc>1325,3<k1>kziRa<k2>kziRa<e>2
+new: <L>329380<pc>1325,3<k1>kzIRa<k2>kzIRa<e>2
+---
+old: <L>329380.1<pc>1325,3<k1>kziRakalmaza<k2>kziRa--kalmaza<e>3
+new: <L>329380.1<pc>1325,3<k1>kzIRakalmaza<k2>kzIRa--kalmaza<e>3
+---
+old: <L>329380.2<pc>1325,3<k1>kziRAsrava<k2>kzi--<sr/>RA<srs/>srava<e>3
+new: <L>329380.2<pc>1325,3<k1>kzIRAsrava<k2>kzI--<sr/>RA<srs/>srava<e>3
+---
+old: <L>329830.2<pc>1326,1<k1>KuramAln<k2>Kura--mAln<e>3
+new: <L>329830.2<pc>1326,1<k1>KuramAlin<k2>Kura--mAlin<e>3
+---
+suppl. print change
+old: <L>329860.3<pc>1326,1<k1>gaganAngaRa<k2>gaga--<sr/>nA<srs/>ngaRa<e>3
+new: <L>329860.3<pc>1326,1<k1>gaganANgaRa<k2>gaga--<sr/>nA<srs/>NgaRa<e>3
+---
+old: <L>330130<pc>1326,2<k1>garhitAiiuASana<k2>garhitA<srs/>iiuA<srs/>Sana<e>2
+new: <L>330130<pc>1326,2<k1>garhitAnnASana<k2>garhitA<srs/>nnA<srs/>Sana<e>2
+---
+old: <L>330170<pc>1326,2<k1>gElapUraRa<k2>gEla-pUraRa<e>2
+new: <L>330170<pc>1326,2<k1>gallapUraRa<k2>galla-pUraRa<e>2
+---
+old: <L>330220<pc>1326,2<k1>gahsnazWa<k2>gahsna-zW/a<e>2
+new: <L>330220<pc>1326,2<k1>gahanezWa<k2>gahane-zW/a<e>2
+---
+old: <L>330240<pc>1326,2<k1>gAYgeyadeva<k2>gAYgeya-deva<e>2
+new: <L>330240<pc>1326,2<k1>gANgeyadeva<k2>gANgeya-deva<e>2
+---
+old: <L>330240<pc>1326,2<k1>gAYgeyadeva<k2>gAYgeya-deva<e>2
+new: <L>330240<pc>1326,2<k1>gANgeyadeva<k2>gANgeya-deva<e>2
+---
+old: <L>330270.4<pc>1326,2<k1>gAtrasaMkaoin<k2>gAtra--saMkaoin<e>3
+new: <L>330270.4<pc>1326,2<k1>gAtrasaMkocin<k2>gAtra--saMkocin<e>3
+---
+old: <L>330280<pc>1326,2<k1>gAnDArivlARija<k2>gAnDAri-vlARija<e>2
+new: <L>330280<pc>1326,2<k1>gAnDArivARija<k2>gAnDAri-vARija<e>2
+---
+old: <L>330330.2<pc>1326,2<k1>girirajaGoza<k2>giri--rajaGoza<e>3
+new: <L>330330.2<pc>1326,2<k1>girirAjaGoza<k2>giri--rAjaGoza<e>3
+---
+old: <L>330330.21<pc>1326,2<k1>girirajaGozesvara<k2>giri--rAjaGo---<sr/>ze<srs/>svara<e>4
+new: <L>330330.21<pc>1326,2<k1>girirAjaGozeSvara<k2>giri--rajaGo---<sr/>ze<srs/>Svara<e>4
+---
+old: <L>330370<pc>1326,2<k1>gucCagUma<k2>gucCagUma<e>2
+new: <L>330370<pc>1326,2<k1>gucCagulma<k2>gucCagulma<e>2
+---
+old: <L>330550.8<pc>1326,3<k1>gopAsala<k2>go--pA<srs/>sala<e>3
+new: <L>330550.8<pc>1326,3<k1>gopAcala<k2>go--pA<srs/>cala<e>3
+---
+old: <L>330551.4<pc>1326,3<k1>gobijakAYcana<k2>go--bija-kAYcana<e>3
+new: <L>330551.4<pc>1326,3<k1>gobIjakAYcana<k2>go--bIja-kAYcana<e>3
+---
+old: <L>330580<pc>1326,3<k1>gOtamIaya<k2>gOtamIaya<e>2
+new: <L>330580<pc>1326,3<k1>gOtamIya<k2>gOtamIya<e>2
+---
+old: <L>330640.2<pc>1326,3<k1>grAsACAdana<k2>grA--<sr/>sA<srs/>-CAdana<e>3
+new: <L>330640.2<pc>1326,3<k1>grAsAcCAdana<k2>grA--<sr/>sA<srs/>-cCAdana<e>3
+---
+old: <L>330700.1<pc>1326,3<k1>GanadundBisvana<k2>Gana--dundBi-svana<e>3
+new: <L>330700.1<pc>1326,3<k1>GanadunduBisvana<k2>Gana--dunduBi-svana<e>3
+---
+old: <L>330750.1<pc>1326,3<k1>Gftaprikta<k2>Gfta--prikta<e>3
+new: <L>330750.1<pc>1326,3<k1>Gftapfkta<k2>Gfta--pfkta<e>3
+---
+old: <L>330770<pc>1326,3<k1>GoskavadAdi<k2>Goskavad-Adi<e>2
+new: <L>330770<pc>1326,3<k1>GozavadAdi<k2>Gozavad-Adi<e>2
+---
+old: <L>330910<pc>1327,1<k1>catuscatvAriMSadakzara<k2>catus-catvAriMSad-akzara<e>2
+new: <L>330910<pc>1327,1<k1>catuScatvAriMSadakzara<k2>catuS-catvAriMSad-akzara<e>2
+---
+old: <L>330950.3<pc>1327,1<k1>candanaBanu<k2>candana--Banu<e>3
+new: <L>330950.3<pc>1327,1<k1>candanaBAnu<k2>candana--BAnu<e>3
+---
+old: <L>330960.4<pc>1327,1<k1>candraSakaIa<k2>candra--SakaIa<e>3
+new: <L>330960.4<pc>1327,1<k1>candraSakala<k2>candra--Sakala<e>3
+---
+old: <L>330960.6<pc>1327,1<k1>candrArkamaraana<k2>can--<sr/>drA<srs/>rka-mar/aana<e>3
+new: <L>330960.6<pc>1327,1<k1>candrArkamardana<k2>can--<sr/>drA<srs/>rka-mar/adana<e>3
+---
+old: <L>331110<pc>1327,1<k1>cArORqsrAja<k2>cArORqsrAja<e>2
+new: <L>331110<pc>1327,1<k1>cAmuRqarAja<k2>cAmuRqarAja<e>2
+---
+old: <L>331130.4<pc>1327,1<k1>cAruSfRgin<k2>cAru--SfRgin<e>3
+new: <L>331130.4<pc>1327,1<k1>cAruSfNgin<k2>cAru--SfNgin<e>3
+---
+old: <L>331220.2<pc>1327,1<k1>cittaDArAbudDisaMku<k2>citta--DArA-budDi-saMku<e>3
+new: <L>331220.2<pc>1327,1<k1>cittaDArAbudDisaMkusumitAByudgata<k2>citta--DArA-budDi-saMku-sumitA<srs/>Byudgata<e>3
+---
+old: <L>331220.5<pc>1327,1<k1>citttADipatya<k2>cit--<sr/>ttA<srs/>Dipatya<e>3
+new: <L>331220.5<pc>1327,1<k1>cittADipatya<k2>ci<sr/>ttA<srs/>Dipatya<e>3
+---
+old: <L>331340.2<pc>1327,2<k1>cEtrasaMkrAti<k2>cEtra--saMkrAti<e>3
+new: <L>331340.2<pc>1327,2<k1>cEtrasaMkrAnti<k2>cEtra--saMkrAnti<e>3
+---
+old: <L>331370<pc>1327,2<k1>cOdrayaRa<k2>cOdrayaRa<e>2
+new: <L>331370<pc>1327,2<k1>cOdrAyaRa<k2>cOdrAyaRa<e>2
+---
+old: <L>331380<pc>1327,2<k1>cOrkilbiza<k2>cOr-kilbiza<e>2
+new: <L>331380<pc>1327,2<k1>cOrakilbiza<k2>cOr-kilbiza<e>2
+---
+old: <L>331400<pc>1327,2<k1>CandahpratizWAna<k2>C/andah-pratizWAna<e>2
+new: <L>331400<pc>1327,2<k1>CandaHpratizWAna<k2>C/andaH-pratizWAna<e>2
+---
+old: <L>331420<pc>1327,2<k1>CAgamARsa<k2>CAga-mARsa<e>2
+new: <L>331420<pc>1327,2<k1>CAgamAMsa<k2>CAga-mAMsa<e>2
+---
+old: <L>331450.4<pc>1327,2<k1>CinnnAbra<k2>Cin--<sr/>nnA<srs/>bra<e>3
+new: <L>331450.4<pc>1327,2<k1>CinnAbra<k2>Ci<sr/>nnA<srs/>bra<e>3
+---
+old: <L>331510.3<pc>1327,2<k1>jagadDitotrman<k2>jagad--Dito<srs/>trman<e>3
+new: <L>331510.3<pc>1327,2<k1>jagadDitAtman<k2>jagad--DitA<srs/>tman<e>3
+---
+old: <L>331550.1<pc>1327,2<k1>jawAJaAta<k2>jawA--JaAta<e>3
+new: <L>331550.1<pc>1327,2<k1>jawAJAwa<k2>jawA--JAwa<e>3
+---
+old: <L>331680<pc>1327,2<k1>jambudvIpoSvara<k2>jambu-dvIpo<srs/>Svara<e>2
+new: <L>331680<pc>1327,2<k1>jambUdvIpeSvara<k2>jambU-dvIpe<srs/>Svara<e>2
+---
+old: <L>331730<pc>1327,2<k1>jEAyuDa<k2>jEA<srs/>yuDa<e>2
+new: <L>331730<pc>1327,2<k1>jarAyuDa<k2>jarA<srs/>yuDa<e>2
+---
+old: <L>331840<pc>1327,3<k1>jAiamAyana<k2>jAi/amAyana<e>2
+new: <L>331840<pc>1327,3<k1>jANmAyana<k2>jANmAyana<e>2
+---
+old: <L>331850.7<pc>1327,3<k1>jatAnukampa<k2>ja--<sr/>tA<srs/>nukampa<e>3
+new: <L>331850.7<pc>1327,3<k1>jAtAnukampa<k2>jA--<sr/>tA<srs/>nukampa<e>3
+---
+old: <L>331920.3<pc>1327,3<k1>jAlAbadDANgulipARipAdatalstA<k2>jA--<sr/>lA<srs/>badDA<srs/>Nguli-pARi-pAda-talstA<e>3
+new: <L>331920.3<pc>1327,3<k1>jAlAbadDANgulipARipAdatalatA<k2>jA--<sr/>lA<srs/>badDA<srs/>Nguli-pARi-pAda-talatA<e>3
+---
+old: <L>331970<pc>1327,3<k1>jivadviBAga<k2>jivad-viBAga<e>2
+new: <L>331970<pc>1327,3<k1>jIvadviBAga<k2>jIvad-viBAga<e>2
+---
+old: <L>332140<pc>1327,3<k1>jvalanADpati<k2>jvalanA<srs/>Dpati<e>2
+new: <L>332140<pc>1327,3<k1>jvalanADipati<k2>jvalanA<srs/>Dipati<e>2
+---
+old: <L>332210<pc>1328,1<k1>JiRkA<k2>JiRkA<e>2
+new: <L>332210<pc>1328,1<k1>JiRikA<k2>JiRikA<e>2
+---
+old: <L>332240<pc>1328,1<k1>WA<k2>WA<e>2
+new: <L>332240<pc>1328,1<k1>wIkA<k2>wIkA<e>2
+---
+old: <L>332240.1<pc>1328,1<k1>WAsamuccaya<k2>WA--samuccaya<e>3
+new: <L>332240.1<pc>1328,1<k1>wIkAsamuccaya<k2>wIkA--samuccaya<e>3
+---
+old: <L>332240.2<pc>1328,1<k1>WAsarvasva<k2>WA--sarvasva<e>3
+new: <L>332240.2<pc>1328,1<k1>wIkAsarvasva<k2>wIkA--sarvasva<e>3
+---
+old: <L>332280<pc>1328,1<k1>WunWupadDati<k2>WunWu-padDati<e>2
+new: <L>332280<pc>1328,1<k1>WuRWupadDati<k2>WuRWu-padDati<e>2
+---
+old: <L>332370<pc>1328,1<k1>quRDI<k2>quRDI<e>2
+new: <L>332370<pc>1328,1<k1>quRQi<k2>quRQi<e>2
+---
+old: <L>332390<pc>1328,1<k1>QlI<k2>QlI<e>2
+new: <L>332390<pc>1328,1<k1>QilI<k2>QilI<e>2
+---
+old: <L>332410.2<pc>1328,1<k1>takaraka<k2>t/akaraka<e>2
+new: <L>332410.2<pc>1328,1<k1>tagaraka<k2>t/gkaraka<e>2
+---
+old: <L>332460.3<pc>1328,1<k1>tatkzaRikaa<k2>tat--kzaRikaa<e>3
+new: <L>332460.3<pc>1328,1<k1>tatkzaRikA<k2>tat--kzaRikA<e>3
+---
+old: <L>332530<pc>1328,1<k1>tapah<k2>tapah<e>2
+new: <L>332530<pc>1328,1<k1>tapaH<k2>tapaH<e>2
+---
+old: <L>332530.1<pc>1328,1<k1>tapahpraDAna<k2>tapah--praDAna<e>3
+new: <L>332530.1<pc>1328,1<k1>tapaHpraDAna<k2>tapaH--praDAna<e>3
+---
+old: <L>332530.2<pc>1328,1<k1>tapahsahAya<k2>tapah--sahAya<e>3
+new: <L>332530.2<pc>1328,1<k1>tapaHsahAya<k2>tapaH--sahAya<e>3
+---
+old: <L>332550.1<pc>1328,1<k1>tamaHprcCAdaka<k2>tamaH--prcCAdaka<e>3
+new: <L>332550.1<pc>1328,1<k1>tamaHpracCAdaka<k2>tamaH--pracCAdaka<e>3
+---
+old: <L>332680.1<pc>1328,1<k1>tAmrajiva<k2>tAmra--jiva<e>3
+new: <L>332680.1<pc>1328,1<k1>tAmrajIva<k2>tAmra--jIva<e>3
+---
+old: <L>332690.1<pc>1328,1<k1>tArAcandtodaya<k2>tArA--candto<srs/>daya<e>3
+new: <L>332690.1<pc>1328,1<k1>tArAcandrodaya<k2>tArA--candro<srs/>daya<e>3
+---
+old: <L>333000<pc>1328,2<k1>tuzwtUzita<k2>tuzwtUzita<e>2
+new: <L>333000<pc>1328,2<k1>tuzwUzita<k2>tuzwUzita<e>2
+---
+old: <L>333020<pc>1328,2<k1>tulasadfSasukumArapARitA<k2>tula-sadfSa-sukumAra-pARitA<e>2
+new: <L>333020<pc>1328,2<k1>tUlasadfSasukumArapARitA<k2>tUla-sadfSa-sukumAra-pARitA<e>2
+---
+old: <L>333040.2<pc>1328,2<k1>tfzRAsaNsga<k2>tfzRA--saNsga<e>3
+new: <L>333040.2<pc>1328,2<k1>tfzRAsaNga<k2>tfzRA--saNga<e>3
+---
+old: <L>333050.2<pc>1328,2<k1>tejovasdagDyaSIlovat<k2>tejo--vasdagDya-SIlovat<e>3
+new: <L>333050.2<pc>1328,2<k1>tejovEdagDyaSIlavat<k2>tejo--vEdagDya-SIlavat<e>3
+---
+old: <L>333130.4<pc>1328,2<k1>tripuravNrhna<k2>tri--pura-vNrhna<e>3
+new: <L>333130.4<pc>1328,2<k1>tripuraviGna<k2>tri--pura-viGna<e>3
+---
+old: <L>333130.9<pc>1328,2<k1>triSulapawwitaDara<k2>tri--Sula-pawwita-Dara<e>3
+new: <L>333130.9<pc>1328,2<k1>triSUlapawwiSaDara<k2>tri--SUla-pawwiSa-Dara<e>3
+---
+old: <L>333200.4<pc>1328,2<k1>dakziRApraYc<k2>dakziRA--pr/aYc<e>3
+new: <L>333200.4<pc>1328,2<k1>dakziRAprAYc<k2>dakziRA--prA<srs/>Yc<e>3
+---
+old: <L>333270<pc>1328,3<k1>dadItTa<k2>dadItTa<e>2
+new: <L>333270<pc>1328,3<k1>daditTa<k2>daditTa<e>2
+---
+old: <L>333340<pc>1328,3<k1>damayantIpariRya<k2>damayantI-pariRya<e>2
+new: <L>333340<pc>1328,3<k1>damayantIpariRaya<k2>damayantI-pariRaya<e>2
+---
+old: <L>333470<pc>1328,3<k1>duhwavya<k2>duhwavya<e>2
+new: <L>333470<pc>1328,3<k1>dazwavya<k2>dazwavya<e>2
+---
+old: <L>333480.1<pc>1328,3<k1>dahanahalpa<k2>dahana--halpa<e>3
+new: <L>333480.1<pc>1328,3<k1>dahanakalpa<k2>dahana--kalpa<e>3
+---
+old: <L>333590<pc>1328,3<k1>dAnApna<k2>dAnA<srs/>pna<e>2
+new: <L>333590<pc>1328,3<k1>dAnApnas<k2>dAnA<srs/>pnas<e>2
+---
+old: <L>333610<pc>1328,3<k1>dAragapti<k2>dAra-gapti<e>2
+new: <L>333610<pc>1328,3<k1>dAragupti<k2>dAra-gupti<e>2
+---
+old: <L>333630<pc>1328,3<k1>dArqbajayanti<k2>dArqbajayanti<e>2
+new: <L>333630<pc>1328,3<k1>dArQajayanti<k2>dArQajayanti<e>2
+---
+old: <L>333950<pc>1329,1<k1>dfztAdfzwa<k2>dfztA<srs/>dfzwa<e>2
+new: <L>333950<pc>1329,1<k1>dfzwAdfzwa<k2>dfzwA<srs/>dfzwa<e>2
+---
+; Add extra suppl. entry for nilay, based on suppl. for nilI
+<L>335062<pc>1329,3<k1>nilay<k2>nilay<e>2
+; cf. suppl. nilI
+(erase here perf. <s>ni</s>-<s>layAM</s> <s>cakre</s> and put it under <s>nilay</s> = <s>nir</s>-<root/><s>i</s>)
+<LEND>
+---
+; change suppl. headword for match
+old: <L>335650<pc>1330,1<k1>parinirmita<k2>pari-nir-mita<e>2
+new: <L>335650<pc>1330,1<k1>parinirmitavaSavartin<k2>pari-nir-mita-vaSa-vartin<e>2
+---
+suppl. print change
+old: <L>336510<pc>1330,3<k1>praRetri<k2>pra-Retri<e>2
+new: <L>336510<pc>1330,3<k1>praRetf<k2>pra-Retf<e>2
+---
+old: <L>337170<pc>1331,1<k1>batwa<k2>batwa<e>2
+new: <L>337170<pc>1331,1<k1>bawwa<k2>bawwa<e>2
+---
+; add new suppl. entry for alternate of main
+<L>337221<pc>1331,1<k1>bambAviSvavayas<k2>bambA-viSvavay/as<e>2
+; added record
+ (<ls>MaitrS.</ls>).
+<LEND>
+
+---
+old: <L>337240.3<pc>1331,1<k1>balihrit<k2>bali--hrit<e>3
+new: <L>337240.3<pc>1331,1<k1>balihft<k2>bali--hft<e>3
+---
+old: <L>337260.1<pc>1331,1<k1>bahiHprayAna<k2>bahiH--prayAna<e>3
+new: <L>337260.1<pc>1331,1<k1>bahiHprayARa<k2>bahiH--prayARa<e>3
+---
+old: <L>337260.4<pc>1331,1<k1>bahiHvESravaRa<k2>bahiH--vESravaRa<e>3
+new: <L>337260.4<pc>1331,1<k1>bahirvESravaRa<k2>bahir--vESravaRa<e>3
+---
+old: <L>337270.9<pc>1331,1<k1>bahupamA<k2>ba--<sr/>h/upamA<e>3
+new: <L>337270.9<pc>1331,1<k1>bahUpamA<k2>ba--<sr/>hU<srs/>pamA<e>3
+---
+old: <L>337300.2<pc>1331,1<k1>bAzpahatekskaRa<k2>bAzpa--hate<srs/>kskaRa<e>3
+new: <L>337300.2<pc>1331,1<k1>bAzpahatekzaRa<k2>bAzpa--hate<srs/>kzaRa<e>3
+---
+old: <L>337310<pc>1331,1<k1>bAteya<k2>bAteya<e>2
+new: <L>337310<pc>1331,1<k1>bAsteya<k2>bAsteya<e>2
+---
+old: <L>337560<pc>1331,1<k1>BAravoDf<k2>BAra-voDf<e>2
+new: <L>337560<pc>1331,1<k1>BAravoQf<k2>BAra-voQf<e>2
+---
+old: <L>337670.1<pc>1331,2<k1>BUstriRa<k2>BU--s-triRa<e>3
+new: <L>337670.1<pc>1331,2<k1>BUstfRa<k2>BU--s-tfRa<e>3
+---
+old: <L>337770<pc>1331,2<k1>magaDAYira<k2>magaDA<srs/>Yira<e>2
+new: <L>337770<pc>1331,2<k1>magaDAjira<k2>magaDA<srs/>jira<e>2
+---
+; new entry for matching
+<L>337890.1<pc>1331,2<k1>maDyamapada<k2>maDyama--pada<e>3
+; suppl. extra
+ <etc/> (read <quote>member</quote> for <quote>number</quote>)
+<LEND>
+---
+; new entry for matching
+<L>337890.2<pc>1331,2<k1>maDyamapadalopa<k2>maDyama--pada--lopa<e>3
+; suppl. extra
+ <etc/> (read <quote>member</quote> for <quote>number</quote>)
+<LEND>
+
+---
+old: <L>338070<pc>1331,2<k1>mAtrApaeAra<k2>mAtrA<srs/>paeAra<e>2
+new: <L>338070<pc>1331,2<k1>mAtrApacAra<k2>mAtrA<srs/>pacAra<e>2
+---
+old: <L>338510.2<pc>1331,3<k1>yAvadgrahanaM<k2>yAvad--grahanaM<e>3
+new: <L>338510.2<pc>1331,3<k1>yAvadgrahaRam<k2>yAvad--grahaRam<e>3
+---
+old: <L>338510.3<pc>1331,3<k1>yAvadgrahanaM<k2>yAvad--grahanaM<e>3A
+new: <L>338510.3<pc>1331,3<k1>yAvadgrahaRam<k2>yAvad--grahaRam<e>3A
+---
+old: <L>338610.4<pc>1331,3<k1>ratnamanjarI<k2>ratna--manjarI<e>3
+new: <L>338610.4<pc>1331,3<k1>ratnamaYjarI<k2>ratna--maYjarI<e>3
+---
+old: <L>338660.2<pc>1331,3</pc><pc>Page1332,1<k1>ravivarDana<k2>ravi--varDana-<e>3
+new: <L>338660.2<pc>1331,3</pc><pc>1332,1<k1>ravivarDanagaRi<k2>ravi--varDana-gaRi<e>3
+---
+suppl. print change
+old: <L>338910<pc>1332,1<k1>lANgaleza<k2>lANgale<srs/>za<e>2
+new: <L>338910<pc>1332,1<k1>lANgalezA<k2>lANgale<srs/>zA<e>2
+---
+old: <L>338930<pc>1332,1<k1>lAsakayavan<k2>lAsakayavan<e>2
+new: <L>338930<pc>1332,1<k1>lAsakayuvan<k2>lAsakayuvan<e>2
+---
+old: <L>339050<pc>1332,1<k1>vaDUyA<k2>vaDUyA<srs/><e>2
+new: <L>339050<pc>1332,1<k1>vaDUyu<k2>vaDUyu/<e>2
+---
+old: <L>339120<pc>1332,1<k1>vayah<k2>vayah<e>2
+new: <L>339120<pc>1332,1<k1>vayaH<k2>vayaH<e>2
+---
+old: <L>339120.1<pc>1332,1<k1>vayahprakarza<k2>vayah--prakarza<e>3
+new: <L>339120.1<pc>1332,1<k1>vayaHprakarza<k2>vayaH--prakarza<e>3
+---
+old: <L>339120.2<pc>1332,1<k1>vayahsuKa<k2>vayah--suKa<e>3
+new: <L>339120.2<pc>1332,1<k1>vayaHsuKa<k2>vayaH--suKa<e>3
+---
+old: <L>339140<pc>1332,1<k1>varIlya<k2>varIlya<e>2
+new: <L>339140<pc>1332,1<k1>varIya<k2>varIya<e>2
+---
+old: <L>339420<pc>1332,2<k1>virajahpraBa<k2>vi-rajah-praBa<e>2
+new: <L>339420<pc>1332,2<k1>virajaHpraBa<k2>vi-rajaH-praBa<e>2
+---
+old: <L>339490<pc>1332,2<k1>vizwimin<k2>vi-zwimin<e>2
+new: <L>339490<pc>1332,2<k1>vizwImin<k2>vi-zwImin<e>2
+---
+old: <L>339520.1<pc>1332,2<k1>virapeSas<k2>vira--peSas<e>3
+new: <L>339520.1<pc>1332,2<k1>vIrapeSas<k2>vIra--peSas<e>3
+---
+old: <L>339520.2<pc>1332,2<k1>viraravivarman<k2>vira--ravi-varman<e>3
+new: <L>339520.2<pc>1332,2<k1>vIraravivarman<k2>vIra--ravi-varman<e>3
+---
+; add for matching
+<L>339520.3<pc>1332,2<k1>vIrarAjavarman<k2>vIra--rAja-varman<e>3
+; suppl. extra
+ and -<s>rAja</s>-<s>varman</s>, <lex>m.</lex> <ab>N.</ab> of various kings, <ls>Inscr.</ls>
+<LEND>
+
+---
+old: L>339520.4<pc>1332,2<k1>viralIla<k2>vira--lIla<e>3
+new: <L>339520.4<pc>1332,2<k1>vIralIla<k2>vIra--lIla<e>3
+---
+old: <L>339520.5<pc>1332,2<k1>virasena<k2>vira--sena<e>3
+new: <L>339520.5<pc>1332,2<k1>vIrasena<k2>vIra--sena<e>3
+---
+old: <L>339710<pc>1332,2<k1>vyavahalrya<k2>vy-avahalrya<e>2
+new: <L>339710<pc>1332,2<k1>vyavahArya<k2>vy-avahArya<e>2
+---
+; rewrite as two entries
+old:
+<L>339780.3<pc>1332,2<k1>vratopeta<k2>vra--<sr/>to<srs/>pe<srs/>ta<e>3
+ <lex>mfn.</lex> one who has undertaken a religious vow, <ab>ib.</ab> <s>vr/A</s> (<ab>accord.</ab> to some also, <quote>a woman, <ab>esp.</ab> a wanton or lustful w<sr1/>oman</quote> ).
+<LEND>
+
+new:
+<L>339780.3<pc>1332,2<k1>vratopeta<k2>vra--<sr/>to<srs/>pe<srs/>ta<e>3
+ <lex>mfn.</lex> one who has undertaken a religious vow, <ab>ib.</ab> 
+<LEND>
+
+<L>339780.4<pc>1332,2<k1>vrA<k2>vrA/<e>2
+ (<ab>accord.</ab> to some also, <quote>a woman, <ab>esp.</ab> a wanton or lustful w<sr1/>oman</quote> ).
+<LEND>
+
+---
+old: <L>339840<pc>1332,2<k1>SacIpuraRdara<k2>SacI-puraRdara<e>2
+new: <L>339840<pc>1332,2<k1>SacIpuraMdara<k2>SacI-puraMdara<e>2
+---
+old: <L>340320<pc>1332,3<k1>samvartavAta<k2>sam-vartavAta<e>2
+new: <L>340320<pc>1332,3<k1>saMvartavAta<k2>saM-vartavAta<e>2
+---
+old: <L>340430<pc>1332,3<k1>saemi<k2>s/aemi<e>2
+new: <L>340430<pc>1332,3<k1>sanemi<k2>sa/nemi<e>2
+---
+old: <L>340560<pc>1332,3<k1>sarpirmisra<k2>sarpir-misra<e>2
+new: <L>340560<pc>1332,3<k1>sarpirmiSra<k2>sarpir-miSra<e>2
+---
+old: <L>340570.1<pc>1332,3</pc><pc>Page1333,1<k1>sarvarakuSatamUlapAramitA<k2>s/arvara--kuSata-mUla-pAramitA<e>3
+new: <L>340570.1<pc>1332,3<k1>sarvakuSalamUlapAramitA<k2>s/arva--kuSala-mUla-pAramitA<e>3
+---
+old: <L>340570<pc>1332,3<k1>sarvara<k2>s/arvara<e>2
+new: <L>340570<pc>1332,3<k1>sarva<k2>s/arva<e>2
+---
+old: <L>340570.2<pc>1333,1<k1>sarvarapUruza<k2>s/arvara--pUruza<e>3
+new: <L>340570.2<pc>1333,1<k1>sarvapUruza<k2>s/arva--pUruza<e>3

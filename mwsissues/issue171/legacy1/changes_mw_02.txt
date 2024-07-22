@@ -1,0 +1,250 @@
+changes made to temp_mw_01.txt
+applied in temp_mw_02.txt
+
+old: <L>7974.2<pc>1312,3<k1>antakAmana<k2>anta—kAmana<e>3
+new: <L>7974.2<pc>1312,3<k1>antakAnana<k2>anta—kAnana<e>3
+---
+old: <L>65217.1<pc>1326,2<k1>girirajaGoza<k2>giri—raja-Goza<e>3
+new: <L>65217.1<pc>1326,2<k1>girirAjaGoza<k2>giri—rAja-Goza<e>3
+---
+old: <L>65217.2<pc>1326,2<k1>girirajaGozeSvara<k2>giri—rajaGo—zeSvara<e>4
+new: <L>65217.2<pc>1326,2<k1>girirAjaGozeSvara<k2>giri—rAjaGo—zeSvara<e>4
+---
+old: <L>71459.1<pc>1327,1<k1>catuzcatvAriMSadakzara<k2>catuz-catvAriMSad-akzara<e>3
+new: <L>71459.1<pc>1327,1<k1>catuScatvAriMSadakzara<k2>catuS-catvAriMSad-akzara<e>3
+---
+old: <L>20455.1<pc>1318,2<k1>asaktam<k2>a-saktam<e>1C
+new: <L>20452.1<pc>1318,2<k1>asakta<k2>a-sakta<e>1A
+---
+old: <L>28698<pc>164,3<k1>iqAdaQa<k2>iqA—daQa<e>3
+new: <L>28698<pc>164,3<k1>iqAdaDa<k2>iqA—daDa<e>3
+---
+old: <L>28698.1<pc>164,3<k1>iLAdaQa<k2>iLA—daQa<e>3
+new: <L>28698.1<pc>164,3<k1>iLAdaDa<k2>iLA—daDa<e>3
+---
+old: <L>28698.2<pc>164,3<k1>ilAdaQa<k2>ilA—daQa<e>3
+new: <L>28698.2<pc>164,3<k1>ilAdaDa<k2>ilA—daDa<e>3
+---
+erase accent per suppl.
+old: <L>31362<pc>179,1<k1>uttarIya<k2>uttarI/ya<e>2
+new: <L>31362<pc>179,1<k1>uttarIya<k2>uttarIya<e>2
+old: <L>31363<pc>179,1<k1>uttarIya<k2>uttarI/ya<e>2A
+new: <L>31363<pc>179,1<k1>uttarIya<k2>uttarIya<e>2A
+and remove n="rev"
+old: <s>uttarIya—tA</s> ¦ <lex>f.</lex> the state of being an upper garment, <ls>Gobh. i, 2, 21.</ls> <info n="rev" pc="1321,3"/><info lex="f"/>
+new: <s>uttarIya—tA</s> ¦ <lex>f.</lex> the state of being an upper garment, <ls>Gobh. i, 2, 21.</ls><info lex="f"/>
+---
+old: <L>31530.1<pc>1321,3<k1>utTApanI<k2>ut-TApanI<e>2B
+¦ (in <ab>dram.</ab>) defiance, <ab>ib.</ab><info n="sup"/><info lex="inh"/>
+new: <L>31530.1<pc>1321,3<k1>utTApana<k2>ut-TApana<e>2B
+<s>ut-TApana</s> ¦ <lex>n.</lex> (in <ab>dram.</ab>) defiance, <ab>ib.</ab><info n="sup"/><info lex="n"/>
+---
+; remove gopAsala entry.  it appears as
+;  <L>67903.1<pc>1326,3<k1>gopAcala<k2>gopAcala<e>3A
+; deleted:
+<L>67284.2<pc>1326,3<k1>gopAsala<k2>go—pAsala<e>3
+<s>go—pA<srs/>sala</s> ¦ <lex>m.</lex> <ab>N.</ab> of Gwalior, <ls>Inscr.</ls><info n="sup"/><info lex="m"/>
+<LEND>
+---------------------------------------
+
+---
+<L>20289<pc>116,3<k1>azwApruz<k2>azwA—pruz<e>3
+  add <info n="rev" pc="1316,3"/>
+---
+<L>20400<pc>117,3<k1>asaMvlaya<k2>a-saMvlaya<e>1
+  add <info n="rev" pc="1318,2"/>
+---
+<L>21733<pc>124,3<k1>aharpati<k2>ahar—pa/ti/<e>3
+  add <info n="rev" pc="1318,3"/>
+---
+<L>23969<pc>137,2<k1>AdinavadarSa<k2>Adinava—darSa<e>3
+  add <info n="rev" pc="1319,2"/>
+---
+<L>24427<pc>140,1<k1>AnandAtman<k2>AnandAtman<e>3
+  add <info n="rev" pc="1319,3"/>
+---
+<L>24682<pc>141,3<k1>Antya<k2>Antya<e>2
+  add <info n="rev" pc="1319,3"/>
+---
+<L>25998<pc>149,2<k1>Arti<k2>A/rti<h>1<e>2
+  add <info n="rev" pc="1320,1"/>
+---
+<L>26643<pc>153,1<k1>Arzeyavat<k2>Arzeya—vat<e>3
+  add <info n="rev" pc="1320,1"/>
+---
+<L>29574<pc>169,2<k1>izwadevatA<k2>izwa—devatA<e>3
+  add <info n="rev" pc="1321,1"/>
+---
+<L>29722<pc>170,2<k1>Iq<k2>Iq<h>2<e>2
+  add <info n="rev" pc="1321,1"/>
+---
+<L>92267<pc>478,3<k1>divasa<k2>divasa<e>2
+  add <info n="rev" pc="1328,3"/>
+---
+<L>128741<pc>647,2<k1>pfSnibAhu<k2>pf/Sni—bAhu<e>3
+  add <info n="rev" pc="1330,2"/>
+---
+<L>43904.1<pc>1324,1<k1>kamaRqalucaryA<k2>kamaRqalu-caryA<e>3
+old:
+<s>kamaRqalu-caryA</s> ¦ (in <ab>comp.</ab>) <s>-caryA</s>, <lex>f.</lex> the practice of carrying a water-jar, <ls>Baudh.</ls><info n="sup"/><info lex="f"/>
+new:
+<s>kamaRqalu-caryA</s> ¦ <lex>f.</lex> the practice of carrying a water-jar, <ls>Baudh.</ls><info n="sup"/><info lex="f"/>
+---
+<L>26334<pc>151,2<k1>Aroha<k2>A-roha/<e>2A
+; remove <info n="rev" pc="1320,1"/>
+
+---
+ Delete 59377.1.  It is contained in 59377
+old:
+<L>59377.1<pc>1325,3<k1>kzaya<k2>kzaya/<e>2A
+¦ the accent is on the last syllable in the sense ‘destruction’, <ab>accord.</ab> to <ls>Pāṇ. iii, 3, 56</ls> and <ls n="Pāṇ.">vi, 1, 63.</ls><info n="sup"/>
+<LEND>
+new:
+
+---
+;delete 42905.1  suppl. info duplicative of 42900 and 42901
+old:
+<L>42905.1<pc>1323,3<k1>kadrU<k2>kadrU/<e>1
+<s>kadrU/</s> ¦ (see <s>kadru</s>) <lex>f.</lex> (<ls>RV.</ls>) <info n="rev" pc="1323,3"/><info lex="f"/>
+<LEND>
+new:
+---
+; delete 37060.2 (duplicated in 37106.1)
+; Also, in 37106.1, remove hom-a
+old1 : in cpds of uBaya
+<L>37060.2<pc>1322,2<k1>uBayataHpraRava<k2>uBaya—taH—praRava<h>a<e>3
+<s>uBaya—°taH—praRava</s> <hom>a</hom> ¦ <lex>mfn.</lex> having the syllable <s1 slp1="om">Om</s1> at the beginning and end, <ls>Baudh.</ls><info n="sup"/><info lex="m:f:n"/>
+<LEND>
+new1:
+----
+old2 : a cpd of uBayataH
+<L>37106.1<pc>1322,2<k1>uBayataHpraRava<k2>uBayataH—praRava<h>b<e>3
+<s>uBaya°taH—praRava</s> <hom>b</hom> ¦ <lex>mfn.</lex> having the syllable <s1 slp1="om">Om</s1> at the beginning and end, <ls>Baudh.</ls><info n="sup"/><info lex="m:f:n"/>
+<LEND>
+
+new2:
+<L>37106.1<pc>1322,2<k1>uBayataHpraRava<k2>uBayataH—praRava<e>3
+<s>uBaya°taH—praRava</s> ¦ <lex>mfn.</lex> having the syllable <s1 slp1="om">Om</s1> at the beginning and end, <ls>Baudh.</ls><info n="sup"/><info lex="m:f:n"/>
+<LEND>
+
+---
+; two copies of anyatomuKa
+  add <info n="rev" pc="13"/>
+old1: among cpds of anyataH  delete this one
+<L>8643.1<pc>1313,2<k1>anyatomuKa<k2>anyato—muKa<h>a<e>3
+<s>anyato—muKa</s> <hom>a</hom> ¦ (<s>anya/to-</s>), <lex>mfn.</lex> hiving a face only on one side, <ls>ŚBr.</ls><info n="sup"/><info lex="m:f:n"/>
+<LEND>
+new1:
+
+old2: among cpds of anyato keep this one. Remove the <h>b
+<L>8645.2<pc>1313,2<k1>anyatomuKa<k2>anyato—muKa<h>b<e>3
+<s>anyato—muKa</s> <hom>b</hom> ¦ (<s>anya/to-</s>), <lex>mfn.</lex> hiving a face only on one side, <ls>ŚBr.</ls><info n="sup"/><info lex="m:f:n"/>
+<LEND>
+new2:
+<L>8645.2<pc>1313,2<k1>anyatomuKa<k2>anyato—muKa<e>3
+<s>anyato—muKa</s> ¦ (<s>anya/to-</s>), <lex>mfn.</lex> having a face only on one side, <ls>ŚBr.</ls><info n="sup"/><info lex="m:f:n"/>
+<LEND>
+
+---
+Versions of kzetrasiMha, KetasiMha, KemasiMha, kzemasiMha
+suppl. pages 1325,3 and 1326,1
+suppl.
+<L>329441.6<pc>1325,3<k1>kzetrasiMha<k2>kzetra--siMha<e>3
+ (or <s>Keta</s>-<s>s</s><sr1/>), <lex>m.</lex> <ab>N.</ab> of various kings, <ls>Inscr.</ls>
+
+<L>329460<pc>1325,3<k1>kzemasiMha<k2>kzema-siMha<e>2
+ (or <s>Kema</s>-<s>s</s><sr1/>), <lex>m.</lex> <ab>N.</ab> of a king, <ls>Inscr.</ls>
+
+<L>329850<pc>1326,1<k1>KetasiMha<k2>Keta-siMha<e>2
+ see <s>kzetra</s>-<s>s</s><sr1/> (above).
+<LEND>
+
+<L>329851<pc>1326,1<k1>KemasiMha<k2>Kema-siMha<e>2
+ see <s>kzema</s>-<s>s</s><sr1/> (above).
+<LEND>
+
+---------------------
+current mw.txt
+old:
+<L>60328.2<pc>1325,3<k1>kzetrasiMha<k2>kzetra—siMha<e>3
+<s>kzetra—siMha</s> (or <s>Keta-s°</s>), ¦ <lex>m.</lex> <ab>N.</ab> of various kings, <ls>Inscr.</ls><info n="sup"/><info lex="m"/><info or="60328.2,kzetrasiMha;60328.3,KetasiMha"/>
+<LEND>
+
+<L>60328.3<pc>1325,3<k1>KetasiMha<k2>Keta-siMha<e>3
+<s>kzetra—siMha</s> (or <s>Keta-s°</s>), ¦ <lex>m.</lex> <ab>N.</ab> of various kings, <ls>Inscr.</ls><info n="sup"/><info lex="m"/><info or="60328.2,kzetrasiMha;60328.3,KetasiMha"/>
+<LEND>
+
+<L>60434.1<pc>1325,3<k1>kzemasiMha<k2>kzema-siMha<e>3
+<s>kzema-siMha</s> (or <s>Kema-s°</s>), ¦ <lex>m.</lex> <ab>N.</ab> of a king, <ls>Inscr.</ls><info n="sup"/><info lex="m"/><info or="60434.1,kzemasiMha;60434.2,KemasiMha"/>
+<LEND>
+
+<L>60434.2<pc>1325,3<k1>KemasiMha<k2>Kema-siMha<e>3
+<s>kzema-siMha</s> (or <s>Kema-s°</s>), ¦ <lex>m.</lex> <ab>N.</ab> of a king, <ls>Inscr.</ls><info n="sup"/><info lex="m"/><info or="60434.1,kzemasiMha;60434.2,KemasiMha"/>
+<LEND>
+
+<L>62046.1<pc>1326,1<k1>KetasiMha<k2>Keta-siMha<e>2
+<s>Keta-siMha</s>, <s>Kema-siMha</s>, ¦ see <s>kzetra-s°</s>, <s>kzema-s°</s> (above).<info or="62046.1,KetasiMha;62051.1,KemasiMha"/><info n="sup"/>
+<LEND>
+
+<L>62051.1<pc>1326,1<k1>KemasiMha<k2>Kema-siMha<e>2
+<s>Keta-siMha</s>, <s>Kema-siMha</s>, ¦ see <s>kzetra-s°</s>, <s>kzema-s°</s> (above).<info or="62046.1,KetasiMha;62051.1,KemasiMha"/><info n="sup"/>
+<LEND>
+
+------------------
+new:
+;; revise the or: 60328.3 -> 62046.1 done
+<L>60328.2<pc>1325,3<k1>kzetrasiMha<k2>kzetra—siMha<e>3
+<s>kzetra—siMha</s> (or <s>Keta-s°</s>), ¦ <lex>m.</lex> <ab>N.</ab> of various kings, <ls>Inscr.</ls><info n="sup"/><info lex="m"/><info or="60328.2,kzetrasiMha;62046.1,KetasiMha"/>
+<LEND>
+
+;; remove this entry (duplicative) done
+<L>60328.3<pc>1325,3<k1>KetasiMha<k2>Keta-siMha<e>3
+<s>kzetra—siMha</s> (or <s>Keta-s°</s>), ¦ <lex>m.</lex> <ab>N.</ab> of various kings, <ls>Inscr.</ls><info n="sup"/><info lex="m"/><info or="60328.2,kzetrasiMha;60328.3,KetasiMha"/>
+<LEND>
+
+;; revise the or: 60434.2 -> 62051.1 done
+<L>60434.1<pc>1325,3<k1>kzemasiMha<k2>kzema-siMha<e>3
+<s>kzema-siMha</s> (or <s>Kema-s°</s>), ¦ <lex>m.</lex> <ab>N.</ab> of a king, <ls>Inscr.</ls><info n="sup"/><info lex="m"/><info or="60434.1,kzemasiMha;62051.1,KemasiMha"/>
+<LEND>
+
+;; remove this entry (duplicative) done
+<L>60434.2<pc>1325,3<k1>KemasiMha<k2>Kema-siMha<e>3
+<s>kzema-siMha</s> (or <s>Kema-s°</s>), ¦ <lex>m.</lex> <ab>N.</ab> of a king, <ls>Inscr.</ls><info n="sup"/><info lex="m"/><info or="60434.1,kzemasiMha;60434.2,KemasiMha"/>
+<LEND>
+
+;; revise
+<L>62046.1<pc>1326,1<k1>KetasiMha<k2>Keta-siMha<e>2 done
+<s>Keta-siMha</s> ¦ see <s>kzetra-s°</s>(above).<info n="sup"/><info or="60328.2,kzetrasiMha;62046.1,KetasiMha"/>
+<LEND>
+
+;; revise
+<L>62051.1<pc>1326,1<k1>KemasiMha<k2>Kema-siMha<e>2
+<s>Kema-siMha</s>, ¦ see <s>kzema-s°</s> (above).<info n="sup"/><info or="60434.1,kzemasiMha;62051.1,KemasiMha"/>
+<LEND>
+
+---------------------
+delete:  duplicate of <L>112211.2<pc>1329,3<k1>nepAlAbda<k2>nepAlAbda<e>3
+<L>112212.1<pc>1329,3<k1>nepAlAbda<k2>nepA—lAbda<e>3
+<s>nepA—°lA<srs/>bda</s> ¦ a year of the Newar era (which begins on the 20th October, <ab>A.D.</ab> 879).<info n="sup"/>
+<LEND>
+-----------
+delete: duplicate of <L>112211.3<pc>1329,3<k1>nEpAlikAbda<k2>nEpAlikAbda<e>3
+<L>112529.1<pc>1329,3<k1>nEpAlikAbda<k2>nEpAlikAbda<e>3
+<s>nEpAlikA<srs/>bda</s> ¦ a year of the Newar era (which begins on the 20th October, <ab>A.D.</ab> 879).<info n="sup"/>
+<LEND>
+----------
+typo correction:
+old:
+<L>97391<pc>500,1<k1>dyut<k2>dyut<h><e>1
+new:
+<L>97391<pc>500,1<k1>dyut<k2>dyut<h>2<e>1
+---------
+<L>65945<pc>359,1<k1>gupti<k2>gu/pti<e>2
+<s>gu/pti</s> ¦ <lex>f.</lex> preserving, protecting, protection, <ls>AV. vi, 122, 3</ls>; <ls n="AV.">xii, 3, 7</ls>; <ls>TS. v f.</ls>; <ls>TBr.</ls> &c.<info n="rev" pc="1326,2"/><info lex="f"/>
+; remove <info n="rev" pc="1326,2"/>
+---------
+;; the print has hom 3. The change to hom 4 is Cologne change.
+;; remove the '<info n="rev" pc="1329,1"/>'
+<L>97460<pc>500,2<k1>dyut<k2>dyut<h>4<e>1
+<hom>4.</hom> <s>dyut</s> ¦ <ab>Caus.</ab> <s>dyotayati</s>, to break, tear open, <ls>AV. iv, 23, 5</ls> (<ab>cf.</ab> <s>aBivi-</s>, <s>A-</s>). <info n="rev" pc="1329,1"/>
+

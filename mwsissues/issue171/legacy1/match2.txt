@@ -1,0 +1,64 @@
+<L>300050<pc>1308,1<k1>aMho<k2>aMho<e>2
+ (in <ab>comp.</ab> for <s>aMhas</s>)
+<LEND>
+
+<L>300250<pc>1308,1<k1>akutaS<k2>a-kutaS<e>2
+ (in <ab>comp.</ab> for <s>a</s>-<s>kutas</s>)
+<LEND>
+
+<L>302070<pc>1309,3<k1>atiTI<k2>atiTI<e>2
+ (in <ab>comp.</ab> for <s>atiTi</s>)
+<LEND>
+
+<L>303260<pc>1310,2<k1>aDastAn<k2>aDastAn<e>2
+ (in <ab>comp.</ab> for <sr1/><s>stAt</s>)
+<LEND>
+
+<L>304130<pc>1310,3<k1>aDo<k2>aDo<e>2
+ (in <ab>comp.</ab> for <s>aDas</s>)
+<LEND>
+
+<L>307170<pc>1312,1<k1>anuprahfta<k2>anu-prahfta<e>2
+ (in <ab>comp.</ab>)
+<LEND>
+
+<L>308440<pc>1313,2<k1>anyat<k2>anyat<e>2
+ (in <ab>comp.</ab>)
+<LEND>
+
+<L>308450<pc>1313,2<k1>anyataH<k2>anyataH<e>2
+ (in <ab>comp.</ab> for <s>anyatas</s>)
+<LEND>
+
+<L>316140<pc>1317,3<k1>avyupta<k2>/a-vyupta<e>2
+ (in <ab>comp.</ab>)
+<LEND>
+
+<L>316450<pc>1318,1<k1>aSvi<k2>aSvi<e>2
+ (in <ab>comp.</ab> for <s>aSvin</s>)
+<LEND>
+
+<L>320320<pc>1320,2<k1>AviH<k2>AviH<e>2
+ (in <ab>comp.</ab> for <s>Avis</s>)
+<LEND>
+
+<L>321230<pc>1320,3<k1>itaH<k2>itaH<e>2
+ (in <ab>comp.</ab> for <s>itas</s>)
+<LEND>
+
+<L>321300<pc>1320,3<k1>idaM<k2>idaM<e>2
+ (in <ab>comp.</ab> for 2. <s>id/am</s>)
+<LEND>
+
+<L>321610<pc>1321,1<k1>IM<k2>IM<e>2
+ (in <ab>comp.</ab> for <s>Im</s>)
+<LEND>
+
+<L>325300<pc>1323,1<k1>ekAmra<k2>ekA<srs/>mra<e>2
+ (in <ab>comp.</ab>)
+<LEND>
+
+<L>325550<pc>1323,2<k1>evaM<k2>evaM<e>2
+ (in <ab>comp.</ab> for <s>evam</s>)
+<LEND>
+
