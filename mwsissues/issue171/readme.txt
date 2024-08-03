@@ -256,7 +256,7 @@ mwkeys same as supkeys?: True
 
 6642 lines written to legacy1/match3_1.txt
 
-python legacy1/match3.py 2 temp_mw_02.txt legacy1/add3c.txt legacy1/match3_difflib.txt
+python legacy1/match3.py 2 temp_mw_02.txt legacy1/add3c.txt legacy1/match3_difflib_02.txt
 7487 lines
 
 python legacy1/match3.py 3 temp_mw_02.txt legacy1/add3c.txt legacy1/match3_3.txt
@@ -288,3 +288,97 @@ git push
 
 End of phase 2 work on issue171. 07-22-2024
 *********************************************************************
+
+Begin phase 3 work on issue171. 08-01-2024
+# some changes since 07-22-2024 made to csl-orig/mw, so
+# temp_mw_02.txt slightly out of date.
+Start with temp_mw_03.txt from csl-orig at commit
+  b219da352a738c8ab12fd3e0af6d00b69114b72f
+
+cd /c/xampp/htdocs/cologne/csl-orig/
+git show  b219da35:v02/mw/mw.txt > /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue171/temp_mw_03.txt
+
+----------------------------
+temp_mw_03a.txt: 
+Add temporary 'org-mode' markup to temp_mw_03.txt:
+  
+python legacy1/match3_org.py temp_mw_03.txt temp_mw_03a.txt
+
+manual edit temp_mw_03a.txt.
+ primarily use the '<OR/>' markup of add3c.txt to reposition groups
+   so that group entries are consecutive. Usually this is clear, but sometimes not clear
+   due to existing main entries with a group headword
+ Another source of reposition is with compounds of 'eka'
+
+cp legacy1/match3_3.txt legacy1/match3_3_edit.txt
+Some notes made in this file, but not systematic.
+
+cp temp_mw_03a.txt temp_mw_03b.txt
+Remove temporary markup ('*') in temp_mw_03b.txt
+'* TODO S <L>' -> <L>
+'* DONE S <L>' -> <L>
+'* TODO R <L>' -> <L>
+'* DONE R <L>' -> <L>
+'* <LEND>' -> <LEND>
+
+temp_mw_03b.txt has 7 fewer lines than temp_mw_03.txt
+--------------
+CHeck for errors.
+1. install temp_mw_03b.txt into csl-orig
+cp temp_mw_03b.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+# grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../
+sh xmlchk_xampp.sh mw
+cd /c/xampp/htdocs/sanskrit-lexicon/mws/mwsissues/issue171
+
+----------------
+# recreate the comparison of add3d.txt and the revsup entries of temp_mw_03b.txt
+python legacy1/match3.py 3 temp_mw_03b.txt legacy1/add3d.txt legacy1/match3_3b.txt
+
+I do not see how to make further use of match3_3b regarding revsup placement.
+----------------
+Summarize the metaline differences between temp_mw_0.txt to temp_mw_03b.txt
+
+python legacy1/match4.py 1 temp_mw_0.txt temp_mw_03b.txt legacy1/match4_1_0_03b.txt
+  These are the metalines (ignoring <k2>*$) differences whose position changes from
+  version 0 of mw to version 03b.
+  The lines starting with '+' (266 of them) indicate position changes from version 0 to version 03b.
+
+python legacy1/match3.py 2 temp_mw_03b.txt legacy1/add3d.txt legacy1/match3_difflib_03b.txt
+  792 lines start with '+' - These are k1 from version 3b that differ in order from
+    the supplement order (as determined from add3d.txt)
+    
+----------------
+The akzoDuka anomaly ...
+----------------
+
+
+*************************
+sync with github:
+---
+  csl-orig
+cd /c/xampp/htdocs/cologne/csl-orig/v02/
+git add mw/mw.txt
+git commit -m "MW: supplement placement.
+Ref: https://github.com/sanskrit-lexicon/MWS/issues/171"
+git push
+---
+  csl-pywork
+cd /c/xampp/htdocs/cologne/csl-pywork
+git add .  # mwab_input.txt
+git commit -m "mwab_input.txt correction"
+git push
+---
+  this MWS repo
+cd /c/xampp/htdocs/sanskrit-lexicon/mws/mwsissues/issue171
+git add .
+git commit -m "#171 - phase 3"
+git push
+---------------
+sync with Cologne
+  csl-orig
+  csl-pywork  # a random correction
+  remake mw displays
+
+  

@@ -1,5 +1,5 @@
 #-*- coding:utf-8 -*-
-""" match3.py
+""" match4.py
 """
 from __future__ import print_function
 import sys,re,codecs,os
@@ -150,12 +150,17 @@ def write_entries_both(fileout,mwsupentries,supentries):
  outarr = write_entries_both_helper(mwsupentries,supentries)
  write_lines(fileout,outarr)
 
-
-def write_entries_difflib_helper(mwsupentries,supentries):
+def write_entries_difflib_helper_compare(entry):
+ if True:
+  metaline = entry.metaline
+  key = re.sub(r'<k2>.*$','',metaline)
+  return key
+ 
+def write_entries_difflib_helper(entries1,entries2):
  import difflib
  d = difflib.Differ()
- mw = [e.metad['k1'] for e in mwsupentries]
- sup = [e.metad['k1'] for e in supentries]
+ mw = [write_entries_difflib_helper_compare(e) for e in entries1]
+ sup = [write_entries_difflib_helper_compare(e) for e in entries2]
 
  mwtxt = '\n'.join(mw)
  suptxt = '\n'.join(sup)
@@ -169,13 +174,15 @@ def write_entries_difflib_helper(mwsupentries,supentries):
    pass
   else:
    outarr.append(line.rstrip('\r\n'))
- return outarr
+ # remove lines which are not '+/-'
+ outarr1 = [x for x in outarr if x[0] in ('+', '-')]
+ return outarr1
 
 def write_entries_difflib(fileout,mwsupentries,supentries):
  outarr = write_entries_difflib_helper(mwsupentries,supentries)
  write_lines(fileout,outarr)
 
-def write_entries_3_helper(mwsupentries,supentries):
+def write_entries_1_helper(mwsupentries,supentries):
  a = write_entries_both_helper(mwsupentries,supentries)
  a1 = []
  a2 = []
@@ -217,21 +224,21 @@ def write_entries_3_helper(mwsupentries,supentries):
     y2 = 'yyy'
     #y = a1[i1] + ' :: ' + 'yyy'
    else:
-    y = 'write_entries_3_helper ERROR 2:"%s"' % x
+    y = 'write_entries_1_helper ERROR 2:"%s"' % x
     exit(1)
    #c.append(y)
   #elif x.startswith('?'):
   # # junk?
   # continue
   else:
-   print('write_entries_3_helper ERROR 2: error at line %s:\n%s' % (i+1,x))
+   print('write_entries_1_helper ERROR 2: error at line %s:\n%s' % (i+1,x))
    exit(1)
   y = y1.ljust(40) + ' :: ' + y2
   c.append(y)
  return c
  
-def write_entries_3(fileout,mwsupentries,supentries):
- outarr = write_entries_3_helper(mwsupentries,supentries)
+def write_entries_1(fileout,mwsupentries,supentries):
+ outarr = write_entries_1_helper(mwsupentries,supentries)
  write_lines(fileout,outarr)
  
 def test_difflib():
@@ -255,42 +262,23 @@ def test_difflib():
 
  
 if __name__=="__main__":
- #test_difflib()
  option = sys.argv[1]
- filein = sys.argv[2] #  xxx.txt (path to digitization of xxx)
- filein1 = sys.argv[3] # add3c.txt
+ filein1 = sys.argv[2] #  xxx.txt (path to digitization of xxx)
+ filein2 = sys.argv[3] # another xxx.txt 
  fileout = sys.argv[4] # output summary
- entries = digentry.init(filein)
- mwsupentries = get_mwsupentries(entries)
- mwdict = make_k1dict(mwsupentries)
+ entries1 = digentry.init(filein1)
  Ldict = digentry.Entry.Ldict;
- #print(len(mwdict),'distinct supplement k1 from',filein)
- digentry.Entry.Ldict = {}
- entries = digentry.init(filein1)
- supentries = get_supentries(entries)
  
- supdict = make_k1dict(supentries)
- problems1 = check_entries(supentries,mwdict)
- print(len(problems1),' problems1')
- problems2 = check_entries(mwsupentries,supdict)
- print(len(problems2),' problems2')
+ digentry.Entry.Ldict = {}
+ entries2 = digentry.init(filein2)
+ 
+ #dict1 = make_k1dict(entries1)  # k1
+ #dict2 = make_k1dict(entries2)  # k1
 
- print(len(mwsupentries),"suprev entries in mw body")
- print(len(supentries),"suprev entries in mw supplement")
- assert len(mwsupentries) == len(supentries)
- #write_entries(fileout,problems1)
- outarr1 = write_problems(problems1)
- outarr2 = write_problems(problems2)
- outarr = outarr1 + outarr2
- #write_lines(fileout,outarr)
  #
- compare_dicts(mwdict,supdict)
+ #compare_dicts(mwdict,supdict)
  if option == '1':
-  write_entries_both(fileout,mwsupentries,supentries)
- elif option == '2':
-  write_entries_difflib(fileout,mwsupentries,supentries)
- elif option == '3':
-  write_entries_3(fileout,mwsupentries,supentries)
+  write_entries_difflib(fileout,entries1,entries2)
  else:
   print('no output: unknown option')
  
