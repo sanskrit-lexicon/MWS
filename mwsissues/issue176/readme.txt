@@ -44,6 +44,28 @@ The <L>37448.1 metaline has the <e> within <k2> field as <k2>ulapya^<e>,ulapya/<
 old: <L>37448.1<pc>218,2<k1>ulapya<k2>ulapya^<e>,ulapya/<e>2B
 new: <L>37448.1<pc>218,2<k1>ulapya<k2>ulapya^,ulapya/<e>2B
 
+---------------------------------------------------------------
+08-13-2024
+Sample rewrite of groups:
+OLD:
+<L>37661<pc>219,3<k1>uSat<k2>uSat<h>1<e>1
+<hom>1.</hom> <s>uSat</s>, <s>an</s>, or <s>uSata</s>, <s>as</s>, ¦ <lex>m.</lex> <ab>N.</ab> of a king, <ls>Hariv.</ls><info or="37661,uSat;37661.1,uSata"/><info lex="m"/>
+<LEND>
+<L>37661.1<pc>219,3<k1>uSata<k2>uSata<h>1<e>1
+<hom>1.</hom> <s>uSat</s>, <s>an</s>, or <s>uSata</s>, <s>as</s>, ¦ <lex>m.</lex> <ab>N.</ab> of a king, <ls>Hariv.</ls><info or="37661,uSat;37661.1,uSata"/><info lex="m"/>
+<LEND>
+
+NEW:
+<L>37661<pc>219,3<k1>uSat<k2>uSat<h>1<e>1
+<hom>1.</hom> <s>uSat</s>, <s>an</s>, or <s>uSata</s>, <s>as</s>, ¦ <lex>m.</lex> <ab>N.</ab> of a king, <ls>Hariv.</ls><info or="37661,uSat;37661.1,uSata"/><info lex="m"/>
+<LEND>
+<L>37661.1<pc>219,3<k1>uSata<k2>uSata<h>1<e>1
+ {{Lbody=37661}}
+<LEND>
+
+Revisions to hw.py program will use the body lines of 37661
+as the body lines of 37661.1.
+
 ****************************************************************
 old notes from issue175
 # -------------------------------------------------------------
