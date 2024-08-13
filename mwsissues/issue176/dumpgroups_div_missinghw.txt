@@ -1,0 +1,261 @@
+groups with missing headwords
+;
+; **********************************************
+; and/or group with missing headwords: 4267,aDidEva;4267.1,aDidEvata
+; **********************************************
+<L>4267<pc>21,1<k1>aDidEva<k2>aDi-dEva<e>1
+<s>aDi-dEva</s> or <s>-dEvata</s>, ¦ ...
+<div n="P"/> the supreme deity
+<div n="P"/> the divine agent operating in material objects<info or="4267,aDidEva;4267.1,aDidEvata"/>
+<div n="P"/> (<s>am</s>), <lex>ind.</lex> on the subject of the deity or the divine agent.
+;** aDidEvam, aDidEvatam
+<LEND>
+;
+
+; **********************************************
+; and/or group with missing headwords: 5875,anirdaSa;5875.1,anirdaSAha
+; **********************************************
+<L>5875<pc>30,1<k1>anirdaSa<k2>a-nirdaSa<e>1
+<s>a-nirdaSa</s> or <s>a-nirdaSA<srs/>ha</s>, ¦ ...
+<div n="P"/> (<s>am</s>), <lex>ind.</lex> <ab>id.</ab> (used adverbially).
+;** anirdaSam, anirdaSAham
+<LEND>
+;
+; **********************************************
+; and/or group with missing headwords: 7733,anUna;7733.1,anUnaka
+; **********************************************
+<L>7733<pc>41,3<k1>anUna<k2>a/n-Una<e>1
+<s>a/n-Una</s>, <lex>mf(<s>A</s>)n.</lex> or <s>anUnaka</s> [<ls>L.</ls>], <lex>mfn.</lex> ¦ ...
+<div n="P"/> whole, entire
+<div n="P"/> having full power
+<div n="P"/> (<s>A</s>, <lex>f.</lex>, <ab>N.</ab> of an <s1 slp1="apsaras">Apsaras</s1>, <ls>Hariv.</ls>
+;** anUnA, anUnakA
+<LEND>
+;
+;
+; **********************************************
+; and/or group with missing headwords: 8069,antarAla;8069.1,antarAlaka
+; **********************************************
+<L>8069<pc>43,2<k1>antarAla<k2>antar—Ala<e>3
+<s>antar—Ala</s> or <s>antar—Alaka</s> [<ls>L.</ls>], ¦ ...
+<div n="P"/> (<s>e</s>), <ab>loc.</ab> <lex>ind.</lex> in the midst, in midway (<s>Ala</s> is probably for <s>Alaya</s>).
+;** antarAle, antarAlake
+<LEND>
+;
+; **********************************************
+; and/or group with missing headwords: 8082,antargfha;8082.1,antargeha
+; **********************************************
+<L>8082<pc>43,2<k1>antargfha<k2>antar—gfha<e>3
+<s>antar—gfha</s> or <s>antar—geha</s>, ¦ ...
+<div n="P"/> (<s>am</s>), <lex>ind.</lex> in the interior of a house.
+;** antargfham, antargeham
+<LEND>
+; **********************************************
+; and/or group with missing headwords: 10999,abudDipUrva;10999.1,abudDipUrvaka
+; **********************************************
+<L>10999<pc>60,1<k1>abudDipUrva<k2>a-budDi—pUrva<e>3
+<s>a-budDi-pUrva</s> or <s>-pUrvaka</s> ¦ ...
+<div n="P"/> beginning with non-intelligence.
+<div n="P"/> (<s>am</s>) <lex>ind.</lex> ignorantly.<info lex="ind"/>
+;** abudDipUrvam, abudDipUrvakam
+<LEND>
+;
+; **********************************************
+; and/or group with missing headwords: 13324,aByASa;13324.1,aByAsa
+; **********************************************
+<L>13324<pc>76,3<k1>aByASa<k2>aBy-ASa<e>2
+<s>aBy-ASa</s>, <s>as</s>, <lex>m.</lex> (also written <hom>1.</hom> <s>aBy-Asa</s>), ¦ ...
+<div n="P"/> (with <s>yad</s> and <ab>Pot.</ab>) prospect, any expected result or consequence, <ls>ChUp.</ls>;
+<div n="P"/> proximity (with <ab>gen.</ab> or <ab>abl.</ab>), <ls>R.</ls> &c.;
+<div n="P"/> (<lex>mfn.</lex>) near, <ls>Kum. vi, 2</ls>;<info lex="m:f:n"/>
+<div n="P"/> (<s>am</s>), <lex>ind.</lex> near, at hand, <ls>AitBr.</ls>; <ls>PBr.</ls>;
+<div n="P"/> (<s>e</s>), <ab>loc.</ab> <lex>ind.</lex> near (with <ab>gen.</ab> or <ab>abl.</ab>), <ls>R.</ls> &c.;
+<div n="P"/> (<s>At</s>), <ab>abl.</ab>  in <ab>comp.</ab> with (a <ab>perf.</ab> <ab>Pass.</ab> <ab>p.</ab>, as) <s>Agata</s>, &c., arrived from near at hand, &c., <ls>Pāṇ. ii, 1, 39</ls>, <ab>Sch.</ab> & <ls n="Pāṇ.">vi, 3, 2</ls>, <ab>Sch.</ab>.
+;** aByASam, aByASe, aByASAt, aByAsam, aByAse, aByAsAt
+<LEND>
+;
+; **********************************************
+; and/or group with missing headwords: 32301,udac;32301.1,udaYc
+; **********************************************
+<L>32301<pc>184,1<k1>udac<k2>u/d-ac<e>2
+<s>u/d-ac</s> or <hom>2.</hom> <s>u/d-aYc</s> ¦ ...
+<div n="P"/> turned to the north, northern (opposed to <s>dakziRa</s>), <ls>AV.</ls>; <ls>VS.</ls>; <ls>ŚBr.</ls>; <ls>Megh.</ls>; <ls>Ragh.</ls> &c.;
+<div n="P"/> subsequent, posterior, <ls>L.</ls>;
+<div n="P"/> (<s>udIcI</s>), <lex>f.</lex> (<ab>scil.</ab> <s>diS</s>) the northern quarter, the north;
+;** udIcI
+<div n="P"/> (<hom>2.</hom> <s>u/dak</s>; for <hom>1.</hom> see <ab>col.</ab> 1)  <lex>ind.</lex> above;
+;** udak 
+<div n="P"/> northward, <ls>RV.</ls>; <ls>VS.</ls>; <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>Mn.</ls> &c.;
+<div n="P"/> subsequently, <ls>L.</ls>
+<LEND>
+; **********************************************
+; and/or group with missing headwords: 37527,ulbaRa;37535,ulvaRa
+; **********************************************
+<L>37527<pc>219,1<k1>ulbaRa<k2>ulba/Ra<e>2
+<s>ulba/Ra</s> or <s>ulva/Ra</s>, ¦ ...
+<div n="P"/> (<s>ulbaRa/</s>) <lex>mfn.</lex> anything laid over in addition, superfluous, abundant, excessive, much, immense, strong, powerful, <ls>TS. iii</ls>; <ls>MBh.</ls>; <ls>BhP.</ls>; <ls>Suśr.</ls> &c.;<info lex="m:f:n"/>
+<div n="P"/> singular, strange, <ls>AitĀr.</ls>;
+<div n="P"/> manifest, evident, <ls>L.</ls>
+<div n="P"/> (<ab>ifc.</ab>) abundantly furnished with, <ls>MBh.</ls>; <ls>Suśr.</ls> &c.;
+<div n="P"/> (<s>as</s>), <lex>m.</lex> a particular position of the hands in dancing;
+<div n="P"/> <ab>N.</ab> of a son of <s1 slp1="vasizWa">Vasiṣṭha</s1>, <ls>BhP.</ls>;
+<div n="P"/> (<s>A</s>), <lex>f.</lex> a particular dish (consisting of milk mixed with the juice of melons, bananas &c.), <ls>Nigh.</ls>
+;** ulbaRA, ulvaRA
+<LEND>
+;
+; **********************************************
+; and/or group with missing headwords: 45528,karvara;45528.1,karbara
+; **********************************************
+<L>45528<pc>259,3<k1>karvara<k2>karvara<h>2<e>1
+<hom>2.</hom> <s>karvara</s> or <s>karbara</s>, ¦ ...
+<div n="P"/> (<s>as</s>), <lex>m.</lex> sin, <ls>L.</ls>;
+<div n="P"/> a <s1 slp1="rakzas">Rakṣas</s1>, <ls>L.</ls>;
+<div n="P"/> a tiger, <ls>L.</ls>;
+<div n="P"/> a particular medicament, <ls>L.</ls>;
+<div n="P"/> (<s>I</s>), <lex>f.</lex> night, <ls>L.</ls>;
+;** karvarI, karbarI
+<div n="P"/> a <s1 slp1="rAkzasI">Rākṣasī</s1>, <ls>L.</ls>;
+<div n="P"/> a tigress, <ls>L.</ls>;
+<div n="P"/> the leaf of <bot>Asa foetida</bot>, <ls>L.</ls>;
+<div n="P"/> <ab>N.</ab> of <s1 slp1="durgA">Durgā</s1>, <ls>L.</ls>;
+<div n="P"/> (<s>am</s>), <lex>n.</lex> red lead, <ls>L.</ls>;
+<div n="P"/> (<ab>cf.</ab> <s>karbu</s>, <s>karbura</s>, &c.; <s>karavI</s>; <s>kAravI</s>.)
+<LEND>
+;
+; **********************************************
+; and/or group with missing headwords: 47336,kAcCa;47336.1,kAcCaka
+; **********************************************
+<L>47336<pc>268,2<k1>kAcCa<k2>kAcCa<e>1
+<s>kAcCa</s> and <s>kAcCaka</s>, ¦ ...
+<div n="P"/> (<s>I</s>), <lex>f.</lex> a kind of fragrant earth (<ab>cf.</ab> <s>kAkzI</s>), <ls>L.</ls>
+;** kAcCI, kAcCakI
+<LEND>
+;
+; **********************************************
+; and/or group with missing headwords: 56139,keSarin;56139.1,kesarin
+; **********************************************
+<L>56139<pc>311,1<k1>keSarin<k2>keSarin<e>2
+<s>keSarin</s> or <s>kesarin</s>, ¦ ...
+<div n="P"/> (<s>I</s>), <lex>m.</lex> a lion, <ls>MBh.</ls>; <ls>Suśr.</ls>; <ls>Bhartṛ.</ls> &c.;
+<div n="P"/> a horse, <ls>TBr.</ls>, <ab>Sch.</ab>;
+<div n="P"/> <ab>N.</ab> of an aquatic bird, <ls>Car. i, 27</ls>;
+<div n="P"/> the plant <bot>Rottleria tinctoria</bot>, <ls>L.</ls>;
+<div n="P"/> the plant <bot>Mesua ferrea</bot>, <ls>L.</ls>;
+<div n="P"/> a citron tree, <ls>L.</ls>;
+<div n="P"/> a variety of <bot>Moringa</bot> with red flowers (= <s>rakta-Sigru</s>), <ls>L.</ls>;
+<div n="P"/> <ab>N.</ab> of a monkey (husband of the mother of <s1 slp1="hanumat">Hanumat</s1>), <ls>MBh. iii, 11193</ls>; <ls>R.</ls>; <ls>Daś.</ls>;
+<div n="P"/> <ab>N.</ab> of a prince, <ls>Lalit.</ls>;
+<div n="P"/> of a mountain, <ls>VP.</ls>
+<div n="P"/> (<s>iRI</s>), <lex>f.</lex> a lioness, <ls>Kathās. lxx, 102.</ls>
+;** keSariRI, kesariRI
+<LEND>
+; **********************************************
+; and/or group with missing headwords: 103690,napAt;103690.1,naptf
+; **********************************************
+<L>103690<pc>527,2<k1>napAt<k2>na/pAt<e>1
+<s>na/pAt</s>, ¦ ...
+<div n="P"/> grandson (in later <ab>lang.</ab> restricted to this sense), <ls>RV.</ls> &c. &c.;
+<div n="P"/> <ab>N.</ab> of one of the <s1 slp1="viSve">Viśve</s1> <s1 slp1="devA">devā</s1>s, <ls>MBh. xiii, 4362</ls>;
+<div n="P"/> path of the gods (?), <ls>Mahīdh.</ls> on <ls>VS. xix, 56</ls>;
+<div n="P"/> granddaughter (?), <ls>Uṇ. ii, 96</ls>, <ab>Sch.</ab>;
+<div n="P"/> (<s>tI/</s>), <lex>f.</lex>, <ls>RV.</ls>; <ls>AV.</ls> (<ls n="AV.">ix, 1, 3</ls> <ab>nom.</ab> <s>°ti/s</s>) daughter, granddaughter (<ab>pl.</ab> often <ab>fig.</ab> ‘the fingers, hands’ &c.);
+;** napAtI
+<div n="P"/> (<s>trI</s>), <lex>f.</lex> granddaughter, <ls>SVĀr.</ls>; <ls>L.</ls>
+;** napAtrI
+<div n="P"/> [<ab>Prob.</ab> neither = <s>na + pat</s> (<ls>Uṇ. ii, 96</ls>) nor <s>na + pAt</s> (<ls>Pāṇ. vi, 3, 75</ls>), and of very questionable connection with √ <s>naB</s>, or <s>nah</s>; <ab>cf.</ab> <lang>Zd.</lang> <etym>napāt</etym>, <etym>naptar</etym>; <lang>Gk.</lang> <gk>νέποδες</gk>, <gk>ἀνεψιός</gk>; <lang>Lat.</lang> <etym>nepōt-em</etym>; <lang>Angl.Sax.</lang> <etym>nefa</etym>; <lang>HGerm.</lang> <etym>nëvo</etym>, <etym>nëve</etym>, <etym>Neffe</etym>.]
+<LEND>
+
+; **********************************************
+; and/or group with missing headwords: 124330,pipIlikamaDya;124330.1,pipIlikamaDyama
+; **********************************************
+<L>124330<pc>627,3<k1>pipIlikamaDya<k2>pipIlika—maDya<e>3
+<s>pipIlika—maDya</s> or <s>pipIlika—maDyama</s>, ¦ ...
+<div n="P"/> (<s>A</s>), <lex>f.</lex> <ab>N.</ab> of any metre the middle <s1 slp1="pAda">Pāda</s1> of which is shorter than the preceding and following, <ls>RPrāt.</ls>
+;** pipIlikamaDyA, pipIlikamaDyamA
+<LEND>
+;
+; **********************************************
+; and/or group with missing headwords: 131121,praRAqikA;131121.1,praRAqI
+; **********************************************
+<L>131121<pc>659,3<k1>praRAqikA<k2>pra-RAqikA<e>1
+<s>pra-RAqikA</s> or <s>°qI</s>, ¦ ...
+<div n="P"/> <s>°qikayA</s> (<ls>Sarvad.</ls>), or <s>°qyA</s> (<ls>ŚBr.</ls>, <ab>Sch.</ab>), <lex>ind.</lex> mediately, indirectly.
+;** praRAqikayA, praRAqyA
+<LEND>
+
+; **********************************************
+; and/or group with missing headwords: 144795,bAlhIka;144795.1,bAhlIka;144795.2,vAhlIka
+; **********************************************
+<L>144795<pc>729,3<k1>bAlhIka<k2>bAlhIka<e>2
+<s>bAlhIka</s>, <s>bAhlIka</s> or <s>vAhlIka</s>, ¦ ...
+<div n="P"/> a prince of the <s1 slp1="bAlhIka">Bālhīka</s1>s, <ls>MBh.</ls>;
+<div n="P"/> <ab>N.</ab> of a son of <s1 slp1="janam-ejaya">Janam-ejaya</s1>, <ls>ib.</ls>;
+<div n="P"/> of a son of <s1 slp1="pratIpa">Pratīpa</s1>, <ls>ib.</ls>; <ls>Pur.</ls>;
+<div n="P"/> of the father of <s1 slp1="rohiRI">Rohiṇī</s1> (wife of <s1 slp1="vasu-deva">Vasu-deva</s1>), <ls>Hariv.</ls>;
+<div n="P"/> of a <s1 slp1="ganDarva">Gandharva</s1>, <ls>L.</ls>;
+<div n="P"/> of a poet, <ls>Cat.</ls>;
+<div n="P"/> (<s>I</s>), <lex>f.</lex> a princess or any woman of the <s1 slp1="bAlhika">Bālhika</s1>s (also <ab>N.</ab> of <s>mAdrI</s>, <ab>q.v.</ab>), <ls>MBh.</ls>; <ls>Bālar.</ls>;
+;** bAlhIkI, bAhlIkI, vAhlIkI
+<div n="P"/> <lex>mf(<s>I</s>)n.</lex> belonging to or derived from the <s1 slp1="bAlhika">Bālhika</s1>s, <ls>L.</ls>;<info lex="m:f#I:n"/>
+<div n="P"/> <lex>n.</lex> = <s>bAlhika</s>, <ls>L.</ls>
+<LEND>
+;
+;
+; **********************************************
+; and/or group with missing headwords: 149654,BAgineya;149654.1,BAgineyaka
+; **********************************************
+<L>149654<pc>751,3<k1>BAgineya<k2>BAgineya<e>2
+<s>BAgineya</s> or <s>BAgine°yaka</s>, ¦ ...
+<div n="P"/> (<s>°yI</s>), <lex>f.</lex> a sister's daughter, <ls>MW.</ls>
+;** BAgineyI
+<LEND>
+;
+;
+; **********************************************
+; and/or group with missing headwords: 156686,matipUrva;156686.1,matipUrvaka
+; **********************************************
+<L>156686<pc>783,2<k1>matipUrva<k2>mati—pUrva<e>3
+<s>mati—pUrva</s> or <s>mati—pUr°vaka</s>, ¦ ...
+<div n="P"/> (<s>°vam</s>, <s>°ve</s>, <s>°vakam</s>) <lex>ind.</lex> purposingly, wittingly, <ls>ib.</ls>; <ls>Gaut.</ls>
+;** matipUrvam, matipUrve, matipUrvakam, matipUrvake
+<LEND>
+;
+;
+; **********************************************
+; and/or group with missing headwords: 193184,vinAsaka;193184.1,vinAsika
+; **********************************************
+<L>193184<pc>951,1<k1>vinAsaka<k2>vi—nAsaka<e>3
+<s>vi—nAsaka</s> or <s>vi—nAsika</s>, ¦ ...
+<div n="P"/> (<s>ikA</s>), <lex>f.</lex> a <ab>partic.</ab> venomous insect, <ls>Suśr.</ls>
+;** vinAsikA
+<LEND>
+
+; **********************************************
+; and/or group with missing headwords: 242242,sAmaga;242242.1,sAmagA
+; **********************************************
+<L>242242<pc>1205,1<k1>sAmaga<k2>sAma—ga/<e>3
+<s>sAma—ga/</s> or <s>sAma—gA/</s>, ¦ ...
+<div n="P"/> (<s>I</s>), <lex>f.</lex> the wife of a <ab n="Sāma-veda" slp1="sAma-veda">S°</ab> <ns>Brāhman</ns>, <ls>L.</ls>;
+;** sAmagI
+<div n="P"/> <s>-gAnAM Candas</s>, <lex>n.</lex> a <s1 slp1="pariSizwa">Pariśiṣṭa</s1> of the <s1 slp1="sAma-veda">Sāma-veda</s1>;
+<LEND>
+
+; **********************************************
+; and/or group with missing headwords: 250243,suzumRa;250243.1,suzumna
+; **********************************************
+<L>250243<pc>1237,3<k1>suzumRa<k2>su—zumRa/<e>3
+<s>su—zumRa/</s> or <s>su—zumna/</s>, ¦ ...
+<div n="P"/> <lex>m.</lex> <ab>N.</ab> of one of the 7 principal rays of the sun (supposed to supply heat to the moon), <ls>VP.</ls>;
+<div n="P"/> (<s>A</s>), <lex>f.</lex> a <ab>partic.</ab> artery (<ab>prob.</ab> ‘the carotid’) or vein of the body (lying between those called <s>iqA</s> and <s>piNgalA</s>, and supposed to be one of the passages for the breath or spirit; <ab>cf.</ab> <s>brahma-ranDra</s>), <ls>Up.</ls>; <ls>BhP.</ls>; <ls>Rājat.</ls>
+;** suzumRA, suzumnA
+<LEND>
+
+; **********************************************
+; and/or group with missing headwords: 254731,stotriya;254731.1,stotrIya
+; **********************************************
+<L>254731<pc>1259,2<k1>stotriya<k2>stotri/ya<e>2
+<s>stotri/ya</s> and <s>sto°trIya</s>, ¦ ...
+<div n="P"/> <lex>m.</lex> (<ab>scil.</ab> <s>tfca</s> or <s>pragATa</s>) the first part of the <s1 slp1="bahiz-pavamAna">Bahiṣ-pavamāna</s1>, <ls>Br.</ls>; <ls>ŚrS.</ls>
+<div n="P"/> (<s>A</s>), <lex>f.</lex> (<ab>scil.</ab> <s>fc</s>) a <s1 slp1="stotra">Stotra</s1> verse, <ls>ib.</ls>
+;** stotriyA, stotrIyA
+<LEND>
