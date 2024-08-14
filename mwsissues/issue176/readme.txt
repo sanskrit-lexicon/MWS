@@ -34,7 +34,7 @@ cp dumpgroups_div.txt dumpgroups_div_missinghw.txt
   ;** hw  
 ------------------------------
 
-typos:
+typos:  These changes made in temp_mw_2.txt (see below)
 ---
  213583,SarezIkA;213583.1,SarEzIkA
 old: div n="P"/> (<s>Sare/zikA</s>) an <ab n="arrow">ar°</ab>
@@ -66,35 +66,23 @@ NEW:
 Revisions to hw.py program will use the body lines of 37661
 as the body lines of 37661.1.
 
-****************************************************************
-old notes from issue175
-# -------------------------------------------------------------
-Step 1:  identify non-sequential or groups.
-# Check for internal inconsistencies, and make corrections
-cp temp_mw_0.txt temp_mw_1.txt
+---------------------------------------------------------------
+temp_mw_1.txt Lbody in groups
 
-python nonseq.py or temp_mw_0.txt temp_nonseq_or_0.txt
-880411 lines read from temp_mw_0.txt
-287570 entries found
-6472 entries matching <info or="(.*?)"/>
-3198 groups
-13 or problems -- see changes_1_readme.txt
+python convert_lbody.py temp_mw_0.txt temp_mw_1.txt
+878258 lines read from temp_mw_0.txt
+286491 entries found
+8257 entries matching ['<info or="(.*?)"/>', '<info and="(.*?)"/>']
+4042 groups
+286491 records written to temp_mw_1.txt
 
----------------------------------------------
-python nonseq.py or temp_mw_1.txt nonseq_or_1.txt
-0 or problems
+jimfu@DESKTOP-6PTUC6R MINGW64 /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue176 (master)
+$ wc -l temp_mw_?.txt
+   878258 temp_mw_0.txt
+   877131 temp_mw_1.txt
 
-python nonseq.py and temp_mw_0.txt temp_nonseq_and_0.txt
-2 and problems -- see changes_1_readme.txt
-
-python nonseq.py and temp_mw_1.txt temp.txt
-check_groups_2 finds 53 problems
-
-make changes to temp_mw_1.txt and rerun
-python nonseq.py and temp_mw_1.txt temp_mw_2a.txt
-
---------------------------------------------------------
-# local install temp_mw_1.txt
+-------------------------------------------
+Check local installation for temp_mw_1.txt
 
 cp temp_mw_1.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
 cd /c/xampp/htdocs/cologne/csl-pywork/v02
@@ -104,137 +92,23 @@ sh xmlchk_xampp.sh mw
 # ok
 cd /c/xampp/htdocs/sanskrit-lexicon/mws/mwsissues/issue176
 
----------------------------------------------
+# -------------------------------------------------------------
+revise hw.py in csl-pywork repo to
+ make use of the pattern {{Lbody=X}}
+redo local install as above with version temp_mw_1.txt
 
-temp_mw_2a.txt
-; BEGIN case 001: 693,akzIba;693.3,akziba
-...
-; END case 001: 693,akzIba;693.3,akziba  -- this is estimated.
-
-cp temp_mw_2a.txt temp_mw_2b.txt
- This will allow editing of the ; END ... placement
- NOTE: temp_mw_2b.txt not edited much --  can ignore I think
- 
-cp temp_mw_2b.txt temp_mw_2c.txt
- temp_mw_2c.txt will rewrite the groups manually
---------------------------------------------------------
-# local install temp_mw_2c.txt
-
-cp temp_mw_2c.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
-cd /c/xampp/htdocs/cologne/csl-pywork/v02
-# grep 'mw ' redo_xampp_all.sh
-sh generate_dict.sh mw  ../../mw
-sh xmlchk_xampp.sh mw
-# ok
-cd /c/xampp/htdocs/sanskrit-lexicon/mws/mwsissues/issue176
-
-------------------------
-Check local install temp_mw_2f.txt
-
-cp temp_mw_2f.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
-cd /c/xampp/htdocs/cologne/csl-pywork/v02
-# grep 'mw ' redo_xampp_all.sh
-sh generate_dict.sh mw  ../../mw
-sh xmlchk_xampp.sh mw
-# ok
-cd /c/xampp/htdocs/sanskrit-lexicon/mws/mwsissues/issue176
-
---------------------------------------------------------
-
-# see if any other 'and' groups that are problematic in 2c
-python nonseq.py or temp_mw_2c.txt temp_mw_2d.txt
-
-check_groups_3 finds 326 problems
-
-cp temp_mw_2d.txt temp_mw_2e.txt
-manual edit of temp_mw_2e.txt to resolve the 326 problems
-
-... days pass ...  done 2024-08-09
-
-Manual edit done
-
-## rerun to find errors remaining
-python nonseq.py or temp_mw_2e.txt temp_mw_2f.txt
-
-879569 lines read from temp_mw_2e.txt
-286492 entries found
-6493 entries matching <info or="(.*?)"/>
-3202 groups
-check_groups_1 finds 0 problems
-check_groups_2 finds 0 problems
-check_groups_3 finds 0 problems
-286492 records written to temp_mw_2f.txt
-
-------------------------
-Check local install temp_mw_2f.txt
-
-cp temp_mw_2f.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
-cd /c/xampp/htdocs/cologne/csl-pywork/v02
-# grep 'mw ' redo_xampp_all.sh
-sh generate_dict.sh mw  ../../mw
-sh xmlchk_xampp.sh mw
-# ok
-cd /c/xampp/htdocs/sanskrit-lexicon/mws/mwsissues/issue176
-
-
-python nonseq.py and temp_mw_2e.txt temp_mw_2e_and.txt
-1764 entries matching <info and="(.*?)"/>
-840 groups
-check_groups_1 finds 0 problems
-check_groups_2 finds 0 problems
-check_groups_3 finds 0 problems
-
-rm temp_mw_2e_and.txt
-
----------------------------------------------------
-Check both 'or' and 'and' groups 
-python nonseq1.py 1 temp_mw_2e.txt temp_mw_3a.txt
-879569 lines read from temp_mw_2e.txt
-286492 entries found
-8257 entries matching ['<info or="(.*?)"/>', '<info and="(.*?)"/>']
-4042 groups
-check_groups_1 finds 0 problems
-check_groups_2 finds 0 problems
-check_groups_3 finds 0 problems
-286492 records written to temp_mw_3a.txt
-
-# note temp_mw_3a.txt is same as temp_mw_2e.txt except for 'case' lines in temp_mw_2e.
-
-python nonseq1.py 2 temp_mw_3a.txt temp_mw_3b_work.txt
-878259 lines read from temp_mw_3a.txt
-286492 entries found
-8257 entries matching ['<info or="(.*?)"/>', '<info and="(.*?)"/>']
-4042 groups
-check_groups_1 finds 0 problems
-check_groups_2 finds 0 problems
-check_groups_3 finds 0 problems
-check_groups_4 finds 480 problems
-286492 records written to temp_mw_3b_work.txt
-
-------------------------------------
-# most of these 'problems' are that '<info lex="x"/>` occur differently in the body.
-# e.g. the group has mixed genders.  We just remove such 
-python change_3b.py temp_mw_3a.txt temp_mw_3b.txt
-
-# rerun nonseq1 with temp_mw_3b.txt
-python nonseq1.py 2 temp_mw_3b.txt temp_mw_3b_work.txt
-check_groups_4 finds 104 problems
-
-cp temp_mw_3b_work.txt temp_mw_3c.txt
-# manual edit 3c to 'correct' the 104 problems
-
-#  rerun nonseq1 with temp_mw_3c.txt
-python nonseq1.py 2 temp_mw_3c.txt temp_mw_3c_work.txt
-# further edit 3c
-# rerun nonseq1 with temp_mw_3c.txt
-python nonseq1.py 2 temp_mw_3c.txt temp_mw_3c_work.txt
-# no problems identified
-# 3c may be the final version!
+It seems to work!
+# -------------------------------------------------------------
+temp_mw_2.txt
+1. add entries for the 'lost' headwords
+2. correct the typos noted above
+cp temp_mw_1.txt temp_mw_2.txt
+# manual edits of temp_mw_2.txt
 
 -------------------------------------------
-Check local installation for temp_mw_3c.txt
+Check local installation for temp_mw_2.txt
 
-cp temp_mw_3c.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cp temp_mw_2.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
 cd /c/xampp/htdocs/cologne/csl-pywork/v02
 # grep 'mw ' redo_xampp_all.sh
 sh generate_dict.sh mw  ../../mw
@@ -242,89 +116,8 @@ sh xmlchk_xampp.sh mw
 # ok
 cd /c/xampp/htdocs/sanskrit-lexicon/mws/mwsissues/issue176
 
--------------------------------------------------------
-temp_mw_3d.txt  remove alphabetic homs that occur in the or/and group metalines
+----------------------
+upload version of displays to cologne for examination.
+cp /c/xampp/htdocs/cologne/mw/downloads/mwweb1.zip temp_mwweb1_2.zip
 
-10584 matches for "<h>[^0-9<]+<" in buffer:  most of these are <h>[a-z].
-These are 'artificial' homs that allow 're-centering' in the list displays.
-
-However, these cannot be kept in the 'and/or' groups
-
-python nonseq1.py 3 temp_mw_3c.txt temp_mw_3c_work.txt
-# 326 cases found
-rm temp_mw_3c_work.txt  # don't need this -- changes done by change_3d.py program
-
-# auto-correct these 326 (remove the <h>X from matching metaline, when X is non-numeric
-python change_3d.py temp_mw_3c.txt temp_mw_3d.txt
-327 cases altered by change_3b
-
-rm temp_mw_3c_work.txt  # no further need for this
--------------------------------------------
-Check local installation for temp_mw_3d.txt
-
-cp temp_mw_3d.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
-cd /c/xampp/htdocs/cologne/csl-pywork/v02
-# grep 'mw ' redo_xampp_all.sh
-sh generate_dict.sh mw  ../../mw
-sh xmlchk_xampp.sh mw
-# ok
-cd /c/xampp/htdocs/sanskrit-lexicon/mws/mwsissues/issue176
-
--------------------------------------------------------
-temp_mw_3e.txt  require a single '<e>' code for all metalines in a group
-
-10584 matches for "<h>[^0-9<]+<" in buffer:  most of these are <h>[a-z].
-These are 'artificial' homs that allow 're-centering' in the list displays.
-
-However, these cannot be kept in the 'and/or' groups
-
-python nonseq1.py 4 temp_mw_3d.txt temp_mw_3d_work.txt
-check_groups_6 finds 80 problems
-
-cp temp_mw_3d_work.txt temp_mw_3e.txt
-#Correct manually in version 3e
-#Also, remove '<info lex="inh"/>' from a few groups
-rm temp_mw_3e_work.txt  # no longer needed
-
--------------------------------------------
-Check local installation for temp_mw_3e.txt
-
-cp temp_mw_3e.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
-cd /c/xampp/htdocs/cologne/csl-pywork/v02
-# grep 'mw ' redo_xampp_all.sh
-sh generate_dict.sh mw  ../../mw
-sh xmlchk_xampp.sh mw
-# ok
-cd /c/xampp/htdocs/sanskrit-lexicon/mws/mwsissues/issue176
-
---------------------------------------------------------
-temp_mw_3f.txt
-In 3e there are comments between entries (for purpose of
- review).  These comments are removed for the csl-orig
-
-python cleanup.py temp_mw_3e.txt temp_mw_3f.txt
-
--------------------------------------------
-Check local installation for temp_mw_3f.txt
-
-cp temp_mw_3f.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
-cd /c/xampp/htdocs/cologne/csl-pywork/v02
-# grep 'mw ' redo_xampp_all.sh
-sh generate_dict.sh mw  ../../mw
-sh xmlchk_xampp.sh mw
-# ok
-cd /c/xampp/htdocs/sanskrit-lexicon/mws/mwsissues/issue176
-8257 entries matching ['<info or="(.*?)"/>', '<info and="(.*?)"/>']
-4042 groups
-
---------------------------------------------------------
-Dump the 'and/or' groups to a file.
-For documentation.
-
-python dumpgroups.py temp_mw_3f.txt groups_3f.txt
-
---------------------------------------------------------
-sync csl-orig to github, using version 3f.
-sync this MWS repository to github
-update cologne server for mw (csl-orig and displays)
-***************************************************************
+****************************************************************
