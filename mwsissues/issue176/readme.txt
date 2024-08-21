@@ -413,3 +413,76 @@ python convert_ab1.py cdsl,ab temp_mw_12.txt temp_mw_12_ab1.txt
 python convert_ab2.py cdsl,ab temp_mw_12_ab1.txt temp_mw_12_ab2.txt
 -------------------
 zip temp_mw_12_ab2.zip temp_mw_12_ab2.txt  # ab2 version
+
+***************************************************************
+08-21-2024
+temp_mw_13.txt
+minor correction
+cp temp_mw_12.txt temp_mw_13.txt
+Manual correction:
+
+L-130326 and L-132942
+'<ab>P.</ab> <ab>Ā.</ab>' -> '<ab>Ā.</ab> <ab>P.</ab>'
+ correction to my mistake in temp_mw_12.txt
+L-91601
+ dADikA ¦ -> <s>dADikA</s> ¦
+--------------------------------------------------------------
+temp_mw_14.txt
+removal of slp1 attribute.  This occurs mostly in the <s1> tag
+and occasionally in the <ab> tag.
+
+Original purpose of this tag:
+ Example: <s1 slp1="vizRu">Viṣṇu</s1>
+ Displays could display this as if <s>vizRu</s> which would be,
+ with choice of Devanagari output, विष्णु. 
+However, this 'feature' no longer seems useful, so the slp1 markup can
+be dropped.
+I'll generate a list of the altered tags.
+
+python remove_slp1.py temp_mw_13.txt temp_mw_14.txt remove_slp1_s1.txt remove_slp1_ab.txt
+877264 from temp_mw_13.txt
+change_line_s1: 38300 lines changed
+change_line_ab_slp1: 2462 lines changed
+877264 lines written to temp_mw_14.txt
+52208 lines written to remove_slp1_s1.txt
+2627 lines written to remove_slp1_ab.txt
+
+old: <ab n="Terminalia">T°</ab> and <ab n="Puṣa" slp1="puza">P°</ab>
+new: <ab n="Terminalia">T°</ab> and <s1>Punar-vasu</s1>
+---------------------------------------------------
+display changes
+csl-pywork:  declare n attribute of s1; remove slp1 attribute
+csl-websanlexicon
+ basicadjust.php change
+  <s1 n="X">Y</s1> -> <ab n="X">Y</ab>
+  This allows tooltip X for Y in displays.
+csl-apidev
+
+---------------
+Check local installation for temp_mw_14.txt
+
+cp temp_mw_14.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+# grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok
+cd /c/xampp/htdocs/sanskrit-lexicon/mws/mwsissues/issue176
+
+-------------------------------------------
+Transformation to ab form.
+
+python convert_ab1.py cdsl,ab temp_mw_14.txt temp_mw_14_ab1.txt
+python convert_ab2.py cdsl,ab temp_mw_14_ab1.txt temp_mw_14_ab2.txt
+# check
+python convert_ab2.py ab,cdsl temp_mw_14_ab2.txt temp_mw_14_ab1_chk.txt
+diff temp_mw_14_ab1_chk.txt temp_mw_14_ab1.txt | wc -l
+#0 ok
+python convert_ab1.py ab,cdsl temp_mw_14_ab1.txt temp_mw_14_chk.txt
+diff temp_mw_14.txt temp_mw_14_chk.txt | wc -l
+# 0
+
+# remove the chk files
+rm temp_mw_14_ab1_chk.txt temp_mw_14_chk.txt
+-------------------
+zip temp_mw_14_ab2.zip temp_mw_14_ab2.txt  # ab2 version
