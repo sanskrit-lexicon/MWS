@@ -486,3 +486,73 @@ diff temp_mw_14.txt temp_mw_14_chk.txt | wc -l
 rm temp_mw_14_ab1_chk.txt temp_mw_14_chk.txt
 -------------------
 zip temp_mw_14_ab2.zip temp_mw_14_ab2.txt  # ab2 version
+
+********************************************************************
+08-22-2024
+------------------------------------------
+comments from AB:
+----
+L=450  <info lex="m"/>  problem: not at end of entry
+L=693  <info lex="m:f:n"/>  similar problem to AB
+L=85374 amd 85375 error in tooltip --
+   let AB make this and other such correction
+
+------------------------------------------
+temp_mw_15.txt
+8 corrections in preparation of temp_mw_16.txt
+cp temp_mw_14.txt temp_mw_15.txt
+manual edit temp_mw_15.txt
+ 8 cases failed to have all <info/>  AT END of last line
+ 4 blank lines removed.
+
+Moving info tags to the end of entry
+python infotag.py temp_mw_15.txt temp_mw_16.txt
+13 lines written to infotag_attr.txt
+325 lines written to infotag_notend.txt
+0 lines written to infotag_extralast.txt
+
+
+# chk infotag does nothing on temp_mw_16
+mv infotag_attr.txt tempprev_infotag_attr.txt
+mv infotag_notend.txt tempprev_infotag_notend.txt
+
+python infotag.py temp_mw_16.txt temp_mw_16_chk.txt
+diff temp_mw_16.txt temp_mw_16_chk.txt | wc -l
+# 0
+rm temp_mw_16_chk.txt # unneeded
+
+
+--------------------------------------------------
+
+Check local installation for temp_mw_16.txt
+
+cp temp_mw_16.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+# grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok
+cd /c/xampp/htdocs/sanskrit-lexicon/mws/mwsissues/issue176
+
+-------------------------------------------
+Transformation to ab form.
+
+python convert_ab1.py cdsl,ab temp_mw_16.txt temp_mw_16_ab1.txt
+python convert_ab2.py cdsl,ab temp_mw_16_ab1.txt temp_mw_16_ab2.txt
+# check
+python convert_ab2.py ab,cdsl temp_mw_16_ab2.txt temp_mw_16_ab1_chk.txt
+diff temp_mw_16_ab1_chk.txt temp_mw_16_ab1.txt | wc -l
+#0 ok
+python convert_ab1.py ab,cdsl temp_mw_16_ab1.txt temp_mw_16_chk.txt
+diff temp_mw_16.txt temp_mw_16_chk.txt | wc -l
+# 0
+
+# remove the chk files
+rm temp_mw_16_ab1_chk.txt temp_mw_16_chk.txt
+-------------------
+zip temp_mw_16_ab2.zip temp_mw_16_ab2.txt  # ab2 version
+revise this MWS repo and sync to github.
+upload temp_mw_16_ab2.zip to the issue176 comments
+
+********************************************************************
+

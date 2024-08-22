@@ -1,0 +1,325 @@
+450        <info lex="m"/>
+693        <info lex="m:f:n"/>
+710        <info n="rev" pc="1308,3"/><info lex="m:f:n"/>
+1175       <info lex="n"/>
+1357       <info lex="m:f:n"/>
+1702       <info lex="f"/>
+1979       <info lex="m"/>
+2456       <info lex="m"/>
+2519       <info lex="m:f:n"/>
+2615       <info lex="m:f"/>
+2944       <info verb="pre" cp="" parse="ati+"/>
+3167       <info lex="m"/>
+4232       <info lex="m:f:n"/>
+4682       <info lex="m:f:n"/>
+4892       <info lex="m:f:n"/>
+5693       <info lex="m"/>
+5875       <info lex="m:f#A:n"/>
+7223       <info lex="m:f:n"/>
+7260       <info lex="m:f:n"/>
+7356       <info lex="m"/>
+7449       <info lex="ind"/>
+7619       <info lex="m:f:n"/>
+7733       <info lex="m:f#A:n"/>
+7955       <info lex="m"/>
+8000       <info lex="m"/>
+8069       <info lex="n"/>
+8082       <info lex="n"/>
+8087       <info lex="m"/>
+8258       <info lex="m:f:n"/>
+8400       <info lex="f"/>
+8498       <info lex="m:f:n"/>
+8599       <info lex="m:f:n"/>
+8713       <info lex="m:f:n"/>
+8721       <info lex="m:f:n"/>
+8945       <info lex="m"/>
+8947       <info lex="n"/>
+8990       <info lex="m:f:n"/>
+9359       <info lex="m"/>
+10999      <info lex="m:f:n"/>
+11007      <info lex="m:f:n"/>
+11974      <info lex="m:f:n"/>
+12659      <info lex="m"/>
+12666      <info lex="m:f:n"/>
+13324      <info lex="m:f:n"/>
+15124      <info lex="f"/>
+15194      <info lex="f"/>
+16295      <info lex="m"/>
+23000      <info lex="ind"/>
+23053      <info lex="m"/>
+23846      <info lex="m"/>
+25320      <info lex="m:f#I:n"/>
+25691      <info lex="f"/>
+26041      <info lex="m:f:n"/>
+26384      <info lex="m:f:n"/>
+26697      <info lex="m:f:n"/>
+27038      <info lex="m:f:n"/><info lex="m"/><info lex="m:n"/>
+27599      <info lex="n"/>
+27637      <info lex="m:f:n"/>
+27745      <info lex="m:f#I:n"/>
+28593      <info lex="f"/>
+28754      <info lex="m:f:n"/>
+28958      <info lex="m"/>
+29148      <info lex="m"/>
+29234      <info lex="m:f:n"/>
+29714      <info westergaard="IKi,5.28,01.0091"/><info whitneyroots="INK,9"/><info verb="genuineroot" cp="1P"/>
+29717      <info westergaard="Ija,6.24,01.0112"/><info verb="genuineroot" cp="1P"/>
+29728      <info lex="m:f:n"/>
+29743      <info lex="m:f#I:n"/>
+29788      <info lex="ind"/>
+29797      <info whitneyroots="Irzy,10"/><info verb="genuineroot" cp="1P"/>
+29982      <info lex="m"/>
+30636      <info lex="m"/>
+31351      <info lex="m"/>
+31940      <info lex="f"/>
+32059      <info westergaard="undI,29.20,07.0026"/><info whitneyroots="ud,12"/><info verb="genuineroot" cp="7P,6P,6Ā"/>
+32301      <info lex="m:f#IcI:n"/>
+32816      <info lex="m:f:n"/>
+33495      <info lex="m"/>
+33635      <info lex="m:f:n"/>
+33875      <info verb="pre" cp="P" parse="ud+"/>
+37527      <info lex="m:f:n"/>
+38104      <info westergaard="urda,2.19,01.0019"/><info verb="genuineroot" cp="1Ā"/>
+38235      <info lex="m:f:n"/>
+38671      <info lex="m"/>
+38692      <info lex="m:f:n"/>
+38955      <info westergaard="fnPa,28.30,06.0030"/><info verb="genuineroot" cp="6P"/>
+38983      <info lex="m:n"/>
+39622      <info lex="f"/>
+39883      <info lex="f"/>
+40093      <info lex="n"/>
+40350      <info lex="m:f#I:n"/>
+45528      <info lex="m:f:n"/>
+46275      <info lex="m:f#I"/>
+46871      <info lex="m"/>
+46988      <info lex="m"/>
+47336      <info lex="m:f:n"/>
+49162      <info lex="f"/>
+55568      <info verb="root" cp="5,9P,9Ā"/>
+56139      <info lex="m:f:n"/>
+58737      <info westergaard="kzaji,19.7,01.0504;kzaji,32.78,10.0073"/><info verb="root" cp="1Ā,10P"/>
+58916      <info whitneyroots="kzan,28"/><info verb="root" cp="8P,8Ā"/>
+59654      <info westergaard="kzivu,15.59,01.0369"/><info verb="root" cp="1P"/>
+60633      <info whitneyroots="kzviq,31"/><info verb="root" cp="1P"/>
+66184      <info westergaard="gurda,2.22,01.0020"/><info verb="root" cp="1,10"/>
+68437      <info whitneyroots="graT,39"/><info verb="genuineroot" cp="9P,1P,1Ā"/>
+74506      <info westergaard="cIvf,21.15,01.0608"/><info verb="root" cp="1,10"/>
+74834      <info lex="f"/>
+75556      <info whitneyroots="Cand,50"/><info verb="genuineroot" cp="10,1Ā"/>
+76569      <info lex="m"/>
+77183      <info westergaard="jaBa,10.28,01.0266"/><info whitneyroots="jamB,53"/><info verb="root" cp="1"/>
+89230      <info westergaard="daSi,33.91,10.0195"/><info verb="root" cp="1,10P,1P,10Ā"/>
+90227      <info westergaard="qipa,32.132,10.0118"/><info whitneyroots="daB,70"/><info verb="root" cp="1,5Ā"/>
+93104      <info lex="m:f:n"/>
+93281      <info westergaard="du,22.46,01.0664"/><info verb="root" cp="1P"/>
+93282      <info westergaard="wu:du,27.10,05.0011;dUN,26.24,04.0023"/><info whitneyroots="du,75"/><info verb="root" cp="5P,4Ā"/>
+95068      <info westergaard="dfha,17.84,01.0473"/><info whitneyroots="dfh,78"/><info verb="genuineroot" cp="1P,1Ā,4P,4Ā"/>
+95189      <info lex="m"/>
+95245      <info westergaard="dfPa,28.28,06.0029"/><info verb="root" cp="6P"/>
+95662      <info lex="f"/>
+96167      <info lex="n"/>
+97212      <info lex="m:f#I:n"/>
+98000      <info westergaard="drE,22.10,01.0635;drA,24.46,02.0057"/><info whitneyroots="drA2,79"/><info verb="root" cp="1P,1Ā,2P"/>
+98310      <info lex="m:f:n"/>
+99700      <info whitneyroots="Dam,81"/><info verb="genuineroot" cp="1P,1Ā"/>
+99966      <info lex="m"/>
+100787     <info lex="m"/>
+101178     <info lex="f"/><info hui="a"/>
+101187     <info lex="m:f:n"/>
+101191     <info whitneyroots="Di,82"/><info verb="root" cp="5P"/>
+102398     <info westergaard="Dvansu,18.16,01.0488"/><info whitneyroots="DvaMs,86"/><info verb="genuineroot" cp="1P,1Ā"/>
+103279     <info lex="f"/>
+103690     <info lex="m"/>
+104757     <info whitneyroots="naS2,89"/><info verb="genuineroot" cp="1P,1Ā"/>
+104785     <info lex="n"/>
+106142     <info lex="f"/>
+106299     <info lex="m:n"/>
+107014     <info lex="m:f:n"/>
+108659     <info whitneyroots="nind,90"/><info verb="genuineroot" cp="1P"/>
+109755     <info verb="pre" cp="PĀ" parse="nir+"/>
+111754     <info lex="f"/>
+111762     <info whitneyroots="nu1,91"/><info verb="genuineroot" cp="2,6P,6Ā"/>
+112572     <info lex="m:f#I:n"/>
+113411     <info westergaard="paci,6.14,01.0107"/><info verb="root" cp="1P,1Ā"/>
+113507     <info whitneyroots="paj,93"/><info verb="genuineroot" cp="0Ā"/>
+113846     <info lex="m:f:n"/>
+114253     <info lex="f"/>
+117413     <info lex="m:f:n"/>
+118898     <info lex="m:f:n"/>
+118932     <info lex="m"/>
+120874     <info lex="f"/>
+121887     <info lex="m"/>
+123126     <info lex="m"/>
+124092     <info lex="m:f:n"/>
+124330     <info lex="m:f#A:n"/>
+124606     <info whitneyroots="pi,96;pi,96"/><info verb="genuineroot" cp="1Ā,2Ā,3P,3Ā"/>
+126380     <info lex="m:f:n"/>
+128327     <info westergaard="pfcI,24.20,02.0023"/><info verb="root" cp="2Ā"/>
+129743     <info westergaard="pyEN,22.68,01.0679;opyAyI,14.17,01.0319"/><info whitneyroots="pyA,101"/><info verb="genuineroot" cp="1Ā"/>
+129937     <info lex="m:f#I:n"/>
+131121     <info lex="f"/>
+131610     <info lex="m"/>
+131926     <info lex="ind"/>
+134504     <info westergaard="praTa,32.19,10.0019"/><info verb="root" cp="10P"/>
+134527     <info lex="m:f:n"/>
+134904     <info lex="n"/>
+134958     <info verb="pre" cp="" parse="pra+DI"/>
+134989     <info verb="pre" cp="PĀ" parse="pra+DmA"/>
+135670     <info verb="pre" cp="P" parse="pra+"/>
+135711     <info verb="pre" cp="PĀ" parse="pra+"/>
+137595     <info verb="pre" cp="P" parse="pra+Scut"/>
+138239     <info lex="m:f:n"/>
+139498     <info verb="pre" cp="P" parse="pra+an"/>
+142550     <info lex="m:f:n"/>
+142966     <info westergaard="barha,16.39,01.0414"/><info verb="root" cp="1Ā,10P"/>
+143333     <info lex="m:f#A"/>
+144780     <info lex="m:f:n"/>
+144795     <info lex="m"/><info lex="m:f#I:n"/>
+145263     <info westergaard="bila,28.67,06.0066"/><info verb="root" cp="6,10P"/>
+145353     <info westergaard="bisa,26.108,04.0116"/><info verb="root" cp="4"/>
+146034     <info westergaard="vfhU,28.57,06.0056"/><info whitneyroots="vfh,165"/><info verb="genuineroot" cp="6P"/>
+146037     <info westergaard="vfhi,17.85,01.0473"/><info whitneyroots="bfh1,107"/><info verb="genuineroot" cp="1P"/>
+146435     <info westergaard="vfhi,17.85,01.0473;bfhi,33.95,10.0195"/><info whitneyroots="vfMh,163"/><info verb="root" cp="1P,1Ā,10P"/>
+148011     <info lex="f"/>
+148923     <info westergaard="Bala,14.24,01.0324"/><info whitneyroots="Bal,109"/><info verb="root" cp="1Ā,10Ā"/>
+151608     <info lex="f"/>
+152157     <info lex="f"/>
+152281     <info lex="f"/>
+152705     <info lex="m"/>
+153448     <info westergaard="Bransu,18.17,01.0488"/><info whitneyroots="BraMS,115"/><info verb="genuineroot" cp="1Ā,1P,4P,4Ā"/>
+153761     <info westergaard="wuBrASf,19.76,01.0555"/><info verb="root" cp="1,4Ā"/>
+153807     <info lex="f"/>
+153832     <info lex="m:f:n"/>
+155187     <info westergaard="maTe,20.18,01.0574;manTa,3.5,01.0037;manTa,31.40,09.0046"/><info whitneyroots="maT,117"/><info verb="genuineroot" cp="1,9P,9Ā"/>
+156686     <info lex="m:f:n"/>
+157684     <info verb="genuineroot" cp=""/>
+158335     <info lex="m"/>
+158698     <info lex="m"/>
+160204     <info lex="m"/>
+160602     <info lex="f"/>
+162390     <info lex="m"/>
+163435     <info lex="m:f:n"/>
+163985     <info lex="m:f:n"/>
+163997     <info lex="m:f:n"/>
+164094     <info whitneyroots="mikz,120"/><info verb="root" cp="0,0Ā"/>
+164191     <info lex="m:f:n"/>
+164438     <info westergaard="midi,32.8,10.0008;YimidA,18.3,01.0480;YimidA,26.133,04.0137"/><info whitneyroots="med,127"/><info verb="genuineroot" cp="1Ā,4P,10P"/>
+164484     <info lex="f"/>
+164584     <info lex="n"/>
+165202     <info lex="f"/>
+165301     <info westergaard="muja,7.76,01.0155;muji,7.77,01.0155"/><info verb="root" cp="1P,10P"/>
+165763     <info westergaard="murCA,7.32,01.0130"/><info whitneyroots="mUrC,124"/><info verb="genuineroot" cp="1P"/>
+168873     <info westergaard="mrakza,17.12,01.0432;mrakza,32.119,10.0109"/><info whitneyroots="mfkz,124"/><info verb="genuineroot" cp="1P,10"/>
+169749     <info lex="ind"/>
+170414     <info lex="m:f:n"/>
+171034     <info lex="m:f:n"/>
+173342     <info westergaard="ranja,23.30,01.0721;ranja,26.58,04.0061"/><info whitneyroots="raj2,134"/><info verb="genuineroot" cp="1,4P,4Ā"/>
+174075     <info whitneyroots="ran1,135"/><info verb="genuineroot" cp="1,4P"/>
+174723     <info lex="m:f:n"/>
+174809     <info westergaard="raDa,26.84,04.0090"/><info whitneyroots="raD,135"/><info verb="genuineroot" cp="4P"/>
+174870     <info westergaard="raBa,23.5,01.0693"/><info whitneyroots="raB,136"/><info verb="genuineroot" cp="1Ā"/>
+174943     <info lex="m"/>
+178103     <info westergaard="reBf,10.22,01.0264"/><info whitneyroots="riB,140"/><info verb="genuineroot" cp="1P,1Ā"/>
+178179     <info westergaard="rI,31.30,09.0032;rIN,26.29,04.0029;ri,28.111,06.0109"/><info whitneyroots="ri,139"/><info verb="genuineroot" cp="9P,4P,4Ā"/>
+181268     <info lex="f"/>
+181537     <info lex="m:f:n"/>
+183193     <info verb="nom" cp="P"/>
+183360     <info lex="m:f:n"/>
+184348     <info westergaard="vaki,4.14,01.0072"/><info whitneyroots="vaYc,152"/><info verb="root" cp="1Ā"/>
+184705     <info lex="f"/>
+185043     <info lex="f"/>
+185063     <info lex="m:f:n"/>
+185255     <info westergaard="vaWa,9.46,01.0224"/><info verb="root" cp="1P"/>
+185355     <info lex="m"/>
+186536     <info lex="m:f#A:n"/>
+186892     <info lex="f"/>
+188327     <info lex="f"/>
+188953     <info lex="m"/>
+188990     <info lex="f"/>
+189384     <info lex="n"/>
+190327     <info lex="m:f:n"/>
+193184     <info lex="m:f:n"/>
+193660     <info lex="m:f:n"/>
+196110     <info verb="pre" cp="P" parse="vi+dA"/>
+196130     <info verb="pre" cp="PĀ" parse="vi+du"/>
+196475     <info verb="pre" cp="P" parse="vi+"/>
+196781     <info verb="pre" cp="Ā" parse="vi+"/>
+197067     <info verb="pre" cp="" parse="vi+nir+maT"/>
+197416     <info westergaard="wuvepf,10.6,01.0252"/><info whitneyroots="vip,160"/><info verb="genuineroot" cp="1Ā"/>
+198610     <info verb="pre" cp="PĀ" parse="vi+"/>
+199980     <info lex="m"/>
+199981     <info lex="m:f#I:n"/>
+202863     <info verb="pre" cp="PĀ" parse="vi+stf"/>
+203219     <info verb="pre" cp="P" parse="vi+hurC"/>
+203472     <info lex="m:f#qvI:n"/>
+203524     <info lex="f"/>
+208280     <info lex="m:f:n"/>
+210226     <info verb="pre" cp="P" parse="vi+"/>
+210303     <info lex="m:f:n"/>
+210822     <info westergaard="vlI,31.32,09.0034"/><info whitneyroots="vlI,168"/><info verb="genuineroot" cp="9P"/>
+213583     <info lex="f"/>
+214509     <info lex="f"/>
+219366     <info westergaard="SunDa,3.37,01.0062;SuDa,26.82,04.0087"/><info whitneyroots="SuD,174"/><info verb="genuineroot" cp="1P,1Ā,4P,4Ā"/>
+219546     <info lex="m:f:n"/>
+219616     <info westergaard="SuBa,11.42,01.0287;SuBa,18.11,01.0485;SunBa,28.33,06.0033"/><info whitneyroots="SuB,175"/><info verb="genuineroot" cp="1Ā,6P,6Ā"/>
+219883     <info westergaard="Sulba,32.71,10.0065"/><info verb="root" cp="10P"/>
+219884     <info lex="m:f#I:n"/>
+220262     <info westergaard="SUrI,26.48,04.0049;SUra,35.48,10.0285"/><info verb="root" cp="4Ā,10Ā"/>
+222382     <info westergaard="SranTa,31.39,09.0045;SraTa,32.13,10.0013;granTa,34.31,10.0229"/><info whitneyroots="SraT,177"/><info verb="genuineroot" cp="9P,9Ā"/>
+222479     <info lex="m:f:n"/>
+222686     <info westergaard="SrE,22.21,01.0643"/><info whitneyroots="SrA,178"/><info verb="genuineroot" cp="1,4P,2P"/>
+223522     <info lex="m"/>
+223816     <info lex="n"/>
+224190     <info westergaard="Svaca,6.5,01.0102"/><info whitneyroots="SvaYc,181"/><info verb="root" cp="1Ā"/>
+225559     <info lex="m"/>
+225563     <info westergaard="zWivu,15.52,01.0365;zWivu,26.4,04.0004"/><info whitneyroots="zWIv,181"/><info verb="genuineroot" cp="1,4P"/>
+227150     <info verb="pre" cp="PĀ" parse="sam+"/>
+228013     <info verb="pre" cp="PĀ" parse="sam+"/>
+228613     <info verb="pre" cp="PĀ" parse="sam+"/>
+229218     <info westergaard="zanja,23.18,01.0706"/><info whitneyroots="saj,182"/><info verb="genuineroot" cp="1P,1Ā"/>
+230097     <info lex="m:f#A:n"/>
+231428     <info verb="pre" cp="P" parse="sam+dA"/>
+231584     <info verb="pre" cp="" parse="sam+"/>
+232986     <info westergaard="zama,19.82,01.0558"/><info verb="root" cp="1P,10P"/>
+235264     <info lex="n"/>
+235476     <info lex="m:f:n"/>
+236486     <info verb="pre" cp="P" parse="sam+pra+maT"/>
+236835     <info verb="pre" cp="P" parse="sam+bfh"/>
+237167     <info verb="pre" cp="" parse="sam+mikz"/>
+237217     <info verb="pre" cp="P" parse="sam+murC"/>
+242242     <info lex="m"/>
+245746     <info lex="f"/>
+246869     <info lex="m:f:n"/>
+248120     <info lex="m:f:n"/>
+248356     <info lex="m"/>
+248447     <info lex="m:f#A:n"/>
+248495     <info verb="nom" cp="P"/>
+249713     <info lex="m:f:n"/>
+250243     <info lex="m:f#A:n"/>
+251025     <info lex="f"/>
+251816     <info westergaard="sUrkz,17.15,05.0016;zUrkzya,15.2,01.0332"/><info whitneyroots="sUrkz,189"/><info verb="root" cp="1P"/>
+251824     <info lex="f"/>
+251903     <info lex="f"/>
+254241     <info westergaard="skunBu,31.8,09.0006;skaBi,10.27,01.0265"/><info whitneyroots="skamB,191"/><info verb="genuineroot" cp="5,9P,1Ā"/>
+254463     <info westergaard="stunBu,31.7,09.0006"/><info whitneyroots="stamB,192"/><info verb="genuineroot" cp="5,9P,1Ā"/>
+254599     <info westergaard="ztIma,26.17,04.0016"/><info whitneyroots="stim,192"/><info verb="root" cp="4P"/>
+254731     <info lex="m:f:n"/>
+254842     <info westergaard="stfY,27.6,05.0006;stFY,31.14,09.0013"/><info whitneyroots="stf,193"/><info verb="genuineroot" cp="5,9P,9Ā,5P,5Ā"/>
+255991     <info lex="n"/>
+256106     <info lex="m:f:n"/>
+256521     <info westergaard="spardDa,2.2,01.0004"/><info whitneyroots="spfD,196"/><info verb="genuineroot" cp="1Ā,1P"/>
+256908     <info lex="f"/>
+257061     <info lex="ind"/>
+257403     <info westergaard="syandU,18.22,01.0494"/><info whitneyroots="syand,199"/><info verb="genuineroot" cp="1Ā"/>
+257528     <info westergaard="sransu,18.15,01.0488"/><info whitneyroots="sraMs,199"/><info verb="genuineroot" cp="1Ā"/>
+257618     <info westergaard="srivu,26.3,04.0003"/><info whitneyroots="srIv,200"/><info verb="genuineroot" cp="4P"/>
+258776     <info westergaard="zvanja,23.7,01.0695"/><info whitneyroots="svaj,200"/><info verb="genuineroot" cp="1Ā"/>
+258787     <info westergaard="zvada,2.17,01.0018;svAda,2.27,01.0024;zvada,33.130,10.0199"/><info whitneyroots="svad,201"/><info verb="genuineroot" cp="1Ā,1P"/>
+260645     <info lex="m:f:n"/>
+263406     <info whitneyroots="hIq,206"/><info verb="genuineroot" cp="0P,0Ā"/>
+263569     <info westergaard="hurCA,7.31,01.0129"/><info whitneyroots="hUrC,207"/><info verb="root" cp="1P"/>
+263660     <info lex="f"/>
+263975     <info westergaard="heWa,8.13,01.0169;heWa,9.35,01.xxxx"/><info whitneyroots="heW,208"/><info verb="root" cp="1P,1Ā,9P"/>
+263977     <info westergaard="heqf,8.32,01.0187;heqa,19.16,01.0513"/><info whitneyroots="hIq,206"/><info verb="root" cp="1Ā,1P"/>
+263989     <info verb="root" cp="9P"/>
+264863     <info westergaard="pE,22.23,01.0644;BF,31.21,09.0022"/><info whitneyroots="hvf,210"/><info verb="genuineroot" cp="1P,1Ā"/>
