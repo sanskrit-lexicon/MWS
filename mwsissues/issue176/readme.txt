@@ -7,6 +7,10 @@ This directory:
 cd /c/xampp/htdocs/sanskrit-lexicon/mws/mwsissues/issue176
 
 # -------------------------------------------------------------
+ much of this work is to get an equivalent form more convenient
+ for Andhrabharati.  TO convert from AB form back to cdsl form,
+ see 'HOW TO CONVERT BACK to cdsl' below.
+# -------------------------------------------------------------
 Start with a copy of csl-orig/v02/mw/mw.txt at commit
   f677a655c4876c7adf668df631317b449d5c2100
 
@@ -555,4 +559,174 @@ revise this MWS repo and sync to github.
 upload temp_mw_16_ab2.zip to the issue176 comments
 
 ********************************************************************
+08-23-2024
+AB makes a few changes in 16_ab2.
+1) <info> tags on the <LEND> line, not in the last dataline
+2) L-list {{L1,...}} on the <LEND> line, not in last dataline
+   Also, precedes the <info> tags on <LEND>, if any
+3) make the group separator indicator ', '  instead of ','
+   (k2 field of metaline, and {{L...}}
+
+temp_mw_16_ab3_orig.txt  is from AB --
+  it is claimed to be AB's revision of temp_mw_16_ab2.txt.
+  my constructed temp_mw_16_ab3.txt should be same as temp_mw_16_ab3_orig.txt
+
+Revisions to .._ab3_orig: errors originating in temp_mw_16_ab2.txt
+old: <LEND>d<info lex="m:f:n"/>
+new: <LEND><info lex="m:f:n"/>
+---
+old: <LEND>1<info lex="m:f:n"/>
+new: <LEND><info lex="m:f:n"/>
+---
+old: <LEND> <info lex="inh"/>
+new: <LEND><info lex="inh"/>
+
+-----------------------------------------
+temp_mw_17.txt
+In k2 field (of cdsl metaline), change separator from ';' to '; '
+To agree with "AB" .  Doesn't matter for cdsl.
+Also remove text after <LEND>  (3 cases as mentioned above for _orig.
+
+python k2_semi.py temp_mw_16.txt temp_mw_17.txt
+# 466 lines changed
+
+-------------------------------------------
+python convert_ab1.py cdsl,ab temp_mw_17.txt temp_mw_17_ab1.txt
+python convert_ab1.py ab,cdsl temp_mw_17_ab1.txt temp_mw_17_chk.txt
+
+diff temp_mw_17.txt temp_mw_17_chk.txt | wc -l
+#0  So inverse function works.
+rm temp_mw_17_ab1_chk.txt # not needed
+
+----- Now for conversion to match temp_mw_16_ab3_orig.txt
+python convert_ab2a.py cdsl,ab temp_mw_17_ab1.txt temp_mw_17_ab2a.txt
+
+diff temp_mw_17_ab2a.txt temp_mw_16_ab3_orig.txt | wc -l
+# 0
+So temp_mw_17_ab2a.txt is same as temp_mw_16_ab3_orig.txt
+
+GOOD!
+-----------------------------------------
+Now, for the inverse to get back to ab1
+
+python convert_ab2a.py ab,cdsl temp_mw_17_ab2a.txt temp_mw_17_ab1_chk.txt
+
+diff temp_mw_17_ab1.txt temp_mw_17_ab1_chk.txt | wc -l
+0 # inverse works as expected.
+
+-----------------------------------------
+Summary:
+1) temp_mw_17.txt  is ready to install in cdsl
+2) temp_mw_16_ab3_orig.txt is where AB can start, with the 3 <LEND> corrections
+3) Running two programs on mw_17 gets us 17_ab2a, which is same as 16_ab3_orig
+   python convert_ab1.py cdsl,ab temp_mw_17.txt temp_mw_17_ab1.txt
+   python convert_ab2a.py cdsl,ab temp_mw_17_ab1.txt temp_mw_17_ab2a.txt
+ And temp_mw_17_ab2a.txt = temp_mw_16_ab3_orig.txt
+
+-------------------------------------------------------
+
+ 08-24-2024
+ 
+-------------------------------------------
+Check local installation for temp_mw_17.txt
+
+cp temp_mw_17.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+# grep 'mw ' redo_xampp_all.sh
+sh generate_dict.sh mw  ../../mw
+sh xmlchk_xampp.sh mw
+# ok
+cd /c/xampp/htdocs/sanskrit-lexicon/mws/mwsissues/issue176
+
+------
+csl-pywork and csl-websanlexicon have been modified.
+
+--- sync csl-apidev with csl-websanlexicon
+cd /c/xampp/htdocs/cologne/csl-websanlexicon/v02
+sh apidev_copy.sh
+-- what was changed?
+cd /c/xampp/htdocs/cologne/csl-apidev
+git status
+        modified:   basicadjust.php
+        modified:   getword_data.php
+
+check simple display.
+Seems to be ok! (e.g. akzaja)
+-------------------------------
+sync csl-orig to github
+cd /c/xampp/htdocs/cologne/csl-orig/v02
+git status
+  mw/mw.txt and gra/gra.txt
+  Note: gra/gra.txt see issues in GRA repo
+git add mw/mw.txt
+git commit -m "#176 - revise 'groups' (Lbody) and
+hui (list display UI links at real and artificial homs)"
+
+git push
+------------------------------
+# sync csl-websanlexicon to github
+cd /c/xampp/htdocs/cologne/csl-websanlexicon/v02
+git status
+        modified:   makotemplates/web/webtc/basicadjust.php
+        modified:   makotemplates/web/webtc/dispitem.php
+        modified:   makotemplates/web/webtc/getwordClass.php
+        modified:   makotemplates/web/webtc/getword_data.php
+        modified:   makotemplates/web/webtc1/listhiermodel.php
+        modified:   makotemplates/web/webtc1/listhierview.php
+        modified:   makotemplates/web/webtc1/listparm.php
+        modified:   makotemplates/web/webtc1/main.js
+git add .
+git commit -m "MW:
+ Ref: https://github.com/sanskrit-lexicon/MWS/issues/176"
+git push
+
+------------------------------
+# sync csl-pywork to github
+cd /c/xampp/htdocs/cologne/csl-pywork/v02
+git status
+        modified:   makotemplates/pywork/hw.py
+        modified:   makotemplates/pywork/make_xml.py
+        modified:   makotemplates/pywork/one.dtd
+
+git add .
+git commit -m "MW:
+ Ref: https://github.com/sanskrit-lexicon/MWS/issues/176"
+git push
+
+------------------------------
+sync csl-apidev
+cd ../../csl-apidev
+git status
+        modified:   basicadjust.php
+        modified:   getword_data.php
+git add .
+git commit -m "MW:
+ Ref: https://github.com/sanskrit-lexicon/MWS/issues/176"
+git push
+------------------------------
+sync Cologne server to github
+login to cologne server
+# change to scans directory
+cd csl-pywork
+git pull
+cd csl-websanlexicon
+git pull
+cd csl-apidev
+git pull
+cd csl-orig
+git pull
+cd csl-pywork/v02
+# regenerate displays for mw
+---------------------------------
+HOW TO CONVERT BACK to cdsl
+AB will modify temp_mw_16_ab3_orig.txt.
+ When he sends back the result I run first convert_ab2a.py ab,cdsl
+ then convert_ab1.py ab,cdsl .  The result will be in cdsl form ready to
+ review or install.
+
+ Let's see how the plan works!
+
+
+---------------------------------
+THE END
 
