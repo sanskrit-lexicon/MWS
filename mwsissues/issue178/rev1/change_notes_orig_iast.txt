@@ -1,0 +1,151 @@
+L 5826.1 #20221  change to 5826.2
+---
+L 33751.1 #116434  change to 33751.4
+---
+line # 189545 insert preceding <LEND>
+---
+line #  189551  misplacement. moved a couple of lines
+---
+duplicate L 65642.1 219728  change to 65642.2
+---
+init_entries Error 2. Not expecting <LEND>
+line #  334892
+b'<LEND>{{101178, 101178.1, 101178.2}}<info lex="f"/><info lex="f"/><info hui="a"/>'
+ Jim: move entry 101179 after <LEND>{{...}}
+---
+duplicate L 142286 470938  change to 142286.9
+Also, remove <h>a in 142286.9
+  <L>142286.9<pc>719,1<k1>phelā<k2>phelā<h>a<e>1B ->
+  <L>142286.9<pc>719,1<k1>phelā<k2>phelā<e>1B
+---
+LGROUP2 WARNING no {{Ls}} & k2s mismatch for L= 5875
+  {{5875, 5875.1}} -> {{5875, 5875.1, 5875.2, 5875.3}}
+  <L>5875.3<pc>1311,2<k1>anirdāhuka -> <L>5875.4<pc>1311,2<k1>anirdāhuka
+---
+LGROUP2 WARNING no {{Ls}} for L= 20122
+ {{20122, 20123, 20124} ->  {{20122, 20123, 20124}}   
+---
+LGROUP2 WARNING no {{Ls}} & k2s mismatch for L= 39884
+  <LEND>{{39884, 39884.1, 39885, 39885.1}} -> <LEND>{{39884, 39884.1}}
+---  
+LGROUP2 WARNING no {{Ls}} for L= 112275
+  <LEND>{{112275, <info lex="f"/> ->
+  <LEND>{{112275, 112275.1, 112276, 112276.1}} <info lex="f"/>
+---
+LGROUP2 WARNING no {{Ls}} & k2s mismatch for L= 136350
+ 1.  prayogaratnasaṃskāra<k2>prayoga—ratna-saṃskāra ->
+     prayoga—ratna-saṃskāra
+ 2.  prayogamaṇimālikā<k2>prayoga—maṇi-mālikā ->
+     prayoga—maṇi-mālikā
+  {{136351, ...  ->
+  {{136350, 136351, ...
+---
+LGROUP2 WARNING no {{Ls}} for L= 145870
+  <LEND> -> <LEND>{{145870, 145870.1}}
+---  
+LGROUP2 WARNING no {{Ls}} & k2s mismatch for L= 147430
+  <k2>brāhmaṇi—kalpā, brāhmaṇigotrā, brāhmaṇi—celī, 
+---
+LGROUP2 WARNING no {{Ls}} & k2s mismatch for L= 205949
+  vedānta—kalpalatā or vedānta—kalpalatā°tikā ->
+  vedānta—kalpalatā, vedānta—kalpalatā°tikā,
+---
+Initial L error: L=21416.1,
+Ls=['21412.3', '21412.4']
+ {{'21412.3', '21412.4'}} ->  '21416.1', '21416.2'
+---
+Initial L error: L=43808.1, Ls=['43885.1', '43885.2']
+  {{43885.1, 43885.2}} -> {{43808.1, 43808.2}}
+---
+Initial L error: L=51937.1, Ls=['51950.1', '51950.2']
+  {{51950.1, 51950.2}}  ->  {{51937.1, 51937.2}}
+---
+Initial L error: L=78386.1,  Ls=['78384.1', '78384.2']
+  {{78384.1, 78384.2}}  ->  {{78386.1, 78386.2}}
+--- wrong accent ! line 20411
+ á-nirdāhuka  ->  á-nirdāhuka
+---
+ line 22691
+ the nasal mark <s> ँ</s>  ->  the nasal mark  ँ
+---
+duplicate L 1472.4 5359
+  <L>1472.4<pc>1309,2<k1>aṅkura<k2>2. aṅkura<e>2B  ->
+  <L>1472.5<pc>1309,2<k1>aṅkura<k2>2. aṅkura<e>2B
+---
+duplicate L 5875.3 21316
+  <L>5875.3<pc>1311,2<k1>anirdāhuka<k2>á-nirdāhuka<e>1  ->
+  <L>5875.4<pc>1311,2<k1>anirdāhuka<k2>á-nirdāhuka<e>1
+
+-------------------------------------
+
+---
+{{243, 243.1, 243.2, 243.3}}  add alternates to k2
+  <L>243<pc>2,1<k1>akāraṇam<k2>a-kāraṇam<e>1C  ->
+  <L>243<pc>2,1<k1>akāraṇam<k2>a-kāraṇam, a-kāra°ṇena, a-kāra°ṇe, a-kāra°ṇāt<e>1C
+---
+<LEND>{{254, 254.1}}<info lex="ind"/>
+  <L>254<pc>2,1<k1>akāle<k2>a-kāle<e>1C ->
+  <L>254<pc>2,1<k1>akāle<k2>a-kāle, a-kāla—tas<e>1C
+---
+<LEND>{{5165.1, 5165.2}}<info n="sup"/><info lex="m:f:n"/>
+  <L>5165.1<pc>1311,1<k1>anabhiṣekya<k2>an-abhiṣekya<e>1  ->
+  <L>5165.1<pc>1311,1<k1>anabhiṣekya<k2>an-abhiṣekya, an-abhiṣecanī́ya<e>1
+---
+<LEND>{{9422. 9422.1}}
+  <L>9422<pc>50,3<k1>aparī<k2>aparī́<e>1B ->
+  <L>9422<pc>50,3<k1>aparī<k2>aparī́, apará<e>1B
+---
+  space after }} not expected
+  <LEND>{{112275, 112275.1, 112276, 112276.1}} <info lex="f"/> ->
+  <LEND>{{112275, 112275.1, 112276, 112276.1}}<info lex="f"/>
+---
+<LEND>{{205716, 205717}}<info lex="m:f:n"/>
+  <L>205716<pc>1015,3<k1>vedapāṭhaka<k2>veda—pāṭhaka<e>3  ->
+  <L>205716<pc>1015,3<k1>vedapāṭhaka<k2>veda—pāṭhaka, veda—pāṭhin<e>3
+---
+<LEND>{{205719, 205720, 205721}}<info lex="n"/>
+  <L>205719<pc>1015,3<k1>vedapādaśivastotra<k2>veda—pāda-śiva-stotra<e>3 ->
+  <L>205719<pc>1015,3<k1>vedapādaśivastotra<k2>veda—pāda-śiva-stotra, veda—pāda-stava, veda—pāda-stotra
+---
+<LEND>{{205946, 205947}}<info lex="m"/>
+  <L>205946<pc>1017,1<k1>vedāntakataka<k2>vedānta—kataka<e>3  ->
+  <L>205946<pc>1017,1<k1>vedāntakataka<k2>vedānta—kataka, vedānta—kathā-ratna<e>3
+---
+<LEND>{{209420, 209420.1}}<info lex="f"/>
+  <L>209420<pc>1035,3<k1>vyākulatā<k2>vy-ākula—tā<e>3 ->
+  <L>209420<pc>1035,3<k1>vyākulatā<k2>vy-ākula—tā, vy-ākula—tva<e>3
+---
+ L=5875.4  Put the <info> stuff after <LEND>  (AB convention)
+old:
+<L>5875.4<pc>1311,2<k1>anirdāhuka<k2>á-nirdāhuka<e>1
+<s>á-nirdāhuka</s> ¦ <lex>mfn.</lex> not burning or scorching, <ls>MaitrS.</ls><info n="sup"/><info lex="m:f:n"/>
+<LEND>
+new:
+<L>5875.4<pc>1311,2<k1>anirdāhuka<k2>á-nirdāhuka<e>1
+<s>á-nirdāhuka</s> ¦ <lex>mfn.</lex> not burning or scorching, <ls>MaitrS.</ls>
+<LEND><info n="sup"/><info lex="m:f:n"/>
+
+----
+L=86143
+  Put <info..> on LEND
+----
+<LEND>{{124092, 124092.1}}  appears twice! under 124092 and 124098.
+Possible solution:
+  Remove {{124092, 124092.1}} from the L=124098 entry
+---
+470939,470940c470921,470922
+< <s>PelA</s>, ¦ <lex>f.</lex> (<ab>prob.</ab>) <ab>w.r.</ab> for <s>pelA</s> = <s>pewA</s>, a small box, <ls>Divyāv.</ls><info lex="f"/>
+< <LEND>
+
+Move the info to LEND
+---
+L=205467
+Remove <s></s> from k2
+ old: <L>205467<pc>1014,2<k1>veṇīrūpa<k2>veṇī—rūpa, <s>veṇī—vilāsa</s><e>3
+ new: <L>205467<pc>1014,2<k1>veṇīrūpa<k2>veṇī—rūpa, veṇī—vilāsa<e>3
+---
+L=238943  remove <srs/> from k2
+ old: <L>238943<pc>1188,1<k1>sarvākaraprabhākara<k2>sarvākara-prabhā-kara, sarvā<srs/>kara-prabhā-°kara-varopeta<e>3
+ new: <L>238943<pc>1188,1<k1>sarvākaraprabhākara<k2>sarvākara-prabhā-kara, sarvākara-prabhā-°kara-varopeta<e>3
+---
+L=142286.9   remove <h>a

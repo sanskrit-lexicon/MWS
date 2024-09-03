@@ -1,0 +1,163 @@
+804c804
+< <L>243<pc>2,1<k1>akāraṇam<k2>a-kāraṇam<e>1C
+---
+> <L>243<pc>2,1<k1>akāraṇam<k2>a-kāraṇam, a-kāra°ṇena, a-kāra°ṇe, a-kāra°ṇāt<e>1C
+840c840
+< <L>254<pc>2,1<k1>akāle<k2>a-kāle<e>1C
+---
+> <L>254<pc>2,1<k1>akāle<k2>a-kāle, a-kāla—tas<e>1C
+5146c5146
+< <L>1472.4<pc>1309,2<k1>aṅkura<k2>2. aṅkura<e>2B
+---
+> <L>1472.5<pc>1309,2<k1>aṅkura<k2>2. aṅkura<e>2B
+17944c17944
+< <L>5165.1<pc>1311,1<k1>anabhiṣekya<k2>an-abhiṣekya<e>1
+---
+> <L>5165.1<pc>1311,1<k1>anabhiṣekya<k2>an-abhiṣekya, an-abhiṣecanī́ya<e>1
+20221c20221
+< <L>5826.1<pc>29,3<k1>animiṣam<k2>a-nimiṣám<e>2C
+---
+> <L>5826.2<pc>29,3<k1>animiṣam<k2>a-nimiṣám<e>2C
+20409,20412c20409,20412
+< <LEND>{{5875, 5875.1}}<info lex="m:f#A:n"/>
+< <L>5875.3<pc>1311,2<k1>anirdāhuka<k2>á-nirdāhuka<e>1
+< <s>á-nirdāhuka</s> ¦ <lex>mfn.</lex> not burning or scorching, <ls>MaitrS.</ls><info n="sup"/><info lex="m:f:n"/>
+< <LEND>
+---
+> <LEND>{{5875, 5875.1, 5875.2, 5875.3}}<info lex="m:f#A:n"/>
+> <L>5875.4<pc>1311,2<k1>anirdāhuka<k2>á-nirdāhuka<e>1
+> <s>á-nirdāhuka</s> ¦ <lex>mfn.</lex> not burning or scorching, <ls>MaitrS.</ls>
+> <LEND><info n="sup"/><info lex="m:f:n"/>
+22691c22691
+< ¦ the nasal mark <s> ँ</s>
+---
+> ¦ the nasal mark ँ
+33223c33223
+< <L>9422<pc>50,3<k1>aparī<k2>aparī́<e>1B
+---
+> <L>9422<pc>50,3<k1>aparī<k2>aparī́, apará<e>1B
+33225c33225
+< <LEND>{{9422. 9422.1}}
+---
+> <LEND>{{9422, 9422.1}}
+70114c70114
+< <LEND>{{20122, 20123, 20124}
+---
+> <LEND>{{20122, 20123, 20124}}
+74538c74538
+< <LEND>{{21412.3, 21412.4}}<info n="sup"/><info lex="m"/>
+---
+> <LEND>{{21416.1, 21416.2}}<info n="sup"/><info lex="m"/>
+116434c116434
+< <L>33751.1<pc>1322,1<k1>udveṣṭana<k2>ud-veṣṭana<e>1B
+---
+> <L>33751.4<pc>1322,1<k1>udveṣṭana<k2>ud-veṣṭana<e>1B
+137011c137011
+< <LEND>{{39884, 39884.1, 39885, 39885.1}}<info lex="m"/>
+---
+> <LEND>{{39884, 39884.1}}<info lex="m"/>
+149935c149935
+< <LEND>{{43885.1, 43885.2}}<info n="sup"/><info lex="f"/>
+---
+> <LEND>{{43808.1, 43808.2}}<info n="sup"/><info lex="f"/>
+175967c175967
+< <LEND>{{51950.1, 51950.2}}<info n="sup"/><info lex="inh"/>
+---
+> <LEND>{{51937.1, 51937.2}}<info n="sup"/><info lex="inh"/>
+189545,189547d189544
+< <L>56162<pc>1325,2<k1>kesarin<k2>kesarin<e>2B
+< <s>kesarin</s>, ¦ (also) <ab>N.</ab> of a <s1>Tathāgata</s1>, <ls>Sukh. i</ls>.
+< <LEND><info n="sup"/>
+189550a189548,189550
+> <L>56162<pc>1325,2<k1>kesarin<k2>kesarin<e>2B
+> <s>kesarin</s>, ¦ (also) <ab>N.</ab> of a <s1>Tathāgata</s1>, <ls>Sukh. i</ls>.
+> <LEND><info n="sup"/>
+219728c219728
+< <L>65642.1<pc>1326,2<k1>guṇavadvapus<k2>guṇa—vad-vapus<e>4
+---
+> <L>65642.2<pc>1326,2<k1>guṇavadvapus<k2>guṇa—vad-vapus<e>4
+260992c260992
+< <LEND>{{78384.1, 78384.2}}<info n="sup"/><info lex="m"/>
+---
+> <LEND>{{78386.1, 78386.2}}<info n="sup"/><info lex="m"/>
+286184,286185c286184,286185
+< <s>tulā—pragraha</s> ¦ <lex>m.</lex> the string of a balance, <ls>Pāṇ. iii, 3, 52</ls>, <ls>Kāś.</ls><info lex="m"/>
+< <LEND>{{86143, 86144}}
+---
+> <s>tulā—pragraha</s> ¦ <lex>m.</lex> the string of a balance, <ls>Pāṇ. iii, 3, 52</ls>, <ls>Kāś.</ls>
+> <LEND>{{86143, 86144}}<info lex="m"/>
+334883,334886d334882
+< <LEND>
+< <L>101179<pc>1329,2<k1>dhāvani<k2>dhāvani<e>2
+< <s>dhāvani</s> ¦ (also) a personification of the goddess of fortune, <ls>L. 1</ls>.
+< <LEND><info n="sup"/>
+334892a334889,334891
+> <L>101179<pc>1329,2<k1>dhāvani<k2>dhāvani<e>2
+> <s>dhāvani</s> ¦ (also) a personification of the goddess of fortune, <ls>L. 1</ls>.
+> <LEND><info n="sup"/>
+372083,372084c372082,372083
+< <s>neyā<srs/>rtha—tā</s>, 112275.1, , 112276.1}}<lex>f.</lex>, <s>neyā<srs/>rtha—tva</s>, <lex>n.</lex>, <s>neyā<srs/>r°thaka—tā</s>, <lex>f.</lex>, <s>neyā<srs/>r°thaka—tva</s>, <lex>n.</lex>, ¦ <ls>Sāh.</ls>
+< <LEND>{{112275, <info lex="f"/>
+---
+> <s>neyā<srs/>rtha—tā</s>, <lex>f.</lex>, <s>neyā<srs/>rtha—tva</s>, <lex>n.</lex>, <s>neyā<srs/>r°thaka—tā</s>, <lex>f.</lex>, <s>neyā<srs/>r°thaka—tva</s>, <lex>n.</lex>, ¦ <ls>Sāh.</ls>
+> <LEND>{{112275, 112275.1, 112276, 112276.1}}<info lex="f"/>
+411238c411237
+< <s>pitṛ—yāna</s> ¦ <lex>n.</lex> <ab>id.</ab>, <ls>BhP.</ls><info lex="n"/>
+---
+> <s>pitṛ—yāna</s> ¦ <lex>n.</lex> <ab>id.</ab>, <ls>BhP.</ls>
+411242c411241
+< <LEND>{{124092, 124092.1}}<info lex="m:f:n"/>
+---
+> <LEND><info lex="n"/>
+451434c451433
+< <L>136350<pc>688,3<k1>prayogamañjarī<k2>prayoga—mañjarī, prayogamaṇimālikā<k2>prayoga—maṇi-mālikā, prayoga—mantra, prayoga—mayūkha, prayoga—muktāvalī, prayoga—mukha-vyākaraṇa, prayoga—ratna, prayoga—ratna-kroḍa, prayoga—ratna-mālā, prayoga—ratna-mālikā, prayogaratnasaṃskāra<k2>prayoga—ratna-saṃskāra, prayoga—ratnākara, prayoga—ratnāvalī, prayoga—vidhi, prayoga—viveka, prayoga—viveka-saṃgraha<e>3
+---
+> <L>136350<pc>688,3<k1>prayogamañjarī<k2>prayoga—mañjarī, prayoga—maṇi-mālikā, prayoga—mantra, prayoga—mayūkha, prayoga—muktāvalī, prayoga—mukha-vyākaraṇa, prayoga—ratna, prayoga—ratna-kroḍa, prayoga—ratna-mālā, prayoga—ratna-mālikā, prayoga—ratna-saṃskāra, prayoga—ratnākara, prayoga—ratnāvalī, prayoga—vidhi, prayoga—viveka, prayoga—viveka-saṃgraha<e>3
+451436c451435
+< <LEND>{{136351, 136352, 136353, 136354, 136355, 136356, 136357, 136358, 136359, 136360, 136361, 136362, 136363, 136364, 136365}}<info lex="f"/>
+---
+> <LEND>{{136350, 136351, 136352, 136353, 136354, 136355, 136356, 136357, 136358, 136359, 136360, 136361, 136362, 136363, 136364, 136365}}<info lex="f"/>
+470939,470941c470938,470940
+< <L>142286<pc>719,1<k1>phelā<k2>phelā<h>a<e>1B
+< <s>phelā</s>, ¦ <lex>f.</lex> (<ab>prob.</ab>) <ab>w.r.</ab> for <s>pelā</s> = <s>peṭā</s>, a small box, <ls>Divyāv.</ls><info lex="f"/>
+< <LEND>
+---
+> <L>142286.9<pc>719,1<k1>phelā<k2>phelā<e>1B
+> <s>phelā</s>, ¦ <lex>f.</lex> (<ab>prob.</ab>) <ab>w.r.</ab> for <s>pelā</s> = <s>peṭā</s>, a small box, <ls>Divyāv.</ls>
+> <LEND><info lex="f"/><info hui="a"/>
+482223c482222
+< <LEND>{<info lex="f"/>
+---
+> <LEND>{{145870, 145870.1}}<info lex="f"/>
+487353c487352
+< <L>147430<pc>742,1<k1>brāhmaṇikalpā<k2>brāhmaṇi—kalpā, brāhmaṇigotrā<k2>brāhmaṇi—gotrā, brāhmaṇi—celī, brāhmaṇi—tamā, brāhmaṇi—tarā, brāhmaṇi—bruvā, brāhmaṇi—matā, brāhmaṇi—rūpā, brāhmaṇi—hatā<e>3
+---
+> <L>147430<pc>742,1<k1>brāhmaṇikalpā<k2>brāhmaṇi—kalpā, brāhmaṇigotrā, brāhmaṇi—celī, brāhmaṇi—tamā, brāhmaṇi—tarā, brāhmaṇi—bruvā, brāhmaṇi—matā, brāhmaṇi—rūpā, brāhmaṇi—hatā<e>3
+673893c673892
+< <L>205467<pc>1014,2<k1>veṇīrūpa<k2>veṇī—rūpa, <s>veṇī—vilāsa</s><e>3
+---
+> <L>205467<pc>1014,2<k1>veṇīrūpa<k2>veṇī—rūpa, veṇī—vilāsa<e>3
+674676c674675
+< <L>205716<pc>1015,3<k1>vedapāṭhaka<k2>veda—pāṭhaka<e>3
+---
+> <L>205716<pc>1015,3<k1>vedapāṭhaka<k2>veda—pāṭhaka, veda—pāṭhin<e>3
+674682c674681
+< <L>205719<pc>1015,3<k1>vedapādaśivastotra<k2>veda—pāda-śiva-stotra<e>3
+---
+> <L>205719<pc>1015,3<k1>vedapādaśivastotra<k2>veda—pāda-śiva-stotra, veda—pāda-stava, veda—pāda-stotra<e>3
+675441c675440
+< <L>205946<pc>1017,1<k1>vedāntakataka<k2>vedānta—kataka<e>3
+---
+> <L>205946<pc>1017,1<k1>vedāntakataka<k2>vedānta—kataka, vedānta—kathā-ratna<e>3
+675447c675446
+< <L>205949<pc>1017,1<k1>vedāntakalpataru<k2>vedānta—kalpataru, vedānta—kalpataru—ṭīkā, vedānta—kalpataru—parimala, vedānta—kalpataru—parimala-khaṇḍana, vedānta—kalpataru—mañjarī, vedānta—kalpa-druma, vedānta—kalpalatā or vedānta—kalpalatā°tikā, vedānta—kārikāvali<e>3
+---
+> <L>205949<pc>1017,1<k1>vedāntakalpataru<k2>vedānta—kalpataru, vedānta—kalpataru—ṭīkā, vedānta—kalpataru—parimala, vedānta—kalpataru—parimala-khaṇḍana, vedānta—kalpataru—mañjarī, vedānta—kalpa-druma, vedānta—kalpalatā, vedānta—kalpalatā°tikā, vedānta—kārikāvali<e>3
+686501c686500
+< <L>209420<pc>1035,3<k1>vyākulatā<k2>vy-ākula—tā<e>3
+---
+> <L>209420<pc>1035,3<k1>vyākulatā<k2>vy-ākula—tā, vy-ākula—tva<e>3
+782240c782239
+< <L>238943<pc>1188,1<k1>sarvākaraprabhākara<k2>sarvākara-prabhā-kara, sarvā<srs/>kara-prabhā-°kara-varopeta<e>3
+---
+> <L>238943<pc>1188,1<k1>sarvākaraprabhākara<k2>sarvākara-prabhā-kara, sarvākara-prabhā-°kara-varopeta<e>3
