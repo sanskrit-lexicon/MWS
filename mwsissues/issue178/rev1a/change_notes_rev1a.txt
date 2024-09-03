@@ -1,0 +1,65 @@
+---
+old: <L>61958.1<pc>1326,1<k1>khilyá<k2>khilyá<e>1
+new: <L>61958.1<pc>1326,1<k1>khilya<k2>khilyá<e>1
+---
+L=423
+old: <info n=rev_sup"/>
+new: <info n="rev_sup"/>
+---
+3 instances of <s2> -> <s>
+
+What are these extra characters?
+old: ⓶✿<s2>mīḍhu</s2>, ✿<s2>mīḻhú</s2>,
+new: ⓶✿<s>mīḍhu</s>, ✿<s>mīḻhú</s>,
+
+old: ⓶✿<s>meṭhi</s>
+new: ⓶✿<s>meṭhi</s>
+
+---
+two instances of si tag
+old: <si>dhana</si>
+new: <s>dhana</s>
+
+old: <si>methi</si>
+new: <s>methi</s>
+---
+
+--------------------------------
+with the above changes, valid xml is created.
+However, the sqlite construction generates error:
+sqlite3.IntegrityError: UNIQUE constraint failed: mw.lnum
+
+We know that there are no duplicate L-numbers.
+But there are problems with the sequential ordering of lnums
+
+The check_lnum program finds 21 such mis-orderings.
+The solution will be to change the L values
+L= 300.4  ->  302.1
+L= 549.3  ->  550.1
+L= 2996.1  ->  3011.1
+         L= 3006.1  ->  3011.2
+	 L= 3011.1  ->  3011.3
+L= 3944.4  ->  3945.1
+         L= 3944.5  ->  3945.2
+L= 4997.1  ->  4993.1
+L= 7915  ->  7914.1 
+L= 7915.105  ->  7915.14
+L= 16885  
+          {{16884.1, 16886.2}} -> {{16884.1, 16884.2}}
+L= 22718.1  ->  22707.1
+L= 26551.05  ->  26551.2
+         L= 26551.2  ->  26551.3
+L= 36685.1  ->  36686.1
+L= {{38165.1, 39165.2}} -> {{38165.1, 38165.2}}
+L= 39286.1  ->  39386.2
+L= 39587.1  ->  39595.1
+L= 39674.1  ->  39672.1
+L= 50773.1  ->  50772.1
+L= 95074.05  ->  95074.2
+L= 95074.10  ->  95074.3
+{{95074, 95074.1}} -> {{95074, 95074.05}}
+L= 95074.2  ->  95074.06
+L= 103901.2  ->  105839.2
+L= 160542.1  -> 160543.1
+L= 167755.01  ->  167755.2
+L= 235355.1  ->  235354.1
