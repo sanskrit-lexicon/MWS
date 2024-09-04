@@ -112,3 +112,7 @@ cd rev1a
 zip temp_rev1a_ab_iast.zip temp_rev1a_ab_iast.txt
 -------------
 # sync this repo to github
+--------------------------------------------------
+mkdir divtalk
+see divtalk/readme.txt
+

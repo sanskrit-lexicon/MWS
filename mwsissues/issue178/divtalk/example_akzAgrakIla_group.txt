@@ -1,0 +1,46 @@
+
+compare representations of of akzAgrakIla, akzAgrakIlaka group
+
+--------------------------------------------
+and/or form (issue175_begin)
+----------------------------
+<L>450<pc>3,1<k1>akzAgrakIla<k2>akzAgra-kIla<e>3
+<s>akzA<srs/>gra-kIla</s> or <s>akzA<srs/>gra-kIlaka</s>, ¦ <lex>m.</lex> a linch-pin<info or="450,akzAgrakIla;452,akzAgrakIlaka"/><info lex="m"/>
+<LEND>
+<L>451<pc>3,1<k1>akzAgrakIla<k2>akzAgra-kIla<e>3A
+¦ the pin fastening the yoke to the pole.<info lex="inh"/>
+<LEND>
+<L>452<pc>3,1<k1>akzAgrakIlaka<k2>akzAgra-kIlaka<e>3
+<s>akzA<srs/>gra-kIla</s> or <s>akzA<srs/>gra-kIlaka</s>, ¦ <lex>m.</lex> a linch-pin<info or="450,akzAgrakIla;452,akzAgrakIlaka"/><info lex="m"/>
+<LEND>
+<L>453<pc>3,1<k1>akzAgrakIlaka<k2>akzAgra-kIlaka<e>3A
+¦ the pin fastening the yoke to the pole.<info lex="inh"/>
+<LEND>
+
+--------------------------------------------
+div form without consolidation  (issue175_end)
+--------------------------------------------
+ 450 and 451 are merged, with introduction of <div n="P"/>
+ Similarly, 452 and 453
+-----------------------------
+<L>450<pc>3,1<k1>akzAgrakIla<k2>akzAgra-kIla<e>3
+<s>akzA<srs/>gra-kIla</s> or <s>akzA<srs/>gra-kIlaka</s>, ¦ <lex>m.</lex> a linch-pin<info or="450,akzAgrakIla;450.1,akzAgrakIlaka"/><info lex="m"/>
+<div n="P"/> the pin fastening the yoke to the pole.
+<LEND>
+<L>450.1<pc>3,1<k1>akzAgrakIlaka<k2>akzAgra-kIlaka<e>3
+<s>akzA<srs/>gra-kIla</s> or <s>akzA<srs/>gra-kIlaka</s>, ¦ <lex>m.</lex> a linch-pin<info or="450,akzAgrakIla;450.1,akzAgrakIlaka"/><info lex="m"/>
+<div n="P"/> the pin fastening the yoke to the pole.
+
+--------------------------------------------
+div form with consolidation  (issue176_end)
+--------------------------------------------
+450.1 replaced with a referential entry, using {{Lbody=450}}
+------------
+<L>450<pc>3,1<k1>akzAgrakIla<k2>akzAgra-kIla<e>3
+<s>akzA<srs/>gra-kIla</s> or <s>akzA<srs/>gra-kIlaka</s>, ¦ <lex>m.</lex> a linch-pin
+<div n="P"/> the pin fastening the yoke to the pole.<info lex="m"/>
+<LEND>
+<L>450.1<pc>3,1<k1>akzAgrakIlaka<k2>akzAgra-kIlaka<e>3
+{{Lbody=450}}
+<LEND>
+
