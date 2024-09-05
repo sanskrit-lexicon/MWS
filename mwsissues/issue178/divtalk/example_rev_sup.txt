@@ -1,0 +1,90 @@
+
+Sample rev  (264 of these)
+Example 1
+current:
+<L>97<pc>1,2<k1>aṃsadhrī<k2>aṃsa—dhrī́<e>3
+<s>aṃsa—dhrī́</s> ¦ <lex>f.</lex> ‘applied to the Vedi’, <ls>AV. xi, 1, 23</ls>
+<LEND><info n="rev" pc="1308,1"/><info lex="f"/>
+
+Here, the original text should also be shown
+proposed:
+<L>97<pc>1,2<k1>aṃsadhrī<k2>aṃsa—dhrī́<e>3
+<s>aṃsa—dhrī́</s> ¦ <lex>f.</lex> a cooking vessel, <ls>AV.</ls>
+<rev pc="1308,1">(read, ‘applied to the Vedi’, <ls>AV. xi, 1, 23</ls></rev>
+<lex>f.</lex> ‘applied to the Vedi’, <ls>AV. xi, 1, 23</ls>
+<LEND><info lex="f"/>
+
+Note: added back in the 'read, ' from supplement.
+
+------------------------------
+Sample sup 6252 of these.
+There seem to be two subcases
+
+Sample sup  headword not in main
+Example 2
+current:
+<L>117.11<pc>1308,1<k1>aṃhana<k2>aṃhana<e>2
+<s>aṃhana</s> ¦ <lex>n.</lex> (<ab>fr.</ab> √ <hom>1.</hom> <s>aṃh</s>) the act of moving or creeping (like a snake), <ls>L.</ls>
+<LEND><info n="sup"/><info lex="n"/>
+
+proposed:  the same -- no change needed
+
+------------------------------
+Sample sup:  headword in main
+  I estimate there are about 1300 cases where th
+----------------------
+Example 3
+current:
+<L>214<pc>2,1<k1>akalmāṣa<k2>a-kalmāṣa<e>1
+<s>a-kalmāṣa</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of the fourth <s1>Manu</s1>, <ls>Hariv.</ls>
+<LEND><info lex="m"/><info hui="b"/>
+<L>214.1<pc>1308,1<k1>akalmāṣa<k2>á-kalmāṣa<e>1
+<s>á-kalmāṣa</s> ¦ <lex>mf(<s>ī</s>)n.</lex> spotless, <ls>ŚBr.</ls>
+<LEND><info n="sup"/><info lex="m:f#I:n"/><info hui="a"/>
+
+---
+proposal 3a:  No group
+  same as current. But
+
+---
+proposal 3b:  new group 
+<L>214<pc>2,1<k1>akalmāṣa<k2>a-kalmāṣa ; á-kalmāṣa<e>1
+<s>a-kalmāṣa</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of the fourth <s1>Manu</s1>, <ls>Hariv.</ls>
+[]
+[]
+<s>á-kalmāṣa</s> ¦ <lex>mf(<s>ī</s>)n.</lex> spotless, <ls>ŚBr.</ls><sup>1308,1</sup>
+<LEND><info lex="m:f#I:n"/>
+
+---
+proposal 3c:  new group using div markup
+<L>214<pc>2,1<k1>akalmāṣa<k2>a-kalmāṣa ; á-kalmāṣa<e>1
+<s>a-kalmāṣa</s> ¦ <lex>m.</lex> <ab>N.</ab> of a son of the fourth <s1>Manu</s1>, <ls>Hariv.</ls>
+<div n="P"/><s>á-kalmāṣa</s> ¦ <lex>mf(<s>ī</s>)n.</lex> spotless, <ls>ŚBr.</ls><sup>1308,1</sup>
+<LEND><info lex="m:f#I:n"/>
+
+Add the new <sup> element with pc so we know that this part is from suppl. at pc 1308,1.
+AB may prefer some other markup in place of <div n="P"/>
+---------------------
+Example 4
+
+current:
+<L>215<pc>2,1<k1>akalya<k2>a-kalya<e>1
+<s>a-kalya</s> ¦ <lex>mf(<s>ā</s>)n.</lex> ill, sick
+<LEND><info lex="m:f#A:n"/>
+<L>215.1<pc>1308,1<k1>akalya<k2>a-kalya<e>1A
+¦ not to be guessed, <ls>Daś.</ls>
+<LEND><info n="sup"/>
+<L>216<pc>2,1<k1>akalya<k2>a-kalya<e>1A
+¦ true (?), <ls>L.</ls>
+
+proposed:
+<L>215<pc>2,1<k1>akalya<k2>a-kalya<e>1
+<s>a-kalya</s> ¦ <lex>mf(<s>ā</s>)n.</lex> ill, sick;
+<div n="P"/>¦ true (?), <ls>L.</ls>
+<div n="P"/>¦ (also) not to be guessed, <ls>Daś.</ls><sup>1308,1</sup>
+<L>216<pc>2,1<k1>akalya<k2>a-kalya<e>1A
+<LEND><info lex="inh"/>
+
+Note 1:  AB may have an alternate to the <div n="P"/> markup.
+Note 2:  I reordered -- a judgment call.
+Note 3:  Added ';' after 'sick' at end of first sense from page 2
