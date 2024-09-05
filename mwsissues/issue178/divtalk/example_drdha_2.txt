@@ -1,0 +1,23 @@
+dṛḍha proposed coding revised to one primary document, with divs
+
+{{95074, 95074.05}}
+
+<L>95074<pc>490,2<k1>dṛḍha<k2>dṛḍha, dṛḻhá, dṛḍhā, dṛḍhám<e>2
+<s>dṛḍha</s> (or <s>dṛḻhá</s>), ¦ <lex>mfn.</lex> fixed, firm, hard, strong, solid, massive, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls>; <ls>MBh.</ls> &c.
+<div n="P"/>¦ firmly fastened, shut fast, tight, close (<ab>e.g.</ab> ship, <ls>R. ii, 52, 5</ls>; bonds, fetters, chains, <ls>Hit. i, 67/68</ls>; <ls>Mṛcch. vii, 6/7</ls>; fist, <ls>MBh. iv, 1976</ls>)
+<div n="P"/> ¦ whole, complete (<ab>opp.</ab> to <s>bhinna</s>), <ls>MBh. xiii, 7453</ls>
+<div n="P"/>¦ difficult to be bent (bow, <ls>ChUp. i, 3, 5</ls>)
+<div n="P"/>¦ steady, resolute, persevering, <ls>Hariv.</ls>; <ls>Kathās.</ls>
+<div n="P"/>¦ confirmed, established, certain, sure, <ls>Mn.</ls>; <ls>MBh.</ls>; <ls>Kāv.</ls> &c.
+<div n="P"/>¦ intense, violent, mighty, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.
+<div n="P"/>¦ (in <ab>mathem.</ab>) reduced to the last term or smallest number by a common divisor
+<div n="P"/><s>dṛḍha</s> ¦ <lex>m.</lex> (in music) a kind of <s1>Rūpaka</s1>
+<div n="P"/>¦ <ab>N.</ab> of a son of the 13th <s1>Manu</s1>, <ls>Hariv.</ls>
+<div n="P"/>¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. vii</ls>
+<div n="P"/> <s>dṛḍhā</s> ¦ <lex>f.</lex> <ab>N.</ab> of a <ab>Buddh.</ab> goddess
+<div n="P"/> <s>dṛḍha</s> ¦ <lex>n.</lex> anything fixed or firm or solid
+<div n="P"/>¦ stronghold, fortress, <ls>RV.</ls> &c.
+<div n="P"/>¦ iron, <ls>L.</ls>
+<div n="P"/> <s>dṛḍhám</s> ¦ (<s>ám</s>), <lex>ind.</lex> firmly, fast, <ls>AV.</ls>; <ls>MBh.</ls>; <ls>R.</ls> &c. (<ab>comp.</ab> <s>-taram</s>, <ls>Prab. iv, 11</ls>)
+<div n="P"/>¦ steadily, perseveringly, thoroughly, much, very well, <ls>MBh.</ls>; <ls>Kāv.</ls>; <ls>BhP.</ls> &c.
+<LEND><info lex="mfn"/>{{95074, 95074.1, 95074.2, 95074.3}}<info lex="ind"/>

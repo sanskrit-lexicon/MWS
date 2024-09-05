@@ -1,0 +1,53 @@
+dṛḍha current coding per temp_rev1a_ab_iast.txt
+
+<L>95074<pc>490,2<k1>dṛḍha<k2>dṛḍha, dṛḻhá<e>2
+<s>dṛḍha</s> (or <s>dṛḻhá</s>), ¦ <lex>mfn.</lex> fixed, firm, hard, strong, solid, massive, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls>; <ls>MBh.</ls> &c.
+<LEND>{{95074, 95074.05}}<info lex="m:f:n"/><info hui="a"/>
+<L>95074.06<pc>490,2<k1>dṛḍha<k2>dṛḍha<e>2A
+¦ firmly fastened, shut fast, tight, close (<ab>e.g.</ab> ship, <ls>R. ii, 52, 5</ls>; bonds, fetters, chains, <ls>Hit. i, 67/68</ls>; <ls>Mṛcch. vii, 6/7</ls>; fist, <ls>MBh. iv, 1976</ls>)
+<LEND><info lex="inh"/>
+<L>95074.10<pc>490,2<k1>dṛḍha<k2>dṛḍha<e>2A
+¦ whole, complete (<ab>opp.</ab> to <s>bhinna</s>), <ls>MBh. xiii, 7453</ls>
+<LEND><info lex="inh"/>
+<L>95074.15<pc>490,2<k1>dṛḍha<k2>dṛḍha<e>2A
+¦ difficult to be bent (bow, <ls>ChUp. i, 3, 5</ls>)
+<LEND><info lex="inh"/>
+<L>95074.20<pc>490,2<k1>dṛḍha<k2>dṛḍha<e>2A
+¦ steady, resolute, persevering, <ls>Hariv.</ls>; <ls>Kathās.</ls>
+<LEND><info lex="inh"/>
+<L>95074.25<pc>490,2<k1>dṛḍha<k2>dṛḍha<e>2A
+¦ confirmed, established, certain, sure, <ls>Mn.</ls>; <ls>MBh.</ls>; <ls>Kāv.</ls> &c.
+<LEND><info lex="inh"/>
+<L>95074.30<pc>490,2<k1>dṛḍha<k2>dṛḍha<e>2A
+¦ intense, violent, mighty, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.
+<LEND><info lex="inh"/>
+<L>95074.35<pc>490,2<k1>dṛḍha<k2>dṛḍha<e>2A
+¦ (in <ab>mathem.</ab>) reduced to the last term or smallest number by a common divisor
+<LEND><info lex="inh"/>
+<L>95074.40<pc>490,2<k1>dṛḍha<k2>dṛḍha<e>2B
+<s>dṛḍha</s> ¦ <lex>m.</lex> (in music) a kind of <s1>Rūpaka</s1>
+<LEND><info lex="m"/>
+<L>95074.45<pc>490,2<k1>dṛḍha<k2>dṛḍha<e>2B
+¦ <ab>N.</ab> of a son of the 13th <s1>Manu</s1>, <ls>Hariv.</ls>
+<LEND><info lex="inh"/>
+<L>95074.50<pc>490,2<k1>dṛḍha<k2>dṛḍha<e>2B
+¦ of a son of <s1>Dhṛta-rāṣṭra</s1>, <ls>MBh. vii</ls>
+<LEND><info lex="inh"/>
+<L>95074.55<pc>490,2<k1>dṛḍhā<k2>dṛḍhā<e>2B
+<s>dṛḍhā</s> ¦ <lex>f.</lex> <ab>N.</ab> of a <ab>Buddh.</ab> goddess
+<LEND><info lex="f"/>
+<L>95074.60<pc>490,2<k1>dṛḍha<k2>dṛḍha<e>2B
+<s>dṛḍha</s> ¦ <lex>n.</lex> anything fixed or firm or solid
+<LEND><info lex="n"/>
+<L>95074.65<pc>490,2<k1>dṛḍha<k2>dṛḍha<e>2B
+¦ stronghold, fortress, <ls>RV.</ls> &c.
+<LEND><info lex="inh"/>
+<L>95074.70<pc>490,2<k1>dṛḍha<k2>dṛḍha<e>2B
+¦ iron, <ls>L.</ls>
+<LEND><info lex="inh"/>
+<L>95074.75<pc>490,2<k1>dṛḍham<k2>dṛḍhám<e>2C
+<s>dṛḍhám</s> ¦ (<s>ám</s>), <lex>ind.</lex> firmly, fast, <ls>AV.</ls>; <ls>MBh.</ls>; <ls>R.</ls> &c. (<ab>comp.</ab> <s>-taram</s>, <ls>Prab. iv, 11</ls>)
+<LEND><info lex="ind"/>
+<L>95074.8<pc>490,2<k1>dṛḍham<k2>dṛḍhám<e>2C
+¦ steadily, perseveringly, thoroughly, much, very well, <ls>MBh.</ls>; <ls>Kāv.</ls>; <ls>BhP.</ls> &c.
+<LEND><info lex="inh"/>
