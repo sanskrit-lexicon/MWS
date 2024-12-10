@@ -194,3 +194,63 @@ git commit -m "standardize links for 'BhP.' #182"
 
 git push
 ============================================================
+12-10-2024
+version 4
+Ref: https://github.com/sanskrit-lexicon/mws/issues/182#issuecomment-2530678105
+
+L-27712.2 data should not be "deleted",
+but is to be "relocated" as L-27713.2
+   (it being a different HW "ā-śrāva", from "2. ā-śrava")!
+ Note: 
+-------
+
+cp temp_mw_3.txt temp_mw_4.txt
+Manual edit of temp_mw_4.txt 
+OLD:
+<L>27713.1<pc>1320,2<k1>ASravaRam<k2>A-SravaRam<e>2B
+<s>A-SravaRam</s> ¦ <lex>ind.</lex> up to the ear, <ls>Naiṣ.</ls><info n="sup"/><info lex="ind"/>
+<LEND>
+<L>27713.2<pc>1320,2<k1>ASrAvitapratyASrAvita<k2>ASrAvita-pratyASrAvita<e>2
+<s>ASrAvita-pratyASrAvita</s> ¦ <lex>n.</lex> <ab>du.</ab> address and response, <ls>JaimUp.</ls><info n="sup"/><info lex="n"/>
+<LEND>
+NEW:
+<L>27713.1<pc>1320,2<k1>ASravaRam<k2>A-SravaRam<e>2B
+<s>A-SravaRam</s> ¦ <lex>ind.</lex> up to the ear, <ls>Naiṣ.</ls><info n="sup"/><info lex="ind"/>
+<LEND>
+<L>27713.2<pc>1320,2<k1>ASrAva<k2>A-SrAva<e>2  
+<s>A-SrAva</s> ¦ <ab>w.r.</ab> for <s>A-srAva</s>.<info n="sup"/>
+<LEND>
+<L>27713.3<pc>1320,2<k1>ASrAvitapratyASrAvita<k2>ASrAvita-pratyASrAvita<e>2
+<s>ASrAvita-pratyASrAvita</s> ¦ <lex>n.</lex> <ab>du.</ab> address and response, <ls>JaimUp.</ls><info n="sup"/><info lex="n"/>
+<LEND>
+
+--------------------------------------------
+Installation version 4
+--------------------------------------------
+# local installation
+sh redo_mw.sh 4
+# ok
+-----------------------------------
+# sync csl-orig to Github
+cd /c/xampp/htdocs/cologne/csl-orig
+
+git add . # mw.txt
+git commit -m "MW: correction
+Ref: https://github.com/sanskrit-lexicon/mws/issues/182#issuecomment-2530678105"
+# 4 lines changed
+git push
+xxx
+-----------------------------------
+Sync Cologne server to github
+1. csl-orig repo pull
+2. csl-pywork/v02  remake displays for mw
+
+-----------------------------------
+sync this MW repo to github.
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue182
+git add .
+git commit -m "Ref: https://github.com/sanskrit-lexicon/mws/issues/182#issuecomment-2530678105"
+
+git push
+============================================================
+
