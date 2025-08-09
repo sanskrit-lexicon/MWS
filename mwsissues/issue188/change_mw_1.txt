@@ -1,0 +1,100 @@
+; <L>61999<pc>340,2<k1>Kuraka<k2>Kuraka<e>2B
+211117 old <s>Kuraka</s> ¦ <lex>m.</lex> a kind of dance, <ls>Vikr. iv, 22/23 f.</ls><info lex="m"/>
+;
+211117 new <s>Kuraka</s> ¦ <lex>m.</lex> a kind of dance, <ls>Vikr. iv, 22</ls>/<ls n="Vikr. iv,">23 f.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>64230<pc>350,3<k1>galitaka<k2>galitaka<e>2
+218289 old <s>galitaka</s> ¦ <lex>m.</lex> a kind of dance, gesticulation, <ls>Vikr. iv, 56/57</ls><info lex="m"/>
+;
+218289 new <s>galitaka</s> ¦ <lex>m.</lex> a kind of dance, gesticulation, <ls>Vikr. iv, 56</ls>/<ls n="Vikr. iv,">57</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>68786<pc>373,1<k1>grAhita<k2>grAhita<e>2A
+233198 old ¦ made to accept or take (a seat &c.), <ls>Vikr. iii, 0/1</ls>; <ls>Daś. vii, 266</ls>; <ls>Kathās. li, 71</ls><info lex="inh"/>
+;
+233198 new ¦ made to accept or take (a seat &c.), <ls>Vikr. iii, 0</ls>/<ls n="Vikr. iii,">1</ls>; <ls>Daś. vii, 266</ls>; <ls>Kathās. li, 71</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>71168<pc>384,2<k1>caturaSra<k2>catur—aSra<e>3B
+240822 old <s>catur—aSra</s> ¦ <lex>n.</lex> a particular posture (in dancing), <ls>Vikr. iv, 41/42</ls>, <ab>Sch.</ab><info lex="n"/>
+;
+240822 new <s>catur—aSra</s> ¦ <lex>n.</lex> a particular posture (in dancing), <ls>Vikr. iv, 41</ls>/<ls n="Vikr. iv,">42</ls>, <ab>Sch.</ab><info lex="n"/>
+;---------------------------------------------------
+; <L>71172<pc>384,2<k1>caturaSraka<k2>catur—aSraka<e>3B
+240834 old <s>catur—°aSraka</s> ¦ <lex>m.</lex> a particular posture (in dancing), <ls>Vikr. iv, 41/42.</ls><info lex="m"/>
+;
+240834 new <s>catur—°aSraka</s> ¦ <lex>m.</lex> a particular posture (in dancing), <ls>Vikr. iv, 41</ls>/<ls n="Vikr. iv,">42.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>77241<pc>412,2<k1>jamBalikA<k2>jamBalikA<e>2
+260581 old <s>jamBalikA</s> ¦ <lex>f.</lex> a kind of song, <ls>Vikr. iv, 2/3.</ls><info lex="f"/>
+;
+260581 new <s>jamBalikA</s> ¦ <lex>f.</lex> a kind of song, <ls>Vikr. iv, 2</ls>/<ls n="Vikr. iv,">3.</ls><info lex="f"/>
+;---------------------------------------------------
+; <L>86948.3<pc>455,1<k1>tena<k2>te/na<e>1A
+292182 old ¦ <s>tena hi</s>, therefore, now then, <ls>Śak.</ls>; <ls>Vikr. i, 3/4.</ls><info lex="inh"/>
+;
+292182 new ¦ <s>tena hi</s>, therefore, now then, <ls>Śak.</ls>; <ls>Vikr. i, 3</ls>/<ls n="Vikr. i,">4.</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>88791.3<pc>462,3<k1>trowaka<k2>trowaka<e>1B
+298200 old <s>trowaka</s> ¦ <lex>n.</lex> a kind of drama, <ls>Vikr. i, 1/2</ls>; <ls>Sāh. vi, 273</ls> (<ab>v.l.</ab> <s>tow°</s>)<info lex="n"/>
+;
+298200 new <s>trowaka</s> ¦ <lex>n.</lex> a kind of drama, <ls>Vikr. i, 1</ls>/<ls n="Vikr. i,">2</ls>; <ls>Sāh. vi, 273</ls> (<ab>v.l.</ab> <s>tow°</s>)<info lex="n"/>
+;---------------------------------------------------
+; <L>92569<pc>480,1<k1>digviBAga<k2>dig—viBAga<e>3
+310986 old <s>dig—viBAga</s> ¦ <lex>m.</lex> <ab n="quarter">q°</ab>, point, direction, <ls>Vikr. i, 0/1</ls>; <ls>Ratn. iv, 5.</ls><info lex="m"/>
+;
+310986 new <s>dig—viBAga</s> ¦ <lex>m.</lex> <ab n="quarter">q°</ab>, point, direction, <ls>Vikr. i, 0</ls>/<ls n="Vikr. i,">1</ls>; <ls>Ratn. iv, 5.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>94999<pc>489,3<k1>dUrArUQa<k2>dUrArUQa<e>3
+318792 old <s>dUrA<srs/>rUQa</s> ¦ <lex>mfn.</lex> mounted high, far gone or advanced, <ls>Vikr. iv, 65/66.</ls><info lex="m:f:n"/>
+;
+318792 new <s>dUrA<srs/>rUQa</s> ¦ <lex>mfn.</lex> mounted high, far gone or advanced, <ls>Vikr. iv, 65</ls>/<ls n="Vikr. iv,">66.</ls><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>98541<pc>505,2<k1>dvipadikA<k2>dvi—padikA<e>3A
+330558 old ¦ a <ab>partic.</ab> manner of singing (?), <ls>Vikr. iv, 1/2</ls> &c.<info lex="inh"/>
+;
+330558 new ¦ a <ab>partic.</ab> manner of singing (?), <ls>Vikr. iv, 1</ls>/<ls n="Vikr. iv,">2</ls> &c.<info lex="inh"/>
+;---------------------------------------------------
+; <L>98655<pc>505,3<k1>dvilaya<k2>dvi—laya<e>3
+330954 old <s>dvi—laya</s> ¦ <lex>m.</lex> (in music) double time (?), <ls>Vikr. iv, 35/36</ls><info lex="m"/>
+;
+330954 new <s>dvi—laya</s> ¦ <lex>m.</lex> (in music) double time (?), <ls>Vikr. iv, 35</ls>/<ls n="Vikr. iv,">36</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>100005<pc>511,1<k1>DarmacAriRI<k2>Darma—cAriRI<e>3B
+335214 old ¦ an honest wife, a virtuous woman, <ls>Vikr. v, 10/20</ls>; <ls>L.</ls> (<ab>cf.</ab> <s>saha-Darma-c°</s>). <info lex="inh"/>
+;
+335214 new ¦ an honest wife, a virtuous woman, <ls>Vikr. v, 10</ls>/<ls n="Vikr. v,">20</ls>; <ls>L.</ls> (<ab>cf.</ab> <s>saha-Darma-c°</s>). <info lex="inh"/>
+;---------------------------------------------------
+; <L>105725.7<pc>536,1<k1>nAma<k2>nA/ma<e>1A
+354442 old ¦ with <ab>Pot.</ab> often = would that, <ab>e.g.</ab> <s>api nAmE<srs/>vaM syAt</s>, would that it were so, <ls>Vikr. v, 19/20</ls><info lex="inh"/>
+;
+354442 new ¦ with <ab>Pot.</ab> often = would that, <ab>e.g.</ab> <s>api nAmE<srs/>vaM syAt</s>, would that it were so, <ls>Vikr. v, 19</ls>/<ls n="Vikr. v,">20</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>110243<pc>559,1<k1>nivAsavfkza<k2>ni-vAsa—vfkza<e>4
+370004 old <s>ni-°vAsa—vfkza</s> ¦ <lex>m.</lex> ‘dwelling tree’, a tree on which a bird has its nest, <ls>Vikr. v, 4/5.</ls><info lex="m"/>
+;
+370004 new <s>ni-°vAsa—vfkza</s> ¦ <lex>m.</lex> ‘dwelling tree’, a tree on which a bird has its nest, <ls>Vikr. v, 4</ls>/<ls n="Vikr. v,">5.</ls><info lex="m"/>
+;---------------------------------------------------
+; <L>121281<pc>614,3<k1>pAwa<k2>pAwa<e>1A
+407848 old ¦ = <s>vAdya-tUro<srs/>tkara</s>, <ls>Vikr. iv, 13/14</ls>, <ab>Sch.</ab><info lex="inh"/>
+;
+407848 new ¦ = <s>vAdya-tUro<srs/>tkara</s>, <ls>Vikr. iv, 13</ls>/<ls n="Vikr. iv,">14</ls>, <ab>Sch.</ab><info lex="inh"/>
+;---------------------------------------------------
+; <L>125707<pc>633,3<k1>punarukta<k2>punar—ukta<e>3A
+421940 old ¦ superfluous, useless, <ls>Vikr. iii, 7/8</ls>; <ls>Hcar.</ls><info lex="inh"/>
+;
+421940 new ¦ superfluous, useless, <ls>Vikr. iii, 7</ls>/<ls n="Vikr. iii,">8</ls>; <ls>Hcar.</ls><info lex="inh"/>
+;---------------------------------------------------
+; <L>245693<pc>1221,1<k1>suKapratibanDin<k2>suKa—pratibanDin<e>3
+815392 old <s>suKa—pratibanDin</s> ¦ <lex>mfn.</lex> obstructing or interrupting happiness (<s>°Di-tA</s> <lex type="phw">f.</lex>), <ls>Vikr. v, 15/16.</ls><info phwchild="245693.1"/><info lex="m:f:n"/>
+;
+815392 new <s>suKa—pratibanDin</s> ¦ <lex>mfn.</lex> obstructing or interrupting happiness (<s>°Di-tA</s> <lex type="phw">f.</lex>), <ls>Vikr. v, 15</ls>/<ls n="Vikr. v,">16.</ls><info phwchild="245693.1"/><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>245695<pc>1221,1<k1>suKapratyarTin<k2>suKa—pratyarTin<e>3
+815401 old <s>suKa—pratyarTin</s> ¦ <lex>mfn.</lex> opposed or hostile to happiness (<s>-tA</s> <lex type="phw">f.</lex>), <ls>Vikr. v, 15/16</ls> (<ab>v.l.</ab> for <s>-pratibanDi-tA</s>). <info phwchild="245695.1"/><info lex="m:f:n"/>
+;
+815401 new <s>suKa—pratyarTin</s> ¦ <lex>mfn.</lex> opposed or hostile to happiness (<s>-tA</s> <lex type="phw">f.</lex>), <ls>Vikr. v, 15</ls>/<ls n="Vikr. v,">16</ls> (<ab>v.l.</ab> for <s>-pratibanDi-tA</s>). <info phwchild="245695.1"/><info lex="m:f:n"/>
+;---------------------------------------------------
+; <L>255467<pc>1263,2<k1>sTAnaka<k2>sTAnaka<e>2B
+846785 old ¦ a <ab>partic.</ab> point or situation in dramatic action, <ls>Vikr. iv, 44/45</ls> (others ‘a kind of posture’; but <ab>cf.</ab> <s>patAkA-sT°</s>)<info lex="inh"/>
+;
+846785 new ¦ a <ab>partic.</ab> point or situation in dramatic action, <ls>Vikr. iv, 44</ls>/<ls n="Vikr. iv,">45</ls> (others ‘a kind of posture’; but <ab>cf.</ab> <s>patAkA-sT°</s>)<info lex="inh"/>
+;---------------------------------------------------
