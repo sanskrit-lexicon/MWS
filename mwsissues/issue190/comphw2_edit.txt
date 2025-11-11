@@ -1,0 +1,390 @@
+
+------------------------------------------------
+* CASE 01 (agnyADAna), (agnyADeya) agnyADAnarUpa, agnyADAnaSarkarA, agnyADAnahavis
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=6,1
+
+** lostparent
+<L>1175<pc>6,1<k1>agnyADAna<k2>agny-ADAna<e>3
+<s>agny-ADAna</s> [<ls>KauṣBr.</ls>] or <s>-ADe/ya</s> [<ls>AV.</ls>; <ls>Mn.</ls> &c.], ¦ <lex>n.</lex> placing the fire on the sacrificial fire-place<info or="1175,agnyADAna;1176,agnyADeya"/><info lex="n"/>
+<LEND>
+<L>1175.1<pc>6,1<k1>agnyADAna<k2>agny-ADAna<e>3A
+¦ the ceremony of preparing the three sacred fires <s1 slp1="AhavanIya">Āhavanīya</s1> &c.<info lex="inh"/>
+<LEND>
+<L>1175.3<pc>6,1<k1>agnyADAnarUpa<k2>agny-ADAna—rUpa/<e>4
+<s>agny-ADAna—rUpa/</s> ¦ <lex>n.</lex> form or shape of the <ab n="Agnyādheya" slp1="agnyADeya">A°</ab>, <ls>ŚBr.</ls><info lex="n"/>
+<LEND>
+<L>1175.4<pc>6,1<k1>agnyADAnaSarkarA<k2>agny-ADAna—SarkarA/<e>4
+<s>agny-ADAna—SarkarA/</s> ¦ <lex>f. <ab>pl.</ab></lex> (figuratively) bad performance of the <ab n="Agnyādheya" slp1="agnyADeya">A°</ab>, <ls>ŚBr.</ls><info lex="f"/>
+<LEND>
+<L>1175.5<pc>6,1<k1>agnyADAnahavis<k2>agny-ADAna—havi/s<e>4
+<s>agny-ADAna—havi/s</s> ¦ <lex>n.</lex> an oblation at the <ab n="Agnyādheya" slp1="agnyADeya">A°</ab>, <ls>ŚBr.</ls><info lex="n"/>
+<LEND>
+<L>1176<pc>6,1<k1>agnyADeya<k2>agny-ADe/ya<e>3
+<s>agny-ADAna</s> [<ls>KauṣBr.</ls>] or <s>-ADe/ya</s> [<ls>AV.</ls>; <ls>Mn.</ls> &c.], ¦ <lex>n.</lex> placing the fire on the sacrificial fire-place<info or="1175,agnyADAna;1176,agnyADeya"/><info lex="n"/>
+<LEND>
+<L>1176.1<pc>6,1<k1>agnyADeya<k2>agny-ADe/ya<e>3A
+¦ the ceremony of preparing the three sacred fires <s1 slp1="AhavanIya">Āhavanīya</s1> &c.<info lex="inh"/>
+<LEND>
+<L>1176.2<pc>6,1<k1>agnyADeyadevatA<k2>agny-ADeya—devatA<e>4
+<s>agny-ADeya—devatA</s> ¦ <lex>f.</lex> the deity of the <s1 slp1="agnyADeya">Agnyādheya</s1> ceremony, <ls>PārGṛ.</ls><info lex="f"/>
+<LEND>
+
+------------------------------------------------
+* CASE 02 ajaloma  (ajaloman), (ajalomI)
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=9,3
+** lostparent
+<L>1993<pc>9,3<k1>ajaloman<k2>aja—loman<e>3
+<s>aja—loman</s>, <lex>n.</lex> or <s>aja—lomI</s>, <lex>f.</lex>, ¦ Cowage, <bot>Carpopogon Pruriens</bot><info or="1993,ajaloman;1995,ajalomI"/><info lex="n"/>
+<LEND>
+<L>1993.1<pc>1309,2<k1>ajaloman<k2>aja—loman<e>3B
+<s>aja—loman</s> ¦ <lex>mf(<s>mnI</s>)n.</lex> hairy as a goat, <ls>MaitrS.</ls><info n="sup"/><info lex="m:f#mnI:n"/>
+<LEND>
+<L>1994<pc>9,3<k1>ajaloman<k2>aja—loma/n<e>3B
+<s>aja—loma/n</s> ¦ <lex>n.</lex> goat's hair, <ls>ŚBr.</ls> &c.<info lex="n"/>
+<LEND>
+<L>1995<pc>9,3<k1>ajalomI<k2>aja—lomI<e>3
+<s>aja—loman</s>, <lex>n.</lex> or <s>aja—lomI</s>, <lex>f.</lex>, ¦ Cowage, <bot>Carpopogon Pruriens</bot><info or="1993,ajaloman;1995,ajalomI"/><info lex="f"/>
+<LEND>
+<L>1996<pc>9,3<k1>ajaloma<k2>aja—loma/<e>3B 
+<s>aja—loma/</s> ¦ <lex>n.</lex> goat's hair, <ls>ŚBr.</ls> &c.<info lex="n"/>
+<LEND>
+
+
+------------------------------------------------
+* CASE 03 (atiCattra) ,atiCattrA, atiCattrakA 
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=12,2
+** lostparent  
+<L>2615<pc>12,2<k1>atiCattra<k2>ati—Cattra<e>3
+<s>ati—Cattra</s> or <s>ati—Cattraka</s>, ¦ <lex>m.</lex> a mushroom<info or="2615,atiCattra;2618,atiCattraka"/><info lex="m"/>
+<LEND>
+<L>2616<pc>12,2<k1>atiCattrA<k2>ati—CattrA<e>3B
+<s>ati—CattrA</s> ¦ <lex>f.</lex> Anise (<bot>Anisum</bot> or <bot>Anethum Sowa</bot>)<info lex="f"/>
+<LEND>
+<L>2617<pc>12,2<k1>atiCattrA<k2>ati—CattrA<e>3B
+¦ the plant <bot>Barleria Longifolia</bot>.<info lex="inh"/>
+<LEND>
+<L>2618<pc>12,2<k1>atiCattraka<k2>ati—Cattraka<e>3
+<s>ati—Cattra</s> or <s>ati—Cattraka</s>, ¦ <lex>m.</lex> a mushroom<info or="2615,atiCattra;2618,atiCattraka"/><info lex="m"/>
+<LEND>
+<L>2619<pc>12,2<k1>atiCattrakA<k2>ati—CattrakA<e>3B
+<s>ati—CattrakA</s> ¦ <lex>f.</lex> Anise (<bot>Anisum</bot> or <bot>Anethum Sowa</bot>)<info lex="f"/>
+<LEND>
+<L>2620<pc>12,2<k1>atiCattrakA<k2>ati—CattrakA<e>3B
+¦ the plant <bot>Barleria Longifolia</bot>.<info lex="inh"/>
+<LEND>
+
+
+------------------------------------------------
+* CASE 04 (boDAyanIya) , boDAyanIyA, (boDAyanIyagfhyamAlA)
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=734,3
+
+** lostparent 
+<L>145870<pc>734,3<k1>boDAyanIya<k2>boDAyanIya<e>2
+<s>boDAyanIya</s> ¦ <lex>n.</lex> (and <s>-gfhya-mAlA</s> <lex>f.</lex>) <ab>N.</ab> of <ab>wks.</ab><info lex="n"/><info and="145870,boDAyanIya;145871.1,boDAyanIyagfhyamAlA"/>
+<LEND>
+<L>145871<pc>734,3<k1>boDAyanIyA<k2>boDAyanIyA<e>2B
+<s>boDAyanIyA</s> ¦ <lex>f.</lex> a <ab>partic.</ab> drug, <ls>L.</ls><info lex="f"/>
+<LEND>
+<L>145871.1<pc>734,3<k1>boDAyanIyagfhyamAlA<k2>boDAyanIya—gfhya-mAlA<e>3
+<s>boDAyanIya</s> ¦ <lex>n.</lex> (and <s>-gfhya-mAlA</s> <lex>f.</lex>) <ab>N.</ab> of <ab>wks.</ab><info lex="n"/><info and="145870,boDAyanIya;145871.1,boDAyanIyagfhyamAlA"/>
+<LEND>
+
+
+
+------------------------------------------------
+* CASE 05 (durgAQa), durgADatva, (durgAhya), (durgAhyatva)
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=485,2
+** lostparent
+<L>93904<pc>485,2<k1>durgAQa<k2>dur—gAQa<e>3
+<s>dur—gAQa</s> (<ls>Hariv.</ls>), <s>dur—gADa</s> (<ls>Suśr.</ls>), and <s>dur—gAhya</s> (<s>-tva</s> <lex type="phw">n.</lex>, <ls>Pañc. i, 317</ls>), ¦ <lex>mfn.</lex> unfathomable.<info and="93904,durgAQa;93905,durgADa;93906,durgAhya"/><info phwchild="93905.1"/><info lex="m:f:n"/>
+<LEND>
+<L>93905<pc>485,2<k1>durgADa<k2>dur—gADa<e>3
+<s>dur—gAQa</s> (<ls>Hariv.</ls>), <s>dur—gADa</s> (<ls>Suśr.</ls>), and <s>dur—gAhya</s> (<s>-tva</s> <lex type="phw">n.</lex>, <ls>Pañc. i, 317</ls>), ¦ <lex>mfn.</lex> unfathomable.<info and="93904,durgAQa;93905,durgADa;93906,durgAhya"/><info phwchild="93905.1"/><info lex="m:f:n"/>
+<LEND>
+<L>93905.1<pc>485,2<k1>durgADatva<k2>dur—gADa—tva<e>4
+<s>dur—gADa—tva</s> ¦ <lex>n.</lex>, <ls>Pañc. i, 317</ls><info phwparent="93905,durgADa"/><info lex="n"/>
+<LEND>
+<L>93906<pc>485,2<k1>durgAhya<k2>dur—gAhya<e>3
+<s>dur—gAQa</s> (<ls>Hariv.</ls>), <s>dur—gADa</s> (<ls>Suśr.</ls>), and <s>dur—gAhya</s> (<s>-tva</s> <lex type="phw">n.</lex>, <ls>Pañc. i, 317</ls>), ¦ <lex>mfn.</lex> unfathomable.<info and="93904,durgAQa;93905,durgADa;93906,durgAhya"/><info phwchild="93905.1"/><info lex="m:f:n"/>
+<LEND>
+<L>93906.1<pc>485,2<k1>durgAhyatva<k2>dur—gAhya—tva<e>4
+<s>dur—gAhya—tva</s> ¦ <lex>n.</lex>, <ls>Pañc. i, 317</ls><info phwparent="93906,durgAhya"/><info lex="n"/>
+<LEND>
+
+
+------------------------------------------------
+* CASE 06 (ekASraya), ekASrayaguRa, (ekASrita), (ekASritaguRa)
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=230,3
+** lostparent
+<L>39897<pc>230,3<k1>ekASraya<k2>ekASraya<e>3
+<s>ekA<srs/>Sraya</s> and <s>ekA<srs/>Srita</s>, ¦ <lex>mfn.</lex> resting upon or clinging to one object or person (<ab>cf.</ab> <s>an-ekA<srs/>Sr°</s>), <ls>Bhāṣāp.</ls><info and="39897,ekASraya;39899,ekASrita"/><info lex="m:f:n"/>
+<LEND>
+<L>39898<pc>230,3<k1>ekASrayaguRa<k2>ekASraya—guRa<e>4
+<s>ekA<srs/>Sraya—guRa</s> ¦ <lex>m.</lex> a simple attribute or predicate (as form, smell, taste, &c.)<info lex="m"/>
+<LEND>
+<L>39899<pc>230,3<k1>ekASrita<k2>ekASrita<e>3
+<s>ekA<srs/>Sraya</s> and <s>ekA<srs/>Srita</s>, ¦ <lex>mfn.</lex> resting upon or clinging to one object or person (<ab>cf.</ab> <s>an-ekA<srs/>Sr°</s>), <ls>Bhāṣāp.</ls><info and="39897,ekASraya;39899,ekASrita"/><info lex="m:f:n"/>
+<LEND>
+<L>39900<pc>230,3<k1>ekASritaguRa<k2>ekASrita—guRa<e>4
+<s>ekA<srs/>Srita—guRa</s> ¦ <lex>m.</lex> a simple attribute or predicate (as form, smell, taste, &c.)<info lex="m"/>
+<LEND>
+
+
+------------------------------------------------
+* CASE 07 (karvara, (karbara), (karvarI), karbarA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=259,3
+** lostparent
+<L>45528<pc>259,3<k1>karvara<k2>karvara<h>2<e>1
+<hom>2.</hom> <s>karvara</s> or <s>karbara</s>, ¦ <lex>mfn.</lex> (√ <hom>1.</hom> <s>kF</s>, <ls>Uṇ. ii, 123</ls>), variegated, spotted, <ls>L.</ls><info or="45528,karvara;45528.6,karbara"/><info lex="m:f:n"/>
+<LEND>
+<L>45528.05<pc>259,3<k1>karvara<k2>karvara<e>1B
+<s>karvara</s> ¦ <lex>m.</lex> sin, <ls>L.</ls><info lex="m"/>
+<LEND>
+<L>45528.10<pc>259,3<k1>karvara<k2>karvara<e>1B
+¦ a <s1 slp1="rakzas">Rakṣas</s1>, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.15<pc>259,3<k1>karvara<k2>karvara<e>1B
+¦ a tiger, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.20<pc>259,3<k1>karvara<k2>karvara<e>1B
+¦ a particular medicament, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.25<pc>259,3<k1>karvarI<k2>karvarI<e>1B
+<s>karvarI</s> ¦ <lex>f.</lex> night, <ls>L.</ls><info lex="f"/>
+<LEND>
+<L>45528.30<pc>259,3<k1>karvarI<k2>karvarI<e>1B
+¦ a <s1 slp1="rAkzasI">Rākṣasī</s1>, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.35<pc>259,3<k1>karvarI<k2>karvarI<e>1B
+¦ a tigress, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.40<pc>259,3<k1>karvarI<k2>karvarI<e>1B
+¦ the leaf of <bot>Asa foetida</bot>, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.45<pc>259,3<k1>karvarI<k2>karvarI<e>1B
+¦ <ab>N.</ab> of <s1 slp1="durgA">Durgā</s1>, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.50<pc>259,3<k1>karvara<k2>karvara<e>1B
+<s>karvara</s> ¦ <lex>n.</lex> red lead, <ls>L.</ls>; (<ab>cf.</ab> <s>karbu</s>, <s>karbura</s>, &c.; <s>karavI</s>; <s>kAravI</s>.)<info lex="n"/>
+<LEND>
+<L>45528.6<pc>259,3<k1>karbara<k2>karbara<h>b<e>1
+<hom>2.</hom> <s>karvara</s> or <s>karbara</s>, ¦ <lex>mfn.</lex> (√ <hom>1.</hom> <s>kF</s>, <ls>Uṇ. ii, 123</ls>), variegated, spotted, <ls>L.</ls><info or="45528,karvara;45528.6,karbara"/><info lex="m:f:n"/>
+<LEND>
+<L>45528.7<pc>259,3<k1>karbara<k2>karbara<e>1B
+<s>karbara</s> ¦ <lex>m.</lex> sin, <ls>L.</ls><info lex="m"/>
+<LEND>
+<L>45528.8<pc>259,3<k1>karbara<k2>karbara<e>1B
+¦ a <s1 slp1="rakzas">Rakṣas</s1>, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.9<pc>259,3<k1>karbara<k2>karbara<e>1B
+¦ a tiger, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.91<pc>259,3<k1>karbara<k2>karbara<e>1B
+¦ a particular medicament, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.92<pc>259,3<k1>karbarA<k2>karbarA<e>1B
+<s>karbarA</s> ¦ <lex>f.</lex> night, <ls>L.</ls><info lex="f"/>
+<LEND>
+<L>45528.93<pc>259,3<k1>karbarA<k2>karbarA<e>1B
+¦ a <s1 slp1="rAkzasI">Rākṣasī</s1>, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.94<pc>259,3<k1>karbarA<k2>karbarA<e>1B
+¦ a tigress, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.95<pc>259,3<k1>karbarA<k2>karbarA<e>1B
+¦ the leaf of <bot>Asa foetida</bot>, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.96<pc>259,3<k1>karbarA<k2>karbarA<e>1B
+¦ <ab>N.</ab> of <s1 slp1="durgA">Durgā</s1>, <ls>L.</ls><info lex="inh"/>
+<LEND>
+
+
+------------------------------------------------
+* CASE 08 (krIqi), krIli
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=321,3
+
+** lostparent
+<L>58200<pc>321,3<k1>krIqi<k2>krIqi/<e>2
+<s>krIqi/</s> or <s>krILi/</s>, ¦ <lex>mfn.</lex> playing, sporting, <ls>RV.</ls>; <ls>MaitrS. i, 10, 6</ls><info or="58200,krIqi;58202,krIli"/><info lex="m:f:n"/>
+<LEND>
+<L>58201<pc>321,3<k1>krIqi<k2>krIqi/<e>2A
+¦ (said of the winds), <ls>RV. i, 87, 3.</ls><info lex="inh"/>
+<LEND>
+<L>58202<pc>321,3<k1>krILi<k2>krILi/<e>2
+<s>krIqi/</s> or <s>krILi/</s>, ¦ <lex>mfn.</lex> playing, sporting, <ls>RV.</ls>; <ls>MaitrS. i, 10, 6</ls><info or="58200,krIqi;58202,krIli"/><info lex="m:f:n"/>
+<LEND>
+<L>58203<pc>321,3<k1>krIli<k2>krIli/<e>2A
+¦ (said of the winds), <ls>RV. i, 87, 3.</ls><info lex="inh"/>
+<LEND>
+
+
+------------------------------------------------
+* CASE 09 mIQu, mI|u
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=818,2
+** lostparent
+<L>164587<pc>818,2<k1>mIQu<k2>mIQu<e>2
+<s>mIQu</s> ¦ <lex>m.</lex> = <s>Dana</s>, <ls>Naigh. ii, 10.</ls><info lex="m"/>
+<LEND>
+<L>164588<pc>818,2<k1>mI|u<k2>mI|u/<e>2
+<s>mI|u/</s> ¦ <lex>m.</lex> = <s>Dana</s>, <ls>Naigh. ii, 10.</ls><info lex="m"/>
+<LEND>
+
+------------------------------------------------
+* CASE 10 (napAt), (naptf),  naptrI
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=527,2
+** lostparent
+<L>103690<pc>527,2<k1>napAt<k2>na/pAt<e>1
+<s>na/pAt</s>, ¦ <s>na/ptf</s>, <lex>m.</lex> (the former stem only in the strong cases and earlier <ab>lang.</ab>; the latter in <lang>Class.</lang>, but <ab>acc.</ab> <s>naptAram</s> appears in <ls>TS.</ls> & <ls>AitBr.</ls>) descendant, offspring, son (in this meaning <ab>esp.</ab> in <ls>RV.</ls>, <ab>e.g.</ab> <s>apAM n°</s>, <s>Urjo n°</s>, <s>divo n°</s>, <s>vimuco n°</s> &c.)<info or="103690,napAt;103696.1,naptf"/><info lex="m"/>
+<LEND>
+<L>103691<pc>527,2<k1>napAt<k2>na/pAt<e>1A
+¦ grandson (in later <ab>lang.</ab> restricted to this sense), <ls>RV.</ls> &c. &c.<info lex="inh"/>
+<LEND>
+<L>103692<pc>527,2<k1>napAt<k2>na/pAt<e>1A
+¦ <ab>N.</ab> of one of the <s1 slp1="viSve">Viśve</s1> <s1 slp1="devA">devā</s1>s, <ls>MBh. xiii, 4362</ls><info lex="inh"/>
+<LEND>
+<L>103693<pc>527,2<k1>napAt<k2>na/pAt<e>1A
+¦ path of the gods (?), <ls>Mahīdh.</ls> on <ls>VS. xix, 56</ls><info lex="inh"/>
+<LEND>
+<L>103694<pc>527,2<k1>napAt<k2>na/pAt<e>1A
+¦ granddaughter (?), <ls>Uṇ. ii, 96</ls>, <ab>Sch.</ab><info lex="inh"/>
+<LEND>
+<L>103695<pc>527,2<k1>napAtI<k2>napAtI/<e>1B
+<s>na/pAtI/</s> ¦ (<s>I/</s>), <lex>f.</lex>, <ls>RV.</ls>; <ls>AV.</ls> (<ls n="AV.">ix, 1, 3</ls> <ab>nom.</ab> <s>°ti/s</s>) daughter, granddaughter (<ab>pl.</ab> often <ab>fig.</ab> ‘the fingers, hands’ &c.)<info lex="f"/>
+<LEND>
+<L>103696<pc>527,2<k1>naptrI<k2>naptrI<e>1B
+<s>naptrI</s> ¦ (<s>trI</s>), <lex>f.</lex> granddaughter, <ls>SVĀr.</ls>; <ls>L.</ls> <info lex="f"/>
+<LEND>
+<L>103696.05<pc>527,2<k1>napAt<k2>napAt<e>1E
+<s>napAt</s> ¦ [<ab>Prob.</ab> neither = <s>na + pat</s> (<ls>Uṇ. ii, 96</ls>) nor <s>na + pAt</s> (<ls>Pāṇ. vi, 3, 75</ls>), and of very questionable connection with √ <s>naB</s>, or <s>nah</s>; <ab>cf.</ab> <lang>Zd.</lang> <etym>napāt</etym>, <etym>naptar</etym>; <lang>Gk.</lang> <gk>νέποδες</gk>, <gk>ἀνεψιός</gk>; <lang>Lat.</lang> <etym>nepōt-em</etym>; <lang>Angl.Sax.</lang> <etym>nefa</etym>; <lang>HGerm.</lang> <etym>nëvo</etym>, <etym>nëve</etym>, <etym>Neffe</etym>.]
+<LEND>
+<L>103696.1<pc>527,2<k1>naptf<k2>na/ptf<e>1
+<s>na/pAt</s>, ¦ <s>na/ptf</s>, <lex>m.</lex> (the former stem only in the strong cases and earlier <ab>lang.</ab>; the latter in <lang>Class.</lang>, but <ab>acc.</ab> <s>naptAram</s> appears in <ls>TS.</ls> & <ls>AitBr.</ls>) descendant, offspring, son (in this meaning <ab>esp.</ab> in <ls>RV.</ls>, <ab>e.g.</ab> <s>apAM n°</s>, <s>Urjo n°</s>, <s>divo n°</s>, <s>vimuco n°</s> &c.)<info or="103690,napAt;103696.1,naptf"/><info lex="m"/>
+<LEND>
+
+
+
+------------------------------------------------
+* CASE 11 (rAjayakzma), (rAjayakzman), (-nAman, -min)  rAjayakzmannAman
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=873,3
+** lostparent
+<L>176554<pc>873,3<k1>rAjayakzma<k2>rAja—yakzma/<e>3
+<s>rAja—yakzma/</s> or <s>rAja—yakzman</s>, ¦ <lex>m.</lex> a <ab>partic.</ab> kind of dangerous disease (later ‘pulmonary consumption, a trophy’), <ls>RV.</ls> &c. &c. (<s>-yakzman</s>, also ‘<ab>N.</ab> of a divine being’, <ls>Hcat.</ls>)<info or="176554,rAjayakzma;176557,rAjayakzman"/><info lex="m"/>
+<LEND>
+<L>176555<pc>873,3<k1>rAjayakzmanAman<k2>rAja—yakzma—nAman<e>4
+<s>rAja—yakzma—nAman</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <ab>partic.</ab> mythical being (said to be connected with the foundation of a house), <ls>VarBṛS.</ls><info lex="m"/>
+<LEND>
+<L>176556<pc>873,3<k1>rAjayakzmin<k2>rAja—yakzmin<e>4
+<s>rAja—yakz°min</s> ¦ <lex>mf(<s>iRI</s>)n.</lex> suffering from consumption, consumptive, <ls>Suśr.</ls><info lex="m:f#iRI:n"/>
+<LEND>
+<L>176557<pc>873,3<k1>rAjayakzman<k2>rAja—yakzman<e>3
+<s>rAja—yakzma/</s> or <s>rAja—yakzman</s>, ¦ <lex>m.</lex> a <ab>partic.</ab> kind of dangerous disease (later ‘pulmonary consumption, a trophy’), <ls>RV.</ls> &c. &c. (<s>-yakzman</s>, also ‘<ab>N.</ab> of a divine being’, <ls>Hcat.</ls>)<info or="176554,rAjayakzma;176557,rAjayakzman"/><info lex="m"/>
+<LEND>
+<L>176558<pc>873,3<k1>rAjayakzmannAman<k2>rAja—yakzmannAman<e>4
+<s>rAja—yakzmannAman</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <ab>partic.</ab> mythical being (said to be connected with the foundation of a house), <ls>VarBṛS.</ls><info lex="m"/>
+<LEND>
+
+
+------------------------------------------------
+* CASE 12 (sAmaga), (sAmagA), and compounds sAmagAnAMCandas
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=1205,1
+** lostparent
+<L>242242<pc>1205,1<k1>sAmaga<k2>sAma—ga/<e>3
+<s>sAma—ga/</s> or <s>sAma—gA/</s>, ¦ <lex>m.</lex> a <ns>Brāhman</ns> who chants or recites the <ab n="Sāma-veda" slp1="sAma-veda">S°</ab>, <ls>RV.</ls> &c. &c.<info or="242242,sAmaga;242246,sAmagA"/><info lex="m"/>
+<LEND>
+<L>242243<pc>1205,1<k1>sAmagI<k2>sAma—gI<e>3B
+<s>sAma—gI</s> ¦ (<s>I</s>), <lex>f.</lex> the wife of a <ab n="Sāma-veda" slp1="sAma-veda">S°</ab> <ns>Brāhman</ns>, <ls>L.</ls><info lex="f"/>
+<LEND>
+<L>242245<pc>1205,1<k1>sAmagapUrvApara<k2>sAma—ga—pUrvApara<e>4
+<s>sAma—ga—pUrvA<srs/>para</s> ¦ <lex>m.</lex> <lex>n.</lex> <ab>N.</ab> of <ab>wk.</ab><info lex="m:n"/>
+<LEND>
+<L>242245.1<pc>1205,1<k1>sAmagaprayoga<k2>sAma—ga—prayoga<e>4
+<s>sAma—ga—prayoga</s> ¦ <lex>m.</lex> <ab>N.</ab> of <ab>wk.</ab><info lex="m"/>
+<LEND>
+<L>242245.2<pc>1205,1<k1>sAmagavfzotsarga<k2>sAma—ga—vfzotsarga<e>4
+<s>sAma—ga—vfzo<srs/>tsarga</s> ¦ <lex>m.</lex> <ab>N.</ab> of <ab>wk.</ab><info lex="m"/>
+<LEND>
+<L>242246<pc>1205,1<k1>sAmagA<k2>sAma—gA/<h>a<e>3
+<s>sAma—ga</s> or <s>sAma—gA/</s>, ¦ <lex>m.</lex> a <ns>Brāhman</ns> who chants or recites the <ab n="Sāma-veda" slp1="sAma-veda">S°</ab>, <ls>RV.</ls> &c. &c.<info or="242242,sAmaga;242246,sAmagA"/><info lex="m"/>
+<LEND>
+<L>242248<pc>1205,1<k1>sAmagAnAMCandas<k2>sAma—gAnAM-Candas<e>4
+<s>sAma—gAnAM-Candas</s> ¦ <lex>n.</lex> a <s1 slp1="pariSizwa">Pariśiṣṭa</s1> of the <s1 slp1="sAma-veda">Sāma-veda</s1><info lex="n"/>
+<LEND>
+<L>242250.2<pc>1205,1<k1>sAmagAhnika<k2>sAma—gAhnika<e>4
+<s>sAma—°gA<srs/>hnika</s> ¦ <lex>n.</lex> <ab>N.</ab> of <ab>wk.</ab><info lex="n"/>
+<LEND>
+
+
+------------------------------------------------
+* CASE 13 (sma), (smA), (Sma), (SmA)  smottara, [uttara]
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=178,1
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=1271,2
+** lostparent 
+<L>31144<pc>178,1<k1>uttara<k2>u/ttara<e>2A
+¦ followed by (<ab>e.g.</ab> <s>smo<srs/>ttara</s> <lex type="phw">mfn.</lex> followed by ‘<s>sma</s>’, <ls>Pāṇ. iii, 3, 176</ls>)<info phwchild="257061.11"/><info lex="inh"/>
+<LEND>
+
+<L>257061.11<pc>178,1<k1>smottara<k2>smottara<e>3
+<s>smo<srs/>ttara</s> ¦ <lex>mfn.</lex>, followed by ‘<s>sma</s>’, <ls>Pāṇ. iii, 3, 176</ls><info phwparent="31144,uttara"/><info lex="m:f:n"/>
+<LEND>
+
+
+------------------------------------------------
+* CASE 14 tulApragraha, (tulApragrAha)
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=451,2
+
+** lostparent
+<L>86143<pc>451,2<k1>tulApragraha<k2>tulA—pragraha<e>3
+<s>tulA—pragraha</s> ¦ <lex>m.</lex> the string of a balance, <ls>Pāṇ. iii, 3, 52</ls>, <ls>Kāś.</ls><info lex="m"/>
+<LEND>
+<L>86144<pc>451,2<k1>tulApragrAha<k2>tulA—pragrAha<e>3
+<s>tulA—pra°grAha</s> ¦ <lex>m.</lex> the string of a balance, <ls>Pāṇ. iii, 3, 52</ls>, <ls>Kāś.</ls><info lex="m"/>
+<LEND>
+
+
+------------------------------------------------
+* CASE 15 (vinDyAvali), vinDyAvalisuta, (vinDyAvalI), (vinDyAvalIputra), (vinDyAvalIputra)
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=972,3
+
+** lostparent
+<L>197386<pc>972,3<k1>vinDyAvali<k2>vinDyAvali<e>3
+<s>vinDyA<srs/>vali</s> or <s>vinDyA<srs/>va°lI</s>, ¦ <lex>f.</lex> <ab>N.</ab> of the wife of the <s1 slp1="asura">Asura</s1> <s1 slp1="bali">Bali</s1> and mother of <s1 slp1="bARa">Bāṇa</s1>, <ls>Pur.</ls><info or="197386,vinDyAvali;197388,vinDyAvalI"/><info lex="f"/>
+<LEND>
+<L>197387<pc>972,3<k1>vinDyAvalisuta<k2>vinDyAvali—suta<e>4
+<s>vinDyA<srs/>vali—suta</s> ¦ <lex>m.</lex> (<ls>W.</ls>) <ab>N.</ab> of the <s1 slp1="asura">Asura</s1> <s1 slp1="bARa">Bāṇa</s1>.<info lex="m"/>
+<LEND>
+<L>197388<pc>972,3<k1>vinDyAvalI<k2>vinDyAvalI<e>3
+<s>vinDyA<srs/>vali</s> or <s>vinDyA<srs/>va°lI</s>, ¦ <lex>f.</lex> <ab>N.</ab> of the wife of the <s1 slp1="asura">Asura</s1> <s1 slp1="bali">Bali</s1> and mother of <s1 slp1="bARa">Bāṇa</s1>, <ls>Pur.</ls><info or="197386,vinDyAvali;197388,vinDyAvalI"/><info lex="f"/>
+<LEND>
+<L>197389<pc>972,3<k1>vinDyAvalIputra<k2>vinDyAvalI-putra<e>4
+<s>vinDyA<srs/>va°lI-putra</s> ¦ <lex>m.</lex> <ab>N.</ab> of the <s1 slp1="asura">Asura</s1> <s1 slp1="bARa">Bāṇa</s1>. (<ab>C.</ab>)<info lex="m"/>
+<LEND>
+<L>197389.1<pc>972,3<k1>vinDyAvalIsuta<k2>vinDyAvalI—suta<e>4
+<s>vinDyA<srs/>valI—suta</s> ¦ <lex>m.</lex> <ab>N.</ab> of the <s1 slp1="asura">Asura</s1> <s1 slp1="bARa">Bāṇa</s1>. (<ls>W.</ls>)<info lex="m"/>
+<LEND>
+
+
+------------------------------------------------
+* CASE 16 (yamalArjuna), (yamalArjunaBaYjana), (yamalArjunahan), yamalArjunakaBaYjana, yamalArjunakahan
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=847,1
+
+** lostparent
+<L>170566<pc>847,1<k1>yamalArjuna<k2>yamalArjuna<e>3
+<s>yamalA<srs/>rjuna</s> or <s>yamalA<srs/>rju°naka</s>, ¦ <lex>m. <ab>du.</ab></lex> two <s1 slp1="arjuna">Arjuna</s1> trees (which obstructed the path of <s1 slp1="kfzRa">Kṛṣṇa</s1>, when a child, and were uprooted by him; afterwards personified as the enemies of <s1 slp1="kfzRa">Kṛṣṇa</s1>, and in the later mythology regarded as metamorphoses of <s1 slp1="nala-kUbara">Nala-kūbara</s1> and <s1 slp1="maRigrIva">Maṇigrīva</s1>, two sons of <s1 slp1="kubera">Kubera</s1>), <ls>R.</ls>; <ls>Hariv.</ls>; <ls>Pur.</ls><info or="170566,yamalArjuna;170568,yamalArjunaka"/><info lex="m"/>
+<LEND>
+<L>170567<pc>847,1<k1>yamalArjunaBaYjana<k2>yamalArjuna—BaYjana<e>4
+<s>yamalA<srs/>rjuna—BaYjana</s> (<ls>Pañcar.</ls>), <s>yamalA<srs/>rjuna—han</s> (<ls>W.</ls>), ¦ <lex>m.</lex> ‘breaker or destroyer of the two <s1 slp1="arjuna">Arjuna</s1> trees’, <ab>N.</ab> of <s1 slp1="kfzRa">Kṛṣṇa</s1> or <s1 slp1="vizRu">Viṣṇu</s1>.<info or="170567,yamalArjunaBaYjana;170567.1,yamalArjunahan"/><info lex="m"/>
+<LEND>
+<L>170567.1<pc>847,1<k1>yamalArjunahan<k2>yamalArjuna—han<e>4
+<s>yamalA<srs/>rjuna—BaYjana</s> (<ls>Pañcar.</ls>), <s>yamalA<srs/>rjuna—han</s> (<ls>W.</ls>), ¦ <lex>m.</lex> ‘breaker or destroyer of the two <s1 slp1="arjuna">Arjuna</s1> trees’, <ab>N.</ab> of <s1 slp1="kfzRa">Kṛṣṇa</s1> or <s1 slp1="vizRu">Viṣṇu</s1>.<info or="170567,yamalArjunaBaYjana;170567.1,yamalArjunahan"/><info lex="m"/>
+<LEND>
+<L>170568<pc>847,1<k1>yamalArjunaka<k2>yamalArjunaka<e>3
+<s>yamalA<srs/>rjuna</s> or <s>yamalA<srs/>rju°naka</s>, ¦ <lex>m. <ab>du.</ab></lex> two <s1 slp1="arjuna">Arjuna</s1> trees (which obstructed the path of <s1 slp1="kfzRa">Kṛṣṇa</s1>, when a child, and were uprooted by him; afterwards personified as the enemies of <s1 slp1="kfzRa">Kṛṣṇa</s1>, and in the later mythology regarded as metamorphoses of <s1 slp1="nala-kUbara">Nala-kūbara</s1> and <s1 slp1="maRigrIva">Maṇigrīva</s1>, two sons of <s1 slp1="kubera">Kubera</s1>), <ls>R.</ls>; <ls>Hariv.</ls>; <ls>Pur.</ls><info or="170566,yamalArjuna;170568,yamalArjunaka"/><info lex="m"/>
+<LEND>
+<L>170569<pc>847,1<k1>yamalArjunakaBaYjana<k2>yamalArjunaka—BaYjana<e>4
+<s>yamalA<srs/>rju°naka—BaYjana</s> ¦ <lex>m.</lex> ‘breaker or destroyer of the two <s1 slp1="arjuna">Arjuna</s1> trees’, <ab>N.</ab> of <s1 slp1="kfzRa">Kṛṣṇa</s1> or <s1 slp1="vizRu">Viṣṇu</s1>. (<ls>Pañcar.</ls>)<info lex="m"/>
+<LEND>
+<L>170569.1<pc>847,1<k1>yamalArjunakahan<k2>yamalArjunaka—han<e>4
+<s>yamalA<srs/>rju°naka—han</s> ¦ <lex>m.</lex> ‘breaker or destroyer of the two <s1 slp1="arjuna">Arjuna</s1> trees’, <ab>N.</ab> of <s1 slp1="kfzRa">Kṛṣṇa</s1> or <s1 slp1="vizRu">Viṣṇu</s1>. (<ls>W.</ls>)<info lex="m"/>
+<LEND>
+
+* THE END
