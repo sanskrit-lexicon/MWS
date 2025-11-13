@@ -1,0 +1,33 @@
+* CASE 02 ajaloma  (ajaloman), (ajalomI)
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=9,3
+
+Ref: https://github.com/sanskrit-lexicon/MWS/issues/190#issuecomment-3520647789
+
+status: revised per ref
+
+new mw.txt
+
+<L>1993<pc>9,3<k1>ajaloman<k2>aja—loman<e>3
+<s>aja—loman</s>, <lex>m.</lex> or <s>aja—lomI</s>, <lex>f.</lex>, ¦ Cowage, <bot>Carpopogon Pruriens</bot>
+<LEND>
+<L>1993.1<pc>9,3<k1>ajalomI<k2>aja—lomI<e>3
+{{Lbody=1993}}
+<LEND>
+<L>1994<pc>1309,2<k1>ajaloman<k2>aja—loman<e>3
+<s>aja—loman</s> ¦ <lex>mf(<s>mnI</s>)n.</lex> hairy as a goat, <ls>MaitrS.</ls><info n="sup"/><info lex="m:f#mnI:n"/>
+<LEND>
+<L>1996<pc>9,3<k1>ajaloma<k2>aja—loma/<e>3B 
+<s>aja—loma/</s> ¦ (<s>a/</s>), <lex>n.</lex> goat's hair, <ls>ŚBr.</ls> &c.<info lex="n"/>
+<LEND>
+----------------------------------------------------
+old mw.txt
+
+<L>1993<pc>9,3<k1>ajaloman<k2>aja—loman<e>3
+<s>aja—loman</s>, <lex>m.</lex> or <s>aja—lomI</s>, <lex>f.</lex>, ¦ Cowage, <bot>Carpopogon Pruriens</bot>
+<LEND>
+<L>1993.1<pc>1309,2<k1>ajaloman<k2>aja—loman<e>3
+<s>aja—loman</s> ¦ <lex>mf(<s>mnI</s>)n.</lex> hairy as a goat, <ls>MaitrS.</ls><info n="sup"/><info lex="m:f#mnI:n"/>
+<LEND>
+<L>1993.2<pc>9,3<k1>ajalomI<k2>aja—lomI<e>3
+{{Lbody=1993}}
+<LEND>

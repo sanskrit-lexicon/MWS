@@ -1,0 +1,51 @@
+* CASE 03 (atiCattra) ,atiCattrA, atiCattrakA 
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=12,2
+
+ref: https://github.com/sanskrit-lexicon/MWS/issues/190#issuecomment-3520786637
+
+status: DONE revised
+
+new mw.txt
+
+<L>2615<pc>12,2<k1>atiCattra<k2>ati—Cattra<e>3
+<s>ati—Cattra</s> or <s>ati—Cattraka</s>, ¦ <lex>m.</lex> a mushroom<info lex="m"/>
+<LEND>
+<L>2615.1<pc>12,2<k1>atiCattraka<k2>ati—Cattraka<e>3
+{{Lbody=2615}}
+<LEND>
+<L>2617<pc>12,2<k1>atiCattrA<k2>ati—CattrA<e>3
+<s>ati—CattrakA</s> or <s>ati—CattrakA</s>, ¦ <lex>f.</lex> Anise (<bot>Anisum</bot> or <bot>Anethum Sowa</bot>)
+<div n="P"/> the plant <bot>Barleria Longifolia</bot>.<info lex="f"/>
+<LEND>
+<L>2617.1<pc>12,2<k1>atiCattrakA<k2>ati—CattrakA<e>3
+{{Lbody=2617}}
+<LEND>
+
+----------------------------------------------
+missed (atiCattrA)
+<L>2616<pc>12,2<k1>atiCattrA<k2>ati—CattrA<e>3B
+<s>ati—CattrA</s> ¦ <lex>f.</lex> Anise (<bot>Anisum</bot> or <bot>Anethum Sowa</bot>)<info lex="f"/>
+<LEND>
+<L>2617<pc>12,2<k1>atiCattrA<k2>ati—CattrA<e>3B
+¦ the plant <bot>Barleria Longifolia</bot>.<info lex="inh"/>
+<LEND>
+--------------------
+missed (atiCattrakA)
+<L>2619<pc>12,2<k1>atiCattrakA<k2>ati—CattrakA<e>3B
+<s>ati—CattrakA</s> ¦ <lex>f.</lex> Anise (<bot>Anisum</bot> or <bot>Anethum Sowa</bot>)<info lex="f"/>
+<LEND>
+<L>2620<pc>12,2<k1>atiCattrakA<k2>ati—CattrakA<e>3B
+¦ the plant <bot>Barleria Longifolia</bot>.<info lex="inh"/>
+<LEND>
+
+----------------------------------------------
+old mw.txt
+
+<L>2615<pc>12,2<k1>atiCattra<k2>ati—Cattra<e>3
+<s>ati—Cattra</s> or <s>ati—Cattraka</s>, ¦ <lex>m.</lex> a mushroom
+<div n="P"/> (<s>A</s>), <lex>f.</lex> Anise (<bot>Anisum</bot> or <bot>Anethum Sowa</bot>)
+<div n="P"/> the plant <bot>Barleria Longifolia</bot>.<info lex="m:f"/>
+<LEND>
+<L>2615.1<pc>12,2<k1>atiCattraka<k2>ati—Cattraka<e>3
+{{Lbody=2615}}
+<LEND>

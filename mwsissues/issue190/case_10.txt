@@ -1,0 +1,124 @@
+* CASE 10 (napAt), (naptf),  naptrI
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=527,2
+
+ref: https://github.com/sanskrit-lexicon/MWS/issues/190#issuecomment-3521615446
+
+status:  done gender grouping
+
+------------------------------------------------
+
+new mw.txt:  
+
+<L>103690<pc>527,2<k1>napAt<k2>na/pAt<e>1
+<s>na/pAt</s>, <s>na/ptf</s>, ¦ <lex>m.</lex> (the former stem only in the strong cases and earlier <ab>lang.</ab>; the latter in <lang>Class.</lang>, but <ab>acc.</ab> <s>naptAram</s> appears in <ls>TS.</ls> & <ls>AitBr.</ls>) descendant, offspring, son (in this meaning <ab>esp.</ab> in <ls>RV.</ls>, <ab>e.g.</ab> <s>apAM n°</s>, <s>Urjo n°</s>, <s>divo n°</s>, <s>vimuco n°</s> &c.);
+<div n="P"/> grandson (in later <ab>lang.</ab> restricted to this sense), <ls>RV.</ls> &c. &c.;
+<div n="P"/> <ab>N.</ab> of one of the <s1>Viśve</s1> <s1>devā</s1>s, <ls>MBh. xiii, 4362</ls>;
+<div n="P"/> path of the gods (?), <ls>Mahīdh.</ls> on <ls>VS. xix, 56</ls>;
+<div n="P"/> granddaughter (?), <ls>Uṇ. ii, 96</ls>, <ab>Sch.</ab>;
+<LEND>
+
+<L>103690.1<pc>527,2<k1>naptf<k2>na/ptf<e>1
+{{Lbody=103690}}
+<LEND>
+
+<L>103691<pc>527,2<k1>naptI<k2>naptI/<e>1
+<s>naptI/</s> ¦ (<s>tI/</s>), <lex>f.</lex>, <ls>RV.</ls>; <ls>AV.</ls> (<ls n="AV.">ix, 1, 3</ls> <ab>nom.</ab> <s>°ti/s</s>) daughter, granddaughter (<ab>pl.</ab> often <ab>fig.</ab> ‘the fingers, hands’ &c.);<info lex="f"/>
+<LEND>
+
+<L>103692<pc>527,2<k1>naptrI<k2>naptrI<e>1
+<s>naptrI</s> ¦ (<s>trI</s>), <lex>f.</lex> granddaughter, <ls>SVĀr.</ls>; <ls>L.</ls><info lex="f"/>
+<LEND>
+
+<L>103693<pc>527,2<k1>napAt<k2>na/pAt<e>1
+<s>na/pAt</s>, <s>na/ptf</s>, ¦ [<ab>Prob.</ab> neither = <s>na + pat</s> (<ls>Uṇ. ii, 96</ls>) nor <s>na + pAt</s> (<ls>Pāṇ. vi, 3, 75</ls>), and of very questionable connection with √ <s>naB</s>, or <s>nah</s>; <ab>cf.</ab> <lang>Zd.</lang> <etym>napāt</etym>, <etym>naptar</etym>; <lang>Gk.</lang> <gk>νέποδες</gk>, <gk>ἀνεψιός</gk>; <lang>Lat.</lang> <etym>nepōt-em</etym>; <lang>Angl.Sax.</lang> <etym>nefa</etym>; <lang>HGerm.</lang> <etym>nëvo</etym>, <etym>nëve</etym>, <etym>Neffe</etym>.]
+<LEND>
+
+<L>103693.1<pc>527,2<k1>naptf<k2>na/ptf<e>1
+{{Lbody=103693}}
+<LEND>
+
+-----------------------------------
+
+old.mw.txt
+
+<L>103690<pc>527,2<k1>napAt<k2>na/pAt<e>1
+<s>na/pAt</s>, ¦ <s>na/ptf</s>, <lex>m.</lex> (the former stem only in the strong cases and earlier <ab>lang.</ab>; the latter in <lang>Class.</lang>, but <ab>acc.</ab> <s>naptAram</s> appears in <ls>TS.</ls> & <ls>AitBr.</ls>) descendant, offspring, son (in this meaning <ab>esp.</ab> in <ls>RV.</ls>, <ab>e.g.</ab> <s>apAM n°</s>, <s>Urjo n°</s>, <s>divo n°</s>, <s>vimuco n°</s> &c.);
+<div n="P"/> grandson (in later <ab>lang.</ab> restricted to this sense), <ls>RV.</ls> &c. &c.;
+<div n="P"/> <ab>N.</ab> of one of the <s1>Viśve</s1> <s1>devā</s1>s, <ls>MBh. xiii, 4362</ls>;
+<div n="P"/> path of the gods (?), <ls>Mahīdh.</ls> on <ls>VS. xix, 56</ls>;
+<div n="P"/> granddaughter (?), <ls>Uṇ. ii, 96</ls>, <ab>Sch.</ab>;
+
+<div n="P"/> (<s>tI/</s>), <lex>f.</lex>, <ls>RV.</ls>; <ls>AV.</ls> (<ls n="AV.">ix, 1, 3</ls> <ab>nom.</ab> <s>°ti/s</s>) daughter, granddaughter (<ab>pl.</ab> often <ab>fig.</ab> ‘the fingers, hands’ &c.);
+
+<div n="P"/> (<s>trI</s>), <lex>f.</lex> granddaughter, <ls>SVĀr.</ls>; <ls>L.</ls>
+
+<div n="P"/> [<ab>Prob.</ab> neither = <s>na + pat</s> (<ls>Uṇ. ii, 96</ls>) nor <s>na + pAt</s> (<ls>Pāṇ. vi, 3, 75</ls>), and of very questionable connection with √ <s>naB</s>, or <s>nah</s>; <ab>cf.</ab> <lang>Zd.</lang> <etym>napāt</etym>, <etym>naptar</etym>; <lang>Gk.</lang> <gk>νέποδες</gk>, <gk>ἀνεψιός</gk>; <lang>Lat.</lang> <etym>nepōt-em</etym>; <lang>Angl.Sax.</lang> <etym>nefa</etym>; <lang>HGerm.</lang> <etym>nëvo</etym>, <etym>nëve</etym>, <etym>Neffe</etym>.]<info lex="m"/>
+<LEND>
+<L>103690.1<pc>527,2<k1>naptf<k2>na/ptf<e>1
+{{Lbody=103690}}
+<LEND>
+<L>103690.2<pc>527,2<k1>napAtI<k2>na/pAtI<e>1
+{{Lbody=103690}}
+<LEND>
+<L>103690.3<pc>527,2<k1>napAtrI<k2>na/pAtrI<e>1
+{{Lbody=103690}}
+<LEND>
+<L>103697<pc>527,2<k1>napAtka<k2>napAtka<e>2
+<s>napAtka</s> ¦ <lex>mfn.</lex> relating to a grandson (applied to a <ab>partic.</ab> <ab>sacrif.</ab> fire), <ls>Kāṭh.</ls><info lex="m:f:n"/>
+<LEND>
+
+-----------------------------------
+
+
+** lostparent
+<L>103690<pc>527,2<k1>napAt<k2>na/pAt<e>1
+<s>na/pAt</s>, ¦ <s>na/ptf</s>, <lex>m.</lex> (the former stem only in the strong cases and earlier <ab>lang.</ab>; the latter in <lang>Class.</lang>, but <ab>acc.</ab> <s>naptAram</s> appears in <ls>TS.</ls> & <ls>AitBr.</ls>) descendant, offspring, son (in this meaning <ab>esp.</ab> in <ls>RV.</ls>, <ab>e.g.</ab> <s>apAM n°</s>, <s>Urjo n°</s>, <s>divo n°</s>, <s>vimuco n°</s> &c.)<info or="103690,napAt;103696.1,naptf"/><info lex="m"/>
+<LEND>
+<L>103691<pc>527,2<k1>napAt<k2>na/pAt<e>1A
+¦ grandson (in later <ab>lang.</ab> restricted to this sense), <ls>RV.</ls> &c. &c.<info lex="inh"/>
+<LEND>
+<L>103692<pc>527,2<k1>napAt<k2>na/pAt<e>1A
+¦ <ab>N.</ab> of one of the <s1 slp1="viSve">Viśve</s1> <s1 slp1="devA">devā</s1>s, <ls>MBh. xiii, 4362</ls><info lex="inh"/>
+<LEND>
+<L>103693<pc>527,2<k1>napAt<k2>na/pAt<e>1A
+¦ path of the gods (?), <ls>Mahīdh.</ls> on <ls>VS. xix, 56</ls><info lex="inh"/>
+<LEND>
+<L>103694<pc>527,2<k1>napAt<k2>na/pAt<e>1A
+¦ granddaughter (?), <ls>Uṇ. ii, 96</ls>, <ab>Sch.</ab><info lex="inh"/>
+<LEND>
+<L>103695<pc>527,2<k1>napAtI<k2>napAtI/<e>1B
+<s>na/pAtI/</s> ¦ (<s>I/</s>), <lex>f.</lex>, <ls>RV.</ls>; <ls>AV.</ls> (<ls n="AV.">ix, 1, 3</ls> <ab>nom.</ab> <s>°ti/s</s>) daughter, granddaughter (<ab>pl.</ab> often <ab>fig.</ab> ‘the fingers, hands’ &c.)<info lex="f"/>
+<LEND>
+<L>103696<pc>527,2<k1>naptrI<k2>naptrI<e>1B
+<s>naptrI</s> ¦ (<s>trI</s>), <lex>f.</lex> granddaughter, <ls>SVĀr.</ls>; <ls>L.</ls> <info lex="f"/>
+<LEND>
+<L>103696.05<pc>527,2<k1>napAt<k2>napAt<e>1E
+<s>napAt</s> ¦ [<ab>Prob.</ab> neither = <s>na + pat</s> (<ls>Uṇ. ii, 96</ls>) nor <s>na + pAt</s> (<ls>Pāṇ. vi, 3, 75</ls>), and of very questionable connection with √ <s>naB</s>, or <s>nah</s>; <ab>cf.</ab> <lang>Zd.</lang> <etym>napāt</etym>, <etym>naptar</etym>; <lang>Gk.</lang> <gk>νέποδες</gk>, <gk>ἀνεψιός</gk>; <lang>Lat.</lang> <etym>nepōt-em</etym>; <lang>Angl.Sax.</lang> <etym>nefa</etym>; <lang>HGerm.</lang> <etym>nëvo</etym>, <etym>nëve</etym>, <etym>Neffe</etym>.]
+<LEND>
+<L>103696.1<pc>527,2<k1>naptf<k2>na/ptf<e>1
+<s>na/pAt</s>, ¦ <s>na/ptf</s>, <lex>m.</lex> (the former stem only in the strong cases and earlier <ab>lang.</ab>; the latter in <lang>Class.</lang>, but <ab>acc.</ab> <s>naptAram</s> appears in <ls>TS.</ls> & <ls>AitBr.</ls>) descendant, offspring, son (in this meaning <ab>esp.</ab> in <ls>RV.</ls>, <ab>e.g.</ab> <s>apAM n°</s>, <s>Urjo n°</s>, <s>divo n°</s>, <s>vimuco n°</s> &c.)<info or="103690,napAt;103696.1,naptf"/><info lex="m"/>
+<LEND>
+
+
+--------------------------------------------------------
+AB version
+
+<L>103690<pc>527,2<k1>napāt<k2>nápāt, náptṛ<e>1
+<s>nápāt</s>, <s>náptṛ</s>, ¦ <lex>m.</lex> (the former stem only in the strong cases and earlier <ab>lang.</ab>; the latter in <lang>Class.</lang>, but <ab>acc.</ab> <s>naptāram</s> appears in <ls>TS.</ls> & <ls>AitBr.</ls>) descendant, offspring, son (in this meaning <ab>esp.</ab> in <ls>RV.</ls>, <ab>e.g.</ab> <s>apāṃ n°</s>, <s>ūrjo n°</s>, <s>divo n°</s>, <s>vimuco n°</s> &c.);
+<div n="P"/> grandson (in later <ab>lang.</ab> restricted to this sense), <ls>RV.</ls> &c. &c.;
+<div n="P"/> <ab>N.</ab> of one of the <is>Viśve</is> <is>devā</is>s, <ls>MBh. xiii, 4362</ls>;
+<div n="P"/> path of the gods (?), <ls>Mahīdh.</ls> on <ls>VS. xix, 56</ls>;
+<div n="P"/> granddaughter (?), <ls>Uṇ. ii, 96</ls>, <ab>Sch.</ab>;
+<LEND>{{103690, 103690.1}}<info lex="m"/>
+
+<L>103691<pc>527,2<k1>naptī<k2>náptī<e>1B
+<s>náptī</s>,  ¦ (<s>tī́</s>), <lex>f.</lex>, <ls>RV.</ls>; <ls>AV.</ls> (<ls n="AV.">ix, 1, 3</ls> <ab>nom.</ab> <s>°tís</s>) daughter, granddaughter (<ab>pl.</ab> often <ab>fig.</ab> ‘the fingers, hands’ &c.);
+<LEND>{{103691, 103691.1}}<info lex="f"/>
+
+<L>103692<pc>527,2<k1>naptrī<k2>náptrī<e>1B
+ <s>náptrī</s>, ¦ (<s>trī</s>), <lex>f.</lex> granddaughter, <ls>SVĀr.</ls>; <ls>L.</ls>
+<LEND>{{103692, 103692.1}}<info lex="f"/>
+
+<L>103693<pc>527,2<k1>napāt<k2>nápāt, náptṛ<e>1E
+<s>nápāt</s>, <s>náptṛ</s>, ¦ [<ab>Prob.</ab> neither = <s>na + pat</s> (<ls>Uṇ. ii, 96</ls>) nor <s>na + pāt</s> (<ls>Pāṇ. vi, 3, 75</ls>), and of very questionable connection with √ <s>nabh</s>, or <s>nah</s>; <ab>cf.</ab> <lang>Zd.</lang> <etym>napāt</etym>, <etym>naptar</etym>; <lang>Gk.</lang> <gk>νέποδες</gk>, <gk>ἀνεψιός</gk>; <lang>Lat.</lang> <etym>nepōt-em</etym>; <lang>Angl.Sax.</lang> <etym>nefa</etym>; <lang>HGerm.</lang> <etym>nëvo</etym>, <etym>nëve</etym>, <etym>Neffe</etym>.]
+<LEND>{{103693, 103693.1}}

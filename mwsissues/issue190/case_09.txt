@@ -3,6 +3,8 @@ https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&
 Refer CASE 09 of comphw2_edit.txt 
 Solution: new lines inserted into mw.txt
 
+status: DONE
+
 <L>164587<pc>818,2<k1>mIQu<k2>mIQu<e>2
 <s>mIQu</s>, <s>mI|u/</s>, ¦ <lex>m.</lex> = <s>Dana</s>, <ls>Naigh. ii, 10.</ls><info lex="m"/>
 <LEND>

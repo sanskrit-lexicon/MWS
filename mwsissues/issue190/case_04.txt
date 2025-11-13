@@ -1,0 +1,46 @@
+* CASE 04 (boDAyanIya) , boDAyanIyA, (boDAyanIyagfhyamAlA)
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=734,3
+
+ref: https://github.com/sanskrit-lexicon/MWS/issues/190#issuecomment-3520896156
+
+status: DONE revised
+
+new mw.txt
+
+<L>145870<pc>734,3<k1>boDAyanIya<k2>boDAyanIya<e>2
+<s>boDAyanIya</s> <lex>n.</lex> (and <s>-gfhya-mAlA</s> <lex>f.</lex>), ¦ <ab>N.</ab> of <ab>wks.</ab>
+lex="f"/>
+<LEND>
+<L>145870.1<pc>734,3<k1>boDAyanIyagfhyamAlA<k2>boDAyanIya—gfhya-mAlA<e>2
+{{Lbody=145870}}
+<LEND>
+<L>145871<pc>734,3<k1>boDAyanIyA<k2>boDAyanIyA<e>2B
+<s>boDAyanIyA</s> ¦ <lex>f.</lex> a <ab>partic.</ab> drug, <ls>L.</ls><info lex="f"/>
+<LEND>
+
+-----------------
+
+old mw.txt
+
+<L>145870<pc>734,3<k1>boDAyanIya<k2>boDAyanIya<e>2
+<s>boDAyanIya</s> <lex>n.</lex> (and <s>-gfhya-mAlA</s> <lex>f.</lex>), ¦ <ab>N.</ab> of <ab>wks.</ab>
+; dp <s>boDAyanIyA</s>, <lex>f.</lex> a <ab>partic.</ab> drug, <ls>L.</ls><info lex="f"/>
+<LEND>
+<L>145870.1<pc>734,3<k1>boDAyanIyagfhyamAlA<k2>boDAyanIya—gfhya-mAlA<e>2
+{{Lbody=145870}}
+<LEND>
+
+----------------
+
+** lostparent 
+<L>145870<pc>734,3<k1>boDAyanIya<k2>boDAyanIya<e>2
+<s>boDAyanIya</s> ¦ <lex>n.</lex> (and <s>-gfhya-mAlA</s> <lex>f.</lex>) <ab>N.</ab> of <ab>wks.</ab><info lex="n"/><info and="145870,boDAyanIya;145871.1,boDAyanIyagfhyamAlA"/>
+<LEND>
+<L>145871<pc>734,3<k1>boDAyanIyA<k2>boDAyanIyA<e>2B
+<s>boDAyanIyA</s> ¦ <lex>f.</lex> a <ab>partic.</ab> drug, <ls>L.</ls><info lex="f"/>
+<LEND>
+<L>145871.1<pc>734,3<k1>boDAyanIyagfhyamAlA<k2>boDAyanIya—gfhya-mAlA<e>3
+<s>boDAyanIya</s> ¦ <lex>n.</lex> (and <s>-gfhya-mAlA</s> <lex>f.</lex>) <ab>N.</ab> of <ab>wks.</ab><info lex="n"/><info and="145870,boDAyanIya;145871.1,boDAyanIyagfhyamAlA"/>
+<LEND>
+
+------------------------------------------------

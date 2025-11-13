@@ -1,0 +1,31 @@
+* CASE 01 (agnyADAna), (agnyADeya) agnyADAnarUpa, agnyADAnaSarkarA, agnyADAnahavis
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=6,1
+
+Ref: https://github.com/sanskrit-lexicon/MWS/issues/190#issuecomment-3520647789
+No change.  The compounds (-rUpa, -SarkarA, -havis) are
+ considered compounds of agnyADeya, since they follow
+ the explicitly stated compound agnyADeya-devatA
+ 
+status: NO CHNAGE
+
+Here is the mw.txt code for this section
+
+<L>1175<pc>6,1<k1>agnyADAna<k2>agny-ADAna<e>3
+<s>agny-ADAna</s> [<ls>KauṣBr.</ls>] or <s>-ADe/ya</s> [<ls>AV.</ls>; <ls>Mn.</ls> &c.], ¦ <lex>n.</lex> placing the fire on the sacrificial fire-place
+<div n="P"/> the ceremony of preparing the three sacred fires <s1>Āhavanīya</s1> &c.<info lex="n"/>
+<LEND>
+<L>1175.1<pc>6,1<k1>agnyADeya<k2>agny-ADe/ya<e>3
+{{Lbody=1175}}
+<LEND>
+<L>1176<pc>6,1<k1>agnyADeyadevatA<k2>agny-ADeya—devatA<e>4
+<s>agny-ADeya—devatA</s> ¦ <lex>f.</lex> the deity of the <s1>Agnyādheya</s1> ceremony, <ls>PārGṛ.</ls><info lex="f"/>
+<LEND>
+<L>1176.1<pc>6,1<k1>agnyADeyarUpa<k2>agny-ADeya—rUpa/<e>4
+<s>agny-ADeya—rUpa/</s> ¦ <lex>n.</lex> form or shape of the <s1 n="Agnyādheya">A°</s1>, <ls>ŚBr.</ls><info lex="n"/>
+<LEND>
+<L>1176.2<pc>6,1<k1>agnyADeyaSarkarA<k2>agny-ADeya—SarkarA/<e>4
+<s>agny-ADeya—SarkarA/</s> ¦ <lex>f. <ab>pl.</ab></lex> (figuratively) bad performance of the <s1 n="Agnyādheya">A°</s1>, <ls>ŚBr.</ls><info lex="f"/>
+<LEND>
+<L>1176.3<pc>6,1<k1>agnyADeyahavis<k2>agny-ADeya—havi/s<e>4
+<s>agny-ADeya—havi/s</s> ¦ <lex>n.</lex> an oblation at the <s1 n="Agnyādheya">A°</s1>, <ls>ŚBr.</ls><info lex="n"/>
+<LEND>

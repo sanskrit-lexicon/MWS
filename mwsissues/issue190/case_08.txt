@@ -1,0 +1,43 @@
+* CASE 08 (krIqi), krIli
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=321,3
+
+ref: https://github.com/sanskrit-lexicon/MWS/issues/190#issuecomment-3521505717
+
+status: done. no change
+
+------------------------------------------------
+
+new mw.txt:  
+
+no change from old_mw.txt
+-----------------------------------
+
+old.mw.txt
+
+<L>58200<pc>321,3<k1>krIqi<k2>krIqi/<e>2
+<s>krIqi/</s> or <s>krILi/</s>, ¦ <lex>mfn.</lex> playing, sporting, <ls>RV.</ls>; <ls>MaitrS. i, 10, 6</ls>;
+<div n="P"/>(said of the winds), <ls>RV. i, 87, 3.</ls>
+<info lex="m:f:n"/>
+<LEND>
+<L>58200.1<pc>321,3<k1>krILi<k2>krILi/<e>2
+{{Lbody=58200}}
+<LEND>
+
+-----------------------------------
+
+** lostparent
+<L>58200<pc>321,3<k1>krIqi<k2>krIqi/<e>2
+<s>krIqi/</s> or <s>krILi/</s>, ¦ <lex>mfn.</lex> playing, sporting, <ls>RV.</ls>; <ls>MaitrS. i, 10, 6</ls><info or="58200,krIqi;58202,krIli"/><info lex="m:f:n"/>
+<LEND>
+<L>58201<pc>321,3<k1>krIqi<k2>krIqi/<e>2A
+¦ (said of the winds), <ls>RV. i, 87, 3.</ls><info lex="inh"/>
+<LEND>
+<L>58202<pc>321,3<k1>krILi<k2>krILi/<e>2
+<s>krIqi/</s> or <s>krILi/</s>, ¦ <lex>mfn.</lex> playing, sporting, <ls>RV.</ls>; <ls>MaitrS. i, 10, 6</ls><info or="58200,krIqi;58202,krIli"/><info lex="m:f:n"/>
+<LEND>
+<L>58203<pc>321,3<k1>krIli<k2>krIli/<e>2A
+¦ (said of the winds), <ls>RV. i, 87, 3.</ls><info lex="inh"/>
+<LEND>
+
+
+------------------------------------------------

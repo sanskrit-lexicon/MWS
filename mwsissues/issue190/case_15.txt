@@ -1,0 +1,71 @@
+* CASE 15 (vinDyAvali), vinDyAvalisuta, (vinDyAvalI), (vinDyAvalIputra), (vinDyAvalIputra)
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=972,3
+
+
+ref: https://github.com/sanskrit-lexicon/MWS/issues/190#issuecomment-3521975007
+
+status: done
+
+------------------------------------------------
+
+new mw.txt:  remove duplicate 197389.1 vinDyAvalIsuta
+
+<L>197386<pc>972,3<k1>vinDyAvali<k2>vinDyAvali<e>3
+<s>vinDyA<srs/>vali</s> or <s>vinDyA<srs/>va°lI</s>, ¦ <lex>f.</lex> <ab>N.</ab> of the wife of the <s1>Asura</s1> <s1>Bali</s1> and mother of <s1>Bāṇa</s1>, <ls>Pur.</ls><info lex="f"/>
+<LEND>
+<L>197386.1<pc>972,3<k1>vinDyAvalI<k2>vinDyAvalI<e>3
+{{Lbody=197386}}
+<LEND>
+<L>197387<pc>972,3<k1>vinDyAvalIputra<k2>vinDyAvalI-putra<e>4
+<s>vinDyA<srs/>va°lI-putra</s> (<ab>C.</ab>) or <s>-sUta</s> (<ls>W.</ls>), ¦ <lex>m.</lex> <ab>N.</ab> of the <s1>Asura</s1> <s1>Bāṇa</s1>. <info lex="m"/>
+<LEND>
+<L>197387.1<pc>972,3<k1>vinDyAvalIsuta<k2>vinDyAvalI—suta<e>4
+{{Lbody=197387}}
+<LEND>
+
+-----------------------------------
+
+old.mw.txt
+
+<L>197386<pc>972,3<k1>vinDyAvali<k2>vinDyAvali<e>3
+<s>vinDyA<srs/>vali</s> or <s>vinDyA<srs/>va°lI</s>, ¦ <lex>f.</lex> <ab>N.</ab> of the wife of the <s1>Asura</s1> <s1>Bali</s1> and mother of <s1>Bāṇa</s1>, <ls>Pur.</ls><info lex="f"/>
+<LEND>
+<L>197386.1<pc>972,3<k1>vinDyAvalI<k2>vinDyAvalI<e>3
+{{Lbody=197386}}
+<LEND>
+<L>197387<pc>972,3<k1>vinDyAvalIputra<k2>vinDyAvalI-putra<e>4
+<s>vinDyA<srs/>va°lI-putra</s> (<ab>C.</ab>) or <s>-sUta</s> (<ls>W.</ls>), ¦ <lex>m.</lex> <ab>N.</ab> of the <s1>Asura</s1> <s1>Bāṇa</s1>. <info lex="m"/>
+<LEND>
+<L>197387.1<pc>972,3<k1>vinDyAvalIsuta<k2>vinDyAvalI—suta<e>4
+{{Lbody=197387}}
+<LEND>
+<L>197389.1<pc>972,3<k1>vinDyAvalIsuta<k2>vinDyAvalI—suta<e>4
+<s>vinDyA<srs/>valI—suta</s> ¦ <lex>m.</lex> <ab>N.</ab> of the <s1>Asura</s1> <s1>Bāṇa</s1>. (<ls>W.</ls>)<info lex="m"/>
+<LEND>
+
+-----------------------------------
+
+** lostparent
+<L>197386<pc>972,3<k1>vinDyAvali<k2>vinDyAvali<e>3
+<s>vinDyA<srs/>vali</s> or <s>vinDyA<srs/>va°lI</s>, ¦ <lex>f.</lex> <ab>N.</ab> of the wife of the <s1 slp1="asura">Asura</s1> <s1 slp1="bali">Bali</s1> and mother of <s1 slp1="bARa">Bāṇa</s1>, <ls>Pur.</ls><info or="197386,vinDyAvali;197388,vinDyAvalI"/><info lex="f"/>
+<LEND>
+<L>197387<pc>972,3<k1>vinDyAvalisuta<k2>vinDyAvali—suta<e>4
+<s>vinDyA<srs/>vali—suta</s> ¦ <lex>m.</lex> (<ls>W.</ls>) <ab>N.</ab> of the <s1 slp1="asura">Asura</s1> <s1 slp1="bARa">Bāṇa</s1>.<info lex="m"/>
+<LEND>
+<L>197388<pc>972,3<k1>vinDyAvalI<k2>vinDyAvalI<e>3
+<s>vinDyA<srs/>vali</s> or <s>vinDyA<srs/>va°lI</s>, ¦ <lex>f.</lex> <ab>N.</ab> of the wife of the <s1 slp1="asura">Asura</s1> <s1 slp1="bali">Bali</s1> and mother of <s1 slp1="bARa">Bāṇa</s1>, <ls>Pur.</ls><info or="197386,vinDyAvali;197388,vinDyAvalI"/><info lex="f"/>
+<LEND>
+<L>197389<pc>972,3<k1>vinDyAvalIputra<k2>vinDyAvalI-putra<e>4
+<s>vinDyA<srs/>va°lI-putra</s> ¦ <lex>m.</lex> <ab>N.</ab> of the <s1 slp1="asura">Asura</s1> <s1 slp1="bARa">Bāṇa</s1>. (<ab>C.</ab>)<info lex="m"/>
+<LEND>
+<L>197389.1<pc>972,3<k1>vinDyAvalIsuta<k2>vinDyAvalI—suta<e>4
+<s>vinDyA<srs/>valI—suta</s> ¦ <lex>m.</lex> <ab>N.</ab> of the <s1 slp1="asura">Asura</s1> <s1 slp1="bARa">Bāṇa</s1>. (<ls>W.</ls>)<info lex="m"/>
+<LEND>
+
+
+------------------------------------------------
+
+-----------------------------------
+
+AB
+

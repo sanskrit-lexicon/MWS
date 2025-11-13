@@ -1,0 +1,56 @@
+* CASE 05 (durgAQa), durgADatva, (durgAhya), (durgAhyatva)
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=485,2
+
+ref: https://github.com/sanskrit-lexicon/MWS/issues/190#issuecomment-3521456069
+
+status: 
+---------------
+new mw.txt (minor corrections not in ref above) durgAQatva not a headword
+
+<L>93904<pc>485,2<k1>durgAQa<k2>dur—gAQa<e>3
+<s>dur—gAQa</s> (<ls>Hariv.</ls>), <s>dur—gADa</s> (<ls>Suśr.</ls>), and <s>dur—gAhya</s> (<s>-tva</s> <lex type="phw">n.</lex>, <ls>Pañc. i, 317</ls>), ¦ <lex>mfn.</lex> unfathomable.<info lex="m:f:n"/>
+<LEND>
+<L>93904.2<pc>485,2<k1>durgAhya<k2>dur—gAhya<e>3
+{{Lbody=93904}}
+<LEND>
+<L>93906.1<pc>485,2<k1>durgAhyatva<k2>dur—gAhya—tva<e>4
+<s>dur—gAhya—tva</s> ¦ <lex>n.</lex>, <ls>Pañc. i, 317</ls><info phwparent="93904.2,durgAhya"/><info lex="n"/>
+<LEND>
+
+---------------
+
+old mw.txt
+
+<L>93904<pc>485,2<k1>durgAQa<k2>dur—gAQa<e>3
+<s>dur—gAQa</s> (<ls>Hariv.</ls>), <s>dur—gADa</s> (<ls>Suśr.</ls>), and <s>dur—gAhya</s> (<s>-tva</s> <lex type="phw">n.</lex>, <ls>Pañc. i, 317</ls>), ¦ <lex>mfn.</lex> unfathomable.<info lex="m:f:n"/>
+<LEND>
+<L>93904.1<pc>485,2<k1>durgADa<k2>dur—gADa<e>3
+{{Lbody=93904}}
+<LEND>
+<L>93904.2<pc>485,2<k1>durgAhya<k2>dur—gAhya<e>3
+{{Lbody=93904}}
+<LEND>
+<L>93906.1<pc>485,2<k1>durgAhyatva<k2>dur—gAhya—tva<e>4
+<s>dur—gAhya—tva</s> ¦ <lex>n.</lex>, <ls>Pañc. i, 317</ls><info phwparent="93904,durgAhya"/><info lex="n"/>
+<LEND>
+
+---------------
+** lostparent
+<L>93904<pc>485,2<k1>durgAQa<k2>dur—gAQa<e>3
+<s>dur—gAQa</s> (<ls>Hariv.</ls>), <s>dur—gADa</s> (<ls>Suśr.</ls>), and <s>dur—gAhya</s> (<s>-tva</s> <lex type="phw">n.</lex>, <ls>Pañc. i, 317</ls>), ¦ <lex>mfn.</lex> unfathomable.<info and="93904,durgAQa;93905,durgADa;93906,durgAhya"/><info phwchild="93905.1"/><info lex="m:f:n"/>
+<LEND>
+<L>93905<pc>485,2<k1>durgADa<k2>dur—gADa<e>3
+<s>dur—gAQa</s> (<ls>Hariv.</ls>), <s>dur—gADa</s> (<ls>Suśr.</ls>), and <s>dur—gAhya</s> (<s>-tva</s> <lex type="phw">n.</lex>, <ls>Pañc. i, 317</ls>), ¦ <lex>mfn.</lex> unfathomable.<info and="93904,durgAQa;93905,durgADa;93906,durgAhya"/><info phwchild="93905.1"/><info lex="m:f:n"/>
+<LEND>
+<L>93905.1<pc>485,2<k1>durgADatva<k2>dur—gADa—tva<e>4
+<s>dur—gADa—tva</s> ¦ <lex>n.</lex>, <ls>Pañc. i, 317</ls><info phwparent="93905,durgADa"/><info lex="n"/>
+<LEND>
+<L>93906<pc>485,2<k1>durgAhya<k2>dur—gAhya<e>3
+<s>dur—gAQa</s> (<ls>Hariv.</ls>), <s>dur—gADa</s> (<ls>Suśr.</ls>), and <s>dur—gAhya</s> (<s>-tva</s> <lex type="phw">n.</lex>, <ls>Pañc. i, 317</ls>), ¦ <lex>mfn.</lex> unfathomable.<info and="93904,durgAQa;93905,durgADa;93906,durgAhya"/><info phwchild="93905.1"/><info lex="m:f:n"/>
+<LEND>
+<L>93906.1<pc>485,2<k1>durgAhyatva<k2>dur—gAhya—tva<e>4
+<s>dur—gAhya—tva</s> ¦ <lex>n.</lex>, <ls>Pañc. i, 317</ls><info phwparent="93906,durgAhya"/><info lex="n"/>
+<LEND>
+
+
+------------------------------------------------

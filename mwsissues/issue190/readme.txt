@@ -122,9 +122,10 @@ sh generate_dict.sh mw  ../../MWScan/2020/
 cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue190
 git pull
 git add .
-git commit -m "(case 09 mIQU)
+git commit -m "(case 01-16 )
 Ref: https://github.com/sanskrit-lexicon/MWS/issues/190"
 git push
 
 ------------------------------------------------------------
-THE END
+See readme2.txt for handling of the other cases
+

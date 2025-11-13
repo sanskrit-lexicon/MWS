@@ -1,0 +1,64 @@
+* CASE 13 (sma), (smA), (Sma), (SmA)  smottara, [uttara]
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=178,1
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=1271,2
+
+
+ref: https://github.com/sanskrit-lexicon/MWS/issues/190#issuecomment-3521868632
+
+status: done; add variants zma, zmA
+        smottara remains lost hw.
+
+------------------------------------------------
+
+new mw.txt:  
+
+<L>257061<pc>1271,2<k1>sma<k2>sma<e>1
+<s>sma</s>, <s>smA</s>, (or <s>zma</s>, <s>zmA</s>), ¦ <lex>ind.</lex> a particle perhaps originally equivalent to ‘ever’, ‘always’;
+<div n="P"/> and later to ‘indeed’, ‘certainly’, ‘verily’, ‘surely’ (it is often used pleonastically, and in earlier language generally follows a similar particle [<ab>esp.</ab> <s>ha</s>, <s>na</s>], or relative, or <ab>prep.</ab> or verb, while in later language it frequently follows <s>iti</s>, <s>na</s> and <s>mA/</s> [<ab>cf.</ab> <hom>1.</hom> <s>mA/</s>]; it is also joined with a <ab>pres.</ab> tense or <ab>pres.</ab> participle to give them a past sense [<ab>e.g.</ab> <s>praviSanti sma</s>, ‘they entered’]; this use of <s>sma</s> is also found in the <s1>Brāhmaṇa</s1>s and is extended to <s>veda</s> and <s>Aha</s> <ab>cf.</ab> <ls>Vām. v, 2, 46</ls>), <ls>RV.</ls>; &c. &c.<info lex="ind"/>
+<LEND>
+<L>257061.1<pc>1271,2<k1>smA<k2>smA<e>1
+{{Lbody=257061}}
+<LEND>
+<L>257061.2<pc>1271,2<k1>zma<k2>zma<e>1
+{{Lbody=257061}}
+<LEND>
+<L>257061.3<pc>1271,2<k1>zmA<k2>zmA<e>1
+{{Lbody=257061}}
+<LEND>
+
+-----------------------------------
+
+old.mw.txt
+
+<L>257061<pc>1271,2<k1>sma<k2>sma<e>1
+<s>sma</s>, <s>smA</s>, (or <s>zma</s>, <s>zmA</s>), ¦ <lex>ind.</lex> a particle perhaps originally equivalent to ‘ever’, ‘always’;
+<div n="P"/> and later to ‘indeed’, ‘certainly’, ‘verily’, ‘surely’ (it is often used pleonastically, and in earlier language generally follows a similar particle [<ab>esp.</ab> <s>ha</s>, <s>na</s>], or relative, or <ab>prep.</ab> or verb, while in later language it frequently follows <s>iti</s>, <s>na</s> and <s>mA/</s> [<ab>cf.</ab> <hom>1.</hom> <s>mA/</s>]; it is also joined with a <ab>pres.</ab> tense or <ab>pres.</ab> participle to give them a past sense [<ab>e.g.</ab> <s>praviSanti sma</s>, ‘they entered’]; this use of <s>sma</s> is also found in the <s1>Brāhmaṇa</s1>s and is extended to <s>veda</s> and <s>Aha</s> <ab>cf.</ab> <ls>Vām. v, 2, 46</ls>), <ls>RV.</ls>; &c. &c.<info lex="ind"/>
+<LEND>
+<L>257061.1<pc>1271,2<k1>smA<k2>smA<e>1
+{{Lbody=257061}}
+<LEND>
+<L>257061.2<pc>1271,2<k1>zma<k2>zma<e>1
+{{Lbody=257061}}
+<LEND>
+<L>257061.3<pc>1271,2<k1>zmA<k2>zmA<e>1
+{{Lbody=257061}}
+<LEND>
+
+
+-----------------------------------
+
+** lostparent
+
+** lostparent 
+<L>31144<pc>178,1<k1>uttara<k2>u/ttara<e>2A
+¦ followed by (<ab>e.g.</ab> <s>smo<srs/>ttara</s> <lex type="phw">mfn.</lex> followed by ‘<s>sma</s>’, <ls>Pāṇ. iii, 3, 176</ls>)<info phwchild="257061.11"/><info lex="inh"/>
+<LEND>
+
+<L>257061.11<pc>178,1<k1>smottara<k2>smottara<e>3
+<s>smo<srs/>ttara</s> ¦ <lex>mfn.</lex>, followed by ‘<s>sma</s>’, <ls>Pāṇ. iii, 3, 176</ls><info phwparent="31144,uttara"/><info lex="m:f:n"/>
+<LEND>
+
+-----------------------------------
+
+AB
+

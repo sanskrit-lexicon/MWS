@@ -1,0 +1,50 @@
+* CASE 11 (rAjayakzma), (rAjayakzman), (-nAman, -min)  rAjayakzmannAman
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=873,3
+
+ref: https://github.com/sanskrit-lexicon/MWS/issues/190#issuecomment-3521774602
+
+status: done no change
+
+------------------------------------------------
+
+new mw.txt:  
+
+no change same as old_mw
+-----------------------------------
+
+old.mw.txt
+
+<L>176554<pc>873,3<k1>rAjayakzma<k2>rAja—yakzma/<e>3
+<s>rAja—yakzma/</s> or <s>rAja—yakzman</s>, ¦ <lex>m.</lex> a <ab>partic.</ab> kind of dangerous disease (later ‘pulmonary consumption, a trophy’), <ls>RV.</ls> &c. &c. (<s>-yakzman</s>, also ‘<ab>N.</ab> of a divine being’, <ls>Hcat.</ls>)<info lex="m"/>
+<LEND>
+<L>176554.1<pc>873,3<k1>rAjayakzman<k2>rAja—yakzman<e>3
+{{Lbody=176554}}
+<LEND>
+<L>176555<pc>873,3<k1>rAjayakzmanAman<k2>rAja—yakzma—nAman<e>4
+<s>rAja—yakzma—nAman</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <ab>partic.</ab> mythical being (said to be connected with the foundation of a house), <ls>VarBṛS.</ls><info lex="m"/>
+<LEND>
+
+-----------------------------------
+
+** lostparent
+<L>176554<pc>873,3<k1>rAjayakzma<k2>rAja—yakzma/<e>3
+<s>rAja—yakzma/</s> or <s>rAja—yakzman</s>, ¦ <lex>m.</lex> a <ab>partic.</ab> kind of dangerous disease (later ‘pulmonary consumption, a trophy’), <ls>RV.</ls> &c. &c. (<s>-yakzman</s>, also ‘<ab>N.</ab> of a divine being’, <ls>Hcat.</ls>)<info or="176554,rAjayakzma;176557,rAjayakzman"/><info lex="m"/>
+<LEND>
+<L>176555<pc>873,3<k1>rAjayakzmanAman<k2>rAja—yakzma—nAman<e>4
+<s>rAja—yakzma—nAman</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <ab>partic.</ab> mythical being (said to be connected with the foundation of a house), <ls>VarBṛS.</ls><info lex="m"/>
+<LEND>
+<L>176556<pc>873,3<k1>rAjayakzmin<k2>rAja—yakzmin<e>4
+<s>rAja—yakz°min</s> ¦ <lex>mf(<s>iRI</s>)n.</lex> suffering from consumption, consumptive, <ls>Suśr.</ls><info lex="m:f#iRI:n"/>
+<LEND>
+<L>176557<pc>873,3<k1>rAjayakzman<k2>rAja—yakzman<e>3
+<s>rAja—yakzma/</s> or <s>rAja—yakzman</s>, ¦ <lex>m.</lex> a <ab>partic.</ab> kind of dangerous disease (later ‘pulmonary consumption, a trophy’), <ls>RV.</ls> &c. &c. (<s>-yakzman</s>, also ‘<ab>N.</ab> of a divine being’, <ls>Hcat.</ls>)<info or="176554,rAjayakzma;176557,rAjayakzman"/><info lex="m"/>
+<LEND>
+<L>176558<pc>873,3<k1>rAjayakzmannAman<k2>rAja—yakzmannAman<e>4
+<s>rAja—yakzmannAman</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <ab>partic.</ab> mythical being (said to be connected with the foundation of a house), <ls>VarBṛS.</ls><info lex="m"/>
+<LEND>
+
+
+-----------------------------------
+
+AB
+

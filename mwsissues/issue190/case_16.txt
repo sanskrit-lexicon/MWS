@@ -1,0 +1,57 @@
+* CASE 16 (yamalArjuna), (yamalArjunaBaYjana), (yamalArjunahan), yamalArjunakaBaYjana, yamalArjunakahan
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=847,1
+
+
+ref: https://github.com/sanskrit-lexicon/MWS/issues/190#issuecomment-3522021410
+
+status: DONE  (question: why no cpds with yamalArjunaka)
+
+------------------------------------------------
+
+new mw.txt:  no change
+
+
+-----------------------------------
+
+old.mw.txt
+
+<L>170566<pc>847,1<k1>yamalArjuna<k2>yamalArjuna<e>3
+<s>yamalA<srs/>rjuna</s> or <s>yamalA<srs/>rju°naka</s>, ¦ <lex>m. <ab>du.</ab></lex> two <s1>Arjuna</s1> trees (which obstructed the path of <s1>Kṛṣṇa</s1>, when a child, and were uprooted by him; afterwards personified as the enemies of <s1>Kṛṣṇa</s1>, and in the later mythology regarded as metamorphoses of <s1>Nala-kūbara</s1> and <s1>Maṇigrīva</s1>, two sons of <s1>Kubera</s1>), <ls>R.</ls>; <ls>Hariv.</ls>; <ls>Pur.</ls><info lex="m"/>
+<LEND>
+<L>170566.1<pc>847,1<k1>yamalArjunaka<k2>yamalArjunaka<e>3
+{{Lbody=170566}}
+<LEND>
+<L>170567<pc>847,1<k1>yamalArjunaBaYjana<k2>yamalArjuna—BaYjana<e>4
+<s>yamalA<srs/>rjuna—BaYjana</s> (<ls>Pañcar.</ls>), <s>yamalA<srs/>rjuna—han</s> (<ls>W.</ls>), ¦ <lex>m.</lex> ‘breaker or destroyer of the two <s1>Arjuna</s1> trees’, <ab>N.</ab> of <s1>Kṛṣṇa</s1> or <s1>Viṣṇu</s1>.<info lex="m"/>
+<LEND>
+<L>170567.1<pc>847,1<k1>yamalArjunahan<k2>yamalArjuna—han<e>4
+{{Lbody=170567}}
+<LEND>
+
+-----------------------------------
+
+** lostparent
+<L>170566<pc>847,1<k1>yamalArjuna<k2>yamalArjuna<e>3
+<s>yamalA<srs/>rjuna</s> or <s>yamalA<srs/>rju°naka</s>, ¦ <lex>m. <ab>du.</ab></lex> two <s1 slp1="arjuna">Arjuna</s1> trees (which obstructed the path of <s1 slp1="kfzRa">Kṛṣṇa</s1>, when a child, and were uprooted by him; afterwards personified as the enemies of <s1 slp1="kfzRa">Kṛṣṇa</s1>, and in the later mythology regarded as metamorphoses of <s1 slp1="nala-kUbara">Nala-kūbara</s1> and <s1 slp1="maRigrIva">Maṇigrīva</s1>, two sons of <s1 slp1="kubera">Kubera</s1>), <ls>R.</ls>; <ls>Hariv.</ls>; <ls>Pur.</ls><info or="170566,yamalArjuna;170568,yamalArjunaka"/><info lex="m"/>
+<LEND>
+<L>170567<pc>847,1<k1>yamalArjunaBaYjana<k2>yamalArjuna—BaYjana<e>4
+<s>yamalA<srs/>rjuna—BaYjana</s> (<ls>Pañcar.</ls>), <s>yamalA<srs/>rjuna—han</s> (<ls>W.</ls>), ¦ <lex>m.</lex> ‘breaker or destroyer of the two <s1 slp1="arjuna">Arjuna</s1> trees’, <ab>N.</ab> of <s1 slp1="kfzRa">Kṛṣṇa</s1> or <s1 slp1="vizRu">Viṣṇu</s1>.<info or="170567,yamalArjunaBaYjana;170567.1,yamalArjunahan"/><info lex="m"/>
+<LEND>
+<L>170567.1<pc>847,1<k1>yamalArjunahan<k2>yamalArjuna—han<e>4
+<s>yamalA<srs/>rjuna—BaYjana</s> (<ls>Pañcar.</ls>), <s>yamalA<srs/>rjuna—han</s> (<ls>W.</ls>), ¦ <lex>m.</lex> ‘breaker or destroyer of the two <s1 slp1="arjuna">Arjuna</s1> trees’, <ab>N.</ab> of <s1 slp1="kfzRa">Kṛṣṇa</s1> or <s1 slp1="vizRu">Viṣṇu</s1>.<info or="170567,yamalArjunaBaYjana;170567.1,yamalArjunahan"/><info lex="m"/>
+<LEND>
+<L>170568<pc>847,1<k1>yamalArjunaka<k2>yamalArjunaka<e>3
+<s>yamalA<srs/>rjuna</s> or <s>yamalA<srs/>rju°naka</s>, ¦ <lex>m. <ab>du.</ab></lex> two <s1 slp1="arjuna">Arjuna</s1> trees (which obstructed the path of <s1 slp1="kfzRa">Kṛṣṇa</s1>, when a child, and were uprooted by him; afterwards personified as the enemies of <s1 slp1="kfzRa">Kṛṣṇa</s1>, and in the later mythology regarded as metamorphoses of <s1 slp1="nala-kUbara">Nala-kūbara</s1> and <s1 slp1="maRigrIva">Maṇigrīva</s1>, two sons of <s1 slp1="kubera">Kubera</s1>), <ls>R.</ls>; <ls>Hariv.</ls>; <ls>Pur.</ls><info or="170566,yamalArjuna;170568,yamalArjunaka"/><info lex="m"/>
+<LEND>
+<L>170569<pc>847,1<k1>yamalArjunakaBaYjana<k2>yamalArjunaka—BaYjana<e>4
+<s>yamalA<srs/>rju°naka—BaYjana</s> ¦ <lex>m.</lex> ‘breaker or destroyer of the two <s1 slp1="arjuna">Arjuna</s1> trees’, <ab>N.</ab> of <s1 slp1="kfzRa">Kṛṣṇa</s1> or <s1 slp1="vizRu">Viṣṇu</s1>. (<ls>Pañcar.</ls>)<info lex="m"/>
+<LEND>
+<L>170569.1<pc>847,1<k1>yamalArjunakahan<k2>yamalArjunaka—han<e>4
+<s>yamalA<srs/>rju°naka—han</s> ¦ <lex>m.</lex> ‘breaker or destroyer of the two <s1 slp1="arjuna">Arjuna</s1> trees’, <ab>N.</ab> of <s1 slp1="kfzRa">Kṛṣṇa</s1> or <s1 slp1="vizRu">Viṣṇu</s1>. (<ls>W.</ls>)<info lex="m"/>
+<LEND>
+
+
+-----------------------------------
+
+AB
+

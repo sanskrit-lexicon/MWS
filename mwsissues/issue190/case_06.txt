@@ -1,0 +1,54 @@
+* CASE 06 (ekASraya), ekASrayaguRa, (ekASrita), (ekASritaguRa)
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=230,3
+
+ref: https://github.com/sanskrit-lexicon/MWS/issues/190#issuecomment-3521456069
+
+status: changed
+  Jim adds entry for ekASrayaguRa
+new mw.txt:
+
+<L>39897<pc>230,3<k1>ekASraya<k2>ekASraya<e>3
+<s>ekA<srs/>Sraya</s> and <s>ekA<srs/>Srita</s>, ¦ <lex>mfn.</lex> resting upon or clinging to one object or person (<ab>cf.</ab> <s>an-ekA<srs/>Sr°</s>), <ls>Bhāṣāp.</ls><info lex="m:f:n"/>
+<LEND>
+<L>39897.1<pc>230,3<k1>ekASrita<k2>ekASrita<e>3
+{{Lbody=39897}}
+<LEND>
+<L>39898<pc>230,3<k1>ekASrayaguRa<k2>ekASraya—guRa<e>4
+<s>ekA<srs/>Sraya—guRa</s> and <s>ekA<srs/>Srita—guRa</s>, ¦ <lex>m.</lex> a simple attribute or predicate (as form, smell, taste, &c.)<info lex="m"/>
+<LEND>
+<L>39898.1<pc>230,3<k1>ekASritaguRa<k2>ekASrita—guRa<e>4
+{{Lbody=39898}}
+<LEND>
+
+-----------------------------------
+
+old.mw.txt
+
+<L>39897<pc>230,3<k1>ekASraya<k2>ekASraya<e>3
+<s>ekA<srs/>Sraya</s> and <s>ekA<srs/>Srita</s>, ¦ <lex>mfn.</lex> resting upon or clinging to one object or person (<ab>cf.</ab> <s>an-ekA<srs/>Sr°</s>), <ls>Bhāṣāp.</ls><info lex="m:f:n"/>
+<LEND>
+<L>39897.1<pc>230,3<k1>ekASrita<k2>ekASrita<e>3
+{{Lbody=39897}}
+<LEND>
+<L>39900<pc>230,3<k1>ekASritaguRa<k2>ekASrita—guRa<e>4
+<s>ekA<srs/>Srita—guRa</s> ¦ <lex>m.</lex> a simple attribute or predicate (as form, smell, taste, &c.)<info lex="m"/>
+<LEND>
+
+-----------------------------------
+** lostparent
+
+<L>39897<pc>230,3<k1>ekASraya<k2>ekASraya<e>3
+<s>ekA<srs/>Sraya</s> and <s>ekA<srs/>Srita</s>, ¦ <lex>mfn.</lex> resting upon or clinging to one object or person (<ab>cf.</ab> <s>an-ekA<srs/>Sr°</s>), <ls>Bhāṣāp.</ls><info and="39897,ekASraya;39899,ekASrita"/><info lex="m:f:n"/>
+<LEND>
+<L>39898<pc>230,3<k1>ekASrayaguRa<k2>ekASraya—guRa<e>4
+<s>ekA<srs/>Sraya—guRa</s> ¦ <lex>m.</lex> a simple attribute or predicate (as form, smell, taste, &c.)<info lex="m"/>
+<LEND>
+<L>39899<pc>230,3<k1>ekASrita<k2>ekASrita<e>3
+<s>ekA<srs/>Sraya</s> and <s>ekA<srs/>Srita</s>, ¦ <lex>mfn.</lex> resting upon or clinging to one object or person (<ab>cf.</ab> <s>an-ekA<srs/>Sr°</s>), <ls>Bhāṣāp.</ls><info and="39897,ekASraya;39899,ekASrita"/><info lex="m:f:n"/>
+<LEND>
+<L>39900<pc>230,3<k1>ekASritaguRa<k2>ekASrita—guRa<e>4
+<s>ekA<srs/>Srita—guRa</s> ¦ <lex>m.</lex> a simple attribute or predicate (as form, smell, taste, &c.)<info lex="m"/>
+<LEND>
+
+
+------------------------------------------------

@@ -1,0 +1,177 @@
+
+* CASE 07 (karvara, (karbara), (karvarI), karbarA
+https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=259,3
+
+ref: https://github.com/sanskrit-lexicon/MWS/issues/190#issuecomment-3521456069
+
+status: done
+------------------------------------------------
+
+new mw.txt:  
+
+<L>45528<pc>259,3<k1>karvara<k2>karvara<h>2<e>1
+<hom>2.</hom> <s>karvara</s> or <s>karbara</s>, ¦ <lex>mfn.</lex> (√ <hom>1.</hom> <s>kF</s>, <ls>Uṇ. ii, 123</ls>), variegated, spotted, <ls>L.</ls>;<info lex="m:f:n"/>
+<LEND>
+<L>45528.05<pc>259,3<k1>karbara<k2>karbara<e>1
+{{Lbody=45528}}
+<LEND>
+<L>45528.1<pc>259,3<k1>karvara<k2>karvara<e>1
+<s>karvara</s> or <s>karbara</s>, ¦ (<s>as</s>), <lex>m.</lex> sin, <ls>L.</ls>;
+<div n="P"/> a <s1>Rakṣas</s1>, <ls>L.</ls>;
+<div n="P"/> a tiger, <ls>L.</ls>;
+<div n="P"/> a particular medicament, <ls>L.</ls>;<info lex="m"/>
+<LEND>
+<L>45528.15<pc>259,3<k1>karbara<k2>karbara<e>1
+{{Lbody=45528.1}}
+<LEND>
+<L>45528.2<pc>259,3<k1>karvarI<k2>karvarI<e>1
+<s>karvarI</s> or <s>karbarI</s>, ¦ (<s>I</s>), <lex>f.</lex> night, <ls>L.</ls>;
+<div n="P"/> a <s1>Rākṣasī</s1>, <ls>L.</ls>;
+<div n="P"/> a tigress, <ls>L.</ls>;
+<div n="P"/> the leaf of <bot>Asa foetida</bot>, <ls>L.</ls>;
+<div n="P"/> <ab>N.</ab> of <s1>Durgā</s1>, <ls>L.</ls>;<info lex="f"/>
+<LEND>
+<L>45528.25<pc>259,3<k1>karbarI<k2>karbarI<e>1
+{{Lbody=45528.2}}
+<LEND>
+<L>45528.3<pc>259,3<k1>karvara<k2>karvara<e>1
+<s>karvara</s> or <s>karbara</s>, ¦ (<s>am</s>), <lex>n.</lex> red lead, <ls>L.</ls>;<info lex="n"/>
+<LEND>
+<L>45528.35<pc>259,3<k1>karbara<k2>karbara<e>1
+{{Lbody=45528.3}}
+<LEND>
+<L>45528.4<pc>259,3<k1>karvara<k2>karvara<e>1
+<s>karvara</s> or <s>karbara</s> ¦ (<ab>cf.</ab> <s>karbu</s>, <s>karbura</s>, &c.; <s>karavI</s>; <s>kAravI</s>.)
+<LEND>
+<L>45528.45<pc>259,3<k1>karbara<k2>karbara<e>1
+{{Lbody=45528.4}}
+<LEND>
+
+-----------------------------------
+
+old.mw.txt
+
+<L>45528<pc>259,3<k1>karvara<k2>karvara<h>2<e>1
+<hom>2.</hom> <s>karvara</s> or <s>karbara</s>, ¦ <lex>mfn.</lex> (√ <hom>1.</hom> <s>kF</s>, <ls>Uṇ. ii, 123</ls>), variegated, spotted, <ls>L.</ls>;
+
+<div n="P"/> (<s>as</s>), <lex>m.</lex> sin, <ls>L.</ls>;
+<div n="P"/> a <s1>Rakṣas</s1>, <ls>L.</ls>;
+<div n="P"/> a tiger, <ls>L.</ls>;
+<div n="P"/> a particular medicament, <ls>L.</ls>;
+
+<div n="P"/> (<s>I</s>), <lex>f.</lex> night, <ls>L.</ls>;
+<div n="P"/> a <s1>Rākṣasī</s1>, <ls>L.</ls>;
+<div n="P"/> a tigress, <ls>L.</ls>;
+<div n="P"/> the leaf of <bot>Asa foetida</bot>, <ls>L.</ls>;
+<div n="P"/> <ab>N.</ab> of <s1>Durgā</s1>, <ls>L.</ls>;
+
+<div n="P"/> (<s>am</s>), <lex>n.</lex> red lead, <ls>L.</ls>;
+<div n="P"/> (<ab>cf.</ab> <s>karbu</s>, <s>karbura</s>, &c.; <s>karavI</s>; <s>kAravI</s>.)<info lex="m:f:n"/>
+<LEND>
+<L>45528.1<pc>259,3<k1>karbara<k2>karbara<e>1
+{{Lbody=45528}}
+<LEND>
+<L>45528.2<pc>259,3<k1>karvarI<k2>karvarI<e>1
+{{Lbody=45528}}
+<LEND>
+<L>45528.3<pc>259,3<k1>karbarI<k2>karbarI<e>1
+{{Lbody=45528}}
+<LEND>
+
+-----------------------------------
+
+** lostparent
+<L>45528<pc>259,3<k1>karvara<k2>karvara<h>2<e>1
+<hom>2.</hom> <s>karvara</s> or <s>karbara</s>, ¦ <lex>mfn.</lex> (√ <hom>1.</hom> <s>kF</s>, <ls>Uṇ. ii, 123</ls>), variegated, spotted, <ls>L.</ls><info or="45528,karvara;45528.6,karbara"/><info lex="m:f:n"/>
+<LEND>
+<L>45528.05<pc>259,3<k1>karvara<k2>karvara<e>1B
+<s>karvara</s> ¦ <lex>m.</lex> sin, <ls>L.</ls><info lex="m"/>
+<LEND>
+<L>45528.10<pc>259,3<k1>karvara<k2>karvara<e>1B
+¦ a <s1 slp1="rakzas">Rakṣas</s1>, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.15<pc>259,3<k1>karvara<k2>karvara<e>1B
+¦ a tiger, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.20<pc>259,3<k1>karvara<k2>karvara<e>1B
+¦ a particular medicament, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.25<pc>259,3<k1>karvarI<k2>karvarI<e>1B
+<s>karvarI</s> ¦ <lex>f.</lex> night, <ls>L.</ls><info lex="f"/>
+<LEND>
+<L>45528.30<pc>259,3<k1>karvarI<k2>karvarI<e>1B
+¦ a <s1 slp1="rAkzasI">Rākṣasī</s1>, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.35<pc>259,3<k1>karvarI<k2>karvarI<e>1B
+¦ a tigress, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.40<pc>259,3<k1>karvarI<k2>karvarI<e>1B
+¦ the leaf of <bot>Asa foetida</bot>, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.45<pc>259,3<k1>karvarI<k2>karvarI<e>1B
+¦ <ab>N.</ab> of <s1 slp1="durgA">Durgā</s1>, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.50<pc>259,3<k1>karvara<k2>karvara<e>1B
+<s>karvara</s> ¦ <lex>n.</lex> red lead, <ls>L.</ls>; (<ab>cf.</ab> <s>karbu</s>, <s>karbura</s>, &c.; <s>karavI</s>; <s>kAravI</s>.)<info lex="n"/>
+<LEND>
+<L>45528.6<pc>259,3<k1>karbara<k2>karbara<h>b<e>1
+<hom>2.</hom> <s>karvara</s> or <s>karbara</s>, ¦ <lex>mfn.</lex> (√ <hom>1.</hom> <s>kF</s>, <ls>Uṇ. ii, 123</ls>), variegated, spotted, <ls>L.</ls><info or="45528,karvara;45528.6,karbara"/><info lex="m:f:n"/>
+<LEND>
+<L>45528.7<pc>259,3<k1>karbara<k2>karbara<e>1B
+<s>karbara</s> ¦ <lex>m.</lex> sin, <ls>L.</ls><info lex="m"/>
+<LEND>
+<L>45528.8<pc>259,3<k1>karbara<k2>karbara<e>1B
+¦ a <s1 slp1="rakzas">Rakṣas</s1>, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.9<pc>259,3<k1>karbara<k2>karbara<e>1B
+¦ a tiger, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.91<pc>259,3<k1>karbara<k2>karbara<e>1B
+¦ a particular medicament, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.92<pc>259,3<k1>karbarA<k2>karbarA<e>1B
+<s>karbarA</s> ¦ <lex>f.</lex> night, <ls>L.</ls><info lex="f"/>
+<LEND>
+<L>45528.93<pc>259,3<k1>karbarA<k2>karbarA<e>1B
+¦ a <s1 slp1="rAkzasI">Rākṣasī</s1>, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.94<pc>259,3<k1>karbarA<k2>karbarA<e>1B
+¦ a tigress, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.95<pc>259,3<k1>karbarA<k2>karbarA<e>1B
+¦ the leaf of <bot>Asa foetida</bot>, <ls>L.</ls><info lex="inh"/>
+<LEND>
+<L>45528.96<pc>259,3<k1>karbarA<k2>karbarA<e>1B
+¦ <ab>N.</ab> of <s1 slp1="durgA">Durgā</s1>, <ls>L.</ls><info lex="inh"/>
+<LEND>
+
+-----------------------------------------------
+
+------------------------------------------------
+AB version (from 'ref' at top of this file)
+
+<L>45528<pc>259,3<k1>karvara<k2>2. karvara, karbara<e>1
+<hom>2.</hom> <s>karvara</s> or <s>karbara</s>, ¦ <lex>mfn.</lex> (√ <hom>1.</hom> <s>kṝ</s>, <ls>Uṇ. ii, 123</ls>), variegated, spotted, <ls>L.</ls>;
+<LEND>{{45528,45528.05}}<info lex="m:f:n"/>
+
+<L>45528.1<pc>259,3<k1>karvara<k2>karvara, karbara<e>1B
+<s>karvara</s> or <s>karbara</s> ¦ (<s>as</s>), <lex>m.</lex> sin, <ls>L.</ls>;
+<div n="P"/> a <is>Rakṣas</is>, <ls>L.</ls>;
+<div n="P"/> a tiger, <ls>L.</ls>;
+<div n="P"/> a particular medicament, <ls>L.</ls>;
+<LEND>{{45528.1,45528.15}}<info lex="m"/>
+
+<L>45528.2<pc>259,3<k1>karvarī<k2>karvarī, karbarī<e>1B
+<s>karvarī</s> or <s>karbarī</s> ¦ (<s>ī</s>), <lex>f.</lex> night, <ls>L.</ls>;
+<div n="P"/> a <is>Rākṣasī</is>, <ls>L.</ls>;
+<div n="P"/> a tigress, <ls>L.</ls>;
+<div n="P"/> the leaf of <bot>Asa foetida</bot>, <ls>L.</ls>;
+<div n="P"/> <ab>N.</ab> of <is>Durgā</is>, <ls>L.</ls>;
+<LEND>{{45528.2,45528.25}}<info lex="f"/>
+
+<L>45528.3<pc>259,3<k1>karvara<k2>karvara, karbara<e>1B
+<s>karvara</s> or <s>karbara</s> ¦ (<s>am</s>), <lex>n.</lex> red lead, <ls>L.</ls>;
+<LEND>{{45528.3,45528.35}}<info lex="n"/>
+<L>45528.4<pc>259,3<k1>karvara<k2>karvara, karbara<e>1E
+<s>karvara</s> or <s>karbara</s> ¦ (<ab>cf.</ab> <s>karbu</s>, <s>karbura</s>, &c.; <s>karavī</s>; <s>kāravī</s>.)
+<LEND>{{45528.4,45528.45}}
