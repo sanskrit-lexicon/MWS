@@ -116,6 +116,6 @@ Three known non-invertible words exist in the SLP1→IAST→SLP1 round-trip (doc
 
 ## Related Repositories
 
-- **csl-orig** — canonical source data (`mw.txt` and other dict sources)
-- **csl-pywork** — build system (`generate_dict.sh`, `xmlchk_xampp.sh`, display generation)
-- **csl-corrections** — cross-dictionary corrections tracker (GitHub issues referenced from MWS issues)
+- **[csl-orig](https://github.com/sanskrit-lexicon/csl-orig)** — canonical source data (`mw.txt` and other dict sources)
+- **[csl-pywork](https://github.com/sanskrit-lexicon/csl-pywork)** — build system (`generate_dict.sh`, `xmlchk_xampp.sh`, display generation)
+- **[csl-corrections](https://github.com/sanskrit-lexicon/csl-corrections)** — cross-dictionary corrections tracker (GitHub issues referenced from MWS issues)
