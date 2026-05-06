@@ -64,7 +64,8 @@ python newHom.py extract_keys_b.txt monier_pg2a.xml mod_hom.txt monier_pg3.xml >
 
 ### Rebuild & validate XML (run from `csl-pywork/v02/`)
 
-After editing `mw.txt`, copy it into place, regenerate, and check:
+After editing `mw.txt`, copy it into place, regenerate, and check.
+`N` increments with each round of corrections within an issue (0 = original copy, 1 = first round, 2 = second, …):
 ```bash
 cp temp_mw_N.txt $BASE/cologne/csl-orig/v02/mw/mw.txt
 cd $BASE/cologne/csl-pywork/v02
