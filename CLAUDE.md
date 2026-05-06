@@ -118,6 +118,45 @@ Transcoding rules are XML files in `mwtranscode/transcoder/`:
 
 Three known non-invertible words exist in the SLP1→IAST→SLP1 round-trip (documented in `mwtranscode/readme.txt`).
 
+## GitHub Issue Conventions
+
+### Milestones and projects
+
+Every issue belongs to exactly one milestone, which mirrors an org-level kanban project:
+
+| Milestone | Project | Scope |
+|---|---|---|
+| Dictionary to Book (5) | Project 5 | Link targets and link splitting |
+| Digitization Quality (6) | Project 6 | Scan quality, encoding, bug fixes, text corrections |
+| Structured Data (7) | Project 7 | Markup normalisation, structured data, editorial questions |
+| Major Enhancements (8) | Project 8 | Large new content: display upgrades, new data, structural additions |
+
+### Type labels
+
+Every issue has exactly one type label:
+
+| Label | When to use |
+|---|---|
+| `link-target` | Building a click-through from a `<ls>` abbreviation to scanned PDF pages |
+| `link-splitting` | Splitting combined `SOURCE N,N` refs into individual per-page links |
+| `markup` | Normalising XML tag content or structure (`<ls>`, `<ab>`, `<lex>`, `<bot>`, etc.) |
+| `text-correction` | Corrections to German/English definitions, Sanskrit headwords, accent marks, or orthography |
+| `content-enhancement` | New material, display upgrades, or structural additions beyond correction |
+| `encoding` | SLP1/IAST/Devanagari transcoding, Greek/Lithuanian rendering, character normalisation |
+| `scan-quality` | Replacing blurry, skewed, or missing scan pages |
+| `bug` | Broken display, XML structure errors, broken links |
+| `question` | Scholarly or editorial questions requiring research before any code change |
+
+### Severity labels
+
+Every issue also has exactly one severity label:
+
+| Label | When to use |
+|---|---|
+| `minor` | Targeted, self-contained fix — a handful of entries or a single file |
+| `medium` | Standard unit of work — one link-target index, a batch of markup corrections |
+| `hard` | Large effort spanning many entries, files, or dictionaries |
+
 ## Related Repositories
 
 - **[csl-orig](https://github.com/sanskrit-lexicon/csl-orig)** — canonical source data (`mw.txt` and other dict sources)
