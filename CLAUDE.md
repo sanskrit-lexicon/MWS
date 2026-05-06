@@ -14,7 +14,10 @@ $BASE/cologne/
   csl-orig/     ← source data repo (mw.txt lives here)
   csl-pywork/   ← build tools (generate_dict.sh, xmlchk_xampp.sh)
 ```
-The original maintainer uses `$BASE=/c/xampp/htdocs`; adapt paths in the commands below accordingly.
+Set `$BASE` in your shell before running any commands below:
+```bash
+export BASE=/c/xampp/htdocs  # adjust to your installation
+```
 
 ## Data Format
 

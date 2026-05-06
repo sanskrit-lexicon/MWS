@@ -42,8 +42,8 @@ This repository holds corrections, enhancements, and tooling for the [Cologne di
 | Nov 2017 | mwabbreviations analysis added |
 | Jan 2020 | Greek words file received from Andhrabharati (issue #89) |
 | Jun 2020 | botbio tag extraction and mwverbs pipeline added |
-| Jan 2021 | mwtranscode: SLP1 ↔ IAST ↔ Devanagari pipeline; Lithuanian comparison; AB version work |
-| 2024 | Issues 141–181: accent corrections, Grassmanizing, AB3 alternate format, supplement revisions |
+| Jan 2021 | mwtranscode: SLP1 ↔ IAST ↔ Devanagari pipeline; Lithuanian comparison; Andhrabharati (AB) version work |
+| 2024 | Issues 141–181: accent corrections, Grassmanizing, AB3 (Andhrabharati) alternate format, supplement revisions |
 | Aug–Nov 2025 | Issue 190: recovery of 16+ lost headwords (with Andhrabharati and aumsanskrit) |
 | Feb 2026 | History folder: MONIER.ALL archived and documented |
 
