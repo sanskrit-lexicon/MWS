@@ -55,8 +55,9 @@ diff mw.txt temp_mw_slp1.txt
 
 ### Homophone pipeline (`homophone/pywork/`)
 
-Sequential steps starting from a local copy of `monier.xml` (fetched from the Cologne server via `csl-orig`; not included in this repo):
+Sequential steps starting from a local copy of `monier.xml` (not included in this repo — fetch it first):
 ```bash
+cp $BASE/cologne/csl-orig/v02/mw/monier.xml .
 python removeHom.py monier.xml monier_pg2.xml
 python hierMod.py   monier_pg2.xml monier_pg2a.xml
 python extract_keys.py   monier.xml extract_keys.txt
