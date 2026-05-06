@@ -21,6 +21,10 @@ This repository holds corrections, enhancements, and tooling for the [Cologne di
 | `accent_diff/` | Accent markup discrepancy analysis |
 | `Lithuanian/` | Lithuanian word list comparison against MW |
 | `mwsupplement/` | MW supplement entries |
+| `greek_andhrabharati/` | Greek words comparison between Cologne digitization and Andhrabharati |
+| `CORRECTIONS_issue_362/` | Language-tag corrections from Andhrabharati (csl-corrections issue #362) |
+| `verbs01/` | Verb merge and cross-reference tooling |
+| `transcodeExample/` | Example transcoder PHP/Python scripts and SLP1→IAST table |
 | `basic04a/` | Simple two-dictionary web display sample |
 | `list02php/` | PHP-based display sample |
 
@@ -34,8 +38,8 @@ This repository holds corrections, enhancements, and tooling for the [Cologne di
 | Apr–Jun 2015 | Homophone corrections: ~6,500 removeHom + 10,913 artificial homophones assigned |
 | Dec 2015 | k1k2 headword clash analysis |
 | Jul 2016 | mwauthorities XML structure established |
-| Nov 2017 | mwabbreviations analysis added |
 | Feb 2017 | Web display samples added (basic04a, list02php) |
+| Nov 2017 | mwabbreviations analysis added |
 | Jan 2020 | Greek words file received from Andhrabharati (issue #89) |
 | Jun 2020 | botbio tag extraction and mwverbs pipeline added |
 | Jan 2021 | mwtranscode: SLP1 ↔ IAST ↔ Devanagari pipeline; Lithuanian comparison; AB version work |
