@@ -6,14 +6,15 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 MWS is a corrections and enhancements repository for the Cologne digitization of Monier Monier-Williams' *A Sanskrit-English Dictionary* (1899). The canonical source data lives in the companion repository `csl-orig/v02/mw/mw.txt`. This repo holds tooling, issue-specific correction workflows, and derived files.
 
-The assumed local directory layout:
+The assumed local directory layout (adjust `$BASE` to your installation):
 ```
-/c/xampp/htdocs/sanskrit-lexicon/
+$BASE/sanskrit-lexicon/
   MWS/          ← this repo
-cologne/
+$BASE/cologne/
   csl-orig/     ← source data repo (mw.txt lives here)
   csl-pywork/   ← build tools (generate_dict.sh, xmlchk_xampp.sh)
 ```
+The original maintainer uses `$BASE=/c/xampp/htdocs`; adapt paths in the commands below accordingly.
 
 ## Data Format
 
@@ -65,8 +66,8 @@ python newHom.py extract_keys_b.txt monier_pg2a.xml mod_hom.txt monier_pg3.xml >
 
 After editing `mw.txt`, copy it into place, regenerate, and check:
 ```bash
-cp temp_mw_N.txt /c/xampp/htdocs/cologne/csl-orig/v02/mw/mw.txt
-cd /c/xampp/htdocs/cologne/csl-pywork/v02
+cp temp_mw_N.txt $BASE/cologne/csl-orig/v02/mw/mw.txt
+cd $BASE/cologne/csl-pywork/v02
 sh generate_dict.sh mw  ../../mw
 sh xmlchk_xampp.sh mw
 ```
