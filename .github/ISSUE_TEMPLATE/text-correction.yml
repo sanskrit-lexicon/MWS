@@ -1,0 +1,41 @@
+name: Text correction
+description: Report a typo, wrong gloss, or other text-level correction in a dictionary entry.
+title: "[text-correction] "
+labels: ["text-correction"]
+body:
+  - type: textarea
+    id: location
+    attributes:
+      label: Location
+      description: Which entry, which line number (`<L>NNNN`), and which print edition / page?
+      placeholder: |
+        - Entry: rāma
+        - L number: 12345
+        - Print page: 273, column 1
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Current text
+      description: Paste the current text of the entry, or relevant excerpt.
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Proposed correction
+      description: What should it say, and why? Cite the print edition or scholarly authority.
+    validations:
+      required: true
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      options:
+        - minor — single line / character
+        - medium — batch of similar errors
+        - hard — affects many entries or many dictionaries
+    validations:
+      required: true

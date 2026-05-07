@@ -1,0 +1,34 @@
+name: Markup issue
+description: XML tag content or structural markup correction (`<ls>`, `<lex>`, `<ab>`, etc.).
+title: "[markup] "
+labels: ["markup"]
+body:
+  - type: textarea
+    id: location
+    attributes:
+      label: Location
+      description: Which entries / which tag(s) are affected?
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What's wrong with the current markup?
+      description: Describe the inconsistency, the missing tag, or the structural issue.
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Proposed change
+      description: How should the markup look? Provide a before/after if possible.
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      options:
+        - minor — handful of entries
+        - medium — batch / one tag class across the dictionary
+        - hard — structural change spanning many entries
+    validations:
+      required: true

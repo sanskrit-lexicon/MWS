@@ -1,0 +1,34 @@
+name: Link target
+description: A `<ls>` literary-source citation that should link to scanned PDF pages of the cited print edition.
+title: "[link-target] "
+labels: ["link-target", "medium"]
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Literary source abbreviation
+      placeholder: "e.g. Rv., Mbh., Ku."
+    validations:
+      required: true
+  - type: input
+    id: full-title
+    attributes:
+      label: Full title
+      placeholder: "e.g. Ṛgveda, Mahābhārata"
+    validations:
+      required: true
+  - type: input
+    id: edition
+    attributes:
+      label: Print edition (publisher, year, volumes)
+      placeholder: "e.g. Bombay edition, 1863, 18 vols."
+  - type: input
+    id: scan
+    attributes:
+      label: Scan source URL or repository
+      placeholder: "e.g. https://archive.org/details/…"
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Page count, citation pattern, anything else relevant.

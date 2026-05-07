@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Discussion / question (cross-repo)
+    url: https://github.com/sanskrit-lexicon/COLOGNE/issues
+    about: For project-wide discussions or scholarly questions that span multiple dictionaries.
+  - name: Code of Conduct
+    url: https://github.com/sanskrit-lexicon/csl-observatory/blob/main/CODE_OF_CONDUCT.md
+    about: Standards for interaction in CDSL repositories.
+  - name: Cologne web display
+    url: https://www.sanskrit-lexicon.uni-koeln.de/
+    about: Search the dictionaries online (no GitHub account required).

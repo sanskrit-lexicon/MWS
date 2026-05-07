@@ -1,0 +1,22 @@
+name: Bug
+description: Broken link, malformed XML, broken download file, or other technical defect.
+title: "[bug] "
+labels: ["bug", "minor"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What is broken?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: How to reproduce
+      placeholder: "Steps, URL, or commit SHA"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behaviour

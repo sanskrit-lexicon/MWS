@@ -1,0 +1,30 @@
+name: Encoding issue
+description: SLP1 / IAST / Devanagari transcoding, character rendering, hyphen/dash normalisation.
+title: "[encoding] "
+labels: ["encoding", "minor"]
+body:
+  - type: textarea
+    id: location
+    attributes:
+      label: Location
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual encoding (paste raw bytes if relevant)
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected encoding
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: tooling
+    attributes:
+      label: Round-trip status
+      description: Did this lose data going through SLP1↔IAST↔Devanagari?

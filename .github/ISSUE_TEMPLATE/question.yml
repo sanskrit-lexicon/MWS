@@ -1,0 +1,17 @@
+name: Scholarly question
+description: A scholarly or editorial question requiring research before any code change.
+title: "[question] "
+labels: ["question", "minor"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: Be specific. Cite the entry, print edition, or scholarly authority involved.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context and prior research
+      description: What have you already checked? Cologne, INRIA, DCS, BabelNet, etc.
