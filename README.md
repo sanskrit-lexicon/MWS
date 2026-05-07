@@ -22,7 +22,7 @@ This repository holds corrections, enhancements, and tooling for the [Cologne di
 | `Lithuanian/` | Lithuanian word list comparison against MW |
 | `mwsupplement/` | MW supplement entries |
 | `greek_andhrabharati/` | Greek words comparison between Cologne digitization and Andhrabharati |
-| `CORRECTIONS_issue_362/` | Language-tag corrections from Andhrabharati (csl-corrections issue #362) |
+| `CORRECTIONS_issue_362/` | Language-tag corrections from Nagabhushana Rao (@Andhrabharati) (csl-corrections issue #362) |
 | `verbs01/` | Verb merge and cross-reference tooling |
 | `transcodeExample/` | Example transcoder PHP/Python scripts and SLP1→IAST table |
 | `basic04a/` | Simple two-dictionary web display sample |
@@ -40,11 +40,11 @@ This repository holds corrections, enhancements, and tooling for the [Cologne di
 | Jul 2016 | mwauthorities XML structure established |
 | Feb 2017 | Web display samples added (basic04a, list02php) |
 | Nov 2017 | mwabbreviations analysis added |
-| Jan 2020 | Greek words file received from Andhrabharati (issue #89) |
+| Jan 2020 | Greek words file received from Nagabhushana Rao (@Andhrabharati) (issue #89) |
 | Jun 2020 | botbio tag extraction and mwverbs pipeline added |
 | Jan 2021 | mwtranscode: SLP1 ↔ IAST ↔ Devanagari pipeline; Lithuanian comparison; Andhrabharati (AB) version work |
 | 2024 | Issues 141–181: accent corrections, Grassmanizing, AB3 (Andhrabharati) alternate format, supplement revisions |
-| Aug–Nov 2025 | Issue 190: recovery of 16+ lost headwords (with Andhrabharati and aumsanskrit) |
+| Aug–Nov 2025 | Issue 190: recovery of 16+ lost headwords (with Nagabhushana Rao (@Andhrabharati) and Scott Rhodes (@aumsanskrit)) |
 | Feb 2026 | History folder: MONIER.ALL archived and documented |
 
 ## Projects & Milestones
@@ -151,8 +151,8 @@ Every issue carries one **type** label and one **severity** label.
 - **Jim Funderburk** ([@funderburkjim](https://github.com/funderburkjim)) — primary repository maintainer; tooling and correction workflows
 - **Mārcis Gasūns** ([@gasyoun](https://github.com/gasyoun)) — initial commit and early data analysis
 - **drdhaval2785** ([@drdhaval2785](https://github.com/drdhaval2785)) — k1k2 clash analysis; AB/Cologne comparison tooling
-- **Andhrabharati** (Nagabhushana Rao) — Greek words file; AB version analysis; extensive issue contributions
-- **aumsanskrit** — issue analysis and corrections (issue #190 and others)
+- **Nagabhushana Rao** (@Andhrabharati) — Greek words file; AB version analysis; extensive issue contributions
+- **Scott Rhodes** (@aumsanskrit) — issue analysis and corrections (issue #190 and others)
 - **Darius** — Lithuanian word list comparison
 
 ## Homophone corrections and enhancements
