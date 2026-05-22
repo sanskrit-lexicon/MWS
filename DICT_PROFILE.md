@@ -1,7 +1,8 @@
-# [DRAFT] Dictionary Profile — Monier-Williams Sanskrit-English Dictionary (MWS)
+# Dictionary Profile — Monier-Williams Sanskrit-English Dictionary (MWS)
 
-*Draft from public sources (Wikipedia, Cologne CDSL site, digitised prefaces).
-Reviewed by @gasyoun before deployment.*
+A reading companion to the Cologne digital edition of MW. Facts verified against
+Wikipedia, the 1899 print preface, and the CDSL `mw.txt` itself; sample-entry
+annotations decoded from the real source.
 
 ---
 
@@ -9,15 +10,17 @@ Reviewed by @gasyoun before deployment.*
 
 | Fact | Value |
 |---|---|
-| Full title | *Monier-Williams Sanskrit-English Dictionary* |
-| Author(s) | Sir Monier Monier-Williams |
+| Full title | *A Sanskrit-English Dictionary, Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages* |
+| Author | Sir Monier Monier-Williams (1819–1899) |
+| Collaborators (1899 edn) | Ernst Leumann · Carl Cappeller |
 | Language | Sanskrit → English |
-| Year | 1899 |
+| First edition | 1872 |
+| Second edition | 1899 (this is the edition CDSL digitised) |
 | Publisher | Clarendon Press, Oxford |
-| Print entries | ≈ 286,561 |
-| Volumes | 1 |
-| Period covered | Vedic through Classical Sanskrit |
-| Script in print | Latin (IAST-based) |
+| Volume | 1 (folio) — ~1,333 double-column pages |
+| Entries (digital) | 286,561 `<L>` records in `mw.txt` |
+| Period covered | Vedic through late Classical Sanskrit |
+| Script in print | Latin (IAST-like) |
 | CDSL short name | `mw` |
 | Digital license | CC-BY-SA-4.0 |
 | Printed source | Public domain |
@@ -26,140 +29,228 @@ Reviewed by @gasyoun before deployment.*
 
 ## Historical background
 
-[DRAFT] Sir Monier Monier-Williams (1819–1899) was the second Boden Professor of Sanskrit at the University of Oxford, succeeding Horace Hayman Wilson in 1860. His predecessor Wilson had produced a Sanskrit-English dictionary in 1819; Monier-Williams spent decades expanding and re-compiling that work, alongside building on the earlier 1832 edition and drawing from the great German comparative-philological tradition represented by the St. Petersburg lexicon (Böhtlingk and Roth's Großes Petersburger Wörterbuch, 1852–1875). The 1899 edition, published in the last year of his life by the Clarendon Press, Oxford, is often called the "enlarged and improved" edition to distinguish it from his earlier 1872 dictionary.
+Monier Monier-Williams (born Bombay 1819; *né* Williams, hyphenated his name in
+1887) was the second Boden Professor of Sanskrit at Oxford, elected in 1860 in
+the famously contested vote against Max Müller. The Boden chair, founded by a
+bequest from Colonel Joseph Boden, had been established explicitly to support
+Christian missionary work in India — the chair's evangelical purpose was decisive
+in Monier-Williams' election and shaped the trajectory of his scholarship. His
+*Sanskrit-English Dictionary* was conceived as an instrument for that broader
+mission: to give Anglophone scholars a comprehensive desk reference to the
+Sanskrit textual corpus.
 
-[DRAFT] The 1899 dictionary represents the culmination of Victorian Sanskrit scholarship in the English-speaking world. Monier-Williams benefited from the work of the German philological school while writing for an Anglophone audience. The dictionary covers Sanskrit vocabulary from the Rigveda (c. 1500 BCE) through the classical period (c. 1000 CE) and into the later Sanskrit of legal, philosophical, and Purāṇic texts. Each entry typically records the grammatical category, etymology where known, meanings in roughly chronological order, and citations from named works. The Clarendon Press printed it as a single large folio volume with approximately 1,333 double-column pages.
+The **1872 first edition** drew heavily on the great German lexicon of the time,
+Böhtlingk and Roth's *Sanskrit-Wörterbuch* (the so-called Petersburg Wörterbuch
+or PWG, 1855–1875). Monier-Williams condensed the PWG's German citations into
+English glosses, added etymological cross-references to cognate Indo-European
+languages (Greek, Latin, Gothic, Anglo-Saxon, German, English), and reorganised
+many entries.
 
-[DRAFT] Monier-Williams' 1899 dictionary quickly became the standard reference for Sanskrit scholars writing in English, and remained the dominant desk dictionary throughout the twentieth century. The Cologne Digital Sanskrit Lexicon (CDSL) project digitised the full text in the 1990s and 2000s, making it freely searchable online. The CDSL digital edition was later released under CC-BY-SA-4.0, enabling derivative works and redistributions. Further details about the original preface, compilation methodology, and the relationship to the 1872 edition should be drawn from the preface of the 1899 print edition and from secondary literature on the history of Sanskrit studies.
-
-<!-- 2–3 paragraphs: who wrote it, when, why, how it was compiled,
-     relationship to other dictionaries of the era, reception by scholars.
-     Sources: Wikipedia, dictionary preface, Cologne CDSL "About" page. -->
+The **1899 second edition**, the one digitised by the Cologne project, is the
+substantial revision Monier-Williams produced in collaboration with Ernst
+Leumann and Carl Cappeller. Published in the year of his death, it expanded
+coverage, refined etymologies, integrated new textual material, and added a
+Supplement (~6,600 additional entries — preserved in the CDSL repo as
+[6602-entries-from-supplements-MW.txt](6602-entries-from-supplements-MW.txt)).
+The 1899 edition is what scholars cite simply as "Monier-Williams" or "MW."
 
 ---
 
 ## Scholarly significance
 
-[DRAFT] The Monier-Williams 1899 dictionary (MW) is the most comprehensive Sanskrit-English dictionary and remains the primary English-language reference for classical Sanskrit scholarship. It covers a broader chronological and textual range than Apte's Practical Sanskrit-English Dictionary (AP90), includes etymology and cognates from Indo-European comparativist tradition, and provides source citations allowing users to trace usages to specific texts. Its citation system (abbreviated work names such as RV., MBh., R.) is the standard notation used in most English-language Sanskrit scholarship.
+MW is the most comprehensive Sanskrit-English dictionary ever published and
+remains the first port of call for the English-speaking Sanskritist 125+ years
+after its appearance. Its strengths:
 
-[DRAFT] Known limitations include: (a) the 1899 print shows some inconsistencies in Vedic accent marking; (b) Tantric, Purāṇic, and late-classical vocabulary is less systematically covered than the earlier Vedic and classical strata; (c) the abbreviation system requires familiarity with a specialised key. The CDSL digital edition introduced additional corrections and supplementary entries (see `6602-entries-from-supplements-MW.txt` in this repo). Scholars working with highly specialised or late texts may need to supplement MW with Apte's dictionary or domain-specific glossaries.
+- **Breadth.** Vedic, Epic, Classical, philosophical, dharma-śāstra, kāvya, and
+  much Purāṇic vocabulary in one volume.
+- **Source citations.** Most entries name the text(s) in which the word appears,
+  using a stable abbreviation system (`RV.`, `AV.`, `MBh.`, `R.`, `BhP.`, `Pāṇ.`,
+  etc.) — see [DATA_DICTIONARY.md](DATA_DICTIONARY.md) for counts (320,827 `<ls>`
+  source-reference tags across the digital edition).
+- **Etymology.** Indo-European cognates marked with `<lang>` tags (3,968 occurrences),
+  far more than any English-language Sanskrit dictionary before or since.
+- **Compound coverage.** Members of long compounds appear as cross-referenced
+  sub-entries, supporting the agglutinative nature of Sanskrit.
 
-<!-- 1–2 paragraphs on: what corpus this dictionary draws on most heavily,
-     what it covers better than alternatives, known limitations, influence
-     on subsequent lexicography. -->
+Limitations:
+
+- **Buddhist Hybrid Sanskrit** is partial; serious BHS work needs Edgerton.
+- **Vedic accent** marking is inconsistent — Grassmann's RV-dictionary is the
+  reference for accent-sensitive Vedic work.
+- **Late Tantric / Āgamic / regional vocabulary** is uneven.
+- **Christian missionary framing** occasionally colours definitions of religious
+  and philosophical terms; readers should triangulate against AP90, PWG, or
+  domain-specific glossaries for theologically loaded vocabulary.
 
 ---
 
 ## When to use this dictionary
 
-| Question / use case | MWS appropriate? | Better alternative if not |
+| Question / use case | MW appropriate? | Better alternative |
 |---|---|---|
-| Looking up a Classical Sanskrit word | [DRAFT] Yes — comprehensive for classical period | |
-| Vedic vocabulary | [DRAFT] Partial — covers Vedic but less depth than GRA | GRA (Grassmann) |
-| Buddhist Hybrid Sanskrit | [DRAFT] Partial — some BHS vocabulary present | BHS (Edgerton) |
-| Technical terms in Dharmaśāstra / Arthaśāstra | [DRAFT] Yes — well covered | |
-| Tantric / Purāṇic vocabulary | [DRAFT] Partial — Purāṇic coverage present but uneven | |
-| Sanskrit → English (quick lookup) | [DRAFT] Yes — largest English-language Sanskrit dict | |
-| Sanskrit → English (comprehensive, with sources) | [DRAFT] Yes — best option with citations | |
-| Reading assistance for students | [DRAFT] Yes — but AP90 may be more accessible | AP90 (Apte) |
-| Manuscript / epigraphic forms | [DRAFT] Partial — consult primary sources for rare forms | |
+| Looking up a Classical Sanskrit word | **Yes** — first port of call | — |
+| Vedic vocabulary, with accent | Partial | [GRA](https://github.com/sanskrit-lexicon/GRA) (Grassmann) |
+| Buddhist Hybrid Sanskrit | Partial | [BHS](https://github.com/sanskrit-lexicon/BHS) (Edgerton) |
+| Dharmaśāstra / Arthaśāstra technical terms | **Yes** | — |
+| Tantric / late Purāṇic vocabulary | Partial | Domain glossaries; PWG for older |
+| Sanskrit → German (comprehensive) | No | [PWG](https://github.com/sanskrit-lexicon/PWG) (Böhtlingk-Roth) |
+| Sanskrit → English (quick lookup) | **Yes** | [AP90](https://github.com/sanskrit-lexicon/AP90) for students |
+| Sanskrit → English (deep, with sources) | **Yes** | — |
+| Reading assistance for students | Yes, but dense | [AP90](https://github.com/sanskrit-lexicon/AP90) (Apte) is gentler |
+| Manuscript / epigraphic forms | Partial | Primary editions + IEG |
+| Etymological cognates (IE family) | **Yes** — uniquely strong | — |
 
-**Summary:** [DRAFT] MW is the standard first port of call for Classical and most Vedic Sanskrit, offering comprehensive coverage with source citations. For Vedic specialist work use Grassmann; for students, Apte's AP90 may be more accessible.
-
-<!-- Fill in Yes / Partial / No for each row. Add rows for domain-specific use cases. -->
+**Summary:** Open MW first for any Classical or general Sanskrit lookup. For
+Vedic accent-sensitive work, Buddhist Hybrid Sanskrit, or German-language
+philological depth, complement with GRA, BHS, or PWG respectively.
 
 ---
 
 ## Relationship to other CDSL dictionaries
 
-| Dictionary | Relationship to MWS |
+| Dictionary | Relationship to MW |
 |---|---|
-| PWG (Böhtlingk & Roth) | Complementary German-language reference; MW drew on PWG but covers different textual strata and gives English glosses |
-| AP90 (Apte 1890) | Abridged English-language alternative; less comprehensive than MW but often more accessible for students |
-| WIL (Wilson 1832) | Earlier English Sanskrit dictionary that MW superseded and greatly expanded |
-
-<!-- Examples: "earlier edition", "complementary (German)", "abridged version",
-     "covers same period with different methodology", etc. -->
+| [PWG](https://github.com/sanskrit-lexicon/PWG) (Böhtlingk-Roth, 1855–1875) | German Sanskrit-Wörterbuch — the principal source MW condensed and translated into English |
+| [PWK](https://github.com/sanskrit-lexicon/PWK) (Böhtlingk, 1879–1889) | Abridged "kürzerer Fassung" of PWG; contemporary with MW's first edition |
+| [AP90](https://github.com/sanskrit-lexicon/AP90) (Apte, 1890) | Student-oriented English Sanskrit dictionary — narrower scope but cleaner pedagogy |
+| [AP](https://github.com/sanskrit-lexicon/AP) (Apte, 1957–59 *Practical*) | Apte's later revised and expanded English Sanskrit dictionary |
+| [WIL](https://github.com/sanskrit-lexicon/WIL) (Wilson, 1832) | Earlier English Sanskrit dictionary by the first Boden Professor — superseded by MW |
+| [GRA](https://github.com/sanskrit-lexicon/GRA) (Grassmann, 1873) | Specialised RV-Wörterbuch — the reference for Vedic accent work |
+| [BHS](https://github.com/sanskrit-lexicon/BHS) (Edgerton, 1953) | Buddhist Hybrid Sanskrit dictionary — the BHS counterpart MW lacks |
 
 ---
 
 ## Sample entries
 
-Three representative entries annotated to illustrate the dictionary's style,
-depth of coverage, and source-citation practice.
+Three real entries from `csl-orig/v02/mw/mw.txt`, decoded line-by-line. All
+abbreviations resolve via the canonical
+[mwabbreviations](https://github.com/sanskrit-lexicon/MWS/blob/master/mwabbreviations/mwab_input.txt)
+tooltip list.
 
-### Sample 1 — simple noun with etymology
+### Sample 1 — verbal root with derivation note
 
-**Headword:** `aMSa` (IAST: *aṃśa*)  
-**Print reference:** p. 1, col. 1
-
-```
-<L>10<pc>1,1<k1>aMSa<k2>a/MSa<e>1
-<s>a/MSa</s> ¦ <lex>m.</lex> (probably <ab>fr.</ab> √ <hom>1.</hom> <s>aS</s>, <ab>perf.</ab> <s>An-a/MSa</s>, and not from the above √ <s>aMS</s> fictitiously formed to serve as root), a share, portion, part, party<info lex="m"/>
-<LEND>
-```
-
-**Annotation:** [DRAFT] The `<hom>1.</hom>` marker distinguishes this homophone from others with the same headword. `<ab>fr.</ab>` means "from" (etymology marker). `<ab>perf.</ab>` means "perfect (tense form)". The `<info lex="m"/>` packet records that the grammatical category is masculine. This is a main entry (`<e>1`), and its sub-entries follow with `<e>1A` codes showing additional meanings (partition, inheritance, stake, etc.).
-
----
-
-### Sample 2 — verbal root with source reference
-
-**Headword:** `aMS` (IAST: *aṃś*)  
-**Print reference:** p. 1, col. 1
+**Headword:** `aMS` (IAST: *aṃś*) · **Print reference:** p. 1, col. 1 · **Record:** `<L>9`
 
 ```
 <L>9<pc>1,1<k1>aMS<k2>aMS<e>1
-<s>aMS</s> ¦ <ab>cl.</ab> 10. <ab>P.</ab> <s>aMSayati</s>, to divide, distribute, <ls>L.</ls>; also occasionally <ab>Ā.</ab> <s>aMSayate</s>, <ls>L.</ls>; also <s>aMSApayati</s>, <ls>L.</ls><info verb="genuineroot" cp="10P,10Ā"/>
+<s>aMS</s> ¦ <ab>cl.</ab> 10. <ab>P.</ab> <s>aMSayati</s>, to divide, distribute, <ls>L.</ls>;
+also occasionally <ab>Ā.</ab> <s>aMSayate</s>, <ls>L.</ls>; also <s>aMSApayati</s>, <ls>L.</ls>
+<info verb="genuineroot" cp="10P,10Ā"/>
 <LEND>
 ```
 
-**Annotation:** [DRAFT] Verbal root entries begin with the root in `<s>`, then give the class (`<ab>cl.</ab> 10.`), voice (`<ab>P.</ab>` = Parasmaipada, `<ab>Ā.</ab>` = Ātmanepada), the conjugated present form, and the English gloss. `<ls>L.</ls>` = lexicographers (a late authority, indicating the root may be secondary). The `<info verb="genuineroot"/>` tag marks this as a root entry in the CDSL system.
+**Reading:**
+- `<L>9` — entry 9 in the file.
+- `<pc>1,1` — page 1, column 1 of the 1899 print.
+- `<k1>aMS` / `<k2>aMS` — primary headword in SLP1 (no accent here).
+- `<e>1` — top-level entry, no sub-hierarchy.
+- `<s>aMS</s>` — the Sanskrit headword span (displayed as *aṃś*).
+- `¦` — separator between headword and gloss body.
+- `<ab>cl.</ab> 10.` — *class* 10 verb (Sanskrit verbs split into 10 conjugational
+  classes; class 10 is the causative-like *cur-ādi*).
+- `<ab>P.</ab>` — *Parasmaipada* (active voice).
+- `<s>aMSayati</s>` — 3rd-sg present indicative form.
+- `<ls>L.</ls>` — citation: "L." is MW's marker for *lexicographers* (i.e.
+  attested only in the indigenous Sanskrit lexicon tradition, not in living
+  textual usage). This is a hedge: the root is real but its productive forms are
+  late or theoretical.
+- `<ab>Ā.</ab>` — *Ātmanepada* (middle voice).
+- `<info verb="genuineroot" cp="10P,10Ā"/>` — CDSL machine-readable annotation
+  packet recording that this is a genuine root with class-10 P. and Ā. forms.
 
----
+### Sample 2 — masculine noun with etymology
 
-### Sample 3 — compound with cross-references
+**Headword:** `aMSa` (IAST: *áṃśa*, with Vedic accent) · **p. 1, col. 1** · **Record:** `<L>10`
 
-**Headword:** `aMSu—jAla` (IAST: *aṃśu-jāla*)  
-**Print reference:** p. 1, col. 2
+```
+<L>10<pc>1,1<k1>aMSa<k2>a/MSa<e>1
+<s>a/MSa</s> ¦ <lex>m.</lex> (probably <ab>fr.</ab> √ <hom>1.</hom> <s>aS</s>,
+<ab>perf.</ab> <s>An-a/MSa</s>, and not from the above √ <s>aMS</s>
+fictitiously formed to serve as root), a share, portion, part, party
+<info lex="m"/>
+<LEND>
+```
+
+**Reading:**
+- `<k2>a/MSa` — secondary headword **with** Vedic accent: the slash `/` after `a`
+  marks an *udātta* (high-pitch) accent on the first vowel.
+- `<lex>m.</lex>` — grammatical category: masculine noun.
+- `<ab>fr.</ab>` — etymology marker: *from*.
+- `√ <hom>1.</hom> <s>aS</s>` — derived from root *aś* (homophone 1; MW
+  numbers homophonous roots to disambiguate).
+- `<ab>perf.</ab>` — perfect tense form cited as evidence.
+- `<s>An-a/MSa</s>` — the perfect form *ānáṃśa* showing the root behaviour.
+- Note MW's editorial commentary: he rejects an alternative derivation from
+  *aṃś* (Sample 1) as a "fictitiously formed" pseudo-root — a glimpse of
+  Indo-European philological reasoning at work.
+- `<info lex="m"/>` — machine-readable: masculine.
+
+### Sample 3 — compound sub-entry (cross-reference)
+
+**Headword:** `aMSu-jAla` (IAST: *aṃśu-jāla*) · **p. 1, col. 2** · **Record:** `<L>57`
 
 ```
 <L>57<pc>1,2<k1>aMSujAla<k2>aMSu—jAla<e>3
-<s>aMSu—jAla</s> ¦ <lex>n.</lex> a collection of rays, blaze of light.<info lex="n"/>
+<s>aMSu—jAla</s> ¦ <lex>n.</lex> a collection of rays, blaze of light.
+<info lex="n"/>
 <LEND>
 ```
 
-**Annotation:** [DRAFT] The `—` (em-dash) in `k2` separates the members of a compound. The `<e>3` hierarchy code marks this as a multi-member compound sub-entry under the parent headword `aMSu`. The `<info lex="n"/>` records neuter gender. This is a compact compound entry without source citations, which is typical for straightforward descriptive compounds in MW.
+**Reading:**
+- `<k1>aMSujAla` — primary key concatenated (used for SLP1 lookups).
+- `<k2>aMSu—jAla` — secondary key with em-dash separating the compound members
+  *aṃśu* (ray) + *jāla* (net, collection).
+- `<e>3` — third-level entry: a compound sub-entry under the parent *aṃśu*.
+  The `<e>` hierarchy lets the reader navigate compounds without losing their
+  parent context.
+- `<lex>n.</lex>` — neuter noun.
+- No source citation: this compound is a transparent semantic combination that
+  MW glosses without naming a specific attestation — typical for descriptive
+  compounds.
 
 ---
 
 ## Known digitisation issues
 
-[DRAFT] The mw.txt file uses a custom cp1252-to-UTF-8 conversion pipeline (`history/cp1252-to-utf8.py`). Three words are known to produce a non-invertible round-trip in the SLP1 → IAST → SLP1 transcoding chain (documented in `mwtranscode/readme.txt`). The markup-fix audit (see `mwissues/markup_fix/markup_audit.txt`) identified 9,313 adjacent `</ab> <ab>` pairs that are mostly intentional two-abbreviation sequences. The supplement entries (`6602-entries-from-supplements-MW.txt`) cover vocabulary from the 1899 Supplement pages and have been integrated into the digital edition.
-
-<!-- E.g.: "The 1899 print has cp1252 encoding; converted to UTF-8 by the history/ pipeline."
-     "Certain Vedic accent marks were not captured in the first pass."
-     "Entries from the Supplement (pp. 1333–1333) are present but may have lower accuracy." -->
+- **CP1252 → UTF-8 conversion** is preserved at `history/cp1252-to-utf8.py` for
+  reproducibility.
+- **Three non-invertible transcoding round-trips** (SLP1 → IAST → SLP1) are
+  documented in [mwtranscode/readme.txt](mwtranscode/readme.txt).
+- **Adjacent `</ab> <ab>` pairs (9,313 instances)** flagged by the markup-fix
+  audit are mostly intentional — two-abbreviation sequences such as
+  `<ab>cf.</ab> <ab>RV.</ab>`. See
+  [mwissues/markup_fix/markup_audit.txt](mwissues/markup_fix/markup_audit.txt).
+- **Supplement entries (~6,602)** from the 1899 Supplement pages are integrated
+  but tagged so reviewers can track them — see
+  [6602-entries-from-supplements-MW.txt](6602-entries-from-supplements-MW.txt).
+- **Vedic accent** capture is partial; the `<k2>` field carries accents only
+  where the print clearly marked them.
 
 ---
 
 ## Further reading
 
-- [DRAFT] Monier-Williams, M. (1899). *A Sanskrit-English Dictionary*. Clarendon Press, Oxford. Facsimile available at [archive.org](https://archive.org/search?query=monier+williams+sanskrit+english+dictionary) — reviewer to add direct link
-- [DRAFT] Cologne Digital Sanskrit Lexicon project page: <https://www.sanskrit-lexicon.uni-koeln.de/> — see "About" and "MWS" sections for digitisation history
-
-<!-- E.g. print facsimile link at archive.org, Wikipedia article, scholarly review, preface PDF. -->
+- [Wikipedia: Monier Monier-Williams](https://en.wikipedia.org/wiki/Monier_Monier-Williams) — biography and Boden chair context.
+- [Wikipedia: Sanskrit-Wörterbuch](https://en.wikipedia.org/wiki/Sanskrit-W%C3%B6rterbuch) — the Petersburg lexicon (PWG) on which MW's first edition was based.
+- [Internet Archive: 1899 facsimile](https://archive.org/details/sanskritenglish00moniuoft) — full scanned print of the 1899 second edition.
+- [Cologne digital edition (online browser)](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php) — the CDSL web interface.
+- [MW abbreviation key](https://github.com/sanskrit-lexicon/MWS/blob/master/mwabbreviations/mwab_input.txt) — canonical list of `<ab>` and `<ls>` expansions used in `mw.txt`.
 
 ---
 
 ## Cite the print edition
 
 ```bibtex
-@book{mw-print,
-  author    = {Monier Monier-Williams},
-  title     = {A Sanskrit-English Dictionary},
+@book{monier-williams-1899,
+  author    = {Monier-Williams, Monier},
+  title     = {A Sanskrit-English Dictionary, Etymologically and
+               Philologically Arranged with Special Reference to
+               Cognate Indo-European Languages},
+  edition   = {2nd, revised},
   year      = {1899},
   publisher = {Clarendon Press},
-  address   = {Oxford}
+  address   = {Oxford},
+  note      = {With the collaboration of E.~Leumann and C.~Cappeller}
 }
 ```
