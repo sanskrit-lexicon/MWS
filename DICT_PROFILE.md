@@ -235,7 +235,8 @@ fictitiously formed to serve as root), a share, portion, part, party
 - [Wikipedia: Sanskrit-Wörterbuch](https://en.wikipedia.org/wiki/Sanskrit-W%C3%B6rterbuch) — the Petersburg lexicon (PWG) on which MW's first edition was based.
 - [Internet Archive: 1899 facsimile](https://archive.org/details/sanskritenglish00moniuoft) — full scanned print of the 1899 second edition.
 - [Cologne digital edition (online browser)](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php) — the CDSL web interface.
-- [MW abbreviation key](https://github.com/sanskrit-lexicon/MWS/blob/master/mwabbreviations/mwab_input.txt) — canonical list of `<ab>` and `<ls>` expansions used in `mw.txt`.
+- [MW abbreviation key](https://github.com/sanskrit-lexicon/MWS/blob/master/mwabbreviations/mwab_input.txt) — annotated list of `<ab>` expansions with `<INFER/>`/`<UNMARKED>` status markers.
+- [MWS mwauthorities](https://github.com/sanskrit-lexicon/MWS/tree/master/mwauthorities) — structured XML authority record for MW's "List of Works and Authors"; maps `<ls>` abbreviations to bibliographic records and scan links. Prepared ca. 2010 by Peter Scharf and Malcolm Hyman (Sanskrit Library).
 
 ---
 

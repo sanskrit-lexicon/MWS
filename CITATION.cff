@@ -1,11 +1,14 @@
 cff-version: 1.2.0
 type: dataset
-title: Monier-Williams Sanskrit-English Dictionary
-message: If you use this dataset, please cite both the digital edition and the printed source it digitises.
+title: Monier-Williams Sanskrit-English Dictionary — Cologne Digital Edition
+message: >-
+  If you use this dataset in research, please cite both the digital edition
+  (this entry) and the printed source it digitises (see preferred-citation).
 license: CC-BY-SA-4.0
 repository-code: https://github.com/sanskrit-lexicon/MWS
-date-released: 1899-01-01
-version: 1.0.0
+url: https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php
+date-released: 2020-01-01
+version: 2020
 keywords:
   - sanskrit
   - lexicon
@@ -13,14 +16,38 @@ keywords:
   - cologne-digital-sanskrit-lexicon
   - dictionary
   - skt-eng
+  - monier-williams
+  - indo-european
 authors:
   - name: "Cologne Digital Sanskrit Lexicon project contributors"
     website: https://www.sanskrit-lexicon.uni-koeln.de/
+abstract: >-
+  Digital edition of Monier Monier-Williams' Sanskrit-English Dictionary
+  (Oxford: Clarendon Press, 1899), second revised edition prepared with
+  Ernst Leumann and Carl Cappeller. Contains 286,561 records in SLP1
+  encoding with XML markup for grammatical categories, source citations,
+  and etymological cross-references. The digital edition is distributed
+  under CC-BY-SA-4.0; the printed source is in the public domain.
 preferred-citation:
   type: book
-  title: Monier-Williams Sanskrit-English Dictionary
+  title: >-
+    A Sanskrit-English Dictionary, Etymologically and Philologically
+    Arranged with Special Reference to Cognate Indo-European Languages
   year: 1899
+  edition: "2nd, revised"
+  publisher:
+    name: Clarendon Press
+    city: Oxford
   authors:
     - family-names: "Monier-Williams"
       given-names: "Monier"
-  notes: "Same as MW"
+  editors:
+    - family-names: "Leumann"
+      given-names: "Ernst"
+    - family-names: "Cappeller"
+      given-names: "Carl"
+  notes: >-
+    The first Clarendon edition appeared in 1872; the 1899 second edition
+    is the standard scholarly reference ("MW"). The Cologne digitisation
+    preserves all 286,561 records from the 1899 print, including ~6,602
+    supplement entries.

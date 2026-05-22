@@ -94,9 +94,57 @@ See `mwissues/markup_fix/markup_audit.txt` for annotated samples.
 
 ## Abbreviations
 
-Abbreviations appearing as `<ab>X</ab>` resolve to expansions defined in the
-CDSL abbreviation system. The canonical list is at:
-[MWS mwabbreviations/mwab_input.txt](https://github.com/sanskrit-lexicon/MWS/blob/master/mwabbreviations/mwab_input.txt)
+Abbreviations appearing as `<ab>X</ab>` resolve to expansions defined in
+[mwabbreviations/mwab_input.txt](mwabbreviations/mwab_input.txt).
+The **operative tooltip list** used by the CDSL web display is maintained in
+[csl-pywork](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/distinctfiles/mw/pywork/mwab/mwab_input.txt)
+— this repo's copy is a research/annotation file.
 
-Dict-specific abbreviations not in the MW set:
-<!-- List any MWS-specific <ab> values here. -->
+### Status markers in `mwab_input.txt`
+
+Each entry carries one of these inline markers (or none):
+
+| Marker | Meaning |
+|---|---|
+| *(no marker)* | Abbreviation appears in MW's printed abbreviation list **and** is tagged `<ab>X</ab>` in the digitisation. |
+| `<INFER/>` | Not explicitly listed in print; expansion was **inferred** by the digitisation team to match usage patterns. Treat expansions as provisional. |
+| `<UNMARKED>` | Appears in the **printed list** but has **no `<ab>` tags** in `mw.txt` (the text uses it unmarked). |
+| `<UNUSED/>` | In the printed list but found **zero times** in the digitised text. |
+
+### Abbreviations used in `<lex>` rather than `<ab>`
+
+Grammatical-category abbreviations are placed in `<lex>…</lex>` instead of
+`<ab>…</ab>`. They do not appear in the 194,879 `<ab>` count above.
+
+| Abbreviation | Meaning |
+|---|---|
+| `m.` | masculine |
+| `f.` | feminine |
+| `n.` | neuter |
+| `mfn.` | masculine-feminine-neuter (adjective) |
+| `mn.` | masculine or neuter |
+| `cl.` | verb class (*gaṇa*) — e.g. `cl. 10.` |
+| `P.` | Parasmaipada (active voice) |
+| `Ā.` | Ātmanepada (middle voice) |
+
+### Notable single-letter abbreviations (frequently misread)
+
+| Abbreviation | Expansion | Note |
+|---|---|---|
+| `L.` | *lexicographers* — word/meaning known only from indigenous Sanskrit lexicons, not from textual attestation | A hedge: weaker evidence than a named-text citation |
+| `N.` | *name* (title or epithet) | Upper-case; not a Latin *nomen* |
+| `B.` | Bombay edition | Distinguishes print edition used for a reading |
+| `C.` | Calcutta edition | Same; see also `Bomb.`, `Calc.` |
+| `P.` | Parasmaipada | In `<lex>` or verb conjugation context; not to be confused with `p.` (*page* / *participle*) |
+
+### `<ab n="…">` variant
+
+12,779 abbreviation tags carry an explicit expansion in the `n` attribute:
+
+```
+<ab n="some full phrase">X</ab>
+```
+
+These arise where a tooltip expansion is baked directly into the tag rather than
+looked up from the abbreviation table. All 12,779 have real (non-placeholder)
+expansions as of the 2026-05 markup-fix audit.
