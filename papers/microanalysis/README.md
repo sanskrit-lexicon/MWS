@@ -15,6 +15,7 @@ The same 286,561-record dataset is analysed through four different theoretical l
 | [paper-atkins-rundell.md](paper-atkins-rundell.md) | **Atkins-Rundell practical lexicography** framing — headword inventory, sense division, definition style, examples, retrieval-dictionary typology | ~7.5K words |
 | [paper-hausmann.md](paper-hausmann.md) | **Hausmann-Wiegand hybrid** framing — form-comment / semantic-comment / pragmatic-comment / source-comment, plus a proposed fifth comment-class (*Provenienz-Komment*) for MW's `<ls>L.</ls>` hedge | ~7K words |
 | [paper-grounded.md](paper-grounded.md) | **Data-grounded** framing — five constructs (block, slot, profile, hedge, infrastructure) built from MW outward, with external-framework comparison at the end | ~8K words |
+| [VISUALISATIONS.md](VISUALISATIONS.md) | **Visualisation catalogue** — all visualisation types the data supports (10 categories, ~40 visualisation ideas), prioritised by impact/effort into 3 tiers, with tool-choice notes and Phase-4 reusability pattern | ~3K words |
 
 ---
 
