@@ -197,11 +197,16 @@ These all have real (non-placeholder) expansions — see [DATA_DICTIONARY.md](DA
 
 ---
 
-## Abbreviations (canonical list in `mwabbreviations/mwab_input.txt`)
+## Abbreviations — cheat sheet
 
-A reading-time cheat sheet. Full expansions live in
-[mwabbreviations/mwab_input.txt](mwabbreviations/mwab_input.txt) and resolve via
-the CDSL tooltip system on the web interface.
+A reading-time cheat sheet. Two distinct files cover MW's `<ab>` abbreviation system:
+
+| Purpose | File | Entries | Last updated |
+|---|---|--:|---|
+| **Operative tooltip list** (feeds the web display via `mwab.sqlite`) | [`csl-pywork/v02/distinctfiles/mw/pywork/mwab/mwab_input.txt`](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/distinctfiles/mw/pywork/mwab/mwab_input.txt) | 424 | [2024-08-03](https://github.com/sanskrit-lexicon/csl-pywork/commits/master/v02/distinctfiles/mw/pywork/mwab/mwab_input.txt) |
+| **Research / audit copy** (with `<INFER/>`/`<UNMARKED>`/`<UNUSED/>` status markers) | [`MWS/mwabbreviations/mwab_input.txt`](https://github.com/sanskrit-lexicon/MWS/blob/master/mwabbreviations/mwab_input.txt) | 267 | [2017-11-08](https://github.com/sanskrit-lexicon/MWS/commits/master/mwabbreviations/mwab_input.txt) |
+
+Use the **csl-pywork** copy when you need the current tooltip-rendering definition; use the **MWS** copy when you need the `<INFER/>`/`<UNMARKED>` provenance flags. The formats differ — csl-pywork records [`<count>` usage statistics](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/distinctfiles/mw/pywork/mwab/mwab_input.txt) (`<count>lex,32943 ab,37</count>`), MWS records [`<id>` round-trip checks and status flags](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/DATA_DICTIONARY.md#status-markers-in-mwab_inputtxt). Both resolve via the CDSL tooltip system on the web interface.
 
 | Abbreviation | Expansion |
 |---|---|

@@ -377,10 +377,9 @@ This isn't accidental: it's a deliberate editorial decision documented in MW's p
 
 ## Sample entries
 
-Three real entries from `csl-orig/v02/mw/mw.txt`, decoded line-by-line. All
-abbreviations resolve via the canonical
-[mwabbreviations](https://github.com/sanskrit-lexicon/MWS/blob/master/mwabbreviations/mwab_input.txt)
-tooltip list.
+Three real entries from [`csl-orig/v02/mw/mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt), decoded line-by-line.
+
+**Abbreviation tooltip resolution:** All `<ab>` abbreviations resolve via the **operative** tooltip list at [`csl-pywork/v02/distinctfiles/mw/pywork/mwab/mwab_input.txt`](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/distinctfiles/mw/pywork/mwab/mwab_input.txt) (424 entries, last updated [2024-08-03](https://github.com/sanskrit-lexicon/csl-pywork/commits/master/v02/distinctfiles/mw/pywork/mwab/mwab_input.txt) — feeds the [Cologne web display](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php) via `mwab.sqlite`). The [MWS `mwabbreviations/mwab_input.txt`](https://github.com/sanskrit-lexicon/MWS/blob/master/mwabbreviations/mwab_input.txt) (267 entries, last updated [2017-11-08](https://github.com/sanskrit-lexicon/MWS/commits/master/mwabbreviations/mwab_input.txt)) is a separate research/audit copy with `<INFER/>`/`<UNMARKED>`/`<UNUSED/>` status markers — useful for understanding *which* abbreviations were added by the digitisation team vs which appear in the 1899 print. The two files have different formats and different scopes.
 
 ### Sample 1 — verbal root with derivation note
 
@@ -486,7 +485,8 @@ fictitiously formed to serve as root), a share, portion, part, party
   - [MW72Scan (1872 first edition)](https://www.sanskrit-lexicon.uni-koeln.de/scans/MW72Scan/2020/web/index.php) — the original Clarendon edition.
   - [MWScan (1899 second edition)](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php) — the standard "MW" of today; the edition this digitisation is based on.
 - [Internet Archive: 1899 facsimile](https://archive.org/details/sanskritenglish00moniuoft) — full scanned print of the 1899 second edition.
-- [MW abbreviation key](https://github.com/sanskrit-lexicon/MWS/blob/master/mwabbreviations/mwab_input.txt) — annotated list of `<ab>` expansions with [`<INFER/>`/`<UNMARKED>` status markers](DATA_DICTIONARY.md#status-markers-in-mwab_inputtxt).
+- **MW abbreviation tooltip list (operative)** — [`csl-pywork/v02/distinctfiles/mw/pywork/mwab/mwab_input.txt`](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/distinctfiles/mw/pywork/mwab/mwab_input.txt) — 424 entries, last updated [2024-08-03](https://github.com/sanskrit-lexicon/csl-pywork/commits/master/v02/distinctfiles/mw/pywork/mwab/mwab_input.txt); feeds the [Cologne web display](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php) tooltips via `mwab.sqlite`.
+- **MW abbreviation audit copy** — [`MWS/mwabbreviations/mwab_input.txt`](https://github.com/sanskrit-lexicon/MWS/blob/master/mwabbreviations/mwab_input.txt) — 267 entries, last updated [2017-11-08](https://github.com/sanskrit-lexicon/MWS/commits/master/mwabbreviations/mwab_input.txt); research/annotation file with [`<INFER/>`/`<UNMARKED>` status markers](DATA_DICTIONARY.md#status-markers-in-mwab_inputtxt).
 - [MWS mwauthorities](https://github.com/sanskrit-lexicon/MWS/tree/master/mwauthorities) — structured XML authority record for MW's "List of Works and Authors"; maps `<ls>` abbreviations to bibliographic records and scan links. Prepared ca. 2010 by Peter Scharf and Malcolm Hyman ([Sanskrit Library](http://www.sanskritlibrary.org/)). See [coverage stats](ENTRY_GUIDE.md#coverage-of-ls-citations).
 - [Markup-fix-audit branch](https://github.com/sanskrit-lexicon/MWS/tree/markup-fix-audit) — full audit of MW's XML markup ([2026-05 audit file](https://github.com/sanskrit-lexicon/MWS/blob/markup-fix-audit/mwissues/markup_fix/markup_audit.txt)).
 

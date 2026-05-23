@@ -94,11 +94,12 @@ See `mwissues/markup_fix/markup_audit.txt` for annotated samples.
 
 ## Abbreviations
 
-Abbreviations appearing as `<ab>X</ab>` resolve to expansions defined in
-[mwabbreviations/mwab_input.txt](mwabbreviations/mwab_input.txt).
-The **operative tooltip list** used by the CDSL web display is maintained in
-[csl-pywork](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/distinctfiles/mw/pywork/mwab/mwab_input.txt)
-— this repo's copy is a research/annotation file.
+Abbreviations appearing as `<ab>X</ab>` resolve through two different files (different formats, different scopes):
+
+- **Operative tooltip list** (powers the [web display](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php) via `mwab.sqlite`): [`csl-pywork/v02/distinctfiles/mw/pywork/mwab/mwab_input.txt`](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/distinctfiles/mw/pywork/mwab/mwab_input.txt) — 424 entries, last updated [2024-08-03](https://github.com/sanskrit-lexicon/csl-pywork/commits/master/v02/distinctfiles/mw/pywork/mwab/mwab_input.txt). Includes `<count>` usage statistics (e.g. `<count>lex,32943 ab,37</count>` for `f.`).
+- **Research / audit copy** (this repo): [`mwabbreviations/mwab_input.txt`](mwabbreviations/mwab_input.txt) — 267 entries, last updated [2017-11-08](https://github.com/sanskrit-lexicon/MWS/commits/master/mwabbreviations/mwab_input.txt). Includes `<id>` round-trip checks and the `<INFER/>` / `<UNMARKED>` / `<UNUSED/>` provenance flags described below.
+
+The MWS copy and the csl-pywork copy are **not** the same file in two places — they're parallel artefacts for different audiences (auditor vs renderer).
 
 ### Status markers in `mwab_input.txt`
 
