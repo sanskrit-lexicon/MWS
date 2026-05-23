@@ -176,6 +176,8 @@ When evaluating a gloss, count the **non-editorial** citations — that's the ac
 | [AP](https://github.com/sanskrit-lexicon/AP) (Apte, 1957–59 *Practical*) | Apte's later revised and expanded English Sanskrit dictionary |
 | [WIL](https://github.com/sanskrit-lexicon/WIL) (Wilson, 1832) | Earlier English Sanskrit dictionary by the first Boden Professor — superseded by MW |
 | [SKD](https://github.com/sanskrit-lexicon/SKD) (*Śabdakalpadruma*, 1822–1858) | Sanskrit→Sanskrit monolingual encyclopedic lexicon by Rāja Rādhākānta Deva — the indigenous Indian lexicographical tradition's masterpiece, frequently cited by MW |
+| [ARMH](https://github.com/sanskrit-lexicon/armh) (Halāyudha, ~10th c.) | *Abhidhānaratnamālā* (*Halāyudhakośa*) — classical synonymic kosha; PWG cites it 5,114 times as `HALĀY.` |
+| [ABCH](https://github.com/sanskrit-lexicon/abch) (Hemacandra, ~12th c.) | *Abhidhānacintāmaṇi* — classical synonymic kosha; PWG cites it 17,337 times as `H.` (most-cited kosha in PWG); the [`Pariśiṣṭa`](https://github.com/sanskrit-lexicon/acph) and [`Śiloñcha`](https://github.com/sanskrit-lexicon/acsj) supplements are separate CDSL repos |
 | [GRA](https://github.com/sanskrit-lexicon/GRA) (Grassmann, 1873) | Specialised RV-Wörterbuch — the reference for Vedic accent work |
 | [BHS](https://github.com/sanskrit-lexicon/BHS) (Edgerton, 1953) | Buddhist Hybrid Sanskrit dictionary — the BHS counterpart MW lacks |
 
@@ -191,7 +193,7 @@ MW1899 is often described as "an English translation of PWG." That's a half-trut
 | **Total records** | [123,366](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/pwg/pwg.txt) | [286,561 — 2.3× more](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/ENTRY_GUIDE.md#entry-hierarchy-distribution) |
 | **Compound enumeration** | Often glossed in running prose under the parent | [112,183 enumerated as `<e>3` sub-entries (39.1%)](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/ENTRY_GUIDE.md#entry-hierarchy-distribution) — see [Sample 3 *aṃśu-jāla*](#sample-3--compound-sub-entry-cross-reference) |
 | **IE cognate marking** | Inline mentions in `<is>` italic-spans and parenthetical remarks | [3,960 `<lang>` tags across 112 languages](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/ENTRY_GUIDE.md#ie-cognate-density--lang-breakdown) (Lat./Gk./Goth./Lith./Zd./…) — a systematic comparative reach |
-| **Lexicographer hedge** | Marked but conventions vary | Uniform [`<ls>L.</ls>` marker on 40,213 citations (12.9%)](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/DICT_PROFILE.md#citation-markers--not-all-are-literary-works) — explicit evidentiary discipline |
+| **Lexicographer hedge** | Cites kosha sources by name (Hem. 17,337 / AK. 14,473 / MED. 13,055 / TRIK. 8,365 / HALĀY. 5,114 / …); **zero** `<ls>L.</ls>` tags | **Invents the generic [`<ls>L.</ls>` hedge](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/DICT_PROFILE.md#citation-markers--not-all-are-literary-works) — 40,213 cites (12.9%)** — collapses PWG's named-kosha attributions into a single "lexicographers" label. Trade-off: bibliographic precision lost, compactness gained. See [Lineage section](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/DICT_PROFILE.md#lineage-wil--koshas-mw--pwg). |
 | **Botanical / zoological tagging** | Limited; in prose | [8,923 `<bot>` species names](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/ENTRY_GUIDE.md#botanical--biographical-tag-stats) in scientific Latin |
 | **Biographical / mythological tagging** | Limited | [358 `<bio>` figures](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/ENTRY_GUIDE.md#botanical--biographical-tag-stats) (e.g. [*agastya-mārga* → Canopus](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L2997)) |
 | **Editorial commentary** | Restrained; mostly citation chains | Frequent interpolated reasoning — see MW's [back-formation argument in Sample 2](#sample-2--masculine-noun-with-etymology) ("fictitiously formed to serve as root") |
@@ -204,6 +206,7 @@ MW1899 is often described as "an English translation of PWG." That's a half-trut
 
 - **Source citation density** — PWG carries more granular citation chains for individual senses (multiple `<ls>RV. n,n,n.</ls>` per sense; MW more often gives a single representative cite).
 - **Vedic-specialist accuracy** — PWG's Sanskritists were Vedic specialists; for Vedic accent and obscure Saṃhitā vocabulary, [GRA](https://github.com/sanskrit-lexicon/GRA) (Grassmann) remains the reference.
+- **Kosha attribution** — PWG names the specific kosha (`H.` 17,337, `AK.` 14,473, `MED.` 13,055, `TRIK.` 8,365, `HALĀY.` 5,114); MW collapses all into `<ls>L.</ls>`. For a researcher tracing the indigenous lexicographical genealogy of a sense, PWG + the [four CDSL koshas (ARMH, ABCH, ACPH, ACSJ)](#lineage-wil--koshas-mw--pwg) are the primary references.
 - **Bibliographic precision** — PWG's `<is>gaṇa</is>`, edition references, and page-pointers in citations are more rigorous; MW abbreviates more.
 
 **What MW deliberately keeps from PWG:**
@@ -277,7 +280,15 @@ AP includes the **Pāṇinian derivational formula** `[aMS-ac]` (root + suffix),
 <ab>E.</ab>
 {#aMSa#} to divide, {#ac#} affix.
 ```
-Wilson gives **6 senses plus the [Pāṇinian derivation](https://en.wikipedia.org/wiki/Sanskrit_grammar)** (the `<ab>E.</ab>` "Etymology" line: *aṃśa* "to divide" + *ac* affix — the same `[aMS-ac]` analysis [AP L4](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/ap/ap.txt#L91) gives 125 years later). Wilson **predates** AP's formula by 58 years and MW1899 by 67 years. What WIL lacks vs AP/MW is **not** the analytical scaffolding but **the evidence**: no `<ls>` textual citations, no Sanskrit example phrases, no IE cognates, no accent marking. Wilson is the **schematic skeleton**; MW and AP are that skeleton fleshed out with attested usage. This is the dictionary MW was elected to replace — not because WIL was wrong, but because it was unevidenced.
+Wilson gives **6 senses plus the [Pāṇinian derivation](https://en.wikipedia.org/wiki/Sanskrit_grammar)** (the `<ab>E.</ab>` "Etymology" line: *aṃśa* "to divide" + *ac* affix — the same `[aMS-ac]` analysis [AP L4](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/ap/ap.txt#L91) gives 125 years later). Wilson **predates** AP's formula by 58 years and MW1899 by 67 years.
+
+**Critically, WIL is itself a kosha — not in style but in lineage.** WIL's own subtitle, in its [TEI header](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/wil/wilheader.xml), reads:
+
+> *"…translated, amended, and enlarged from **an original compilation, prepared by learned natives for the College of Fort William**…"*
+
+CDSL classifies WIL under the [Indic Subject Classification](https://github.com/sanskrit-lexicon/csl-orig) as `koSa` (kosha) — Wilson is treated by Cologne itself as a kosha, not as a European-philological dictionary. WIL's intellectual genealogy traces directly to the [pandits of Fort William College, Calcutta](https://en.wikipedia.org/wiki/Fort_William_College), working from the classical Sanskrit synonymies — [Amarakośa](https://en.wikipedia.org/wiki/Amarakosha) (~6th c.), [Halāyudha's *Abhidhānaratnamālā*](https://github.com/sanskrit-lexicon/armh) (~10th c.), and [Hemacandra's *Abhidhānacintāmaṇi*](https://github.com/sanskrit-lexicon/abch) (~12th c.).
+
+What WIL lacks vs MW is therefore **not** the Sanskrit-grammatical scaffolding (which both have) but **a different lineage**: WIL is **the kosha tradition itself, translated into English**; MW is **PWG, condensed into English**. These are different intellectual ancestries colliding at almost the same headword.
 
 **[SKD L6](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/skd/skd.txt#L70)** (Śabdakalpadruma, 1822–58, monolingual Sanskrit):
 
@@ -306,6 +317,61 @@ A transparent compound. Tells you everything about which lexicons enumerate vs g
 | **SKD** | **No** | Not separately enumerated; the relevant *aṃśu*-compounds in SKD are `aMSukaM` (cloth), `aMSumatI` (a creeper), `aMSumAlI` (sun), etc. — encyclopedic rather than transparent. |
 
 **Reading the table:** the English lexicons (WIL/MW/AP) systematically enumerate transparent compounds. PWG and SKD prefer to gloss them in prose under the parent. This is one of the **most visible structural differences between MW and PWG**, and it's a major reason MW has 2.3× as many records.
+
+---
+
+## Lineage: WIL ← Koshas; MW ← PWG
+
+The user observation **"WIL is based on Koshas, MW is based on PWG"** is correct and can be quantitatively demonstrated from the data files themselves. The two dictionaries draw on different intellectual ancestries that meet at almost the same headwords.
+
+### The four Cologne koshas
+
+| CDSL repo | Title | Author | Date | Type |
+|---|---|---|---|---|
+| [ARMH](https://github.com/sanskrit-lexicon/armh) | *Abhidhānaratnamālā* (*Halāyudhakośa*) | [Halāyudha](https://en.wikipedia.org/wiki/Hal%C4%81yudha) | ~10th c. | Synonymic kosha |
+| [ABCH](https://github.com/sanskrit-lexicon/abch) | *Abhidhānacintāmaṇi* | [Hemacandra](https://en.wikipedia.org/wiki/Hemachandra) | ~12th c. | Synonymic kosha |
+| [ACPH](https://github.com/sanskrit-lexicon/acph) | *Abhidhānacintāmaṇi-pariśiṣṭa* | Hemacandra | ~12th c. | Supplement to ABCH |
+| [ACSJ](https://github.com/sanskrit-lexicon/acsj) | *Abhidhānacintāmaṇi-śiloñcha* | Hemacandra (attr.) | ~12th c. | Gleanings supplement to ABCH |
+
+These are **classical synonymic dictionaries** — verse lists of synonyms, grouped by sense. The same word *aṃśu* appears in [ARMH L369](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/armh/armh.txt#L3788) (in the verse listing names of the sun: *tigmAMSus taraRis tathA dinamaRir bhāsvān...*) and again in [ARMH L411](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/armh/armh.txt#L4188) (in the verse listing words for "ray": *rociḥ śociḥ abhīṣuḥ... aṃśu*). Same in [ABCH](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/abch/abch.txt) — *aṃśu* appears in the synonym groups for "sun" and for "ray." These are **the very sense divisions** that WIL ("A ray of light, a sun-beam... The sun...") and MW ("a filament... a ray... the sun") reproduce.
+
+### The citation evidence
+
+The lineage is provable by counting `<ls>` citations of named kosha sources in each dictionary's raw data file:
+
+| Source cited as `<ls>` | Identity | WIL (1832) | PWG (1855–75) | MW (1899) |
+|---|---|--:|--:|--:|
+| `H.` | Hemacandra (= ABCH) | 0 | **17,337** | 0 |
+| `AK.` | Amarakośa | 0 | **14,473** | 0 |
+| `MED.` | Medinīkośa | 0 | **13,055** | 0 |
+| `H. an.` | Hemacandra's *Anekārthasaṃgraha* | 0 | **9,771** | 0 |
+| `TRIK.` | *Trikāṇḍaśeṣa* | 0 | **8,365** | 0 |
+| `HALĀY.` | Halāyudha (= ARMH) | 0 | **5,114** | 0 |
+| `Amar.` | Amarakośa (MW spelling) | 0 | 0 | 209 |
+| **`L.`** | **"Lexicographers" (generic kosha hedge)** | 0 | **0** | **40,213** |
+| **TOTAL `<ls>` tags** | All citations | [230](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/wil/wil.txt) | [571,152](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/pwg/pwg.txt) | [312,159](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/ENTRY_GUIDE.md#coverage-of-ls-citations) |
+
+**The picture this reveals:**
+
+1. **WIL has 230 `<ls>` tags total.** Wilson's dictionary has almost no `<ls>` citation apparatus because **it does not need one — WIL is itself the kosha tradition translated.** The kosha-derived senses are the entries; you don't cite your own source. Wilson's only systematic `<ls>` cites are [224 of `<ls>Rox.</ls>`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/wil/wil.txt) — references to [William Roxburgh's *Flora Indica*](https://en.wikipedia.org/wiki/William_Roxburgh) for botanical identifications, a 19th-century European source layered on top of the kosha base.
+
+2. **PWG cites koshas by name — 68,000+ times.** Böhtlingk and Roth integrate the indigenous lexicographical tradition **with** the textual corpus. `H.` (Hemacandra) alone gets 17,337 cites — more than any text except the Mahābhārata. The Petersburg Wörterbuch is a **synthesis** of kosha and text.
+
+3. **MW drops the kosha names — and invents the `L.` hedge to replace them.** Look at the row: PWG has **zero** `<ls>L.</ls>`. MW has **40,213**. MW is what happens when PWG's named kosha attributions (Hem., AK., MED., TRIK., HALĀY.) are collapsed into one generic "lexicographers-only" label. The hedge MW added is **not present in PWG** — it is MW's distinctive editorial choice when condensing PWG for an English audience.
+
+### What this proves
+
+- **WIL ← Koshas** (direct lineage, via the [Fort William College](https://en.wikipedia.org/wiki/Fort_William_College) pandits — confirmed by [WIL's own subtitle](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/wil/wilheader.xml) and CDSL's `koSa` subject classification).
+- **MW ← PWG** (confirmed by MW's own preface and by the [structural alignment shown in the *aṃśa* sample-entry comparison](#same-entry-across-five-dictionaries) above).
+- **The koshas enter MW twice**: directly (the senses themselves, ultimately traceable to AK./H./MED./HALĀY.) and indirectly (via PWG, which named the kosha sources, then MW which abridged them as `L.`).
+
+### Citation-discipline contrast — the deepest scholarly point
+
+PWG's discipline was to **name the kosha**. If a word's only attestation was in Hemacandra's *Abhidhānacintāmaṇi*, PWG wrote `<ls>H.</ls>`. If only in Halāyudha's *Abhidhānaratnamālā*, PWG wrote `<ls>HALĀY.</ls>`. The reader could check the source.
+
+MW's discipline was to **mark the type** without naming the source. All kosha-only attestations became `<ls>L.</ls>` regardless of which kosha. This is a **loss of bibliographic precision** in exchange for compactness — and one of [the legitimate criticisms of MW vs PWG](#beyond-pwg--what-mw-contributes) listed above.
+
+This isn't accidental: it's a deliberate editorial decision documented in MW's preface. For a researcher tracing which indigenous lexicon attests a particular sense, **PWG is more useful than MW, and the four CDSL koshas above are the primary sources to consult.**
 
 ---
 
