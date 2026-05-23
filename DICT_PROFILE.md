@@ -219,9 +219,11 @@ The most accurate one-liner: **MW1899 is an English re-edition of PWG, rewritten
 
 ---
 
-## Same entry across five dictionaries
+## Same entry across seven dictionaries
 
-A practical illustration of *what each lexicon adds*. We pull the same Sanskrit headword from five CDSL dictionaries and show the first lines of each.
+A practical illustration of *what each lexicon adds*. We pull the same Sanskrit headword from seven CDSL dictionaries — spanning all three target languages (German, English, Sanskrit) and the kosha tradition — and show the first lines of each.
+
+The seven: [PWG](https://github.com/sanskrit-lexicon/PWG) (German, 1855–75) · [PWK](https://github.com/sanskrit-lexicon/PWK) (Böhtlingk abridged, German, 1879–89) · [MW](https://github.com/sanskrit-lexicon/MWS) (English, 1899) · [AP](https://github.com/sanskrit-lexicon/AP) (Apte, English, 1957) · [WIL](https://github.com/sanskrit-lexicon/WIL) (Wilson, English, 1832) · [SKD](https://github.com/sanskrit-lexicon/SKD) (*Śabdakalpadruma*, Sanskrit-Sanskrit, 1822–58) · [VCP](https://github.com/sanskrit-lexicon/vcp) (Tārānātha's *Vācaspatya*, Sanskrit-Sanskrit, 1873–84).
 
 ### Headword 1: *aṃśa* — "share, portion"
 
@@ -239,6 +241,20 @@ A practical illustration of *what each lexicon adds*. We pull the same Sanskrit 
 2) {%Theilung, Erbschaftstheilung%}  <ls>H. an. 2,542.</ls>
 ```
 PWG enumerates the sense tree (1, 1a–1e, 2) with **multiple `<ls>` cites per sub-sense** including pointer to the *Siddhāntakaumudī*'s grammatical analysis, Amarakośa, Hemacandra. Sense 1b "share of purchase price, deposit" with `<ls>ṚV. 3,45,4</ls>` is a Vedic textual citation. Glosses in German: *Theil*, *Theil-Abschnitt*, *Antheil*, *Partei*, *Nenner eines Bruchs*.
+
+**[PWK L6](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/pw/pw.txt#L21)** (Böhtlingk's *Sanskrit-Wörterbuch in Kürzerer Fassung*, abridged German, 1879–89):
+
+```
+{#a/MSa#}¦ <lex>m.</lex>
+— 1〉 {%Theil:%} {#svAMSatas#} <ls n="Chr.">139,1</ls>.
+— 2〉 {%Antheil, Erbtheil%}.
+— 3〉 {%Einsatz bei Wetten%} <ls>ṚV. 5,86,5</ls>. <ls>TĀṆḌYA-BR. 25,13,3</ls>.
+— 4〉 {%Partei%}.
+— 5〉 {%Grad eines Kreises%}.
+— 6〉 *{%Tag%} <ls>GAL.</ls>
+— 7〉 <ab>N. pr.</ab> eines <is>Āditya</is>.
+```
+PWK is **Böhtlingk's own abridgement of PWG**, condensing the same 7 senses into ~70% the space. Crucially, **PWK drops nearly all the named-kosha citations** that PWG carried: of PWK's [86,750 `<ls>` tags](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/pw/pw.txt), only 15 cite `H.` (Hemacandra), 4 cite `AK.` (Amarakośa), 18 cite `MED.`, 7 cite `TRIK.` ([see Option F](papers/microanalysis/VISUALISATIONS.md)) — compared to PWG's 17,337 / 14,473 / 13,055 / 8,365. PWK introduces a different hedge: the `*` prefix marks unattested/lexicon-only senses (note `*{%Tag%}` in sense 6 — citing `GAL.` only). **PWK is the missing link** between PWG's elaborate apparatus and MW's English compression: it shows that abandoning the kosha apparatus happened in Böhtlingk's own work *before* MW.
 
 **[MW L10](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L55)** (English, 1899):
 
@@ -304,6 +320,25 @@ AdityaviSezaH, yaTA, ...
 ```
 SKD is a **Sanskrit-Sanskrit monolingual dictionary** — both gloss and citation are in Sanskrit. The format encodes **the indigenous lexicographical method**: Pāṇinian derivation (`adantacurAdiH . karmmaRi GaY` = "from the *cur-ādi* root with kṛt-suffix *GHaÑ* in the patient sense"), synonyms keyed to indigenous lexica (Amarakośa = `ityamaraH`, Jaṭādhara = `iti jawADaraH`, Vidyāvinoda = `iti vidyAvinodAdayaH`), MBh. quotation for the Āditya sense. No European-language target.
 
+**[VCP L5](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/vcp/vcp.txt#L52)** (Tārānātha's *Vācaspatya*, monolingual Sanskrit, 1873–84):
+
+```
+aMSa¦ pu0 aMSa--BAve'c . viBAge "sakfdaMSo nipatati sakft-
+kanyA pradIyate . sakfdAha dadAnIti trIRyetAni sakft
+sakfditi smftiH . karmmaRi ac . viBAjye "dvAvaMSO
+pratipadyeta viBajannAtmanaH piteti" "dvyaMSaharo'rdDaharo vA
+putravittArjjanAt piteti" ca smftiH . saMKyAsUcakANkaviBAjye
+taTANke, ca "anyonyahArABihatO harAMSAviti" aMSAhati-
+SCedabaDena Bakteti" BajecCido'MSEraTa tErvimiSrEriti
+ca lIlA0 . karaRe ac . avayave "aMSuraMSuzwe deva!
+somApyAyasveti" yaju0 . […]
+"mamEvAMSo jIvaloke jIvaBUtaH sanAtana" iti gItAvAkyam .
+[…]
+viSezAvayave, rASicakrasya zazwyuttaraSatatrayaDA viBAjake BAge,
+[…] 6, 1, 203 pA0 sU0 vfzAdizu pAWAt asya AdyudAttatvam .
+```
+VCP is the **second major Sanskrit-Sanskrit monolingual** in CDSL, **contemporary with PWG** (1873–84 vs PWG's 1855–75). Where SKD is more concise and lexicographic, VCP is **encyclopedic**: this single entry quotes Manu-Smṛti (`smftiH`), the Bhagavad-Gītā (`mamEvAMSo jIvaloke...`), the Yajurveda (`yaju0`), Līlāvatī (`lIlA0`), Vedānta-pariBhāzā, Śārīraka-sūtra commentary, Jyotiṣa (astronomy), and ends with Pāṇini sūtra **6,1,203** explaining the *udātta* accent. **VCP demonstrates that the indigenous Sanskrit-Sanskrit lexicographic tradition continued *in parallel* with the European philological project** — Tārānātha worked simultaneously with PWG without using it.
+
 ### Headword 2: *aṃśu-jāla* — "a blaze of light"
 
 A transparent compound. Tells you everything about which lexicons enumerate vs gloss compounds:
@@ -314,9 +349,11 @@ A transparent compound. Tells you everything about which lexicons enumerate vs g
 | [**AP** `<L>12.022`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/ap/ap.txt#L231) | **Yes** | `aMSujAlam` `<e>2` "a collection of rays, a blaze or halo of light." Listed as compound under `aMSuH` (`L12`). |
 | [**WIL** `<L>25`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/wil/wil.txt#L181) | **Yes** | `aMSujAla` `n.` "A collection or blaze of light. A parcel or pencil of rays." With etymological note: `aMSu` + `jAla` "a net". |
 | **PWG** | **No** | Not separately enumerated — PWG covers transparent compounds in running prose under the parent `aMSu` entry. |
+| **PWK** | **No** | Same as PWG — Böhtlingk's own abridgement preserves the prose-compound convention. |
 | **SKD** | **No** | Not separately enumerated; the relevant *aṃśu*-compounds in SKD are `aMSukaM` (cloth), `aMSumatI` (a creeper), `aMSumAlI` (sun), etc. — encyclopedic rather than transparent. |
+| **VCP** | **No** | Same — Sanskrit-Sanskrit lexicography enumerates *encyclopedic* compounds (proper names, technical terms) but not *transparent* descriptive compounds. |
 
-**Reading the table:** the English lexicons (WIL/MW/AP) systematically enumerate transparent compounds. PWG and SKD prefer to gloss them in prose under the parent. This is one of the **most visible structural differences between MW and PWG**, and it's a major reason MW has 2.3× as many records.
+**Reading the table:** the English lexicons (WIL/MW/AP) systematically enumerate transparent compounds — a structural choice they share. PWG, PWK, SKD, and VCP all prefer prose-glossing under the parent. **This compound-enumeration policy alone accounts for much of MW's 2.3× size advantage over PWG**.
 
 ---
 

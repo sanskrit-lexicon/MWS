@@ -287,109 +287,136 @@ The exact convention for how Sanskrit terms appear inside Russian text is a [fol
 
 ### Decision 4 — Cross-dictionary normalisation: detailed analysis
 
-The choice of normalisation strategy materially affects what the visualisations *say*. Per [@gasyoun](https://github.com/gasyoun)'s request, here are the seven approaches with their numerical and visual implications:
+The choice of normalisation strategy materially affects what the visualisations *say*. Per [@gasyoun](https://github.com/gasyoun)'s request, here are the seven approaches with their **real** numerical and visual implications (computed 2026-05-23 against the live data files in [csl-orig](https://github.com/sanskrit-lexicon/csl-orig)):
 
 #### Option A — Raw absolute counts (no normalisation)
 
-| Dict | Entries | `<ls>` tags | Kosha cites named |
+| Dict | Entries | `<ls>` tags | Unique `<ls>` labels | `<ls>L.</ls>` |
+|---|--:|--:|--:|--:|
+| [MW](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) | **286,561** | **311,932** | 821 | **40,212** |
+| [PWG](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/pwg/pwg.txt) | 123,366 | **570,817** | **2,420** | 0 |
+| [PWK](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/pw/pw.txt) | 170,556 | 86,750 | 915 | 0 |
+| [AP](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/ap/ap.txt) | 90,654 | 62,656 | 608 | 1 |
+| [VCP](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/vcp/vcp.txt) | 50,135 | 0 | 0 | 0 |
+| [WIL](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/wil/wil.txt) | 44,577 | 230 | 5 | 0 |
+| [SKD](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/skd/skd.txt) | 42,531 | 0 | 0 | 0 |
+
+**Visual story this tells:** "MW is the largest single-volume Sanskrit-English dictionary, but PWG (across its 7-volume run) carries 1.8× more `<ls>` citations across nearly 3× as many distinct source labels."
+
+**What it obscures:** PWG's density is partly an artifact of having **no `L.` hedge** — PWG distributes its citations across 2,420 named sources where MW collapses many of them into one. **Raw counts make PWG look more rigorous than it is** in a strict sense, by hiding the fact that 14% of MW's apparently-thinner citation apparatus IS the kosha attribution PWG names separately.
+
+**When to use:** Whenever absolute scale is the message — e.g. "MW is the standard single-volume reference."
+
+#### Option B — Per-entry normalisation (cites/entry)
+
+| Dict | `<ls>` cites/entry |
+|---|--:|
+| PWG | **4.63** |
+| MW | 1.09 |
+| AP | 0.69 |
+| PWK | 0.51 |
+| WIL | 0.01 |
+| VCP / SKD | 0 (no `<ls>` apparatus) |
+
+**Visual story:** "PWG is **4.25× more citation-dense per entry** than MW, **6.7× more than AP**, **9× more than PWK**, **460× more than WIL**, **infinitely more than VCP / SKD**."
+
+**What it obscures:** Penalises MW for having many `<e>3` compound sub-entries that don't *need* citations. MW's 126,360 compounds inflate the denominator without diluting the citation effort — what matters editorially is *coverage of citations among entries that need them*, not the raw ratio.
+
+**When to use:** When the comparison is **about editorial citation density**.
+
+#### Option C — Per-headword normalisation (top-level entries only)
+
+Note: only MW and AP use the `<e>1` top-level marker. PWG / PWK / WIL / VCP / SKD use different structural conventions (no `<e>` tag at all in PWG and WIL). For these dicts, **top-level entries are not directly countable** from the markup; estimates would require dict-specific heuristics.
+
+| Dict | `<e>1` entries | % of total | `<ls>` cites/`<e>1` |
 |---|--:|--:|--:|
-| MW | 286,561 | 312,159 | 209 (`Amar.` only) |
-| PWG | 123,366 | 571,152 | 68,730+ |
-| AP | 90,654 | ~50,000 (TBD) | TBD |
-| WIL | 44,577 | 230 | 0 (kosha-derived, no `<ls>`) |
-| SKD | 42,531 | TBD | (different format) |
+| MW | **32,116** | 11.2% | 9.71 |
+| AP | **49,452** | 54.6% | 1.27 |
+| PWG | 0 (no `<e>` markup) | — | — |
+| PWK | 0 (no `<e>` markup) | — | — |
+| WIL | 0 (no `<e>` markup) | — | — |
+| VCP / SKD | 0 (no `<e>` markup) | — | — |
 
-**Visual story this tells:** "MW is the largest single-volume dictionary, but PWG is more citation-dense overall."
+**Visual story:** "MW reserves `<e>1` for ~11% of entries (a true main-headword count); AP uses it for ~55% — different segmentation conventions."
 
-**What it obscures:** PWG's density is partly an artifact of having no `L.` hedge — PWG distributes its citations across 821 named sources where MW collapses to 1. **Raw counts make PWG look more rigorous than it is**, by hiding the fact that 12.9% of MW's apparently-thinner citation apparatus IS the kosha attribution PWG names separately.
+**What it obscures:** Without parsing each dict's specific conventions, "top-level" isn't comparable. The right move for cross-dict work is **Option E (per-unique-`<k1>`)** which works for all dicts.
 
-**When to use:** Whenever absolute scale is the message — e.g. "MW is the standard reference because of its size."
-
-#### Option B — Per-entry normalisation (cites/entry, blocks/entry)
-
-| Dict | `<ls>` cites/entry | Blocks/entry (avg) |
-|---|--:|--:|
-| MW | 1.09 | 6.1 |
-| PWG | **4.63** | ~7–8 (estimate) |
-| AP | ~0.55 (estimate) | ~5 |
-| WIL | 0.005 | 5–6 |
-| SKD | n/a (different cite format) | — |
-
-**Visual story:** "PWG is 4× more citation-dense per entry than MW; WIL has essentially zero textual citations per entry."
-
-**What it obscures:** Penalises MW for having many `<e>3` compound sub-entries that don't *need* citations. MW's 126K compounds inflate the denominator without diluting the citation effort — what matters editorially is *coverage of citations among entries that need them*, not the raw ratio.
-
-**When to use:** When the comparison is **about editorial citation density** — does this dictionary prefer 1 cite or 10 cites for the same word?
-
-#### Option C — Per-headword normalisation (top-level entries only, `<e>1`)
-
-Excluding sub-entries (continuations, derivatives, compounds), counting only top-level lemmas:
-
-| Dict | Top-level | Top-level / total | `<ls>` cites/top-level entry |
-|---|--:|--:|--:|
-| MW | 32,116 | 11.2% | ~9.7 |
-| PWG | ~45,000 (estimate) | ~36.5% | ~12.7 |
-| AP | ~13,000 (estimate) | ~14% | ~3.8 |
-| WIL | ~9,000 (estimate) | ~20% | ~0.026 |
-
-**Visual story:** "MW has only 32K main lemmas — fewer than PWG. The bulk of MW is sub-entries."
-
-**What it obscures:** PWG and MW segment their data differently. PWG often runs compounds in the main article body (no separate `<L>` record); MW always splits them. Comparing *just* top-level entries punishes MW's structural choice.
-
-**When to use:** When comparing the **lemma inventory choice** — what counts as a "word" in this dictionary?
+**When to use:** When comparing MW and AP specifically; not generalisable.
 
 #### Option D — Per-million-words normalisation (text-volume normalised)
 
-| Dict | Approx word count | Cites / 10⁶ words | Bytes (raw) |
+Word counts measured after stripping XML tags + SLP1 markers.
+
+| Dict | Word count | `<ls>` per 10⁶ words | Bytes |
 |---|--:|--:|--:|
-| MW | ~1.4M | ~223K | 49 MB |
-| PWG | ~1.5M | **~381K** | 53 MB |
-| AP | ~500K | ~100K | 18 MB |
-| WIL | ~280K | ~0.8K | 10 MB |
-| SKD | ~600K | n/a | 22 MB |
+| MW | 4,781,977 | 65,229 | 47.8 MB |
+| PWG | 3,581,113 | **159,395** | 50.8 MB |
+| VCP | 2,898,025 | 0 | 23.9 MB |
+| SKD | 2,937,417 | 0 | 21.8 MB |
+| PWK | 2,305,786 | 37,623 | 30.0 MB |
+| AP | 1,781,226 | 35,176 | 17.7 MB |
+| WIL | 1,104,886 | 208 | 9.5 MB |
 
-**Visual story:** "PWG packs more citation per unit of text than any other CDSL dictionary."
+**Visual story:** "PWG packs **2.4× more `<ls>` citations per word of text** than any other CDSL dictionary, twice as many as MW's per-word rate."
 
-**What it obscures:** Heavy compound enumeration in MW inflates word count via the gloss text. Doesn't disentangle "citation density" from "verbose definitions." A dictionary that gives 5-word glosses but cites RV/MBh systematically will look denser than one with 25-word glosses and one general cite.
+**What it obscures:** Heavy compound enumeration in MW inflates word count via gloss text. SKD/VCP have ~3M words but zero `<ls>` apparatus — Sanskrit-Sanskrit lexicography uses citation differently (embedded quotations rather than tagged `<ls>`).
 
-**When to use:** When comparing the **textual artifacts as artifacts** — how much content fits in how many pages? Useful for arguments about print economy.
+**When to use:** When comparing **textual artifacts as artifacts** — how much content fits per page.
 
 #### Option E — Per-unique-headword normalisation (deduplicated `<k1>`)
 
-Counts unique `<k1>` SLP1-form values, ignoring homophone numbering:
+Counts unique `<k1>` SLP1-form values across the entire dict, ignoring homophone numbering and entry-type splits:
 
 | Dict | Unique `<k1>` | `<ls>` per unique headword |
 |---|--:|--:|
-| MW | ~210,000 (estimate) | ~1.49 |
-| PWG | ~95,000 (estimate) | ~6.01 |
-| AP | ~75,000 (estimate) | ~0.67 |
-| WIL | ~35,000 (estimate) | ~0.007 |
+| MW | 194,084 | 1.61 |
+| PWK | 151,349 | 0.57 |
+| PWG | 106,083 | **5.38** |
+| AP | 88,701 | 0.71 |
+| VCP | 48,636 | 0 |
+| WIL | 43,938 | 0.01 |
+| SKD | 40,817 | 0 |
 
-**Visual story:** Similar to Option B but rescued from compound-bloat (no double-counting of homophone groups).
+**Visual story:** PWG remains the most citation-dense per unique lemma; MW second; PWK and AP comparable; WIL/SKD/VCP near-zero.
 
-**What it obscures:** Different dicts have different homophone-numbering conventions; standardising requires per-dict adjustment.
+**Comparison to Option B:** the ranking is identical but the absolute numbers shift. MW's 1.61 cites/unique-headword vs PWG's 5.38 is the cleanest "editorial citation choice" comparison.
 
-**When to use:** When you want the **truest "per-word" comparison** — but it's expensive to compute properly.
+**What it obscures:** Different dicts have different homophone-numbering conventions; standardising requires per-dict adjustment for true comparability.
+
+**When to use:** Whenever you want the **truest "per-word" comparison** across dicts with different macrostructures.
 
 #### Option F — Coverage normalisation (% of entries citing X)
 
-For each source X, what fraction of the dictionary's entries cite X at all?
+For each source X, what fraction of each dict's entries cite X at all?
 
-| Source | MW (% entries citing) | PWG | WIL |
-|---|--:|--:|--:|
-| RV. (Rigveda) | 5.6% | 12.0% | 0% |
-| MBh. | 9.8% | 13.7% | 0% |
-| Hemacandra (`H.`) | 0% | 14.0% | 0% (in `<ls>`) |
-| Amarakośa | 0.07% (`Amar.`) | 11.7% (`AK.`) | 0% |
-| Lexicographers (`L.`) | 13.4% | 0% | 0% |
+**WIL is excluded from this table** (always 0% — Wilson does not use the `<ls>` apparatus; see [DICT_PROFILE Lineage](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) for why). Per [@gasyoun](https://github.com/gasyoun)'s request, **PWK is included in the comparison** to show the middle term between PWG (kosha-rich) and MW (L.-collapsed):
 
-**Visual story:** Direct comparison of **editorial policy**. PWG cites Hemacandra in 14% of entries; MW cites it in 0% of entries (collapsed to L.). This is the **most informative** view for the lineage argument.
+| Source | MW | PWG | PWK | AP |
+|---|--:|--:|--:|--:|
+| RV. (Rigveda) | 4.63% | **8.96%** | 0.80% | 0.00% |
+| MBh. (Mahābhārata) | 8.93% | **13.84%** | 2.19% | 0.00% |
+| R. (Rāmāyaṇa) | 3.59% | 8.71% | 0.94% | 4.89% |
+| Pāṇ. (Pāṇini) | 2.79% | **11.72%** | 0.18% | 1.32% |
+| **H. (Hemacandra)** | **0.00%** | **12.18%** | **0.59%** | 0.73% |
+| **AK. / Amar. (Amarakośa)** | **0.08%** | **8.35%** | **0.03%** | 0.00% |
+| **MED. (Medinīkośa)** | **0.00%** | **4.20%** | **0.04%** | 0.06% |
+| **TRIK. (Trikāṇḍaśeṣa)** | **0.00%** | **4.99%** | **0.03%** | 0.01% |
+| **HALĀY. (Halāyudha)** | **0.00%** | **3.46%** | **0.01%** | 0.00% |
+| ŚBr. (Śatapatha) | 2.31% | 4.75% | 0.67% | 0.00% |
+| Suśr. (medical) | 2.13% | 5.59% | 0.36% | 0.20% |
+| Mn. (Manu) | 2.33% | 5.14% | 0.30% | 0.63% |
+| **L. (Lexicographers)** | **13.95%** | **0.00%** | **0.01%** | **0.42%** |
 
-**What it obscures:** Doesn't show **how often** within an entry the source is cited — just whether at all. A source cited 10 times in one entry and 1 time in 99 others would have 100% coverage in this metric.
+**Visual story — the killer finding:** Compare the five **bold** kosha-source rows. PWG cites Hemacandra in **12.18% of entries**, Amarakośa in **8.35%**, Medinīkośa in **4.20%**, *Trikāṇḍaśeṣa* in **4.99%**, Halāyudha in **3.46%**. **PWK abandoned all of them** — coverage dropped to 0.01–0.59%. **MW dropped them entirely** (0.00–0.08%) and **introduced `L.` at 13.95%** as a single consolidated hedge. The Sankey at Tier 1 #2 visualises this exact transition.
 
-**When to use:** When the question is **editorial choice** — does this dictionary include kosha sources in its citation system at all?
+**What this proves:**
+- PWG → PWK transition: Böhtlingk's *own* abridgement dropped the kosha apparatus when condensing his work.
+- PWK → MW (chronologically and editorially): MW restored an evidentiary-hedge in the form of `L.` at 13.95% — *more thorough than PWK's silence* but with *one label instead of PWG's named koshas*.
+- AP independently has **near-zero kosha citations and minimal L.** (0.42%) — Apte's dictionary descends from a different editorial tradition again.
 
-**This is the recommended normalisation for the lineage Sankey** (Tier 1 #2).
+**What it obscures:** Doesn't show **how often** within a single entry the source is cited (an entry citing RV. five times still counts as "1 entry citing RV.").
+
+**When to use:** When the question is **editorial policy** — does this dictionary use kosha sources at all? **This is the recommended normalisation for the lineage Sankey** (Tier 1 #2), and the table above is its data source.
 
 #### Option G — Z-score / cross-dict standardisation
 
@@ -441,15 +468,15 @@ When Sanskrit terms appear inside Russian-language text or labels, they are rend
 - The locale switcher does **not** transcode Sanskrit; only the surrounding English/Russian prose changes.
 - This is the **standard Russian indological convention** (used in *Индоевропейское языкознание*, the Roerich/Zograf Readings, *Petersburg Indological Studies*, etc.) — clean, no transcoding burden.
 
-### Decision 7 — Microsite hosting: new repo `csl-microsite`
+### Decision 7 — Microsite hosting: new repo `csl-atlas`
 
-The interactive microsite lives in a **new repository** (working name `csl-microsite`) under the `sanskrit-lexicon` org, rather than embedded in the MWS repo. Rationale:
+The interactive microsite lives in a **new repository** (working name `csl-atlas`) under the `sanskrit-lexicon` org, rather than embedded in the MWS repo. Rationale:
 
 - The microsite covers (will cover) **multiple CDSL dictionaries** for Phase 4 — natural to give it its own home.
-- Hosted on GitHub Pages from `csl-microsite` → e.g. `sanskrit-lexicon.github.io/csl-microsite/`.
-- Pulls data via JSON files in `csl-microsite/data/` regenerated from each dict's `mw_block_matrix.py` equivalent.
+- Hosted on GitHub Pages from `csl-atlas` → e.g. `sanskrit-lexicon.github.io/csl-atlas/`.
+- Pulls data via JSON files in `csl-atlas/data/` regenerated from each dict's `mw_block_matrix.py` equivalent.
 - Versioned independently from any single dict's docs-pass.
-- Allows a clean separation: **MWS repo holds the static paper + the data scripts; csl-microsite holds the live web app.**
+- Allows a clean separation: **MWS repo holds the static paper + the data scripts; csl-atlas holds the live web app.**
 
 ### Decision 8 — Mermaid i18n: one file per locale, not parallel blocks
 
@@ -549,14 +576,14 @@ The **colour-blind-safe** flag is important: at least one downstream variant of 
 
 ### Decision 10 — Microsite stack: Observable Framework
 
-The interactive `csl-microsite` is built with [**Observable Framework**](https://observablehq.com/framework). Rationale:
+The interactive `csl-atlas` is built with [**Observable Framework**](https://observablehq.com/framework). Rationale:
 - Built-in i18n routing (one route per locale → matches Decision 8's per-locale file strategy).
 - Reactive data + D3 + Markdown pages, all out of the box.
 - Static-site output (HTML/JS) deployable to GitHub Pages.
 - First-class support for declarative data files (CSV/JSON) → matches our JSON-data architecture.
 - Polished defaults; research-microsite aesthetic.
 
-Setup will live in the new `csl-microsite` repo (Decision 7).
+Setup will live in the new `csl-atlas` repo (Decision 7).
 
 ### Decision 11 — Russian translations: bootstrap-and-correct
 
@@ -655,7 +682,7 @@ supplementary/
 | 4 | Cross-dict normalisation | Multi-strategy; per-figure caption |
 | 5 | Author attribution | "CDSL `mw.txt` 2026-05-23" |
 | 6 | Sanskrit-in-Russian | IAST in italics |
-| 7 | Microsite hosting | New repo `csl-microsite` |
+| 7 | Microsite hosting | New repo `csl-atlas` |
 | 8 | Mermaid i18n | One file per locale |
 | 9 | CSS palette structure | JSON-first design tokens |
 | 10 | Microsite stack | Observable Framework |
@@ -842,7 +869,7 @@ All figures, data dumps, and the microsite are released under [**CC-BY-SA-4.0**]
 Observable Framework structure:
 
 ```
-csl-microsite/
+csl-atlas/
   src/
     index.md                        <-- landing page
     papers/                         <-- paper-tour section
@@ -881,7 +908,7 @@ Both share the same underlying data + palette + locale strings.
 | 4 | Cross-dict normalisation | Multi-strategy; per-figure caption |
 | 5 | Author attribution | "CDSL `mw.txt` 2026-05-23" |
 | 6 | Sanskrit-in-Russian | IAST in italics |
-| 7 | Microsite hosting | New repo `csl-microsite` |
+| 7 | Microsite hosting | New repo `csl-atlas` |
 | 8 | Mermaid i18n | One file per locale |
 | 9 | CSS palette structure | JSON-first design tokens |
 | 10 | Microsite stack | Observable Framework |
