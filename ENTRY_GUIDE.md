@@ -62,6 +62,110 @@ Three round-trip non-invertibilities exist (SLP1 → IAST → SLP1); see
 
 ---
 
+## Orthographical conventions
+
+The conventions below apply across all CDSL docs-pass branches and reading material.
+[DICT_PROFILE.md](DICT_PROFILE.md#orthographical-conventions-brief) carries a short summary; this section is the full reference.
+
+### Sanskrit display
+
+| Context | Convention | Example (SLP1 / IAST / Devanagari) |
+|---|---|---|
+| **Stored in data file** | [SLP1](https://en.wikipedia.org/wiki/SLP1) ASCII | `<k1>aMSa<k2>a/MSa` ; `<s>aMSayati</s>` |
+| **In prose, as a word** | IAST, italic | *aṃśa*, *aṃśu*, *ṛṣi* |
+| **In prose, as a code token / tag name** | Backticks, roman | `<lex>m.</lex>`, `<ls>RV.</ls>`, `aMSa` (when discussing the SLP1 form) |
+| **In code-blocks** | SLP1 verbatim | `<L>9<pc>1,1<k1>aMS<k2>aMS<e>1` |
+| **In Devanagari display** | Cologne web display only | अंश, अंशु, ऋषि |
+
+The transcoders live in [`mwtranscode/`](https://github.com/sanskrit-lexicon/MWS/tree/master/mwtranscode). Use [`mw_transcode.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/mwtranscode/mw_transcode.py) for batch conversion.
+
+### Vedic accent
+
+| Context | Marker | Example |
+|---|---|---|
+| In `<k2>` SLP1 | `/` after a vowel = *udātta* | `a/MSa` = *áṃśa* |
+| In IAST display | Acute accent over the vowel | *áṃśa*, *aṃśú* |
+| Anudātta and svarita | Not separately marked in `mw.txt` | — |
+
+[16.6% of `<k2>` fields](#vedic-accent-coverage) carry an accent mark.
+
+### Compounds
+
+| Context | Marker | Example |
+|---|---|---|
+| In `<k1>` lookup key | No separator | `aMSujAla` |
+| In `<k2>` display key | Em-dash `—` between members | `aMSu—jAla` |
+| In IAST prose | Hyphen `-` | *aṃśu-jāla* |
+| `<e>` hierarchy code | `3` (or `3A`/`3B`/`3C`) | [L57 *aṃśu-jāla*](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L199) |
+
+### Record references
+
+| Element | Format | Example |
+|---|---|---|
+| In data file | `<L>N` with integer N | `<L>9`, `<L>10`, `<L>57` |
+| Sub-entry | `<L>N.NNN` with decimal | `<L>4.020`, `<L>4.022` |
+| In prose | `L<number>` (no period) | `L9`, `L57`, `L4.020` |
+| Page/column source | `<pc>P,C` (data) → "p. P, col. C" (prose) | `<pc>1,2` → p. 1, col. 2 |
+| Line number in GitHub URL | `mw.txt#L<line>` (raw file line, not record) | [`mw.txt#L52`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L52) for record L9 |
+| Range of records | GitHub line-range syntax | [`mw.txt#L58-L82`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L58-L82) for L11–L19 |
+
+### Citation conventions
+
+| Element | Format | Notes |
+|---|---|---|
+| `<ls>` tag content | Roman (no italic), abbreviated work title | `<ls>RV.</ls>`, `<ls>MBh.</ls>` |
+| With numeric coordinate | Roman volume/book + Arabic verse/sutra | `<ls>RV. v, 86, 5</ls>` (book 5, hymn 86, verse 5) |
+| With explicit expansion in `n=` attribute | `<ls n="canonical short">visible</ls>` | 12,779 of `<ab n="…">`; see [DATA_DICTIONARY](DATA_DICTIONARY.md#ab-n-variant) |
+| In prose, when discussed | Backticks for code token | `RV.`, `<ls>MBh.</ls>` |
+| Editorial markers (not literary) | Same backtick formatting, but flag the editorial status | `L.`, `ib.`, `W.`, `MW.`, `Cat.` — [see callout](DICT_PROFILE.md#citation-markers--not-all-are-literary-works) |
+
+### Grammatical category in `<lex>`
+
+| Marker | Meaning | Count |
+|---|---|--:|
+| `m.` | masculine noun | 63,826 |
+| `f.` | feminine noun | 31,534 |
+| `n.` | neuter noun | 34,349 |
+| `mfn.` | adjective (declines in all three genders) | 50,636 |
+| `mn.` | masculine or neuter | small |
+| `ind.` | indeclinable | 5,516 |
+
+Verb-class abbreviations (`cl. 1.`, `cl. 10.`) and voice markers (`P.` Parasmaipada, `Ā.` Ātmanepada) live in `<ab>` rather than `<lex>` — see [DATA_DICTIONARY](DATA_DICTIONARY.md#abbreviations-used-in-lex-rather-than-ab).
+
+### `<e>` hierarchy code
+
+A single-letter optional suffix marks variants. Full inventory in [Entry hierarchy distribution](#entry-hierarchy-distribution).
+
+| Pattern | Role |
+|---|---|
+| `<e>1` | Top-level entry (main headword) |
+| `<e>1A` | Continuation sense (additional meanings of the immediately-preceding `<e>1`) |
+| `<e>1B`, `<e>1C` | Top-level variant within same headword group |
+| `<e>2` | Derived form (suffix derivative: `-aka`, `-in`, `-ya`, …) |
+| `<e>2A`, `<e>2B`, `<e>2E` | Derived sub-variants |
+| `<e>3` | Compound sub-entry (`<k2>` has em-dash) |
+| `<e>3A`, `<e>3B`, `<e>3C` | Compound sub-variants |
+| `<e>4` | Specialised hierarchy (rarer) |
+
+### Inline non-XML markup
+
+| Marker | Role | Example |
+|---|---|---|
+| `¦` | Separator between headword and gloss body | `<s>aMSa</s> ¦ <lex>m.</lex> …` |
+| `{#…#}` | Devanagari / SLP1 inline span (rendered as Devanagari) | `{#kf#}` → कृ |
+| `{%…%}` | Italic text span (rendered as italic in display) | `{%also written%}` |
+| `<srs/>` | Self-closing visarga-ligature marker | `<srs/>` |
+
+### Correction-record format
+
+In-file corrections use double-brace syntax (processed by [`updateByLine.py`](https://github.com/sanskrit-lexicon/MWS), never appears in rendered output):
+
+```
+{{old text -> new text || YYYY-MM-DD | author | URL |}}
+```
+
+---
+
 ## Common tags
 
 Tag counts shown are from the markup-fix audit of `mw.txt` (2026-05) — see

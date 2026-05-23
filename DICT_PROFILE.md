@@ -27,6 +27,21 @@ annotations decoded from the real source.
 
 ---
 
+## Orthographical conventions (brief)
+
+This profile follows the CDSL-wide conventions used across the [docs-pass branches](https://github.com/sanskrit-lexicon). Full reference: [ENTRY_GUIDE — Conventions](ENTRY_GUIDE.md#orthographical-conventions).
+
+- **Stored form:** [SLP1](https://en.wikipedia.org/wiki/SLP1) — ASCII transliteration — in `<k1>`, `<k2>`, `<s>…</s>` spans (`aMSa`, `aMSu/`, `fzi`).
+- **Displayed form:** [IAST](https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration) in *italic* in prose: *aṃśa*, *aṃśu*, *ṛṣi*. Backticks for code tokens and SLP1: `<lex>`, `aMSa`.
+- **Vedic accent:** SLP1 `/` after a vowel = *udātta* (`a/MSa`); IAST shows acute over the vowel: *áṃśa*. [Coverage stats](ENTRY_GUIDE.md#vedic-accent-coverage).
+- **Compound marker:** em-dash `—` in `<k2>` (`aMSu—jAla`); IAST uses hyphen: *aṃśu-jāla*.
+- **L-record format:** `<L>9` (integer) or `<L>10.020` (decimal for sub-entries). Referenced in prose as `L9`.
+- **Page/column citation:** `<pc>1,1` = page 1, column 1 of the [1899 Clarendon print](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php). Cited as "p. 1, col. 1".
+- **`<e>` hierarchy code:** number + optional letter (`1`, `1A`, `2B`, `3C`). [Full inventory](ENTRY_GUIDE.md#entry-hierarchy-distribution).
+- **`<ls>` citations:** roman, not italic. Numeric coordinates follow as Roman-book + Arabic-verse: `<ls>RV. v, 86, 5</ls>`. [15.1% have coordinates](ENTRY_GUIDE.md#coverage-of-ls-citations).
+
+---
+
 ## Historical background
 
 Monier Monier-Williams (born Bombay 1819; *né* Williams, hyphenated his name in
@@ -155,13 +170,138 @@ When evaluating a gloss, count the **non-editorial** citations — that's the ac
 
 | Dictionary | Relationship to MW |
 |---|---|
-| [PWG](https://github.com/sanskrit-lexicon/PWG) (Böhtlingk-Roth, 1855–1875) | German Sanskrit-Wörterbuch — the principal source MW condensed and translated into English |
+| [PWG](https://github.com/sanskrit-lexicon/PWG) (Böhtlingk-Roth, 1855–1875) | German Sanskrit-Wörterbuch — the principal source MW [condensed and reworked](#beyond-pwg--what-mw-contributes) into English |
 | [PWK](https://github.com/sanskrit-lexicon/PWK) (Böhtlingk, 1879–1889) | Abridged "kürzerer Fassung" of PWG; contemporary with MW's first edition |
 | [AP90](https://github.com/sanskrit-lexicon/AP90) (Apte, 1890) | Student-oriented English Sanskrit dictionary — narrower scope but cleaner pedagogy |
 | [AP](https://github.com/sanskrit-lexicon/AP) (Apte, 1957–59 *Practical*) | Apte's later revised and expanded English Sanskrit dictionary |
 | [WIL](https://github.com/sanskrit-lexicon/WIL) (Wilson, 1832) | Earlier English Sanskrit dictionary by the first Boden Professor — superseded by MW |
+| [SKD](https://github.com/sanskrit-lexicon/SKD) (*Śabdakalpadruma*, 1822–1858) | Sanskrit→Sanskrit monolingual encyclopedic lexicon by Rāja Rādhākānta Deva — the indigenous Indian lexicographical tradition's masterpiece, frequently cited by MW |
 | [GRA](https://github.com/sanskrit-lexicon/GRA) (Grassmann, 1873) | Specialised RV-Wörterbuch — the reference for Vedic accent work |
 | [BHS](https://github.com/sanskrit-lexicon/BHS) (Edgerton, 1953) | Buddhist Hybrid Sanskrit dictionary — the BHS counterpart MW lacks |
+
+---
+
+## Beyond PWG — what MW contributes
+
+MW1899 is often described as "an English translation of PWG." That's a half-truth. MW substantially **reworks** the Petersburg Wörterbuch — different audience, different conventions, different editorial decisions, and ~25 years of fresh philological work. The argument:
+
+| Dimension | PWG (Böhtlingk-Roth, 1855–75) | MW1899 |
+|---|---|---|
+| **Target language** | German Indologists | The English-speaking world (Boden chair's stated mission) |
+| **Total records** | [123,366](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/pwg/pwg.txt) | [286,561 — 2.3× more](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/ENTRY_GUIDE.md#entry-hierarchy-distribution) |
+| **Compound enumeration** | Often glossed in running prose under the parent | [112,183 enumerated as `<e>3` sub-entries (39.1%)](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/ENTRY_GUIDE.md#entry-hierarchy-distribution) — see [Sample 3 *aṃśu-jāla*](#sample-3--compound-sub-entry-cross-reference) |
+| **IE cognate marking** | Inline mentions in `<is>` italic-spans and parenthetical remarks | [3,960 `<lang>` tags across 112 languages](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/ENTRY_GUIDE.md#ie-cognate-density--lang-breakdown) (Lat./Gk./Goth./Lith./Zd./…) — a systematic comparative reach |
+| **Lexicographer hedge** | Marked but conventions vary | Uniform [`<ls>L.</ls>` marker on 40,213 citations (12.9%)](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/DICT_PROFILE.md#citation-markers--not-all-are-literary-works) — explicit evidentiary discipline |
+| **Botanical / zoological tagging** | Limited; in prose | [8,923 `<bot>` species names](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/ENTRY_GUIDE.md#botanical--biographical-tag-stats) in scientific Latin |
+| **Biographical / mythological tagging** | Limited | [358 `<bio>` figures](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/ENTRY_GUIDE.md#botanical--biographical-tag-stats) (e.g. [*agastya-mārga* → Canopus](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L2997)) |
+| **Editorial commentary** | Restrained; mostly citation chains | Frequent interpolated reasoning — see MW's [back-formation argument in Sample 2](#sample-2--masculine-noun-with-etymology) ("fictitiously formed to serve as root") |
+| **Supplement** | — | [~6,602 supplement entries](https://github.com/sanskrit-lexicon/MWS/blob/master/6602-entries-from-supplements-MW.txt) added in 1899 |
+| **Citation discipline** | German source conventions | English conventions; [editorial markers (L., ib., W., MW., Cat.)](#citation-markers--not-all-are-literary-works) carry distinct semantics |
+| **Year span vs PWG** | 1855–1875 | [1872 first edn](https://www.sanskrit-lexicon.uni-koeln.de/scans/MW72Scan/2020/web/index.php) (during PWG run); [1899 second edn](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php) — adds 25 years of additional scholarship |
+| **Collaborators (1899)** | Böhtlingk + Roth | Monier-Williams + [Leumann](https://en.wikipedia.org/wiki/Ernst_Leumann) + [Cappeller](https://en.wikipedia.org/wiki/Carl_Cappeller) |
+
+**What MW does *not* do better than PWG:**
+
+- **Source citation density** — PWG carries more granular citation chains for individual senses (multiple `<ls>RV. n,n,n.</ls>` per sense; MW more often gives a single representative cite).
+- **Vedic-specialist accuracy** — PWG's Sanskritists were Vedic specialists; for Vedic accent and obscure Saṃhitā vocabulary, [GRA](https://github.com/sanskrit-lexicon/GRA) (Grassmann) remains the reference.
+- **Bibliographic precision** — PWG's `<is>gaṇa</is>`, edition references, and page-pointers in citations are more rigorous; MW abbreviates more.
+
+**What MW deliberately keeps from PWG:**
+
+- The basic record structure (headword + grammatical category + senses + citations).
+- The PWG abbreviation conventions for textual sources (`RV.`, `AV.`, `MBh.`, …) — MW's [Lists of Works and Authors](https://github.com/sanskrit-lexicon/MWS/tree/master/mwauthorities) borrows heavily from PWG's bibliography.
+- Most sense divisions for well-attested vocabulary.
+
+The most accurate one-liner: **MW1899 is an English re-edition of PWG, rewritten for a different audience, with systematic IE comparative material added and editorial conventions changed throughout.**
+
+---
+
+## Same entry across five dictionaries
+
+A practical illustration of *what each lexicon adds*. We pull the same Sanskrit headword from five CDSL dictionaries and show the first lines of each.
+
+### Headword 1: *aṃśa* — "share, portion"
+
+**[PWG L7](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/pwg/pwg.txt#L124)** (German, 1855):
+
+```
+1. {#a/MSa#}¦ (s. <is>gaṇa</is> {#vfzAdi#}) <lex>m.</lex>
+<ls>SIDDH. K. 249,b, ult.</ls>
+1) {%Theil%}    <ls>AK. 2,9,90.</ls>  <ls>H. 1434.</ls>
+   — a) {%Theil, Abschnitt%}    <ls>H. an. 2,542.</ls>
+   — b) {%ein Theil des Kaufpreises, Haftgeld%} <ls>ṚV. 3,45,4.</ls>
+   — c) {%Antheil%}              <ls>ṚV. 7,32,12.</ls>
+   — d) {%Partei%}               <ls>ṚV. 1,102,4.</ls>
+   — e) {%Nenner eines Bruchs%}  <ls>COLEBR. Alg. 13.</ls>
+2) {%Theilung, Erbschaftstheilung%}  <ls>H. an. 2,542.</ls>
+```
+PWG enumerates the sense tree (1, 1a–1e, 2) with **multiple `<ls>` cites per sub-sense** including pointer to the *Siddhāntakaumudī*'s grammatical analysis, Amarakośa, Hemacandra. Sense 1b "share of purchase price, deposit" with `<ls>ṚV. 3,45,4</ls>` is a Vedic textual citation. Glosses in German: *Theil*, *Theil-Abschnitt*, *Antheil*, *Partei*, *Nenner eines Bruchs*.
+
+**[MW L10](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L55)** (English, 1899):
+
+```
+<s>a/MSa</s> ¦ <lex>m.</lex> (probably <ab>fr.</ab> √ <hom>1.</hom> <s>aS</s>,
+<ab>perf.</ab> <s>An-a/MSa</s>, and not from the above √ <s>aMS</s>
+fictitiously formed to serve as root), a share, portion, part, party
+```
+MW gives the **etymology argument up front** (the parenthetical back-formation claim — absent in PWG), then condenses 5+ PWG sub-senses into one comma-separated English gloss. The detailed sense breakdown follows in [9 continuation sub-entries L11–L19](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L58-L82) (booty, stake with `<ls>RV.</ls>` citation, lot, fraction denominator, latitude, day, Āditya). [See full annotation](#sample-2--masculine-noun-with-etymology).
+
+**[AP L4](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/ap/ap.txt#L91)** (Apte, 1957):
+
+```
+{#aMSaH#}¦ [{#aMS-ac#}]
+1 A share, part, portion, division; member; {#sakfdaMSo nipatati#} <ls>Ms. 9. 47</ls>;
+  {#turyAMSaH#} a fourth part; ... {#mamEvAMSo jIvaloke#} <ls>Bg. 15. 7</ls>; {#BuvamaMSAviva#}
+  {#DarmayorgatO#} <ls>R. 8. 16</ls>; {#aMSena darSitAnukUlatA#} <ls>K. 159</ls> partly.
+2 A share in property, inheritance; ...
+3 the numerator of a fraction; ...
+4 A degree of latitude (or longitude); ...
+5 The shoulder (more correctly written as {#aMsa#}, q.v.).
+6 N. of one of the Ādityas; <ls>Mb. 1. 227. 25</ls>; ...
+7 The vital note in a Rāga.
+Comp.: aMSAMSaH, aMSAMSi, aMSAvatAraH, aMSAvataraRam, aMSakuRqalI, aMSaBAj, aMSahara, ...
+```
+AP includes the **Pāṇinian derivational formula** `[aMS-ac]` (root + suffix), gives 7 numbered senses with **inline Sanskrit example phrases + their textual sources**, and ends with a **list of compound entries** that follow as `<L>4.020`, `<L>4.022`, etc. — a deliberately pedagogical organization for students.
+
+**[WIL L6](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/wil/wil.txt#L34)** (Wilson, 1832):
+
+```
+{#aMSa#}¦
+<lex>m.</lex> ({#-SaH#})
+1 A share or portion.
+2 A part.
+3 A shoulder, the shoulder blade.
+4 (In arithmetic) a fraction.
+```
+Wilson is **the bare minimum**: 4 senses, no citations, no etymology, no examples. This is the dictionary MW was elected to replace.
+
+**[SKD L6](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/skd/skd.txt#L70)** (Śabdakalpadruma, 1822–58, monolingual Sanskrit):
+
+```
+aMSaH¦, puM, (aMSa viBAjane, adantacurAdiH . karmmaRi GaY .)
+viBAjanaM . tatparyyAyaH . BAgaH 2 . vaRwakaH 3 . ityamaraH .
+viBAgaH 4 BaktiH 5 . iti jawADaraH .
+aMsaSabdo dantyasAnto'pi . aMSAMsa t ka viBAjane iti kavikalpadrumadaSanAt .
+skanDaH . iti vidyAvinodAdayaH .
+(vastvekadeSaH . rikTaviBAgaH . caturTaBAgaH . BAjyANkaH . ravimUrttiviSezaH .
+AdityaviSezaH, yaTA, ...
+"DAtA mitro'ryyamA Sakro varuRastvaMSa eva ca ..." iti mahABAratam .)
+```
+SKD is a **Sanskrit-Sanskrit monolingual dictionary** — both gloss and citation are in Sanskrit. The format encodes **the indigenous lexicographical method**: Pāṇinian derivation (`adantacurAdiH . karmmaRi GaY` = "from the *cur-ādi* root with kṛt-suffix *GHaÑ* in the patient sense"), synonyms keyed to indigenous lexica (Amarakośa = `ityamaraH`, Jaṭādhara = `iti jawADaraH`, Vidyāvinoda = `iti vidyAvinodAdayaH`), MBh. quotation for the Āditya sense. No European-language target.
+
+### Headword 2: *aṃśu-jāla* — "a blaze of light"
+
+A transparent compound. Tells you everything about which lexicons enumerate vs gloss compounds:
+
+| Dictionary | Has separate entry? | Notes |
+|---|---|---|
+| [**MW** `<L>57`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L199) | **Yes** | `aMSu—jAla<e>3` `n.` "a collection of rays, blaze of light." See [Sample 3](#sample-3--compound-sub-entry-cross-reference). |
+| [**AP** `<L>12.022`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/ap/ap.txt#L231) | **Yes** | `aMSujAlam` `<e>2` "a collection of rays, a blaze or halo of light." Listed as compound under `aMSuH` (`L12`). |
+| [**WIL** `<L>25`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/wil/wil.txt#L181) | **Yes** | `aMSujAla` `n.` "A collection or blaze of light. A parcel or pencil of rays." With etymological note: `aMSu` + `jAla` "a net". |
+| **PWG** | **No** | Not separately enumerated — PWG covers transparent compounds in running prose under the parent `aMSu` entry. |
+| **SKD** | **No** | Not separately enumerated; the relevant *aṃśu*-compounds in SKD are `aMSukaM` (cloth), `aMSumatI` (a creeper), `aMSumAlI` (sun), etc. — encyclopedic rather than transparent. |
+
+**Reading the table:** the English lexicons (WIL/MW/AP) systematically enumerate transparent compounds. PWG and SKD prefer to gloss them in prose under the parent. This is one of the **most visible structural differences between MW and PWG**, and it's a major reason MW has 2.3× as many records.
 
 ---
 
