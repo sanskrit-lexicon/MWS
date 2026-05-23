@@ -665,6 +665,101 @@ supplementary/
 | **14** | Accessibility | Short alt + long `<desc>` + long caption (triple) |
 | **15** | Figure numbering | Per-paper continuous + stable-slug manifest |
 | **16** | Supplementary materials | Self-contained ZIP (no external deps) |
+| **17** | Figure dimensions | IJL full-page-width (~175 mm) |
+| **18** | Font | Noto Sans (Google universal; supports IAST + Cyrillic) |
+| **19** | Figure license | CC-BY-SA-4.0 (inherits from MWS digital edition) |
+| **20** | Microsite navigation | Hybrid: paper tours + standalone tools |
+
+## Implementation decisions — round 5 (2026-05-23)
+
+### Decision 17 — Figure dimensions: full-page-width
+
+All four Tier-1 figures render at **IJL full-page-width (~175 mm)** spanning both columns. Rationale:
+
+- The 18 × 14 block × type heatmap is unreadable at single-column width — needs the room.
+- The PWG → MW Sankey has 6 source nodes flowing to 1 destination; clearer at full-width.
+- The article-type treemap with 14 cells reads better wide.
+- The Mermaid timeline benefits from horizontal space for the kosha → MW → CDSL timespan.
+
+Implementation in matplotlib: `figsize=(7, 4.5)` inches at 300 DPI for paper; SVG export for vectorisation.
+
+### Decision 18 — Font: Noto Sans
+
+**[Noto Sans](https://fonts.google.com/noto/specimen/Noto+Sans)** for all figure text. Rationale:
+
+- Universal Unicode coverage: IAST diacritics (ā, ī, ū, ṛ, ṅ, ñ, ṭ, ḍ, ṇ, ś, ṣ, ḥ, ṃ) AND Cyrillic AND Devanagari (for any rare callouts).
+- Open license (SIL OFL); ships with every modern OS.
+- Designed by Google to harmonise across scripts — bilingual labels read consistently.
+- Falls back gracefully if missing (DejaVu Sans is the matplotlib default).
+
+Embedded in `palette-tokens.json` as `"font-family": "Noto Sans"`.
+
+### Decision 19 — License: CC-BY-SA-4.0
+
+All figures, data dumps, and the microsite are released under [**CC-BY-SA-4.0**](https://creativecommons.org/licenses/by-sa/4.0/), matching the [MWS digital edition's license](../../LICENSE.md). Rationale:
+
+- Consistency across CDSL artefacts.
+- Attribution + share-alike is the long-established CDSL norm.
+- A note in each figure caption: "Released under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) · Source: CDSL mw.txt 2026-05-23"
+
+### Decision 20 — Microsite nav: hybrid (paper-tours + standalone tools)
+
+Observable Framework structure:
+
+```
+csl-microsite/
+  src/
+    index.md                        <-- landing page
+    papers/                         <-- paper-tour section
+      wiegand.md                    <-- Wiegand paper figures embedded
+      atkins-rundell.md
+      hausmann.md
+      grounded.md
+    tools/                          <-- standalone visualisation tools
+      matrix-explorer.md            <-- 18×14 heatmap, interactive
+      lineage-sankey.md             <-- PWG→MW Sankey
+      typology-treemap.md           <-- article-type treemap
+      timeline.md                   <-- lexicographic timeline
+      type-comparator.md            <-- Tier 3, side-by-side type compare
+      citation-tracer.md            <-- Tier 3, click-source-see-entries
+    data/                           <-- JSON data shared across pages
+    locales/
+      en/                           <-- English locale routes
+      ru/                           <-- Russian locale routes
+```
+
+Reader paths:
+- **Paper tour** for "I want to follow the argument of one framework paper."
+- **Tools** for "I want to explore the data interactively without the paper context."
+
+Both share the same underlying data + palette + locale strings.
+
+---
+
+## All twenty decisions in one table
+
+| # | Decision | Choice |
+|--:|---|---|
+| 1 | Colour palette consistency | Shared via CSS across 4 papers + microsite |
+| 2 | Static vs interactive | Both |
+| 3 | Bilingual labels | English + Russian |
+| 4 | Cross-dict normalisation | Multi-strategy; per-figure caption |
+| 5 | Author attribution | "CDSL `mw.txt` 2026-05-23" |
+| 6 | Sanskrit-in-Russian | IAST in italics |
+| 7 | Microsite hosting | New repo `csl-microsite` |
+| 8 | Mermaid i18n | One file per locale |
+| 9 | CSS palette structure | JSON-first design tokens |
+| 10 | Microsite stack | Observable Framework |
+| 11 | Russian translations | Bootstrap-and-correct |
+| 12 | Build order | Foundation → heatmap → treemap → Sankey → Mermaid |
+| 13 | Legends | Hover (interactive) + brief inset (static) + caption key |
+| 14 | Accessibility | Short alt + long `<desc>` + long caption |
+| 15 | Figure numbering | Per-paper continuous + stable-slug manifest |
+| 16 | Supplementary materials | Self-contained ZIP (no external deps) |
+| 17 | Figure dimensions | IJL full-page-width (~175 mm) |
+| 18 | Font | Noto Sans (universal IAST + Cyrillic) |
+| 19 | Figure license | CC-BY-SA-4.0 |
+| 20 | Microsite navigation | Hybrid: paper tours + standalone tools |
 
 ---
 
