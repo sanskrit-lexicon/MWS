@@ -16,6 +16,9 @@ The same 286,561-record dataset is analysed through four different theoretical l
 | [paper-hausmann.md](paper-hausmann.md) | **Hausmann-Wiegand hybrid** framing — form-comment / semantic-comment / pragmatic-comment / source-comment, plus a proposed fifth comment-class (*Provenienz-Komment*) for MW's `<ls>L.</ls>` hedge | ~7K words |
 | [paper-grounded.md](paper-grounded.md) | **Data-grounded** framing — five constructs (block, slot, profile, hedge, infrastructure) built from MW outward, with external-framework comparison at the end | ~8K words |
 | [VISUALISATIONS.md](VISUALISATIONS.md) | **Visualisation catalogue** — all visualisation types the data supports (10 categories, ~40 visualisation ideas), prioritised by impact/effort into 3 tiers, with tool-choice notes and Phase-4 reusability pattern | ~3K words |
+| [decisions/](decisions/) | **28 design decisions** split into 7 thematic sub-docs (PALETTE / I18N / MICROSITE / FIGURES / NORMALISATION / SUPPLEMENTARY / BUILD-ORDER) | ~6K words total |
+| [DOUBTS.md](DOUBTS.md) | **Critical review** of 15 architectural doubts (per @gasyoun's "doubt everything" mandate) | ~3K words |
+| [figures/](figures/) | **Built artefacts** — Tier-1 figures (heatmap, treemap, Sankey, Mermaid timeline) in EN + RU, palette tokens, locales, Python renderers, JSON data exports | — |
 
 ---
 
