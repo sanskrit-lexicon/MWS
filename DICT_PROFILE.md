@@ -272,8 +272,12 @@ AP includes the **Pāṇinian derivational formula** `[aMS-ac]` (root + suffix),
 2 A part.
 3 A shoulder, the shoulder blade.
 4 (In arithmetic) a fraction.
+5 The numerator of a fraction.
+6 A degree of latitude or longitude, &c. See {#aMsa#}.
+<ab>E.</ab>
+{#aMSa#} to divide, {#ac#} affix.
 ```
-Wilson is **the bare minimum**: 4 senses, no citations, no etymology, no examples. This is the dictionary MW was elected to replace.
+Wilson gives **6 senses plus the [Pāṇinian derivation](https://en.wikipedia.org/wiki/Sanskrit_grammar)** (the `<ab>E.</ab>` "Etymology" line: *aṃśa* "to divide" + *ac* affix — the same `[aMS-ac]` analysis [AP L4](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/ap/ap.txt#L91) gives 125 years later). Wilson **predates** AP's formula by 58 years and MW1899 by 67 years. What WIL lacks vs AP/MW is **not** the analytical scaffolding but **the evidence**: no `<ls>` textual citations, no Sanskrit example phrases, no IE cognates, no accent marking. Wilson is the **schematic skeleton**; MW and AP are that skeleton fleshed out with attested usage. This is the dictionary MW was elected to replace — not because WIL was wrong, but because it was unevidenced.
 
 **[SKD L6](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/skd/skd.txt#L70)** (Śabdakalpadruma, 1822–58, monolingual Sanskrit):
 
