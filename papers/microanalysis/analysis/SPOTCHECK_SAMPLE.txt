@@ -1,0 +1,518 @@
+# Spot-check sample — 100 MW records, seed=42
+# For each: L-number, k2 headword, e-code, detected blocks, detected types, raw body.
+# A reviewer marks any mis-detected block (false +/-) inline.
+
+L52074  k2='ku-Darma'  e=1
+  blocks: F01 F02 F03 F08 F10 F17
+  types : other
+  body  : <s>ku-Darma</s> ¦ &c. See <hom>1.</hom> <s>ku</s>.<info hui="b"/>
+
+L10991  k2='a-budDa'  e=1
+  blocks: F01 F02 F04 F10 F17
+  types : adjective-mfn
+  body  : <s>a-budDa</s> ¦ <lex>mfn.</lex> unwise, foolish<info lex="m:f:n"/>
+
+L131484  k2='prati—cCanda'  e=3A
+  blocks: F01 F10 F12 F17
+  types : compound
+  body  : ¦ any image, likeness, substitute, <ls>Hariv.</ls>; <ls>Rājat.</ls><info lex="inh"/>
+
+L116885.1  k2='pa/rA-BUta'  e=3A
+  blocks: F01 F10 F12 F17
+  types : compound vedic-accented
+  body  : ¦ defeated, overcome, harmed, injured, degraded, humbled, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info lex="inh"/>
+
+L106837.2  k2='nir-Iha-tva'  e=4
+  blocks: F01 F02 F04 F10 F12 F17
+  types : noun-n
+  body  : <s>nir-Iha-tva</s> ¦ <lex>n.</lex>, (<ls>MW.</ls>) absence of effort or desire, indifference.<info phwparent="106837,nirIhA"/><info lex="n"/>
+
+L66156  k2='guruka'  e=2A
+  blocks: F01 F10 F12 F17
+  types : derived
+  body  : ¦ (in prosody) long, <ls>Śrut. 12 f.</ls><info lex="inh"/>
+
+L47705  k2='kAnizWika'  e=1
+  blocks: F01 F02 F04 F06 F08 F10 F17
+  types : adjective-mfn
+  body  : <s>kAnizWika</s> ¦ <lex>mfn.</lex> (<ab>fr.</ab> <s>kanizWikA</s>) <ab>g.</ab> <s>SarkarA<srs/>di</s>.<info lex="m:f:n"/>
+
+L264292  k2='hemAlaMkAra'  e=3
+  blocks: F01 F04 F10 F12 F17
+  types : noun-m
+  body  : <s>hemA<srs/>laMkAra</s> ¦ <lex>m.</lex> a <ab n="golden">g˚</ab> ornament, <ls>Ratnāv.</ls><info lex="m"/>
+
+L40181.2  k2='eva/'  e=1A
+  blocks: F01 F02 F08 F09 F10 F12 F15 F17
+  types : continuation vedic-accented
+  body  : ¦ (in its most frequent use of strengthening the idea expressed by any word, <s>eva</s> must be variously rendered by such adverbs as) just, exactly, very, same, only, even, alone, merely, immediately on, still, already, &c. (<ab>e.g.</ab> <s>tvam eva yantA nA<srs/>nyo 'sti pfTivyAm</s>, thou alone art a charioteer, no other is on earth, <ab>i.e.</ab> thou art the best charioteer, <ls>MBh. iii, 2825</ls>;
+<s>tAvatIm eva rAtrim</s>, just so long as a night;
+<s>evam eva</s> or <s>taTE<srs/>va</s>, exactly so, in this manner only;
+in the same manner as above;
+<s>tenE<srs/>va mantreRa</s>, with the same <s1>Mantra</s1> as above;
+<s>apaH spfzwvE<srs/>va</s>, by merely touching water;
+<s>tAn eva</s>, these very persons;
+<s>na cirAd eva</s>, in no long time at all;
+<s>japyenE<srs/>va</s>, by sole repetition;
+<s>aBuktvE<srs/>va</s>, even without having eaten;
+<s>iti vadann eva</s>, at the very moment of saying so;
+<s>sa jIvann eva</s>, he while still living, &c.), <ls>RV.</ls> &c., <ls>MBh.</ls> &c.<info lex="inh"/>
+
+L203497  k2='vIRAnubanDa'  e=3
+  blocks: F01 F04 F09 F10 F12 F13 F17
+  types : noun-m lexicographer-only
+  body  : <s>vIRA<srs/>˚nubanDa</s> ¦ (<s>vIRA<srs/>n˚</s>) <lex>m.</lex> the tie of a lute (or lower part of one of its ends where the wires are fixed), <ls>L.</ls><info lex="m"/>
+
+L14206.1  k2='a-mfta—ci/t'  e=3
+  blocks: F01 F02 F04 F10 F12 F17
+  types : compound vedic-accented
+  body  : <s>a-mfta—ci/t</s> ¦ <lex>mfn.</lex> heaped or piled up like nectar, <ls>MaitrS.</ls><info n="sup"/><info lex="m:f:n"/><info hui="b"/>
+
+L13325  k2='aByASI-BU'  e=3
+  blocks: F01 F02 F06 F10 F12 F17
+  types : compound
+  body  : <s>aByASI-√ BU</s> ¦ to come near to, <ls>Pat.</ls><info verb="gati" cp="" parse="aByASI+BU"/>
+
+L43429  k2='kapAlinI'  e=2B
+  blocks: F01 F02 F04 F10 F12 F15 F17
+  types : derived
+  body  : <s>kapAlinI</s> ¦ <lex>f.</lex> a form of <s1>Durgā</s1> (as the wife of <s1>Śiva-kapālin</s1>), <ls>Hariv.</ls>; <ls>Kathās.</ls><info lex="f"/>
+
+L104661  k2='nava—raNga'  e=3A
+  blocks: F01 F02 F03 F06 F08 F10 F12 F13 F17
+  types : compound lexicographer-only
+  body  : ¦ a kind of garment (also <s>-ka</s>), <ls>L.</ls> (<ab>fr.</ab> <hom>1.</hom> <s>nava</s>?)<info lex="inh"/>
+
+L111268  k2='nI—kAra'  e=3
+  blocks: F01 F02 F03 F04 F06 F08 F10 F12 F17
+  types : compound
+  body  : <s>nI—kAra</s> ¦ <lex>m.</lex> (√ <hom>1.</hom> <s>kF</s>) disrespect, contempt, degradation, <ls>Hcar.</ls><info lex="m"/>
+
+L244452  k2='sidDa—SAbara-tantra'  e=3
+  blocks: F01 F02 F04 F10 F15 F17
+  types : compound
+  body  : <s>sidDa—SAbara-tantra</s> ¦ <lex>n.</lex> <ab>N.</ab> of a <s1>Tantra</s1>.<info lex="n"/>
+
+L11703  k2='aBi-nIti'  e=2
+  blocks: F01 F02 F04 F10 F12 F13 F17
+  types : derived lexicographer-only
+  body  : <s>aBi-nIti</s> ¦ <lex>f.</lex> gesture, expressive gesticulation, <ls>L.</ls><info lex="f"/><listinfo n="sup"/>
+
+L95128  k2='dfQa—Pala'  e=3
+  blocks: F01 F02 F04 F10 F12 F13 F17
+  types : compound lexicographer-only
+  body  : <s>dfQa—Pala</s> ¦ <lex>m.</lex> ‘having hard fruit’, the cocoa-nut tree, <ls>L.</ls><info lex="m"/>
+
+L264086  k2='hemanta—samaya'  e=3
+  blocks: F01 F02 F04 F10 F12 F17
+  types : compound
+  body  : <s>hemanta—samaya</s> ¦ <lex>m.</lex> <ab n="winter">w˚</ab> time, <ls>Pañcat.</ls><info lex="m"/>
+
+L202327  k2='vi-zwapa—traya'  e=4
+  blocks: F01 F02 F04 F08 F10 F12 F16 F17
+  types : noun-n
+  body  : <s>vi-˚zwapa—traya</s> ¦ <lex>n.</lex> the three worlds (<ab>cf.</ab> <s>loka-tr˚</s>), <ls>Ragh.</ls><info lex="n"/>
+
+L105539  k2='nA/nA—Darman'  e=3
+  blocks: F01 F02 F04 F08 F10 F12 F17
+  types : compound vedic-accented
+  body  : <s>nA/nA—Darman</s> ¦ (<s>nA/nA-</s>), <lex>mfn.</lex> having <ab n="different">d˚</ab> customs, <ls>AV.</ls><info lex="m:f:n"/>
+
+L217078  k2='Sir'  e=1
+  blocks: F01 F02 F06 F08 F09 F10 F12
+  types : other
+  body  : <s>Sir</s> ¦ (<ab>nom.</ab> <s>SIr</s>; √ <s>SF</s>), hurting, injuring, wounding (only <ab>ifc.</ab>, <ab>e.g.</ab> <s>SaSI<srs/>Sa-SiSu-SIH</s>), <ls>Kir. xv, 5.</ls>
+
+L133041  k2='prati-vAdin'  e=3B
+  blocks: F01 F02 F04 F08 F10 F12 F17
+  types : compound
+  body  : <s>prati-˚vAdin</s> ¦ <lex>m.</lex> a defendant, respondent (<s>˚di-tA</s> <lex type="phw">f.</lex>), <ls>Yājñ.</ls>; <ls>Kull.</ls><info phwchild="133041.1"/><info lex="m"/>
+
+L2907  k2='aty-ulvaRa'  e=3
+  blocks: F01
+  types : compound
+  body  : {{Lbody=2906}}
+
+L76005  k2='Cinna—SAsa'  e=3B
+  blocks: F01 F02 F04 F10 F17
+  types : compound
+  body  : <s>Cinna—SAsa</s> ¦ <lex>m.</lex> interrupted or irregular breathing, <ls n="Suśr.">vi</ls>.<info lex="m"/>
+
+L203828  k2='vIra—hotra'  e=3
+  blocks: F01 F02 F04 F10 F12 F17
+  types : compound
+  body  : <s>vIra—hotra</s> ¦ <lex>m. <ab>pl.</ab></lex> <ab>N.</ab> of a people, <ls>MārkP.</ls><info lex="m"/>
+
+L163286  k2='mArIca'  e=1
+  blocks: F01 F02 F04 F10 F15 F17
+  types : adjective-mfn
+  body  : <s>mArIca</s> ¦ <lex>mfn.</lex> belonging or relating to or composed by <s1>Marīci</s1>, <s1>Madhus</s1><info lex="m:f:n"/>
+
+L132886  k2='prati-mi/t'  e=1
+  blocks: F01 F02 F04 F06 F08 F10 F12 F17
+  types : noun-f vedic-accented
+  body  : <s>prati-mi/t</s> ¦ <lex>f.</lex> (√ <s>mi</s>) a prop, stay, support, <ls>AV.</ls><info lex="f"/>
+
+L73906.35  k2='citra/—sena'  e=3B
+  blocks: F01 F02 F10 F12 F17
+  types : compound vedic-accented
+  body  : ¦ (= <s>-gupta</s>) the secretary of a man of rank, <ls>W.</ls><info lex="inh"/>
+
+L103063  k2='nagOkas'  e=3A
+  blocks: F01 F17
+  types : other
+  body  : ¦ any bird.<info lex="inh"/>
+
+L161475  k2='mahiza—mardinI—tantra'  e=4
+  blocks: F01 F02 F04 F10 F12 F15 F17
+  types : noun-n
+  body  : <s>mahiza—mardinI—tantra</s> ¦ <lex>n.</lex> <ab>N.</ab> of a <s1>Tantra</s1>, <ls>ib.</ls><info lex="n"/>
+
+L47559  k2='kARqAnusamaya'  e=3A
+  blocks: F01 F10 F12 F16 F17
+  types : other
+  body  : ¦ on <ls>Nyāyam. v, 2, 1</ls> (<ab>cf.</ab> <s>padA<srs/>rTA<srs/>nusamaya</s>). <info lex="inh"/>
+
+L42951  k2='kanaka—pura'  e=3
+  blocks: F01 F02 F04 F10 F17
+  types : compound
+  body  : <s>kanaka—pura</s> ¦ <lex>n.</lex> <ab>N.</ab> of several towns.<info lex="n"/>
+
+L182828  k2='lIlA—dagDa'  e=3
+  blocks: F01 F02 F04 F10 F12 F17
+  types : compound
+  body  : <s>lIlA—dagDa</s> ¦ <lex>mfn.</lex> burnt or consumed without effort, <ls>Bhartṛ.</ls><info lex="m:f:n"/>
+
+L44871  k2='karRa—pUra'  e=3A
+  blocks: F01 F10 F12 F13 F14 F17
+  types : compound botanical lexicographer-only
+  body  : ¦ <bot>Jonesia Asoka</bot>, <ls>L.</ls><info lex="inh"/>
+
+L172412  k2='yoga—dAna—pratigraha'  e=4
+  blocks: F01 F02 F04 F10 F12 F17
+  types : noun-n
+  body  : <s>yoga—dAna—pratigraha</s> ¦ <lex>n.</lex> a fraudulent gift or acceptance, <ls>Mn. viii, 65.</ls><info lex="n"/>
+
+L165094  k2='mukta'  e=2B
+  blocks: F01 F10 F12 F17
+  types : derived
+  body  : ¦ of a cook, <ls>Rājat.</ls><info lex="inh"/>
+
+L126449  k2='pu/ruza'  e=1A
+  blocks: F01 F10 F12 F17
+  types : continuation vedic-accented
+  body  : ¦ the ‘spirit’ or fragrant exhalation of plants, <ls>RV. x, 51, 8</ls><info lex="inh"/>
+
+L19586  k2='aSIti—BAga'  e=3
+  blocks: F01 F02 F04 F10 F12 F17
+  types : compound
+  body  : <s>aSIti—BAga</s> ¦ <lex>m.</lex> the eightieth part, <ls>Mn. viii, 140.</ls><info lex="m"/>
+
+L222241  k2='SyA/vaka'  e=2B
+  blocks: F01 F02 F04 F10 F12 F17
+  types : derived vedic-accented
+  body  : <s>SyA/vaka</s> ¦ <lex>m.</lex> <ab>N.</ab> of a man, <ls>RV.</ls><info lex="m"/>
+
+L259812  k2='sve/da'  e=2A
+  blocks: F01 F10 F12 F13 F17
+  types : derived vedic-accented lexicographer-only
+  body  : ¦ warmth, heat, <ls>L.</ls><info lex="inh"/>
+
+L58813  k2='kzattf/'  e=1
+  blocks: F01 F02 F06 F08 F10 F17
+  types : vedic-accented
+  body  : <s>kzattf/</s> ¦ See √ <s>kzad</s>.<info hui="a"/>
+
+L182127  k2='lA/Ngala'  e=1B
+  blocks: F01 F10 F12 F17
+  types : vedic-accented
+  body  : ¦ <ab>pl.</ab> <ab>N.</ab> of a school, <ls>SaṃhUp.</ls><info lex="inh"/>
+
+L36326  k2='upa-sta/raRa'  e=2A
+  blocks: F01 F02 F09 F10 F12 F15 F17
+  types : derived vedic-accented
+  body  : ¦ scattering grass (round the <s1>Āhavanīya</s1> and <s1>Gārhapatya</s1> fire, accompanied with the <s1>Mantra</s1> <s>uBAv agnI upa-stfRate</s>) <ab>Comm.</ab> on <ls>TS. i, 6, 7, 2</ls>, &c.<info lex="inh"/>
+
+L140302  k2='prAvfw—kAla—vaha'  e=4
+  blocks: F01 F02 F04 F08 F10 F12 F17
+  types : other
+  body  : <s>prAvfw—kAla—vaha</s> ¦ <lex>mf(<s>A</s>)n.</lex> (a river) flowing only in the rainy season, <ls>MārkP.</ls><info lex="m:f#A:n"/>
+
+L173723  k2='raktotpalABa'  e=4
+  blocks: F01 F04 F10 F12 F13 F17
+  types : adjective-mfn lexicographer-only
+  body  : <s>rakto<srs/>tpa˚lA<srs/>Ba</s> ¦ <lex>mfn.</lex> resembling the red lotus, <ls>L.</ls><info lex="m:f:n"/>
+
+L91925  k2='dAsa/'  e=2A
+  blocks: F01 F10 F12 F17
+  types : derived vedic-accented
+  body  : ¦ one to whom gifts may be made, <ls>W.</ls><info lex="inh"/>
+
+L31802  k2='ut-prekzA'  e=2A
+  blocks: F01 F10 F12 F13 F17
+  types : derived lexicographer-only
+  body  : ¦ observing, <ls>L.</ls><info lex="inh"/>
+
+L20618  k2='a-saMtuzwa'  e=1
+  blocks: F01 F02 F04 F10 F12 F17
+  types : adjective-mfn
+  body  : <s>a-saMtuzwa</s> ¦ <lex>mfn.</lex> discontented, displeased, <ls>Hit.</ls><info lex="m:f:n"/>
+
+L109030  k2='ni-mIlA'  e=3
+  blocks: F01 F02 F04 F10 F12 F17
+  types : compound
+  body  : <s>ni-˚mIlA</s> ¦ <lex>f.</lex> shutting the eyes, <ls>Naiṣ.</ls><info lex="f"/>
+
+L138503  k2='pra-sveda—bindu'  e=3
+  blocks: F01 F02 F04 F08 F10 F12 F17
+  types : compound
+  body  : <s>pra-sveda—bindu</s> ¦ <lex>m.</lex> = <s>-kaRikA</s>, <ls>Caur.</ls><info lex="m"/>
+
+L36800  k2='u/pA-vasu'  e=1
+  blocks: F01 F02 F04 F10 F12 F17
+  types : adjective-mfn vedic-accented
+  body  : <s>u/pA-vasu</s> ¦ <lex>mfn.</lex> bringing near or procuring riches, <ls>RV. v, 56, 6</ls>; <ls n="RV.">ix, 84, 3</ls>; <ls n="RV. ix,">86, 33.</ls><info lex="m:f:n"/>
+
+L111333  k2='nIcocca-vftta'  e=3
+  blocks: F01 F04 F10 F12 F17
+  types : compound
+  body  : <s>nIco<srs/>cca-vftta</s> ¦ <lex>n.</lex> an epicycle, <ls>Col.</ls><info lex="n"/>
+
+L46962  k2='kAkA'  e=1B
+  blocks: F01 F10 F12 F13 F14 F17
+  types : botanical lexicographer-only
+  body  : ¦ <bot>Ficus oppositifolia</bot>, <ls>L.</ls><info lex="inh"/>
+
+L182929  k2='luRwA'  e=2
+  blocks: F01 F02 F04 F10 F12 F17
+  types : derived
+  body  : <s>luRwA</s> ¦ <lex>f.</lex> rolling, <ls>MW.</ls><info lex="f"/>
+
+L132934.5  k2='prati-yogi—tA-vAda'  e=4
+  blocks: F01 F02 F04 F10 F17
+  types : noun-m
+  body  : <s>prati-˚yogi—tA-vAda</s> ¦ <lex>m.</lex> <ab>N.</ab> of <ab>wk.</ab><info lex="m"/>
+
+L219153  k2='Sukliman'  e=2
+  blocks: F01 F02 F04 F10 F12 F17
+  types : derived
+  body  : <s>Sukliman</s> ¦ <lex>m.</lex> whiteness, white colour, <ls>Hcar.</ls><info lex="m"/>
+
+L175317  k2='ravaRa'  e=2B
+  blocks: F01 F02 F04 F10 F12 F13 F17
+  types : derived lexicographer-only
+  body  : <s>ravaRa</s> ¦ <lex>m.</lex> a sound, <ls>L.</ls><info lex="m"/>
+
+L77491  k2='jaya—stamBa'  e=3A
+  blocks: F01 F10 F12 F17
+  types : compound
+  body  : ¦ a trophy, <ls>W.</ls><info lex="inh"/>
+
+L177896  k2='rAhavi'  e=1
+  blocks: F01 F02 F08 F10 F17
+  types : other
+  body  : <s>rAhavi</s> ¦ <s>˚vIya</s>. See <pcol>p. 880, col. 1</pcol>.<info hui="a"/>
+
+L170589  k2='yamunA—tIrTa'  e=3
+  blocks: F01 F02 F04 F10 F15 F17
+  types : compound
+  body  : <s>yamunA—tIrTa</s> ¦ <lex>n.</lex> <ab>N.</ab> of a <s1>Tīrtha</s1><info lex="n"/>
+
+L100307  k2='Darma—saMgIti'  e=3
+  blocks: F01 F02 F04 F10 F17
+  types : compound
+  body  : <s>Darma—saMgIti</s> ¦ <lex>f.</lex> ‘discussion about the <ab n="law">l˚</ab>’, a <ns>Buddhist</ns> council<info lex="f"/>
+
+L127651  k2='pUrRa—koSA'  e=3
+  blocks: F01 F02 F04 F10 F12 F17
+  types : compound
+  body  : <s>pUrRa—koSA</s> ¦ <lex>f.</lex> ‘having a full pod’, a species of plant, <ls>Var.</ls><info lex="f"/>
+
+L32698  k2='ud-Irya'  e=2
+  blocks: F01 F02 F03 F10
+  types : derived
+  body  : <hom>2.</hom> <s>ud-Irya</s> ¦ <ab>ind.p.</ab> having uttered &c.
+
+L81650.2  k2='taNka'  e=2A
+  blocks: F01 F02 F10 F12 F13 F17
+  types : derived lexicographer-only
+  body  : ¦ <ab>v.l.</ab> for <s>waNka</s> (a chisel), <ls>L.</ls><info lex="inh"/>
+
+L258758  k2='sv-acCa'  e=1A
+  blocks: F01 F02 F07 F09 F10 F12 F13 F17
+  types : continuation etymological-ie lexicographer-only
+  body  : ¦ healthy, sound, convalescent (in this sense perhaps <lang>Prākṛt</lang> for <s>svasTa</s>), <ls>L.</ls><info lex="inh"/>
+
+L116844  k2='parAYja'  e=1A
+  blocks: F01 F02 F10 F16 F17
+  types : continuation
+  body  : ¦ the blade of a sword or knife (<ab>cf.</ab> <s>paraYja</s>). <info lex="inh"/>
+
+L77867.1  k2='jala—taraMgiRI'  e=3
+  blocks: F01 F02 F04 F10 F12 F17
+  types : compound
+  body  : <s>jala—taraMgiRI</s> ¦ <lex>f.</lex> a series of cups filled with water in varying quantities and played on as a musical instrument by striking them successively with a wand or light hammer, <ls>MW.</ls><info n="sup"/><info lex="f"/>
+
+L223638  k2='Sruti—sUkti-mAlA'  e=3
+  blocks: F01 F04 F10 F17
+  types : compound
+  body  : <s>Sruti—sU<srs/>kti-mAlA</s> ¦ <lex>f.</lex> <ab>N.</ab> of <ab>wk.</ab><info lex="f"/>
+
+L182590  k2='liNgaka'  e=2
+  blocks: F01 F02 F04 F08 F10 F12 F17
+  types : derived
+  body  : <s>liNgaka</s> ¦ <lex>mfn.</lex> (<ab>ifc.</ab>) = <s>liNga</s>, <ls>Sarvad.</ls>; <ls>Hcat.</ls><info lex="m:f:n"/>
+
+L129095  k2='pENgalya'  e=2
+  blocks: F01 F02 F04 F06 F08 F10 F17
+  types : derived
+  body  : <s>pENgalya</s> ¦ <lex>m.</lex> <ab>patr.</ab> <ab>fr.</ab> <s>piNgala</s>, <ab>g.</ab> <s>gargA<srs/>di</s><info lex="m"/>
+
+L105130  k2='nAga—vAsa'  e=3
+  blocks: F01 F02 F04 F10 F12 F17
+  types : compound
+  body  : <s>nAga—vAsa</s> ¦ <lex>m.</lex> ‘abode of snakes’, <ab>N.</ab> of a lake supposed to have been formed by the valley of Nepal, <ls>Buddh.</ls><info lex="m"/>
+
+L155623  k2='madira—nayana'  e=3
+  blocks: F01 F02 F04 F08 F10 F12 F16 F17
+  types : compound
+  body  : <s>madira—nayana</s> ¦ <lex>mf(<s>A</s>)n.</lex> <ab>id.</ab>, <ls>Kautukas.</ls><info lex="m:f#A:n"/>
+
+L25404  k2='Ama/'  e=1B
+  blocks: F01 F02 F10 F12 F15 F17
+  types : vedic-accented
+  body  : ¦ of a son of <s1>Ghṛta-pṛṣṭha</s1>, <ls>BhP. v, 20, 21</ls><info lex="inh"/>
+
+L109539.1  k2='nir-GozAkzara-vimukta'  e=3
+  blocks: F01 F02 F04 F10 F12 F13 F15 F17
+  types : compound lexicographer-only
+  body  : <s>nir-Go˚zA<srs/>kzara-vimukta</s> ¦ <lex>m.</lex> <ab>N.</ab> of a <s1>Samādhi</s1>, <ls>L.</ls><info lex="m"/><info hui="b"/>
+
+L14356  k2='a/-moGa'  e=1B
+  blocks: F01 F02 F10 F12 F15 F17
+  types : vedic-accented
+  body  : ¦ of a minister of an <s1>Asura</s1> king at war with <s1>Kārttikeya</s1>, <ls>SkandaP.</ls><info lex="inh"/>
+
+L151217  k2='Buj'  e=1
+  blocks: F01 F02 F03 F05 F08 F09 F10 F12 F16 F17
+  types : root
+  body  : <hom>1.</hom> <s>Buj</s> ¦ <ab>cl.</ab> 6. <ab>P.</ab> (<ls>Dhātup. xxviii, 124</ls>) <s>Buja/ti</s> (<ab>pf.</ab> <s>buBoja</s> <ab>aor.</ab> <s>aBOkzIt</s> <ab>fut.</ab> <s>Bokzyati</s> and <s>˚ktA</s> <ab>Gr.</ab>; really only <ab>pr.</ab> stem <ab>aor.</ab> <s>-a/buBojIs</s> and <ab>ind.p.</ab> <s>-Bujya</s> after <s>nir</s> and <s>pari</s>; <ab>cf.</ab> also <s>Bujam</s> in <s>BujaM-ga</s> and <s>BujaMgama</s>),
+<div n="to"/>to bend, curve;
+<div n="vp"/> (?) to sweep (<ab>cf.</ab> <hom>1.</hom> <s>Buji/</s>), <ls>RV.</ls> :
+<div n="vp"/><ab>Pass.</ab> <s>Bujyate</s>, to be bent down or disheartened, <ls>Hit. iv, 28.</ls> <info westergaard="Bujo,28.124,06.0125"/><info whitneyroots="Buj1,112"/><info verb="genuineroot" cp="6P"/>
+
+L193416  k2='vi—yoni—janman'  e=4B
+  blocks: F01 F02 F04 F10 F12 F17
+  types : adjective-mfn
+  body  : <s>vi—yoni—janman</s> ¦ <lex>mfn.</lex> having an animal for mother, <ls>MārkP.</ls><info lex="m:f:n"/>
+
+L128012  k2='pUrva—pUrRa-mAsI'  e=3
+  blocks: F01 F02 F04 F10 F12 F17
+  types : compound
+  body  : <s>pUrva—pUrRa-mAsI</s> ¦ <lex>f.</lex> the first or real day of full moon, <ls>Jyot.</ls><info lex="f"/>
+
+L30213  k2='ucita'  e=2A
+  blocks: F01 F10 F12 F17
+  types : derived
+  body  : ¦ acceptable, fit or right to be taken, <ls>R.</ls>; <ls>Pañcat.</ls>; <ls>Hit.</ls>; <ls>Suśr.</ls> &c.<info lex="inh"/>
+
+L101039  k2='DAra'  e=1B
+  blocks: F01 F02 F04 F10 F12 F17
+  types : adjective-mfn
+  body  : <s>DAra</s> ¦ <lex>mfn.</lex> coming down in a stream or as rain, <ls>Suśr.</ls>; <ls>Bhpr.</ls><info lex="m:f:n"/>
+
+L150825  k2='Binna—tva'  e=3
+  blocks: F01 F02 F04 F10 F12 F17
+  types : compound
+  body  : <s>Binna—tva</s> ¦ <lex>n.</lex> the state of being different from (<ab>comp.</ab>), <ls>Sāh.</ls><info lex="n"/>
+
+L101852  k2='Dfta—rAjan'  e=3
+  blocks: F01 F02 F04 F08 F10 F12 F13 F17
+  types : compound lexicographer-only
+  body  : <s>Dfta—rAjan</s> ¦ <lex>m.</lex> <ab>N.</ab> of a man, <ls>L.</ls> (see <s>DArta-rAjYa</s>). <info lex="m"/>
+
+L241413  k2='sAttvika—brahma-vidyA-vilAsa'  e=3
+  blocks: F01 F02 F04 F10 F17
+  types : compound
+  body  : <s>sAttvika—brahma-vidyA-vilAsa</s> ¦ <lex>m.</lex> <ab>N.</ab> of <ab>wk.</ab><info lex="m"/>
+
+L190647  k2='vAtsIya'  e=2
+  blocks: F01 F02 F04 F10 F12 F17
+  types : derived
+  body  : <s>vAtsIya</s> ¦ <lex>m. <ab>pl.</ab></lex> <ab>N.</ab> of a school, <ls>Pāṇ. iv, 1, 89</ls>, <ab>Sch.</ab><info lex="m"/>
+
+L221951  k2='Scoti'  e=2
+  blocks: F01 F02 F04 F10 F12 F13 F16 F17
+  types : derived lexicographer-only
+  body  : <s>Scoti</s> ¦ <lex>f.</lex> <ab>id.</ab>, <ls>L.</ls><info lex="f"/>
+
+L67729  k2='go—sattra/'  e=3
+  blocks: F01 F02 F04 F10 F12 F17
+  types : compound vedic-accented
+  body  : <s>go—sattra/</s> ¦ <lex>n.</lex> a particular sacrifice, <ls>TS. vii, 5, 1, 1.</ls><info lex="n"/>
+
+L126610  k2='puruzI-BU'  e=2
+  blocks: F01 F02 F06 F10 F12 F17
+  types : derived
+  body  : <s>puruzI-√ BU</s> ¦ to become a man, <ls>R.</ls>; <ls>Kathās.</ls><info verb="gati" cp="" parse="puruzI+BU"/>
+
+L66201  k2='gulaYca-kanda'  e=1
+  blocks: F01 F02 F08 F10 F12 F13
+  types : lexicographer-only
+  body  : <s>gulaYca-kanda</s> ¦ = <s>˚lucCa-k˚</s>, <ls>L.</ls>
+
+L117723  k2='pari-dAyin'  e=3
+  blocks: F01 F02 F04 F10 F12 F13 F17
+  types : compound lexicographer-only
+  body  : <s>pari-dAyin</s> ¦ <lex>m.</lex> a father (or another relation) who marries his daughter or ward to a man whose elder brother is not yet married, <ls>L.</ls><info lex="m"/>
+
+L261157  k2='hari—lAla'  e=3
+  blocks: F01 F02 F04 F10 F12 F17
+  types : compound
+  body  : <s>hari—lAla</s> ¦ <lex>m.</lex> <ab>N.</ab> of authors, <ls>Cat.</ls><info lex="m"/>
+
+L125623  k2='putrikA—suta'  e=3
+  blocks: F01 F02 F04 F10 F12 F17
+  types : compound
+  body  : <s>putrikA—suta</s> ¦ <lex>m.</lex> a <ab n="daughter">d˚</ab>'s son, a grandson, <ls>W.</ls><info lex="m"/>
+
+L206694  k2='vEKAnasa—tantra'  e=3
+  blocks: F01 F02 F04 F10 F16 F17
+  types : compound
+  body  : <s>vEKAnasa—tantra</s> ¦ <lex>n.</lex> <ab>N.</ab> of <ab>wk.</ab> (<ab>cf.</ab> above)<info lex="n"/>
+
+L192550  k2='vAsudeva—maya'  e=3
+  blocks: F01 F02 F04 F08 F10 F12 F15 F17
+  types : compound
+  body  : <s>vAsudeva—maya</s> ¦ <lex>mf(<s>I</s>)n.</lex> consisting of <s1>Kṛṣṇa</s1>, representing him, <ls>AgP.</ls><info lex="m:f#I:n"/>
+
+L173903  k2='rajata—dAna-prayoga'  e=3
+  blocks: F01 F02 F04 F10 F17
+  types : compound
+  body  : <s>rajata—dAna-prayoga</s> ¦ <lex>m.</lex> <ab>N.</ab> of <ab>wk.</ab><info lex="m"/>
+
+L104987  k2='nAga—tamanI'  e=3
+  blocks: F01 F02 F04 F08 F10 F12 F13 F17
+  types : compound lexicographer-only
+  body  : <s>nAga—tamanI</s> ¦ <lex>f.</lex> = <s>-yazwi</s>, <ls>L.</ls><info lex="f"/>
+
+L65551  k2='guRa—grAma'  e=3
+  blocks: F01 F02 F04 F10 F12 F17
+  types : compound
+  body  : <s>guRa—grAma</s> ¦ <lex>m.</lex> an assemblage of virtues or merits, <ls>Bhartṛ. iii, 23</ls>; <ls>Gīt. ii, 10.</ls><info lex="m"/>
+
+L246499  k2='su—dat'  e=3
+  blocks: F01 F02 F04 F10 F12 F17
+  types : compound
+  body  : <s>su—dat</s> ¦ <lex>m.</lex> a handsome tooth, <ls>BhP.</ls><info lex="m"/>
+
+L238727.3  k2='sarva—vIra—BawwAraka'  e=4
+  blocks: F01 F02 F04 F10 F12 F17
+  types : noun-m
+  body  : <s>sarva—vIra—BawwAraka</s> ¦ <lex>m.</lex> <ab>N.</ab> of an author, <ls>Cat.</ls><info lex="m"/>
+
+L42077  k2='kawu—cCada'  e=3
+  blocks: F01 F02 F04 F10 F12 F13 F14 F17
+  types : compound botanical lexicographer-only
+  body  : <s>kawu—cCada</s> ¦ <lex>m.</lex> <bot>Tabernaemontana Coronaria</bot>, <ls>L.</ls><info lex="m"/>
+

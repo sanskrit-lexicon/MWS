@@ -10,7 +10,10 @@ The goal is not to undo decisions but to make their weaknesses visible. If a dou
 
 ## Substantive doubts about the analytical claims
 
-### D1 — Is "block economy" a genuine principle or print-economic artifact? · *important*
+### D1 — Is "block economy" a genuine principle or print-economic artifact? · *important* → **TESTED 2026-05-24**
+
+> **Result ([analysis/CROSS_DICT.md](analysis/CROSS_DICT.md)):** the doubt is borne out. The block-economy *shape* (small modal kernel + long tail) is **general to all eight CDSL dictionaries**, not MW-specific (modal blocks/entry: MW 5, PWG 4, PWK 3, AP 2, WIL 3, Benfey 3). PWG is ~4× denser per entry. PAPER.md §4 and §9.3 now soften the claim to "characteristic of single-volume scholarly dictionaries." Remaining: full per-type profile matrix per dict (needs a dict-specific detector).
+
 
 Our [paper](PAPER.md#4-the-block-economy-thesis) names "block economy" as MW's defining structural choice: a 6-block kernel reused across 286,561 entries with type-driven enrichment. But this could be just a **side-effect of being a single-volume print dictionary** — every printed dictionary economises blocks to fit pages. PWK (also single-volume, also condensed) might exhibit identical economy without anyone calling it a principle.
 
@@ -18,7 +21,10 @@ Our [paper](PAPER.md#4-the-block-economy-thesis) names "block economy" as MW's d
 
 **Fix:** add Phase-4 cross-dict block matrices and compare kernels. Currently asserted on MW data alone.
 
-### D2 — The `<ls>L.</ls>` "MW innovation" claim — under-checked · *important*
+### D2 — The `<ls>L.</ls>` "MW innovation" claim — under-checked · *important* → **STRENGTHENED 2026-05-24**
+
+> **Result ([analysis/LS_HEDGE_CHECK.md](analysis/LS_HEDGE_CHECK.md)):** MW has 40,212 `L.` hedges; **PWG (of 570,817 `<ls>` tags), PWK, WIL, SKD, VCP have 0; AP has 1**. New datapoint: **Benfey 1866** has a full citation apparatus (14,708 `<ls>` tags) but **0** generic hedges — an earlier English-Sanskrit dictionary without the device, which strengthens the innovation claim. Still unmet: **Cappeller 1891 (CAE)** is not in the corpus, and the WIL/Benfey *print prefaces* need a human read for a parenthetical "(L.)" convention a tag-count cannot see.
+
 
 Our [Lineage section](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) and [PAPER.md Appendix C](PAPER.md#appendix-c--the-hausmann-wiegand-comment-class-reading-condensed) claim MW *invented* the generic L.-hedge. The evidence: PWG has 0 instances, PWK has 0 instances (we just verified), AP has 1 instance.
 
@@ -79,7 +85,10 @@ Then *orthogonal* properties: Vedic-accented (yes/no), lexicographer-hedged (yes
 
 **Fix:** in the grounded paper §6, distinguish "primary article types" from "orthogonal properties." The current confusion conflates them.
 
-### D6 — Block detection is regex-based and approximate · *important*
+### D6 — Block detection is regex-based and approximate · *important* → **AUDITED 2026-05-24**
+
+> **Result ([analysis/SPOTCHECK.md](analysis/SPOTCHECK.md)):** detector reproduces the 286,561 count exactly. Confirmed and quantified: **F08 over-counts** (36.5% of its hits are compound `<e>3*` members, not inflected forms); **F09 over-counts** (66.7% of hits outside any root/etymological context). Downgraded: the **F11 under-count is negligible** (+0.02 pts under a broader pattern). New: the §4 "display headword 99%" was the structural-key rate; the *rendered* `<s>` rate is **76%** (corrected). A 100-record labelled sample (`analysis/SPOTCHECK_SAMPLE.txt`, seed 42) awaits per-entry Sanskritist review.
+
 
 The `mw_block_matrix.py` script uses regular expressions to detect 18 blocks. Several are heuristic:
 - F09 (editorial commentary): detected by parenthetical with substantial content — over-counts when the gloss happens to use parentheses.
@@ -91,7 +100,10 @@ The `mw_block_matrix.py` script uses regular expressions to detect 18 blocks. Se
 
 **Fix:** add a "Methodological limitations" section to the working notes. Document the regexes and known false-positive/false-negative cases.
 
-### D7 — The block-by-article-type matrix has *no* statistical significance test · *nice-to-resolve*
+### D7 — The block-by-article-type matrix has *no* statistical significance test · *nice-to-resolve* → **TESTED 2026-05-24**
+
+> **Result ([analysis/SIGNIFICANCE.md](analysis/SIGNIFICANCE.md)):** every headline contrast is significant at α = 0.05 (chi-square / Fisher; Wilson 95% CIs reported). The specific small difference this doubt named — noun_m F08 (21.6%) vs noun_f F08 (22.6%) — is **not significant (p = 0.07)**, confirming the concern; gender-level F08 differences are dropped as findings. Biographical F13 has a wide CI [59.6, 69.6] (N = 346) now stated in PAPER.md §9.2.
+
 
 We report percentages like "F09 commentary at 78.1% in roots vs ~5% baseline." But:
 - Roots are only 750 entries; small N means high variance.
