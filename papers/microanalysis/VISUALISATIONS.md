@@ -669,6 +669,81 @@ supplementary/
 | **18** | Font | Noto Sans (Google universal; supports IAST + Cyrillic) |
 | **19** | Figure license | CC-BY-SA-4.0 (inherits from MWS digital edition) |
 | **20** | Microsite navigation | Hybrid: paper tours + standalone tools |
+| **21** | Heatmap layout | Blocks on Y, types on X with horizontal short-code labels |
+| **22** | Sankey structure | Three-stage: PWG `<ls>` → named-kosha works → MW `L.` |
+| **23** | Citation style | Hybrid: Harvard for papers + DOI links for online resources |
+| **24** | Microsite name | **csl-atlas** — "Atlas of the Cologne Digital Sanskrit Lexicons" |
+
+## Implementation decisions — round 6 (2026-05-23)
+
+### Decision 21 — Heatmap: blocks on Y, types on X, short codes
+
+The 18 × 14 matrix lays out as:
+- **Y-axis (vertical, 18 rows):** the formal blocks F01–F18, full names (room for "F12 Source citation" etc.).
+- **X-axis (horizontal, 14 columns):** article types as **short codes** rendered horizontally — no rotation needed.
+
+Short-code mapping for X-axis (to be confirmed):
+| Article type | Short code |
+|---|:---:|
+| root | `root` |
+| noun_m | `n.m` |
+| noun_f | `n.f` |
+| noun_n | `n.n` |
+| noun_mn | `n.mn` |
+| adjective_mfn | `adj` |
+| indeclinable | `ind` |
+| compound | `comp` |
+| derived | `deriv` |
+| continuation | `cont` |
+| lexicographer_only | `lex.` |
+| etymological_ie | `IE.et` |
+| botanical | `bot` |
+| biographical | `bio` |
+| vedic_accented | `V.acc` |
+| other | `oth` |
+
+The short codes are defined once in `locales/en.json` and `locales/ru.json` (with Russian variants), and a key block in each figure caption.
+
+### Decision 22 — Sankey: three-stage flow
+
+Stage 1 (leftmost) — **PWG `<ls>` indicators** (6 nodes):
+- `H.` 17,337 cites
+- `AK.` 14,473
+- `MED.` 13,055
+- `H. an.` 9,771
+- `TRIK.` 8,365
+- `HALĀY.` 5,114
+
+Stage 2 (middle) — **the actual kosha works** (6 nodes, with IAST italic):
+- *Abhidhānacintāmaṇi* (Hemacandra)
+- *Amarakośa*
+- *Medinīkośa*
+- *Anekārthasaṃgraha* (Hemacandra)
+- *Trikāṇḍaśeṣa*
+- *Abhidhānaratnamālā* (Halāyudha)
+
+Stage 3 (rightmost) — **MW `<ls>L.</ls>`** (1 node, bold): 40,213 cites
+
+All six PWG flows merge in stage 2 (named work) and then *collapse* into the single MW `L.` node. Visually: six narrow ribbons on the left → six labelled intermediate columns → six ribbons re-merging into one fat ribbon on the right.
+
+Plus, where data is available, the four CDSL koshas ([ARMH](https://github.com/sanskrit-lexicon/armh), [ABCH](https://github.com/sanskrit-lexicon/abch), [ACPH](https://github.com/sanskrit-lexicon/acph), [ACSJ](https://github.com/sanskrit-lexicon/acsj)) are annotated against their corresponding stage-2 nodes (ARMH ↔ Halāyudha, ABCH ↔ Hemacandra's Abhidhānacintāmaṇi).
+
+This makes the Sankey **both quantitative and bibliographic** — a single figure that shows the citation flow AND identifies the named koshas with their CDSL repos.
+
+### Decision 23 — Citation style: Harvard + inline online DOIs
+
+Print references in the four framework papers use **author-date Harvard** for inline citations and an alphabetised reference list at paper end. Online resources (GitHub repos, archive.org scans, Wikipedia, CDSL web display) get **inline Markdown link** in the running text, not a separate reference-list entry, since URLs would clutter the references and DOI/URL provides direct access.
+
+Reference list entries get DOIs where they exist (e.g. Wiegand 1989 has a DOI in the HSK reprint).
+
+### Decision 24 — Microsite name: **csl-atlas**
+
+Repo: `csl-atlas` under sanskrit-lexicon org. Full name: **"Atlas of the Cologne Digital Sanskrit Lexicons."** Tagline alternatives (TBD):
+- "A comparative microstructural atlas of the CDSL corpus"
+- "Mapping nine Sanskrit dictionaries from microstructure to lineage"
+- "An interactive companion to the CDSL"
+
+The "atlas" framing signals broader-than-MW Phase-4 ambition: the atlas covers MW + PWG + AP + WIL + SKD + ARMH + ABCH + ACPH + ACSJ (9 dicts). Each dictionary gets a chapter; each Tier-1 figure has a *per-dictionary* and a *comparative* variant.
 
 ## Implementation decisions — round 5 (2026-05-23)
 
