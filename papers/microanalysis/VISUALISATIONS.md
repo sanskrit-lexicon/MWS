@@ -673,6 +673,66 @@ supplementary/
 | **22** | Sankey structure | Three-stage: PWG `<ls>` → named-kosha works → MW `L.` |
 | **23** | Citation style | Hybrid: Harvard for papers + DOI links for online resources |
 | **24** | Microsite name | **csl-atlas** — "Atlas of the Cologne Digital Sanskrit Lexicons" |
+| **25** | Default locale | English canonical (`/` = EN, `/ru/` = Russian) |
+| **26** | Footer style | Small grey 7pt italic, bottom-right corner |
+| **27** | CI/CD | GitHub Actions on push to main |
+| **28** | Figure versioning | Git short SHA + build date in footer |
+
+## Implementation decisions — round 7 (2026-05-23)
+
+### Decision 25 — Default locale: English canonical
+
+URL structure:
+- `csl-atlas` root (`https://sanskrit-lexicon.github.io/csl-atlas/`) = English content
+- `/ru/` prefix for Russian variants
+- Language switcher in nav: `EN | RU` toggle, persists in localStorage
+- `hreflang` tags in `<head>` for SEO
+
+Sample paths:
+```
+/                        landing (EN)
+/tools/heatmap           18×14 matrix explorer (EN)
+/tools/lineage-sankey    PWG→MW Sankey (EN)
+/papers/wiegand          Wiegand paper page (EN)
+/ru/                     landing (RU)
+/ru/tools/heatmap        18×14 matrix explorer (RU)
+/ru/papers/wiegand       (RU translation if available; else EN with banner)
+```
+
+### Decision 26 — Footer style: 7pt grey, bottom-right
+
+Exact footer text format:
+```
+Source: CDSL mw.txt 2026-05-23 · CC-BY-SA-4.0 · build {SHA}
+```
+
+- Font: Noto Sans Italic, 7pt
+- Colour: `--mw-color-muted` (#666666 in the default palette)
+- Position: bottom-right corner of every figure (SVG group with `text-anchor="end"` at `(width-10, height-10)`)
+- For Mermaid diagrams: appended as a comment below the diagram block (Mermaid doesn't allow arbitrary text positioning)
+
+### Decision 27 — CI/CD: GitHub Actions on push to main
+
+`.github/workflows/build-and-deploy.yml` in `csl-atlas` repo:
+1. Trigger on push to `main`
+2. Set up Node + npm
+3. Run `npm ci && npm run build`
+4. Deploy `dist/` to GitHub Pages via `actions/deploy-pages`
+
+A separate workflow handles data refreshes:
+- `data-refresh.yml` — manual trigger only (or cron monthly)
+- Re-downloads mw.txt, re-runs `mw_block_matrix.py`, regenerates JSON data files in `data/`, commits to main; the regular build-and-deploy then picks it up.
+
+### Decision 28 — Figure versioning: SHA + date in footer
+
+The footer text incorporates both:
+```
+Source: CDSL mw.txt 2026-05-23 · CC-BY-SA-4.0 · build 2e6b23a
+```
+
+The SHA is the **commit SHA at which the figure was last rendered** (injected at build time via the GitHub Action). A reviewer can `git show 2e6b23a` to see the exact code that produced the figure. Date is the human-readable companion.
+
+For Mermaid diagrams (which can't carry a build SHA from the GitHub Action), the SHA is omitted; only the date appears.
 
 ## Implementation decisions — round 6 (2026-05-23)
 
