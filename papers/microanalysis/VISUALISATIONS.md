@@ -599,26 +599,72 @@ Edge cases flagged with `(?)` in `locales/ru.json` for [@gasyoun](https://github
 
 ---
 
-## All twelve decisions in one table
+## Implementation decisions — round 4 (2026-05-23)
 
-For reference at the head of the build phase:
+### Decision 13 — Legend strategy: hover + brief inset + caption-key
+
+- **Interactive microsite:** legend appears on hover; full key accessible via toggle.
+- **Static SVG figures:** brief inset (≤ 5 entries) with note "see full key in caption."
+- **Caption:** carries the complete colour key as a structured legend block.
+
+Lets static figures keep plot-space while remaining self-explanatory; interactive variant provides full richness.
+
+### Decision 14 — Accessibility: triple coverage
+
+Every figure carries:
+
+1. **Short `alt` text** (~100 characters) — chart type + the single key takeaway. For screen readers, first contact.
+2. **Long SVG `<desc>` element** — full description (~300–500 chars) embedded inside the SVG. Screen readers can navigate inside the figure.
+3. **Long caption** — printed text alongside the figure with the full narrative + colour key + data-source citation.
+
+Aligns with the [W3C SVG accessibility spec](https://www.w3.org/TR/SVG2/struct.html#DescriptionAndTitleElements) and IJL's standard accessibility checklist.
+
+### Decision 15 — Figure numbering: per-paper continuous
+
+Each paper has its own Fig 1, Fig 2, Fig 3, … (reset per paper). Cross-paper references use the form "Fig 2 of [paper-wiegand.md](paper-wiegand.md)." This is the standard journal convention; reviewers will not be surprised.
+
+A separate **stable figure-ID manifest** (`papers/microanalysis/figures/manifest.json`) maps each figure's slug → its paper-local number(s). This survives reviewer-driven renumbering.
+
+### Decision 16 — Supplementary materials: self-contained ZIP
+
+The IJL submission includes a single ZIP archive `mw-microanalysis-supplementary.zip` containing:
+
+```
+supplementary/
+  README.md                   <-- entry point
+  papers/                     <-- the 4 framework papers (PDF + markdown source)
+  data/                       <-- JSON dumps of the block matrix, citation stats, etc.
+  figures/                    <-- all static SVG figures + PNG fallbacks
+  scripts/                    <-- Python reproducibility code: mw_block_matrix.py,
+                                   build_palette.py, render_heatmap.py, etc.
+  microsite-static-export/    <-- offline-renderable HTML export of the live microsite
+  LICENSE                     <-- CC-BY-SA-4.0 (matching the MWS digital edition)
+```
+
+**No external dependencies.** A reviewer with the ZIP, Python 3, and a modern browser can reproduce every figure and explore every visualisation offline. Survives URL rot, microsite outages, and post-submission infrastructure changes.
+
+---
+
+## All sixteen decisions in one table
 
 | # | Decision | Choice |
 |--:|---|---|
 | 1 | Colour palette consistency | Shared via CSS across 4 papers + microsite |
-| 2 | Static vs interactive | Both — static SVG for paper, interactive microsite |
-| 3 | Bilingual labels | English + Russian (Sanskrit is meta-level) |
-| 4 | Cross-dict normalisation | Multi-strategy; each figure labels its normalisation |
-| 5 | Author attribution | Cite "CDSL `mw.txt` 2026-05-23" |
-| 6 | Sanskrit-in-Russian | IAST in italics (no Cyrillic, no Devanagari) |
-| 7 | Microsite hosting | New repo `csl-microsite` (Phase-4-ready) |
-| 8 | Mermaid i18n | One file per locale (`timeline-en.md` + `timeline-ru.md`) |
-| 9 | CSS palette structure | JSON-first design tokens; build script generates downstream artifacts |
+| 2 | Static vs interactive | Both |
+| 3 | Bilingual labels | English + Russian |
+| 4 | Cross-dict normalisation | Multi-strategy; per-figure caption |
+| 5 | Author attribution | "CDSL `mw.txt` 2026-05-23" |
+| 6 | Sanskrit-in-Russian | IAST in italics |
+| 7 | Microsite hosting | New repo `csl-microsite` |
+| 8 | Mermaid i18n | One file per locale |
+| 9 | CSS palette structure | JSON-first design tokens |
 | 10 | Microsite stack | Observable Framework |
-| 11 | Russian translations | Bootstrap-and-correct workflow |
+| 11 | Russian translations | Bootstrap-and-correct |
 | 12 | Build order | Foundation → heatmap → treemap → Sankey → Mermaid |
-
-The build proceeds in the next commits.
+| **13** | Legends | Hover (interactive) + brief inset (static) + caption key |
+| **14** | Accessibility | Short alt + long `<desc>` + long caption (triple) |
+| **15** | Figure numbering | Per-paper continuous + stable-slug manifest |
+| **16** | Supplementary materials | Self-contained ZIP (no external deps) |
 
 ---
 
