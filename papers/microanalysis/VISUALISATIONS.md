@@ -545,9 +545,80 @@ The **colour-blind-safe** flag is important: at least one downstream variant of 
 
 ---
 
-## Implementation decisions — round 3
+## Implementation decisions — round 3 (2026-05-23)
 
-Three follow-up questions remain before any figure can be built. See the next message for the explicit AskUserQuestion call.
+### Decision 10 — Microsite stack: Observable Framework
+
+The interactive `csl-microsite` is built with [**Observable Framework**](https://observablehq.com/framework). Rationale:
+- Built-in i18n routing (one route per locale → matches Decision 8's per-locale file strategy).
+- Reactive data + D3 + Markdown pages, all out of the box.
+- Static-site output (HTML/JS) deployable to GitHub Pages.
+- First-class support for declarative data files (CSV/JSON) → matches our JSON-data architecture.
+- Polished defaults; research-microsite aesthetic.
+
+Setup will live in the new `csl-microsite` repo (Decision 7).
+
+### Decision 11 — Russian translations: bootstrap-and-correct
+
+Russian labels are produced by **bootstrap-from-academic-Russian-indological-terminology**, then reviewed by [@gasyoun](https://github.com/gasyoun). The terminology base draws on standard Russian indological references: Andrey Zaliznyak's grammatical terminology, established conventions from *Индоевропейское языкознание*, *Petersburg Indological Studies*, the Zograf/Roerich Readings. Sample bootstrap mapping (subject to your review):
+
+| English | Russian (bootstrap) | Confidence |
+|---|---|---|
+| Verbal root | глагольный корень | high |
+| Masculine noun | существительное мужского рода | high |
+| Feminine noun | существительное женского рода | high |
+| Neuter noun | существительное среднего рода | high |
+| Adjective (mfn.) | прилагательное (mfn.) | high |
+| Indeclinable | неизменяемое слово | high |
+| Compound | сложное слово / композит | medium |
+| Derived form | производное / дериват | high |
+| Continuation sense | продолжение значения | medium |
+| Lexicographer-only | лексикограф-only | low (calque; user may prefer ‹только в индийских кошах›) |
+| IE-etymological | индоевропейское этимологическое | high |
+| Botanical | ботанический | high |
+| Biographical | биографический / именной | medium |
+| Vedic accented | ведийское с ударением | medium |
+| Block | блок | high |
+| Slot | позиция / слот | medium |
+| Profile | профиль | high |
+| Hedge | ограничитель | medium |
+| Infrastructure | инфраструктура | high |
+
+Edge cases flagged with `(?)` in `locales/ru.json` for [@gasyoun](https://github.com/gasyoun)'s correction.
+
+### Decision 12 — Build order: foundation → 4 Tier-1 figures in dependency order
+
+1. **Foundation** — `palette-tokens.json` + `build_palette.py` + `locales/{en,ru}.json` + data JSON exports
+2. **Heatmap** (depends on tokens + locales)
+3. **Treemap** (depends on tokens + locales)
+4. **Sankey** (depends on data prep — kosha collapse data)
+5. **Mermaid timeline** (zero new dependencies)
+6. README updates + commit
+
+**Total target effort: 1–2 hours.**
+
+---
+
+## All twelve decisions in one table
+
+For reference at the head of the build phase:
+
+| # | Decision | Choice |
+|--:|---|---|
+| 1 | Colour palette consistency | Shared via CSS across 4 papers + microsite |
+| 2 | Static vs interactive | Both — static SVG for paper, interactive microsite |
+| 3 | Bilingual labels | English + Russian (Sanskrit is meta-level) |
+| 4 | Cross-dict normalisation | Multi-strategy; each figure labels its normalisation |
+| 5 | Author attribution | Cite "CDSL `mw.txt` 2026-05-23" |
+| 6 | Sanskrit-in-Russian | IAST in italics (no Cyrillic, no Devanagari) |
+| 7 | Microsite hosting | New repo `csl-microsite` (Phase-4-ready) |
+| 8 | Mermaid i18n | One file per locale (`timeline-en.md` + `timeline-ru.md`) |
+| 9 | CSS palette structure | JSON-first design tokens; build script generates downstream artifacts |
+| 10 | Microsite stack | Observable Framework |
+| 11 | Russian translations | Bootstrap-and-correct workflow |
+| 12 | Build order | Foundation → heatmap → treemap → Sankey → Mermaid |
+
+The build proceeds in the next commits.
 
 ---
 
