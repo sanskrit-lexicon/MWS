@@ -428,9 +428,126 @@ The interactive microsite carries the same attribution in a persistent footer.
 
 ---
 
-## Follow-up questions (2026-05-23)
+## Implementation decisions — round 2 (2026-05-23)
 
-The five decisions above resolve the broad design. Four implementation-level questions remain. See the next message for the explicit AskUserQuestion call.
+Four follow-up questions raised by the first round have been resolved:
+
+### Decision 6 — Sanskrit-in-Russian rendering: IAST in italics
+
+When Sanskrit terms appear inside Russian-language text or labels, they are rendered in **IAST in italics** (e.g. *aṃśa*, *kaṣāya*, *ṛṣi*) — exactly as in the English text. No Cyrillic transliteration layer, no Devanagari.
+
+**Implementation:**
+- Translation strings in `papers/microanalysis/figures/locales/ru.json` carry IAST tokens as inline `<em>` or Markdown italic.
+- The locale switcher does **not** transcode Sanskrit; only the surrounding English/Russian prose changes.
+- This is the **standard Russian indological convention** (used in *Индоевропейское языкознание*, the Roerich/Zograf Readings, *Petersburg Indological Studies*, etc.) — clean, no transcoding burden.
+
+### Decision 7 — Microsite hosting: new repo `csl-microsite`
+
+The interactive microsite lives in a **new repository** (working name `csl-microsite`) under the `sanskrit-lexicon` org, rather than embedded in the MWS repo. Rationale:
+
+- The microsite covers (will cover) **multiple CDSL dictionaries** for Phase 4 — natural to give it its own home.
+- Hosted on GitHub Pages from `csl-microsite` → e.g. `sanskrit-lexicon.github.io/csl-microsite/`.
+- Pulls data via JSON files in `csl-microsite/data/` regenerated from each dict's `mw_block_matrix.py` equivalent.
+- Versioned independently from any single dict's docs-pass.
+- Allows a clean separation: **MWS repo holds the static paper + the data scripts; csl-microsite holds the live web app.**
+
+### Decision 8 — Mermaid i18n: one file per locale, not parallel blocks
+
+For Mermaid diagrams that need bilingual rendering (timeline, lineage forest), the strategy is **one .md file per locale**, not two Mermaid blocks in a single file.
+
+Concrete file layout:
+```
+papers/microanalysis/figures/
+  timeline-en.md         <-- single Mermaid block, English labels
+  timeline-ru.md         <-- single Mermaid block, Russian labels
+  lineage-forest-en.md   <-- ditto
+  lineage-forest-ru.md
+```
+
+Each file is self-contained Markdown with a single Mermaid code-fence. GitHub renders both natively. Cross-linking between English/Russian variants is via plain Markdown `[Русская версия](timeline-ru.md)` / `[English version](timeline-en.md)`.
+
+**Rationale (vs the alternative parallel-blocks approach):**
+- Cleaner: each file presents the diagram in one language only — no visual clutter.
+- Linkable: each locale gets its own canonical URL.
+- Maintenance burden is the same (two file updates per diagram change) but the source is more readable.
+- Friendly to a future build step that generates `timeline-{locale}.md` from a single source data file + locale-specific label lookup.
+
+### Decision 9 — CSS palette: JSON-first design tokens
+
+Single source of truth: `papers/microanalysis/figures/palette-tokens.json`. A build step generates downstream artifacts:
+
+```
+palette-tokens.json   ← THE source of truth
+       │
+       ├──→  palette.css            (CSS custom properties for HTML/SVG)
+       ├──→  mermaid-theme.json     (consumed by Mermaid)
+       ├──→  palette.py             (Python module, importable for matplotlib)
+       └──→  palette.tex            (LaTeX colour definitions, for paper figures)
+```
+
+**Token structure:**
+```json
+{
+  "article-type": {
+    "root":        "#7a3d8f",
+    "noun-m":      "#1f78b4",
+    "noun-f":      "#e31a1c",
+    "noun-n":      "#33a02c",
+    "noun-mn":     "#6a3d9a",
+    "adjective-mfn": "#ff7f00",
+    "indeclinable":  "#b15928",
+    "compound":      "#a6cee3",
+    "derived":       "#b2df8a",
+    "continuation":  "#fb9a99",
+    "lexicographer-only": "#fdbf6f",
+    "etymological-ie":    "#cab2d6",
+    "botanical":     "#90ee90",
+    "biographical":  "#dda0dd",
+    "vedic-accented": "#ffd700",
+    "other":         "#888888"
+  },
+  "semantic-block": {
+    "identity":    "#...",
+    "form":        "#...",
+    "grammar":     "#...",
+    "etymology":   "#...",
+    "sense":       "#...",
+    "evidentiary": "#...",
+    "encyclopedic": "#...",
+    "discourse":   "#..."
+  },
+  "fullness-tier": {
+    "T1-vestigial":  "#cccccc",
+    "T2-skeletal":   "#a0c4e8",
+    "T3-typical":    "#5b8cd6",
+    "T4-rich":       "#3d6cb0",
+    "T5-elaborate":  "#1f4e8f"
+  },
+  "chart-element": {
+    "background":  "#fafafa",
+    "grid":        "#eaeaea",
+    "axis":        "#333333",
+    "text":        "#222222",
+    "muted":       "#666666"
+  },
+  "_meta": {
+    "wcag-checked": true,
+    "colour-blind-safe": true,
+    "source": "ColorBrewer 2.0 paired qualitative + manual additions for fullness tiers",
+    "last-updated": "2026-05-23"
+  }
+}
+```
+
+The **colour-blind-safe** flag is important: at least one downstream variant of `palette.css` should be designed for deuteranopia/protanopia. We bake this commitment into the design-token spec from the start.
+
+**Build tool:** A simple Python script (`build_palette.py`) reads `palette-tokens.json` and writes the four downstream artifacts. No need for [Style Dictionary](https://amzn.github.io/style-dictionary/) or similar — overkill for ~30 colour tokens.
+
+---
+
+## Implementation decisions — round 3
+
+Three follow-up questions remain before any figure can be built. See the next message for the explicit AskUserQuestion call.
 
 ---
 
