@@ -1,67 +1,51 @@
-# MW1899 microanalysis — four-framework comparative study
+# MW1899 microanalysis — a data-grounded microstructural study
 
-This directory contains a **multi-framework microstructural analysis** of the *Monier-Williams Sanskrit-English Dictionary* (1899) as digitized by the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) ([`mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt)).
+This directory contains a **microstructural analysis** of the *Monier-Williams Sanskrit-English Dictionary* (1899) as digitized by the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) ([`mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt)).
 
-The same 286,561-record dataset is analysed through four different theoretical lenses, producing four parallel papers targeted at the [*International Journal of Lexicography*](https://academic.oup.com/ijl). The shared data backbone is a single working-notes document.
+The 286,561-record dataset is analysed primarily through a **data-grounded** framework (built from MW outward), and that reading is then **triangulated** against the three dominant metalexicographic traditions — Wiegand, Atkins & Rundell, and Hausmann. The result is **one consolidated paper** ([PAPER.md](PAPER.md)) with the three external-framework treatments as condensed appendices. The shared data backbone is a single working-notes document.
+
+> **Consolidation note (2026-05-23).** This study was originally drafted as **four parallel papers**, one per framework. Per [DOUBTS.md D4](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking) — the risk that four papers from one dataset reads as salami-slicing — they have been consolidated into the single [PAPER.md](PAPER.md): the grounded reading is the body, and the Wiegand / Atkins-Rundell / Hausmann readings are [Appendices A–C](PAPER.md#appendix-a--the-wiegand-theoretic-reading-condensed). The four fuller single-framework drafts are **retained in this directory as supplementary material** — [paper-wiegand.md](paper-wiegand.md), [paper-atkins-rundell.md](paper-atkins-rundell.md), [paper-hausmann.md](paper-hausmann.md), [paper-grounded.md](paper-grounded.md) — each banner-linked back to PAPER.md.
 
 ---
 
 ## Contents
 
-| File | Purpose | Length target |
+| File | Purpose | Length |
 |---|---|--:|
 | [MICROANALYSIS.md](MICROANALYSIS.md) | **Working notes** — exhaustive data file. The single source of truth: 18 formal blocks × 14 article types × 8 worked entry samples + co-occurrence matrix + fullness scale | ~10K words |
-| [paper-wiegand.md](paper-wiegand.md) | **Wiegand microstructure theory** framing — integrated/semi-integrated/additive types, structural indicators, treatment units | ~8K words |
-| [paper-atkins-rundell.md](paper-atkins-rundell.md) | **Atkins-Rundell practical lexicography** framing — headword inventory, sense division, definition style, examples, retrieval-dictionary typology | ~7.5K words |
-| [paper-hausmann.md](paper-hausmann.md) | **Hausmann-Wiegand hybrid** framing — form-comment / semantic-comment / pragmatic-comment / source-comment, plus a proposed fifth comment-class (*Provenienz-Komment*) for MW's `<ls>L.</ls>` hedge | ~7K words |
-| [paper-grounded.md](paper-grounded.md) | **Data-grounded** framing — five constructs (block, slot, profile, hedge, infrastructure) built from MW outward, with external-framework comparison at the end | ~8K words |
-| [VISUALISATIONS.md](VISUALISATIONS.md) | **Visualisation catalogue** — all visualisation types the data supports (10 categories, ~40 visualisation ideas), prioritised by impact/effort into 3 tiers, with tool-choice notes and Phase-4 reusability pattern | ~3K words |
+| [PAPER.md](PAPER.md) | **The paper** — data-grounded framework (five constructs: block / slot / profile / hedge / infrastructure; the *block-economy* thesis), §7 triangulation against three external frameworks, three condensed appendices (A Wiegand · B Atkins-Rundell · C Hausmann), and a methodological-limitations section | ~5.7K words |
+| [VISUALISATIONS.md](VISUALISATIONS.md) | **Visualisation catalogue** — all visualisation types the data supports (10 categories, ~40 ideas), prioritised by impact/effort into 3 tiers, with tool-choice notes and the Phase-4 reusability pattern | ~3K words |
 | [decisions/](decisions/) | **28 design decisions** split into 7 thematic sub-docs (PALETTE / I18N / MICROSITE / FIGURES / NORMALISATION / SUPPLEMENTARY / BUILD-ORDER) | ~6K words total |
 | [DOUBTS.md](DOUBTS.md) | **Critical review** of 15 architectural doubts (per @gasyoun's "doubt everything" mandate) | ~3K words |
 | [figures/](figures/) | **Built artefacts** — Tier-1 figures (heatmap, treemap, Sankey, Mermaid timeline) in EN + RU, palette tokens, locales, Python renderers, JSON data exports | — |
 
 ---
 
-## Which paper should I read for which question?
+## What the paper argues
+
+The [paper](PAPER.md) builds a minimal, five-construct framework from MW itself and reaches one central empirical claim: **MW is a block-economical dictionary** — its 286,561 entries reuse the same ~6-block kernel (F01, F02, F04, F10, F12, F17) with type-driven enrichment. It then shows that three independently-motivated external frameworks **converge** on the same structural facts, which is the methodological reason the study is one paper rather than four.
 
 | If you want to know… | Read |
 |---|---|
 | **The data** — what blocks exist, how often, in what combinations | [MICROANALYSIS.md](MICROANALYSIS.md) |
-| What MW1899 looks like *as a Wiegandian object* — microstructure type, structural indicators, treatment units | [paper-wiegand.md](paper-wiegand.md) |
-| What design decisions MW1899 reflects from a modern-lexicography-handbook perspective — and how a contemporary revision would address MW's gaps | [paper-atkins-rundell.md](paper-atkins-rundell.md) |
-| How MW's comment-class apparatus compares to PWG's — and why we need to extend Hausmann's four-class system with a fifth class for MW's hedge | [paper-hausmann.md](paper-hausmann.md) |
-| What MW's own design logic looks like before any external theory is consulted — the **block-economy** finding | [paper-grounded.md](paper-grounded.md) |
-| **All four together** — to compare framework strengths and to triangulate findings | Read this README, then all four in order |
+| **MW's own design logic** before any external theory — the *block-economy* finding | [PAPER.md §3–§6](PAPER.md#3-the-five-grounded-constructs) |
+| How three external frameworks **corroborate** the grounded reading, and where each adds something unique | [PAPER.md §7](PAPER.md#7-triangulation-three-external-frameworks-converge) |
+| MW1899 *as a Wiegandian object* — microstructure type, structural indicators, indicator load | [PAPER.md Appendix A](PAPER.md#appendix-a--the-wiegand-theoretic-reading-condensed) |
+| MW from a modern practical-lexicography lens — headword inventory, examples, the retrieval-dictionary typology | [PAPER.md Appendix B](PAPER.md#appendix-b--the-atkins-rundell-practical-lexicography-reading-condensed) |
+| MW's comment-class apparatus and the proposed fifth class (*Provenienz-Komment*) for its `<ls>L.</ls>` hedge | [PAPER.md Appendix C](PAPER.md#appendix-c--the-hausmann-wiegand-comment-class-reading-condensed) |
+| What we are *not yet sure of* — regex limits, significance testing, cross-dict scope | [PAPER.md §9](PAPER.md#9-methodological-limitations) and [DOUBTS.md](DOUBTS.md) |
 
 ---
 
-## Cross-paper findings — convergent and divergent
+## The triangulation in one paragraph
 
-Three findings appear in **all four papers**:
-
-1. **MW1899 has a small block kernel and large article-type-specific enrichments.** The Wiegand paper calls this *modal 6-block microstructure*; the Atkins-Rundell paper calls it *kernel-plus-extension policy*; the Hausmann paper identifies the *fivefold signature taxonomy*; the grounded paper names it *block economy*. Same finding, four terminologies.
-
-2. **The `<ls>L.</ls>` lexicographer-hedge is MW's most distinctive structural feature.** All four papers identify it. Wiegand calls it a transverse structural indicator; Atkins-Rundell calls it a pragmatic register marker; Hausmann calls it a *Provenienz-Komment* (a fifth comment-class we propose); the grounded paper names it the *hedge construct*. All four agree it is **specific to MW**, absent from PWG, and represents a deliberate editorial compression of PWG's named-kosha citation system. See [DICT_PROFILE Lineage](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg).
-
-3. **Continuation entries (`<e>1A`) are structurally distinctive.** All four papers note that MW's 9,294 continuation entries have suppressed display-headword and grammatical category (inherited from parent), forming what we variously call *adjacency-sub-entries* (Atkins-Rundell), *integrated micro-structure* (Wiegand), *headword-inherited articles* (Hausmann), or *kernel-reduced profile* (grounded).
-
-Three findings appear in **only one paper**:
-
-- **Wiegand only**: MW exhibits a coherent microstructure type that *fits Wiegand's framework better than its 1899 date suggests* — evidence that scholarly European lexicography has a long continuous tradition Wiegand's framework captures.
-- **Hausmann only**: the *Provenienz-Komment* as a proposed fifth comment-class. This is the framework's only novel theoretical contribution.
-- **Grounded only**: the **infrastructure construct** — recognising that F17 `<info>` and F18 correction records are *trace of digitisation*, not part of MW1899-as-print. No external framework recognises this distinction.
-
-One finding appears in **only the Atkins-Rundell paper**:
-
-- MW is a **retrieval dictionary** (not a production dictionary) in A&R's typology — and its apparent gaps (no examples, no register labels) are coherent under this brief.
+Three findings surface independently under all three external frameworks (this is [PAPER.md §7.2](PAPER.md#72-three-findings-all-three-frameworks-reach)): **(1)** MW has a small block kernel plus large article-type-specific enrichments — Wiegand's *modal-6-block microstructure*, Atkins-Rundell's *kernel-plus-extension policy*, Hausmann's *form-comment economy*, and the grounded *block economy* are one finding in four terminologies; **(2)** the `<ls>L.</ls>` lexicographer-hedge is MW's most distinctive feature — a Wiegandian transverse indicator, an A&R register marker, a Hausmann *Provenienz-Komment* (a fifth class we propose), and the grounded *hedge construct*, all agreeing it is specific to MW and a deliberate compression of PWG's named-kosha system (see [DICT_PROFILE Lineage](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg)); **(3)** continuation entries (`<e>1A`) are structurally distinctive — *adjacency-integration* (Wiegand), *adjacency-sub-entries* (A&R), *semantic-only signatures* (Hausmann), *kernel-reduced profiles* (grounded). Each framework also adds exactly one thing the others miss — and the grounded view adds two (the *infrastructure layer* and *block economy*) that none of the three captures.
 
 ---
 
 ## Methodological note
 
-All four papers draw from the same [working-notes file](MICROANALYSIS.md), which was generated by parsing every `<L>...<LEND>` record in the live [`mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) (48.9 MB, 286,561 records). The block-detection Python source is in the [docs-pass build artefacts](https://github.com/sanskrit-lexicon/MWS/tree/docs-pass). Counts are reproducible.
-
-Each paper exists as a self-contained document with its own introduction, methodology, and references. None depends on the others having been read first; they are *parallel readings* of the same artefact. Cross-references between papers exist where convergent findings need joint citation.
+The paper draws from the [working-notes file](MICROANALYSIS.md), generated by parsing every `<L>...<LEND>` record in the live [`mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) (48.9 MB, 286,561 records). The block-detection Python source is in the [docs-pass build artefacts](https://github.com/sanskrit-lexicon/MWS/tree/docs-pass). Counts are reproducible. Block detection is regex-based and approximate; its limits are documented in [PAPER.md §9](PAPER.md#9-methodological-limitations).
 
 ---
 
@@ -80,8 +64,6 @@ This microanalysis directory **depends on and extends** the docs-pass content in
 
 ## Status (2026-05-23)
 
-Drafts complete. Not yet submitted. Internal review by @funderburkjim and @Andhrabharati is welcomed via [issue #195](https://github.com/sanskrit-lexicon/MWS/issues/195) before any external venue choice is finalised.
+Single consolidated draft complete. Not yet submitted. Internal review by @funderburkjim and @Andhrabharati is welcomed via [issue #195](https://github.com/sanskrit-lexicon/MWS/issues/195) before any external venue choice is finalised.
 
-The four papers have **shared data** but **different framings**. If a single paper is preferred over four for submission, the [grounded paper](paper-grounded.md) is the most self-contained and would scale down to ~6K words; the [Wiegand paper](paper-wiegand.md) carries the strongest theoretical anchor for IJL audiences.
-
-If accepted for IJL, this study would be a first: the first systematic microstructural analysis of a CDSL dictionary at this scale, and a first comparative application of four metalexicographic frameworks to the same dataset.
+If accepted for IJL, this study would be a first: the first systematic microstructural analysis of a CDSL dictionary at this scale, with a data-grounded framework corroborated by three independent metalexicographic traditions.

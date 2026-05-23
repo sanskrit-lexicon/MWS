@@ -12,7 +12,7 @@ The goal is not to undo decisions but to make their weaknesses visible. If a dou
 
 ### D1 — Is "block economy" a genuine principle or print-economic artifact? · *important*
 
-Our [grounded paper](paper-grounded.md) names "block economy" as MW's defining structural choice: a 6-block kernel reused across 286,561 entries with type-driven enrichment. But this could be just a **side-effect of being a single-volume print dictionary** — every printed dictionary economises blocks to fit pages. PWK (also single-volume, also condensed) might exhibit identical economy without anyone calling it a principle.
+Our [paper](PAPER.md#4-the-block-economy-thesis) names "block economy" as MW's defining structural choice: a 6-block kernel reused across 286,561 entries with type-driven enrichment. But this could be just a **side-effect of being a single-volume print dictionary** — every printed dictionary economises blocks to fit pages. PWK (also single-volume, also condensed) might exhibit identical economy without anyone calling it a principle.
 
 **Test:** compute the same kernel statistic for PWK / AP / WIL. If they all show the same 5–7 modal kernel, then "block economy" is a general property of all single-volume scholarly dictionaries, not MW-specific. The grounded paper would need to weaken its claim to *"MW exhibits the block economy characteristic of single-volume scholarly dictionaries"* — still publishable, less striking.
 
@@ -20,7 +20,7 @@ Our [grounded paper](paper-grounded.md) names "block economy" as MW's defining s
 
 ### D2 — The `<ls>L.</ls>` "MW innovation" claim — under-checked · *important*
 
-Our [Lineage section](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) and [Hausmann paper §5](paper-hausmann.md) claim MW *invented* the generic L.-hedge. The evidence: PWG has 0 instances, PWK has 0 instances (we just verified), AP has 1 instance.
+Our [Lineage section](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) and [PAPER.md Appendix C](PAPER.md#appendix-c--the-hausmann-wiegand-comment-class-reading-condensed) claim MW *invented* the generic L.-hedge. The evidence: PWG has 0 instances, PWK has 0 instances (we just verified), AP has 1 instance.
 
 But:
 - We have not checked WIL's preface for its own hedge convention (`(L.)` parentheticals?).
@@ -42,7 +42,9 @@ We claim WIL is "the kosha tradition translated" based on (a) the subtitle ("lea
 
 **Fix:** soften the lineage diagram. Replace the binary "two ancestries" framing with a directed graph that acknowledges cross-influence.
 
-### D4 — 4 framework papers from the same data — is this honest? · *blocking*
+### D4 — 4 framework papers from the same data — is this honest? · *blocking* → **RESOLVED 2026-05-23**
+
+> **Resolution:** consolidated to **one paper** ([PAPER.md](PAPER.md)), per option (a) below. The data-grounded reading is the body; the Wiegand / Atkins-Rundell / Hausmann readings are condensed into [Appendices A–C](PAPER.md#appendix-a--the-wiegand-theoretic-reading-condensed) and reframed (in [PAPER.md §7](PAPER.md#7-triangulation-three-external-frameworks-converge)) as *convergent triangulation* rather than parallel publications. The four standalone `paper-*.md` drafts are retained in this directory as supplementary extended drafts, each banner-linked back to PAPER.md.
 
 We wrote 4 papers each analysing the same 286,561 records through a different theoretical lens. The danger: **a journal may see this as salami-slicing** (one finding split into four publications). The IJL editorial board specifically flags multi-version submission of the same data.
 
@@ -102,7 +104,9 @@ We report percentages like "F09 commentary at 78.1% in roots vs ~5% baseline." B
 
 ## Substantive doubts about the design decisions
 
-### D8 — Observable Framework is heavy infrastructure for a research microsite · *blocking*
+### D8 — Observable Framework is heavy infrastructure for a research microsite · *blocking* → **RESOLVED 2026-05-23**
+
+> **Resolution:** **keep Observable Framework** ([Decision 10](decisions/MICROSITE.md#decision-10--stack-observable-framework)). The user accepts the build-pipeline and lock-in trade-offs in exchange for built-in i18n routing, reactive D3/Plot, and Markdown pages, which match the [per-locale-file strategy](decisions/I18N.md) and [JSON-data architecture](decisions/MICROSITE.md#decision-2--build-both-static-paper-and-interactive-microsite). The static figures remain plain SVG/PNG (already built), so the paper does not depend on Observable; the framework is used only for the interactive microsite. The mitigations below (pin the Framework version; keep the highest-interactivity tools isolated; ensure figures degrade to static) become *implementation notes* rather than reasons to switch stacks.
 
 We chose Observable Framework as the microsite stack (Decision 10). Pros: i18n routing, reactive D3, Markdown pages. Cons:
 - Requires Node + npm + build pipeline.

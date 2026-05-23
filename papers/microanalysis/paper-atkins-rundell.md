@@ -1,5 +1,7 @@
 # Reading *Monier-Williams 1899* with Atkins & Rundell: a practical-lexicography microanalysis
 
+> **Supplementary extended draft — superseded by [PAPER.md](PAPER.md).** One of four single-framework drafts consolidated into the single submission paper per [DOUBTS.md D4](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking). This Atkins-Rundell reading is condensed into [PAPER.md Appendix B](PAPER.md#appendix-b--the-atkins-rundell-practical-lexicography-reading-condensed); this fuller draft is retained as supplementary material only. **For the canonical paper, read [PAPER.md](PAPER.md).**
+
 **Draft for the [*International Journal of Lexicography*](https://academic.oup.com/ijl) (Oxford University Press).** ~7.5K words target.
 
 **Theoretical framing:** Atkins & Rundell, *The Oxford Guide to Practical Lexicography* (2008). One of four parallel framework analyses — see [README](README.md). Data source: [MICROANALYSIS.md](MICROANALYSIS.md).

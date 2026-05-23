@@ -1,5 +1,7 @@
 # The microstructure of *Monier-Williams 1899*: a Wiegand-theoretic analysis
 
+> **Supplementary extended draft — superseded by [PAPER.md](PAPER.md).** One of four single-framework drafts consolidated into the single submission paper per [DOUBTS.md D4](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking). This Wiegand-theoretic reading is condensed into [PAPER.md Appendix A](PAPER.md#appendix-a--the-wiegand-theoretic-reading-condensed); this fuller draft is retained as supplementary material only. **For the canonical paper, read [PAPER.md](PAPER.md).**
+
 **Draft for the [*International Journal of Lexicography*](https://academic.oup.com/ijl) (Oxford University Press).** ~8K words target.
 
 **Theoretical framing:** Wiegand's microstructure theory (Wiegand 1989, 1996, 2002; Wiegand & Smit 2013). One of four parallel framework analyses of the same MW1899 data — see [README](README.md). Data source: [MICROANALYSIS.md](MICROANALYSIS.md).

@@ -1,5 +1,7 @@
 # The microstructure of *Monier-Williams 1899*: a data-grounded framework
 
+> **Supplementary extended draft — superseded by [PAPER.md](PAPER.md).** One of four single-framework drafts consolidated into the single submission paper per [DOUBTS.md D4](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking). The data-grounded reading below is now the **body** of [PAPER.md](PAPER.md); this fuller draft is retained as supplementary material only. **For the canonical paper, read [PAPER.md](PAPER.md).**
+
 **Draft for the [*International Journal of Lexicography*](https://academic.oup.com/ijl) (Oxford University Press).** ~8K words target.
 
 **Theoretical framing:** *None* (deliberately). Builds the analytic apparatus from the data itself. One of four parallel framework analyses — see [README](README.md). Data source: [MICROANALYSIS.md](MICROANALYSIS.md).

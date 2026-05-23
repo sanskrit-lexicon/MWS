@@ -22,11 +22,11 @@ Every figure carries:
 
 Aligns with [W3C SVG accessibility spec](https://www.w3.org/TR/SVG2/struct.html#DescriptionAndTitleElements) and IJL's standard accessibility checklist.
 
-## Decision 15 — Figure numbering: per-paper continuous + stable-slug manifest
+## Decision 15 — Figure numbering: single continuous sequence + stable-slug manifest
 
-Each paper has its own Fig 1, Fig 2, Fig 3, … (reset per paper). Cross-paper references use "Fig 2 of [paper-wiegand.md](../paper-wiegand.md)." Standard journal convention.
+The study is now **one paper** ([PAPER.md](../PAPER.md)), so figures use a single continuous sequence (Fig 1, Fig 2, …) across body and appendices; appendix figures may take an `A`/`B`/`C` prefix (Fig A1, Fig B1). The earlier per-paper numbering is retired with the consolidation ([DOUBTS.md D4](../DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking)).
 
-A separate **stable figure-ID manifest** (`figures/manifest.json`, TBD) will map each figure's slug → its paper-local number(s). Survives reviewer-driven renumbering.
+A separate **stable figure-ID manifest** (`figures/manifest.json`, TBD) will map each figure's slug → its number. Survives reviewer-driven renumbering.
 
 ## Decision 17 — Dimensions: IJL full-page-width (~175 mm)
 
@@ -87,7 +87,7 @@ Plus, where data is available, the four CDSL koshas ([ARMH](https://github.com/s
 
 ## Decision 23 — Citation style: Harvard + inline online DOIs
 
-Print references in the four framework papers use **author-date Harvard** for inline citations and an alphabetised reference list at paper end. Online resources (GitHub, archive.org, Wikipedia, CDSL web display) get inline Markdown links in running text, not separate reference-list entries.
+Print references in the paper use **author-date Harvard** for inline citations and an alphabetised reference list at paper end. Online resources (GitHub, archive.org, Wikipedia, CDSL web display) get inline Markdown links in running text, not separate reference-list entries.
 
 Reference list entries carry DOIs where available.
 
@@ -121,7 +121,7 @@ Footer text incorporates both Git short SHA and build date. Reviewer can `git sh
 - [ ] `figures/manifest.json` figure-ID manifest (Decision 15) not yet built
 - [ ] Per-figure caption blocks not yet written into MICROANALYSIS.md (Decision 13)
 - [ ] Static legend keys not yet inset into rendered SVGs (Decision 13)
-- [ ] Citation style not enforced — the four framework papers carry references but not yet in Harvard format (Decision 23)
+- [ ] Citation style not enforced — the paper carries references but not yet in Harvard format (Decision 23)
 
 ## Cross-links
 

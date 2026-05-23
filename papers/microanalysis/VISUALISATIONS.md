@@ -1,6 +1,6 @@
 # Visualisation catalogue — MW1899 microanalysis and beyond
 
-**Planning document.** A comprehensive catalogue of visualisations the data collected for the [microanalysis](README.md) supports, organised by purpose, with implementation notes and a tiered prioritisation. Useful for (a) figure selection for the four framework papers ([Wiegand](paper-wiegand.md) · [Atkins-Rundell](paper-atkins-rundell.md) · [Hausmann-Wiegand](paper-hausmann.md) · [Grounded](paper-grounded.md)), (b) embedding in the docs-pass branch (DICT_PROFILE / ENTRY_GUIDE / ROADMAP), and (c) the reusable Phase-4 pattern for other CDSL dictionaries.
+**Planning document.** A comprehensive catalogue of visualisations the data collected for the [microanalysis](README.md) supports, organised by purpose, with implementation notes and a tiered prioritisation. Useful for (a) figure selection for the consolidated [paper](PAPER.md) (body + [Appendices A–C](PAPER.md#appendix-a--the-wiegand-theoretic-reading-condensed)), (b) embedding in the docs-pass branch (DICT_PROFILE / ENTRY_GUIDE / ROADMAP), and (c) the reusable Phase-4 pattern for other CDSL dictionaries.
 
 Data source: [MICROANALYSIS.md](MICROANALYSIS.md) and the docs-pass material in the parent directory.
 
@@ -49,7 +49,7 @@ Show what proportions are in the dictionary at a glance.
 
 ## Category 2 · The matrix heatmap — central paper figure
 
-The 18 × 14 block-by-article-type matrix from [MICROANALYSIS.md §4](MICROANALYSIS.md#4--the-block-by-article-type-matrix) is the **single most important visualisation** for the four framework papers.
+The 18 × 14 block-by-article-type matrix from [MICROANALYSIS.md §4](MICROANALYSIS.md#4--the-block-by-article-type-matrix) is the **single most important visualisation** for the paper.
 
 | # | Visualisation | What it adds | Effort | Format |
 |--:|---|---|---|---|
@@ -157,7 +157,7 @@ High impact, low effort. These are the four images that would most strengthen th
 
 | Rank | Visualisation | Why | Best home |
 |:--:|---|---|---|
-| **#1** | [2.1] 18 × 14 block × type heatmap | Single central figure for all four framework papers. The "what is MW's microstructure" image | `papers/microanalysis/figures/heatmap.svg` referenced from [MICROANALYSIS.md §4](MICROANALYSIS.md#4--the-block-by-article-type-matrix) and all four papers |
+| **#1** | [2.1] 18 × 14 block × type heatmap | Central figure of the paper. The "what is MW's microstructure" image | `papers/microanalysis/figures/heatmap.svg` referenced from [MICROANALYSIS.md §4](MICROANALYSIS.md#4--the-block-by-article-type-matrix) and [PAPER.md](PAPER.md) |
 | **#2** | [3.4] PWG kosha → MW `L.` collapse Sankey | Killer figure for the lineage finding. Visually proves the kosha-collapse claim | `papers/microanalysis/figures/lineage-sankey.svg` referenced from [DICT_PROFILE Lineage section](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) |
 | **#3** | [4.1] Lexicographic timeline (Mermaid) | Inline-renderable in GitHub markdown; zero infrastructure; orients the lineage for any reader | Embedded directly in [DICT_PROFILE Historical background](../../DICT_PROFILE.md#historical-background) |
 | **#4** | [1.1] Article-type treemap | Single image for the dictionary's composition — the "what is MW?" overview | `papers/microanalysis/figures/typology-treemap.svg` referenced from [DICT_PROFILE Article types](../../DICT_PROFILE.md#article-types--what-youll-encounter) |
@@ -168,7 +168,7 @@ High impact, low effort. These are the four images that would most strengthen th
 
 ## Tier-2 recommendations (build second)
 
-Medium effort, still high value. Worth doing if the four papers go to submission.
+Medium effort, still high value. Worth doing if the paper goes to submission.
 
 | Rank | Visualisation | Why | Best home |
 |:--:|---|---|---|
@@ -248,7 +248,7 @@ Five open questions raised in the original draft of this document have been reso
 
 ### Decision 1 — Shared colour palette via CSS
 
-**All four framework papers + the interactive microsite use the same colour palette for the 14 article types.** Implementation: **via CSS** (custom properties / design tokens), so that a single source-of-truth defines colours that flow through (a) the static SVG figures generated for the paper, (b) the Mermaid diagrams embedded in markdown docs, and (c) the interactive microsite.
+**The paper + the interactive microsite use the same colour palette for the 14 article types.** Implementation: **via CSS** (custom properties / design tokens), so that a single source-of-truth defines colours that flow through (a) the static SVG figures generated for the paper, (b) the Mermaid diagrams embedded in markdown docs, and (c) the interactive microsite.
 
 The CSS strategy lets us:
 
@@ -646,11 +646,11 @@ Every figure carries:
 
 Aligns with the [W3C SVG accessibility spec](https://www.w3.org/TR/SVG2/struct.html#DescriptionAndTitleElements) and IJL's standard accessibility checklist.
 
-### Decision 15 — Figure numbering: per-paper continuous
+### Decision 15 — Figure numbering: single continuous sequence
 
-Each paper has its own Fig 1, Fig 2, Fig 3, … (reset per paper). Cross-paper references use the form "Fig 2 of [paper-wiegand.md](paper-wiegand.md)." This is the standard journal convention; reviewers will not be surprised.
+Now that the study is **one paper** ([PAPER.md](PAPER.md)), figures are numbered in a single continuous sequence (Fig 1, Fig 2, …) across the body and the appendices — appendix figures may carry an `A`/`B`/`C` prefix (Fig A1, Fig B1) per the standard journal convention. Earlier drafts numbered per-paper; that convention is retired with the consolidation ([DOUBTS.md D4](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking)).
 
-A separate **stable figure-ID manifest** (`papers/microanalysis/figures/manifest.json`) maps each figure's slug → its paper-local number(s). This survives reviewer-driven renumbering.
+A separate **stable figure-ID manifest** (`papers/microanalysis/figures/manifest.json`) maps each figure's slug → its number. This survives reviewer-driven renumbering.
 
 ### Decision 16 — Supplementary materials: self-contained ZIP
 
@@ -659,7 +659,7 @@ The IJL submission includes a single ZIP archive `mw-microanalysis-supplementary
 ```
 supplementary/
   README.md                   <-- entry point
-  papers/                     <-- the 4 framework papers (PDF + markdown source)
+  paper/                      <-- PAPER.md (PDF + markdown source)
   data/                       <-- JSON dumps of the block matrix, citation stats, etc.
   figures/                    <-- all static SVG figures + PNG fallbacks
   scripts/                    <-- Python reproducibility code: mw_block_matrix.py,
@@ -676,7 +676,7 @@ supplementary/
 
 | # | Decision | Choice |
 |--:|---|---|
-| 1 | Colour palette consistency | Shared via CSS across 4 papers + microsite |
+| 1 | Colour palette consistency | Shared via CSS across the paper + microsite |
 | 2 | Static vs interactive | Both |
 | 3 | Bilingual labels | English + Russian |
 | 4 | Cross-dict normalisation | Multi-strategy; per-figure caption |
@@ -819,7 +819,7 @@ This makes the Sankey **both quantitative and bibliographic** — a single figur
 
 ### Decision 23 — Citation style: Harvard + inline online DOIs
 
-Print references in the four framework papers use **author-date Harvard** for inline citations and an alphabetised reference list at paper end. Online resources (GitHub repos, archive.org scans, Wikipedia, CDSL web display) get **inline Markdown link** in the running text, not a separate reference-list entry, since URLs would clutter the references and DOI/URL provides direct access.
+Print references in the paper use **author-date Harvard** for inline citations and an alphabetised reference list at paper end. Online resources (GitHub repos, archive.org scans, Wikipedia, CDSL web display) get **inline Markdown link** in the running text, not a separate reference-list entry, since URLs would clutter the references and DOI/URL provides direct access.
 
 Reference list entries get DOIs where they exist (e.g. Wiegand 1989 has a DOI in the HSK reprint).
 
@@ -902,7 +902,7 @@ Both share the same underlying data + palette + locale strings.
 
 | # | Decision | Choice |
 |--:|---|---|
-| 1 | Colour palette consistency | Shared via CSS across 4 papers + microsite |
+| 1 | Colour palette consistency | Shared via CSS across the paper + microsite |
 | 2 | Static vs interactive | Both |
 | 3 | Bilingual labels | English + Russian |
 | 4 | Cross-dict normalisation | Multi-strategy; per-figure caption |
@@ -929,4 +929,4 @@ Both share the same underlying data + palette + locale strings.
 
 This document is the **planning catalogue**. None of the visualisations listed are yet built. Tier-1 (4 figures) is the recommended next step. The Python data is already in [MICROANALYSIS.md](MICROANALYSIS.md) and the working scripts are at [`mw_block_matrix.py`](MICROANALYSIS.md) (regenerable in seconds against any updated mw.txt).
 
-When figures are built, they should land in `papers/microanalysis/figures/` (created on first commit) and be referenced from both MICROANALYSIS.md and the four framework papers, plus DICT_PROFILE.md where they support the cross-dict and lineage sections.
+When figures are built, they should land in `papers/microanalysis/figures/` (created on first commit) and be referenced from both MICROANALYSIS.md and the [paper](PAPER.md), plus DICT_PROFILE.md where they support the cross-dict and lineage sections.

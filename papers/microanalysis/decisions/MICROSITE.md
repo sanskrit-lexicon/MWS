@@ -37,7 +37,7 @@ The microsite lives in a new repo, **`csl-atlas`** under the `sanskrit-lexicon` 
 - First-class declarative data files (JSON/CSV) → matches our JSON-data architecture.
 - Polished research-microsite aesthetic.
 
-**Doubt flagged in [DOUBTS.md D8](../DOUBTS.md):** Observable Framework is heavy infrastructure for a research microsite; lock-in risk. Alternative (D8 fix): vanilla HTML + D3 + Vega-Lite. Revisit after first prototype.
+**[DOUBTS.md D8](../DOUBTS.md#d8--observable-framework-is-heavy-infrastructure-for-a-research-microsite--blocking) — RESOLVED 2026-05-23: keep Observable Framework.** The lock-in / build-pipeline trade-offs are accepted in exchange for built-in i18n routing, reactive D3/Plot, and Markdown pages. The vanilla-HTML+D3 alternative is *not* adopted. Mitigations become implementation notes: pin the Framework version, keep the static SVG/PNG figures independent of the framework (the paper does not depend on it), and reserve Observable for the interactive tools.
 
 ## Decision 20 — Navigation: hybrid (paper-tours + standalone tools)
 
@@ -47,11 +47,10 @@ Observable Framework `src/` structure:
 csl-atlas/
   src/
     index.md                         landing page
-    papers/                          paper-tour section
-      wiegand.md                     Wiegand paper figures embedded
-      atkins-rundell.md
-      hausmann.md
-      grounded.md
+    paper/                           paper-tour section (single consolidated paper)
+      grounded.md                    body: five constructs + block economy
+      triangulation.md               §7 — three frameworks converge
+      appendices.md                  A Wiegand · B Atkins-Rundell · C Hausmann
     tools/                           standalone visualisation tools
       matrix-explorer.md             18×14 heatmap, interactive
       lineage-sankey.md              PWG→MW Sankey
@@ -69,7 +68,7 @@ csl-atlas/
 ```
 
 Reader paths:
-- **Paper tour:** "I want to follow the argument of one framework paper."
+- **Paper tour:** "I want to follow the argument of the paper — grounded body, then the triangulation, then the framework appendices."
 - **Tools:** "I want to explore the data interactively without paper context."
 - **Dictionary chapter:** "I'm here for one specific dict's microstructure."
 

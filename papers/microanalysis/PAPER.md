@@ -1,0 +1,258 @@
+# The microstructure of *Monier-Williams 1899*: a data-grounded framework, triangulated against three metalexicographic traditions
+
+**Draft for the [*International Journal of Lexicography*](https://academic.oup.com/ijl) (Oxford University Press).** Single consolidated submission (~5.7K words; room to grow toward IJL's ~8–10K ceiling as the [§9 limitations](#9-methodological-limitations) are addressed). Supersedes the four parallel framework drafts; the three external-framework treatments are condensed into [Appendices A–C](#appendix-a--the-wiegand-theoretic-reading-condensed). Data source: [MICROANALYSIS.md](MICROANALYSIS.md).
+
+**Theoretical framing:** primarily *data-grounded* (the analytic apparatus is built from MW outward); the three dominant metalexicographic traditions — [Wiegand](#appendix-a--the-wiegand-theoretic-reading-condensed) (1989, 2002), [Atkins & Rundell](#appendix-b--the-atkins-rundell-practical-lexicography-reading-condensed) (2008), and [Hausmann](#appendix-c--the-hausmann-wiegand-comment-class-reading-condensed) (1977, 1985) — are applied in the appendices and used in §7 as convergent triangulation, not as the primary lens.
+
+---
+
+## Abstract
+
+The dominant frameworks in metalexicography — Wiegand (1989, 2002), Hausmann (1977, 1985), Atkins & Rundell (2008) — were built on European mid-to-late-20th-century dictionaries. Applying them to *Monier-Williams 1899* (henceforth MW) **risks imposing categories the lexicographer did not himself recognise**, however productively the exercise illuminates the artefact. This paper takes the opposite stance as its spine: we build a descriptive framework **from MW outward**, treating its 18 formal blocks and 14 article types as primary, and constructing a typology that respects the dictionary's own internal logic before any external theory is consulted. The framework that emerges has five core constructs — **block, slot, profile, hedge, infrastructure** — each operationalised against the live [`mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) digital edition (286,561 records). Its central empirical claim is that MW is a **block-economical** dictionary: 286,561 entries reuse the same ~6-block kernel with type-driven enrichment. We then **triangulate** this grounded reading against the three external traditions (§7, with full treatments in Appendices A–C) and show that all three converge on the same three structural facts under different terminologies — evidence that the findings are properties of the artefact, not artefacts of one theory. We propose *block-economy* as a typological signature distinguishing 19th-century scholarly dictionaries from both modern learner-dictionaries (more pragmatic information, fewer formal blocks) and indigenous synonymies / koshas (different infrastructure entirely).
+
+**Keywords:** microstructure, grounded analysis, Monier-Williams, Sanskrit lexicography, CDSL, block economy, scholarly dictionary, Wiegand, Atkins–Rundell, Hausmann
+
+---
+
+## 1. Introduction: one artefact, one grounded framework, three witnesses
+
+Scholarly metalexicography is dominated by frameworks built between 1977 and 2008 on dictionaries from a narrow band of European traditions (French, German, English). They have produced powerful taxonomies — Wiegandian microstructure, Hausmann comment-classes, Atkins-Rundell production/retrieval typology. But each framework also **imposes categories**. Wiegand's "fully integrated microstructure" presupposes a sense-hierarchy that MW's `<e>1A` continuation-by-adjacency pattern does not quite realise. Hausmann's four comment-classes lacked a category for MW's lexicographer-hedge (we add one in [Appendix C](#appendix-c--the-hausmann-wiegand-comment-class-reading-condensed)). Atkins-Rundell's typology of dictionary purposes assumes a 21st-century user.
+
+We therefore make the **grounded reading primary**: we build the analytical apparatus from MW itself, consulting external frameworks only afterward, for comparison. This yields a *minimal* framework — five constructs — that captures MW's design with no superfluous categories, and lets us see what is **specific to MW** that the imported frameworks dilute or miss.
+
+The three external frameworks are not discarded. They are **witnesses**. A finding that surfaces independently under Wiegand's microstructure theory, under Atkins & Rundell's practical-lexicography handbook, and under the Hausmann-Wiegand comment-class hybrid is a finding about MW, not about any one theory. This **triangulation** (§7) is the consolidated paper's methodological backbone, and it is why the present study is one paper and not four: presenting the same data through four parallel framings as four separate articles would be salami-slicing; presenting one grounded analysis *corroborated* by three independent framings is convergent validation. The full framework-specific treatments are preserved as [Appendices A–C](#appendix-a--the-wiegand-theoretic-reading-condensed); the body of the paper is the grounded reading plus the triangulation.
+
+## 2. Data and method
+
+Our data is the [working-notes file](MICROANALYSIS.md), built by parsing every `<L>...<LEND>` record in the live [`mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) (48.9 MB, 286,561 records, fetched 2026-05-23 from [`csl-orig`](https://github.com/sanskrit-lexicon/csl-orig)) and counting formal-block occurrences. The block-detection source is in the [docs-pass build artefacts](https://github.com/sanskrit-lexicon/MWS/tree/docs-pass). Counts are reproducible from the published `mw.txt`. Block detection is **regex-based and approximate**; its known false-positive and false-negative cases are documented in [§9](#9-methodological-limitations) and should be read alongside every percentage in this paper.
+
+## 3. The five grounded constructs
+
+### Construct 1 — *Block*
+
+A **block** is a discriminable structural component of an MW entry. We identify 18 such blocks (see [MICROANALYSIS.md §1](MICROANALYSIS.md)). The block is the **atomic unit** of analysis. We make no a priori claim about what blocks *should* be present, and no a priori taxonomy of block-roles. A block has a **marker** (a tag, glyph, or stereotyped position that lets us detect it), a **population** (the number of entries containing it), and an **occurrence profile** (the rate at which it co-occurs with each other block — the matrix in [MICROANALYSIS.md §4](MICROANALYSIS.md)).
+
+### Construct 2 — *Slot*
+
+A **slot** is an ordered position within an entry where blocks may occur. MW's slot order (from `<L>` to `<LEND>`) is fixed:
+
+```
+[F01 header] → [F02 display headword] [F03 hom] [F04 lex] [F05 cl./P./Ā.]
+            → [F06 √] [F07 lang] [F08 inflection forms] [F09 commentary]
+            → ¦ → [F10 gloss] [F11 sense divisions] → [F12 ls cites] [F13 L. hedge]
+            → [F14 bot] [F15 bio] [F16 cross-ref] → [F17 info] → [F18 corrections]
+            → <LEND>
+```
+
+Many slots are **optional**. The *grammatical category* slot exists; whether F04 fills it depends on the article type. The slot architecture is what distinguishes MW from a free-form dictionary (entries are not arbitrary prose) and from a purely tabular dictionary (entries are not key-value pairs). The slot view is also the **renderer's view** — MW's [SQLite generation pipeline](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/makotemplates/pywork/sqlite/sqlite.py) walks the slots in order and emits HTML.
+
+### Construct 3 — *Profile*
+
+A **profile** is the *block-set characteristic of an article type*. We identify 14 article types (see [MICROANALYSIS.md §3](MICROANALYSIS.md)). Each type has a characteristic profile composed of a **necessary-block set** (blocks present in ≥ 95% of entries of this type), an **enriched-block set** (blocks present at substantially higher rates than baseline — e.g. F09 commentary at 78% in roots vs ~10% baseline), and an **omitted-block set** (blocks present at substantially lower rates than baseline — e.g. F02 display headword at 33.9% in continuations vs ~99% baseline). The profile is the **lexicographer's strategic choice** for handling a type of lemma; each of MW's 14 profiles is internally coherent — see the [block-by-article-type matrix](MICROANALYSIS.md#4--the-block-by-article-type-matrix).
+
+### Construct 4 — *Hedge*
+
+A **hedge** is a block whose function is to modify the evidentiary status of the entire entry. MW has one explicit hedge: `<ls>L.</ls>` (F13). Its function is to signal that the entry's sole evidence is the indigenous lexicographer tradition. Hedges are distinct from blocks-in-general because they (i) operate at the **entry level**, not the slot level — an `L.`-hedge does not qualify the gloss it follows, it qualifies the whole entry's evidentiary basis; (ii) have a **transverse distribution** — they appear across many article types rather than concentrating in one (F13 at 71.5% of botanicals, 64.7% of biographicals, 100% of lexicographer-only); and (iii) carry **reader-guidance** — they tell the user how to weight the entry's content. MW has exactly one hedge; PWG had zero (a different design choice — see [Lineage section](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg)). The hedge is the **single most distinctive block** in MW's design.
+
+### Construct 5 — *Infrastructure*
+
+**Infrastructure** is the set of blocks that exist to support the dictionary's *processability* — not its *content*. MW has two infrastructure blocks: F17 `<info>` machine annotation (in 96% of entries) and F18 correction record (< 30 instances). Infrastructure is not a Hausmann or Wiegand category. It is a **digital-era construct** — a block that has no analogue in the print dictionary. The print MW1899 has no `<info>` tag; the CDSL editors added it during digitisation to support the SQLite pipeline and the web display. Treating F17 as infrastructure (not as part of microstructure proper) preserves the original-vs-digital distinction.
+
+## 4. The block-economy thesis
+
+Our central empirical observation is this: **MW reuses a small core of blocks across an enormous number of entries**. The modal entry has **6 blocks**, drawn from a kernel of 5–7 (F01, F02, F04, F10, F12, F17, and either F08 or F13). The remaining 11–12 blocks are *type-specific enrichments* that appear in a small fraction of entries.
+
+We name this **block economy**. Quantitatively:
+
+| Block | Population (% of entries) | Role |
+|---|--:|---|
+| **F01 Record header** | 100% | Kernel |
+| **F17 Machine annotation** | 96% | Kernel (digital-era) |
+| **F02 Display headword** | 99% | Kernel |
+| **F10 Sense gloss** | ~100% | Kernel |
+| **F12 Source citation** | ~80% | Kernel (high) |
+| **F04 Grammatical category** | 65% | Kernel (medium) |
+| F08 Inflection form | 21% | Type-enriched |
+| F13 Hedge L. | 13% | Type-enriched |
+| F09 Editorial commentary | 9% | Type-enriched |
+| F06 Etymology root | 6% | Type-enriched |
+| F03 Homophone marker | 5% | Type-enriched |
+| F14 Botanical | 3% | Type-specific |
+| F11 Sense division | < 1% | Type-specific (rare) |
+| F07 IE cognate | 0.7% | Type-specific (rare) |
+| F15 Biographical | < 0.1% | Type-specific (rare) |
+| F05 Verb inflection class | < 1% | Type-specific (verbs only) |
+| F16 Cross-reference | 9% | Distributed |
+| F18 Correction record | < 0.01% | Vanishing |
+
+**Six blocks (F01, F02, F04, F10, F12, F17) recur in 65–100% of entries.** These six **make MW MW**. The other twelve are deployed sparingly, in type-specific clusters.
+
+This is **block economy** in the explicit sense: **a 19th-century printed dictionary cannot afford to elaborate every block in every entry**. Print space is finite; setting cost is real; the user must be able to scan. MW's design rationalises this by maintaining a 6-block kernel and adding to it only when the article-type demands. The block-economy is **not** present in MW's source dictionary PWG, which we calculated has [571,152 `<ls>` citations against MW's 312,159](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) — PWG is roughly 1.8× more citation-dense per entry. PWG can afford this density because it is a multi-volume work. MW1899 is one volume; block-economy is the print-economic constraint made explicit. (Whether block-economy is genuinely MW-specific or a general property of all single-volume scholarly dictionaries is an open question we flag in [§9](#9-methodological-limitations) and propose to settle with cross-dict matrices in [§8](#8-implications-for-future-cdsl-work).)
+
+## 5. Profiles as the unit of typology
+
+Once block-economy is recognised, the article-type *profile* (Construct 3) becomes the natural unit of lexicographic typology. Each of MW's 14 profiles is a **specific deviation** from the 6-block kernel — adding some blocks, suppressing others. We illustrate three before giving the full table.
+
+**The verbal-root profile.** Kernel present: F01, F02, F10, F12, F17 (skipping F04 — verbs are not in `<lex>`). Enrichments: F05 verb class (98.4%), F08 inflection forms (99.9%), F03 homophone (49.6%), F09 commentary (78.1%), F06 root marker (44.7%), F07 IE cognate (35.2%), F16 cross-reference (54.5%). Result: average 9.73 of 18 blocks — **the most elaborate profile in MW**. Roots are 0.26% of entries; they receive the largest share of editorial apparatus.
+
+**The compound-sub-entry profile.** Kernel present: F01, F02 (84.7%), F04 (80.7%), F10 (97.9%), F17 (96.3%). Enrichments: F12 source citation (81.2%), F08 inflection (18.5%) — modest additions. Suppressions: F03 (0.9%), F05 (0.3%), F06 (1.6%), F07 (0.1%), F09 (3.5%), F11 (0.0%), F14 (3.3%), F15 (14.7%), F16 (4.7%). Result: average 6.02 blocks — **the kernel + a citation, almost nothing more**. Compounds are 44% of MW's entries; their economical treatment is what makes the dictionary printable.
+
+**The lexicographer-only profile.** Kernel present: F01, F02, F04 (65.2%), F10 (100%), F17 (99.2%). Enrichment: F12 source citation (100%) — definitional (the `L.` is itself an `<ls>`). Singular: F13 hedge L. = 100%. Result: average 6.89 blocks — **the kernel + the hedge**. The hedge IS the entry's distinctive content; the rest is standard.
+
+The entire grounded analysis collapses into one printable diagnostic — the **MW profile table**:
+
+| Profile | Kernel (F01-02-04-10-12-17) | Distinctive enrichments | Distinctive suppressions | Avg blocks | Hedge incidence |
+|---|---|---|---|--:|--:|
+| Root | F02+F10+F12+F17 (no F04) | F05 cl.,P.,Ā. (98%); F08 forms (100%); F09 (78%); F06 √ (45%); F07 IE (35%); F16 (55%); F03 hom (50%) | F04 (gram absent) | 9.73 | 7% |
+| Noun_m | full kernel | F12 (78%); F08 (22%); F09 (7%); F06 (9%) | — | 6.43 | 19% |
+| Noun_f | full kernel | F14 botanical (6%) elevated | — | 6.28 | 21% |
+| Noun_n | full kernel | F08 (18%) | — | 6.05 | 12% |
+| Adjective_mfn | full kernel | F06 (17%) | F14, F15 lowest | 6.25 | 4% |
+| Indeclinable | full kernel | F08 (30%); F09 (12%) | F14 (0.1%) | 6.39 | 2% |
+| Compound | F01,F02,F04 (81%),F10,F17 | F12 (81%); F08 (18%) | F03, F05, F06, F07, F09, F11, F14, F15 all suppressed | 6.02 | 13% |
+| Derived | F01,F02 (69%),F04 (51%),F10,F17 | F12 (81%); F08 (23%) | most enrichments suppressed | 5.73 | 16% |
+| Continuation | F01,F10,F17 only (F02, F04 inherited) | F12 (81%) | F02 (34%); F04 (0.3%); F08 (7%) | 4.76 | 21% |
+| Lexicographer_only | full kernel | F13 hedge (100%); F14 (15%) | F09 (3%) | 6.89 | 100% |
+| IE_etymological | F01, F02 (95%), F08 (53%), F10, F17 | F07 (100%); F09 (38%); F16 (55%); F08 (53%) | F04 (27%) | 7.70 | 3% |
+| Botanical | F01, F02 (67%), F04 (69%), F10, F12, F14 (100%) | F13 hedge (72%); F08 (14%) | F02 lower (display by `<bot>`) | 7.28 | 72% |
+| Biographical | F01, F02, F04 (75%), F10, F12 (94%), F15 (100%) | F13 hedge (65%); F08 (20%) | — | 7.58 | 65% |
+| Vedic_accented | F01,F02 (70%),F04 (51%),F10,F12 (88%),F17 | F08 (28%); F09 (11%) | — | 5.93 | 11% |
+
+This table is the **single most useful diagnostic** for the working CDSL editor: pick an article type, see which blocks are expected, see what's distinctive, see how much elaboration to budget. It is also the framework's single deliverable for downstream metalexicographic comparison — the same table can be produced for any CDSL dictionary, allowing direct comparison across the corpus.
+
+## 6. The infrastructure layer and its meaning
+
+Construct 5 — infrastructure — does work no purely Wiegandian or Hausmannian analysis can do. F17 (`<info>` machine annotation) is present in 96% of entries. It carries machine-readable encoding of information that the human-readable blocks already convey. **It is a redundancy**, but a deliberate one: the CDSL editors needed a tag set the SQLite pipeline could parse without ambiguity, and they added it to `mw.txt` during digitisation. From a 19th-century print perspective, F17 does not exist; from a 21st-century digital perspective, it is the most pervasive block.
+
+This dual existence — present in the digital edition, absent from the print — is the **infrastructure layer**. Recognising it explicitly lets us **preserve the historical artefact** (when we talk about MW1899-as-print, F17 is not part of it), **acknowledge the digital tooling** (when we talk about MW1899-as-data, F17 is essential), and **track digitisation choices as such** (what the CDSL editors added vs what was in the print). The infrastructure construct is **specific to digital editions of historical dictionaries**, and we propose it as a general analytical category.
+
+## 7. Triangulation: three external frameworks converge
+
+We now corroborate the grounded reading against the three dominant metalexicographic traditions. The full treatments are in [Appendix A (Wiegand)](#appendix-a--the-wiegand-theoretic-reading-condensed), [Appendix B (Atkins-Rundell)](#appendix-b--the-atkins-rundell-practical-lexicography-reading-condensed), and [Appendix C (Hausmann-Wiegand)](#appendix-c--the-hausmann-wiegand-comment-class-reading-condensed). Here we report only what the triangulation establishes.
+
+### 7.1 The construct map
+
+Each grounded construct has a near-equivalent in each external tradition — which is itself evidence that the grounded constructs carve MW at real joints:
+
+| Grounded construct | Wiegand equivalent | Hausmann-Wiegand equivalent | Atkins-Rundell equivalent |
+|---|---|---|---|
+| **Block** | Item (*Angabe*) | Comment sub-element | Field |
+| **Slot** | Position in microstructure | Comment sequence | Entry skeleton |
+| **Profile** | Article-type (*Artikeltyp*) | Comment-class signature | Entry pattern |
+| **Hedge** | (transverse structural indicator) | Provenance-comment (proposed) | Register marker |
+| **Infrastructure** | — (no equivalent) | — (no equivalent) | — (no equivalent) |
+
+### 7.2 Three findings all three frameworks reach
+
+**(i) Kernel-plus-enrichment, not full microstructure.** The grounded reading names this *block economy* (§4). Wiegand's apparatus arrives at the same place via *microstructure density* — a modal-6-block typical article with a long tail (Appendix A). Atkins & Rundell arrive via the *headword-inventory + retrieval-dictionary* analysis — a maximally explicit but economically-treated lemma list (Appendix B). Hausmann arrives via the *form-comment economy* of compounds, which inherit form-information from their members (Appendix C). Four routes, one structural fact.
+
+**(ii) The `<ls>L.</ls>` hedge is MW's most distinctive feature.** The grounded reading names it the *hedge construct* (Construct 4). Wiegand identifies it as a transverse *commenting structural indicator* and a deliberate *Strukturveränderung* of PWG's source-attribution system (Appendix A §A.3). Atkins & Rundell classify it as a *pragmatic register marker* of the koshic-only register (Appendix B §B.5). Hausmann's framework has *no slot for it* and must be extended with a proposed fifth comment-class, the *Provenienz-Komment* (Appendix C §C.2). All four agree it is specific to MW, absent from PWG, and a deliberate editorial compression of PWG's named-kosha citation system. See [DICT_PROFILE Lineage](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg).
+
+**(iii) Continuation entries (`<e>1A`) are structurally distinctive.** All four readings note that MW's 9,294 continuation entries suppress display-headword (present in only 33.9%) and grammatical category (inherited from parent). The grounded reading calls them *kernel-reduced profiles* (avg 4.76 blocks, the lowest of any type); Wiegand calls them *adjacency-integration*, between full and semi-integration; Atkins & Rundell call them *adjacency-sub-entries*, a third option beyond lumping/splitting; Hausmann calls them *semantic-only* signatures (all form-comment inherited).
+
+### 7.3 What each framework contributes that the others do not
+
+- **Wiegand only:** MW exhibits a coherent integrated microstructure that *fits Wiegand's framework better than its 1899 date suggests* — evidence that European scholarly lexicography has a long continuous tradition Wiegand's framework captures. Wiegand also supplies a precise theory of **mediostructure** (cross-references between articles) that the grounded view treats only informally as F16; for MW's 4,401 `<ab>id.</ab>` instances a Wiegandian mediostructure analysis is more productive.
+- **Atkins-Rundell only:** MW is a **retrieval dictionary** (not a production dictionary) in A&R's macro-typology — and its apparent gaps (no examples, no register labels, locator-only citations) are *coherent* under that brief rather than defects. A&R's richer typology of dictionary *purpose* is the one thing the grounded framework cannot supply on its own: it can describe MW but cannot place it in a landscape without borrowing A&R's apparatus.
+- **Hausmann only:** the **Provenienz-Komment** as a proposed fifth comment-class — the framework's one novel theoretical contribution, motivated precisely by MW's hedge.
+- **Grounded only:** the **infrastructure construct** (§6) — recognising that F17 `<info>` and F18 correction records are *trace of digitisation*, not part of MW1899-as-print. No external framework recognises this distinction; and **block economy** (§4) is likewise unnamed elsewhere.
+
+### 7.4 The methodological payoff
+
+That three independently-motivated frameworks converge on the same three structural facts is the strongest argument that those facts are real. It is also the reason this is **one paper**: the external readings are not four competing publications but three corroborating witnesses to one grounded analysis. Where they diverge (§7.3), each adds exactly one thing the others miss, and those four additions are complementary rather than contradictory.
+
+## 8. Implications for future CDSL work
+
+Three concrete implications:
+
+- **For dictionary editing:** the [ROADMAP](../../ROADMAP.md) lists 34 open issues plus strategic categories (authority records, Vedic accent expansion, `L.` verification). The block-profile view suggests the highest-leverage editorial work is **filling profile-specific gaps** — e.g. systematically reducing F13 hedge incidence in botanical entries (currently 72%) via better named-source citation, recovering the kosha sources at [ARMH](https://github.com/sanskrit-lexicon/armh), [ABCH](https://github.com/sanskrit-lexicon/abch), [ACPH](https://github.com/sanskrit-lexicon/acph), [ACSJ](https://github.com/sanskrit-lexicon/acsj) (see [Appendix B §B.6](#appendix-b--the-atkins-rundell-practical-lexicography-reading-condensed)).
+- **For cross-dictionary work:** each CDSL dict ([PWG](https://github.com/sanskrit-lexicon/PWG), [AP](https://github.com/sanskrit-lexicon/ap), [WIL](https://github.com/sanskrit-lexicon/WIL), [SKD](https://github.com/sanskrit-lexicon/SKD), [GRA](https://github.com/sanskrit-lexicon/GRA), [BHS](https://github.com/sanskrit-lexicon/BHS)) and the four koshas should be analysed with the same 18-block framework. A comparative table of profile-distributions would surface intellectual lineages and design contrasts no single-dictionary study can — **and would directly test whether block-economy is MW-specific or a general single-volume property** ([§9](#9-methodological-limitations)). The [Lineage section in DICT_PROFILE.md](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) gives the qualitative version; a quantitative version is the natural follow-up.
+- **For digital-edition methodology:** the **infrastructure construct** (§6) is a transferable analytical tool. Any future digital edition of a historical dictionary needs to track what was added in digitisation vs what was in the original; the CDSL `<info>` system is one example, and XML attributes like `@type="digital"` could formalise the distinction across the project.
+
+## 9. Methodological limitations
+
+We flag five limits, each of which should be read into the percentages above and any of which could be a revision point in peer review:
+
+1. **Block detection is regex-based and approximate.** Several block markers are heuristic: F09 editorial commentary (parenthetical prose) over-counts when a gloss happens to use parentheses; F11 sense division under-counts because MW's sense markers vary (`1)`, `a)`, `— b)`); F08 inflection assumes ≥2 `<s>` tags, but compound sub-entries also use multiple `<s>` for compound members; F18 correction records were detected via `{{` / `->` patterns. A spot-check of ~100 random entries against the algorithm is outstanding; a ~5% error rate would meaningfully shift the smaller percentages.
+2. **No statistical significance testing yet.** Large differences (F09 at 78% in roots vs ~10% baseline) are uncontroversial, but smaller ones (F08 at 22% in noun_m vs 23% in noun_f) may not survive a chi-square / Fisher test. Roots are only 750 entries — small N, high variance. Confidence intervals on the percentages and significance tests on the contingency tables are needed for the final submission.
+3. **Block-economy is asserted on MW data alone.** It may be a general property of all single-volume scholarly dictionaries rather than MW-specific. The test is to compute the same kernel statistic for PWK / AP / WIL (§8); if they show the same 5–7 modal kernel, the claim weakens to "MW exhibits the block economy *characteristic of* single-volume scholarly dictionaries."
+4. **The "MW innovation" claim for the `L.`-hedge is under-checked.** PWG (0 instances) and PWK (0) are verified; AP has 1. But the prefaces of WIL, Benfey (1866), and Cappeller (1891) have not been checked for an analogous marker. If any predates MW, the claim must be downgraded to "MW systematically applied a hedge familiar from earlier English-Sanskrit work."
+5. **The 14-type typology mixes primary types with orthogonal properties.** `noun_m/f/n/mn` differ only in gender (one type, four sub-types); `vedic_accented` and `lexicographer_only` are orthogonal properties (a noun can be both `noun_m` and `vedic_accented`). A more parsimonious version would distinguish ~8 primary article types from orthogonal binary properties (Vedic-accented, lexicographer-hedged, IE-cognate-bearing).
+
+## 10. Conclusion
+
+A framework built **from MW1899 outward** identifies five core constructs — block, slot, profile, hedge, infrastructure — and yields one central empirical claim: **MW is a block-economical scholarly dictionary**, maintaining a 6-block kernel across 286,561 entries with type-driven enrichment. The single most distinctive structural feature is the *hedge* `<ls>L.</ls>` (Construct 4) — one block, deployed transversely across article types, absent from MW's source PWG. The single most distinctive *meta*-feature is the **infrastructure layer** (Construct 5) — the 96% incidence of `<info>` machine annotations added during digitisation, a trace of the digital edition itself.
+
+Triangulated against three external traditions, the grounded reading is corroborated, not contradicted: Wiegand explains how MW *could be* described as integrated-microstructure but obscures the kernel-plus-enrichment design; Hausmann-Wiegand fits MW's source-comment apparatus but must be extended with a fifth class for the hedge; Atkins-Rundell positions MW in a broader lexicographic landscape but treats blocks generically as "fields." All three converge on the kernel-plus-enrichment economy, the singular `L.`-hedge, and the distinctive continuation entry — the strongest evidence that these are properties of the artefact. The grounded view adds two things none of the three captures: *block economy* and the *infrastructure layer*. The digital edition's XML markup makes the whole analysis tractable for the first time, and the same approach is portable to the rest of the [CDSL collection](https://www.sanskrit-lexicon.uni-koeln.de/) — the natural next step.
+
+---
+
+## Appendix A — The Wiegand-theoretic reading (condensed)
+
+**Framing:** Wiegand's microstructure theory (1989, 1996, 2002; Wiegand & Smit 2013). An XML markup language *is*, in Wiegand's terms, a system of **structural indicators** (*Strukturanzeiger*) — each tag a typographically-distinct signal of an item-class (*Angabeklasse*).
+
+**A.1 — Microstructure type.** Wiegand distinguishes *purely additive*, *semi-integrated*, and *fully integrated* microstructures (1989: 416–425). **MW is fully integrated at the macro level and additive at the micro level for thin entries.** The `<e>1` → `<e>1A` → `<e>2` → `<e>3` hierarchy ([data](../../ENTRY_GUIDE.md#entry-hierarchy-distribution)) realises a 4-deep integration; the `<e>1A` continuation — a sub-article whose lemma is suppressed (33.9% retain `<s>`) and whose existence is intelligible only relative to the preceding `<e>1` — is the archetypal integrated-microstructure marker. Two caveats keep MW from maximal integration: (i) `<e>1A` continuations are formally *separate* `<L>` records rather than nested under their parent, integrated only by adjacency and the `<e>1A` indicator (**adjacency-integration**); (ii) lexicographer-only entries are often internally *additive* (one sense + one `<ls>L.</ls>`).
+
+**A.2 — Structural-indicator load.** Not all indicators carry equal *discriminative load*. Three are maximally discriminative (≥ 50-point differences across types): `<info verb="genuineroot"/>` (100%/0% root vs non-root); `<ls>L.</ls>` (100% of lexicographer-only, 71.5% of botanical, 64.7% of biographical — a *transverse* indicator); `<lang>` (100% of IE-etymological, < 1% elsewhere). The 18-indicator inventory exceeds the typical learner-dictionary count (8–12; Wiegand 1995) and is consistent with what Wiegand calls a **scholarly all-information dictionary**, the category MW shares with Grimm's *Deutsches Wörterbuch*.
+
+**A.3 — The `L.`-hedge as *Strukturveränderung*.** PWG's source-attribution item-class was maximally articulated (821 distinct `<ls>` values, e.g. `H.` Hemacandra 17,337×, `AK.` Amarakośa 14,473×, `MED.` Medinīkośa 13,055×). MW collapsed this into a **binary**: named textual source (real textual evidence) vs `<ls>L.</ls>` (indigenous-lexicographer-only). This is a deliberate *Strukturveränderung* — a simplification of microstructure that produces a *gain* of reader-guidance: it signals an evidentiary class and tells the user to weight the gloss differently. See [DICT_PROFILE Lineage](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg).
+
+**A.4 — Fullness as microstructure density.** The 5-tier fullness scale ([MICROANALYSIS.md §5](MICROANALYSIS.md#5--fullness-scale)) corresponds to Wiegand's *Mikrostrukturdichte*: T1 Vestigial (1–3 item-classes, 3.7%), T2 Skeletal (4–5, 30.5%), T3 Typical (6, 31.9%), T4 Rich (7–9, 32.4%), T5 Elaborate (10+, 1.4%). Median density is 6 — higher than learner dictionaries (4–5; A&R 2008: 199), lower than Grimm (~10; Reichmann 1999). MW occupies a middle position: *scholarly but compact*.
+
+**A.5 — Conclusion.** MW has an integrated microstructure with 18 structural indicators realising 8 item-classes across ≥14 article-type profiles, dominated by a modal-6-block typical article with a long elaborate tail. The `L.`-hedge is the strongest Wiegand-theoretic case for treating MW as an *editorial reworking* of PWG rather than a translation.
+
+## Appendix B — The Atkins-Rundell practical-lexicography reading (condensed)
+
+**Framing:** Atkins & Rundell, *The Oxford Guide to Practical Lexicography* (2008) — a designer's handbook. Applied *backwards*, from finished product to inferred design decision, it lets us read MW as a coherent system of choices. A&R organise the lexicographer's work into six design decisions: headword inventory, sense division, definition writing, example provision, syntactic/lexical patterns, encyclopedic/pragmatic content.
+
+**B.1 — Headword inventory: deliberate over-enumeration.** Of [286,561 records](../../ENTRY_GUIDE.md#entry-hierarchy-distribution), **50.4% are compounds** (`<e>3*`), each given its own `<L>` record, `<lex>`, gloss, and citation, with the em-dash in `<k2>` (`aMSu—jAla`) as the structural cue. A&R note (2008: 168) that modern dictionaries handle compounds via run-on entries, *not* standalone records. MW's opposite policy is a **scalability decision** for an agglutinative language and reflects systematic compound enumeration where PWG was selective (MW has [2.3× as many records as PWG](../../DICT_PROFILE.md#beyond-pwg--what-mw-contributes)). It is a *maximally explicit* inventory — coherent under A&R's *user-need* principle only if the user is an academic Sanskritist.
+
+**B.2 — Sense division: the adjacency-sub-entry.** A&R's lumping/splitting distinction does not fit MW's *third* strategy: a polysemous lemma gets one `<e>1` entry **plus** a tail of `<e>1A` continuation records sharing the headword and relying on adjacency for cohesion (the paradigm is [L10 *áṃśa*](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L55) with its nine continuations). We name these **adjacency-sub-entries**: display headword suppressed in 66.1%, grammar suppressed in 99.7%, `<info>` present in 98.6%, avg fullness 4.76. Visually compact in print, fully indexed for digital retrieval — a remarkable forward-compatibility, perhaps not by design.
+
+**B.3 — Definition style and examples.** MW uses **translation-equivalent** definitions (comma-separated glosses) with **embedded etymology** in the parenthetical that A&R (2008: 263) would split into a separate field. F09 commentary concentrates in roots (78.1%) and IE-etymological entries (38.4%), running 3–10% elsewhere — concentrated where philological reasoning matters. MW carries **no examples**: its [311,932 `<ls>` citations](../../ENTRY_GUIDE.md#coverage-of-ls-citations) are **locators** (15.1% with a numeric coordinate, 84.9% bare work-citations), not quotations. Defective by A&R's standards (user-burden too high) but a *practical* choice — example provision would have made MW unprintable as one volume.
+
+**B.4 — Syntactic patterns.** MW records verb class (`<ab>cl.</ab>`, 98.4% of roots), voice (`P.`/`Ā.`), gender (`<lex>`, 100% of nouns/adjectives), and compound position (`ifc.`/`ibc.`) — but no other collocational data. A&R would mark this a gap; it is consistent with the retrieval-dictionary brief (B.7).
+
+**B.5 — `L.` as register marker.** A&R's vocabulary classifies `<ls>L.</ls>` as a **pragmatic register marker** of the *koshic-only* register: "recorded in the indigenous lexicons but not found in any published text." Its [type-bound distribution](MICROANALYSIS.md) (100% lexicographer-only, 71.5% botanical, 64.7% biographical, 21.1% continuation) is exactly the register-distribution profile A&R recommend tracking (2008: 386) — which MW does implicitly, by the marker's presence/absence.
+
+**B.6 — What a modern revision would change.** Add real examples (now feasible via [GRETIL](http://gretil.sub.uni-goettingen.de/) / DCS); separate etymology into an `<etym>` field; convert `<ls>L.</ls>` into named-kosha citations (recovering PWG's discipline; see [Lineage](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg)); add collocational data; modernise the gloss register; re-evaluate compound enumeration. Each is technically tractable on the digital edition; none is editorially trivial.
+
+**B.7 — The retrieval dictionary.** A&R distinguish *production* dictionaries (encoding) from *reception/retrieval* dictionaries (decoding). **MW is a retrieval dictionary**, and every design choice reviewed — explicit compound inventory, translation-equivalent glosses, no examples, locator citations, verb class + voice + gender — is coherent under that brief. A&R note retrieval dictionaries are a declining category; MW is one of the largest surviving examples.
+
+## Appendix C — The Hausmann-Wiegand comment-class reading (condensed)
+
+**Framing:** Hausmann (1977, 1985) analysed a dictionary article as a sequence of **comments** (*Kommentare*): Form-Komment (orthography, accent, etymology of the *form*), Semantischer Komment (definition), Pragmatischer Komment (register), Beispielkomment (examples), and — in the 1985 formulation — Quellenkomment (source citation). Wiegand (1989: §6) grants that Hausmann's classes remain "the natural starting point for analysing the microstructure of older dictionaries." MW's lexicographer would have recognised four broad categories — *form, meaning, register, source* — in his own work; applying Hausmann therefore *recovers the lexicographer's own working categories*.
+
+**C.1 — The partition.** MW's 18 blocks partition cleanly: **Form-comment** = F01–F08 plus the etymological part of F09 (the most elaborate class — eight sub-blocks, maximal in verbal roots, minimal in compounds, which inherit form from their members); **Semantic-comment** = F10, F11, plus the encyclopedic sub-blocks F14 botanical (Latin binomials, 8,923 tags) and F15 biographical (often doubly encoded, e.g. `<s1>Agastya</s1>` / `<bio>Canopus</bio>`); **Pragmatic-comment** = *almost absent* (no explicit *literary*/*colloquial*/*archaic* labels — register is outsourced to the citation pattern); **Quellen-Komment** = F12 (named literary works; see [top-25 sources](../../ENTRY_GUIDE.md#top-25-most-cited-sources)); **infrastructure** = F17, F18 (not Hausmann comments).
+
+**C.2 — The fifth class: *Provenienz-Komment*.** Hausmann's four-comment system has no place for `<ls>L.</ls>`. The hedge is formally an `<ls>` source-comment but **semantically** signals the *kind* of evidence rather than naming a source. We propose a fifth comment-class, **Provenienz-Komment** (provenance-comment), realised in MW by exactly one block (F13): it tells the reader the *evidentiary provenance* of a sense without pointing to a specific text. Its 71.5% incidence in botanicals is the most informative datum — botanical Sanskrit is overwhelmingly koshic, and `L.` is the *only* way the reader learns it. Hausmann did not name this class because French and German source-dictionaries did not need it; Sanskrit lexicography did. MW's binary `L.`-vs-named-source system is a tool tailored to the [koshic-textual evidential duality of Sanskrit lexicography](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) — a 19th-century lexicographic invention, absent from Hausmann's system, from PWG, and from modern English dictionaries.
+
+**C.3 — The fivefold signature taxonomy.** Abstracting above the block matrix, MW's 14 article types reduce to five recurring comment-class signatures: **form-dominant** (roots), **balanced** (standard nouns, adjectives, indeclinables), **semantic-dominant** (compounds, derivatives — form inherited), **provenance-dominant** (lexicographer-only — the hedge is the entry's main content), and **encyclopedic-doubled** (botanicals, biographicals — semantic comment is itself encyclopedic). This taxonomy generalises the 14 profiles into a manageable lexicographic typology.
+
+**C.4 — What a modern revision would add.** Hausmann (1985: §4) holds that pragmatic-comment is the most under-realised class in older scholarly dictionaries; MW confirms it. A modern revision would fill the pragmatic class (register labels), subdivide the Provenienz-Komment back into named-kosha citations (resolvable against [ARMH](https://github.com/sanskrit-lexicon/armh) / [ABCH](https://github.com/sanskrit-lexicon/abch) / [ACPH](https://github.com/sanskrit-lexicon/acph) / [ACSJ](https://github.com/sanskrit-lexicon/acsj)), and add a Beispielkomment (examples), which requires fresh corpus work.
+
+---
+
+## References (selected)
+
+- Apresjan, J. (2002). *Principles of Systematic Lexicography*. In M.-H. Corréard (ed.), *Lexicography and natural language processing*. Euralex.
+- Atkins, B. T. S. & Rundell, M. (2008). *The Oxford Guide to Practical Lexicography*. Oxford University Press.
+- Funderburk, J., Malten, T., & Scharf, P. (2014). *Wilson's Sanskrit-English Dictionary, digital edition*. Cologne Digital Sanskrit Lexicon.
+- Glaser, B. G. & Strauss, A. L. (1967). *The Discovery of Grounded Theory*. Aldine.
+- Hanks, P. (2013). *Lexical Analysis: Norms and Exploitations*. MIT Press.
+- Hartmann, R. R. K. (2001). *Teaching and Researching Lexicography*. Pearson.
+- Hausmann, F. J. (1977). *Einführung in die Benutzung der neufranzösischen Wörterbücher*. Niemeyer.
+- Hausmann, F. J. (1985). *Lexikographie*. In *Handbücher zur Sprach- und Kommunikationswissenschaft (HSK)*.
+- Hausmann, F. J. & Wiegand, H. E. (1989). *Component parts and structures of general monolingual dictionaries: a survey*. In HSK 5.1. De Gruyter.
+- Monier-Williams, M. (1899). *A Sanskrit-English Dictionary, Etymologically and Philologically Arranged*. 2nd edn, with E. Leumann and C. Cappeller. Oxford: Clarendon Press.
+- Reichmann, O. (1999). *Das Deutsche Wörterbuch von Jacob und Wilhelm Grimm*. In *Lexikographica* 15.
+- Scharf, P. M. & Hyman, M. (2009–2011). *Encoding Sanskrit dictionaries: report from the Cologne project*. In *Sanskrit Computational Linguistics*.
+- Schreyer, R. (1985). *Sanskrit Dictionary-Making: A Critical Bibliography of the European Tradition*. Brill.
+- Wiegand, H. E. (1989). *Aspekte der Makrostruktur im allgemeinen einsprachigen Wörterbuch*. In HSK 5.1: 371–409.
+- Wiegand, H. E. (1996). *Über die Mediostrukturen bei gedruckten Wörterbüchern*. In *Symposium on Lexicography VII*: 11–43.
+- Wiegand, H. E. (2002). *Equivalence in Bilingual Lexicography*. Lexikos 12: 239–255.
+- Wiegand, H. E. & Smit, M. (eds.) (2013). *Dictionaries: An International Encyclopedia of Lexicography*. Supplementary Volume. De Gruyter.
+
+---
+
+*Source data: [MICROANALYSIS.md](MICROANALYSIS.md). This single paper consolidates four earlier parallel framework drafts (Wiegand · Atkins-Rundell · Hausmann-Wiegand · Grounded) per [DOUBTS.md D4](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking); the grounded reading is the body, the three external readings are [Appendices A–C](#appendix-a--the-wiegand-theoretic-reading-condensed). The four fuller single-framework drafts are retained in this directory as supplementary material: [Wiegand](paper-wiegand.md) · [Atkins-Rundell](paper-atkins-rundell.md) · [Hausmann-Wiegand](paper-hausmann.md) · [Grounded](paper-grounded.md).*

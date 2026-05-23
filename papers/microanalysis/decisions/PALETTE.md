@@ -6,7 +6,7 @@ Covers decisions **1**, **9**, **18**, **19** from the visualisation-planning ph
 
 ## Decision 1 — Shared colour palette via CSS
 
-All four framework papers + the interactive [csl-atlas](https://github.com/sanskrit-lexicon/csl-atlas) microsite use the same colour palette for the 14 article types. Implementation: **via CSS** (custom properties / design tokens), so a single source-of-truth defines colours that flow through (a) the static SVG figures generated for the paper, (b) the Mermaid diagrams embedded in markdown docs, and (c) the interactive microsite.
+The [paper](../PAPER.md) + the interactive [csl-atlas](https://github.com/sanskrit-lexicon/csl-atlas) microsite use the same colour palette for the 14 article types. Implementation: **via CSS** (custom properties / design tokens), so a single source-of-truth defines colours that flow through (a) the static SVG figures generated for the paper, (b) the Mermaid diagrams embedded in markdown docs, and (c) the interactive microsite.
 
 The CSS strategy lets us:
 

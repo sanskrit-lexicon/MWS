@@ -1,6 +1,6 @@
 # MW1899 — Microstructural working notes
 
-**Working document.** Exhaustive block-by-block analysis of the Monier-Williams *Sanskrit-English Dictionary* (1899) as digitized in [CDSL `mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt). This file is the **data source** for the four framework papers in this directory ([README](README.md)).
+**Working document.** Exhaustive block-by-block analysis of the Monier-Williams *Sanskrit-English Dictionary* (1899) as digitized in [CDSL `mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt). This file is the **data source** for the consolidated [paper](PAPER.md) in this directory ([README](README.md)).
 
 All counts computed 2026-05-23 against [mw.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) (286,561 records, 48.9 MB).
 
@@ -375,7 +375,7 @@ This working notes file *depends on* and *extends* the existing docs-pass conten
 
 ---
 
-## 9 · Open analytical questions (for the four framework papers)
+## 9 · Open analytical questions (for the paper)
 
 1. **Are the 14 article types categorically distinct, or a gradient?** Wiegand's microstructure types might suggest categorical; the data (entries fluidly satisfy multiple types) might suggest gradient.
 

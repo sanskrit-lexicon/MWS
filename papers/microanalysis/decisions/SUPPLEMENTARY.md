@@ -22,7 +22,7 @@ The IJL submission includes a single ZIP archive `mw-microanalysis-supplementary
 ```
 supplementary/
   README.md                            entry point
-  papers/                              the 4 framework papers (PDF + markdown source)
+  paper/                               PAPER.md (PDF + markdown source)
   data/                                JSON dumps of the block matrix,
                                        citation stats, fullness distribution, etc.
   figures/                             all static SVG figures + PNG fallbacks

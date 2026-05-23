@@ -9,7 +9,7 @@ This document is **self-contained** — read it (and follow the links) before do
 
 ## 1. Five-line orientation
 
-The Cologne Digital Sanskrit Lexicon (CDSL) project, sanskrit-lexicon org on GitHub, runs an org-wide **docs-pass** across ~76 repos to standardise documentation. The MWS (Monier-Williams) docs-pass is the flagship pilot, completed and reviewed via [issue #195](https://github.com/sanskrit-lexicon/MWS/issues/195). On top of that, we built a four-paper [**microanalysis** of MW1899's microstructure](README.md) (286,561 records, 18 formal blocks, 14 article types, 28 design decisions), a [visualisation catalogue](VISUALISATIONS.md), and four [Tier-1 figures](figures/) (heatmap / treemap / Sankey / Mermaid timeline). The next strategic phase is [**csl-atlas**](decisions/MICROSITE.md) — a 9-dict Observable Framework microsite covering MW + PWG + AP + WIL + SKD + ARMH + ABCH + ACPH + ACSJ + VCP + PWK.
+The Cologne Digital Sanskrit Lexicon (CDSL) project, sanskrit-lexicon org on GitHub, runs an org-wide **docs-pass** across ~76 repos to standardise documentation. The MWS (Monier-Williams) docs-pass is the flagship pilot, completed and reviewed via [issue #195](https://github.com/sanskrit-lexicon/MWS/issues/195). On top of that, we built a [**microanalysis** of MW1899's microstructure](README.md) (286,561 records, 18 formal blocks, 14 article types, 28 design decisions) — originally four parallel framework papers, **now consolidated into a single paper** ([PAPER.md](PAPER.md), per [D4](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking)): a data-grounded body + three condensed framework appendices — plus a [visualisation catalogue](VISUALISATIONS.md) and four [Tier-1 figures](figures/) (heatmap / treemap / Sankey / Mermaid timeline). The next strategic phase is [**csl-atlas**](decisions/MICROSITE.md) — a 9-dict **Observable Framework** microsite (stack confirmed, per [D8](DOUBTS.md#d8--observable-framework-is-heavy-infrastructure-for-a-research-microsite--blocking)) covering MW + PWG + AP + WIL + SKD + ARMH + ABCH + ACPH + ACSJ + VCP + PWK.
 
 ---
 
@@ -42,11 +42,8 @@ The Cologne Digital Sanskrit Lexicon (CDSL) project, sanskrit-lexicon org on Git
 | File | Purpose |
 |---|---|
 | [MICROANALYSIS.md](MICROANALYSIS.md) | **Data backbone** — 18 formal blocks, 8 semantic blocks, 14 article types, the [block-by-type matrix](MICROANALYSIS.md#4--the-block-by-article-type-matrix), [fullness scale T1–T5](MICROANALYSIS.md#5--fullness-scale), 8 worked entry samples, co-occurrence pairs. |
-| [paper-wiegand.md](paper-wiegand.md) | Framework paper #1: Wiegand microstructure theory applied to MW. ~8K words. |
-| [paper-atkins-rundell.md](paper-atkins-rundell.md) | Framework paper #2: practical-lexicography lens. MW as retrieval dictionary. ~7.5K words. |
-| [paper-hausmann.md](paper-hausmann.md) | Framework paper #3: Hausmann-Wiegand hybrid + proposed *Provenienz-Komment* 5th class. ~7K words. |
-| [paper-grounded.md](paper-grounded.md) | Framework paper #4: data-grounded framework (block / slot / profile / hedge / infrastructure); proposes **block economy** as MW's defining property. ~8K words. |
-| [README.md](README.md) | Indexes the four papers + cross-framework convergences. |
+| [PAPER.md](PAPER.md) | **The consolidated paper (~5.7K words).** Data-grounded body (five constructs — block / slot / profile / hedge / infrastructure; the **block-economy** thesis), §7 triangulation showing three external frameworks converge, three condensed appendices (**A** Wiegand microstructure · **B** Atkins-Rundell practical lexicography / retrieval-dictionary typology · **C** Hausmann-Wiegand comment-classes + proposed *Provenienz-Komment* 5th class), and a §9 methodological-limitations section. Consolidates the four `paper-*.md` drafts, which are **retained in this directory as supplementary extended drafts** (each banner-linked back to PAPER.md). |
+| [README.md](README.md) | Indexes PAPER.md + the consolidation rationale + the triangulation summary. |
 | [VISUALISATIONS.md](VISUALISATIONS.md) | Catalogue of ~40 visualisation ideas across 10 categories, prioritised Tier 1/2/3. **Redirects to thematic decisions/* sub-docs for the 28 design decisions.** |
 | [DOUBTS.md](DOUBTS.md) | **Critical review.** 15 substantive doubts (D1–D15) about analytical claims, design decisions, architecture. Read this before publishing anything. |
 | [decisions/README.md](decisions/README.md) | Index for the 7 thematic decision sub-docs. |
@@ -124,9 +121,9 @@ Earlier history before this arc: see `git log --all` on the MWS repo or [project
 
 Brief summary of the 15 doubts D1–D15:
 
-**Blocking** (must be resolved before further build):
-- [**D4**](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking): four papers from the same data may be salami-slicing. Consider consolidating to one paper + three appendices, or splitting across different journals (Wiegand → German venue, A-R → *Lexikos*, Hausmann → *Lexicographica*, grounded → IJL).
-- [**D8**](DOUBTS.md#d8--observable-framework-is-heavy-infrastructure-for-a-research-microsite--blocking): Observable Framework may be over-engineered for a research microsite. Consider vanilla HTML + D3 for static parts.
+**Blocking** — both now **RESOLVED (2026-05-23)**:
+- [**D4**](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking) ✅ **consolidated to one paper.** The four parallel drafts became [PAPER.md](PAPER.md): grounded body + three condensed appendices, with §7 reframing the external frameworks as convergent triangulation rather than parallel publications.
+- [**D8**](DOUBTS.md#d8--observable-framework-is-heavy-infrastructure-for-a-research-microsite--blocking) ✅ **keep Observable Framework.** Stack confirmed ([Decision 10](decisions/MICROSITE.md#decision-10--stack-observable-framework)); static SVG/PNG figures stay independent of it so the paper carries no build dependency.
 
 **Important** (should be resolved before publication):
 - [**D1**](DOUBTS.md#d1--is-block-economy-a-genuine-principle-or-print-economic-artifact--important): "block economy" might be a general property of all single-volume scholarly dicts, not MW-specific. Test against PWK / AP / WIL block matrices.
@@ -161,12 +158,9 @@ Once reviewed, **Phase 4 (org-wide rollout)** can proceed: waves of ~15 repos.
 
 ### 5b. Microanalysis publication path
 
-Options per [D4](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking):
-- (a) Submit the [grounded paper](paper-grounded.md) to IJL as the primary submission, treat other three as appendix.
-- (b) Submit different framework papers to different venues simultaneously (Wiegand → German venue, A-R → *Lexikos*, Hausmann → *Lexicographica*, grounded → IJL).
-- (c) Consolidate to one long paper.
+**Decided (2026-05-23):** option (a)/(c) — **one consolidated paper** ([PAPER.md](PAPER.md)) for [IJL](https://academic.oup.com/ijl). The grounded reading is the body; the three external frameworks are condensed appendices and reframed in §7 as convergent triangulation. (The rejected alternative was splitting across different venues — Wiegand → German venue, A-R → *Lexikos*, Hausmann → *Lexicographica*.)
 
-User has not yet chosen. Russian-language venue is also planned (per Decision 3, 6, 11).
+Still open: a final pre-submission pass on the [§9 limitations](PAPER.md#9-methodological-limitations) (regex spot-check, significance tests, the `L.`-innovation preface checks) and the planned Russian-language venue (per Decision 3, 6, 11).
 
 ### 5c. csl-atlas microsite
 
@@ -216,8 +210,8 @@ Memory files at `C:/Users/user/.claude/projects/D--claude/memory/`. One fact per
 3. [VISUALISATIONS.md](VISUALISATIONS.md) — the catalogue + tier prioritisation
 4. [decisions/README.md](decisions/README.md) — index of the 7 thematic decision sub-docs
 5. [MICROANALYSIS.md](MICROANALYSIS.md) — the data backbone
-6. [README.md](README.md) — index of the 4 framework papers
-7. [paper-grounded.md](paper-grounded.md) — the most original of the 4 papers (recommended primary submission per [D4](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking))
+6. [README.md](README.md) — index of the paper + consolidation/triangulation rationale
+7. [PAPER.md](PAPER.md) — the consolidated submission paper (grounded body + triangulation + Appendices A–C)
 8. [../../ROADMAP.md](../../ROADMAP.md) — MWS issue synthesis + quarterly plan
 9. [../../DICT_PROFILE.md](../../DICT_PROFILE.md) — reader-facing MW profile (the most-developed docs-pass artefact)
 10. [project_docs_review.md](file:///C:/Users/user/.claude/projects/D--claude/memory/project_docs_review.md) — full project history with phases 3.1–3.9
@@ -271,21 +265,21 @@ Memory files at `C:/Users/user/.claude/projects/D--claude/memory/`. One fact per
 
 Pick whichever is most actionable:
 
-1. **D4 paper consolidation:** does the user prefer to submit one paper to IJL, or different papers to different venues?
-2. **D8 microsite stack:** stay with Observable Framework or downgrade to vanilla HTML + D3?
+1. ~~**D4 paper consolidation**~~ ✅ **DECIDED** — one consolidated paper to IJL ([PAPER.md](PAPER.md)).
+2. ~~**D8 microsite stack**~~ ✅ **DECIDED** — keep Observable Framework ([Decision 10](decisions/MICROSITE.md#decision-10--stack-observable-framework)).
 3. **Russian translation review:** when can [@gasyoun](https://github.com/gasyoun) review the [bootstrap RU translations](figures/locales/ru.json)?
 4. **Phase-4 scope:** which dicts join csl-atlas in what order? PWG first? AP90? GRA?
 5. **MVP cut:** does the user accept the 1-week MVP path proposed in [DOUBTS.md §"What I'd cut if I had to"](DOUBTS.md#what-id-cut-if-i-had-to)?
-6. **Methodological limitations section:** should we add it to MICROANALYSIS.md (per [D6](DOUBTS.md#d6--block-detection-is-regex-based-and-approximate--important))?
+6. ~~**Methodological limitations section**~~ ✅ **DONE** — added as [PAPER.md §9](PAPER.md#9-methodological-limitations) (regex limits, significance testing, cross-dict scope, `L.`-innovation checks, typology overlap), per [D6](DOUBTS.md#d6--block-detection-is-regex-based-and-approximate--important).
 7. **csl-atlas repo creation:** is the user ready to create the repo on the sanskrit-lexicon org, or wait?
-8. **Cross-dict block matrices:** should we extend the analysis to PWG / AP / WIL / SKD / PWK / VCP for the Phase-4 atlas?
+8. **Cross-dict block matrices:** should we extend the analysis to PWG / AP / WIL / SKD / PWK / VCP for the Phase-4 atlas? (Would also settle whether [block-economy is MW-specific](PAPER.md#9-methodological-limitations).)
 
 ---
 
 ## 11. Quick environment facts
 
 - **Working directory:** `D:/claude/` (Windows; PowerShell + Bash both available; **no `find`/`grep`/`cat` via Bash — use Glob/Grep/Read tools**)
-- **MWS local clone:** `D:/claude/mws_repo/` on `docs-pass` branch
+- **MWS local clones (two, same `origin`):** `C:/Users/user/Documents/GitHub/MWS/` (the GitHub-Desktop clone — **now the active working copy**, on `docs-pass` as of 2026-05-23) and `D:/claude/mws_repo/` (also on `docs-pass`). Both track `origin/docs-pass`; commit/push in one, then `git fetch && git pull` in the other to avoid divergence.
 - **Other pilot repos:** `D:/claude/csl-sqlite_repo/`, `D:/claude/csl-inflect_repo/`, `D:/claude/hwnorm1_repo/`, `D:/claude/cologne_repo/`
 - **Docs-review workspace:** `D:/claude/sanskrit-lexicon-docs-review/` (runbooks, templates, hand-offs)
 - **Data files (downloaded for analysis):** `/tmp/mw.txt`, `/tmp/pwg.txt`, `/tmp/ap.txt`, `/tmp/wil.txt`, `/tmp/skd.txt`, `/tmp/pw.txt`, `/tmp/vcp.txt`, plus the four koshas `armh.txt`, `abch.txt`, `acph.txt`, `acsj.txt`
