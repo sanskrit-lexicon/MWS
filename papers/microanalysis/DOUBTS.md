@@ -1,0 +1,225 @@
+# DOUBTS.md — critical review of architecture decisions
+
+**Mandate (2026-05-23):** [@gasyoun](https://github.com/gasyoun) — "Review everything. Doubt everything, all architecture solutions."
+
+This document records honest reservations about the 28 design decisions in [VISUALISATIONS.md](VISUALISATIONS.md), the 4-paper plan in [README.md](README.md), and the broader docs-pass + microanalysis + atlas trajectory. Each doubt is rated **blocking** (must be resolved before further build) / **important** (should be resolved before publication) / **nice-to-resolve** (can ship without).
+
+The goal is not to undo decisions but to make their weaknesses visible. If a doubt survives scrutiny, it should be documented as a known limitation in the paper(s) rather than hidden.
+
+---
+
+## Substantive doubts about the analytical claims
+
+### D1 — Is "block economy" a genuine principle or print-economic artifact? · *important*
+
+Our [grounded paper](paper-grounded.md) names "block economy" as MW's defining structural choice: a 6-block kernel reused across 286,561 entries with type-driven enrichment. But this could be just a **side-effect of being a single-volume print dictionary** — every printed dictionary economises blocks to fit pages. PWK (also single-volume, also condensed) might exhibit identical economy without anyone calling it a principle.
+
+**Test:** compute the same kernel statistic for PWK / AP / WIL. If they all show the same 5–7 modal kernel, then "block economy" is a general property of all single-volume scholarly dictionaries, not MW-specific. The grounded paper would need to weaken its claim to *"MW exhibits the block economy characteristic of single-volume scholarly dictionaries"* — still publishable, less striking.
+
+**Fix:** add Phase-4 cross-dict block matrices and compare kernels. Currently asserted on MW data alone.
+
+### D2 — The `<ls>L.</ls>` "MW innovation" claim — under-checked · *important*
+
+Our [Lineage section](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) and [Hausmann paper §5](paper-hausmann.md) claim MW *invented* the generic L.-hedge. The evidence: PWG has 0 instances, PWK has 0 instances (we just verified), AP has 1 instance.
+
+But:
+- We have not checked WIL's preface for its own hedge convention (`(L.)` parentheticals?).
+- We have not checked 19th-c. non-CDSL English Sanskrit dictionaries (Benfey's *Sanskrit-English Dictionary*, 1866; Cappeller's *Sanskrit-English Dictionary*, 1891). Either may have used a similar marker first.
+- We have not checked **other Asian-language English dictionaries** of the period (Williams's Chinese dictionary, Watson's Japanese) for analogous conventions — borrowing across dictionary traditions was common.
+
+**Test:** read at least the preface of WIL + Benfey + Cappeller (CAE in CDSL) before publication. If any predates MW with a similar marker, the "MW innovation" claim must be downgraded to "MW systematically applied a hedge familiar from earlier English-Sanskrit work."
+
+**Fix:** add a footnote acknowledging this incomplete verification; cross-check before submission.
+
+### D3 — The kosha-lineage of WIL is over-narrated · *nice-to-resolve*
+
+We claim WIL is "the kosha tradition translated" based on (a) the subtitle ("learned natives at Fort William College") and (b) CDSL's `koSa` subject classification. The evidence is strong for *direction* but weak for *exclusivity*. Wilson's 1832 preface explicitly says he consulted **both** indigenous lexicographers (pandits) **and** European Sanskritists; his references list includes both Sanskrit *nighaṇṭus* and European editions.
+
+**Risk:** the binary "WIL ← Koshas, MW ← PWG" is too clean. Reality may be:
+- WIL ← (Koshas + early European Sanskritology including Colebrooke, Carey)
+- PWG ← (Koshas + Vedic textual corpus + WIL itself)
+- MW ← (PWG + WIL + the Petersburg supplements + new textual discoveries)
+
+**Fix:** soften the lineage diagram. Replace the binary "two ancestries" framing with a directed graph that acknowledges cross-influence.
+
+### D4 — 4 framework papers from the same data — is this honest? · *blocking*
+
+We wrote 4 papers each analysing the same 286,561 records through a different theoretical lens. The danger: **a journal may see this as salami-slicing** (one finding split into four publications). The IJL editorial board specifically flags multi-version submission of the same data.
+
+**Test:** if all four papers were submitted to IJL simultaneously, would they survive? Probably not — they would be told to consolidate.
+
+**Fix:** **submit one paper** (probably the grounded paper, which is the most original) and treat the other three as either:
+- (a) Appendix sections of the main paper
+- (b) Companion documents released as a methodology supplement to the main paper
+- (c) Separate venues — Wiegand to a German Wiegandian journal, Atkins-Rundell to *Lexikos*, Hausmann to *Lexicographica*, grounded to IJL
+
+Right now we're presenting 4 simultaneous parallel papers, which is unusual.
+
+### D5 — Article-type typology — 14 is too many / overlapping · *important*
+
+Our 14 article types contain heavy overlap:
+- `noun_m`, `noun_f`, `noun_n`, `noun_mn` differ only in gender — really one type with 4 sub-types.
+- `vedic_accented` orthogonally overlaps with everything (a noun can be `noun_m` AND `vedic_accented`).
+- `biographical` overlaps with `noun_m` (proper-name masculines).
+- `lexicographer_only` is a property (citation pattern) rather than an article type.
+
+A more parsimonious typology might be:
+1. Verbal root
+2. Nominal (with gender as sub-feature)
+3. Adjective
+4. Indeclinable
+5. Compound sub-entry
+6. Derived form
+7. Continuation sub-entry
+8. Encyclopedic (botanical OR biographical)
+
+Then *orthogonal* properties: Vedic-accented (yes/no), lexicographer-hedged (yes/no), IE-cognate-bearing (yes/no).
+
+**Fix:** in the grounded paper §6, distinguish "primary article types" from "orthogonal properties." The current confusion conflates them.
+
+### D6 — Block detection is regex-based and approximate · *important*
+
+The `mw_block_matrix.py` script uses regular expressions to detect 18 blocks. Several are heuristic:
+- F09 (editorial commentary): detected by parenthetical with substantial content — over-counts when the gloss happens to use parentheses.
+- F11 (sense division): under-counts because MW's sense markers vary (a) 1) — a) etc.
+- F08 (inflection form): assumes ≥2 `<s>` tags means inflection forms — but compound sub-entries also use multiple `<s>` for the compound members.
+- F18 (correction record): we detected via `{{` and `->` patterns; some legitimate uses of `{{` might be miscounted.
+
+**Test:** spot-check 100 random entries against the algorithm's classifications. Currently we have 8 sample entries; ~5% error rate on the full set would meaningfully shift percentages.
+
+**Fix:** add a "Methodological limitations" section to the working notes. Document the regexes and known false-positive/false-negative cases.
+
+### D7 — The block-by-article-type matrix has *no* statistical significance test · *nice-to-resolve*
+
+We report percentages like "F09 commentary at 78.1% in roots vs ~5% baseline." But:
+- Roots are only 750 entries; small N means high variance.
+- We do not compute confidence intervals.
+- "Statistical significance" of a 73-percentage-point difference is uncontroversial, but the smaller differences (e.g. "F08 inflection at 22% in noun_m vs 23% in noun_f") may not survive a chi-square test.
+
+**Fix:** for a journal paper, add chi-square or Fisher-exact significance tests on the contingency tables, and confidence intervals on the percentages.
+
+---
+
+## Substantive doubts about the design decisions
+
+### D8 — Observable Framework is heavy infrastructure for a research microsite · *blocking*
+
+We chose Observable Framework as the microsite stack (Decision 10). Pros: i18n routing, reactive D3, Markdown pages. Cons:
+- Requires Node + npm + build pipeline.
+- Lock-in to Observable's evolution; their commercial pivot in 2024 created uncertainty.
+- A research microsite typically lives for 5–10 years; can we maintain Observable Framework that long?
+- Plain D3 + HTML + a small CSS file is simpler, more portable, longer-lived.
+
+**Test:** check Observable Framework's stability commitments and migration history. If they have broken API changes between minor versions, that's a maintenance hazard.
+
+**Fix candidate:** consider downgrading to **vanilla HTML + D3 + Vega-Lite** for static parts. Reserve Observable for the highest-interactivity tools (type comparator). The plain-HTML choice was an option we considered and rejected; revisit.
+
+### D9 — 28 design decisions before any code · *important*
+
+The decision document is now 1500+ lines. Many decisions specify things that may not survive contact with implementation. Examples:
+- Decision 9 (JSON-first tokens with build script generating 4 downstream artifacts) — *might be over-engineered*. A simple CSS file with hex colours, plus matplotlib-readable hex strings, may suffice.
+- Decision 28 (Git SHA in footer) — adds build complexity for marginal benefit; reviewers don't typically check SHAs.
+- Decision 14 (triple a11y: alt + desc + caption) — comprehensive but every figure now needs 3 separate texts in 2 languages = 6 texts per figure.
+
+**Fix:** before building, **review the decisions and demote 5–7 to "v2 enhancements"**. Start with the simplest viable build:
+- v1: matplotlib SVG, hex colors in script, EN-only labels
+- v2: add palette JSON
+- v3: add RU locale
+- v4: add a11y triplicate
+- v5: add Observable Framework
+
+The "all 28 decisions implemented" target is **premature optimization** for a project that hasn't shipped a single figure yet.
+
+### D10 — csl-atlas is named before scoped · *important*
+
+We chose `csl-atlas` as the microsite name and committed to "9-dict atlas" as the Phase-4 brief. But:
+- We have not actually scoped the Phase-4 atlas. Which 9 dicts? In what order?
+- The name commits us to "atlas" framing — but we may discover the right delivery is a *book*, a *paper series*, a *desktop application*, etc.
+- A name change later is cheap; but commits to repos and URLs accumulate technical debt.
+
+**Fix:** **delay the repo creation** until the atlas scope is approved. Scaffold locally first (as planned: `D:/claude/csl-atlas/`). Push to the org only when scoped.
+
+### D11 — Russian translations bootstrapped by Claude · *important*
+
+Decision 11 commits to me bootstrapping Russian translations. My Russian indological terminology is good but not authoritative. Specific risks:
+- Calques may sound non-native ("лексикограф-only" was already flagged).
+- Terminology may inconsistently mix Soviet-era (post-1917) vs pre-revolutionary conventions.
+- IAST inside Russian text is the right choice (Decision 6) but inline mixing may cause typesetting issues.
+
+**Fix:** I'll bootstrap with maximum humility. Every Russian string gets a confidence flag (high/medium/low/uncertain). Low-confidence strings get `(?)` markers for review. **Do not publish any RU material until the user reviews.**
+
+### D12 — Multi-normalisation strategy increases reader burden · *nice-to-resolve*
+
+Decision 4 commits to using different normalisations for different figures, with each caption explaining its normalisation. The risk: readers won't read the captions; they'll see "PWG is 4× denser" in one figure and "PWG is 2.4× denser" in another and conclude the paper contradicts itself.
+
+**Fix:** in the main paper, settle on **one canonical normalisation** (probably Option B per-entry) and use it for all narrative comparisons. Save the other normalisations for the methodology section ("we considered these normalisations and chose B because…").
+
+---
+
+## Architectural doubts
+
+### D13 — Scope creep from "docs-pass" to "atlas" · *important*
+
+Project trajectory:
+1. Started: docs-pass for MWS (one repo)
+2. Grew: 5-pilot docs-pass (5 repos)
+3. Grew: typology + stats + lineage + roadmap
+4. Grew: 4-paper microanalysis
+5. Grew: visualisation catalogue
+6. Grew: csl-atlas for 9 dicts
+7. Grew: 28 design decisions
+
+This is normal feature creep. **But none of it has shipped.** No PR merged. No paper submitted. No figure rendered.
+
+**Fix:** declare a **v1 cut**: merge the docs-pass into MWS master, ship one figure (the heatmap), and call it a release. Then plan v2 from real reviewer feedback rather than from imagination.
+
+### D14 — Memory file inflation · *nice-to-resolve*
+
+The project memory file now has 9 distinct phases (3.1 through 3.9 and counting). Each is a substantial section. The MEMORY.md global index is being grown to maintain the recent project. Some risk of:
+- Future Claude sessions skipping the most-recent phases (they're newest at the file top but become voluminous quickly).
+- Cross-references between phases proliferating without an explicit "current state" pointer.
+
+**Fix:** at end of session, **collapse memory to a "current state" + "archive"** — keep one canonical "where are we now?" snapshot at the top.
+
+### D15 — Issue-tracker as cross-repo task management · *nice-to-resolve*
+
+We've used GitHub issues across MWS / csl-sqlite / csl-inflect / hwnorm1 / COLOGNE. Cross-repo dependencies in the roadmap point to csl-pywork, csl-app, etc. But:
+- GitHub doesn't natively cross-link issues across repos.
+- The roadmap notes "Q1: address #178, #147, #73" without organizing by repo first.
+- A single contributor working across 5+ repos will need to keep mental state on which issue is where.
+
+**Fix:** consider a **central tracking issue in COLOGNE** that mirrors the per-repo work plans. Or a project board across the org. Or accept the limitation.
+
+---
+
+## What I'd cut if I had to
+
+If forced to ship in 1 week with no further refinement:
+
+1. **Keep:** the 5 pilot docs-passes; DICT_PROFILE; ENTRY_GUIDE; DATA_DICTIONARY; CONTRIBUTING; CITATION; ROADMAP; MICROANALYSIS data file; ONE figure (heatmap); ONE paper (grounded).
+2. **Cut:** the four-paper plan → one paper. Cut three of four framework papers (keep grounded, demote others to appendix).
+3. **Cut:** csl-atlas microsite → deliver as static figures only. Defer interactive to v2.
+4. **Cut:** Russian translations → English-only first; add RU in v2.
+5. **Cut:** the multi-normalisation strategy → pick one (per-entry) and stick with it.
+6. **Cut:** 28 design decisions → 8 core decisions (palette, attribution, figure dimensions, font, license, accessibility, supp materials, bilingual labels).
+
+This minimum-viable product would ship in 1 week and be a legitimate scholarly contribution. The current trajectory ships in 3+ months and may not be substantively better.
+
+---
+
+## Recommended next steps (in priority order)
+
+1. **Ship one figure** (the heatmap, in English, with reasonable defaults) — *break the no-code spell*.
+2. **Submit the grounded paper to IJL** with the heatmap as Figure 1 — *get reviewer feedback*.
+3. **From reviewer feedback**, decide whether to expand to: comparative cross-dict figures · Russian publications · csl-atlas microsite · the other three framework papers.
+4. **Phase 4 docs-pass** for other CDSL dicts proceeds in parallel; figures generated per-dict using the established pipeline.
+
+**Don't build the atlas until the heatmap is rendered.** Don't write the four-paper preface until one paper is submitted. Don't commit to Russian until English ships.
+
+---
+
+## Status
+
+This doubt review is itself a deliverable: it documents the project's known-unknown surface area as of 2026-05-23. Any of the 15 doubts above could be a paper-revision point or a Phase-4 design correction. Better to surface them now than to discover them in peer review.
+
+**The next operational step** — over the user's 4-hour absence — is to ship the heatmap figure. That single act resolves D9 (we'll see what survives contact with implementation) and gives D4 a concrete artifact to revolve around.

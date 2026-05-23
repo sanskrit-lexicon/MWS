@@ -1,0 +1,57 @@
+{
+  "total": 286561,
+  "distribution": [
+    {
+      "blocks": 1,
+      "count": 4393
+    },
+    {
+      "blocks": 2,
+      "count": 1272
+    },
+    {
+      "blocks": 3,
+      "count": 5118
+    },
+    {
+      "blocks": 4,
+      "count": 38958
+    },
+    {
+      "blocks": 5,
+      "count": 48472
+    },
+    {
+      "blocks": 6,
+      "count": 91301
+    },
+    {
+      "blocks": 7,
+      "count": 57043
+    },
+    {
+      "blocks": 8,
+      "count": 27072
+    },
+    {
+      "blocks": 9,
+      "count": 8863
+    },
+    {
+      "blocks": 10,
+      "count": 2982
+    },
+    {
+      "blocks": 11,
+      "count": 861
+    },
+    {
+      "blocks": 12,
+      "count": 206
+    },
+    {
+      "blocks": 13,
+      "count": 20
+    }
+  ]
+}

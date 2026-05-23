@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "description": "Mermaid theme variables for MW1899 microanalysis figures",
+    "source": "figures/palette-tokens.json",
+    "last-updated": "2026-05-23"
+  },
+  "themeVariables": {
+    "background": "#fafafa",
+    "primaryColor": "#1f78b4",
+    "primaryTextColor": "#222222",
+    "primaryBorderColor": "#333333",
+    "lineColor": "#333333",
+    "secondaryColor": "#a6cee3",
+    "tertiaryColor": "#fb9a99",
+    "fontFamily": "\"Noto Sans\", \"DejaVu Sans\", sans-serif",
+    "fontSize": "14px",
+    "noteBkgColor": "#fdae61",
+    "noteTextColor": "#222222",
+    "noteBorderColor": "#333333"
+  }
+}

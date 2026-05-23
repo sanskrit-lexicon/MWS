@@ -1,0 +1,77 @@
+[
+  {
+    "type": "root",
+    "count": 750,
+    "avg_blocks": 9.73
+  },
+  {
+    "type": "noun-m",
+    "count": 19204,
+    "avg_blocks": 6.43
+  },
+  {
+    "type": "noun-f",
+    "count": 8479,
+    "avg_blocks": 6.28
+  },
+  {
+    "type": "noun-n",
+    "count": 9918,
+    "avg_blocks": 6.05
+  },
+  {
+    "type": "adjective-mfn",
+    "count": 12240,
+    "avg_blocks": 6.25
+  },
+  {
+    "type": "indeclinable",
+    "count": 1929,
+    "avg_blocks": 6.39
+  },
+  {
+    "type": "compound",
+    "count": 126360,
+    "avg_blocks": 6.02
+  },
+  {
+    "type": "derived",
+    "count": 72119,
+    "avg_blocks": 5.73
+  },
+  {
+    "type": "continuation",
+    "count": 9294,
+    "avg_blocks": 4.76
+  },
+  {
+    "type": "lexicographer-only",
+    "count": 38414,
+    "avg_blocks": 6.89
+  },
+  {
+    "type": "etymological-ie",
+    "count": 2099,
+    "avg_blocks": 7.7
+  },
+  {
+    "type": "botanical",
+    "count": 8059,
+    "avg_blocks": 7.28
+  },
+  {
+    "type": "biographical",
+    "count": 346,
+    "avg_blocks": 7.58
+  },
+  {
+    "type": "vedic-accented",
+    "count": 47598,
+    "avg_blocks": 5.93
+  },
+  {
+    "type": "other",
+    "count": 19460,
+    "avg_blocks": 5.96
+  }
+]
