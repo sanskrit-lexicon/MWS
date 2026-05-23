@@ -11,6 +11,7 @@ PWK     170,556     86,750    55,391         0           0.00
 AP       90,654     62,656    27,748         1           0.01
 WIL      44,577        230         7         0           0.00
 BEN       5,186     14,708        84         0           0.00
+CAE      40,069          0         0         0           0.00
 SKD      42,531          0         0         0           0.00
 VCP      50,135          0         0         0           0.00
 
@@ -95,6 +96,9 @@ BEN (Benfey 1866):
       315  <ls>Ragh.</ls>
       289  <ls>Bhartṛ.</ls>
 
+CAE (Cappeller 1891):
+  (no <ls> source tags in this digitisation)
+
 SKD (Shabda-kalpadruma):
   (no <ls> source tags in this digitisation)
 
@@ -110,8 +114,12 @@ VCP (Vacaspatyam):
 - BEN generic L. hedge: 0 tags (of 14,708 <ls> tags).
 - SKD generic L. hedge: 0 tags (of 0 <ls> tags).
 - VCP generic L. hedge: 0 tags (of 0 <ls> tags).
-- Cappeller (CAE): NOT in /tmp — D2 check still unmet for Cappeller 1891.
-- Caveat: WIL/BEN digitisations may not tag sources with <ls> at all; a zero
+- Cappeller (CAE): present — 0 <ls> tags, 0 generic L. hedges. BUT CAE uses an asterisk convention:
+  1,370 "*" total, ~166 on headwords (<k2>*), the rest entry-final.
+  An entry-final "*" sits exactly where a hedge sits; its MEANING is NOT in the data
+  file and needs Cappeller's printed preface/key. So fetching CAE NARROWS D2 (no <ls>
+  L.-apparatus) but does not close it — the asterisk must be interpreted from the print.
+- Caveat: WIL/BEN/CAE digitisations may not tag sources with <ls> at all; a zero
   there means "no <ls> apparatus to compare", not "no hedge convention". Their
   print prefaces still need a human read for a parenthetical "(L.)"-style hedge.
 ```

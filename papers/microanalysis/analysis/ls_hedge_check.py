@@ -29,6 +29,7 @@ DICTS = [
     ('AP',  'ap.txt',  'Apte practical'),
     ('WIL', 'wil.txt', 'Wilson 1832'),
     ('BEN', 'ben.txt', 'Benfey 1866'),
+    ('CAE', 'cae.txt', 'Cappeller 1891'),
     ('SKD', 'skd.txt', 'Shabda-kalpadruma'),
     ('VCP', 'vcp.txt', 'Vacaspatyam'),
 ]
@@ -100,8 +101,20 @@ def main():
         if code in results:
             out(f'- {code} generic L. hedge: {results[code]["hedge"]:,} tags '
                 f'(of {results[code]["ls_total"]:,} <ls> tags).')
-    out('- Cappeller (CAE): NOT in /tmp — D2 check still unmet for Cappeller 1891.')
-    out('- Caveat: WIL/BEN digitisations may not tag sources with <ls> at all; a zero')
+    cae_path = os.path.join(TMP, 'cae.txt')
+    if 'CAE' in results and os.path.exists(cae_path):
+        cae = open(cae_path, encoding='utf-8', errors='replace').read()
+        star_total = cae.count('*')
+        lead_head = len(re.findall(r'<k2>[^<\r\n]*\*', cae))
+        out(f'- Cappeller (CAE): present — {results["CAE"]["ls_total"]} <ls> tags, '
+            f'{results["CAE"]["hedge"]} generic L. hedges. BUT CAE uses an asterisk convention:')
+        out(f'  {star_total:,} "*" total, ~{lead_head:,} on headwords (<k2>*), the rest entry-final.')
+        out('  An entry-final "*" sits exactly where a hedge sits; its MEANING is NOT in the data')
+        out('  file and needs Cappeller\'s printed preface/key. So fetching CAE NARROWS D2 (no <ls>')
+        out('  L.-apparatus) but does not close it — the asterisk must be interpreted from the print.')
+    else:
+        out('- Cappeller (CAE): NOT in /tmp.')
+    out('- Caveat: WIL/BEN/CAE digitisations may not tag sources with <ls> at all; a zero')
     out('  there means "no <ls> apparatus to compare", not "no hedge convention". Their')
     out('  print prefaces still need a human read for a parenthetical "(L.)"-style hedge.')
 

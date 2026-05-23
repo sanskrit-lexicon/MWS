@@ -40,6 +40,7 @@ DICTS = [
     ('AP',  'ap.txt',  'Apte practical (1 vol.)'),
     ('WIL', 'wil.txt', 'Wilson 1832 (1 vol.)'),
     ('BEN', 'ben.txt', 'Benfey 1866 (1 vol.)'),
+    ('CAE', 'cae.txt', 'Cappeller 1891 (1 vol.)'),
     ('SKD', 'skd.txt', 'Shabda-kalpadruma (Skt-Skt)'),
     ('VCP', 'vcp.txt', 'Vacaspatyam (Skt-Skt)'),
 ]

@@ -11,7 +11,7 @@ the figures — not a re-implementation.
 
 The dictionary `.txt` files are read from the MSYS `/tmp` (= Windows
 `%LOCALAPPDATA%\Temp`): `mw.txt`, `pwg.txt`, `pw.txt` (PWK), `ap.txt`, `wil.txt`,
-`ben.txt` (Benfey 1866), `skd.txt`, `vcp.txt`. They are **not** committed here.
+`ben.txt` (Benfey 1866), `cae.txt` (Cappeller 1891), `skd.txt`, `vcp.txt`. They are **not** committed here.
 Refresh them from [`csl-orig`](https://github.com/sanskrit-lexicon/csl-orig) before
 re-running.
 
@@ -31,5 +31,5 @@ Run any of them from this directory: `python spotcheck_blocks.py` (needs
 
 - **D6** — detector reproduces the count exactly; **F08 over-counts** (36.5% of its hits are compound members, not inflected forms) and **F09 over-counts** (66.7% of hits outside a philological context); **F11 under-count is negligible**; the §4 "display headword 99%" was the structural-key rate — the *rendered* `<s>` rate is **76%** (corrected in PAPER.md §4).
 - **D7** — every headline contrast is **significant** (p ≈ 0, with CIs); the small noun_m-vs-noun_f F08 difference is **not** (p = 0.07), confirming the doubt.
-- **D2** — MW has 40,212 `L.` hedges; **PWG, PWK, WIL, SKD, VCP have 0; AP has 1; Benfey 1866 has 0** despite a full citation apparatus — strengthening the innovation claim. Cappeller (CAE) not yet in corpus.
-- **D1** — block-economy *shape* is **general to all single-volume CDSL dictionaries**, not MW-specific (modal blocks/entry: MW 5, PWG 4, PWK 3, AP 2, WIL 3, Benfey 3); PWG is ~4× denser per entry. Claim softened in PAPER.md §4/§9.3.
+- **D2** — MW has 40,212 `L.` hedges; **PWG, PWK, WIL, CAE, SKD, VCP have 0; AP has 1; Benfey 1866 has 0** despite a full citation apparatus — strengthening the innovation claim. **Cappeller (CAE) now fetched**: zero `<ls>` apparatus but an undocumented asterisk convention (~166 headword-initial, ~1,200 entry-final) whose meaning needs Cappeller's print preface.
+- **D1** — block-economy *shape* is **general to all single-volume CDSL dictionaries**, not MW-specific (modal blocks/entry: MW 5, PWG 4, PWK 3, AP 2, WIL 3, Benfey 3, Cappeller 3); PWG is ~4× denser per entry. Claim softened in PAPER.md §4/§9.3.
