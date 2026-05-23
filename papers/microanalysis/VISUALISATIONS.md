@@ -242,17 +242,195 @@ Particularly interesting cross-dict visualisations:
 
 ---
 
-## Open questions for visualisation design
+## Design decisions (2026-05-23)
 
-1. **Colour palette consistency** — should all four framework papers use the same colours for the 14 article types? (Recommendation: yes; defines a palette in `papers/microanalysis/figures/palette.json` and reuses.)
+Five open questions raised in the original draft of this document have been resolved by [@gasyoun](https://github.com/gasyoun). Decisions:
 
-2. **Static vs interactive trade-off** — IJL accepts only static figures, but a microsite would help reviewers explore. Should we build both (interactive supplementary materials linked from the paper)?
+### Decision 1 — Shared colour palette via CSS
 
-3. **Bilingual labels** — visualisation labels in English (paper) vs Sanskrit-also (community)? Important if any visualisation becomes the canonical "MW microstructure" reference image used by both audiences.
+**All four framework papers + the interactive microsite use the same colour palette for the 14 article types.** Implementation: **via CSS** (custom properties / design tokens), so that a single source-of-truth defines colours that flow through (a) the static SVG figures generated for the paper, (b) the Mermaid diagrams embedded in markdown docs, and (c) the interactive microsite.
 
-4. **Cross-dict comparison normalisation** — when comparing PWG (1855–75, 123K records) to MW (1899, 286K records), do we normalise by record count, by `<ls>` density, by something else? Different choices yield different visual stories.
+The CSS strategy lets us:
 
-5. **Author attribution on figures** — if these are journal figures, do they cite the data source as "CDSL `mw.txt` 2026-05-23" or the original MW1899 print? Different journals have different conventions.
+- Swap colour themes without re-rendering data (e.g. dark mode, print-friendly mode, colour-blind safe variant)
+- Keep static SVG and interactive HTML visually consistent without manual sync
+- Allow downstream Phase-4 dictionaries to inherit the same palette
+
+**Implementation plan:**
+- A `papers/microanalysis/figures/palette.css` file defines `--mw-color-*` custom properties (one per article type, one per semantic class, one per fullness tier, plus chart-element colours: background, grid, axes, text).
+- Static SVG figures generated from Python embed inline `<style>` blocks that import the palette as variables (or have the palette baked in at render time).
+- Mermaid diagrams use a Mermaid theme variables file (`mermaid-theme.json`) regenerated from the CSS palette.
+- The interactive microsite (Decision 2) consumes the same CSS palette directly.
+
+### Decision 2 — Build both static (paper) and interactive (microsite)
+
+**Both deliverables.** Static figures (SVG, embeddable in IJL paper) plus an interactive microsite (HTML, linked from the paper as supplementary materials). The microsite lets reviewers explore the matrix, hover entries, filter by article type — value that no static figure delivers.
+
+**Implications:**
+- Tier 1 figures (heatmap, Sankey, timeline, treemap) are produced **twice**: once as static SVG with embedded palette, once as interactive HTML/JS.
+- Tier 3 items (type comparator, entry browser, citation tracer) become *deliverables*, not "future-if-funded."
+- Data binding strategy: the data lives in JSON files (`papers/microanalysis/figures/data/`) consumed by both the static renderer (Python) and the interactive renderer (D3 / Vega-Lite).
+- Hosting target: TBD — see [follow-up questions](#follow-up-questions-2026-05-23) below.
+
+### Decision 3 — Bilingual labels: English + Russian
+
+**Bilingual labels in English and Russian** — not Sanskrit. Sanskrit is the meta-level (the language being described, not a label language used to describe). Russian is the second target audience: some findings additional to the English journals will be published in Russian-language venues.
+
+**Implications:**
+- All visualisation labels exist in two locale strings: `en` and `ru`.
+- Labels live in a JSON file (`papers/microanalysis/figures/locales/`) — `en.json` and `ru.json` — keyed by an i18n identifier.
+- Static renderer (Python) accepts a locale flag and emits the right strings.
+- Interactive microsite has a locale-switcher control.
+- Sanskrit terms (lemmas, abbreviations, tag names) are preserved in their conventional rendering (IAST in italic, SLP1 in code blocks); they are not translated, only the surrounding labels are.
+
+The exact convention for how Sanskrit terms appear inside Russian text is a [follow-up question](#follow-up-questions-2026-05-23) below.
+
+### Decision 4 — Cross-dictionary normalisation: detailed analysis
+
+The choice of normalisation strategy materially affects what the visualisations *say*. Per [@gasyoun](https://github.com/gasyoun)'s request, here are the seven approaches with their numerical and visual implications:
+
+#### Option A — Raw absolute counts (no normalisation)
+
+| Dict | Entries | `<ls>` tags | Kosha cites named |
+|---|--:|--:|--:|
+| MW | 286,561 | 312,159 | 209 (`Amar.` only) |
+| PWG | 123,366 | 571,152 | 68,730+ |
+| AP | 90,654 | ~50,000 (TBD) | TBD |
+| WIL | 44,577 | 230 | 0 (kosha-derived, no `<ls>`) |
+| SKD | 42,531 | TBD | (different format) |
+
+**Visual story this tells:** "MW is the largest single-volume dictionary, but PWG is more citation-dense overall."
+
+**What it obscures:** PWG's density is partly an artifact of having no `L.` hedge — PWG distributes its citations across 821 named sources where MW collapses to 1. **Raw counts make PWG look more rigorous than it is**, by hiding the fact that 12.9% of MW's apparently-thinner citation apparatus IS the kosha attribution PWG names separately.
+
+**When to use:** Whenever absolute scale is the message — e.g. "MW is the standard reference because of its size."
+
+#### Option B — Per-entry normalisation (cites/entry, blocks/entry)
+
+| Dict | `<ls>` cites/entry | Blocks/entry (avg) |
+|---|--:|--:|
+| MW | 1.09 | 6.1 |
+| PWG | **4.63** | ~7–8 (estimate) |
+| AP | ~0.55 (estimate) | ~5 |
+| WIL | 0.005 | 5–6 |
+| SKD | n/a (different cite format) | — |
+
+**Visual story:** "PWG is 4× more citation-dense per entry than MW; WIL has essentially zero textual citations per entry."
+
+**What it obscures:** Penalises MW for having many `<e>3` compound sub-entries that don't *need* citations. MW's 126K compounds inflate the denominator without diluting the citation effort — what matters editorially is *coverage of citations among entries that need them*, not the raw ratio.
+
+**When to use:** When the comparison is **about editorial citation density** — does this dictionary prefer 1 cite or 10 cites for the same word?
+
+#### Option C — Per-headword normalisation (top-level entries only, `<e>1`)
+
+Excluding sub-entries (continuations, derivatives, compounds), counting only top-level lemmas:
+
+| Dict | Top-level | Top-level / total | `<ls>` cites/top-level entry |
+|---|--:|--:|--:|
+| MW | 32,116 | 11.2% | ~9.7 |
+| PWG | ~45,000 (estimate) | ~36.5% | ~12.7 |
+| AP | ~13,000 (estimate) | ~14% | ~3.8 |
+| WIL | ~9,000 (estimate) | ~20% | ~0.026 |
+
+**Visual story:** "MW has only 32K main lemmas — fewer than PWG. The bulk of MW is sub-entries."
+
+**What it obscures:** PWG and MW segment their data differently. PWG often runs compounds in the main article body (no separate `<L>` record); MW always splits them. Comparing *just* top-level entries punishes MW's structural choice.
+
+**When to use:** When comparing the **lemma inventory choice** — what counts as a "word" in this dictionary?
+
+#### Option D — Per-million-words normalisation (text-volume normalised)
+
+| Dict | Approx word count | Cites / 10⁶ words | Bytes (raw) |
+|---|--:|--:|--:|
+| MW | ~1.4M | ~223K | 49 MB |
+| PWG | ~1.5M | **~381K** | 53 MB |
+| AP | ~500K | ~100K | 18 MB |
+| WIL | ~280K | ~0.8K | 10 MB |
+| SKD | ~600K | n/a | 22 MB |
+
+**Visual story:** "PWG packs more citation per unit of text than any other CDSL dictionary."
+
+**What it obscures:** Heavy compound enumeration in MW inflates word count via the gloss text. Doesn't disentangle "citation density" from "verbose definitions." A dictionary that gives 5-word glosses but cites RV/MBh systematically will look denser than one with 25-word glosses and one general cite.
+
+**When to use:** When comparing the **textual artifacts as artifacts** — how much content fits in how many pages? Useful for arguments about print economy.
+
+#### Option E — Per-unique-headword normalisation (deduplicated `<k1>`)
+
+Counts unique `<k1>` SLP1-form values, ignoring homophone numbering:
+
+| Dict | Unique `<k1>` | `<ls>` per unique headword |
+|---|--:|--:|
+| MW | ~210,000 (estimate) | ~1.49 |
+| PWG | ~95,000 (estimate) | ~6.01 |
+| AP | ~75,000 (estimate) | ~0.67 |
+| WIL | ~35,000 (estimate) | ~0.007 |
+
+**Visual story:** Similar to Option B but rescued from compound-bloat (no double-counting of homophone groups).
+
+**What it obscures:** Different dicts have different homophone-numbering conventions; standardising requires per-dict adjustment.
+
+**When to use:** When you want the **truest "per-word" comparison** — but it's expensive to compute properly.
+
+#### Option F — Coverage normalisation (% of entries citing X)
+
+For each source X, what fraction of the dictionary's entries cite X at all?
+
+| Source | MW (% entries citing) | PWG | WIL |
+|---|--:|--:|--:|
+| RV. (Rigveda) | 5.6% | 12.0% | 0% |
+| MBh. | 9.8% | 13.7% | 0% |
+| Hemacandra (`H.`) | 0% | 14.0% | 0% (in `<ls>`) |
+| Amarakośa | 0.07% (`Amar.`) | 11.7% (`AK.`) | 0% |
+| Lexicographers (`L.`) | 13.4% | 0% | 0% |
+
+**Visual story:** Direct comparison of **editorial policy**. PWG cites Hemacandra in 14% of entries; MW cites it in 0% of entries (collapsed to L.). This is the **most informative** view for the lineage argument.
+
+**What it obscures:** Doesn't show **how often** within an entry the source is cited — just whether at all. A source cited 10 times in one entry and 1 time in 99 others would have 100% coverage in this metric.
+
+**When to use:** When the question is **editorial choice** — does this dictionary include kosha sources in its citation system at all?
+
+**This is the recommended normalisation for the lineage Sankey** (Tier 1 #2).
+
+#### Option G — Z-score / cross-dict standardisation
+
+Normalise each metric per-dictionary to mean 0, sd 1 across the comparison set.
+
+**Visual story:** Pure patterns visible: "PWG is +1.8 SD above mean on `<ls>` density, WIL is −1.2 SD." Removes scale entirely.
+
+**What it obscures:** All interpretability of the actual numbers. A reader cannot say "PWG has X cites/entry" without recovering raw data.
+
+**When to use:** In a **multi-metric small-multiples chart** where the goal is to show patterns across 5–6 dimensions at once. The microstructure fingerprint visualisation (Tier 2 #7) is the natural use.
+
+#### Recommendation — multi-normalisation strategy
+
+**No single normalisation is correct.** Use different normalisations for different visualisations, and label each chart's normalisation choice prominently in the caption. Recommended mapping:
+
+| Visualisation | Normalisation | Rationale |
+|---|---|---|
+| Multi-bar size comparison (Tier 1 #4 treemap, [3.1] multi-bar) | **A — Raw counts** | Establishes scale; honest about MW's size |
+| Citation-density per dict (any density chart) | **B — Per-entry** | Reveals editorial citation choice |
+| Lineage Sankey (Tier 1 #2) | **F — Coverage %** | Direct editorial-policy comparison |
+| Microstructure fingerprints (Tier 2 #7) | **G — Z-score** | Pure pattern visibility |
+| Per-headword density argument | **C — Per-headword** or **E — Per-unique-k1** | When discussing lemma inventory choice |
+
+Each figure caption must state: "*Normalisation: [letter] — [one-line description]*" so readers can interpret the chart correctly.
+
+### Decision 5 — Attribution: cite the digital edition
+
+**All figures cite "CDSL `mw.txt` 2026-05-23"** as the data source. If a journal requires citing the print original (MW 1899), the figures can be regenerated against the print at that point. The data source citation goes in each figure caption as a footer.
+
+**Implementation:** every static figure carries a small grey footer text:
+```
+Source: CDSL mw.txt 2026-05-23 · github.com/sanskrit-lexicon/csl-orig
+```
+
+The interactive microsite carries the same attribution in a persistent footer.
+
+---
+
+## Follow-up questions (2026-05-23)
+
+The five decisions above resolve the broad design. Four implementation-level questions remain. See the next message for the explicit AskUserQuestion call.
 
 ---
 
