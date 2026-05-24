@@ -1,0 +1,213 @@
+{
+  "blocks": [
+    "head",
+    "body",
+    "gram",
+    "cite",
+    "hom",
+    "etym",
+    "xref",
+    "hedge",
+    "info"
+  ],
+  "dicts": [
+    {
+      "code": "MW",
+      "name": "Monier-Williams 1899 (1 vol.)",
+      "volumes": 1,
+      "genre": "structured",
+      "records": 286561,
+      "ls_total": 312159,
+      "ls_per_record": 1.089,
+      "modal_blocks": 5,
+      "mean_blocks": 4.71,
+      "blocks_pct": {
+        "head": 100.0,
+        "body": 98.5,
+        "gram": 67.5,
+        "cite": 78.7,
+        "hom": 3.3,
+        "etym": 7.1,
+        "xref": 6.5,
+        "hedge": 13.9,
+        "info": 95.5
+      }
+    },
+    {
+      "code": "PWG",
+      "name": "Boehtlingk-Roth Grosses PW (7 vol.)",
+      "volumes": 7,
+      "genre": "structured",
+      "records": 123366,
+      "ls_total": 571152,
+      "ls_per_record": 4.63,
+      "modal_blocks": 4,
+      "mean_blocks": 3.74,
+      "blocks_pct": {
+        "head": 100.0,
+        "body": 100.0,
+        "gram": 79.8,
+        "cite": 94.0,
+        "hom": 0.1,
+        "etym": 0.0,
+        "xref": 0.0,
+        "hedge": 0.0,
+        "info": 0.5
+      }
+    },
+    {
+      "code": "PWK",
+      "name": "Boehtlingk kuerzeres PW (1 vol.)",
+      "volumes": 1,
+      "genre": "structured",
+      "records": 170556,
+      "ls_total": 87812,
+      "ls_per_record": 0.515,
+      "modal_blocks": 3,
+      "mean_blocks": 3.32,
+      "blocks_pct": {
+        "head": 100.0,
+        "body": 92.9,
+        "gram": 80.3,
+        "cite": 37.4,
+        "hom": 5.6,
+        "etym": 2.5,
+        "xref": 0.0,
+        "hedge": 0.0,
+        "info": 13.3
+      }
+    },
+    {
+      "code": "AP",
+      "name": "Apte practical (1 vol.)",
+      "volumes": 1,
+      "genre": "structured",
+      "records": 90654,
+      "ls_total": 62671,
+      "ls_per_record": 0.691,
+      "modal_blocks": 2,
+      "mean_blocks": 2.53,
+      "blocks_pct": {
+        "head": 100.0,
+        "body": 89.5,
+        "gram": 29.7,
+        "cite": 31.6,
+        "hom": 0.0,
+        "etym": 0.0,
+        "xref": 1.7,
+        "hedge": 0.0,
+        "info": 0.0
+      }
+    },
+    {
+      "code": "WIL",
+      "name": "Wilson 1832 (1 vol.)",
+      "volumes": 1,
+      "genre": "structured",
+      "records": 44577,
+      "ls_total": 230,
+      "ls_per_record": 0.005,
+      "modal_blocks": 3,
+      "mean_blocks": 3.0,
+      "blocks_pct": {
+        "head": 100.0,
+        "body": 100.0,
+        "gram": 99.8,
+        "cite": 0.5,
+        "hom": 0.0,
+        "etym": 0.0,
+        "xref": 0.0,
+        "hedge": 0.0,
+        "info": 0.0
+      }
+    },
+    {
+      "code": "BEN",
+      "name": "Benfey 1866 (1 vol.)",
+      "volumes": 1,
+      "genre": "structured",
+      "records": 5186,
+      "ls_total": 14708,
+      "ls_per_record": 2.836,
+      "modal_blocks": 3,
+      "mean_blocks": 2.93,
+      "blocks_pct": {
+        "head": 100.0,
+        "body": 100.0,
+        "gram": 0.0,
+        "cite": 86.0,
+        "hom": 0.0,
+        "etym": 0.0,
+        "xref": 6.7,
+        "hedge": 0.0,
+        "info": 0.0
+      }
+    },
+    {
+      "code": "CAE",
+      "name": "Cappeller 1891 (1 vol.)",
+      "volumes": 1,
+      "genre": "structured",
+      "records": 40069,
+      "ls_total": 0,
+      "ls_per_record": 0.0,
+      "modal_blocks": 3,
+      "mean_blocks": 2.93,
+      "blocks_pct": {
+        "head": 100.0,
+        "body": 100.0,
+        "gram": 91.1,
+        "cite": 0.0,
+        "hom": 0.0,
+        "etym": 0.0,
+        "xref": 1.6,
+        "hedge": 0.0,
+        "info": 0.0
+      }
+    },
+    {
+      "code": "SKD",
+      "name": "Shabda-kalpadruma (Skt-Skt)",
+      "volumes": 1,
+      "genre": "sanskrit",
+      "records": 42531,
+      "ls_total": 0,
+      "ls_per_record": 0.0,
+      "modal_blocks": 2,
+      "mean_blocks": 1.99,
+      "blocks_pct": {
+        "head": 100.0,
+        "body": 99.2,
+        "gram": 0.0,
+        "cite": 0.0,
+        "hom": 0.0,
+        "etym": 0.0,
+        "xref": 0.0,
+        "hedge": 0.0,
+        "info": 0.0
+      }
+    },
+    {
+      "code": "VCP",
+      "name": "Vacaspatyam (Skt-Skt)",
+      "volumes": 1,
+      "genre": "sanskrit",
+      "records": 50135,
+      "ls_total": 0,
+      "ls_per_record": 0.0,
+      "modal_blocks": 2,
+      "mean_blocks": 1.96,
+      "blocks_pct": {
+        "head": 100.0,
+        "body": 96.5,
+        "gram": 0.0,
+        "cite": 0.0,
+        "hom": 0.0,
+        "etym": 0.0,
+        "xref": 0.0,
+        "hedge": 0.0,
+        "info": 0.0
+      }
+    }
+  ]
+}

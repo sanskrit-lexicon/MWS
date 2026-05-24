@@ -1,0 +1,1 @@
+Common-block population matrix: rows are head, body, grammar, citation, homograph, etymology, cross-reference, L.-hedge, and info (digitisation); columns are MW, PWG, PWK, AP, WIL, Benfey, Cappeller, SKD, VCP. Colour 0-100% of entries. The L.-hedge and info blocks are MW-only; SKD/VCP show only head+body, marking their different genre. Source: CDSL 2026-05-24, CC-BY-SA-4.0.
