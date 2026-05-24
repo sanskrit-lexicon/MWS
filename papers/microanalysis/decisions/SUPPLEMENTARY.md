@@ -17,6 +17,8 @@ Implementation:
 
 ## Decision 16 — Supplementary materials: self-contained ZIP
 
+**Implemented:** built by [`analysis/make_supplement.py`](../analysis/make_supplement.py) → `mw-microanalysis-supplementary.zip` (87 files, ~1.5 MB; a gitignored build artefact). Contents and rebuild steps are recorded in [`analysis/SUPPLEMENT_MANIFEST.md`](../analysis/SUPPLEMENT_MANIFEST.md). The raw dictionary `.txt` files are not bundled (they live in [csl-orig](https://github.com/sanskrit-lexicon/csl-orig)); the included scripts regenerate every derived artefact from them.
+
 The IJL submission includes a single ZIP archive `mw-microanalysis-supplementary.zip` containing:
 
 ```
