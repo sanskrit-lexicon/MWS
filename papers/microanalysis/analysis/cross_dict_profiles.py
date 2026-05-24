@@ -1,0 +1,139 @@
+"""Task 4b (DOUBTS D1, deepening) — per-type block PROFILES across dictionaries.
+
+cross_dict_kernel.py established that the block-economy *shape* (small kernel +
+long tail) is general. This goes one step further and asks whether the *profile*
+construct — different article types carrying characteristically different
+block-sets — also generalises, or whether MW's type-driven enrichment is unusually
+pronounced.
+
+Scope: the English-format dicts that share MW's <lex> gender tagging
+(MW, AP, WIL, Benfey, Cappeller). PWG/PWK ({#..#}/{%..%} markup) and SKD/VCP
+(Sanskrit-Sanskrit) need bespoke parsers and are out of scope here.
+
+For each dict we type every record by its first <lex> value (m/f/n/mfn/ind), then
+report, per type, the rate of two comparable enrichment signals — source citation
+(<ls>) and etymology (root marker) — plus the mean count of common blocks. The
+"profile spread" (max-min citation rate across types) measures how strongly the
+dict differentiates its types: a large spread means strong profiles.
+
+Run:  python cross_dict_profiles.py
+"""
+import os
+import re
+from collections import Counter, defaultdict
+
+from _common import TMP
+
+DICTS = [
+    ('MW',  'mw.txt',  'Monier-Williams 1899'),
+    ('AP',  'ap.txt',  'Apte'),
+    ('WIL', 'wil.txt', 'Wilson 1832'),
+    ('BEN', 'ben.txt', 'Benfey 1866'),
+    ('CAE', 'cae.txt', 'Cappeller 1891'),
+]
+
+RECORD_RE = re.compile(r'<L>.*?(?=<L>|\Z)', re.DOTALL)
+LEX_RE = re.compile(r'<lex>([^<]*)</lex>')
+TYPES = ['noun-m', 'noun-f', 'noun-n', 'adj-mfn', 'indeclinable', 'other']
+
+
+def lex_type(chunk):
+    m = LEX_RE.search(chunk)
+    if not m:
+        return 'other'
+    v = m.group(1).strip().rstrip('.').lower()
+    return {'m': 'noun-m', 'f': 'noun-f', 'n': 'noun-n',
+            'mfn': 'adj-mfn', 'a': 'adj-mfn', 'adj': 'adj-mfn',
+            'ind': 'indeclinable'}.get(v, 'other')
+
+
+def common_blocks(chunk):
+    b = 1  # head
+    if '¦' in chunk:
+        b += 1
+    if '<lex>' in chunk:
+        b += 1
+    if '<ls>' in chunk:
+        b += 1
+    if '√' in chunk or '<ab>fr.</ab>' in chunk:
+        b += 1
+    if 'q.v.' in chunk or '<ab>cf.</ab>' in chunk or '<ab>id.</ab>' in chunk:
+        b += 1
+    return b
+
+
+def analyse(path):
+    text = open(path, encoding='utf-8', errors='replace').read()
+    n = Counter()
+    cite = Counter()
+    etym = Counter()
+    blk = defaultdict(int)
+    for m in RECORD_RE.finditer(text):
+        c = m.group(0)
+        t = lex_type(c)
+        n[t] += 1
+        if '<ls>' in c:
+            cite[t] += 1
+        if '√' in c or '<ab>fr.</ab>' in c:
+            etym[t] += 1
+        blk[t] += common_blocks(c)
+    return n, cite, etym, blk
+
+
+def main():
+    lines = []
+    def out(s=''):
+        print(s)
+        lines.append(s)
+
+    out('=== Per-type block PROFILES across English-format dictionaries (DOUBTS D1, deepening) ===')
+    out('Type = first <lex> value. "cite%" = entries of that type with a <ls> source; '
+        '"etym%" = with a root marker; "blk" = mean common blocks.')
+    spreads = {}
+    for code, fn, desc in DICTS:
+        path = os.path.join(TMP, fn)
+        if not os.path.exists(path):
+            out(f'\n{code}: missing {fn}')
+            continue
+        n, cite, etym, blk = analyse(path)
+        total = sum(n.values())
+        out(f'\n{code} ({desc}) — {total:,} records')
+        out(f'  {"type":<14}{"N":>9}{"cite%":>8}{"etym%":>8}{"blk":>7}')
+        cite_rates = []
+        for t in TYPES:
+            if n[t] == 0:
+                continue
+            cr = 100 * cite[t] / n[t]
+            er = 100 * etym[t] / n[t]
+            bk = blk[t] / n[t]
+            if t != 'other' and n[t] >= 100:
+                cite_rates.append(cr)
+            out(f'  {t:<14}{n[t]:>9,}{cr:>7.1f}%{er:>7.1f}%{bk:>7.2f}')
+        spread = (max(cite_rates) - min(cite_rates)) if len(cite_rates) >= 2 else 0
+        spreads[code] = spread
+        out(f'  -> citation profile spread across types: {spread:.1f} pts')
+
+    out()
+    out('=== Interpretation (D1, profiles) ===')
+    out('- "Profile spread" = how differently a dict treats its article types (range of')
+    out('  citation rate across gender-types). A large spread = strong, MW-like profiles;')
+    out('  a flat spread = the dict treats all types alike.')
+    for code in ('MW', 'AP', 'WIL', 'BEN', 'CAE'):
+        if code in spreads:
+            out(f'  {code}: {spreads[code]:.1f} pts')
+    out('- Caveat: gender-typing is coarse (it ignores MW\'s root/compound/continuation')
+    out('  structure, which has no <lex> analogue in the others), and WIL barely uses <ls>')
+    out('  so its citation signal is near-zero by digitisation, not by editorial choice.')
+
+    report = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'CROSS_DICT_PROFILES.md')
+    with open(report, 'w', encoding='utf-8') as f:
+        f.write('# Per-type block profiles across dictionaries (DOUBTS D1, deepening)\n\n')
+        f.write('Generated by `cross_dict_profiles.py`. Tests whether the *profile* construct '
+                '(type-driven block differentiation) generalises beyond MW, on the English-format '
+                'dicts that share MW\'s `<lex>` gender tagging.\n\n')
+        f.write('```\n' + '\n'.join(lines).strip() + '\n```\n')
+    print(f'\n  wrote {report}')
+
+
+if __name__ == '__main__':
+    main()
