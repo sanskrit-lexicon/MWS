@@ -10,7 +10,7 @@ The goal is not to undo decisions but to make their weaknesses visible. If a dou
 
 ## Substantive doubts about the analytical claims
 
-### D1 — Is "block economy" a genuine principle or print-economic artifact? · *important* → **TESTED 2026-05-24**
+### D1 — Is "block economy" a genuine principle or print-economic artifact? · *important*
 
 > **Result ([analysis/CROSS_DICT.md](analysis/CROSS_DICT.md)):** the doubt is borne out. The block-economy *shape* (small modal kernel + long tail) is **general to all eight CDSL dictionaries**, not MW-specific (modal blocks/entry: MW 5, PWG 4, PWK 3, AP 2, WIL 3, Benfey 3). PWG is ~4× denser per entry. PAPER.md §4 and §9.3 now soften the claim to "characteristic of single-volume scholarly dictionaries." A per-type follow-up ([analysis/CROSS_DICT_PROFILES.md](analysis/CROSS_DICT_PROFILES.md)) now covers all nine dicts: **single-volume** dicts differentiate `<lex>` types (MW 11.3, PWK 7.7, AP 15.2 pts) while **multi-volume PWG cites uniformly** (0.4) — type-differentiation is itself a single-volume economy. The **Sanskrit-Sanskrit lexica (SKD/VCP)** fall outside the framework (no `<lex>`/`<ls>`; inline `iti` citation) — the apparatus is genre-bound to structured bilingual dicts.
 
@@ -21,7 +21,7 @@ Our [paper](PAPER.md#4-the-block-economy-thesis) names "block economy" as MW's d
 
 **Fix:** add Phase-4 cross-dict block matrices and compare kernels. Currently asserted on MW data alone.
 
-### D2 — The `<ls>L.</ls>` "MW innovation" claim — under-checked · *important* → **STRENGTHENED 2026-05-24**
+### D2 — The `<ls>L.</ls>` "MW innovation" claim — under-checked · *important*
 
 > **Result ([analysis/LS_HEDGE_CHECK.md](analysis/LS_HEDGE_CHECK.md)):** MW has 40,212 `L.` hedges; **PWG (of 570,817 `<ls>` tags), PWK, WIL, CAE, SKD, VCP have 0; AP has 1**. New datapoint: **Benfey 1866** has a full citation apparatus (14,708 `<ls>` tags) but **0** generic hedges — an earlier English-Sanskrit dictionary without the device, which strengthens the innovation claim. **Cappeller 1891 (CAE)** has now been fetched (Cappeller co-edited MW 1899): it has *zero* `<ls>` apparatus but two **undocumented markers** — asterisk `*` (1,370×, ~166 headword-initial) and dagger `†` (903×); an entry-final `*` sits where a hedge sits. Checked every CDSL source (`cae_front.txt` empty, `cae-meta2.txt`, CAE `DATA_DICTIONARY.md`) — none documents them, so the meaning needs Cappeller's **1891 print preface**. Remaining: a human read of the **Cappeller / WIL / Benfey print prefaces**.
 
@@ -48,7 +48,7 @@ We claim WIL is "the kosha tradition translated" based on (a) the subtitle ("lea
 
 **Fix:** soften the lineage diagram. Replace the binary "two ancestries" framing with a directed graph that acknowledges cross-influence.
 
-### D4 — 4 framework papers from the same data — is this honest? · *blocking* → **RESOLVED 2026-05-23**
+### D4 — 4 framework papers from the same data — is this honest? · *blocking*
 
 > **Resolution:** consolidated to **one paper** ([PAPER.md](PAPER.md)), per option (a) below. The data-grounded reading is the body; the Wiegand / Atkins-Rundell / Hausmann readings are condensed into [Appendices A–C](PAPER.md#appendix-a--the-wiegand-theoretic-reading-condensed) and reframed (in [PAPER.md §7](PAPER.md#7-triangulation-three-external-frameworks-converge)) as *convergent triangulation* rather than parallel publications. The four standalone `paper-*.md` drafts are retained in this directory as supplementary extended drafts, each banner-linked back to PAPER.md.
 
@@ -85,7 +85,7 @@ Then *orthogonal* properties: Vedic-accented (yes/no), lexicographer-hedged (yes
 
 **Fix:** in the grounded paper §6, distinguish "primary article types" from "orthogonal properties." The current confusion conflates them.
 
-### D6 — Block detection is regex-based and approximate · *important* → **AUDITED 2026-05-24**
+### D6 — Block detection is regex-based and approximate · *important*
 
 > **Result ([analysis/SPOTCHECK.md](analysis/SPOTCHECK.md)):** detector reproduces the 286,561 count exactly. Confirmed and quantified: **F08 over-counts** (36.5% of its hits are compound `<e>3*` members, not inflected forms); **F09 over-counts** (66.7% of hits outside any root/etymological context). Downgraded: the **F11 under-count is negligible** (+0.02 pts under a broader pattern). New: the §4 "display headword 99%" was the structural-key rate; the *rendered* `<s>` rate is **76%** (corrected). A 100-record labelled sample (`analysis/SPOTCHECK_SAMPLE.txt`, seed 42) awaits per-entry Sanskritist review.
 
@@ -100,7 +100,7 @@ The `mw_block_matrix.py` script uses regular expressions to detect 18 blocks. Se
 
 **Fix:** add a "Methodological limitations" section to the working notes. Document the regexes and known false-positive/false-negative cases.
 
-### D7 — The block-by-article-type matrix has *no* statistical significance test · *nice-to-resolve* → **TESTED 2026-05-24**
+### D7 — The block-by-article-type matrix has *no* statistical significance test · *nice-to-resolve*
 
 > **Result ([analysis/SIGNIFICANCE.md](analysis/SIGNIFICANCE.md)):** every headline contrast is significant at α = 0.05 (chi-square / Fisher; Wilson 95% CIs reported). The specific small difference this doubt named — noun_m F08 (21.6%) vs noun_f F08 (22.6%) — is **not significant (p = 0.07)**, confirming the concern; gender-level F08 differences are dropped as findings. Biographical F13 has a wide CI [59.6, 69.6] (N = 346) now stated in PAPER.md §9.2.
 
@@ -116,7 +116,7 @@ We report percentages like "F09 commentary at 78.1% in roots vs ~5% baseline." B
 
 ## Substantive doubts about the design decisions
 
-### D8 — Observable Framework is heavy infrastructure for a research microsite · *blocking* → **RESOLVED 2026-05-23**
+### D8 — Observable Framework is heavy infrastructure for a research microsite · *blocking*
 
 > **Resolution:** **keep Observable Framework** ([Decision 10](decisions/MICROSITE.md#decision-10--stack-observable-framework)). The user accepts the build-pipeline and lock-in trade-offs in exchange for built-in i18n routing, reactive D3/Plot, and Markdown pages, which match the [per-locale-file strategy](decisions/I18N.md) and [JSON-data architecture](decisions/MICROSITE.md#decision-2--build-both-static-paper-and-interactive-microsite). The static figures remain plain SVG/PNG (already built), so the paper does not depend on Observable; the framework is used only for the interactive microsite. The mitigations below (pin the Framework version; keep the highest-interactivity tools isolated; ensure figures degrade to static) become *implementation notes* rather than reasons to switch stacks.
 

@@ -399,7 +399,7 @@ The lineage is provable by counting `<ls>` citations of named kosha sources in e
 ### What this proves
 
 - **WIL ← Koshas** (direct lineage, via the [Fort William College](https://en.wikipedia.org/wiki/Fort_William_College) pandits — confirmed by [WIL's own subtitle](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/wil/wilheader.xml) and CDSL's `koSa` subject classification).
-- **MW ← PWG** (confirmed by MW's own preface and by the [structural alignment shown in the *aṃśa* sample-entry comparison](#same-entry-across-five-dictionaries) above).
+- **MW ← PWG** (confirmed by MW's own preface and by the [structural alignment shown in the *aṃśa* sample-entry comparison](#same-entry-across-seven-dictionaries) above).
 - **The koshas enter MW twice**: directly (the senses themselves, ultimately traceable to AK./H./MED./HALĀY.) and indirectly (via PWG, which named the kosha sources, then MW which abridged them as `L.`).
 
 ### Citation-discipline contrast — the deepest scholarly point

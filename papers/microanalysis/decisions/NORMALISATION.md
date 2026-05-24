@@ -162,5 +162,5 @@ The figure caption must state the normalisation. Worked examples:
 
 - [VISUALISATIONS.md §Decision 4](../VISUALISATIONS.md#decision-4--cross-dictionary-normalisation-detailed-analysis) — full discussion with "what it obscures" notes per option
 - [FIGURES.md](FIGURES.md) — figure design conventions
-- [DICT_PROFILE Lineage section](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) — qualitative narrative of the kosha-collapse
+- [DICT_PROFILE Lineage section](../../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) — qualitative narrative of the kosha-collapse
 - [Lineage Sankey](../figures/sankey-en.svg) — the visualisation that uses Option F

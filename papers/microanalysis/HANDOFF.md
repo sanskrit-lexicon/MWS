@@ -29,7 +29,7 @@ The Cologne Digital Sanskrit Lexicon (CDSL) project, sanskrit-lexicon org on Git
 
 | File | Purpose |
 |---|---|
-| [DICT_PROFILE.md](../../DICT_PROFILE.md) | Reader-facing profile of MW. Contains: At-a-Glance, Orthographical conventions, Historical background, Scholarly significance, When to use (with [14-row article typology](../../DICT_PROFILE.md#article-types--what-youll-encounter) + [citation markers callout](../../DICT_PROFILE.md#citation-markers--not-all-are-literary-works)), Relationship to other CDSL dicts, [Beyond PWG analysis](../../DICT_PROFILE.md#beyond-pwg--what-mw-contributes), [Same entry across 7 dictionaries (MW+PWG+PWK+AP+WIL+SKD+VCP)](../../DICT_PROFILE.md#same-entry-across-five-dictionaries), [Lineage section](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) with citation evidence, Sample entries L9/L10/L57, Known issues, Further reading, BibTeX. |
+| [DICT_PROFILE.md](../../DICT_PROFILE.md) | Reader-facing profile of MW. Contains: At-a-Glance, Orthographical conventions, Historical background, Scholarly significance, When to use (with [14-row article typology](../../DICT_PROFILE.md#article-types--what-youll-encounter) + [citation markers callout](../../DICT_PROFILE.md#citation-markers--not-all-are-literary-works)), Relationship to other CDSL dicts, [Beyond PWG analysis](../../DICT_PROFILE.md#beyond-pwg--what-mw-contributes), [Same entry across 7 dictionaries (MW+PWG+PWK+AP+WIL+SKD+VCP)](../../DICT_PROFILE.md#same-entry-across-seven-dictionaries), [Lineage section](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) with citation evidence, Sample entries L9/L10/L57, Known issues, Further reading, BibTeX. |
 | [ENTRY_GUIDE.md](../../ENTRY_GUIDE.md) | Reader's guide. Encoding, [Orthographical conventions (full)](../../ENTRY_GUIDE.md#orthographical-conventions), Common tags with real counts, `<ls>` coverage stats, [Top-25 cited sources](../../ENTRY_GUIDE.md#top-25-most-cited-sources), Period breakdown, Top orphans, [Entry hierarchy distribution](../../ENTRY_GUIDE.md#entry-hierarchy-distribution), [Entry-type breakdown](../../ENTRY_GUIDE.md#entry-type-breakdown-by-content), [IE cognate density](../../ENTRY_GUIDE.md#ie-cognate-density--lang-breakdown), Vedic accent coverage, Cross-reference patterns, mwauthorities/. |
 | [DATA_DICTIONARY.md](../../DATA_DICTIONARY.md) | Tag inventory with audit counts, `<INFER/>`/`<UNMARKED>`/`<UNUSED/>` taxonomy, `<lex>` vs `<ab>` distinction, `<ab n="…">` variant, operative-vs-audit `mwab_input.txt` distinction (csl-pywork 2024 vs MWS 2017). |
 | [CONTRIBUTING.md](../../CONTRIBUTING.md) | Issue templates, label taxonomy, multi-step correction workflow. |
@@ -127,7 +127,7 @@ Brief summary of the 15 doubts D1–D15:
 
 **Important** (should be resolved before publication):
 - [**D1**](DOUBTS.md#d1--is-block-economy-a-genuine-principle-or-print-economic-artifact--important): "block economy" might be a general property of all single-volume scholarly dicts, not MW-specific. Test against PWK / AP / WIL block matrices.
-- [**D2**](DOUBTS.md#d2--the-lsl-mw-innovation-claim--under-checked--important): the L.-hedge "MW innovation" claim is under-checked. Verify WIL / Benfey / Cappeller don't have analogous markers.
+- [**D2**](DOUBTS.md#d2--the-lslls-mw-innovation-claim--under-checked--important): the L.-hedge "MW innovation" claim is under-checked. Verify WIL / Benfey / Cappeller don't have analogous markers.
 - [**D5**](DOUBTS.md#d5--article-type-typology--14-is-too-many--overlapping--important): 14 article types have heavy overlap. Distinguish "primary article types" from "orthogonal properties."
 - [**D6**](DOUBTS.md#d6--block-detection-is-regex-based-and-approximate--important): regex-based block detection has known heuristic errors. Add a methodological limitations section.
 - [**D9**](DOUBTS.md#d9--28-design-decisions-before-any-code--important): 28 decisions may be over-engineering before shipping anything. Consider v1 cut.
@@ -234,7 +234,7 @@ Memory files at `C:/Users/user/.claude/projects/D--claude/memory/`. One fact per
 
 **If continuing the cross-dict atlas:**
 1. Per [D10](DOUBTS.md#d10--csl-atlas-is-named-before-scoped--important), scaffold `csl-atlas` locally first.
-2. Generate per-dict block matrices using [mw_block_matrix.py](MICROANALYSIS.md#9--open-analytical-questions-for-the-four-framework-papers) extended to each of the 8 other dicts.
+2. Generate per-dict block matrices using [mw_block_matrix.py](MICROANALYSIS.md#9--open-analytical-questions-for-the-paper) extended to each of the 8 other dicts.
 3. Re-run Tier-1 figure scripts against each.
 4. Compose a per-dict "chapter" page per Decision 20.
 

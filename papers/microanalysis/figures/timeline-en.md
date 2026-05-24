@@ -59,7 +59,7 @@ timeline
 
 ---
 
-**Sources:** [CDSL csl-orig](https://github.com/sanskrit-lexicon/csl-orig) (all dictionary data files); [DICT_PROFILE Lineage section](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) (full evidentiary discussion); [Wikipedia: Sanskrit grammarians](https://en.wikipedia.org/wiki/Sanskrit_grammar) (dates and authors).
+**Sources:** [CDSL csl-orig](https://github.com/sanskrit-lexicon/csl-orig) (all dictionary data files); [DICT_PROFILE Lineage section](../../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) (full evidentiary discussion); [Wikipedia: Sanskrit grammarians](https://en.wikipedia.org/wiki/Sanskrit_grammar) (dates and authors).
 
 **License:** CC-BY-SA-4.0 · **Build:** 2026-05-23
 

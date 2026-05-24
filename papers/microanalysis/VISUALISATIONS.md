@@ -24,7 +24,7 @@ Quick recap of the quantitative dimensions available:
 | `<lang>` IE cognates | [ENTRY_GUIDE](../../ENTRY_GUIDE.md#ie-cognate-density--lang-breakdown) | 112 languages, 3,960 tags |
 | `<e>` hierarchy codes | [ENTRY_GUIDE](../../ENTRY_GUIDE.md#entry-hierarchy-distribution) | 21 sub-codes |
 | `<lex>` distribution | [ENTRY_GUIDE](../../ENTRY_GUIDE.md#entry-type-breakdown-by-content) | m./f./n./mfn./ind./mn./… |
-| Cross-dict comparison | [DICT_PROFILE Same entry](../../DICT_PROFILE.md#same-entry-across-five-dictionaries) | MW / PWG / AP / WIL / SKD |
+| Cross-dict comparison | [DICT_PROFILE Same entry](../../DICT_PROFILE.md#same-entry-across-seven-dictionaries) | MW / PWG / AP / WIL / SKD |
 | Kosha lineage data | [DICT_PROFILE Lineage](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) | 6 named kosha sources in PWG vs 1 (`L.`) in MW |
 | Issue tracker | [ROADMAP](../../ROADMAP.md) | 34 open, 157 closed, 9 label classes |
 | Authority coverage | [ENTRY_GUIDE](../../ENTRY_GUIDE.md#coverage-of-ls-citations) | 232 / 821 with records (28.3%) |
@@ -70,7 +70,7 @@ MW against PWG / AP / WIL / SKD — the comparative dimension of the [Beyond PWG
 | 3.2 | **Parallel-coordinates / slope chart** | 5 dicts × 6 normalised metrics | Tracks each dictionary's "fingerprint" across dimensions; reveals MW's atypical L.-spike | Medium | D3 parallel-coords, Plotly |
 | 3.3 | **Microstructure fingerprints (small multiples)** | 5 dicts × 18 block frequencies | Each dict gets a small heat-strip placed side by side — instant visual comparison | Medium | matplotlib subplots grid |
 | 3.4 | **Sankey: PWG kosha cites → MW `L.` collapse** | PWG `H.` 17,337 + `AK.` 14,473 + `MED.` 13,055 + `H. an.` 9,771 + `TRIK.` 8,365 + `HALĀY.` 5,114 → MW `L.` 40,213 | **The definitive visualisation of the lineage finding.** Six PWG flows merging into one MW flow. Would be the killer figure of the [Lineage section](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) | Medium | Plotly Sankey, D3 Sankey |
-| 3.5 | **Side-by-side entry-anatomy** | the *aṃśa* entry across 5 dicts | Pull from [DICT_PROFILE Same entry](../../DICT_PROFILE.md#same-entry-across-five-dictionaries) — visualise as 5 columns with block annotations | Medium | Hand-crafted SVG or HTML |
+| 3.5 | **Side-by-side entry-anatomy** | the *aṃśa* entry across 5 dicts | Pull from [DICT_PROFILE Same entry](../../DICT_PROFILE.md#same-entry-across-seven-dictionaries) — visualise as 5 columns with block annotations | Medium | Hand-crafted SVG or HTML |
 
 ---
 
@@ -220,7 +220,7 @@ Estimated effort if undertaken: ~2–4 weeks for a polished microsite.
 
 ## Reusability for Phase 4 (other CDSL dicts)
 
-Each visualisation type generalises to any CDSL dictionary by re-running the block-detection script ([`mw_block_matrix.py`](../microanalysis/MICROANALYSIS.md#9--open-analytical-questions-for-the-four-framework-papers)) against that dict's data file. The pattern:
+Each visualisation type generalises to any CDSL dictionary by re-running the block-detection script ([`mw_block_matrix.py`](../microanalysis/MICROANALYSIS.md#9--open-analytical-questions-for-the-paper)) against that dict's data file. The pattern:
 
 ```
 For each CDSL dict (PWG, AP, WIL, SKD, GRA, BHS, +the four koshas):
@@ -270,7 +270,7 @@ The CSS strategy lets us:
 - Tier 1 figures (heatmap, Sankey, timeline, treemap) are produced **twice**: once as static SVG with embedded palette, once as interactive HTML/JS.
 - Tier 3 items (type comparator, entry browser, citation tracer) become *deliverables*, not "future-if-funded."
 - Data binding strategy: the data lives in JSON files (`papers/microanalysis/figures/data/`) consumed by both the static renderer (Python) and the interactive renderer (D3 / Vega-Lite).
-- Hosting target: TBD — see [follow-up questions](#follow-up-questions-2026-05-23) below.
+- Hosting target: resolved in [decisions/MICROSITE.md](decisions/MICROSITE.md) (new `csl-atlas` repo, GitHub Pages).
 
 ### Decision 3 — Bilingual labels: English + Russian
 
@@ -283,7 +283,7 @@ The CSS strategy lets us:
 - Interactive microsite has a locale-switcher control.
 - Sanskrit terms (lemmas, abbreviations, tag names) are preserved in their conventional rendering (IAST in italic, SLP1 in code blocks); they are not translated, only the surrounding labels are.
 
-The exact convention for how Sanskrit terms appear inside Russian text is a [follow-up question](#follow-up-questions-2026-05-23) below.
+The exact convention for how Sanskrit terms appear inside Russian text is resolved in [decisions/I18N.md](decisions/I18N.md).
 
 ### Decision 4 — Cross-dictionary normalisation: detailed analysis
 
