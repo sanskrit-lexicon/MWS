@@ -89,3 +89,15 @@ Reading: SKD/VCP carry no <lex>/<ls>; they mark gender inline in Sanskrit and ci
 inline "iti <source>" quotation. The block-profile apparatus — designed for structured
 bilingual dicts — is GENRE-BOUND and does not model the Sanskrit-Sanskrit kosa-lexica.
 ```
+
+## Per-dict detector adjustments (`export_dict_blocks.py`, S5)
+
+The common-block vocabulary in `cross_dict_kernel.py` is reused by `export_dict_blocks.py` to produce per-type block matrices for each dict. One adjustment was required during validation:
+
+**`<lex>a.</lex>` convention for adjectives (PWG, PWK, AP, WIL, CAE).**
+The MW microanalysis uses `<lex>mfn.</lex>` for adjectives. PWG, PWK, AP, WIL, and CAE use `<lex>a.</lex>` (Apte/Böhtlingk convention; 'a' = *adjective* from German *Adjektiv*). The LEXMAP in `export_dict_blocks.py` maps both `mfn` and `a` (and `adj`) to `adj-mfn`. Validation: PWG adj-mfn = 31,671 ✓; PWK = 46,265 ✓; AP = 18,764 ✓; WIL = 13,239 ✓; CAE = 16,235 ✓ (all match Part A above).
+
+**BEN, SKD, VCP: no `<lex>` tags.**
+Benfey, SKD, and VCP have no `<lex>` gender tags; all entries are typed as `other`. For SKD/VCP this is correct: gender is inline in Sanskrit prose (see Part B). For BEN, entries are primarily root/verb forms with no separate `<lex>` gender annotation.
+
+**Output files:** `figures/data/{code}_blocks.json` for all 9 dicts (MW, PWG, PWK, AP, WIL, BEN, CAE, SKD, VCP). Script: `figures/scripts/export_dict_blocks.py`.
