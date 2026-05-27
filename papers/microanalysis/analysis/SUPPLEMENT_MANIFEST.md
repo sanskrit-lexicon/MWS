@@ -2,7 +2,7 @@
 
 Built by [`make_supplement.py`](make_supplement.py) into `mw-microanalysis-supplementary.zip` (a gitignored build artefact). The raw dictionary `.txt` files are not bundled — they live in [csl-orig](https://github.com/sanskrit-lexicon/csl-orig); the included scripts regenerate every derived artefact from them.
 
-**87 files**, 2554 kB uncompressed.
+**88 files**, 2558 kB uncompressed.
 
 ## To rebuild
 
@@ -14,7 +14,7 @@ python make_supplement.py
 ## Contents
 
 - **(root)/** — 9 files
-- **analysis/** — 17 files
+- **analysis/** — 18 files
 - **decisions/** — 8 files
 - **figures/** — 53 files
 
@@ -53,6 +53,7 @@ python make_supplement.py
 - `analysis/SIGNIFICANCE.md`
 - `analysis/SIGNIFICANCE_FULL.md`
 - `analysis/SPOTCHECK.md`
+- `analysis/SUPPLEMENT_MANIFEST.md`
 - `analysis/SPOTCHECK_SAMPLE.txt`
 - `figures/cross-dict-blocks-en.svg`
 - `figures/cross-dict-density-en.svg`
