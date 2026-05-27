@@ -8,7 +8,7 @@ into one planning document.
 
 ---
 
-## Status snapshot (2026-05-23)
+## Status snapshot (2026-05-27)
 
 | Metric | Value |
 |---|--:|
@@ -22,8 +22,25 @@ into one planning document.
 | Vedic accent coverage | [16.6% of `<k2>` fields](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/ENTRY_GUIDE.md#vedic-accent-coverage) |
 | `<ls>L.</ls>` lexicographer hedges | [40,213 (12.9% of all citations)](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/DICT_PROFILE.md#citation-markers--not-all-are-literary-works) |
 
-**Velocity note:** Only 4 issues closed in the last 12 months. Roadmap throughput
-assumes ≤ 1 issue/month routinely + bursts when a maintainer is active. Long-running
+**Open issues by label (2026-05-27):**
+
+| Label | Open count |
+|---|--:|
+| `content-enhancement` | 12 |
+| `markup` | 8 |
+| `minor` | 17 |
+| `medium` | 14 |
+| `link-target` | 4 |
+| `question` | 3 |
+| `text-correction` | 2 |
+| `encoding` | 2 |
+| `bug` | 2 |
+| `hard` | 2 |
+
+*Note: issues can have multiple labels; counts exceed total open (34).*
+
+**Velocity note:** Only 4 issues closed in the last 12 months (unchanged from 2026-05-23 snapshot).
+Roadmap throughput assumes ≤ 1 issue/month routinely + bursts when a maintainer is active. Long-running
 items must be self-contained and resumable.
 
 ---
