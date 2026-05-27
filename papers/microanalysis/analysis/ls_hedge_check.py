@@ -1,0 +1,134 @@
+"""Task 3 (DOUBTS D2) — is the <ls>L.</ls> lexicographer-hedge an MW innovation?
+
+The paper claims MW invented the generic `L.` hedge: PWG has 0, PWK 0, AP 1.
+D2 says this is under-checked (WIL / Benfey / Cappeller not examined). Here we
+quantify, across every available CDSL dictionary, the `<ls>` source-citation
+apparatus and specifically the count of the generic `L.` marker.
+
+For each dict we report:
+  - record count,
+  - total <ls> source tags + distinct values,
+  - count of the generic lexicographer hedge `<ls>L.</ls>` (and `L` variants),
+  - the top source markers (to show whether the dict cites *named* koshas
+    (H., AK., MED., ...) instead, which is PWG's documented strategy).
+
+Cappeller (CAE) is not present in /tmp and is flagged as an unmet check.
+
+Run:  python ls_hedge_check.py
+"""
+import os
+import re
+from collections import Counter
+
+from _common import TMP
+
+DICTS = [
+    ('MW',  'mw.txt',  'Monier-Williams 1899'),
+    ('PWG', 'pwg.txt', 'Boehtlingk-Roth Grosses PW'),
+    ('PWK', 'pw.txt',  'Boehtlingk kuerzeres PW'),
+    ('AP',  'ap.txt',  'Apte practical'),
+    ('WIL', 'wil.txt', 'Wilson 1832'),
+    ('BEN', 'ben.txt', 'Benfey 1866'),
+    ('CAE', 'cae.txt', 'Cappeller 1891'),
+    ('SKD', 'skd.txt', 'Shabda-kalpadruma'),
+    ('VCP', 'vcp.txt', 'Vacaspatyam'),
+]
+
+LS_RE = re.compile(r'<ls>([^<]*)</ls>')
+# generic lexicographer hedge: L.  /  L  (allow trailing punctuation/space)
+HEDGE_RE = re.compile(r'^L\.?$')
+
+
+def analyse(path):
+    with open(path, encoding='utf-8', errors='replace') as f:
+        text = f.read()
+    records = text.count('<L>')
+    ls_vals = LS_RE.findall(text)
+    vals = Counter(v.strip() for v in ls_vals)
+    hedge = sum(c for v, c in vals.items() if HEDGE_RE.match(v.rstrip(',;: ')))
+    # entries containing the hedge (approx: records split on <L>)
+    hedge_records = len(re.findall(r'<ls>\s*L\.?\s*</ls>', text))
+    return {
+        'records': records,
+        'ls_total': len(ls_vals),
+        'ls_distinct': len(vals),
+        'hedge': hedge,
+        'hedge_records': hedge_records,
+        'top': vals.most_common(12),
+    }
+
+
+def main():
+    lines = []
+    def out(s=''):
+        print(s)
+        lines.append(s)
+
+    out('=== <ls>L.</ls> lexicographer-hedge across CDSL dictionaries (DOUBTS D2) ===')
+    out(f'{"dict":<5}{"records":>10}{"<ls> tags":>11}{"distinct":>10}{"L. hedge":>10}{"  hedge/1k recs":>16}')
+    results = {}
+    for code, fn, _desc in DICTS:
+        path = os.path.join(TMP, fn)
+        if not os.path.exists(path):
+            out(f'{code:<5}  (missing: {fn})')
+            continue
+        r = analyse(path)
+        results[code] = r
+        per1k = 1000 * r['hedge'] / r['records'] if r['records'] else 0
+        out(f'{code:<5}{r["records"]:>10,}{r["ls_total"]:>11,}{r["ls_distinct"]:>10,}'
+            f'{r["hedge"]:>10,}{per1k:>15.2f}')
+
+    out()
+    out('=== Top <ls> source markers per dict (shows named-kosha vs generic-L. strategy) ===')
+    for code, fn, desc in DICTS:
+        if code not in results:
+            continue
+        top = results[code]['top']
+        out(f'\n{code} ({desc}):')
+        if not top:
+            out('  (no <ls> source tags in this digitisation)')
+            continue
+        for v, c in top:
+            flag = '  <-- generic L. hedge' if HEDGE_RE.match(v.rstrip(',;: ')) else ''
+            out(f'  {c:>7,}  <ls>{v}</ls>{flag}')
+
+    out()
+    out('=== Interpretation ===')
+    mw = results.get('MW', {})
+    out(f'- MW generic L. hedge: {mw.get("hedge", 0):,} tags '
+        f'({1000*mw.get("hedge",0)/mw.get("records",1):.1f} per 1k records).')
+    for code in ('PWG', 'PWK', 'AP', 'WIL', 'BEN', 'SKD', 'VCP'):
+        if code in results:
+            out(f'- {code} generic L. hedge: {results[code]["hedge"]:,} tags '
+                f'(of {results[code]["ls_total"]:,} <ls> tags).')
+    cae_path = os.path.join(TMP, 'cae.txt')
+    if 'CAE' in results and os.path.exists(cae_path):
+        cae = open(cae_path, encoding='utf-8', errors='replace').read()
+        star_total = cae.count('*')
+        lead_head = len(re.findall(r'<k2>[^<\r\n]*\*', cae))
+        dagger = cae.count('†')
+        out(f'- Cappeller (CAE): present — {results["CAE"]["ls_total"]} <ls> tags, '
+            f'{results["CAE"]["hedge"]} generic L. hedges. BUT CAE uses two undocumented markers:')
+        out(f'  asterisk "*" {star_total:,}x (~{lead_head:,} on headwords <k2>*, the rest entry-final)')
+        out(f'  and dagger "†" {dagger:,}x. An entry-final "*" sits exactly where a hedge sits.')
+        out('  Checked all CDSL sources for their meaning — cae_front.txt (empty placeholder),')
+        out('  cae-meta2.txt (char table omits "*"), CAE/DATA_DICTIONARY.md — NONE documents them.')
+        out('  So fetching CAE NARROWS D2 (no <ls> L.-apparatus) but does not close it: the asterisk')
+        out("  must be interpreted from Cappeller's 1891 PRINT preface, not any digital source.")
+    else:
+        out('- Cappeller (CAE): NOT in /tmp.')
+    out('- Caveat: WIL/BEN/CAE digitisations may not tag sources with <ls> at all; a zero')
+    out('  there means "no <ls> apparatus to compare", not "no hedge convention". Their')
+    out('  print prefaces still need a human read for a parenthetical "(L.)"-style hedge.')
+
+    report = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'LS_HEDGE_CHECK.md')
+    with open(report, 'w', encoding='utf-8') as f:
+        f.write('# The `<ls>L.</ls>` hedge across CDSL dictionaries (DOUBTS D2)\n\n')
+        f.write('Generated by `ls_hedge_check.py`. Counts the generic lexicographer hedge '
+                'and the `<ls>` source apparatus in every dictionary available in `/tmp`.\n\n')
+        f.write('```\n' + '\n'.join(lines).strip() + '\n```\n')
+    print(f'\n  wrote {report}')
+
+
+if __name__ == '__main__':
+    main()

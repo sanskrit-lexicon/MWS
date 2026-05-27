@@ -1,0 +1,59 @@
+{
+  "code": "SKD",
+  "name": "Shabda-kalpadruma (Skt-Skt)",
+  "total_entries": 42531,
+  "blocks": [
+    "head",
+    "body",
+    "gram",
+    "cite",
+    "hom",
+    "etym",
+    "xref",
+    "hedge",
+    "info"
+  ],
+  "types": [
+    "noun-m",
+    "noun-f",
+    "noun-n",
+    "adj-mfn",
+    "indeclinable",
+    "other"
+  ],
+  "blocks_pct": {
+    "head": 100.0,
+    "body": 99.2,
+    "gram": 0.0,
+    "cite": 0.0,
+    "hom": 0.0,
+    "etym": 0.0,
+    "xref": 0.0,
+    "hedge": 0.0,
+    "info": 0.0
+  },
+  "matrix": [
+    {
+      "type": "other",
+      "count": 42531,
+      "head": 42531,
+      "head_pct": 100.0,
+      "body": 42196,
+      "body_pct": 99.21,
+      "gram": 0,
+      "gram_pct": 0.0,
+      "cite": 0,
+      "cite_pct": 0.0,
+      "hom": 0,
+      "hom_pct": 0.0,
+      "etym": 0,
+      "etym_pct": 0.0,
+      "xref": 0,
+      "xref_pct": 0.0,
+      "hedge": 0,
+      "hedge_pct": 0.0,
+      "info": 0,
+      "info_pct": 0.0
+    }
+  ]
+}

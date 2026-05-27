@@ -1,0 +1,121 @@
+"""Task 1 (DOUBTS D6) — spot-check the regex block detector.
+
+Two outputs:
+  1. A reproducible 100-entry labelled sample (SPOTCHECK_SAMPLE.txt) so a human
+     reader can verify the detector's block/type calls by eye.
+  2. Automated cross-checks (printed + summarised in SPOTCHECK.md) for the three
+     failure modes named in DOUBTS D6:
+       - F08 inflection-form over-count: >=2 <s> tags also fires on compound
+         members, not just inflected forms.
+       - F09 editorial-commentary over-count: a parenthetical >=50 chars also
+         fires on long parenthetical glosses.
+       - F11 sense-division under-count: only `\\d) ` is detected, but MW also
+         uses `a)`, `b)`, `-- c)` etc.
+
+Run:  python spotcheck_blocks.py
+"""
+import os
+import random
+import re
+from collections import Counter
+
+from _common import iter_mw, detect_blocks, classify_type
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+SAMPLE_N = 100
+SEED = 42
+
+
+def main():
+    print('Loading + classifying all MW records...')
+    recs = list(iter_mw())
+    n = len(recs)
+    print(f'  {n:,} records parsed')
+
+    # Precompute blocks/types once.
+    for r in recs:
+        r['blocks'] = detect_blocks(r['body'])
+        r['types'] = classify_type(r['body'], r['k2'], r['ecode'])
+
+    # ---- 1. Reproducible labelled sample -----------------------------------
+    rng = random.Random(SEED)
+    sample = rng.sample(recs, SAMPLE_N)
+    sample_path = os.path.join(HERE, 'SPOTCHECK_SAMPLE.txt')
+    with open(sample_path, 'w', encoding='utf-8') as f:
+        f.write(f'# Spot-check sample — {SAMPLE_N} MW records, seed={SEED}\n')
+        f.write('# For each: L-number, k2 headword, e-code, detected blocks, detected types, raw body.\n')
+        f.write('# A reviewer marks any mis-detected block (false +/-) inline.\n\n')
+        for r in sample:
+            f.write(f"L{r['lnum']}  k2={r['k2']!r}  e={r['ecode']}\n")
+            f.write(f"  blocks: {' '.join(sorted(r['blocks']))}\n")
+            f.write(f"  types : {' '.join(r['types'])}\n")
+            f.write(f"  body  : {r['body'].strip()}\n\n")
+    print(f'  wrote {sample_path}')
+
+    # ---- 2. Automated cross-checks over ALL records ------------------------
+    # F08 over-count: F08 fired AND record is a compound (<e>3*) — compound
+    # members produce multiple <s> tags that are not inflectional forms.
+    f08_total = sum(1 for r in recs if 'F08' in r['blocks'])
+    f08_compound = sum(1 for r in recs if 'F08' in r['blocks'] and r['ecode'].startswith('3'))
+
+    # F09 over-count: F09 fired. We cannot auto-judge editorial-vs-gloss, so we
+    # report the rate and split by whether a root/etymological context (where
+    # commentary is genuine) vs other (where a long paren is more likely a gloss).
+    f09_total = sum(1 for r in recs if 'F09' in r['blocks'])
+    f09_nonphilo = sum(
+        1 for r in recs if 'F09' in r['blocks']
+        and not (r['ecode'] in ('1',) or '√' in r['body'] or '<lang>' in r['body'] or 'genuineroot' in r['body'])
+    )
+
+    # F11 under-count: current detector vs a broader sense-division pattern.
+    cur_re = re.compile(r'\b\d\)\s')
+    broad_re = re.compile(r'(?:^|[\s—-])(?:\d+|[a-z]|[A-Z]|[ivxlc]+)\)\s')
+    f11_cur = sum(1 for r in recs if cur_re.search(r['body']))
+    f11_broad = sum(1 for r in recs if broad_re.search(r['body']))
+
+    block_pop = Counter()
+    for r in recs:
+        for b in r['blocks']:
+            block_pop[b] += 1
+
+    lines = []
+    def out(s=''):
+        print(s)
+        lines.append(s)
+
+    out()
+    out('=== Automated cross-checks (DOUBTS D6) ===')
+    out(f'Total records: {n:,}')
+    out()
+    out(f'F08 (inflection): fired in {f08_total:,} ({100*f08_total/n:.1f}%)')
+    out(f'  of which compound (<e>3*): {f08_compound:,} '
+        f'({100*f08_compound/max(f08_total,1):.1f}% of F08 hits) — CANDIDATE FALSE POSITIVES')
+    out(f'  (compound members yield multiple <s> tags that are not inflected forms)')
+    out()
+    out(f'F09 (editorial commentary): fired in {f09_total:,} ({100*f09_total/n:.1f}%)')
+    out(f'  outside a root/etymological context: {f09_nonphilo:,} '
+        f'({100*f09_nonphilo/max(f09_total,1):.1f}% of F09 hits) — REVIEW (long gloss-parens vs comment)')
+    out()
+    out(f'F11 (sense division): current `\\d) ` detector fires in {f11_cur:,} ({100*f11_cur/n:.2f}%)')
+    out(f'  broader `(num|a-z|roman))` detector fires in {f11_broad:,} ({100*f11_broad/n:.2f}%)')
+    out(f'  estimated under-count: +{f11_broad-f11_cur:,} records '
+        f'({100*(f11_broad-f11_cur)/n:.2f} pts) the current detector misses')
+    out()
+    out('=== Block population (audit reproduction) ===')
+    for b in sorted(block_pop):
+        out(f'  {b}: {block_pop[b]:>7,} ({100*block_pop[b]/n:5.1f}%)')
+
+    report = os.path.join(HERE, 'SPOTCHECK.md')
+    with open(report, 'w', encoding='utf-8') as f:
+        f.write('# Spot-check of the regex block detector (DOUBTS D6)\n\n')
+        f.write('Generated by `spotcheck_blocks.py`. Audits the published detector in '
+                '`../figures/scripts/export_data.py`. The 100-record labelled sample is in '
+                '`SPOTCHECK_SAMPLE.txt` (seed=42, reproducible).\n\n')
+        f.write('```\n')
+        f.write('\n'.join(lines).strip() + '\n')
+        f.write('```\n')
+    print(f'\n  wrote {report}')
+
+
+if __name__ == '__main__':
+    main()

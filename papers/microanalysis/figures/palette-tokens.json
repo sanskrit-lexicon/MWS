@@ -1,0 +1,77 @@
+{
+  "_meta": {
+    "version": "1.0.0",
+    "source": "MW1899 microanalysis — colour palette",
+    "last-updated": "2026-05-23",
+    "base-source": "ColorBrewer 2.0 paired qualitative + manual additions for fullness tiers",
+    "wcag-checked": true,
+    "colour-blind-safe": "checked against deuteranopia/protanopia (Sim Daltonism)",
+    "font-family": "Noto Sans",
+    "font-family-mono": "Noto Sans Mono",
+    "font-family-fallback": "DejaVu Sans, sans-serif"
+  },
+  "article-type": {
+    "root":              "#7a3d8f",
+    "noun-m":            "#1f78b4",
+    "noun-f":            "#e31a1c",
+    "noun-n":            "#33a02c",
+    "noun-mn":           "#6a3d9a",
+    "adjective-mfn":     "#ff7f00",
+    "indeclinable":      "#b15928",
+    "compound":          "#a6cee3",
+    "derived":           "#b2df8a",
+    "continuation":      "#fb9a99",
+    "lexicographer-only":"#fdbf6f",
+    "etymological-ie":   "#cab2d6",
+    "botanical":         "#90c850",
+    "biographical":      "#dda0dd",
+    "vedic-accented":    "#ffd700",
+    "other":             "#999999"
+  },
+  "semantic-block": {
+    "identity":     "#264653",
+    "form":         "#2a9d8f",
+    "grammar":      "#e9c46a",
+    "etymology":    "#f4a261",
+    "sense":        "#e76f51",
+    "evidentiary":  "#8d99ae",
+    "encyclopedic": "#a8dadc",
+    "discourse":    "#bdb2ff",
+    "meta":         "#cccccc"
+  },
+  "fullness-tier": {
+    "T1-vestigial":  "#e0e0e0",
+    "T2-skeletal":   "#bbdefb",
+    "T3-typical":    "#64b5f6",
+    "T4-rich":       "#1976d2",
+    "T5-elaborate":  "#0d47a1"
+  },
+  "dictionary": {
+    "mw":   "#1f78b4",
+    "pwg":  "#33a02c",
+    "pw":   "#b2df8a",
+    "ap":   "#ff7f00",
+    "wil":  "#e31a1c",
+    "skd":  "#6a3d9a",
+    "vcp":  "#cab2d6",
+    "armh": "#fb9a99",
+    "abch": "#a6cee3",
+    "acph": "#fdbf6f",
+    "acsj": "#cccccc"
+  },
+  "chart-element": {
+    "background":  "#fafafa",
+    "panel":       "#ffffff",
+    "grid":        "#eaeaea",
+    "axis":        "#333333",
+    "text":        "#222222",
+    "muted":       "#666666",
+    "accent":      "#d62728",
+    "highlight":   "#fdae61"
+  },
+  "footer": {
+    "text-color":  "#666666",
+    "font-size":   "7pt",
+    "font-style":  "italic"
+  }
+}

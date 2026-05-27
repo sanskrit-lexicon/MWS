@@ -1,0 +1,65 @@
+{
+  "total": 286561,
+  "types": [
+    {
+      "type": "root",
+      "count": 750
+    },
+    {
+      "type": "noun-m",
+      "count": 19204
+    },
+    {
+      "type": "noun-f",
+      "count": 8479
+    },
+    {
+      "type": "noun-n",
+      "count": 9918
+    },
+    {
+      "type": "adjective-mfn",
+      "count": 12240
+    },
+    {
+      "type": "indeclinable",
+      "count": 1929
+    },
+    {
+      "type": "compound",
+      "count": 126360
+    },
+    {
+      "type": "derived",
+      "count": 72119
+    },
+    {
+      "type": "continuation",
+      "count": 9294
+    },
+    {
+      "type": "lexicographer-only",
+      "count": 38414
+    },
+    {
+      "type": "etymological-ie",
+      "count": 2099
+    },
+    {
+      "type": "botanical",
+      "count": 8059
+    },
+    {
+      "type": "biographical",
+      "count": 346
+    },
+    {
+      "type": "vedic-accented",
+      "count": 47598
+    },
+    {
+      "type": "other",
+      "count": 19460
+    }
+  ]
+}
