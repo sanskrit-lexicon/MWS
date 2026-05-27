@@ -354,7 +354,7 @@ Pick whichever is most actionable:
 
 | Issue | Status | Latest |
 |---|---|---|
-| [MWS#195](https://github.com/sanskrit-lexicon/MWS/issues/195) | No maintainer comments yet | [O1-O5 delta posted 2026-05-27](https://github.com/sanskrit-lexicon/MWS/issues/195#issuecomment-4555387587); D21 resolved post-Opus (three-stage lineage: 1872 MW concept · 1891 Cappeller systematic typographic · 1899 MW+Cappeller tagged) |
+| [MWS#195](https://github.com/sanskrit-lexicon/MWS/issues/195) | No maintainer comments yet | [O1-O5 delta posted 2026-05-27](https://github.com/sanskrit-lexicon/MWS/issues/195#issuecomment-4555387587); D21 resolved post-Opus (three-stage lineage: 1872 MW concept · 1891 Cappeller systematic typographic · 1899 MW+Cappeller tagged); **all 7 O7 hostile-review doubts (D16-D22) closed**; submission-v1 tag pushed (8,654-word PAPER.md, 969-word IJL_COVER_LETTER.md, 4,045-word PAPER_RU.md, 104-file supplementary ZIP); csl-atlas [MW chapter](https://sanskrit-lexicon.github.io/csl-atlas/dicts/mw) authored to Decision 29 Tier A and pushed live |
 | [csl-sqlite#1](https://github.com/sanskrit-lexicon/csl-sqlite/issues/1) | No comments | [Re-ping posted 2026-05-27](https://github.com/sanskrit-lexicon/csl-sqlite/issues/1#issuecomment-4555390868) |
 | [csl-inflect#15](https://github.com/sanskrit-lexicon/csl-inflect/issues/15) | No comments | [Re-ping posted 2026-05-27](https://github.com/sanskrit-lexicon/csl-inflect/issues/15#issuecomment-4555392207) |
 | [hwnorm1#20](https://github.com/sanskrit-lexicon/hwnorm1/issues/20) | No comments | [Re-ping posted 2026-05-27](https://github.com/sanskrit-lexicon/hwnorm1/issues/20#issuecomment-4555393218) |
