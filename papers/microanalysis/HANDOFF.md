@@ -342,13 +342,25 @@ Pick whichever is most actionable:
 3. ~~**Methodological limitations**~~ ✅ **DONE** — [PAPER.md §9](PAPER.md#9-methodological-limitations).
 4. ~~**Cross-dict block matrices for D1**~~ ✅ **DONE** — [CROSS_DICT_PROFILES.md](analysis/CROSS_DICT_PROFILES.md) covers all 9 dicts.
 5. ~~**Statistical significance for D7**~~ ✅ **DONE** — [SIGNIFICANCE_FULL.md](analysis/SIGNIFICANCE_FULL.md), 217/270 cells significant at q=0.05.
-6. **Cappeller / Benfey / WIL print prefaces:** does someone have access to read them and verify the L.-hedge precedent question (per [D2](DOUBTS.md#d2--the-lslls-mw-innovation-claim--under-checked--important))?
-7. **Russian translation review:** when can [@gasyoun](https://github.com/gasyoun) review the bootstrap RU translations in [locales/ru.json](figures/locales/ru.json)?
-8. **Phase-4 scope:** which dicts join csl-atlas in what order? PWG first? AP? GRA?
+6. ~~**Cappeller / Benfey / WIL print prefaces**~~ ✅ **DONE 2026-05-27 (O1)** — D2 closed and downgraded: Cappeller `*` 1891 and Benfey `†` 1866 are typographic precedents; MW's innovation is structural promotion to the source-citation slot. See [DOUBTS D2](DOUBTS.md#d2--the-lsllls-claim-refined-mw-systematised-a-convention-pioneered-typographically--resolved-2026-05-27).
+7. **Russian translation review:** when can [@gasyoun](https://github.com/gasyoun) review the bootstrap RU translations in [locales/ru.json](figures/locales/ru.json)? **(Opus pre-review pass complete 2026-05-27 (O4) — 4 string corrections + 2 (?)-clearances; 3 medium-confidence terms still flagged.)**
+8. ~~**Phase-4 scope**~~ ✅ **DONE 2026-05-27 (O5)** — 9-chapter ordering and 3 template tiers documented in [decisions/MICROSITE.md Decision 29](decisions/MICROSITE.md#decision-29--phase-4-dictionary-ordering-chapter-templates-minimum-data-added-2026-05-27).
 9. **MVP cut:** does the user accept shipping PAPER.md + one figure now, deferring everything else?
 10. **csl-atlas repo creation:** scaffold locally now? Phase-4 ordering decided?
-11. **[D5](DOUBTS.md#d5--article-type-typology--14-is-too-many--overlapping--important) typology refactor:** primary types + orthogonal properties — do it before submission?
-12. **Russian-language venue:** which publication, what length, what overlap with the IJL paper?
+11. ~~**[D5](DOUBTS.md#d5--article-type-typology--refactored-to-8-primary-types--3-orthogonal-properties--resolved-2026-05-27) typology refactor**~~ ✅ **DONE 2026-05-27 (O2)** — 8 primary types + 3 orthogonal properties in [PAPER.md §5](PAPER.md#5-profiles-as-the-unit-of-typology) and [MICROANALYSIS.md §3](MICROANALYSIS.md#3--article-type-typology-8-primary-types--3-orthogonal-properties); legacy 14-bucket table preserved as §3.1.
+12. **Russian-language venue:** which publication, what length, what overlap with the IJL paper? **(O9 in flight — drafting [PAPER_RU.md](PAPER_RU.md) ~5K words for Russian indological venue.)**
+
+### Maintainer-review status (5 pilots, 2026-05-27 after O6)
+
+| Issue | Status | Latest |
+|---|---|---|
+| [MWS#195](https://github.com/sanskrit-lexicon/MWS/issues/195) | No maintainer comments yet | [O1-O5 delta posted 2026-05-27](https://github.com/sanskrit-lexicon/MWS/issues/195#issuecomment-4555387587) |
+| [csl-sqlite#1](https://github.com/sanskrit-lexicon/csl-sqlite/issues/1) | No comments | [Re-ping posted 2026-05-27](https://github.com/sanskrit-lexicon/csl-sqlite/issues/1#issuecomment-4555390868) |
+| [csl-inflect#15](https://github.com/sanskrit-lexicon/csl-inflect/issues/15) | No comments | [Re-ping posted 2026-05-27](https://github.com/sanskrit-lexicon/csl-inflect/issues/15#issuecomment-4555392207) |
+| [hwnorm1#20](https://github.com/sanskrit-lexicon/hwnorm1/issues/20) | No comments | [Re-ping posted 2026-05-27](https://github.com/sanskrit-lexicon/hwnorm1/issues/20#issuecomment-4555393218) |
+| [COLOGNE#455](https://github.com/sanskrit-lexicon/COLOGNE/issues/455) | No comments | [Re-ping posted 2026-05-27](https://github.com/sanskrit-lexicon/COLOGNE/issues/455#issuecomment-4555394467) |
+
+Deadline: if no reviews by 2026-06-15, propose merging as-is with follow-up issues for any later corrections.
 
 ---
 
