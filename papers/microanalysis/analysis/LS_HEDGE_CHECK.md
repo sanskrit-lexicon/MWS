@@ -126,3 +126,65 @@ VCP (Vacaspatyam):
   print prefaces still need a human read for a parenthetical "(L.)"-style hedge.
 
 ```
+
+## Print-preface read (added 2026-05-27; closes the digital-only gap)
+
+The remaining open question in D2 was whether Cappeller, Benfey, or Wilson used
+a "lexicographer-only" hedge in their **print** convention that the digital
+edition did not preserve as `<ls>`. Three preface reads:
+
+### Cappeller 1891 (Sanskrit-English Dictionary, Strassburg)
+> "*\* denotes a word taught only by grammarians or lexicographers.*"
+> "*† denotes a word which occurs only in a translation from Prakrit.*"
+> ("*†...†*" combines both.)
+
+Preface principle: "On the whole, it offers only authenticated matter, i.e. such
+words…as are actually found in the works of Sanskrit writers." The asterisk is
+therefore the negative of "authenticated matter" — **semantically the exact
+analogue of MW's `<ls>L.</ls>`**. Cappeller co-edited MW 1899, so the convention
+travelled with the editor.
+
+### Benfey 1866 (Sanskrit-English Dictionary, London)
+> "*\* denotes fictitious forms.*"  (i.e. linguistic reconstructions, *not*
+> the lexicographer-only sense — Benfey uses the IE-comparative convention.)
+> "*† denotes verbs or meanings for which there are no authoritative references.*"
+> "*§ when before, denotes that the word occurs only as latter part of a
+> compound; when after, as former.*"
+
+Benfey's dagger is the closest precedent to MW's `<ls>L.</ls>`: an *unauthenticated*
+mark, applied at the meaning level, embedded inline. It is *not* identical —
+Benfey marks "no authoritative reference" (a weaker, methodological hedge),
+while MW marks "indigenous-lexicon-only" (a stronger, evidential-class hedge).
+But the *type* of intervention (an inline marker for under-attested entries)
+is fully present 33 years before MW.
+
+### Wilson 1832 (2nd ed., Calcutta)
+Preface text not directly OCR-fetched in this pass. From the digitisation: 230
+`<ls>` tags total, 224 of them `<ls>Rox.</ls>` (Roxburgh's botanical catalogue).
+No generic-hedge tag, no asterisk/dagger in our tagged data. WIL's source
+apparatus appears to be **single-source** (Roxburgh) rather than systematically
+hedged — Wilson's preface emphasised the Amarakośa-derived base as a *base*,
+not as a separable evidential class. Convention-level resolution would require
+a physical-book read; for the purposes of D2, WIL is treated as "no inline
+hedge in the digital record, no clear preface convention attested in
+secondary literature."
+
+### Resolution
+
+The "MW innovation" claim **is downgraded**:
+
+1. The *idea* of inline-marking under-attested entries is present in Benfey 1866
+   (dagger †) and Cappeller 1891 (asterisk *).
+2. Cappeller's asterisk is **semantically equivalent** to MW's `<ls>L.</ls>` —
+   both denote "taught only by grammarians or lexicographers." Cappeller was
+   an MW co-editor, so the lineage is direct.
+3. What MW *does* innovate is the **tagged, citation-integrated** realisation:
+   40,212 `<ls>L.</ls>` tags occupy the same source slot as named citations
+   (`<ls>MBh.</ls>`, `<ls>RV.</ls>`), turning a typographic mark into a
+   first-class element of the source apparatus. This is a **structural** rather
+   than a **semantic** innovation.
+
+The honest claim is therefore: MW *systematised and tagged* the lexicographer-
+hedge that Benfey and Cappeller had already used as a typographic mark. PAPER.md
+Appendix C wording updated accordingly.
+

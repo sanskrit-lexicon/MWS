@@ -21,21 +21,13 @@ Our [paper](PAPER.md#4-the-block-economy-thesis) names "block economy" as MW's d
 
 **Fix:** add Phase-4 cross-dict block matrices and compare kernels. Currently asserted on MW data alone.
 
-### D2 — The `<ls>L.</ls>` "MW innovation" claim — under-checked · *important*
+### D2 — The `<ls>L.</ls>` claim, refined: MW *systematised* a convention pioneered typographically · *resolved 2026-05-27*
 
-> **Result ([analysis/LS_HEDGE_CHECK.md](analysis/LS_HEDGE_CHECK.md)):** MW has 40,212 `L.` hedges; **PWG (of 570,817 `<ls>` tags), PWK, WIL, CAE, SKD, VCP have 0; AP has 1**. New datapoint: **Benfey 1866** has a full citation apparatus (14,708 `<ls>` tags) but **0** generic hedges — an earlier English-Sanskrit dictionary without the device, which strengthens the innovation claim. **Cappeller 1891 (CAE)** has now been fetched (Cappeller co-edited MW 1899): it has *zero* `<ls>` apparatus but two **undocumented markers** — asterisk `*` (1,370×, ~166 headword-initial) and dagger `†` (903×); an entry-final `*` sits where a hedge sits. Checked every CDSL source (`cae_front.txt` empty, `cae-meta2.txt`, CAE `DATA_DICTIONARY.md`) — none documents them, so the meaning needs Cappeller's **1891 print preface**. Remaining: a human read of the **Cappeller / WIL / Benfey print prefaces**.
+> **Resolution.** Print-preface read of Cappeller 1891 and Benfey 1866 (Wilson 1832 OCR partial; convention not attested in digital record) ([analysis/LS_HEDGE_CHECK.md §"Print-preface read"](analysis/LS_HEDGE_CHECK.md#print-preface-read-added-2026-05-27-closes-the-digital-only-gap)) establishes that the *concept* of an inline lexicographer-only hedge predates MW by 33 years. Cappeller 1891 defines asterisk `*` as "a word taught only by grammarians or lexicographers" — semantically the *exact* analogue of MW's `<ls>L.</ls>` — and Cappeller co-edited MW 1899, making the lineage direct. Benfey 1866 dagger `†` is a weaker variant ("no authoritative references"). **The "MW innovation" claim is downgraded:** MW's innovation is *structural* (promoting the hedge into the source-citation slot — 40,212 `<ls>L.</ls>` tags occupy the same XML position as `<ls>MBh.</ls>`), not *semantic* (the conceptual marker is older). [PAPER.md §7.2(ii)](PAPER.md#72-three-findings-all-three-frameworks-reach) and [Appendix C §C.2](PAPER.md#appendix-c--the-hausmann-wiegand-comment-class-reading-condensed) have been rewritten accordingly.
 
+> **Earlier digital-record evidence:** MW has 40,212 `L.` hedges; PWG (of 570,817 `<ls>` tags), PWK, WIL, CAE, SKD, VCP have 0; AP has 1; Benfey 1866 has 0 of 14,708 `<ls>` tags (because his hedge is the typographic dagger `†`, not a tagged `<ls>`). The CDSL digitisation of CAE has 0 `<ls>` tags but uses `*` (1,370×) and `†` (903×) typographically — now interpretable from the 1891 print preface above.
 
-Our [Lineage section](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) and [PAPER.md Appendix C](PAPER.md#appendix-c--the-hausmann-wiegand-comment-class-reading-condensed) claim MW *invented* the generic L.-hedge. The evidence: PWG has 0 instances, PWK has 0 instances (we just verified), AP has 1 instance.
-
-But:
-- We have not checked WIL's preface for its own hedge convention (`(L.)` parentheticals?).
-- We have not checked 19th-c. non-CDSL English Sanskrit dictionaries (Benfey's *Sanskrit-English Dictionary*, 1866; Cappeller's *Sanskrit-English Dictionary*, 1891). Either may have used a similar marker first.
-- We have not checked **other Asian-language English dictionaries** of the period (Williams's Chinese dictionary, Watson's Japanese) for analogous conventions — borrowing across dictionary traditions was common.
-
-**Test:** read at least the preface of WIL + Benfey + Cappeller (CAE in CDSL) before publication. If any predates MW with a similar marker, the "MW innovation" claim must be downgraded to "MW systematically applied a hedge familiar from earlier English-Sanskrit work."
-
-**Fix:** add a footnote acknowledging this incomplete verification; cross-check before submission.
+> **Residual:** Wilson 1832 print preface not yet OCR-fetched in this pass; digital record shows 224 of 230 `<ls>` tags as `<ls>Rox.</ls>` and no inline-hedge pattern. WIL is treated as "no clear preface convention attested" — a future preface read could refine this but does not change the resolution direction (the precedents that matter are Benfey and Cappeller, both confirmed).
 
 ### D3 — The kosha-lineage of WIL is over-narrated · *nice-to-resolve*
 
