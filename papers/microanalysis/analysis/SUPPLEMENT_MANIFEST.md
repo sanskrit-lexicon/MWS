@@ -2,22 +2,21 @@
 
 Built by [`make_supplement.py`](make_supplement.py) into `mw-microanalysis-supplementary.zip` (a gitignored build artefact). The raw dictionary `.txt` files are not bundled — they live in [csl-orig](https://github.com/sanskrit-lexicon/csl-orig); the included scripts regenerate every derived artefact from them.
 
-**88 files**, 2611 kB uncompressed (2026-05-27, after Opus O1–O10 + doubts batch).
+**104 files**, 2368 kB uncompressed.
 
 ## To rebuild
 
 ```
 cd papers/microanalysis/analysis
 python make_supplement.py
-
 ```
 
 ## Contents
 
 - **(root)/** — 9 files
-- **analysis/** — 18 files
+- **analysis/** — 24 files
 - **decisions/** — 8 files
-- **figures/** — 53 files
+- **figures/** — 63 files
 
 <details><summary>Full file list</summary>
 
@@ -40,10 +39,15 @@ python make_supplement.py
 - `decisions/SUPPLEMENTARY.md`
 - `analysis/_common.py`
 - `analysis/check_docs.py`
+- `analysis/check_figure_consistency.py`
 - `analysis/cross_dict_kernel.py`
 - `analysis/cross_dict_profiles.py`
+- `analysis/lint_markdown.py`
 - `analysis/ls_hedge_check.py`
 - `analysis/make_supplement.py`
+- `analysis/phase4_rollout.py`
+- `analysis/push_pwg_dict_profile.py`
+- `analysis/push_pwg_roadmap.py`
 - `analysis/significance.py`
 - `analysis/significance_full.py`
 - `analysis/spotcheck_blocks.py`
@@ -55,6 +59,7 @@ python make_supplement.py
 - `analysis/SIGNIFICANCE_FULL.md`
 - `analysis/SPOTCHECK.md`
 - `analysis/SUPPLEMENT_MANIFEST.md`
+- `analysis/s9_issue_body.md`
 - `analysis/SPOTCHECK_SAMPLE.txt`
 - `figures/cross-dict-blocks-en.svg`
 - `figures/cross-dict-density-en.svg`
@@ -94,15 +99,25 @@ python make_supplement.py
 - `figures/palette-tokens.json`
 - `figures/palette.css`
 - `figures/palette.py`
+- `figures/data/ap_blocks.json`
 - `figures/data/article-type-counts.json`
 - `figures/data/avg-fullness-by-type.json`
+- `figures/data/ben_blocks.json`
 - `figures/data/block-by-type-matrix.json`
 - `figures/data/block-counts.json`
+- `figures/data/cae_blocks.json`
 - `figures/data/cross-dict.json`
 - `figures/data/fullness-distribution.json`
+- `figures/data/mw_blocks.json`
+- `figures/data/pwg_blocks.json`
+- `figures/data/pwk_blocks.json`
+- `figures/data/skd_blocks.json`
+- `figures/data/vcp_blocks.json`
+- `figures/data/wil_blocks.json`
 - `figures/scripts/build_palette.py`
 - `figures/scripts/export_cross_dict.py`
 - `figures/scripts/export_data.py`
+- `figures/scripts/export_dict_blocks.py`
 - `figures/scripts/render_cross_dict.py`
 - `figures/scripts/render_heatmap.py`
 - `figures/scripts/render_sankey.py`
