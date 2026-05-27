@@ -17,6 +17,8 @@ The 286,561-record dataset is analysed primarily through a **data-grounded** fra
 | [VISUALISATIONS.md](VISUALISATIONS.md) | **Visualisation catalogue** — all visualisation types the data supports (10 categories, ~40 ideas), prioritised by impact/effort into 3 tiers, with tool-choice notes and the Phase-4 reusability pattern | ~3K words |
 | [decisions/](decisions/) | **28 design decisions** split into 7 thematic sub-docs (PALETTE / I18N / MICROSITE / FIGURES / NORMALISATION / SUPPLEMENTARY / BUILD-ORDER) | ~6K words total |
 | [DOUBTS.md](DOUBTS.md) | **Critical review** of 15 architectural doubts (per @gasyoun's "doubt everything" mandate) | ~3K words |
+| [HANDOFF.md](HANDOFF.md) | **Project state snapshot** — current phase (3.10), open blockers, residual doubts (D16–D22), pending work, cross-repo impact | ~4K words |
+| [HANDOFF_PROMPTS.md](HANDOFF_PROMPTS.md) | **Paste-ready prompts** for continuing work — three model tiers (Opus, Sonnet, Haiku), 12 executable tasks (S1–S12 + 10 Haiku), downshift criteria | ~3K words |
 | [figures/](figures/) | **Built artefacts** — Tier-1 figures (heatmap, treemap, Sankey, Mermaid timeline) in EN + RU, palette tokens, locales, Python renderers, JSON data exports | — |
 
 ---
