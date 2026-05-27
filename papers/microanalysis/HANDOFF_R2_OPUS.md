@@ -21,16 +21,18 @@ Author the 8 remaining csl-atlas dict chapters following [Decision 29 ordering a
 | # | Code | Tier | Status | Source data |
 |--:|---|---|---|---|
 | 1 | MW | A | ✅ done (worked example) | `csl-atlas/src/dicts/mw.md` |
-| **2** | **PWG** | **A** | **next** | [PWG/DICT_PROFILE.md](https://github.com/sanskrit-lexicon/PWG/blob/docs-pass/DICT_PROFILE.md) + [analysis/CROSS_DICT_PROFILES.md](analysis/CROSS_DICT_PROFILES.md) PWG block + [analysis/LS_HEDGE_CHECK.md](analysis/LS_HEDGE_CHECK.md) PWG section |
-| 3 | CAE | B | pending | [LS_HEDGE_CHECK.md §"Print-preface read"](analysis/LS_HEDGE_CHECK.md#print-preface-read-added-2026-05-27-closes-the-digital-only-gap); D21 three-stage lineage |
-| 4 | BEN | B | pending | LS_HEDGE_CHECK.md (Benfey 1866); D22 marker-distinction table |
-| 5 | PWK | A | pending | CROSS_DICT_PROFILES.md PWK block; LS_HEDGE_CHECK.md PWK |
-| 6 | AP | A | pending | CROSS_DICT_PROFILES.md AP block; AP has 1× `<ls>L.</ls>` (the only non-MW occurrence) |
-| 7 | WIL | B | pending | LS_HEDGE_CHECK.md WIL section; D21 "no clear preface convention" |
-| 8 | SKD | C | pending | CROSS_DICT_PROFILES.md Part B (genre-bound) |
-| 9 | VCP | C | pending | CROSS_DICT_PROFILES.md Part B |
-| O9 | — | — | after 1–8 | cross-chapter consistency pass |
-| O10 | — | — | after O9 | atlas index.md refresh |
+| 2 | PWG | A | ✅ done 2026-05-27 | `csl-atlas/src/dicts/pwg.md` |
+| 3 | CAE | B | ✅ done 2026-05-27 | `csl-atlas/src/dicts/cae.md` |
+| 4 | BEN | B | ✅ done 2026-05-27 | `csl-atlas/src/dicts/ben.md` |
+| 5 | PWK | A | ✅ done 2026-05-27 | `csl-atlas/src/dicts/pwk.md` |
+| 6 | AP | A | ✅ done 2026-05-28 | `csl-atlas/src/dicts/ap.md` |
+| 7 | WIL | B | ✅ done 2026-05-28 | `csl-atlas/src/dicts/wil.md` |
+| 8 | SKD | C | ✅ done 2026-05-28 | `csl-atlas/src/dicts/skd.md` |
+| 9 | VCP | C | ✅ done 2026-05-28 | `csl-atlas/src/dicts/vcp.md` |
+| O9 | — | — | ✅ done 2026-05-28 | `csl-atlas/src/dicts/_consistency_audit.md` — all 8 §6 pairs bidirectionally consistent; 3 chapters patched to add missing doubt citations |
+| O10 | — | — | ✅ done 2026-05-28 | `csl-atlas/src/index.md` — 4-zone narrative, 9-row dict table, central-finding three-stage lineage |
+
+**Round 2 complete.** Atlas live at https://sanskrit-lexicon.github.io/csl-atlas/.
 
 Authoring order (Decision 29 §29.4): PWG → CAE → BEN → PWK → AP → WIL → SKD → VCP. CAE/BEN drafted *before* AP because the typographic-precedent finding from O1/D21 is freshest.
 
@@ -153,4 +155,13 @@ After all chapters done (or session running out):
 
 ---
 
-*Last updated: 2026-05-27 (session start). Authoring begins with O1 PWG.*
+*Last updated: 2026-05-28 (session end — all 10 prompts complete). Atlas chapters 2–9 authored, cross-chapter consistency audited, landing page refreshed. Live at https://sanskrit-lexicon.github.io/csl-atlas/.*
+
+## What a new chat sees on read-through
+
+If a fresh Claude Opus chat picks this file up now, the table above shows all 10 prompts as ✅ done. The next session's work would be either:
+
+- **Round 3 (not yet planned)** — would likely focus on the Phase-5 kosha-resolution paper (resolving MW's 40,212 `<ls>L.</ls>` hedges against the four kosha repos ARMH/ABCH/ACPH/ACSJ), or on actually submitting the IJL paper.
+- **Maintenance** — keeping the 9-chapter atlas in sync with any new MWS docs-pass changes; running the Haiku/Sonnet refresh tasks from [HANDOFF_PROMPTS.md Round 2](HANDOFF_PROMPTS.md) sections 3A and 4A.
+
+The atlas itself is content-complete; the next moves are research-direction decisions, not chapter-authoring.
