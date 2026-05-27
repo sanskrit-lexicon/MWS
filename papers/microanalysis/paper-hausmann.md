@@ -141,7 +141,7 @@ Two MW blocks — F17 (`<info>` machine annotation) and F18 (`{{old -> new || ..
 
 F17 is near-universal (96% of entries). It carries machine-readable encoding of the form-comment information already given in human-readable form (`<info lex="m"/>` duplicates `<lex>m.</lex>`). It exists to support the [SQLite generation pipeline](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/makotemplates/pywork/sqlite/sqlite.py) and the web display.
 
-F18 is vanishingly rare (< 30 instances). It records in-file corrections with author/date/URL provenance. The fact that there are so few of these is itself informative: corrections in MW are happening **exclusively via the GitHub issue-tracker** ([34 open, 157 closed](../../ROADMAP.md#status-snapshot-2026-05-23)) rather than via in-file correction records. The infrastructure exists but is not used.
+F18 is vanishingly rare (< 30 instances). It records in-file corrections with author/date/URL provenance. The fact that there are so few of these is itself informative: corrections in MW are happening **exclusively via the GitHub issue-tracker** ([34 open, 157 closed](../../ROADMAP.md#status-snapshot-2026-05-27)) rather than via in-file correction records. The infrastructure exists but is not used.
 
 ## 9. The Hausmann-Wiegand article-type signature
 

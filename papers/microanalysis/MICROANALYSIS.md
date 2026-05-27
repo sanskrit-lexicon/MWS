@@ -387,7 +387,7 @@ This working notes file *depends on* and *extends* the existing docs-pass conten
 
 5. **The 1.4% of T5 Elaborate entries (10+ blocks)** — what fraction of dictionary *usage* do they account for? These are likely the high-traffic lemmas (*ātman*, *karma*, *dharma*, *bhakti*, …) and account for far more than 1.4% of consultations. Hypothesis testable against query logs if available.
 
-6. **F18 correction records** — virtually zero in mw.txt. Are corrections happening exclusively in the issue-tracker rather than in-file? Cross-reference [ROADMAP.md velocity note](../../ROADMAP.md#status-snapshot-2026-05-23).
+6. **F18 correction records** — virtually zero in mw.txt. Are corrections happening exclusively in the issue-tracker rather than in-file? Cross-reference [ROADMAP.md velocity note](../../ROADMAP.md#status-snapshot-2026-05-27).
 
 ---
 
