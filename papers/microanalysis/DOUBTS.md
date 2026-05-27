@@ -242,19 +242,43 @@ A constraint is a thing the world imposes on you; a shape is a property the arte
 
 **Test:** add a footnote at §4 ¶3 stating "the 6-block kernel is the digital-edition kernel; the print-MW1899 kernel is 5 blocks (F01, F02, F04, F10, F12), with F17 as a digital-only addition." Verify that the Conclusion §10 and Abstract are consistent.
 
-### D18 — "8 primary types" actually has a 9th "other" residual at 6.79% of the corpus · *nice-to-resolve*
+### D18 — Audit of the "other" residual — **RESOLVED 2026-05-27** as verbal-lemma promotion · *was nice-to-resolve, now closed*
+
+> **Resolution.** Ran the canonical `classify_type` from [figures/scripts/export_data.py](figures/scripts/export_data.py) over all 271,148 parsed records and sub-bucketed the 18,513 "other" residuals:
+>
+> | Sub-bucket | Records | % of "other" | % of corpus |
+> |---|--:|--:|--:|
+> | **Verbal lemma** (√, P., Ā., cl. in body) | 7,502 | 40.5 % | 2.77 % |
+> | Polysemy tail (1B / 1E ecode) | 3,964 | 21.4 % | 1.46 % |
+> | 3\* ecode without hyphen in `<k2>` | 2,868 | 15.5 % | 1.06 % |
+> | e=1 unclassifiable (no `<lex>`, not verb, not xref) | 2,695 | 14.6 % | 0.99 % |
+> | Deeply-nested 4\* | 829 | 4.5 % | 0.31 % |
+> | Cross-reference stub ("¦ See …") | 513 | 2.8 % | 0.19 % |
+> | True residual | 105 | 0.6 % | 0.04 % |
+> | Non-canonical `<lex>` variant | 37 | 0.2 % | 0.01 % |
+>
+> The largest single sub-bucket (40.5 %, 2.77 % of corpus) is **verbal lemmas** — entries where grammar is encoded in `<ab>P.</ab>`/`<ab>Ā.</ab>`/`<ab>cl.</ab>` rather than `<lex>`, so the canonical classifier misses them. The original "root" primary type catches only `<info verb="genuineroot"/>` entries (750 records); verbal lemmas without that flag fall through to "other". **Action taken:** promoted verbal-lemma to a 9th primary type in [PAPER.md §5.1](PAPER.md#51-the-primary-types-8--1) (the table is now "8+1" primary types). The residual after promotion is ~11,000 records (~4 % of corpus) of structural anomalies (deep nesting, polysemy tails, hyphen-less compound-style entries, non-canonical `<lex>` variants), which is small enough to remain "other".
 
 [PAPER.md §5.1](PAPER.md#5-profiles-as-the-unit-of-typology) headlines 8 primary types but lists a 9th row, "other" (19,460 entries, 6.79% of MW). 6.79% is larger than indeclinable (0.67%), encyclopedic (2.93%), and root (0.26%) **combined**. A category that contains ~7% of the corpus is not a residual; it is the second-largest cluster after compound + derived. The paper does not say what is in "other" or why it deserves "other" status rather than its own type.
 
 **Test:** dump 20 random records from the "other" bucket and audit by hand. If they are mostly thinly-attested orthographic variants and verbal prefixes (a hypothesis), promote to a 9th primary type called *thinly-attested-other* or *variant*. If they are heterogeneous, defend "other" explicitly. Either way, surface the ~7% in §5.1 with a one-line description, not silence.
 
-### D19 — Statistical significance at N = 286,561 is necessarily near-universal · *important*
+### D19 — Statistical significance at N = 286,561 is necessarily near-universal — **RESOLVED 2026-05-27** with practical-relevance threshold · *was important, now closed*
+
+> **Resolution.** Computed pt-differences (absolute % difference from corpus baseline) for all 225 cells in [SIGNIFICANCE_FULL.md](analysis/SIGNIFICANCE_FULL.md):
+> - FDR-significant: 200 / 225 cells (88.9 %)
+> - |pt-diff| ≥ 5 pts: 88 / 225 cells (39.1 %)
+> - Both (recommended threshold): 88 / 225 (39.1 %) — overlap is essentially full
+>
+> Cohen's *w* was also computed but found misleading at extreme baselines (e.g. root F02 100 % vs base 76 %, Δ = +24 pt but w = 0.029 because moving from "almost everyone" to "everyone" is small in proportional terms). The honest threshold for lexicographic-paper claims is **|pt-difference| ≥ 5 pts AND FDR-significant**, which excludes 112 cells that are FDR-significant but practically trivial (e.g. noun_m F03 3.8 % vs 3.2 % baseline, *p* = 9.5×10⁻⁶ but Δ = 0.6 pt). [PAPER.md §9.2](PAPER.md#9-methodological-limitations) now pre-registers this threshold; the headline contrasts in PAPER.md all exceed it.
 
 [PAPER.md §9.2](PAPER.md#9-methodological-limitations) reports "every headline contrast is significant at α = 0.05" plus "217 of 270 cells significant under Benjamini–Hochberg (q = 0.05)." At N ≈ 286,561, a 0.5-pt absolute difference is significant; the field-relevant question is the **effect size**, not the p-value. The single example of *non*-significance (noun_m vs noun_f F08, 21.6% vs 22.6%, *p* = 0.07) is a 1.0-pt difference — practically also uninteresting. The paper does not state a *minimum interesting effect size* (e.g. ≥ 5pt absolute or Cohen's *w* ≥ 0.1). A reviewer will reject the "significance" claim as a calibration error: at this sample size, significance reports the data's *power*, not its *content*.
 
 **Test:** for every headline % contrast in PAPER.md, compute the absolute pt-difference and Cohen's *w*. Define and pre-register a minimum interesting threshold (proposal: ≥ 5pt absolute and Cohen's *w* ≥ 0.10). Replace the "every headline is significant" sentence with "every headline difference exceeds 5pt and Cohen's *w* > 0.10 (audit table at [SIGNIFICANCE_FULL.md](analysis/SIGNIFICANCE_FULL.md))."
 
-### D20 — Numerical claims about external benchmarks (learner ~4–5 blocks, Grimm ~10) are not page-cited · *important*
+### D20 — Reichmann 1999 citation **unverifiable** — RESOLVED 2026-05-27 by removal · *was important, now closed (negatively)*
+
+> **Resolution.** Searched the [official Göttingen Reichmann publication list](https://adw-goe.de/forschung/forschungsprojekte-akademienprogramm/fruehneuhochdeutsches-woerterbuch/mitarbeiter/oskar-reichmann-publikationen-auswahl/) and the [DWB bibliography](http://dwb.bbaw.de/bibliographie); no publication matching "Reichmann, O. (1999). Das Deutsche Wörterbuch von Jacob und Wilhelm Grimm. In Lexikographica 15." can be located. The numerical "Grimm ~10 blocks" comparison in [PAPER.md Appendix A.4](PAPER.md#appendix-a--the-wiegand-theoretic-reading-condensed) and §7.2(i) has been **removed and replaced with a qualitative statement** that the *Deutsches Wörterbuch* is widely cited as the densest 19th-century scholarly dictionary but that we have not located a per-article block count under a comparable scheme. The Reichmann 1999 entry in the References list is now an HTML comment for traceability and is no longer rendered. A future numerical Grimm comparison would require either (a) a verified prior figure or (b) running our 18-block detector against the [Trier digital edition](http://dwb.uni-trier.de/de/das-woerterbuch/das-dwb/) — both outside the present paper's scope. Honest closure: the lost comparison was not a load-bearing claim in the paper; the qualitative framing is sufficient. The A&R 2008: 199 "learner median 4–5" citation was reframed to make clear it is *not* under our 18-block scheme.
 
 [PAPER.md §7.2(i)](PAPER.md#72-three-findings-all-three-frameworks-reach) and [Appendix A §A.4](PAPER.md#appendix-a--the-wiegand-theoretic-reading-condensed) report "MW occupies a middle position: median 6, between learner dictionaries (median 4–5; A&R 2008: 199) and Grimm (~10; Reichmann 1999)." The Atkins-Rundell page is cited, but Reichmann 1999 is *not* page-cited and "Grimm ~10 blocks" is a paraphrase — Reichmann's 1999 article in *Lexikographica* 15 may not contain a "median 10 blocks" claim in the same form as ours. A reviewer will demand: (a) page number for Reichmann; (b) whether the 4–5 / 10 figures use the same 18-block detection rule we use, or whether they are inferred from per-article descriptions in those works.
 
