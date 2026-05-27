@@ -21,6 +21,10 @@ The decision flow you actually want:
 
 ```
 
+**Tier independence — when picking a single task:** the three lists are independent menus. Pick any task from any tier in any session; no inter-tier ordering is required for an individual task to succeed. Existing data on disk (figures, JSONs, audits) is current-enough that an Opus chapter author can work from it even if Haiku/Sonnet haven't re-refreshed first.
+
+**Tier dependencies — when shipping a whole round:** some rounds bundle a pipelined goal (e.g. Round 2 ships 8 atlas chapters that all consume the same per-dict JSONs). In that case a *recommended* order exists (Haiku refreshes data → Sonnet re-exports JSON → Opus authors chapters), but the chain is **recommendation, not requirement** — each later tier can run against the current-on-disk artefacts. The Round 2 banner names the recommended order; you can ignore it for a single-task session.
+
 ---
 
 ## 1. Universal kickoff block (prepend to any task)
@@ -59,17 +63,19 @@ Now: [PASTE ONE TASK LINE FROM THE OPUS / SONNET / HAIKU LIST BELOW]
 
 **Round 1 (O1-O10 / S1-S12 / H1-H10) is complete** — see the historical sections further down. All 10 Opus prompts and the 7 follow-up hostile-review doubts (D16-D22) closed in a single autonomous session 2026-05-27. Submission-v1 tag pushed. csl-atlas MW chapter live.
 
-**Round 2 focuses on the atlas**: 8 remaining dict chapters (PWG, PWK, AP, BEN, CAE, WIL, SKD, VCP) authored per [Decision 29](decisions/MICROSITE.md#decision-29--phase-4-dictionary-ordering-chapter-templates-minimum-data-added-2026-05-27). All three model tiers feed this:
+**Round 2 focuses on the atlas**: 8 remaining dict chapters (PWG, PWK, AP, BEN, CAE, WIL, SKD, VCP) authored per [Decision 29](decisions/MICROSITE.md#decision-29--phase-4-dictionary-ordering-chapter-templates-minimum-data-added-2026-05-27). All three model tiers can contribute, with a *recommended* (but **not required**) pipeline:
 
 ```
-Haiku (refresh data + figures)
+Haiku (refresh data + figures)        ← optional / freshening
   ↓
-Sonnet (per-dict block-matrix exports → atlas/data/*.json)
+Sonnet (per-dict block-matrix exports → atlas/data/*.json)   ← optional if existing JSON is current
   ↓
-Opus (author each chapter from the exports + Decision 29 template tier)
+Opus (author each chapter from the exports + Decision 29 template tier)   ← where the value is
 ```
 
-Run order is **Haiku first** (clean data), **Sonnet next** (per-dict JSON), **Opus last** (the chapters consume the JSON).
+**If you have one session and one tier**: pick **Opus** — chapter authoring is where the project's value sits, and the existing on-disk data (figures + JSON from prior sessions) is current enough to author against. Haiku and Sonnet refresh inputs after the fact; nothing in Opus depends on them having run first.
+
+**If you have multiple sessions**: doing Haiku → Sonnet → Opus in that order avoids re-rendering after the fact, but reversing the order also works — just expect a "data refresh" follow-up pass before publishing the round.
 
 ---
 
