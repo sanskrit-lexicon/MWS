@@ -171,7 +171,7 @@ secondary literature."
 
 ### Resolution
 
-The "MW innovation" claim **is downgraded**:
+The "MW innovation" claim **is downgraded but with a three-stage lineage**:
 
 1. The *idea* of inline-marking under-attested entries is present in Benfey 1866
    (dagger †) and Cappeller 1891 (asterisk *).
@@ -187,4 +187,52 @@ The "MW innovation" claim **is downgraded**:
 The honest claim is therefore: MW *systematised and tagged* the lexicographer-
 hedge that Benfey and Cappeller had already used as a typographic mark. PAPER.md
 Appendix C wording updated accordingly.
+
+## MW 1872 preface and body check (added 2026-05-27, D21 resolution)
+
+The hostile peer-review pass (O7, [DOUBTS D21](../DOUBTS.md#d21--the-cappeller-precedent-narrative-has-not-been-checked-against-mw-1872-potentially-reverses-the-o1-conclusion--blocking))
+raised the possibility that MW's *first* edition (1872) already contained
+the systematic L.-hedge, in which case Cappeller 1891 would *follow* MW
+rather than precede it. We ran the check.
+
+### MW 1872 preface promises "L." but body does not implement it
+
+From the [Cologne MW 1872 preface](https://www.sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/mw72pref.html) (Section II, "Explanation of the Plan and Arrangement of the Work"), MW writes verbatim:
+
+> "When a word had not yet been met with in any published literary work, but only in native lexicons, it was decided to denote this by the letter L."
+
+This is **MW's own statement, in his own first-edition preface, of the L.-hedge convention** — 19 years before Cappeller 1891. The *concept* therefore originates with MW himself, in 1872.
+
+But the corresponding *body* of MW 1872 does **not** systematically use L. as a hedge. From a grep of `mw72.txt` (55,388 records, 16 MB):
+
+| Pattern | Count in MW 1872 body |
+|---|--:|
+| `(L.)` (parenthetical hedge) | **0** |
+| ` L.` (excluding initials like "M. L.") | 17 — *but 14 of these are botanical Linnaean attributions* (e.g. "Ficus Religiosa L.", "Tectona Grandis L.") — the standard botanical-author convention, not a lexicographer hedge |
+| `<ls>L.</ls>` (tagged) | 0 |
+| `(lex.)` | 0 |
+| `AK.` (Amarakośa) | 0 |
+| `MED.` (Medinīkośa) | 0 |
+| `MBh.`, `RV.`, `Br.`, `Wils.` | 0 / 0 / 1 / 0 |
+
+MW 1872 has **essentially no tagged source apparatus at all**. Sources are cited inline in prose ("from a lexicographer", "Hemacandra gives", "in native lexicons" — the word "lexicon" appears 109 times, "native" 160 times, " a lex" 54 times). The systematic source-tagged apparatus that defines MW 1899 (and PWG) does not exist in MW 1872's body. The 1872 preface *promises* a typographic L. convention but the body did not (or could not) follow through.
+
+### Three-stage lineage confirmed
+
+The actual lineage is thus more nuanced than either O1's initial framing or D21's hypothesised reversal. The corrected three-stage picture:
+
+| Year | Source | What | Implementation scale |
+|--:|---|---|---|
+| 1866 | Benfey | `†` for "no authoritative references" (related but semantically weaker — methodological hedge) | typographic, ~900 instances |
+| **1872** | **MW (1st edn)** | **Declares "L." for "native-lexicon-only" in preface § II** | typographic-only, **≈ 0 systematic body instances** |
+| 1891 | Cappeller | `*` for "word taught only by grammarians or lexicographers" — *first systematic typographic implementation* | typographic, **1,370 instances** |
+| **1899** | **MW (2nd edn)** | **Adopts Cappeller's systematic discipline, promotes the mark into the tagged source-citation slot** | tagged, **40,212 instances** |
+
+So MW *was* first with the **concept** (1872 preface), Cappeller *was* first with the **systematic typographic implementation** (1891), and MW 1899 (with Cappeller as co-editor) is first with the **tagged + scaled** implementation. None of the three is fully derivative; each adds something.
+
+### Implications for PAPER.md and IJL_COVER_LETTER.md
+
+- The "downgrade" of O1 stands, *but* the downgrade is from *invention* to *systematic-tagged-application*; the **concept** is MW's own, dated 1872, attested by his own pen. This is *less* of a downgrade than the original O1 text implied.
+- Cappeller's role is correctly identified as the systematic typographic precedent. The Cappeller-co-edited MW 1899 then merged the two strands (MW's 1872 concept + Cappeller's 1891 systematism) into a tagged, scaled apparatus.
+- DOUBTS D21 is **RESOLVED**. PAPER.md §7.2(ii), Appendix C.2, IJL cover letter, and PAPER_RU.md §6.5–6.6 should be revised to reflect the three-stage lineage rather than the simpler two-stage O1 narrative.
 
