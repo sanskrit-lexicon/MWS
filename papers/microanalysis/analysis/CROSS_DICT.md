@@ -40,4 +40,5 @@ VCP      50,135      1.96      2       2   head, body
   blocks. SKD/VCP (Skt-Skt) carry no <ls>/<lex>; their low counts reflect markup,
   not necessarily editorial economy. English-format AP/WIL/BEN are the cleanest
   comparanda to MW; PWG/PWK use {#..#}/{%..%} markup (headword not in <s>).
+
 ```

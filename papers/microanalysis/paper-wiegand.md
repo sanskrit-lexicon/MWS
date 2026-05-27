@@ -88,6 +88,7 @@ The `<e>1` → `<e>1A` → `<e>2` → `<e>3` series ([data](../../ENTRY_GUIDE.md
  ├── <e>1A continuation sense                  (9,294)
  ├── <e>2  derived form (suffix derivative)    (32,499)
  └── <e>3  compound sub-entry                  (112,183)
+
 ```
 
 The `<e>1A` continuation **is** Wiegand's archetypal integrated-microstructure marker: a sub-article whose lemma is suppressed (only 33.9% of `<e>1A` entries carry `<s>`; see MICROANALYSIS.md §4) and whose existence is intelligible only in relation to the preceding `<e>1`. This is "integrated" in the strict sense: removing the parent article makes the sub-article meaningless.

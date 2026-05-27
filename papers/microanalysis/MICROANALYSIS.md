@@ -183,6 +183,7 @@ Each sample shows: the raw `mw.txt` content, the formal blocks present, the sema
 <s>aMS</s> ¦ <ab>cl.</ab> 10. <ab>P.</ab> <s>aMSayati</s>, to divide, distribute, <ls>L.</ls>;
 also occasionally <ab>Ā.</ab> <s>aMSayate</s>, <ls>L.</ls>; also <s>aMSApayati</s>, <ls>L.</ls>
 <info verb="genuineroot" cp="10P,10Ā"/>
+
 ```
 
 | Block | Realisation | Semantic role |
@@ -207,6 +208,7 @@ also occasionally <ab>Ā.</ab> <s>aMSayate</s>, <ls>L.</ls>; also <s>aMSApayati<
 <ab>perf.</ab> <s>An-a/MSa</s>, and not from the above √ <s>aMS</s>
 fictitiously formed to serve as root), a share, portion, part, party
 <info lex="m"/>
+
 ```
 
 | Block | Realisation | Semantic role |
@@ -229,6 +231,7 @@ fictitiously formed to serve as root), a share, portion, part, party
 <L>57<pc>1,2<k1>aMSujAla<k2>aMSu—jAla<e>3
 <s>aMSu—jAla</s> ¦ <lex>n.</lex> a collection of rays, blaze of light.
 <info lex="n"/>
+
 ```
 
 | Block | Realisation | Semantic role |
@@ -248,6 +251,7 @@ fictitiously formed to serve as root), a share, portion, part, party
 <s>aMsa</s> ¦ [<ab>cf.</ab> <lang>Goth.</lang> <etym>amsa</etym>;
 <lang>Gk.</lang> <gk>ὦμος</gk>, <gk>ἄσιλλα</gk>;
 <lang>Lat.</lang> <etym>humerus</etym>, <etym>ansa</etym>.]
+
 ```
 
 | Block | Realisation | Semantic role |
@@ -265,6 +269,7 @@ fictitiously formed to serve as root), a share, portion, part, party
 ```
 <L>72<pc>1,2<k1>aMSumatI<k2>aMSu—ma/tI<e>3B
 ¦ <bot>Hedysarum Gangeticum</bot>, <ls>Suśr.</ls><info lex="inh"/>
+
 ```
 
 | Block | Realisation | Semantic role |
@@ -283,6 +288,7 @@ fictitiously formed to serve as root), a share, portion, part, party
 <L>830<pc>4,3<k1>agastyamArga<k2>agastya—mArga<e>3
 <s>agastya—mArga</s> ¦ <lex>m.</lex> the path of <s1>Agastya</s1>
 (<bio>Canopus</bio>), <ab>i.e.</ab> the South.
+
 ```
 
 | Block | Realisation | Semantic role |
@@ -300,6 +306,7 @@ fictitiously formed to serve as root), a share, portion, part, party
 ```
 <L>8<pc>1,1<k1>afRin<k2>a-fRin<e>1
 <s>a-fRin</s> ¦ <lex>mfn.</lex> free from debt, <ls>L.</ls><info lex="m:f:n"/>
+
 ```
 
 | Block | Realisation | Semantic role |
@@ -319,6 +326,7 @@ fictitiously formed to serve as root), a share, portion, part, party
 ```
 <L>11<pc>1,1<k1>aMSa<k2>a/MSa<e>1A
 ¦ partition, inheritance.
+
 ```
 
 | Block | Realisation | Semantic role |

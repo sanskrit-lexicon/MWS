@@ -94,8 +94,10 @@ Reference list entries carry DOIs where available.
 ## Decision 26 — Footer style: 7pt grey italic, bottom-right
 
 Exact footer text format:
+
 ```
 Source: CDSL mw.txt 2026-05-23 · CC-BY-SA-4.0 · build {SHA}
+
 ```
 
 - Font: Noto Sans Italic, 7pt

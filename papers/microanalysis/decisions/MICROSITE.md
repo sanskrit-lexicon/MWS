@@ -65,6 +65,7 @@ csl-atlas/
     locales/
       en/                            English locale routes
       ru/                            Russian locale routes
+
 ```
 
 Reader paths:

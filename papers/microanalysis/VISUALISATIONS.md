@@ -229,6 +229,7 @@ For each CDSL dict (PWG, AP, WIL, SKD, GRA, BHS, +the four koshas):
   3. Compute block-by-type matrix
   4. Render the four Tier-1 figures
   5. Produce a one-page "microstructure card" per dictionary
+
 ```
 
 A **comparative atlas** of 8+ CDSL dictionaries' microstructure cards would be a natural Phase-4 deliverable. The infrastructure cost is one-time (the block-detection script); the per-dictionary cost is one Python run plus minor type-specific adjustments.
@@ -447,8 +448,10 @@ Each figure caption must state: "*Normalisation: [letter] — [one-line descript
 **All figures cite "CDSL `mw.txt` 2026-05-23"** as the data source. If a journal requires citing the print original (MW 1899), the figures can be regenerated against the print at that point. The data source citation goes in each figure caption as a footer.
 
 **Implementation:** every static figure carries a small grey footer text:
+
 ```
 Source: CDSL mw.txt 2026-05-23 · github.com/sanskrit-lexicon/csl-orig
+
 ```
 
 The interactive microsite carries the same attribution in a persistent footer.
@@ -483,12 +486,14 @@ The interactive microsite lives in a **new repository** (working name `csl-atlas
 For Mermaid diagrams that need bilingual rendering (timeline, lineage forest), the strategy is **one .md file per locale**, not two Mermaid blocks in a single file.
 
 Concrete file layout:
+
 ```
 papers/microanalysis/figures/
   timeline-en.md         <-- single Mermaid block, English labels
   timeline-ru.md         <-- single Mermaid block, Russian labels
   lineage-forest-en.md   <-- ditto
   lineage-forest-ru.md
+
 ```
 
 Each file is self-contained Markdown with a single Mermaid code-fence. GitHub renders both natively. Cross-linking between English/Russian variants is via plain Markdown `[Русская версия](timeline-ru.md)` / `[English version](timeline-en.md)`.
@@ -510,9 +515,11 @@ palette-tokens.json   ← THE source of truth
        ├──→  mermaid-theme.json     (consumed by Mermaid)
        ├──→  palette.py             (Python module, importable for matplotlib)
        └──→  palette.tex            (LaTeX colour definitions, for paper figures)
+
 ```
 
 **Token structure:**
+
 ```json
 {
   "article-type": {
@@ -564,6 +571,7 @@ palette-tokens.json   ← THE source of truth
     "last-updated": "2026-05-23"
   }
 }
+
 ```
 
 The **colour-blind-safe** flag is important: at least one downstream variant of `palette.css` should be designed for deuteranopia/protanopia. We bake this commitment into the design-token spec from the start.
@@ -666,6 +674,7 @@ supplementary/
                                    build_palette.py, render_heatmap.py, etc.
   microsite-static-export/    <-- offline-renderable HTML export of the live microsite
   LICENSE                     <-- CC-BY-SA-4.0 (matching the MWS digital edition)
+
 ```
 
 **No external dependencies.** A reviewer with the ZIP, Python 3, and a modern browser can reproduce every figure and explore every visualisation offline. Survives URL rot, microsite outages, and post-submission infrastructure changes.
@@ -716,6 +725,7 @@ URL structure:
 - `hreflang` tags in `<head>` for SEO
 
 Sample paths:
+
 ```
 /                        landing (EN)
 /tools/heatmap           18×14 matrix explorer (EN)
@@ -724,13 +734,16 @@ Sample paths:
 /ru/                     landing (RU)
 /ru/tools/heatmap        18×14 matrix explorer (RU)
 /ru/papers/wiegand       (RU translation if available; else EN with banner)
+
 ```
 
 ### Decision 26 — Footer style: 7pt grey, bottom-right
 
 Exact footer text format:
+
 ```
 Source: CDSL mw.txt 2026-05-23 · CC-BY-SA-4.0 · build {SHA}
+
 ```
 
 - Font: Noto Sans Italic, 7pt
@@ -753,8 +766,10 @@ A separate workflow handles data refreshes:
 ### Decision 28 — Figure versioning: SHA + date in footer
 
 The footer text incorporates both:
+
 ```
 Source: CDSL mw.txt 2026-05-23 · CC-BY-SA-4.0 · build 2e6b23a
+
 ```
 
 The SHA is the **commit SHA at which the figure was last rendered** (injected at build time via the GitHub Action). A reviewer can `git show 2e6b23a` to see the exact code that produced the figure. Date is the human-readable companion.
@@ -888,6 +903,7 @@ csl-atlas/
     locales/
       en/                           <-- English locale routes
       ru/                           <-- Russian locale routes
+
 ```
 
 Reader paths:

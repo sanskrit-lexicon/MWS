@@ -124,4 +124,5 @@ VCP (Vacaspatyam):
 - Caveat: WIL/BEN/CAE digitisations may not tag sources with <ls> at all; a zero
   there means "no <ls> apparatus to compare", not "no hedge convention". Their
   print prefaces still need a human read for a parenthetical "(L.)"-style hedge.
+
 ```

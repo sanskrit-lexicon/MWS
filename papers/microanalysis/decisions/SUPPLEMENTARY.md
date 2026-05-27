@@ -35,6 +35,7 @@ supplementary/
                                        render_treemap.py, render_sankey.py
   microsite-static-export/             offline-renderable HTML export of csl-atlas
   LICENSE                              CC-BY-SA-4.0
+
 ```
 
 **No external dependencies.** A reviewer with the ZIP, Python 3, and a modern browser can:

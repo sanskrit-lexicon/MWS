@@ -45,6 +45,7 @@ A **slot** is an ordered position within an entry where blocks may occur. MW's s
             → ¦ → [F10 gloss] [F11 sense divisions] → [F12 ls cites] [F13 L. hedge]
             → [F14 bot] [F15 bio] [F16 cross-ref] → [F17 info] → [F18 corrections]
             → <LEND>
+
 ```
 
 Many slots are **optional**. The *grammatical category* slot exists; whether F04 fills it depends on the article type. The slot architecture is what distinguishes MW from a free-form dictionary (entries are not arbitrary prose) and from a purely tabular dictionary (entries are not key-value pairs).

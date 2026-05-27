@@ -18,6 +18,7 @@ The decision flow you actually want:
 
    While running, watch for §5 "downshift signals"
    to drop from Opus → Sonnet → Haiku within the same task.
+
 ```
 
 ---
@@ -49,6 +50,7 @@ Conventions:
 - Never push to master; only `docs-pass`.
 
 Now: [PASTE ONE TASK LINE FROM THE OPUS / SONNET / HAIKU LIST BELOW]
+
 ```
 
 ---
@@ -75,6 +77,7 @@ analogous "lexicographer-only" hedge convention. Also: resolve the Cappeller
 asterisk + dagger markers (1,370× and 903× per analysis/LS_HEDGE_CHECK.md) —
 is either an entry-level hedge? Update PAPER.md Appendix C with findings;
 soften or keep the "MW innovation" claim accordingly; close or refine DOUBTS D2.
+
 ```
 
 **↓ Downshift to Sonnet when:** the findings are written into PAPER.md Appendix C and DOUBTS D2 is closed. Subsequent reference-list maintenance, BibTeX entries, and link audits are Sonnet/Haiku work.
@@ -94,6 +97,7 @@ property not an article type). Restructure into ~8 primary article types
 derived / continuation / encyclopedic) + ~3 orthogonal properties (Vedic
 accent / lex-hedged / IE-cognate-bearing). Update the block-by-type matrix
 presentation. Update MICROANALYSIS.md §3 in parallel so the two stay in sync.
+
 ```
 
 **↓ Downshift to Sonnet when:** the new structure is decided in PAPER.md §5 and MICROANALYSIS.md §3. Re-rendering the heatmap and treemap against the new categories is mechanical Python — Sonnet.
@@ -111,6 +115,7 @@ the empirical audits (SPOTCHECK, SIGNIFICANCE_FULL, CROSS_DICT, LS_HEDGE_CHECK)
 with specific numbers. Verify every cross-reference resolves. Confirm Appendices
 A–C are properly condensed (each ~1.5K words). Improve any limp prose. Do NOT
 run mechanical scripts in this session.
+
 ```
 
 **↓ Downshift to Sonnet when:** the prose is final. Then run `analysis/check_docs.py` to find link rot (Haiku is fine), regenerate any stale figure cross-references (Sonnet), and re-build the supplementary ZIP via `make_supplement.py` (Sonnet).
@@ -129,6 +134,7 @@ Indoevropeyskoe yazykoznanie conventions, Petersburg Indological Studies
 register. Verify each term against current academic Russian indological usage.
 Sanskrit terms stay in IAST italics per Decision 6 — do not transliterate
 to Cyrillic. Commit corrections after each batch is reviewed.
+
 ```
 
 **↓ Downshift to Sonnet when:** all batches reviewed and `ru.json` is committed in its corrected form. Regenerating `-ru.svg/png` figures from the updated locale is Sonnet (mechanical Python).
@@ -147,6 +153,7 @@ framework); HANDOFF.md §6c (csl-atlas planned, not yet scaffolded);
 PWK, AP, WIL, SKD, ARMH, ABCH + VCP) covering: which goes first, which
 chapter template variants are needed, what minimum data each chapter requires.
 Commit rationale to decisions/MICROSITE.md.
+
 ```
 
 **↓ Downshift to Sonnet when:** the order is committed. Per-dict chapter scaffolding and per-dict block-matrix extraction are Sonnet routine.
@@ -165,6 +172,7 @@ maintainer corrections should be accepted; flag any that contradict the
 empirical-audit findings). Apply accepted corrections to the relevant
 docs-pass branch in a commit per repo. Respond on each issue with a
 linking-rule-compliant summary of what changed.
+
 ```
 
 **↓ Downshift to Sonnet when:** the substantive corrections are landed. Routine follow-up edits across the rolled-out Phase-4 repos are Sonnet.
@@ -181,6 +189,7 @@ evidenced claims; regex-brittle methodology; cross-dict over-generalisations;
 framework attribution sloppiness; rhetorical overreach. Each new doubt gets
 blocking/important/nice-to-resolve rating and a "Test:" recipe. Commit to
 DOUBTS.md as D16, D17, … as needed. Don't fix what you find — just record it.
+
 ```
 
 **↓ Downshift to Sonnet when:** new doubts are recorded. Empirical audit scripts to address them are Sonnet (extending analysis/ in the established pattern).
@@ -198,6 +207,7 @@ consolidation into one paper rather than four (per D4), (c) the empirical-
 audit suite as supplementary materials, (d) why IJL is the right venue.
 Tone: confident but not boastful; specific not vague. Save to
 papers/microanalysis/IJL_COVER_LETTER.md.
+
 ```
 
 **↓ Downshift to Haiku when:** the cover letter is final. Cover-letter formatting / line spacing / minor proofreading is Haiku.
@@ -216,6 +226,7 @@ academic audience: kosha lineage (WIL ← Indian kosha tradition), Sanskrit
 microstructure typology, MW's <ls>L.</ls> hedge as 19th-century European
 editorial innovation. ~5K Russian words. IAST in italics for Sanskrit (no
 Cyrillic transliteration). Commit to papers/microanalysis/PAPER_RU.md.
+
 ```
 
 **↓ Downshift to Opus stays:** Russian-language drafting is full-Opus work. After draft is complete, Opus reviews edits; Sonnet handles bibliography formatting.
@@ -232,6 +243,7 @@ Read C:/Users/user/.claude/projects/D--claude/memory/project_docs_review.md
 + an "Archive" section below with each phase summarised in 3-5 lines.
 Decide which phase facts are still relevant vs which are archival.
 Update MEMORY.md index. Do not lose facts.
+
 ```
 
 **↓ Downshift to Sonnet** if the project-direction question is settled — Sonnet is fine for the mechanical consolidation if you've already decided what to keep.
@@ -252,6 +264,7 @@ supplementary-materials ZIP. Verify the ZIP contents against
 analysis/SUPPLEMENT_MANIFEST.md. Confirm the ZIP is gitignored. If the
 manifest has drifted from the script's actual output, update the manifest
 to match. Commit only if SUPPLEMENT_MANIFEST.md changed.
+
 ```
 
 ### S2 · Regenerate Russian figures after locale review
@@ -264,6 +277,7 @@ Russian-locale figures: heatmap-ru.svg/png, treemap-ru.svg/png,
 sankey-ru.svg/png/html, timeline-ru.md. Re-export via
 papers/microanalysis/figures/scripts/. Verify every label matches the
 updated locale strings. Commit the new figures.
+
 ```
 
 ### S3 · csl-atlas local scaffolding (Observable Framework)
@@ -278,6 +292,7 @@ src/tools/{matrix-explorer,lineage-sankey,typology-treemap,timeline,type-
 comparator,citation-tracer}.md tool pages. EN at root, RU at /ru/ per
 Decision 25. Pull JSON data from papers/microanalysis/figures/data/ via
 relative paths. Do NOT push to the org yet — local scaffold only.
+
 ```
 
 ### S4 · Per-dict atlas chapter
@@ -290,6 +305,7 @@ in csl-atlas. Apply the MW chapter template: pull the dict's block matrix,
 apply the heatmap renderer, generate a per-type radar, embed the dict's
 Cologne web display link. Same colour palette + locale strings. Replace {X}
 with one of: pwg, pw, ap, wil, skd, vcp, armh, abch.
+
 ```
 
 ### S5 · Per-dict block-matrix extension
@@ -303,6 +319,7 @@ specific markup conventions (PWG/PWK use <ab> differently; SKD/VCP have no
 <lex>). Output JSON to papers/microanalysis/figures/data/{X}_blocks.json.
 Document any dict-specific detector adjustments in
 analysis/CROSS_DICT_PROFILES.md.
+
 ```
 
 ### S6 · Phase-4 wave-1 rollout (next 15 dict repos)
@@ -317,6 +334,7 @@ create docs-pass branch, run D:/claude/sanskrit-lexicon-docs-review/runbooks/
 dict-docs-pass.md, open a tracking issue with @-mentions to @funderburkjim
 and @Andhrabharati. Every filename in every issue body linked per the linking
 rule. Use MWS's DICT_PROFILE.md + ENTRY_GUIDE.md as templates.
+
 ```
 
 ### S7 · Per-dict ROADMAP composition
@@ -329,6 +347,7 @@ following the MWS template (https://github.com/sanskrit-lexicon/MWS/blob/
 docs-pass/ROADMAP.md). 10 task subtypes + quarterly cadence + cross-repo
 dependencies + complete issue → roadmap map. Commit on the dict's docs-pass
 branch.
+
 ```
 
 ### S8 · Per-dict DICT_PROFILE.md from MWS template
@@ -343,6 +362,7 @@ for full), Historical background, Scholarly significance, When-to-use matrix,
 Article types, Citation markers, Relationship to other CDSL dicts, Sample
 entries (~3), Known issues, Further reading, BibTeX. Use real data from the
 dict's csl-orig source. Commit on docs-pass branch.
+
 ```
 
 ### S9 · Issue body composition with linking rule
@@ -356,6 +376,7 @@ prose, AND checklists is a `[text](URL)` hyperlink to the docs-pass branch;
 every record number links to mw.txt line anchor; every abbreviation links
 to its definition; every section description links to its section anchor.
 @-mention @funderburkjim and @Andhrabharati for review.
+
 ```
 
 ### S10 · Memory file consolidation (D14)
@@ -368,6 +389,7 @@ project_docs_review.md (9+ phases). Collapse the older phases (3.1–3.7) into
 a single Archive section; keep the latest 1–2 phases as "Current state."
 Preserve all factual content; reorganise for next-session readability. Update
 MEMORY.md index. Verify links still resolve.
+
 ```
 
 ### S11 · Cross-figure data consistency audit
@@ -379,6 +401,7 @@ Verify the data behind the four Tier-1 figures + Fig 5–6 is internally
 consistent. Heatmap and treemap should agree on type counts; Sankey should
 agree with LS_HEDGE_CHECK on `L.` counts. Run a script that reads
 figures/data/*.json and checks for discrepancies. Report any mismatch.
+
 ```
 
 ### S12 · ROADMAP velocity update
@@ -390,6 +413,7 @@ Refresh papers/MWS/blob/docs-pass/ROADMAP.md velocity numbers. Re-query the
 GitHub issue API for: total open, total closed, closed in last 12 months,
 per-label counts. Compare to the snapshot dated 2026-05-23 in §"Status
 snapshot." Commit updated numbers.
+
 ```
 
 ---
@@ -407,6 +431,7 @@ Run papers/microanalysis/analysis/check_docs.py against the entire
 papers/microanalysis/ directory plus the docs-pass branch root. Fix anything
 flagged: relative paths, broken section anchors, missing files. Single commit
 titled `docs-pass: link audit`.
+
 ```
 
 ### H2 · Markdown format-conformance sweep
@@ -418,6 +443,7 @@ Sweep papers/microanalysis/*.md and decisions/*.md for: missing blank line
 before code fences, inconsistent heading levels, trailing whitespace, mixed
 tabs/spaces. Apply mechanical fixes; commit as `docs-pass: lint sweep`.
 Do NOT change content.
+
 ```
 
 ### H3 · README synchronisation
@@ -429,6 +455,7 @@ After {COMMIT_SHA} introduced new files, update the affected README.md to
 mention them in the index/table-of-contents. Apply to: papers/microanalysis/
 README.md, papers/microanalysis/decisions/README.md, papers/microanalysis/
 analysis/README.md, papers/microanalysis/figures/ (no README — skip).
+
 ```
 
 ### H4 · Find-and-replace pass
@@ -440,6 +467,7 @@ Across papers/microanalysis/ and the docs-pass branch root: find every
 occurrence of "{OLD}" and replace with "{NEW}". Verify each replacement is
 appropriate (not inside code blocks meant to preserve the old text). Commit
 as `docs-pass: rename {OLD} -> {NEW}`.
+
 ```
 
 ### H5 · License-header injection
@@ -450,6 +478,7 @@ as `docs-pass: rename {OLD} -> {NEW}`.
 Inject the standard CC-BY-SA-4.0 license header into every new file added
 since {COMMIT_SHA} that lacks one. Header text: matches existing files in
 the repo. Commit as `docs-pass: license headers`.
+
 ```
 
 ### H6 · Footer / version-stamp regeneration
@@ -461,6 +490,7 @@ Re-render the version-stamp footer in every static figure under
 papers/microanalysis/figures/. Format: "Source: CDSL mw.txt 2026-05-23 ·
 CC-BY-SA-4.0 · build {SHA}" where {SHA} is the current HEAD commit short SHA.
 Inject as SVG <text> element at bottom-right per Decision 26.
+
 ```
 
 ### H7 · Single-line typo corrections
@@ -472,6 +502,7 @@ Apply these typo corrections (one per line below) across the docs-pass branch
 files where the typo occurs. Single commit per batch of ~20.
 
 {TYPO LIST GOES HERE}
+
 ```
 
 ### H8 · Listing extraction
@@ -483,6 +514,7 @@ Extract from /tmp/{DICT}.txt the unique set of <ls> values + their occurrence
 counts. Output as a CSV sorted by count desc. Save to papers/microanalysis/
 analysis/data/{DICT}_ls_counts.csv. Do not analyse the output — just produce
 the file.
+
 ```
 
 ### H9 · PNG↔SVG parity check
@@ -493,6 +525,7 @@ the file.
 For each SVG figure in papers/microanalysis/figures/, verify a matching PNG
 exists and has the same content (re-render PNG from SVG if missing/stale).
 Report any divergence.
+
 ```
 
 ### H10 · CI / build status summary
@@ -503,6 +536,7 @@ Report any divergence.
 Read the most recent GitHub Actions workflow run logs for the MWS repo (or
 csl-atlas once created). Summarise: pass/fail status, total time, any
 warnings. Post a one-paragraph summary on the relevant tracking issue.
+
 ```
 
 ---
@@ -548,6 +582,7 @@ convention. Also: resolve the Cappeller asterisk + dagger markers (1,370×
 and 903× per analysis/LS_HEDGE_CHECK.md) — is either an entry-level hedge?
 Update PAPER.md Appendix C with findings; soften or keep the "MW innovation"
 claim accordingly; close or refine DOUBTS D2.
+
 ```
 
 ### Sample for Sonnet 4.6
@@ -563,6 +598,7 @@ D:/claude/sanskrit-lexicon-docs-review/runbooks/dict-docs-pass.md, open a
 tracking issue with @-mentions to @funderburkjim and @Andhrabharati. Every
 filename in every issue body linked per the linking rule. Use MWS's
 DICT_PROFILE.md + ENTRY_GUIDE.md as templates.
+
 ```
 
 ### Sample for Haiku 3.5
@@ -574,6 +610,7 @@ Now: Run papers/microanalysis/analysis/check_docs.py against the entire
 papers/microanalysis/ directory plus the docs-pass branch root. Fix anything
 flagged: relative paths, broken section anchors, missing files. Single
 commit titled `docs-pass: link audit`. Don't change semantic content.
+
 ```
 
 ---
@@ -610,6 +647,7 @@ MID-CHAT? Watch §5 downshift signals.
 LOOKING FOR STATE? Read HANDOFF.md (state) + DOUBTS.md (known unknowns).
 LOOKING FOR DECISIONS? Read VISUALISATIONS.md → decisions/ subfolder.
 LOOKING FOR THE PAPER? Read PAPER.md (canonical) + analysis/README.md (audits).
+
 ```
 
 ---

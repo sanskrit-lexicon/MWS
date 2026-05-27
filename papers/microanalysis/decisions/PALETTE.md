@@ -25,6 +25,7 @@ palette-tokens.json   ← THE source of truth
        ├──→  mermaid-theme.json     (consumed by Mermaid)
        ├──→  palette.py             (Python module, importable for matplotlib)
        └──→  palette.tex            (LaTeX colour definitions, for paper figures)
+
 ```
 
 **Token groups:**
@@ -56,8 +57,10 @@ Embedded in `palette-tokens.json` `_meta.font-family`.
 All figures, data dumps, the [csl-atlas](https://github.com/sanskrit-lexicon/csl-atlas) microsite, and the supplementary ZIP are released under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/), matching the [MWS digital edition's license](../../../LICENSE.md). Consistency across CDSL artefacts; attribution + share-alike is the long-established CDSL norm.
 
 Per-figure caption note:
+
 ```
 Released under CC-BY-SA-4.0 · Source: CDSL mw.txt 2026-05-23
+
 ```
 
 ---

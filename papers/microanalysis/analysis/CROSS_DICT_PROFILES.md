@@ -88,6 +88,7 @@ construct is GENERAL to structured bilingual dicts, not unique to MW.
 Reading: SKD/VCP carry no <lex>/<ls>; they mark gender inline in Sanskrit and cite via
 inline "iti <source>" quotation. The block-profile apparatus — designed for structured
 bilingual dicts — is GENRE-BOUND and does not model the Sanskrit-Sanskrit kosa-lexica.
+
 ```
 
 ## Per-dict detector adjustments (`export_dict_blocks.py`, S5)

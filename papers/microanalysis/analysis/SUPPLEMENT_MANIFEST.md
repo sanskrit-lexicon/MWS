@@ -9,6 +9,7 @@ Built by [`make_supplement.py`](make_supplement.py) into `mw-microanalysis-suppl
 ```
 cd papers/microanalysis/analysis
 python make_supplement.py
+
 ```
 
 ## Contents

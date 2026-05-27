@@ -36,4 +36,5 @@ F11 (sense division): current `\d) ` detector fires in 298 (0.10%)
   F16:  18,726 (  6.5%)
   F17: 273,764 ( 95.5%)
   F18:       6 (  0.0%)
+
 ```
