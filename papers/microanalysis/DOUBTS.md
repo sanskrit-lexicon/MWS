@@ -55,27 +55,13 @@ We wrote 4 papers each analysing the same 286,561 records through a different th
 
 Right now we're presenting 4 simultaneous parallel papers, which is unusual.
 
-### D5 — Article-type typology — 14 is too many / overlapping · *important*
+### D5 — Article-type typology — refactored to 8 primary types + 3 orthogonal properties · *resolved 2026-05-27*
 
-Our 14 article types contain heavy overlap:
-- `noun_m`, `noun_f`, `noun_n`, `noun_mn` differ only in gender — really one type with 4 sub-types.
-- `vedic_accented` orthogonally overlaps with everything (a noun can be `noun_m` AND `vedic_accented`).
-- `biographical` overlaps with `noun_m` (proper-name masculines).
-- `lexicographer_only` is a property (citation pattern) rather than an article type.
+> **Resolution.** The 14-bucket scheme has been refactored into **8 primary types** (root, nominal — with gender sub-feature; adjective; indeclinable; compound; derived; continuation; encyclopedic — with botanical/biographical sub-feature) and **3 orthogonal properties** (Vedic-accented, lex-hedged, IE-cognate-bearing). The orthogonal properties were exactly the cases where the old scheme overlapped with itself. The refactored typology is documented in [PAPER.md §5](PAPER.md#5-profiles-as-the-unit-of-typology) (replacing the 14-row table with an 8-row primary table plus a 3-row property table and an 8×3 cross-tabulation), and in [MICROANALYSIS.md §3](MICROANALYSIS.md#3--articletype-typology-8-primary-types--3-orthogonal-properties) (full 8×3 cross-tab). The original 14-bucket classification is preserved in [MICROANALYSIS.md §3.1](MICROANALYSIS.md#31--the-original-14-bucket-classification-legacy) for reproducibility and for anyone running the legacy detector.
 
-A more parsimonious typology might be:
-1. Verbal root
-2. Nominal (with gender as sub-feature)
-3. Adjective
-4. Indeclinable
-5. Compound sub-entry
-6. Derived form
-7. Continuation sub-entry
-8. Encyclopedic (botanical OR biographical)
+> **Original observation that drove the refactor:** the 14 buckets contained four kinds of overlap — `noun_{m,f,n,mn}` differ only in gender (collapsed to *nominal* with gender as sub-feature); `vedic_accented` orthogonally overlaps with everything (promoted to property); `biographical` overlaps with `noun_m` for proper-name masculines (collapsed to *encyclopedic* with sub-feature); `lexicographer_only` is a citation pattern, not an article kind (promoted to *lex-hedged* property).
 
-Then *orthogonal* properties: Vedic-accented (yes/no), lexicographer-hedged (yes/no), IE-cognate-bearing (yes/no).
-
-**Fix:** in the grounded paper §6, distinguish "primary article types" from "orthogonal properties." The current confusion conflates them.
+> **Residual:** The block-by-type matrix (MICROANALYSIS §4) still carries the legacy 14-row layout because the per-bucket percentages are still useful for replication. The §5 refactor presents an 8×3 cross-tabulation; the 14-row matrix is now read as "the per-property and per-sub-feature breakdown of the 8-type view."
 
 ### D6 — Block detection is regex-based and approximate · *important*
 

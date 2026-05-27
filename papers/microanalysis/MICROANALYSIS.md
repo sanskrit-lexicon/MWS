@@ -56,9 +56,58 @@ A *semantic block* is the kind of information conveyed, independent of its forma
 
 ---
 
-## 3 · Article-type typology (14 types)
+## 3 · Article-type typology (8 primary types + 3 orthogonal properties)
 
-Article types derived by classifying entries via the markers in §1. Counts reflect overlapping types — an entry can be (e.g.) `noun_m` AND `vedic_accented` AND `biographical`.
+Per [DOUBTS D5](DOUBTS.md#d5--articletype-typology--14-is-too-many--overlapping--important), the original 14-bucket classification conflated two orthogonal axes — *what kind of entry this is* (primary type) versus *what additional information it happens to carry* (orthogonal property). The refactored typology separates them. The original 14 buckets are preserved in [§3.1 below](#31--the-original-14-bucket-classification-legacy) for traceability and for anyone running the legacy detector.
+
+### 3 · The 8 primary types
+
+Primary types are **mutually-near-exclusive descriptors** of the entry's *kind*. Counts reflect each entry classified to one primary type (with *other* as the residual bucket).
+
+| Type code | Defined by | Count | % of 286,561 |
+|---|---|--:|--:|
+| **root** | `<info verb="genuineroot"/>` | 750 | 0.26% |
+| **nominal** (sub-feature: gender m/f/n/mn) | `<lex>m./f./n./mn.</lex>` (without compound marker) | ≈ 37,700 | ≈ 13.2% |
+| **adjective** | `<lex>mfn.</lex>` | 12,240 | 4.27% |
+| **indeclinable** | `<lex>ind.</lex>` | 1,929 | 0.67% |
+| **compound** | `<e>3*` + em-dash/hyphen in `<k2>` | 126,360 | 44.10% |
+| **derived** | `<e>2*` | 72,119 | 25.17% |
+| **continuation** | `<e>1A` | 9,294 | 3.24% |
+| **encyclopedic** (sub-feature: botanical / biographical) | `<bot>` or `<bio>` tag(s) | 8,405 | 2.93% |
+| **other** | none of the above | 19,460 | 6.79% |
+
+The dictionary is dominated by **compound sub-entries (44%)** and **derived forms (25%)** — together 69% of all records. The two encyclopedic sub-types share the *encyclopedic-doubled* signature (semantic comment is itself encyclopedic) but differ in distribution (8,059 botanical vs 346 biographical).
+
+### 3.2 · The 3 orthogonal properties
+
+Orthogonal properties are **flags** attached to any primary type. An entry can carry zero, one, two, or all three. They were promoted out of the type list because they describe *additional information present on the entry*, not the entry's structural kind.
+
+| Property | Defined by | Count | % of 286,561 | Most concentrated in |
+|---|---|--:|--:|---|
+| **Vedic-accented** | `/` in `<k2>` | 47,598 | 16.6% | nominals, especially Vedic vocabulary |
+| **Lex-hedged** | `<ls>L.</ls>` present | 40,212 entries | ≈ 14.0% | 100% of former "lexicographer_only" bucket; 72% of botanicals, 65% of biographicals |
+| **IE-cognate-bearing** | `<lang>` tag(s) | 2,099 | 0.73% | roots (35%) |
+
+### 3.3 · Cross-tabulation of primary types × orthogonal properties
+
+Approximate joint counts (`E` = encyclopedic; counts derive from the same `mw_block_matrix.py` over `mw.txt`):
+
+| Primary type ↓ / Property → | **Vedic-acc.** | **Lex-hedged** | **IE-cognate** | None of the 3 |
+|---|--:|--:|--:|--:|
+| **root** | 8% | 7% | 35% | ≈ 58% |
+| **nominal** | 18–24% | 12–21% | < 1% | ≈ 60–70% |
+| **adjective** | 11% | 4% | < 1% | ≈ 85% |
+| **indeclinable** | 9% | 2% | 2% | ≈ 88% |
+| **compound** | 14% | 13% | < 1% | ≈ 73% |
+| **derived** | 19% | 16% | < 1% | ≈ 65% |
+| **continuation** | 12% | 21% | < 1% | ≈ 67% |
+| **encyclopedic** (bot+bio) | 6–16% | 65–72% | < 1% | ≈ 20–30% |
+
+**Reading.** Lex-hedging dominates the encyclopedic primary type (65–72%) and the continuation type (21%); Vedic-accenting concentrates in nominals and derived forms (18–24% / 19%); IE-cognate-bearing is overwhelmingly a roots phenomenon (35%). A *Vedic-accented lex-hedged nominal* is a real entry-shape in MW (≈ 4% of nominals) and would have been silently lost in the old 14-bucket scheme.
+
+### 3.1 · The original 14-bucket classification (legacy)
+
+Retained for reproducibility of the [§4 matrix](#4--the-block-by-article-type-matrix) and the [mw_block_matrix.py](#methods--corrections-log) detector. Counts reflect overlapping buckets — an entry can be (e.g.) `noun_m` AND `vedic_accented` AND `biographical`.
 
 | Type code | Defined by | Count | % of 286,561 |
 |---|---|--:|--:|
@@ -79,7 +128,7 @@ Article types derived by classifying entries via the markers in §1. Counts refl
 | **vedic_accented** | `/` in `<k2>` | 47,598 | 16.61% |
 | **other** | none of the above | 19,460 | 6.79% |
 
-The dictionary is dominated by **compound sub-entries (44%)** and **derived forms (25%)** — together 69% of all records.
+Legacy-to-refactored mapping: `noun_m + noun_f + noun_n + noun_mn → nominal`; `adjective_mfn → adjective`; `botanical + biographical → encyclopedic (with gender-like sub-feature)`; `lexicographer_only → primary type whose distinguishing feature is the *lex-hedged* property`; `etymological_ie → IE-cognate-bearing property`; `vedic_accented → Vedic-accented property`. The 14-row matrix in §4 is identical in data to the refactored view; only the row labels reorganise.
 
 ---
 
@@ -385,7 +434,7 @@ This working notes file *depends on* and *extends* the existing docs-pass conten
 
 ## 9 · Open analytical questions (for the paper)
 
-1. **Are the 14 article types categorically distinct, or a gradient?** Wiegand's microstructure types might suggest categorical; the data (entries fluidly satisfy multiple types) might suggest gradient.
+1. **Are the 8 primary article types categorically distinct, or a gradient?** Wiegand's microstructure types might suggest categorical; the data (entries fluidly satisfy multiple primary types when type-membership is computed without precedence rules) might suggest gradient. The refactor in §3 promotes the three most-overlap-prone "types" (Vedic-accented, lexicographer_only, etymological_ie) to *properties*, partly resolving the overlap question by design rather than by data analysis.
 
 2. **What is F17's status?** Is `<info>` part of the microstructure (a structural indicator in Wiegand's sense) or is it metadata about the microstructure?
 

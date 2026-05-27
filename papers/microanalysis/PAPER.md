@@ -8,7 +8,7 @@
 
 ## Abstract
 
-The dominant frameworks in metalexicography — Wiegand (1989, 2002), Hausmann (1977, 1985), Atkins & Rundell (2008) — were built on European mid-to-late-20th-century dictionaries. Applying them to *Monier-Williams 1899* (henceforth MW) **risks imposing categories the lexicographer did not himself recognise**, however productively the exercise illuminates the artefact. This paper takes the opposite stance as its spine: we build a descriptive framework **from MW outward**, treating its 18 formal blocks and 14 article types as primary, and constructing a typology that respects the dictionary's own internal logic before any external theory is consulted. The framework that emerges has five core constructs — **block, slot, profile, hedge, infrastructure** — each operationalised against the live [`mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) digital edition (286,561 records). Its central empirical claim is that MW is a **block-economical** dictionary: 286,561 entries reuse the same ~6-block kernel with type-driven enrichment. We then **triangulate** this grounded reading against the three external traditions (§7, with full treatments in Appendices A–C) and show that all three converge on the same three structural facts under different terminologies — evidence that the findings are properties of the artefact, not artefacts of one theory. We propose *block-economy* as a typological signature distinguishing 19th-century scholarly dictionaries from both modern learner-dictionaries (more pragmatic information, fewer formal blocks) and indigenous synonymies / koshas (different infrastructure entirely).
+The dominant frameworks in metalexicography — Wiegand (1989, 2002), Hausmann (1977, 1985), Atkins & Rundell (2008) — were built on European mid-to-late-20th-century dictionaries. Applying them to *Monier-Williams 1899* (henceforth MW) **risks imposing categories the lexicographer did not himself recognise**, however productively the exercise illuminates the artefact. This paper takes the opposite stance as its spine: we build a descriptive framework **from MW outward**, treating its 18 formal blocks, 8 primary article types, and 3 orthogonal article-properties as primary, and constructing a typology that respects the dictionary's own internal logic before any external theory is consulted. The framework that emerges has five core constructs — **block, slot, profile, hedge, infrastructure** — each operationalised against the live [`mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) digital edition (286,561 records). Its central empirical claim is that MW is a **block-economical** dictionary: 286,561 entries reuse the same ~6-block kernel with type-driven enrichment. We then **triangulate** this grounded reading against the three external traditions (§7, with full treatments in Appendices A–C) and show that all three converge on the same three structural facts under different terminologies — evidence that the findings are properties of the artefact, not artefacts of one theory. We propose *block-economy* as a typological signature distinguishing 19th-century scholarly dictionaries from both modern learner-dictionaries (more pragmatic information, fewer formal blocks) and indigenous synonymies / koshas (different infrastructure entirely).
 
 **Keywords:** microstructure, grounded analysis, Monier-Williams, Sanskrit lexicography, CDSL, block economy, scholarly dictionary, Wiegand, Atkins–Rundell, Hausmann
 
@@ -49,7 +49,7 @@ Many slots are **optional**. The *grammatical category* slot exists; whether F04
 
 ### Construct 3 — *Profile*
 
-A **profile** is the *block-set characteristic of an article type*. We identify 14 article types (see [MICROANALYSIS.md §3](MICROANALYSIS.md)). Each type has a characteristic profile composed of a **necessary-block set** (blocks present in ≥ 95% of entries of this type), an **enriched-block set** (blocks present at substantially higher rates than baseline — e.g. F09 commentary at 78% in roots vs ~10% baseline), and an **omitted-block set** (blocks present at substantially lower rates than baseline — e.g. F02 display headword at 33.9% in continuations vs ~99% baseline). The profile is the **lexicographer's strategic choice** for handling a type of lemma; each of MW's 14 profiles is internally coherent — see the [block-by-article-type matrix](MICROANALYSIS.md#4--the-block-by-article-type-matrix).
+A **profile** is the *block-set characteristic of an article type*. We identify **8 primary article types** (root, nominal, adjective, indeclinable, compound, derived, continuation, encyclopedic) crossed with **3 orthogonal properties** (Vedic-accented, lex-hedged, IE-cognate-bearing) — a refactor of the original 14-bucket classification that separates *what kind of entry this is* from *what additional information it happens to carry* (see [MICROANALYSIS.md §3](MICROANALYSIS.md), and the rationale in [DOUBTS D5](DOUBTS.md#d5--articletype-typology--14-is-too-many--overlapping--important)). Each type has a characteristic profile composed of a **necessary-block set** (blocks present in ≥ 95% of entries of this type), an **enriched-block set** (blocks present at substantially higher rates than baseline — e.g. F09 commentary at 78% in roots vs ~10% baseline), and an **omitted-block set** (blocks present at substantially lower rates than baseline — e.g. F02 display headword at 33.9% in continuations vs ~99% baseline). The orthogonal properties cut across types: a *Vedic-accented nominal* is a nominal with an extra `/` mark in `<k2>` and an inflation of the etymology block; a *lex-hedged compound* is a compound that happens to carry `<ls>L.</ls>`. The profile is the **lexicographer's strategic choice** for handling a type of lemma; each of MW's 8 primary profiles is internally coherent — see the [block-by-type matrix](MICROANALYSIS.md#4--the-block-by-article-type-matrix).
 
 ### Construct 4 — *Hedge*
 
@@ -94,34 +94,63 @@ This is **block economy** in the explicit sense: **a 19th-century printed dictio
 
 ## 5. Profiles as the unit of typology
 
-Once block-economy is recognised, the article-type *profile* (Construct 3) becomes the natural unit of lexicographic typology. Each of MW's 14 profiles is a **specific deviation** from the 6-block kernel — adding some blocks, suppressing others. We illustrate three before giving the full table.
+Once block-economy is recognised, the article-type *profile* (Construct 3) becomes the natural unit of lexicographic typology. The earlier 14-bucket classification (preserved in [MICROANALYSIS.md §3.1 legacy table](MICROANALYSIS.md#31--the-original-14-bucket-classification-legacy)) conflated two orthogonal axes — *what kind of entry this is* versus *what additional information it happens to carry* (DOUBTS D5). The refactored typology resolves this into **8 primary types** plus **3 orthogonal properties**, and each of MW's 8 primary profiles is a **specific deviation** from the 6-block kernel.
+
+### 5.1 The 8 primary types
+
+| # | Type | Defined by | Count | % of 286,561 |
+|--:|---|---|--:|--:|
+| 1 | **root** | `<info verb="genuineroot"/>` | 750 | 0.26% |
+| 2 | **nominal** (sub-feature: gender m/f/n/mn) | `<lex>m./f./n./mn.</lex>` w/o compound marker | ≈ 37,700 | ≈ 13.2% |
+| 3 | **adjective** | `<lex>mfn.</lex>` | 12,240 | 4.27% |
+| 4 | **indeclinable** | `<lex>ind.</lex>` | 1,929 | 0.67% |
+| 5 | **compound sub-entry** | `<e>3*` + em-dash/hyphen in `<k2>` | 126,360 | 44.10% |
+| 6 | **derived form** | `<e>2*` | 72,119 | 25.17% |
+| 7 | **continuation sub-entry** | `<e>1A` | 9,294 | 3.24% |
+| 8 | **encyclopedic** (sub-feature: botanical / biographical) | `<bot>` or `<bio>` tag(s) | 8,405 | 2.93% |
+| — | *other* | none of the above | 19,460 | 6.79% |
+
+### 5.2 The 3 orthogonal properties
+
+| Property | Defined by | Count | % of 286,561 | Most concentrated in |
+|---|---|--:|--:|---|
+| **Vedic-accented** | `/` in `<k2>` | 47,598 | 16.6% | nominals, especially Vedic vocabulary |
+| **Lex-hedged** | `<ls>L.</ls>` present | 40,212 distinct entries | ≈ 14.0% | 100% of former "lexicographer_only"; 72% of botanicals, 65% of biographicals (cross-cuts every primary type) |
+| **IE-cognate-bearing** | `<lang>` tag(s) | 2,099 | 0.73% | roots (F07 = 35%); a separate enriched sub-population |
+
+These three are **properties, not types**: an entry can be (e.g.) a *Vedic-accented, lex-hedged nominal*, a *non-accented compound*, or an *IE-cognate-bearing root*. The cross-tabulation appears in [MICROANALYSIS.md §3.3](MICROANALYSIS.md#33--cross-tabulation-of-primary-types--orthogonal-properties).
+
+### 5.3 Three illustrative profiles
 
 **The verbal-root profile.** Kernel present: F01, F02, F10, F12, F17 (skipping F04 — verbs are not in `<lex>`). Enrichments: F05 verb class (98.4%), F08 inflection forms (99.9%), F03 homophone (49.6%), F09 commentary (78.1%), F06 root marker (44.7%), F07 IE cognate (35.2%), F16 cross-reference (54.5%). Result: average 9.73 of 18 blocks — **the most elaborate profile in MW**. Roots are 0.26% of entries; they receive the largest share of editorial apparatus.
 
 **The compound-sub-entry profile.** Kernel present: F01, F02 (84.7%), F04 (80.7%), F10 (97.9%), F17 (96.3%). Enrichments: F12 source citation (81.2%), F08 inflection (18.5%) — modest additions. Suppressions: F03 (0.9%), F05 (0.3%), F06 (1.6%), F07 (0.1%), F09 (3.5%), F11 (0.0%), F14 (3.3%), F15 (14.7%), F16 (4.7%). Result: average 6.02 blocks — **the kernel + a citation, almost nothing more**. Compounds are 44% of MW's entries; their economical treatment is what makes the dictionary printable.
 
-**The lexicographer-only profile.** Kernel present: F01, F02, F04 (65.2%), F10 (100%), F17 (99.2%). Enrichment: F12 source citation (100%) — definitional (the `L.` is itself an `<ls>`). Singular: F13 hedge L. = 100%. Result: average 6.89 blocks — **the kernel + the hedge**. The hedge IS the entry's distinctive content; the rest is standard.
+**The lex-hedged profile (orthogonal).** Across primary types, the *lex-hedged* property contributes: F12 = 100% (the hedge is itself an `<ls>`), F13 = 100% (definitional). Where lex-hedging is the entry's *only* distinguishing feature (≈ 38,414 entries — the old "lexicographer_only" type), kernel present: F01, F02, F04 (65.2%), F10 (100%), F17 (99.2%); average 6.89 blocks. Where lex-hedging *additionally decorates* an encyclopedic entry, F13 reaches 72% in botanicals and 65% in biographicals — the property piggy-backs on the type. The hedge is the entry's distinctive content in the former case and an evidentiary modifier in the latter.
 
-The entire grounded analysis collapses into one printable diagnostic — the **MW profile table**:
+### 5.4 The 8×3 profile table
 
-| Profile | Kernel (F01-02-04-10-12-17) | Distinctive enrichments | Distinctive suppressions | Avg blocks | Hedge incidence |
-|---|---|---|---|--:|--:|
-| Root | F02+F10+F12+F17 (no F04) | F05 cl.,P.,Ā. (98%); F08 forms (100%); F09 (78%); F06 √ (45%); F07 IE (35%); F16 (55%); F03 hom (50%) | F04 (gram absent) | 9.73 | 7% |
-| Noun_m | full kernel | F12 (78%); F08 (22%); F09 (7%); F06 (9%) | — | 6.43 | 19% |
-| Noun_f | full kernel | F14 botanical (6%) elevated | — | 6.28 | 21% |
-| Noun_n | full kernel | F08 (18%) | — | 6.05 | 12% |
-| Adjective_mfn | full kernel | F06 (17%) | F14, F15 lowest | 6.25 | 4% |
-| Indeclinable | full kernel | F08 (30%); F09 (12%) | F14 (0.1%) | 6.39 | 2% |
-| Compound | F01,F02,F04 (81%),F10,F17 | F12 (81%); F08 (18%) | F03, F05, F06, F07, F09, F11, F14, F15 all suppressed | 6.02 | 13% |
-| Derived | F01,F02 (69%),F04 (51%),F10,F17 | F12 (81%); F08 (23%) | most enrichments suppressed | 5.73 | 16% |
-| Continuation | F01,F10,F17 only (F02, F04 inherited) | F12 (81%) | F02 (34%); F04 (0.3%); F08 (7%) | 4.76 | 21% |
-| Lexicographer_only | full kernel | F13 hedge (100%); F14 (15%) | F09 (3%) | 6.89 | 100% |
-| IE_etymological | F01, F02 (95%), F08 (53%), F10, F17 | F07 (100%); F09 (38%); F16 (55%); F08 (53%) | F04 (27%) | 7.70 | 3% |
-| Botanical | F01, F02 (67%), F04 (69%), F10, F12, F14 (100%) | F13 hedge (72%); F08 (14%) | F02 lower (display by `<bot>`) | 7.28 | 72% |
-| Biographical | F01, F02, F04 (75%), F10, F12 (94%), F15 (100%) | F13 hedge (65%); F08 (20%) | — | 7.58 | 65% |
-| Vedic_accented | F01,F02 (70%),F04 (51%),F10,F12 (88%),F17 | F08 (28%); F09 (11%) | — | 5.93 | 11% |
+The entire grounded analysis collapses into one printable diagnostic — the **MW primary-type profile table**:
 
-This table is the **single most useful diagnostic** for the working CDSL editor: pick an article type, see which blocks are expected, see what's distinctive, see how much elaboration to budget. It is also the framework's single deliverable for downstream metalexicographic comparison — the same table can be produced for any CDSL dictionary, allowing direct comparison across the corpus.
+| Primary type | Kernel (F01-02-04-10-12-17) | Distinctive enrichments | Distinctive suppressions | Avg blocks | % lex-hedged | % Vedic-acc. |
+|---|---|---|---|--:|--:|--:|
+| Root | F02+F10+F12+F17 (no F04) | F05 cl.,P.,Ā. (98%); F08 forms (100%); F09 (78%); F06 √ (45%); F07 IE (35%); F16 (55%); F03 hom (50%) | F04 (gram absent) | 9.73 | 7% | 8% |
+| Nominal (m / f / n) | full kernel | F12 (66–78%); F08 (18–23%); F14 elevated in f. (6%) | — | 6.05–6.43 | 12–21% | 18–24% |
+| Adjective | full kernel | F06 (17%) | F14, F15 lowest | 6.25 | 4% | 11% |
+| Indeclinable | full kernel | F08 (30%); F09 (12%) | F14 (0.1%) | 6.39 | 2% | 9% |
+| Compound | F01,F02,F04 (81%),F10,F17 | F12 (81%); F08 (18%) | F03, F05, F06, F07, F09, F11, F14, F15 all suppressed | 6.02 | 13% | 14% |
+| Derived | F01,F02 (69%),F04 (51%),F10,F17 | F12 (81%); F08 (23%) | most enrichments suppressed | 5.73 | 16% | 19% |
+| Continuation | F01,F10,F17 only (F02, F04 inherited) | F12 (81%) | F02 (34%); F04 (0.3%); F08 (7%) | 4.76 | 21% | 12% |
+| Encyclopedic — botanical | F01, F02 (67%), F04 (69%), F10, F12, F14 (100%) | F13 hedge (72%); F08 (14%) | F02 lower (display by `<bot>`) | 7.28 | **72%** | 6% |
+| Encyclopedic — biographical | F01, F02, F04 (75%), F10, F12 (94%), F15 (100%) | F13 hedge (65%); F08 (20%) | — | 7.58 | **65%** | 16% |
+
+The **3 orthogonal properties** appear as columns/conditions rather than rows:
+
+- **Lex-hedged** (≈ 14.0% overall): subsumes the former "lexicographer_only" bucket (when the property is the entry's *only* distinguishing feature; avg 6.89 blocks) and cuts across encyclopedic types (a property-modifier on a type-determined skeleton).
+- **Vedic-accented** (16.6% overall): an inflector of nominals (18–24%) and roots (8%); avg 5.93 blocks when isolated — slightly under the dictionary mean, because Vedic vocabulary in MW skews toward terse glosses.
+- **IE-cognate-bearing** (0.73% overall): heavily concentrated in roots (35%) and the residual *other* bucket (F07 at 24.7%; this is partly nominal stems with attached comparanda); when isolated, average 7.70 blocks — the property correlates with elaborated etymology, not with a different article skeleton.
+
+This table is the **single most useful diagnostic** for the working CDSL editor: pick a primary type, see which blocks are expected, see what's distinctive, then ask whether the entry also carries any of the three orthogonal properties (Vedic accent, lex-hedge, IE cognate) and adjust the budget accordingly. It is also the framework's single deliverable for downstream metalexicographic comparison — the same table can be produced for any CDSL dictionary, allowing direct comparison across the corpus.
 
 ## 6. The infrastructure layer and its meaning
 
@@ -212,7 +241,7 @@ Triangulated against three external traditions, the grounded reading is corrobor
 
 **A.4 — Fullness as microstructure density.** The 5-tier fullness scale ([MICROANALYSIS.md §5](MICROANALYSIS.md#5--fullness-scale)) corresponds to Wiegand's *Mikrostrukturdichte*: T1 Vestigial (1–3 item-classes, 3.7%), T2 Skeletal (4–5, 30.5%), T3 Typical (6, 31.9%), T4 Rich (7–9, 32.4%), T5 Elaborate (10+, 1.4%). Median density is 6 — higher than learner dictionaries (4–5; A&R 2008: 199), lower than Grimm (~10; Reichmann 1999). MW occupies a middle position: *scholarly but compact*.
 
-**A.5 — Conclusion.** MW has an integrated microstructure with 18 structural indicators realising 8 item-classes across ≥14 article-type profiles, dominated by a modal-6-block typical article with a long elaborate tail. The `L.`-hedge is the strongest Wiegand-theoretic case for treating MW as an *editorial reworking* of PWG rather than a translation.
+**A.5 — Conclusion.** MW has an integrated microstructure with 18 structural indicators realising 8 item-classes across 8 primary article-type profiles (each modulated by up to 3 orthogonal properties), dominated by a modal-6-block typical article with a long elaborate tail. The `L.`-hedge is the strongest Wiegand-theoretic case for treating MW as an *editorial reworking* of PWG rather than a translation.
 
 ## Appendix B — The Atkins-Rundell practical-lexicography reading (condensed)
 
@@ -248,7 +277,7 @@ Triangulated against three external traditions, the grounded reading is corrobor
 
 MW's contribution is therefore **structural rather than semantic**: where Cappeller and Benfey used a *typographic* mark separate from their citation apparatus, MW *promotes the hedge into the source-citation slot itself* — 40,212 `<ls>L.</ls>` tags occupy the same XML position as `<ls>MBh.</ls>`, `<ls>RV.</ls>`, and the named-kosha sigla of PWG. The Provenienz-Komment thereby becomes a *first-class citation* on a par with named sources, machine-distinguishable from them by string-comparison alone. This is a tool tailored to the [koshic-textual evidential duality of Sanskrit lexicography](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) — a 19th-century *systematisation* of a convention already pioneered typographically by Benfey and Cappeller, absent from Hausmann's system, from PWG, and from modern English dictionaries.
 
-**C.3 — The fivefold signature taxonomy.** Abstracting above the block matrix, MW's 14 article types reduce to five recurring comment-class signatures: **form-dominant** (roots), **balanced** (standard nouns, adjectives, indeclinables), **semantic-dominant** (compounds, derivatives — form inherited), **provenance-dominant** (lexicographer-only — the hedge is the entry's main content), and **encyclopedic-doubled** (botanicals, biographicals — semantic comment is itself encyclopedic). This taxonomy generalises the 14 profiles into a manageable lexicographic typology.
+**C.3 — The fivefold signature taxonomy.** Abstracting above the block matrix, MW's 8 primary article types reduce to five recurring comment-class signatures: **form-dominant** (roots), **balanced** (nominals, adjectives, indeclinables), **semantic-dominant** (compounds, derivatives, continuations — form inherited), **provenance-dominant** (entries whose only distinctive feature is the *lex-hedged* orthogonal property — the hedge is the entry's main content), and **encyclopedic-doubled** (botanicals, biographicals — semantic comment is itself encyclopedic). This taxonomy generalises the 8 primary profiles into a manageable lexicographic typology; the three orthogonal properties (Vedic accent, lex-hedge, IE cognate) further enrich any signature without changing its class.
 
 **C.4 — What a modern revision would add.** Hausmann (1985: §4) holds that pragmatic-comment is the most under-realised class in older scholarly dictionaries; MW confirms it. A modern revision would fill the pragmatic class (register labels), subdivide the Provenienz-Komment back into named-kosha citations (resolvable against [ARMH](https://github.com/sanskrit-lexicon/armh) / [ABCH](https://github.com/sanskrit-lexicon/abch) / [ACPH](https://github.com/sanskrit-lexicon/acph) / [ACSJ](https://github.com/sanskrit-lexicon/acsj)), and add a Beispielkomment (examples), which requires fresh corpus work.
 
