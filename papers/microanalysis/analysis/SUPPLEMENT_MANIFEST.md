@@ -2,7 +2,7 @@
 
 Built by [`make_supplement.py`](make_supplement.py) into `mw-microanalysis-supplementary.zip` (a gitignored build artefact). The raw dictionary `.txt` files are not bundled — they live in [csl-orig](https://github.com/sanskrit-lexicon/csl-orig); the included scripts regenerate every derived artefact from them.
 
-**104 files**, 2368 kB uncompressed.
+**104 files**, 2747 kB uncompressed.
 
 ## To rebuild
 

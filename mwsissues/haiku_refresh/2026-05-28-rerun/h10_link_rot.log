@@ -1,0 +1,30 @@
+Unique URLs: 73; bad: 7
+
+FIGURES.md (4 bad):
+  [404] https://github.com/sanskrit-lexicon/acsj
+  [404] https://github.com/sanskrit-lexicon/armh
+  [404] https://github.com/sanskrit-lexicon/acph
+  [404] https://github.com/sanskrit-lexicon/abch
+
+MICROSITE.md (5 bad):
+  [404] https://github.com/sanskrit-lexicon/acsj
+  [404] https://github.com/sanskrit-lexicon/armh
+  [404] https://github.com/sanskrit-lexicon/acph
+  [404] https://github.com/sanskrit-lexicon/abch
+  [404] https://github.com/sanskrit-lexicon/<code
+
+PALETTE.md (1 bad):
+  [404] https://amzn.github.io/style-dictionary/
+
+PAPER.md (4 bad):
+  [404] https://github.com/sanskrit-lexicon/acsj
+  [404] https://github.com/sanskrit-lexicon/armh
+  [404] https://github.com/sanskrit-lexicon/acph
+  [404] https://github.com/sanskrit-lexicon/abch
+
+PAPER_RU.md (5 bad):
+  [404] https://github.com/sanskrit-lexicon/acsj
+  [404] https://github.com/sanskrit-lexicon/armh
+  [404] https://github.com/sanskrit-lexicon/acph
+  [404] https://github.com/sanskrit-lexicon/abch
+  [404] https://www.ivran.ru/east
