@@ -229,6 +229,7 @@ The seven: [PWG](https://github.com/sanskrit-lexicon/PWG) (German, 1855–75) ·
 
 **[PWG L7](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/pwg/pwg.txt#L124)** (German, 1855):
 
+{% raw %}
 ```
 1. {#a/MSa#}¦ (s. <is>gaṇa</is> {#vfzAdi#}) <lex>m.</lex>
 <ls>SIDDH. K. 249,b, ult.</ls>
@@ -255,6 +256,7 @@ PWG enumerates the sense tree (1, 1a–1e, 2) with **multiple `<ls>` cites per s
 — 7〉 <ab>N. pr.</ab> eines <is>Āditya</is>.
 ```
 PWK is **Böhtlingk's own abridgement of PWG**, condensing the same 7 senses into ~70% the space. Crucially, **PWK drops nearly all the named-kosha citations** that PWG carried: of PWK's [86,750 `<ls>` tags](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/pw/pw.txt), only 15 cite `H.` (Hemacandra), 4 cite `AK.` (Amarakośa), 18 cite `MED.`, 7 cite `TRIK.` ([see Option F](papers/microanalysis/VISUALISATIONS.md)) — compared to PWG's 17,337 / 14,473 / 13,055 / 8,365. PWK introduces a different hedge: the `*` prefix marks unattested/lexicon-only senses (note `*{%Tag%}` in sense 6 — citing `GAL.` only). **PWK is the missing link** between PWG's elaborate apparatus and MW's English compression: it shows that abandoning the kosha apparatus happened in Böhtlingk's own work *before* MW.
+{% endraw %}
 
 **[MW L10](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L55)** (English, 1899):
 
