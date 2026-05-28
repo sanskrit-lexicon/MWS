@@ -1,3 +1,4 @@
+{% raw %}
 # DOUBTS.md — critical review of architecture decisions
 
 **Mandate (2026-05-23):** [@gasyoun](https://github.com/gasyoun) — "Review everything. Doubt everything, all architecture solutions."
@@ -321,3 +322,4 @@ Lumping Cappeller `*` and Benfey `†` as "the precedent" while *omitting* the t
 ### Recording-only notice
 
 Per the O7 prompt mandate, these seven doubts are **recorded, not fixed**. D21 in particular is rated *blocking* because if MW 1872 turns out to have the systematic hedge already, the §7.2(ii) and Appendix C.2 narrative reverses — and the IJL cover letter would need to claim the stronger version of "MW innovation." Resolution work for D16–D22 should be scheduled before submission; recommended order: **D21 first** (it is a 2-hour check that gates the others), then D17 (a footnote), then D16 (a paragraph rewrite), then D18 / D19 / D20 (each ≈ 1 hour of audit and one paragraph of rewrite), then D22 (one table). Total estimated work: 6–10 hours.
+{% endraw %}

@@ -1,3 +1,4 @@
+{% raw %}
 # MW1899 — Microstructural working notes
 
 **Working document.** Exhaustive block-by-block analysis of the Monier-Williams *Sanskrit-English Dictionary* (1899) as digitized in [CDSL `mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt). This file is the **data source** for the consolidated [paper](PAPER.md) in this directory ([README](README.md)).
@@ -449,3 +450,4 @@ This working notes file *depends on* and *extends* the existing docs-pass conten
 ---
 
 *Last computed: 2026-05-23 against [mw.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt). Python source: `/tmp/mw_block_matrix.py` in [the docs-pass build artifacts](https://github.com/sanskrit-lexicon/MWS/tree/docs-pass).*
+{% endraw %}
