@@ -96,6 +96,25 @@ If the source file (`mw.txt`) itself records the correction history, the format 
 These records are preserved verbatim and processed by the `updateByLine.py`
 toolchain — never edit them by hand.
 
+### GitHub Pages / Jekyll Liquid gotcha
+
+GitHub Pages renders this repo's Markdown through Jekyll. Jekyll's Liquid
+templating engine treats two CDSL markup conventions as template syntax:
+
+- `{%…%}` — the italic-span marker; collides with Liquid tag syntax.
+- `{{…}}` — the correction-record format above; collides with Liquid
+  variable interpolation.
+
+A page containing either marker outside an escape block breaks the Pages
+build. The fix applied across this repo is to wrap the entire affected
+file in `{% raw %}` and the matching closing tag. See
+[DATA_DICTIONARY.md](DATA_DICTIONARY.md), [ENTRY_GUIDE.md](ENTRY_GUIDE.md),
+[DICT_PROFILE.md](DICT_PROFILE.md) and the `papers/microanalysis/` notes
+for working examples (PRs [#198](https://github.com/sanskrit-lexicon/MWS/pull/198), [#200](https://github.com/sanskrit-lexicon/MWS/pull/200), [#201](https://github.com/sanskrit-lexicon/MWS/pull/201)).
+
+When adding a new `.md` documenting `<L>` records, markup conventions, or
+sample entry text — wrap it.
+
 ### Pull request checklist
 
 - [ ] Correction verified against the 1899 print facsimile
