@@ -3,8 +3,8 @@
 | Step | Status | Findings |
 |---|---|---|
 | H5 palette | ✅ | 77 tokens, 3 outputs regenerated |
-| H1 renderers | ✅ | heatmap=2, treemap=2, sankey=2 |
-| H4 version-stamp | ⚠️ | 2 missing footers, 3 stale SHA |
+| H1 renderers | ✅ | heatmap=2, treemap=2, sankey=2, cross-dict=2 (all 4 renderers; en+ru where supported — cross-dict ru deferred per DOUBTS D11) |
+| H4 version-stamp | ✅ | 8/8 figures have footers, all stamped at current HEAD (`05aff86`); original ⚠️ was a regex-too-strict bug (didn't accept cross-dict format or Cyrillic "Источник") + missing ru renders |
 | H3 PNG↔SVG | ✅ | 0 PNG-only, 0 SVG-only (perfect parity) |
 | H2 alt/desc | ✅ | 8 figures, all sidecars present |
 | H6 locales | ✅ | en=9, ru=9, perfect key parity |
