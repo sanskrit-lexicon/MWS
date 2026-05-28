@@ -2,17 +2,17 @@
 # Excluded dirs contain Python 2 legacy scripts (pre-2020 research artifacts).
 
 exclude = [
-    "Lithuanian/",,
-    "accent_diff/",,
-    "botbio/",,
-    "greek_andhrabharati/",,
-    "homophone/",,
-    "k1k2/",,
-    "mwabbreviations/",,
-    "mwauthorities/",,
-    "mwsissues/",,
-    "mwsupplement/",,
-    "mwtranscode/",,
+    "Lithuanian/",
+    "accent_diff/",
+    "botbio/",
+    "greek_andhrabharati/",
+    "homophone/",
+    "k1k2/",
+    "mwabbreviations/",
+    "mwauthorities/",
+    "mwsissues/",
+    "mwsupplement/",
+    "mwtranscode/",
     "mwverbs/",
 ]
 
