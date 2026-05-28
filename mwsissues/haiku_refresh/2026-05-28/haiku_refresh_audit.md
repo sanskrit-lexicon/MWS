@@ -11,4 +11,4 @@
 | H7 manifest | ✅ | 108 entries, ZIP 1.27 MB |
 | H8 ZIP integrity | ⚠️ | manifest=108, ZIP=104 (mismatch) |
 | H9 CI status | ⚠️ | MWS: 1 failure (pages 2026-05-27), csl-atlas: 5 success |
-| H10 link-rot | ℹ️ | 138 URLs found across 13 files (detailed check deferred) |
+| H10 link-rot | ⚠️ | 138 URLs counted but zero HEAD-checked (skill requires HEAD with 5s timeout) — see [GAPS.md](GAPS.md) #9 |
