@@ -1,0 +1,47 @@
+Scanning 13 files...
+Unique URLs: 73
+HEADing with 5s timeout, 16 parallel workers...
+
+  ... 25/73 done (7.0s)
+  ... 50/73 done (10.7s)
+
+Finished in 14.8s
+
+=== Tally ===
+  2xx OK:        65
+  3xx redirect:  0
+  404 not found: 7
+  4xx/5xx other: 1
+  network errs:  0
+  TOTAL bad:     8
+
+=== Broken / errored URLs by source file ===
+
+FIGURES.md (4 bad):
+  [404] https://github.com/sanskrit-lexicon/armh
+  [404] https://github.com/sanskrit-lexicon/abch
+  [404] https://github.com/sanskrit-lexicon/acph
+  [404] https://github.com/sanskrit-lexicon/acsj
+
+MICROSITE.md (5 bad):
+  [404] https://github.com/sanskrit-lexicon/armh
+  [404] https://github.com/sanskrit-lexicon/abch
+  [404] https://github.com/sanskrit-lexicon/acph
+  [404] https://github.com/sanskrit-lexicon/acsj
+  [404] https://github.com/sanskrit-lexicon/<code
+
+PALETTE.md (1 bad):
+  [404] https://amzn.github.io/style-dictionary/
+
+PAPER.md (4 bad):
+  [404] https://github.com/sanskrit-lexicon/armh
+  [404] https://github.com/sanskrit-lexicon/abch
+  [404] https://github.com/sanskrit-lexicon/acph
+  [404] https://github.com/sanskrit-lexicon/acsj
+
+PAPER_RU.md (5 bad):
+  [404] https://github.com/sanskrit-lexicon/armh
+  [404] https://github.com/sanskrit-lexicon/abch
+  [404] https://github.com/sanskrit-lexicon/acph
+  [404] https://github.com/sanskrit-lexicon/acsj
+  [404] https://www.ivran.ru/east
