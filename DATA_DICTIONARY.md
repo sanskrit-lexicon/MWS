@@ -59,12 +59,14 @@ Counts are opening+closing pairs (balanced unless noted).
 
 ## Inline markup (non-XML)
 
+{% raw %}
 | Marker | Role | Example |
 |---|---|---|
 | `{#…#}` | Devanagari / SLP1 span | `{#kf#}` |
 | `{%…%}` | Italic text span | `{%also written%}` |
 | `¦` | Definition separator | between headword and gloss |
 | `@` | Cross-reference marker | `@mw` |
+{% endraw %}
 
 ---
 
