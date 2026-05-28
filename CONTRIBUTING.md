@@ -1,3 +1,4 @@
+{% raw %}
 # Contributing to MWS
 
 MWS is a corrections and enhancements repository for the Cologne digitisation of
@@ -118,3 +119,4 @@ for the org-wide taxonomy.
 
 All contributors are expected to follow the
 [CDSL Code of Conduct](CODE_OF_CONDUCT.md).
+{% endraw %}

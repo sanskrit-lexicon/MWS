@@ -1,3 +1,4 @@
+{% raw %}
 # *Monier-Williams 1899* through the Hausmann–Wiegand comment-class lens
 
 > **Supplementary extended draft — superseded by [PAPER.md](PAPER.md).** One of four single-framework drafts consolidated into the single submission paper per [DOUBTS.md D4](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking). This Hausmann-Wiegand reading (including the proposed *Provenienz-Komment*) is condensed into [PAPER.md Appendix C](PAPER.md#appendix-c--the-hausmann-wiegand-comment-class-reading-condensed); this fuller draft is retained as supplementary material only. **For the canonical paper, read [PAPER.md](PAPER.md).**
@@ -205,3 +206,4 @@ The most consequential MW-specific contribution to scholarly lexicography is the
 ---
 
 *Source data: [MICROANALYSIS.md](MICROANALYSIS.md). Companion framework papers: [Wiegand](paper-wiegand.md) · [Atkins-Rundell](paper-atkins-rundell.md) · [Grounded](paper-grounded.md). All four analyse the same MW1899 dataset through different theoretical lenses.*
+{% endraw %}

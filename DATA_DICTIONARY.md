@@ -1,3 +1,4 @@
+{% raw %}
 # Data Dictionary — MWS
 
 Tag inventory and field reference for `csl-orig/v02/mw/mw.txt`.
@@ -59,14 +60,12 @@ Counts are opening+closing pairs (balanced unless noted).
 
 ## Inline markup (non-XML)
 
-{% raw %}
 | Marker | Role | Example |
 |---|---|---|
 | `{#…#}` | Devanagari / SLP1 span | `{#kf#}` |
 | `{%…%}` | Italic text span | `{%also written%}` |
 | `¦` | Definition separator | between headword and gloss |
 | `@` | Cross-reference marker | `@mw` |
-{% endraw %}
 
 ---
 
@@ -151,3 +150,4 @@ Grammatical-category abbreviations are placed in `<lex>…</lex>` instead of
 These arise where a tooltip expansion is baked directly into the tag rather than
 looked up from the abbreviation table. All 12,779 have real (non-placeholder)
 expansions as of the 2026-05 markup-fix audit.
+{% endraw %}

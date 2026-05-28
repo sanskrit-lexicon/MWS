@@ -1,3 +1,4 @@
+{% raw %}
 # The microstructure of *Monier-Williams 1899*: a Wiegand-theoretic analysis
 
 > **Supplementary extended draft — superseded by [PAPER.md](PAPER.md).** One of four single-framework drafts consolidated into the single submission paper per [DOUBTS.md D4](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking). This Wiegand-theoretic reading is condensed into [PAPER.md Appendix A](PAPER.md#appendix-a--the-wiegand-theoretic-reading-condensed); this fuller draft is retained as supplementary material only. **For the canonical paper, read [PAPER.md](PAPER.md).**
@@ -215,3 +216,4 @@ The digital edition's XML markup makes the analysis tractable for the first time
 ---
 
 *Source data: [MICROANALYSIS.md](MICROANALYSIS.md). Companion framework papers: [Atkins-Rundell](paper-atkins-rundell.md) · [Hausmann-Wiegand](paper-hausmann.md) · [Grounded](paper-grounded.md). All four analyse the same MW1899 dataset through different theoretical lenses.*
+{% endraw %}

@@ -1,3 +1,4 @@
+{% raw %}
 # Entry Reading Guide — MWS
 
 A practical reference for reading and interpreting entries in `mw.txt`. Worked
@@ -149,14 +150,12 @@ A single-letter optional suffix marks variants. Full inventory in [Entry hierarc
 
 ### Inline non-XML markup
 
-{% raw %}
 | Marker | Role | Example |
 |---|---|---|
 | `¦` | Separator between headword and gloss body | `<s>aMSa</s> ¦ <lex>m.</lex> …` |
 | `{#…#}` | Devanagari / SLP1 inline span (rendered as Devanagari) | `{#kf#}` → कृ |
 | `{%…%}` | Italic text span (rendered as italic in display) | `{%also written%}` |
 | `<srs/>` | Self-closing visarga-ligature marker | `<srs/>` |
-{% endraw %}
 
 ### Correction-record format
 
@@ -173,7 +172,6 @@ In-file corrections use double-brace syntax (processed by [`updateByLine.py`](ht
 Tag counts shown are from the markup-fix audit of `mw.txt` (2026-05) — see
 [DATA_DICTIONARY.md](DATA_DICTIONARY.md) for the full inventory.
 
-{% raw %}
 | Tag | Count | Role | Example |
 |---|--:|---|---|
 | `<s>…</s>` | 350,610 | Sanskrit text span | `<s>aMSa</s>` |
@@ -190,7 +188,6 @@ Tag counts shown are from the markup-fix audit of `mw.txt` (2026-05) — see
 | `<srs/>` | many | Visarga-ligature self-closing marker | `<srs/>` |
 | `{%…%}` | many | Italic span (inline) | `{%also written%}` |
 | `{#…#}` | many | Devanagari / alternate script | `{#कृ#}` |
-{% endraw %}
 
 `<zoo>` is unused in MW (0 occurrences) — zoological names appear inside `<bot>`
 or unmarked prose.
@@ -568,3 +565,4 @@ collection."
 Compound sub-entries in MW are stored as siblings of the parent rather than as
 nested records, with the parent–child relationship implicit in adjacency and
 the `<e>3` hierarchy code.
+{% endraw %}
