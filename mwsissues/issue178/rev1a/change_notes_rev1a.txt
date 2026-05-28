@@ -2,6 +2,7 @@
 old: <L>61958.1<pc>1326,1<k1>khilyá<k2>khilyá<e>1
 new: <L>61958.1<pc>1326,1<k1>khilya<k2>khilyá<e>1
 ---
+{% raw %}
 L=423
 old: <info n=rev_sup"/>
 new: <info n="rev_sup"/>
@@ -63,3 +64,4 @@ L= 103901.2  ->  105839.2
 L= 160542.1  -> 160543.1
 L= 167755.01  ->  167755.2
 L= 235355.1  ->  235354.1
+{% endraw %}
