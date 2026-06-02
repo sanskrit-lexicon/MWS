@@ -1,12 +1,14 @@
-name: CodeQL
+name: "CodeQL"
+
+# Static analysis (SAST). These repos are Python-primary; CodeQL does not
+# support PHP, so the prior `language: php` config was invalid and failed under
+# codeql-action v4. Analyze Python with build-mode: none (no compilation needed).
 
 on:
   push:
-    branches:
-      - master
+    branches: [master, main]
   pull_request:
-    branches:
-      - master
+    branches: [master, main]
   schedule:
     - cron: '0 3 * * 1'
 
@@ -17,28 +19,19 @@ permissions:
 
 jobs:
   analyze:
-    name: Analyze
+    name: Analyze (python)
     runs-on: ubuntu-latest
-
-    strategy:
-      fail-fast: false
-      matrix:
-        language:
-          - 'php'
-
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Initialize CodeQL
-        uses: github/codeql-action/init@v3
+        uses: github/codeql-action/init@v4
         with:
-          languages: ${{ matrix.language }}
-
-      - name: Autobuild
-        uses: github/codeql-action/autobuild@v3
+          languages: python
+          build-mode: none
 
       - name: Perform CodeQL Analysis
-        uses: github/codeql-action/analyze@v3
+        uses: github/codeql-action/analyze@v4
         with:
-          category: "/language:${{ matrix.language }}"
+          category: "/language:python"
