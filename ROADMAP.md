@@ -1,312 +1,236 @@
-# MWS Roadmap
+# MWS Roadmap — 2026 H2
 
-Distillation of (a) the 34 open issues in [MWS](https://github.com/sanskrit-lexicon/MWS/issues),
-(b) the 157 historically closed issues for velocity context, and (c) the gaps
-surfaced by the [2026-05 markup-fix audit](https://github.com/sanskrit-lexicon/MWS/blob/markup-fix-audit/mwissues/markup_fix/markup_audit.txt)
-and the [2026-05-23 docs-pass review](https://github.com/sanskrit-lexicon/MWS/issues/195),
-into one planning document.
+Forward plan for June–November 2026, superseding the 2026-05-27 snapshot.
+It sequences four workstreams chosen 2026-06-12 and bakes in a model-tier
+policy so that frontier-model (Fable-class) sessions are spent only where
+judgment is required.
+
+Sources: the 34 open [MWS issues](https://github.com/sanskrit-lexicon/MWS/issues),
+the [docs-pass microanalysis](https://github.com/sanskrit-lexicon/MWS/tree/docs-pass/papers/microanalysis),
+the [csl-atlas](https://github.com/sanskrit-lexicon/csl-atlas) M1–M8 cross-dictionary methods,
+the [Salt API integration roadmap](https://github.com/sanskrit-lexicon/csl-standards/blob/main/docs/SALT_API_INTEGRATION_ROADMAP.md),
+and the SanskritLexicography 12-month publication roadmap (P1–P6).
 
 ---
 
-## Status snapshot (2026-05-27)
+## Status snapshot (2026-06-12)
 
 | Metric | Value |
 |---|--:|
-| Records in [mw.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) | [286,561](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/ENTRY_GUIDE.md#entry-hierarchy-distribution) |
-| Open issues | [34](https://github.com/sanskrit-lexicon/MWS/issues) |
-| Closed issues (historical) | [157](https://github.com/sanskrit-lexicon/MWS/issues?q=is%3Aclosed) |
-| Closed in last 12 months (velocity signal) | **4** |
-| `<ls>` citations | [311,932](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/ENTRY_GUIDE.md#coverage-of-ls-citations) |
-| Unique `<ls>` abbreviations | [821](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/ENTRY_GUIDE.md#coverage-of-ls-citations) |
+| Records in [mw.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) | 286,561 |
+| Open issues | 34 |
+| Closed issues (historical) | 157 |
+| Closed in last 12 months (velocity signal) | 4 |
+| `<ls>` citations | 311,932 |
+| Unique `<ls>` abbreviations | 821 |
 | With [authority record](https://github.com/sanskrit-lexicon/MWS/tree/master/mwauthorities) | 232 (28.3%) — covering 64.0% of citations |
-| Vedic accent coverage | [16.6% of `<k2>` fields](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/ENTRY_GUIDE.md#vedic-accent-coverage) |
-| `<ls>L.</ls>` lexicographer hedges | [40,213 (12.9% of all citations)](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/DICT_PROFILE.md#citation-markers--not-all-are-literary-works) |
+| `<ls>` citations carrying a numeric locator | 59.8% (40.2% are bare abbreviations) |
+| Vedic accent coverage | 16.6% of `<k2>` fields |
+| `<ls>L.</ls>` lexicographer hedges | 40,213 (12.9% of citations) — unique to MW among CDSL dicts |
 
-**Open issues by label (2026-05-27):**
-
-| Label | Open count |
-|---|--:|
-| `content-enhancement` | 12 |
-| `markup` | 8 |
-| `minor` | 17 |
-| `medium` | 14 |
-| `link-target` | 4 |
-| `question` | 3 |
-| `text-correction` | 2 |
-| `encoding` | 2 |
-| `bug` | 2 |
-| `hard` | 2 |
-
-*Note: issues can have multiple labels; counts exceed total open (34).*
-
-**Velocity note:** Only 4 issues closed in the last 12 months (unchanged from 2026-05-23 snapshot).
-Roadmap throughput assumes ≤ 1 issue/month routinely + bursts when a maintainer is active. Long-running
-items must be self-contained and resumable.
+**Velocity note:** ~1 issue/month sustained, bursts when a maintainer is active.
+Everything below is therefore decomposed into self-contained, resumable units.
 
 ---
 
-## Task subtypes — 10 categories
+## Model-tier policy (how to not waste frontier-model budget)
 
-Each subtype maps to an existing GitHub issue template (or proposes a new one).
-Effort buckets: **micro** (single entry, ~10 min) · **small** (batch, 1–3 h) ·
-**medium** (subsystem, 1–5 d) · **large** (months) · **xl** (years).
+Default rule: **Fable-class models decide; cheaper tiers execute.** A frontier
+session should end with either a decision recorded in a doc/issue or a batch
+spec that a cheaper agent can run without judgment.
 
-### 1. Text correction — typos, wrong glosses
-
-| Field | Value |
-|---|---|
-| Template | [text-correction.yml](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/.github/ISSUE_TEMPLATE/text-correction.yml) |
-| Effort per item | **micro** |
-| Historical closed | 46 |
-| Open | [#192](https://github.com/sanskrit-lexicon/MWS/issues/192), [#183](https://github.com/sanskrit-lexicon/MWS/issues/183) |
-| Workflow | [Multi-step temp_mw_N.txt](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/CONTRIBUTING.md#correction-workflow-per-issue) |
-
-**Backlog beyond open issues:** the markup-fix audit catalogue (mwissues/markup_fix/markup_audit.txt) has dozens more candidates already documented. Pull from the audit file for steady work.
-
-### 2. Markup refinement — tag content / structure
-
-| Field | Value |
-|---|---|
-| Template | [markup.yml](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/.github/ISSUE_TEMPLATE/markup.yml) |
-| Effort per item | **small** (one tag-class at a time) |
-| Historical closed | 44 |
-| Open | [#194](https://github.com/sanskrit-lexicon/MWS/issues/194), [#181](https://github.com/sanskrit-lexicon/MWS/issues/181), [#178](https://github.com/sanskrit-lexicon/MWS/issues/178), [#172](https://github.com/sanskrit-lexicon/MWS/issues/172), [#168](https://github.com/sanskrit-lexicon/MWS/issues/168), [#162](https://github.com/sanskrit-lexicon/MWS/issues/162), [#147](https://github.com/sanskrit-lexicon/MWS/issues/147), [#73](https://github.com/sanskrit-lexicon/MWS/issues/73) |
-
-**Sub-categories:**
-| Sub-category | Open issues | Notes |
+| Tier | Use for | Concrete MWS examples |
 |---|---|---|
-| Alternate-form tagging | [#178 (AB3)](https://github.com/sanskrit-lexicon/MWS/issues/178), [#147 (new markup)](https://github.com/sanskrit-lexicon/MWS/issues/147), [#73 (display variant 2)](https://github.com/sanskrit-lexicon/MWS/issues/73) | Probably a single coordinated proposal |
-| Titular abbreviation | [#172](https://github.com/sanskrit-lexicon/MWS/issues/172) | Distinguish title-citations from textual citations |
-| `<ab n="…">` / `<ls>` side-effects | [#162](https://github.com/sanskrit-lexicon/MWS/issues/162) | Tooling issue — affects display |
-| Grassmanizing / Vedic | [#181](https://github.com/sanskrit-lexicon/MWS/issues/181) | Cross-reference with [GRA](https://github.com/sanskrit-lexicon/GRA); link to [Vedic accent coverage section](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/ENTRY_GUIDE.md#vedic-accent-coverage) |
-| Tag inventory | [#168](https://github.com/sanskrit-lexicon/MWS/issues/168) | Now partially answered by [DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/DATA_DICTIONARY.md) and [ENTRY_GUIDE common tags](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/ENTRY_GUIDE.md#common-tags) — can be closed or rescoped |
-| Minor mw.txt oddities | [#194](https://github.com/sanskrit-lexicon/MWS/issues/194) | Catch-all bucket |
+| **Fable / Opus (judgment)** | Monthly planning review; scholarly adjudication; markup-policy decisions; paper prose and peer-review responses; designing batch specs and acceptance criteria | Alternate-form markup decision ([#178](https://github.com/sanskrit-lexicon/MWS/issues/178)/[#147](https://github.com/sanskrit-lexicon/MWS/issues/147)/[#73](https://github.com/sanskrit-lexicon/MWS/issues/73)); P1 gold-sample disagreement adjudication; choosing the top-orphan authority editions; Salt API contract questions |
+| **Sonnet (skilled execution)** | Authority-record drafting from a spec; correction batches with the temp_mw_N workflow; analysis scripts; issue triage | One authority record per session from the orphan queue; running and interpreting `xmlchk` validation |
+| **Haiku (mechanical)** | Lint passes, link checks, table regeneration, label hygiene, doc refresh sweeps | `/cologne-haiku-refresh`-style passes; regenerating coverage stats after each authority batch |
 
-### 3. Encoding / transcoding
+Session discipline:
 
-| Field | Value |
-|---|---|
-| Template | [encoding.yml](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/.github/ISSUE_TEMPLATE/encoding.yml) |
-| Effort per item | **small** |
-| Historical closed | 8 |
-| Open | [#155](https://github.com/sanskrit-lexicon/MWS/issues/155) (IAST → ISO 15919 migration?), [#90](https://github.com/sanskrit-lexicon/MWS/issues/90) (transcoding versions doc) |
+- One Fable planning/review session per month (first week), working from this
+  file and `.ai_state.md`; it re-prioritizes, adjudicates queued questions, and
+  writes the next month's batch specs.
+- Never use a frontier session to *execute* a spec it could have delegated —
+  if the work is "apply known rules to N items", it belongs a tier down.
+- Every session, any tier, updates `.ai_state.md` before ending (org protocol).
 
-[#155](https://github.com/sanskrit-lexicon/MWS/issues/155) is large if accepted — affects every Sanskrit display. Probably a decision-issue, not a code-issue. [#90](https://github.com/sanskrit-lexicon/MWS/issues/90) is a docs item now partly addressed by the docs-pass branch.
+---
 
-### 4. Link target — scan URLs for `<ls>` citations
+## Workstream W1 — Authority records: 589 orphan `<ls>` abbreviations
 
-| Field | Value |
-|---|---|
-| Template | [link-target.yml](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/.github/ISSUE_TEMPLATE/link-target.yml) |
-| Effort per item | **small–medium** (locate scan, verify pagination) |
-| Historical closed | 7 |
-| Open | [#187 (Mālavikāgnimitra)](https://github.com/sanskrit-lexicon/MWS/issues/187), [#185 (Pañcatantra)](https://github.com/sanskrit-lexicon/MWS/issues/185), [#186 (Śākuntala)](https://github.com/sanskrit-lexicon/MWS/issues/186), [#129 (RV ib. viii, 103, 10)](https://github.com/sanskrit-lexicon/MWS/issues/129) |
+**Goal:** lift citation coverage from 64% to ≥85% by completing authority
+records for the most-cited orphan abbreviations. Highest-leverage work in the
+repo: each record unlocks scan click-through for thousands of citations.
 
-**Strategic gap (NEW from docs-pass analysis):** 589 of 821 unique `<ls>` abbreviations have **no authority record at all**. The [top orphans by citation count](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/ENTRY_GUIDE.md#top-orphan-abbreviations) — Pāṇ. (8,527), ŚBr. (7,029), Kathās. (6,757), Suśr. (6,200), Kāv. (4,667), VarBṛS. (3,467), Rājat. (3,410), Pañcat. (2,670), Ragh. (2,654), KātyŚr. (2,537), Yājñ. (2,249) — would, if completed, jump authority coverage from 64.0% to ~85% of citations.
+**Top orphans by citation count:** Pāṇ. (8,527), ŚBr. (7,029), Kathās. (6,757),
+Suśr. (6,200), Kāv. (4,667), VarBṛS. (3,467), Rājat. (3,410), Pañcat. (2,670),
+Ragh. (2,654), KātyŚr. (2,537), Yājñ. (2,249). Top-25 covers ~80% of orphan citations.
 
-This is **the highest-leverage open work** because each new authority record unlocks scan-link click-through for thousands of citations at once.
+**Unit of work** (Sonnet-tier, one per session, fully resumable):
+1. Pick next abbreviation from the queue.
+2. Identify the edition MW actually cited (frontier question only when ambiguous — MW's "Sources of the work" preface and [mwauthorities/](https://github.com/sanskrit-lexicon/MWS/tree/master/mwauthorities) precedents first).
+3. Locate a scan (archive.org), verify pagination against 3–5 sample citations.
+4. Add the record following the existing [mwauthorities](https://github.com/sanskrit-lexicon/MWS/tree/master/mwauthorities) format; document in an issue.
 
-### 5. Scholarly question — needs research
+**Frontier-tier items inside W1:**
+- Pāṇ. is special: grammar-sūtra citations, not page citations — needs a linking-scheme decision (sūtra-number → scan page map), same family as the 2021 [Panini link-target work](https://github.com/sanskrit-lexicon/MWS/tree/master/mwauthorities/ls/20211005-panini).
+- Open the proposed `authority-record.yml` issue template and one tracking issue per top-10 orphan.
 
-| Field | Value |
-|---|---|
-| Template | [question.yml](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/.github/ISSUE_TEMPLATE/question.yml) |
-| Effort per item | **variable** (research-heavy) |
-| Historical closed | 17 |
-| Open | [#189 (Mn. links oddity)](https://github.com/sanskrit-lexicon/MWS/issues/189), [#179 (RV. viii, 85, 3 author identity)](https://github.com/sanskrit-lexicon/MWS/issues/179), [#45 (cf. accord. to some)](https://github.com/sanskrit-lexicon/MWS/issues/45) |
+**Targets:** 5 records/month → top-25 done by November (≈80% → coverage ~85%).
 
-### 6. Bug fix
+## Workstream W2 — P1 paper: MW block economy → IJL (Q3 2026)
 
-| Field | Value |
-|---|---|
-| Template | [bug.yml](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/.github/ISSUE_TEMPLATE/bug.yml) |
-| Effort per item | **small** |
-| Historical closed | 17 |
-| Open | [#86 (&c. abbreviation)](https://github.com/sanskrit-lexicon/MWS/issues/86), [#61 (PDF page in Firefox)](https://github.com/sanskrit-lexicon/MWS/issues/61) |
+**Goal:** submit *"The block economy of Monier-Williams"* to the International
+Journal of Lexicography, per the publication roadmap (P1, feeds monograph Ch. 3).
 
-### 7. Content enhancement — new tagging, navigation, display
+State: paper consolidated on the [docs-pass branch](https://github.com/sanskrit-lexicon/MWS/tree/docs-pass/papers/microanalysis)
+(PAPER.md, doubts D1–D22 closed, RU version, IJL cover letter drafted).
 
-| Field | Value |
-|---|---|
-| Template | enhancement label + content-enhancement label (no dedicated template) |
-| Effort per item | **medium–large** |
-| Historical closed | 14 |
-| Open | [#180](https://github.com/sanskrit-lexicon/MWS/issues/180), [#170](https://github.com/sanskrit-lexicon/MWS/issues/170), [#163](https://github.com/sanskrit-lexicon/MWS/issues/163), [#154](https://github.com/sanskrit-lexicon/MWS/issues/154), [#108](https://github.com/sanskrit-lexicon/MWS/issues/108), [#98](https://github.com/sanskrit-lexicon/MWS/issues/98), [#76](https://github.com/sanskrit-lexicon/MWS/issues/76), [#75](https://github.com/sanskrit-lexicon/MWS/issues/75), [#74](https://github.com/sanskrit-lexicon/MWS/issues/74), [#64](https://github.com/sanskrit-lexicon/MWS/issues/64), [#37](https://github.com/sanskrit-lexicon/MWS/issues/37), [#24](https://github.com/sanskrit-lexicon/MWS/issues/24) |
+**Remaining steps:**
+1. **G5 gold sample (blocker):** 200-entry MW sample, double-annotated for block
+   types; compute precision/recall per block (F01–F18) against the automated
+   detectors in [analysis/](https://github.com/sanskrit-lexicon/MWS/tree/docs-pass/papers/microanalysis/analysis).
+   Annotation passes = Sonnet ×2 independent; disagreement adjudication = Fable.
+2. Fold gold-sample numbers into PAPER.md §limitations; re-run `check_docs.py` consistency suite.
+3. Merge or finalize docs-pass ([#195](https://github.com/sanskrit-lexicon/MWS/issues/195)) so cited URLs are stable.
+4. Final hostile-review pass (Fable, one session), then format to IJL house style and submit.
 
-**Sub-categories:**
+**Target:** submission by end of August 2026.
 
-| Sub-category | Open issues | Effort | Notes |
+## Workstream W3 — Salt API MW pilot (csl-apidev Phases 1–2)
+
+**Goal:** MW live behind C-SALT-compatible REST + GraphQL endpoints, proving
+the pipeline before any scale-out decision (Phase 3 gate).
+
+State: docs complete in [csl-apidev/doc/](https://github.com/sanskrit-lexicon/csl-apidev/tree/master/doc)
+(salt_entries, salt_ids, salt_graphql, cleanurl); Phase 1 skeleton tracked in
+[csl-apidev#46](https://github.com/sanskrit-lexicon/csl-apidev/pull/46); normative profile in
+[csl-standards#2](https://github.com/sanskrit-lexicon/csl-standards/issues/2);
+simple-search v1.2 handoff in [csl-apidev#47](https://github.com/sanskrit-lexicon/csl-apidev/issues/47).
+
+**Remaining steps:**
+1. Land Phase 1 (`salt_entries.php` + `salt_ids.php`, PHP-native search, MW only) — Sonnet implementation, Fable only for contract questions.
+2. Parity check against live C-SALT MW responses (scripted; report diffs as a table to the loss report).
+3. Phase 2 GraphQL (`webonyx/graphql-php`, type `mw`).
+4. Clean-URL `/MW/{ref}` content negotiation, dict-code whitelist.
+5. Write the Phase 3 decision memo (expand to 7 C-SALT dicts vs all ~40) into [DECISIONS_NEEDED.md](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/docs/DECISIONS_NEEDED.md) — Jim's call.
+
+Note: deployment depends on the Cologne server (Jim); local work stops at
+tested PR + parity report. Event-driven, not polled.
+
+## Workstream W4 — MW as template for the other dictionaries
+
+**Goal:** convert what the atlas analyses proved about MW's markup into
+concrete, reusable upgrades for the markup-poor dictionaries — and fix MW's own
+documented weaknesses while doing so (they define the template's limits).
+
+Four tracks, in leverage order:
+
+1. **Siglum alias consolidation (cross-dict, cheap, big).** The org-wide `<ls>`
+   apparatus has 13,021 raw sigla folding to 9,180, with ~265 prefix-clustered
+   families awaiting alias review
+   ([dict-source-aliases.json](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/src/data/dicts/dict-source-aliases.json),
+   `scripts/obs/siglum_families.py`). Haiku generates candidates; Fable reviews
+   merges in monthly batches of ~50. Also clears the 449 "unknown" MW
+   source-layer sigla in [mw-source-layers.json](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/src/data/mw-source-layers.json).
+2. **`<lex>` grammar-tag retrofits.** Only 5 dicts (MW, AP, PWG, PWK, WIL) are
+   grammar-reliable. MW's `<lex>`/`<info lex>` model is the template; pilot a
+   retrofit on one tag-bearing-but-unreliable dictionary (candidate from atlas
+   coverage matrix), MW-style `<info>` packets emitted by rule, sampled by Fable.
+3. **Register B — indigenous citation infrastructure for SKD/VCP.** MW's `<ls>`
+   Register A *cannot* be forced onto SKD/VCP (zero `<ls>` by design; citations
+   live in prose `iti` quotatives — 69,215 in SKD). Build the M4-style
+   indigenous normalizer the atlas proposes
+   ([CITATION_REGISTERS.md](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/docs/CITATION_REGISTERS.md))
+   instead. This also feeds papers P3/P4.
+4. **Sense `<div>` policy for MW itself.** MW's own worst structural gap is
+   prose-embedded senses (no `<div>` markers; excluded from cross-dict
+   sense-depth analysis). A retrofit is large and print-fidelity-sensitive —
+   in H2 2026, only produce the *decision document* (options, cost, risk) for
+   maintainer review; no mass edit.
+
+---
+
+## Monthly cadence (2026 Jun–Nov)
+
+Each month: 1 Fable planning session, ~4 Sonnet execution sessions, Haiku sweeps as needed.
+
+| Month | W1 authority | W2 paper | W3 Salt API | W4 template |
+|---|---|---|---|---|
+| **Jun** | Template + tracking issues; first 2 records (ŚBr., Kathās.) | G5 gold-sample spec + first annotation pass | Land Phase 1 PR locally; parity script | Siglum alias batch 1 (50) |
+| **Jul** | 5 records (Suśr., Kāv., VarBṛS., Rājat., Pañcat.) | Second annotation pass; adjudication; fold into paper | Parity report; Phase 2 GraphQL start | Alias batch 2; MW unknown source-layers triage |
+| **Aug** | 5 records (Ragh., KātyŚr., Yājñ. + 2); Pāṇ. scheme decision | Hostile review; IJL formatting; **submit** | GraphQL done; clean-URL routing | Alias batch 3; pick `<lex>` retrofit pilot dict |
+| **Sep** | 5 records | (referee wait) | Phase 3 decision memo → DECISIONS_NEEDED | `<lex>` retrofit pilot run + sample review |
+| **Oct** | 5 records | Revisions if back | Support Jim deployment as needed | Register B `iti` extractor prototype (SKD) |
+| **Nov** | Top-25 complete; coverage re-measured | — | — | MW sense-`<div>` decision document |
+
+Standing low-tier queue (fill idle capacity, any month): quick-win issues
+[#192](https://github.com/sanskrit-lexicon/MWS/issues/192),
+[#183](https://github.com/sanskrit-lexicon/MWS/issues/183),
+[#86](https://github.com/sanskrit-lexicon/MWS/issues/86); close
+[#168](https://github.com/sanskrit-lexicon/MWS/issues/168) and
+[#90](https://github.com/sanskrit-lexicon/MWS/issues/90) as superseded by
+[DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/DATA_DICTIONARY.md) /
+[ENTRY_GUIDE.md](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/ENTRY_GUIDE.md);
+link-targets [#185](https://github.com/sanskrit-lexicon/MWS/issues/185),
+[#186](https://github.com/sanskrit-lexicon/MWS/issues/186),
+[#187](https://github.com/sanskrit-lexicon/MWS/issues/187) fold into W1's queue.
+
+---
+
+## MW markup — known-weaknesses register
+
+Documented by the atlas/microanalysis work; listed here because each one
+bounds what W4 may copy into other dictionaries.
+
+| # | Weakness | Evidence | Consequence |
 |---|---|---|---|
-| Inflection & morphology | [#76 (kāraka dependency)](https://github.com/sanskrit-lexicon/MWS/issues/76), [#75 (verbs01)](https://github.com/sanskrit-lexicon/MWS/issues/75) | **large** | Multi-month projects; depends on [csl-inflect](https://github.com/sanskrit-lexicon/csl-inflect) |
-| Cross-entry navigation | [#64 (cross-entry links)](https://github.com/sanskrit-lexicon/MWS/issues/64), [#98 (resolving idems)](https://github.com/sanskrit-lexicon/MWS/issues/98) | **medium** | "Resolve `id.` to the preceding sense" — would close 4,401 `id.` instances |
-| Display improvements | [#170 (web font for IAST)](https://github.com/sanskrit-lexicon/MWS/issues/170), [#108 (genders in bold)](https://github.com/sanskrit-lexicon/MWS/issues/108), [#37 (UI)](https://github.com/sanskrit-lexicon/MWS/issues/37), [#180 (vertical scrolls)](https://github.com/sanskrit-lexicon/MWS/issues/180) | **medium** | Most are CDSL-wide; coordinate with [csl-app](https://github.com/sanskrit-lexicon/csl-app) |
-| Headword expansion | [#154 (feminine of masculine)](https://github.com/sanskrit-lexicon/MWS/issues/154), [#163 (grouped entries like GRA)](https://github.com/sanskrit-lexicon/MWS/issues/163) | **medium** | Mirrors [GRA](https://github.com/sanskrit-lexicon/GRA) headword-grouping pattern |
-| Source-data exports | [#74 (bot listing)](https://github.com/sanskrit-lexicon/MWS/issues/74), [#24 (proper names in SLP1)](https://github.com/sanskrit-lexicon/MWS/issues/24) | **medium** | The [8,923 `<bot>` tags](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/ENTRY_GUIDE.md#botanical--biographical-tag-stats) are ripe for export as a standalone botanical glossary |
-
-### 8. NEW — Authority record completion
-
-| Field | Value |
-|---|---|
-| Template | **proposed new: `authority-record.yml`** |
-| Effort per item | small (one record per work) |
-| Open | 0 (this is a *new* category — not yet ticketed) |
-| Scope | 589 orphan abbreviations; top-25 covers ~80% of citations |
-
-See section 4 above for the top-orphan list. Each record fills the three [`linkmwauthorities_init.txt`](https://github.com/sanskrit-lexicon/MWS/blob/master/mwauthorities/linkmwauthorities_init.txt) columns (in-text abbreviation · occurrence count · authority abbreviation) and ideally adds a scan URL.
-
-**Recommended:** open one issue per top-orphan, each with a `link-target` + new `authority-record` label.
-
-### 9. NEW — Vedic accent expansion
-
-| Field | Value |
-|---|---|
-| Effort | **large** — page-by-page proof-checking |
-| Current coverage | [16.6% of `<k2>` fields](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/ENTRY_GUIDE.md#vedic-accent-coverage) (47,598 of 286,561) |
-| Open | none directly, but [#181 Grassmanizing](https://github.com/sanskrit-lexicon/MWS/issues/181) is adjacent |
-
-Many more accents are visible in the 1899 print (verifiable against [archive.org facsimile](https://archive.org/details/sanskritenglish00moniuoft)) but not transcribed. Compare against [Grassmann's RV-Wörterbuch (GRA)](https://github.com/sanskrit-lexicon/GRA) for Vedic-specific entries.
-
-### 10. NEW — `<ls>L.</ls>` verification — crowd candidate
-
-| Field | Value |
-|---|---|
-| Effort | **xl** — text-by-text verification |
-| Scope | [40,213 lexicographer-only citations (12.9%)](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/DICT_PROFILE.md#citation-markers--not-all-are-literary-works) |
-| Crowd potential | high (each citation is independent; small unit of work) |
-| Open | none directly, but [#74 (bot listing crowd)](https://github.com/sanskrit-lexicon/MWS/issues/74) labels with `crowd` |
-
-Each `<ls>L.</ls>` entry could in principle be checked against (a) [BHS](https://github.com/sanskrit-lexicon/BHS) for Buddhist Hybrid Sanskrit attestations MW didn't have, (b) recent corpora (DCS, GRETIL) for any textual attestation, (c) other indigenous lexicons. Verified citations get upgraded to a real `<ls>` source.
+| 1 | **No structural sense markers** — senses live in prose, no `<div>` | Excluded from atlas [sense-depth.json](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/src/data/dicts/sense-depth.json) (AP/PWG/PWK only) | Cross-dict sense alignment requires bespoke parsing (R2 rebuild); blocks P2-style analyses for MW |
+| 2 | **40.2% of `<ls>` citations are bare** — no book/chapter/verse locator | [CITATION_REGISTERS.md](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/docs/CITATION_REGISTERS.md): 59.8% resolvability | ~125k MW citations cannot link to a scan page even with a perfect authority record |
+| 3 | **Siglum chaos** — case/diacritic variants, ~265 prefix families | 13,021 raw → 9,180 folded sigla org-wide | Inflates the orphan count; W4 track 1 attacks this |
+| 4 | **Shallow microstructure by design** — derivatives/preverbs promoted to headwords | M1 density 0.48 vs PWK 3.77, PWG 2.35; M2 = 0 | MW is the wrong template for subentry-rich targets; use PWG/PWK there |
+| 5 | **Homonym splitting partly discretionary** | 64–65% split concordance with PWG/PW | Homonym numbering can't be mechanically reconciled cross-dict |
+| 6 | **Accent confined to `<k2>`** and only 16.6% covered | ENTRY_GUIDE accent stats | Lemma normalization loses accent; Vedic work needs GRA cross-check |
+| 7 | **No DTD/schema** — tag soup validated only by the build pipeline | no schema file in repo | Every consumer re-implements parsing; argues for the csl-standards interop layer, not for copying tags verbatim |
+| 8 | **`<ls>L.</ls>` hedge is untyped** | 40,213 instances; no MDF slot ([MDF_EXPORT_MAPPING.md](https://github.com/sanskrit-lexicon/csl-standards/blob/main/docs/MDF_EXPORT_MAPPING.md)) | Unique evidential innovation, but lossy in every export; needs explicit evidence-class in the interop model |
 
 ---
 
 ## Cross-repo dependencies
 
-| Repo | Why it affects MWS roadmap |
+| Repo | Role in this roadmap |
 |---|---|
-| [csl-orig](https://github.com/sanskrit-lexicon/csl-orig) | Canonical [mw.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) lives here — all text corrections eventually commit here |
-| [csl-pywork](https://github.com/sanskrit-lexicon/csl-pywork) | Build pipeline ([sqlite.py](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/makotemplates/pywork/sqlite/sqlite.py), [generate_dict.sh](https://github.com/sanskrit-lexicon/csl-pywork)) — schema/output changes affect MW |
-| [csl-app](https://github.com/sanskrit-lexicon/csl-app) | Web display — UI improvements ([#37](https://github.com/sanskrit-lexicon/MWS/issues/37), [#170](https://github.com/sanskrit-lexicon/MWS/issues/170)) land here |
-| [csl-sqlite](https://github.com/sanskrit-lexicon/csl-sqlite) | Distribution — release cadence matters for downstream users |
-| [csl-inflect](https://github.com/sanskrit-lexicon/csl-inflect) | Inflection tables — [#75](https://github.com/sanskrit-lexicon/MWS/issues/75), [#76](https://github.com/sanskrit-lexicon/MWS/issues/76) depend on this |
-| [csl-homepage](https://github.com/sanskrit-lexicon/csl-homepage) | Where the [docs hub](https://github.com/sanskrit-lexicon/csl-homepage) for org-wide docs lives |
-| [mwauthorities/](https://github.com/sanskrit-lexicon/MWS/tree/master/mwauthorities) | Subdirectory of this repo — work in section 8 lands here |
+| [csl-orig](https://github.com/sanskrit-lexicon/csl-orig) | Canonical mw.txt — all text corrections land here (validated, then committed) |
+| [csl-pywork](https://github.com/sanskrit-lexicon/csl-pywork) | Build + validation (`generate_dict.sh`, `xmlchk_xampp.sh`); server-side `redo_xampp_selective.sh` refresh is Jim-triggered |
+| [csl-atlas](https://github.com/sanskrit-lexicon/csl-atlas) | M1–M8 evidence base for W4; siglum tooling; learner's-layer landing site |
+| [csl-standards](https://github.com/sanskrit-lexicon/csl-standards) | Salt API profile, interop model, MDF mapping — W3/W4 normative home |
+| [csl-apidev](https://github.com/sanskrit-lexicon/csl-apidev) | W3 implementation |
+| [csl-corrections](https://github.com/sanskrit-lexicon/csl-corrections) | Audit trail for every mw.txt change |
+| [csl-observatory](https://github.com/sanskrit-lexicon/csl-observatory) | DECISIONS_NEEDED.md — where maintainer-blocking decisions are parked |
+| [mwauthorities/](https://github.com/sanskrit-lexicon/MWS/tree/master/mwauthorities) | W1 lands here |
 
 ---
 
-## Quarterly view (suggested cadence at ~1 issue/month)
+## Deferred / long-running (unchanged from previous roadmap)
 
-### Q1 (next 3 months — 2026 Jun–Aug)
-
-**Focus: close the docs-pass review and tackle high-leverage authority records.**
-
-- [ ] Review and merge docs-pass branch ([#195](https://github.com/sanskrit-lexicon/MWS/issues/195))
-- [ ] Add 2–3 top-orphan authority records (Pāṇ., ŚBr., Kathās.) — each unlocks ~7K+ citations
-- [ ] Close [#168 (tag inventory)](https://github.com/sanskrit-lexicon/MWS/issues/168) — superseded by [DATA_DICTIONARY](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/DATA_DICTIONARY.md)
-- [ ] Close [#90 (transcoding versions doc)](https://github.com/sanskrit-lexicon/MWS/issues/90) — superseded by [ENTRY_GUIDE Encoding section](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/ENTRY_GUIDE.md#encoding)
-- [ ] Address [#192](https://github.com/sanskrit-lexicon/MWS/issues/192) and [#183](https://github.com/sanskrit-lexicon/MWS/issues/183) (text corrections — quick wins)
-- [ ] Address [#86 (&c. abbreviation bug)](https://github.com/sanskrit-lexicon/MWS/issues/86) (single-abbreviation fix)
-
-### Q2 (2026 Sep–Nov)
-
-**Focus: markup refinement consolidation.**
-
-- [ ] Resolve markup cluster: [#178](https://github.com/sanskrit-lexicon/MWS/issues/178), [#147](https://github.com/sanskrit-lexicon/MWS/issues/147), [#73](https://github.com/sanskrit-lexicon/MWS/issues/73) (alternate-form proposal) — single coordinated decision
-- [ ] [#172 (titular abbreviation)](https://github.com/sanskrit-lexicon/MWS/issues/172) — decision + apply
-- [ ] [#194 (minor mw.txt oddities)](https://github.com/sanskrit-lexicon/MWS/issues/194) — sweep the catalogue
-- [ ] Add 3 more authority records (Suśr., Kāv., VarBṛS.)
-- [ ] Add link-targets: [#185](https://github.com/sanskrit-lexicon/MWS/issues/185), [#186](https://github.com/sanskrit-lexicon/MWS/issues/186), [#187](https://github.com/sanskrit-lexicon/MWS/issues/187)
-
-### Q3 (2026 Dec – 2027 Feb)
-
-**Focus: scholarly questions + Grassmanizing.**
-
-- [ ] [#189 (Mn. links oddity)](https://github.com/sanskrit-lexicon/MWS/issues/189)
-- [ ] [#179 (RV. viii, 85, 3 author)](https://github.com/sanskrit-lexicon/MWS/issues/179)
-- [ ] [#45 (cf. accord. to some)](https://github.com/sanskrit-lexicon/MWS/issues/45)
-- [ ] [#181 (Grassmanizing)](https://github.com/sanskrit-lexicon/MWS/issues/181) — coordinate with [GRA](https://github.com/sanskrit-lexicon/GRA)
-- [ ] Add 3 more authority records (Rājat., Pañcat., Ragh.)
-- [ ] [#129](https://github.com/sanskrit-lexicon/MWS/issues/129) link-target
-
-### Long-running (multi-quarter)
-
-- [ ] **#98 (resolve `id.` to preceding sense)** — would close 4,401 unresolved cross-references; needs algorithmic approach
-- [ ] **#64 (cross-entry links in MW)** — needs algorithm + display work in [csl-app](https://github.com/sanskrit-lexicon/csl-app)
-- [ ] **#76 (kāraka dependency)** — research project; depends on [csl-inflect](https://github.com/sanskrit-lexicon/csl-inflect)
-- [ ] **#75 (verbs01)** — verbal-form expansion; large
-- [ ] **#163 (grouped entries like GRA)** — restructure
-- [ ] **#108, #170, #37, #180 (display improvements)** — bundle into a single UX pass in [csl-app](https://github.com/sanskrit-lexicon/csl-app)
-- [ ] **#74 (botanical listing)** — crowd-friendly; 8,923 `<bot>` tags ready for extraction
-- [ ] **#24 (proper names in SLP1)** — affects all `<s1>` and `<bio>` tags
-- [ ] **#154 (feminine of masculine)** — headword expansion
-
-### Strategic / undated
-
-- [ ] **Authority record completion** — top-25 covers ~80% of citations (sections 4, 8)
-- [ ] **Vedic accent expansion** beyond 16.6% (section 9)
-- [ ] **`<ls>L.</ls>` verification** at 40,213 citations (section 10)
-- [ ] **[#155 IAST → ISO 15919 migration](https://github.com/sanskrit-lexicon/MWS/issues/155)** — large, decision-blocked
+[#98](https://github.com/sanskrit-lexicon/MWS/issues/98) (resolve `id.`, 4,401 instances),
+[#64](https://github.com/sanskrit-lexicon/MWS/issues/64) (cross-entry links),
+[#76](https://github.com/sanskrit-lexicon/MWS/issues/76)/[#75](https://github.com/sanskrit-lexicon/MWS/issues/75) (inflection, needs csl-inflect),
+[#163](https://github.com/sanskrit-lexicon/MWS/issues/163) (GRA-style grouping),
+display bundle [#37](https://github.com/sanskrit-lexicon/MWS/issues/37)/[#108](https://github.com/sanskrit-lexicon/MWS/issues/108)/[#170](https://github.com/sanskrit-lexicon/MWS/issues/170)/[#180](https://github.com/sanskrit-lexicon/MWS/issues/180),
+[#74](https://github.com/sanskrit-lexicon/MWS/issues/74) (botanical export, crowd),
+[#24](https://github.com/sanskrit-lexicon/MWS/issues/24), [#154](https://github.com/sanskrit-lexicon/MWS/issues/154),
+[#155](https://github.com/sanskrit-lexicon/MWS/issues/155) (IAST→ISO 15919, decision-blocked),
+Vedic accent expansion beyond 16.6%, `<ls>L.</ls>` verification (40,213 citations, crowd/corpus-assisted — natural successor to W1 once authority records exist).
 
 ---
 
-## Issue → roadmap map (complete)
+## Maintenance
 
-| Issue | Title (truncated) | Category | Effort | Quarter |
-|---|---|---|---|---|
-| [#195](https://github.com/sanskrit-lexicon/MWS/issues/195) | docs-pass | Documentation | small | Q1 |
-| [#194](https://github.com/sanskrit-lexicon/MWS/issues/194) | Minor mw.txt markup oddities | Markup | small | Q2 |
-| [#192](https://github.com/sanskrit-lexicon/MWS/issues/192) | kararudh / karagṛhīti correction | Text correction | micro | Q1 |
-| [#189](https://github.com/sanskrit-lexicon/MWS/issues/189) | Mn. links oddity | Question | medium | Q3 |
-| [#187](https://github.com/sanskrit-lexicon/MWS/issues/187) | Mālavikāgnimitra link target | Link target | small | Q2 |
-| [#186](https://github.com/sanskrit-lexicon/MWS/issues/186) | Śākuntala link target | Link target | small | Q2 |
-| [#185](https://github.com/sanskrit-lexicon/MWS/issues/185) | Pañcatantra link target | Link target | small | Q2 |
-| [#183](https://github.com/sanskrit-lexicon/MWS/issues/183) | tādṛśī / tādṛśa f. headword | Text correction | micro | Q1 |
-| [#181](https://github.com/sanskrit-lexicon/MWS/issues/181) | Grassmanizing | Markup (Vedic) | medium | Q3 |
-| [#180](https://github.com/sanskrit-lexicon/MWS/issues/180) | Eliminate vertical scrolls | Content (display) | medium | Long |
-| [#179](https://github.com/sanskrit-lexicon/MWS/issues/179) | RV. viii, 85, 3 poet | Question | medium | Q3 |
-| [#178](https://github.com/sanskrit-lexicon/MWS/issues/178) | AB3 alternate form | Markup (alt-form) | small | Q2 |
-| [#172](https://github.com/sanskrit-lexicon/MWS/issues/172) | Titular abbreviations | Markup | small | Q2 |
-| [#170](https://github.com/sanskrit-lexicon/MWS/issues/170) | Web font for IAST | Content (display) | medium | Long |
-| [#168](https://github.com/sanskrit-lexicon/MWS/issues/168) | Tag inventory | Markup (docs) | micro | Q1 (close) |
-| [#163](https://github.com/sanskrit-lexicon/MWS/issues/163) | Grouped entries like GRA | Content (headword) | large | Long |
-| [#162](https://github.com/sanskrit-lexicon/MWS/issues/162) | `<ab n=>`/`<ls>` side-effects | Markup (tooling) | medium | Q2 |
-| [#155](https://github.com/sanskrit-lexicon/MWS/issues/155) | IAST → ISO 15919 | Encoding | large | Strategic |
-| [#154](https://github.com/sanskrit-lexicon/MWS/issues/154) | siṃhī for siṃha | Content (headword) | medium | Long |
-| [#147](https://github.com/sanskrit-lexicon/MWS/issues/147) | New markup for alternates | Markup (alt-form) | small | Q2 |
-| [#129](https://github.com/sanskrit-lexicon/MWS/issues/129) | Missing link ib. viii, 103, 10 | Link target | small | Q3 |
-| [#108](https://github.com/sanskrit-lexicon/MWS/issues/108) | Genders in bold | Content (display) | medium | Long |
-| [#98](https://github.com/sanskrit-lexicon/MWS/issues/98) | Resolving idems | Content (xref) | large | Long |
-| [#90](https://github.com/sanskrit-lexicon/MWS/issues/90) | Transcoding versions | Documentation | micro | Q1 (close) |
-| [#86](https://github.com/sanskrit-lexicon/MWS/issues/86) | &c. abbreviation | Bug | small | Q1 |
-| [#76](https://github.com/sanskrit-lexicon/MWS/issues/76) | kāraka dependency | Content (inflect) | large | Long |
-| [#75](https://github.com/sanskrit-lexicon/MWS/issues/75) | verbs01 | Content (inflect) | large | Long |
-| [#74](https://github.com/sanskrit-lexicon/MWS/issues/74) | bot listing | Content (export) | medium | Long (crowd) |
-| [#73](https://github.com/sanskrit-lexicon/MWS/issues/73) | MW display variant pt 2 | Markup (alt-form) | small | Q2 |
-| [#64](https://github.com/sanskrit-lexicon/MWS/issues/64) | Cross-entry links | Content (xref) | large | Long |
-| [#61](https://github.com/sanskrit-lexicon/MWS/issues/61) | PDF page in Firefox | Bug | small | Q2 |
-| [#45](https://github.com/sanskrit-lexicon/MWS/issues/45) | cf. accord. to some | Question | medium | Q3 |
-| [#37](https://github.com/sanskrit-lexicon/MWS/issues/37) | UI improvements | Content (display) | medium | Long |
-| [#24](https://github.com/sanskrit-lexicon/MWS/issues/24) | Proper names in SLP1 | Content (display) | medium | Long |
-
----
-
-## Possible new issue templates
-
-Based on the categories that recur in the open backlog but lack a dedicated template:
-
-| Proposed template | Replaces what's currently labelled… | Why |
-|---|---|---|
-| `content-enhancement.yml` | `enhancement` + `content-enhancement` (mixed) | 12 open + 14 historical: needs a structured form (scope, affected entries, display vs data, crowd-friendly y/n) |
-| `authority-record.yml` | (no current label) | High-leverage work surfaced by docs-pass; 589 orphan abbreviations |
-| `inflection.yml` | `enhancement` (#75, #76) | Distinct from general content; depends on [csl-inflect](https://github.com/sanskrit-lexicon/csl-inflect) |
-
----
-
-## How this roadmap is maintained
-
-- **Updated:** after every wave of issue closures or new strategic finding.
-- **Source of truth for status:** GitHub issues themselves (this doc *summarizes*).
-- **Effort estimates:** intentionally coarse — they're for planning, not commitments.
-- **Velocity assumption:** ≤ 1 issue/month sustained; bursts when a maintainer is active.
-- **Owners:** @funderburkjim and @Andhrabharati are the primary maintainers; @gasyoun coordinates with related repos and the docs-pass project.
-
-Cross-link: this roadmap is part of the [org-wide docs-pass](https://github.com/sanskrit-lexicon/COLOGNE) and complements [DICT_PROFILE.md](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/DICT_PROFILE.md), [ENTRY_GUIDE.md](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/ENTRY_GUIDE.md), and [DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/DATA_DICTIONARY.md).
+- **Updated:** at each monthly Fable planning session and after any strategic finding.
+- **Source of truth for status:** GitHub issues; this doc sequences, it does not track.
+- **Owners:** @funderburkjim and @Andhrabharati (maintainers); @gasyoun (coordination, papers, cross-repo).
+- Companion docs: [DICT_PROFILE.md](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md),
+  [ENTRY_GUIDE.md](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md),
+  [DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/MWS/blob/master/DATA_DICTIONARY.md),
+  [CONTRIBUTING.md](https://github.com/sanskrit-lexicon/MWS/blob/master/CONTRIBUTING.md).
