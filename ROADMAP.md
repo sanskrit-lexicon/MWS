@@ -177,14 +177,16 @@ Four tracks, in leverage order:
    `<div>` retrofit but a small adapter that exposes record-grouped senses to the
    atlas sense-depth pipeline (which currently only reads `<div>`). Cheap; lands
    MW into the cross-dict sense comparison it was wrongly excluded from.
-5. **`<ls>L.</ls>` → corpus verification (STARTED 2026-06-13).** Pilot shipped in
-   [lexicographer_dcs/](https://github.com/sanskrit-lexicon/MWS/tree/master/lexicographer_dcs):
-   **5,723 of 18,930 (30.2%)** strict purely-lexicographic MW lemmas (no text
-   witness, MW knew them only from kośas) are attested in the DCS corpus — hedges
-   the modern corpus can retire. Strong tier = bands 2–3 (~2,232 plant/medical/
-   technical terms). Bridges P3 (citation registers) + the grammar-corpus-dict
-   crosswalk. Next: re-run on DCS-2026; spot-check band-3; sense-level for the
-   10,264 partially-hedged lemmas.
+5. **`<ls>L.</ls>` → corpus verification (DONE, both snapshots, 2026-06-13).**
+   Shipped in [lexicographer_dcs/](https://github.com/sanskrit-lexicon/MWS/tree/master/lexicographer_dcs):
+   of **18,930** strict purely-lexicographic MW lemmas (no text witness, known
+   only from kośas), **30.2% are attested in DCS-2021 and 31.4% in DCS-2026** —
+   stable across two independent corpus snapshots (so not a version artefact),
+   hedges the modern corpus can retire. Strong tier = bands 2–3 (~2,330
+   plant/medical/technical terms). IAST→SLP1 join validated (11/5,723 drift).
+   Bridges P3 (citation registers) + the grammar-corpus-dict crosswalk.
+   Next: hand-verify the ~180 band-3 lemmas into a P3-ready core; sense-level
+   for the 10,264 partially-hedged lemmas (needs sense-tagged corpus).
 
 ---
 

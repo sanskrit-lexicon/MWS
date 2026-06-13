@@ -24,26 +24,39 @@ Lemma-level join, no transcoding (MW `<k1>` and DCS lemmas are both SLP1):
 For a strict purely-lexicographic lemma, **any** corpus attestation is a clean
 refutation: MW cited no text, yet the word occurs.
 
-## Result (DCS-2021)
+## Result — stable across two corpus snapshots
 
-**5,723 of 18,930 (30.2%)** strict purely-lexicographic MW lemmas are attested in DCS.
-Strongest tier = bands 2–3 (rare/uncommon): ~2,232 lemmas, mostly plant/medical/
-technical terms now corpus-attested. See [SUMMARY.md](SUMMARY.md) for bands and caveats
+| Corpus | Attested | % of 18,930 | Strong tier (band ≥2) |
+|---|--:|--:|--:|
+| DCS-2021 (lemma summary, SLP1) | 5,723 | 30.2% | ~2,232 |
+| **DCS-2026** (full token corpus, 5.69M tokens) | **5,935** | **31.4%** | **2,330** |
+
+The headline barely moves (30.2% → 31.4%) across two **independent** DCS snapshots —
+so the finding is not a corpus-version artefact, which strengthens the P3 claim.
+Net +212 refutations from the corpus refresh (+223 gross, −11 lemmatization drift).
+The 2026 join transcodes DCS IAST → SLP1 (validated: only 11/5,723 of the 2021 hits
+drop out, all plain-ASCII so not a transcode failure).
+
+Strongest tier = bands 2–3 (rare/uncommon), mostly plant/medical/technical terms
+MW had only from kośas, now corpus-attested: `SAlaparRī` (Desmodium, 14×), `BfNgaja`
+(Agallochum, 10×), `AvAri` ("a shop", 18×), `ISAnī` (silk-cotton tree, 21×). See
+[SUMMARY.md](SUMMARY.md) / [SUMMARY_2026.md](SUMMARY_2026.md) for bands and caveats
 (band-1 hapax = weak; top-band short strings = homograph collisions).
 
 ## Files
 
 | File | What |
 |---|---|
-| [`ls_L_dcs_pilot.py`](ls_L_dcs_pilot.py) | the analysis (re-run: `python ls_L_dcs_pilot.py`) |
-| `purely_lexicographic_attested.csv` | retire-candidates: lemma, L-sense count, DCS band, gloss |
-| `purely_lexicographic_unattested.csv` | hedge stands (corpus-absent) |
-| [`SUMMARY.md`](SUMMARY.md) | headline numbers, bands, interpretation, caveats |
+| [`ls_L_dcs_pilot.py`](ls_L_dcs_pilot.py) | the DCS-2021 analysis (re-run: `python ls_L_dcs_pilot.py`) |
+| [`ls_L_dcs2026.py`](ls_L_dcs2026.py) | DCS-2026 re-join with IAST→SLP1 transcoder (`python ls_L_dcs2026.py`) |
+| `purely_lexicographic_attested.csv` / `_2026.csv` | retire-candidates: lemma, L-sense count, DCS band/tokens, gloss |
+| `purely_lexicographic_unattested.csv` | hedge stands (corpus-absent, 2021) |
+| [`SUMMARY.md`](SUMMARY.md) / [`SUMMARY_2026.md`](SUMMARY_2026.md) | headline numbers, bands, interpretation, caveats |
 
 ## Next (sense-level, not yet done)
 
-This is lemma-level (*lemma-now*). Verifying the specific hedged **sense**
-(*sense-next*) needs sense-tagged corpus data. Re-running against the newer
-**DCS-2026** snapshot ([`VisualDCS/src/DCS-data-2026/`](../../VisualDCS/src/DCS-data-2026/))
-would raise coverage. The 10,264 *partially*-hedged lemmas are deliberately
-excluded here — they need sense-level evidence.
+Both runs are lemma-level (*lemma-now*) and agree at ~31%. Verifying the specific
+hedged **sense** (*sense-next*) needs sense-tagged corpus data — and the 10,264
+*partially*-hedged lemmas (excluded here) need exactly that, since their lemma is
+already text-attested in other senses. A hand-verified band-3 subset (~180 lemmas)
+would be the publication-ready core for P3.
