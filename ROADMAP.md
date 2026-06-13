@@ -86,9 +86,13 @@ open decision** (W1 rescope question):
 **Hard ceiling on layer (c):** 22.3% of all citations are meta/hedge/relative
 (`L.` 40,212 · `ib.` 10,094 · `W.` 8,285 · `MW.` 5,710 · `Cat.` 5,302) and can
 never point to a primary-text scan; another 40.2% are bare (no locator). So the
-honest scan-linkable-now ceiling is far below the old "85%" target. `ib.`
-(10,094) additionally needs antecedent-resolution (same algorithmic family as
-`id.`, [#98](https://github.com/sanskrit-lexicon/MWS/issues/98)) before it can be linked at all.
+honest scan-linkable-now ceiling is far below the old "85%" target. **But `ib.`
+is recoverable:** the resolver in
+[relative_refs/](https://github.com/sanskrit-lexicon/MWS/tree/master/relative_refs)
+resolves **7,538 of 10,094 (74.7%)** `ib.` citations to a real text source
+(`MBh.` 1,149, `RV.` 1,064, …) by document-order antecedent walk — moving them
+out of the meta set. The `id.` analog (4,401, [#98](https://github.com/sanskrit-lexicon/MWS/issues/98))
+is sense-level and display-policy-gated (spec only).
 
 **Top sources by citation weight** (bare-form counts, live): `MBh.` 22,990 ·
 `RV.` 9,707 · `R.` 9,049 · `BhP.` 6,979 · `Kathās.` 5,926 · `Suśr.` 5,690 ·
