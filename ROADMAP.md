@@ -191,6 +191,13 @@ Four tracks, in leverage order:
    Bridges P3 (citation registers) + the grammar-corpus-dict crosswalk.
    Next: hand-verify the ~180 band-3 lemmas into a P3-ready core; sense-level
    for the 10,264 partially-hedged lemmas (needs sense-tagged corpus).
+7. **Root crosswalk MW↔Whitney↔DCS (built 2026-06-13).**
+   [root_crosswalk/](https://github.com/sanskrit-lexicon/MWS/tree/master/root_crosswalk)
+   is Layer-1 of the grammar-corpus-dict crosswalk: of 935 Whitney roots, **550
+   (58.8%) are fully triangulated** (MW gloss + Whitney grammar + DCS frequency).
+   Anchoring is near-clean (3/795 unmatched). Two spin-offs: a 40-root
+   `<info whitneyroots>` anchoring batch (common verbs MW left untagged), and 259
+   corpus-absent roots as a P3/P4 signal. Westergaard layer (1,362) not yet joined.
 6. **phw cross-reference graph (audited 2026-06-13).**
    [phw_graph/](https://github.com/sanskrit-lexicon/MWS/tree/master/phw_graph)
    maps MW's undocumented phrasal-headword graph (2,364 edges, 99.3% reciprocal)
