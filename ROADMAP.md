@@ -80,7 +80,7 @@ open decision** (W1 rescope question):
 | Layer | Size | Effort | Value | Tier |
 |---|---|---|---|---|
 | **(a) Link unlinked text variants** | ~171 (821 text-side − 650 linked) | mechanical | closes tooltip/resolution gaps | Haiku/Sonnet |
-| **(b) Add `<expandNorm>`** to records that have only `<expandMW>` | 338 (568 − 230) | semi-mechanical normalization | raises the metric docs-pass measured; cleaner exports (MDF/TEI) | Sonnet |
+| **(b) Add `<expandNorm>`** to records that have only `<expandMW>` | 338 (568 − 230): 273 `ti` (mostly mechanical hyphen-join, e.g. `adButa brAhmaRa`→`adButa-brAhmaRa`; some single-word titles need no work at all) + 43 `au` + 22 litcat/subti | **~1–2 sessions, not months** — scriptable draft + review | raises the docs-pass metric; cleaner MDF/TEI exports. NB the metric itself is flawed: it counts single-word titles that are already normal as "missing" | Sonnet (Fable for the 65 attributed/author cases) |
 | **(c) Scan-link targets** per work | per-work, slow | scholarly (edition ID + pagination) | the real "unlock thousands of cites" leverage — but capped (see below) | Sonnet + Fable for edition calls |
 
 **Hard ceiling on layer (c):** 22.3% of all citations are meta/hedge/relative
@@ -213,7 +213,7 @@ bounds what W4 may copy into other dictionaries.
 
 | # | Weakness | Evidence | Consequence |
 |---|---|---|---|
-| 1 | **Inconsistent sense segmentation** — some headwords split senses into separate `<L>` records (e.g. `agni` L890–897, each one sense, shared `<e>1A`); others pack `1. 2. 3.` into one prose gloss with no `<div>` | atlas excluded MW from [sense-depth.json](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/src/data/dicts/sense-depth.json); but record-grouping IS machine-readable (refines the "senses in prose" claim — feeds W2) | Cross-dict sense alignment needs a *hybrid* parser (record-group + in-prose numbering), not a `<div>` reader; the inconsistency itself is the obstacle |
+| 1 | ~~No structural sense markers~~ **DISPROVEN 2026-06-13** — MW's sense unit *is* the record: **282,199 of 286,560 records carry exactly one `¦` gloss** (only 3 have two; **0** use `(a)…(b)` or `1)…2)` in-prose enumeration). 92,670 letter-suffixed `<e>` codes (1A/2A/3A…) are continuation senses. | measured on live mw.txt; `agni`/`Darma` each explode one-sense-per-record | **Not a weakness — a positive paper result (W2).** Atlas excluded MW from [sense-depth.json](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/src/data/dicts/sense-depth.json) only because its detector reads `<div>`, not record-boundary+`¦`. Cross-dict tooling needs to group records; the data is fully machine-readable |
 | 2 | **22.3% of citations are meta/hedge/relative + 40.2% bare** | measured 2026-06-13: `L.`+`ib.`+`W.`+`MW.`+`Cat.` = 69,603; bare-locator from [CITATION_REGISTERS.md](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/docs/CITATION_REGISTERS.md) | Scan-linkable-to-primary-text ceiling is well under 85%; `ib.` (10,094) needs antecedent-resolution first ([#98](https://github.com/sanskrit-lexicon/MWS/issues/98) family) |
 | 3 | **Siglum chaos** — case/diacritic variants, ~265 prefix families | 13,021 raw → 9,180 folded sigla org-wide | Inflates the orphan count; W4 track 1 attacks this |
 | 4 | **Shallow microstructure by design** — derivatives/preverbs promoted to headwords | M1 density 0.48 vs PWK 3.77, PWG 2.35; M2 = 0 | MW is the wrong template for subentry-rich targets; use PWG/PWK there |
