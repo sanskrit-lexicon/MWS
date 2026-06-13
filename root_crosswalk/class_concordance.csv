@@ -1,0 +1,611 @@
+root,mw_classes,whitney_classes,verdict,has_westergaard
+ac,1,1,agree,no
+ac,1 10,1,overlap,no
+ad,2,1 2,overlap,no
+ah,-,-,both_empty,no
+aj,1,1,agree,no
+akṣ,1 5,1,overlap,no
+am,-,1 2,mw_empty,no
+an,2,1 2 6,overlap,no
+arc,1,1,agree,no
+arh,1,1,agree,no
+as,2,2,agree,no
+as,4,2,conflict,no
+at,1,1,agree,no
+av,1,1,agree,no
+añj,7,1 7,overlap,no
+aś,-,5 9,mw_empty,no
+aś,-,5 9,mw_empty,no
+aṃh,-,-,both_empty,no
+aṅg,1 10,1,overlap,no
+aṇṭh,1,6,conflict,no
+aṭ,1,1,agree,no
+bandh,1 4 9,1 4 9,agree,yes
+bhaj,1,1 2,overlap,yes
+bhakṣ,1 10,1,overlap,yes
+bhand,1,1,agree,yes
+bharts,1 10,1,overlap,yes
+bhas,3,1 3,overlap,yes
+bhañj,7,7,agree,yes
+bhaṇ,1,1,agree,yes
+bhaṣ,1,1,agree,yes
+bhid,1 7,7,overlap,yes
+bhikṣ,1,1,agree,yes
+bhram,1 4,1 4,agree,yes
+bhraṃś,1 4,1 4,agree,yes
+bhreṣ,1,1,agree,yes
+bhrāj,1,1,agree,yes
+bhrī,9,9,agree,yes
+bhuj,6,6,agree,yes
+bhuj,6 7,6,overlap,yes
+bhur,-,6,mw_empty,no
+bhā,2,2,agree,yes
+bhās,1,1,agree,yes
+bhāṣ,1,1,agree,yes
+bhī,1 3 10,1 3,overlap,yes
+bhū,1,1,agree,yes
+bhūṣ,1,1,agree,yes
+bhṛ,1 2 3,1 2 3,agree,yes
+bhṛjj,6,4 6,overlap,yes
+brū,2,2 6,overlap,yes
+budh,1 4,1 4,agree,yes
+bādh,1,1,agree,yes
+bṛh,1,1 6,overlap,yes
+cal,1,1,agree,yes
+can,-,-,both_empty,no
+car,1,1,agree,yes
+carc,1 10,-,whitney_empty,yes
+carv,1 10,4,conflict,yes
+cañc,1,1,agree,no
+caṭ,1,1,agree,yes
+chand,1 10,1 2,overlap,no
+chid,7 9,7,overlap,no
+chṛd,1 7,1 7,agree,yes
+ci,3 5,1 2 5,overlap,yes
+ci,5,1 2 5,overlap,yes
+cit,1 2 3,1 3,overlap,yes
+cumb,1,1,agree,yes
+cūṣ,1,4,conflict,yes
+dah,1,1 2 4,overlap,no
+dakṣ,1,1,agree,yes
+dal,1,1,agree,no
+dam,4 9,4,overlap,no
+dham,1,1 2,overlap,no
+dhan,3,1 3,overlap,yes
+dhanv,1,1,agree,no
+dhav,1,1,agree,no
+dhvan,1,1,agree,no
+dhvaṃs,1,1,agree,yes
+dhvṛ,1,1,agree,yes
+dhyā,1 2,2 4,overlap,no
+dhā,1,1 2 3 4,overlap,no
+dhā,1 2 3 4,1 2 3 4,agree,no
+dhāv,1,1,agree,no
+dhāv,1,1,agree,no
+dhū,1 2 5 6 9,2 5 6 9,overlap,yes
+dhṛ,1,1 4,overlap,yes
+dhṛṣ,1 5,1 2 5,overlap,yes
+dih,2,2,agree,yes
+diś,3 6,3 4 6,overlap,no
+dru,1,1,agree,yes
+druh,4,4,agree,no
+drā,2,2,agree,no
+duh,2 4 6,2 4 6,agree,no
+duṣ,4,4,agree,no
+dviṣ,2,2 6,overlap,no
+dyut,1,1,agree,no
+dā,1 3,1 2 3 4,overlap,no
+dā,4,1 2 3 4,overlap,no
+dāś,1 2 5,1 2 5,agree,yes
+dīp,4,4,agree,no
+dīv,4,4,agree,no
+dṛ,2 9,2 9,agree,yes
+dṛh,1 4,1 4 6,overlap,yes
+dṛp,4,1 4,overlap,yes
+dṛś,-,4,mw_empty,no
+edh,1,1,agree,no
+ej,1,1,agree,yes
+gad,1 10,1,overlap,yes
+gal,1,1,agree,yes
+gam,1 2 3,1 2,overlap,no
+gard,1 10,1,overlap,no
+garh,1 10,1,overlap,no
+garj,1,1,agree,no
+ghas,1,1,agree,yes
+ghaṭ,1,1,agree,yes
+ghaṭṭ,1 10,1,overlap,no
+ghrā,1 2 3,1 2 3,agree,no
+ghuṣ,1,1 4,overlap,no
+ghūrṇ,1,1 6,overlap,no
+ghṛ,1 3 10,1 3,overlap,yes
+ghṛṣ,1,1,agree,no
+glah,1,1,agree,yes
+glā,1 2,2 4,overlap,no
+grabh,9,1 9,overlap,no
+gras,1,1,agree,yes
+grath,1 9,1 7 9,overlap,no
+gu,1,1,agree,yes
+guh,1,1,agree,no
+guph,6,1,conflict,no
+guñj,1,1,agree,no
+gā,1 2 3,1 2,overlap,yes
+gā,2 3,1 2,overlap,yes
+gāh,1,1,agree,no
+gūrdh,10,-,whitney_empty,no
+gṛ,1 2,6 9,conflict,no
+gṛ,6,6 9,overlap,no
+gṛ,9,6 9,overlap,no
+gṛdh,4,4,agree,yes
+had,1,1,agree,yes
+han,1 2,1 2 6 8,overlap,yes
+has,1,1,agree,yes
+heṣ,1,1,agree,yes
+hi,5,1 5 7,overlap,yes
+hiṃs,1 7 10,1 7,overlap,yes
+hlād,1,1,agree,yes
+hnu,2,1 2,overlap,yes
+hras,1,1,agree,yes
+hreṣ,1,1,agree,yes
+hrād,1,1,agree,yes
+hrī,3,3,agree,yes
+hu,3,2 3,overlap,yes
+hval,1,1,agree,yes
+hvṛ,1,1 3 9,overlap,yes
+hā,1 3,1 3,agree,yes
+hā,3,1 3,overlap,yes
+hīḍ,-,1,mw_empty,no
+hū,1,1 2 3 4 6,overlap,yes
+hṛ,1,1 2 3,overlap,yes
+hṛ,9,1 2 3,conflict,no
+hṛṣ,1 4,1 4,agree,yes
+i,2,1 2 4 5,overlap,no
+i,6 8 9,1 2 4 5,conflict,no
+idh,7,1,conflict,no
+il,6 10,6,overlap,yes
+iṅg,1,1,agree,yes
+iṣ,1 4,1 4 6,overlap,no
+iṣ,6,1 4 6,overlap,no
+iṭ,1,-,whitney_empty,yes
+jakṣ,2,1 2,overlap,no
+jan,1 2 3 4 10,1 2 3 4,overlap,yes
+jap,1,1,agree,no
+ji,1,1 2,overlap,no
+ji,1 9,1 2,overlap,no
+juṣ,1 3 6,2 6,overlap,yes
+jval,1,1,agree,no
+jvar,1,1,agree,no
+jyā,4 9,4 9,agree,yes
+jñā,3 9,1 4 9,overlap,no
+jīv,1,1,agree,no
+jṛ,4 6,1 4 6,overlap,yes
+kad,1,-,whitney_empty,yes
+kal,10,1 3,conflict,no
+kam,1,-,whitney_empty,yes
+kamp,1,1,agree,yes
+kas,1,1,agree,yes
+katth,1,1,agree,yes
+kaṣ,1,1,agree,yes
+khac,1 9 10,1,overlap,yes
+khall,1,1,agree,no
+khan,1,1,agree,no
+kharj,1,1,agree,yes
+khañj,1,1,agree,no
+khid,4 6 7,4 6 7,agree,no
+khud,6,6,agree,no
+khād,1,1,agree,no
+klam,1 4,4,overlap,no
+klath,1,1,agree,yes
+klid,4,1 4,overlap,no
+kram,1 4,1 4,agree,no
+krand,1,1,agree,no
+krand,1,1,agree,yes
+krath,1,1,agree,yes
+krudh,4,4,agree,no
+kruś,1,1,agree,no
+krī,9,1 9,overlap,no
+krīḍ,1,1,agree,no
+kuc,1,1 6,overlap,no
+kuc,1 6,1 6,agree,yes
+kup,4,4,agree,no
+kuth,4,-,whitney_empty,yes
+kuñj,1,1,agree,no
+kuṣ,6 9,6 9,agree,no
+kuṭṭ,10,-,whitney_empty,yes
+kvath,1,1,agree,no
+kvaṇ,1,1,agree,no
+kās,1,1,agree,no
+kāś,1 4,1,overlap,yes
+kāṅkṣ,1,1,agree,yes
+kūj,1,1,agree,no
+kūrd,1,1,agree,yes
+kūḍ,10,-,whitney_empty,no
+kūṇ,1,1,agree,yes
+kṛ,1 2 5 8,6,conflict,no
+kṛ,3,6,conflict,no
+kṛ,6,6,agree,no
+kṛp,6 10,1,conflict,yes
+kṛt,1 6,1 6,agree,no
+kṛt,7,1 6,conflict,yes
+kṛś,4,4,agree,yes
+kṛṣ,1 6,1 6,agree,no
+kṣad,1,1,agree,no
+kṣal,10,-,whitney_empty,no
+kṣam,1 2 4,1 4,overlap,no
+kṣap,1,1,agree,no
+kṣar,1 2,1,overlap,no
+kṣi,1,1 2 4 6,overlap,no
+kṣi,1 5 9,1 2 4 6,overlap,no
+kṣip,4 6,6,overlap,no
+kṣu,2,2,agree,no
+kṣubh,1 4 5 9,1 4 5 9,agree,no
+kṣud,1 7,1 7,agree,no
+kṣudh,4,4,agree,no
+kṣup,6,6,agree,no
+kṣvel,1,1,agree,yes
+kṣā,1,4,conflict,yes
+kṣṇu,2,2,agree,yes
+labh,1,1,agree,yes
+lag,1 10,1,overlap,yes
+lajj,6,6,agree,yes
+lakṣ,1 10,1,overlap,yes
+lal,1,1,agree,yes
+lamb,1,1,agree,yes
+lap,1,1 4,overlap,yes
+las,1 10,1,overlap,yes
+laṅgh,1 10,1,overlap,yes
+laṣ,1 4 10,1 4,overlap,yes
+lih,2,2 6,overlap,yes
+likh,6,6,agree,yes
+lip,1 6,6,overlap,yes
+liś,4 6,4 6,agree,yes
+loc,1 10,1,overlap,yes
+lok,1 10,1,overlap,yes
+lubh,4 6,1 4 6,overlap,yes
+lul,1,1,agree,yes
+lup,4 6,6,overlap,yes
+luñc,1,1,agree,yes
+luḍ,1 6,1,overlap,yes
+luṭh,1 10,6,conflict,yes
+luṭh,6,6,agree,yes
+lā,2,2,agree,yes
+lāñch,1,-,whitney_empty,yes
+lī,1 4 9,1 4 9,agree,yes
+lū,9,5 9,overlap,yes
+mad,1,1 2 3 4,overlap,yes
+mad,1 3 4,1 2 3 4,overlap,yes
+majj,6,1,conflict,yes
+man,4 8,3 4 8,overlap,yes
+math,1 9,1 9,agree,yes
+maṃh,1 10,1,overlap,yes
+maṃh,1 10,1,overlap,yes
+maṇḍ,1,1,agree,yes
+med,1 4 10,4 6,overlap,yes
+mih,1,1,agree,yes
+mil,6,6,agree,yes
+mith,1,1 6,overlap,yes
+miṣ,6,6,agree,yes
+mlech,1 10,1,overlap,yes
+mlā,1,2 4,conflict,yes
+mnā,1,1 2,overlap,yes
+mruc,1,1,agree,yes
+muc,6,6,agree,yes
+mud,1,1,agree,yes
+muh,4,4,agree,yes
+muṣ,1 6 9,1 6 9,agree,yes
+myakṣ,1,1,agree,no
+mā,2 3 4,2 3 4,agree,yes
+mā,3,2 3 4,overlap,yes
+mārg,1 10,1,overlap,yes
+mī,9,3 4 5 9,overlap,yes
+mīl,1,1,agree,yes
+mīv,1,1,agree,no
+mūrch,1,1,agree,yes
+mṛ,1 6,1,overlap,yes
+mṛd,1 9,1 9,agree,no
+mṛdh,1 6,1 6,agree,yes
+mṛj,1 2 6 10,1 2 6 7,overlap,no
+mṛkṣ,1 10,1 6,overlap,yes
+mṛś,6,6,agree,yes
+mṛḍ,6 9 10,6 9,overlap,yes
+mṛṣ,1 4 10,1 4,overlap,yes
+nabh,1 4 9,1 4 9,agree,yes
+nad,1,1,agree,yes
+nah,4,1 4,overlap,yes
+nakṣ,1,1,agree,no
+nam,1,1,agree,yes
+nand,1,1,agree,yes
+nard,1,1,agree,yes
+naś,1,1 4,overlap,no
+naś,1 4,1 4,agree,yes
+naṭ,1,1,agree,yes
+nij,2 3,2 3,agree,yes
+nind,1,1,agree,no
+nu,2 6,1 2 6,overlap,no
+nud,6,6,agree,yes
+nāth,1,1,agree,yes
+nī,1,1 2 3,overlap,no
+nṛt,4,4,agree,yes
+pac,1 4,1 4,agree,yes
+pad,4,2 4,overlap,yes
+paj,-,1,mw_empty,no
+pan,1,1,agree,no
+pat,1,1,agree,yes
+paś,-,4,mw_empty,no
+paś,-,4,mw_empty,no
+paṇ,1,1,agree,yes
+paṭ,1 10,1,overlap,yes
+paṭh,1,1,agree,yes
+phaṇ,1,1,agree,yes
+pi,1 2 3,1 2 3 5,overlap,no
+piś,6,6,agree,yes
+piṣ,7,6 7,overlap,yes
+plu,1,1 2,overlap,yes
+pluṣ,1 4 9,1,overlap,yes
+prach,6,6,agree,yes
+prath,1,1,agree,yes
+pru,1,1,agree,yes
+pruth,1,1,agree,no
+pruṣ,4 5 9 10,4 5 6 9,overlap,yes
+prā,2,2,agree,yes
+prī,4 9,4 9,agree,yes
+psā,2,2,agree,yes
+puth,4,-,whitney_empty,yes
+puṣ,1 4 9,1 4 9,agree,yes
+puṭ,1 6 10,6,overlap,yes
+pyā,1,4,conflict,yes
+pā,1 2,1 2 3,overlap,yes
+pā,2,1 2 3,overlap,no
+pāy,1,1,agree,no
+pīy,1,1,agree,no
+pīḍ,10,-,whitney_empty,yes
+pū,1 9,1 9,agree,yes
+pūj,1 10,1,overlap,yes
+pūy,1,1,agree,yes
+pṛ,3 6 9,3 4 5 6 9,overlap,yes
+pṛ,3 9,3 4 5 6 9,overlap,yes
+pṛc,1 2 3 7,1 3 7,overlap,yes
+rabh,1,1,agree,yes
+rac,10,-,whitney_empty,yes
+rad,1,1 2,overlap,yes
+radh,4,2 4,overlap,yes
+rah,1 10,1,overlap,yes
+raj,1 4,-,whitney_empty,yes
+rakṣ,1,1,agree,yes
+ram,1,1 9,overlap,yes
+ran,1,1 4,overlap,yes
+ran,1 4,1 4,agree,no
+rap,1,1,agree,yes
+raph,1,-,whitney_empty,yes
+rapś,-,1,mw_empty,no
+ras,1,1,agree,yes
+raṃh,1 10,1,overlap,yes
+raṭ,1,1,agree,yes
+rej,1,1,agree,yes
+ri,4 9,4 5 6 9,overlap,yes
+ribh,1,1,agree,yes
+ric,1 4 7 10,4 7,overlap,yes
+rih,2 6,2,overlap,yes
+rikh,1 6,6,overlap,yes
+rip,-,-,both_empty,no
+riph,6,1 6,overlap,yes
+riś,6,6,agree,yes
+riṅkh,1,-,whitney_empty,yes
+riṅkh,1,-,whitney_empty,yes
+riṣ,1 4,1 4,agree,yes
+ru,1,1 2 6,overlap,yes
+ru,2,1 2 6,overlap,yes
+ruc,1,1,agree,yes
+rud,2,1 2 6,overlap,yes
+rudh,1,1 6,overlap,no
+rudh,7,1 6,conflict,yes
+ruh,1,1 6,overlap,no
+ruj,6 10,2 6,overlap,yes
+rup,4,4,agree,yes
+ruṣ,1 4 10,1 4 6,overlap,yes
+ruṭh,1,1,agree,yes
+rā,2,1 2 3,overlap,yes
+rādh,4 5,4 5,agree,yes
+rāj,1,1 2,overlap,yes
+rās,1,1,agree,yes
+rūṣ,1 10,-,whitney_empty,yes
+sac,1,1 3,overlap,yes
+sad,1 6,1 2,overlap,yes
+sah,1 10,1 2 4,overlap,yes
+saj,1,1,agree,yes
+san,1 8,1 8,agree,yes
+sap,1,1,agree,yes
+sas,2,2 3,overlap,yes
+sev,1,1,agree,yes
+sic,6,1 6,overlap,yes
+sidh,1,1,agree,yes
+sidh,4,1,conflict,yes
+skambh,1 5 9,1 5 9,agree,yes
+skand,1,1,agree,yes
+skhal,1,1,agree,yes
+sku,5 9,2 5 9,overlap,yes
+smi,1,1,agree,yes
+smṛ,1,-,whitney_empty,yes
+snih,1 4 10,4,overlap,yes
+snu,2,2,agree,yes
+snā,2 4,-,whitney_empty,yes
+spand,1,-,whitney_empty,yes
+sphuṭ,1 6,1 6,agree,yes
+sphā,1,4,conflict,yes
+sphṛ,6,6,agree,yes
+spṛ,5,5 9,overlap,yes
+spṛdh,1,1 6,overlap,yes
+spṛh,10,6,conflict,yes
+spṛś,6,1 6,overlap,yes
+sraṃs,1,1,agree,yes
+sru,1,1,agree,yes
+srīv,4,4,agree,yes
+stambh,1 5 9,1 5 9,agree,yes
+stan,1,1 2 7,overlap,yes
+sthag,1,1,agree,yes
+sthā,1,1,agree,yes
+stigh,5,5,agree,yes
+stu,2,1 2 5 6,overlap,yes
+stubh,1,1 2,overlap,yes
+stṛ,5 9,1 5 9,overlap,yes
+svad,1,1,agree,yes
+svaj,1,1,agree,yes
+svan,1,1 2,overlap,yes
+svap,2,1 2,overlap,yes
+svar,1,1,agree,yes
+svid,1,1 4,overlap,yes
+syand,1,1,agree,yes
+sā,5 9,1 5 6 9,overlap,yes
+sādh,1 4 5,1 4 5,agree,yes
+sīv,4,4,agree,yes
+sū,2,1 2 4 6,overlap,yes
+sū,6,1 2 4 6,overlap,yes
+sūd,1 10,1,overlap,yes
+sṛ,1 3 10,1 3,overlap,yes
+sṛj,6,1 6,overlap,yes
+sṛp,1,1,agree,yes
+takṣ,1 2 5,1 2 5,agree,yes
+tam,4,4,agree,yes
+tan,4,8,conflict,no
+tan,8,8,agree,no
+tap,1 4,1 4,agree,no
+tarj,1,1,agree,no
+tark,10,-,whitney_empty,no
+taḍ,10,2,conflict,yes
+tij,1,1,agree,yes
+tras,1 4,1 4,agree,no
+tud,6,6 7,overlap,no
+tuj,1 6,1 6 7,overlap,yes
+tul,10,1,conflict,no
+tuṣ,4,4,agree,no
+tyaj,1,1,agree,no
+tṛ,1 3 5 6,1 3 4 6 8,overlap,no
+tṛp,1 4 5 6,1 4 5 6,agree,no
+tṛṣ,4,4,agree,no
+ubh,6 9,6 7 9,overlap,yes
+ubj,6,6,agree,yes
+uc,4,4,agree,no
+ud,6 7,6 7,agree,yes
+ujh,6,6,agree,no
+ukṣ,1,6,conflict,no
+uñch,1 6,6,overlap,no
+vac,2 3,2 3,agree,yes
+vad,1,1,agree,yes
+vadh,-,1,mw_empty,yes
+vah,1,1 2,overlap,yes
+vakṣ,1,1 6,overlap,yes
+val,1,1,agree,yes
+valg,1,1,agree,yes
+vam,1,1 2,overlap,yes
+van,1 8,1 6 8,overlap,yes
+vand,1,1,agree,yes
+vap,1,1,agree,no
+vap,1,1,agree,yes
+vas,1 10,2 6,conflict,yes
+vas,2,2 6,overlap,yes
+vas,6,2 6,overlap,no
+vañc,1,1,agree,yes
+vaś,1 2 3,1 2 3 6,overlap,yes
+vaṇṭ,1 10,1,overlap,yes
+vell,1,1,agree,yes
+ven,1,1,agree,yes
+vic,3 7,3 7,agree,yes
+vid,2,1 2 6,overlap,yes
+vid,6,1 2 6,overlap,yes
+vij,1 3 6,1 6,overlap,yes
+vip,1,1,agree,yes
+viś,6,6,agree,yes
+viṣ,1 3,1 3,agree,yes
+viṣṭ,1,1,agree,yes
+vlī,9,9,agree,yes
+vraj,1 10,1,overlap,yes
+vraśc,6,1 6,overlap,yes
+vrīḍ,1 4 10,1 4,overlap,yes
+vyac,3 6,3 6,agree,yes
+vyadh,4,4,agree,yes
+vyath,1,1,agree,yes
+vyā,1,4,conflict,yes
+vā,1,1 2 4,overlap,yes
+vā,2,1 2 4,overlap,yes
+vāh,1,1,agree,yes
+vāñch,1,1,agree,yes
+vāś,4,1 4,overlap,yes
+vī,2,2,agree,yes
+vīj,1 10,1,overlap,yes
+vīḍ,-,-,both_empty,no
+vṛ,1 5 9,1 5 9,agree,yes
+vṛ,5 9,1 5 9,overlap,yes
+vṛdh,1 10,1,overlap,yes
+vṛh,6,6,agree,yes
+vṛj,1 2 7,7,overlap,yes
+vṛt,1,1 2 3,overlap,yes
+vṛṣ,1,1 6,overlap,yes
+yabh,1,1,agree,yes
+yaj,1,1 2,overlap,yes
+yam,1,1 2,overlap,yes
+yas,4,1 3 4,overlap,yes
+yat,1 10,1,overlap,yes
+yu,2 6 9,2 6 9,agree,yes
+yu,3,2 6 9,conflict,no
+yudh,1 4,1 2 4,overlap,yes
+yuj,7,2 6 7,overlap,yes
+yup,4,4,agree,yes
+yā,2,2,agree,yes
+yāc,1,1,agree,yes
+āp,5,5,agree,no
+ār,4,4,agree,no
+ās,2,1 2 4,overlap,no
+īh,1,1,agree,no
+īkṣ,1,1,agree,no
+īr,2,1 2,overlap,no
+īrṣy,1,1,agree,no
+īś,2,1 2,overlap,no
+īḍ,2,1 2,overlap,no
+īṅkh,1,1,agree,yes
+īṣ,1,1,agree,no
+īṣ,1,1,agree,yes
+śad,1 6,-,whitney_empty,yes
+śak,5,5,agree,yes
+śam,4 9,1 2 4 9,overlap,yes
+śap,1 4,1 4,agree,yes
+śas,1,1 2,overlap,yes
+śaṃs,1,1,agree,yes
+śaṅk,1,1,agree,yes
+ścut,1,1,agree,yes
+śiñj,1 2 10,2,overlap,yes
+śiṣ,7 10,1 6 7,overlap,yes
+śliṣ,4,1 4,overlap,yes
+ślāgh,1,1,agree,yes
+śnath,1,1 2,overlap,yes
+śram,4,1 4,overlap,yes
+śrath,1,1 6 9,overlap,yes
+śrath,9,1 6 9,overlap,yes
+śri,1,1,agree,yes
+śru,5,2 5,overlap,yes
+śrā,1 2 4,2 4 9,overlap,yes
+śrī,9,9,agree,yes
+śubh,1 6,1 6,agree,yes
+śuc,1 4,1 2 4,overlap,yes
+śudh,1 4,1 2 4,overlap,yes
+śuṣ,4,4,agree,yes
+śvas,2,1 2,overlap,yes
+śyā,1,4,conflict,yes
+śā,3 5,3 6,overlap,yes
+śās,2,1 2,overlap,yes
+śī,1 2,4,conflict,yes
+śū,1,1,agree,yes
+śṛ,9,4 6 9,overlap,yes
+śṛdh,1,1,agree,yes
+ūh,1,1,agree,no
+ūh,1,1,agree,no
+ḍhauk,1,1,agree,no
+ḍī,1 4,1 4,agree,no
+ṛ,1 3 5,2 3 5 6 9,overlap,no
+ṛ,6,2 3 5 6 9,overlap,yes
+ṛd,1 6 7,1 6 7,agree,no
+ṛdh,2 4 5 6 7,1 4 5 7,overlap,no
+ṛj,1,1 4 6 7,overlap,no
+ṛj,4 6 7,1 4 6 7,overlap,no
+ṛt,-,-,both_empty,no
+ṛṣ,1,1 6,overlap,no
+ṛṣ,6,1 6,overlap,yes
+ṣṭhīv,1 4,1 4,agree,yes

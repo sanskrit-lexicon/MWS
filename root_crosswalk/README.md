@@ -36,6 +36,17 @@ after normalisation (`jañj`, `thurv`, `riṅkh` — candidate typos/hub gaps,
 - **259 corpus-absent roots** — MW + Whitney attest them but DCS has none: the
   grammarian/lexical roots, a direct signal for P3 (citation registers) / P4.
 
+## Companion: conjugation-class concordance
+
+[`class_concordance.py`](class_concordance.py) cross-checks the conjugation class
+MW assigns (`cp="1P,1Ā"` → {1}) against Whitney's (`classes` roman → arabic), for
+the 570 roots both anchor. **94.4% agree or overlap** (302 agree, 236 overlap);
+only **32 genuine conflicts** (disjoint class sets) — research signals behind the
+Whitney class-verdict review / P4. 18 of the 32 also carry a Westergaard/Dhātupāṭha
+anchor, whose indigenous gaṇa can adjudicate. (`cp="0…"` = "no gaṇa assigned" is
+treated as a sentinel, not a class. Homonym-rich roots like `kṛ`/`hṛ` may reflect
+hub class-completeness rather than true disagreement — see the summary caveat.)
+
 ## Files
 
 | File | What |
@@ -43,7 +54,9 @@ after normalisation (`jañj`, `thurv`, `riṅkh` — candidate typos/hub gaps,
 | [`root_crosswalk.py`](root_crosswalk.py) | builds the crosswalk (`python root_crosswalk.py`) |
 | `root_crosswalk.csv` | per Whitney root: id, root, in_MW, mw_L, mw_classes, dcs_status, dcs_freq |
 | `mw_whitney_unmatched.csv` | the 3 MW anchors with no hub match |
-| [`ROOT_CROSSWALK_SUMMARY.md`](ROOT_CROSSWALK_SUMMARY.md) | the numbers |
+| [`ROOT_CROSSWALK_SUMMARY.md`](ROOT_CROSSWALK_SUMMARY.md) | the crosswalk numbers |
+| [`class_concordance.py`](class_concordance.py) / `class_concordance.csv` | MW-vs-Whitney class check |
+| [`CLASS_CONCORDANCE_SUMMARY.md`](CLASS_CONCORDANCE_SUMMARY.md) | concordance numbers + the 32 conflicts |
 
-Analysis only — no `mw.txt` mutation. Westergaard anchors (1,362) are a second
-root-authority layer not yet joined here.
+Analysis only — no `mw.txt` mutation. The Westergaard `GG.SSSS` third field
+(range 01–35, not the 1–10 gaṇa) is left undecoded rather than guessed.
