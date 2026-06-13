@@ -1,15 +1,15 @@
 # `<ls>ib.</ls>` resolution — results
 
-- Total `<ls>ib.</ls>` citations: **10,094**
-- **Resolved to a real text source (recoverable as linkable): 7,538 (74.7%)**
-- Resolved to a meta marker (L./W./Cat./MW. — stays unlinkable): 2,556 (25.3%)
-- Unresolvable (no prior citation in the whole dictionary): 0 (0.0%)
+> **These figures are *resolvable*, not *verified*.** The walk mechanically
+> finds an antecedent; whether it is the source MW *meant* has not been checked
+> against the print. No ground-truth sample has been hand-validated — that is the
+> required next step before any paper or write-back.
 
-## Confidence (antecedent locality)
-- **Same headword cluster (high confidence): 5,762 (57.1%)**
-- Crossed a headword boundary (lower confidence — typical of compound runs
-  where sibling compounds chain `ib.` to a shared source): 4,332 (42.9%)
-  These are the candidates worth a maintainer spot-check before any write.
+- Total `<ls>ib.</ls>` citations: **10,094**
+- **Same-cluster resolutions (high confidence — antecedent in the same headword): 5,762 (57.1%)** — the defensible core.
+- Crossed-headword resolutions (lower confidence; compound runs chaining `ib.` to a
+  shared source): 4,332 (42.9%) — need a spot-check before use.
+- Combined, resolved to a real text source (mechanical upper bound): 7,538 (74.7%); to a meta marker 2,556 (25.3%); unresolvable 0.
 
 ## Effect on the scan-link ceiling
 - The earlier "22.3% meta" ceiling counted all 10,094 ib. as unlinkable.

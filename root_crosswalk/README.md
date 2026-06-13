@@ -13,13 +13,17 @@ page). The join is on the homonym-normalised root string (MW `akz1`/`akz2` ↔ h
 `1 akṣ`/`2 akṣ`), SLP1→IAST. The Whitney↔DCS half is already in
 [`WhitneyRoots/src/dcs_freq.json`](../../WhitneyRoots/src/dcs_freq.json).
 
+Because the join collapses homonyms to a bare root, "triangulated" means the root
+*string* is present in all three sources — **not** that they refer to the same
+homonym. Homonym-level alignment (e.g. which of `1 kṛ` / `2 kṛ`) is a later step.
+
 ## Result — coverage of the 935 Whitney roots
 
 | Layer | roots | % |
 |---|--:|--:|
 | In **MW** (anchored) | 809 | 86.5% |
 | In **DCS** corpus | 590 | 63.1% |
-| **Fully triangulated (MW+Whitney+DCS)** | **550** | **58.8%** |
+| **Triangulated, bare-root match (MW+Whitney+DCS)** | **550** | **58.8%** |
 | MW+Whitney, DCS-absent (grammarian/lexical roots → P3/P4 signal) | 259 | |
 | DCS+Whitney, MW-unanchored (**anchoring gap to close**) | 40 | |
 | neither | 86 | |

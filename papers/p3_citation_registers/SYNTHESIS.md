@@ -27,7 +27,8 @@ orthogonal axis the form-distinction cannot see: **evidentiary status**. MW's
    tradition with no textual witness *known to MW*. The corpus test shows this
    layer is **partly recoverable**: of 18,930 lemmas whose entire attestation is
    `L.`, **~31% occur in DCS** (30.2% on the 2021 snapshot, 31.4% on the full
-   2026 token corpus — stable across two independent snapshots). The hedge is
+   2026 token corpus — stable across two DCS snapshots, though both are versions
+   of one corpus project, so this controls for version not for DCS's conventions). The hedge is
    therefore **not** a statement of non-existence; it is a *19th-century
    evidence-gap marker*, and a modern corpus closes roughly a third of the gap.
 3. **A hard kośa / grammarian residue** — the other **~69%** of purely-lexical
@@ -45,11 +46,13 @@ lexicography" (the book's Ch. 2 method) applied to the citation apparatus itself
 A corollary refines the register's *measured size*. Of MW's citations, **22.3%**
 are meta / relative (`L.`, `ib.`, `W.`, `MW.`, `Cat.`) — structurally unable to
 point at a primary-text scan. But the relative class is largely an artefact of
-compression: **74.7%** of the 10,094 `ib.` ("ibidem") citations resolve, by a
-document-order antecedent walk, to a real Register-A source (`MBh.` 1,149, `RV.`
-1,064, …). So the "meta" fraction overstates how much of Register A is genuinely
-sourceless; once `ib.` is resolved, the apparatus is more connected than the raw
-tag counts suggest.
+compression: a document-order antecedent walk resolves the 10,094 `ib.` ("ibidem")
+citations to a real Register-A source — **57.1% with high confidence** (the
+antecedent in the same headword), up to a **74.7% mechanical upper bound** including
+cross-boundary cases (`MBh.` 1,149, `RV.` 1,064, …). *These are resolvable, not yet
+hand-verified.* So the "meta" fraction overstates how much of Register A is genuinely
+sourceless; once `ib.` is resolved, the apparatus is more connected than the raw tag
+counts suggest.
 
 ## Evidence
 
@@ -57,7 +60,7 @@ tag counts suggest.
 |---|---|---|---|---|
 | 1 | `L.`-hedge corpus-recoverability | 31% of 18,930 (stable 2021/2026) | the hedge is a recoverable evidence gap, not absence | [lexicographer_dcs/](../../lexicographer_dcs/) |
 | 2 | Corpus-absent residue | ~69% of purely-lexical lemmas; **259** roots with 0 DCS | the hard floor of the lexicographic/grammatical register | [lexicographer_dcs/](../../lexicographer_dcs/), [root_crosswalk/](../../root_crosswalk/) |
-| 3 | `ib.` resolvability | 7,538 / 10,094 (74.7%) → real source | the relative apparatus is mostly recoverable; "meta" overstates sourcelessness | [relative_refs/](../../relative_refs/) |
+| 3 | `ib.` resolvability | 57.1% same-cluster (high-conf); 74.7% upper bound — *resolvable, not verified* | the relative apparatus is largely recoverable; "meta" overstates sourcelessness | [relative_refs/](../../relative_refs/) |
 | 4 | Botanical sub-register | 72% of 7,063 plant headwords `L.`-only; **1,528** corpus-confirmed | the gradient in one semantic field — kośa technical vocabulary partly corpus-real | [botanical_glossary/](../../botanical_glossary/) |
 | 5 | Apparatus ceiling | 22.3% meta + 40.2% bare-locator | the true text-linkable fraction of Register A | [ROADMAP §W1](../../ROADMAP.md) |
 

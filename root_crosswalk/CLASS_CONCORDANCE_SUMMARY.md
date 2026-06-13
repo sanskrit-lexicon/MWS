@@ -12,8 +12,10 @@
 
 - Not comparable: whitney_empty 23, mw_empty 11, both_empty 6
 
-## Conflicts (disjoint class sets — research signals)
-- 32 roots where MW and Whitney share NO class.
+## Candidate conflicts (disjoint class sets — research signals, unverified)
+- 32 roots where MW and Whitney share NO class. These are
+  **candidates** for review, not confirmed disagreements — homonym-rich roots
+  may reflect hub class-completeness rather than a true clash (see Notes).
 - Of these, 18 also carry a Westergaard/Dhātupāṭha anchor — the indigenous
   grammarian class is available as a tiebreaker for them.
 

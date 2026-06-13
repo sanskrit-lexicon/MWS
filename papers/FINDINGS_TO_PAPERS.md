@@ -14,8 +14,8 @@ this note is the index from the MWS-side evidence.
 | **`ib.` resolver** ([relative_refs/](../relative_refs/)) | **P3** | Dictionaries | 74.7% of relative cites resolve → "meta" overstates Register A's sourcelessness | in SYNTHESIS |
 | **Botanical `L.`-attestation** ([botanical_glossary/](../botanical_glossary/)) | **P3** | Dictionaries | the evidentiary gradient in one semantic field (1,528 confirmed) | in SYNTHESIS |
 | **Register-B corpus test** ([papers/p3_citation_registers/register_b/](p3_citation_registers/register_b/)) | **P3** + **P4** | Dictionaries / IJL·WSC | Register B is constitutively lexicographic (SKD 46.7% `iti`→kośa) yet ~half corpus-grounded (SKD 50.3%, VCP 47.9%) | drafted (memo) |
-| **Root crosswalk MW↔Whitney↔DCS** ([root_crosswalk/](../root_crosswalk/)) | **P6** learner's layer | Lexikos | the corpus+grammar+dict join P6 needs (550/935 roots fully triangulated) | data ready |
-| **Class concordance** ([root_crosswalk/](../root_crosswalk/)) | **P6** (or grammar note) | — | MW vs Whitney conjugation class: 94.4% agree, 32 conflicts | data ready, **needs Sanskritist** |
+| **Root crosswalk MW↔Whitney↔DCS** ([root_crosswalk/](../root_crosswalk/)) | **P6** learner's layer | Lexikos | the corpus+grammar+dict join P6 needs (550/935 roots triangulated by bare-root match) | data ready |
+| **Class concordance** ([root_crosswalk/](../root_crosswalk/)) | **P6** (or grammar note) | — | MW vs Whitney conjugation class: 94.4% agree/overlap, 32 *candidate* conflicts | data ready, **needs Sanskritist** |
 | **Corpus-absent roots** (root_crosswalk) | **P3/P4** | — | 259 MW+Whitney roots DCS attests zero times — the hard grammarian residue | in SYNTHESIS |
 
 ## Two cross-cutting threads

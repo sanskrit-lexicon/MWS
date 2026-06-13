@@ -106,8 +106,10 @@ for v in ('agree','overlap','conflict'):
 S.append('')
 S.append(f'- Not comparable: whitney_empty {verdict_hist.get("whitney_empty",0):,}, '
          f'mw_empty {verdict_hist.get("mw_empty",0):,}, both_empty {verdict_hist.get("both_empty",0):,}\n')
-S.append('## Conflicts (disjoint class sets — research signals)')
-S.append(f'- {len(conflicts):,} roots where MW and Whitney share NO class.')
+S.append('## Candidate conflicts (disjoint class sets — research signals, unverified)')
+S.append(f'- {len(conflicts):,} roots where MW and Whitney share NO class. These are')
+S.append(f'  **candidates** for review, not confirmed disagreements — homonym-rich roots')
+S.append(f'  may reflect hub class-completeness rather than a true clash (see Notes).')
 wg_n = sum(1 for c in conflicts if c[3])
 S.append(f'- Of these, {wg_n:,} also carry a Westergaard/Dhātupāṭha anchor — the indigenous')
 S.append(f'  grammarian class is available as a tiebreaker for them.')

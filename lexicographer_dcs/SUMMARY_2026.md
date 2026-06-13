@@ -19,9 +19,11 @@ DCS-2026 token corpus (5.69M tokens, 270 texts) instead of the DCS-2021 summary.
 - Uncommon-or-better (bands ≥3): **180**
 
 ## Cross-snapshot stability
-- The headline barely moves across two independent corpus snapshots:
-  **30.2% (DCS-2021) -> 31.4% (DCS-2026)**. The finding is not an artefact
-  of one corpus version — that *strengthens* the P3 claim.
+- The headline barely moves across two DCS snapshots:
+  **30.2% (DCS-2021) -> 31.4% (DCS-2026)**. NB these are two versions of
+  the *same* corpus project (one annotator, Hellwig) — so this controls for
+  corpus *version*, not for DCS's own lemmatisation conventions. It is not a
+  snapshot artefact, which supports (does not prove) the P3 claim.
 - Transcoder validated: only **11 of 5,723** 2021 hits are absent in 2026
   (0.2%, all plain-ASCII SLP1 so not a transcode failure — DCS lemmatization
   drift), against **+223 gross new gains**. A broken IAST->SLP1 join would

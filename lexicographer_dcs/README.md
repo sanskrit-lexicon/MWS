@@ -31,8 +31,10 @@ refutation: MW cited no text, yet the word occurs.
 | DCS-2021 (lemma summary, SLP1) | 5,723 | 30.2% | ~2,232 |
 | **DCS-2026** (full token corpus, 5.69M tokens) | **5,935** | **31.4%** | **2,330** |
 
-The headline barely moves (30.2% → 31.4%) across two **independent** DCS snapshots —
-so the finding is not a corpus-version artefact, which strengthens the P3 claim.
+The headline barely moves (30.2% → 31.4%) across two DCS snapshots — so the finding
+is not a corpus-version artefact. (These are two versions of the *same* corpus
+project, one annotator, so this controls for version, not for DCS's lemmatisation
+conventions — supporting, not proving, the P3 claim.)
 Net +212 refutations from the corpus refresh (+223 gross, −11 lemmatization drift).
 The 2026 join transcodes DCS IAST → SLP1 (validated: only 11/5,723 of the 2021 hits
 drop out, all plain-ASCII so not a transcode failure).

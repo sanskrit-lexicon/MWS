@@ -108,15 +108,18 @@ pct = lambda n: 100*n/total_ib if total_ib else 0
 top = sorted(src_hist.items(), key=lambda kv: -kv[1])[:15]
 S = []
 S.append('# `<ls>ib.</ls>` resolution — results\n')
+S.append('> **These figures are *resolvable*, not *verified*.** The walk mechanically')
+S.append('> finds an antecedent; whether it is the source MW *meant* has not been checked')
+S.append('> against the print. No ground-truth sample has been hand-validated — that is the')
+S.append('> required next step before any paper or write-back.\n')
 S.append(f'- Total `<ls>ib.</ls>` citations: **{total_ib:,}**')
-S.append(f'- **Resolved to a real text source (recoverable as linkable): {resolved_real:,} ({pct(resolved_real):.1f}%)**')
-S.append(f'- Resolved to a meta marker (L./W./Cat./MW. — stays unlinkable): {resolved_meta:,} ({pct(resolved_meta):.1f}%)')
-S.append(f'- Unresolvable (no prior citation in the whole dictionary): {unresolvable:,} ({pct(unresolvable):.1f}%)\n')
-S.append('## Confidence (antecedent locality)')
-S.append(f'- **Same headword cluster (high confidence): {same_cluster:,} ({pct(same_cluster):.1f}%)**')
-S.append(f'- Crossed a headword boundary (lower confidence — typical of compound runs')
-S.append(f'  where sibling compounds chain `ib.` to a shared source): {crossed:,} ({pct(crossed):.1f}%)')
-S.append(f'  These are the candidates worth a maintainer spot-check before any write.\n')
+S.append(f'- **Same-cluster resolutions (high confidence — antecedent in the same headword): '
+         f'{same_cluster:,} ({pct(same_cluster):.1f}%)** — the defensible core.')
+S.append(f'- Crossed-headword resolutions (lower confidence; compound runs chaining `ib.` to a')
+S.append(f'  shared source): {crossed:,} ({pct(crossed):.1f}%) — need a spot-check before use.')
+S.append(f'- Combined, resolved to a real text source (mechanical upper bound): '
+         f'{resolved_real:,} ({pct(resolved_real):.1f}%); to a meta marker {resolved_meta:,} '
+         f'({pct(resolved_meta):.1f}%); unresolvable {unresolvable:,}.\n')
 S.append('## Effect on the scan-link ceiling')
 S.append(f'- The earlier "22.3% meta" ceiling counted all 10,094 ib. as unlinkable.')
 S.append(f'- Resolving recovers **{resolved_real:,}** of them to real sources, shrinking')

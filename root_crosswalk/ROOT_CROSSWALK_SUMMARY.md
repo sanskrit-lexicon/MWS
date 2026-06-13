@@ -10,15 +10,17 @@
 ## Coverage of the 935-root Whitney hub
 - Attested in **MW**: **809** (86.5%)
 - Attested in **DCS** corpus: **590** (63.1%)
-- **In BOTH MW and DCS (fully triangulated): 550** (58.8%)
+- **In BOTH MW and DCS (triangulated by bare-root match): 550** (58.8%)
 - MW+Whitney but **DCS-absent** (grammarian/lexical roots): 259
 - DCS+Whitney but **MW-unanchored** (anchoring gap to close): 40
 - In neither MW nor DCS: 86
 
 ## Why it matters
-- The fully-triangulated roots (MW gloss + Whitney grammar + DCS frequency)
-  are the ready core of the grammar-corpus-dict crosswalk: a root you can
-  define, conjugate, and frequency-rank at once.
+- The triangulated roots (MW gloss + Whitney grammar + DCS frequency) are the
+  ready core of the grammar-corpus-dict crosswalk: a root you can define,
+  conjugate, and frequency-rank at once. **Caveat:** the join is on the
+  homonym-collapsed bare root, so "in all three" does not assert the three
+  sources mean the *same* homonym — homonym-level alignment is a later step.
 - Roots in Whitney+DCS but NOT anchored in MW are the gap to close (add the
   `<info whitneyroots>` anchor); roots in MW+Whitney but DCS-unmatched are
   corpus-absent (lexical/grammarian roots) — a P3/P4 signal.

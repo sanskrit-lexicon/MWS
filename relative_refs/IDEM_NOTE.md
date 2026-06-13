@@ -32,5 +32,5 @@ record→antecedent-gloss map) is a ~1-session job once the policy is set.
 
 | marker | count | antecedent | resolver |
 |---|--:|---|---|
-| `<ls>ib.</ls>` | 10,094 | preceding `<ls>` | **built** — `ib_resolve.py` (74.7% → real source) |
+| `<ls>ib.</ls>` | 10,094 | preceding `<ls>` | **built** — `ib_resolve.py` (57.1% same-cluster high-confidence; 74.7% upper bound, resolvable not verified) |
 | `<ab>id.</ab>` | 4,401 | preceding gloss | spec only (this note), issue #98 |

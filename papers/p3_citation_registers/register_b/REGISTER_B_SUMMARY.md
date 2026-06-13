@@ -23,9 +23,9 @@ control).
 
 | inventory | headwords | DCS-attested | rate |
 |---|--:|--:|--:|
-| SKD — all headwords (stem-aware) | 40,815 | 20,520 | **50.3%** |
-| VCP — all headwords (stem-aware) | 48,629 | 23,311 | **47.9%** |
-| *context:* MW — all headwords | 194,084 | 54,769 | 28.2% |
+| SKD — all headwords (stem-aware) | 40,815 | 20,919 | **51.3%** |
+| VCP — all headwords (stem-aware) | 48,629 | 23,777 | **48.9%** |
+| *context:* MW — all headwords | 194,084 | 57,228 | 29.5% |
 | *context:* MW — `L.`-only lemmas | 18,930 | 5,723 | 30.2% |
 
 So the indigenous lexical inventory is **not** a closed self-referential universe:
@@ -38,6 +38,12 @@ So the indigenous lexical inventory is **not** a closed self-referential univers
   macrostructure; the lower number reflects inventory composition, not weaker
   grounding. Do not read "indigenous > MW".
 - Lemma-level; a headword counts as attested for *any* corpus sense (homograph
-  exposure), and SKD attestation depends on the stem-recovery heuristic above.
+  exposure).
+- **The SKD figure is approximate (±).** The visarga/anusvāra stem-recovery can
+  over- or under-strip; the VCP-unchanged control validates the *direction* of
+  the correction, not the *precision* of SKD's 50.3% — read it as ~50%, not exact.
+- **The kośa/text binary is soft-edged.** Some `iti` sources blur the line — e.g.
+  `Bhāvaprakāśa` is a medical *text* carrying a nighaṇṭu section — so 46.7% is a
+  floor with a fuzzy boundary, not a sharp count.
 - VCP lexical-share unmeasured (kośa list is SKD-specific). The nine-dict register
   comparison is the atlas CITATION_REGISTERS work, not this memo.

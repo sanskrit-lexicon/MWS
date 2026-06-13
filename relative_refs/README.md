@@ -12,11 +12,16 @@ citations and feeds paper P3.
 
 ## `ib.` result
 
-**7,538 of 10,094 (74.7%)** resolve to a real text source; 25.3% to a meta
-marker (stays unlinkable); 0 unresolvable. Top targets: `MBh.` 1,149, `RV.`
-1,064, `BhP.` 381, `Pāṇ.` 344, `Suśr.` 280. Confidence: 57.1% land in the same
-headword cluster (high), 42.9% cross a headword boundary (compound runs sharing a
-source — flagged in the CSV for review). See [IB_SUMMARY.md](IB_SUMMARY.md).
+These figures are **resolvable, not verified** — the walk finds an antecedent; no
+hand-check against the print has confirmed it is the source MW meant (the required
+next step).
+
+The defensible core is the **5,762 (57.1%) same-cluster** resolutions, where the
+antecedent sits in the same headword. A further 42.9% cross a headword boundary
+(compound runs chaining `ib.` to a shared source — lower confidence, flagged in the
+CSV); combined, **7,538 (74.7%)** reach a real text source as a *mechanical upper
+bound*. Top targets: `MBh.` 1,149, `RV.` 1,064, `BhP.` 381, `Pāṇ.` 344, `Suśr.` 280.
+See [IB_SUMMARY.md](IB_SUMMARY.md).
 
 Resolution is pure document order — *ibidem* = the last work cited in reading
 order — so every `ib.` resolves; the only judgement is the cross-boundary
