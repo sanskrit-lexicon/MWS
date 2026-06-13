@@ -4,7 +4,7 @@ Parallel to the Register-A (`<ls>L.</ls>`→DCS) result. SKD/VCP headwords and
 DCS-2021 lemma keys are both SLP1. **Lemma-level, lemma-now.**
 
 ## 1. Register B is constitutively lexicographic (the headline)
-- **SKD**: of 45,193 `iti` citations, **46.7%** target a named kośa / nighaṇṭu in the (conservative) lexicon list
+- **SKD**: of 76,364 `iti` citations, **40.5%** target a named kośa / nighaṇṭu in the (conservative) lexicon list
   (`rājanighaṇṭu`, `medinī`, `hemacandra`, `śabdaratnāvalī`, `kavikalpadruma`, …)
   — a floor, since the long tail of lexical sources is unclassified.
 
@@ -23,9 +23,9 @@ control).
 
 | inventory | headwords | DCS-attested | rate |
 |---|--:|--:|--:|
-| SKD — all headwords (stem-aware) | 40,815 | 20,919 | **51.3%** |
+| SKD — all headwords (stem-aware) | 40,815 | 20,918 | **51.3%** |
 | VCP — all headwords (stem-aware) | 48,629 | 23,777 | **48.9%** |
-| *context:* MW — all headwords | 194,084 | 57,228 | 29.5% |
+| *context:* MW — all headwords | 194,084 | 57,224 | 29.5% |
 | *context:* MW — `L.`-only lemmas (DCS-2021) | 18,930 | 5,871 | 31.0% |
 
 So the indigenous lexical inventory is **not** a closed self-referential universe:
@@ -33,7 +33,7 @@ So the indigenous lexical inventory is **not** a closed self-referential univers
 *citation style* (§1) does **not** imply a corpus-detached *vocabulary*.
 
 ## Caveats
-- **MW is context, not a benchmark.** MW's rate (28.2%) is over 194k headwords —
+- **MW is context, not a benchmark.** MW's rate (29.5%) is over 194k headwords —
   ~4× the indigenous inventories — and is diluted by its compound-heavy
   macrostructure; the lower number reflects inventory composition, not weaker
   grounding. Do not read "indigenous > MW".
@@ -41,9 +41,9 @@ So the indigenous lexical inventory is **not** a closed self-referential univers
   exposure).
 - **The SKD figure is approximate (±).** The visarga/anusvāra stem-recovery can
   over- or under-strip; the VCP-unchanged control validates the *direction* of
-  the correction, not the *precision* of SKD's 50.3% — read it as ~50%, not exact.
+  the correction, not the *precision* of SKD's 51.3% — read it as approximate, not exact.
 - **The kośa/text binary is soft-edged.** Some `iti` sources blur the line — e.g.
-  `Bhāvaprakāśa` is a medical *text* carrying a nighaṇṭu section — so 46.7% is a
+  `Bhāvaprakāśa` is a medical *text* carrying a nighaṇṭu section — so 40.5% is a
   floor with a fuzzy boundary, not a sharp count.
 - VCP lexical-share unmeasured (kośa list is SKD-specific). The nine-dict register
   comparison is the atlas CITATION_REGISTERS work, not this memo.

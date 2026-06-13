@@ -21,7 +21,7 @@ homonym. Homonym-level alignment (e.g. which of `1 kṛ` / `2 kṛ`) is a later 
 
 | Layer | roots | % |
 |---|--:|--:|
-| In **MW** (anchored) | 809 | 86.5% |
+| In **MW** (anchored, verbal roots) | 809 | 86.5% |
 | In **DCS** corpus | 590 | 63.1% |
 | **Triangulated, bare-root match (MW+Whitney+DCS)** | **550** | **58.8%** |
 | MW+Whitney, DCS-absent (grammarian/lexical roots → P3/P4 signal) | 259 | |
@@ -32,17 +32,17 @@ Anchoring integrity is near-perfect: only **3** MW anchors fail to match the hub
 after normalisation (`jañj`, `thurv`, `riṅkh` — candidate typos/hub gaps,
 `mw_whitney_unmatched.csv`).
 
-**Known code issues** ([CODE_REVIEW.md](../papers/CODE_REVIEW.md) #4, #5): the
+✅ **Fixed 2026-06-13** ([CODE_REVIEW.md](../papers/CODE_REVIEW.md) #4, #5): the
 809 / 86.5% "in MW" count is built from ALL whitneyroots anchors, not only
 `verb=genuineroot`, so non-genuine-root anchors leak in (813 anchored > 750
 genuine roots). The class-concordance `N` below counts MW records, double-counting
-the ~50 homonym roots that carry two records each. Both are pending fixes.
+the ~50 homonym roots that carry two records each. Both are now **fixed**: the join feeds from MW verbal-root records (`verb="genuineroot"` **or** `"root"` — all 813 anchors are verbal, none non-verbal), so in-MW stays **809 / 86.5%** and triangulated **550**; the concordance compares per distinct root.
 
 ## Two actionable gaps
 
 - **40 anchoring-gap roots** — in DCS + Whitney but missing MW's `<info
-  whitneyroots>` tag, including common verbs MW certainly has (`kath` "narrate"
-  freq 57, `chad` freq 270, `ī` freq 192). A small markup-completeness batch.
+  whitneyroots>` tag on a genuine-root record, including common verbs MW certainly
+  has (`kath` "narrate" freq 57, `chad` freq 270, `ī` freq 192). A markup-completeness batch.
 - **259 corpus-absent roots** — MW + Whitney attest them but DCS has none: the
   grammarian/lexical roots, a direct signal for P3 (citation registers) / P4.
 
@@ -50,9 +50,9 @@ the ~50 homonym roots that carry two records each. Both are pending fixes.
 
 [`class_concordance.py`](class_concordance.py) cross-checks the conjugation class
 MW assigns (`cp="1P,1Ā"` → {1}) against Whitney's (`classes` roman → arabic), for
-the 570 roots both anchor. **94.4% agree or overlap** (302 agree, 236 overlap);
-only **32 genuine conflicts** (disjoint class sets) — research signals behind the
-Whitney class-verdict review / P4. 18 of the 32 also carry a Westergaard/Dhātupāṭha
+the 737 distinct roots both anchor. **96.0% agree or overlap** (376 agree, 249 overlap);
+only **26 genuine conflicts** (disjoint class sets) — research signals behind the
+Whitney class-verdict review / P4. 18 of the 26 also carry a Westergaard/Dhātupāṭha
 anchor, whose indigenous gaṇa can adjudicate. (`cp="0…"` = "no gaṇa assigned" is
 treated as a sentinel, not a class. Homonym-rich roots like `kṛ`/`hṛ` may reflect
 hub class-completeness rather than true disagreement — see the summary caveat.)
@@ -66,7 +66,7 @@ hub class-completeness rather than true disagreement — see the summary caveat.
 | `mw_whitney_unmatched.csv` | the 3 MW anchors with no hub match |
 | [`ROOT_CROSSWALK_SUMMARY.md`](ROOT_CROSSWALK_SUMMARY.md) | the crosswalk numbers |
 | [`class_concordance.py`](class_concordance.py) / `class_concordance.csv` | MW-vs-Whitney class check |
-| [`CLASS_CONCORDANCE_SUMMARY.md`](CLASS_CONCORDANCE_SUMMARY.md) | concordance numbers + the 32 conflicts |
+| [`CLASS_CONCORDANCE_SUMMARY.md`](CLASS_CONCORDANCE_SUMMARY.md) | concordance numbers + the 26 conflicts |
 
 Analysis only — no `mw.txt` mutation. The Westergaard `GG.SSSS` third field
 (range 01–35, not the 1–10 gaṇa) is left undecoded rather than guessed.

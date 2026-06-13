@@ -1,5 +1,10 @@
 # Adversarial red-team — 2026-06-13 session findings
 
+> **Note (post-fix):** the numbers here are the *pre-fix* state. A later code review found
+> and **fixed** 15 script bugs; corrected figures (e.g. Register-B 46.7%→40.5%, class
+> conflicts 32→26; the root-crosswalk 809/550 were correct, only a label was off) are in
+> [CODE_REVIEW.md](CODE_REVIEW.md).
+
 A hostile-reviewer pass over the session's eight deliverables: where would a
 *Dictionaries* / IJL referee break each? Severity: 🔴 **needs work** (a referee
 would catch it — fix before any paper) · 🟡 **survives with a wording fix** · 🟢

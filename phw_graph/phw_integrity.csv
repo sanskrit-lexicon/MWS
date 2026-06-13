@@ -1,20 +1,20 @@
 issue_kind,detail
-asymmetric,parent 18542(avAntara) -> child 18543.1(avAntarAm): backlink=no_backlink
+child_missing_backlink,parent 18542(avAntara) -> child 18543.1(avAntarAm): child has no phwparent
 dangling_phwchild,91949 (dAsamitrAyaRa) -> missing child 91949.2
-asymmetric,parent 93353(duHsampAda) -> child 93353.1(duHsampAdya): backlink=no_backlink
+child_missing_backlink,parent 93353(duHsampAda) -> child 93353.1(duHsampAdya): child has no phwparent
 dangling_phwchild,95518 (deva) -> missing child 95539.11
-asymmetric,parent 95518(deva) -> child 96277.1(devI): backlink=no_backlink
+child_missing_backlink,parent 95518(deva) -> child 96277.1(devI): child has no phwparent
 dangling_phwchild,125979 (purAvfttakaTA) -> missing child 125901.2
 dangling_phwchild,125979 (purAvfttakaTA) -> missing child 125901.3
 dangling_phwchild,134508 (praTama) -> missing child 134516.1
-asymmetric,parent 167783(meTi) -> child 167791.1(meTI): backlink=no_backlink
-asymmetric,parent 167783(meTi) -> child 167958.1(meDi): backlink=no_backlink
-asymmetric,parent 167783(meTi) -> child 167959.1(meDI): backlink=no_backlink
+child_missing_backlink,parent 167783(meTi) -> child 167791.1(meTI): child has no phwparent
+child_missing_backlink,parent 167783(meTi) -> child 167958.1(meDi): child has no phwparent
+child_missing_backlink,parent 167783(meTi) -> child 167959.1(meDI): child has no phwparent
 dangling_phwchild,167783 (meTi) -> missing child 167759.1
 dangling_phwchild,167783 (meTi) -> missing child 167755.01
 dangling_phwchild,167783 (meTi) -> missing child 167755.11
 dangling_phwchild,167783 (meTi) -> missing child 167760.1
-asymmetric,parent 167785(meTi) -> child 167791.2(meTI): backlink=no_backlink
+child_missing_backlink,parent 167785(meTi) -> child 167791.2(meTI): child has no phwparent
 orphan_backlink,child 18543(avAntaram) claims parent 18542 but parent does not list it
 orphan_backlink,child 91950(dAsamitrAyaRaBakta) claims parent 91949 but parent does not list it
 orphan_backlink,child 91950.1(dAsamitriBakta) claims parent 91949.1 but parent does not list it

@@ -27,11 +27,11 @@ Resolution is pure document order — *ibidem* = the last work cited in reading
 order — so every `ib.` resolves; the only judgement is the cross-boundary
 confidence flag.
 
-**Known code issues** ([CODE_REVIEW.md](../papers/CODE_REVIEW.md) #8, #12): the
+✅ **Fixed 2026-06-13** ([CODE_REVIEW.md](../papers/CODE_REVIEW.md) #8, #12): the
 [`ib_resolve.py`](ib_resolve.py) module docstring still describes the OLD
 k1-cluster-scoped algorithm, but the code now resolves over the global document
-stream (crossing headwords); and `re.split` passes `maxsplit` positionally
-(deprecated). Documented, not fixed — affects no number above.
+stream (crossing headwords) — **now rewritten to describe that**; and `re.split` now
+passes `maxsplit=1` as a keyword. No number above changes.
 
 ## Files
 

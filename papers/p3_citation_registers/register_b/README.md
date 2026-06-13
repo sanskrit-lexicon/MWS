@@ -8,15 +8,15 @@ genuinely novel extension flagged in the synthesis.
 ## Two findings
 
 1. **Register B is constitutively lexicographic.** Of SKD's 45,193 `iti`
-   citations, **46.7%** (a floor) target a named kośa / nighaṇṭu — `rājanighaṇṭu`
+   citations, **40.5%** (a floor) target a named kośa / nighaṇṭu — `rājanighaṇṭu`
    (4,095), `medinī` (3,186), `hemacandra` (2,601), `śabdaratnāvalī`,
    `kavikalpadruma`, … — not literary texts. Where MW marks lexicographer-only
    material with the *exceptional* `<ls>L.</ls>` hedge (13%), the indigenous
    register cites lexicons by **default**. The hedge flags as exceptional what is
    Register B's norm. *(This is the qualitative, robust result; it needs no corpus.)*
 
-2. **That vocabulary is, nonetheless, ~half corpus-grounded.** **SKD 50.3%**,
-   **VCP 47.9%** of headwords occur in DCS. So the lexical *citation style* does
+2. **That vocabulary is, nonetheless, ~half corpus-grounded.** **SKD 51.3%**,
+   **VCP 48.9%** of headwords occur in DCS. So the lexical *citation style* does
    not imply a corpus-detached *vocabulary*.
 
 ## Method & the artifact caught
@@ -24,13 +24,13 @@ genuinely novel extension flagged in the synthesis.
 Headwords (`<k1>`) and DCS-2021 lemma keys are both SLP1. But **SKD cites
 headwords in nominative-singular form** (`aMSaH`, `aMSakaM`, `aMSuH`) while DCS
 lemmas are bare stems — a naive match scored SKD at a spurious **13.8%**. A
-stem-aware match (strip visarga / anusvāra) recovers the real **50.3%**; the same
-de-inflection leaves bare-stem VCP **unchanged (47.9%→47.9%)**, which is the
+stem-aware match (strip visarga / anusvāra) recovers the real **51.3%**; the same
+de-inflection leaves bare-stem VCP **unchanged (48.9%→48.9%)**, which is the
 control proving it corrects rather than inflates.
 
 ## Caveats (load-bearing)
 
-- **MW is context, not a benchmark.** Its 28.2% is over 194k headwords (~4× the
+- **MW is context, not a benchmark.** Its 29.5% is over 194k headwords (~4× the
   indigenous inventories) and diluted by compound-heavy macrostructure — do *not*
   read "indigenous > MW".
 - Lemma-level; attestation is for *any* sense (homograph exposure); SKD depends on

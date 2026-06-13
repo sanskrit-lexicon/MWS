@@ -13,9 +13,9 @@ this note is the index from the MWS-side evidence.
 | **`L.`→DCS** ([lexicographer_dcs/](../lexicographer_dcs/)) | **P3** citation registers | Dictionaries | Register A's `L.` hedge is ~31% corpus-recoverable (stable 2 snapshots) | in [SYNTHESIS](p3_citation_registers/SYNTHESIS.md) |
 | **`ib.` resolver** ([relative_refs/](../relative_refs/)) | **P3** | Dictionaries | 74.7% of relative cites resolve → "meta" overstates Register A's sourcelessness | in SYNTHESIS |
 | **Botanical `L.`-attestation** ([botanical_glossary/](../botanical_glossary/)) | **P3** | Dictionaries | the evidentiary gradient in one semantic field (1,567 confirmed) | in SYNTHESIS |
-| **Register-B corpus test** ([papers/p3_citation_registers/register_b/](p3_citation_registers/register_b/)) | **P3** + **P4** | Dictionaries / IJL·WSC | Register B is constitutively lexicographic (SKD 46.7% `iti`→kośa) yet ~half corpus-grounded (SKD 50.3%, VCP 47.9%) | drafted (memo) |
+| **Register-B corpus test** ([papers/p3_citation_registers/register_b/](p3_citation_registers/register_b/)) | **P3** + **P4** | Dictionaries / IJL·WSC | Register B is constitutively lexicographic (SKD 40.5% `iti`→kośa) yet ~half corpus-grounded (SKD 51.3%, VCP 48.9%) | drafted (memo) |
 | **Root crosswalk MW↔Whitney↔DCS** ([root_crosswalk/](../root_crosswalk/)) | **P6** learner's layer | Lexikos | the corpus+grammar+dict join P6 needs (550/935 roots triangulated by bare-root match) | data ready |
-| **Class concordance** ([root_crosswalk/](../root_crosswalk/)) | **P6** (or grammar note) | — | MW vs Whitney conjugation class: 94.4% agree/overlap, 32 *candidate* conflicts | data ready, **needs Sanskritist** |
+| **Class concordance** ([root_crosswalk/](../root_crosswalk/)) | **P6** (or grammar note) | — | MW vs Whitney conjugation class: 96.0% agree/overlap, 26 *candidate* conflicts | data ready, **needs Sanskritist** |
 | **Corpus-absent roots** (root_crosswalk) | **P3/P4** | — | 259 MW+Whitney roots DCS attests zero times — the hard grammarian residue | in SYNTHESIS |
 
 ## Two cross-cutting threads

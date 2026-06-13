@@ -41,10 +41,9 @@ vs.
 
 - Packet C shows the Dhātupāṭha (Westergaard) reference where MW records one — the
   indigenous tiebreaker (18 of 32 have it).
-- **Known code issue** ([CODE_REVIEW.md](../papers/CODE_REVIEW.md) #11): Packet C keys
-  the genuine-root index by bare root and keeps the FIRST homonym, so a class conflict
-  on a later homonym (e.g. `√as`, where the cl. 4 belongs to the other homonym) can be
-  shown next to the wrong homonym's gloss/Dhātupāṭha — read those rows with care.
+- ✅ **Fixed 2026-06-13** ([CODE_REVIEW.md](../papers/CODE_REVIEW.md) #11): Packet C now shows
+  **all MW homonym records** for each conflict root (was first-only), so the reviewer sees
+  the homonym the conflict belongs to (e.g. both `√as` homonyms, cl. 2 and cl. 4).
 - Sanskrit in glosses is SLP1 (as in the source); headwords are shown in IAST.
 - Built by [`build_packets.py`](build_packets.py) from the committed module outputs +
   `dcs_full.sqlite`. Re-runnable.

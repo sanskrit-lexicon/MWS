@@ -85,16 +85,16 @@ indigenous-register treatment. It converts the binary register distinction into 
 **form × evidence** matrix and supplies MW's column.
 
 **Register B's column is now partly filled** ([register_b/](register_b/)): the
-indigenous register is **constitutively lexicographic** — 46.7% of SKD's `iti`
+indigenous register is **constitutively lexicographic** — 40.5% of SKD's `iti`
 citations target a named kośa/nighaṇṭu (a floor), so the `L.` hedge MW marks as
 *exceptional* is Register B's *default*. Yet that vocabulary is **~half
-corpus-grounded** (SKD 50.3%, VCP 47.9% of headwords in DCS, stem-aware). The
+corpus-grounded** (SKD 51.3%, VCP 48.9% of headwords in DCS, stem-aware). The
 corpus test thus completes the matrix: a constitutively-lexical *citation style*
 does not entail a corpus-detached *vocabulary*. Remaining open (shared with P4):
 VCP's lexical-citation share (its source vocabulary differs from SKD's) and
 sense-level verification.
 
-> ⚠ **Known code issues** ([CODE_REVIEW.md](../CODE_REVIEW.md) #1–#3, #7): the cited 46.7% / 50.3% are subject to correction — the iti-citation regex captures a trailing hyphen into kośa names and requires a leading space, and the de-inflection over-strips final-M indeclinables; treat these figures as provisional until the generator is fixed.
+> ✅ **Fixed 2026-06-13** ([CODE_REVIEW.md](../CODE_REVIEW.md) #1–#3, #7): the iti-citation regex and the de-inflection are corrected; the figures here (**40.5%** kośa share, **51.3%** SKD grounding) are the post-fix values.
 
 ## What this is **not**
 

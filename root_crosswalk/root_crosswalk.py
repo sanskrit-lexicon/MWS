@@ -59,11 +59,15 @@ def flush():
     if cur_L is None: return
     t = ''.join(rec)
     vb = VB_RE.search(t)
-    cp = ''
-    if vb:
-        if vb.group(1) == 'genuineroot':
-            genuine.add(cur_L)
-        cp = vb.group(2) or ''
+    # CODE_REVIEW #4: feed the crosswalk from MW's VERBAL-ROOT records only. Both
+    # verb="genuineroot" (750) and verb="root" (1,363) mark genuine verbal roots;
+    # all 813 whitneyroots anchors sit on these two (0 on non-verbal records). The
+    # earlier genuineroot-only filter wrongly dropped the 203 verb="root" anchors
+    # (adversarial review caught the over-filter).
+    if not (vb and vb.group(1) in ('genuineroot', 'root')):
+        return
+    genuine.add(cur_L)
+    cp = vb.group(2) or ''
     for v in WR_RE.findall(t):
         has_wr.add(cur_L)
         for part in v.split(';'):
@@ -118,7 +122,7 @@ NH = len(hub)
 S=[]
 S.append('# 3-way verbal-root crosswalk: MW ↔ Whitney ↔ DCS\n')
 S.append('## MW side')
-S.append(f'- MW genuine-root records (`verb="genuineroot"`): **{len(genuine):,}**')
+S.append(f'- MW verbal-root records (`verb="genuineroot"` or `"root"`): **{len(genuine):,}**')
 S.append(f'- …with a Whitney anchor (`<info whitneyroots>`): {len(has_wr):,}')
 S.append(f'- …with a Westergaard anchor (`<info westergaard>`): {len(has_wg):,}')
 S.append(f'- Distinct MW-anchored roots matched to the hub: {len(matched_bares):,};')

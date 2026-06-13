@@ -9,14 +9,16 @@ point at a recoverable real source: the nearest preceding <ls> in reading order.
 Resolving them reclassifies linkable citations and feeds paper P3.
 
 Algorithm (deterministic):
-  - Scope = headword cluster: a maximal run of consecutive records sharing <k1>.
-    (ib. refers within an entry; we do not cross into a different headword.)
-  - Within a cluster, collect <ls> citations in document order.
-  - Each ib. resolves to the immediately preceding <ls>; if that is itself ib.,
-    chain back to the first non-ib. citation (terminal).
+  - Build one GLOBAL stream of <ls> citations in document order, tagging each with
+    the headword cluster (a maximal run of consecutive same-<k1> records) it sits in.
+  - Each ib. resolves to the nearest preceding <ls> in that stream; if that is
+    itself ib., chain back to the first non-ib. citation (terminal). Resolution
+    therefore CAN cross a headword boundary — flagged 'crossed-headword' (lower
+    confidence) vs 'same-cluster' (high confidence) in the output. (Earlier drafts
+    were cluster-scoped; the code now walks the whole document — CODE_REVIEW #8.)
   - "Recovered as linkable" = terminal is a real text source, i.e. NOT one of the
-    meta/relative markers {ib., L., MW., W., Cat.}.
-  - Unresolvable = no preceding <ls> in the cluster (ib. is cluster-initial).
+    meta/relative markers in META below.
+  - Unresolvable = no preceding <ls> earlier in the dictionary at all (≈never).
 
 Outputs (this dir):
   ib_resolved.csv        (L-number, headword, terminal source, terminal kind)
@@ -33,10 +35,11 @@ MW   = os.path.join(GH, 'csl-orig', 'v02', 'mw', 'mw.txt')
 LS_RE = re.compile(r'<ls(?:\s[^>]*)?>(.*?)</ls>')
 K1_RE = re.compile(r'<k1>([^<]*)')
 L_RE  = re.compile(r'^<L>([^<]*)')
-META  = {'L.', 'MW.', 'W.', 'Cat.'}     # real-ish but not a re-citable text work
+META  = {'L.', 'ib.', 'MW.', 'W.', 'Cat.', 'id.'}   # non-text markers; aligned with
+                                                    # link_candidates (CODE_REVIEW #15 — ideally one shared constant)
 def is_ib(s):   return s.strip() == 'ib.'
 def base(s):    # strip locator to bare siglum for kind reporting
-    return re.split(r'[ ,]', s.strip(), 1)[0]
+    return re.split(r'[ ,]', s.strip(), maxsplit=1)[0]   # CODE_REVIEW #12: keyword maxsplit
 
 # --- global document-order stream of (Lnum, cluster_id, ls) ---
 # cluster_id increments whenever consecutive <k1> changes (headword boundary).

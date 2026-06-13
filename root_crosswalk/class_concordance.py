@@ -44,7 +44,7 @@ hub_has = {bare(r['root']) for r in hub}
 # --- MW: roots with whitney anchor + cp class, and westergaard presence ---
 WR_RE = re.compile(r'whitneyroots="([^"]*)"')
 WG_RE = re.compile(r'westergaard="')
-CP_RE = re.compile(r'verb="genuineroot"\s+cp="([^"]*)"')
+CP_RE = re.compile(r'verb="(?:genuineroot|root)"\s+cp="([^"]*)"')   # both are verbal roots (CODE_REVIEW #4)
 L_RE  = re.compile(r'^<L>([^<]*)')
 def mw_classes(cp):
     # cp like "1P,1Ā,10P" -> {1,10}. MW class 0 = "no gana assigned" (pada known,
@@ -71,9 +71,16 @@ with open(MW, encoding='utf-8') as f:
             rec.append(line)
 flush()
 
-# --- compare ---
-rows = []; verdict_hist = {}; conflicts = []
+# --- compare (per DISTINCT bare root) ---
+# CODE_REVIEW #5: a homonym-rich root has >1 genuine-root record; aggregate MW
+# classes over those records (as hub_cls already unions Whitney's) so each root is
+# compared ONCE, not once per homonym record (was N=records, double-counting ~50).
+by_root = {}
 for b, mwc, wg in records:
+    e = by_root.setdefault(b, [set(), False])
+    e[0] |= mwc; e[1] = e[1] or wg
+rows = []; verdict_hist = {}; conflicts = []
+for b, (mwc, wg) in sorted(by_root.items()):
     wc = hub_cls.get(b, set())
     if not mwc and not wc: v = 'both_empty'
     elif not wc:           v = 'whitney_empty'
@@ -91,7 +98,7 @@ with open(os.path.join(HERE,'class_concordance.csv'),'w',newline='',encoding='ut
     w=csv.writer(f); w.writerow(['root','mw_classes','whitney_classes','verdict','has_westergaard'])
     w.writerows(sorted(rows))
 
-N = len(records)
+N = len(by_root)
 comparable = sum(verdict_hist.get(v,0) for v in ('agree','overlap','conflict'))
 def pc(n): return f'{100*n/comparable:.1f}%' if comparable else '-'
 S=[]

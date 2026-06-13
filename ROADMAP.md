@@ -194,7 +194,7 @@ Four tracks, in leverage order:
 7. **Root crosswalk MW↔Whitney↔DCS (built 2026-06-13).**
    [root_crosswalk/](https://github.com/sanskrit-lexicon/MWS/tree/master/root_crosswalk)
    is Layer-1 of the grammar-corpus-dict crosswalk: of 935 Whitney roots, **550
-   (58.8%) are fully triangulated** (MW gloss + Whitney grammar + DCS frequency).
+   (58.8%) are triangulated** (MW gloss + Whitney grammar + DCS frequency).
    Anchoring is near-clean (3/795 unmatched). Two spin-offs: a 40-root
    `<info whitneyroots>` anchoring batch (common verbs MW left untagged), and 259
    corpus-absent roots as a P3/P4 signal. Westergaard layer (1,362) not yet joined.

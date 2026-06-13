@@ -131,40 +131,46 @@ def packet_C():
     for r in conf:
         # reverse IAST->SLP1 is ambiguous; instead match on the SLP1 of the IAST via the crosswalk's bare root
         roots_slp[r['root']] = r
-    # pull MW genuine-root record by matching k1 whose s2i(bare) == conflict root
-    _, byroot = load_records(want_k1_root=set())   # we match differently below
-    # simpler: scan mw.txt for genuineroot records, index by s2i(bare k1)
-    idx = {}
-    cur_L=cur_k1=None; buf=[]
+    # CODE_REVIEW #11: index every genuine-root record by bare root, keeping ALL
+    # homonyms (was setdefault → first only), so the reviewer sees the homonym the
+    # conflict actually sits on. (Also drops the dead load_records(set()) full scan.)
+    idx = {}   # bare root -> list of (k1, record_text)
+    cur_k1=None; buf=[]
+    def _stash():
+        if cur_k1 and 'genuineroot' in ''.join(buf):
+            idx.setdefault(s2i(re.sub(r'\d+$','',cur_k1)), []).append((cur_k1, ''.join(buf)))
     with open(MW, encoding='utf-8') as f:
         for line in f:
             if line.startswith('<L>'):
-                if cur_k1 and 'genuineroot' in ''.join(buf):
-                    key = s2i(re.sub(r'\d+$','',cur_k1))
-                    idx.setdefault(key, ''.join(buf))
-                m=re.search(r'<k1>([^<]*)',line); cur_k1=m.group(1) if m else None; buf=[line]
+                _stash(); m=re.search(r'<k1>([^<]*)',line); cur_k1=m.group(1) if m else None; buf=[line]
             elif line.startswith('<LEND>'):
-                if cur_k1 and 'genuineroot' in ''.join(buf):
-                    key=s2i(re.sub(r'\d+$','',cur_k1)); idx.setdefault(key, ''.join(buf))
-                cur_k1=None; buf=[]
+                _stash(); cur_k1=None; buf=[]
             elif cur_k1 is not None: buf.append(line)
+        _stash()
+    def _hom(rec):
+        wg = re.search(r'westergaard="[^,]*,([^,]*),', rec)
+        dref = f'Dhātup. {wg.group(1)}' if wg else '(no Westergaard ref)'
+        gloss = clean(rec.split('¦',1)[1])[:150] if '¦' in rec else clean(rec)[:150]
+        return dref, gloss
     out_csv, md = [], md_header(
         'Packet C — MW vs Whitney conjugation-class conflicts (32)',
-        'Roots where MW and Whitney assign **disjoint** conjugation classes. Where MW records a '
-        'Dhātupāṭha (Westergaard) reference it is shown as the indigenous tiebreaker. '
-        'Decide the correct class (MW / Whitney / both / other).', None)
+        'Roots where MW and Whitney assign **disjoint** conjugation classes. **All MW homonym '
+        'records** are shown (the class conflict may sit on one of several), with the Dhātupāṭha '
+        '(Westergaard) reference where MW records it. Decide the correct class (MW / Whitney / both / other).', None)
     for r in conf:
-        rec = idx.get(r['root'], '')
-        wg = re.search(r'westergaard="[^,]*,([^,]*),', rec)
-        dref = f'Dhātup. {wg.group(1)}' if wg else '(no Westergaard ref in MW)'
-        gloss = clean(rec.split('¦',1)[1])[:160] if '¦' in rec else clean(rec)[:160]
-        out_csv.append([r['root'], r['mw_classes'], r['whitney_classes'], dref, gloss, ''])
+        homs = idx.get(r['root'], [])
+        csv_homs = ' || '.join(f'{k1h}: {_hom(rec)[1]} [{_hom(rec)[0]}]' for k1h,rec in homs) or '(no MW genuineroot record)'
+        out_csv.append([r['root'], r['mw_classes'], r['whitney_classes'], len(homs), csv_homs, ''])
         md += [f'### √{r["root"]}',
-               f'- **MW class:** {r["mw_classes"]}   **Whitney class:** {r["whitney_classes"]}   '
-               f'**Dhātupāṭha:** {dref}',
-               f'- MW: {gloss}',
-               f'- **Correct class? (MW / Whitney / both / other)** Verdict: ____\n']
-    write('PACKET_C_classconflicts', md, ['root','mw_classes','whitney_classes','dhatupatha_ref','mw_gloss','verdict'], out_csv)
+               f'- **MW class (union over homonyms):** {r["mw_classes"]}   **Whitney class:** {r["whitney_classes"]}']
+        if homs:
+            for k1h, rec in homs:
+                dref, gloss = _hom(rec)
+                md.append(f'  - *{s2i(k1h)}* ({dref}): {gloss}')
+        else:
+            md.append('  - *(no MW genuine-root record found for this bare root)*')
+        md.append(f'- **Correct class? (MW / Whitney / both / other; which homonym?)** Verdict: ____\n')
+    write('PACKET_C_classconflicts', md, ['root','mw_classes','whitney_classes','n_homonyms','mw_homonym_records','verdict'], out_csv)
     return len(conf)
 
 def write(name, md_lines, csv_header, csv_rows):

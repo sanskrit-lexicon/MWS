@@ -115,7 +115,7 @@ L.append(f'\n- Strong tier (bands ≥2, non-hapax): **{sum(band_hist[b] for b in
 L.append(f'- Uncommon-or-better (bands ≥3): **{sum(band_hist[b] for b in (3,4,5)):,}**')
 L.append('\n## Cross-snapshot stability')
 L.append(f'- The headline barely moves across two DCS snapshots:')
-L.append(f'  **{100*prev/np:.1f}% (DCS-2021) -> 31.4% (DCS-2026)**. NB these are two versions of')
+L.append(f'  **{100*prev/np:.1f}% (DCS-2021) -> {pct:.1f}% (DCS-2026)**. NB these are two versions of')
 L.append(f'  the *same* corpus project (one annotator, Hellwig) — so this controls for')
 L.append(f'  corpus *version*, not for DCS\'s own lemmatisation conventions. It is not a')
 L.append(f'  snapshot artefact, which supports (does not prove) the P3 claim.')

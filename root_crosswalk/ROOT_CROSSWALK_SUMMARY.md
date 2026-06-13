@@ -1,9 +1,9 @@
 # 3-way verbal-root crosswalk: MW ↔ Whitney ↔ DCS
 
 ## MW side
-- MW genuine-root records (`verb="genuineroot"`): **750**
+- MW verbal-root records (`verb="genuineroot"` or `"root"`): **2,113**
 - …with a Whitney anchor (`<info whitneyroots>`): 813
-- …with a Westergaard anchor (`<info westergaard>`): 1,362
+- …with a Westergaard anchor (`<info westergaard>`): 1,309
 - Distinct MW-anchored roots matched to the hub: 734;
   **unmatched (candidate anchor errors): 3** → `mw_whitney_unmatched.csv`
 

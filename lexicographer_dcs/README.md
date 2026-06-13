@@ -39,11 +39,9 @@ Net +64 refutations from the corpus refresh (+75 gross, −11 lemmatisation drif
 The 2026 join transcodes DCS IAST → SLP1 (validated: only 11/5,871 of the 2021 hits
 drop out, all plain-ASCII so not a transcode failure).
 
-⚠️ **Caveat — the 31.4% (DCS-2026) cell is hardcoded, not computed.** Unlike the
-now-live 2021 side, the 2026 stability figure is a literal string in the generator
+✅ **Fixed 2026-06-13 — the 31.4% (DCS-2026) cell is now computed** (CODE_REVIEW #6). Both sides of the stability line are now computed from the loaded data
 ([`ls_L_dcs2026.py:118`](ls_L_dcs2026.py#L118), [CODE_REVIEW.md](../papers/CODE_REVIEW.md) #6),
-so it will **not** auto-update on a DCS refresh — re-derive it from the loaded data
-before trusting it across snapshots.
+so the figure tracks a DCS refresh instead of going stale.
 
 Strongest tier = bands 2–3 (rare/uncommon), mostly plant/medical/technical terms
 MW had only from kośas, now corpus-attested: `SAlaparRī` (Desmodium, 14×), `BfNgaja`

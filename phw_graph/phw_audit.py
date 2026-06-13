@@ -63,6 +63,7 @@ with open(MW, encoding='utf-8') as f:
 # --- build edges from phwchild side ---
 edges = []           # (parentL, parentk1, childL, childk1, childlex, reciprocal)
 issues = []          # (kind, detail)
+broken_pairs = set() # distinct (parent,child) links flagged, for a deduped count (CODE_REVIEW #9)
 child_targets = {}   # childL -> parentL (from phwchild)
 for L in order:
     r = recs[L]
@@ -71,6 +72,7 @@ for L in order:
         cr = recs.get(c)
         if cr is None:
             issues.append(('dangling_phwchild', f'{L} ({r["k1"]}) -> missing child {c}'))
+            broken_pairs.add((L, c))
             edges.append((L, r['k1'], c, '', '', 'CHILD_MISSING'))
             continue
         # reciprocal? child's phwparent should name this parent L
@@ -80,8 +82,13 @@ for L in order:
             recip = 'yes' if par_L == L else f'MISMATCH(->{par_L})'
         else:
             recip = 'no_backlink'
-        if recip != 'yes':
-            issues.append(('asymmetric', f'parent {L}({r["k1"]}) -> child {c}({cr["k1"]}): backlink={recip}'))
+        # CODE_REVIEW #10: distinguish a child with NO backlink from one naming the WRONG parent
+        if recip == 'no_backlink':
+            issues.append(('child_missing_backlink', f'parent {L}({r["k1"]}) -> child {c}({cr["k1"]}): child has no phwparent'))
+            broken_pairs.add((L, c))
+        elif recip != 'yes':
+            issues.append(('child_wrong_parent', f'parent {L}({r["k1"]}) -> child {c}({cr["k1"]}): {recip}'))
+            broken_pairs.add((L, c))
         edges.append((L, r['k1'], c, cr['k1'], cr['lex'], recip))
 
 # --- reverse check: phwparent back-links whose parent doesn't list them ---
@@ -92,8 +99,10 @@ for L in order:
         pr = recs.get(par_L)
         if pr is None:
             issues.append(('dangling_phwparent', f'{L} ({r["k1"]}) -> missing parent {par_L}'))
+            broken_pairs.add((par_L, L))
         elif L not in pr['children']:
             issues.append(('orphan_backlink', f'child {L}({r["k1"]}) claims parent {par_L} but parent does not list it'))
+            broken_pairs.add((par_L, L))
 
 # --- characterise children ---
 child_set = set(e[2] for e in edges if e[5] != 'CHILD_MISSING')
@@ -132,8 +141,11 @@ S.append(f'- `<lex type="phw">` in-gloss markers: {sum(1 for L in order if recs[
 S.append(f'- Children targeted by >1 parent: {len(multi):,}\n')
 S.append('## Integrity')
 S.append(f'- **Reciprocal (parent↔child both link): {recip_ok:,} / {len(edges):,} ({100*recip_ok/len(edges):.1f}%)**')
+S.append(f'- **Distinct broken parent↔child links: {len(broken_pairs):,}** (equals the issue-row total here:')
+S.append(f'  this data has no mismatched-triangle case that a single defect would flag from both sides; the')
+S.append(f'  dedup is a safeguard for that case, not a correction to this count — CODE_REVIEW #9).')
 if ikind:
-    S.append('- Issues found:')
+    S.append('- Issue rows by kind:')
     for k,n in sorted(ikind.items(), key=lambda kv:-kv[1]):
         S.append(f'  - `{k}`: {n}')
 else:
@@ -149,9 +161,10 @@ S.append('- Promoted children span `n.` (789), `ind.` (533, adverbial phrases li
 S.append('  `dharmeṇa`), `f.` (509), `mfn.` (257), `m.` (237) — inline derivative forms')
 S.append('  MW made separately addressable. A genuine structured-data layer (queryable')
 S.append('  phrase sub-entries), undocumented in DATA_DICTIONARY. Candidate W4 export.')
-S.append('- **The 31 integrity issues are real, fixable markup bugs** (mostly off-by-one')
-S.append('  L-number typos in `phwchild` targets). `phw_integrity.csv` is the actionable')
-S.append('  list — a ready `bug`+`markup` correction batch. Analysis only, no mutation.')
+S.append(f'- **The {len(broken_pairs):,} broken links are real, fixable markup bugs** (mostly off-by-one')
+S.append('  L-number typos in `phwchild` targets; `child_missing_backlink` vs `child_wrong_parent`')
+S.append('  now distinguish an absent back-link from a mis-pointed one). `phw_integrity.csv` is the')
+S.append('  actionable list — a ready `bug`+`markup` correction batch. Analysis only, no mutation.')
 open(os.path.join(HERE,'PHW_SUMMARY.md'),'w',encoding='utf-8').write('\n'.join(S)+'\n')
 
 print(f'edges {len(edges)} | parents {n_par} | children {n_chl}')

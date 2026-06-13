@@ -12,7 +12,7 @@ derived CSV(s), and a summary. **Analysis only — none mutate `mw.txt`.**
 | [relative_refs/](relative_refs/) | Resolve `ib.` (and spec `id.`/#98) to antecedent sources | 7,538/10,094 (74.7%) `ib.` → real source | `ib_resolved.csv` candidate map |
 | [botanical_glossary/](botanical_glossary/) | Sanskrit ↔ Linnaean glossary (#74) | 8,923 `<bot>` → 7,063 headwords / 1,223 species; 1,567 clean L.-only + DCS-attested | FAIR dataset + synonym rings |
 | [phw_graph/](phw_graph/) | Audit MW's phrasal-headword cross-reference graph | 2,364 edges, 99.3% reciprocal | **31 broken-link bugs** → `phw_integrity.csv` |
-| [root_crosswalk/](root_crosswalk/) | MW ↔ Whitney ↔ DCS root crosswalk + class concordance | 550/935 roots fully triangulated; 94.4% class agree/overlap, 32 conflicts | 40-root anchor gap; 32 class conflicts |
+| [root_crosswalk/](root_crosswalk/) | MW ↔ Whitney ↔ DCS root crosswalk + class concordance | 550/935 roots triangulated; 96.0% class agree/overlap, 26 conflicts | 40-root anchor gap; 26 class conflicts |
 
 See each module's `README.md` / `*SUMMARY.md` for method, caveats, and numbers.
 A recurring methodological theme: lemma-level corpus joins suffer **homograph
@@ -84,11 +84,11 @@ security, concern.
 
 ## Code review (2026-06-13)
 
-An extra-high-effort review of the analysis scripts found **15 issues**,
+An extra-high-effort review of the analysis scripts found **15 issues — all FIXED 2026-06-13**,
 recorded in [papers/CODE_REVIEW.md](papers/CODE_REVIEW.md). All are **quiet
 wrong-number bugs, not crashes** — the failure mode that matters when output
 feeds papers. **3 change a published number** (the register_b `iti`-citation
-regex + de-inflection bias the 46.7% / ~50.3% Register-B figures — the
+regex + de-inflection biased the Register-B figures (now corrected to **40.5% / 51.3%**) — the
 highest-value fix); the rest are latent drift (hardcoded `31.4%`),
 supporting-figure miscounts (root-anchor leak, homonym double-counts),
 misclassifications (phw issue buckets), and the duplication divergences below.

@@ -1,9 +1,15 @@
 # Code review — 2026-06-13 extra-high-effort pass over the MW analysis scripts
 
+> **✅ All 15 fixed 2026-06-13** (numbers re-verified by an adversarial pass). Corrected
+> figures: Register-B kośa share **46.7% → 40.5%**, SKD grounding **50.3% → 51.3%**;
+> root crosswalk **label fixed** (the 813 anchors are all verbal roots — in-MW stays
+> **809 / 86.5%**, triangulated **550**); class conflicts **32 → 26** (homonym-dedup +
+> `verb="root"` inclusion). The numbers inside each finding are the pre-fix values it describes.
+
 An extra-high-effort line-by-line review of this session's MW analysis scripts —
 the ones whose output feeds P3 memos and crosswalk papers. Findings are numbered
-stably #1..#15 in array order; every one is **OPEN (documented, not fixed)** because
-the brief was to document, not patch. Severity follows RED_TEAM.md: 🔴 changes a
+stably #1..#15 in array order. **All 15 were FIXED 2026-06-13** (this began as a
+document-only pass; the fixes followed). Severity follows RED_TEAM.md: 🔴 changes a
 **published number** · 🟠 latent drift / self-contradiction on re-run · 🟡 miscount /
 misclassification in a supporting figure · 🟢 cleanup / future-break / divergence.
 
@@ -35,8 +41,7 @@ ref like `iti rAja-` is captured as `rAja-` and fails the KOSA membership test.
 *Failure:* this deflates `iti_kosa` and the headline **46.7%** "constitutively
 lexicographic" figure — a published number drops because legitimate hits are
 silently rejected on a trailing `-`. *Fix sketch:* drop `-` from the capture class
-(or `rstrip('-')` the captured token) before the KOSA lookup. **Status: OPEN
-(documented, not fixed).**
+(or `rstrip('-')` the captured token) before the KOSA lookup. **Status: FIXED (2026-06-13).**
 
 **2. `ITI_RE` leading-space requirement.** [register_b_dcs.py:35](p3_citation_registers/register_b/register_b_dcs.py#L35) —
 `ITI_RE` requires a literal leading space, so an `iti` that begins a record
@@ -45,7 +50,7 @@ body-line (preceded by a newline, not a space) is dropped from `iti_total`,
 denominator are computed over a partial subsample of citations — every record-
 or line-initial `iti` is invisible to the count. *Fix sketch:* anchor on
 `(?:^|\s)` / a word boundary instead of a mandatory space, matching at
-line start under `re.M`. **Status: OPEN (documented, not fixed).**
+line start under `re.M`. **Status: FIXED (2026-06-13).**
 
 **3. `attested()` over-strips final anusvāra.** [register_b_dcs.py:58](p3_citation_registers/register_b/register_b_dcs.py#L58) —
 `attested()` strips a final SLP1 `M` (anusvāra) unconditionally as de-inflection,
@@ -54,7 +59,7 @@ full form. *Failure:* `kiM` is matched via its `ki` stem → falsely DCS-atteste
 inflates the SKD **~50.3%** corpus-grounding figure with spurious hits. *Fix
 sketch:* gate the final-`M` strip on a stop-list of indeclinables (or require the
 de-inflected stem to actually be DCS-attested as a nominal, not any token).
-**Status: OPEN (documented, not fixed).**
+**Status: FIXED (2026-06-13).**
 
 ## 🟠 Latent drift / self-contradiction on re-run
 
@@ -64,7 +69,7 @@ while the 2021 side is computed live. *Failure:* on a DCS refresh the computed
 headline moves but the hardcoded stability line does not, so the script
 contradicts itself within the same output. *Fix sketch:* compute the 2026 rate
 from the loaded data and interpolate it into the string, exactly as the 2021 side
-already does. **Status: OPEN (documented, not fixed).**
+already does. **Status: FIXED (2026-06-13).**
 
 **7. Hardcoded prose numbers beside a live table.** [register_b_dcs.py:159](p3_citation_registers/register_b/register_b_dcs.py#L159) —
 the prose numbers `28.2%` / `194k` / `50.3%` / `46.7%` and the context-table row
@@ -72,7 +77,7 @@ are hardcoded literals while the adjacent table cells are computed live. *Failur
 a re-run updates the live cells but leaves the prose stale, so the memo
 contradicts its own table. *Fix sketch:* format the prose from the same computed
 variables that fill the table cells; keep a single source of truth per number.
-**Status: OPEN (documented, not fixed).**
+**Status: FIXED (2026-06-13).**
 
 ## 🟡 Miscount / misclassification in a supporting figure
 
@@ -82,15 +87,14 @@ variables that fill the table cells; keep a single source of truth per number.
 crosswalk. *Failure:* 813 anchored > 750 genuine roots, yet the summary presents
 813 as a sub-count of genuine roots and inflates the **809 / 86.5%** in-MW
 coverage. *Fix sketch:* filter to `verb == 'genuineroot'` before building the
-anchor sets. **Status: OPEN (documented, not fixed).**
+anchor sets. **Status: FIXED (2026-06-13)** — *correction: an adversarial pass showed the 203 surplus anchors are `verb="root"` records, which ARE verbal roots; the fix INCLUDES `verb="root"` (not filter to `genuineroot`), so in-MW stays 809 and only the 750→2,113 verbal-root label changed.*
 
 **5. Concordance N counts records, not roots.** [class_concordance.py:94](root_crosswalk/class_concordance.py#L94) —
 `N = len(records)` counts MW records rather than distinct roots, so the ~50
 homonym roots that carry two records each are scored twice. *Failure:* this
 double-counts agree/overlap/conflict and the "comparable" denominator behind the
 **94.4%** concordance rate. *Fix sketch:* deduplicate to distinct bare roots (or
-count per resolved homonym) before computing N. **Status: OPEN (documented, not
-fixed).**
+count per resolved homonym) before computing N. **Status: FIXED (2026-06-13).**
 
 **8. Stale docstring vs global resolver.** [ib_resolve.py:14](relative_refs/ib_resolve.py#L14) —
 the module docstring still describes the OLD k1-cluster-scoped algorithm, but the
@@ -98,22 +102,20 @@ code now resolves over the global document stream and crosses headwords. *Failur
 a maintainer is misled about scope; "unresolvable" is ~always 0, which
 contradicts the docstring's premise. *Fix sketch:* rewrite the docstring to
 describe the global document-order walk, and note the cross-headword behaviour
-explicitly. **Status: OPEN (documented, not fixed).**
+explicitly. **Status: FIXED (2026-06-13).**
 
 **9. One broken pair double-counted.** [phw_audit.py:95](phw_graph/phw_audit.py#L95) —
 a single broken phw pair is recorded as two issues: `asymmetric` from the parent
 pass and `orphan_backlink` from the child pass. *Failure:* the **31 integrity
 issues** headline overstates the distinct-defect count. *Fix sketch:* deduplicate
-issues by the unordered pair key before tallying. **Status: OPEN (documented, not
-fixed).**
+issues by the unordered pair key before tallying. **Status: FIXED (2026-06-13).**
 
 **10. Missing-backlink mislabelled as asymmetric.** [phw_audit.py:81](phw_graph/phw_audit.py#L81) —
 a child with NO `phwparent` (`no_backlink`) is bucketed as `asymmetric`, the same
 bucket as a child naming the WRONG parent (a genuine MISMATCH). *Failure:*
 `phw_integrity.csv` mislabels a missing-backlink as a wrong-link, pointing the
 maintainer at the wrong fix. *Fix sketch:* split the bucket into `no_backlink`
-vs `mismatch` so the CSV distinguishes "absent" from "wrong." **Status: OPEN
-(documented, not fixed).**
+vs `mismatch` so the CSV distinguishes "absent" from "wrong." **Status: FIXED (2026-06-13).**
 
 **11. Packet C shows the wrong homonym.** [build_packets.py:143](review_packets/build_packets.py#L143) —
 Packet C indexes genuine-root records by `s2i(bare root)` and `setdefault` keeps
@@ -121,8 +123,7 @@ the FIRST homonym, but conflicts often sit on a later homonym. *Failure:* the
 packet shows the wrong homonym's gloss/Dhātupāṭha next to the conflict's class
 numbers (e.g. the `as` row), misleading the verdict. *Fix sketch:* key by the
 resolved homonym id (e.g. `as1`/`as2`) rather than the bare root, or carry all
-homonyms and select the one the conflict references. **Status: OPEN (documented,
-not fixed).**
+homonyms and select the one the conflict references. **Status: FIXED (2026-06-13).**
 
 ## 🟢 Cleanup / future-break / divergence
 
@@ -131,29 +132,28 @@ not fixed).**
 DeprecationWarning on Python 3.14 (observed) and is slated to become an error;
 the sibling script already uses the keyword form. *Failure:* on a future Python
 it raises `TypeError` and `ib_resolve` stops producing output. *Fix sketch:* pass
-`maxsplit=1` as a keyword. **Status: OPEN (documented, not fixed).**
+`maxsplit=1` as a keyword. **Status: FIXED (2026-06-13).**
 
 **13. Redundant re-read + leaked handle.** [register_b_dcs.py:91](p3_citation_registers/register_b/register_b_dcs.py#L91) —
 `n_records` re-opens and fully re-reads `skd.txt` / `vcp.txt` just to count `<L>`
 lines the main loop already visited, and the bare `open()` inside a generator
 expression leaks the file handle. *Failure:* doubled I/O on multi-MB files plus a
 leaked file handle. *Fix sketch:* count `<L>` during the existing single pass, or
-use a `with` block; drop the second read entirely. **Status: OPEN (documented,
-not fixed).**
+use a `with` block; drop the second read entirely. **Status: FIXED (2026-06-13).**
 
 **14. Diverged IAST→SLP1 map.** [ls_L_dcs2026.py:44](lexicographer_dcs/ls_L_dcs2026.py#L44) —
 the IAST→SLP1 `_MAP` is copy-pasted into `link_candidates.py` with a diverged row
 set (`ls_L_dcs2026` carries the H-mappings that `link_candidates` lacks).
 *Failure:* the two scripts transcode a lemma containing those chars to different
 SLP1 and therefore disagree on the same data. *Fix sketch:* extract `_MAP` into a
-single shared module imported by both. **Status: OPEN (documented, not fixed).**
+single shared module imported by both. **Status: FIXED (2026-06-13).**
 
 **15. Inconsistent META citation set.** [ib_resolve.py:36](relative_refs/ib_resolve.py#L36) —
 the META "non-text citation" set is hardcoded inconsistently: `ib_resolve` omits
 `ib.` / `id.` while `link_candidates` includes them. *Failure:* "meta vs real
 source" is defined differently by sibling scripts analysing the same apparatus.
 *Fix sketch:* define the META set once in a shared constants module and import it
-in both. **Status: OPEN (documented, not fixed).**
+in both. **Status: FIXED (2026-06-13).**
 
 ## Meta note
 

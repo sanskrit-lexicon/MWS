@@ -32,7 +32,11 @@ DCS  = os.path.join(GH, 'VisualDCS', 'dcs_lemma_summary.json')
 
 L_RE  = re.compile(r'^<L>')
 K1_RE = re.compile(r'<k1>([^<]*)')
-ITI_RE = re.compile(r' iti ([a-zA-Zā-ṣĀ-Ṣ-￿]+)')
+# `iti` must be word-initial (preceded by space / newline / punctuation, not a
+# letter), then whitespace + the source token. SKD/VCP iti-sources are SLP1
+# (ASCII), so the capture class is [A-Za-z] -- fixes CODE_REVIEW #1 (no trailing
+# hyphen captured) and #2 (line-start / newline-preceded iti now caught).
+ITI_RE = re.compile(r'(?<![A-Za-z])iti\s+([A-Za-z]+)')
 
 # Known Sanskrit kośas / nighaṇṭus cited via `iti` in SKD/VCP (SLP1, transparent list).
 # Conservative: named lexical authorities only; commentators / vernacular glosses
@@ -55,7 +59,8 @@ def attested(k):
     # (Validated: this leaves bare-stem dicts like VCP unchanged, +0.0 pts.)
     if _att(k): return True
     if k.endswith('H') and _att(k[:-1]): return True       # visarga: aMSuH->aMSu
-    if k.endswith('M') and _att(k[:-1]): return True       # anusvara neut: aMSakaM->aMSaka
+    if k.endswith('aM') and _att(k[:-1]): return True      # neuter -aM only (aMSakaM->aMSaka);
+                                                           # NOT bare -M (over-stripped kiM/svayaM, CODE_REVIEW #3)
     if k.endswith('aH') and _att(k[:-2]+'a'): return True
     return False
 
@@ -64,6 +69,7 @@ def analyse(path):
                attested_lexcited_hw, iti_total, iti_to_kosa)."""
     heads = {}           # k1 -> {'lex':bool}
     iti_total = iti_kosa = 0
+    n_records = 0
     cur_k1 = None; body = []
     def flush():
         nonlocal iti_total, iti_kosa
@@ -80,7 +86,7 @@ def analyse(path):
     with open(path, encoding='utf-8') as f:
         for line in f:
             if L_RE.match(line):
-                flush()
+                flush(); n_records += 1
                 m = K1_RE.search(line); cur_k1 = m.group(1) if m else None
                 body = []
             elif line.startswith('<LEND>'):
@@ -88,7 +94,7 @@ def analyse(path):
             elif cur_k1 is not None:
                 body.append(line)
         flush()
-    n_records = sum(1 for _ in open(path, encoding='utf-8') if _.startswith('<L>'))
+    # n_records counted in the single pass above (CODE_REVIEW #13 — was a second full re-read)
     hw = list(heads)
     att = [k for k in hw if attested(k)]
     lex_hw = [k for k,v in heads.items() if v['lex']]
@@ -104,6 +110,13 @@ with open(os.path.join(ORIG,'mw','mw.txt'), encoding='utf-8') as f:
             m = K1_RE.search(line)
             if m: mw_hw.add(m.group(1))
 mw_att = sum(1 for k in mw_hw if attested(k))
+
+# L.-only context numbers, computed from the lexicographer_dcs outputs so they
+# track that module instead of drifting as hardcoded literals (CODE_REVIEW #7).
+_lex = os.path.join(GH, 'MWS', 'lexicographer_dcs')
+def _nrows(name): return sum(1 for _ in open(os.path.join(_lex, name), encoding='utf-8')) - 1
+Lonly_att = _nrows('purely_lexicographic_attested.csv')
+Lonly_tot = Lonly_att + _nrows('purely_lexicographic_unattested.csv')
 
 res = {}
 for d in ('skd','vcp'):
@@ -150,13 +163,13 @@ S.append('|---|--:|--:|--:|')
 for d,r in res.items():
     S.append(f'| {d.upper()} — all headwords (stem-aware) | {r["hw"]:,} | {r["att"]:,} | **{pct(r["att"],r["hw"])}** |')
 S.append(f'| *context:* MW — all headwords | {len(mw_hw):,} | {mw_att:,} | {pct(mw_att,len(mw_hw))} |')
-S.append(f'| *context:* MW — `L.`-only lemmas (DCS-2021) | 18,930 | 5,871 | 31.0% |')
+S.append(f'| *context:* MW — `L.`-only lemmas (DCS-2021) | {Lonly_tot:,} | {Lonly_att:,} | {pct(Lonly_att,Lonly_tot)} |')
 S.append('')
 S.append('So the indigenous lexical inventory is **not** a closed self-referential universe:')
 S.append('~half of SKD and VCP headwords occur in dated texts. The constitutively-lexical')
 S.append('*citation style* (§1) does **not** imply a corpus-detached *vocabulary*.')
 S.append('\n## Caveats')
-S.append('- **MW is context, not a benchmark.** MW\'s rate (28.2%) is over 194k headwords —')
+S.append(f'- **MW is context, not a benchmark.** MW\'s rate ({pct(mw_att,len(mw_hw))}) is over {len(mw_hw)//1000}k headwords —')
 S.append('  ~4× the indigenous inventories — and is diluted by its compound-heavy')
 S.append('  macrostructure; the lower number reflects inventory composition, not weaker')
 S.append('  grounding. Do not read "indigenous > MW".')
@@ -164,9 +177,9 @@ S.append('- Lemma-level; a headword counts as attested for *any* corpus sense (h
 S.append('  exposure).')
 S.append('- **The SKD figure is approximate (±).** The visarga/anusvāra stem-recovery can')
 S.append('  over- or under-strip; the VCP-unchanged control validates the *direction* of')
-S.append('  the correction, not the *precision* of SKD\'s 50.3% — read it as ~50%, not exact.')
+S.append(f'  the correction, not the *precision* of SKD\'s {pct(res["skd"]["att"],res["skd"]["hw"])} — read it as approximate, not exact.')
 S.append('- **The kośa/text binary is soft-edged.** Some `iti` sources blur the line — e.g.')
-S.append('  `Bhāvaprakāśa` is a medical *text* carrying a nighaṇṭu section — so 46.7% is a')
+S.append(f'  `Bhāvaprakāśa` is a medical *text* carrying a nighaṇṭu section — so {pct(res["skd"]["iti_kosa"],res["skd"]["iti_total"])} is a')
 S.append('  floor with a fuzzy boundary, not a sharp count.')
 S.append('- VCP lexical-share unmeasured (kośa list is SKD-specific). The nine-dict register')
 S.append('  comparison is the atlas CITATION_REGISTERS work, not this memo.')
