@@ -261,7 +261,7 @@ bounds what W4 may copy into other dictionaries.
 [#76](https://github.com/sanskrit-lexicon/MWS/issues/76)/[#75](https://github.com/sanskrit-lexicon/MWS/issues/75) (inflection, needs csl-inflect),
 [#163](https://github.com/sanskrit-lexicon/MWS/issues/163) (GRA-style grouping),
 display bundle [#37](https://github.com/sanskrit-lexicon/MWS/issues/37)/[#108](https://github.com/sanskrit-lexicon/MWS/issues/108)/[#170](https://github.com/sanskrit-lexicon/MWS/issues/170)/[#180](https://github.com/sanskrit-lexicon/MWS/issues/180),
-[#74](https://github.com/sanskrit-lexicon/MWS/issues/74) (botanical export, crowd),
+~~[#74](https://github.com/sanskrit-lexicon/MWS/issues/74) (botanical export)~~ **DONE** → [botanical_glossary/](https://github.com/sanskrit-lexicon/MWS/tree/master/botanical_glossary) (8,923 `<bot>` → 7,063 headwords / 1,223 species FAIR dataset; 72% lexicographer-only, 1,528 clean L.-only+DCS-attested plant lemmas),
 [#24](https://github.com/sanskrit-lexicon/MWS/issues/24), [#154](https://github.com/sanskrit-lexicon/MWS/issues/154),
 [#155](https://github.com/sanskrit-lexicon/MWS/issues/155) (IAST→ISO 15919, decision-blocked),
 Vedic accent expansion beyond 16.6%, `<ls>L.</ls>` verification (40,213 citations, crowd/corpus-assisted — natural successor to W1 once authority records exist).
