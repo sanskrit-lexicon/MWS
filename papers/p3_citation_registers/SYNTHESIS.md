@@ -79,15 +79,22 @@ and is deferred (the *sense-next* step, shared with P6 and the crosswalk).
 A single section — *"The corpus test: evidentiary status within the European
 register"* — after the Register A / Register B exposition and before the
 indigenous-register treatment. It converts the binary register distinction into a
-**form × evidence** matrix and supplies MW's column. Register B's evidentiary
-status under the same corpus test is open (and harder: `iti` citations name a
-speaker/text in prose, not a tagged siglum) — flagged as future work shared with
-P4.
+**form × evidence** matrix and supplies MW's column.
+
+**Register B's column is now partly filled** ([register_b/](register_b/)): the
+indigenous register is **constitutively lexicographic** — 46.7% of SKD's `iti`
+citations target a named kośa/nighaṇṭu (a floor), so the `L.` hedge MW marks as
+*exceptional* is Register B's *default*. Yet that vocabulary is **~half
+corpus-grounded** (SKD 50.3%, VCP 47.9% of headwords in DCS, stem-aware). The
+corpus test thus completes the matrix: a constitutively-lexical *citation style*
+does not entail a corpus-detached *vocabulary*. Remaining open (shared with P4):
+VCP's lexical-citation share (its source vocabulary differs from SKD's) and
+sense-level verification.
 
 ## What this is **not**
 
 - Not the nine-dictionary comparison (atlas).
-- Not a Register-B (*iti*) result.
+- ~~Not a Register-B (*iti*) result.~~ Now includes a first Register-B corpus test ([register_b/](register_b/)); the nine-dict comparison remains atlas work.
 - Not sense-level — lemma-level only, with the homograph control above.
 - Not committed to any paper draft yet: this memo is the **evidence block** to be
   pulled into the canonical P3 draft (which will live in the SanskritLexicography
