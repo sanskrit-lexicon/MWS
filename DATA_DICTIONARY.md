@@ -41,11 +41,37 @@ Counts are opening+closing pairs (balanced unless noted).
 | `<lang>` | 3,968 | Foreign language label | `<lang>Gk.</lang>` |
 | `<bot>` | 8,923 | Botanical name | `<bot>Ficus benghalensis</bot>` |
 | `<bio>` | 358 | Biographical name | `<bio>Pāṇini</bio>` |
+| `<s1>` | 52,169 | Sanskrit proper name / title, in **IAST** (already transcoded — *not* SLP1 like `<s>`) | `<s1>Viṣṇu</s1>` |
+| `<etym>` | 2,637 | Etymological / Indo-European cognate form | `<etym>ignì-s</etym>` |
+| `<gk>` | 1,127 | Greek-script form (in cognate notes) | `<gk>ὦμος</gk>` |
+| `<pcol>` | 1,553 | Page–column pointer inside a cross-reference | `See <pcol>p. 510, col. 3</pcol>` |
 | `<zoo>` | 0 | Zoological name | `<zoo>Elephas maximus</zoo>` |
 | `<b>` | 0 | Bold / emphasis | `<b>word</b>` |
 | `<i>` | 197 | Italic / transliteration note | `<i>id est</i>` |
 
 <!-- Add additional tags found in this dict above this comment. -->
+
+> **Encoding note.** Not every Sanskrit-bearing tag is SLP1. `<s>`, `<k1>`, `<k2>`
+> hold **SLP1**; but `<s1>`, `<ls>`, `<ab>`, `<bot>`, `<bio>`, `<etym>` hold
+> **IAST** (or plain text) directly in the source. `<gk>` holds Greek script.
+> *(Tags below the original `<i>` row and all sections below were added 2026-06-13
+> from live `mw.txt`; counts are from that date, not the 2026-05-22 audit.)*
+
+---
+
+## Block & structural markers (self-closing)
+
+Markers that divide or annotate an entry body without wrapping a span.
+
+| Tag | Count | Role |
+|---|--:|---|
+| `<div n="…"/>` | 15,312 | Intra-entry block divider. `n` encodes the block type: `to` (11,000) a sense gloss ("to go…"); `vp` (3,792) a verbal-derivative block (Caus./Desid./Intens.); `P` (512) a sub-entry/sense block (often nominal); rare `p`/`1`. |
+| `<srs/>` | 37,041 | Sandhi / vowel-coalescence junction marker **inside** `<s>` SLP1 spans | 
+| `<listinfo n="…"/>` | 936 | Section flag: `sup` (921, supplement entry), `rev` (15, revision) |
+
+`<div n="to"/>` is how a polysemous **verb** entry separates its senses — the
+counterpart, inside one record, to the one-sense-per-record pattern that nominal
+entries use (see [ANALYSIS.md](ANALYSIS.md) / the sense-segmentation note).
 
 ---
 
@@ -53,8 +79,54 @@ Counts are opening+closing pairs (balanced unless noted).
 
 | Tag | Count | Role |
 |---|---|---|
-| `<info …/>` | 292,603 | Grammatical attribute packet (`lex="m:f:n"`, `vn="…"`, etc.) |
+| `<info …/>` | 292,603 | Machine-annotation packet — see the attribute family below |
 | `<ab n="…">` | 12,779 | Abbreviation with explicit expansion in `n` attribute |
+
+### `<info>` attribute family
+
+`<info …/>` carries different attributes for different annotation jobs:
+
+| Attribute | Count | Role |
+|---|--:|---|
+| `lex="…"` | 258,392 | Grammatical packet (`lex="m:f:n"`, etc.) — the common case |
+| `verb="…"` | 10,387 | Genuine-root flag + conjugation classes (`verb="genuineroot" cp="1P,1Ā"`) |
+| `hui="…"` | 10,020 | Headword display/index flag *(exact role not yet confirmed)* |
+| `n="…"` | 6,533 | Section flag (e.g. `n="sup"` supplement) |
+| `phwchild="…"` | 2,364 | Phrasal-headword child link (see below) |
+| `phwparent="…"` | 2,362 | Phrasal-headword parent back-link |
+| `westergaard="…"` | 1,362 | Dhātupāṭha (Westergaard) verbal-root anchor — `root,Dhātup-ref,NN.NNNN` |
+| `whitneyroots="…"` | 813 | Whitney root-list anchor — `root,page` (Whitney's 1885 appendix page) |
+| `lexcat="…"` | 369 | Lexical-category flag |
+
+The verbal-root anchors (`whitneyroots`, `westergaard`) are analysed in
+[root_crosswalk/](root_crosswalk/).
+
+### `<lex type="…">` variants
+
+Beyond the plain grammatical `<lex>`, a `type` attribute marks headword-structural roles:
+
+| `type` | Count | Role |
+|---|--:|---|
+| `phw` | 2,357 | Phrasal headword — an inline phrase promoted to an addressable sub-entry |
+| `hw` | 1,417 | Headword form |
+| `hwifc` | 875 | Headword *in fine compositi* (compound-final form) |
+| `hwalt` | 846 | Alternate headword form |
+| `nhw` | 669 | Nominal headword form |
+| `hwinfo` | 444 | Headword annotation |
+| `part` | 100 | Participle |
+
+### Phrasal-headword (phw) cross-reference graph
+
+A bidirectional structured-data layer: a parent sense links to inline phrases
+promoted into their own micro-records, and the children link back —
+
+```
+parent  <info phwchild="99930.1"/>          (in the gloss: <lex type="phw">…)
+child   <info phwparent="99906,Darma"/>
+```
+
+2,364 edges, 99.3% reciprocal; reconstructed and integrity-audited in
+[phw_graph/](phw_graph/).
 
 ---
 

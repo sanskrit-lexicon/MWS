@@ -45,7 +45,7 @@ Analysis only — no `mw.txt` mutation.
 
 ## Follow-ups
 
-- **Document the phw family** (`phwchild`/`phwparent`/`<lex type="phw">`) and
-  `<etym>` in DATA_DICTIONARY.md.
+- ~~Document the phw family + `<etym>` in DATA_DICTIONARY.md~~ — **done**
+  ([DATA_DICTIONARY.md](../DATA_DICTIONARY.md), 2026-06-13).
 - **Fix the 31 broken links** — small `bug` correction batch via the standard
-  `temp_mw_N.txt` workflow.
+  `temp_mw_N.txt` workflow (still open; needs maintainer sign-off).

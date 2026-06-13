@@ -203,8 +203,10 @@ Four tracks, in leverage order:
    maps MW's undocumented phrasal-headword graph (2,364 edges, 99.3% reciprocal)
    — a queryable structured-data layer. Two concrete spin-offs: **(i)** a
    `bug`+`markup` batch fixing the **31 broken links** (`phw_integrity.csv`);
-   **(ii)** document the `phwchild`/`phwparent`/`<lex type="phw">` family and
-   `<etym>` (2,637 tags) in [DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/MWS/blob/master/DATA_DICTIONARY.md).
+   **(ii)** ~~document the `phwchild`/`phwparent`/`<lex type="phw">` family and
+   `<etym>` in DATA_DICTIONARY.md~~ **DONE 2026-06-13** — [DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/MWS/blob/master/DATA_DICTIONARY.md)
+   now documents `<s1>`, `<etym>`, `<gk>`, `<pcol>`, `<div>`, `<srs/>`, `<listinfo>`,
+   the full `<info>` attribute family, and the `<lex type>` variants.
 
 ---
 
