@@ -38,7 +38,11 @@ The debt below is recorded so it is a deliberate deferral, not an oversight.
 Known debt (from the 2026-06-13 architecture review):
 1. **No shared library.** The `<L>`/`<LEND>` parser is re-implemented in all 7
    scripts; the SLP1↔IAST map (×4), `K1_RE`/`LS_RE` (×4), `bare()` (×2), and
-   locale boilerplate (×7) are copy-pasted. Copies have already diverged.
+   locale boilerplate (×7) are copy-pasted. Copies have already diverged — the
+   code review found two live cross-script disagreements, not just duplication:
+   the IAST→SLP1 `_MAP` has **diverged** between `ls_L_dcs2026.py` and
+   `link_candidates.py` (CODE_REVIEW #14), and the META "non-text citation" set
+   is **defined differently** across scripts (CODE_REVIEW #15).
 2. **Reinvented transcoder.** [mwtranscode/transcoder.py](mwtranscode/transcoder.py)
    (`transcoder_processString`) is importable and complete; the hand-rolled maps
    are partial (no accents) and will drift from canonical.
@@ -77,3 +81,15 @@ Informational (defense-in-depth, no action): scripts implicitly trust the
 sibling-repo `.sqlite`/JSON inputs and set no resource bounds — both fine under
 the trusted-input model. The architecture debt above is a maintainability, not a
 security, concern.
+
+## Code review (2026-06-13)
+
+An extra-high-effort review of the analysis scripts found **15 issues**,
+recorded in [papers/CODE_REVIEW.md](papers/CODE_REVIEW.md). All are **quiet
+wrong-number bugs, not crashes** — the failure mode that matters when output
+feeds papers. **3 change a published number** (the register_b `iti`-citation
+regex + de-inflection bias the 46.7% / ~50.3% Register-B figures — the
+highest-value fix); the rest are latent drift (hardcoded `31.4%`),
+supporting-figure miscounts (root-anchor leak, homonym double-counts),
+misclassifications (phw issue buckets), and the duplication divergences below.
+**Status: documented, not yet fixed.**

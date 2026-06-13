@@ -94,6 +94,8 @@ does not entail a corpus-detached *vocabulary*. Remaining open (shared with P4):
 VCP's lexical-citation share (its source vocabulary differs from SKD's) and
 sense-level verification.
 
+> ⚠ **Known code issues** ([CODE_REVIEW.md](../CODE_REVIEW.md) #1–#3, #7): the cited 46.7% / 50.3% are subject to correction — the iti-citation regex captures a trailing hyphen into kośa names and requires a leading space, and the de-inflection over-strips final-M indeclinables; treat these figures as provisional until the generator is fixed.
+
 ## What this is **not**
 
 - Not the nine-dictionary comparison (atlas).

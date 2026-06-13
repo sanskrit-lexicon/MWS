@@ -32,6 +32,12 @@ Anchoring integrity is near-perfect: only **3** MW anchors fail to match the hub
 after normalisation (`jañj`, `thurv`, `riṅkh` — candidate typos/hub gaps,
 `mw_whitney_unmatched.csv`).
 
+**Known code issues** ([CODE_REVIEW.md](../papers/CODE_REVIEW.md) #4, #5): the
+809 / 86.5% "in MW" count is built from ALL whitneyroots anchors, not only
+`verb=genuineroot`, so non-genuine-root anchors leak in (813 anchored > 750
+genuine roots). The class-concordance `N` below counts MW records, double-counting
+the ~50 homonym roots that carry two records each. Both are pending fixes.
+
 ## Two actionable gaps
 
 - **40 anchoring-gap roots** — in DCS + Whitney but missing MW's `<info

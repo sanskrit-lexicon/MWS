@@ -29,6 +29,11 @@ This is real queryable data — MW's mechanism for making an inline phrase
 | `asymmetric` | 7 | parent→child but child has no back-link |
 | `dangling_phwparent` | 1 | child points to a missing parent |
 
+**Known code issues** ([CODE_REVIEW.md](../papers/CODE_REVIEW.md) #9, #10): the 31 count
+may double-count a single broken pair flagged by both the parent and child passes, and an
+`asymmetric` child-with-no-backlink is bucketed the same as a wrong-parent mismatch — dedup
+the records and re-derive the per-issue labels before using either number.
+
 Most dangling cases are off-by-one L-number typos (e.g. `meTi` → missing
 `167759.1`, `167755.01`). See `phw_integrity.csv` for the exact records.
 
