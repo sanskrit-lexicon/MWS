@@ -48,3 +48,21 @@ Deferred target (when a refactor is greenlit): a shared `analysis/mwlib/`
 provenance stamping, `corpus.py` with a pinned DCS snapshot, committed tests);
 each study drops to ~40–60 LOC; corpus-join modules move to csl-atlas; bulk
 derived CSVs `.gitignore`d behind a regenerate target. **Not scheduled.**
+
+## Security (reviewed 2026-06-13)
+
+**Clean — zero high/medium findings.** Threat model: local, read-only batch
+scripts over trusted project data, run manually. Scan results:
+
+- **No** code execution (`eval`/`exec`/`subprocess`/`pickle`), **no** network
+  egress, **no** user/argv/env input, **no** hardcoded secrets.
+- SQL: the single query is a static string — no injection surface.
+- Writes go only to each module's own dir (`os.path.join(HERE, …)`); no deletes,
+  no path traversal. Committed outputs leak no local paths / PII.
+- Outputs are public CC-licensed MW content joined to public corpus stats —
+  nothing sensitive.
+
+Informational (defense-in-depth, no action): scripts implicitly trust the
+sibling-repo `.sqlite`/JSON inputs and set no resource bounds — both fine under
+the trusted-input model. The architecture debt above is a maintainability, not a
+security, concern.
