@@ -171,11 +171,20 @@ Four tracks, in leverage order:
    indigenous normalizer the atlas proposes
    ([CITATION_REGISTERS.md](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/docs/CITATION_REGISTERS.md))
    instead. This also feeds papers P3/P4.
-4. **Sense `<div>` policy for MW itself.** MW's own worst structural gap is
-   prose-embedded senses (no `<div>` markers; excluded from cross-dict
-   sense-depth analysis). A retrofit is large and print-fidelity-sensitive —
-   in H2 2026, only produce the *decision document* (options, cost, risk) for
-   maintainer review; no mass edit.
+4. **Sense structure — surface it for cross-dict tooling (not a retrofit).**
+   The old "MW has no sense markers" premise was **disproven** (register #1):
+   MW's sense unit is the record (`¦` + `<e>`-letter code). So the job is not a
+   `<div>` retrofit but a small adapter that exposes record-grouped senses to the
+   atlas sense-depth pipeline (which currently only reads `<div>`). Cheap; lands
+   MW into the cross-dict sense comparison it was wrongly excluded from.
+5. **`<ls>L.</ls>` → corpus verification (STARTED 2026-06-13).** Pilot shipped in
+   [lexicographer_dcs/](https://github.com/sanskrit-lexicon/MWS/tree/master/lexicographer_dcs):
+   **5,723 of 18,930 (30.2%)** strict purely-lexicographic MW lemmas (no text
+   witness, MW knew them only from kośas) are attested in the DCS corpus — hedges
+   the modern corpus can retire. Strong tier = bands 2–3 (~2,232 plant/medical/
+   technical terms). Bridges P3 (citation registers) + the grammar-corpus-dict
+   crosswalk. Next: re-run on DCS-2026; spot-check band-3; sense-level for the
+   10,264 partially-hedged lemmas.
 
 ---
 
