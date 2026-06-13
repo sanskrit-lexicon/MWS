@@ -1,0 +1,32 @@
+issue_kind,detail
+asymmetric,parent 18542(avAntara) -> child 18543.1(avAntarAm): backlink=no_backlink
+dangling_phwchild,91949 (dAsamitrAyaRa) -> missing child 91949.2
+asymmetric,parent 93353(duHsampAda) -> child 93353.1(duHsampAdya): backlink=no_backlink
+dangling_phwchild,95518 (deva) -> missing child 95539.11
+asymmetric,parent 95518(deva) -> child 96277.1(devI): backlink=no_backlink
+dangling_phwchild,125979 (purAvfttakaTA) -> missing child 125901.2
+dangling_phwchild,125979 (purAvfttakaTA) -> missing child 125901.3
+dangling_phwchild,134508 (praTama) -> missing child 134516.1
+asymmetric,parent 167783(meTi) -> child 167791.1(meTI): backlink=no_backlink
+asymmetric,parent 167783(meTi) -> child 167958.1(meDi): backlink=no_backlink
+asymmetric,parent 167783(meTi) -> child 167959.1(meDI): backlink=no_backlink
+dangling_phwchild,167783 (meTi) -> missing child 167759.1
+dangling_phwchild,167783 (meTi) -> missing child 167755.01
+dangling_phwchild,167783 (meTi) -> missing child 167755.11
+dangling_phwchild,167783 (meTi) -> missing child 167760.1
+asymmetric,parent 167785(meTi) -> child 167791.2(meTI): backlink=no_backlink
+orphan_backlink,child 18543(avAntaram) claims parent 18542 but parent does not list it
+orphan_backlink,child 91950(dAsamitrAyaRaBakta) claims parent 91949 but parent does not list it
+orphan_backlink,child 91950.1(dAsamitriBakta) claims parent 91949.1 but parent does not list it
+orphan_backlink,child 93354(duHsampAdatva) claims parent 93353 but parent does not list it
+dangling_phwparent,93354.1 (duHsampAdyatva) -> missing parent 933543.1duHsampAdya
+orphan_backlink,child 93906.1(durgAhyatva) claims parent 93904.2 but parent does not list it
+orphan_backlink,child 95649.1(devatama) claims parent 95518 but parent does not list it
+orphan_backlink,child 96278(devitamA) claims parent 95518 but parent does not list it
+orphan_backlink,child 125979.1(purAvfttAKyAna) claims parent 125979 but parent does not list it
+orphan_backlink,child 125979.2(purAvfttAKyAnakaTana) claims parent 125979 but parent does not list it
+orphan_backlink,child 143858.1(bahuvArakaPala) claims parent 143858 but parent does not list it
+orphan_backlink,child 148012(BaNgyA) claims parent 148011 but parent does not list it
+orphan_backlink,child 156424.1(maDyarAtrO) claims parent 156424 but parent does not list it
+orphan_backlink,child 222223(SyAvadantatA) claims parent 222221.1 but parent does not list it
+orphan_backlink,child 230435.2(satvarataram) claims parent 230435 but parent does not list it

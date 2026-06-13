@@ -191,6 +191,13 @@ Four tracks, in leverage order:
    Bridges P3 (citation registers) + the grammar-corpus-dict crosswalk.
    Next: hand-verify the ~180 band-3 lemmas into a P3-ready core; sense-level
    for the 10,264 partially-hedged lemmas (needs sense-tagged corpus).
+6. **phw cross-reference graph (audited 2026-06-13).**
+   [phw_graph/](https://github.com/sanskrit-lexicon/MWS/tree/master/phw_graph)
+   maps MW's undocumented phrasal-headword graph (2,364 edges, 99.3% reciprocal)
+   — a queryable structured-data layer. Two concrete spin-offs: **(i)** a
+   `bug`+`markup` batch fixing the **31 broken links** (`phw_integrity.csv`);
+   **(ii)** document the `phwchild`/`phwparent`/`<lex type="phw">` family and
+   `<etym>` (2,637 tags) in [DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/MWS/blob/master/DATA_DICTIONARY.md).
 
 ---
 
