@@ -25,7 +25,7 @@ tags, with provenance and corpus attestation. Supersedes the frequency-only
 **72%** of botanical headwords (5,054 of 7,063) carry their plant sense as
 **lexicographer-only** — MW had most of its botany from kośas/nighaṇṭus, not text.
 
-The honest corpus check (a naive lemma join is contaminated by homograph
+The homograph-controlled corpus check (a naive lemma join is contaminated by
 collisions — `kṛṣṇa`/`indra`/`kāla` are common words with a rare plant sense):
 restrict to **botanical-only headwords** (lemma whose every sense is a plant).
 Of 4,148 such headwords, **1,528 are both L.-only and DCS-attested** — clean

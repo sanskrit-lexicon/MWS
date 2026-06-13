@@ -149,7 +149,7 @@ S.append(f'- Naive lemma-level join: {len(L_attested):,} of those headwords are 
 S.append(f'  **but most high-band hits are homograph collisions** (`kṛṣṇa`, `indra`, `kāla`')
 S.append(f'  are common words with a rare *plant* sense marked L.; the corpus frequency is')
 S.append(f'  the non-plant sense). Lemma attestation does NOT confirm the botanical sense here.')
-S.append(f'- **Honest subset — botanical-only headwords** (lemma whose *every* sense is a')
+S.append(f'- **Filtered subset — botanical-only headwords** (lemma whose *every* sense is a')
 S.append(f'  plant, so no homograph): {len(bot_only):,} such headwords; of these,')
 S.append(f'  **{len(clean_heads):,} are both L.-only and DCS-attested** — clean confirmations')
 S.append(f'  of plant vocabulary MW had only from kośas that the corpus nonetheless attests.\n')

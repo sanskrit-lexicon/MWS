@@ -105,7 +105,7 @@ for b in (5,4,3,2,1):
     L.append(f'| {b} {BAND[b]} | {band_hist[b]:,} |')
 L.append(f'\n- Strong tier (bands ≥2, non-hapax): **{sum(band_hist[b] for b in (2,3,4,5)):,}**')
 L.append(f'- Uncommon-or-better (bands ≥3): **{sum(band_hist[b] for b in (3,4,5)):,}**')
-L.append('\n## Cross-snapshot stability (the real takeaway)')
+L.append('\n## Cross-snapshot stability')
 L.append(f'- The headline barely moves across two independent corpus snapshots:')
 L.append(f'  **30.2% (DCS-2021) -> 31.4% (DCS-2026)**. The finding is not an artefact')
 L.append(f'  of one corpus version — that *strengthens* the P3 claim.')

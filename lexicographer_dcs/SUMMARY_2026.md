@@ -18,7 +18,7 @@ DCS-2026 token corpus (5.69M tokens, 270 texts) instead of the DCS-2021 summary.
 - Strong tier (bands ≥2, non-hapax): **2,330**
 - Uncommon-or-better (bands ≥3): **180**
 
-## Cross-snapshot stability (the real takeaway)
+## Cross-snapshot stability
 - The headline barely moves across two independent corpus snapshots:
   **30.2% (DCS-2021) -> 31.4% (DCS-2026)**. The finding is not an artefact
   of one corpus version — that *strengthens* the P3 claim.

@@ -8,7 +8,7 @@ derived CSV(s), and a summary. **Analysis only — none mutate `mw.txt`.**
 
 | Module | What it answers | Headline | Actionable output |
 |---|---|---|---|
-| [lexicographer_dcs/](lexicographer_dcs/) | Which `<ls>L.</ls>` lexicographer-only lemmas does the corpus now attest? | 30.2% (DCS-2021) / 31.4% (DCS-2026) of 18,930 strict purely-lex lemmas — stable across snapshots | retire-candidate CSVs |
+| [lexicographer_dcs/](lexicographer_dcs/) | Which `<ls>L.</ls>` lexicographer-only lemmas does the corpus now attest? | 30.2% (DCS-2021) / 31.4% (DCS-2026) of 18,930 strict purely-lex lemmas — stable across snapshots | review-candidate CSVs |
 | [relative_refs/](relative_refs/) | Resolve `ib.` (and spec `id.`/#98) to antecedent sources | 7,538/10,094 (74.7%) `ib.` → real source | `ib_resolved.csv` candidate map |
 | [botanical_glossary/](botanical_glossary/) | Sanskrit ↔ Linnaean glossary (#74) | 8,923 `<bot>` → 7,063 headwords / 1,223 species; 1,528 clean L.-only + DCS-attested | FAIR dataset + synonym rings |
 | [phw_graph/](phw_graph/) | Audit MW's phrasal-headword cross-reference graph | 2,364 edges, 99.3% reciprocal | **31 broken-link bugs** → `phw_integrity.csv` |
@@ -18,6 +18,17 @@ See each module's `README.md` / `*SUMMARY.md` for method, caveats, and numbers.
 A recurring methodological theme: lemma-level corpus joins suffer **homograph
 collisions** (a common word with a rare hedged sense) — every corpus-join module
 documents how it controls for this.
+
+### Terminology
+
+These three labels recur and are **not** synonyms — they differ by grain:
+
+- **lexicographer-only** — a *sense*: an `<ls>L.</ls>` gloss MW attests only from
+  kośas, with no text witness.
+- **purely-lexicographic lemma** — a *headword* whose **every** `<ls>` is `L.`
+  (strict: and which has no uncited sense or cross-ref stub); MW knew the *word*
+  itself only from kośas.
+- **L.-only** — informal shorthand for either, disambiguated by context.
 
 ## Architecture status — known debt, refactor deferred (2026-06-13)
 

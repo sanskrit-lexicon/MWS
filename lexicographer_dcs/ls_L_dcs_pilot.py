@@ -4,14 +4,14 @@
 <ls>L.</ls> -> DCS corpus verification pilot.
 
 MW marks 40,212 senses <ls>L.</ls> = "lexicographers only" (attested only in
-indigenous kosas, no text witness MW knew of). Modern corpora (DCS, Oliver
+indigenous kośas, no text witness MW knew of). Modern corpora (DCS, Oliver
 Hellwig) may now attest some of these words. This pilot tests the cleanest,
 most defensible claim at the LEMMA level:
 
   A "purely-lexicographic lemma" = an MW headword (k1) where EVERY <ls> across
   all its records is literally "L." (and there is >=1 such <ls>). MW had no
   text witness for this word at all. If DCS attests the lemma, the corpus
-  refutes the "lexicographers only" status -> a hedge modern data can retire.
+  refutes the "lexicographers only" status -> a hedge that corpus evidence can re-examine.
 
 Join is direct: MW <k1> and DCS lemmas are both SLP1, no transcoding.
 
@@ -19,7 +19,7 @@ Inputs (relative to GitHub/):
   csl-orig/v02/mw/mw.txt
   VisualDCS/dcs_lemma_summary.json   (DCS-2021, 83,273 lemmas, SLP1)
 Outputs (this dir):
-  purely_lexicographic_attested.csv  (retire-candidates: lemma, band, gloss)
+  purely_lexicographic_attested.csv  (review-candidates: lemma, band, gloss)
   purely_lexicographic_unattested.csv
   SUMMARY.md (headline numbers)
 """
@@ -89,7 +89,7 @@ with open(MW, encoding='utf-8') as f:
 # --- classify ---
 # broad  : every <ls> is L. (coarse; contaminated by uncited-common-sense words)
 # strict : every <ls> is L. AND no uncited gloss record AND no cross-ref stub
-#          -> genuinely "MW knew this word only from kosas"
+#          -> genuinely "MW knew this word only from kośas"
 broad      = {k:v for k,v in agg.items() if v[0] > 0 and v[1] == 0}
 purely_lex = {k:v for k,v in agg.items() if v[0] > 0 and v[1] == 0 and v[2] == 0}
 partial    = {k:v for k,v in agg.items() if v[0] > 0 and v[1] > 0}
@@ -128,13 +128,13 @@ lines = []
 lines.append('# `<ls>L.</ls>` -> DCS verification pilot — results\n')
 lines.append(f'- Total MW headwords (k1) with >=1 `<ls>`: **{sum(1 for v in agg.values() if v[0]+v[1]>0):,}**')
 lines.append(f'- Broad "every `<ls>` is L." (coarse, contaminated): {len(broad):,}')
-lines.append(f'- **Strict purely-lexicographic lemmas** (every `<ls>` is `L.`, AND no uncited gloss/stub — genuinely known only from kosas): **{np:,}**')
+lines.append(f'- **Strict purely-lexicographic lemmas** (every `<ls>` is `L.`, AND no uncited gloss/stub — genuinely known only from kośas): **{np:,}**')
 lines.append(f'- Partially-hedged lemmas (both `L.` and real citations): {len(partial):,}')
 lines.append(f'- DCS corpus index (DCS-2021): {dcs["lemmaCount"]:,} attested lemmas\n')
 lines.append(f'## Headline')
 lines.append(f'- **{na:,} of {np:,} purely-lexicographic lemmas ({pct:.1f}%) are ATTESTED in DCS.**')
-lines.append(f'  These are MW hedges the modern corpus can retire: words MW knew only')
-lines.append(f'  from kosas that *do* occur in dated texts.\n')
+lines.append(f'  These are candidates for review: words MW marked lexicographer-only that')
+lines.append(f'  nonetheless occur in dated texts.\n')
 lines.append('| DCS freq band | purely-lex lemmas attested |')
 lines.append('|---|--:|')
 for b in (5,4,3,2,1):
@@ -144,11 +144,11 @@ lines.append('\n## Interpretation')
 lines.append('- An attested strict purely-lexicographic lemma is a **clean** refutation:')
 lines.append('  MW cited *no* text, yet the word occurs in the corpus.')
 lines.append('- **Strongest tier = bands 2-3** (rare/uncommon). These are typically plant,')
-lines.append('  medical and technical terms MW had only from nighaṇṭus/kosas that DCS now')
+lines.append('  medical and technical terms MW had only from nighaṇṭus/kośas that DCS now')
 lines.append('  attests (e.g. `SAlaparRI` Desmodium, `BfNgaja` Agallochum, `viqaNga`')
 lines.append('  Embelia). Frequency 10-99 in dated texts is solid, non-accidental evidence.')
 lines.append('- **Band 1 (hapax)** is weak: single corpus occurrences may be DCS lemmatizer')
-lines.append('  artefacts. Spot-check, do not auto-retire.')
+lines.append('  artefacts. Spot-check, do not auto-apply.')
 lines.append('- **Band 4-5 caveat: homograph collision.** A handful of top-band hits are')
 lines.append('  short strings (`tA`="Lakṣmī") that collide with a high-frequency *grammatical*')
 lines.append('  DCS lemma, not the MW sense. Top-band single/double-letter lemmas need manual')

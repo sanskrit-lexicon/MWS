@@ -2,14 +2,14 @@
 
 - Total MW headwords (k1) with >=1 `<ls>`: **155,271**
 - Broad "every `<ls>` is L." (coarse, contaminated): 20,146
-- **Strict purely-lexicographic lemmas** (every `<ls>` is `L.`, AND no uncited gloss/stub — genuinely known only from kosas): **18,930**
+- **Strict purely-lexicographic lemmas** (every `<ls>` is `L.`, AND no uncited gloss/stub — genuinely known only from kośas): **18,930**
 - Partially-hedged lemmas (both `L.` and real citations): 10,264
 - DCS corpus index (DCS-2021): 83,273 attested lemmas
 
 ## Headline
 - **5,723 of 18,930 purely-lexicographic lemmas (30.2%) are ATTESTED in DCS.**
-  These are MW hedges the modern corpus can retire: words MW knew only
-  from kosas that *do* occur in dated texts.
+  These are candidates for review: words MW marked lexicographer-only that
+  nonetheless occur in dated texts.
 
 | DCS freq band | purely-lex lemmas attested |
 |---|--:|
@@ -25,11 +25,11 @@
 - An attested strict purely-lexicographic lemma is a **clean** refutation:
   MW cited *no* text, yet the word occurs in the corpus.
 - **Strongest tier = bands 2-3** (rare/uncommon). These are typically plant,
-  medical and technical terms MW had only from nighaṇṭus/kosas that DCS now
+  medical and technical terms MW had only from nighaṇṭus/kośas that DCS now
   attests (e.g. `SAlaparRI` Desmodium, `BfNgaja` Agallochum, `viqaNga`
   Embelia). Frequency 10-99 in dated texts is solid, non-accidental evidence.
 - **Band 1 (hapax)** is weak: single corpus occurrences may be DCS lemmatizer
-  artefacts. Spot-check, do not auto-retire.
+  artefacts. Spot-check, do not auto-apply.
 - **Band 4-5 caveat: homograph collision.** A handful of top-band hits are
   short strings (`tA`="Lakṣmī") that collide with a high-frequency *grammatical*
   DCS lemma, not the MW sense. Top-band single/double-letter lemmas need manual

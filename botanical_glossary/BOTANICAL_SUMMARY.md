@@ -12,7 +12,7 @@
   **but most high-band hits are homograph collisions** (`kṛṣṇa`, `indra`, `kāla`
   are common words with a rare *plant* sense marked L.; the corpus frequency is
   the non-plant sense). Lemma attestation does NOT confirm the botanical sense here.
-- **Honest subset — botanical-only headwords** (lemma whose *every* sense is a
+- **Filtered subset — botanical-only headwords** (lemma whose *every* sense is a
   plant, so no homograph): 4,148 such headwords; of these,
   **1,528 are both L.-only and DCS-attested** — clean confirmations
   of plant vocabulary MW had only from kośas that the corpus nonetheless attests.

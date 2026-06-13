@@ -86,7 +86,7 @@ open decision** (W1 rescope question):
 **Hard ceiling on layer (c):** 22.3% of all citations are meta/hedge/relative
 (`L.` 40,212 · `ib.` 10,094 · `W.` 8,285 · `MW.` 5,710 · `Cat.` 5,302) and can
 never point to a primary-text scan; another 40.2% are bare (no locator). So the
-honest scan-linkable-now ceiling is far below the old "85%" target. **But `ib.`
+realistic scan-linkable-now ceiling is far below the old "85%" target. **But `ib.`
 is recoverable:** the resolver in
 [relative_refs/](https://github.com/sanskrit-lexicon/MWS/tree/master/relative_refs)
 resolves **7,538 of 10,094 (74.7%)** `ib.` citations to a real text source
@@ -99,7 +99,7 @@ is sense-level and display-policy-gated (spec only).
 `ŚBr.` 5,493 · `Hariv.` 5,229 · `AV.` 4,971 · `Kāv.` 4,662 · `Mn.` 3,519. Pāṇ.
 (citation-weighted ~8,500) is spread across thousands of *sūtra-locator* strings,
 which is why it needs a sūtra→scan scheme, not a page record — same family as the
-2021 [Panini link-target work](https://github.com/sanskrit-lexicon/MWS/tree/master/mwauthorities/ls/20211005-panini).
+2021 [Pāṇini link-target work](https://github.com/sanskrit-lexicon/MWS/tree/master/mwauthorities/ls/20211005-panini).
 
 **Unit of work for layer (c)** (Sonnet-tier, one per session, resumable):
 1. Pick next high-weight source.
@@ -107,7 +107,7 @@ which is why it needs a sūtra→scan scheme, not a page record — same family 
 3. Locate a scan (archive.org), verify pagination against 3–5 sample citations.
 4. Add/extend the record + scan map; document in an issue.
 
-**Targets:** TBD once layer priority is chosen. Honest coverage targets to be
+**Targets:** TBD once layer priority is chosen. Coverage targets to be
 recomputed per layer against the live 312,160-citation base, not the inherited 85%.
 
 ## Workstream W2 — P1 paper: MW block economy → IJL (Q3 2026)
@@ -176,7 +176,7 @@ Four tracks, in leverage order:
    ([CITATION_REGISTERS.md](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/docs/CITATION_REGISTERS.md))
    instead. This also feeds papers P3/P4.
 4. **Sense structure — surface it for cross-dict tooling (not a retrofit).**
-   The old "MW has no sense markers" premise was **disproven** (register #1):
+   The old "MW has no sense markers" premise was **revised** (register #1):
    MW's sense unit is the record (`¦` + `<e>`-letter code). So the job is not a
    `<div>` retrofit but a small adapter that exposes record-grouped senses to the
    atlas sense-depth pipeline (which currently only reads `<div>`). Cheap; lands
@@ -186,7 +186,7 @@ Four tracks, in leverage order:
    of **18,930** strict purely-lexicographic MW lemmas (no text witness, known
    only from kośas), **30.2% are attested in DCS-2021 and 31.4% in DCS-2026** —
    stable across two independent corpus snapshots (so not a version artefact),
-   hedges the modern corpus can retire. Strong tier = bands 2–3 (~2,330
+   hedges that corpus evidence can re-examine. Strong tier = bands 2–3 (~2,330
    plant/medical/technical terms). IAST→SLP1 join validated (11/5,723 drift).
    Bridges P3 (citation registers) + the grammar-corpus-dict crosswalk.
    Next: hand-verify the ~180 band-3 lemmas into a P3-ready core; sense-level
@@ -242,7 +242,7 @@ bounds what W4 may copy into other dictionaries.
 
 | # | Weakness | Evidence | Consequence |
 |---|---|---|---|
-| 1 | ~~No structural sense markers~~ **DISPROVEN 2026-06-13** — MW's sense unit *is* the record: **282,199 of 286,560 records carry exactly one `¦` gloss** (only 3 have two; **0** use `(a)…(b)` or `1)…2)` in-prose enumeration). 92,670 letter-suffixed `<e>` codes (1A/2A/3A…) are continuation senses. | measured on live mw.txt; `agni`/`Darma` each explode one-sense-per-record | **Not a weakness — a positive paper result (W2).** Atlas excluded MW from [sense-depth.json](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/src/data/dicts/sense-depth.json) only because its detector reads `<div>`, not record-boundary+`¦`. Cross-dict tooling needs to group records; the data is fully machine-readable |
+| 1 | ~~No structural sense markers~~ **Revised 2026-06-13** — MW's sense unit *is* the record: **282,199 of 286,560 records carry exactly one `¦` gloss** (only 3 have two; **0** use `(a)…(b)` or `1)…2)` in-prose enumeration). 92,670 letter-suffixed `<e>` codes (1A/2A/3A…) are continuation senses. | measured on live mw.txt; `agni`/`Darma` each explode one-sense-per-record | **Not a weakness — a positive paper result (W2).** Atlas excluded MW from [sense-depth.json](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/src/data/dicts/sense-depth.json) only because its detector reads `<div>`, not record-boundary+`¦`. Cross-dict tooling needs to group records; the data is fully machine-readable |
 | 2 | **22.3% of citations are meta/hedge/relative + 40.2% bare** | measured 2026-06-13: `L.`+`ib.`+`W.`+`MW.`+`Cat.` = 69,603; bare-locator from [CITATION_REGISTERS.md](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/docs/CITATION_REGISTERS.md) | Scan-linkable-to-primary-text ceiling is well under 85%; `ib.` (10,094) needs antecedent-resolution first ([#98](https://github.com/sanskrit-lexicon/MWS/issues/98) family) |
 | 3 | **Siglum chaos** — case/diacritic variants, ~265 prefix families | 13,021 raw → 9,180 folded sigla org-wide | Inflates the orphan count; W4 track 1 attacks this |
 | 4 | **Shallow microstructure by design** — derivatives/preverbs promoted to headwords | M1 density 0.48 vs PWK 3.77, PWG 2.35; M2 = 0 | MW is the wrong template for subentry-rich targets; use PWG/PWK there |
