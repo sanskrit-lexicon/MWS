@@ -15,7 +15,7 @@ would catch it — fix before any paper) · 🟡 **survives with a wording fix**
 | Root crosswalk 550 / class 32 | bare-root union conflates homonyms; "agree" inflated by lenient union | 🟡 reword (already half-caveated) |
 | Register-B 50.3% / 46.7% | SKD de-inflection is lossy; kośa/text binary is fuzzy | 🟡 frame as approximate |
 | phw 31 broken links | might be parser artifacts (missed decimal records) | 🟢 **verified real** (targets grep to 0) |
-| Botanical 1,528 | residual homograph risk | 🟢 controlled; clean band-2/3 |
+| Botanical 1,567 | residual homograph risk | 🟢 controlled; clean band-2/3 |
 | `<ls>` link candidates 340 | tail (low-freq) false positives unvalidated | 🟢 explicit worklist, no claim |
 
 ## 🔴 Needs work
@@ -44,7 +44,7 @@ the high-confidence core, not the 74.7% headline.
 snapshots" overstates — DCS-2021 and DCS-2026 share one annotator (Hellwig) and
 one lemmatisation convention; say "two DCS snapshots," drop "independent." (b)
 "corpus-attested" should be "DCS-attested" (one corpus, not the textual record at
-large). (c) band-1 hapax (3,485 of 5,723) remain weak — already flagged, keep it
+large). (c) band-1 hapax (3,584 of 5,871) remain weak — already flagged, keep it
 load-bearing.
 
 **4. Root crosswalk / class concordance.** "550 fully triangulated" is **bare-root**
@@ -65,7 +65,7 @@ floor *and* a soft-edged one.
 
 **6. phw 31 broken links** — verified real (the dangling targets `167759.1`,
 `95539.11`, `134516.1` grep to 0 records); 99.3% reciprocal is clean.
-**7. Botanical 1,528** — homograph-controlled (botanical-only headwords); band-2/3
+**7. Botanical 1,567** — homograph-controlled (botanical-only headwords); band-2/3
 examples are unambiguous plant lemmas.
 **8. `<ls>` link candidates** — an explicit *review worklist* with a self-validation
 gate (0 false positives in top-40); the unvalidated low-frequency tail is disclosed,

@@ -4,10 +4,11 @@
 - Broad "every `<ls>` is L." (coarse, contaminated): 20,146
 - **Strict purely-lexicographic lemmas** (every `<ls>` is `L.`, AND no uncited gloss/stub — genuinely known only from kośas): **18,930**
 - Partially-hedged lemmas (both `L.` and real citations): 10,264
-- DCS corpus index (DCS-2021): 83,273 attested lemmas
+- DCS corpus index (DCS-2021, summary generated 2026-06-13): 83,239 attested lemmas
+  *(provenance stamp — re-running against a different DCS summary will change the figures below)*
 
 ## Headline
-- **5,723 of 18,930 purely-lexicographic lemmas (30.2%) are ATTESTED in DCS.**
+- **5,871 of 18,930 purely-lexicographic lemmas (31.0%) are ATTESTED in DCS.**
   These are candidates for review: words MW marked lexicographer-only that
   nonetheless occur in dated texts.
 
@@ -15,11 +16,11 @@
 |---|--:|
 | 5 very-common(1000+) | 1 |
 | 4 common(100-999) | 5 |
-| 3 uncommon(10-99) | 164 |
-| 2 rare(2-9) | 2,068 |
-| 1 hapax(1) | 3,485 |
+| 3 uncommon(10-99) | 167 |
+| 2 rare(2-9) | 2,114 |
+| 1 hapax(1) | 3,584 |
 
-- Unattested in DCS (genuinely corpus-absent, hedge stands): 13,207
+- Unattested in DCS (genuinely corpus-absent, hedge stands): 13,059
 
 ## Interpretation
 - An attested strict purely-lexicographic lemma is a **clean** refutation:

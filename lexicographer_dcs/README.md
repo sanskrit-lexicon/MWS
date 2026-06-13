@@ -19,7 +19,7 @@ Lemma-level join, no transcoding (MW `<k1>` and DCS lemmas are both SLP1):
    [SUMMARY.md](SUMMARY.md); a coarse test misclassifies common words like
    `anta`/`anila` that leave their main sense uncited.)
 3. Look each up in [`dcs_lemma_summary.json`](../../VisualDCS/dcs_lemma_summary.json)
-   (DCS-2021, 83,273 lemmas, frequency-banded).
+   (DCS-2021, 83,239 lemmas, frequency-banded).
 
 For a strict purely-lexicographic lemma, **any** corpus attestation is a clean
 refutation: MW cited no text, yet the word occurs.
@@ -28,15 +28,15 @@ refutation: MW cited no text, yet the word occurs.
 
 | Corpus | Attested | % of 18,930 | Strong tier (band ≥2) |
 |---|--:|--:|--:|
-| DCS-2021 (lemma summary, SLP1) | 5,723 | 30.2% | ~2,232 |
+| DCS-2021 (lemma summary, SLP1) | 5,871 | 31.0% | ~2,287 |
 | **DCS-2026** (full token corpus, 5.69M tokens) | **5,935** | **31.4%** | **2,330** |
 
-The headline barely moves (30.2% → 31.4%) across two DCS snapshots — so the finding
+The headline barely moves (31.0% → 31.4%) across two DCS snapshots — so the finding
 is not a corpus-version artefact. (These are two versions of the *same* corpus
 project, one annotator, so this controls for version, not for DCS's lemmatisation
 conventions — supporting, not proving, the P3 claim.)
-Net +212 refutations from the corpus refresh (+223 gross, −11 lemmatization drift).
-The 2026 join transcodes DCS IAST → SLP1 (validated: only 11/5,723 of the 2021 hits
+Net +64 refutations from the corpus refresh (+75 gross, −11 lemmatisation drift).
+The 2026 join transcodes DCS IAST → SLP1 (validated: only 11/5,871 of the 2021 hits
 drop out, all plain-ASCII so not a transcode failure).
 
 Strongest tier = bands 2–3 (rare/uncommon), mostly plant/medical/technical terms

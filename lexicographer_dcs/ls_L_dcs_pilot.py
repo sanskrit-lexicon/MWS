@@ -17,7 +17,7 @@ Join is direct: MW <k1> and DCS lemmas are both SLP1, no transcoding.
 
 Inputs (relative to GitHub/):
   csl-orig/v02/mw/mw.txt
-  VisualDCS/dcs_lemma_summary.json   (DCS-2021, 83,273 lemmas, SLP1)
+  VisualDCS/dcs_lemma_summary.json   (DCS-2021, 83,239 lemmas, SLP1)
 Outputs (this dir):
   purely_lexicographic_attested.csv  (review-candidates: lemma, band, gloss)
   purely_lexicographic_unattested.csv
@@ -130,7 +130,8 @@ lines.append(f'- Total MW headwords (k1) with >=1 `<ls>`: **{sum(1 for v in agg.
 lines.append(f'- Broad "every `<ls>` is L." (coarse, contaminated): {len(broad):,}')
 lines.append(f'- **Strict purely-lexicographic lemmas** (every `<ls>` is `L.`, AND no uncited gloss/stub — genuinely known only from kośas): **{np:,}**')
 lines.append(f'- Partially-hedged lemmas (both `L.` and real citations): {len(partial):,}')
-lines.append(f'- DCS corpus index (DCS-2021): {dcs["lemmaCount"]:,} attested lemmas\n')
+lines.append(f'- DCS corpus index (DCS-2021, summary generated {dcs.get("generatedAt","?")}): {dcs["lemmaCount"]:,} attested lemmas')
+lines.append(f'  *(provenance stamp — re-running against a different DCS summary will change the figures below)*\n')
 lines.append(f'## Headline')
 lines.append(f'- **{na:,} of {np:,} purely-lexicographic lemmas ({pct:.1f}%) are ATTESTED in DCS.**')
 lines.append(f'  These are candidates for review: words MW marked lexicographer-only that')

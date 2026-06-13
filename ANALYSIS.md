@@ -8,9 +8,9 @@ derived CSV(s), and a summary. **Analysis only — none mutate `mw.txt`.**
 
 | Module | What it answers | Headline | Actionable output |
 |---|---|---|---|
-| [lexicographer_dcs/](lexicographer_dcs/) | Which `<ls>L.</ls>` lexicographer-only lemmas does the corpus now attest? | 30.2% (DCS-2021) / 31.4% (DCS-2026) of 18,930 strict purely-lex lemmas — stable across snapshots | review-candidate CSVs |
+| [lexicographer_dcs/](lexicographer_dcs/) | Which `<ls>L.</ls>` lexicographer-only lemmas does the corpus now attest? | 31.0% (DCS-2021) / 31.4% (DCS-2026) of 18,930 strict purely-lex lemmas — stable across snapshots | review-candidate CSVs |
 | [relative_refs/](relative_refs/) | Resolve `ib.` (and spec `id.`/#98) to antecedent sources | 7,538/10,094 (74.7%) `ib.` → real source | `ib_resolved.csv` candidate map |
-| [botanical_glossary/](botanical_glossary/) | Sanskrit ↔ Linnaean glossary (#74) | 8,923 `<bot>` → 7,063 headwords / 1,223 species; 1,528 clean L.-only + DCS-attested | FAIR dataset + synonym rings |
+| [botanical_glossary/](botanical_glossary/) | Sanskrit ↔ Linnaean glossary (#74) | 8,923 `<bot>` → 7,063 headwords / 1,223 species; 1,567 clean L.-only + DCS-attested | FAIR dataset + synonym rings |
 | [phw_graph/](phw_graph/) | Audit MW's phrasal-headword cross-reference graph | 2,364 edges, 99.3% reciprocal | **31 broken-link bugs** → `phw_integrity.csv` |
 | [root_crosswalk/](root_crosswalk/) | MW ↔ Whitney ↔ DCS root crosswalk + class concordance | 550/935 roots fully triangulated; 94.4% class agree/overlap, 32 conflicts | 40-root anchor gap; 32 class conflicts |
 

@@ -26,7 +26,7 @@ control).
 | SKD — all headwords (stem-aware) | 40,815 | 20,919 | **51.3%** |
 | VCP — all headwords (stem-aware) | 48,629 | 23,777 | **48.9%** |
 | *context:* MW — all headwords | 194,084 | 57,228 | 29.5% |
-| *context:* MW — `L.`-only lemmas | 18,930 | 5,723 | 30.2% |
+| *context:* MW — `L.`-only lemmas (DCS-2021) | 18,930 | 5,871 | 31.0% |
 
 So the indigenous lexical inventory is **not** a closed self-referential universe:
 ~half of SKD and VCP headwords occur in dated texts. The constitutively-lexical

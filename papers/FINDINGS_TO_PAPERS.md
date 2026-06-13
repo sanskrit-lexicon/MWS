@@ -12,7 +12,7 @@ this note is the index from the MWS-side evidence.
 | **Sense-as-record** ([papers/microanalysis/PAPER.md §4.1](microanalysis/PAPER.md)) | **P1** block economy | IJL | explains the F11 <1% figure: senses are records, not in-entry blocks | **drafted into paper** |
 | **`L.`→DCS** ([lexicographer_dcs/](../lexicographer_dcs/)) | **P3** citation registers | Dictionaries | Register A's `L.` hedge is ~31% corpus-recoverable (stable 2 snapshots) | in [SYNTHESIS](p3_citation_registers/SYNTHESIS.md) |
 | **`ib.` resolver** ([relative_refs/](../relative_refs/)) | **P3** | Dictionaries | 74.7% of relative cites resolve → "meta" overstates Register A's sourcelessness | in SYNTHESIS |
-| **Botanical `L.`-attestation** ([botanical_glossary/](../botanical_glossary/)) | **P3** | Dictionaries | the evidentiary gradient in one semantic field (1,528 confirmed) | in SYNTHESIS |
+| **Botanical `L.`-attestation** ([botanical_glossary/](../botanical_glossary/)) | **P3** | Dictionaries | the evidentiary gradient in one semantic field (1,567 confirmed) | in SYNTHESIS |
 | **Register-B corpus test** ([papers/p3_citation_registers/register_b/](p3_citation_registers/register_b/)) | **P3** + **P4** | Dictionaries / IJL·WSC | Register B is constitutively lexicographic (SKD 46.7% `iti`→kośa) yet ~half corpus-grounded (SKD 50.3%, VCP 47.9%) | drafted (memo) |
 | **Root crosswalk MW↔Whitney↔DCS** ([root_crosswalk/](../root_crosswalk/)) | **P6** learner's layer | Lexikos | the corpus+grammar+dict join P6 needs (550/935 roots triangulated by bare-root match) | data ready |
 | **Class concordance** ([root_crosswalk/](../root_crosswalk/)) | **P6** (or grammar note) | — | MW vs Whitney conjugation class: 94.4% agree/overlap, 32 *candidate* conflicts | data ready, **needs Sanskritist** |

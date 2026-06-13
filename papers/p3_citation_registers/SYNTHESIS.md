@@ -26,7 +26,7 @@ orthogonal axis the form-distinction cannot see: **evidentiary status**. MW's
    citations), MW's own marker that a sense rests on the indigenous *kośa*
    tradition with no textual witness *known to MW*. The corpus test shows this
    layer is **partly recoverable**: of 18,930 lemmas whose entire attestation is
-   `L.`, **~31% occur in DCS** (30.2% on the 2021 snapshot, 31.4% on the full
+   `L.`, **~31% occur in DCS** (31.0% on the 2021 snapshot, 31.4% on the full
    2026 token corpus — stable across two DCS snapshots, though both are versions
    of one corpus project, so this controls for version not for DCS's conventions). The hedge is
    therefore **not** a statement of non-existence; it is a *19th-century
@@ -61,7 +61,7 @@ counts suggest.
 | 1 | `L.`-hedge corpus-recoverability | 31% of 18,930 (stable 2021/2026) | the hedge is a recoverable evidence gap, not absence | [lexicographer_dcs/](../../lexicographer_dcs/) |
 | 2 | Corpus-absent residue | ~69% of purely-lexical lemmas; **259** roots with 0 DCS | the hard floor of the lexicographic/grammatical register | [lexicographer_dcs/](../../lexicographer_dcs/), [root_crosswalk/](../../root_crosswalk/) |
 | 3 | `ib.` resolvability | 57.1% same-cluster (high-conf); 74.7% upper bound — *resolvable, not verified* | the relative apparatus is largely recoverable; "meta" overstates sourcelessness | [relative_refs/](../../relative_refs/) |
-| 4 | Botanical sub-register | 72% of 7,063 plant headwords `L.`-only; **1,528** corpus-confirmed | the gradient in one semantic field — kośa technical vocabulary partly corpus-real | [botanical_glossary/](../../botanical_glossary/) |
+| 4 | Botanical sub-register | 72% of 7,063 plant headwords `L.`-only; **1,567** corpus-confirmed | the gradient in one semantic field — kośa technical vocabulary partly corpus-real | [botanical_glossary/](../../botanical_glossary/) |
 | 5 | Apparatus ceiling | 22.3% meta + 40.2% bare-locator | the true text-linkable fraction of Register A | [ROADMAP §W1](../../ROADMAP.md) |
 
 ## Methodological control (must travel with the claim)
@@ -71,7 +71,7 @@ word with a rare hedged sense (`kṛṣṇa` the deity vs the plant; `tā` a gra
 form vs "Lakṣmī") is attested in the corpus for the *wrong* sense, inflating
 "recoverability". Both corpus modules control for it — by restricting to lemmas
 whose every sense is hedged (the 18,930 *strict* set) and, for botany, to
-botanical-only headwords (the 1,528). The honest figure (~31%) is the controlled
+botanical-only headwords (the 1,567). The honest figure (~31%) is the controlled
 one; a naive join reports higher and is wrong. P3 must carry this caveat, because
 it bounds the central claim: this is **lemma-now** evidence; sense-level
 verification (does the corpus attest *the hedged sense*?) needs sense-tagged data

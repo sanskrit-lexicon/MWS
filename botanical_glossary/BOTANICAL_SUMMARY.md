@@ -3,18 +3,18 @@
 - `<bot>` occurrences: **8,923**
 - Distinct Sanskrit headwords with a botanical sense: **7,063**
 - Distinct canonical species (binomials): **1,223**
-- DCS-attested headwords (any band): 6,221 occurrences
+- DCS-attested headwords (any band): 6,341 occurrences
 
 ## Cross-link with the `<ls>L.</ls>` finding
 - Botanical senses marked **lexicographer-only**: 6,064 occurrences,
   5,054 distinct headwords (72% of botanical headwords).
-- Naive lemma-level join: 3,281 of those headwords are DCS-attested —
+- Naive lemma-level join: 3,348 of those headwords are DCS-attested —
   **but most high-band hits are homograph collisions** (`kṛṣṇa`, `indra`, `kāla`
   are common words with a rare *plant* sense marked L.; the corpus frequency is
   the non-plant sense). Lemma attestation does NOT confirm the botanical sense here.
 - **Filtered subset — botanical-only headwords** (lemma whose *every* sense is a
   plant, so no homograph): 4,148 such headwords; of these,
-  **1,528 are both L.-only and DCS-attested** — clean confirmations
+  **1,567 are both L.-only and DCS-attested** — clean confirmations
   of plant vocabulary MW had only from kośas that the corpus nonetheless attests.
 
 ## Biggest synonym rings (one species, many Sanskrit names)

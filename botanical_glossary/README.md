@@ -28,7 +28,7 @@ tags, with provenance and corpus attestation. Supersedes the frequency-only
 The homograph-controlled corpus check (a naive lemma join is contaminated by
 collisions — `kṛṣṇa`/`indra`/`kāla` are common words with a rare plant sense):
 restrict to **botanical-only headwords** (lemma whose every sense is a plant).
-Of 4,148 such headwords, **1,528 are both L.-only and DCS-attested** — clean
+Of 4,148 such headwords, **1,567 are both L.-only and DCS-attested** — clean
 confirmations of plant vocabulary MW knew only from lexicons that the modern
 corpus nonetheless attests (`agnimukha`=Plumbago zeylanica, `ambuvallī`=Momordica
 charantia, `amlī`=Oxalis corniculata, …).

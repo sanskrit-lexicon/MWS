@@ -1,6 +1,6 @@
 k1_slp1,k1_iast,species_canonical,species_raw,L_number,page_col,sense_citation,lexicographer_only,dcs_band,dcs_band_label
-aMSumatI,aṃśumatī,Hedysarum gangeticum,Hedysarum Gangeticum,72,"1,2",Suśr.,no,,
-aMSumatPalA,aṃśumatphalā,Musa paradisiaca,Musa Paradisiaca,73,"1,2",,no,,
+aMSumatI,aṃśumatī,Hedysarum gangeticum,Hedysarum Gangeticum,72,"1,2",Suśr.,no,3,uncommon(10-99)
+aMSumatPalA,aṃśumatphalā,Musa paradisiaca,Musa Paradisiaca,73,"1,2",,no,2,rare(2-9)
 akarA,akarā,Emblic myrobalan,Emblic Myrobalan,168,"1,3",,no,,
 akarA,akarā,Phyllanthus emblica,Phyllanthus Emblica,168,"1,3",,no,,
 akowa,akoṭa,Areca,Areca,369,"2,3",L.,yes,,
@@ -210,7 +210,7 @@ aBIru,abhīru,Asparagus racemosus,Asparagus Racemosus,13001,"74,2",L.; Suśr.,no
 aBra,abhra,Calamus rotang,Calamus Rotang,13688.7,"79,3",L.,yes,5,very-common(1000+)
 aBra,abhra,Cyperus rotundus,Cyperus Rotundus,13688.8,"79,3",L.,yes,5,very-common(1000+)
 aBrapuzpa,abhrapuṣpa,Calamus rotang,Calamus Rotang,13699,"79,3",L.,yes,1,hapax(1)
-aBramAMsI,abhramāṃsī,Valeriana jaṭāmāṃsī,Valeriana Jaṭāmāṃsī,13702,"79,3",L.,yes,,
+aBramAMsI,abhramāṃsī,Valeriana jaṭāmāṃsī,Valeriana Jaṭāmāṃsī,13702,"79,3",L.,yes,1,hapax(1)
 amaNgala,amaṅgala,Ricinus communis,Ricinus Communis,13772,"80,1",L.,yes,3,uncommon(10-99)
 amaRqa,amaṇḍa,Ricinus communis,Ricinus Communis,13778,"80,1",,no,,
 amara,amara,Euphorbia tirucalli,Euphorbia Tirucalli,13865,"80,2",Suśr.,no,4,common(100-999)
@@ -413,7 +413,7 @@ aSvakarRaka,aśvakarṇaka,Vatica robusta,Vatica Robusta,19877,"115,1",Suśr.,no
 aSvaKurI,aśvakhurī,Clitoria ternatea,Clitoria Ternatea,19888,"115,1",L.,yes,,
 aSvaganDA,aśvagandhā,Physalis flexuosa,Physalis Flexuosa,19890,"115,1",Suśr.; KātyŚr.,no,4,common(100-999)
 aSvaGna,aśvaghna,Nerium odorum,Nerium Odorum,19899,"115,1",L.,yes,2,rare(2-9)
-aSvadaMzwrA,aśvadaṃṣṭrā,Tribulus lanuginosus,Tribulus Lanuginosus,19914,"115,1",L.,yes,,
+aSvadaMzwrA,aśvadaṃṣṭrā,Tribulus lanuginosus,Tribulus Lanuginosus,19914,"115,1",L.,yes,2,rare(2-9)
 aSvapucCikA,aśvapucchikā,Glycine debilis,Glycine Debilis,19932,"115,1",L.,yes,1,hapax(1)
 aSvabalA,aśvabalā,Trigonella foenum graecum,Trigonella Foenum Graecum,19944,"115,1",Suśr.,no,2,rare(2-9)
 aSvavAra,aśvavāra,Saccharum spontaneum,Saccharum Spontaneum,20004,"115,2","Pāṇ. viii, 2, 18",no,2,rare(2-9)
@@ -448,14 +448,14 @@ ahicCattra,ahicchattra,Odina pennata,Odina Pennata,21820,"125,1",L.,yes,2,rare(2
 ahipuzpa,ahipuṣpa,Mesua roxburghii,Mesua Roxburghii,21843,"125,1",L.,yes,1,hapax(1)
 ahiBayadA,ahibhayadā,Flacourtia cataphracta roxb,Flacourtia Cataphracta Roxb.,21850,"125,1",L.,yes,1,hapax(1)
 ahimAra,ahimāra,Vachellia farnesiana,Vachellia Farnesiana,21860,"125,2",L.,yes,3,uncommon(10-99)
-ahiMsrA,ahiṃsrā,Momordica cochinchinensis spreng,Momordica Cochinchinensis Spreng.,21904,"125,2",L.,yes,,
-ahiMsrA,ahiṃsrā,Capparis sepiaria,Capparis Sepiaria,21905,"125,2",L.,yes,,
-ahiMsrA,ahiṃsrā,Cactus opuntia,Cactus Opuntia,21906,"125,2",Bhpr.,no,,
+ahiMsrA,ahiṃsrā,Momordica cochinchinensis spreng,Momordica Cochinchinensis Spreng.,21904,"125,2",L.,yes,2,rare(2-9)
+ahiMsrA,ahiṃsrā,Capparis sepiaria,Capparis Sepiaria,21905,"125,2",L.,yes,2,rare(2-9)
+ahiMsrA,ahiṃsrā,Cactus opuntia,Cactus Opuntia,21906,"125,2",Bhpr.,no,2,rare(2-9)
 ahikA,ahikā,Salmalia malabarica,Salmalia Malabarica,21907,"125,2",L.,yes,,
 aheru,aheru,Asparagus racemosus,Asparagus Racemosus,21976,"125,3",L.,yes,1,hapax(1)
 ahvalA,ahvalā,Semecarpus anacardium,Semecarpus Anacardium,22009,"126,1",L.,yes,,
 Akalla,ākalla,Anthemis pyrethrum,Anthemis Pyrethrum,22074,"126,3",L.,yes,2,rare(2-9)
-AkASamAMsI,ākāśamāṃsī,Nardostachys jaṭāmāṃsī,Nardostachys Jaṭāmāṃsī,22133,"127,1",L.,yes,,
+AkASamAMsI,ākāśamāṃsī,Nardostachys jaṭāmāṃsī,Nardostachys Jaṭāmāṃsī,22133,"127,1",L.,yes,1,hapax(1)
 AkASamUlI,ākāśamūlī,Pistia stratiotes,Pistia Stratiotes,22136,"127,1",L.,yes,,
 AkASavallI,ākāśavallī,Cassyta filiformis,Cassyta Filiformis,22143,"127,1",L.,yes,2,rare(2-9)
 Akulakft,ākulakṛt,Anthemis pyrethrum,Anthemis Pyrethrum,22176,"127,2",Bhpr.,no,,
@@ -708,7 +708,7 @@ upakumBA,upakumbhā,Croton polyandrum,Croton Polyandrum,34103.4,"195,1",Nigh.,no
 upakulyA,upakulyā,Piper longum,Piper Longum,34107,"195,1",Suśr.,no,3,uncommon(10-99)
 upacitrA,upacitrā,Salvinia cucullata,Salvinia Cucullata,34522,"197,3",L.,yes,2,rare(2-9)
 upacitrA,upacitrā,Croton polyandrum,Croton Polyandrum,34522,"197,3",L.,yes,2,rare(2-9)
-upadaMSa,upadaṃśa,Moringa hyperanthera,Moringa Hyperanthera,34655,"198,3",L.,yes,,
+upadaMSa,upadaṃśa,Moringa hyperanthera,Moringa Hyperanthera,34655,"198,3",L.,yes,3,uncommon(10-99)
 upameta,upameta,Vatica robusta,Vatica Robusta,35309,"203,3",L.,yes,,
 upavawa,upavaṭa,Buchanania latifolia,Buchanania Latifolia,35714,"206,2",L.,yes,1,hapax(1)
 upavizA,upaviṣā,Aconitum ferox,Aconitum Ferox,35825,"207,1",L.,yes,2,rare(2-9)
@@ -820,7 +820,7 @@ kaYcukin,kañcukin,Lipeocercis serrata,Lipeocercis Serrata,41860,"243,2",L.,yes,
 kaYjikA,kañjikā,Siphonantus indica,Siphonantus Indica,41892,"243,2",Pañcat.,no,,
 kawa,kaṭa,Saccharum sara,Saccharum Sara,41909,"243,2",L.,yes,3,uncommon(10-99)
 kawaBI,kaṭabhī,Cardiospermum halicacabum,Cardiospermum Halicacabum,41945,"243,3",Suśr.,no,3,uncommon(10-99)
-kawaMBara,kaṭaṃbhara,Bignonia indica,Bignonia Indica,41950,"243,3",L.,yes,,
+kawaMBara,kaṭaṃbhara,Bignonia indica,Bignonia Indica,41950,"243,3",L.,yes,2,rare(2-9)
 kawaSarkarA,kaṭaśarkarā,Guilandina bonducella,Guilandina Bonducella,41956,"243,3",L.,yes,2,rare(2-9)
 kawambarA,kaṭambarā,Helleborus niger,Helleborus Niger,41998,"243,3",L.,yes,,
 kawAyana,kaṭāyana,Andropogon muricatus,Andropogon Muricatus,42001,"243,3",L.,yes,,
@@ -973,7 +973,7 @@ kandota,kandota,Nymphaea esculenta,Nymphaea Esculenta,43236,"249,3",L.,yes,,
 kandarAla,kandarāla,Hibiscus populneoides,Hibiscus Populneoides,43245,"249,3",L.,yes,2,rare(2-9)
 kandarAla,kandarāla,Ficus infectoria,Ficus Infectoria,43245,"249,3",L.,yes,2,rare(2-9)
 kandarAlaka,kandarālaka,Ficus infectoria,Ficus Infectoria,43246,"249,3",L.,yes,,
-kaMDara,kaṃdhara,Amaranthus oleraceus,Amaranthus Oleraceus,43314,"250,1",L.,yes,,
+kaMDara,kaṃdhara,Amaranthus oleraceus,Amaranthus Oleraceus,43314,"250,1",L.,yes,3,uncommon(10-99)
 kaparda,kaparda,Cypraea moneta,Cypraea Moneta,43349,"250,1",VS.; Pāṇ.,no,3,uncommon(10-99)
 kapardikA,kapardikā,Cypraea moneta,Cypraea Moneta,43355,"250,1",VS.; Pañcat.,no,3,uncommon(10-99)
 kapi,kapi,Emblica officinalis,Emblica Officinalis,43434,"250,3",L.,yes,4,common(100-999)
@@ -1524,9 +1524,9 @@ kiYjalka,kiñjalka,Mesua ferrea,Mesua ferrea,50235,"282,2",L.,yes,3,uncommon(10-
 kiwi,kiṭi,Batatas edulis,Batatas edulis,50243,"282,2",Npr.,no,2,rare(2-9)
 kiwimUlABa,kiṭimūlābha,Batatas edulis,Batatas edulis,50245,"282,2",Npr.,no,,
 kiRi,kiṇi,Achyranthes aspera,Achyranthes aspera,50265,"282,2",L.,yes,1,hapax(1)
-kiMSuka,kiṃśuka,Butea frondosa,Butea frondosa,50322,"282,3",MBh.,no,,
+kiMSuka,kiṃśuka,Butea frondosa,Butea frondosa,50322,"282,3",MBh.,no,4,common(100-999)
 kiMSukodaka,kiṃśukodaka,Butea frondosa,Butea frondosa,50325,"282,3",Suśr.,no,,
-kiMSulaka,kiṃśulaka,Butea frondosa,Butea frondosa,50326,"282,3","Pāṇ. vi, 3, 117",no,,
+kiMSulaka,kiṃśulaka,Butea frondosa,Butea frondosa,50326,"282,3","Pāṇ. vi, 3, 117",no,1,hapax(1)
 kiMkarAla,kiṃkarāla,Acacia arabica,Acacia arabica,50351,"283,1",L.,yes,,
 kiMcana,kiṃcana,Butea frondosa,Butea frondosa,50364.1,"283,1",L.,yes,,
 kiMciccIritapattrikA,kiṃciccīritapattrikā,Beta bengalensis,Beta bengalensis,50368,"283,1",Npr.,no,,
@@ -1575,8 +1575,8 @@ kupAka,kupāka,Strychnos nux vomica,Strychnos nux vomica,51072,"286,2",L.,yes,1,
 kurasA,kurasā,Hieracium,hieracium,51146,"286,2",L.,yes,,
 kuvfttikft,kuvṛttikṛt,Caesalpina bonducella,Caesalpina Bonducella,51185,"286,3",L.,yes,,
 kuSAlmalI,kuśālmalī,Andersonia rohitaka,Andersonia Rohitaka,51201,"286,3",Npr.,no,1,hapax(1)
-kuSiMSapA,kuśiṃśapā,Sisu,Sisu,51203,"286,3",L.,yes,,
-kuSiMSapA,kuśiṃśapā,Dalbergia sisu,Dalbergia Sisu,51203,"286,3",L.,yes,,
+kuSiMSapA,kuśiṃśapā,Sisu,Sisu,51203,"286,3",L.,yes,1,hapax(1)
+kuSiMSapA,kuśiṃśapā,Dalbergia sisu,Dalbergia Sisu,51203,"286,3",L.,yes,1,hapax(1)
 kukuwa,kukuṭa,Marsilea quadrifolia,Marsilea quadrifolia,51280,"287,1",L.,yes,,
 kukundanI,kukundanī,Cardiospermum halicacabum,Cardiospermum halicacabum,51284,"287,1",Bhpr.,no,,
 kukurajihvA,kukurajihvā,Leea staphylea,Leea staphylea,51297,"287,1",L.,yes,,
@@ -1851,7 +1851,7 @@ kfzRavfntA,kṛṣṇavṛntā,Gmelina arborea,Gmelina arborea,55423,"307,3",L.,
 kfzRavfntikA,kṛṣṇavṛntikā,Gmelina arborea,Gmelina arborea,55424,"307,3",L.,yes,2,rare(2-9)
 kfzRavetra,kṛṣṇavetra,Calamus rotang,Calamus Rotang,55430,"307,3",Bhpr.,no,,
 kfzRavyAla,kṛṣṇavyāla,Plumbago rosea,Plumbago rosea,55432,"307,3",Gal.,no,,
-kfzRaSiMSapA,kṛṣṇaśiṃśapā,Dalbergia sissoo,Dalbergia Sissoo,55442,"307,3",L.,yes,,
+kfzRaSiMSapA,kṛṣṇaśiṃśapā,Dalbergia sissoo,Dalbergia Sissoo,55442,"307,3",L.,yes,1,hapax(1)
 kfzRaSigru,kṛṣṇaśigru,Moringa pterygosperma,Moringa pterygosperma,55443,"307,3",L.,yes,1,hapax(1)
 kfzRasAra,kṛṣṇasāra,Dalbergia sissoo,Dalbergia Sissoo,55460,"307,3",L.,yes,3,uncommon(10-99)
 kfzRasAra,kṛṣṇasāra,Euphorbia antiquorum,Euphorbia antiquorum,55461,"307,3",L.,yes,3,uncommon(10-99)
@@ -1914,7 +1914,7 @@ keSaroccawA,keśaroccaṭā,Cyperus,Cyperus,56133,"311,1",L.,yes,,
 keSarin,keśarin,Rottleria tinctoria,Rottleria tinctoria,56139,"311,1","MBh. i; iii; MBh.; Suśr.; Bhartṛ.; TBr.; Car. i, 27; L.; L.; L.; L.; MBh. iii, 11193; R.; Daś.; Lalit.; VP.; Kathās. lxx, 102.",no,1,hapax(1)
 keSarin,keśarin,Mesua ferrea,Mesua ferrea,56139,"311,1","MBh. i; iii; MBh.; Suśr.; Bhartṛ.; TBr.; Car. i, 27; L.; L.; L.; L.; MBh. iii, 11193; R.; Daś.; Lalit.; VP.; Kathās. lxx, 102.",no,1,hapax(1)
 keSarin,keśarin,Moringa,Moringa,56139,"311,1","MBh. i; iii; MBh.; Suśr.; Bhartṛ.; TBr.; Car. i, 27; L.; L.; L.; L.; MBh. iii, 11193; R.; Daś.; Lalit.; VP.; Kathās. lxx, 102.",no,1,hapax(1)
-kEMSuka,kaiṃśuka,Butea frondosa,Butea frondosa,56167,"311,1",Suśr.,no,,
+kEMSuka,kaiṃśuka,Butea frondosa,Butea frondosa,56167,"311,1",Suśr.,no,1,hapax(1)
 kEMkirAta,kaiṃkirāta,Jonesia aśoka,Jonesia Aśoka,56184,"311,1",Ratnāv.,no,,
 kEwarya,kaiṭarya,Azadirachta indica,Azadirachta indica,56199,"311,2","L.; L.; L.; Car. i, 4; Suśr.",no,2,rare(2-9)
 kEwarya,kaiṭarya,Melia bukayun,Melia Bukayun,56199,"311,2","L.; L.; L.; Car. i, 4; Suśr.",no,2,rare(2-9)
@@ -2020,7 +2020,7 @@ kzataviDvaMsin,kṣatavidhvaṃsin,Argentea,argentea,58944,"325,3",L.,yes,,
 kzatahara,kṣatahara,Agallochum,Agallochum,58950,"326,1",L.,yes,,
 kzatahara,kṣatahara,Aloe,Aloe,58950,"326,1",L.,yes,,
 kzamA,kṣamā,Acacia catechu,Acacia Catechu,59057,"326,3",L.,yes,4,common(100-999)
-kzamAdaMSa,kṣamādaṃśa,Moringa pterygosperma,Moringa pterygosperma,59076,"326,3",L.,yes,,
+kzamAdaMSa,kṣamādaṃśa,Moringa pterygosperma,Moringa pterygosperma,59076,"326,3",L.,yes,1,hapax(1)
 kzAradalA,kṣāradalā,Chenopodium,Chenopodium,59177,"327,1",L.,yes,1,hapax(1)
 kzAradru,kṣāradru,Schreberia swietenoides,Schreberia Swietenoides,59178,"327,1",L.,yes,,
 kzAramaDya,kṣāramadhya,Achyranthes aspera,Achyranthes aspera,59191,"327,2",L.,yes,,
@@ -2254,7 +2254,7 @@ ganDaPalA,gandhaphalā,Batatas paniculata,Batatas paniculata,63081,"345,2",L.,ye
 ganDaPalA,gandhaphalā,Olibanum,Olibanum,63082,"345,2",L.,yes,2,rare(2-9)
 ganDabahala,gandhabahala,Ocimum,Ocimum,63086,"345,2",L.,yes,,
 ganDabIjA,gandhabījā,Trigonella foenum graecum,Trigonella foenum graecum,63089,"345,2",L.,yes,1,hapax(1)
-ganDamAMsI,gandhamāṃsī,Valeriana,Valeriana,63095,"345,2","VarBṛS. li, 15",no,,
+ganDamAMsI,gandhamāṃsī,Valeriana,Valeriana,63095,"345,2","VarBṛS. li, 15",no,2,rare(2-9)
 ganDamUla,gandhamūla,Alpinia galanga,Alpinia Galanga,63122,"345,2",L.,yes,2,rare(2-9)
 ganDamUlA,gandhamūlā,Olibanum,Olibanum,63123,"345,2",L.,yes,2,rare(2-9)
 ganDamUlikA,gandhamūlikā,Emblica officinalis,Emblica officinalis,63128,"345,2",L.,yes,2,rare(2-9)
@@ -2661,7 +2661,7 @@ cetanikA,cetanikā,Terminalia chebula,Terminalia Chebula,74057,"397,3",L.,yes,1,
 cibuka,cibuka,Pterospermum ruberifolium,Pterospermum ruberifolium,74199,"398,2",L.,yes,3,uncommon(10-99)
 cirajIvin,cirajīvin,Salmalia malabarica,Salmalia malabarica,74247,"398,3",L.,yes,2,rare(2-9)
 ciraMjIvA,ciraṃjīvā,Trigonella corniculata,Trigonella corniculata,74252,"398,3",L.,yes,,
-ciraMjIvin,ciraṃjīvin,Salmalia malabarica,Salmalia malabarica,74255,"398,3",L.,yes,,
+ciraMjIvin,ciraṃjīvin,Salmalia malabarica,Salmalia malabarica,74255,"398,3",L.,yes,2,rare(2-9)
 ciratikta,ciratikta,Agathotes chirayta,Agathotes Chirayta,74262,"398,3",L.,yes,1,hapax(1)
 cirapAkin,cirapākin,Feronia elephantum,Feronia elephantum,74270,"398,3",L.,yes,2,rare(2-9)
 cirapuzpa,cirapuṣpa,Mimusops elengi,Mimusops Elengi,74272,"398,3",L.,yes,1,hapax(1)
@@ -3305,7 +3305,7 @@ tvagdozApahA,tvagdoṣāpahā,Vernonia anthelminthica,Vernonia anthelminthica,89
 tvac,tvac,Cassia,Cassia,89061,"463,3","VarBṛS. lxxvii, 6; 12; 24; 32",no,5,very-common(1000+)
 tvaca,tvaca,Cassia,Cassia,89069,"463,3",L.,yes,3,uncommon(10-99)
 tvacApattra,tvacāpattra,Cassia,Cassia,89077,"463,3",L.,yes,,
-daMSamUla,daṃśamūla,Hyperanthera moringa,Hyperanthera Moringa,89249,"464,3",L.,yes,,
+daMSamUla,daṃśamūla,Hyperanthera moringa,Hyperanthera Moringa,89249,"464,3",L.,yes,1,hapax(1)
 dakziRAvartakI,dakṣiṇāvartakī,Tragia involucrata,Tragia involucrata,89456,"466,1",L.,yes,1,hapax(1)
 dagDaruha,dagdharuha,Clerodendrum phlomoides,Clerodendrum phlomoides,89555,"466,2",L.,yes,1,hapax(1)
 daRqA,daṇḍā,Hedysarum lagopodioides,Hedysarum lagopodioides,89571.60,"466,3",Npr.,no,1,hapax(1)
@@ -3615,8 +3615,8 @@ dvIpikA,dvīpikā,Asparagus racemosus,Asparagus Racemosus,99034,"507,1",Car.,no,
 dvIpyA,dvīpyā,Asparagus racemosus,Asparagus Racemosus,99043,"507,1",L.,yes,1,hapax(1)
 DattUra,dhattūra,Datura alba,Datura Alba,99253,"508,1",Suśr.; Bhpr.; Kāv.,no,3,uncommon(10-99)
 DattUra,dhattūra,Datura alba,Datura Alba,99255,"508,1",Kathās.,no,3,uncommon(10-99)
-DanaMjaya,dhanaṃjaya,Plumbago zeylanica,Plumbago Zeylanica,99290,"508,2",L.,yes,,
-DanaMjaya,dhanaṃjaya,Terminalia arjuna,Terminalia Arjuna,99292,"508,2",L.,yes,,
+DanaMjaya,dhanaṃjaya,Plumbago zeylanica,Plumbago Zeylanica,99290,"508,2",L.,yes,5,very-common(1000+)
+DanaMjaya,dhanaṃjaya,Terminalia arjuna,Terminalia Arjuna,99292,"508,2",L.,yes,5,very-common(1000+)
 Danada,dhanada,Barringtonia acutangula,Barringtonia Acutangula,99310,"508,2",L.,yes,4,common(100-999)
 DanikA,dhanikā,Panicum italicum,Panicum Italicum,99480,"509,1",L.,yes,2,rare(2-9)
 Danya,dhanya,Vatica robusta,Vatica Robusta,99500,"509,1",L.,yes,4,common(100-999)
@@ -3678,7 +3678,7 @@ DAvanI,dhāvanī,Solanum jacquini,Solanum Jacquini,101178,"516,1",Bhpr.; L.; L.,
 DAvanI,dhāvanī,Grislea tomentosa,Grislea Tomentosa,101178,"516,1",Bhpr.; L.; L.,no,3,uncommon(10-99)
 DAvanI,dhāvanī,Solanum jacquini,Solanum Jacquini,101178,"516,1",Bhpr.; L.; L.,no,3,uncommon(10-99)
 DIrA,dhīrā,Rosa glandulifera,Rosa Glandulifera,101337,"517,1",Bhpr.; L.,no,2,rare(2-9)
-DuraMDara,dhuraṃdhara,Grislea tomentosa,Grislea Tomentosa,101439,"517,2",L.,yes,,
+DuraMDara,dhuraṃdhara,Grislea tomentosa,Grislea Tomentosa,101439,"517,2",L.,yes,3,uncommon(10-99)
 DUka,dhūka,Mimusops elengi,Mimusops Elengi,101486,"517,3",Car.,no,1,hapax(1)
 DUpavfkza,dhūpavṛkṣa,Pinus longifolia,Pinus Longifolia,101522,"518,1",L.,yes,2,rare(2-9)
 DUpavfkzaka,dhūpavṛkṣaka,Pinus longifolia,Pinus Longifolia,101523,"518,1",L.,yes,,
@@ -3836,7 +3836,7 @@ nArIca,nārīca,Corchorus capsularis,Corchorus Capsularis,106113,"537,3",L.,yes,
 nAlitA,nālitā,Arum colocasia,Arum Colocasia,106168,"538,1",L.,yes,,
 nAlIpa,nālīpa,Nauclea cadamba,Nauclea Cadamba,106169,"538,1",L.,yes,,
 nAsA,nāsā,Gendarussa vulgaris,Gendarussa Vulgaris,106228,"538,1",L.,yes,4,common(100-999)
-nAsAsaMvedana,nāsāsaṃvedana,Momordica charantia,Momordica Charantia,106258,"538,2",L.,yes,,
+nAsAsaMvedana,nāsāsaṃvedana,Momordica charantia,Momordica Charantia,106258,"538,2",L.,yes,2,rare(2-9)
 niHsAra,niḥsāra,Trophis aspera,Trophis Aspera,106453,"539,1",L.,yes,3,uncommon(10-99)
 niHsArA,niḥsārā,Musa sapientum,Musa Sapientum,106455,"539,1",L.,yes,2,rare(2-9)
 niHsnehA,niḥsnehā,Linum usitatissimum,Linum Usitatissimum,106477,"539,1",L.,yes,,
@@ -3850,9 +3850,9 @@ niScalA,niścalā,Desmodium gangeticum,Desmodium Gangeticum,107417,"542,3",L.,ye
 nizkaRWa,niṣkaṇṭha,Crataeva roxburghii,Crataeva Roxburghii,107443,"542,3",L.,yes,,
 nizpattrikA,niṣpattrikā,Capparis aphylla,Capparis Aphylla,107525,"543,1",L.,yes,1,hapax(1)
 nizPalA,niṣphalā,Momordica,Momordica,107632,"543,2",L.,yes,1,hapax(1)
-nistriMSapattrikA,nistriṃśapattrikā,Euphorbia,Euphorbia,107689,"543,3",L.,yes,,
-nistriMSapattrikA,nistriṃśapattrikā,Antiquorum,Antiquorum,107689,"543,3",L.,yes,,
-nistriMSapattrikA,nistriṃśapattrikā,Tortilis,Tortilis,107689,"543,3",L.,yes,,
+nistriMSapattrikA,nistriṃśapattrikā,Euphorbia,Euphorbia,107689,"543,3",L.,yes,1,hapax(1)
+nistriMSapattrikA,nistriṃśapattrikā,Antiquorum,Antiquorum,107689,"543,3",L.,yes,1,hapax(1)
+nistriMSapattrikA,nistriṃśapattrikā,Tortilis,Tortilis,107689,"543,3",L.,yes,1,hapax(1)
 nIruja,nīruja,Costus,Costus,107729,"543,3",L.,yes,3,uncommon(10-99)
 nikuYcaka,nikuñcaka,Calamus rotang,Calamus Rotang,107865,"544,3",Bhpr.,no,,
 nikumBa,nikumbha,Croton polyandrum,Croton Polyandrum,107874,"544,3",L.,yes,3,uncommon(10-99)
@@ -4160,9 +4160,9 @@ paryaNkapawwikA,paryaṅkapaṭṭikā,Lupinus,Lupinus,119629,"607,1",Bhpr.,no,,
 paryaNkapAdikA,paryaṅkapādikā,Lupinus,Lupinus,119630,"607,1",L.,yes,2,rare(2-9)
 parvapuzpikA,parvapuṣpikā,Tiaridium indicum,Tiaridium Indicum,119939,"609,1",L.,yes,,
 parvapuzpI,parvapuṣpī,Tiaridium indicum,Tiaridium Indicum,119940,"609,1",Car.,no,2,rare(2-9)
-palaMkazA,palaṃkaṣā,Asteracantha longifolia,Asteracantha Longifolia,120116,"609,3",Suśr.; L.,no,,
-palaMkazA,palaṃkaṣā,Butea frondosa,Butea Frondosa,120116,"609,3",Suśr.; L.,no,,
-palaMkazA,palaṃkaṣā,Dolichos sinensis,Dolichos Sinensis,120116,"609,3",Suśr.; L.,no,,
+palaMkazA,palaṃkaṣā,Asteracantha longifolia,Asteracantha Longifolia,120116,"609,3",Suśr.; L.,no,3,uncommon(10-99)
+palaMkazA,palaṃkaṣā,Butea frondosa,Butea Frondosa,120116,"609,3",Suśr.; L.,no,3,uncommon(10-99)
+palaMkazA,palaṃkaṣā,Dolichos sinensis,Dolichos Sinensis,120116,"609,3",Suśr.; L.,no,3,uncommon(10-99)
 palala,palala,Sesamum,sesamum,120140,"609,3",Hariv.; Var.; Suśr.,no,3,uncommon(10-99)
 palalapiRqa,palalapiṇḍa,Sesamum,sesamum,120145,"609,3",ŚiraUp.,no,,
 palalOdana,palalaudana,Sesamum,sesamum,120148,"609,3","Kāś.; Pāṇ. ii, 3, 45.",no,,
@@ -4196,7 +4196,7 @@ pAnIyASrA,pānīyāśrā,Eleusine indica,Eleusine Indica,120932,"613,2",L.,yes,,
 pAMsupattra,pāṃsupattra,Chenopodium album,Chenopodium Album,120988,"613,3",L.,yes,,
 pAMsuparRI,pāṃsuparṇī,Cocculus,Cocculus,120989,"613,3",L.,yes,,
 pAMsukA,pāṃsukā,Pandanus odoratissimus,Pandanus Odoratissimus,121008,"613,3",L.,yes,,
-pAMsula,pāṃsula,Guilandina bonducella,Guilandina Bonducella,121017,"613,3",,no,,
+pAMsula,pāṃsula,Guilandina bonducella,Guilandina Bonducella,121017,"613,3",,no,2,rare(2-9)
 pAkakfzRa,pākakṛṣṇa,Carissa carandas,Carissa Carandas,121058,"614,1",,no,,
 pAkaPala,pākaphala,Carissa carandas,Carissa Carandas,121069,"614,1",L.,yes,,
 pAkaraYjana,pākarañjana,Laurus cassia,Laurus Cassia,121081,"614,1",L.,yes,,
@@ -4211,7 +4211,7 @@ pAwala,pāṭala,Bignonia suaveolens,Bignonia Suaveolens,121316,"615,1",MBh.; K�
 pAwala,pāṭala,Rottleria tinctoria,Rottleria Tinctoria,121318,"615,1",L.,yes,3,uncommon(10-99)
 pAwalA,pāṭalā,Bignonia suaveolens,Bignonia Suaveolens,121320,"615,1",Kāv.,no,3,uncommon(10-99)
 pAwaladruma,pāṭaladruma,Rottleria tinctoria,Rottleria Tinctoria,121331,"615,1",L.,yes,,
-pAwalApuzpasaMniBa,pāṭalāpuṣpasaṃnibha,Cerasus puddum,Cerasus Puddum,121335,"615,1",L.,yes,,
+pAwalApuzpasaMniBa,pāṭalāpuṣpasaṃnibha,Cerasus puddum,Cerasus Puddum,121335,"615,1",L.,yes,1,hapax(1)
 pAwali,pāṭali,Bignonia suaveolens,Bignonia Suaveolens,121341,"615,1",Suśr.,no,3,uncommon(10-99)
 pAwalI,pāṭalī,Bignonia suaveolens,Bignonia Suaveolens,121355,"615,1",Suśr.,no,3,uncommon(10-99)
 pAwahikA,pāṭahikā,Abrus precatorius,Abrus Precatorius,121370,"615,1",L.,yes,,
@@ -4452,11 +4452,11 @@ pIlu,pīlu,Saccharum sara,Saccharum Sara,124984,"630,2",L.,yes,3,uncommon(10-99)
 pIlupattra,pīlupattra,Sanseviera roxburghiana,Sanseviera Roxburghiana,124993,"630,2",L.,yes,2,rare(2-9)
 pIluparRI,pīluparṇī,Momordica monadelpha,Momordica Monadelpha,124995,"630,2",L.,yes,3,uncommon(10-99)
 pIlunI,pīlunī,Sanseviera roxburghiana,Sanseviera Roxburghiana,125006,"630,2",L.,yes,2,rare(2-9)
-puMstvavigraha,puṃstvavigraha,Andropogon schoenanthus,Andropogon Schoenanthus,125030,"630,3",L.,yes,,
-puMnAga,puṃnāga,Rottleria tinctoria,Rottleria Tinctoria,125087,"631,1",L.,yes,,
-puMnAga,puṃnāga,Calophyllum inophyllum,Calophyllum Inophyllum,125087,"631,1",L.,yes,,
-puMnAwa,puṃnāṭa,Cassia tora,Cassia Tora,125090,"631,1",Bhpr.,no,,
-puMnAman,puṃnāman,Rottleria tinctoria,Rottleria Tinctoria,125094.1,"631,1",L.,yes,,
+puMstvavigraha,puṃstvavigraha,Andropogon schoenanthus,Andropogon Schoenanthus,125030,"630,3",L.,yes,1,hapax(1)
+puMnAga,puṃnāga,Rottleria tinctoria,Rottleria Tinctoria,125087,"631,1",L.,yes,3,uncommon(10-99)
+puMnAga,puṃnāga,Calophyllum inophyllum,Calophyllum Inophyllum,125087,"631,1",L.,yes,3,uncommon(10-99)
+puMnAwa,puṃnāṭa,Cassia tora,Cassia Tora,125090,"631,1",Bhpr.,no,2,rare(2-9)
+puMnAman,puṃnāman,Rottleria tinctoria,Rottleria Tinctoria,125094.1,"631,1",L.,yes,3,uncommon(10-99)
 pucCin,pucchin,Calotropis gigantea,Calotropis Gigantea,125168,"631,2",L.,yes,1,hapax(1)
 puwannawa,puṭannaṭa,Cyperus rotundus,Cyperus Rotundus,125237,"631,3",L.,yes,,
 puRqarin,puṇḍarin,Hibiscus mutabilis,Hibiscus Mutabilis,125258,"631,3",L.,yes,,
@@ -4481,7 +4481,7 @@ punaHsara,punaḥsara,Aspera,Aspera,125837,"634,1",AV.,no,2,rare(2-9)
 puraSCada,puraśchada,Imperata cylindrica,Imperata Cylindrica,125902,"634,2",L.,yes,,
 purAmaTanavallaBa,purāmathanavallabha,Agallochum,Agallochum,125973,"634,3",L.,yes,,
 pura,pura,Cyperus,Cyperus,126134.36,"635,3",L.,yes,5,very-common(1000+)
-puraMdara,puraṃdara,Piper chaba,Piper Chaba,126204,"636,1",L.,yes,,
+puraMdara,puraṃdara,Piper chaba,Piper Chaba,126204,"636,1",L.,yes,4,common(100-999)
 purImoha,purīmoha,Datura,Datura,126223,"636,1",L.,yes,,
 purIzama,purīṣama,Phaseolus radiatus,Phaseolus Radiatus,126289,"636,2",L.,yes,,
 puruza,puruṣa,Rottleria tinctoria,Rottleria Tinctoria,126458,"637,1",L.,yes,5,very-common(1000+)
@@ -4675,7 +4675,7 @@ prAvfzya,prāvṛṣya,Nauclea cordifolia,Nauclea Cordifolia,140321,"709,2",L.,y
 prAvfzya,prāvṛṣya,Wrightia antidysenterica,Wrightia Antidysenterica,140322,"709,2",L.,yes,2,rare(2-9)
 prAvfzya,prāvṛṣya,Asteracantha longifolia,Asteracantha Longifolia,140323,"709,2",L.,yes,2,rare(2-9)
 priyakAmya,priyakāmya,Terminalia tomentosa,Terminalia Tomentosa,140469,"710,1",L.,yes,,
-priyaMkarI,priyaṃkarī,Physalis flexuosa,Physalis Flexuosa,140488,"710,1",L.,yes,,
+priyaMkarI,priyaṃkarī,Physalis flexuosa,Physalis Flexuosa,140488,"710,1",L.,yes,2,rare(2-9)
 priyajIva,priyajīva,Calosanthes indica,Calosanthes Indica,140500,"710,1",L.,yes,2,rare(2-9)
 priyatama,priyatama,Celosia cristata,Celosia Cristata,140505.2,"710,1",L.,yes,3,uncommon(10-99)
 priyadA,priyadā,Rhinacanthus communis,Rhinacanthus Communis,140513,"710,2",L.,yes,,
@@ -4707,7 +4707,7 @@ plIhASatru,plīhāśatru,Adelia nereifolia,Adelia Nereifolia,141464,"715,1",L.,y
 plava,plava,Ficus infectoria,Ficus Infectoria,141479,"715,2",L.,yes,4,common(100-999)
 plava,plava,Cyperus rotundus,Cyperus Rotundus,141493,"715,2",Suśr.,no,4,common(100-999)
 plavaga,plavaga,Acacia sirissa,Acacia Sirissa,141498,"715,2",L.,yes,4,common(100-999)
-plavaMga,plavaṃga,Ficus infectoria,Ficus Infectoria,141507,"715,2",L.,yes,,
+plavaMga,plavaṃga,Ficus infectoria,Ficus Infectoria,141507,"715,2",L.,yes,3,uncommon(10-99)
 plavaka,plavaka,Ficus infectoria,Ficus Infectoria,141519,"715,2",L.,yes,2,rare(2-9)
 plavana,plavana,Cyperus,Cyperus,141526,"715,2",L.,yes,3,uncommon(10-99)
 PaYjI,phañjī,Clerodendrum siphonantus,Clerodendrum Siphonantus,141609,"716,1",L.,yes,3,uncommon(10-99)
@@ -5150,7 +5150,7 @@ BIru,bhīru,Solanum jacquini,Solanum Jacquini,151121,"758,2",L.,yes,4,common(100
 BIrupattrI,bhīrupattrī,Asparagus racemosus,Asparagus Racemosus,151129,"758,3",L.,yes,,
 BIzaRa,bhīṣaṇa,Boswellia thurifera,Boswellia Thurifera,151158,"758,3",L.,yes,4,common(100-999)
 BIzaRa,bhīṣaṇa,Phoenix paludosa,Phoenix Paludosa,151159,"758,3",L.,yes,4,common(100-999)
-BujaMgajihvA,bhujaṃgajihvā,Sita cordifolia,Sita Cordifolia,151307,"759,2",L.,yes,,
+BujaMgajihvA,bhujaṃgajihvā,Sita cordifolia,Sita Cordifolia,151307,"759,2",L.,yes,1,hapax(1)
 BujaMgAKya,bhujaṃgākhya,Mesua roxburghii,Mesua Roxburghii,151330,"759,2",L.,yes,,
 Buktiprada,bhuktiprada,Phaseolus mungo,Phaseolus Mungo,151378,"759,3",L.,yes,1,hapax(1)
 BUkadambaka,bhūkadambaka,Ptychotis ajowan,Ptychotis Ajowan,151563,"761,1",L.,yes,2,rare(2-9)
@@ -5418,7 +5418,7 @@ maDUlikA,madhūlikā,Aletris hyacinthoides,Aletris Hyacinthoides,156312,"781,2",
 maDUlikA,madhūlikā,Dracaena nervosa,Dracaena Nervosa,156312,"781,2",L.,yes,3,uncommon(10-99)
 maDUlikA,madhūlikā,Bassia,Bassia,156314,"781,2",L.,yes,3,uncommon(10-99)
 maDvAsava,madhvāsava,Bassia latifolia,Bassia Latifolia,156334,"781,2",,no,2,rare(2-9)
-maDyaMdina,madhyaṃdina,Bassia latifolia,Bassia Latifolia,156402.10,"781,3",L.,yes,,
+maDyaMdina,madhyaṃdina,Bassia latifolia,Bassia Latifolia,156402.10,"781,3",L.,yes,4,common(100-999)
 maDyAsTi,madhyāsthi,Grewia asiatica,Grewia Asiatica,156468,"782,1",L.,yes,,
 maDyAhnika,madhyāhnika,Pentapetes phoenicea,Pentapetes Phoenicea,156481,"782,2",Bhpr.,no,,
 mata,mata,Agallochum,Agallochum,156637,"783,1",L.,yes,4,common(100-999)
@@ -5622,15 +5622,15 @@ mahI,mahī,Hingtsha repens,Hingtsha Repens,161526,"803,2",L.,yes,5,very-common(1
 mahIruha,mahīruha,Tectona grandis,Tectona Grandis,161598,"803,3",L.,yes,3,uncommon(10-99)
 mahIsaha,mahīsaha,Tectona grandis,Tectona Grandis,161604,"803,3",L.,yes,1,hapax(1)
 maheraRA,maheraṇā,Boswellia thurifera,Boswellia Thurifera,161670,"804,1",L.,yes,2,rare(2-9)
-mAMsI,māṃsī,Nardostachys jatamansi,Nardostachys Jatamansi,161777,"805,1",Var.; Suśr.,no,,
+mAMsI,māṃsī,Nardostachys jatamansi,Nardostachys Jatamansi,161777,"805,1",Var.; Suśr.,no,3,uncommon(10-99)
 mAMsadalana,māṃsadalana,Amoora rohitaka,Amoora Rohitaka,161803,"805,1",L.,yes,,
-mAMsadrAvin,māṃsadrāvin,Rumex vesicarius,Rumex Vesicarius,161804,"805,1",L.,yes,,
+mAMsadrAvin,māṃsadrāvin,Rumex vesicarius,Rumex Vesicarius,161804,"805,1",L.,yes,1,hapax(1)
 mAMsaPala,māṃsaphala,Cucurbita citrullus,Cucurbita Citrullus,161824,"805,1",L.,yes,,
 mAMsaPalA,māṃsaphalā,Solanum melongena,Solanum Melongena,161825,"805,1",L.,yes,,
-mAMsamAzA,māṃsamāṣā,Glycine debilis,Glycine Debilis,161837,"805,1",L.,yes,,
-mAMsala,māṃsala,Phaseolus radiatus,Phaseolus Radiatus,161893,"805,2",L.,yes,,
-mAMsalaPalA,māṃsalaphalā,Solanum melongena,Solanum Melongena,161894,"805,2",L.,yes,,
-mAMsikA,māṃsikā,Nardostachys jatamansi,Nardostachys Jatamansi,161900,"805,2",L.,yes,,
+mAMsamAzA,māṃsamāṣā,Glycine debilis,Glycine Debilis,161837,"805,1",L.,yes,2,rare(2-9)
+mAMsala,māṃsala,Phaseolus radiatus,Phaseolus Radiatus,161893,"805,2",L.,yes,3,uncommon(10-99)
+mAMsalaPalA,māṃsalaphalā,Solanum melongena,Solanum Melongena,161894,"805,2",L.,yes,1,hapax(1)
+mAMsikA,māṃsikā,Nardostachys jatamansi,Nardostachys Jatamansi,161900,"805,2",L.,yes,1,hapax(1)
 mAkandI,mākandī,Myrobolan,Myrobolan,161906,"805,2",L.,yes,2,rare(2-9)
 mAkandI,mākandī,Myrobolan,Myrobolan,161906,"805,2",L.,yes,2,rare(2-9)
 mAgaDI,māgadhī,Jasminum auriculatum,Jasminum Auriculatum,161960,"805,3",L.,yes,3,uncommon(10-99)
@@ -5643,7 +5643,7 @@ mAcikA,mācikā,Hibiscus cannabinus,Hibiscus Cannabinus,162033,"806,1",L.; Bhpr.
 mAqa,māḍa,Caryota urens,Caryota Urens,162071,"806,2",L.,yes,2,rare(2-9)
 mARaka,māṇaka,Arum indicum,Arum Indicum,162085,"806,2",L.,yes,2,rare(2-9)
 mARaka,māṇaka,Arum indicum,Arum Indicum,162086,"806,2",L.,yes,2,rare(2-9)
-mAtaMga,mātaṃga,Ficus religiosa,Ficus Religiosa,162175,"806,3",L.,yes,,
+mAtaMga,mātaṃga,Ficus religiosa,Ficus Religiosa,162175,"806,3",L.,yes,4,common(100-999)
 mAtf,mātṛ,Salvinia cucullata,Salvinia Cucullata,162249,"807,1",,no,5,very-common(1000+)
 mAtf,mātṛ,Nardostachys jatamansi,Nardostachys Jatamansi,162249,"807,1",,no,5,very-common(1000+)
 mAtf,mātṛ,Sphaeranthus indicus,Sphaeranthus Indicus,162249,"807,1",,no,5,very-common(1000+)
@@ -6024,7 +6024,7 @@ raktavarDana,raktavardhana,Solanum melongena,Solanum Melongena,173609,"862,1",L.
 raktavfntA,raktavṛntā,Nyctanthes arbor tristis,Nyctanthes Arbor Tristis,173625,"862,1",L.,yes,1,hapax(1)
 raktaSAli,raktaśāli,Oryza sativa,Oryza Sativa,173626,"862,1",L.,yes,3,uncommon(10-99)
 raktaSIrzaka,raktaśīrṣaka,Pinus longifolia,Pinus longifolia,173630,"862,1",L.,yes,2,rare(2-9)
-raktasaMDyaka,raktasaṃdhyaka,Nymphaea rubra,Nymphaea Rubra,173643,"862,1",L.,yes,,
+raktasaMDyaka,raktasaṃdhyaka,Nymphaea rubra,Nymphaea Rubra,173643,"862,1",L.,yes,1,hapax(1)
 raktasarzapa,raktasarṣapa,Sinapis ramosa,Sinapis Ramosa,173645,"862,1",,no,2,rare(2-9)
 raktasAra,raktasāra,Caesalpina sappan,Caesalpina Sappan,173650,"862,1",Bhpr.,no,3,uncommon(10-99)
 raktasUryamaRi,raktasūryamaṇi,Hibiscus phoeniceus,Hibiscus Phoeniceus,173651,"862,1",MW.,no,,
@@ -6320,7 +6320,7 @@ laGupicCila,laghupicchila,Cordia myxa,Cordia Myxa,180898,"894,1",L.,yes,,
 laGupuzpa,laghupuṣpa,Kadamba,Kadamba,180900,"894,1",L.,yes,1,hapax(1)
 laGuBUtadruma,laghubhūtadruma,Cordia myxa,Cordia Myxa,180919,"894,2",L.,yes,1,hapax(1)
 laGumanTa,laghumantha,Premna spinosa,Premna Spinosa,180925,"894,2",L.,yes,1,hapax(1)
-laGumAMsI,laghumāṃsī,Valeriana,Valeriana,180927,"894,2",L.,yes,,
+laGumAMsI,laghumāṃsī,Valeriana,Valeriana,180927,"894,2",L.,yes,1,hapax(1)
 laGulaya,laghulaya,Andropogon muricatus,Andropogon Muricatus,180944,"894,2",L.,yes,1,hapax(1)
 laGuSamI,laghuśamī,Acacia,Acacia,180978,"894,2",MW.,no,,
 laGuSIta,laghuśīta,Cordia myxa,Cordia Myxa,180983,"894,2",L.,yes,1,hapax(1)
@@ -6369,7 +6369,7 @@ lava,lava,Andropogon muricatus,Andropogon Muricatus,181846,"898,2",,no,4,common(
 lavaMgalatA,lavaṃgalatā,Limonia scandens,Limonia Scandens,181861,"898,3",L.,yes,,
 lavanI,lavanī,Anona reticulata,Anona Reticulata,181865,"898,3",L.,yes,,
 lavaRA,lavaṇā,Cardiospermum halicacabum,Cardiospermum Halicacabum,181894,"898,3",L.,yes,2,rare(2-9)
-lavaRakiMSukA,lavaṇakiṃśukā,Cardiospermum halicacabum,Cardiospermum Halicacabum,181904,"898,3",L.,yes,,
+lavaRakiMSukA,lavaṇakiṃśukā,Cardiospermum halicacabum,Cardiospermum Halicacabum,181904,"898,3",L.,yes,1,hapax(1)
 lavali,lavali,Averrhoa acida,Averrhoa Acida,181971,"899,1",Viddh.,no,,
 lavalIPalapARqura,lavalīphalapāṇḍura,Lavail,Lavail,181976,"899,1",Vikr.,no,,
 lAkuca,lākuca,Artocarpus lacucha,Artocarpus Lacucha,182060,"899,3",Vāgbh.,no,2,rare(2-9)
@@ -6432,12 +6432,12 @@ lohita,lohita,Agallochum,Agallochum,183928,"909,1",L.,yes,4,common(100-999)
 lohitadalA,lohitadalā,Chenopodium,Chenopodium,183950,"909,1",L.,yes,,
 lohitapuzpI,lohitapuṣpī,Echinops echinatus,Echinops Echinatus,183963.1,"909,1",L.,yes,1,hapax(1)
 lohitotpala,lohitotpala,Nymphaea rubra,Nymphaea Rubra,184027,"909,2",BhP.,no,,
-vaMSa,vaṃśa,Shorea robusta,Shorea Robusta,184159,"910,1",L.; RV.,no,,
-vaMSapattrI,vaṃśapattrī,Gardenia gummifera,Gardenia Gummifera,184231,"910,2",Bhpr.,no,,
+vaMSa,vaṃśa,Shorea robusta,Shorea Robusta,184159,"910,1",L.; RV.,no,4,common(100-999)
+vaMSapattrI,vaṃśapattrī,Gardenia gummifera,Gardenia Gummifera,184231,"910,2",Bhpr.,no,2,rare(2-9)
 vaMSavarRa,vaṃśavarṇa,Cicer arietinum,Cicer Arietinum,184267,"910,2",L.,yes,,
-vaMSAntara,vaṃśāntara,Amphidonax karka,Amphidonax Karka,184300,"910,3",L.,yes,,
+vaMSAntara,vaṃśāntara,Amphidonax karka,Amphidonax Karka,184300,"910,3",L.,yes,1,hapax(1)
 vaMSikA,vaṃśikā,Agallochum,Agallochum,184310,"910,3",L.,yes,,
-vaMSaka,vaṃśaka,Agallochum,Agallochum,184311,"910,3",L.,yes,,
+vaMSaka,vaṃśaka,Agallochum,Agallochum,184311,"910,3",L.,yes,2,rare(2-9)
 vakrakaRwaka,vakrakaṇṭaka,Acacia catechu,Acacia Catechu,184373,"911,1",L.,yes,1,hapax(1)
 vakradantIbIja,vakradantībīja,Croton jamalgota,Croton Jamalgota,184402,"911,1",L.,yes,,
 vakrapuzpa,vakrapuṣpa,Butea frondosa,Butea Frondosa,184423,"911,1",L.,yes,2,rare(2-9)
@@ -7063,7 +7063,7 @@ vIraRa,vīraṇa,Andropogon muricatus,Andropogon Muricatus,203878,"1006,3",MBh.,
 vIriRa,vīriṇa,Andropogon muricatus,Andropogon Muricatus,203886,"1006,3",ŚBr.; GṛŚrS.,no,2,rare(2-9)
 vfti,vṛti,Piper betel,Piper Betel,203992,"1007,2",Mn.; MBh.,no,3,uncommon(10-99)
 vftiMkara,vṛtiṃkara,Flacourtia sapida,Flacourtia Sapida,203996,"1007,2",L.,yes,,
-vfTAkfsarasaMyAva,vṛthākṛsarasaṃyāva,Sesamum,sesamum,204056,"1007,3","Mn. v, 7.",no,,
+vfTAkfsarasaMyAva,vṛthākṛsarasaṃyāva,Sesamum,sesamum,204056,"1007,3","Mn. v, 7.",no,1,hapax(1)
 vfka,vṛka,Pinus longifolia,Pinus Longifolia,204102,"1008,1",L.,yes,4,common(100-999)
 vfkI,vṛkī,Clypea hernandifolia,Clypea Hernandifolia,204114,"1008,1",L.,yes,3,uncommon(10-99)
 vfkAkzI,vṛkākṣī,Ipomoea turpethum,Ipomoea Turpethum,204148,"1008,1",L.,yes,,
@@ -7228,8 +7228,8 @@ vyApya,vyāpya,Arabicus,Arabicus,209812,"1037,3",L.,yes,2,rare(2-9)
 vyAma,vyāma,Costus speciosus,Costus Speciosus,209871,"1038,1",VarBṛS.,no,3,uncommon(10-99)
 vyAma,vyāma,Arabicus,Arabicus,209871,"1038,1",VarBṛS.,no,3,uncommon(10-99)
 vyAla,vyāla,Plumbago ceylanica,Plumbago Ceylanica,209939,"1038,2",L.,yes,4,common(100-999)
-vyAladaMzwra,vyāladaṃṣṭra,Asteracantha longifolia,Asteracantha Longifolia,209956,"1038,3",L.; Dhanv.,no,,
-vyAladaMzwra,vyāladaṃṣṭra,Tribulus lanuginosus,Tribulus Lanuginosus,209956,"1038,3",L.; Dhanv.,no,,
+vyAladaMzwra,vyāladaṃṣṭra,Asteracantha longifolia,Asteracantha Longifolia,209956,"1038,3",L.; Dhanv.,no,2,rare(2-9)
+vyAladaMzwra,vyāladaṃṣṭra,Tribulus lanuginosus,Tribulus Lanuginosus,209956,"1038,3",L.; Dhanv.,no,2,rare(2-9)
 vyAlanaKa,vyālanakha,Unguis odoratus,Unguis Odoratus,209959,"1038,3",L.,yes,2,rare(2-9)
 vyAlapattrA,vyālapattrā,Cucumis utilissimus,Cucumis Utilissimus,209960,"1038,3",L.,yes,2,rare(2-9)
 vyAlambahasta,vyālambahasta,Ricinus,Ricinus,209982,"1038,3",L.,yes,,
@@ -7359,9 +7359,9 @@ SamIpattra,śamīpattra,Mimosa pudica,Mimosa Pudica,213020,"1054,2",L.,yes,,
 SampAka,śampāka,Cathartocarpus fistula,Cathartocarpus Fistula,213059,"1054,2",MBh.; Suśr.,no,3,uncommon(10-99)
 SampAta,śampāta,Cassia fistula,Cassia Fistula,213063,"1054,2",MW.,no,,
 SaMkarapuzpa,śaṃkarapuṣpa,Calotropis,Calotropis,213143,"1054,3",L.,yes,,
-SaMkarI,śaṃkarī,Rubia munjista,Rubia Munjista,213190,"1055,1",L.,yes,,
-SaMkarI,śaṃkarī,Prosopis spicigera,Prosopis Spicigera,213191,"1055,1",ib.,no,,
-SaMkarI,śaṃkarī,Mimosa suma,Mimosa Suma,213191,"1055,1",ib.,no,,
+SaMkarI,śaṃkarī,Rubia munjista,Rubia Munjista,213190,"1055,1",L.,yes,2,rare(2-9)
+SaMkarI,śaṃkarī,Prosopis spicigera,Prosopis Spicigera,213191,"1055,1",ib.,no,2,rare(2-9)
+SaMkarI,śaṃkarī,Mimosa suma,Mimosa Suma,213191,"1055,1",ib.,no,2,rare(2-9)
 SamBu,śambhu,Asclepias,Asclepias,213216,"1055,1",L.,yes,4,common(100-999)
 SamBupriyA,śambhupriyā,Emblic myrobolan,Emblic Myrobolan,213234,"1055,2",L.,yes,,
 Sambara,śambara,Terminalia arunja,Terminalia Arunja,213278,"1055,2",L.,yes,4,common(100-999)
@@ -7396,7 +7396,7 @@ SaSivAwikA,śaśivāṭikā,Boerhavia procumbens,Boerhavia Procumbens,214466,"10
 Sazkula,śaṣkula,Pongamia glabra,Pongamia Glabra,214507,"1060,3",L.,yes,,
 Sazkuli,śaṣkuli,Sesamum,sesamum,214509,"1060,3",Yājñ.; Suśr.; ŚārṅgS.; MBh.; Suśr.; BhP.; L.; W.,no,1,hapax(1)
 SastrakoSataru,śastrakośataru,Gardenia,Gardenia,214555,"1061,1",L.,yes,1,hapax(1)
-SAMSapa,śāṃśapa,Dalbergia sissoo,Dalbergia Sissoo,214654,"1061,2",AV.,no,,
+SAMSapa,śāṃśapa,Dalbergia sissoo,Dalbergia Sissoo,214654,"1061,2",AV.,no,1,hapax(1)
 SAka,śāka,Tectona grandis,Tectona Grandis,214668,"1061,2",GṛŚrS.; MBh.,no,4,common(100-999)
 SAka,śāka,Acacia sirissa,Acacia Sirissa,214669,"1061,2",L.,yes,4,common(100-999)
 SAkA,śākā,Terminalia chebula,Terminalia Chebula,214671,"1061,2",L.,yes,,
@@ -7462,8 +7462,8 @@ SAlmali,śālmali,Salmalia malabarica,Salmalia Malabarica,216202,"1068,2",Mn.; M
 SAlmali,śālmali,Agasti,Agasti,216206,"1068,2",Hcat.,no,3,uncommon(10-99)
 SAlmalipattraka,śālmalipattraka,Alstonia scholaris,Alstonia Scholaris,216209,"1068,2",L.,yes,2,rare(2-9)
 SAlmalika,śālmalika,Andersonia rohitaka,Andersonia Rohitaka,216213,"1068,2",L.,yes,2,rare(2-9)
-SiMSapA,śiṃśapā,Dalbergia sissoo,Dalbergia Sissoo,216488,"1069,3",AV.,no,,
-SiMSumAra,śiṃśumāra,Delphinus gangeticus,Delphinus Gangeticus,216493,"1069,3",RV.; TS.; Sāy.,no,,
+SiMSapA,śiṃśapā,Dalbergia sissoo,Dalbergia Sissoo,216488,"1069,3",AV.,no,3,uncommon(10-99)
+SiMSumAra,śiṃśumāra,Delphinus gangeticus,Delphinus Gangeticus,216493,"1069,3",RV.; TS.; Sāy.,no,3,uncommon(10-99)
 SikzA,śikṣā,Bignonia indica,Bignonia Indica,216534,"1070,1",L.,yes,4,common(100-999)
 SiKaRqinI,śikhaṇḍinī,Abrus precatorius,Abrus Precatorius,216621,"1070,2",L.,yes,3,uncommon(10-99)
 SiKaRqI,śikhaṇḍī,Abrus precatorius,Abrus Precatorius,216626,"1070,2",L.,yes,2,rare(2-9)
@@ -7849,8 +7849,8 @@ Slezmala,śleṣmala,Cordia myxa,Cordia Myxa,224132,"1104,2",L.,yes,3,uncommon(1
 Slezmala,śleṣmala,Latifolia,Latifolia,224132,"1104,2",L.,yes,3,uncommon(10-99)
 SlezmAta,śleṣmāta,Cordia latifolia,Cordia Latifolia,224133,"1104,2",L.,yes,2,rare(2-9)
 SlIpadApaha,ślīpadāpaha,Putranjiva roxburghii,Putranjiva Roxburghii,224144,"1104,2",L.,yes,1,hapax(1)
-SvadaMzwraka,śvadaṃṣṭraka,Tribulus lanuginosus,Tribulus Lanuginosus,224224,"1105,1",L.,yes,,
-SvadaMzwrA,śvadaṃṣṭrā,Asteracantha longifolia,Asteracantha Longifolia,224226,"1105,1",Suśr.; Car.,no,,
+SvadaMzwraka,śvadaṃṣṭraka,Tribulus lanuginosus,Tribulus Lanuginosus,224224,"1105,1",L.,yes,1,hapax(1)
+SvadaMzwrA,śvadaṃṣṭrā,Asteracantha longifolia,Asteracantha Longifolia,224226,"1105,1",Suśr.; Car.,no,3,uncommon(10-99)
 SvapAmana,śvapāmana,Pavetta indica,Pavetta Indica,224250,"1105,1",L.,yes,,
 SvapucCa,śvapuccha,Hemionitis cordifolia,Hemionitis Cordifolia,224252,"1105,1",L.,yes,1,hapax(1)
 Svasuta,śvasuta,Conyza lacera,Conyza Lacera,224283,"1105,2",L.,yes,,
@@ -7919,13 +7919,13 @@ zaqgranTa,ṣaḍgrantha,Caesalpinia bonducella,Caesalpinia Bonducella,225170,"1
 zaqgranTA,ṣaḍgranthā,Galedupa piscidia,Galedupa Piscidia,225172,"1109,2",L.,yes,3,uncommon(10-99)
 zaqgranTA,ṣaḍgranthā,Curcuma zedoaria,Curcuma Zedoaria,225173,"1109,2",L.,yes,3,uncommon(10-99)
 zaqgranTikA,ṣaḍgranthikā,Curcuma zedoaria,Curcuma Zedoaria,225177,"1109,2",L.,yes,1,hapax(1)
-saMyoga,saṃyoga,Sesamum,sesamum,225751,"1112,2",Yogas.; Kaṇ.; Bhāṣāp.,no,,
+saMyoga,saṃyoga,Sesamum,sesamum,225751,"1112,2",Yogas.; Kaṇ.; Bhāṣāp.,no,4,common(100-999)
 saMvAwikA,saṃvāṭikā,Trapa bispinosa,Trapa Bispinosa,226155,"1115,1",L.,yes,,
 saMvizA,saṃviṣā,Aconitum ferox,Aconitum Ferox,226307,"1116,1",L.,yes,,
-saMvarta,saṃvarta,Terminalia bellerica,Terminalia Bellerica,226404,"1116,3",L.,yes,,
-saMvarta,saṃvarta,Cicer arietinum,Cicer Arietinum,226405,"1116,3",L.,yes,,
-saMvartaka,saṃvartaka,Terminalia bellerica,Terminalia Bellerica,226420,"1116,3",L.,yes,,
-saMhitapuzpikA,saṃhitapuṣpikā,Anethum panmori,Anethum Panmori,227458,"1123,1",L.,yes,,
+saMvarta,saṃvarta,Terminalia bellerica,Terminalia Bellerica,226404,"1116,3",L.,yes,3,uncommon(10-99)
+saMvarta,saṃvarta,Cicer arietinum,Cicer Arietinum,226405,"1116,3",L.,yes,3,uncommon(10-99)
+saMvartaka,saṃvartaka,Terminalia bellerica,Terminalia Bellerica,226420,"1116,3",L.,yes,3,uncommon(10-99)
+saMhitapuzpikA,saṃhitapuṣpikā,Anethum panmori,Anethum Panmori,227458,"1123,1",L.,yes,1,hapax(1)
 sakawa,sakaṭa,Trophis aspera,Trophis Aspera,227607,"1123,3",L.,yes,,
 sakawa,sakaṭa,Anogeissus latifolia,Anogeissus Latifolia,227607,"1123,3",L.,yes,,
 sakaRwaka,sakaṇṭaka,Guilandina bonduc,Guilandina Bonduc,227616,"1123,3",L.,yes,,
@@ -7934,15 +7934,15 @@ sakuruRqa,sakuruṇḍa,Amaranth,Amaranth,227793,"1124,3",L.,yes,1,hapax(1)
 sakuruRqa,sakuruṇḍa,Barleria,Barleria,227793,"1124,3",L.,yes,1,hapax(1)
 sakftPalA,sakṛtphalā,Musa sapientum,Musa Sapientum,227804,"1124,3",L.,yes,2,rare(2-9)
 sakfdvIra,sakṛdvīra,Helminthostachys laciniata,Helminthostachys Laciniata,227828,"1124,3",L.,yes,1,hapax(1)
-saMkocanI,saṃkocanī,Mimosa pudica,Mimosa Pudica,228037,"1126,1",L.,yes,,
-saMgrAhin,saṃgrāhin,Wrightia antidysenterica,Wrightia Antidysenterica,228685,"1129,3",L.,yes,,
+saMkocanI,saṃkocanī,Mimosa pudica,Mimosa Pudica,228037,"1126,1",L.,yes,2,rare(2-9)
+saMgrAhin,saṃgrāhin,Wrightia antidysenterica,Wrightia Antidysenterica,228685,"1129,3",L.,yes,3,uncommon(10-99)
 saMGapuzpI,saṃghapuṣpī,Grislea tomentosa,Grislea Tomentosa,228743,"1129,3",L.,yes,,
 saMGAtapattrikA,saṃghātapattrikā,Anethum sowa,Anethum Sowa,228779,"1130,1",L.,yes,,
 saMGAtikA,saṃghātikā,Ficus religiosa,Ficus Religiosa,228785,"1130,1",L.,yes,,
 saMGAwikA,saṃghāṭikā,Trapa bispinosa,Trapa Bispinosa,228807,"1130,1",L.,yes,,
 saKa,sakha,Mimosa catechu,Mimosa Catechu,228857,"1130,2",MW.,no,4,common(100-999)
 sacInaka,sacīnaka,Panicum miliaceum,Panicum Miliaceum,228940,"1131,1",MārkP.,no,,
-saMcAriRI,saṃcāriṇī,Mimosa,Mimosa,229139,"1132,1",L.,yes,,
+saMcAriRI,saṃcāriṇī,Mimosa,Mimosa,229139,"1132,1",L.,yes,1,hapax(1)
 saMcAlI,saṃcālī,Abrus precatorius,Abrus Precatorius,229149,"1132,1",L.,yes,,
 saMcitrA,saṃcitrā,Salvinia cucullata,Salvinia Cucullata,229180,"1132,2",L.,yes,,
 saktuPalA,saktuphalā,Prosopis spicigera,Prosopis Spicigera,229241,"1132,3",L.,yes,2,rare(2-9)
@@ -7977,10 +7977,10 @@ sana,sana,Terminalia tomentosa,Terminalia Tomentosa,231106,"1141,2",L.,yes,3,unc
 sanaparRI,sanaparṇī,Marsilea quadrifolia,Marsilea Quadrifolia,231107,"1141,2",L.,yes,,
 sanAmaka,sanāmaka,Hyperanthera moringa,Hyperanthera Moringa,231137,"1141,2",L.,yes,1,hapax(1)
 saMdIpya,saṃdīpya,Celosia cristata,Celosia Cristata,231526,"1143,3",L.,yes,,
-saMDijA,saṃdhijā,Hibiscus rosa sinensis,Hibiscus Rosa Sinensis,231686,"1145,1",L.,yes,,
-saMDinAla,saṃdhināla,Unguis odoratus,Unguis Odoratus,231692,"1145,1",L.,yes,,
-saMDibanDa,saṃdhibandha,Kaempferia rotunda,Kaempferia Rotunda,231699,"1145,1",L.,yes,,
-saMDyApuzpI,saṃdhyāpuṣpī,Jasminum grandiflorum,Jasminum Grandiflorum,231818,"1145,2",L.,yes,,
+saMDijA,saṃdhijā,Hibiscus rosa sinensis,Hibiscus Rosa Sinensis,231686,"1145,1",L.,yes,1,hapax(1)
+saMDinAla,saṃdhināla,Unguis odoratus,Unguis Odoratus,231692,"1145,1",L.,yes,2,rare(2-9)
+saMDibanDa,saṃdhibandha,Kaempferia rotunda,Kaempferia Rotunda,231699,"1145,1",L.,yes,2,rare(2-9)
+saMDyApuzpI,saṃdhyāpuṣpī,Jasminum grandiflorum,Jasminum Grandiflorum,231818,"1145,2",L.,yes,1,hapax(1)
 saMnipAtanud,saṃnipātanud,Nimba,Nimba,232036,"1147,1",Suśr.,no,,
 sapattraka,sapattraka,Achyranthes triandra,Achyranthes Triandra,232240,"1148,2",Pañcar.,no,,
 sapItaka,sapītaka,Luffa foetida,Luffa Foetida,232298,"1148,2",L.,yes,1,hapax(1)
@@ -8000,7 +8000,7 @@ saptalA,saptalā,Bignonia suaveolens,Bignonia Suaveolens,232781,"1150,3",Suśr.;
 saBadramusta,sabhadramusta,Cyperus rotundus,Cyperus Rotundus,232869,"1151,2",Ṛtus.,no,1,hapax(1)
 samaganDika,samagandhika,Andropogon muricatus,Andropogon Muricatus,233048,"1152,2",Bhpr.,no,2,rare(2-9)
 samatraya,samatraya,Myrobalan,myrobalan,233073,"1152,2",L.,yes,1,hapax(1)
-samAMSA,samāṃśā,Sida cordifolia,Sida Cordifolia,233227,"1153,1",L.,yes,,
+samAMSA,samāṃśā,Sida cordifolia,Sida Cordifolia,233227,"1153,1",L.,yes,1,hapax(1)
 samaNgA,samaṅgā,Rubia munjista,Rubia Munjista,233358,"1153,3",L.; VarBṛS.; Suśr.,no,3,uncommon(10-99)
 samaNgA,samaṅgā,Cordifolia,Cordifolia,233358,"1153,3",L.; VarBṛS.; Suśr.,no,3,uncommon(10-99)
 samaNgA,samaṅgā,Mimosa pudica,Mimosa Pudica,233358,"1153,3",L.; VarBṛS.; Suśr.,no,3,uncommon(10-99)
@@ -8036,9 +8036,9 @@ sarpa,sarpa,Mesua roxburghii,Mesua Roxburghii,237920,"1184,1",L.,yes,4,common(10
 sarpatanu,sarpatanu,Solanum,Solanum,237937,"1184,2",L.,yes,1,hapax(1)
 sarpadaMzwra,sarpadaṃṣṭra,Croton polyandrum,Croton Polyandrum,237943,"1184,2",L.,yes,,
 sarpadaMzwra,sarpadaṃṣṭra,Tiglium,Tiglium,237943,"1184,2",L.,yes,,
-sarpadaMzwrA,sarpadaṃṣṭrā,Tragia involucrata,Tragia Involucrata,237944,"1184,2",ib.,no,,
-sarpadaMzwrikA,sarpadaṃṣṭrikā,Odina pinnata,Odina Pinnata,237945,"1184,2",ib.,no,,
-sarpadaMzwrikA,sarpadaṃṣṭrikā,Tragia involucrata,Tragia Involucrata,237945,"1184,2",ib.,no,,
+sarpadaMzwrA,sarpadaṃṣṭrā,Tragia involucrata,Tragia Involucrata,237944,"1184,2",ib.,no,2,rare(2-9)
+sarpadaMzwrikA,sarpadaṃṣṭrikā,Odina pinnata,Odina Pinnata,237945,"1184,2",ib.,no,2,rare(2-9)
+sarpadaMzwrikA,sarpadaṃṣṭrikā,Tragia involucrata,Tragia Involucrata,237945,"1184,2",ib.,no,2,rare(2-9)
 sarpadantI,sarpadantī,Tiaridium indicum,Tiaridium Indicum,237949,"1184,2",ib.,no,1,hapax(1)
 sarpapuzpI,sarpapuṣpī,Tiaridium indicum,Tiaridium Indicum,237964,"1184,2",L.,yes,1,hapax(1)
 sarpaPaRaja,sarpaphaṇaja,Abrus precatorius,Abrus Precatorius,237966,"1184,2",L.,yes,,
@@ -8067,8 +8067,8 @@ savitf,savitṛ,Calotropis gigantea,Calotropis Gigantea,239478,"1190,2",L.,yes,4
 savahA,savahā,Convolvulus,Convolvulus,239669,"1191,2",L.,yes,,
 savyasAcin,savyasācin,Terminalia arjuna,Terminalia Arjuna,239693.3,"1191,3",L.,yes,4,common(100-999)
 saSasyA,saśasyā,Tiaridium indicum,Tiaridium Indicum,239741,"1191,3",L.,yes,,
-sasyasaMvara,sasyasaṃvara,Vatica,Vatica,239945,"1192,3",L.,yes,,
-sasyasaMvara,sasyasaṃvara,Shorea robusta,Shorea Robusta,239945,"1192,3",L.,yes,,
+sasyasaMvara,sasyasaṃvara,Vatica,Vatica,239945,"1192,3",L.,yes,2,rare(2-9)
+sasyasaMvara,sasyasaṃvara,Shorea robusta,Shorea Robusta,239945,"1192,3",L.,yes,2,rare(2-9)
 sahA,sahā,Aloe perfoliata,Aloe Perfoliata,239983,"1193,1",L.; VarBṛS.; Suśr.,no,3,uncommon(10-99)
 sahA,sahā,Unguis odoratus,Unguis Odoratus,239984,"1193,1",L.,yes,3,uncommon(10-99)
 sahacara,sahacara,Barleria prionitis,Barleria Prionitis,240137,"1193,3",Car.,no,3,uncommon(10-99)
@@ -8095,7 +8095,7 @@ sAnuja,sānuja,Xanthoxylon alatum,Xanthoxylon Alatum,241907,"1202,3",Bhpr.,no,2,
 sAnuja,sānuja,Hibiscus mutabilis,Hibiscus Mutabilis,241908,"1202,3",L.,yes,2,rare(2-9)
 sAndrapuzpa,sāndrapuṣpa,Terminalia bellerica,Terminalia Bellerica,242020,"1203,3",L.,yes,,
 sAMDivelI,sāṃdhivelī,Hibiscus rosa sinensis,Hibiscus Rosa Sinensis,242038,"1203,3",L.,yes,,
-sAMDyakusumA,sāṃdhyakusumā,Hibiscus rosa sinensis,Hibiscus Rosa Sinensis,242041,"1203,3",L.,yes,,
+sAMDyakusumA,sāṃdhyakusumā,Hibiscus rosa sinensis,Hibiscus Rosa Sinensis,242041,"1203,3",L.,yes,1,hapax(1)
 sAyaka,sāyaka,Saccharum sara,Saccharum Sara,242737,"1207,3",L.,yes,4,common(100-999)
 sAraka,sāraka,Croton jamalgota,Croton Jamalgota,242773,"1208,1",L.,yes,3,uncommon(10-99)
 sAraRa,sāraṇa,Paederia foetida,Paederia Foetida,242779,"1208,1",L.,yes,4,common(100-999)
@@ -8112,29 +8112,29 @@ sArAla,sārāla,Sesamum,sesamum,243091,"1209,2",L.,yes,,
 sArivA,sārivā,Hemidesmus indicus,Hemidesmus Indicus,243115,"1209,2",Suśr.,no,4,common(100-999)
 sArivA,sārivā,Ichnocarpus frutescens,Ichnocarpus Frutescens,243115,"1209,2",Suśr.,no,4,common(100-999)
 sAvaka,sāvaka,Blyxa octandra,Blyxa Octandra,243372,"1211,1",Lāṭy.,no,,
-siMha,siṃha,Moringa,Moringa,243738,"1213,1",L.,yes,,
-siMhakesara,siṃhakesara,Mimusops elengi,Mimusops Elengi,243757.1,"1213,1",L.,yes,,
-siMhatuRqa,siṃhatuṇḍa,Euphorbia ligularia,Euphorbia Ligularia,243779,"1213,1",Bhpr.,no,,
+siMha,siṃha,Moringa,Moringa,243738,"1213,1",L.,yes,5,very-common(1000+)
+siMhakesara,siṃhakesara,Mimusops elengi,Mimusops Elengi,243757.1,"1213,1",L.,yes,2,rare(2-9)
+siMhatuRqa,siṃhatuṇḍa,Euphorbia ligularia,Euphorbia Ligularia,243779,"1213,1",Bhpr.,no,2,rare(2-9)
 siMhanAdikA,siṃhanādikā,Alhagi maurorum,Alhagi Maurorum,243820,"1213,2",L.,yes,,
-siMhaparRikA,siṃhaparṇikā,Phaseolus trilobus,Phaseolus Trilobus,243825,"1213,2",L.,yes,,
-siMhaparRI,siṃhaparṇī,Justicia ganderussa,Justicia Ganderussa,243826,"1213,2",L.,yes,,
-siMhapucCikA,siṃhapucchikā,Hemionitis cordifolia,Hemionitis Cordifolia,243828,"1213,2",L.,yes,,
-siMhapucCI,siṃhapucchī,Glycine debilis,Glycine Debilis,243830,"1213,2",ib.,no,,
+siMhaparRikA,siṃhaparṇikā,Phaseolus trilobus,Phaseolus Trilobus,243825,"1213,2",L.,yes,1,hapax(1)
+siMhaparRI,siṃhaparṇī,Justicia ganderussa,Justicia Ganderussa,243826,"1213,2",L.,yes,2,rare(2-9)
+siMhapucCikA,siṃhapucchikā,Hemionitis cordifolia,Hemionitis Cordifolia,243828,"1213,2",L.,yes,1,hapax(1)
+siMhapucCI,siṃhapucchī,Glycine debilis,Glycine Debilis,243830,"1213,2",ib.,no,2,rare(2-9)
 siMhapuzpI,siṃhapuṣpī,Hemionitis cordifolia,Hemionitis Cordifolia,243833,"1213,2",L.,yes,,
-siMhamuKI,siṃhamukhī,Glycine debilis,Glycine Debilis,243856,"1213,2",L.,yes,,
-siMhamuKI,siṃhamukhī,Gendarussa vulgaris,Gendarussa Vulgaris,243857,"1213,2",ib.,no,,
-siMhavinnA,siṃhavinnā,Glycine,Glycine,243903,"1213,2",L.,yes,,
-siMhavinnA,siṃhavinnā,Debilis,Debilis,243903,"1213,2",L.,yes,,
+siMhamuKI,siṃhamukhī,Glycine debilis,Glycine Debilis,243856,"1213,2",L.,yes,2,rare(2-9)
+siMhamuKI,siṃhamukhī,Gendarussa vulgaris,Gendarussa Vulgaris,243857,"1213,2",ib.,no,2,rare(2-9)
+siMhavinnA,siṃhavinnā,Glycine,Glycine,243903,"1213,2",L.,yes,2,rare(2-9)
+siMhavinnA,siṃhavinnā,Debilis,Debilis,243903,"1213,2",L.,yes,2,rare(2-9)
 siMhAnana,siṃhānana,Gendarussa vulgaris,Gendarussa Vulgaris,243928,"1213,3",Bhpr.,no,,
-siMhAsya,siṃhāsya,Gendarussa vulgaris,Gendarussa Vulgaris,243947,"1213,3",Bhpr.,no,,
-siMhAsya,siṃhāsya,Bauhinia variegata,Bauhinia Variegata,243948,"1213,3",L.,yes,,
+siMhAsya,siṃhāsya,Gendarussa vulgaris,Gendarussa Vulgaris,243947,"1213,3",Bhpr.,no,2,rare(2-9)
+siMhAsya,siṃhāsya,Bauhinia variegata,Bauhinia Variegata,243948,"1213,3",L.,yes,2,rare(2-9)
 siMhAsyA,siṃhāsyā,Adhatoda vasika,Adhatoda Vasika,243950,"1213,3",L.,yes,,
-siMhala,siṃhala,Cassia,Cassia,243965,"1213,3",L.,yes,,
-siMhikA,siṃhikā,Gendarussa vulgaris,Gendarussa Vulgaris,243978,"1213,3",L.,yes,,
-siMhI,siṃhī,Solanum jacquini,Solanum Jacquini,243990,"1213,3",PārGṛ.; Suśr.,no,,
-siMhI,siṃhī,Gendarussa vulgaris,Gendarussa Vulgaris,243990,"1213,3",PārGṛ.; Suśr.,no,,
-siMhI,siṃhī,Hemionitis cordifolia,Hemionitis Cordifolia,243990,"1213,3",PārGṛ.; Suśr.,no,,
-siMhI,siṃhī,Phaseolus trilobus,Phaseolus Trilobus,243990,"1213,3",PārGṛ.; Suśr.,no,,
+siMhala,siṃhala,Cassia,Cassia,243965,"1213,3",L.,yes,3,uncommon(10-99)
+siMhikA,siṃhikā,Gendarussa vulgaris,Gendarussa Vulgaris,243978,"1213,3",L.,yes,3,uncommon(10-99)
+siMhI,siṃhī,Solanum jacquini,Solanum Jacquini,243990,"1213,3",PārGṛ.; Suśr.,no,3,uncommon(10-99)
+siMhI,siṃhī,Gendarussa vulgaris,Gendarussa Vulgaris,243990,"1213,3",PārGṛ.; Suśr.,no,3,uncommon(10-99)
+siMhI,siṃhī,Hemionitis cordifolia,Hemionitis Cordifolia,243990,"1213,3",PārGṛ.; Suśr.,no,3,uncommon(10-99)
+siMhI,siṃhī,Phaseolus trilobus,Phaseolus Trilobus,243990,"1213,3",PārGṛ.; Suśr.,no,3,uncommon(10-99)
 sita,sita,Bauhinia candida,Bauhinia Candida,244065,"1214,2",L.,yes,4,common(100-999)
 sitakarRikA,sitakarṇikā,Gendarussa vulgaris,Gendarussa Vulgaris,244088,"1214,2",Suśr.; L.,no,,
 sitakumBI,sitakumbhī,Bignonia,Bignonia,244100,"1214,2",L.,yes,1,hapax(1)
@@ -8412,7 +8412,7 @@ suranAla,suranāla,Arundo bengalensis,Arundo Bengalensis,249339,"1234,3",L.,yes,
 suranirganDa,suranirgandha,Laurus cassia,Laurus Cassia,249342,"1234,3",L.,yes,,
 suraparRikA,suraparṇikā,Rottleria tinctoria,Rottleria Tinctoria,249358,"1234,3",L.,yes,1,hapax(1)
 suraparRikA,suraparṇikā,Elaeocarpus ganitrus,Elaeocarpus Ganitrus,249359,"1234,3",ib.,no,1,hapax(1)
-surapuMnAga,surapuṃnāga,Elaeocarpus ganitrus,Elaeocarpus Ganitrus,249364,"1234,3",L.,yes,,
+surapuMnAga,surapuṃnāga,Elaeocarpus ganitrus,Elaeocarpus Ganitrus,249364,"1234,3",L.,yes,1,hapax(1)
 surapriya,surapriya,Agati grandiflora,Agati Grandiflora,249374,"1234,3",L.,yes,1,hapax(1)
 surapriya,surapriya,Elaeocarpus,Elaeocarpus,249375,"1234,3",ib.,no,1,hapax(1)
 surapriyA,surapriyā,Jasminum grandiflorum,Jasminum Grandiflorum,249380,"1234,3",L.,yes,2,rare(2-9)
@@ -8549,7 +8549,7 @@ sevya,sevya,Bassia latifolia,Bassia Latifolia,252339,"1247,2",L.,yes,3,uncommon(
 sevyA,sevyā,Emblic myrobolam,Emblic Myrobolam,252341,"1247,2",L.,yes,1,hapax(1)
 sevya,sevya,Andropogon muricatus,Andropogon Muricatus,252343,"1247,2",Suśr.,no,3,uncommon(10-99)
 sehuRqa,sehuṇḍa,Euphorbia ligularia,Euphorbia Ligularia,252378,"1247,3",KāśīKh.,no,3,uncommon(10-99)
-sEMhala,saiṃhala,Laurus cassia,Laurus Cassia,252388,"1247,3",L.,yes,,
+sEMhala,saiṃhala,Laurus cassia,Laurus Cassia,252388,"1247,3",L.,yes,2,rare(2-9)
 sErIya,sairīya,Barleria cristata,Barleria Cristata,252502,"1248,2",Suśr.,no,1,hapax(1)
 sEreya,saireya,Barleria cristata,Barleria Cristata,252504,"1248,2",ib.; Kir.,no,2,rare(2-9)
 soma,soma,Sarcostema viminalis,Sarcostema Viminalis,252716,"1249,3","RV. x, 34, 1; RV.; SV.; RV.; AV.; Br.; Mn. v, 96; RV. x, 124, 1; 5; 9; RV.",no,5,very-common(1000+)
@@ -8693,8 +8693,8 @@ syandana,syandana,Dalbergia ougeinensis,Dalbergia Ougeinensis,257422,"1273,1",Ka
 syandanadruma,syandanadruma,Dalbergia ougeinensis,Dalbergia Ougeinensis,257432,"1273,1",L.,yes,,
 syandani,syandani,Dalbergia ougeinensis,Dalbergia Ougeinensis,257437,"1273,2",L.,yes,,
 syonAka,syonāka,Bignonia indica,Bignonia Indica,257524,"1273,3",L.,yes,2,rare(2-9)
-sraMsin,sraṃsin,Careya arborea,Careya Arborea,257541,"1273,3",L.,yes,,
-sraMsin,sraṃsin,Salvadora persica,Salvadora Persica,257541,"1273,3",L.,yes,,
+sraMsin,sraṃsin,Careya arborea,Careya Arborea,257541,"1273,3",L.,yes,2,rare(2-9)
+sraMsin,sraṃsin,Salvadora persica,Salvadora Persica,257541,"1273,3",L.,yes,2,rare(2-9)
 sruvataru,sruvataru,Flacourtia sapida,Flacourtia Sapida,257674,"1274,3",L.,yes,1,hapax(1)
 sruvA,sruvā,Sanseviera roxburghiana,Sanseviera Roxburghiana,257684,"1274,3",L.,yes,2,rare(2-9)
 sruvA,sruvā,Boswellia thurifera,Boswellia Thurifera,257685,"1274,3",L.,yes,2,rare(2-9)
@@ -8703,8 +8703,8 @@ svaguptA,svaguptā,Mimosa pudica,Mimosa Pudica,257824,"1275,2",L.,yes,2,rare(2-9
 svaguptA,svaguptā,Mucuna pruritus,Mucuna Pruritus,257825,"1275,2",ib.,no,2,rare(2-9)
 svaBadrA,svabhadrā,Gmelina arborea,Gmelina Arborea,258034,"1276,1",L.,yes,1,hapax(1)
 svaDApriya,svadhāpriya,Sesamum,sesamum,258496,"1278,1",L.,yes,,
-svayaMguptA,svayaṃguptā,Mucuna pruritus,Mucuna Pruritus,258560,"1278,2",Car.,no,,
-svayaMguptA,svayaṃguptā,Carpopogon pruriens,Carpopogon Pruriens,258560,"1278,2",Car.,no,,
+svayaMguptA,svayaṃguptā,Mucuna pruritus,Mucuna Pruritus,258560,"1278,2",Car.,no,3,uncommon(10-99)
+svayaMguptA,svayaṃguptā,Carpopogon pruriens,Carpopogon Pruriens,258560,"1278,2",Car.,no,3,uncommon(10-99)
 svAdukaRwa,svādukaṇṭa,Asteracantha longifolia,Asteracantha Longifolia,258816,"1279,3",L.,yes,2,rare(2-9)
 svAdukaRwaka,svādukaṇṭaka,Flacourtia sapida,Flacourtia Sapida,258818,"1279,3",ib.,no,3,uncommon(10-99)
 svAdukandA,svādukandā,Batatas paniculata,Batatas Paniculata,258820,"1279,3",L.,yes,2,rare(2-9)
@@ -8745,12 +8745,12 @@ svalpapattraka,svalpapattraka,Bassia latifolia,Bassia Latifolia,259434,"1282,3",
 svalpaPalA,svalpaphalā,Andersonia rohitaka,Andersonia Rohitaka,259435,"1282,3",L.,yes,1,hapax(1)
 svastika,svastika,Marsilea quadrifolia,Marsilea Quadrifolia,259548,"1283,2",L.,yes,3,uncommon(10-99)
 svAyamBuvI,svāyambhuvī,Ruta graveolens,Ruta Graveolens,259716,"1284,1",L.,yes,1,hapax(1)
-haMsapadI,haṃsapadī,Mimosa,Mimosa,260114,"1286,2",L.; Car.,no,,
-haMsapadI,haṃsapadī,Cissus pedata,Cissus Pedata,260114,"1286,2",L.; Car.,no,,
-haMsamAzA,haṃsamāṣā,Glycine debilis,Glycine Debilis,260138,"1286,2",L.,yes,,
+haMsapadI,haṃsapadī,Mimosa,Mimosa,260114,"1286,2",L.; Car.,no,3,uncommon(10-99)
+haMsapadI,haṃsapadī,Cissus pedata,Cissus Pedata,260114,"1286,2",L.; Car.,no,3,uncommon(10-99)
+haMsamAzA,haṃsamāṣā,Glycine debilis,Glycine Debilis,260138,"1286,2",L.,yes,1,hapax(1)
 haMsavatI,haṃsavatī,Cissus pedata,Cissus Pedata,260163,"1286,3",L.,yes,,
-haMsANGrI,haṃsāṅghrī,Mimosa,Mimosa,260181,"1286,3",L.,yes,,
-haMsAhvayA,haṃsāhvayā,Mimosa,Mimosa,260189,"1286,3",Suśr.,no,,
+haMsANGrI,haṃsāṅghrī,Mimosa,Mimosa,260181,"1286,3",L.,yes,1,hapax(1)
+haMsAhvayA,haṃsāhvayā,Mimosa,Mimosa,260189,"1286,3",Suśr.,no,1,hapax(1)
 haYjikA,hañjikā,Clerodendrum siphonantus,Clerodendrum Siphonantus,260225,"1286,3",L.,yes,2,rare(2-9)
 haWa,haṭha,Pistia stratiotes,Pistia Stratiotes,260249,"1287,1",L.,yes,4,common(100-999)
 haWaparRI,haṭhaparṇī,Blyxa octandra,Blyxa Octandra,260255,"1287,1",L.,yes,,
@@ -8841,9 +8841,9 @@ hastiSuRqA,hastiśuṇḍā,Heliotropium indicum,Heliotropium Indicum,262417,"12
 hastyaSanA,hastyaśanā,Boswellia serrata,Boswellia Serrata,262455,"1296,1",L.,yes,,
 hastyaSanA,hastyaśanā,Thurifera,Thurifera,262455,"1296,1",L.,yes,,
 hIna,hīna,Mesua ferrea,Mesua Ferrea,262550,"1296,3",L.,yes,3,uncommon(10-99)
-hiMsA,hiṃsā,Asteracantha longifolia,Asteracantha Longifolia,262745,"1297,3",L.,yes,,
-hiMsrA,hiṃsrā,Nardostachys jatamansi,Nardostachys Jatamansi,262777,"1298,1",L.; Suśr.,no,,
-hiMsrA,hiṃsrā,Coix barbata,Coix Barbata,262777,"1298,1",L.; Suśr.,no,,
+hiMsA,hiṃsā,Asteracantha longifolia,Asteracantha Longifolia,262745,"1297,3",L.,yes,4,common(100-999)
+hiMsrA,hiṃsrā,Nardostachys jatamansi,Nardostachys Jatamansi,262777,"1298,1",L.; Suśr.,no,3,uncommon(10-99)
+hiMsrA,hiṃsrā,Coix barbata,Coix Barbata,262777,"1298,1",L.; Suśr.,no,3,uncommon(10-99)
 hiNgu,hiṅgu,Ferula asa foetida,Ferula Asa Foetida,262807,"1298,1",Buddh.; BhP.,no,4,common(100-999)
 hiNgu,hiṅgu,Asa foetida,Asa Foetida,262808,"1298,1",MBh.; Hariv.; Suśr.,no,4,common(100-999)
 hiNgunAqikA,hiṅgunāḍikā,Gardenia gummifera,Gardenia Gummifera,262809,"1298,1",L.,yes,1,hapax(1)

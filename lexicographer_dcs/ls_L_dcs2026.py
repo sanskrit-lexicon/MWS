@@ -90,8 +90,16 @@ with open(os.path.join(HERE,'purely_lexicographic_attested_2026.csv'),'w',newlin
     w.writerows(attested)
 
 np = len(strict); na = len(attested); pct = 100*na/np
-# read 2021 headline for comparison
-prev = sum(1 for _ in open(os.path.join(HERE,'purely_lexicographic_attested.csv'),encoding='utf-8'))-1
+# 2021-attested set, for the prev count AND the 2021-vs-2026 drift comparison
+# (computed, not hardcoded — these numbers move when the DCS-2021 summary is refreshed)
+set_2021 = set()
+with open(os.path.join(HERE,'purely_lexicographic_attested.csv'),encoding='utf-8') as f:
+    r = csv.reader(f); next(r)
+    for row in r: set_2021.add(row[0])
+set_2026 = set(a[0] for a in attested)
+prev = len(set_2021)
+dropped = len(set_2021 - set_2026)   # 2021 hits absent in 2026 (lemmatisation drift)
+gained  = len(set_2026 - set_2021)   # gross new gains in 2026
 L=[]
 L.append('# `<ls>L.</ls>` -> DCS-**2026** verification — results\n')
 L.append(f'Same {np:,} strict purely-lexicographic MW lemmas, re-joined against the full')
@@ -107,20 +115,20 @@ L.append(f'\n- Strong tier (bands ≥2, non-hapax): **{sum(band_hist[b] for b in
 L.append(f'- Uncommon-or-better (bands ≥3): **{sum(band_hist[b] for b in (3,4,5)):,}**')
 L.append('\n## Cross-snapshot stability')
 L.append(f'- The headline barely moves across two DCS snapshots:')
-L.append(f'  **30.2% (DCS-2021) -> 31.4% (DCS-2026)**. NB these are two versions of')
+L.append(f'  **{100*prev/np:.1f}% (DCS-2021) -> 31.4% (DCS-2026)**. NB these are two versions of')
 L.append(f'  the *same* corpus project (one annotator, Hellwig) — so this controls for')
 L.append(f'  corpus *version*, not for DCS\'s own lemmatisation conventions. It is not a')
 L.append(f'  snapshot artefact, which supports (does not prove) the P3 claim.')
-L.append(f'- Transcoder validated: only **11 of {prev:,}** 2021 hits are absent in 2026')
-L.append(f'  (0.2%, all plain-ASCII SLP1 so not a transcode failure — DCS lemmatization')
-L.append(f'  drift), against **+223 gross new gains**. A broken IAST->SLP1 join would')
+L.append(f'- Transcoder validated: only **{dropped} of {prev:,}** 2021 hits are absent in 2026')
+L.append(f'  ({100*dropped/prev:.1f}%, plain-ASCII SLP1 so not a transcode failure — DCS')
+L.append(f'  lemmatisation drift), against **+{gained} gross new gains**. A broken IAST->SLP1 join would')
 L.append(f'  have dropped hundreds, not 11.')
 L.append('\n## Notes')
 L.append('- Join: DCS-2026 IAST lemma -> SLP1 (greedy longest-match), token-count freq,')
 L.append('  same log10 banding as 2021 -> directly comparable.')
 L.append('- Caveats from the 2021 run still hold: band-1 hapax is weak; top-band')
 L.append('  short strings are homograph collisions; this is lemma-level (lemma-now).')
-L.append('- DCS-2026 has ~90,349 distinct occurring lemmas vs 83,273 in the 2021')
+L.append('- DCS-2026 has ~90,349 distinct occurring lemmas vs ~83k in the 2021')
 L.append('  summary, so coverage rises; the delta is the value of the corpus refresh.')
 L.append('\n_DCS-2026: Oliver Hellwig / DCS, CoNLL-U snapshot in VisualDCS, CC BY._')
 open(os.path.join(HERE,'SUMMARY_2026.md'),'w',encoding='utf-8').write('\n'.join(L)+'\n')

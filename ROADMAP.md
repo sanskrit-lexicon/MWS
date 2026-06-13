@@ -184,10 +184,10 @@ Four tracks, in leverage order:
 5. **`<ls>L.</ls>` → corpus verification (DONE, both snapshots, 2026-06-13).**
    Shipped in [lexicographer_dcs/](https://github.com/sanskrit-lexicon/MWS/tree/master/lexicographer_dcs):
    of **18,930** strict purely-lexicographic MW lemmas (no text witness, known
-   only from kośas), **30.2% are attested in DCS-2021 and 31.4% in DCS-2026** —
+   only from kośas), **31.0% are attested in DCS-2021 and 31.4% in DCS-2026** —
    stable across two independent corpus snapshots (so not a version artefact),
    hedges that corpus evidence can re-examine. Strong tier = bands 2–3 (~2,330
-   plant/medical/technical terms). IAST→SLP1 join validated (11/5,723 drift).
+   plant/medical/technical terms). IAST→SLP1 join validated (11/5,871 drift).
    Bridges P3 (citation registers) + the grammar-corpus-dict crosswalk.
    Next: hand-verify the ~180 band-3 lemmas into a P3-ready core; sense-level
    for the 10,264 partially-hedged lemmas (needs sense-tagged corpus).
@@ -277,7 +277,7 @@ bounds what W4 may copy into other dictionaries.
 [#76](https://github.com/sanskrit-lexicon/MWS/issues/76)/[#75](https://github.com/sanskrit-lexicon/MWS/issues/75) (inflection, needs csl-inflect),
 [#163](https://github.com/sanskrit-lexicon/MWS/issues/163) (GRA-style grouping),
 display bundle [#37](https://github.com/sanskrit-lexicon/MWS/issues/37)/[#108](https://github.com/sanskrit-lexicon/MWS/issues/108)/[#170](https://github.com/sanskrit-lexicon/MWS/issues/170)/[#180](https://github.com/sanskrit-lexicon/MWS/issues/180),
-~~[#74](https://github.com/sanskrit-lexicon/MWS/issues/74) (botanical export)~~ **DONE** → [botanical_glossary/](https://github.com/sanskrit-lexicon/MWS/tree/master/botanical_glossary) (8,923 `<bot>` → 7,063 headwords / 1,223 species FAIR dataset; 72% lexicographer-only, 1,528 clean L.-only+DCS-attested plant lemmas),
+~~[#74](https://github.com/sanskrit-lexicon/MWS/issues/74) (botanical export)~~ **DONE** → [botanical_glossary/](https://github.com/sanskrit-lexicon/MWS/tree/master/botanical_glossary) (8,923 `<bot>` → 7,063 headwords / 1,223 species FAIR dataset; 72% lexicographer-only, 1,567 clean L.-only+DCS-attested plant lemmas),
 [#24](https://github.com/sanskrit-lexicon/MWS/issues/24), [#154](https://github.com/sanskrit-lexicon/MWS/issues/154),
 [#155](https://github.com/sanskrit-lexicon/MWS/issues/155) (IAST→ISO 15919, decision-blocked),
 Vedic accent expansion beyond 16.6%, `<ls>L.</ls>` verification (40,213 citations, crowd/corpus-assisted — natural successor to W1 once authority records exist).

@@ -150,7 +150,7 @@ S.append('|---|--:|--:|--:|')
 for d,r in res.items():
     S.append(f'| {d.upper()} — all headwords (stem-aware) | {r["hw"]:,} | {r["att"]:,} | **{pct(r["att"],r["hw"])}** |')
 S.append(f'| *context:* MW — all headwords | {len(mw_hw):,} | {mw_att:,} | {pct(mw_att,len(mw_hw))} |')
-S.append(f'| *context:* MW — `L.`-only lemmas | 18,930 | 5,723 | 30.2% |')
+S.append(f'| *context:* MW — `L.`-only lemmas (DCS-2021) | 18,930 | 5,871 | 31.0% |')
 S.append('')
 S.append('So the indigenous lexical inventory is **not** a closed self-referential universe:')
 S.append('~half of SKD and VCP headwords occur in dated texts. The constitutively-lexical')
