@@ -21,12 +21,25 @@ and the SanskritLexicography 12-month publication roadmap (P1–P6).
 | Open issues | 34 |
 | Closed issues (historical) | 157 |
 | Closed in last 12 months (velocity signal) | 4 |
-| `<ls>` citations | 311,932 |
-| Unique `<ls>` abbreviations | 821 |
-| With [authority record](https://github.com/sanskrit-lexicon/MWS/tree/master/mwauthorities) | 232 (28.3%) — covering 64.0% of citations |
+| `<ls>` citation instances (measured 2026-06-13, live mw.txt) | **312,160** |
+| Distinct bare `<ls>` abbreviations (locator stripped) | ~895 (≈821 after variant folding) |
+| Authority records on disk ([mwauthorities_init.txt](https://github.com/sanskrit-lexicon/MWS/blob/master/mwauthorities/mwauthorities_init.txt)) | **568** (≥`<expandMW>`); **230** also carry `<expandNorm>` |
+| Distinct canonical authorities linked from text | 513 (via 650 text-spelling variants) |
+| **True orphans (cited authority with no record at all)** | **~0** — every canonical authority cited already has a record |
 | `<ls>` citations carrying a numeric locator | 59.8% (40.2% are bare abbreviations) |
+| **Meta / hedge / relative citations** (`L.`+`ib.`+`W.`+`MW.`+`Cat.`) | **69,603 = 22.3%** — structurally cannot link to a primary-text scan |
 | Vedic accent coverage | 16.6% of `<k2>` fields |
-| `<ls>L.</ls>` lexicographer hedges | 40,213 (12.9% of citations) — unique to MW among CDSL dicts |
+| `<ls>L.</ls>` lexicographer hedges | 40,212 (12.9% of citations) — unique to MW among CDSL dicts |
+| `<etym>` tags (IE cognate forms; **absent from DATA_DICTIONARY**) | 2,637 |
+
+> **Correction (2026-06-13):** the previous snapshot's "232 with authority record
+> (28.3%) / 589 orphans" was re-derived by direct inspection and found to be a
+> **measurement artifact**: the 232 ≈ the **230 records carrying `<expandNorm>`**,
+> not record existence. 568 records already exist; there are essentially **no true
+> orphans**. W1 is therefore three distinct jobs, not one — see §W1. The
+> "64%→85% coverage" target also collides with the 22.3% meta-citation ceiling
+> above and the 40.2% bare-locator gap: the scan-linkable-to-primary-text fraction
+> is well below 85%. *Reprioritization pending maintainer decision.*
 
 **Velocity note:** ~1 issue/month sustained, bursts when a maintainer is active.
 Everything below is therefore decomposed into self-contained, resumable units.
@@ -56,27 +69,42 @@ Session discipline:
 
 ---
 
-## Workstream W1 — Authority records: 589 orphan `<ls>` abbreviations
+## Workstream W1 — `<ls>` source apparatus (three layers, not "589 orphans")
 
-**Goal:** lift citation coverage from 64% to ≥85% by completing authority
-records for the most-cited orphan abbreviations. Highest-leverage work in the
-repo: each record unlocks scan click-through for thousands of citations.
+**Reframed 2026-06-13.** Direct inspection killed the "589 orphans / create
+records from scratch" framing (see status-snapshot correction). 568 records
+already exist; ~0 are true orphans. The real work is three distinct, much
+smaller jobs with very different effort and value — **priority order is the
+open decision** (W1 rescope question):
 
-**Top orphans by citation count:** Pāṇ. (8,527), ŚBr. (7,029), Kathās. (6,757),
-Suśr. (6,200), Kāv. (4,667), VarBṛS. (3,467), Rājat. (3,410), Pañcat. (2,670),
-Ragh. (2,654), KātyŚr. (2,537), Yājñ. (2,249). Top-25 covers ~80% of orphan citations.
+| Layer | Size | Effort | Value | Tier |
+|---|---|---|---|---|
+| **(a) Link unlinked text variants** | ~171 (821 text-side − 650 linked) | mechanical | closes tooltip/resolution gaps | Haiku/Sonnet |
+| **(b) Add `<expandNorm>`** to records that have only `<expandMW>` | 338 (568 − 230) | semi-mechanical normalization | raises the metric docs-pass measured; cleaner exports (MDF/TEI) | Sonnet |
+| **(c) Scan-link targets** per work | per-work, slow | scholarly (edition ID + pagination) | the real "unlock thousands of cites" leverage — but capped (see below) | Sonnet + Fable for edition calls |
 
-**Unit of work** (Sonnet-tier, one per session, fully resumable):
-1. Pick next abbreviation from the queue.
-2. Identify the edition MW actually cited (frontier question only when ambiguous — MW's "Sources of the work" preface and [mwauthorities/](https://github.com/sanskrit-lexicon/MWS/tree/master/mwauthorities) precedents first).
+**Hard ceiling on layer (c):** 22.3% of all citations are meta/hedge/relative
+(`L.` 40,212 · `ib.` 10,094 · `W.` 8,285 · `MW.` 5,710 · `Cat.` 5,302) and can
+never point to a primary-text scan; another 40.2% are bare (no locator). So the
+honest scan-linkable-now ceiling is far below the old "85%" target. `ib.`
+(10,094) additionally needs antecedent-resolution (same algorithmic family as
+`id.`, [#98](https://github.com/sanskrit-lexicon/MWS/issues/98)) before it can be linked at all.
+
+**Top sources by citation weight** (bare-form counts, live): `MBh.` 22,990 ·
+`RV.` 9,707 · `R.` 9,049 · `BhP.` 6,979 · `Kathās.` 5,926 · `Suśr.` 5,690 ·
+`ŚBr.` 5,493 · `Hariv.` 5,229 · `AV.` 4,971 · `Kāv.` 4,662 · `Mn.` 3,519. Pāṇ.
+(citation-weighted ~8,500) is spread across thousands of *sūtra-locator* strings,
+which is why it needs a sūtra→scan scheme, not a page record — same family as the
+2021 [Panini link-target work](https://github.com/sanskrit-lexicon/MWS/tree/master/mwauthorities/ls/20211005-panini).
+
+**Unit of work for layer (c)** (Sonnet-tier, one per session, resumable):
+1. Pick next high-weight source.
+2. Confirm the edition MW cited (MW's "Sources of the work" preface + [mwauthorities](https://github.com/sanskrit-lexicon/MWS/tree/master/mwauthorities) precedents; Fable only when ambiguous).
 3. Locate a scan (archive.org), verify pagination against 3–5 sample citations.
-4. Add the record following the existing [mwauthorities](https://github.com/sanskrit-lexicon/MWS/tree/master/mwauthorities) format; document in an issue.
+4. Add/extend the record + scan map; document in an issue.
 
-**Frontier-tier items inside W1:**
-- Pāṇ. is special: grammar-sūtra citations, not page citations — needs a linking-scheme decision (sūtra-number → scan page map), same family as the 2021 [Panini link-target work](https://github.com/sanskrit-lexicon/MWS/tree/master/mwauthorities/ls/20211005-panini).
-- Open the proposed `authority-record.yml` issue template and one tracking issue per top-10 orphan.
-
-**Targets:** 5 records/month → top-25 done by November (≈80% → coverage ~85%).
+**Targets:** TBD once layer priority is chosen. Honest coverage targets to be
+recomputed per layer against the live 312,160-citation base, not the inherited 85%.
 
 ## Workstream W2 — P1 paper: MW block economy → IJL (Q3 2026)
 
@@ -185,8 +213,8 @@ bounds what W4 may copy into other dictionaries.
 
 | # | Weakness | Evidence | Consequence |
 |---|---|---|---|
-| 1 | **No structural sense markers** — senses live in prose, no `<div>` | Excluded from atlas [sense-depth.json](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/src/data/dicts/sense-depth.json) (AP/PWG/PWK only) | Cross-dict sense alignment requires bespoke parsing (R2 rebuild); blocks P2-style analyses for MW |
-| 2 | **40.2% of `<ls>` citations are bare** — no book/chapter/verse locator | [CITATION_REGISTERS.md](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/docs/CITATION_REGISTERS.md): 59.8% resolvability | ~125k MW citations cannot link to a scan page even with a perfect authority record |
+| 1 | **Inconsistent sense segmentation** — some headwords split senses into separate `<L>` records (e.g. `agni` L890–897, each one sense, shared `<e>1A`); others pack `1. 2. 3.` into one prose gloss with no `<div>` | atlas excluded MW from [sense-depth.json](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/src/data/dicts/sense-depth.json); but record-grouping IS machine-readable (refines the "senses in prose" claim — feeds W2) | Cross-dict sense alignment needs a *hybrid* parser (record-group + in-prose numbering), not a `<div>` reader; the inconsistency itself is the obstacle |
+| 2 | **22.3% of citations are meta/hedge/relative + 40.2% bare** | measured 2026-06-13: `L.`+`ib.`+`W.`+`MW.`+`Cat.` = 69,603; bare-locator from [CITATION_REGISTERS.md](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/docs/CITATION_REGISTERS.md) | Scan-linkable-to-primary-text ceiling is well under 85%; `ib.` (10,094) needs antecedent-resolution first ([#98](https://github.com/sanskrit-lexicon/MWS/issues/98) family) |
 | 3 | **Siglum chaos** — case/diacritic variants, ~265 prefix families | 13,021 raw → 9,180 folded sigla org-wide | Inflates the orphan count; W4 track 1 attacks this |
 | 4 | **Shallow microstructure by design** — derivatives/preverbs promoted to headwords | M1 density 0.48 vs PWK 3.77, PWG 2.35; M2 = 0 | MW is the wrong template for subentry-rich targets; use PWG/PWK there |
 | 5 | **Homonym splitting partly discretionary** | 64–65% split concordance with PWG/PW | Homonym numbering can't be mechanically reconciled cross-dict |
