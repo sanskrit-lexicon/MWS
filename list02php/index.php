@@ -157,12 +157,12 @@ $("#key").autocomplete({
  };
  phpinit = function() {
   var names = ['key','dict','input','output','accent'];
-  var phpvals=[ // same order as names
-  "<?php echo $_GET['key']?>",
-  "<?php echo $_GET['dict']?>",
-  "<?php echo $_GET['input']?>",
-  "<?php echo $_GET['output']?>",
-  "<?php echo $_GET['accent']?>"];
+  var phpvals=[ // same order as names; json_encode yields a safe quoted JS string
+  <?php echo json_encode(isset($_GET['key'])&&is_string($_GET['key'])?$_GET['key']:'', JSON_HEX_TAG|JSON_HEX_AMP|JSON_HEX_APOS|JSON_HEX_QUOT) ?>,
+  <?php echo json_encode(isset($_GET['dict'])&&is_string($_GET['dict'])?$_GET['dict']:'', JSON_HEX_TAG|JSON_HEX_AMP|JSON_HEX_APOS|JSON_HEX_QUOT) ?>,
+  <?php echo json_encode(isset($_GET['input'])&&is_string($_GET['input'])?$_GET['input']:'', JSON_HEX_TAG|JSON_HEX_AMP|JSON_HEX_APOS|JSON_HEX_QUOT) ?>,
+  <?php echo json_encode(isset($_GET['output'])&&is_string($_GET['output'])?$_GET['output']:'', JSON_HEX_TAG|JSON_HEX_AMP|JSON_HEX_APOS|JSON_HEX_QUOT) ?>,
+  <?php echo json_encode(isset($_GET['accent'])&&is_string($_GET['accent'])?$_GET['accent']:'', JSON_HEX_TAG|JSON_HEX_AMP|JSON_HEX_APOS|JSON_HEX_QUOT) ?>];
   var i,name,phpval;
   for(i=0;i<names.length;i++) {
    phpinit_helper(names[i],phpvals[i]);
