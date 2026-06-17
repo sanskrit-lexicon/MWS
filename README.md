@@ -27,6 +27,32 @@ This repository holds corrections, enhancements, and tooling for the [Cologne di
 | `transcodeExample/` | Example transcoder PHP/Python scripts and SLP1→IAST table |
 | `basic04a/` | Simple two-dictionary web display sample |
 | `list02php/` | PHP-based display sample |
+| `prefaces/` | Front-matter OCR (title page, Preface, Introduction §§ I–V) with Russian translation — see [Front matter](#front-matter-prefaces) below |
+
+## Front matter (`prefaces/`)
+
+Faithful OCR of the 29 front-matter scan pages of the New Edition (Oxford, at the Clarendon Press, 1899) — the title page, the *Preface to the New Edition* (pp. v–x, including the *Postscript* added by the author's son M. F. Monier-Williams), and the *Introduction* in five sections (pp. xi–xxxii) — each in the **English source** plus a **Russian** translation, with consolidated single-file editions and a [`prefaces/README.md`](prefaces/README.md) index. Source: the Cologne [csldoc preface scans](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/mwpref.html). Because the source is already English there are no per-page `.en.md` files (the base `.md` *is* the English edition); the consolidated outputs are [`mwpref_all.en.md`](prefaces/mwpref_all.en.md) and [`mwpref_all.ru.md`](prefaces/mwpref_all.ru.md). Devanāgarī/Sanskrit is kept verbatim with full diacritics; the p. xxvii comparative-alphabet table (Phœnician → Greek/Roman/English and Brāhma → Nāgarī) is preserved (archaic glyphs marked, Nāgarī column in Unicode); digitizer header/footer stamps are omitted. The Preface is signed *“Indian Institute, Oxford, 1899. — Monier Monier-Williams”*; the Postscript records the author's death at Cannes, in the south of France, on 11 April 1899.
+
+<details>
+<summary><strong>OCR run notes (2026-06-17)</strong> — cost, timing, and technical lessons</summary>
+
+Produced by the `/cologne-preface-ocr` skill (vision OCR + translation subagents). Process retrospective, not part of the deliverable.
+
+**Cost.** Subagents (exact, from harness telemetry): 15 agents, **≈827,800 output tokens**, 284 tool calls — 9 OCR agents (≈452,000 tokens / 222 calls; one of them, pages 17–19, was killed by a 400 content-filter error after 23 calls and produced nothing) + 6 Russian-translation agents (≈375,800 tokens / 62 calls). Main thread (estimate, dominated by ~22 native-resolution image-crop reads plus two hand repairs): ≈150k tokens. **Total ≈0.95–1.0M tokens.**
+
+**Time.** Wall-clock ≈25–35 min. The OCR agents overlapped (gated by the 353 s pages-14–16 agent) and the translation agents overlapped (gated by the 231 s pages-21–25 agent); the foreground downloads, crop→read repairs, and consolidated builds were sequential by nature.
+
+**Technical lessons (reusable):**
+
+1. **MW's csldoc scans are `.jpg`, not `.png`, and low-resolution (1200×1686).** 1200 px is the maximum available; native-resolution crop bands beat a full-page Read, but final fidelity is capped by the scan itself.
+2. **Trust the toctree order over filename sort.** Pages 26/27 embed scans `mw010034` / `mw010033` (swapped).
+3. **Verify subagent output against the scan; don't trust self-reports.** One agent silently *truncated* page 27 — dropping the SECTION V heading and its first two paragraphs — and *mis-split* the p. 24/25 boundary (it duplicated a table-note onto p. 25 and moved a page-24 paragraph + footnote there). A scripted continuity check (every page tail → next-page head) plus verifying each page's true first line against the scan top surfaced both.
+4. **A subagent can die mid-run on a 400 content-filter error** and produce nothing; redo those pages in the foreground with proper crops.
+5. **Heading levels matter for the consolidated build.** In-body section headings (POSTSCRIPT, SECTION n) must be `##` not `#`, or `build_combined.py`'s H2 sanity-count overshoots.
+6. **Encoding.** All 60 `.md` files written UTF-8 **no BOM**; git's LF→CRLF warning on Windows is cosmetic (committed blobs are LF).
+7. **Push raced a moved remote** — resolved with an add-only `fetch` + `rebase origin/master` + `push` (conflict-free, all files new).
+
+</details>
 
 ## Timeline
 
@@ -46,6 +72,7 @@ This repository holds corrections, enhancements, and tooling for the [Cologne di
 | 2024 | Issues 141–181: accent corrections, Grassmanizing, AB3 (Andhrabharati) alternate format, supplement revisions |
 | Aug–Nov 2025 | Issue 190: recovery of 16+ lost headwords (with Nagabhushana Rao (@Andhrabharati) and Scott Rhodes (@aumsanskrit)) |
 | Feb 2026 | History folder: MONIER.ALL archived and documented |
+| Jun 2026 | Front-matter OCR + Russian translation of the 1899 prefaces (`prefaces/`) |
 
 ## Projects & Milestones
 
