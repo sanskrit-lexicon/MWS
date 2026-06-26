@@ -1,0 +1,62 @@
+{
+  "title": "Naming the Plants: A Corpus-Attested Sanskrit-to-Linnaean Crosswalk from the Monier-Williams Dictionary",
+  "description": "The botanical layer of Monier-Williams' A Sanskrit-English Dictionary (1899) is extracted as the first machine-readable Sanskrit-to-Linnaean species crosswalk from a Cologne dictionary: 8,923 occurrences, 7,063 headwords, 1,223 species. The dataset includes lexicographer-only markings (sense attested only in indigenous synonym lexicons) and Digital Corpus of Sanskrit attestation with a homograph-controlled join for defensible corpus coverage statistics.",
+  "creators": [
+    {
+      "name": "Gasūns, Mārcis",
+      "affiliation": "independent scholar",
+      "orcid": "0000-0003-4513-884X"
+    }
+  ],
+  "keywords": [
+    "Sanskrit",
+    "Monier-Williams",
+    "botanical",
+    "lexicon",
+    "digital humanities",
+    "biodiversity informatics",
+    "crosswalk",
+    "Cologne Digital Sanskrit Lexicon"
+  ],
+  "license": "cc-by-sa-4.0",
+  "communities": [
+    {
+      "identifier": "digital-humanities"
+    }
+  ],
+  "subjects": [
+    {
+      "term": "Sanskrit linguistics",
+      "identifier": "lcsh"
+    },
+    {
+      "term": "Botanical nomenclature",
+      "identifier": "lcsh"
+    },
+    {
+      "term": "Digital humanities",
+      "identifier": "lcsh"
+    }
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/sanskrit-lexicon/MWS",
+      "relation": "isSupplementedBy",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://github.com/sanskrit-lexicon/csl-orig",
+      "relation": "requires",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.sanskrit-lexicon.uni-koeln.de/dcs/dcs_index.php",
+      "relation": "requires",
+      "resource_type": "dataset"
+    }
+  ],
+  "upload_type": "publication",
+  "publication_type": "article",
+  "publication_date": "2026-06-26",
+  "language": "eng"
+}

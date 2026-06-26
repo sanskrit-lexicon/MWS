@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+type: article
+title: "Naming the Plants: A Corpus-Attested Sanskrit-to-Linnaean Crosswalk from the Monier-Williams Dictionary"
+authors:
+  - family-names: "Gasūns"
+    given-names: "Mārcis"
+    affiliation: "independent scholar"
+    orcid: "https://orcid.org/0000-0003-4513-884X"
+abstract: >-
+  The botanical layer of Monier-Williams' A Sanskrit-English Dictionary (1899)
+  is extracted as the first machine-readable Sanskrit-to-Linnaean species
+  crosswalk from a Cologne dictionary: 8,923 occurrences, 7,063 headwords,
+  1,223 species. Two corpus-related annotations are appended: the
+  dictionary's lexicographer-only marker (sense attested only in indigenous
+  synonym lexicons), and Digital Corpus of Sanskrit attestation. The layer is
+  predominantly kōśa-derived (72% lexicographer-only). A homograph-controlled
+  join measures corpus coverage of the lexicon-only vocabulary.
+keywords:
+  - Sanskrit
+  - Monier-Williams
+  - botanical
+  - lexicon
+  - digital-humanities
+  - biodiversity-informatics
+  - crosswalk
+license: CC-BY-SA-4.0
+repository-code: https://github.com/sanskrit-lexicon/MWS
+url: "https://github.com/sanskrit-lexicon/MWS/blob/main/papers/A45_botanical_crosswalk_paper.md"
+date-released: 2026-06-26
+version: "2/5"
+status: draft
+identifiers:
+  - description: "Paper in MWS repository"
+    type: "url"
+    value: "https://github.com/sanskrit-lexicon/MWS/blob/main/papers/A45_botanical_crosswalk_paper.md"
+references:
+  - type: dataset
+    title: "MWS Botanical Glossary (mw_botanical_glossary.csv)"
+    authors:
+      - family-names: "Gasūns"
+        given-names: "Mārcis"
+    url: "https://github.com/sanskrit-lexicon/MWS/tree/main/botanical_glossary"
+  - type: dataset
+    title: "Digital Corpus of Sanskrit (DCS-2021)"
+    authors:
+      - family-names: "Hellwig"
+        given-names: "Oliver"
+    url: "https://www.sanskrit-lexicon.uni-koeln.de/dcs/dcs_index.php"
+  - type: software
+    title: "Monier-Williams Dictionary (Cologne Digital Edition)"
+    url: "https://github.com/sanskrit-lexicon/csl-orig"

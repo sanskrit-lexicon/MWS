@@ -4,7 +4,7 @@ title: "Naming the Plants: A Corpus-Attested Sanskrit-to-Linnaean Crosswalk from
 status: draft (skeleton, 2/5) — scaffolded 2026-06-26
 readiness: 2/5
 venue: "Lexikos / Biodiversity Data Journal / Journal of Open Humanities Data (JOHD)"
-author: "M. Gasūns (sole)"
+author: "**Mārcis Gasūns**, independent scholar ([ORCID 0000-0003-4513-884X](https://orcid.org/0000-0003-4513-884X)), gasyoun@ya.ru"
 data_source: "MWS/botanical_glossary/ (mw_botanical_glossary.csv + species_to_sanskrit.json + BOTANICAL_SUMMARY.md; built by bot_glossary.py from csl-orig mw.txt; DCS-2021 attestation via VisualDCS/dcs_lemma_summary.json)"
 ---
 
