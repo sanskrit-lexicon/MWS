@@ -4,8 +4,8 @@ Review candidates only — **nothing is written to any authority file.**
 
 ## Counts
 - Distinct live `<ls>` bare abbreviations (meta excluded): **877**
-- Already covered by an authority record / link: 554
-- **Candidate unlinked: 323**
+- Already covered by an authority record / link: 620
+- **Candidate unlinked: 257**
 
 ## Self-validation (false-positive check)
 The linked-check is dual: a siglum counts as linked if its spelling is in the
@@ -19,7 +19,7 @@ known canonical key (diacritic sigla like `Pāṇ.`→`pAR`).
 | confidence | count | meaning |
 |---|--:|---|
 | high (≥0.90) | 3 | near-certain spelling variant of an existing record |
-| medium (0.80–0.89) | 112 | probable variant — quick human confirm |
+| medium (0.80–0.89) | 46 | probable variant — quick human confirm |
 | low (0.70–0.79) | 68 | weak — needs judgment |
 | no-match | 140 | no close record — candidate NEW authority |
 
