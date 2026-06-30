@@ -1,14 +1,12 @@
 ls_siglum,citation_count,slp1,suggested_canonical,match_score,confidence
 ŚrS.,738,Srs,,0.0,no-match (new work?)
 Pañc.,457,paYc,paYcat,0.8,medium
-Ratnāv.,396,ratnAv,ratnA,0.91,high
 GṛŚrS.,372,gfSrs,gfSr,0.89,medium
 TāṇḍBr.,211,tARqbr,tARqyabr,0.86,medium
 APrāt.,169,aprAt,prAt,0.89,medium
 Veṇīs.,163,veRIs,veRis,0.8,medium
 PBr.,147,pbr,br,0.8,medium
 Hir.,121,hir,hirp,0.86,medium
-AV.Pariś.,116,avpariS,av.pariS,0.93,high
 Dharmaś.,110,DarmaS,Darmav,0.83,medium
 Śāk.,78,SAk,SAkaw,0.75,low
 Piṅg.,73,piNg,piNgSch,0.73,low
@@ -54,13 +52,10 @@ R. [B.],7,rb,,0.0,no-match (new work?)
 SkandaP. Rev.,6,skandaprev,skandap,0.82,medium
 Manu.,6,manu,anup,0.75,low
 R. (ed. Gorr.),6,redgorr,,0.0,no-match (new work?)
-Alaṃkāras.,6,alaMkAras,alaMkAras2,0.95,high
 R. (ed. Bomb.),6,redbomb,,0.0,no-match (new work?)
 ŚrGṛS.,6,Srgfs,gfs,0.75,low
 SaṃhitUp.,6,saMhitup,saMhup,0.86,medium
 Caur.,6,cOr,cOrap,0.75,low
-Aṣṭāv.,6,azwAv,azwAvs,0.91,high
-Mahāv.,6,mahAv,mahAvy,0.91,high
 Pārv.,5,pArv,pArvat,0.8,medium
 KālikāP.,5,kAlikAp,kAlp,0.73,low
 IW. p.,5,ip,,0.0,no-match (new work?)
@@ -85,7 +80,6 @@ Gaṇ.,4,gaR,gaRp,0.86,medium
 HYogaś.,4,hyogaS,hyog,0.8,medium
 Kath.,3,kaT,kaTAs,0.75,low
 PraśnaUp.,3,praSnOp,praSnup,0.86,medium
-MānGṛS.,3,mAngfs,mAngf,0.91,high
 Weber,3,eber,,0.0,no-match (new work?)
 AgniP.,3,agnip,agp,0.75,low
 Yogaś.,3,yogaS,yogaSup,0.83,medium
@@ -94,7 +88,6 @@ SiddhŚir.,3,sidDSir,sidD,0.73,low
 Aufrecht,3,OreCt,,0.0,no-match (new work?)
 MBh. (ed. Bomb.),3,mBedbomb,,0.0,no-match (new work?)
 VCāṇ.,3,vcAR,cAR,0.86,medium
-Rāmapūjāsar.,3,rAmapUjAsar,rAmapUjAs,0.9,high
 Ragh. (C),3,raGc,raG,0.86,medium
 Pañcat. Introd.,3,paYcatintrod,,0.0,no-match (new work?)
 Śuk.,3,Suk,Sukas,0.75,low
@@ -103,7 +96,6 @@ Hit. Introd.,3,hitintrod,,0.0,no-match (new work?)
 ŚambhMāh.,3,SamBmAh,SaMBmAh,0.86,medium
 Daśak.,3,daSak,daSar,0.8,medium
 Līlāv.,3,lIlAv,lIl,0.75,low
-AVPariś.,3,avpariS,av.pariS,0.93,high
 MānGṛŚrS.,3,mAngfSrs,mAngf,0.77,low
 HYogay.,3,hyogay,hyog,0.8,medium
 Bc.,3,bc,,0.0,no-match (new work?)
@@ -121,7 +113,6 @@ Dāy.,2,dAy,drAhy,0.75,low
 Pañcadaśī,2,paYcadaSI,paYcad,0.8,medium
 Daś. p.,2,daSp,daS,0.86,medium
 Khaṇḍa-praśasti,2,KaRqapraSasti,KaRqapr,0.7,low
-AV.Prāy.,2,avprAy,av.prAy,0.92,high
 ĀśvGṛ.Pariś.,2,ASvgfpariS,,0.0,no-match (new work?)
 Bādar. Gov.,2,bAdargov,bAdar. gov,0.89,medium
 Vṛṣabh.,2,vfzaB,vfzaBAn,0.83,medium
@@ -145,7 +136,6 @@ APariś.,2,apariS,av.pariS,0.86,medium
 Dhāyabh.,2,DAyaB,dAyaB,0.8,medium
 Hiraṇy.,2,hiraRy,,0.0,no-match (new work?)
 Vaitān.,2,vEtAn,vEt,0.75,low
-PārGṛS.,2,pArgfs,pArgf,0.91,high
 Saṃg.,2,saMg,saMgIt,0.8,medium
 Mārk.,2,mArk,mArkp,0.89,medium
 Hāla,1,hAla,hAl,0.86,medium
@@ -200,7 +190,6 @@ Burnouf,1,burnou,,0.0,no-match (new work?)
 Viśv.,1,viSv,viSvan,0.8,medium
 RV. AnuvAnukr.,1,rvanuvanukr,ranukr,0.71,low
 Rājamārt.,1,rAjamArt,rAjat,0.77,low
-SV.Pariś.,1,svpariS,sv.pariS,0.93,high
 SvayambhūP.,1,svayamBUp,,0.0,no-match (new work?)
 ĀdityaP.,1,Adityap,,0.0,no-match (new work?)
 Jyotirv.,1,jyotirv,jyot,0.73,low
@@ -216,7 +205,6 @@ Vedāntaparibh.,1,vedAntapariB,vedAntap,0.8,medium
 Nidān.,1,nidAn,nidAnas,0.83,medium
 Kālam.,1,kAlam,kAlac,0.8,medium
 YajurV. Parīś.,1,yajurvparIS,yajurv,0.71,low
-Rājat. (C),1,rAjatc,rAjat,0.91,high
 Mādh.,1,mAD,,0.0,no-match (new work?)
 VāsiṣṭhalP.,1,vAsizWalp,,0.0,no-match (new work?)
 Udvāhat.,1,udvAhat,,0.0,no-match (new work?)
@@ -232,7 +220,6 @@ Vratar.,1,vratar,vratapr,0.92,high
 Caitany.,1,cEtany,,0.0,no-match (new work?)
 Muhūrtam.,1,muhUrtam,,0.0,no-match (new work?)
 Kulasadbh.,1,kulasadB,kulad,0.77,low
-AV. Paipp.,1,avpEpp,av.pEpp,0.92,high
 Bloomfield,1,bloomield,,0.0,no-match (new work?)
 Vedāntak.,1,vedAntak,vedAntas,0.88,medium
 Medhāt.,1,meDAt,,0.0,no-match (new work?)
@@ -245,7 +232,6 @@ Karmavip.,1,karmavip,karmapr,0.8,medium
 ŚikhUp.,1,SiKup,Siraup,0.73,low
 VĀJ.,1,vAj,,0.0,no-match (new work?)
 Saṃgīta-darpaṇa,1,saMgItadarpaRa,,0.0,no-match (new work?)
-Caurap. (A.),1,cOrapa,cOrap,0.91,high
 Rāmat.,1,rAmat,rAmatup,0.83,medium
 Siddh. strīpuṃs.,1,sidDstrIpuMs,,0.0,no-match (new work?)
 Utp.,1,utp,up,0.8,medium
@@ -283,10 +269,8 @@ SŚaṃk.,1,sSaMk,SaMk,0.89,medium
 Taitt.Up.,1,tEttup,Etup,0.8,medium
 ĀpGṛh.,1,Apgfh,Apgf,0.89,medium
 Luders,1,luders,,0.0,no-match (new work?)
-Sūryap.,1,sUryap,sUryapr,0.92,high
 Śak. [Pi.,1,Sakpi,Sak,0.75,low
 MnGṛh.,1,mngfh,mAngf,0.8,medium
-Damayantī-kathā,1,damayantIkaTA,damayantI-kaTA,0.96,high
 Upapur.,1,upapur,upap,0.8,medium
 Damayantīk.,1,damayantIk,damayantI-kaTA,0.83,medium
 JBr.,1,jbr,br,0.8,medium
@@ -308,7 +292,6 @@ Jātak.,1,jAtak,jAtakam,0.83,medium
 Pañc. [B.],1,paYcb,paYcavbr,0.77,low
 VYogay.,1,vyogay,varyogay,0.86,medium
 Mālav. (ed. Boll.),1,mAlavedboll,,0.0,no-match (new work?)
-RVAnukr.,1,rvanukr,ranukr,0.92,high
 Prasaṅgābh.,1,prasaNgAB,prasaNg,0.88,medium
 Rājyat.,1,rAjyat,rAjat,0.91,high
 Ṛktantr.,1,fktantr,tantras,0.71,low
