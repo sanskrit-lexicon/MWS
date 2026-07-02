@@ -1,5 +1,7 @@
 # G5 Gold Sample Spec — MW Block-Economy Paper
 
+_Created: 26-06-2026 · Last updated: 02-07-2026_
+
 Purpose: define the 200-entry double-annotation sample needed before the P1
 paper reports precision/recall for MW block detectors F01-F18. This is a spec
 and worksheet design only. It does not perform human annotation.
@@ -19,7 +21,7 @@ and worksheet design only. It does not perform human annotation.
 The sample must stress both common kernel blocks and rare/high-risk blocks. Use
 deterministic sampling with a fixed seed and record the source commit / file
 timestamp. The pinned algorithm, seed, and resulting worksheet live in
-[g5/G5_SAMPLING_ADDENDUM.md](g5/G5_SAMPLING_ADDENDUM.md) — both annotation
+[g5/G5_SAMPLING_ADDENDUM.md](https://github.com/sanskrit-lexicon/MWS/blob/master/review_packets/g5/G5_SAMPLING_ADDENDUM.md) — both annotation
 passes draw from `g5/G5_gold_sample_skeleton.csv` there.
 
 | Stratum | Target n | Why it exists |
@@ -115,3 +117,5 @@ claims.
 - Scoring output includes per-block precision/recall and support.
 - `PAPER.md` limitations cite both the sample method and the weak-support
   warnings instead of reporting naked percentages.
+
+_Dr. Mārcis Gasūns_
