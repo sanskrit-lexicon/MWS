@@ -2,6 +2,16 @@
 
 Date: 2026-06-13
 
+> **⚠️ SUPERSEDED as the sampling instrument (Fable S2 ruling, 02-07-2026, Fable 5
+> `claude-fable-5`).** The canonical G5 gold sample is
+> [review_packets/g5/](https://github.com/sanskrit-lexicon/MWS/tree/master/review_packets/g5)
+> (seed 20260702, 8 spec strata, pinned `csl-orig` commit, Pass A complete) — do **not**
+> annotate `GOLD_SAMPLE.json` here; it is a *different* 200 records. What survives from this
+> harness is the **scoring design** (per-block precision/recall/F1 + Cohen's κ in
+> [`gold_score.py`](gold_score.py)), to be ported onto the g5 CSV at adjudication. See
+> [A16_REVIEW_FABLE5.md](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/papers/microanalysis/A16_REVIEW_FABLE5.md)
+> Major 2.
+
 Status: framework in place; awaiting two-annotator review. This upgrades the
 random 100-record audit ([SPOTCHECK.md](SPOTCHECK.md)) to a **stratified,
 double-annotated, precision/recall-scored** gold standard, so PAPER.md §9's
