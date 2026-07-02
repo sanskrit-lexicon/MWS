@@ -18,7 +18,9 @@ and worksheet design only. It does not perform human annotation.
 
 The sample must stress both common kernel blocks and rare/high-risk blocks. Use
 deterministic sampling with a fixed seed and record the source commit / file
-timestamp.
+timestamp. The pinned algorithm, seed, and resulting worksheet live in
+[g5/G5_SAMPLING_ADDENDUM.md](g5/G5_SAMPLING_ADDENDUM.md) — both annotation
+passes draw from `g5/G5_gold_sample_skeleton.csv` there.
 
 | Stratum | Target n | Why it exists |
 |---|---:|---|
