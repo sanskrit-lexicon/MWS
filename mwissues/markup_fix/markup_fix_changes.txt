@@ -1,0 +1,23 @@
+; markup_fix log for mw.txt
+; nested <ab>:    0
+; whitespace:     9
+; changed lines:  9
+;
+89369 old <s>A-bADa/</s> ¦ <lex>m.</lex> and (<s>A</s>), <lex>f. </lex> pain, distress, <ls>MBh.</ls>; <ls>Mn.</ls>; <ls>Suśr.</ls>; <ls>Kir.</ls> &c.<info lex="m:f#A"/>
+89369 new <s>A-bADa/</s> ¦ <lex>m.</lex> and (<s>A</s>), <lex>f.</lex> pain, distress, <ls>MBh.</ls>; <ls>Mn.</ls>; <ls>Suśr.</ls>; <ls>Kir.</ls> &c.<info lex="m:f#A"/>
+89836 old ¦ the expanded hood of the <bio>Cobra Capella </bio> (used by <s1>Varuṇa</s1> as his umbrella), <ls>MBh.</ls>; <ls>Hcar.</ls><info lex="inh"/>
+89836 new ¦ the expanded hood of the <bio>Cobra Capella</bio> (used by <s1>Varuṇa</s1> as his umbrella), <ls>MBh.</ls>; <ls>Hcar.</ls><info lex="inh"/>
+369803 old <s>ni-˚laya—sundara</s> ¦ <lex>m.</lex> <ab>N.</ab> of a man, <ls>Cat. </ls><info lex="m"/> 
+369803 new <s>ni-˚laya—sundara</s> ¦ <lex>m.</lex> <ab>N.</ab> of a man, <ls>Cat.</ls><info lex="m"/> 
+419076 old <s>pIta—mUlaka</s> ¦ <lex>n.</lex><bot> Daucus Carota</bot>, <ls>L.</ls><info lex="n"/>
+419076 new <s>pIta—mUlaka</s> ¦ <lex>n.</lex><bot>Daucus Carota</bot>, <ls>L.</ls><info lex="n"/>
+475456 old <s>Patiha-BUpati</s> and <s>Patiha-SAha</s>, ¦ <lex>m.</lex> <ab>N.</ab> of a king of <s1>Kaśmīra</s1>, <ls>Cat.</ls> (= <arab lang="Persian">شاه فتح </arab>)<info lex="m"/>
+475456 new <s>Patiha-BUpati</s> and <s>Patiha-SAha</s>, ¦ <lex>m.</lex> <ab>N.</ab> of a king of <s1>Kaśmīra</s1>, <ls>Cat.</ls> (= <arab lang="Persian">شاه فتح</arab>)<info lex="m"/>
+493133 old <s>brahma—hfdaya</s> ¦ <lex>m.</lex> <lex type="hw">n.</lex> the star <bio>Capella </bio>, <ls>Sūryas.</ls><info lex="m:n"/><listinfo n="sup"/>
+493133 new <s>brahma—hfdaya</s> ¦ <lex>m.</lex> <lex type="hw">n.</lex> the star <bio>Capella</bio>, <ls>Sūryas.</ls><info lex="m:n"/><listinfo n="sup"/>
+540564 old <s>mahalla</s> ¦ <lex>m.</lex> (<ab>fr.</ab> <lang>Arabic</lang> <arab>محل </arab> mahall) a eunuch in a king's palace or in a harem, <ls>L.</ls><info lex="m"/>
+540564 new <s>mahalla</s> ¦ <lex>m.</lex> (<ab>fr.</ab> <lang>Arabic</lang> <arab>محل</arab> mahall) a eunuch in a king's palace or in a harem, <ls>L.</ls><info lex="m"/>
+556639 old ¦ begging, food or alms obtained by begging, <ls>L.</ls> <chg type="chg" n="1" src="mw"><old> </old><new>; ‘begging for food’ (for L. read <ls>Mn. iv, 5</ls>)</new></chg><info lex="inh"/><info n="rev" pc="1331,3"/>
+556639 new ¦ begging, food or alms obtained by begging, <ls>L.</ls> <chg type="chg" n="1" src="mw"><old></old><new>; ‘begging for food’ (for L. read <ls>Mn. iv, 5</ls>)</new></chg><info lex="inh"/><info n="rev" pc="1331,3"/>
+848161 old <s>sTAsaka</s> ¦ <lex>mn (?). </lex> a bubble-shaped ornament on a horse's trappings, <ls>Śiś.</ls><info lex="m:n"/>
+848161 new <s>sTAsaka</s> ¦ <lex>mn (?).</lex> a bubble-shaped ornament on a horse's trappings, <ls>Śiś.</ls><info lex="m:n"/>
