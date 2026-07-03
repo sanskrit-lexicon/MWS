@@ -108,6 +108,13 @@ revision sessions after G5 closes, plus a citation-verification pass, reach subm
      (Vogel 1979 *Indian Lexicography* is the real critical survey of the field and is oddly
      absent). **Verify each against library records or remove — a fabricated reference in an
      OUP journal is a desk-reject with reputational tail.**
+     *Update 03-07-2026:* the Scharf & Hyman item is **closed** — the unverifiable
+     "(2009–2011) Encoding Sanskrit dictionaries" entry was replaced with the web-verified
+     Scharf, P. M. & Hyman, M. D. (2011), *Linguistic Issues in Encoding Sanskrit* (Providence:
+     The Sanskrit Library / Delhi: Motilal Banarsidass) in
+     [#227](https://github.com/sanskrit-lexicon/MWS/pull/227), matching the A17 review's m1 fix.
+     Schreyer 1985, Funderburk et al. 2014, Hausmann 1985, Wiegand 1989 pages, Wiegand 1995 and
+     the four A&R page cites remain open (human @DO).
    - Apresjan 2002, Hanks 2013, Hartmann 2001 are in the references but never cited in the
      body; IJL copy-editing will strip them — cite or cut.
    - The four Atkins & Rundell page cites (2008: 168, 199, 263, 386) need one human pass with
