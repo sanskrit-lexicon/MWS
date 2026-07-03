@@ -15,7 +15,7 @@ Quick recap of the quantitative dimensions available:
 | Total entries | [mw.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) | 286,561 |
 | Formal blocks | [MICROANALYSIS.md §1](MICROANALYSIS.md#1--formal-block-inventory-18-blocks) | 18 |
 | Semantic blocks | [MICROANALYSIS.md §2](MICROANALYSIS.md#2--semantic-block-taxonomy-8-categories) | 8 |
-| Article types | [MICROANALYSIS.md §3](MICROANALYSIS.md#3--article-type-typology-14-types) | 14 |
+| Article types | [MICROANALYSIS.md §3](MICROANALYSIS.md#3--article-type-typology-8-primary-types--3-orthogonal-properties) | 14 |
 | Block-by-type matrix | [MICROANALYSIS.md §4](MICROANALYSIS.md#4--the-block-by-article-type-matrix) | 18 × 14 = 252 cells |
 | Fullness tiers | [MICROANALYSIS.md §5](MICROANALYSIS.md#5--fullness-scale) | 5 |
 | `<ls>` citation totals | [ENTRY_GUIDE](../../ENTRY_GUIDE.md#coverage-of-ls-citations) | 311,932 across 821 unique abbreviations |

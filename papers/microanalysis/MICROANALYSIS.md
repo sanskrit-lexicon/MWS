@@ -58,7 +58,7 @@ A *semantic block* is the kind of information conveyed, independent of its forma
 
 ## 3 · Article-type typology (8 primary types + 3 orthogonal properties)
 
-Per [DOUBTS D5](DOUBTS.md#d5--article-type-typology--14-is-too-many--overlapping--important), the original 14-bucket classification conflated two orthogonal axes — *what kind of entry this is* (primary type) versus *what additional information it happens to carry* (orthogonal property). The refactored typology separates them. The original 14 buckets are preserved in [§3.1 below](#31--the-original-14-bucket-classification-legacy) for traceability and for anyone running the legacy detector.
+Per [DOUBTS D5](DOUBTS.md#d5--article-type-typology--refactored-to-8-primary-types--3-orthogonal-properties--resolved-2026-05-27), the original 14-bucket classification conflated two orthogonal axes — *what kind of entry this is* (primary type) versus *what additional information it happens to carry* (orthogonal property). The refactored typology separates them. The original 14 buckets are preserved in [§3.1 below](#31--the-original-14-bucket-classification-legacy) for traceability and for anyone running the legacy detector.
 
 ### 3 · The 8 primary types
 
@@ -107,7 +107,7 @@ Approximate joint counts (`E` = encyclopedic; counts derive from the same `mw_bl
 
 ### 3.1 · The original 14-bucket classification (legacy)
 
-Retained for reproducibility of the [§4 matrix](#4--the-block-by-article-type-matrix) and the [mw_block_matrix.py](#methods--corrections-log) detector. Counts reflect overlapping buckets — an entry can be (e.g.) `noun_m` AND `vedic_accented` AND `biographical`.
+Retained for reproducibility of the [§4 matrix](#4--the-block-by-article-type-matrix) and the [mw_block_matrix.py](#8--cross-references-to-docs-pass-material) detector. Counts reflect overlapping buckets — an entry can be (e.g.) `noun_m` AND `vedic_accented` AND `biographical`.
 
 | Type code | Defined by | Count | % of 286,561 |
 |---|---|--:|--:|

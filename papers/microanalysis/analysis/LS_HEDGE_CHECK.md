@@ -190,7 +190,7 @@ Appendix C wording updated accordingly.
 
 ## MW 1872 preface and body check (added 2026-05-27, D21 resolution)
 
-The hostile peer-review pass (O7, [DOUBTS D21](../DOUBTS.md#d21--the-cappeller-precedent-narrative-has-not-been-checked-against-mw-1872-potentially-reverses-the-o1-conclusion--blocking))
+The hostile peer-review pass (O7, [DOUBTS D21](../DOUBTS.md#d21--cappeller-precedent-narrative-checked-against-mw-1872--partially-resolved-2026-05-27-finding-three-stage-lineage--was-blocking-now-closed))
 raised the possibility that MW's *first* edition (1872) already contained
 the systematic L.-hedge, in which case Cappeller 1891 would *follow* MW
 rather than precede it. We ran the check.

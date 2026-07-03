@@ -528,7 +528,7 @@ Otherwise, drop to Sonnet.
 
 ### O1 · Read Cappeller / Benfey / WIL print prefaces, resolve D2
 
-**Effort: ~2–3h** ([D2](DOUBTS.md#d2--the-lslls-mw-innovation-claim--under-checked--important) close-out)
+**Effort: ~2–3h** ([D2](DOUBTS.md#d2--the-lslls-claim-refined-mw-systematised-a-convention-pioneered-typographically--resolved-2026-05-27) close-out)
 
 ```
 Address DOUBTS D2's remaining open item. Read the 1891 Cappeller, 1866 Benfey,
@@ -547,7 +547,7 @@ soften or keep the "MW innovation" claim accordingly; close or refine DOUBTS D2.
 
 ### O2 · D5 typology refactor in PAPER.md
 
-**Effort: ~2h** ([D5](DOUBTS.md#d5--article-type-typology--14-is-too-many--overlapping--important))
+**Effort: ~2h** ([D5](DOUBTS.md#d5--article-type-typology--refactored-to-8-primary-types--3-orthogonal-properties--resolved-2026-05-27))
 
 ```
 Refactor PAPER.md §5 to address DOUBTS D5: the 14 article types have heavy
