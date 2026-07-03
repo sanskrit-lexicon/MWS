@@ -6,6 +6,10 @@ This repository does not currently publish versioned release notes. Entries use
 dated maintenance snapshots; keep upcoming work under [Unreleased] until it is
 ready for a dated entry.
 
+## [1.0.1] - 2026-07-03
+
+### Changed - Adjudication and review cycle completions
+
 ## [1.0.0] - 2026-06-13
 
 ### Added
