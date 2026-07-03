@@ -225,7 +225,7 @@ The actual lineage is thus more nuanced than either O1's initial framing or D21'
 
 | Year | Source | What | Implementation scale |
 |--:|---|---|---|
-| 1866 | Benfey | `†` for "no authoritative references" (related but semantically weaker — methodological hedge) | typographic, ~900 instances |
+| 1866 | Benfey | `†` for "no authoritative references" (related but semantically weaker — methodological hedge) | typographic; not quantified in the digital edition (the 903 `†` / 1,370 `*` counts above are CAE/Cappeller's, not Benfey's) |
 | **1872** | **MW (1st edn)** | **Declares "L." for "native-lexicon-only" in preface § II** | typographic-only, **≈ 0 systematic body instances** |
 | 1891 | Cappeller | `*` for "word taught only by grammarians or lexicographers" — *first systematic typographic implementation* | typographic, **1,370 instances** |
 | **1899** | **MW (2nd edn)** | **Adopts Cappeller's systematic discipline, promotes the mark into the tagged source-citation slot** | tagged, **40,212 instances** |
@@ -236,5 +236,5 @@ So MW *was* first with the **concept** (1872 preface), Cappeller *was* first wit
 
 - The "downgrade" of O1 stands, *but* the downgrade is from *invention* to *systematic-tagged-application*; the **concept** is MW's own, dated 1872, attested by his own pen. This is *less* of a downgrade than the original O1 text implied.
 - Cappeller's role is correctly identified as the systematic typographic precedent. The Cappeller-co-edited MW 1899 then merged the two strands (MW's 1872 concept + Cappeller's 1891 systematism) into a tagged, scaled apparatus.
-- DOUBTS D21 is **RESOLVED**. PAPER.md §7.2(ii), Appendix C.2, IJL cover letter, and PAPER_RU.md §6.5–6.6 should be revised to reflect the three-stage lineage rather than the simpler two-stage O1 narrative.
+- DOUBTS D21 is **PARTIALLY RESOLVED** (2026-05-27 — three-stage lineage confirmed, the blocking aspect closed; status wording per [DOUBTS.md D21](../DOUBTS.md)). PAPER.md §7.2(ii), Appendix C.2, IJL cover letter, and PAPER_RU.md §6.5–6.6 should be revised to reflect the three-stage lineage rather than the simpler two-stage O1 narrative.
 
