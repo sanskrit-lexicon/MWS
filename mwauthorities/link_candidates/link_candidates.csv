@@ -1,47 +1,31 @@
 ls_siglum,citation_count,slp1,suggested_canonical,match_score,confidence
 ŚrS.,738,Srs,,0.0,no-match (new work?)
-Pañc.,457,paYc,paYcat,0.8,medium
-Ratnāv.,396,ratnAv,ratnA,0.91,high
-GṛŚrS.,372,gfSrs,gfSr,0.89,medium
-TāṇḍBr.,211,tARqbr,tARqyabr,0.86,medium
 APrāt.,169,aprAt,prAt,0.89,medium
-Veṇīs.,163,veRIs,veRis,0.8,medium
 PBr.,147,pbr,br,0.8,medium
-Hir.,121,hir,hirp,0.86,medium
-AV.Pariś.,116,avpariS,av.pariS,0.93,high
 Dharmaś.,110,DarmaS,Darmav,0.83,medium
 Śāk.,78,SAk,SAkaw,0.75,low
 Piṅg.,73,piNg,piNgSch,0.73,low
 RTL. p.,62,rtlp,,0.0,no-match (new work?)
-Pratāpar.,53,pratApar,pratAp,0.86,medium
 Kār.,52,kAr,Ar,0.8,medium
 Vāsav.,50,vAsav,vAs,0.75,low
 Tantr.,41,tantr,tantras,0.83,medium
 DevīP.,39,devIp,devIBp,0.91,high
 Kṛṣṇaj.,32,kfzRaj,,0.0,no-match (new work?)
-Śulb.,27,Sulb,Sulbas,0.8,medium
-Viṣṇus.,26,vizRus,vizR,0.8,medium
-Śrut.,24,Srut,Srutab,0.8,medium
-AmṛtUp.,23,amftup,amftabup,0.86,medium
 Śuśr.,22,SuSr,suSr,0.75,low
 R. (G),19,rg,,0.0,no-match (new work?)
 Ṛt.,19,ft,,0.0,no-match (new work?)
 Upapurāṇa,17,upapurARa,,0.0,no-match (new work?)
 VārP.,16,vArp,varp,0.75,low
 RTL. pp.,16,rtlpp,,0.0,no-match (new work?)
-Vātsy.,15,vAtsy,vAtsyAy,0.83,medium
 R. (B),15,rb,,0.0,no-match (new work?)
 Bṛhasp.,14,bfhasp,,0.0,no-match (new work?)
 R. G.,14,rg,,0.0,no-match (new work?)
 Śak. (Pi.),13,Sakpi,Sak,0.75,low
 Bād.,12,bAd,bAdar,0.75,low
-Sāṅkhyak.,11,sANKyak,sAMKyak,0.86,medium
 R. (B.),11,rb,,0.0,no-match (new work?)
 Gram.,10,gram,,0.0,no-match (new work?)
 Sāṃkhyas.,10,sAMKyas,sAMKyak,0.86,medium
 Gr.,9,gr,,0.0,no-match (new work?)
-ŚivP.,8,Sivp,Sivap,0.89,medium
-Prav.,8,prav,prava,0.89,medium
 Dhāt.,8,DAt,DAtup,0.75,low
 Śāṇḍ.,8,SARq,,0.0,no-match (new work?)
 Kāvyapr.,7,kAvyapr,kAvyak,0.77,low
@@ -51,59 +35,38 @@ R. B.,7,rb,,0.0,no-match (new work?)
 Ṭoḍar.,7,woqar,toqar,0.8,medium
 Śr.,7,Sr,Sbr,0.8,medium
 R. [B.],7,rb,,0.0,no-match (new work?)
-SkandaP. Rev.,6,skandaprev,skandap,0.82,medium
 Manu.,6,manu,anup,0.75,low
 R. (ed. Gorr.),6,redgorr,,0.0,no-match (new work?)
-Alaṃkāras.,6,alaMkAras,alaMkAras2,0.95,high
 R. (ed. Bomb.),6,redbomb,,0.0,no-match (new work?)
 ŚrGṛS.,6,Srgfs,gfs,0.75,low
-SaṃhitUp.,6,saMhitup,saMhup,0.86,medium
 Caur.,6,cOr,cOrap,0.75,low
-Aṣṭāv.,6,azwAv,azwAvs,0.91,high
-Mahāv.,6,mahAv,mahAvy,0.91,high
 Pārv.,5,pArv,pArvat,0.8,medium
 KālikāP.,5,kAlikAp,kAlp,0.73,low
 IW. p.,5,ip,,0.0,no-match (new work?)
 ŚiraUp.,5,SirOp,Siraup,0.73,low
 Rāj.,5,rAj,rAjat,0.75,low
 Siddh. stry.,5,sidDstry,,0.0,no-match (new work?)
-JaimBhār.,5,jEmBAr,jEmB,0.8,medium
 Paipp.,5,pEpp,av.pEpp,0.73,low
-HPar.,4,hpar,hpariS,0.8,medium
 Śivasūtra,4,SivasUtra,SrsUtra,0.75,low
-Vedānt.,4,vedAnt,vedAntas,0.86,medium
-Caṇḍak.,4,caRqak,caRq,0.8,medium
 Sāy. on AitBr.,4,sAyonEtbr,,0.0,no-match (new work?)
 MBh. (ed. Calc.),4,mBedcalc,,0.0,no-match (new work?)
 Gaṇaratnāv.,4,gaRaratnAv,,0.0,no-match (new work?)
 Introd.,4,introd,,0.0,no-match (new work?)
 Siddh. napuṃs.,4,sidDnapuMs,,0.0,no-match (new work?)
 R. [G],4,rg,,0.0,no-match (new work?)
-Nīl.,4,nIl,nIlp,0.86,medium
 Camp.,4,camp,campak,0.8,medium
-Gaṇ.,4,gaR,gaRp,0.86,medium
-HYogaś.,4,hyogaS,hyog,0.8,medium
 Kath.,3,kaT,kaTAs,0.75,low
-PraśnaUp.,3,praSnOp,praSnup,0.86,medium
-MānGṛS.,3,mAngfs,mAngf,0.91,high
 Weber,3,eber,,0.0,no-match (new work?)
 AgniP.,3,agnip,agp,0.75,low
-Yogaś.,3,yogaS,yogaSup,0.83,medium
 Alaṃkārar.,3,alaMkArar,alaMkArav,0.89,medium
 SiddhŚir.,3,sidDSir,sidD,0.73,low
 Aufrecht,3,OreCt,,0.0,no-match (new work?)
 MBh. (ed. Bomb.),3,mBedbomb,,0.0,no-match (new work?)
-VCāṇ.,3,vcAR,cAR,0.86,medium
-Rāmapūjāsar.,3,rAmapUjAsar,rAmapUjAs,0.9,high
-Ragh. (C),3,raGc,raG,0.86,medium
 Pañcat. Introd.,3,paYcatintrod,,0.0,no-match (new work?)
 Śuk.,3,Suk,Sukas,0.75,low
 Gauḍap.,3,gOqap,,0.0,no-match (new work?)
 Hit. Introd.,3,hitintrod,,0.0,no-match (new work?)
-ŚambhMāh.,3,SamBmAh,SaMBmAh,0.86,medium
-Daśak.,3,daSak,daSar,0.8,medium
 Līlāv.,3,lIlAv,lIl,0.75,low
-AVPariś.,3,avpariS,av.pariS,0.93,high
 MānGṛŚrS.,3,mAngfSrs,mAngf,0.77,low
 HYogay.,3,hyogay,hyog,0.8,medium
 Bc.,3,bc,,0.0,no-match (new work?)
@@ -119,13 +82,9 @@ Schlegel,2,sClegel,,0.0,no-match (new work?)
 R. ed. Bombay,2,redbombay,,0.0,no-match (new work?)
 Dāy.,2,dAy,drAhy,0.75,low
 Pañcadaśī,2,paYcadaSI,paYcad,0.8,medium
-Daś. p.,2,daSp,daS,0.86,medium
 Khaṇḍa-praśasti,2,KaRqapraSasti,KaRqapr,0.7,low
-AV.Prāy.,2,avprAy,av.prAy,0.92,high
 ĀśvGṛ.Pariś.,2,ASvgfpariS,,0.0,no-match (new work?)
-Bādar. Gov.,2,bAdargov,bAdar. gov,0.89,medium
 Vṛṣabh.,2,vfzaB,vfzaBAn,0.83,medium
-Kautuk.,2,kOtuk,kOtukas,0.83,medium
 BP.,2,bp,,0.0,no-match (new work?)
 MahānārUp.,2,mahAnArup,mahAnArAyaRaup.,0.75,low
 R. [B],2,rb,,0.0,no-match (new work?)
@@ -145,22 +104,15 @@ APariś.,2,apariS,av.pariS,0.86,medium
 Dhāyabh.,2,DAyaB,dAyaB,0.8,medium
 Hiraṇy.,2,hiraRy,,0.0,no-match (new work?)
 Vaitān.,2,vEtAn,vEt,0.75,low
-PārGṛS.,2,pArgfs,pArgf,0.91,high
-Saṃg.,2,saMg,saMgIt,0.8,medium
-Mārk.,2,mArk,mArkp,0.89,medium
-Hāla,1,hAla,hAl,0.86,medium
 "Wilson, Hindu Theatre",1,ilsonhinduTeatre,,0.0,no-match (new work?)
 Saṃhitop. p.,1,saMhitopp,,0.0,no-match (new work?)
 Windisch,1,indisC,,0.0,no-match (new work?)
 Ludwig,1,ludig,,0.0,no-match (new work?)
-ŚB.,1,Sb,Sbr,0.8,medium
 Pār.,1,pAr,Ar,0.8,medium
 ŚāntiP.,1,SAntip,SAntik,0.83,medium
 Paraśurāma-prakāśa,1,paraSurAmaprakASa,,0.0,no-match (new work?)
 Śukasaṃdeśa,1,SukasaMdeSa,,0.0,no-match (new work?)
 Boehtlingk's edition,1,boehtlingksedition,,0.0,no-match (new work?)
-Siddh. p.,1,sidDp,sidD,0.89,medium
-ŚBr. p.,1,Sbrp,Sbr,0.86,medium
 "Zachariae, Beiträge, p.",1,aCariaebeitrgep,,0.0,no-match (new work?)
 Pischel,1,pisCel,,0.0,no-match (new work?)
 Pras.,1,pras,prah,0.75,low
@@ -173,7 +125,6 @@ Muir,1,muir,mudr,0.75,low
 "Kielhorn, Mahābhāṣya",1,kielhornmahABAzya,,0.0,no-match (new work?)
 Hunter,1,hunter,,0.0,no-match (new work?)
 Beames,1,beames,,0.0,no-match (new work?)
-VS. p.,1,vsp,vs,0.8,medium
 KātyDh.,1,kAtyD,kAty,0.89,medium
 Kosegarten,1,kosegarten,,0.0,no-match (new work?)
 Burnell,1,burnell,,0.0,no-match (new work?)
@@ -181,26 +132,20 @@ Böhtl.,1,bhtl,,0.0,no-match (new work?)
 Pañcat. (ed. Bombay),1,paYcatedbombay,,0.0,no-match (new work?)
 "M.M., Chips",1,mmCips,,0.0,no-match (new work?)
 Whitney's Gr.,1,hitneysgr,,0.0,no-match (new work?)
-VBṛS.,1,vbfs,varbfs,0.8,medium
 "Ludwig, RV.",1,ludigrv,,0.0,no-match (new work?)
 "Kaegi, RV. p.",1,kaegirvp,,0.0,no-match (new work?)
 MBh. (ed. Bombay),1,mBedbombay,,0.0,no-match (new work?)
 "Lassen, IA.",1,lassenia,,0.0,no-match (new work?)
 Caraṇavy.,1,caraRavy,caraR,0.77,low
-ChandS.,1,Cands,CandaHs,0.83,medium
 NBD. Nachtrag,1,nbdnaCtrag,,0.0,no-match (new work?)
 R. ed. Gorresio,1,redgorresio,,0.0,no-match (new work?)
 Ratim.,1,ratim,ratir,0.8,medium
-Pat. (K.),1,patk,pat,0.86,medium
 RLM.,1,rlm,,0.0,no-match (new work?)
 Caraka,1,caraka,caraR,0.73,low
 Haughton,1,hOGton,,0.0,no-match (new work?)
-JābālaUp.,1,jAbAlOp,jAbAlup,0.86,medium
 Burnouf,1,burnou,,0.0,no-match (new work?)
-Viśv.,1,viSv,viSvan,0.8,medium
 RV. AnuvAnukr.,1,rvanuvanukr,ranukr,0.71,low
 Rājamārt.,1,rAjamArt,rAjat,0.77,low
-SV.Pariś.,1,svpariS,sv.pariS,0.93,high
 SvayambhūP.,1,svayamBUp,,0.0,no-match (new work?)
 ĀdityaP.,1,Adityap,,0.0,no-match (new work?)
 Jyotirv.,1,jyotirv,jyot,0.73,low
@@ -209,14 +154,10 @@ Garg.,1,garg,,0.0,no-match (new work?)
 Āgamapr.,1,Agamapr,amar,0.73,low
 VS. (Kāṇv.),1,vskARv,,0.0,no-match (new work?)
 Gop.,1,gop,gopbr,0.75,low
-BhP. (B),1,Bpb,Bp,0.8,medium
 Nīt.,1,nIt,nItis,0.75,low
-Vedāntaparibh.,1,vedAntapariB,vedAntap,0.8,medium
 Śivak.,1,Sivak,Sivas,0.8,medium
-Nidān.,1,nidAn,nidAnas,0.83,medium
 Kālam.,1,kAlam,kAlac,0.8,medium
 YajurV. Parīś.,1,yajurvparIS,yajurv,0.71,low
-Rājat. (C),1,rAjatc,rAjat,0.91,high
 Mādh.,1,mAD,,0.0,no-match (new work?)
 VāsiṣṭhalP.,1,vAsizWalp,,0.0,no-match (new work?)
 Udvāhat.,1,udvAhat,,0.0,no-match (new work?)
@@ -232,7 +173,6 @@ Vratar.,1,vratar,vratapr,0.92,high
 Caitany.,1,cEtany,,0.0,no-match (new work?)
 Muhūrtam.,1,muhUrtam,,0.0,no-match (new work?)
 Kulasadbh.,1,kulasadB,kulad,0.77,low
-AV. Paipp.,1,avpEpp,av.pEpp,0.92,high
 Bloomfield,1,bloomield,,0.0,no-match (new work?)
 Vedāntak.,1,vedAntak,vedAntas,0.88,medium
 Medhāt.,1,meDAt,,0.0,no-match (new work?)
@@ -245,20 +185,16 @@ Karmavip.,1,karmavip,karmapr,0.8,medium
 ŚikhUp.,1,SiKup,Siraup,0.73,low
 VĀJ.,1,vAj,,0.0,no-match (new work?)
 Saṃgīta-darpaṇa,1,saMgItadarpaRa,,0.0,no-match (new work?)
-Caurap. (A.),1,cOrapa,cOrap,0.91,high
-Rāmat.,1,rAmat,rAmatup,0.83,medium
 Siddh. strīpuṃs.,1,sidDstrIpuMs,,0.0,no-match (new work?)
 Utp.,1,utp,up,0.8,medium
 Bhavadev.,1,Bavadev,,0.0,no-match (new work?)
 Bhāgav.,1,BAgav,,0.0,no-match (new work?)
 Kavikalpadr.,1,kavikalpadr,kavikalpat,0.86,medium
 Vaidyakaparibh.,1,vEdyakapariB,,0.0,no-match (new work?)
-Ānandal.,1,Anandal,Anand,0.83,medium
 Jñānabhair.,1,jYAnaBEr,,0.0,no-match (new work?)
 Garga,1,garga,,0.0,no-match (new work?)
 Kṛṣṇakrīḍ.,1,kfzRakrIq,kfzRakarR,0.78,low
 BṛhaddhP.,1,bfhadDp,,0.0,no-match (new work?)
-Dūtāṅg.,1,dUtANg,dUtaNg,0.83,medium
 Gaṅgeś.,1,gaNgeS,,0.0,no-match (new work?)
 Sārasam.,1,sArasam,,0.0,no-match (new work?)
 Yavaneśv.,1,yavaneSv,,0.0,no-match (new work?)
@@ -272,48 +208,31 @@ Abhirāmam.,1,aBirAmam,,0.0,no-match (new work?)
 Anir.,1,anir,nir,0.86,medium
 Smṛtyarth.,1,smftyarT,,0.0,no-match (new work?)
 Nītir.,1,nItir,nItis,0.8,medium
-Śṛṅgārat.,1,SfNgArat,SfNgAr,0.86,medium
 Pañc. (B),1,paYcb,paYcavbr,0.77,low
 Subhāṣ.,1,suBAz,suB,0.75,low
 "Pañc., Intr.",1,paYcintr,paYcat,0.71,low
 Bāl.,1,bAl,bAlar,0.75,low
-SŚaṃk.,1,sSaMk,SaMk,0.89,medium
-ĀpDh.,1,ApD,Ap,0.8,medium
 Śak. (Chézy),1,SakCy,Sak,0.75,low
 Taitt.Up.,1,tEttup,Etup,0.8,medium
-ĀpGṛh.,1,Apgfh,Apgf,0.89,medium
 Luders,1,luders,,0.0,no-match (new work?)
-Sūryap.,1,sUryap,sUryapr,0.92,high
 Śak. [Pi.,1,Sakpi,Sak,0.75,low
-MnGṛh.,1,mngfh,mAngf,0.8,medium
-Damayantī-kathā,1,damayantIkaTA,damayantI-kaTA,0.96,high
-Upapur.,1,upapur,upap,0.8,medium
-Damayantīk.,1,damayantIk,damayantI-kaTA,0.83,medium
 JBr.,1,jbr,br,0.8,medium
 Saṃhitop.,1,saMhitop,saMhup,0.71,low
 Veṇ.,1,veR,veRis,0.75,low
 SV.Anukr.,1,svanukr,anukr,0.83,medium
-Śak. p.,1,Sakp,Sak,0.86,medium
 Yog.,1,yog,hyog,0.86,medium
 Rāgh.,1,rAG,rAGav,0.75,low
-MBh. [B.],1,mBb,mB,0.8,medium
 Bhavab.,1,Bavab,Badrab,0.73,low
 Am.,1,am,,0.0,no-match (new work?)
 Bhojacar.,1,Bojacar,Bojapr,0.77,low
 MW. p.,1,mp,,0.0,no-match (new work?)
 Ṛgvidh.,1,fgviD,,0.0,no-match (new work?)
 Maṇḍ.,1,maRq,caRq,0.75,low
-PurS.,1,purs,pur,0.86,medium
-Jātak.,1,jAtak,jAtakam,0.83,medium
 Pañc. [B.],1,paYcb,paYcavbr,0.77,low
-VYogay.,1,vyogay,varyogay,0.86,medium
 Mālav. (ed. Boll.),1,mAlavedboll,,0.0,no-match (new work?)
-RVAnukr.,1,rvanukr,ranukr,0.92,high
-Prasaṅgābh.,1,prasaNgAB,prasaNg,0.88,medium
 Rājyat.,1,rAjyat,rAjat,0.91,high
 Ṛktantr.,1,fktantr,tantras,0.71,low
 Rājan.,1,rAjan,rAjat,0.8,medium
-Bhav.,1,Bav,Bavp,0.86,medium
 Tattvak.,1,tattvak,tattvas,0.86,medium
 Hunter's Gazetteer,1,huntersgaetteer,,0.0,no-match (new work?)
 "PadmaP., Svargakh.",1,padmapsvargaK,,0.0,no-match (new work?)
@@ -329,10 +248,8 @@ Bk.,1,bk,,0.0,no-match (new work?)
 Vivād.,1,vivAd,,0.0,no-match (new work?)
 Rām.,1,rAm,rAmup,0.75,low
 "AV., SBE.",1,avsbe,,0.0,no-match (new work?)
-Bhart.,1,Bart,Bartf,0.89,medium
 Praśnot.,1,praSnot,praSnup,0.71,low
 Almagest,1,almagest,,0.0,no-match (new work?)
-Saṃgītas.,1,saMgItas,saMgIt,0.86,medium
 Muir's Sanskrit Texts,1,muirssanskrittets,,0.0,no-match (new work?)
 BṛĀr.,1,bfAr,bfnArp,0.8,medium
 ViṣṇuP.,1,vizRup,vizR,0.8,medium

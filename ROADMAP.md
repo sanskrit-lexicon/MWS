@@ -79,9 +79,9 @@ open decision** (W1 rescope question):
 
 | Layer | Size | Effort | Value | Tier |
 |---|---|---|---|---|
-| **(a) Link unlinked text variants** | ~171 (821 text-side − 650 linked) | mechanical | closes tooltip/resolution gaps | Haiku/Sonnet |
-| **(b) Add `<expandNorm>`** to records that have only `<expandMW>` | 338 (568 − 230): 273 `ti` (mostly mechanical hyphen-join, e.g. `adButa brAhmaRa`→`adButa-brAhmaRa`; some single-word titles need no work at all) + 43 `au` + 22 litcat/subti | **~1–2 sessions, not months** — scriptable draft + review | raises the docs-pass metric; cleaner MDF/TEI exports. NB the metric itself is flawed: it counts single-word titles that are already normal as "missing" | Sonnet (Fable for the 65 attributed/author cases) |
-| **(c) Scan-link targets** per work | per-work, slow | scholarly (edition ID + pagination) | the real "unlock thousands of cites" leverage — but capped (see below) | Sonnet + Fable for edition calls |
+| **(a) Link unlinked text variants** — ✅ **phases 1–2 DONE 2026-06-30** ([#217](https://github.com/sanskrit-lexicon/MWS/issues/217)): 537→620 linked; residual = 3 high + 46 medium maintainer calls, adjudicated 02-07 ([planning](https://github.com/sanskrit-lexicon/MWS/blob/master/planning/PLANNING_2026-07.md) §2, [SPEC-5](https://github.com/sanskrit-lexicon/MWS/blob/master/planning/specs/2026-07/SPEC-5-w1a-residuals-hygiene.md)) | ~257 unlinked left (46 med · 3 high · 68 low · 140 no-match) | mechanical | closes tooltip/resolution gaps | Haiku/Sonnet |
+| **(b) Add `<expandNorm>`** — ✅ **DONE 2026-06-30** ([#218](https://github.com/sanskrit-lexicon/MWS/issues/218), commit `4c20222`): 568/568 records covered | — | — | docs-pass metric now 100% | — |
+| **(c) Scan-link targets** per work — **July's active layer** ([SPEC-1](https://github.com/sanskrit-lexicon/MWS/blob/master/planning/specs/2026-07/SPEC-1-w1c-scanlink.md): page-index-first, Suśr./Kathās./ŚBr.) | per-work, slow | scholarly (edition ID + pagination) | the real "unlock thousands of cites" leverage — but capped (see below) | Sonnet + Fable for edition calls |
 
 **Hard ceiling on layer (c):** 22.3% of all citations are meta/hedge/relative
 (`L.` 40,212 · `ib.` 10,094 · `W.` 8,285 · `MW.` 5,710 · `Cat.` 5,302) and can
@@ -141,8 +141,8 @@ State: docs complete in [csl-apidev/doc/](https://github.com/sanskrit-lexicon/cs
 simple-search v1.2 handoff in [csl-apidev#47](https://github.com/sanskrit-lexicon/csl-apidev/issues/47).
 
 **Remaining steps:**
-1. Land Phase 1 (`salt_entries.php` + `salt_ids.php`, PHP-native search, MW only) — Sonnet implementation, Fable only for contract questions.
-2. Parity check against live C-SALT MW responses (scripted; report diffs as a table to the loss report).
+1. ~~Land Phase 1~~ ✅ **merged 2026-06-20** — [csl-apidev#46](https://github.com/sanskrit-lexicon/csl-apidev/pull/46) landed the controller trio (entries, ids, graphql).
+2. Parity check against live C-SALT MW responses (scripted; report diffs as a table to the loss report) — [SPEC-3](https://github.com/sanskrit-lexicon/MWS/blob/master/planning/specs/2026-07/SPEC-3-salt-parity.md).
 3. Phase 2 GraphQL (`webonyx/graphql-php`, type `mw`).
 4. Clean-URL `/MW/{ref}` content negotiation, dict-code whitelist.
 5. Write the Phase 3 decision memo (expand to 7 C-SALT dicts vs all ~40) into [DECISIONS_NEEDED.md](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/docs/DECISIONS_NEEDED.md) — Jim's call.
@@ -163,8 +163,12 @@ Four tracks, in leverage order:
    families awaiting alias review
    ([dict-source-aliases.json](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/src/data/dicts/dict-source-aliases.json),
    `scripts/obs/siglum_families.py`). Haiku generates candidates; Fable reviews
-   merges in monthly batches of ~50. Also clears the 449 "unknown" MW
-   source-layer sigla in [mw-source-layers.json](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/src/data/mw-source-layers.json).
+   merges in monthly batches of ~50. Also clears the "unknown" MW
+   source-layer sigla in [mw-source-layers.json](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/src/data/mw-source-layers.json)
+   (measured 02-07: 855 distinct unmapped base sigla = **6.5% of citation weight** — a long
+   tail, not a wall). **Batch 1 done 02-07-2026**: 50 families + 57 layer rulings,
+   [csl-atlas#185](https://github.com/sanskrit-lexicon/csl-atlas/pull/185), rationale in
+   [SIGLUM_ADJUDICATION_2026-07.md](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/docs/SIGLUM_ADJUDICATION_2026-07.md).
 2. **`<lex>` grammar-tag retrofits.** Only 5 dicts (MW, AP, PWG, PWK, WIL) are
    grammar-reliable. MW's `<lex>`/`<info lex>` model is the template; pilot a
    retrofit on one tag-bearing-but-unreliable dictionary (candidate from atlas
@@ -217,7 +221,7 @@ Each month: 1 Fable planning session, ~4 Sonnet execution sessions, Haiku sweeps
 | Month | W1 authority | W2 paper | W3 Salt API | W4 template |
 |---|---|---|---|---|
 | **Jun** | Template + tracking issues; first 2 records (ŚBr., Kathās.) | G5 gold-sample spec + first annotation pass | Land Phase 1 PR locally; parity script | Siglum alias batch 1 (50) |
-| **Jul** | 5 records (Suśr., Kāv., VarBṛS., Rājat., Pañcat.) | Second annotation pass; adjudication; fold into paper | Parity report; Phase 2 GraphQL start | Alias batch 2; MW unknown source-layers triage |
+| **Jul** *(resequenced 02-07, [planning](https://github.com/sanskrit-lexicon/MWS/blob/master/planning/PLANNING_2026-07.md))* | Layer (c) page-index + records: Suśr., Kathās., ŚBr. ([SPEC-1](https://github.com/sanskrit-lexicon/MWS/blob/master/planning/specs/2026-07/SPEC-1-w1c-scanlink.md)); #217 links on ack ([SPEC-5](https://github.com/sanskrit-lexicon/MWS/blob/master/planning/specs/2026-07/SPEC-5-w1a-residuals-hygiene.md)) | G5 annotation ×2 ([SPEC-2](https://github.com/sanskrit-lexicon/MWS/blob/master/planning/specs/2026-07/SPEC-2-g5-annotation.md)); Fable S2 hostile review + G5 adjudication; #195 decision | Parity report + Phase-2 closeout + clean-URL start ([SPEC-3](https://github.com/sanskrit-lexicon/MWS/blob/master/planning/specs/2026-07/SPEC-3-salt-parity.md); Phase 1 + graphql **merged 20-06**, [csl-apidev#46](https://github.com/sanskrit-lexicon/csl-apidev/pull/46)) | ✅ Alias batch 1 **shipped 02-07** ([csl-atlas#185](https://github.com/sanskrit-lexicon/csl-atlas/pull/185): 50 families + 57 MW layer rulings); integration ([SPEC-4](https://github.com/sanskrit-lexicon/MWS/blob/master/planning/specs/2026-07/SPEC-4-siglum-apply.md)) |
 | **Aug** | 5 records (Ragh., KātyŚr., Yājñ. + 2); Pāṇ. scheme decision | Hostile review; IJL formatting; **submit** | GraphQL done; clean-URL routing | Alias batch 3; pick `<lex>` retrofit pilot dict |
 | **Sep** | 5 records | (referee wait) | Phase 3 decision memo → DECISIONS_NEEDED | `<lex>` retrofit pilot run + sample review |
 | **Oct** | 5 records | Revisions if back | Support Jim deployment as needed | Register B `iti` extractor prototype (SKD) |
@@ -287,6 +291,8 @@ Vedic accent expansion beyond 16.6%, `<ls>L.</ls>` verification (40,213 citation
 ## Maintenance
 
 - **Updated:** at each monthly Fable planning session and after any strategic finding.
+  Last planning pass: **02-07-2026**, Fable 5 (`claude-fable-5`) —
+  [planning/PLANNING_2026-07.md](https://github.com/sanskrit-lexicon/MWS/blob/master/planning/PLANNING_2026-07.md).
 - **Source of truth for status:** GitHub issues; this doc sequences, it does not track.
 - **Owners:** @funderburkjim and @Andhrabharati (maintainers); @gasyoun (coordination, papers, cross-repo).
 - Companion docs: [DICT_PROFILE.md](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md),
