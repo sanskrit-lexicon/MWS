@@ -2,7 +2,7 @@
 to: Editor-in-Chief, *International Journal of Lexicography*
 from: Mārcis Gasūns (corresponding author) and the CDSL collaboration
 date: 2026-05-27
-re: Single-paper submission — *The microstructure of Monier-Williams 1899: a data-grounded framework, triangulated against three metalexicographic traditions*
+re: Single-paper submission — *The block economy of Monier-Williams 1899: a data-grounded microstructure framework, triangulated against three metalexicographic traditions*
 ---
 
 # Cover letter

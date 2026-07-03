@@ -1,4 +1,4 @@
-# The microstructure of *Monier-Williams 1899*: a data-grounded framework, triangulated against three metalexicographic traditions
+# The block economy of *Monier-Williams 1899*: a data-grounded microstructure framework, triangulated against three metalexicographic traditions
 
 **Draft for the [*International Journal of Lexicography*](https://academic.oup.com/ijl) (Oxford University Press).** Single consolidated submission (~8.6K words including appendices and references, body ~6.2K; within IJL's ~8–10K window). The three external-framework treatments are condensed into [Appendices A–C](#appendix-a--the-wiegand-theoretic-reading-condensed); full single-framework treatments are archived in the reproducibility supplement. Data source: the working-notes file (Supplement: `MICROANALYSIS.md`). All numerical claims are reproducible from the published [`mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) at the pinned commit given in §2, via the scripts archived in the supplement; the empirical audits cited in [§9](#9-methodological-limitations) have been completed since the first draft.
 
