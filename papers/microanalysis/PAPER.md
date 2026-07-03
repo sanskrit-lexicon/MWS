@@ -297,7 +297,7 @@ Triangulated against three external traditions, the grounded reading is corrobor
 
 | Year | Source | Marker & meaning | Implementation scale |
 |--:|---|---|---|
-| 1866 | **Benfey** | `†` for "verbs or meanings for which there are no authoritative references" — weaker methodological hedge (the marker is "no source", not specifically "kosha-only") | typographic, ~900 instances |
+| 1866 | **Benfey** | `†` for "verbs or meanings for which there are no authoritative references" — weaker methodological hedge (the marker is "no source", not specifically "kosha-only") | typographic; not quantified in the digital edition |
 | 1872 | **MW (1st edn)** | Declares the L.-convention in Section II of his own preface: "*when a word had not yet been met with in any published literary work, but only in native lexicons, it was decided to denote this by the letter L.*" | preface-only; body has **≈ 0 systematic instances** (the 17 inline " L." occurrences are mostly Linnaean botanical attributions) |
 | 1891 | **Cappeller** | `*` for "*a word taught only by grammarians or lexicographers*" — first systematic *typographic* implementation; semantically the exact analogue of MW's `<ls>L.</ls>` | typographic, **1,370 instances** |
 | 1899 | **MW (2nd edn)** | `<ls>L.</ls>` — first systematic *tagged* implementation; with Cappeller as co-editor, merging MW's 1872 conceptual declaration with Cappeller's 1891 systematic discipline | tagged, **40,212 instances** |
