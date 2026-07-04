@@ -77,6 +77,13 @@ it bounds the central claim: this is **lemma-now** evidence; sense-level
 verification (does the corpus attest *the hedged sense*?) needs sense-tagged data
 and is deferred (the *sense-next* step, shared with P6 and the crosswalk).
 
+> 🟡 **Sense-next prep built 04-07-2026** ([sense_verify/](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/p3_citation_registers/sense_verify/README.md)):
+> a deterministic 80-sense sample (60 band-3 `L.`-hedged + 20 text-cited
+> controls) with MW entry text and DCS-2026 contexts, packaged as an
+> interactive verification sheet. **The band-3 hand-verify itself remains the
+> open human gate**; its output (`SENSE_VERIFY_RESULTS.md`) will supply the
+> sense-level figure with a built-in method ceiling.
+
 ## Proposed placement in P3
 
 A single section — *"The corpus test: evidentiary status within the European

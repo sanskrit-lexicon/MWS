@@ -1,0 +1,3869 @@
+[
+ {
+  "id": "H001",
+  "stratum": "hedge",
+  "k1_slp1": "tApyaka",
+  "mw_L_ids": [
+   "83980"
+  ],
+  "mw_pc": [
+   "442,3"
+  ],
+  "mw_entry_raw": "<s>tApyaka</s> ¦ <lex>n.</lex> = <s>˚pI-samudBava</s>, <ls>L.</ls><info lex=\"n\"/>",
+  "mw_entry_plain": "tApyaka n. = ˚pI-samudBava, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 14,
+  "dcs_occurrences": [
+   {
+    "form": "tāpyaka",
+    "dcs_lemma": "tāpyaka",
+    "sentence": "punaḥ śulbābhrakamākṣīkaṃ punaḥ kāntābhrakamākṣīkaṃ kāntaṃ kāntapāṣāṇaṃ abhrakaṃ gaganaṃ mākṣīkaṃ tāpyaṃ tathā tāpyakaśulbābhrakaṃ etadapi ca mahābījaṃ jñeyamiti",
+    "ref": "MuA zu RHT, 13, 2.2",
+    "text": "Mugdhāvabodhinī"
+   },
+   {
+    "form": "tāpyaka",
+    "dcs_lemma": "tāpyaka",
+    "sentence": "kāntābhrakamākṣīkaṃ tāpyakaśulbābhrakaṃ mahābījam",
+    "ref": "RHT, 13",
+    "text": "Rasahṛdayatantra"
+   },
+   {
+    "form": "tāpyakaṃ",
+    "dcs_lemma": "tāpyaka",
+    "sentence": "abhrasatvabhasitaṃ samāṃśakaṃ turyabhāgamiha tāpyakaṃ bhavet",
+    "ref": "RPSudh, 7",
+    "text": "Rasaprakāśasudhākara"
+   },
+   {
+    "form": "tāpyakaṃ",
+    "dcs_lemma": "tāpyaka",
+    "sentence": "tāpyakaṃ svedayetpaścāllohapātre pramardayet",
+    "ref": "RPSudh, 11",
+    "text": "Rasaprakāśasudhākara"
+   }
+  ]
+ },
+ {
+  "id": "H002",
+  "stratum": "hedge",
+  "k1_slp1": "asveda",
+  "mw_L_ids": [
+   "21625",
+   "21626"
+  ],
+  "mw_pc": [
+   "124,1",
+   "124,1"
+  ],
+  "mw_entry_raw": "<s>a-sveda</s> ¦ <lex>mfn.</lex> not perspiring, <ls>L.</ls><info lex=\"m:f:n\"/>\n---\n<s>a-sveda</s> ¦ <lex>m.</lex> suppressed perspiration, <ls>L.</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "a-sveda mfn. not perspiring, L. || a-sveda m. suppressed perspiration, L.",
+  "ls_citations": [
+   "L.",
+   "L."
+  ],
+  "dcs2026_tokens": 17,
+  "dcs_occurrences": [
+   {
+    "form": "asveda",
+    "dcs_lemma": "asveda",
+    "sentence": "śauryam āśukriyā tīkṣṇaṃ śastram asvedavepathū",
+    "ref": "AHS, Sū., 29",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "asveda",
+    "dcs_lemma": "asveda",
+    "sentence": "prasekārocakāśraddhāvipākāsvedajāgarāḥ",
+    "ref": "AHS, Nidānasthāna, 2",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "asveda",
+    "dcs_lemma": "asveda",
+    "sentence": "atiślakṣṇakharasparśakhedāsvedavivarṇatāḥ",
+    "ref": "AHS, Nidānasthāna, 14",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "asvedaṃ",
+    "dcs_lemma": "asveda",
+    "sentence": "asvedaṃ matsyaśakalasaṃnibhaṃ kiṭibhaṃ punaḥ",
+    "ref": "AHS, Nidānasthāna, 14",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   }
+  ]
+ },
+ {
+  "id": "H003",
+  "stratum": "hedge",
+  "k1_slp1": "sUkzmElA",
+  "mw_L_ids": [
+   "250986"
+  ],
+  "mw_pc": [
+   "1241,1"
+  ],
+  "mw_entry_raw": "<s>sUkzmE<srs/>lA</s> ¦ <lex>f.</lex> small cardamoms, <ls>L.</ls><info lex=\"f\"/>",
+  "mw_entry_plain": "sUkzmElA f. small cardamoms, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 19,
+  "dcs_occurrences": [
+   {
+    "form": "sūkṣmailāṃ",
+    "dcs_lemma": "sūkṣmailā",
+    "sentence": "piben madyena sūkṣmailāṃ dhātrīphalarasena vā",
+    "ref": "AHS, Cikitsitasthāna, 11",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "sūkṣmailā",
+    "dcs_lemma": "sūkṣmailā",
+    "sentence": "spṛkkānatanakhakaṭphalasūkṣmailādhyāmakaiḥ sapattaṅgaiḥ",
+    "ref": "AHS, Utt., 22",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "sūkṣmailā",
+    "dcs_lemma": "sūkṣmailā",
+    "sentence": "rāsnāsthirātāmalakīsūkṣmailāśaṭhipauṣkaraiḥ",
+    "ref": "AHS, Utt., 24",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "sūkṣmailā",
+    "dcs_lemma": "sūkṣmailā",
+    "sentence": "elā tu drāviḍī tutthā sūkṣmailā bahulā truṭiḥ",
+    "ref": "AṣṭNigh, 1",
+    "text": "Aṣṭāṅganighaṇṭu"
+   }
+  ]
+ },
+ {
+  "id": "H004",
+  "stratum": "hedge",
+  "k1_slp1": "yaSomatI",
+  "mw_L_ids": [
+   "170935"
+  ],
+  "mw_pc": [
+   "848,3"
+  ],
+  "mw_entry_raw": "<s>yaSo—matI</s> ¦ <lex>f.</lex> <ab>N.</ab> of the third lunar night, <ls>L.</ls><info lex=\"f\"/>",
+  "mw_entry_plain": "yaSo—matI f. N. of the third lunar night, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 22,
+  "dcs_occurrences": [
+   {
+    "form": "yaśomatī",
+    "dcs_lemma": "yaśomatī",
+    "sentence": "atha siṃhasya senāpateḥ snuṣā yaśomatī nāma abhirūpā darśanīyā prāsādikā",
+    "ref": "AvŚat, 2",
+    "text": "Avadānaśataka"
+   },
+   {
+    "form": "yaśomatyāḥ",
+    "dcs_lemma": "yaśomatī",
+    "sentence": "tataḥ siṃhena senāpatinā yaśomatyāḥ prasādābhivṛddhyarthaṃ prabhūtaṃ hiraṇyasuvarṇaṃ ratnāni ca dattāni",
+    "ref": "AvŚat, 2",
+    "text": "Avadānaśataka"
+   },
+   {
+    "form": "yaśomatyā",
+    "dcs_lemma": "yaśomatī",
+    "sentence": "tato yaśomatyā dārikayā bhagavān saśrāvakasaṃghaḥ śvo 'ntargṛhe bhaktenopanimantritaḥ",
+    "ref": "AvŚat, 2",
+    "text": "Avadānaśataka"
+   },
+   {
+    "form": "yaśomatī",
+    "dcs_lemma": "yaśomatī",
+    "sentence": "atha yaśomatī dārikā suvarṇamayāni puṣpāṇi kārayitvā rūpyamayāṇi ratnamayāni prabhūtagandhamālyavilepanasaṃgrahaṃ kṛtvā śatarasam āhāraṃ sajjīkṛtya bhagavato dūtena kālam ārocayati samayo bhadanta sajjaṃ bhaktaṃ yasyedānīṃ bhagavān kālaṃ manyata iti",
+    "ref": "AvŚat, 2",
+    "text": "Avadānaśataka"
+   }
+  ]
+ },
+ {
+  "id": "H005",
+  "stratum": "hedge",
+  "k1_slp1": "samuKa",
+  "mw_L_ids": [
+   "235039"
+  ],
+  "mw_pc": [
+   "1165,2"
+  ],
+  "mw_entry_raw": "<s>sa-muKa</s> ¦ <lex>mfn.</lex> ‘mouthy’, talkative, loquacious, eloquent, <ls>L.</ls><info lex=\"m:f:n\"/>",
+  "mw_entry_plain": "sa-muKa mfn. ‘mouthy’, talkative, loquacious, eloquent, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 78,
+  "dcs_occurrences": [
+   {
+    "form": "samukho",
+    "dcs_lemma": "samukha",
+    "sentence": "samukho vāvadūko 'tha vado vaktā vadāvadaḥ",
+    "ref": "AbhCint, 3",
+    "text": "Abhidhānacintāmaṇi"
+   },
+   {
+    "form": "samukhāḥ",
+    "dcs_lemma": "samukha",
+    "sentence": "ete ke saṃdhānavāsanauṣadhinirmukhasamukhā eva mahāyogāḥ mahaddravyatvakārakāḥ saṃdhānaṃ sarvadhānyānām aṣṭauṣadhyādīnāṃ ca saṃdhānaṃ yathā sarvadhānyāni nikṣipya āranālaṃ tu kārayet",
+    "ref": "MuA zu RHT, 3, 4.2",
+    "text": "Mugdhāvabodhinī"
+   },
+   {
+    "form": "samukhāḥ",
+    "dcs_lemma": "samukha",
+    "sentence": "saṃdhānaṃ ca vāsanauṣadhayaśca tābhiḥ kṛtvā ye nirmukhasamukhā eva yogāḥ akṛtamukhakṛtamukhā ityarthaḥ",
+    "ref": "MuA zu RHT, 3, 4.2",
+    "text": "Mugdhāvabodhinī"
+   },
+   {
+    "form": "samukha",
+    "dcs_lemma": "samukha",
+    "sentence": "samukhacāraṇamāha sarjītyādi",
+    "ref": "MuA zu RHT, 3, 9.2",
+    "text": "Mugdhāvabodhinī"
+   }
+  ]
+ },
+ {
+  "id": "H006",
+  "stratum": "hedge",
+  "k1_slp1": "nigala",
+  "mw_L_ids": [
+   "108074"
+  ],
+  "mw_pc": [
+   "545,3"
+  ],
+  "mw_entry_raw": "<s>ni-gala</s> ¦ <lex>m.</lex> <lex type=\"hw\">n.</lex> = <s>ni-gaqa</s> above, <ls>L.</ls><info lex=\"m:n\"/>",
+  "mw_entry_plain": "ni-gala m. n. = ni-gaqa above, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 38,
+  "dcs_occurrences": [
+   {
+    "form": "nigalānām",
+    "dcs_lemma": "nigala",
+    "sentence": "aśva mūtreṇa saṃsṛṣṭāḥ nigalānām tu bhañjanam",
+    "ref": "ArthaŚ, 14, 2",
+    "text": "Arthaśāstra"
+   },
+   {
+    "form": "nigala",
+    "dcs_lemma": "nigala",
+    "sentence": "amutrāsanyavanāḥ te māmuddhṛtya rāmeṣunāmne nāvikanāyakāya kathitavantaḥ ko 'pyayam āyasanigalabaddha eva jale labdhaḥ puruṣaḥ",
+    "ref": "DKCar, 2, 6",
+    "text": "Daśakumāracarita"
+   },
+   {
+    "form": "nigala",
+    "dcs_lemma": "nigala",
+    "sentence": "tānahamagatīnavasīdataḥ samāśvāsyālapiṣam apanayata me nigalabandhanam",
+    "ref": "DKCar, 2, 6",
+    "text": "Daśakumāracarita"
+   },
+   {
+    "form": "nigalaḥ",
+    "dcs_lemma": "nigala",
+    "sentence": "tataḥ sakhījanenātidakṣiṇena dṛḍhatarīkṛtasnehanigalastayā saṃnatāṅgyā saṃgatyāraṃsi",
+    "ref": "DKCar, 2, 7",
+    "text": "Daśakumāracarita"
+   }
+  ]
+ },
+ {
+  "id": "H007",
+  "stratum": "hedge",
+  "k1_slp1": "amalA",
+  "mw_L_ids": [
+   "13983",
+   "13984",
+   "13985",
+   "13986"
+  ],
+  "mw_pc": [
+   "81,1",
+   "81,1",
+   "81,1",
+   "81,1"
+  ],
+  "mw_entry_raw": "<s>a-malA</s> ¦ <lex>f.</lex> <ab>N.</ab> of the goddess <s1>Lakṣmī</s1>, <ls>L.</ls><info lex=\"f\"/>\n---\n¦ (<s>amarA</s>, <ab>q.v.</ab>) the umbilical cord, <ls>L.</ls><info lex=\"inh\"/>\n---\n¦ the tree <bot>Emblica Officinalis Gaertn.</bot>, <ls>L.</ls><info lex=\"inh\"/>\n---\n¦ the plant <s1>Saptalā</s1>, <ls>L.</ls><info lex=\"inh\"/>",
+  "mw_entry_plain": "a-malA f. N. of the goddess Lakṣmī, L. || (amarA, q.v.) the umbilical cord, L. || the tree Emblica Officinalis Gaertn., L. || the plant Saptalā, L.",
+  "ls_citations": [
+   "L.",
+   "L.",
+   "L.",
+   "L."
+  ],
+  "dcs2026_tokens": 10,
+  "dcs_occurrences": [
+   {
+    "form": "amalayā",
+    "dcs_lemma": "amalā",
+    "sentence": "manaḥ svabuddhyāmalayā niyamya kṣetrajña etāṃ ninayet tam ātmani",
+    "ref": "BhāgPur, 2, 2",
+    "text": "Bhāgavatapurāṇa"
+   },
+   {
+    "form": "amalā",
+    "dcs_lemma": "amalā",
+    "sentence": "sātalā saptalā sārī vidulā vimalāmalā",
+    "ref": "DhanvNigh, 1",
+    "text": "Dhanvantarinighaṇṭu"
+   },
+   {
+    "form": "amalā",
+    "dcs_lemma": "amalā",
+    "sentence": "atha yaddhāvakṣyad ṛcā ca sāmnā cāgāmeti dhītena vai tad yātayāmnāmalākāṇḍenāgāteti haināṃs tad avakṣyat",
+    "ref": "JUB, 1, 38",
+    "text": "Jaiminīya-Upaniṣad-Brāhmaṇa"
+   },
+   {
+    "form": "amalā",
+    "dcs_lemma": "amalā",
+    "sentence": "yavīyasī svasā teṣāmamalā brahmavādinī",
+    "ref": "LiPur, 1, 63",
+    "text": "Liṅgapurāṇa"
+   }
+  ]
+ },
+ {
+  "id": "H008",
+  "stratum": "hedge",
+  "k1_slp1": "aR",
+  "mw_L_ids": [
+   "2390"
+  ],
+  "mw_pc": [
+   "11,3"
+  ],
+  "mw_entry_raw": "<s>aR</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> <s>aRati</s>, <s>ARa</s>, <s>aRitum</s>, to sound, <ls>L.</ls> : <ab>cl.</ab> 4. <ab>Ā.</ab> <s>aRyate</s>, to breathe, (another form of √ <s>an</s>, <ab>q.v.</ab>; in this sense regarded in the <s1>Dhātu-pāṭha</s1> as a distinct root), <ls>L.</ls><info verb=\"genuineroot\" cp=\"1P,4Ā\"/>",
+  "mw_entry_plain": "aR cl. 1. P. aRati, ARa, aRitum, to sound, L. : cl. 4. Ā. aRyate, to breathe, (another form of √ an, q.v.; in this sense regarded in the Dhātu-pāṭha as a distinct root), L.",
+  "ls_citations": [
+   "L.",
+   "L."
+  ],
+  "dcs2026_tokens": 61,
+  "dcs_occurrences": [
+   {
+    "form": "aṇ",
+    "dcs_lemma": "aṇ",
+    "sentence": "ṇyakṣatriyārṣañito yūni lug aṇiñoḥ",
+    "ref": "Aṣṭādhyāyī, 2, 4",
+    "text": "Aṣṭādhyāyī"
+   },
+   {
+    "form": "aṇ",
+    "dcs_lemma": "aṇ",
+    "sentence": "karmaṇy aṇ",
+    "ref": "Aṣṭādhyāyī, 3, 2",
+    "text": "Aṣṭādhyāyī"
+   },
+   {
+    "form": "'ṇ",
+    "dcs_lemma": "aṇ",
+    "sentence": "kṣemapriyamadre 'ṇ ca",
+    "ref": "Aṣṭādhyāyī, 3, 2",
+    "text": "Aṣṭādhyāyī"
+   },
+   {
+    "form": "aṇ",
+    "dcs_lemma": "aṇ",
+    "sentence": "aṇ karmaṇi ca",
+    "ref": "Aṣṭādhyāyī, 3, 3",
+    "text": "Aṣṭādhyāyī"
+   }
+  ]
+ },
+ {
+  "id": "H009",
+  "stratum": "hedge",
+  "k1_slp1": "kAntaloha",
+  "mw_L_ids": [
+   "47745"
+  ],
+  "mw_pc": [
+   "270,3"
+  ],
+  "mw_entry_raw": "<s>kAnta—loha</s> ¦ <lex>n.</lex> the loadstone, <ls>L.</ls><info lex=\"n\"/>",
+  "mw_entry_plain": "kAnta—loha n. the loadstone, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 58,
+  "dcs_occurrences": [
+   {
+    "form": "kāntalohaṃ",
+    "dcs_lemma": "kāntaloha",
+    "sentence": "taptaṃ dugdhaṃ bhavati śikharākārakaṃ naiti bhūmikṛṣṇāṅgaḥ syātsajalacaṇakaḥ kāntalohaṃ taduktam",
+    "ref": "BhPr, 6, 8",
+    "text": "Bhāvaprakāśa"
+   },
+   {
+    "form": "kāntalohaṃ",
+    "dcs_lemma": "kāntaloha",
+    "sentence": "sarvān rogān vijayate kāntalohaṃ na saṃśayaḥ",
+    "ref": "BhPr, 6, 8",
+    "text": "Bhāvaprakāśa"
+   },
+   {
+    "form": "kāntalohaṃ",
+    "dcs_lemma": "kāntaloha",
+    "sentence": "āraḥ pittaliḥ nāgaḥ sīsakaḥ hema svarṇaṃ vaṅgaṃ raṅgaṃ tīkṣṇaṃ tīkṣṇalohaṃ kāntalohaṃ vṛttaloham",
+    "ref": "ŚGDīp zu ŚdhSaṃh, 2, 12, 4.1",
+    "text": "Gūḍhārthadīpikā"
+   },
+   {
+    "form": "kāntalohaṃ",
+    "dcs_lemma": "kāntaloha",
+    "sentence": "bhasmasūtaṃ mṛtaṃ kāntalohaṃ muṇḍo'pi lohaviśeṣaḥ",
+    "ref": "ŚGDīp zu ŚdhSaṃh, 2, 12, 207.2",
+    "text": "Gūḍhārthadīpikā"
+   }
+  ]
+ },
+ {
+  "id": "H010",
+  "stratum": "hedge",
+  "k1_slp1": "GoRwA",
+  "mw_L_ids": [
+   "70163",
+   "70164"
+  ],
+  "mw_pc": [
+   "379,2",
+   "379,2"
+  ],
+  "mw_entry_raw": "<s>GoRwA</s> ¦ <lex>f.</lex> a kind of jujube, <ls>L.</ls><info lex=\"f\"/>\n---\n¦ the betel-nut tree, <ls>L.</ls><info lex=\"inh\"/>",
+  "mw_entry_plain": "GoRwA f. a kind of jujube, L. || the betel-nut tree, L.",
+  "ls_citations": [
+   "L.",
+   "L."
+  ],
+  "dcs2026_tokens": 10,
+  "dcs_occurrences": [
+   {
+    "form": "ghoṇṭā",
+    "dcs_lemma": "ghoṇṭā",
+    "sentence": "sauvīraṃ badaraṃ ghoṇṭāpyatha syātsvādukaṇṭakaḥ",
+    "ref": "AKośa, 2",
+    "text": "Amarakośa"
+   },
+   {
+    "form": "ghoṇṭā",
+    "dcs_lemma": "ghoṇṭā",
+    "sentence": "ghoṇṭā tu pūgaḥ kramuko guvākaḥ khapuro 'sya tu",
+    "ref": "AKośa, 2",
+    "text": "Amarakośa"
+   },
+   {
+    "form": "ghoṇṭāḥ",
+    "dcs_lemma": "ghoṇṭā",
+    "sentence": "bhūnimbasairyakapaṭolakarañjayugmasaptacchadāgnisuṣavīphalabāṇaghoṇṭāḥ",
+    "ref": "AHS, Sū., 15",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "ghoṇṭā",
+    "dcs_lemma": "ghoṇṭā",
+    "sentence": "sāmudrasauvarcalasindhujanmasupakvaghoṇṭāphalaveśmadhūmāḥ",
+    "ref": "AHS, Utt., 30",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   }
+  ]
+ },
+ {
+  "id": "H011",
+  "stratum": "hedge",
+  "k1_slp1": "matsyAkzI",
+  "mw_L_ids": [
+   "155157",
+   "155158",
+   "155159",
+   "155160"
+  ],
+  "mw_pc": [
+   "776,3",
+   "776,3",
+   "776,3",
+   "776,3"
+  ],
+  "mw_entry_raw": "<s>matsyA<srs/>kzI</s> ¦ <lex>f.</lex> = <ab>prec.</ab> <lex type=\"nhw\">m.</lex>, <ls>L.</ls><info lex=\"f\"/>\n---\n¦ <bot>Hingcha Repens</bot>, <ls>L.</ls><info lex=\"inh\"/>\n---\n¦ <bot>Solanum Indicum</bot>, <ls>L.</ls><info lex=\"inh\"/>\n---\n¦ a kind of grass (= <s>gaRqa-dUrvA</s>), <ls>L.</ls><info lex=\"inh\"/>",
+  "mw_entry_plain": "matsyAkzI f. = prec. m., L. || Hingcha Repens, L. || Solanum Indicum, L. || a kind of grass (= gaRqa-dUrvA), L.",
+  "ls_citations": [
+   "L.",
+   "L.",
+   "L.",
+   "L."
+  ],
+  "dcs2026_tokens": 48,
+  "dcs_occurrences": [
+   {
+    "form": "matsyākṣī",
+    "dcs_lemma": "matsyākṣī",
+    "sentence": "juṅgo brāhmī tu matsyākṣī vayaḥsthā somavallarī",
+    "ref": "AKośa, 2",
+    "text": "Amarakośa"
+   },
+   {
+    "form": "matsyākṣī",
+    "dcs_lemma": "matsyākṣī",
+    "sentence": "matsyākṣī bāhlikā matsyagandhir matsyādanī tathā",
+    "ref": "MPālNigh, Abhayādivarga",
+    "text": "Madanapālanighaṇṭu"
+   },
+   {
+    "form": "matsyākṣī",
+    "dcs_lemma": "matsyākṣī",
+    "sentence": "matsyākṣī grāhiṇī tiktā kuṣṭhapittakaphāsranut",
+    "ref": "MPālNigh, Abhayādivarga",
+    "text": "Madanapālanighaṇṭu"
+   },
+   {
+    "form": "matsyākṣī",
+    "dcs_lemma": "matsyākṣī",
+    "sentence": "matsyākṣītriphalārasena puṭayedyāvannirutthaṃ bhavet paścādājyamadhuplutaṃ supuṭitaṃ bhasma bhaved āyasam",
+    "ref": "RMañj, 5",
+    "text": "Rasamañjarī"
+   }
+  ]
+ },
+ {
+  "id": "H012",
+  "stratum": "hedge",
+  "k1_slp1": "maRqUra",
+  "mw_L_ids": [
+   "155041"
+  ],
+  "mw_pc": [
+   "776,2"
+  ],
+  "mw_entry_raw": "<s>maRqUra</s> ¦ <lex>n.</lex> rust of iron, <ls>L.</ls><info lex=\"n\"/>",
+  "mw_entry_plain": "maRqUra n. rust of iron, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 39,
+  "dcs_occurrences": [
+   {
+    "form": "maṇḍūra",
+    "dcs_lemma": "maṇḍūra",
+    "sentence": "guḍanāgaramaṇḍūratilāṃśān mānataḥ samān",
+    "ref": "AHS, Cikitsitasthāna, 16",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "maṇḍūraṃ",
+    "dcs_lemma": "maṇḍūra",
+    "sentence": "maṇḍūraṃ cāñjananibhaṃ sarvato 'ṣṭaguṇe 'tha tat",
+    "ref": "AHS, Cikitsitasthāna, 16",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "maṇḍūram",
+    "dcs_lemma": "maṇḍūra",
+    "sentence": "dhmāyamānasya lohasya malaṃ maṇḍūramucyate",
+    "ref": "BhPr, 6, 8",
+    "text": "Bhāvaprakāśa"
+   },
+   {
+    "form": "maṇḍūraṃ",
+    "dcs_lemma": "maṇḍūra",
+    "sentence": "lohocchiṣṭaṃ ca maṇḍūraṃ kiṭṭaṃ caiva malodbhavam",
+    "ref": "DhanvNigh, 6",
+    "text": "Dhanvantarinighaṇṭu"
+   }
+  ]
+ },
+ {
+  "id": "H013",
+  "stratum": "hedge",
+  "k1_slp1": "kzIrakanda",
+  "mw_L_ids": [
+   "59672"
+  ],
+  "mw_pc": [
+   "329,3"
+  ],
+  "mw_entry_raw": "<s>kzIra—kanda</s> ¦ <lex>m.</lex> <bot>Batatus paniculata</bot>, <ls>L.</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "kzIra—kanda m. Batatus paniculata, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 40,
+  "dcs_occurrences": [
+   {
+    "form": "kṣīrakandā",
+    "dcs_lemma": "kṣīrakanda",
+    "sentence": "kṣīravallī kṣīrakandā kṣīraśuklā payasvinī",
+    "ref": "DhanvNigh, 1",
+    "text": "Dhanvantarinighaṇṭu"
+   },
+   {
+    "form": "kṣīrakandau",
+    "dcs_lemma": "kṣīrakanda",
+    "sentence": "snuhyarkakaravīraṃ ca lāṅgalīkṣīrakandau",
+    "ref": "MuA zu RHT, 3, 3.2",
+    "text": "Mugdhāvabodhinī"
+   },
+   {
+    "form": "kṣīrakandā",
+    "dcs_lemma": "kṣīrakanda",
+    "sentence": "kṣīraśuklā kṣīrakandā kṣīravallī payasvinī",
+    "ref": "NighŚeṣa, 1",
+    "text": "Nighaṇṭuśeṣa"
+   },
+   {
+    "form": "kṣīrakando",
+    "dcs_lemma": "kṣīrakanda",
+    "sentence": "kośātakī kṣīrakando vaṃdhyākarkoṭakī tathā",
+    "ref": "RPSudh, 5",
+    "text": "Rasaprakāśasudhākara"
+   }
+  ]
+ },
+ {
+  "id": "H014",
+  "stratum": "hedge",
+  "k1_slp1": "bIjavara",
+  "mw_L_ids": [
+   "145457"
+  ],
+  "mw_pc": [
+   "732,3"
+  ],
+  "mw_entry_raw": "<s>bIja—vara</s> ¦ <lex>m.</lex> ‘best of grains’, <bot>Phaseolus Radiatus</bot>, <ls>L.</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "bIja—vara m. ‘best of grains’, Phaseolus Radiatus, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 18,
+  "dcs_occurrences": [
+   {
+    "form": "bījavaraṃ",
+    "dcs_lemma": "bījavara",
+    "sentence": "varanāgaṃ śreṣṭhajāti sīsakaṃ jāraṇayogyaṃ rasarājaṃ uktasaṃskāraiḥ saṃskṛtaṃ pāradaṃ bījavaraṃ hemabījaṃ etattrayaṃ sāritaṃ militaṃ kāryaṃ punargandhakaśilālasahitaṃ gandhakaṃ pratītaṃ śilā manaḥśilā ālaṃ haritālaṃ dvandvastāni taiḥ sahitaṃ ca kāryaṃ etat sarvaṣaṭkaṃ dīpavartitaḥ prajvālitadīpavartiyogāt nirnāgaṃ nāgavarjitaṃ bhavati nāgaṃ jaratītyarthaḥ",
+    "ref": "MuA zu RHT, 5, 38.2",
+    "text": "Mugdhāvabodhinī"
+   },
+   {
+    "form": "bījavaraṃ",
+    "dcs_lemma": "bījavara",
+    "sentence": "paścātsūtaṃ śuddhaṃ kṛtvā pāradaṃ nirnāgaṃ vidhāya tadanu nāgajāraṇānantaraṃ bījavaraṃ pūrvoktaṃ yojayet",
+    "ref": "MuA zu RHT, 5, 41.2",
+    "text": "Mugdhāvabodhinī"
+   },
+   {
+    "form": "bījavareṇa",
+    "dcs_lemma": "bījavara",
+    "sentence": "bījavareṇaiva pūrvakanakabījenaiva sāritaṃ militaṃ sat piṣṭīstambhaṃ khoṭastambhaṃ kṛtvā tadanu tatpaścāt athaveti prakārāntaraṃ darśayati tu punaḥ baddharasena khoṭabaddharasena sahitaṃ surañjitaṃ śobhanavidhānena varṇavṛddhīkṛtaṃ bījaṃ svarṇabījaṃ saṃyutaṃ kuryāt yoga eva kārya iti dvividhānam uktam",
+    "ref": "MuA zu RHT, 5, 46.2",
+    "text": "Mugdhāvabodhinī"
+   },
+   {
+    "form": "bījavara",
+    "dcs_lemma": "bījavara",
+    "sentence": "bījavaravidhānamāha patrābhrakam ityādi",
+    "ref": "MuA zu RHT, 5, 49.2",
+    "text": "Mugdhāvabodhinī"
+   }
+  ]
+ },
+ {
+  "id": "H015",
+  "stratum": "hedge",
+  "k1_slp1": "pItadru",
+  "mw_L_ids": [
+   "124778"
+  ],
+  "mw_pc": [
+   "629,3"
+  ],
+  "mw_entry_raw": "<s>pIta—dru</s> ¦ <lex>m.</lex> <bot>Pinus Longifolia</bot> or <bot>Curcuma Aromatica</bot>, <ls>L.</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "pIta—dru m. Pinus Longifolia or Curcuma Aromatica, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 11,
+  "dcs_occurrences": [
+   {
+    "form": "pītadruḥ",
+    "dcs_lemma": "pītadru",
+    "sentence": "pītadruḥ saralaḥ pūtikāṣṭhaṃ cātha drumotpalaḥ",
+    "ref": "AKośa, 2",
+    "text": "Amarakośa"
+   },
+   {
+    "form": "pītadru",
+    "dcs_lemma": "pītadru",
+    "sentence": "aheruratha pītadrukālīyakaharidravaḥ",
+    "ref": "AKośa, 2",
+    "text": "Amarakośa"
+   },
+   {
+    "form": "pītadru",
+    "dcs_lemma": "pītadru",
+    "sentence": "kvāthaṃ tathābhayāśuṇṭhīmādrīpītadrukaṭphalāt",
+    "ref": "AHS, Cikitsitasthāna, 6",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "pītadru",
+    "dcs_lemma": "pītadru",
+    "sentence": "snigdhāmlalavaṇoṣṇais taṃ rāsnāpītadrutailikaiḥ",
+    "ref": "AHS, Kalpasiddhisthāna, 5",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   }
+  ]
+ },
+ {
+  "id": "H016",
+  "stratum": "hedge",
+  "k1_slp1": "nizkAsana",
+  "mw_L_ids": [
+   "110813"
+  ],
+  "mw_pc": [
+   "562,2"
+  ],
+  "mw_entry_raw": "<s>niz-˚kAsana</s> ¦ <lex>n.</lex> driving away, <ls>L.</ls><info lex=\"n\"/>",
+  "mw_entry_plain": "niz-˚kAsana n. driving away, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 11,
+  "dcs_occurrences": [
+   {
+    "form": "niṣkāsanam",
+    "dcs_lemma": "niṣkāsana",
+    "sentence": "granthāntare lohapātre niṣkāsanamuktam",
+    "ref": "ŚGDīp zu ŚdhSaṃh, 2, 11, 93.2",
+    "text": "Gūḍhārthadīpikā"
+   },
+   {
+    "form": "niṣkāsanam",
+    "dcs_lemma": "niṣkāsana",
+    "sentence": "atha daradāt pāradānniṣkāsanam",
+    "ref": "ŚGDīp zu ŚdhSaṃh, 2, 12, 17.2",
+    "text": "Gūḍhārthadīpikā"
+   },
+   {
+    "form": "niṣkāsana",
+    "dcs_lemma": "niṣkāsana",
+    "sentence": "niṣkāsanaprakārāḥ",
+    "ref": "KāSū, 1, 1",
+    "text": "Kāmasūtra"
+   },
+   {
+    "form": "niṣkāsanaṃ",
+    "dcs_lemma": "niṣkāsana",
+    "sentence": "tasya pīṭhamardādayo mātur dauḥśīlyena nāyikāyāḥ satyapyanurāge vivaśāyāḥ pūrvaṃ niṣkāsanaṃ varṇayeyuḥ",
+    "ref": "KāSū, 6, 4",
+    "text": "Kāmasūtra"
+   }
+  ]
+ },
+ {
+  "id": "H017",
+  "stratum": "hedge",
+  "k1_slp1": "SArNgezwA",
+  "mw_L_ids": [
+   "215888"
+  ],
+  "mw_pc": [
+   "1067,1"
+  ],
+  "mw_entry_raw": "<s>SArNgezwA</s> and <s>SArN˚gozWA</s>, ¦ <ab>v.l.</ab> for <ab>prec.</ab>, <ls>L.</ls>",
+  "mw_entry_plain": "SArNgezwA and SArN˚gozWA, v.l. for prec., L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 13,
+  "dcs_occurrences": [
+   {
+    "form": "śārṅgeṣṭā",
+    "dcs_lemma": "śārṅgeṣṭā",
+    "sentence": "saindhavavyoṣaśārṅgeṣṭāpāṭhāgirikadambakān",
+    "ref": "AHS, Utt., 2",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "śārṅgeṣṭā",
+    "dcs_lemma": "śārṅgeṣṭā",
+    "sentence": "vṛttatuṇḍā kākatiktā śārṅgeṣṭāṅgāravallikā",
+    "ref": "AṣṭNigh, 1",
+    "text": "Aṣṭāṅganighaṇṭu"
+   },
+   {
+    "form": "śārṅgeṣṭā",
+    "dcs_lemma": "śārṅgeṣṭā",
+    "sentence": "vṛṣapuṣpāṇi śārṅgeṣṭā kembūkaṃ sakaṭhillakam",
+    "ref": "Ca, Sū., 27",
+    "text": "Carakasaṃhitā"
+   },
+   {
+    "form": "śārṅgeṣṭā",
+    "dcs_lemma": "śārṅgeṣṭā",
+    "sentence": "tadyathā phalajīmūtakekṣvākudhāmārgavakuṭajakṛtavedhanaphalāni phalajīmūtakekṣvākudhāmārgavapatrapuṣpāṇi āragvadhavṛkṣakamadanasvādukaṇṭakāpāṭhāpāṭalāśārṅgeṣṭāmūrvāsaptaparṇanaktamālapicumardapaṭolasuṣavīguḍūcīcitrakasomavalkaśatāvarīdvīpīśigrumūlakaṣāyaiḥ madhukamadhūkakovidārakarbudāranīpavidulabimbīśaṇapuṣpīsadāpuṣpāpratyakpuṣpākaṣāyaiśca elāhareṇupriyaṅgupṛthvīkākustumburutagaranaladahrīveratālīśośīrakaṣāyaiśca ikṣukāṇḍekṣvikṣuvālikādarbhapoṭagalakālaṅkṛtakaṣāyaiśca sumanāsaumanasyāyanīharidrādāruharidrāvṛścīrapunarnavāmahāsahākṣudrasahākaṣāyaiśca śālmaliśālmalikabhadraparṇyelāparṇyupodikoddālakadhanvanarājādanopacitrāgopīśṛṅgāṭikākaṣāyaiśca pippalīpippalīmūlacavyacitrakaśṛṅgaverasarṣapaphāṇitakṣīrakṣāralavaṇodakaiśca yathālābhaṃ yatheṣṭaṃ vāpyupasaṃskṛtya vartikriyācūrṇāvalehasnehakaṣāyamāṃsarasayavāgūyūṣakāmbalikakṣīropadheyān modakān anyāṃśca bhakṣyaprakārān vividhānanuvidhāya yathārhaṃ vamanārhāya dadyādvidhivadvamanam",
+    "ref": "Ca, Vim., 8",
+    "text": "Carakasaṃhitā"
+   }
+  ]
+ },
+ {
+  "id": "H018",
+  "stratum": "hedge",
+  "k1_slp1": "kuddAla",
+  "mw_L_ids": [
+   "52057",
+   "52058"
+  ],
+  "mw_pc": [
+   "290,3",
+   "290,3"
+  ],
+  "mw_entry_raw": "<s>kuddAla</s> ¦ <lex>m.</lex> <ab>id.</ab>, <ls>L.</ls><info lex=\"m\"/>\n---\n<s>kuddAla</s> ¦ <lex>m.</lex> <lex>n.</lex> a kind of spade or hoe, <ls>L.</ls><info lex=\"m:n\"/>",
+  "mw_entry_plain": "kuddAla m. id., L. || kuddAla m. n. a kind of spade or hoe, L.",
+  "ls_citations": [
+   "L.",
+   "L."
+  ],
+  "dcs2026_tokens": 21,
+  "dcs_occurrences": [
+   {
+    "form": "kuddālaḥ",
+    "dcs_lemma": "kuddāla",
+    "sentence": "abhriḥ strī kāṣṭhakuddālaḥ sekapātraṃ tu secanam",
+    "ref": "AKośa, 1",
+    "text": "Amarakośa"
+   },
+   {
+    "form": "kuddālo",
+    "dcs_lemma": "kuddāla",
+    "sentence": "kovidāre camarikaḥ kuddālo yugapattrakaḥ",
+    "ref": "AKośa, 2",
+    "text": "Amarakośa"
+   },
+   {
+    "form": "kuddālāḥ",
+    "dcs_lemma": "kuddāla",
+    "sentence": "tāsu pāṣāṇa kuddālāḥ kuṭhārī kāṇḍa kalpanāḥ muṣuṇḍhī mudgarāḥ daṇḍāḥ cakrayantra śataghnyaḥ kāryāḥ kārmārikāḥ śūlāḥ vedhana agrāḥ ca veṇavaḥ uṣṭragrīvyaḥ agni saṃyogāḥ kupya kalpe ca yaḥ vidhiḥ",
+    "ref": "ArthaŚ, 2, 3",
+    "text": "Arthaśāstra"
+   },
+   {
+    "form": "kuddāla",
+    "dcs_lemma": "kuddāla",
+    "sentence": "paraśukuṭhārapaṭṭasakhanitrakuddālakrakacakāṇḍacchedanāḥ kṣurakalpāḥ",
+    "ref": "ArthaŚ, 2, 18",
+    "text": "Arthaśāstra"
+   }
+  ]
+ },
+ {
+  "id": "H019",
+  "stratum": "hedge",
+  "k1_slp1": "rasavara",
+  "mw_L_ids": [
+   "175676"
+  ],
+  "mw_pc": [
+   "870,2"
+  ],
+  "mw_entry_raw": "<s>rasa—vara</s> ¦ <lex>m.</lex> = <s>-nAyaka</s>, <ls>L.</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "rasa—vara m. = -nAyaka, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 18,
+  "dcs_occurrences": [
+   {
+    "form": "rasavare",
+    "dcs_lemma": "rasavara",
+    "sentence": "baddhe rasavare sākṣātsparśanājjāyate ravaḥ",
+    "ref": "RPSudh, 1",
+    "text": "Rasaprakāśasudhākara"
+   },
+   {
+    "form": "rasavaraṃ",
+    "dcs_lemma": "rasavara",
+    "sentence": "śuddhaṃ rasavaraṃ samyak tathaivāmbarabhakṣitam",
+    "ref": "RPSudh, 2",
+    "text": "Rasaprakāśasudhākara"
+   },
+   {
+    "form": "rasavaraṃ",
+    "dcs_lemma": "rasavara",
+    "sentence": "rasavaraṃ daśaśāṇamitaṃ hi tatsaśukapicchavareṇa nidhāpayet",
+    "ref": "RPSudh, 3",
+    "text": "Rasaprakāśasudhākara"
+   },
+   {
+    "form": "rasavaraḥ",
+    "dcs_lemma": "rasavara",
+    "sentence": "śataguṇaṃ hi yadā parijīryate rasavaraḥ khalu hemakaro bhavet",
+    "ref": "RPSudh, 3",
+    "text": "Rasaprakāśasudhākara"
+   }
+  ]
+ },
+ {
+  "id": "H020",
+  "stratum": "hedge",
+  "k1_slp1": "bahuPalA",
+  "mw_L_ids": [
+   "143722"
+  ],
+  "mw_pc": [
+   "725,2"
+  ],
+  "mw_entry_raw": "<s>bahu—PalA</s> ¦ <lex>f.</lex> <ab>N.</ab> of various plants (<bot>Solanum Indicum</bot> or another variety of <bot>Solanum</bot>; <bot>Glycine Debilis</bot>; a species of <bot>Convolvulus Turpethum</bot>; various kinds of <bot>cucurbitaceous</bot> plants, <bot>Flacourtia Cataphracta</bot>), <ls>L.</ls><info lex=\"f\"/>",
+  "mw_entry_plain": "bahu—PalA f. N. of various plants (Solanum Indicum or another variety of Solanum; Glycine Debilis; a species of Convolvulus Turpethum; various kinds of cucurbitaceous plants, Flacourtia Cataphracta), L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 11,
+  "dcs_occurrences": [
+   {
+    "form": "bahuphalā",
+    "dcs_lemma": "bahuphalā",
+    "sentence": "kṣīrayuktā bahuphalā granthiyuktā ca pārvati",
+    "ref": "RArṇ, 12",
+    "text": "Rasārṇava"
+   },
+   {
+    "form": "bahuphalā",
+    "dcs_lemma": "bahuphalā",
+    "sentence": "ātmodbhavā bahuphalā svayambhūḥ sulabhā ghanā",
+    "ref": "RājNigh, Guḍ",
+    "text": "Rājanighaṇṭu"
+   },
+   {
+    "form": "bahuphalā",
+    "dcs_lemma": "bahuphalā",
+    "sentence": "putrapradā bahuphalā godhinīti ṣaḍāhvayā",
+    "ref": "RājNigh, Śat.",
+    "text": "Rājanighaṇṭu"
+   },
+   {
+    "form": "bahuphalā",
+    "dcs_lemma": "bahuphalā",
+    "sentence": "sarvatiktā bahuphalā kaṭphalā ca rasāyanī",
+    "ref": "RājNigh, Śat.",
+    "text": "Rājanighaṇṭu"
+   }
+  ]
+ },
+ {
+  "id": "H021",
+  "stratum": "hedge",
+  "k1_slp1": "halinI",
+  "mw_L_ids": [
+   "261814",
+   "261815"
+  ],
+  "mw_pc": [
+   "1293,1",
+   "1293,1"
+  ],
+  "mw_entry_raw": "<s>halinI</s> ¦ (<s>inI</s>), <lex>f.</lex> a number of ploughs, <ls>L.</ls><info lex=\"f\"/>\n---\n¦ <bot>Methonica Superba</bot>, <ls>L.</ls><info lex=\"inh\"/>",
+  "mw_entry_plain": "halinI (inI), f. a number of ploughs, L. || Methonica Superba, L.",
+  "ls_citations": [
+   "L.",
+   "L."
+  ],
+  "dcs2026_tokens": 11,
+  "dcs_occurrences": [
+   {
+    "form": "halinī",
+    "dcs_lemma": "halinī",
+    "sentence": "snukkṣīrapiṣṭaiḥ ṣaḍgranthāhalinīvāraṇāsthibhiḥ",
+    "ref": "AHS, Cikitsitasthāna, 8",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "halinī",
+    "dcs_lemma": "halinī",
+    "sentence": "viśalyā halinī vahmijihvā lāṅgalikā smṛtā",
+    "ref": "AṣṭNigh, 1",
+    "text": "Aṣṭāṅganighaṇṭu"
+   },
+   {
+    "form": "halinī",
+    "dcs_lemma": "halinī",
+    "sentence": "kurkurī halinī caiva bṛhatī vajrakandakam",
+    "ref": "MuA zu RHT, 3, 4.2",
+    "text": "Mugdhāvabodhinī"
+   },
+   {
+    "form": "halinī",
+    "dcs_lemma": "halinī",
+    "sentence": "alambuṣā ca halinī rasacitrā ca nandinī",
+    "ref": "RPSudh, 9",
+    "text": "Rasaprakāśasudhākara"
+   }
+  ]
+ },
+ {
+  "id": "H022",
+  "stratum": "hedge",
+  "k1_slp1": "AwarUza",
+  "mw_L_ids": [
+   "23240"
+  ],
+  "mw_pc": [
+   "133,3"
+  ],
+  "mw_entry_raw": "<s>AwarUza</s> or <s>Awaruza</s> ¦ <lex>m.</lex> = <s>aw˚</s>, <ab>q.v.</ab>, <ls>L.</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "AwarUza or Awaruza m. = aw˚, q.v., L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 15,
+  "dcs_occurrences": [
+   {
+    "form": "āṭarūṣam",
+    "dcs_lemma": "āṭarūṣa",
+    "sentence": "lākṣādantīmadhurasavarādvīpipāṭhāviḍaṅgapratyakpuṣpītrikaṭurajanīsaptaparṇāṭarūṣam",
+    "ref": "AHS, Cikitsitasthāna, 19",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "āṭarūṣaḥ",
+    "dcs_lemma": "āṭarūṣa",
+    "sentence": "āṭarūṣaḥ siṃhamukho bhiṣaṅmātāṭarūṣakaḥ",
+    "ref": "DhanvNigh, 1",
+    "text": "Dhanvantarinighaṇṭu"
+   },
+   {
+    "form": "āṭarūṣo",
+    "dcs_lemma": "āṭarūṣa",
+    "sentence": "āṭarūṣo himastiktaḥ pittaśleṣmāsrakāsajit",
+    "ref": "DhanvNigh, 1",
+    "text": "Dhanvantarinighaṇṭu"
+   },
+   {
+    "form": "āṭarūṣa",
+    "dcs_lemma": "āṭarūṣa",
+    "sentence": "mucukundaistathā kundairāṭarūṣaparūṣakaiḥ",
+    "ref": "MPur, 118",
+    "text": "Matsyapurāṇa"
+   }
+  ]
+ },
+ {
+  "id": "H023",
+  "stratum": "hedge",
+  "k1_slp1": "rasottama",
+  "mw_L_ids": [
+   "175804",
+   "175805",
+   "175806"
+  ],
+  "mw_pc": [
+   "870,3",
+   "870,3",
+   "870,3"
+  ],
+  "mw_entry_raw": "<s>raso<srs/>ttama</s> ¦ <lex>m.</lex> quicksilver, <ls>L.</ls><info lex=\"m\"/>\n---\n¦ <bot>Phaseolus Mungo</bot>, <ls>L.</ls><info lex=\"inh\"/>\n---\n¦ milk, <ls>L.</ls><info lex=\"inh\"/>",
+  "mw_entry_plain": "rasottama m. quicksilver, L. || Phaseolus Mungo, L. || milk, L.",
+  "ls_citations": [
+   "L.",
+   "L.",
+   "L."
+  ],
+  "dcs2026_tokens": 18,
+  "dcs_occurrences": [
+   {
+    "form": "rasottamaiḥ",
+    "dcs_lemma": "rasottama",
+    "sentence": "kālīyakalatāmrāsthihemakālārasottamaiḥ",
+    "ref": "AHS, Utt., 25",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "rasottamaḥ",
+    "dcs_lemma": "rasottama",
+    "sentence": "rasendraścapalaḥ sūto harayonī rasottamaḥ",
+    "ref": "AṣṭNigh, 1",
+    "text": "Aṣṭāṅganighaṇṭu"
+   },
+   {
+    "form": "rasottamam",
+    "dcs_lemma": "rasottama",
+    "sentence": "rasendraṃ capalaṃ sūtaṃ pāradīyaṃ rasottamam",
+    "ref": "DhanvNigh, 6",
+    "text": "Dhanvantarinighaṇṭu"
+   },
+   {
+    "form": "rasottamaḥ",
+    "dcs_lemma": "rasottama",
+    "sentence": "trilocano hemanidhiḥ śivaputro rasottamaḥ",
+    "ref": "KaiNigh, 2",
+    "text": "Kaiyadevanighaṇṭu"
+   }
+  ]
+ },
+ {
+  "id": "H024",
+  "stratum": "hedge",
+  "k1_slp1": "kAntapAzARa",
+  "mw_L_ids": [
+   "47742"
+  ],
+  "mw_pc": [
+   "270,3"
+  ],
+  "mw_entry_raw": "<s>kAnta—pAzARa</s> ¦ <lex>m.</lex> the iron-stone, load-stone, <ls>L.</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "kAnta—pAzARa m. the iron-stone, load-stone, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 44,
+  "dcs_occurrences": [
+   {
+    "form": "kāntapāṣāṇaḥ",
+    "dcs_lemma": "kāntapāṣāṇa",
+    "sentence": "cumbakaḥ kāntapāṣāṇo'yaskānto lohakarṣakaḥ",
+    "ref": "BhPr, 6, 8",
+    "text": "Bhāvaprakāśa"
+   },
+   {
+    "form": "kāntapāṣāṇaḥ",
+    "dcs_lemma": "kāntapāṣāṇa",
+    "sentence": "cumbakaḥ kāntapāṣāṇo'yaskānto lohakarṣakaḥ",
+    "ref": "MPālNigh, 4",
+    "text": "Madanapālanighaṇṭu"
+   },
+   {
+    "form": "kāntapāṣāṇaṃ",
+    "dcs_lemma": "kāntapāṣāṇa",
+    "sentence": "punaḥ śulbābhrakamākṣīkaṃ punaḥ kāntābhrakamākṣīkaṃ kāntaṃ kāntapāṣāṇaṃ abhrakaṃ gaganaṃ mākṣīkaṃ tāpyaṃ tathā tāpyakaśulbābhrakaṃ etadapi ca mahābījaṃ jñeyamiti",
+    "ref": "MuA zu RHT, 13, 2.2",
+    "text": "Mugdhāvabodhinī"
+   },
+   {
+    "form": "kāntapāṣāṇaṃ",
+    "dcs_lemma": "kāntapāṣāṇa",
+    "sentence": "punarmākṣīkakāntakanakaṃ mākṣīkaṃ tāpyaṃ kāntaṃ kāntapāṣāṇaṃ kanakaṃ svarṇam",
+    "ref": "MuA zu RHT, 13, 3.2",
+    "text": "Mugdhāvabodhinī"
+   }
+  ]
+ },
+ {
+  "id": "H025",
+  "stratum": "hedge",
+  "k1_slp1": "gajAsya",
+  "mw_L_ids": [
+   "62441"
+  ],
+  "mw_pc": [
+   "342,2"
+  ],
+  "mw_entry_raw": "<s>gajA<srs/>sya</s> ¦ <lex>m.</lex> = <s>˚ja-muKa</s>, <ls>L.</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "gajAsya m. = ˚ja-muKa, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 10,
+  "dcs_occurrences": [
+   {
+    "form": "gajāsya",
+    "dcs_lemma": "gajāsya",
+    "sentence": "dvaimāturo gajāsyaikadantau lambodarākhugau",
+    "ref": "AbhCint, 2",
+    "text": "Abhidhānacintāmaṇi"
+   },
+   {
+    "form": "gajāsyaḥ",
+    "dcs_lemma": "gajāsya",
+    "sentence": "gajāsyaśca gaṇaḥ skandaḥ ṣaṇmukho 'nekadhā guṇāḥ",
+    "ref": "GarPur, 1, 45",
+    "text": "Garuḍapurāṇa"
+   },
+   {
+    "form": "gajāsyaṃ",
+    "dcs_lemma": "gajāsya",
+    "sentence": "iti cintākulas tāvad gajāsyaṃ baṭurūpiṇam",
+    "ref": "GokPurS, 1",
+    "text": "Gokarṇapurāṇasāraḥ"
+   },
+   {
+    "form": "gajāsyaḥ",
+    "dcs_lemma": "gajāsya",
+    "sentence": "evam ukto rāvaṇena gajāsyaḥ pratyuvāca tam",
+    "ref": "GokPurS, 1",
+    "text": "Gokarṇapurāṇasāraḥ"
+   }
+  ]
+ },
+ {
+  "id": "H026",
+  "stratum": "hedge",
+  "k1_slp1": "vajrakanda",
+  "mw_L_ids": [
+   "184838"
+  ],
+  "mw_pc": [
+   "913,2"
+  ],
+  "mw_entry_raw": "<s>vajra—kanda</s> ¦ <lex>m.</lex> a species of bulbous plant, <ls>L.</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "vajra—kanda m. a species of bulbous plant, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 43,
+  "dcs_occurrences": [
+   {
+    "form": "vajrakanda",
+    "dcs_lemma": "vajrakanda",
+    "sentence": "yavamāṣatilapalāśapīlukṣārair gokṣīrājakṣīrair vā kadalīvajrakandapratīvāpo mārdavakaraḥ",
+    "ref": "ArthaŚ, 2, 12",
+    "text": "Arthaśāstra"
+   },
+   {
+    "form": "vajrakanda",
+    "dcs_lemma": "vajrakanda",
+    "sentence": "ākarodgataṃ sīsānvayena bhidyamānaṃ pākapattrāṇi kṛtvā gaṇḍikāsu kuṭṭayet kadalīvajrakandakalke vā niṣecayet",
+    "ref": "ArthaŚ, 2, 13",
+    "text": "Arthaśāstra"
+   },
+   {
+    "form": "vajrakandaḥ",
+    "dcs_lemma": "vajrakanda",
+    "sentence": "sūryāvarto vajrakandaḥ kadalī devadālikā",
+    "ref": "BhPr, 7, 3",
+    "text": "Bhāvaprakāśa"
+   },
+   {
+    "form": "vajrakando",
+    "dcs_lemma": "vajrakanda",
+    "sentence": "sūryaṃ prati āvartako bhramaṇaṃ yasyetyevaṃvidhaḥ kadalī rambhā vandhyā phalarahitā karkoṭī kośātakī jālinī suradālī devadālī śigruḥ saubhāñjanaṃ vajrakando vadasūraṇakandaḥ nīrakaṇā jalapippalī kākamācī vāyasī iti gaṇaḥ śodhanadrāvaṇayogya iti",
+    "ref": "MuA zu RHT, 9, 9.2",
+    "text": "Mugdhāvabodhinī"
+   }
+  ]
+ },
+ {
+  "id": "H027",
+  "stratum": "hedge",
+  "k1_slp1": "miSi",
+  "mw_L_ids": [
+   "164484"
+  ],
+  "mw_pc": [
+   "817,3"
+  ],
+  "mw_entry_raw": "<s>miSi</s> or <s>miSI</s>, ¦ <lex>f.</lex> (only <ls>L.</ls>) <bot>Anethum Panmori</bot> and <bot>Anethum Sowa</bot>;\n<div n=\"P\"/> <bot>Nardostachys Jatamansi</bot> (<ab>cf.</ab> <s>mizikA</s>);\n<div n=\"P\"/> a species of sugarcane.<info lex=\"f\"/>",
+  "mw_entry_plain": "miSi or miSI, f. (only L.) Anethum Panmori and Anethum Sowa; Nardostachys Jatamansi (cf. mizikA); a species of sugarcane.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 31,
+  "dcs_occurrences": [
+   {
+    "form": "miśiḥ",
+    "dcs_lemma": "miśi",
+    "sentence": "miśiḥ śatapuṣpā",
+    "ref": "Ayurvedarasāyana zu AHS, Sū., 15, 3.2",
+    "text": "Ayurvedarasāyana"
+   },
+   {
+    "form": "miśi",
+    "dcs_lemma": "miśi",
+    "sentence": "yavamiśikṛtavedhanaṃ kulatthā madhu lavaṇaṃ trivṛtā nirūhaṇāni",
+    "ref": "AHS, Sū., 15",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "miśi",
+    "dcs_lemma": "miśi",
+    "sentence": "darbhamūlahimośīraśirīṣamiśitaṇḍulāḥ",
+    "ref": "AHS, Sū., 22",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "miśi",
+    "dcs_lemma": "miśi",
+    "sentence": "miśimāṣakulatthāgniprakīryānākulīdvayaiḥ",
+    "ref": "AHS, Cikitsitasthāna, 1",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   }
+  ]
+ },
+ {
+  "id": "H028",
+  "stratum": "hedge",
+  "k1_slp1": "SAlAvfka",
+  "mw_L_ids": [
+   "216024"
+  ],
+  "mw_pc": [
+   "1067,2"
+  ],
+  "mw_entry_raw": "<s>SAlA—vfka</s> ¦ <lex>m.</lex> ‘<ab n=\"house\">h˚</ab>-wolf’, a dog, cat, jackal &c., <ls>L.</ls> (<ab>cf.</ab> <s>sAlAvfka/</s>). <info lex=\"m\"/>",
+  "mw_entry_plain": "SAlA—vfka m. ‘h˚-wolf’, a dog, cat, jackal &c., L. (cf. sAlAvfka/).",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 21,
+  "dcs_occurrences": [
+   {
+    "form": "sālāvṛkebhyaḥ",
+    "dcs_lemma": "śālāvṛka",
+    "sentence": "yatra indram devatāḥ paryavṛñjan viśvarūpam tvāṣṭram abhyamaṃsta vṛtram astṛta yatīn sālāvṛkebhyaḥ prādāt arurmaghān avadhīt bṛhaspateḥ pratyavadhīt iti tatra indraḥ soma pīthena vyārdhyata",
+    "ref": "AB, 7, 28",
+    "text": "Aitareyabrāhmaṇa"
+   },
+   {
+    "form": "sālāvṛkāṁ",
+    "dcs_lemma": "śālāvṛka",
+    "sentence": "tayā aham śatrūn sākṣe indraḥ sālāvṛkāṁ iva",
+    "ref": "AVŚ, 2, 27",
+    "text": "Atharvaveda (Śaunaka)"
+   },
+   {
+    "form": "sālāvṛkebhyaḥ",
+    "dcs_lemma": "śālāvṛka",
+    "sentence": "indro yatīn sālāvṛkebhyaḥ prāyacchat",
+    "ref": "JB, 1, 185",
+    "text": "Jaiminīyabrāhmaṇa"
+   },
+   {
+    "form": "śālāvṛkebhyaḥ",
+    "dcs_lemma": "śālāvṛka",
+    "sentence": "hatvā śālāvṛkebhyaśca prāyacchaṃstilaśaḥ kṛtam",
+    "ref": "MBh, 1, 71",
+    "text": "Mahābhārata"
+   }
+  ]
+ },
+ {
+  "id": "H029",
+  "stratum": "hedge",
+  "k1_slp1": "puzpAYjana",
+  "mw_L_ids": [
+   "127190"
+  ],
+  "mw_pc": [
+   "640,1"
+  ],
+  "mw_entry_raw": "<s>puzpA<srs/>Yjana</s> ¦ <lex>n.</lex> calx of brass employed as a collyrium, <ls>L.</ls><info lex=\"n\"/>",
+  "mw_entry_plain": "puzpAYjana n. calx of brass employed as a collyrium, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 20,
+  "dcs_occurrences": [
+   {
+    "form": "puṣpāñjana",
+    "dcs_lemma": "puṣpāñjana",
+    "sentence": "priyaṅgupuṣpāñjanayugmapadmāḥ padmād rajo yojanavally anantā",
+    "ref": "AHS, Sū., 15",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "puṣpāñjanād",
+    "dcs_lemma": "puṣpāñjana",
+    "sentence": "puṣpāñjanād daśapalaṃ karṣaṃ ca maricāt tataḥ",
+    "ref": "AHS, Utt., 16",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "_",
+    "dcs_lemma": "puṣpāñjana",
+    "sentence": "priyaṅgupuṣpāñjanayugmapadmāḥ padmādrajo yojanavallyanantā",
+    "ref": "AṣṭNigh, 1",
+    "text": "Aṣṭāṅganighaṇṭu"
+   },
+   {
+    "form": "puṣpāñjanaṃ",
+    "dcs_lemma": "puṣpāñjana",
+    "sentence": "puṣpāñjanaṃ rītipuṣpaṃ puṣpaketuśca rītijam",
+    "ref": "AṣṭNigh, 1",
+    "text": "Aṣṭāṅganighaṇṭu"
+   }
+  ]
+ },
+ {
+  "id": "H030",
+  "stratum": "hedge",
+  "k1_slp1": "gaRqamAla",
+  "mw_L_ids": [
+   "62784"
+  ],
+  "mw_pc": [
+   "344,1"
+  ],
+  "mw_entry_raw": "<s>gaRqa—mAla</s> ¦ <lex>m.</lex> inflammation of the glands of the neck, <ls>L.</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "gaRqa—mAla m. inflammation of the glands of the neck, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 19,
+  "dcs_occurrences": [
+   {
+    "form": "gaṇḍamāla",
+    "dcs_lemma": "gaṇḍamāla",
+    "sentence": "gaṇḍamālārbudagranthisthaulyakuṣṭhabhagandarān",
+    "ref": "AHS, Cikitsitasthāna, 12",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "gaṇḍamāla",
+    "dcs_lemma": "gaṇḍamāla",
+    "sentence": "nāḍīvraṇārbudabhagandaragaṇḍamālājatrūrdhvasarvagadagulmagudotthamehān",
+    "ref": "AHS, Cikitsitasthāna, 21",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "gaṇḍamālā",
+    "dcs_lemma": "gaṇḍamāla",
+    "sentence": "gaṇḍamālāpacī ceyaṃ dūrveva kṣayavṛddhibhāk",
+    "ref": "AHS, Utt., 29",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "gaṇḍamāla",
+    "dcs_lemma": "gaṇḍamāla",
+    "sentence": "piṭikāgranthiśophārśogaṇḍamālākṛmīñ jayet",
+    "ref": "BhPr, 6, Karpūrādivarga",
+    "text": "Bhāvaprakāśa"
+   }
+  ]
+ },
+ {
+  "id": "H031",
+  "stratum": "hedge",
+  "k1_slp1": "kalpAnta",
+  "mw_L_ids": [
+   "46162"
+  ],
+  "mw_pc": [
+   "262,3"
+  ],
+  "mw_entry_raw": "<s>kalpA<srs/>nta</s> ¦ <lex>m.</lex> the end of a <s1>Kalpa</s1>, dissolution of all things, <ls>L.</ls> (<ab>cf.</ab> <s>pralaya</s>)<info lex=\"m\"/>",
+  "mw_entry_plain": "kalpAnta m. the end of a Kalpa, dissolution of all things, L. (cf. pralaya)",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 19,
+  "dcs_occurrences": [
+   {
+    "form": "kalpānta",
+    "dcs_lemma": "kalpānta",
+    "sentence": "saṃvartaḥ pralayaḥ kalpaḥ kṣayaḥ kalpānta ityapi",
+    "ref": "AKośa, 1",
+    "text": "Amarakośa"
+   },
+   {
+    "form": "kalpānta",
+    "dcs_lemma": "kalpānta",
+    "sentence": "kalpānta idam ādāya śayāne 'mbhasyudanvataḥ",
+    "ref": "BhāgPur, 1, 6",
+    "text": "Bhāgavatapurāṇa"
+   },
+   {
+    "form": "kalpānta",
+    "dcs_lemma": "kalpānta",
+    "sentence": "tāvat tribhuvanaṃ sadyaḥ kalpāntaidhitasindhavaḥ",
+    "ref": "BhāgPur, 3, 11",
+    "text": "Bhāgavatapurāṇa"
+   },
+   {
+    "form": "kalpānta",
+    "dcs_lemma": "kalpānta",
+    "sentence": "saṃhṛtya kālakalayā kalpānta idam īśvaraḥ",
+    "ref": "BhāgPur, 11, 9",
+    "text": "Bhāgavatapurāṇa"
+   }
+  ]
+ },
+ {
+  "id": "H032",
+  "stratum": "hedge",
+  "k1_slp1": "yAvaSUka",
+  "mw_L_ids": [
+   "171531"
+  ],
+  "mw_pc": [
+   "852,1"
+  ],
+  "mw_entry_raw": "<s>yAva—SUka</s> ¦ <lex>m.</lex> (<ab>fr.</ab> <s>yava-SUka</s>) a kind of alkaline salt prepared from the ashes of burnt barley-straw, <ls>L.</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "yAva—SUka m. (fr. yava-SUka) a kind of alkaline salt prepared from the ashes of burnt barley-straw, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 27,
+  "dcs_occurrences": [
+   {
+    "form": "yāvaśūkaiḥ",
+    "dcs_lemma": "yāvaśūka",
+    "sentence": "viḍaṅgasauvarcalacavyapāṭhāvyoṣāgnisindhūdbhavayāvaśūkaiḥ",
+    "ref": "AHS, Cikitsitasthāna, 1",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "yāvaśūkaṃ",
+    "dcs_lemma": "yāvaśūka",
+    "sentence": "yāvaśūkaṃ kapitthāmrajambūmadhyaṃ sadīpyakam",
+    "ref": "AHS, Cikitsitasthāna, 9",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "yāvaśūka",
+    "dcs_lemma": "yāvaśūka",
+    "sentence": "svarjikāyāvaśūkākhyau kṣārau pañcapaṭūni ca",
+    "ref": "AHS, Cikitsitasthāna, 10",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "yāvaśūka",
+    "dcs_lemma": "yāvaśūka",
+    "sentence": "viḍakācoṣalavaṇasvarjikāyāvaśūkajān",
+    "ref": "AHS, Cikitsitasthāna, 10",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   }
+  ]
+ },
+ {
+  "id": "H033",
+  "stratum": "hedge",
+  "k1_slp1": "ganDASman",
+  "mw_L_ids": [
+   "63227"
+  ],
+  "mw_pc": [
+   "345,3"
+  ],
+  "mw_entry_raw": "<s>ganDA<srs/>Sman</s> ¦ <lex>m.</lex> = <s>˚Da-pAzARa</s>, <ls>L.</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "ganDASman m. = ˚Da-pAzARa, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 36,
+  "dcs_occurrences": [
+   {
+    "form": "gandhāśmā",
+    "dcs_lemma": "gandhāśman",
+    "sentence": "pūtigandho balivatsā gandhāśmā dhātuhā balī",
+    "ref": "DhanvNigh, Candanādivarga",
+    "text": "Dhanvantarinighaṇṭu"
+   },
+   {
+    "form": "gandhāśmā",
+    "dcs_lemma": "gandhāśman",
+    "sentence": "lelī lelītako gandho gandhāśmā pītagandhakaḥ",
+    "ref": "KaiNigh, 2",
+    "text": "Kaiyadevanighaṇṭu"
+   },
+   {
+    "form": "gandhāśmā",
+    "dcs_lemma": "gandhāśman",
+    "sentence": "gandhakaḥ saugandhako lekhī gandhāśmā gandhapītakaḥ",
+    "ref": "MPālNigh, 4",
+    "text": "Madanapālanighaṇṭu"
+   },
+   {
+    "form": "gandhāśmano",
+    "dcs_lemma": "gandhāśman",
+    "sentence": "raktaṃ lohitaṃ nāgasamaṃ sīsakatulyaṃ mṛdu komalaṃ evaṃvidhaṃ satvaṃ yasmāddhetor mākṣikāt patati tāpyāt nirgacchati tadvattasmāddhetor vā tasmādvidhānataḥ gandhāśmano gandhakasya yatnena mṛdubhāvaṃ kāryaṃ yathā gandhako'pi mṛdurbhavatītyarthaḥ",
+    "ref": "MuA zu RHT, 10, 9.2",
+    "text": "Mugdhāvabodhinī"
+   }
+  ]
+ },
+ {
+  "id": "H034",
+  "stratum": "hedge",
+  "k1_slp1": "masI",
+  "mw_L_ids": [
+   "159098.05",
+   "159098.1"
+  ],
+  "mw_pc": [
+   "794,1",
+   "794,1"
+  ],
+  "mw_entry_raw": "{{Lbody=159098}}\n---\n<s>masI</s> ¦ <lex>f.</lex> the stalk of the <bot>Nyctanthes Arbor Tristis</bot>, <ls>L.</ls><info lex=\"f\"/>",
+  "mw_entry_plain": "{{Lbody=159098}} || masI f. the stalk of the Nyctanthes Arbor Tristis, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 15,
+  "dcs_occurrences": [
+   {
+    "form": "masī",
+    "dcs_lemma": "masī",
+    "sentence": "masīvarṇamajasraṃ yo mūtramuṣṇaṃ pramehati",
+    "ref": "Ca, Nid., 4",
+    "text": "Carakasaṃhitā"
+   },
+   {
+    "form": "masī",
+    "dcs_lemma": "masī",
+    "sentence": "nīlamehena nīlābhaṃ kālamehī masīnibham",
+    "ref": "GarPur, 1, 159",
+    "text": "Garuḍapurāṇa"
+   },
+   {
+    "form": "masi",
+    "dcs_lemma": "masī",
+    "sentence": "pauṣe masi yadā vṛṣṭiḥ kujjhaṭirvā yadā bhavet",
+    "ref": "KṛṣiPar, 1",
+    "text": "Kṛṣiparāśara"
+   },
+   {
+    "form": "masi",
+    "dcs_lemma": "masī",
+    "sentence": "tadyathāpi nāma jāmbūnadasya suvarṇasya purato masipiṇḍa upanikṣipto na bhāsati na tapati na virocate evameva tānyābharaṇāni bodhisattvasya kāyaprabhayā spṛṣṭāni na bhāsante na tapanti na virocante sma",
+    "ref": "LalVis, 9",
+    "text": "Lalitavistara"
+   }
+  ]
+ },
+ {
+  "id": "H035",
+  "stratum": "hedge",
+  "k1_slp1": "puMnAga",
+  "mw_L_ids": [
+   "125085",
+   "125086",
+   "125087",
+   "125088",
+   "125089"
+  ],
+  "mw_pc": [
+   "631,1",
+   "631,1",
+   "631,1",
+   "631,1",
+   "631,1"
+  ],
+  "mw_entry_raw": "<s>puM—nAga</s> ¦ <lex>m.</lex> ‘elephant among men’, any distinguished man, <ls>L.</ls><info lex=\"m\"/>\n---\n¦ a white elephant, <ls>L.</ls><info lex=\"inh\"/>\n---\n¦ <ab>N.</ab> of a plant (<bot>Rottleria Tinctoria</bot> or <bot>Calophyllum Inophyllum</bot>), <ls>L.</ls><info lex=\"inh\"/>\n---\n¦ a white lotus, <ls>L.</ls><info lex=\"inh\"/>\n---\n¦ a nutmeg, <ls>L.</ls><info lex=\"inh\"/>",
+  "mw_entry_plain": "puM—nAga m. ‘elephant among men’, any distinguished man, L. || a white elephant, L. || N. of a plant (Rottleria Tinctoria or Calophyllum Inophyllum), L. || a white lotus, L. || a nutmeg, L.",
+  "ls_citations": [
+   "L.",
+   "L.",
+   "L.",
+   "L.",
+   "L."
+  ],
+  "dcs2026_tokens": 57,
+  "dcs_occurrences": [
+   {
+    "form": "puṃnāge",
+    "dcs_lemma": "puṃnāga",
+    "sentence": "puṃnāge puruṣas tuṅgaḥ kesaro devavallabhaḥ",
+    "ref": "AKośa, 2",
+    "text": "Amarakośa"
+   },
+   {
+    "form": "puṃnāga",
+    "dcs_lemma": "puṃnāga",
+    "sentence": "mānadrumo mocarasaḥ samaṅgā puṃnāgaśītaṃ madanīyahetuḥ",
+    "ref": "AHS, Sū., 15",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "puṃnāga",
+    "dcs_lemma": "puṃnāga",
+    "sentence": "śuktir vyāghranakho 'marāhvam aguruḥ śrīvāsakaḥ kuṅkumaṃ caṇḍāgugguludevadhūpakhapurāḥ puṃnāganāgāhvayam",
+    "ref": "AHS, Sū., 15",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "puṃnāga",
+    "dcs_lemma": "puṃnāga",
+    "sentence": "mānadrumo mocarasaḥ samaṅgā punnāgaśītaṃ madanīyahetuḥ",
+    "ref": "AṣṭNigh, 1",
+    "text": "Aṣṭāṅganighaṇṭu"
+   }
+  ]
+ },
+ {
+  "id": "H036",
+  "stratum": "hedge",
+  "k1_slp1": "sUraRa",
+  "mw_L_ids": [
+   "251449"
+  ],
+  "mw_pc": [
+   "1243,1"
+  ],
+  "mw_entry_raw": "<s>sUraRa</s> ¦ <lex>n.</lex> (also written <s>SUr˚</s>) <bot>Amorphophallus Campanulatus</bot> (<ab>cf.</ab> <s>sUra-kanda</s>), <ls>L.</ls><info lex=\"n\"/>",
+  "mw_entry_plain": "sUraRa n. (also written SUr˚) Amorphophallus Campanulatus (cf. sUra-kanda), L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 49,
+  "dcs_occurrences": [
+   {
+    "form": "sūraṇa",
+    "dcs_lemma": "sūraṇa",
+    "sentence": "guñjāsūraṇakūṣmāṇḍabījair vartis tathāguṇā",
+    "ref": "AHS, Cikitsitasthāna, 8",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "sūraṇa",
+    "dcs_lemma": "sūraṇa",
+    "sentence": "mūlakālukapālaṅkīdamanakāmrātakairvārukatrapusavārtākakūṣmāṇḍālābusūraṇaśukanāsāsvayaṃguptātilaparṇikāgnimanthalaśunapalāṇḍuprabhṛtīnāṃ sarvauṣadhīnāṃ ca bījagrahaṇaṃ kāle vāpaśca",
+    "ref": "KāSū, 4, 1",
+    "text": "Kāmasūtra"
+   },
+   {
+    "form": "sūraṇa",
+    "dcs_lemma": "sūraṇa",
+    "sentence": "piṇḍārakāśmaryaphalaṃ tathā sūraṇakandakam",
+    "ref": "MPur, 96",
+    "text": "Matsyapurāṇa"
+   },
+   {
+    "form": "sūraṇaṃ",
+    "dcs_lemma": "sūraṇa",
+    "sentence": "aśvatthaṃ sūraṇaṃ jālīṃ dahet kandān anekaśaḥ",
+    "ref": "MuA zu RHT, 3, 3.2",
+    "text": "Mugdhāvabodhinī"
+   }
+  ]
+ },
+ {
+  "id": "H037",
+  "stratum": "hedge",
+  "k1_slp1": "izwikA",
+  "mw_L_ids": [
+   "29659"
+  ],
+  "mw_pc": [
+   "169,3"
+  ],
+  "mw_entry_raw": "<s>izwikA</s> ¦ <lex>f.</lex> = <s>i/zwakA</s>, <ab>q.v.</ab>, <ls>L.</ls><info lex=\"f\"/>",
+  "mw_entry_plain": "izwikA f. = i/zwakA, q.v., L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 50,
+  "dcs_occurrences": [
+   {
+    "form": "iṣṭikā",
+    "dcs_lemma": "iṣṭikā",
+    "sentence": "ghṛṣṭveṣṭikācūrṇakaṇair jalena prakṣālya saṃśoṣya ca mārutena",
+    "ref": "AHS, Utt., 39",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "iṣṭikā",
+    "dcs_lemma": "iṣṭikā",
+    "sentence": "iṣṭikācūrṇacūrṇābhyām ādau mardyo rasastataḥ",
+    "ref": "BhPr, 7, 3",
+    "text": "Bhāvaprakāśa"
+   },
+   {
+    "form": "iṣṭikāṃ",
+    "dcs_lemma": "iṣṭikā",
+    "sentence": "iṣṭikāṃ khaṭikāṃ tadvatsphaṭikāṃ sindhujanma ca",
+    "ref": "BhPr, 7, 3",
+    "text": "Bhāvaprakāśa"
+   },
+   {
+    "form": "iṣṭikāni",
+    "dcs_lemma": "iṣṭikā",
+    "sentence": "savyāni dakṣiṇādvārāṇy ayugmaśilāny ayugmeṣṭikāni ca",
+    "ref": "KauśS, 11, 6",
+    "text": "Kauśikasūtra"
+   }
+  ]
+ },
+ {
+  "id": "H038",
+  "stratum": "hedge",
+  "k1_slp1": "avaGozaRa",
+  "mw_L_ids": [
+   "17185"
+  ],
+  "mw_pc": [
+   "98,1"
+  ],
+  "mw_entry_raw": "<s>ava-GozaRa</s> ¦ <lex>n.</lex> proclaiming, <ls>L.</ls><info lex=\"n\"/>",
+  "mw_entry_plain": "ava-GozaRa n. proclaiming, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 17,
+  "dcs_occurrences": [
+   {
+    "form": "avaghoṣaṇam",
+    "dcs_lemma": "avaghoṣaṇa",
+    "sentence": "bāhyeṣu tu pracchannam ahani kṣetrakhalaveśmāpaṇebhyaḥ kupyabhāṇḍam upaskaraṃ vā māṣamūlyād ūrdhvam ā pādamūlyād ityapaharatastripaṇo daṇḍaḥ gomayapradehena vā pralipyāvaghoṣaṇam ā dvipādamūlyād iti ṣaṭpaṇaḥ gomayabhasmanā vā pralipyāvaghoṣaṇam ā tripādamūlyād iti navapaṇaḥ gomayabhasmanā vā pralipyāvaghoṣaṇam śarāvamekhalayā vā ā paṇamūlyād iti dvādaśapaṇaḥ muṇḍanaṃ pravrājanaṃ vā ā dvipaṇamūlyād iti caturviṃśatipaṇaḥ muṇḍasyeṣṭakāśakalena pravrājanaṃ vā ā catuṣpaṇamūlyād iti ṣaṭtriṃśatpaṇa ā pañcapaṇamūlyād ityaṣṭacatvāriṃśatpaṇaḥ ā daśapaṇamūlyād iti pūrvaḥ sāhasadaṇḍa ā viṃśatipaṇamūlyād iti dviśata ā triṃśatpaṇamūlyād iti pañcaśata ā catvāriṃśatpaṇamūlyād iti sāhasra ā pañcāśatpaṇamūlyād iti vadhaḥ",
+    "ref": "ArthaŚ, 4, 9",
+    "text": "Arthaśāstra"
+   },
+   {
+    "form": "avaghoṣaṇam",
+    "dcs_lemma": "avaghoṣaṇa",
+    "sentence": "bāhyeṣu tu pracchannam ahani kṣetrakhalaveśmāpaṇebhyaḥ kupyabhāṇḍam upaskaraṃ vā māṣamūlyād ūrdhvam ā pādamūlyād ityapaharatastripaṇo daṇḍaḥ gomayapradehena vā pralipyāvaghoṣaṇam ā dvipādamūlyād iti ṣaṭpaṇaḥ gomayabhasmanā vā pralipyāvaghoṣaṇam ā tripādamūlyād iti navapaṇaḥ gomayabhasmanā vā pralipyāvaghoṣaṇam śarāvamekhalayā vā ā paṇamūlyād iti dvādaśapaṇaḥ muṇḍanaṃ pravrājanaṃ vā ā dvipaṇamūlyād iti caturviṃśatipaṇaḥ muṇḍasyeṣṭakāśakalena pravrājanaṃ vā ā catuṣpaṇamūlyād iti ṣaṭtriṃśatpaṇa ā pañcapaṇamūlyād ityaṣṭacatvāriṃśatpaṇaḥ ā daśapaṇamūlyād iti pūrvaḥ sāhasadaṇḍa ā viṃśatipaṇamūlyād iti dviśata ā triṃśatpaṇamūlyād iti pañcaśata ā catvāriṃśatpaṇamūlyād iti sāhasra ā pañcāśatpaṇamūlyād iti vadhaḥ",
+    "ref": "ArthaŚ, 4, 9",
+    "text": "Arthaśāstra"
+   },
+   {
+    "form": "avaghoṣaṇam",
+    "dcs_lemma": "avaghoṣaṇa",
+    "sentence": "bāhyeṣu tu pracchannam ahani kṣetrakhalaveśmāpaṇebhyaḥ kupyabhāṇḍam upaskaraṃ vā māṣamūlyād ūrdhvam ā pādamūlyād ityapaharatastripaṇo daṇḍaḥ gomayapradehena vā pralipyāvaghoṣaṇam ā dvipādamūlyād iti ṣaṭpaṇaḥ gomayabhasmanā vā pralipyāvaghoṣaṇam ā tripādamūlyād iti navapaṇaḥ gomayabhasmanā vā pralipyāvaghoṣaṇam śarāvamekhalayā vā ā paṇamūlyād iti dvādaśapaṇaḥ muṇḍanaṃ pravrājanaṃ vā ā dvipaṇamūlyād iti caturviṃśatipaṇaḥ muṇḍasyeṣṭakāśakalena pravrājanaṃ vā ā catuṣpaṇamūlyād iti ṣaṭtriṃśatpaṇa ā pañcapaṇamūlyād ityaṣṭacatvāriṃśatpaṇaḥ ā daśapaṇamūlyād iti pūrvaḥ sāhasadaṇḍa ā viṃśatipaṇamūlyād iti dviśata ā triṃśatpaṇamūlyād iti pañcaśata ā catvāriṃśatpaṇamūlyād iti sāhasra ā pañcāśatpaṇamūlyād iti vadhaḥ",
+    "ref": "ArthaŚ, 4, 9",
+    "text": "Arthaśāstra"
+   },
+   {
+    "form": "avaghoṣaṇam",
+    "dcs_lemma": "avaghoṣaṇa",
+    "sentence": "sa śrāvastyāṃ ghaṇṭāvaghoṣaṇaṃ sārthavāham ātmānam udghoṣya ṣaḍvārān mahāsamudram avatīrṇaḥ",
+    "ref": "AvŚat, 3",
+    "text": "Avadānaśataka"
+   }
+  ]
+ },
+ {
+  "id": "H039",
+  "stratum": "hedge",
+  "k1_slp1": "PaYjI",
+  "mw_L_ids": [
+   "141609"
+  ],
+  "mw_pc": [
+   "716,1"
+  ],
+  "mw_entry_raw": "<s>PaYjI</s> ¦ <lex>f.</lex> <bot>Clerodendrum Siphonantus</bot>, <ls>L.</ls><info lex=\"f\"/>",
+  "mw_entry_plain": "PaYjI f. Clerodendrum Siphonantus, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 21,
+  "dcs_occurrences": [
+   {
+    "form": "phañjī",
+    "dcs_lemma": "phañjī",
+    "sentence": "kapitthakacchurāphañjīyūthikāvaṭaśelujaiḥ",
+    "ref": "AHS, Cikitsitasthāna, 9",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "phañjī",
+    "dcs_lemma": "phañjī",
+    "sentence": "bhārṅgī phañjī ca pālindī dvijayaṣṭiḥ sugandhikā",
+    "ref": "AṣṭNigh, 1",
+    "text": "Aṣṭāṅganighaṇṭu"
+   },
+   {
+    "form": "phañjī",
+    "dcs_lemma": "phañjī",
+    "sentence": "bhārgī bhṛgubhavā padmā phañjī brāhmaṇayaṣṭikā",
+    "ref": "BhPr, 6, 2",
+    "text": "Bhāvaprakāśa"
+   },
+   {
+    "form": "phañjī",
+    "dcs_lemma": "phañjī",
+    "sentence": "sarvāṇi sūpyaśākāni phañjī cillī kutumbakaḥ",
+    "ref": "Ca, Sū., 27",
+    "text": "Carakasaṃhitā"
+   }
+  ]
+ },
+ {
+  "id": "H040",
+  "stratum": "hedge",
+  "k1_slp1": "rizi",
+  "mw_L_ids": [
+   "178168"
+  ],
+  "mw_pc": [
+   "881,2"
+  ],
+  "mw_entry_raw": "<s>rizi</s> ¦ <lex>m.</lex> = <s>fzi</s>, <ls>L.</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "rizi m. = fzi, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 25,
+  "dcs_occurrences": [
+   {
+    "form": "riṣeḥ",
+    "dcs_lemma": "riṣi",
+    "sentence": "riṣerhisārthasya vicpratyayalopa udāharaṇaṃ reṭ iti",
+    "ref": "Kāśikāvṛtti zu Aṣṭādhyāyī, 1, 1, 4.1",
+    "text": "Kāśikāvṛtti"
+   },
+   {
+    "form": "riṣis",
+    "dcs_lemma": "riṣi",
+    "sentence": "tena khalu samayena anyatamasminn āśramapade kṛṣṇadvaipāyano nāma ṛṣiḥ prativasati tato gautamaḥ kumāro rājñā samanujñāto hṛṣṭatuṣṭapramudita udagraprītisaumanasyajāto yena kṛṣṇadvaipāyano riṣis tenopasaṃkrāntaḥ upasaṃkramya vinīteryāpathapādābhivandanaṃ kṛtvā kathayati pravrajyārthī pravrajāyasva mām iti",
+    "ref": "SBhedaV, 1",
+    "text": "Saṅghabhedavastu"
+   },
+   {
+    "form": "riṣiṇā",
+    "dcs_lemma": "riṣi",
+    "sentence": "yāvad apareṇa samayena karṇo rājā kālagataḥ bharadvājakumāro rājyaiśvaryādhipatye pratiṣṭhāpitaḥ pitryaṃ rājyaṃ kārayati yāvad apareṇa samayena gautamo ṛṣir upadhyāyāsya kathayati upādhyāya na śaknomi āraṇyakābhir oṣadhībhir yāpayituṃ grāmāntaṃ samavasarāmīti sa kathayati putra śobhanaṃ grāme vā araṇye vā prativasatā riṣiṇā sarvathā indriyāṇi rakṣitavyānīti gaccha tvaṃ potalasāmantakena śākhāparṇakuṭiṃ kṛtvā vāsaṃ kalpaya evam upādhyāya ity uktvā gautama riṣiḥ potalakasāmantakena śākhāparṇakuṭiṃ kṛtvā avasthitaḥ tena khalu samayena potalake nagare bhadrā nāma rūpājīvanī prativasati mṛṇālaś ca nāmnā dhūrtapuruṣaḥ tena vastrālaṃkāram anupreṣitaṃ paricāraṇāya sā tadvastrālaṃkāraṃ prāvṛtya samprasthitā anyatamaś ca puruṣaḥ pañcakārṣāpaṇaśatāny ādāyopasthitaḥ bhadre āgaccha paricāraya iti sā saṃlakṣayati yadi gamiṣyāmi pañcakārṣāpaṇaśatāni lapsye adākṣiṇyaṃ caitad gṛhāgataṃ pratyākhyāyānyatra gamanam iti tayā preṣyadārikābhihitā gaccha mṛṇālasya kathaya āryā kathayati na tāvad ahaṃ sajjā paścād āgamiṣyāmīti tayāpi tasya gatvārocitaṃ so 'pi puruṣo bahukaraṇīyaḥ sa tāṃ paricārya prathama eva yāme prakrāntaḥ",
+    "ref": "SBhedaV, 1",
+    "text": "Saṅghabhedavastu"
+   },
+   {
+    "form": "riṣiḥ",
+    "dcs_lemma": "riṣi",
+    "sentence": "yāvad apareṇa samayena karṇo rājā kālagataḥ bharadvājakumāro rājyaiśvaryādhipatye pratiṣṭhāpitaḥ pitryaṃ rājyaṃ kārayati yāvad apareṇa samayena gautamo ṛṣir upadhyāyāsya kathayati upādhyāya na śaknomi āraṇyakābhir oṣadhībhir yāpayituṃ grāmāntaṃ samavasarāmīti sa kathayati putra śobhanaṃ grāme vā araṇye vā prativasatā riṣiṇā sarvathā indriyāṇi rakṣitavyānīti gaccha tvaṃ potalasāmantakena śākhāparṇakuṭiṃ kṛtvā vāsaṃ kalpaya evam upādhyāya ity uktvā gautama riṣiḥ potalakasāmantakena śākhāparṇakuṭiṃ kṛtvā avasthitaḥ tena khalu samayena potalake nagare bhadrā nāma rūpājīvanī prativasati mṛṇālaś ca nāmnā dhūrtapuruṣaḥ tena vastrālaṃkāram anupreṣitaṃ paricāraṇāya sā tadvastrālaṃkāraṃ prāvṛtya samprasthitā anyatamaś ca puruṣaḥ pañcakārṣāpaṇaśatāny ādāyopasthitaḥ bhadre āgaccha paricāraya iti sā saṃlakṣayati yadi gamiṣyāmi pañcakārṣāpaṇaśatāni lapsye adākṣiṇyaṃ caitad gṛhāgataṃ pratyākhyāyānyatra gamanam iti tayā preṣyadārikābhihitā gaccha mṛṇālasya kathaya āryā kathayati na tāvad ahaṃ sajjā paścād āgamiṣyāmīti tayāpi tasya gatvārocitaṃ so 'pi puruṣo bahukaraṇīyaḥ sa tāṃ paricārya prathama eva yāme prakrāntaḥ",
+    "ref": "SBhedaV, 1",
+    "text": "Saṅghabhedavastu"
+   }
+  ]
+ },
+ {
+  "id": "H041",
+  "stratum": "hedge",
+  "k1_slp1": "picumanda",
+  "mw_L_ids": [
+   "123489"
+  ],
+  "mw_pc": [
+   "624,2"
+  ],
+  "mw_entry_raw": "<s>picu—manda</s> or <s>picu—marda</s>, ¦ <lex>m.</lex> the <bot>Nimb</bot> tree, <bot>Azadirachta Indica</bot>, <ls>L.</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "picu—manda or picu—marda, m. the Nimb tree, Azadirachta Indica, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 20,
+  "dcs_occurrences": [
+   {
+    "form": "picumandaḥ",
+    "dcs_lemma": "picumanda",
+    "sentence": "picumandaśca nimbe 'tha picchilāguruśiṃśapā",
+    "ref": "AKośa, 2",
+    "text": "Amarakośa"
+   },
+   {
+    "form": "picumandaḥ",
+    "dcs_lemma": "picumanda",
+    "sentence": "nimbaḥ picumandaḥ",
+    "ref": "Ayurvedarasāyana zu AHS, Sū., 15, 1.2",
+    "text": "Ayurvedarasāyana"
+   },
+   {
+    "form": "picumanda",
+    "dcs_lemma": "picumanda",
+    "sentence": "rāsnāpaṭolapicumandapayobhir ādau śuṇṭhyāṭarūṣakaphalatrayavāribhir vā",
+    "ref": "Ayurvedarasāyana zu AHS, Sū., 16, 1.2",
+    "text": "Ayurvedarasāyana"
+   },
+   {
+    "form": "picumanda",
+    "dcs_lemma": "picumanda",
+    "sentence": "triphalāpicumandatvaṅmadhukaṃ bṛhatīdvayam",
+    "ref": "AHS, Cikitsitasthāna, 1",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   }
+  ]
+ },
+ {
+  "id": "H042",
+  "stratum": "hedge",
+  "k1_slp1": "naktamAla",
+  "mw_L_ids": [
+   "102811"
+  ],
+  "mw_pc": [
+   "524,1"
+  ],
+  "mw_entry_raw": "<s>naktamAla</s> or <s>naktamAlaka</s>, ¦ <lex>m.</lex> <bot>Pongamia Glabra</bot>, <ls>L.</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "naktamAla or naktamAlaka, m. Pongamia Glabra, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 37,
+  "dcs_occurrences": [
+   {
+    "form": "naktamālaḥ",
+    "dcs_lemma": "naktamāla",
+    "sentence": "cirabilvo naktamālaḥ karajaśca karañjake",
+    "ref": "AKośa, 2",
+    "text": "Amarakośa"
+   },
+   {
+    "form": "naktamāla",
+    "dcs_lemma": "naktamāla",
+    "sentence": "paraṃ pāpakarmaṇāṃ nava vetralatāḥ dvādaśa kaśāḥ dvāv ūruveṣṭau viṃśatir naktamālalatāḥ dvātriṃśattalāḥ dvau vṛścikabandhau ullambane ca dve sūcī hastasya yavāgūpītasya ekaparvadahanam aṅgulyāḥ snehapītasya pratāpanam ekam ahaḥ śiśirarātrau balbajāgraśayyā ca",
+    "ref": "ArthaŚ, 4, 8",
+    "text": "Arthaśāstra"
+   },
+   {
+    "form": "naktamāla",
+    "dcs_lemma": "naktamāla",
+    "sentence": "priyaṅgunaktamālayogaḥ kuṣṭhaharaḥ",
+    "ref": "ArthaŚ, 14, 4",
+    "text": "Arthaśāstra"
+   },
+   {
+    "form": "naktamālaḥ",
+    "dcs_lemma": "naktamāla",
+    "sentence": "karañjo naktamālaḥ",
+    "ref": "Ayurvedarasāyana zu AHS, Sū., 15, 1.2",
+    "text": "Ayurvedarasāyana"
+   }
+  ]
+ },
+ {
+  "id": "H043",
+  "stratum": "hedge",
+  "k1_slp1": "karIzAgni",
+  "mw_L_ids": [
+   "44551"
+  ],
+  "mw_pc": [
+   "255,2"
+  ],
+  "mw_entry_raw": "<s>karIzA<srs/>gni</s> ¦ <lex>m.</lex> a fire of dry cow-dung (this substance is very generally used as fuel in <ns>Hindūstān</ns>), <ls>L.</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "karIzAgni m. a fire of dry cow-dung (this substance is very generally used as fuel in Hindūstān), L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 21,
+  "dcs_occurrences": [
+   {
+    "form": "karīṣāgnau",
+    "dcs_lemma": "karīṣāgni",
+    "sentence": "karīṣāgnau divārātraṃ trirātraṃ vā tuṣāgninā",
+    "ref": "RRĀ, Ras.kh., 1",
+    "text": "Rasaratnākara"
+   },
+   {
+    "form": "karīṣāgnau",
+    "dcs_lemma": "karīṣāgni",
+    "sentence": "tac chuṣkaṃ cāndhitaṃ pacyāt karīṣāgnau divāniśam",
+    "ref": "RRĀ, Ras.kh., 2",
+    "text": "Rasaratnākara"
+   },
+   {
+    "form": "karīṣāgnau",
+    "dcs_lemma": "karīṣāgni",
+    "sentence": "marditaṃ cāndhitaṃ pacyāt karīṣāgnau divāniśam",
+    "ref": "RRĀ, Ras.kh., 2",
+    "text": "Rasaratnākara"
+   },
+   {
+    "form": "karīṣāgnau",
+    "dcs_lemma": "karīṣāgni",
+    "sentence": "karīṣāgnau divārātraṃ puṭe paktvā samuddharet",
+    "ref": "RRĀ, Ras.kh., 3",
+    "text": "Rasaratnākara"
+   }
+  ]
+ },
+ {
+  "id": "H044",
+  "stratum": "hedge",
+  "k1_slp1": "amaraRa",
+  "mw_L_ids": [
+   "13943"
+  ],
+  "mw_pc": [
+   "80,3"
+  ],
+  "mw_entry_raw": "<s>a-maraRa</s> ¦ <lex>n.</lex> the not dying, immortality, <ls>L.</ls><info lex=\"n\"/>",
+  "mw_entry_plain": "a-maraRa n. the not dying, immortality, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 10,
+  "dcs_occurrences": [
+   {
+    "form": "'maraṇā",
+    "dcs_lemma": "amaraṇa",
+    "sentence": "niśitāsirato 'bhīko nyejate 'maraṇā rucā",
+    "ref": "Kir, 15",
+    "text": "Kirātārjunīya"
+   },
+   {
+    "form": "amaraṇam",
+    "dcs_lemma": "amaraṇa",
+    "sentence": "agādhajanmāmaraṇaṃ ca rājan nirāmayaṃ vītabhayaṃ śivaṃ ca",
+    "ref": "MBh, 12, 296",
+    "text": "Mahābhārata"
+   },
+   {
+    "form": "amaraṇam",
+    "dcs_lemma": "amaraṇa",
+    "sentence": "eṣā rasavidyā śarīraṃ ajarāmaraṇaṃ ajarāmaraṃ kurute śarīraṃ ca dharmārthakāmamokṣāṇāṃ mūlaṃ ataḥ sakalamaṅgalādhāreti yuktam",
+    "ref": "MuA zu RHT, 19, 79.2",
+    "text": "Mugdhāvabodhinī"
+   },
+   {
+    "form": "amaraṇa",
+    "dcs_lemma": "amaraṇa",
+    "sentence": "anayaiva rasavidyayā parameṣṭhino brahmaṇaḥ pūrvaṃ prathamaṃ śreyo 'jarāmaraṇarūpaṃ saṃjātam",
+    "ref": "MuA zu RHT, 19, 79.2",
+    "text": "Mugdhāvabodhinī"
+   }
+  ]
+ },
+ {
+  "id": "H045",
+  "stratum": "hedge",
+  "k1_slp1": "kazAyaka",
+  "mw_L_ids": [
+   "46799"
+  ],
+  "mw_pc": [
+   "265,3"
+  ],
+  "mw_entry_raw": "<s>kazAyaka</s> ¦ <lex>m.</lex> the shrub <bot>Acacia Catechu</bot>, <ls>L.</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "kazAyaka m. the shrub Acacia Catechu, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 44,
+  "dcs_occurrences": [
+   {
+    "form": "kaṣāyakaṃ",
+    "dcs_lemma": "kaṣāyaka",
+    "sentence": "kalkaś ca cūrṇaṃ ca ghaṭī tṛtīye kaṣāyakaṃ jīryati yāmamātre",
+    "ref": "ACint, 1",
+    "text": "Abhinavacintāmaṇi"
+   },
+   {
+    "form": "kaṣāyakāḥ",
+    "dcs_lemma": "kaṣāyaka",
+    "sentence": "rasāḥ svādvamlalavaṇatiktoṣaṇakaṣāyakāḥ",
+    "ref": "AHS, Sū., 1",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "_",
+    "dcs_lemma": "kaṣāyaka",
+    "sentence": "svāduṃ nidāghe śaradi svādutiktakaṣāyakān",
+    "ref": "AHS, Sū., 3",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "kaṣāyakam",
+    "dcs_lemma": "kaṣāyaka",
+    "sentence": "annaṃ rūkṣālpatīkṣṇoṣṇaṃ kaṭutiktakaṣāyakam",
+    "ref": "AHS, Sū., 13",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   }
+  ]
+ },
+ {
+  "id": "H046",
+  "stratum": "hedge",
+  "k1_slp1": "ahimAra",
+  "mw_L_ids": [
+   "21860"
+  ],
+  "mw_pc": [
+   "125,2"
+  ],
+  "mw_entry_raw": "<s>ahi—mAra</s> or <s>ahi—mAraka</s>, ¦ <lex>m.</lex> (= <s>asi-meda</s>, <ab>q.v.</ab>) the plant <bot>Vachellia Farnesiana</bot>, <ls>L.</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "ahi—mAra or ahi—mAraka, m. (= asi-meda, q.v.) the plant Vachellia Farnesiana, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 13,
+  "dcs_occurrences": [
+   {
+    "form": "ahimārāt",
+    "dcs_lemma": "ahimāra",
+    "sentence": "aśvatthajambvāmradhanañjayatvak tvak cāhimārāt khadirasya sāraḥ",
+    "ref": "AHS, Utt., 22",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "ahimāra",
+    "dcs_lemma": "ahimāra",
+    "sentence": "khadirajambūyaṣṭyānantāmrair ahimāranīlotpalānvitaiḥ",
+    "ref": "AHS, Utt., 22",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "ahimāro",
+    "dcs_lemma": "ahimāra",
+    "sentence": "ahimāro 'rimedas tu pītadārur haridrumaḥ",
+    "ref": "AṣṭNigh, 1",
+    "text": "Aṣṭāṅganighaṇṭu"
+   },
+   {
+    "form": "ahimāra",
+    "dcs_lemma": "ahimāra",
+    "sentence": "kaiḥ kṛtvā kṣārauṣadhipaṭvamlaiḥ kṣārauṣadhayo 'himārādayaḥ paṭu saindhavam amlam amlavetasādi etaiḥ kṣudutpattir bhaved ityarthaḥ",
+    "ref": "MuA zu RHT, 3, 3.2",
+    "text": "Mugdhāvabodhinī"
+   }
+  ]
+ },
+ {
+  "id": "H047",
+  "stratum": "hedge",
+  "k1_slp1": "abAla",
+  "mw_L_ids": [
+   "10979.1"
+  ],
+  "mw_pc": [
+   "1314,3"
+  ],
+  "mw_entry_raw": "<s>abAla</s> ¦ <lex>m.</lex> cocoa-nut, <ls>L.</ls><info n=\"sup\"/><info lex=\"m\"/>",
+  "mw_entry_plain": "abAla m. cocoa-nut, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 13,
+  "dcs_occurrences": [
+   {
+    "form": "abāla",
+    "dcs_lemma": "abāla",
+    "sentence": "bālo 'pyabālacaritaḥ kākutstham avikramaḥ",
+    "ref": "BhāMañj, 7",
+    "text": "Bhāratamañjarī"
+   },
+   {
+    "form": "abālāny",
+    "dcs_lemma": "abāla",
+    "sentence": "dhanvani kuśāstīrṇe snigdhakṛṣṇamadhuramṛttike suvarṇavarṇamṛttike vā vyapagataviṣaśvāpadapavanasalilāgnidoṣe karṣaṇavalmīkaśmaśānacaityoṣarāvasathavarjite deśe yathartusukhapavanasalilādityasevite jātāny anupahatāny anadhyārūḍhāny abālāny ajīrṇāny adhigatavīryāṇi śīrṇapurāṇaparṇāny asaṃjātāny aparṇāni tapasi tapasye vā māse śuciḥ prayataḥ kṛtadevārcanaḥ svasti vācayitvā dvijātīn cale sumuhūrte nāgabalāmūlāny uddharet teṣāṃ suprakṣālitānāṃ tvakpiṇḍam āmramātram akṣamātraṃ vā ślakṣṇapiṣṭamāloḍya payasā prātaḥ prayojayet cūrṇīkṛtāni vā pibet payasā madhusarpirbhyāṃ vā saṃyojya bhakṣayet jīrṇe ca kṣīrasarpirbhyāṃ śāliṣaṣṭikam aśnīyāt",
+    "ref": "Ca, Cik., 2",
+    "text": "Carakasaṃhitā"
+   },
+   {
+    "form": "abāla",
+    "dcs_lemma": "abāla",
+    "sentence": "tato vināyakaḥ sākṣādbālo 'bālaparākramaḥ",
+    "ref": "LiPur, 1, 72",
+    "text": "Liṅgapurāṇa"
+   },
+   {
+    "form": "abāla",
+    "dcs_lemma": "abāla",
+    "sentence": "prauḍhādityasahasrasadṛśairnetrairdahantī pathaṃ bālābālaparākramā bhagavatī daityānprahartuṃ yayau",
+    "ref": "LiPur, 1, 72",
+    "text": "Liṅgapurāṇa"
+   }
+  ]
+ },
+ {
+  "id": "H048",
+  "stratum": "hedge",
+  "k1_slp1": "AKukarRI",
+  "mw_L_ids": [
+   "22453"
+  ],
+  "mw_pc": [
+   "129,1"
+  ],
+  "mw_entry_raw": "<s>A-Ku—karRI</s> ¦ <lex>f.</lex> <ab>id.</ab>, <ls>L.</ls><info lex=\"f\"/>",
+  "mw_entry_plain": "A-Ku—karRI f. id., L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 14,
+  "dcs_occurrences": [
+   {
+    "form": "ākhukarṇī",
+    "dcs_lemma": "ākhukarṇī",
+    "sentence": "ākhukarṇīkisalayaiḥ supiṣṭaiḥ piṣṭamiśritaiḥ",
+    "ref": "AHS, Cikitsitasthāna, 20",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "ākhukarṇī",
+    "dcs_lemma": "ākhukarṇī",
+    "sentence": "vṛṣakarṇyākhukarṇī ca tathā bhūmipariśrayā",
+    "ref": "AṣṭNigh, 1",
+    "text": "Aṣṭāṅganighaṇṭu"
+   },
+   {
+    "form": "ākhukarṇī",
+    "dcs_lemma": "ākhukarṇī",
+    "sentence": "guñjā kośātakī nīlī ākhukarṇī triparṇikā",
+    "ref": "RRĀ, V.kh., 2",
+    "text": "Rasaratnākara"
+   },
+   {
+    "form": "ākhukarṇī",
+    "dcs_lemma": "ākhukarṇī",
+    "sentence": "ākhukarṇī meghanādaḥ priyaṅgurmeṣaśṛṅgikā",
+    "ref": "RRĀ, V.kh., 2",
+    "text": "Rasaratnākara"
+   }
+  ]
+ },
+ {
+  "id": "H049",
+  "stratum": "hedge",
+  "k1_slp1": "alakta",
+  "mw_L_ids": [
+   "16535"
+  ],
+  "mw_pc": [
+   "94,1"
+  ],
+  "mw_entry_raw": "<s>alakta</s> ¦ <lex>m.</lex> (said to be for <s>arakta</s>), red juice or lac (obtained from the red resin of certain trees and from the cochineal's red sap), <ls>L.</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "alakta m. (said to be for arakta), red juice or lac (obtained from the red resin of certain trees and from the cochineal's red sap), L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 10,
+  "dcs_occurrences": [
+   {
+    "form": "'lakto",
+    "dcs_lemma": "alakta",
+    "sentence": "lākṣā rākṣā jatu klībe yāvo 'lakto drumāmayaḥ",
+    "ref": "AKośa, 2",
+    "text": "Amarakośa"
+   },
+   {
+    "form": "alaktaḥ",
+    "dcs_lemma": "alakta",
+    "sentence": "lākṣā palaṃkaṣālakto yāvo vṛkṣāmayo jatuḥ",
+    "ref": "BhPr, 6, 2",
+    "text": "Bhāvaprakāśa"
+   },
+   {
+    "form": "alakta",
+    "dcs_lemma": "alakta",
+    "sentence": "tava idam paśyantyāḥ prasaradanurāgam bahiḥ iva priyāpādālaktachuritam aruṇachāyahṛdayam",
+    "ref": "GītGov, 8",
+    "text": "Gītagovinda"
+   },
+   {
+    "form": "alakta",
+    "dcs_lemma": "alakta",
+    "sentence": "alaktatāmrādharapallavaśriyā samānayantīm iva bandhujīvakam",
+    "ref": "Kir, 4",
+    "text": "Kirātārjunīya"
+   }
+  ]
+ },
+ {
+  "id": "H050",
+  "stratum": "hedge",
+  "k1_slp1": "dIrGapattrA",
+  "mw_L_ids": [
+   "93090",
+   "93091",
+   "93092"
+  ],
+  "mw_pc": [
+   "482,1",
+   "482,1",
+   "482,1"
+  ],
+  "mw_entry_raw": "<s>dIrGa—pattrA</s> ¦ <lex>f.</lex> a kind of plant related to the <bot>Hemionitis Cordifolia</bot>, <ls>L.</ls><info lex=\"f\"/>\n---\n¦ <bot>Pandanus Odoratissimus</bot>, <ls>L.</ls><info lex=\"inh\"/>\n---\n¦ = <s>qoqIganDa-pattrA</s> &c., <ls>L.</ls><info lex=\"inh\"/>",
+  "mw_entry_plain": "dIrGa—pattrA f. a kind of plant related to the Hemionitis Cordifolia, L. || Pandanus Odoratissimus, L. || = qoqIganDa-pattrA &c., L.",
+  "ls_citations": [
+   "L.",
+   "L.",
+   "L."
+  ],
+  "dcs2026_tokens": 10,
+  "dcs_occurrences": [
+   {
+    "form": "dīrghapattrā",
+    "dcs_lemma": "dīrghapattrā",
+    "sentence": "varṣābhūḥ dīrghapattrā ca vikasas tu kaṭhillakaḥ",
+    "ref": "AṣṭNigh, 1",
+    "text": "Aṣṭāṅganighaṇṭu"
+   },
+   {
+    "form": "dīrghapattrā",
+    "dcs_lemma": "dīrghapattrā",
+    "sentence": "vidārigandhā dīrghāṅgī dīrghapattrāṃśumatyapi",
+    "ref": "BhPr, 6, Guḍūcyādivarga",
+    "text": "Bhāvaprakāśa"
+   },
+   {
+    "form": "dīrghapatrā",
+    "dcs_lemma": "dīrghapattrā",
+    "sentence": "cirapoṭā dīrghapatrā kuntalas tiktakā matā",
+    "ref": "MPālNigh, Abhayādivarga",
+    "text": "Madanapālanighaṇṭu"
+   },
+   {
+    "form": "dīrghapatrā",
+    "dcs_lemma": "dīrghapattrā",
+    "sentence": "punarnavāyāṃ vṛścīro dīrghapatrā śilāṭikā",
+    "ref": "NighŚeṣa, 1",
+    "text": "Nighaṇṭuśeṣa"
+   }
+  ]
+ },
+ {
+  "id": "H051",
+  "stratum": "hedge",
+  "k1_slp1": "sIsaka",
+  "mw_L_ids": [
+   "245228",
+   "245229"
+  ],
+  "mw_pc": [
+   "1219,2",
+   "1219,2"
+  ],
+  "mw_entry_raw": "<s>sIsaka</s> ¦ <lex>m.</lex> <lex>n.</lex> lead, <ls>L.</ls><info lex=\"m:n\"/>\n---\n<s>sIsaka</s> ¦ <lex>m.</lex> = <s>SUla</s>, <ls>L.</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "sIsaka m. n. lead, L. || sIsaka m. = SUla, L.",
+  "ls_citations": [
+   "L.",
+   "L."
+  ],
+  "dcs2026_tokens": 86,
+  "dcs_occurrences": [
+   {
+    "form": "sīsakaṃ",
+    "dcs_lemma": "sīsaka",
+    "sentence": "sīsakaṃ nāgamuragaṃ kāṃsyaṃ kāśaṃ ca ghoṣakam",
+    "ref": "AṣṭNigh, 1",
+    "text": "Aṣṭāṅganighaṇṭu"
+   },
+   {
+    "form": "sīsaka",
+    "dcs_lemma": "sīsaka",
+    "sentence": "mayūramāṃsam eraṇḍasīsakāvasaktam eraṇḍāgnipluṣṭam eraṇḍatailayuktaṃ sadyo vyāpādayati",
+    "ref": "Ca, Sū., 26",
+    "text": "Carakasaṃhitā"
+   },
+   {
+    "form": "sīsaka",
+    "dcs_lemma": "sīsaka",
+    "sentence": "hāridrakamāṃsaṃ hāridrasīsakāvasaktaṃ hāridrāgnipluṣṭaṃ sadyo vyāpādayati tadeva bhasmapāṃśuparidhvastaṃ sakṣaudraṃ sadyo maraṇāya",
+    "ref": "Ca, Sū., 26",
+    "text": "Carakasaṃhitā"
+   },
+   {
+    "form": "sīsaka",
+    "dcs_lemma": "sīsaka",
+    "sentence": "eraṇḍasīsakāsaktaṃ śikhimāṃsaṃ yathaiva hi",
+    "ref": "Ca, Sū., 26",
+    "text": "Carakasaṃhitā"
+   }
+  ]
+ },
+ {
+  "id": "H052",
+  "stratum": "hedge",
+  "k1_slp1": "keSI",
+  "mw_L_ids": [
+   "55920",
+   "55921",
+   "55922",
+   "55923",
+   "55924"
+  ],
+  "mw_pc": [
+   "310,1",
+   "310,1",
+   "310,1",
+   "310,1",
+   "310,1"
+  ],
+  "mw_entry_raw": "<s>ke/SI</s> ¦ <lex>f.</lex> a lock of hair on the crown of the head, <ls>L.</ls><info lex=\"f\"/>\n---\n¦ the Indigo plant, <ls>L.</ls><info lex=\"inh\"/>\n---\n¦ <bot>Carpopogon pruriens</bot>, <ls>L.</ls><info lex=\"inh\"/>\n---\n¦ another plant (<s>BUta-keSI</s>), <ls>L.</ls><info lex=\"inh\"/>\n---\n¦ <ab>N.</ab> of <s1>Durgā</s1>, <ls>L.</ls><info lex=\"inh\"/>",
+  "mw_entry_plain": "ke/SI f. a lock of hair on the crown of the head, L. || the Indigo plant, L. || Carpopogon pruriens, L. || another plant (BUta-keSI), L. || N. of Durgā, L.",
+  "ls_citations": [
+   "L.",
+   "L.",
+   "L.",
+   "L.",
+   "L."
+  ],
+  "dcs2026_tokens": 17,
+  "dcs_occurrences": [
+   {
+    "form": "keśyai",
+    "dcs_lemma": "keśī",
+    "sentence": "tasyai hiraṇyakeśyai nirṛtyā akaraṃ namaḥ",
+    "ref": "AVŚ, 5, 7",
+    "text": "Atharvaveda (Śaunaka)"
+   },
+   {
+    "form": "keśī",
+    "dcs_lemma": "keśī",
+    "sentence": "jaṭilā pūtanā keśī cāraṭī markaṭī vacā",
+    "ref": "AHS, Utt., 6",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "keśī",
+    "dcs_lemma": "keśī",
+    "sentence": "mayūravidalā keśī sahasrā bālamūlikā",
+    "ref": "BhPr, 6, 2",
+    "text": "Bhāvaprakāśa"
+   },
+   {
+    "form": "keśī",
+    "dcs_lemma": "keśī",
+    "sentence": "dvitīyā gandhamāṃsī syāt keśī bhūtajaṭā smṛtā",
+    "ref": "DhanvNigh, Candanādivarga",
+    "text": "Dhanvantarinighaṇṭu"
+   }
+  ]
+ },
+ {
+  "id": "H053",
+  "stratum": "hedge",
+  "k1_slp1": "harabIja",
+  "mw_L_ids": [
+   "260720"
+  ],
+  "mw_pc": [
+   "1289,1"
+  ],
+  "mw_entry_raw": "<s>hara—bIja</s> ¦ <lex>n.</lex> ‘<s1>Śiva</s1>'s seed’, quicksilver, <ls>L.</ls><info lex=\"n\"/>",
+  "mw_entry_plain": "hara—bIja n. ‘Śiva's seed’, quicksilver, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 16,
+  "dcs_occurrences": [
+   {
+    "form": "harabījaṃ",
+    "dcs_lemma": "harabīja",
+    "sentence": "harabījaṃ śatapalaṃ khallamadhye vinikṣipet",
+    "ref": "ACint, 2",
+    "text": "Abhinavacintāmaṇi"
+   },
+   {
+    "form": "harabījaṃ",
+    "dcs_lemma": "harabīja",
+    "sentence": "harabījaṃ rasaḥ sūtaḥ pāradaś capalo 'mṛtaḥ",
+    "ref": "ACint, 2",
+    "text": "Abhinavacintāmaṇi"
+   },
+   {
+    "form": "harabījaṃ",
+    "dcs_lemma": "harabīja",
+    "sentence": "trinetro roṣaṇaḥ svāmī harabījaṃ rasaḥ prabhuḥ",
+    "ref": "MPālNigh, 4",
+    "text": "Madanapālanighaṇṭu"
+   },
+   {
+    "form": "harabījaṃ",
+    "dcs_lemma": "harabīja",
+    "sentence": "agnyāvartitanāge harabījaṃ nikṣipettato dviguṇam",
+    "ref": "RRS, 11",
+    "text": "Rasaratnasamuccaya"
+   }
+  ]
+ },
+ {
+  "id": "H054",
+  "stratum": "hedge",
+  "k1_slp1": "nimbU",
+  "mw_L_ids": [
+   "109093"
+  ],
+  "mw_pc": [
+   "551,3"
+  ],
+  "mw_entry_raw": "<s>nimbU</s> and <s>nimbUka</s>, ¦ <lex>m.</lex> the common lime, <bot>Citrus Acida</bot> (<ab>v.l.</ab> <s>nisbU</s>), <ls>L.</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "nimbU and nimbUka, m. the common lime, Citrus Acida (v.l. nisbU), L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 70,
+  "dcs_occurrences": [
+   {
+    "form": "nimbū",
+    "dcs_lemma": "nimbū",
+    "sentence": "nimbūrasanimbapatrarasair vā yāmamātrakam",
+    "ref": "BhPr, 7, 3",
+    "text": "Bhāvaprakāśa"
+   },
+   {
+    "form": "nimbū",
+    "dcs_lemma": "nimbū",
+    "sentence": "vimardya nimbunīreṇa lepayedvā tadarthakṛt",
+    "ref": "RKDh, 1, 1",
+    "text": "Rasakāmadhenu"
+   },
+   {
+    "form": "nimbū",
+    "dcs_lemma": "nimbū",
+    "sentence": "dvitīyādipuṭe punargandhaṃ dattvā nimbūrasena mardayitvā kukkuṭapuṭaṃ dadyāt",
+    "ref": "RKDh, 1, 2",
+    "text": "Rasakāmadhenu"
+   },
+   {
+    "form": "nimbū",
+    "dcs_lemma": "nimbū",
+    "sentence": "jambīranimbunīreṇa marditaṃ hiṅgulaṃ dinam",
+    "ref": "RMañj, 1",
+    "text": "Rasamañjarī"
+   }
+  ]
+ },
+ {
+  "id": "H055",
+  "stratum": "hedge",
+  "k1_slp1": "kumpa",
+  "mw_L_ids": [
+   "52470"
+  ],
+  "mw_pc": [
+   "292,3"
+  ],
+  "mw_entry_raw": "<s>kumpa</s> ¦ <lex>mfn.</lex> crooked-armed, <ls>L.</ls><info lex=\"m:f:n\"/>",
+  "mw_entry_plain": "kumpa mfn. crooked-armed, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 18,
+  "dcs_occurrences": [
+   {
+    "form": "kumpe",
+    "dcs_lemma": "kumpa",
+    "sentence": "kācakumpe mṛdā limpen madhye niyāmakaṃ rasam",
+    "ref": "RAdhy, 1",
+    "text": "Rasādhyāya"
+   },
+   {
+    "form": "kumpa",
+    "dcs_lemma": "kumpa",
+    "sentence": "kumpodaraṃ bhavedriktaṃ sattvaṃ galati kaṇṭhake",
+    "ref": "RAdhy, 1",
+    "text": "Rasādhyāya"
+   },
+   {
+    "form": "kumpaṃ",
+    "dcs_lemma": "kumpa",
+    "sentence": "kumpaṃ bhaṅktvā śilāsattvaṃ grāhyaṃ yatnena dhīmatā",
+    "ref": "RAdhy, 1",
+    "text": "Rasādhyāya"
+   },
+   {
+    "form": "kumpe",
+    "dcs_lemma": "kumpa",
+    "sentence": "tacca cūrṇaṃ kumpe kṣepyaṃ mṛtahīrakasambhavam",
+    "ref": "RAdhy, 1",
+    "text": "Rasādhyāya"
+   }
+  ]
+ },
+ {
+  "id": "H056",
+  "stratum": "hedge",
+  "k1_slp1": "rAjarIti",
+  "mw_L_ids": [
+   "176589"
+  ],
+  "mw_pc": [
+   "874,1"
+  ],
+  "mw_entry_raw": "<s>rAja—rIti</s> ¦ <lex>f.</lex> a kind of brass or bell-metal, <ls>L.</ls><info lex=\"f\"/>",
+  "mw_entry_plain": "rAja—rIti f. a kind of brass or bell-metal, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 14,
+  "dcs_occurrences": [
+   {
+    "form": "rājarītiḥ",
+    "dcs_lemma": "rājarīti",
+    "sentence": "rājarītirbrahmarītiḥ kapilā piṅgalāpi ca",
+    "ref": "BhPr, 6, 8",
+    "text": "Bhāvaprakāśa"
+   },
+   {
+    "form": "rājarītiḥ",
+    "dcs_lemma": "rājarīti",
+    "sentence": "rājarītiḥ smṛtā rājñī rājaputrī maheśvarī",
+    "ref": "DhanvNigh, 6",
+    "text": "Dhanvantarinighaṇṭu"
+   },
+   {
+    "form": "rājarītī",
+    "dcs_lemma": "rājarīti",
+    "sentence": "ārakūṭaṃ rājarītī rājñīrītirmaheśvarī",
+    "ref": "KaiNigh, 2",
+    "text": "Kaiyadevanighaṇṭu"
+   },
+   {
+    "form": "rājarītiḥ",
+    "dcs_lemma": "rājarīti",
+    "sentence": "vartalohaṃ trilohaṃ ca rājarītirmaheśvarī",
+    "ref": "MPālNigh, 4",
+    "text": "Madanapālanighaṇṭu"
+   }
+  ]
+ },
+ {
+  "id": "H057",
+  "stratum": "hedge",
+  "k1_slp1": "SUrpaparRI",
+  "mw_L_ids": [
+   "220359"
+  ],
+  "mw_pc": [
+   "1086,2"
+  ],
+  "mw_entry_raw": "<s>SUrpa—parRI</s> ¦ <lex>f.</lex> a sort of bean, <bot>Phaseolus Trilobus</bot>, <ls>L.</ls><info lex=\"f\"/>",
+  "mw_entry_plain": "SUrpa—parRI f. a sort of bean, Phaseolus Trilobus, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 16,
+  "dcs_occurrences": [
+   {
+    "form": "śūrpaparṇī",
+    "dcs_lemma": "śūrpaparṇī",
+    "sentence": "balāpunarnavairaṇḍaśūrpaparṇīdvayena tu",
+    "ref": "AHS, Sū., 6",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "śūrpaparṇyaḥ",
+    "dcs_lemma": "śūrpaparṇī",
+    "sentence": "vidāripañcāṅgulavṛścikālīvṛścīvadevāhvayaśūrpaparṇyaḥ",
+    "ref": "AHS, Sū., 15",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "śūrpaparṇī",
+    "dcs_lemma": "śūrpaparṇī",
+    "sentence": "śatāhvāśūrpaparṇyelātvakpattraiḥ ślakṣṇakalkitaiḥ",
+    "ref": "AHS, Śār., 2",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "śūrpaparṇībhiḥ",
+    "dcs_lemma": "śūrpaparṇī",
+    "sentence": "bṛhatyādigaṇābhīrudvibalāśūrpaparṇibhiḥ",
+    "ref": "AHS, Cikitsitasthāna, 9",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   }
+  ]
+ },
+ {
+  "id": "H058",
+  "stratum": "hedge",
+  "k1_slp1": "musalI",
+  "mw_L_ids": [
+   "165974",
+   "165975",
+   "165976",
+   "165977"
+  ],
+  "mw_pc": [
+   "824,3",
+   "824,3",
+   "824,3",
+   "824,3"
+  ],
+  "mw_entry_raw": "<s>mu/salI</s> ¦ (<s>I</s>), <lex>f.</lex> <bot>Curculigo Orchioides</bot>, <ls>L.</ls><info lex=\"f\"/>\n---\n¦ <bot>Salvinia Cucullata</bot>, <ls>L.</ls><info lex=\"inh\"/>\n---\n¦ a house-lizard, <ls>L.</ls><info lex=\"inh\"/>\n---\n¦ an alligator, <ls>L.</ls><info lex=\"inh\"/>",
+  "mw_entry_plain": "mu/salI (I), f. Curculigo Orchioides, L. || Salvinia Cucullata, L. || a house-lizard, L. || an alligator, L.",
+  "ls_citations": [
+   "L.",
+   "L.",
+   "L.",
+   "L."
+  ],
+  "dcs2026_tokens": 91,
+  "dcs_occurrences": [
+   {
+    "form": "musalī",
+    "dcs_lemma": "musalī",
+    "sentence": "kakkolamusalītuṇḍī kanyāpalāśacitrakam",
+    "ref": "ACint, 2",
+    "text": "Abhinavacintāmaṇi"
+   },
+   {
+    "form": "musalī",
+    "dcs_lemma": "musalī",
+    "sentence": "godhāpadī tu suvahā musalī tālamūlikā",
+    "ref": "AKośa, 2",
+    "text": "Amarakośa"
+   },
+   {
+    "form": "musalī",
+    "dcs_lemma": "musalī",
+    "sentence": "gorasthi musalīmūlayuktaṃ vā sājyamākṣikam",
+    "ref": "AHS, Utt., 32",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "musaly",
+    "dcs_lemma": "musalī",
+    "sentence": "hiraṇyapuṣpī kharjūrī tāḍapattrī musaly api",
+    "ref": "AṣṭNigh, 1",
+    "text": "Aṣṭāṅganighaṇṭu"
+   }
+  ]
+ },
+ {
+  "id": "H059",
+  "stratum": "hedge",
+  "k1_slp1": "AvartakI",
+  "mw_L_ids": [
+   "27231"
+  ],
+  "mw_pc": [
+   "156,2"
+  ],
+  "mw_entry_raw": "<s>A-vartakI</s> ¦ <lex>f.</lex> <ab>N.</ab> of a creeping plant, <ls>L.</ls><info lex=\"f\"/>",
+  "mw_entry_plain": "A-vartakI f. N. of a creeping plant, L.",
+  "ls_citations": [
+   "L."
+  ],
+  "dcs2026_tokens": 12,
+  "dcs_occurrences": [
+   {
+    "form": "āvartakī",
+    "dcs_lemma": "āvartakī",
+    "sentence": "āvartakītulāṃ droṇe paced aṣṭāṃśaśeṣitam",
+    "ref": "AHS, Cikitsitasthāna, 19",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "āvartakī",
+    "dcs_lemma": "āvartakī",
+    "sentence": "āvartakyādibhiḥ ṣaḍbhir vivarjitam upadravaiḥ",
+    "ref": "AHS, Utt., 14",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "āvartakī",
+    "dcs_lemma": "āvartakī",
+    "sentence": "tatrāvartacalā dṛṣṭirāvartakyaruṇāsitā",
+    "ref": "AHS, Utt., 14",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "_",
+    "dcs_lemma": "āvartakī",
+    "sentence": "sātalā saptalā carmakaṣāhvāvartakī smṛtā",
+    "ref": "AṣṭNigh, 1",
+    "text": "Aṣṭāṅganighaṇṭu"
+   }
+  ]
+ },
+ {
+  "id": "H060",
+  "stratum": "hedge",
+  "k1_slp1": "kuraRwa",
+  "mw_L_ids": [
+   "52671",
+   "52672"
+  ],
+  "mw_pc": [
+   "293,3",
+   "293,3"
+  ],
+  "mw_entry_raw": "<s>kuraRwa</s> ¦ <lex>m.</lex> yellow amaranth (<s>pItA<srs/>mlAna</s>), <ls>L.</ls><info lex=\"m\"/>\n---\n¦ the plant <bot>Marsilea quadrifolia</bot>, <ls>L.</ls><info lex=\"inh\"/>",
+  "mw_entry_plain": "kuraRwa m. yellow amaranth (pItAmlAna), L. || the plant Marsilea quadrifolia, L.",
+  "ls_citations": [
+   "L.",
+   "L."
+  ],
+  "dcs2026_tokens": 10,
+  "dcs_occurrences": [
+   {
+    "form": "kuraṇṭa",
+    "dcs_lemma": "kuraṇṭa",
+    "sentence": "vṛkṣādanīnalakuśadvayaguṇṭhagundrābhallūkamoraṭakuraṇṭakarambhapārthāḥ",
+    "ref": "AHS, Sū., 15",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "kuraṇṭa",
+    "dcs_lemma": "kuraṇṭa",
+    "sentence": "kuraṇṭamukulopetair muñced evāhni saptame",
+    "ref": "AHS, Utt., 11",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "kuraṇṭa",
+    "dcs_lemma": "kuraṇṭa",
+    "sentence": "praviśya caikapārśve phullapuṣpanirantarakuraṇṭapotapaṅktibhittiparigataṃ garbhagṛham avanipatitāruṇāśokalatāmayam abhinavakusumakorakapulakalāñchitaṃ pratyagrapravālapaṭalapāṭalaṃ kapāṭam udghāṭya prāvikṣam tatra cāsītsvāstīrṇaṃ kusumaśayanam suratopakaraṇavastugarbhāścabhṛṅgārakaḥ",
+    "ref": "DKCar, 2, 3",
+    "text": "Daśakumāracarita"
+   },
+   {
+    "form": "kuraṇṭaḥ",
+    "dcs_lemma": "kuraṇṭa",
+    "sentence": "śuddhaṃ sūtaṃ pāradaṃ bhāgaikaṃ dvidhā dvibhāgaṃ gandhakaṃ tīkṣṇacūrṇaṃ dvayoḥ samaṃ tribhāgaṃ bhṛṅgajo bhṛṅgarājaḥ kākamācī prasiddhā kuraṇṭaḥ pītavāsā",
+    "ref": "ŚGDīp zu ŚdhSaṃh, 2, 12, 162.1",
+    "text": "Gūḍhārthadīpikā"
+   }
+  ]
+ },
+ {
+  "id": "C061",
+  "stratum": "control",
+  "k1_slp1": "trijAtaka",
+  "mw_L_ids": [
+   "87708"
+  ],
+  "mw_pc": [
+   "458,2"
+  ],
+  "mw_entry_raw": "<s>tri—jA˚taka</s> ¦ <lex>n.</lex> the 3 spices (mace, cardamoms, and cinnamon), <ls>Suśr.</ls>; <ls>Daś.</ls><info lex=\"n\"/>",
+  "mw_entry_plain": "tri—jA˚taka n. the 3 spices (mace, cardamoms, and cinnamon), Suśr.; Daś.",
+  "ls_citations": [
+   "Suśr.",
+   "Daś."
+  ],
+  "dcs2026_tokens": 12,
+  "dcs_occurrences": [
+   {
+    "form": "trijātaka",
+    "dcs_lemma": "trijātaka",
+    "sentence": "dhānyāmbu vā guḍavyoṣatrijātakarajo'nvitam",
+    "ref": "AHS, Śār., 1",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "trijātakam",
+    "dcs_lemma": "trijātaka",
+    "sentence": "nidigdhyāḥ phalamūlābhyāṃ palaṃ yuktyā trijātakam",
+    "ref": "AHS, Cikitsitasthāna, 16",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "trijātakaṃ",
+    "dcs_lemma": "trijātaka",
+    "sentence": "trijātakaṃ trikaṭukaṃ kiṃcicca yavaśūkajam",
+    "ref": "AHS, Cikitsitasthāna, 17",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "trijātaka",
+    "dcs_lemma": "trijātaka",
+    "sentence": "vyoṣatrijātakāmbhodakṛmighnāmalakaistrivṛt",
+    "ref": "AHS, Kalpasiddhisthāna, 2",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   }
+  ]
+ },
+ {
+  "id": "C062",
+  "stratum": "control",
+  "k1_slp1": "AvraScana",
+  "mw_L_ids": [
+   "27348"
+  ],
+  "mw_pc": [
+   "156,3"
+  ],
+  "mw_entry_raw": "<s>A-vra/Scana</s> ¦ <lex>n.</lex> the stump of a tree, <ls>TS.</ls>; <ls>ŚBr.</ls>; <ls>KātyŚr.</ls>; <ls>Nyāyam.</ls><info lex=\"n\"/>",
+  "mw_entry_plain": "A-vra/Scana n. the stump of a tree, TS.; ŚBr.; KātyŚr.; Nyāyam.",
+  "ls_citations": [
+   "TS.",
+   "ŚBr.",
+   "KātyŚr.",
+   "Nyāyam."
+  ],
+  "dcs2026_tokens": 11,
+  "dcs_occurrences": [
+   {
+    "form": "āvraścane",
+    "dcs_lemma": "āvraścana",
+    "sentence": "atha āvraścane hiraṇyam nidhāya saṃparistīrya abhijuhoti vanaspate śata valśaḥ viroha svāhā iti",
+    "ref": "BaudhŚS, 4, 1",
+    "text": "Baudhāyanaśrautasūtra"
+   },
+   {
+    "form": "āvraścane",
+    "dcs_lemma": "āvraścana",
+    "sentence": "vanaspate śata valśaḥ viroha iti āvraścane juhoti",
+    "ref": "BhārŚS, 7, 2",
+    "text": "Bhāradvājaśrautasūtra"
+   },
+   {
+    "form": "āvraścane",
+    "dcs_lemma": "āvraścana",
+    "sentence": "atas tvam ity āvraścane juhoti",
+    "ref": "KātyŚS, 6, 1",
+    "text": "Kātyāyanaśrautasūtra"
+   },
+   {
+    "form": "āvraścane",
+    "dcs_lemma": "āvraścana",
+    "sentence": "vanaspate śata valśaḥ vi roha iti āvraścane juhoti",
+    "ref": "TS, 6, 3, 3",
+    "text": "Taittirīyasaṃhitā"
+   }
+  ]
+ },
+ {
+  "id": "C063",
+  "stratum": "control",
+  "k1_slp1": "vipAWa",
+  "mw_L_ids": [
+   "197761"
+  ],
+  "mw_pc": [
+   "974,3"
+  ],
+  "mw_entry_raw": "<s>vipAWa</s> ¦ <lex>m.</lex> (<ab>cf.</ab> <s>vi-pAwa</s> under <s>vi-√ paw</s>) a kind of large arrow (described by, <ls>Nīlak.</ls> as <s>viSAlo vESAKI-muKa-vat</s>), <ls>MBh.</ls>; <ls>R.</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "vipAWa m. (cf. vi-pAwa under vi-√ paw) a kind of large arrow (described by, Nīlak. as viSAlo vESAKI-muKa-vat), MBh.; R.",
+  "ls_citations": [
+   "Nīlak.",
+   "MBh.",
+   "R."
+  ],
+  "dcs2026_tokens": 12,
+  "dcs_occurrences": [
+   {
+    "form": "vipāṭha",
+    "dcs_lemma": "vipāṭha",
+    "sentence": "vipāṭhakṣuranārācān gṛdhrapakṣān alaṃkṛtān",
+    "ref": "MBh, 1, 115",
+    "text": "Mahābhārata"
+   },
+   {
+    "form": "vipāṭhena",
+    "dcs_lemma": "vipāṭha",
+    "sentence": "ekaikena vipāṭhena jaghne mādravatīsutaḥ",
+    "ref": "MBh, 3, 255",
+    "text": "Mahābhārata"
+   },
+   {
+    "form": "vipāṭhān",
+    "dcs_lemma": "vipāṭha",
+    "sentence": "vipāṭhān kṣuradhārāṃśca dhanurbhir nidadhuḥ saha",
+    "ref": "MBh, 4, 5",
+    "text": "Mahābhārata"
+   },
+   {
+    "form": "vipāṭhāḥ",
+    "dcs_lemma": "vipāṭha",
+    "sentence": "vipāṭhāḥ pṛthavaḥ kasya gārdhrapatrāḥ śilāśitāḥ",
+    "ref": "MBh, 4, 38",
+    "text": "Mahābhārata"
+   }
+  ]
+ },
+ {
+  "id": "C064",
+  "stratum": "control",
+  "k1_slp1": "ayonija",
+  "mw_L_ids": [
+   "14995"
+  ],
+  "mw_pc": [
+   "86,1"
+  ],
+  "mw_entry_raw": "<s>a-yoni—ja</s> ¦ <lex>mf(<s>A</s>)n.</lex> not born from the womb, not produced in the ordinary course of generation, generated equivocally, <ls>MBh.</ls> &c.<info lex=\"m:f#A:n\"/>",
+  "mw_entry_plain": "a-yoni—ja mf(A)n. not born from the womb, not produced in the ordinary course of generation, generated equivocally, MBh. &c.",
+  "ls_citations": [
+   "MBh."
+  ],
+  "dcs2026_tokens": 42,
+  "dcs_occurrences": [
+   {
+    "form": "ayonijaḥ",
+    "dcs_lemma": "ayonija",
+    "sentence": "ayonijaśca māṃdhātā sa sarvavijayī nṛpaḥ",
+    "ref": "BhāMañj, 13",
+    "text": "Bhāratamañjarī"
+   },
+   {
+    "form": "ayonijam",
+    "dcs_lemma": "ayonija",
+    "sentence": "ācāryadarśitaṃ devaṃ mantramūrtim ayonijam",
+    "ref": "HBhVil, 2",
+    "text": "Haribhaktivilāsa"
+   },
+   {
+    "form": "ayonijaḥ",
+    "dcs_lemma": "ayonija",
+    "sentence": "brahmā māṃ pātu vadane padmayonir ayonijaḥ",
+    "ref": "KālPur, 56",
+    "text": "Kālikāpurāṇa"
+   },
+   {
+    "form": "ayonijā",
+    "dcs_lemma": "ayonija",
+    "sentence": "svāyambhuvāttu vai rājñī śatarūpā tvayonijā",
+    "ref": "LiPur, 1, 5",
+    "text": "Liṅgapurāṇa"
+   }
+  ]
+ },
+ {
+  "id": "C065",
+  "stratum": "control",
+  "k1_slp1": "svAMkfta",
+  "mw_L_ids": [
+   "258322"
+  ],
+  "mw_pc": [
+   "1277,2"
+  ],
+  "mw_entry_raw": "<s>svA/M-kfta</s> ¦ <lex>mfn.</lex> made <ab n=\"one\">o˚</ab>'s own, seized, <ls>TS.</ls><info lex=\"m:f:n\"/>",
+  "mw_entry_plain": "svA/M-kfta mfn. made o˚'s own, seized, TS.",
+  "ls_citations": [
+   "TS."
+  ],
+  "dcs2026_tokens": 11,
+  "dcs_occurrences": [
+   {
+    "form": "svāṃkṛto",
+    "dcs_lemma": "svāṃkṛta",
+    "sentence": "atha pratiprasthātur graham ādatte svāṃkṛto 'sīti",
+    "ref": "BaudhŚS, 7, 5",
+    "text": "Baudhāyanaśrautasūtra"
+   },
+   {
+    "form": "svāṃkṛto",
+    "dcs_lemma": "svāṃkṛta",
+    "sentence": "svāṃkṛto 'sīti graham apayacchati",
+    "ref": "BaudhŚS, 7, 6",
+    "text": "Baudhāyanaśrautasūtra"
+   },
+   {
+    "form": "svāṃkṛto",
+    "dcs_lemma": "svāṃkṛta",
+    "sentence": "asādayitvā graham ādāyādhvaryur uttiṣṭhati svāṃkṛto 'si madhumatīr na iṣas kṛdhīti",
+    "ref": "BhārŚS, 13, 11",
+    "text": "Bhāradvājaśrautasūtra"
+   },
+   {
+    "form": "svāṃkṛto",
+    "dcs_lemma": "svāṃkṛta",
+    "sentence": "svāṃkṛto 'si",
+    "ref": "MS, 1, 3, 4",
+    "text": "Maitrāyaṇīsaṃhitā"
+   }
+  ]
+ },
+ {
+  "id": "C066",
+  "stratum": "control",
+  "k1_slp1": "jagatIpati",
+  "mw_L_ids": [
+   "76285"
+  ],
+  "mw_pc": [
+   "408,1"
+  ],
+  "mw_entry_raw": "<s>jagatI—pati</s> ¦ <lex>m.</lex> ‘earth-lord’, a king, <ls>MBh. i</ls>, <ls n=\"MBh.\">iii</ls>; <ls>R. i</ls>; <ls>BhP. v</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "jagatI—pati m. ‘earth-lord’, a king, MBh. i, iii; R. i; BhP. v",
+  "ls_citations": [
+   "MBh. i",
+   "iii",
+   "R. i",
+   "BhP. v"
+  ],
+  "dcs2026_tokens": 44,
+  "dcs_occurrences": [
+   {
+    "form": "jagatīpatiḥ",
+    "dcs_lemma": "jagatīpati",
+    "sentence": "iti devarṣiṇā proktaṃ viśrutya jagatīpatiḥ",
+    "ref": "BhāgPur, 4, 8",
+    "text": "Bhāgavatapurāṇa"
+   },
+   {
+    "form": "jagatīpatiḥ",
+    "dcs_lemma": "jagatīpati",
+    "sentence": "brāhmaṇo brahmavarcasvī rājanyo jagatīpatiḥ",
+    "ref": "BhāgPur, 4, 23",
+    "text": "Bhāgavatapurāṇa"
+   },
+   {
+    "form": "jagatīpateḥ",
+    "dcs_lemma": "jagatīpati",
+    "sentence": "asatyamalināṃ vācaṃ nininda jagatīpateḥ",
+    "ref": "BhāMañj, 1",
+    "text": "Bhāratamañjarī"
+   },
+   {
+    "form": "jagatīpatiḥ",
+    "dcs_lemma": "jagatīpati",
+    "sentence": "praharṣavismayotphullalocano jagatīpatiḥ",
+    "ref": "BhāMañj, 1",
+    "text": "Bhāratamañjarī"
+   }
+  ]
+ },
+ {
+  "id": "C067",
+  "stratum": "control",
+  "k1_slp1": "pradih",
+  "mw_L_ids": [
+   "134724"
+  ],
+  "mw_pc": [
+   "680,1"
+  ],
+  "mw_entry_raw": "<s>pra-√ dih</s> ¦ <ab>P.</ab> <s>-degDi</s>, to smear over, besmear, anoint, <ls>Suśr.</ls><info verb=\"pre\" cp=\"P\" parse=\"pra+dih\"/>",
+  "mw_entry_plain": "pra-√ dih P. -degDi, to smear over, besmear, anoint, Suśr.",
+  "ls_citations": [
+   "Suśr."
+  ],
+  "dcs2026_tokens": 45,
+  "dcs_occurrences": [
+   {
+    "form": "pradigdham",
+    "dcs_lemma": "pradih",
+    "sentence": "pāribhadraka tvac tila kalka pradigdham śarīram agninā jvalati",
+    "ref": "ArthaŚ, 14, 2",
+    "text": "Arthaśāstra"
+   },
+   {
+    "form": "pradigdham",
+    "dcs_lemma": "pradih",
+    "sentence": "tena pradigdham aṅgam kuśa āmra phala taila siktam samudramaṇḍūkī phenaka sarjarasa cūrṇa yuktam _ jvalati",
+    "ref": "ArthaŚ, 14, 2",
+    "text": "Arthaśāstra"
+   },
+   {
+    "form": "pradigdho",
+    "dcs_lemma": "pradih",
+    "sentence": "kuṅkumena sadarpeṇa pradigdho 'gurudhūpitaḥ",
+    "ref": "AHS, Sū., 3",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "pradigdhe",
+    "dcs_lemma": "pradih",
+    "sentence": "tat kṣaudrapippalīcūrṇapradigdhe ghṛtabhājane",
+    "ref": "AHS, Cikitsitasthāna, 12",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   }
+  ]
+ },
+ {
+  "id": "C068",
+  "stratum": "control",
+  "k1_slp1": "Ahfti",
+  "mw_L_ids": [
+   "28445"
+  ],
+  "mw_pc": [
+   "163,1"
+  ],
+  "mw_entry_raw": "<s>A-hfti</s> ¦ <lex>f.</lex> bringing or drawing near, <ls>VarBṛS.</ls><info lex=\"f\"/>",
+  "mw_entry_plain": "A-hfti f. bringing or drawing near, VarBṛS.",
+  "ls_citations": [
+   "VarBṛS."
+  ],
+  "dcs2026_tokens": 11,
+  "dcs_occurrences": [
+   {
+    "form": "āhṛtibhiḥ",
+    "dcs_lemma": "āhṛti",
+    "sentence": "yāsāṃ gṛhāt puṣkaralocanaḥ patir na jātvapaityāhṛtibhirhṛdi spṛśan",
+    "ref": "BhāgPur, 1, 10",
+    "text": "Bhāgavatapurāṇa"
+   },
+   {
+    "form": "āhṛtiḥ",
+    "dcs_lemma": "āhṛti",
+    "sentence": "tulasyādyāhṛtir gehasnānam uṣṇodakādikam",
+    "ref": "HBhVil, 1",
+    "text": "Haribhaktivilāsa"
+   },
+   {
+    "form": "āhṛtiḥ",
+    "dcs_lemma": "āhṛti",
+    "sentence": "bhīṣmako 'thāhṛtiścaiva dyumatsenaśca vīryavān",
+    "ref": "MBh, 2, 4",
+    "text": "Mahābhārata"
+   },
+   {
+    "form": "āhṛtiḥ",
+    "dcs_lemma": "āhṛti",
+    "sentence": "bhrātā yasyāhṛtiḥ śūro jāmadagnyasamo yudhi",
+    "ref": "MBh, 2, 13",
+    "text": "Mahābhārata"
+   }
+  ]
+ },
+ {
+  "id": "C069",
+  "stratum": "control",
+  "k1_slp1": "vihas",
+  "mw_L_ids": [
+   "203122"
+  ],
+  "mw_pc": [
+   "1003,1"
+  ],
+  "mw_entry_raw": "<s>vi-√ has</s> ¦ <ab>P.</ab> <s>-hasati</s>, to laugh loudly, burst out laughing, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;\n<div n=\"to\"/>to laugh at (<ab>acc.</ab>, rarely <ab>gen.</ab>), <ls>Kāv.</ls>; <ls>BhP.</ls>; <ls>Pañcat.</ls><info verb=\"pre\" cp=\"P\" parse=\"vi+has\"/>",
+  "mw_entry_plain": "vi-√ has P. -hasati, to laugh loudly, burst out laughing, MBh.; Kāv. &c.; to laugh at (acc., rarely gen.), Kāv.; BhP.; Pañcat.",
+  "ls_citations": [
+   "MBh.",
+   "Kāv.",
+   "Kāv.",
+   "BhP.",
+   "Pañcat."
+  ],
+  "dcs2026_tokens": 99,
+  "dcs_occurrences": [
+   {
+    "form": "vihasya",
+    "dcs_lemma": "vihas",
+    "sentence": "sthagayati muhuḥ patyurnetre vihasya samākulā surataviratā ramyā tanvī muhurmuhurīkṣate",
+    "ref": "AmaruŚ, 1",
+    "text": "Amaruśataka"
+   },
+   {
+    "form": "vihasya",
+    "dcs_lemma": "vihas",
+    "sentence": "vihasya dhikkṛto yogī na yāti vikṛtiṃ manāk",
+    "ref": "Aṣṭāvakragīta, 18",
+    "text": "Aṣṭāvakragīta"
+   },
+   {
+    "form": "vihasya",
+    "dcs_lemma": "vihas",
+    "sentence": "vetreṇa cāskhalayatām atadarhaṇāṃs tau tejo vihasya bhagavatpratikūlaśīlau",
+    "ref": "BhāgPur, 3, 15",
+    "text": "Bhāgavatapurāṇa"
+   },
+   {
+    "form": "vihasan",
+    "dcs_lemma": "vihas",
+    "sentence": "manasā dūyamānena vihasannidamabravīt",
+    "ref": "BhāgPur, 10, 1",
+    "text": "Bhāgavatapurāṇa"
+   }
+  ]
+ },
+ {
+  "id": "C070",
+  "stratum": "control",
+  "k1_slp1": "mahIBuj",
+  "mw_L_ids": [
+   "161582"
+  ],
+  "mw_pc": [
+   "803,2"
+  ],
+  "mw_entry_raw": "<s>mahI—Buj</s> ¦ <lex>m.</lex> ‘earth-enjoyer’, a king, <ls>Kāv.</ls>; <ls>Kathās.</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "mahI—Buj m. ‘earth-enjoyer’, a king, Kāv.; Kathās.",
+  "ls_citations": [
+   "Kāv.",
+   "Kathās."
+  ],
+  "dcs2026_tokens": 40,
+  "dcs_occurrences": [
+   {
+    "form": "mahībhujām",
+    "dcs_lemma": "mahībhuj",
+    "sentence": "mahībhujāmahibhayaṃ svapakṣaprabhavaṃ bhayam",
+    "ref": "AKośa, 2",
+    "text": "Amarakośa"
+   },
+   {
+    "form": "mahībhujaḥ",
+    "dcs_lemma": "mahībhuj",
+    "sentence": "dahyamāneṣu sarpeṣu sarpasatre mahībhujaḥ",
+    "ref": "BhāMañj, 1",
+    "text": "Bhāratamañjarī"
+   },
+   {
+    "form": "mahībhujaḥ",
+    "dcs_lemma": "mahībhuj",
+    "sentence": "astīkasyātha vacasā sarpasatre mahībhujaḥ",
+    "ref": "BhāMañj, 1",
+    "text": "Bhāratamañjarī"
+   },
+   {
+    "form": "mahībhujaḥ",
+    "dcs_lemma": "mahībhuj",
+    "sentence": "tataḥ kadācidudyāne tānkumārānmahībhujaḥ",
+    "ref": "BhāMañj, 1",
+    "text": "Bhāratamañjarī"
+   }
+  ]
+ },
+ {
+  "id": "C071",
+  "stratum": "control",
+  "k1_slp1": "aSezeRa",
+  "mw_L_ids": [
+   "19648"
+  ],
+  "mw_pc": [
+   "113,3"
+  ],
+  "mw_entry_raw": "<s>a-SezeRa</s> ¦ <lex>ind.</lex> <ab>id.</ab>, <ls>MBh.</ls> &c.<info lex=\"ind\"/>",
+  "mw_entry_plain": "a-SezeRa ind. id., MBh. &c.",
+  "ls_citations": [
+   "MBh."
+  ],
+  "dcs2026_tokens": 39,
+  "dcs_occurrences": [
+   {
+    "form": "aśeṣeṇa",
+    "dcs_lemma": "aśeṣeṇa",
+    "sentence": "yathādṛṣṭam aśeṣeṇa kanyāyās tadvyatikramam",
+    "ref": "HV, 108",
+    "text": "Harivaṃśa"
+   },
+   {
+    "form": "aśeṣeṇa",
+    "dcs_lemma": "aśeṣeṇa",
+    "sentence": "kṣayaṃ nītāstvaśeṣeṇa nirapatyo bhaviṣyati",
+    "ref": "KūPur, 1, 18",
+    "text": "Kūrmapurāṇa"
+   },
+   {
+    "form": "aśeṣeṇa",
+    "dcs_lemma": "aśeṣeṇa",
+    "sentence": "mahābhūtānyaśeṣeṇa mahādevasya dhīmataḥ",
+    "ref": "LiPur, 2, 10",
+    "text": "Liṅgapurāṇa"
+   },
+   {
+    "form": "aśeṣeṇa",
+    "dcs_lemma": "aśeṣeṇa",
+    "sentence": "yuddham etat tvaśeṣeṇa śṛṇuyāṃ tava tejasā",
+    "ref": "MBh, 6, 2",
+    "text": "Mahābhārata"
+   }
+  ]
+ },
+ {
+  "id": "C072",
+  "stratum": "control",
+  "k1_slp1": "Sabdabrahman",
+  "mw_L_ids": [
+   "212737"
+  ],
+  "mw_pc": [
+   "1053,1"
+  ],
+  "mw_entry_raw": "<s>Sabda—brahman</s> ¦ <lex>n.</lex> ‘word-brahman’, the <s1>Veda</s1> considered as a revealed sound or word and identified with the Supreme, <ls>MaitrUp.</ls>; <ls>Pur.</ls><info lex=\"n\"/>",
+  "mw_entry_plain": "Sabda—brahman n. ‘word-brahman’, the Veda considered as a revealed sound or word and identified with the Supreme, MaitrUp.; Pur.",
+  "ls_citations": [
+   "MaitrUp.",
+   "Pur."
+  ],
+  "dcs2026_tokens": 29,
+  "dcs_occurrences": [
+   {
+    "form": "śabdabrahma",
+    "dcs_lemma": "śabdabrahman",
+    "sentence": "dve brahmaṇī veditavye śabdabrahma paraṃ ca yat",
+    "ref": "AgniPur, 1",
+    "text": "Agnipurāṇa"
+   },
+   {
+    "form": "śabdabrahma",
+    "dcs_lemma": "śabdabrahman",
+    "sentence": "kalpo yatrābhavad brahmā śabdabrahmeti yaṃ viduḥ",
+    "ref": "BhāgPur, 3, 11",
+    "text": "Bhāgavatapurāṇa"
+   },
+   {
+    "form": "śabdabrahma",
+    "dcs_lemma": "śabdabrahman",
+    "sentence": "śabdabrahmātmanas tasya vyaktāvyaktātmanaḥ paraḥ",
+    "ref": "BhāgPur, 3, 12",
+    "text": "Bhāgavatapurāṇa"
+   },
+   {
+    "form": "śabdabrahmaṇi",
+    "dcs_lemma": "śabdabrahman",
+    "sentence": "śabdabrahmaṇi niṣṇāto na niṣṇāyāt pare yadi",
+    "ref": "BhāgPur, 11, 11",
+    "text": "Bhāgavatapurāṇa"
+   }
+  ]
+ },
+ {
+  "id": "C073",
+  "stratum": "control",
+  "k1_slp1": "GozavatI",
+  "mw_L_ids": [
+   "69887"
+  ],
+  "mw_pc": [
+   "378,1"
+  ],
+  "mw_entry_raw": "<s>Goza—vatI</s> ¦ <lex>f.</lex> a peculiar kind of lute, <ls>Kathās. xi f.</ls>, <ls n=\"Kathās.\">cxi.</ls><info lex=\"f\"/>",
+  "mw_entry_plain": "Goza—vatI f. a peculiar kind of lute, Kathās. xi f., cxi.",
+  "ls_citations": [
+   "Kathās. xi f.",
+   "cxi."
+  ],
+  "dcs2026_tokens": 10,
+  "dcs_occurrences": [
+   {
+    "form": "ghoṣavatī",
+    "dcs_lemma": "ghoṣavatī",
+    "sentence": "vīṇā punarghoṣavatī vipañcī kaṇṭhakūṇikā",
+    "ref": "AbhCint, 2",
+    "text": "Abhidhānacintāmaṇi"
+   },
+   {
+    "form": "ghoṣavatī",
+    "dcs_lemma": "ghoṣavatī",
+    "sentence": "sanāgamūrchanā grāhyā vīṇā ghoṣavatī tvayā",
+    "ref": "BKŚS, 5",
+    "text": "Bṛhatkathāślokasaṃgraha"
+   },
+   {
+    "form": "ghoṣavatīm",
+    "dcs_lemma": "ghoṣavatī",
+    "sentence": "madhuraṃ nisvaneyus tāṃ vidyāṃ ghoṣavatīm iti",
+    "ref": "BKŚS, 5",
+    "text": "Bṛhatkathāślokasaṃgraha"
+   },
+   {
+    "form": "ghoṣavatī",
+    "dcs_lemma": "ghoṣavatī",
+    "sentence": "tāta ghoṣavatīghoṣasaṃgītaṃ śrāvyatām iti",
+    "ref": "BKŚS, 5",
+    "text": "Bṛhatkathāślokasaṃgraha"
+   }
+  ]
+ },
+ {
+  "id": "C074",
+  "stratum": "control",
+  "k1_slp1": "aBisaMci",
+  "mw_L_ids": [
+   "12753"
+  ],
+  "mw_pc": [
+   "72,2"
+  ],
+  "mw_entry_raw": "<s>aBi-saM-</s>√ <hom>1.</hom> <s>ci</s> ¦ <ab>Ā.</ab> <s>-cinute</s>, (<ab>Opt.</ab> 1. <ab>sg.</ab> <s>-cinvIya</s>) to pile up (the sacrificial fire) for the benefit of (one's self, <s>AtmA/nam</s>), <ls>ŚBr.</ls><info verb=\"pre\" cp=\"Ā\" parse=\"aBi+sam+ci\"/>",
+  "mw_entry_plain": "aBi-saM-√ 1. ci Ā. -cinute, (Opt. 1. sg. -cinvIya) to pile up (the sacrificial fire) for the benefit of (one's self, AtmA/nam), ŚBr.",
+  "ls_citations": [
+   "ŚBr."
+  ],
+  "dcs2026_tokens": 11,
+  "dcs_occurrences": [
+   {
+    "form": "abhisaṃcinvīya",
+    "dcs_lemma": "abhisaṃci",
+    "sentence": "so 'yaṃ saṃvatsaraḥ prajāpatir akāmayatāgniṃ sarvān kāmān ātmānam abhisaṃcinvīyeti",
+    "ref": "ŚBM, 10, 2, 4",
+    "text": "Śatapathabrāhmaṇa"
+   },
+   {
+    "form": "abhisamacinuta",
+    "dcs_lemma": "abhisaṃci",
+    "sentence": "sa ekaśatadhātmānaṃ vidhāyāgniṃ sarvān kāmān ātmānam abhisamacinuta",
+    "ref": "ŚBM, 10, 2, 4",
+    "text": "Śatapathabrāhmaṇa"
+   },
+   {
+    "form": "abhisaṃcinute",
+    "dcs_lemma": "abhisaṃci",
+    "sentence": "tathaivaitad yajamānaḥ ekaśatadhātmānaṃ vidhāyāgniṃ sarvān kāmān ātmānam abhisaṃcinute",
+    "ref": "ŚBM, 10, 2, 4",
+    "text": "Śatapathabrāhmaṇa"
+   },
+   {
+    "form": "abhisaṃcinute",
+    "dcs_lemma": "abhisaṃci",
+    "sentence": "tad yāvān vāsantika ṛtau kāmas taṃ tat sarvam ātmānam abhisaṃcinute",
+    "ref": "ŚBM, 10, 2, 5",
+    "text": "Śatapathabrāhmaṇa"
+   }
+  ]
+ },
+ {
+  "id": "C075",
+  "stratum": "control",
+  "k1_slp1": "alajI",
+  "mw_L_ids": [
+   "16579"
+  ],
+  "mw_pc": [
+   "94,1"
+  ],
+  "mw_entry_raw": "<s>alajI</s> ¦ <lex>f.</lex> <ab>id.</ab>, <ls>Suśr.</ls><info lex=\"f\"/>",
+  "mw_entry_plain": "alajI f. id., Suśr.",
+  "ls_citations": [
+   "Suśr."
+  ],
+  "dcs2026_tokens": 40,
+  "dcs_occurrences": [
+   {
+    "form": "alajeḥ",
+    "dcs_lemma": "alajī",
+    "sentence": "visalpasya vidradhasya vātīkārasya vālajeḥ",
+    "ref": "AVŚ, 9, 8",
+    "text": "Atharvaveda (Śaunaka)"
+   },
+   {
+    "form": "alajī",
+    "dcs_lemma": "alajī",
+    "sentence": "tadāśrayā maṣavyaṅgagaṇḍālajyarbudādayaḥ",
+    "ref": "AHS, Sū., 12",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "alajī",
+    "dcs_lemma": "alajī",
+    "sentence": "śarāvikā kacchapikā jālinī vinatālajī",
+    "ref": "AHS, Nidānasthāna, 10",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   },
+   {
+    "form": "alajī",
+    "dcs_lemma": "alajī",
+    "sentence": "raktakṛṣṇātitṛṭsphoṭadāhamohajvarālajī",
+    "ref": "AHS, Nidānasthāna, 10",
+    "text": "Aṣṭāṅgahṛdayasaṃhitā"
+   }
+  ]
+ },
+ {
+  "id": "C076",
+  "stratum": "control",
+  "k1_slp1": "karaMDama",
+  "mw_L_ids": [
+   "44095"
+  ],
+  "mw_pc": [
+   "253,2"
+  ],
+  "mw_entry_raw": "<s>kara—M-Dama</s> ¦ <lex>m.</lex> <ab>N.</ab> of two princes, <ls>MBh.</ls>; <ls>VP.</ls> &c.<info lex=\"m\"/>",
+  "mw_entry_plain": "kara—M-Dama m. N. of two princes, MBh.; VP. &c.",
+  "ls_citations": [
+   "MBh.",
+   "VP."
+  ],
+  "dcs2026_tokens": 14,
+  "dcs_occurrences": [
+   {
+    "form": "karaṃdhama",
+    "dcs_lemma": "karaṃdhama",
+    "sentence": "karaṃdhamakule śrīmānmarutto 'bhūnmahīpatiḥ",
+    "ref": "BhāMañj, 14",
+    "text": "Bhāratamañjarī"
+   },
+   {
+    "form": "karaṃdhamo",
+    "dcs_lemma": "karaṃdhama",
+    "sentence": "karaṃdhamo 'bhavadyājyastvatpituḥ pṛthivīpatiḥ",
+    "ref": "BhāMañj, 14",
+    "text": "Bhāratamañjarī"
+   },
+   {
+    "form": "karandhamo",
+    "dcs_lemma": "karaṃdhama",
+    "sentence": "karandhamo vibhūtestu tato jāto 'pyavikṣitaḥ",
+    "ref": "GarPur, 1, 138",
+    "text": "Garuḍapurāṇa"
+   },
+   {
+    "form": "karandhamaḥ",
+    "dcs_lemma": "karaṃdhama",
+    "sentence": "bhargādbhānurabhūtputro bhānoḥ putraḥ karandhamaḥ",
+    "ref": "GarPur, 1, 139",
+    "text": "Garuḍapurāṇa"
+   }
+  ]
+ },
+ {
+  "id": "C077",
+  "stratum": "control",
+  "k1_slp1": "yaTApraSnam",
+  "mw_L_ids": [
+   "169827"
+  ],
+  "mw_pc": [
+   "842,2"
+  ],
+  "mw_entry_raw": "<s>yaTA—praSnam</s> ¦ <lex>ind.</lex> <ab n=\"according\">acc˚</ab> to the questions, <ls>BhP.</ls>; <ls>Suśr.</ls><info lex=\"ind\"/>",
+  "mw_entry_plain": "yaTA—praSnam ind. acc˚ to the questions, BhP.; Suśr.",
+  "ls_citations": [
+   "BhP.",
+   "Suśr."
+  ],
+  "dcs2026_tokens": 11,
+  "dcs_occurrences": [
+   {
+    "form": "yathāpraśnaṃ",
+    "dcs_lemma": "yathāpraśnam",
+    "sentence": "yathāpraśnaṃ bhagavatā vyāhṛtaṃ cāndrabhāginā",
+    "ref": "Ca, Sū., 13",
+    "text": "Carakasaṃhitā"
+   },
+   {
+    "form": "yathāpraśnaṃ",
+    "dcs_lemma": "yathāpraśnam",
+    "sentence": "yathāpraśnaṃ bhagavatā cikitsā yaiḥ pravartate",
+    "ref": "Ca, Sū., 22",
+    "text": "Carakasaṃhitā"
+   },
+   {
+    "form": "yathāpraśnam",
+    "dcs_lemma": "yathāpraśnam",
+    "sentence": "ityetadyathāpraśnam abhinirdiṣṭaṃ bhavatīti",
+    "ref": "Ca, Sū., 26",
+    "text": "Carakasaṃhitā"
+   },
+   {
+    "form": "yathāpraśnam",
+    "dcs_lemma": "yathāpraśnam",
+    "sentence": "iti yathāpraśnamuktamaśeṣeṇa",
+    "ref": "Ca, Sū., 30",
+    "text": "Carakasaṃhitā"
+   }
+  ]
+ },
+ {
+  "id": "C078",
+  "stratum": "control",
+  "k1_slp1": "kusinDa",
+  "mw_L_ids": [
+   "53572"
+  ],
+  "mw_pc": [
+   "298,1"
+  ],
+  "mw_entry_raw": "<s>ku/sinDa</s> ¦ <lex>n.</lex> a trunk, <ls>AV.</ls>; <ls>Kāṭh.</ls>; <ls>ŚBr.</ls><info lex=\"n\"/>",
+  "mw_entry_plain": "ku/sinDa n. a trunk, AV.; Kāṭh.; ŚBr.",
+  "ls_citations": [
+   "AV.",
+   "Kāṭh.",
+   "ŚBr."
+  ],
+  "dcs2026_tokens": 13,
+  "dcs_occurrences": [
+   {
+    "form": "kusindhaṃ",
+    "dcs_lemma": "kusindha",
+    "sentence": "śroṇī yad ūrū ka u taj jajāna yābhyāṃ kusindhaṃ sudṛḍhaṃ babhūva",
+    "ref": "AVŚ, 10, 2",
+    "text": "Atharvaveda (Śaunaka)"
+   },
+   {
+    "form": "kusindhe",
+    "dcs_lemma": "kusindha",
+    "sentence": "aṃsau ko asya tad devaḥ kusindhe adhy ā dadhau",
+    "ref": "AVŚ, 10, 2",
+    "text": "Atharvaveda (Śaunaka)"
+   },
+   {
+    "form": "kusindha",
+    "dcs_lemma": "kusindha",
+    "sentence": "brāhmaṇasya brahmahatyāgurutalpagamanasuvarṇasteyasurāpāneṣu kusindhabhagasṛgālasurādhvajāṃs taptenāyasā lalāṭe 'ṅkayitvā viṣayān nirdhamanam",
+    "ref": "BaudhDhS, 1, 18",
+    "text": "Baudhāyanadharmasūtra"
+   },
+   {
+    "form": "kusindham",
+    "dcs_lemma": "kusindha",
+    "sentence": "saumyaṃ babhrum ṛṣabhaṃ prathamakusindham ālabheta yo rājya āśaṃseta",
+    "ref": "KS, 13, 3",
+    "text": "Kāṭhakasaṃhitā"
+   }
+  ]
+ },
+ {
+  "id": "C079",
+  "stratum": "control",
+  "k1_slp1": "indranIla",
+  "mw_L_ids": [
+   "29033"
+  ],
+  "mw_pc": [
+   "166,3"
+  ],
+  "mw_entry_raw": "<s>indra—nIla</s> ¦ <lex>m.</lex> a sapphire, <ls>Ragh.</ls>; <ls>Megh.</ls>; <ls>Śiś.</ls>; <ls>BhP.</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "indra—nIla m. a sapphire, Ragh.; Megh.; Śiś.; BhP.",
+  "ls_citations": [
+   "Ragh.",
+   "Megh.",
+   "Śiś.",
+   "BhP."
+  ],
+  "dcs2026_tokens": 78,
+  "dcs_occurrences": [
+   {
+    "form": "indranīlo",
+    "dcs_lemma": "indranīla",
+    "sentence": "indranīlo nīlāvalīyaḥ kalāyapuṣpako mahānīlo jambvābho jīmūtaprabho nandakaḥ sravanmadhyaḥ",
+    "ref": "ArthaŚ, 2, 11",
+    "text": "Arthaśāstra"
+   },
+   {
+    "form": "indranīleṣu",
+    "dcs_lemma": "indranīla",
+    "sentence": "śikhareṣv indranīleṣu hemakumbhair adhiśritam",
+    "ref": "BhāgPur, 3, 23",
+    "text": "Bhāgavatapurāṇa"
+   },
+   {
+    "form": "indranīla",
+    "dcs_lemma": "indranīla",
+    "sentence": "indranīlamaṇistambhānghaṭṭayandehakāntibhiḥ",
+    "ref": "BhāMañj, 5",
+    "text": "Bhāratamañjarī"
+   },
+   {
+    "form": "indranīlaḥ",
+    "dcs_lemma": "indranīla",
+    "sentence": "indranīlaśca gomedastathā vaidūryamityapi",
+    "ref": "BhPr, 6, 8",
+    "text": "Bhāvaprakāśa"
+   }
+  ]
+ },
+ {
+  "id": "C080",
+  "stratum": "control",
+  "k1_slp1": "dEDizavya",
+  "mw_L_ids": [
+   "96765"
+  ],
+  "mw_pc": [
+   "497,2"
+  ],
+  "mw_entry_raw": "<s>dEDizavya</s> ¦ <lex>m.</lex> (<ab>fr.</ab> <s>diDizU</s>) <ab>prob.</ab> the son of a woman by her second husband, <ls>ŚrS.</ls><info lex=\"m\"/>",
+  "mw_entry_plain": "dEDizavya m. (fr. diDizU) prob. the son of a woman by her second husband, ŚrS.",
+  "ls_citations": [
+   "ŚrS."
+  ],
+  "dcs2026_tokens": 11,
+  "dcs_occurrences": [
+   {
+    "form": "daidhiṣavyam",
+    "dcs_lemma": "daidhiṣavya",
+    "sentence": "yatas jīvebhyaḥ na pitṝn upaiti yam ānaśe duṣkṛtam daidhiṣavyam a yajñiyaḥ prathamaḥ yaḥ viveśa kṛcchrāt id jyotiḥ abhi aśnavātai",
+    "ref": "AVP, 1, 70",
+    "text": "Atharvaveda (Paippalāda)"
+   },
+   {
+    "form": "daidhiṣavyam",
+    "dcs_lemma": "daidhiṣavya",
+    "sentence": "bhūmiḥ dveṣṭi carantam enam yam ānaśe duṣkṛtam daidhiṣavyam",
+    "ref": "AVP, 1, 70",
+    "text": "Atharvaveda (Paippalāda)"
+   },
+   {
+    "form": "daidhiṣavya",
+    "dcs_lemma": "daidhiṣavya",
+    "sentence": "athāsanād bahiḥsadasaṃ tṛṇaṃ nirasyaty ahe daidhiṣavyod atas tiṣṭhānyasya sadane sīda yo 'smat pākatara iti",
+    "ref": "BaudhŚS, 7, 10",
+    "text": "Baudhāyanaśrautasūtra"
+   },
+   {
+    "form": "daidhiṣavya",
+    "dcs_lemma": "daidhiṣavya",
+    "sentence": "praviśya yatropavekṣyan bhavati tad upatiṣṭhate 'he daidhiṣavyod atas tiṣṭhānyasya sadane sīda yo 'smat pākatara iti",
+    "ref": "BhārŚS, 13, 21",
+    "text": "Bhāradvājaśrautasūtra"
+   }
+  ]
+ }
+]
