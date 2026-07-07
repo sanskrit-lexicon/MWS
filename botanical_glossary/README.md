@@ -11,6 +11,10 @@ tags, with provenance and corpus attestation. Supersedes the frequency-only
 | [`bot_glossary.py`](bot_glossary.py) | builds everything (`python bot_glossary.py`) |
 | `mw_botanical_glossary.csv` | one row per `<bot>` occurrence: headword (SLP1+IAST), species (canonical + raw), L-number, page/col, sense citation, lexicographer-only flag, DCS band |
 | `species_to_sanskrit.json` | canonical species → sorted Sanskrit synonym ring |
+| `homograph_control_headwords.csv` | one row per botanical headword with the homograph-control flags (`lexicographer_only_any`, `botanical_only`, `dcs_attested`, `clean_confirmation`); every headline count reproduces by filtering it |
+| [`gbif_currency.py`](gbif_currency.py) | GBIF nomenclatural-currency pass (`python gbif_currency.py`) |
+| `species_currency.csv` | per-species GBIF resolution: accepted vs synonym, accepted name, family |
+| [`CURRENCY_SUMMARY.md`](CURRENCY_SUMMARY.md) | accepted-vs-synonym split of MW's binomials |
 | [`BOTANICAL_SUMMARY.md`](BOTANICAL_SUMMARY.md) | headline numbers + the L. cross-link |
 
 ## Headline

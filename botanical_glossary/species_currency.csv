@@ -1,0 +1,1224 @@
+species_canonical,gbif_matched_name,rank,status,accepted_name,family,match_type,confidence
+Abelmoschus esculentus,Abelmoschus esculentus,SPECIES,ACCEPTED,,Malvaceae,EXACT,100
+Abrus,Abrus,GENUS,ACCEPTED,,Fabaceae,HIGHERRANK,95
+Abrus precatorius,Abrus precatorius,SPECIES,ACCEPTED,,Fabaceae,EXACT,99
+Acacia,Acacia,GENUS,ACCEPTED,,Fabaceae,EXACT,96
+Acacia arabica,Acacia arabica,SPECIES,SYNONYM,Vachellia nilotica,Fabaceae,EXACT,100
+Acacia catechu,Senegalia,GENUS,ACCEPTED,,Fabaceae,HIGHERRANK,99
+Acacia concinna,Fabaceae,FAMILY,ACCEPTED,,Fabaceae,HIGHERRANK,99
+Acacia farnesiana,Acacia farnesiana,SPECIES,SYNONYM,Vachellia farnesiana,Fabaceae,EXACT,99
+Acacia sirissa,Acacia sirissa,SPECIES,SYNONYM,Albizia lebbeck,Fabaceae,EXACT,99
+Acacia suma,Acacia suma,SPECIES,SYNONYM,Senegalia polyacantha,Fabaceae,EXACT,99
+Acampe papillosa,Acampe papillosa,SPECIES,SYNONYM,Acampe praemorsa,Orchidaceae,EXACT,100
+Achyranthes,Achyranthes,GENUS,ACCEPTED,,Amaranthaceae,HIGHERRANK,95
+Achyranthes aquatica,Achyranthes aquatica,SPECIES,SYNONYM,Centrostachys aquatica,Amaranthaceae,EXACT,100
+Achyranthes aspera,Achyranthes aspera,SPECIES,ACCEPTED,,Amaranthaceae,EXACT,99
+Achyranthes atropurpurea,Achyranthes atropurpurea,SPECIES,SYNONYM,Pupalia lappacea,Amaranthaceae,EXACT,100
+Achyranthes triandra,Achyranthes triandra,SPECIES,SYNONYM,Alternanthera sessilis,Amaranthaceae,EXACT,100
+Aconitifolius,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Aconitum ferox,Aconitum ferox,SPECIES,ACCEPTED,,Ranunculaceae,EXACT,99
+Aconitum heterophyllum,Aconitum heterophyllum,SPECIES,ACCEPTED,,Ranunculaceae,EXACT,99
+Acorus calamus,Acorus calamus,SPECIES,ACCEPTED,,Acoraceae,EXACT,100
+Acutangula,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Adelia nereifolia,Adelia nereifolia,SPECIES,ACCEPTED,,Euphorbiaceae,EXACT,99
+Adenanthera pavonina,Adenanthera pavonina,SPECIES,ACCEPTED,,Fabaceae,EXACT,100
+Adhatoda,Adhatoda,GENUS,ACCEPTED,,Acanthaceae,EXACT,95
+Adhatoda vasica,Adhatoda vasica,SPECIES,SYNONYM,Justicia adhatoda,Acanthaceae,EXACT,100
+Adhatoda vasika,Adhatoda vasica,SPECIES,SYNONYM,Justicia adhatoda,Acanthaceae,FUZZY,96
+Aegle,Tracheophyta,PHYLUM,ACCEPTED,,,HIGHERRANK,95
+Aegle marmelos,Aegle marmelos,SPECIES,ACCEPTED,,Rutaceae,EXACT,99
+Aeschynomene,Aeschynomene,GENUS,ACCEPTED,,Fabaceae,HIGHERRANK,95
+Aeschynomene grandiflora,Aeschynomene grandiflora,SPECIES,SYNONYM,Sesbania grandiflora,Fabaceae,EXACT,100
+Aeschynomene sesban,Aeschynomene sesban,SPECIES,SYNONYM,Sesbania sesban,Fabaceae,EXACT,99
+Agallochum,Agallochum,GENUS,SYNONYM,,Thymelaeaceae,EXACT,96
+Agasti,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Agasti grandiflora,Agati grandiflora,SPECIES,SYNONYM,Sesbania grandiflora,Fabaceae,FUZZY,88
+Agasti grandiflorum,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Agathotes chirayta,Agathotes chirayta,SPECIES,SYNONYM,Swertia chirayita,Gentianaceae,EXACT,100
+Agati grandiflora,Agati grandiflora,SPECIES,SYNONYM,Sesbania grandiflora,Fabaceae,EXACT,100
+Aglaia odorata,Aglaia odorata,SPECIES,ACCEPTED,,Meliaceae,EXACT,100
+Aglaia roxburghiana,Aglaia roxburghiana,SPECIES,ACCEPTED,,Meliaceae,EXACT,99
+Ajwaen,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Alangium decapetalum,Alangium decapetalum,SPECIES,SYNONYM,Alangium salviifolium,Cornaceae,EXACT,100
+Alangium hexapetalum,Alangium hexapetalum,SPECIES,ACCEPTED,,Cornaceae,EXACT,100
+Alata,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Aletris hyacinthoides,Aletris hyacinthoides,SPECIES,SYNONYM,Dracaena hyacinthoides,Asparagaceae,EXACT,100
+Aleurites triloba,Aleurites trilobus,SPECIES,SYNONYM,Aleurites moluccanus,Euphorbiaceae,FUZZY,97
+Alhagi,Alhagi,GENUS,ACCEPTED,,Fabaceae,EXACT,95
+Alhagi maurorum,Alhagi maurorum,SPECIES,ACCEPTED,,Fabaceae,EXACT,100
+Allium ascalonicum,Allium ascalonicum,SPECIES,ACCEPTED,,Amaryllidaceae,EXACT,100
+Allium cepa,Allium cepa,SPECIES,ACCEPTED,,Amaryllidaceae,EXACT,100
+Aloe,Aloe,GENUS,ACCEPTED,,Asphodelaceae,HIGHERRANK,95
+Aloe indica,Aloe indica,SPECIES,SYNONYM,Aloe vera,Asphodelaceae,EXACT,100
+Aloe perfoliata,Aloe perfoliata,SPECIES,ACCEPTED,,Asphodelaceae,EXACT,100
+Aloes perfoliata,Aloe perfoliata,SPECIES,ACCEPTED,,Asphodelaceae,FUZZY,93
+Alpinia galanga,Alpinia galanga,SPECIES,ACCEPTED,,Zingiberaceae,EXACT,100
+Alpinia nutans,Alpinia nutans,SPECIES,ACCEPTED,,Zingiberaceae,EXACT,99
+Alstonia,Alstonia,GENUS,ACCEPTED,,Apocynaceae,EXACT,95
+Alstonia scholaris,Alstonia scholaris,SPECIES,ACCEPTED,,Apocynaceae,EXACT,100
+Amaranth,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Amaranthus,Amaranthus,GENUS,ACCEPTED,,Amaranthaceae,HIGHERRANK,95
+Amaranthus oleraceus,Amaranthus,GENUS,ACCEPTED,,Amaranthaceae,HIGHERRANK,99
+Amaranthus polygamus,Amaranthus polygamus,SPECIES,ACCEPTED,,Amaranthaceae,EXACT,99
+Amaranthus polygonoides,Amaranthus polygonoides,SPECIES,ACCEPTED,,Amaranthaceae,EXACT,99
+Amaryllis zeylanica,Amaryllis zeylanica,SPECIES,SYNONYM,Crinum zeylanicum,Amaryllidaceae,EXACT,100
+Amomum,Amomum,GENUS,ACCEPTED,,Zingiberaceae,EXACT,95
+Amomum anthorhizon,Amomum,GENUS,ACCEPTED,,Zingiberaceae,HIGHERRANK,95
+Amomum anthorrhiza,Amomum,GENUS,ACCEPTED,,Zingiberaceae,HIGHERRANK,95
+Amomum antorhiza,Amomum,GENUS,ACCEPTED,,Zingiberaceae,HIGHERRANK,95
+Amoora rohitaka,Amoora rohituka,SPECIES,SYNONYM,Aphanamixis polystachya,Meliaceae,FUZZY,96
+Amorphophallus campanulatus,Amorphophallus campanulatus,SPECIES,SYNONYM,Amorphophallus paeoniifolius,Araceae,EXACT,100
+Amphidonax karka,Amphidonax,GENUS,ACCEPTED,,Poaceae,HIGHERRANK,95
+Amyris agallocha,Amyris agallocha,SPECIES,ACCEPTED,,Rutaceae,EXACT,99
+Amyris agallochum,Amyris agallocha,SPECIES,ACCEPTED,,Rutaceae,FUZZY,96
+Anacardium officinarum,Anacardium officinarum,SPECIES,SYNONYM,Semecarpus anacardium,Anacardiaceae,EXACT,100
+Anas casarca,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Andersonia rohitaka,Andersonia rohituka,SPECIES,SYNONYM,Aphanamixis polystachya,Meliaceae,FUZZY,96
+Andersonia rohitika,Andersonia rohituka,SPECIES,SYNONYM,Aphanamixis polystachya,Meliaceae,FUZZY,96
+Andrographis paniculata,Andrographis paniculata,SPECIES,ACCEPTED,,Acanthaceae,EXACT,99
+Andropogon,Andropogon,GENUS,ACCEPTED,,Poaceae,HIGHERRANK,95
+Andropogon acicularis,Andropogon acicularis,SPECIES,SYNONYM,Chrysopogon aciculatus,Poaceae,EXACT,99
+Andropogon aciculatus,Andropogon aciculatus,SPECIES,SYNONYM,Chrysopogon aciculatus,Poaceae,EXACT,100
+Andropogon auriculatus,Andropogon auriculatus,SPECIES,ACCEPTED,,Poaceae,EXACT,100
+Andropogon bicolor,Poaceae,FAMILY,ACCEPTED,,Poaceae,HIGHERRANK,99
+Andropogon jvarāṅkuśa,Andropogon,GENUS,ACCEPTED,,Poaceae,HIGHERRANK,95
+Andropogon muricatum,Andropogon muricatus,SPECIES,SYNONYM,Chrysopogon zizanioides,Poaceae,FUZZY,97
+Andropogon muricatus,Andropogon muricatus,SPECIES,SYNONYM,Chrysopogon zizanioides,Poaceae,EXACT,100
+Andropogon saccharatus,Andropogon saccharatus,SPECIES,SYNONYM,Sorghum bicolor,Poaceae,EXACT,99
+Andropogon schaenunthes,Andropogon,GENUS,ACCEPTED,,Poaceae,HIGHERRANK,95
+Andropogon schoenanthus,Andropogon schoenanthus,SPECIES,ACCEPTED,,Poaceae,EXACT,99
+Andropogon serratum,Andropogon serratus,SPECIES,ACCEPTED,,Poaceae,FUZZY,96
+Andropogon serratus,Andropogon serratus,SPECIES,ACCEPTED,,Poaceae,EXACT,99
+Anethum graveolens,Anethum graveolens,SPECIES,ACCEPTED,,Apiaceae,EXACT,99
+Anethum panmori,Anethum panmori,SPECIES,SYNONYM,Foeniculum vulgare,Apiaceae,EXACT,100
+Anethum panmorium,Anethum panmorium,SPECIES,SYNONYM,Foeniculum vulgare,Apiaceae,EXACT,99
+Anethum sowa,Anethum sowa,SPECIES,ACCEPTED,,Apiaceae,EXACT,99
+Anethum sowa roxb,Anethum sowa,SPECIES,ACCEPTED,,Apiaceae,HIGHERRANK,99
+Anethuni sowa,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Anisum,Anisum,GENUS,SYNONYM,,Apiaceae,EXACT,96
+Annona reticulata,Annona reticulata,SPECIES,ACCEPTED,,Annonaceae,EXACT,99
+Annona squamosa,Annona squamosa,SPECIES,ACCEPTED,,Annonaceae,EXACT,99
+Anogeissus latifolia,Anogeissus latifolia,SPECIES,SYNONYM,Terminalia anogeissiana,Combretaceae,EXACT,99
+Anona reticulata,Magnoliopsida,CLASS,ACCEPTED,,,HIGHERRANK,86
+Anthemis pyrethrum,Asteraceae,FAMILY,ACCEPTED,,Asteraceae,HIGHERRANK,99
+Anthericum juberosum,Anthericum,GENUS,ACCEPTED,,Asparagaceae,HIGHERRANK,95
+Anthericum tuberosum,Chlorophytum,GENUS,ACCEPTED,,Asparagaceae,HIGHERRANK,99
+Antilope picta,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Antiquorum,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Apium involucratum,Apium involucratum,SPECIES,SYNONYM,Psammogeton involucratum,Apiaceae,EXACT,99
+Aquila agallocha,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Aquilaria agallocha,Aquilaria agallocha,SPECIES,ACCEPTED,,Thymelaeaceae,EXACT,99
+Arabicus,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Arborea,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Ardea nivea,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Ardisia humilis,Ardisia humilis,SPECIES,ACCEPTED,,Primulaceae,EXACT,99
+Ardisia solanacea,Ardisia solanacea,SPECIES,SYNONYM,Ardisia humilis,Primulaceae,EXACT,100
+Areca,Areca,GENUS,ACCEPTED,,Arecaceae,HIGHERRANK,95
+Areca catechu,Areca catechu,SPECIES,ACCEPTED,,Arecaceae,EXACT,100
+Areca faufel,Areca faufel,SPECIES,SYNONYM,Areca catechu,Arecaceae,EXACT,100
+Areca faufel or catechu,Areca faufel,SPECIES,SYNONYM,Areca catechu,Arecaceae,HIGHERRANK,100
+Areca triandra,Areca triandra,SPECIES,ACCEPTED,,Arecaceae,EXACT,99
+Argemone mexicana,Argemone mexicana,SPECIES,ACCEPTED,,Papaveraceae,EXACT,100
+Argentea,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Argyreia argenteia,Argyreia argentea,SPECIES,ACCEPTED,,Convolvulaceae,FUZZY,95
+Argyreia speciosa,Argyreia speciosa,SPECIES,ACCEPTED,,Convolvulaceae,EXACT,99
+Argyreia speciosa or argentea,Argyreia speciosa,SPECIES,ACCEPTED,,Convolvulaceae,HIGHERRANK,99
+Aristolochia indica,Aristolochia indica,SPECIES,ACCEPTED,,Aristolochiaceae,EXACT,100
+Arjuna,Arjona,GENUS,ACCEPTED,,Schoepfiaceae,FUZZY,80
+Aroidea,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,80
+Aromatica,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Artemisia,Artemisia,SPECIES,ACCEPTED,,Asteraceae,EXACT,95
+Artemisia abrotanum,Artemisia abrotanum,SPECIES,ACCEPTED,,Asteraceae,EXACT,99
+Artemisia indica,Artemisia indica,SPECIES,ACCEPTED,,Asteraceae,EXACT,100
+Artemisia sternutatoria,Artemisia sternutatoria,SPECIES,SYNONYM,Centipeda minima,Asteraceae,EXACT,100
+Artemisia vulgaris,Artemisia vulgaris,SPECIES,ACCEPTED,,Asteraceae,EXACT,99
+Artocarpus integrifolia,Artocarpus integrifolius,SPECIES,SYNONYM,Artocarpus integer,Moraceae,FUZZY,97
+Artocarpus lacucha,Artocarpus lacucha,SPECIES,ACCEPTED,,Moraceae,EXACT,99
+Artocarpus lacucha roxb,Artocarpus lacucha,SPECIES,ACCEPTED,,Moraceae,HIGHERRANK,99
+Artocarpus lakuca,Artocarpus lacucha,SPECIES,ACCEPTED,,Moraceae,FUZZY,93
+Artocarpus lakucha,Artocarpus lacucha,SPECIES,ACCEPTED,,Moraceae,FUZZY,95
+Arum,Arum,GENUS,ACCEPTED,,Araceae,HIGHERRANK,95
+Arum campanulatum,Arum campanulatum,SPECIES,SYNONYM,Amorphophallus paeoniifolius,Araceae,EXACT,100
+Arum colocasia,Arum colocasia,SPECIES,SYNONYM,Colocasia esculenta,Araceae,EXACT,100
+Arum indicum,Arum indicum,SPECIES,SYNONYM,Alocasia indica,Araceae,EXACT,100
+Arum macrorrhizum,Arum macrorrhizon,SPECIES,SYNONYM,Alocasia macrorrhizos,Araceae,FUZZY,95
+Arum orixense,Typhonium,GENUS,ACCEPTED,,Araceae,HIGHERRANK,99
+Arundo bengalensis,Arundo bengalensis,SPECIES,ACCEPTED,,Poaceae,EXACT,99
+Arundo karka,Arundo karka,SPECIES,SYNONYM,Phragmites karka,Poaceae,EXACT,100
+Arundo tibialis,Arundo tibialis,SPECIES,ACCEPTED,,Poaceae,EXACT,99
+Asa,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Asa fetida,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Asa foetida,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Ascalonicum,Ascalonicum,GENUS,SYNONYM,,Amaryllidaceae,EXACT,96
+Asclepia rosea,Apocynaceae,FAMILY,ACCEPTED,,Apocynaceae,HIGHERRANK,85
+Asclepias,Asclepias,GENUS,ACCEPTED,,Apocynaceae,HIGHERRANK,95
+Asclepias acida,Asclepias acida,SPECIES,SYNONYM,Cynanchum acidum,Apocynaceae,EXACT,100
+Asclepias curassavica,Asclepias curassavica,SPECIES,ACCEPTED,,Apocynaceae,EXACT,99
+Asclepias echinata,Apocynaceae,FAMILY,ACCEPTED,,Apocynaceae,HIGHERRANK,99
+Asclepias geminata,Asclepias geminata,SPECIES,SYNONYM,Gymnema sylvestre,Apocynaceae,EXACT,100
+Asclepias gigantea,Calotropis,GENUS,ACCEPTED,,Apocynaceae,HIGHERRANK,99
+Asclepias lactifera,Asclepias lactifera,SPECIES,SYNONYM,Gymnema lactiferum,Apocynaceae,EXACT,100
+Asclepias pseudosarsa,Asclepias pseudosarsa,SPECIES,SYNONYM,Microloma tenuifolium,Apocynaceae,EXACT,100
+Asclepias rosea,Apocynaceae,FAMILY,ACCEPTED,,Apocynaceae,HIGHERRANK,99
+Asclepias rosea roxb,Apocynaceae,FAMILY,ACCEPTED,,Apocynaceae,HIGHERRANK,99
+Asoka,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Asparagus,Asparagus,GENUS,ACCEPTED,,Asparagaceae,HIGHERRANK,95
+Asparagus racemosa,Asparagus racemosus,SPECIES,ACCEPTED,,Asparagaceae,FUZZY,98
+Asparagus racemosus,Asparagus racemosus,SPECIES,ACCEPTED,,Asparagaceae,EXACT,100
+Asparagus racemosus willd,Asparagus racemosus,SPECIES,ACCEPTED,,Asparagaceae,HIGHERRANK,100
+Aspera,Aspera,GENUS,SYNONYM,,Rubiaceae,EXACT,96
+Asteracantha,Asteracantha,GENUS,SYNONYM,,Acanthaceae,EXACT,96
+Asteracantha longifolia,Asteracantha longifolia,SPECIES,SYNONYM,Hygrophila auriculata,Acanthaceae,EXACT,100
+Asthmatica,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Astonia scholaris,Astonia,GENUS,ACCEPTED,,Alismataceae,HIGHERRANK,96
+Auriculatum,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Austriaca,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Autographis paniculata,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Avaria longifolia,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Averrhoa acida,Averrhoa acida,SPECIES,SYNONYM,Phyllanthus acidus,Phyllanthaceae,EXACT,100
+Averrhoa carambola,Averrhoa carambola,SPECIES,ACCEPTED,,Oxalidaceae,EXACT,100
+Azadirachta indica,Azadirachta indica,SPECIES,ACCEPTED,,Meliaceae,EXACT,100
+Balanites roxburghii,Balanites roxburghii,SPECIES,SYNONYM,Balanites aegyptiaca,Zygophyllaceae,EXACT,100
+Bambusa spinosa,Bambusa spinosa,SPECIES,ACCEPTED,,Poaceae,EXACT,99
+Bambusa spinosa hamilt. roxb,Bambusa spinosa,SPECIES,ACCEPTED,,Poaceae,HIGHERRANK,99
+Banyan,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Barleria,Barleria,GENUS,ACCEPTED,,Acanthaceae,EXACT,96
+Barleria caerulea,Acanthaceae,FAMILY,ACCEPTED,,Acanthaceae,HIGHERRANK,99
+Barleria caeruli,Acanthaceae,FAMILY,ACCEPTED,,Acanthaceae,HIGHERRANK,95
+Barleria cristata,Barleria cristata,SPECIES,ACCEPTED,,Acanthaceae,EXACT,99
+Barleria longifolia,Barleria longifolia,SPECIES,ACCEPTED,,Acanthaceae,EXACT,99
+Barleria prionitis,Barleria prionitis,SPECIES,ACCEPTED,,Acanthaceae,EXACT,100
+Barringtonia,Barringtonia,GENUS,ACCEPTED,,Lecythidaceae,EXACT,96
+Barringtonia acutangula,Barringtonia acutangula,SPECIES,ACCEPTED,,Lecythidaceae,EXACT,99
+Barringtonia acutangula gaertn,Barringtonia acutangula,SPECIES,ACCEPTED,,Lecythidaceae,HIGHERRANK,99
+Basella,Basella,GENUS,ACCEPTED,,Basellaceae,EXACT,96
+Basella cordifolia,Basella cordifolia,SPECIES,SYNONYM,Basella alba,Basellaceae,EXACT,100
+Basella lucida,Basella lucida,SPECIES,SYNONYM,Basella alba,Basellaceae,EXACT,100
+Basella rubra,Basella rubra,SPECIES,SYNONYM,Basella alba,Basellaceae,EXACT,100
+Basilicum,Basilicum,GENUS,ACCEPTED,,Lamiaceae,EXACT,96
+Basilicum pilosum benth,Basilicum,GENUS,ACCEPTED,,Lamiaceae,HIGHERRANK,96
+Bassia,Bassia,GENUS,ACCEPTED,,Amaranthaceae,EXACT,95
+Bassia latifolia,Magnoliopsida,CLASS,ACCEPTED,,,HIGHERRANK,99
+Batatas edulis,Batatas edulis,SPECIES,SYNONYM,Ipomoea batatas,Convolvulaceae,EXACT,100
+Batatas paniculata,Batatas paniculata,SPECIES,SYNONYM,Ipomoea mauritiana,Convolvulaceae,EXACT,100
+Batatus paniculata,Batatas paniculata,SPECIES,SYNONYM,Ipomoea mauritiana,Convolvulaceae,FUZZY,88
+Bauhinea purpurea,Bauhinia purpurea,SPECIES,ACCEPTED,,Fabaceae,FUZZY,86
+Bauhinia candida,Bauhinia candida,SPECIES,SYNONYM,Bauhinia variegata,Fabaceae,EXACT,99
+Bauhinia tomentosa,Bauhinia tomentosa,SPECIES,ACCEPTED,,Fabaceae,EXACT,99
+Bauhinia variegata,Bauhinia variegata,SPECIES,ACCEPTED,,Fabaceae,EXACT,100
+Bauhinia variegata purpurescens,Bauhinia variegata purpurascens,VARIETY,SYNONYM,Bauhinia variegata,Fabaceae,FUZZY,96
+Beleric myrobalan,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Bellerica,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Bengalensis,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Benincasa cerifera,Benincasa cerifera,SPECIES,SYNONYM,Benincasa hispida,Cucurbitaceae,EXACT,100
+Beninkasa cerifera,Benincasa cerifera,SPECIES,SYNONYM,Benincasa hispida,Cucurbitaceae,FUZZY,88
+Benjamin,Benjamina,GENUS,SYNONYM,,Rutaceae,FUZZY,84
+Benzoin,Benzoin,GENUS,ACCEPTED,,Lauraceae,EXACT,95
+Berberis asiatica,Berberis asiatica,SPECIES,ACCEPTED,,Berberidaceae,EXACT,99
+Beta bengalensis,Beta bengalensis,SPECIES,SYNONYM,Beta vulgaris,Amaranthaceae,EXACT,100
+Betula,Betula,GENUS,ACCEPTED,,Betulaceae,HIGHERRANK,95
+Betula bhojpatra,Betula bhojpatra,SPECIES,ACCEPTED,,Betulaceae,EXACT,99
+Bhang,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Bhojapattra,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Bhojpatra,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Bicchati,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Bignonia,Bignonia,GENUS,ACCEPTED,,Bignoniaceae,EXACT,95
+Bignonia chelonioides,Bignonia chelonoides,SPECIES,SYNONYM,Stereospermum chelonoides,Bignoniaceae,FUZZY,96
+Bignonia indica,Bignoniaceae,FAMILY,ACCEPTED,,Bignoniaceae,HIGHERRANK,99
+Bignonia suaveolens,Bignonia suaveolens,SPECIES,SYNONYM,Stereospermum chelonoides,Bignoniaceae,EXACT,100
+Bignonia suaveolens roxb,Bignonia suaveolens,SPECIES,SYNONYM,Stereospermum chelonoides,Bignoniaceae,HIGHERRANK,100
+Bishdori,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Blumea lacera,Blumea lacera,SPECIES,ACCEPTED,,Asteraceae,EXACT,99
+Blyxa,Blyxa,GENUS,ACCEPTED,,Hydrocharitaceae,EXACT,96
+Blyxa octandra,Blyxa octandra,SPECIES,ACCEPTED,,Hydrocharitaceae,EXACT,99
+Blyxa octandra rich,Blyxa octandra,SPECIES,ACCEPTED,,Hydrocharitaceae,HIGHERRANK,99
+Blyxa saivala,Blyxa saivala,SPECIES,SYNONYM,Blyxa octandra,Hydrocharitaceae,EXACT,100
+Boerhavia,Boerhavia,GENUS,ACCEPTED,,Nyctaginaceae,EXACT,96
+Boerhavia diffusa,Boerhavia diffusa,SPECIES,ACCEPTED,,Nyctaginaceae,EXACT,99
+Boerhavia erecta,Boerhavia erecta,SPECIES,ACCEPTED,,Nyctaginaceae,EXACT,99
+Boerhavia erecta rosea,Boerhavia erecta,SPECIES,ACCEPTED,,Nyctaginaceae,HIGHERRANK,99
+Boerhavia procumbens,Boerhavia procumbens,SPECIES,SYNONYM,Boerhavia diffusa,Nyctaginaceae,EXACT,99
+Bombax heptaphyllum,Bombax heptaphyllum,SPECIES,ACCEPTED,,Malvaceae,EXACT,99
+Bombax heptaphyllus,Bombax heptaphyllum,SPECIES,ACCEPTED,,Malvaceae,FUZZY,96
+Bombyx heptaphylum,Bombax heptaphyllum,SPECIES,ACCEPTED,,Malvaceae,FUZZY,86
+Borassus flabelliformis,Borassus flabelliformis,SPECIES,SYNONYM,Borassus flabellifer,Arecaceae,EXACT,99
+Boswellia,Boswellia,GENUS,ACCEPTED,,Burseraceae,HIGHERRANK,95
+Boswellia serrata,Boswellia serrata,SPECIES,ACCEPTED,,Burseraceae,EXACT,99
+Boswellia thurifera,Boswellia thurifera,SPECIES,SYNONYM,Boswellia serrata,Burseraceae,EXACT,99
+Boswellia thurifera roxb,Boswellia thurifera,SPECIES,SYNONYM,Boswellia serrata,Burseraceae,HIGHERRANK,99
+Bryonia grandis,Cucurbitaceae,FAMILY,ACCEPTED,,Cucurbitaceae,HIGHERRANK,99
+Buchanania latifolia,Buchanania latifolia,SPECIES,SYNONYM,Buchanania cochinchinensis,Anacardiaceae,EXACT,100
+Butea,Butea,GENUS,ACCEPTED,,Fabaceae,EXACT,95
+Butea frondosa,Butea frondosa,SPECIES,ACCEPTED,,Fabaceae,EXACT,99
+Cactus indicus,Cactus indicus,SPECIES,SYNONYM,Opuntia monacanthos,Cactaceae,EXACT,100
+Cactus opuntia,Cactus opuntia,SPECIES,ACCEPTED,,Cactaceae,EXACT,99
+Cadamba,Cadamba,GENUS,SYNONYM,,Rubiaceae,EXACT,96
+Caesalpina bonducella,Caesalpinia bonducella,SPECIES,SYNONYM,Guilandina bonduc,Fabaceae,FUZZY,85
+Caesalpina sappan,Caesalpinia sappan,SPECIES,SYNONYM,Biancaea sappan,Fabaceae,FUZZY,86
+Caesalpinia bonducella,Caesalpinia bonducella,SPECIES,SYNONYM,Guilandina bonduc,Fabaceae,EXACT,99
+Caesalpinia pulcherrima,Caesalpinia pulcherrima,SPECIES,ACCEPTED,,Fabaceae,EXACT,99
+Caesalpinia sappan,Caesalpinia sappan,SPECIES,SYNONYM,Biancaea sappan,Fabaceae,EXACT,100
+Cajanus indicus,Cajanus indicus,SPECIES,SYNONYM,Cajanus cajan,Fabaceae,EXACT,100
+Cajanus indicus spreng,Cajanus indicus,SPECIES,SYNONYM,Cajanus cajan,Fabaceae,HIGHERRANK,100
+Caladium,Caladium,GENUS,ACCEPTED,,Araceae,EXACT,96
+Calamus,Calamus,GENUS,ACCEPTED,,Arecaceae,EXACT,95
+Calamus fascicularis,Calamus fasciculatus,SPECIES,SYNONYM,Calamus viminalis,Arecaceae,FUZZY,96
+Calamus fasciculatus,Calamus fasciculatus,SPECIES,SYNONYM,Calamus viminalis,Arecaceae,EXACT,100
+Calamus rotang,Calamus rotang,SPECIES,ACCEPTED,,Arecaceae,EXACT,100
+Calanius rotang,Calamus rotang,SPECIES,ACCEPTED,,Arecaceae,FUZZY,81
+Calophyllum inophyllum,Calophyllum inophyllum,SPECIES,ACCEPTED,,Calophyllaceae,EXACT,99
+Calosanthes,Calosanthes,GENUS,SYNONYM,,Bignoniaceae,EXACT,96
+Calosanthes indica,Calosanthes indica,SPECIES,SYNONYM,Oroxylum indicum,Bignoniaceae,EXACT,100
+Calotropis,Calotropis,GENUS,ACCEPTED,,Apocynaceae,HIGHERRANK,95
+Calotropis gigantea,Calotropis gigantea,SPECIES,ACCEPTED,,Apocynaceae,EXACT,99
+Calotropis gigantea alba,Calotropis gigantea,SPECIES,ACCEPTED,,Apocynaceae,HIGHERRANK,99
+Campaka,Campana,GENUS,SYNONYM,,Bignoniaceae,FUZZY,84
+Canna indica,Canna indica,SPECIES,ACCEPTED,,Cannaceae,EXACT,99
+Cannabis sativa,Cannabis sativa,SPECIES,ACCEPTED,,Cannabaceae,EXACT,100
+Canscora decussata,Canscora decussata,SPECIES,SYNONYM,Canscora alata,Gentianaceae,EXACT,100
+Capparis aphylla,Capparis aphylla,SPECIES,SYNONYM,Capparis decidua,Capparaceae,EXACT,100
+Capparis divaricata,Capparis divaricata,SPECIES,ACCEPTED,,Capparaceae,EXACT,100
+Capparis sepiaria,Capparis sepiaria,SPECIES,ACCEPTED,,Capparaceae,EXACT,99
+Capparis spinosa,Capparis spinosa,SPECIES,ACCEPTED,,Capparaceae,EXACT,100
+Capparis trifoliata,Capparis trifoliata,SPECIES,SYNONYM,Crateva tapia,Capparaceae,EXACT,99
+Capparis zeylanica,Capparis zeylanica,SPECIES,ACCEPTED,,Capparaceae,EXACT,99
+Cardia latifolia,Cardia latifolia,SPECIES,SYNONYM,Veronica teucrium,Plantaginaceae,EXACT,100
+Cardiospermum halicacabum,Cardiospermum halicacabum,SPECIES,ACCEPTED,,Sapindaceae,EXACT,100
+Careya arborea,Careya arborea,SPECIES,ACCEPTED,,Lecythidaceae,EXACT,100
+Carissa carandas,Carissa carandas,SPECIES,ACCEPTED,,Apocynaceae,EXACT,99
+Carpopogon pruriens,Carpopogon pruriens,SPECIES,SYNONYM,Mucuna pruriens,Fabaceae,EXACT,100
+Carpopogon pruriens roxb,Carpopogon pruriens,SPECIES,SYNONYM,Mucuna pruriens,Fabaceae,HIGHERRANK,100
+Carthamus tinctoria,Carthamus tinctorius,SPECIES,ACCEPTED,,Asteraceae,FUZZY,98
+Carthamus tinctorius,Carthamus tinctorius,SPECIES,ACCEPTED,,Asteraceae,EXACT,100
+Carum carui,Carum carvi,SPECIES,ACCEPTED,,Apiaceae,FUZZY,96
+Carum carvi,Carum carvi,SPECIES,ACCEPTED,,Apiaceae,EXACT,100
+Caryota urens,Caryota urens,SPECIES,ACCEPTED,,Arecaceae,EXACT,99
+Cassia,Cassia,GENUS,ACCEPTED,,Fabaceae,EXACT,96
+Cassia alata,Cassia alata,SPECIES,SYNONYM,Senna alata,Fabaceae,EXACT,100
+Cassia auriculata,Cassia auriculata,SPECIES,SYNONYM,Senna auriculata,Fabaceae,EXACT,100
+Cassia esculenta,Cassia esculenta,SPECIES,SYNONYM,Senna sophera,Fabaceae,EXACT,100
+Cassia fistula,Cassia fistula,SPECIES,ACCEPTED,,Fabaceae,EXACT,99
+Cassia senna,Cassia senna,SPECIES,SYNONYM,Senna alexandrina,Fabaceae,EXACT,100
+Cassia sophora,Cassia sophora,SPECIES,DOUBTFUL,,Fabaceae,EXACT,99
+Cassia thora,Cassia tora,SPECIES,SYNONYM,Senna tora,Fabaceae,FUZZY,97
+Cassia tora,Cassia tora,SPECIES,SYNONYM,Senna tora,Fabaceae,EXACT,100
+Cassyta filiformis,Cassytha filiformis,SPECIES,ACCEPTED,,Lauraceae,FUZZY,86
+Catechu,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Cathartocarpus,Cathartocarpus,GENUS,SYNONYM,,Fabaceae,EXACT,96
+Cathartocarpus fistula,Cathartocarpus fistula,SPECIES,SYNONYM,Cassia fistula,Fabaceae,EXACT,100
+Cavia alata,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Cedrela toona,Cedrela toona,SPECIES,ACCEPTED,,Meliaceae,EXACT,99
+Celastrus,Celastrus,GENUS,ACCEPTED,,Celastraceae,EXACT,96
+Celastrus paniculatus,Celastrus paniculatus,SPECIES,ACCEPTED,,Celastraceae,EXACT,100
+Celosia cristata,Celosia cristata,SPECIES,SYNONYM,Celosia argentea,Amaranthaceae,EXACT,100
+Celsia coromandelina,Celsia coromandelina,SPECIES,SYNONYM,Verbascum coromandelianum,Scrophulariaceae,EXACT,99
+Celtis orientalis,Cannabaceae,FAMILY,ACCEPTED,,Cannabaceae,HIGHERRANK,99
+Centropus pyropterus,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Cerasus puddum,Cerasus puddum,SPECIES,SYNONYM,Prunus cerasoides,Rosaceae,EXACT,99
+Cesalpinia banducella,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Champaka,Champaca,GENUS,SYNONYM,,Magnoliaceae,FUZZY,84
+Chenopodium,Chenopodium,GENUS,ACCEPTED,,Amaranthaceae,HIGHERRANK,95
+Chenopodium album,Chenopodium album,SPECIES,ACCEPTED,,Amaranthaceae,EXACT,99
+Chloroxylon swietenia,Chloroxylon swietenia,SPECIES,ACCEPTED,,Rutaceae,EXACT,100
+Chrysanthemum indicum,Chrysanthemum indicum,SPECIES,ACCEPTED,,Asteraceae,EXACT,99
+Chrysopogon acicularis,Chrysopogon acicularis,SPECIES,SYNONYM,Chrysopogon aciculatus,Poaceae,EXACT,100
+Chrysopogon aciculatus,Chrysopogon aciculatus,SPECIES,ACCEPTED,,Poaceae,EXACT,100
+Cicca disticha,Cicca disticha,SPECIES,SYNONYM,Phyllanthus acidus,Phyllanthaceae,EXACT,100
+Cicer,Cicer,GENUS,ACCEPTED,,Fabaceae,EXACT,96
+Cicer arietinum,Cicer arietinum,SPECIES,ACCEPTED,,Fabaceae,EXACT,100
+Cicer lens,Cicer lens,SPECIES,SYNONYM,Vicia lens,Fabaceae,EXACT,100
+Cissampelos hexandra,Cissampelos hexandra,SPECIES,SYNONYM,Stephania japonica,Menispermaceae,EXACT,100
+Cissus pedata,Vitaceae,FAMILY,ACCEPTED,,Vitaceae,HIGHERRANK,99
+Cissus quadrangularis,Cissus quadrangularis,SPECIES,ACCEPTED,,Vitaceae,EXACT,100
+Citrillus colocynthis,Citrullus colocynthis,SPECIES,ACCEPTED,,Cucurbitaceae,FUZZY,89
+Citrina,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Citrus acida,Citrus,GENUS,ACCEPTED,,Rutaceae,HIGHERRANK,99
+Citrus auraritium,Citrus aurantium,SPECIES,ACCEPTED,,Rutaceae,FUZZY,93
+Citrus decumana,Citrus decumana,SPECIES,SYNONYM,Citrus maxima,Rutaceae,EXACT,100
+Citrus medica,Citrus medica,SPECIES,ACCEPTED,,Rutaceae,EXACT,99
+Cleome,Cleome,GENUS,ACCEPTED,,Cleomaceae,EXACT,96
+Cleome felina,Cleome felina,SPECIES,SYNONYM,Corynandra felina,Cleomaceae,EXACT,100
+Cleome pentaphylla,Cleomaceae,FAMILY,ACCEPTED,,Cleomaceae,HIGHERRANK,99
+Cleome viscosa,Cleome viscosa,SPECIES,SYNONYM,Arivela viscosa,Cleomaceae,EXACT,100
+Clerodeesdrum phlomoides,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Clerodendron phlomoides,Clerodendron,GENUS,SYNONYM,,Lamiaceae,HIGHERRANK,96
+Clerodendron siphonanthus,Clerodendron,GENUS,SYNONYM,,Lamiaceae,HIGHERRANK,96
+Clerodendrum phlomoides,Clerodendrum phlomoides,SPECIES,SYNONYM,Clerodendrum phlomoides,Lamiaceae,EXACT,99
+Clerodendrum siphonanthus,Clerodendrum siphonanthus,SPECIES,SYNONYM,Clerodendrum indicum,Lamiaceae,EXACT,99
+Clerodendrum siphonantus,Clerodendrum siphonanthus,SPECIES,SYNONYM,Clerodendrum indicum,Lamiaceae,FUZZY,96
+Clitoria ternatea,Clitoria ternatea,SPECIES,ACCEPTED,,Fabaceae,EXACT,100
+Clypea hernandifolia,Clypea hernandiifolia,SPECIES,SYNONYM,Stephania japonica,Menispermaceae,FUZZY,97
+Cnidium diffusum,Cnidium diffusum,SPECIES,SYNONYM,Psammogeton diffusum,Apiaceae,EXACT,100
+Coccinia grandis,Coccinia grandis,SPECIES,ACCEPTED,,Cucurbitaceae,EXACT,100
+Cocculus,Cocculus,GENUS,ACCEPTED,,Menispermaceae,EXACT,95
+Cocculus cordifolius,Cocculus cordifolius,SPECIES,SYNONYM,Tinospora glabra,Menispermaceae,EXACT,100
+Cocculus indicus,Cocculus indicus,SPECIES,ACCEPTED,,Menispermaceae,EXACT,99
+Cocculus tomentosus,Menispermaceae,FAMILY,ACCEPTED,,Menispermaceae,HIGHERRANK,99
+Coccus cordifolius,Cocculus cordifolius,SPECIES,SYNONYM,Tinospora glabra,Menispermaceae,FUZZY,80
+Coelogyne ovalis,Coelogyne ovalis,SPECIES,ACCEPTED,,Orchidaceae,EXACT,100
+Coix barbata,Coix barbata,SPECIES,SYNONYM,Polytoca gigantea,Poaceae,EXACT,100
+Coleus aniboinicus,Coleus,GENUS,ACCEPTED,,Lamiaceae,HIGHERRANK,96
+Coleus scutellarioides,Coleus scutellarioides,SPECIES,ACCEPTED,,Lamiaceae,EXACT,99
+Colocasia antiquorum,Colocasia antiquorum,SPECIES,SYNONYM,Colocasia esculenta,Araceae,EXACT,100
+Colocynth,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Coloquintida,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Colosanthes indica bl,Calosanthes indica,SPECIES,SYNONYM,Oroxylum indicum,Bignoniaceae,HIGHERRANK,88
+Columba hariola,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Commelina bengalensis,Commelina benghalensis,SPECIES,ACCEPTED,,Commelinaceae,FUZZY,96
+Commelina salicifolia,Commelina salicifolia,SPECIES,ACCEPTED,,Commelinaceae,EXACT,99
+Convolvulus,Convolvulus,GENUS,ACCEPTED,,Convolvulaceae,EXACT,95
+Convolvulus argenteus,Convolvulaceae,FAMILY,ACCEPTED,,Convolvulaceae,HIGHERRANK,99
+Convolvulus paniculatus,Convolvulaceae,FAMILY,ACCEPTED,,Convolvulaceae,HIGHERRANK,99
+Convolvulus repens,Convolvulus repens,SPECIES,ACCEPTED,,Convolvulaceae,EXACT,99
+Convolvulus turpethum,Convolvulus turpethum,SPECIES,SYNONYM,Operculina turpethum,Convolvulaceae,EXACT,100
+Conyza lacera,Conyza lacera,SPECIES,SYNONYM,Blumea lacera,Asteraceae,EXACT,100
+Coraya,Coroya,GENUS,SYNONYM,,Fabaceae,FUZZY,84
+Corchorus capsularis,Corchorus capsularis,SPECIES,ACCEPTED,,Malvaceae,EXACT,100
+Corchorus olitorius,Corchorus olitorius,SPECIES,ACCEPTED,,Malvaceae,EXACT,100
+Cordia latifolia,Cordia,GENUS,ACCEPTED,,Cordiaceae,HIGHERRANK,99
+Cordia myxa,Cordia myxa,SPECIES,ACCEPTED,,Cordiaceae,EXACT,99
+Cordia myxa latifolia,Cordia myxa,SPECIES,ACCEPTED,,Cordiaceae,HIGHERRANK,99
+Cordifolia,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Coriandrum sativum,Coriandrum sativum,SPECIES,ACCEPTED,,Apiaceae,EXACT,100
+Corydalis goveniana,Corydalis govaniana,SPECIES,ACCEPTED,,Papaveraceae,FUZZY,96
+Corypha taliera,Corypha taliera,SPECIES,ACCEPTED,,Arecaceae,EXACT,100
+Corypha umbraculifera,Corypha umbraculifera,SPECIES,ACCEPTED,,Arecaceae,EXACT,99
+Coryza terebinthina,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Costus,Costus,GENUS,ACCEPTED,,Costaceae,EXACT,96
+Costus arabicus,Costus arabicus,SPECIES,ACCEPTED,,Costaceae,EXACT,99
+Costus speciosus,Costus speciosus,SPECIES,SYNONYM,Hellenia speciosa,Costaceae,EXACT,100
+Cowach,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Crataea roxburghii,Crateva roxburghii,SPECIES,SYNONYM,Crateva adansonii,Capparaceae,FUZZY,80
+Crataeva marmelos,Crateva marmelos,SPECIES,SYNONYM,Aegle marmelos,Rutaceae,FUZZY,88
+Crataeva religiosa,Crateva religiosa,SPECIES,ACCEPTED,,Capparaceae,FUZZY,86
+Crataeva roxburghii,Crateva roxburghii,SPECIES,SYNONYM,Crateva adansonii,Capparaceae,FUZZY,88
+Crinum,Crinum,GENUS,ACCEPTED,,Amaryllidaceae,HIGHERRANK,95
+Cristata,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Crocus,Crocus,GENUS,ACCEPTED,,Iridaceae,EXACT,96
+Crocus sativus,Crocus sativus,SPECIES,ACCEPTED,,Iridaceae,EXACT,99
+Crotolaria,Crotolaria,GENUS,DOUBTFUL,,Fabaceae,EXACT,92
+Crotolaria juncea,Crotalaria juncea,SPECIES,ACCEPTED,,Fabaceae,FUZZY,88
+Crotolaria verrucosa,Crotalaria verrucosa,SPECIES,ACCEPTED,,Fabaceae,FUZZY,89
+Croton,Croton,GENUS,ACCEPTED,,Euphorbiaceae,EXACT,95
+Croton jamalgota,Croton jamalgota,SPECIES,SYNONYM,Croton tiglium,Euphorbiaceae,EXACT,100
+Croton polyandrum,Croton polyandrus,SPECIES,ACCEPTED,,Euphorbiaceae,FUZZY,95
+Croton tamalgota,Croton,GENUS,ACCEPTED,,Euphorbiaceae,HIGHERRANK,95
+Croton tiglium,Croton tiglium,SPECIES,ACCEPTED,,Euphorbiaceae,EXACT,100
+Cuculus indicus,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Cuculus melanoleucus,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Cucumis,Cucumis,GENUS,ACCEPTED,,Cucurbitaceae,EXACT,96
+Cucumis acutangulus,Cucurbitaceae,FAMILY,ACCEPTED,,Cucurbitaceae,HIGHERRANK,99
+Cucumis colocynthis,Cucumis colocynthis,SPECIES,SYNONYM,Citrullus colocynthis,Cucurbitaceae,EXACT,99
+Cucumis coloquintha,Cucumis colocynthis,SPECIES,SYNONYM,Citrullus colocynthis,Cucurbitaceae,FUZZY,93
+Cucumis coloquinthida,Cucumis,GENUS,ACCEPTED,,Cucurbitaceae,HIGHERRANK,96
+Cucumis coloquintida,Cucumis,GENUS,ACCEPTED,,Cucurbitaceae,HIGHERRANK,96
+Cucumis maderaspatanus,Cucumis maderaspatanus,SPECIES,ACCEPTED,,Cucurbitaceae,EXACT,99
+Cucumis momordica,Cucumis momordica,SPECIES,SYNONYM,Cucumis melo,Cucurbitaceae,EXACT,100
+Cucumis sativus,Cucumis sativus,SPECIES,ACCEPTED,,Cucurbitaceae,EXACT,100
+Cucumis usitatissimus,Cucumis,GENUS,ACCEPTED,,Cucurbitaceae,HIGHERRANK,96
+Cucumis utilissimus,Cucumis utilissimus,SPECIES,SYNONYM,Cucumis melo,Cucurbitaceae,EXACT,100
+Cucurbita,Cucurbita,GENUS,ACCEPTED,,Cucurbitaceae,HIGHERRANK,95
+Cucurbita citrullus,Cucurbitaceae,FAMILY,ACCEPTED,,Cucurbitaceae,HIGHERRANK,99
+Cucurbita hispida,Benincasa,GENUS,ACCEPTED,,Cucurbitaceae,HIGHERRANK,99
+Cucurbita lagenaria,Cucurbita lagenaria,SPECIES,SYNONYM,Lagenaria siceraria,Cucurbitaceae,EXACT,100
+Cucurbita pepo,Cucurbita pepo,SPECIES,ACCEPTED,,Cucurbitaceae,EXACT,99
+Cucurbitaceous,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Cuminum cyminum,Cuminum cyminum,SPECIES,ACCEPTED,,Apiaceae,EXACT,99
+Curculigo archioides,Curculigo,GENUS,ACCEPTED,,Hypoxidaceae,HIGHERRANK,96
+Curculigo orchioides,Curculigo orchioides,SPECIES,ACCEPTED,,Hypoxidaceae,EXACT,100
+Curcuma,Curcuma,GENUS,ACCEPTED,,Zingiberaceae,EXACT,96
+Curcuma amada,Curcuma amada,SPECIES,ACCEPTED,,Zingiberaceae,EXACT,100
+Curcuma amhaldi,Curcuma,GENUS,ACCEPTED,,Zingiberaceae,HIGHERRANK,96
+Curcuma aromatica,Curcuma aromatica,SPECIES,ACCEPTED,,Zingiberaceae,EXACT,100
+Curcuma cedoaria,Curcuma,GENUS,ACCEPTED,,Zingiberaceae,HIGHERRANK,96
+Curcuma longa,Curcuma longa,SPECIES,ACCEPTED,,Zingiberaceae,EXACT,100
+Curcuma reclinata,Curcuma reclinata,SPECIES,ACCEPTED,,Zingiberaceae,EXACT,100
+Curcuma xanthorrhiza,Curcuma xanthorrhiza,SPECIES,ACCEPTED,,Zingiberaceae,EXACT,100
+Curcuma zanthorrhizza,Curcuma zanthorrhiza,SPECIES,ACCEPTED,,Zingiberaceae,FUZZY,98
+Curcuma zedoaria,Curcuma zedoaria,SPECIES,ACCEPTED,,Zingiberaceae,EXACT,99
+Curcuma zerumbet,Curcuma,GENUS,ACCEPTED,,Zingiberaceae,HIGHERRANK,99
+Curcuma zerumbet roxb,Curcuma,GENUS,ACCEPTED,,Zingiberaceae,HIGHERRANK,99
+Curcunia zedoaria,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Cyanea,Cyanea,GENUS,ACCEPTED,,Campanulaceae,HIGHERRANK,95
+Cymbidum thessaloides,Cymbidium tesselloides,SPECIES,SYNONYM,Vanda tessellata,Orchidaceae,FUZZY,85
+Cyperus,Cyperus,GENUS,ACCEPTED,,Cyperaceae,EXACT,95
+Cyperus hexastachyus communis,Cyperus,GENUS,ACCEPTED,,Cyperaceae,HIGHERRANK,99
+Cyperus hexastychius communis nees,Cyperus,GENUS,ACCEPTED,,Cyperaceae,HIGHERRANK,95
+Cyperus pertenius,Cyperus pertenuis,SPECIES,ACCEPTED,,Cyperaceae,FUZZY,95
+Cyperus pertenuis,Cyperus pertenuis,SPECIES,ACCEPTED,,Cyperaceae,EXACT,99
+Cyperus rotundus,Cyperus rotundus,SPECIES,ACCEPTED,,Cyperaceae,EXACT,99
+Cypraea moneta,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Cytisus cajan,Cytisus cajan,SPECIES,SYNONYM,Cajanus cajan,Fabaceae,EXACT,100
+Daemia extensa,Daemia extensa,SPECIES,SYNONYM,Pergularia daemia,Apocynaceae,EXACT,99
+Dalbergia,Dalbergia,GENUS,ACCEPTED,,Fabaceae,EXACT,96
+Dalbergia ougeinensis,Dalbergia ougeinensis,SPECIES,SYNONYM,Ougeinia oojeinensis,Fabaceae,EXACT,100
+Dalbergia oujeinensis,Dalbergia ougeinensis,SPECIES,SYNONYM,Ougeinia oojeinensis,Fabaceae,FUZZY,96
+Dalbergia sissoo,Dalbergia sissoo,SPECIES,ACCEPTED,,Fabaceae,EXACT,99
+Dalbergia sisu,Dalbergia sissoo,SPECIES,ACCEPTED,,Fabaceae,FUZZY,95
+Dalbergia ujjeinensis,Dalbergia,GENUS,ACCEPTED,,Fabaceae,HIGHERRANK,96
+Datura,Datura,GENUS,ACCEPTED,,Solanaceae,EXACT,96
+Datura alba,Datura alba,SPECIES,SYNONYM,Datura metel,Solanaceae,EXACT,99
+Datura fastuosa,Datura fastuosa,SPECIES,SYNONYM,Datura metel,Solanaceae,EXACT,100
+Datura metel,Datura metel,SPECIES,ACCEPTED,,Solanaceae,EXACT,99
+Daucus carota,Daucus carota,SPECIES,ACCEPTED,,Apiaceae,EXACT,99
+Debilis,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Delphinus,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Delphinus gangeticus,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Delphinus gatigeticus,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Deodar,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Desmochaeta atropurpurea,Desmochaeta atropurpurea,SPECIES,SYNONYM,Pupalia lappacea,Amaranthaceae,EXACT,100
+Desmodium,Desmodium,GENUS,ACCEPTED,,Fabaceae,HIGHERRANK,95
+Desmodium gangeticum,Desmodium gangeticum,SPECIES,ACCEPTED,,Fabaceae,EXACT,99
+Dillenia indica,Dillenia indica,SPECIES,ACCEPTED,,Dilleniaceae,EXACT,99
+Dillenia speciosa,Dilleniaceae,FAMILY,ACCEPTED,,Dilleniaceae,HIGHERRANK,99
+Dioscorea,Dioscorea,GENUS,ACCEPTED,,Dioscoreaceae,EXACT,96
+Dioscorea alata,Dioscorea alata,SPECIES,ACCEPTED,,Dioscoreaceae,EXACT,100
+Dioscorea globosa,Dioscorea globosa,SPECIES,SYNONYM,Dioscorea alata,Dioscoreaceae,EXACT,100
+Dioscorea purpurea,Dioscorea purpurea,SPECIES,SYNONYM,Dioscorea alata,Dioscoreaceae,EXACT,100
+Diospyros,Diospyros,GENUS,ACCEPTED,,Ebenaceae,EXACT,96
+Diospyros ebenaster,Diospyros ebenaster,SPECIES,DOUBTFUL,,Ebenaceae,EXACT,99
+Diospyros embryopteris,Diospyros embryopteris,SPECIES,ACCEPTED,,Ebenaceae,EXACT,99
+Diospyros glutinosa,Diospyros glutinosa,SPECIES,SYNONYM,Diospyros malabarica,Ebenaceae,EXACT,99
+Diospyros tomentosa,Diospyros,GENUS,ACCEPTED,,Ebenaceae,HIGHERRANK,99
+Dolichos,Dolichos,GENUS,ACCEPTED,,Fabaceae,EXACT,95
+Dolichos biflorus,Macrotyloma,GENUS,ACCEPTED,,Fabaceae,HIGHERRANK,99
+Dolichos bulbosus,Dolichos bulbosus,SPECIES,SYNONYM,Pachyrhizus erosus,Fabaceae,EXACT,100
+Dolichos catjang,Dolichos catjang,SPECIES,SYNONYM,Vigna unguiculata,Fabaceae,EXACT,99
+Dolichos lablab,Dolichos lablab,SPECIES,SYNONYM,Lablab purpureus,Fabaceae,EXACT,100
+Dolichos pruriens,Dolichos pruriens,SPECIES,SYNONYM,Mucuna pruriens,Fabaceae,EXACT,100
+Dolichos sinensis,Dolichos sinensis,SPECIES,SYNONYM,Vigna unguiculata,Fabaceae,EXACT,99
+Dolichos uniflorus,Dolichos uniflorus,SPECIES,SYNONYM,Macrotyloma uniflorum,Fabaceae,EXACT,100
+Dracaena nervosa,Dracaena,GENUS,ACCEPTED,,Asparagaceae,HIGHERRANK,95
+Echinata,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Echinops echinatus,Echinops echinatus,SPECIES,ACCEPTED,,Asteraceae,EXACT,100
+Echites caryophyllata,Apocynaceae,FAMILY,ACCEPTED,,Apocynaceae,HIGHERRANK,96
+Echites dichotoma,Echites dichotoma,SPECIES,SYNONYM,Vallaris solanacea,Apocynaceae,EXACT,99
+Echites frutescens,Echites frutescens,SPECIES,SYNONYM,Ichnocarpus frutescens,Apocynaceae,EXACT,100
+Echites scholaris,Echites scholaris,SPECIES,SYNONYM,Alstonia scholaris,Apocynaceae,EXACT,100
+Eclipta,Eclipta,GENUS,ACCEPTED,,Asteraceae,EXACT,96
+Eclipta prostrata,Eclipta prostrata,SPECIES,ACCEPTED,,Asteraceae,EXACT,99
+Egle marmelos,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Elaeocarpus,Elaeocarpus,GENUS,ACCEPTED,,Elaeocarpaceae,EXACT,96
+Elaeocarpus ganitrus,Elaeocarpus,GENUS,ACCEPTED,,Elaeocarpaceae,HIGHERRANK,99
+Elate paludosa,Elatine paludosa,SPECIES,SYNONYM,Elatine hexandra,Elatinaceae,FUZZY,80
+Eleocarpus,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Elephantopus scaber,Elephantopus scaber,SPECIES,ACCEPTED,,Asteraceae,EXACT,100
+Eleusine coracana,Eleusine coracana,SPECIES,ACCEPTED,,Poaceae,EXACT,100
+Eleusine indica,Eleusine indica,SPECIES,ACCEPTED,,Poaceae,EXACT,99
+Embelia ribes,Embelia ribes,SPECIES,ACCEPTED,,Primulaceae,EXACT,100
+Emblic myrobalan,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Emblic myrobolam,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Emblic myrobolan,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Emblica,Emblica,GENUS,SYNONYM,,Phyllanthaceae,EXACT,96
+Emblica officinalis,Emblica officinalis,SPECIES,SYNONYM,Phyllanthus emblica,Phyllanthaceae,EXACT,100
+Emblica officinalis gaertn,Emblica officinalis,SPECIES,SYNONYM,Phyllanthus emblica,Phyllanthaceae,HIGHERRANK,100
+Enhydra heloncha,Enhydra heloncha,SPECIES,SYNONYM,Enydra fluctuans,Asteraceae,EXACT,99
+Enhydra hingcha,Enhydra,GENUS,SYNONYM,,Asteraceae,HIGHERRANK,96
+Enhydra hingtsha,Enhydra,GENUS,SYNONYM,,Asteraceae,HIGHERRANK,96
+Epidendron tesselloides,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Epidendrum tesselatum,Epidendrum tessellatum,SPECIES,ACCEPTED,,Orchidaceae,FUZZY,96
+Epidendrum tesseloides,Epidendrum tesseloides,SPECIES,DOUBTFUL,,Orchidaceae,EXACT,99
+Ervum hirsutum,Ervum hirsutum,SPECIES,SYNONYM,Vicia hirsuta,Fabaceae,EXACT,99
+Ervum lens,Ervum lens,SPECIES,SYNONYM,Vicia lens,Fabaceae,EXACT,99
+Erycibe paniculata roxb,Erycibe paniculata,SPECIES,ACCEPTED,,Convolvulaceae,HIGHERRANK,100
+Erythraea centaureoides,Centaurium,GENUS,ACCEPTED,,Gentianaceae,HIGHERRANK,95
+Erythrina fulgens,Erythrina fulgens,SPECIES,SYNONYM,Erythrina americana,Fabaceae,EXACT,99
+Erythrina fulgens indica,Erythrina fulgens,SPECIES,SYNONYM,Erythrina americana,Fabaceae,HIGHERRANK,99
+Erythrina indica,Erythrina indica,SPECIES,ACCEPTED,,Fabaceae,EXACT,99
+Erythrosylon sideroxyloides,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Eugenia,Eugenia,GENUS,ACCEPTED,,Myrtaceae,EXACT,96
+Eugenia jambolana,Myrtaceae,FAMILY,ACCEPTED,,Myrtaceae,HIGHERRANK,99
+Eugenia jambos,Eugenia jambos,SPECIES,ACCEPTED,,Myrtaceae,EXACT,99
+Euphorbia,Euphorbia,GENUS,DOUBTFUL,,Euphorbiaceae,EXACT,94
+Euphorbia antiquorum,Euphorbia antiquorum,SPECIES,ACCEPTED,,Euphorbiaceae,EXACT,99
+Euphorbia lactea,Euphorbia lactea,SPECIES,ACCEPTED,,Euphorbiaceae,EXACT,99
+Euphorbia ligularia,Euphorbia ligularia,SPECIES,SYNONYM,Euphorbia neriifolia,Euphorbiaceae,EXACT,99
+Euphorbia nerifolia,Euphorbia neriifolia,SPECIES,ACCEPTED,,Euphorbiaceae,FUZZY,96
+Euphorbia neriifolia,Euphorbia neriifolia,SPECIES,ACCEPTED,,Euphorbiaceae,EXACT,99
+Euphorbia tirucalli,Euphorbia tirucalli,SPECIES,ACCEPTED,,Euphorbiaceae,EXACT,99
+Euphorbia tortilis,Euphorbia tortilis,SPECIES,ACCEPTED,,Euphorbiaceae,EXACT,99
+Euryala ferox,Euryale ferox,SPECIES,ACCEPTED,,Nymphaeaceae,FUZZY,88
+Euryale ferox,Euryale ferox,SPECIES,ACCEPTED,,Nymphaeaceae,EXACT,99
+Evolvulus alsinoides,Evolvulus alsinoides,SPECIES,ACCEPTED,,Convolvulaceae,EXACT,99
+Evolvulus asinioides,Evolvulus,GENUS,ACCEPTED,,Convolvulaceae,HIGHERRANK,95
+Fasciculatus,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Fastuosa,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Fata morgana,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Feronia elephantum,Feronia elephantum,SPECIES,SYNONYM,Limonia acidissima,Rutaceae,EXACT,100
+Ferula asa foetida,Ferula,GENUS,ACCEPTED,,Apiaceae,HIGHERRANK,96
+Ficus benjamina,Ficus benjamina,SPECIES,ACCEPTED,,Moraceae,EXACT,99
+Ficus elastica,Ficus elastica,SPECIES,ACCEPTED,,Moraceae,EXACT,99
+Ficus glomerata,Ficus glomerata,SPECIES,ACCEPTED,,Moraceae,EXACT,99
+Ficus heterophylla,Ficus heterophylla,SPECIES,ACCEPTED,,Moraceae,EXACT,99
+Ficus indica,Ficus indica,SPECIES,ACCEPTED,,Moraceae,EXACT,99
+Ficus infectoria,Ficus,GENUS,ACCEPTED,,Moraceae,HIGHERRANK,99
+Ficus oppositifolia,Ficus oppositifolia,SPECIES,SYNONYM,Ficus hispida,Moraceae,EXACT,99
+Ficus religiosa,Ficus religiosa,SPECIES,ACCEPTED,,Moraceae,EXACT,99
+Fistula,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Fistula lacrymalis,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Flacourtia cataphracta,Flacourtia cataphracta,SPECIES,ACCEPTED,,Salicaceae,EXACT,99
+Flacourtia cataphracta roxb,Flacourtia cataphracta,SPECIES,ACCEPTED,,Salicaceae,HIGHERRANK,99
+Flacourtia sapida,Salicaceae,FAMILY,ACCEPTED,,Salicaceae,HIGHERRANK,99
+Fumaria parviflora,Fumaria parviflora,SPECIES,ACCEPTED,,Papaveraceae,EXACT,99
+Gaertnera racemosa,Gaertnera racemosa,SPECIES,SYNONYM,Hiptage benghalensis,Malpighiaceae,EXACT,100
+Galedupa arborea,Galedupa arborea,SPECIES,SYNONYM,Pongamia pinnata,Fabaceae,EXACT,100
+Galedupa piscidia,Galedupa piscidia,SPECIES,SYNONYM,Millettia piscidia,Fabaceae,EXACT,100
+Galega purpurea,Galega purpurea,SPECIES,SYNONYM,Tephrosia purpurea,Fabaceae,EXACT,100
+Ganitrus sphaeica,Ganitrus sphaericus,SPECIES,SYNONYM,Elaeocarpus sphaericus,Elaeocarpaceae,FUZZY,96
+Garcinia,Garcinia,GENUS,ACCEPTED,,Clusiaceae,EXACT,96
+Garcinia cambogia,Garcinia,GENUS,ACCEPTED,,Clusiaceae,HIGHERRANK,99
+Gardenia,Gardenia,GENUS,ACCEPTED,,Rubiaceae,EXACT,95
+Gardenia enneandra,Gardenia enneandra,SPECIES,SYNONYM,Gardenia latifolia,Rubiaceae,EXACT,99
+Gardenia florida,Gardenia,GENUS,ACCEPTED,,Rubiaceae,HIGHERRANK,99
+Gardenia gummifera,Gardenia gummifera,SPECIES,ACCEPTED,,Rubiaceae,EXACT,100
+Gardenia latifolia,Gardenia latifolia,SPECIES,ACCEPTED,,Rubiaceae,EXACT,99
+Gendarussa vulgaris,Gendarussa vulgaris,SPECIES,SYNONYM,Justicia gendarussa,Acanthaceae,EXACT,100
+Gentiana cherayta,Gentiana cherayta,SPECIES,ACCEPTED,,Gentianaceae,EXACT,100
+Gentiana chirata,Gentiana chirata,SPECIES,SYNONYM,Swertia chirayita,Gentianaceae,EXACT,100
+Gentiana chirayita,Gentiana chirayita,SPECIES,SYNONYM,Swertia chirayita,Gentianaceae,EXACT,99
+Getonia floribunda,Getonia floribunda,SPECIES,ACCEPTED,,Combretaceae,EXACT,100
+Glabra,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Glomerata,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Gloriosa,Gloriosa,GENUS,ACCEPTED,,Colchicaceae,EXACT,96
+Gloriosa superba,Gloriosa superba,SPECIES,ACCEPTED,,Colchicaceae,EXACT,100
+Glycine,Glycine,GENUS,ACCEPTED,,Fabaceae,EXACT,95
+Glycine debilis,Glycine debilis,SPECIES,SYNONYM,Teramnus labialis,Fabaceae,EXACT,100
+Glycine debilis roxb,Glycine debilis,SPECIES,SYNONYM,Teramnus labialis,Fabaceae,HIGHERRANK,100
+Glycine labialis,Glycine labialis,SPECIES,SYNONYM,Teramnus labialis,Fabaceae,EXACT,100
+Glycyrrhiza,Glycyrrhiza,GENUS,ACCEPTED,,Fabaceae,EXACT,96
+Glycyrrhiza glabra,Glycyrrhiza glabra,SPECIES,ACCEPTED,,Fabaceae,EXACT,99
+Gmelina,Gmelina,GENUS,ACCEPTED,,Lamiaceae,EXACT,96
+Gmelina arborea,Gmelina arborea,SPECIES,ACCEPTED,,Lamiaceae,EXACT,99
+Goensis,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Gomphrena globosa,Gomphrena globosa,SPECIES,ACCEPTED,,Amaranthaceae,EXACT,100
+Gossampinus rumphii,Gossampinus rumphii,SPECIES,SYNONYM,Ceiba pentandra,Malvaceae,EXACT,100
+Gossypium,Gossypium,GENUS,ACCEPTED,,Malvaceae,EXACT,96
+Gossypium herbaceum,Gossypium herbaceum,SPECIES,ACCEPTED,,Malvaceae,EXACT,100
+Gracula religiosa,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Grandiflorum,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Grewia asiatica,Grewia asiatica,SPECIES,ACCEPTED,,Malvaceae,EXACT,99
+Grewia elastica,Grewia elastica,SPECIES,SYNONYM,Grewia eriocarpa,Malvaceae,EXACT,100
+Grewia orientalis,Grewia orientalis,SPECIES,ACCEPTED,,Malvaceae,EXACT,99
+Grislea tomentosa,Grislea tomentosa,SPECIES,SYNONYM,Woodfordia fruticosa,Lythraceae,EXACT,100
+Guilandina,Guilandina,GENUS,ACCEPTED,,Fabaceae,EXACT,96
+Guilandina bonduc,Guilandina bonduc,SPECIES,ACCEPTED,,Fabaceae,EXACT,99
+Guilandina bonducella,Guilandina bonducella,SPECIES,SYNONYM,Guilandina bonduc,Fabaceae,EXACT,100
+Guilandina moringa,Guilandina moringa,SPECIES,SYNONYM,Moringa oleifera,Moringaceae,EXACT,100
+Gymnema sylvestre,Gymnema sylvestre,SPECIES,ACCEPTED,,Apocynaceae,EXACT,99
+Gynandropsis anacardium,Gynandropsis,GENUS,ACCEPTED,,Cleomaceae,HIGHERRANK,95
+Gynandropsis pentaphylla,Gynandropsis pentaphylla,SPECIES,SYNONYM,Gynandropsis gynandra,Cleomaceae,EXACT,99
+Halicacabum cardiospermum,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Hedyotis burmanniana,Hedyotis burmanniana,SPECIES,ACCEPTED,,Rubiaceae,EXACT,99
+Hedysarum,Hedysarum,GENUS,ACCEPTED,,Fabaceae,HIGHERRANK,95
+Hedysarum alhagi,Hedysarum alhagi,SPECIES,SYNONYM,Alhagi maurorum,Fabaceae,EXACT,99
+Hedysarum gangeticum,Hedysarum gangeticum,SPECIES,SYNONYM,Pleurolobus gangeticus,Fabaceae,EXACT,100
+Hedysarum lagopodioides,Fabaceae,FAMILY,ACCEPTED,,Fabaceae,HIGHERRANK,99
+Helianthus,Helianthus,GENUS,ACCEPTED,,Asteraceae,HIGHERRANK,95
+Helianthus annuus,Helianthus annuus,SPECIES,ACCEPTED,,Asteraceae,EXACT,100
+Helianthus indica,Helianthus indicus,SPECIES,SYNONYM,Helianthus annuus,Asteraceae,FUZZY,97
+Helianthus indicus,Helianthus indicus,SPECIES,SYNONYM,Helianthus annuus,Asteraceae,EXACT,100
+Heliophytum indicum,Heliophytum indicum,SPECIES,SYNONYM,Heliotropium indicum,Heliotropiaceae,EXACT,100
+Heliotropium,Heliotropium,GENUS,ACCEPTED,,Heliotropiaceae,EXACT,96
+Heliotropium indicum,Heliotropium indicum,SPECIES,ACCEPTED,,Heliotropiaceae,EXACT,100
+Helleborus,Tracheophyta,PHYLUM,ACCEPTED,,,HIGHERRANK,95
+Helleborus niger,Helleborus niger,SPECIES,ACCEPTED,,Ranunculaceae,EXACT,100
+Helminthostachys laciniata,Helminthostachys laciniata,SPECIES,SYNONYM,Helminthostachys zeylanica,Ophioglossaceae,EXACT,100
+Hemidesmus indicus,Hemidesmus indicus,SPECIES,ACCEPTED,,Apocynaceae,EXACT,99
+Hemionitis cordifolia,Pteridaceae,FAMILY,ACCEPTED,,Pteridaceae,HIGHERRANK,99
+Hibiscus,Hibiscus,GENUS,ACCEPTED,,Malvaceae,EXACT,95
+Hibiscus abelmoschus,Hibiscus abelmoschus,SPECIES,SYNONYM,Abelmoschus moschatus,Malvaceae,EXACT,100
+Hibiscus cannabinus,Hibiscus cannabinus,SPECIES,ACCEPTED,,Malvaceae,EXACT,99
+Hibiscus hirtus,Hibiscus hirtus,SPECIES,ACCEPTED,,Malvaceae,EXACT,99
+Hibiscus moschatus,Hibiscus moschatus,SPECIES,ACCEPTED,,Malvaceae,EXACT,99
+Hibiscus mutabilis,Hibiscus mutabilis,SPECIES,ACCEPTED,,Malvaceae,EXACT,100
+Hibiscus phoeniceus,Hibiscus phoeniceus,SPECIES,ACCEPTED,,Malvaceae,EXACT,99
+Hibiscus populneoides,Hibiscus populneoides,SPECIES,SYNONYM,Thespesia populneoides,Malvaceae,EXACT,100
+Hibiscus rosa sinensis,Hibiscus rossii,SPECIES,SYNONYM,Hibiscus cameronii,Malvaceae,HIGHERRANK,97
+Hieracium,Hieracium,GENUS,ACCEPTED,,Asteraceae,HIGHERRANK,95
+Hijjal,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Hingcha repens,Hingtsha repens,SPECIES,SYNONYM,Enydra fluctuans,Asteraceae,FUZZY,80
+Hingtsha repens,Hingtsha repens,SPECIES,SYNONYM,Enydra fluctuans,Asteraceae,EXACT,100
+Hirsutum,Hirsutum,GENUS,ACCEPTED,,Dictyopteridiaceae,EXACT,96
+Hoija viridifolia,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Holcus saccharatus,Holcus saccharatus,SPECIES,ACCEPTED,,Poaceae,EXACT,99
+Holcus sorghum,Holcus sorghum,SPECIES,SYNONYM,Sorghum bicolor,Poaceae,EXACT,99
+Hoya viridiflora,Hoya viridiflora,SPECIES,SYNONYM,Stephanotis volubilis,Apocynaceae,EXACT,99
+Hoya viridifolia,Hoya viridiflora,SPECIES,SYNONYM,Stephanotis volubilis,Apocynaceae,FUZZY,93
+Hydrocotyle asiatica,Hydrocotyle asiatica,SPECIES,ACCEPTED,,Araliaceae,EXACT,99
+Hyoscyamus niger,Hyoscyamus niger,SPECIES,ACCEPTED,,Solanaceae,EXACT,100
+Hyperanthera,Hyperanthera,GENUS,SYNONYM,,Moringaceae,EXACT,96
+Hyperanthera moringa,Hyperanthera moringa,SPECIES,SYNONYM,Moringa oleifera,Moringaceae,EXACT,100
+Ichnocarpus,Ichnocarpus,GENUS,ACCEPTED,,Apocynaceae,HIGHERRANK,95
+Ichnocarpus frutescens,Ichnocarpus frutescens,SPECIES,ACCEPTED,,Apocynaceae,EXACT,99
+Impatiens balsamina,Impatiens balsamina,SPECIES,ACCEPTED,,Balsaminaceae,EXACT,100
+Imperata cylindrica,Imperata cylindrica,SPECIES,ACCEPTED,,Poaceae,EXACT,99
+Indica,India,GENUS,SYNONYM,,Orchidaceae,FUZZY,84
+Indigofera tinctoria,Indigofera tinctoria,SPECIES,ACCEPTED,,Fabaceae,EXACT,99
+Infectoria,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Ingua,Inga,GENUS,ACCEPTED,,Fabaceae,FUZZY,83
+Ipomoea,Ipomoea,GENUS,ACCEPTED,,Convolvulaceae,EXACT,95
+Ipomoea atropurpurea,Ipomoea atropurpurea,SPECIES,SYNONYM,Argyreia atropurpurea,Convolvulaceae,EXACT,99
+Ipomoea pes caprae roth,Ipomoea pes,SPECIES,ACCEPTED,,Convolvulaceae,HIGHERRANK,100
+Ipomoea turpethum,Ipomoea turpethum,SPECIES,SYNONYM,Operculina turpethum,Convolvulaceae,EXACT,100
+Iris pseudacorus,Iris pseudacorus,SPECIES,ACCEPTED,,Iridaceae,EXACT,100
+Isora corylifolia,Isora corylifolia,SPECIES,SYNONYM,Helicteres isora,Malvaceae,EXACT,100
+Ixora bandhucca,Ixora bandhuca,SPECIES,SYNONYM,Ixora coccinea,Rubiaceae,FUZZY,97
+Ixora undulata,Ixora undulata,SPECIES,ACCEPTED,,Rubiaceae,EXACT,99
+Jasminum arboreum,Oleaceae,FAMILY,ACCEPTED,,Oleaceae,HIGHERRANK,99
+Jasminum auriculatum,Jasminum auriculatum,SPECIES,ACCEPTED,,Oleaceae,EXACT,100
+Jasminum grandiflorum,Jasminum grandiflorum,SPECIES,ACCEPTED,,Oleaceae,EXACT,100
+Jasminum jacquini,Jasminum,GENUS,ACCEPTED,,Oleaceae,HIGHERRANK,96
+Jasminum multiflorum,Jasminum multiflorum,SPECIES,ACCEPTED,,Oleaceae,EXACT,99
+Jasminum pubescens,Jasminum pubescens,SPECIES,ACCEPTED,,Oleaceae,EXACT,99
+Jasminum sambac,Jasminum sambac,SPECIES,ACCEPTED,,Oleaceae,EXACT,99
+Jasminum villosum,Jasminum villosum,SPECIES,SYNONYM,Jasminum arborescens,Oleaceae,EXACT,100
+Jasminum zambac,Jasminum zambac,SPECIES,SYNONYM,Jasminum sambac,Oleaceae,EXACT,100
+Jonesia asoca,Jonesia asoca,SPECIES,SYNONYM,Saraca asoca,Fabaceae,EXACT,100
+Jonesia asoka,Jonesia asoca,SPECIES,SYNONYM,Saraca asoca,Fabaceae,FUZZY,96
+Jonesia asoka roxb,Jonesia asoca,SPECIES,SYNONYM,Saraca asoca,Fabaceae,HIGHERRANK,96
+Jonesia aśoka,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,94
+Jonesis asoka,Jonesia asoca,SPECIES,SYNONYM,Saraca asoca,Fabaceae,FUZZY,85
+Juglans regia,Juglans regia,SPECIES,ACCEPTED,,Juglandaceae,EXACT,100
+Jujuba,Jujuba,GENUS,DOUBTFUL,,Rhamnaceae,EXACT,94
+Jussiaea repens,Jussiaea repens,SPECIES,SYNONYM,Ludwigia adscendens,Onagraceae,EXACT,100
+Justicia adhatoda,Justicia adhatoda,SPECIES,ACCEPTED,,Acanthaceae,EXACT,99
+Justicia ganderussa,Justicia gandarussa,SPECIES,SYNONYM,Justicia gendarussa,Acanthaceae,FUZZY,95
+Justicia gendarussa,Justicia gendarussa,SPECIES,ACCEPTED,,Acanthaceae,EXACT,99
+Kadamba,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Kaempferia rotunda,Kaempferia rotunda,SPECIES,ACCEPTED,,Zingiberaceae,EXACT,99
+Karka,Karaka,GENUS,SYNONYM,,Malvaceae,FUZZY,84
+Karsinh,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Kaskas,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Khadiri,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Khayar,Khaya,GENUS,ACCEPTED,,Meliaceae,FUZZY,85
+Kutaja,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Kyllingia monocephala,Cyperaceae,FAMILY,ACCEPTED,,Cyperaceae,HIGHERRANK,85
+Lablab vulgaris,Lablab vulgaris,SPECIES,SYNONYM,Lablab purpureus,Fabaceae,EXACT,100
+Lagenaria vulgaris,Lagenaria vulgaris,SPECIES,SYNONYM,Lagenaria siceraria,Cucurbitaceae,EXACT,100
+Lagenaria vulgaris ser,Lagenaria vulgaris,SPECIES,SYNONYM,Lagenaria siceraria,Cucurbitaceae,EXACT,89
+Lagerstroemia regina,Lagerstroemia reginae,SPECIES,SYNONYM,Lagerstroemia speciosa,Lythraceae,FUZZY,97
+Lagopodioides,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Langaliya,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Lathyrus sativus,Lathyrus sativus,SPECIES,ACCEPTED,,Fabaceae,EXACT,99
+Latifolia,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Laurus cassia,Lauraceae,FAMILY,ACCEPTED,,Lauraceae,HIGHERRANK,99
+Lavail,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Lawsonia alba,Lawsonia alba,SPECIES,SYNONYM,Lawsonia inermis,Lythraceae,EXACT,100
+Leea hirta,Leea hirta,SPECIES,SYNONYM,Leea aequata,Vitaceae,EXACT,99
+Leea macrophylla,Leea macrophylla,SPECIES,ACCEPTED,,Vitaceae,EXACT,99
+Leea staphylea,Leea,GENUS,ACCEPTED,,Vitaceae,HIGHERRANK,99
+Lepeocercis serrata,Lepeocercis serrata,SPECIES,SYNONYM,Dichanthium caricosum,Poaceae,EXACT,100
+Lepidium sativum,Lepidium sativum,SPECIES,ACCEPTED,,Brassicaceae,EXACT,99
+Leucas linifolia,Leucas linifolia,SPECIES,SYNONYM,Leucas lavandulifolia,Lamiaceae,EXACT,100
+Lida cordifolia,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Ligusticum ajowan,Ligusticum ajowan,SPECIES,SYNONYM,Trachyspermum ammi,Apiaceae,EXACT,100
+Limonia scandens,Limonia scandens,SPECIES,SYNONYM,Luvunga scandens,Rutaceae,EXACT,100
+Linum usitatissimum,Linum usitatissimum,SPECIES,ACCEPTED,,Linaceae,EXACT,99
+Lipeocercis serrata,Lepeocercis serrata,SPECIES,SYNONYM,Dichanthium caricosum,Poaceae,FUZZY,88
+Liquidambar orientale,Liquidambar orientalis,SPECIES,ACCEPTED,,Altingiaceae,FUZZY,98
+Lobatus,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Lodh,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Longifolia,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Lotus nelumbium,Lotus,GENUS,ACCEPTED,,Fabaceae,HIGHERRANK,96
+Loxia philippensis,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Lucida,Lycida,GENUS,ACCEPTED,,Orchidaceae,FUZZY,85
+Luffa,Luffa,GENUS,ACCEPTED,,Cucurbitaceae,EXACT,96
+Luffa acutang,Luffa acutangula,SPECIES,ACCEPTED,,Cucurbitaceae,FUZZY,95
+Luffa acutangula,Luffa acutangula,SPECIES,ACCEPTED,,Cucurbitaceae,EXACT,100
+Luffa foetida,Cucurbitaceae,FAMILY,ACCEPTED,,Cucurbitaceae,HIGHERRANK,99
+Luffa pentandra,Luffa pentandra,SPECIES,SYNONYM,Luffa aegyptiaca,Cucurbitaceae,EXACT,100
+Lupinus,Lupinus,GENUS,ACCEPTED,,Fabaceae,EXACT,95
+Lycopodium imbricatum,Lycopodium imbricatum,SPECIES,SYNONYM,Selaginella bryopteris,Selaginellaceae,EXACT,99
+Lycopodium phlegmaria,Phlegmariurus,GENUS,ACCEPTED,,Lycopodiaceae,HIGHERRANK,99
+Lythrun fructicosum,Lythrum fruticosum,SPECIES,SYNONYM,Woodfordia fruticosa,Lythraceae,FUZZY,85
+Macrognathus pancalus,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Magnifera indica,Mangifera indica,SPECIES,ACCEPTED,,Anacardiaceae,FUZZY,86
+Mahwa,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,80
+Mangifera indica,Mangifera indica,SPECIES,ACCEPTED,,Anacardiaceae,EXACT,99
+Mangifera sylvatica,Mangifera sylvatica,SPECIES,ACCEPTED,,Anacardiaceae,EXACT,100
+Mangosteen,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Maranta dichotoma,Marantaceae,FAMILY,ACCEPTED,,Marantaceae,HIGHERRANK,99
+Marmelos,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Marsilea dentata,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,95
+Marsilea quadrifolia,Marsilea quadrifolia,SPECIES,ACCEPTED,,Marsileaceae,EXACT,99
+Marsilia dentata,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,94
+Medicago esculenta,Medicago esculenta,SPECIES,SYNONYM,Trigonella esculenta,Fabaceae,EXACT,99
+Melangena incurva,Melongena incurva,SPECIES,SYNONYM,Solanum melongena,Solanaceae,FUZZY,88
+Melia azadirachta,Melia azadirachta,SPECIES,SYNONYM,Azadirachta indica,Meliaceae,EXACT,100
+Melia azedarach,Melia azedarach,SPECIES,ACCEPTED,,Meliaceae,EXACT,99
+Melia bukayun,Melia bukayun,SPECIES,SYNONYM,Melia azedarach,Meliaceae,EXACT,100
+Melia sempervirens,Melia sempervirens,SPECIES,SYNONYM,Melia azedarach,Meliaceae,EXACT,99
+Melilotus parviflora,Melilotus,GENUS,ACCEPTED,,Fabaceae,HIGHERRANK,96
+Melongena,Melongena,GENUS,SYNONYM,,Solanaceae,EXACT,96
+Menispermum cocculus,Menispermaceae,FAMILY,ACCEPTED,,Menispermaceae,HIGHERRANK,99
+Menispermum cordifolium,Menispermum cordifolium,SPECIES,SYNONYM,Tinospora cordifolia,Menispermaceae,EXACT,100
+Menispermum glabrum,Menispermaceae,FAMILY,ACCEPTED,,Menispermaceae,HIGHERRANK,99
+Mesua,Mesua,GENUS,ACCEPTED,,Calophyllaceae,EXACT,96
+Mesua ferrea,Mesua ferrea,SPECIES,ACCEPTED,,Calophyllaceae,EXACT,100
+Mesua roxburghii,Mesua roxburghii,SPECIES,SYNONYM,Mesua ferrea,Calophyllaceae,EXACT,100
+Methonica,Methonica,GENUS,SYNONYM,,Colchicaceae,EXACT,95
+Methonica superba,Methonica superba,SPECIES,SYNONYM,Gloriosa superba,Colchicaceae,EXACT,100
+Michelia campaka,Tracheophyta,PHYLUM,ACCEPTED,,,HIGHERRANK,95
+Michelia champaca,Michelia champaca,SPECIES,SYNONYM,Magnolia champaca,Magnoliaceae,EXACT,100
+Michelia champaka,Magnoliaceae,FAMILY,ACCEPTED,,Magnoliaceae,HIGHERRANK,95
+Miliaceum,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Mimosa,Mimosa,GENUS,ACCEPTED,,Fabaceae,EXACT,96
+Mimosa abstergens,Mimosa abstergens,SPECIES,SYNONYM,Senegalia rugata,Fabaceae,EXACT,99
+Mimosa arabica,Mimosa arabica,SPECIES,SYNONYM,Vachellia nilotica,Fabaceae,EXACT,100
+Mimosa catechu,Mimosa catechu,SPECIES,SYNONYM,Senegalia catechu,Fabaceae,EXACT,100
+Mimosa concinna,Fabaceae,FAMILY,ACCEPTED,,Fabaceae,HIGHERRANK,99
+Mimosa kauki,Mimosa,GENUS,ACCEPTED,,Fabaceae,HIGHERRANK,96
+Mimosa natans,Mimosa natans,SPECIES,SYNONYM,Neptunia prostrata,Fabaceae,EXACT,99
+Mimosa octandra,Mimosa octandra,SPECIES,SYNONYM,Mimosa rubicaulis,Fabaceae,EXACT,100
+Mimosa pudica,Mimosa pudica,SPECIES,ACCEPTED,,Fabaceae,EXACT,99
+Mimosa sirissa,Mimosa sirissa,SPECIES,SYNONYM,Albizia lebbeck,Fabaceae,EXACT,100
+Mimosa suma,Mimosa suma,SPECIES,SYNONYM,Senegalia polyacantha,Fabaceae,EXACT,100
+Mimusops,Mimusops,GENUS,ACCEPTED,,Sapotaceae,EXACT,96
+Mimusops elengi,Mimusops elengi,SPECIES,ACCEPTED,,Sapotaceae,EXACT,99
+Mimusops hexandra,Mimusops hexandra,SPECIES,ACCEPTED,,Sapotaceae,EXACT,99
+Mimusops kauki,Mimusops kauki,SPECIES,ACCEPTED,,Sapotaceae,EXACT,99
+Minusops elengi,Mimusops elengi,SPECIES,ACCEPTED,,Sapotaceae,FUZZY,86
+Mirabilis jalapa,Mirabilis jalapa,SPECIES,ACCEPTED,,Nyctaginaceae,EXACT,100
+Mollugo,Mollugo,GENUS,ACCEPTED,,Molluginaceae,EXACT,96
+Mollugo pentaphylla,Mollugo pentaphylla,SPECIES,SYNONYM,Trigastrotheca pentaphylla,Molluginaceae,EXACT,100
+Mollugo spergula,Mollugo spergula,SPECIES,SYNONYM,Glinus oppositifolius,Molluginaceae,EXACT,100
+Momordica,Momordica,GENUS,ACCEPTED,,Cucurbitaceae,EXACT,96
+Momordica charantia,Momordica charantia,SPECIES,ACCEPTED,,Cucurbitaceae,EXACT,99
+Momordica cochinchinensis spreng,Momordica cochinchinensis,SPECIES,ACCEPTED,,Cucurbitaceae,HIGHERRANK,99
+Momordica mixa,Momordica,GENUS,ACCEPTED,,Cucurbitaceae,HIGHERRANK,96
+Momordica mixta,Momordica mixta,SPECIES,SYNONYM,Momordica cochinchinensis,Cucurbitaceae,EXACT,100
+Momordica monadelpha,Momordica monadelpha,SPECIES,SYNONYM,Coccinia grandis,Cucurbitaceae,EXACT,100
+Morinda tinctoria,Morinda,GENUS,ACCEPTED,,Rubiaceae,HIGHERRANK,99
+Moringa,Moringa,GENUS,ACCEPTED,,Moringaceae,EXACT,95
+Moringa hyperanthera,Moringa,GENUS,ACCEPTED,,Moringaceae,HIGHERRANK,95
+Moringa pterygosperma,Moringa pterygosperma,SPECIES,SYNONYM,Moringa oleifera,Moringaceae,EXACT,100
+Moringa pterygospermum,Moringa pterygosperma,SPECIES,SYNONYM,Moringa oleifera,Moringaceae,FUZZY,97
+Morus indica,Morus indica,SPECIES,ACCEPTED,,Moraceae,EXACT,99
+Morus indicadir,Morus,GENUS,ACCEPTED,,Moraceae,HIGHERRANK,96
+Mucuna,Mucuna,GENUS,ACCEPTED,,Fabaceae,EXACT,96
+Mucuna pruriens,Mucuna pruriens,SPECIES,ACCEPTED,,Fabaceae,EXACT,100
+Mucuna pruritus,Mucuna prurita,SPECIES,SYNONYM,Mucuna pruriens,Fabaceae,FUZZY,96
+Mucuna pruritus hook,Mucuna prurita,SPECIES,SYNONYM,Mucuna pruriens,Fabaceae,HIGHERRANK,96
+Munja,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Muricatus,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Musa,Musa,GENUS,ACCEPTED,,Musaceae,EXACT,96
+Musa paradisiaca,Musa paradisiaca,SPECIES,ACCEPTED,,Musaceae,EXACT,100
+Musa sapientum,Musa sapientum,SPECIES,SYNONYM,Musa paradisiaca,Musaceae,EXACT,100
+Myosotis,Myosotis,GENUS,ACCEPTED,,Boraginaceae,EXACT,95
+Myrica sapida,Myrica sapida,SPECIES,SYNONYM,Morella esculenta,Myricaceae,EXACT,100
+Myristica malabarica,Myristica malabarica,SPECIES,ACCEPTED,,Myristicaceae,EXACT,100
+Myrobalan,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Myrobalanus chebula,Myrobalanus chebula,SPECIES,SYNONYM,Terminalia chebula,Combretaceae,EXACT,100
+Myrobolan,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Myxa,Myxa,GENUS,SYNONYM,,Cordiaceae,EXACT,95
+Naga,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Nageia putranjiva,Nageia putranjiva,SPECIES,SYNONYM,Putranjiva roxburghii,Putranjivaceae,EXACT,99
+Nageia putraṃjīva,Nageia,GENUS,ACCEPTED,,Podocarpaceae,HIGHERRANK,95
+Naravelia zeylanica,Naravelia zeylanica,SPECIES,SYNONYM,Clematis zeylanica,Ranunculaceae,EXACT,100
+Nardostachys jatamansi,Nardostachys jatamansi,SPECIES,ACCEPTED,,Caprifoliaceae,EXACT,99
+Nardostachys jaṭā-māṃsī,Nardostachys,GENUS,ACCEPTED,,Caprifoliaceae,HIGHERRANK,96
+Nardostachys jaṭāmāṃsi,Nardostachys,GENUS,ACCEPTED,,Caprifoliaceae,HIGHERRANK,96
+Nardostachys jaṭāmāṃsī,Nardostachys,GENUS,ACCEPTED,,Caprifoliaceae,HIGHERRANK,96
+Nauclea cadamba,Nauclea cadamba,SPECIES,SYNONYM,Neolamarckia cadamba,Rubiaceae,EXACT,100
+Nauclea cordifolia,Nauclea cordifolia,SPECIES,SYNONYM,Adina cordifolia,Rubiaceae,EXACT,100
+Nauclea kadamba,Nauclea,GENUS,ACCEPTED,,Rubiaceae,HIGHERRANK,95
+Nauclea kadamba roxb,Nauclea,GENUS,ACCEPTED,,Rubiaceae,HIGHERRANK,95
+Neemb,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Nelumbium,Nelumbium,GENUS,SYNONYM,,Nelumbonaceae,EXACT,96
+Nelumbium speciosum,Nelumbium speciosum,SPECIES,SYNONYM,Nelumbo nucifera,Nelumbonaceae,EXACT,100
+Nericum odorum rubro-simplex,Nerium,GENUS,ACCEPTED,,Apocynaceae,HIGHERRANK,85
+Nerinm odorum,Nerium,GENUS,ACCEPTED,,Apocynaceae,HIGHERRANK,85
+Nerium antidysentericum,Apocynaceae,FAMILY,ACCEPTED,,Apocynaceae,HIGHERRANK,99
+Nerium odorum,Nerium,GENUS,ACCEPTED,,Apocynaceae,HIGHERRANK,99
+Nerium odorum rubro-simplex,Nerium,GENUS,ACCEPTED,,Apocynaceae,HIGHERRANK,99
+Nigella indica,Nigella indica,SPECIES,SYNONYM,Nigella sativa,Ranunculaceae,EXACT,99
+Nimb,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Nimba,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Nimba asadirachta,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Nux vomica,Nux,GENUS,SYNONYM,,Juglandaceae,HIGHERRANK,95
+Nyctanthes arbor tristis,Nyctanthes arbor,SPECIES,ACCEPTED,,Oleaceae,HIGHERRANK,100
+Nyctanthes tristis,Nyctanthes tristis,SPECIES,SYNONYM,Nyctanthes arbor-tristis,Oleaceae,EXACT,100
+Nymphaea,Nymphaea,GENUS,ACCEPTED,,Nymphaeaceae,EXACT,95
+Nymphaea alba,Nymphaea alba,SPECIES,ACCEPTED,,Nymphaeaceae,EXACT,99
+Nymphaea caerulea,Nymphaea caerulea,SPECIES,SYNONYM,Nymphaea nouchali,Nymphaeaceae,EXACT,99
+Nymphaea cyanea,Nymphaea cyanea,SPECIES,SYNONYM,Nymphaea nouchali,Nymphaeaceae,EXACT,99
+Nymphaea esculenta,Nymphaea,GENUS,ACCEPTED,,Nymphaeaceae,HIGHERRANK,98
+Nymphaea lotus,Nymphaea lotus,SPECIES,ACCEPTED,,Nymphaeaceae,EXACT,99
+Nymphaea nelumbo,Nymphaea nelumbo,SPECIES,ACCEPTED,,Nymphaeaceae,EXACT,99
+Nymphaea rubra,Nymphaea rubra,SPECIES,ACCEPTED,,Nymphaeaceae,EXACT,99
+Nymphaea stellata,Nymphaea,GENUS,ACCEPTED,,Nymphaeaceae,HIGHERRANK,99
+Nāga,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Ocimum,Ocimum,GENUS,ACCEPTED,,Lamiaceae,EXACT,96
+Ocimum adscendens,Lamiaceae,FAMILY,ACCEPTED,,Lamiaceae,HIGHERRANK,99
+Ocimum basilicum pilosum,Ocimum basilicum pilosum,VARIETY,SYNONYM,Ocimum africanum,Lamiaceae,EXACT,99
+Ocimum gratissimum,Ocimum gratissimum,SPECIES,ACCEPTED,,Lamiaceae,EXACT,99
+Ocimum pilosum,Ocimum pilosum,SPECIES,SYNONYM,Ocimum africanum,Lamiaceae,EXACT,99
+Ocimum sanctum,Ocimum sanctum,SPECIES,SYNONYM,Ocimum tenuiflorum,Lamiaceae,EXACT,100
+Ocimum villosum,Lamiaceae,FAMILY,ACCEPTED,,Lamiaceae,HIGHERRANK,99
+Ocinium sanctum,Ocimum sanctum,SPECIES,SYNONYM,Ocimum tenuiflorum,Lamiaceae,FUZZY,80
+Octandra,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Ocymum album,Ocimum,GENUS,ACCEPTED,,Lamiaceae,HIGHERRANK,85
+Ocymum sacrum,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Odina pennata,Odina pinnata,SPECIES,SYNONYM,Lannea coromandelica,Anacardiaceae,FUZZY,96
+Odina pinisata,Odina pinnata,SPECIES,SYNONYM,Lannea coromandelica,Anacardiaceae,FUZZY,95
+Odina pinnata,Odina pinnata,SPECIES,SYNONYM,Lannea coromandelica,Anacardiaceae,EXACT,100
+Odina wodier,Odina wodier,SPECIES,SYNONYM,Lannea coromandelica,Anacardiaceae,EXACT,100
+Okera,Oxera,GENUS,ACCEPTED,,Lamiaceae,FUZZY,80
+Oldenlandia,Oldenlandia,GENUS,ACCEPTED,,Rubiaceae,EXACT,95
+Oldenlandia biflora,Magnoliopsida,CLASS,ACCEPTED,,,HIGHERRANK,99
+Oldenlandia herbacea,Oldenlandia herbacea,SPECIES,ACCEPTED,,Rubiaceae,EXACT,99
+Oleraceus,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Olibanum,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Ophiorrhiza mungos,Ophiorrhiza mungos,SPECIES,ACCEPTED,,Rubiaceae,EXACT,99
+Opomea turpethum,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Opuntia,Opuntia,GENUS,ACCEPTED,,Cactaceae,HIGHERRANK,95
+Opuntia dillenii,Opuntia dillenii,SPECIES,ACCEPTED,,Cactaceae,EXACT,100
+Oryza sativa,Oryza sativa,SPECIES,ACCEPTED,,Poaceae,EXACT,99
+Ovieda verticallata,Ovieda verticillatum,SPECIES,SYNONYM,Clerodendrum indicum,Lamiaceae,FUZZY,95
+Oxalis,Oxalis,GENUS,ACCEPTED,,Oxalidaceae,EXACT,96
+Oxalis corniculata,Oxalis corniculata,SPECIES,ACCEPTED,,Oxalidaceae,EXACT,100
+Oxalis pusilla,Oxalis pusilla,SPECIES,ACCEPTED,,Oxalidaceae,EXACT,99
+Oxystelma esculentum,Oxystelma esculentum,SPECIES,SYNONYM,Oxystelma wallichii,Apocynaceae,EXACT,99
+Paederia foetida,Paederia foetida,SPECIES,ACCEPTED,,Rubiaceae,EXACT,99
+Palma christi,Palma,GENUS,SYNONYM,,Arecaceae,HIGHERRANK,96
+Palmyra,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Paludosa,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Pandanus,Pandanus,GENUS,ACCEPTED,,Pandanaceae,EXACT,95
+Pandanus odoratissimus,Pandanus odoratissimus,SPECIES,ACCEPTED,,Pandanaceae,EXACT,99
+Panicum,Panicum,GENUS,ACCEPTED,,Poaceae,EXACT,96
+Panicum dactylon,Panicum dactylon,SPECIES,SYNONYM,Cynodon dactylon,Poaceae,EXACT,100
+Panicum frumentaceum,Panicum frumentaceum,SPECIES,ACCEPTED,,Poaceae,EXACT,99
+Panicum italicum,Panicum italicum,SPECIES,ACCEPTED,,Poaceae,EXACT,99
+Panicum miliaceum,Panicum miliaceum,SPECIES,ACCEPTED,,Poaceae,EXACT,99
+Panicum spicatum,Poaceae,FAMILY,ACCEPTED,,Poaceae,HIGHERRANK,99
+Panicum verticillatum,Panicum verticillatum,SPECIES,ACCEPTED,,Poaceae,EXACT,99
+Panicuni italicum,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Panmori,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Panmorium,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Parra jacana,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Paspalum frumentaceum,Paspalum frumentaceum,SPECIES,ACCEPTED,,Poaceae,EXACT,99
+Paspalum scrobiculatum,Paspalum scrobiculatum,SPECIES,ACCEPTED,,Poaceae,EXACT,100
+Pavetta indica,Pavetta indica,SPECIES,ACCEPTED,,Rubiaceae,EXACT,99
+Pavonia odorata,Pavonia odorata,SPECIES,SYNONYM,Pavonia zeylonica,Malvaceae,EXACT,100
+Peepal,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Penicillaria spicata,Penicillaria spicata,SPECIES,SYNONYM,Cenchrus americanus,Poaceae,EXACT,100
+Pentapetes phoenicea,Pentapetes phoenicea,SPECIES,ACCEPTED,,Malvaceae,EXACT,100
+Pentaptera,Pentaptera,GENUS,SYNONYM,,Combretaceae,EXACT,94
+Pentaptera arjuna,Pentaptera arjuna,SPECIES,SYNONYM,Terminalia arjuna,Combretaceae,EXACT,99
+Pentaptera tomentosa,Pentaptera tomentosa,SPECIES,SYNONYM,Terminalia elliptica,Combretaceae,EXACT,99
+Perdix chinensis,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Perfoliata,Perfoliata,GENUS,SYNONYM,,Apiaceae,EXACT,95
+Periploca indica,Periploca indica,SPECIES,SYNONYM,Hemidesmus indicus,Apocynaceae,EXACT,100
+Pharmaceum mollugo,Pharnaceum mollugo,SPECIES,SYNONYM,Glinus oppositifolius,Molluginaceae,FUZZY,88
+Phaseolus,Phaseolus,GENUS,ACCEPTED,,Fabaceae,EXACT,95
+Phaseolus aconitifolius,Fabaceae,FAMILY,ACCEPTED,,Fabaceae,HIGHERRANK,99
+Phaseolus max,Phaseolus max,SPECIES,ACCEPTED,,Fabaceae,EXACT,99
+Phaseolus mungo,Phaseolus mungo,SPECIES,ACCEPTED,,Fabaceae,EXACT,99
+Phaseolus radiatus,Vigna,GENUS,ACCEPTED,,Fabaceae,HIGHERRANK,99
+Phaseolus trilobus,Fabaceae,FAMILY,ACCEPTED,,Fabaceae,HIGHERRANK,99
+Phaseolus trilobus ait,Fabaceae,FAMILY,ACCEPTED,,Fabaceae,HIGHERRANK,99
+Phlomis,Phlomis,GENUS,ACCEPTED,,Lamiaceae,EXACT,96
+Phlomis ceylanica,Phlomis,GENUS,ACCEPTED,,Lamiaceae,HIGHERRANK,96
+Phlomis esculenta,Phlomis esculenta,SPECIES,SYNONYM,Leucas aspera,Lamiaceae,EXACT,100
+Phlomis zeylanica,Phlomis zeylanica,SPECIES,ACCEPTED,,Lamiaceae,EXACT,99
+Phoenix,Phoenix,GENUS,ACCEPTED,,Arecaceae,EXACT,95
+Phoenix paludosa,Phoenix paludosa,SPECIES,ACCEPTED,,Arecaceae,EXACT,100
+Phoenix silvestris,Phoenix sylvestris,SPECIES,ACCEPTED,,Arecaceae,FUZZY,98
+Phoenix sylvestris,Phoenix sylvestris,SPECIES,ACCEPTED,,Arecaceae,EXACT,100
+Phyllanthus emblica,Phyllanthus emblica,SPECIES,ACCEPTED,,Phyllanthaceae,EXACT,100
+Phyllanthus niruri,Phyllanthus niruri,SPECIES,ACCEPTED,,Phyllanthaceae,EXACT,99
+Physalia flexuosa,Solanaceae,FAMILY,ACCEPTED,,Solanaceae,HIGHERRANK,85
+Physalis flexuosa,Solanaceae,FAMILY,ACCEPTED,,Solanaceae,HIGHERRANK,99
+Physalis flexuosus,Solanaceae,FAMILY,ACCEPTED,,Solanaceae,HIGHERRANK,96
+Picta,Picea,GENUS,ACCEPTED,,Pinaceae,FUZZY,83
+Pimelodus vacha,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Pimenta acris,Pimenta acris,SPECIES,SYNONYM,Pimenta racemosa,Myrtaceae,EXACT,100
+Pimpinella anisum,Pimpinella anisum,SPECIES,ACCEPTED,,Apiaceae,EXACT,99
+Pimpinella involucrata,Apiaceae,FAMILY,ACCEPTED,,Apiaceae,HIGHERRANK,99
+Pinus,Pinus,GENUS,ACCEPTED,,Pinaceae,EXACT,96
+Pinus deodar,Pinus deodara,SPECIES,SYNONYM,Cedrus deodara,Pinaceae,FUZZY,96
+Pinus deodaru roxb,Pinus deodara,SPECIES,SYNONYM,Cedrus deodara,Pinaceae,HIGHERRANK,95
+Pinus deodora,Pinus deodara,SPECIES,SYNONYM,Cedrus deodara,Pinaceae,FUZZY,95
+Pinus devadaru,Pinus,GENUS,ACCEPTED,,Pinaceae,HIGHERRANK,96
+Pinus devadāru,Pinus,GENUS,ACCEPTED,,Pinaceae,HIGHERRANK,96
+Pinus longifolia,Pinus longifolia,SPECIES,ACCEPTED,,Pinaceae,EXACT,99
+Pinus webbiana,Pinus webbiana,SPECIES,SYNONYM,Abies spectabilis,Pinaceae,EXACT,99
+Piper aurantiacum,Piper aurantiacum,SPECIES,SYNONYM,Piper wallichii,Piperaceae,EXACT,99
+Piper betel,Piper betel,SPECIES,SYNONYM,Piper betle,Piperaceae,EXACT,99
+Piper betle,Piper betle,SPECIES,ACCEPTED,,Piperaceae,EXACT,100
+Piper chaba,Piper chaba,SPECIES,SYNONYM,Piper retrofractum,Piperaceae,EXACT,99
+Piper longum,Piper longum,SPECIES,ACCEPTED,,Piperaceae,EXACT,99
+Pisang,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Pistia stratiotes,Pistia stratiotes,SPECIES,ACCEPTED,,Araceae,EXACT,100
+Pisum arvense,Pisum arvense,SPECIES,SYNONYM,Lathyrus oleraceus,Fabaceae,EXACT,100
+Piyal,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Plectranthus,Plectranthus,GENUS,ACCEPTED,,Lamiaceae,EXACT,96
+Plectranthus scutellarioides,Plectranthus scutellarioides,SPECIES,SYNONYM,Coleus scutellarioides,Lamiaceae,EXACT,99
+Plumbago,Plumbago,GENUS,ACCEPTED,,Plumbaginaceae,EXACT,96
+Plumbago ceylanica,Plumbago,GENUS,ACCEPTED,,Plumbaginaceae,HIGHERRANK,96
+Plumbago rosea,Plumbago rosea,SPECIES,SYNONYM,Plumbago indica,Plumbaginaceae,EXACT,100
+Plumbago zeylanica,Plumbago zeylanica,SPECIES,ACCEPTED,,Plumbaginaceae,EXACT,100
+Poa cynosuroides,Poa cynosuroides,SPECIES,SYNONYM,Desmostachya bipinnata,Poaceae,EXACT,100
+Polanisia icosandra,Polanisia icosandra,SPECIES,SYNONYM,Arivela viscosa,Cleomaceae,EXACT,100
+Polianthes tuberosa,Polianthes tuberosa,SPECIES,SYNONYM,Agave amica,Asparagaceae,EXACT,100
+Pongamia glabra,Pongamia glabra,SPECIES,ACCEPTED,,Fabaceae,EXACT,99
+Ponulacca olerscea,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Portulaca oleracea,Portulaca oleracea,SPECIES,ACCEPTED,,Portulacaceae,EXACT,100
+Portulaca quadrifida,Portulaca quadrifida,SPECIES,ACCEPTED,,Portulacaceae,EXACT,100
+Pothos officinalis,Pothos officinalis,SPECIES,SYNONYM,Scindapsus officinalis,Araceae,EXACT,100
+Premna esculenta,Premna esculenta,SPECIES,ACCEPTED,,Lamiaceae,EXACT,100
+Premna herbacea,Premna herbacea,SPECIES,ACCEPTED,,Lamiaceae,EXACT,100
+Premna spinosa,Premna spinosa,SPECIES,SYNONYM,Premna serratifolia,Lamiaceae,EXACT,100
+Prenina spinosa,Premna spinosa,SPECIES,SYNONYM,Premna serratifolia,Lamiaceae,FUZZY,80
+Proralia corylifolia,Psoralea corylifolia,SPECIES,SYNONYM,Cullen corylifolium,Fabaceae,FUZZY,80
+Prosopis spicigera,Prosopis spicigera,SPECIES,SYNONYM,Prosopis cineraria,Fabaceae,EXACT,100
+Prostrata,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Psoralea corylifolia,Psoralea corylifolia,SPECIES,SYNONYM,Cullen corylifolium,Fabaceae,EXACT,100
+Pterocarpus santalinus,Pterocarpus santalinus,SPECIES,ACCEPTED,,Fabaceae,EXACT,99
+Pterospermum acerifolium,Pterospermum acerifolium,SPECIES,ACCEPTED,,Malvaceae,EXACT,99
+Pterospermum acrifolium,Pterospermum,GENUS,ACCEPTED,,Malvaceae,HIGHERRANK,95
+Pterospermum ruberifolium,Pterospermum,GENUS,ACCEPTED,,Malvaceae,HIGHERRANK,95
+Pterospermum suberifolium,Pterospermum suberifolium,SPECIES,ACCEPTED,,Malvaceae,EXACT,99
+Ptychotis ajowan,Ptychotis ajowan,SPECIES,SYNONYM,Trachyspermum ammi,Apiaceae,EXACT,100
+Pubescens,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Purslain,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Putranjiva roxburghii,Putranjiva roxburghii,SPECIES,ACCEPTED,,Putranjivaceae,EXACT,100
+Pythonium bulbiferum schott,Pythonium bulbiferum,SPECIES,SYNONYM,Amorphophallus bulbifer,Araceae,HIGHERRANK,100
+Quamoclit pennata,Quamoclit pennata,SPECIES,SYNONYM,Ipomoea quamoclit,Convolvulaceae,EXACT,99
+Randia,Randia,GENUS,ACCEPTED,,Rubiaceae,EXACT,96
+Rangan,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Raphanus sativus,Raphanus sativus,SPECIES,ACCEPTED,,Brassicaceae,EXACT,100
+Red lodh,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Religiosa,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Rhinacanthus communis,Rhinacanthus,GENUS,ACCEPTED,,Acanthaceae,HIGHERRANK,99
+Rhombifolia,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Rhus,Rhus,GENUS,ACCEPTED,,Anacardiaceae,EXACT,96
+Rhus succedana,Rhus succedanea,SPECIES,SYNONYM,Toxicodendron succedaneum,Anacardiaceae,FUZZY,96
+Ricinus,Ricinus,GENUS,ACCEPTED,,Euphorbiaceae,EXACT,95
+Ricinus communis,Ricinus communis,SPECIES,ACCEPTED,,Euphorbiaceae,EXACT,100
+Rohitaka,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Rosa glandulifera,Rosa,GENUS,ACCEPTED,,Rosaceae,HIGHERRANK,99
+Rosa moschata,Rosa moschata,SPECIES,ACCEPTED,,Rosaceae,EXACT,99
+Rosa sinensis,Rosa,GENUS,ACCEPTED,,Rosaceae,HIGHERRANK,91
+Rosea,Magnoliopsida,CLASS,ACCEPTED,,,HIGHERRANK,94
+Rotang,Rotang,GENUS,SYNONYM,,Arecaceae,EXACT,96
+Rottlera tinctoria,Rottlera tinctoria,SPECIES,SYNONYM,Mallotus philippensis,Euphorbiaceae,EXACT,100
+Rottleria tinctoria,Rottlera tinctoria,SPECIES,SYNONYM,Mallotus philippensis,Euphorbiaceae,FUZZY,88
+Roxburghii,Roxburghia,GENUS,SYNONYM,,Stemonaceae,FUZZY,84
+Roxburghii wall,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Rubia manjith,Rubia manjith,SPECIES,ACCEPTED,,Rubiaceae,EXACT,99
+Rubia munjista,Rubia munjista,SPECIES,SYNONYM,Rubia manjith,Rubiaceae,EXACT,100
+Rubra,Rubia,GENUS,ACCEPTED,,Rubiaceae,FUZZY,85
+Rubriflora,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Ruellia longifolia,Ruellia longifolia,SPECIES,ACCEPTED,,Acanthaceae,EXACT,99
+Rumex vesicarius,Rumex vesicarius,SPECIES,ACCEPTED,,Polygonaceae,EXACT,100
+Rumex vesicatorius,Rumex vesicarius,SPECIES,ACCEPTED,,Polygonaceae,FUZZY,95
+Ruta graveolens,Ruta graveolens,SPECIES,ACCEPTED,,Rutaceae,EXACT,100
+Saccharatus cernuum,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Saccharum cylindricum,Saccharum cylindricum,SPECIES,SYNONYM,Imperata cylindrica,Poaceae,EXACT,100
+Saccharum fuscum,Saccharum fuscum,SPECIES,SYNONYM,Miscanthus fuscus,Poaceae,EXACT,100
+Saccharum munja,Saccharum munja,SPECIES,SYNONYM,Tripidium bengalense,Poaceae,EXACT,100
+Saccharum munja roxb,Saccharum munja,SPECIES,SYNONYM,Tripidium bengalense,Poaceae,HIGHERRANK,100
+Saccharum munjia,Saccharum munja,SPECIES,SYNONYM,Tripidium bengalense,Poaceae,FUZZY,97
+Saccharum officinale,Saccharum officinale,SPECIES,SYNONYM,Saccharum officinarum,Poaceae,EXACT,100
+Saccharum officinarum,Saccharum officinarum,SPECIES,ACCEPTED,,Poaceae,EXACT,100
+Saccharum procerum,Saccharum procerum,SPECIES,SYNONYM,Tripidium procerum,Poaceae,EXACT,100
+Saccharum sara,Saccharum sara,SPECIES,SYNONYM,Tripidium bengalense,Poaceae,EXACT,100
+Saccharum sara roxb,Saccharum sara,SPECIES,SYNONYM,Tripidium bengalense,Poaceae,HIGHERRANK,100
+Saccharum spontaneum,Saccharum spontaneum,SPECIES,ACCEPTED,,Poaceae,EXACT,100
+Saccharum śara,Saccharum,GENUS,ACCEPTED,,Poaceae,HIGHERRANK,95
+Salmalia malabarica,Salmalia malabarica,SPECIES,SYNONYM,Bombax ceiba,Malvaceae,EXACT,100
+Salvadora persica,Salvadora persica,SPECIES,ACCEPTED,,Salvadoraceae,EXACT,99
+Salvinia cucullata,Salvinia cucullata,SPECIES,ACCEPTED,,Salviniaceae,EXACT,99
+Sanseviera,Sanseviera,GENUS,DOUBTFUL,,Haemodoraceae,EXACT,94
+Sanseviera roxburghiana,Sansevieria roxburghiana,SPECIES,SYNONYM,Dracaena roxburghiana,Asparagaceae,FUZZY,88
+Sanseviera zeylanica,Dracaena,GENUS,ACCEPTED,,Asparagaceae,HIGHERRANK,85
+Sapindus detergens,Sapindus,GENUS,ACCEPTED,,Sapindaceae,HIGHERRANK,99
+Sapindus detergens roxb,Sapindus,GENUS,ACCEPTED,,Sapindaceae,HIGHERRANK,99
+Sapindus saponaria,Sapindus saponaria,SPECIES,ACCEPTED,,Sapindaceae,EXACT,99
+Sarcostema viminalis,Cynanchum,GENUS,ACCEPTED,,Apocynaceae,HIGHERRANK,85
+Sarcostemma viminale,Cynanchum,GENUS,ACCEPTED,,Apocynaceae,HIGHERRANK,99
+Sarsaparilla,Sarsaparilla,GENUS,SYNONYM,,Smilacaceae,EXACT,96
+Saussurea auriculata,Asteraceae,FAMILY,ACCEPTED,,Asteraceae,HIGHERRANK,99
+Schoenanthus indicus,Schoenanthus,GENUS,SYNONYM,,Poaceae,HIGHERRANK,96
+Scholaris,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Schrebera swietenioides,Schrebera swietenioides,SPECIES,ACCEPTED,,Oleaceae,EXACT,100
+Schreberia swietenoides,Schrebera swietenoides,SPECIES,ACCEPTED,,Oleaceae,FUZZY,87
+Scindapsus officinalis,Scindapsus officinalis,SPECIES,ACCEPTED,,Araceae,EXACT,100
+Scirpus,Scirpus,GENUS,ACCEPTED,,Cyperaceae,EXACT,95
+Scirpus kysoor,Scirpus kysoor,SPECIES,SYNONYM,Actinoscirpus grossus,Cyperaceae,EXACT,99
+Scirpus kysoor roxb,Scirpus kysoor,SPECIES,SYNONYM,Actinoscirpus grossus,Cyperaceae,HIGHERRANK,99
+Seemul,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Semecarpus anacardium,Semecarpus anacardium,SPECIES,ACCEPTED,,Anacardiaceae,EXACT,99
+Senna,Senna,GENUS,ACCEPTED,,Fabaceae,EXACT,95
+Senna obtusa,Senna obtusa,SPECIES,SYNONYM,Senna italica,Fabaceae,EXACT,100
+Sennia esculenta,Senna esculenta,SPECIES,SYNONYM,Senna sophera,Fabaceae,FUZZY,88
+Serratula anthelminthica,Serratula anthelmintica,SPECIES,SYNONYM,Baccharoides anthelmintica,Asteraceae,FUZZY,97
+Serratula anthelmintica,Serratula anthelmintica,SPECIES,SYNONYM,Baccharoides anthelmintica,Asteraceae,EXACT,100
+Sesam,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Sesamum,Sesamum,GENUS,ACCEPTED,,Pedaliaceae,EXACT,95
+Sesamum indicum,Sesamum indicum,SPECIES,ACCEPTED,,Pedaliaceae,EXACT,100
+Sesbana grandiflora,Sesban grandiflora,SPECIES,SYNONYM,Sesbania grandiflora,Fabaceae,FUZZY,95
+Sesbania aegyptiaca,Sesbania aegyptiaca,SPECIES,ACCEPTED,,Fabaceae,EXACT,99
+Sesbania grandiflora,Sesbania grandiflora,SPECIES,ACCEPTED,,Fabaceae,EXACT,99
+Shorea robusta,Shorea robusta,SPECIES,ACCEPTED,,Dipterocarpaceae,EXACT,99
+Sida,Sida,GENUS,ACCEPTED,,Malvaceae,HIGHERRANK,95
+Sida alba,Sida alba,SPECIES,ACCEPTED,,Malvaceae,EXACT,99
+Sida cordifolia,Sida cordifolia,SPECIES,ACCEPTED,,Malvaceae,EXACT,99
+Sida rhombifolia,Sida rhombifolia,SPECIES,ACCEPTED,,Malvaceae,EXACT,100
+Sida rhomboidea,Sida,GENUS,ACCEPTED,,Malvaceae,HIGHERRANK,99
+Sida rhomboides,Sida,GENUS,ACCEPTED,,Malvaceae,HIGHERRANK,95
+Sida spinosa,Sida spinosa,SPECIES,ACCEPTED,,Malvaceae,EXACT,99
+Sidonia cordifolia,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Sinapis,Sinapis,GENUS,ACCEPTED,,Brassicaceae,EXACT,96
+Sinapis dichotoma,Brassica,GENUS,ACCEPTED,,Brassicaceae,HIGHERRANK,99
+Sinapis glauca,Sinapis glauca,SPECIES,SYNONYM,Brassica napus,Brassicaceae,EXACT,100
+Sinapis racemosa,Sinapis,GENUS,ACCEPTED,,Brassicaceae,HIGHERRANK,96
+Sinapis ramosa,Sinapis ramosa,SPECIES,SYNONYM,Brassica juncea,Brassicaceae,EXACT,99
+Sinapis ramosa roxb,Sinapis ramosa,SPECIES,SYNONYM,Brassica juncea,Brassicaceae,HIGHERRANK,99
+Siphonantus indica,Siphonanthus indicus,SPECIES,SYNONYM,Clerodendrum indicum,Lamiaceae,FUZZY,88
+Sirium myrtifolium,Sirium myrtifolium,SPECIES,SYNONYM,Santalum album,Santalaceae,EXACT,100
+Sisu,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Sita cordifolia,Sida cordifolia,SPECIES,ACCEPTED,,Malvaceae,FUZZY,86
+Smilax china,Smilax china,SPECIES,ACCEPTED,,Smilacaceae,EXACT,99
+Socotorine aloe,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Solanum,Solanum,GENUS,ACCEPTED,,Solanaceae,HIGHERRANK,95
+Solanum diffusum,Solanum diffusum,SPECIES,ACCEPTED,,Solanaceae,EXACT,99
+Solanum indicum,Solanum,GENUS,ACCEPTED,,Solanaceae,HIGHERRANK,99
+Solanum jacquini,Solanum jacquinii,SPECIES,SYNONYM,Solanum virginianum,Solanaceae,FUZZY,96
+Solanum longum,Solanum longum,SPECIES,SYNONYM,Solanum melongena,Solanaceae,EXACT,100
+Solanum melongena,Solanum melongena,SPECIES,ACCEPTED,,Solanaceae,EXACT,99
+Solanum trilobatum,Solanum trilobatum,SPECIES,ACCEPTED,,Solanaceae,EXACT,99
+Sorghum,Sorghum,GENUS,ACCEPTED,,Poaceae,EXACT,96
+Sowa,Soda,GENUS,ACCEPTED,,Amaranthaceae,FUZZY,80
+Soyimida febrifuga,Soymida febrifuga,SPECIES,ACCEPTED,,Meliaceae,FUZZY,89
+Speciosus,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Sphaeranthus,Sphaeranthus,GENUS,ACCEPTED,,Asteraceae,EXACT,96
+Sphaeranthus hirtus,Sphaeranthus hirtus,SPECIES,SYNONYM,Sphaeranthus indicus,Asteraceae,EXACT,100
+Sphaeranthus indicus,Sphaeranthus indicus,SPECIES,ACCEPTED,,Asteraceae,EXACT,99
+Sphaeranthus mollis,Sphaeranthus mollis,SPECIES,SYNONYM,Sphaeranthus indicus,Asteraceae,EXACT,99
+Sphaerantus hirtus,Sphaeranthus hirtus,SPECIES,SYNONYM,Sphaeranthus indicus,Asteraceae,FUZZY,88
+Sphut,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Sphuti,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Spondias,Spondias,GENUS,ACCEPTED,,Anacardiaceae,EXACT,96
+Spondias magnifera,Spondias mangifera,SPECIES,SYNONYM,Spondias pinnata,Anacardiaceae,FUZZY,96
+Spondias mangifera,Spondias mangifera,SPECIES,SYNONYM,Spondias pinnata,Anacardiaceae,EXACT,100
+Spondias mangifera pentaptera tomentosa,Spondias mangifera,SPECIES,SYNONYM,Spondias pinnata,Anacardiaceae,HIGHERRANK,100
+Squamosa,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Strychnos,Strychnos,GENUS,ACCEPTED,,Loganiaceae,EXACT,96
+Strychnos nux vomica,Strychnos,GENUS,ACCEPTED,,Loganiaceae,HIGHERRANK,96
+Strychnos potatorum,Strychnos potatorum,SPECIES,ACCEPTED,,Loganiaceae,EXACT,100
+Styrax,Styrax,GENUS,ACCEPTED,,Styracaceae,EXACT,96
+Styrax benzoin,Styrax benzoin,SPECIES,ACCEPTED,,Styracaceae,EXACT,100
+Sulcatus,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Superba,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Symplocos,Symplocos,GENUS,ACCEPTED,,Symplocaceae,EXACT,96
+Symplocos racemosa,Symplocos racemosa,SPECIES,ACCEPTED,,Symplocaceae,EXACT,99
+Tabernaemontana,Tabernaemontana,GENUS,ACCEPTED,,Apocynaceae,EXACT,96
+Tabernaemontana coronaria,Tabernaemontana coronaria,SPECIES,SYNONYM,Tabernaemontana divaricata,Apocynaceae,EXACT,99
+Tamarindus indica,Tamarindus indica,SPECIES,ACCEPTED,,Fabaceae,EXACT,100
+Tamarix indica,Tamarix indica,SPECIES,ACCEPTED,,Tamaricaceae,EXACT,99
+Tapia,Tapia,GENUS,SYNONYM,,Capparaceae,EXACT,95
+Tapia crataeva,Tapia,GENUS,SYNONYM,,Capparaceae,HIGHERRANK,95
+Tectona grandis,Tectona grandis,SPECIES,ACCEPTED,,Lamiaceae,EXACT,99
+Tectonia grandis,Tectona grandis,SPECIES,ACCEPTED,,Lamiaceae,FUZZY,88
+Terminalia,Terminalia,GENUS,ACCEPTED,,Combretaceae,EXACT,96
+Terminalia alata,Terminalia,GENUS,ACCEPTED,,Combretaceae,HIGHERRANK,99
+Terminalia alata tomentosa,Terminalia,GENUS,ACCEPTED,,Combretaceae,HIGHERRANK,99
+Terminalia arjuna,Terminalia arjuna,SPECIES,ACCEPTED,,Combretaceae,EXACT,100
+Terminalia arunja,Terminalia arunja,SPECIES,ACCEPTED,,Combretaceae,EXACT,100
+Terminalia belerica,Terminalia bellirica,SPECIES,ACCEPTED,,Combretaceae,FUZZY,95
+Terminalia bellerica,Terminalia bellirica,SPECIES,ACCEPTED,,Combretaceae,FUZZY,95
+Terminalia belrica,Terminalia bellirica,SPECIES,ACCEPTED,,Combretaceae,FUZZY,95
+Terminalia catappa,Terminalia catappa,SPECIES,ACCEPTED,,Combretaceae,EXACT,100
+Terminalia chebula,Terminalia chebula,SPECIES,ACCEPTED,,Combretaceae,EXACT,99
+Terminalia citrina roxb,Terminalia citrina,SPECIES,ACCEPTED,,Combretaceae,HIGHERRANK,99
+Terminalia katappa,Terminalia katikii,SPECIES,ACCEPTED,,Combretaceae,FUZZY,95
+Terminalia tomentosa,Combretaceae,FAMILY,ACCEPTED,,Combretaceae,HIGHERRANK,99
+Terra japonica,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Tetranthera lanceifolia,Tetranthera lanceifolia,SPECIES,SYNONYM,Litsea salicifolia,Lauraceae,EXACT,99
+Thespesia opulneoides,Thespesia,GENUS,ACCEPTED,,Malvaceae,HIGHERRANK,96
+Thespesia populnea,Thespesia populnea,SPECIES,ACCEPTED,,Malvaceae,EXACT,99
+Thespesia populneoides,Thespesia populneoides,SPECIES,ACCEPTED,,Malvaceae,EXACT,100
+Thorea robusta,Thottea robusta,SPECIES,SYNONYM,Thottea macrophylla,Aristolochiaceae,FUZZY,80
+Thurifera,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Tiaridium indicum,Tiaridium indicum,SPECIES,SYNONYM,Heliotropium indicum,Heliotropiaceae,EXACT,100
+Tiglium,Tiglium,GENUS,SYNONYM,,Euphorbiaceae,EXACT,96
+Tirucalli,Tirucallia,GENUS,SYNONYM,,Euphorbiaceae,FUZZY,84
+Tithymalus,Tithymalus,GENUS,ACCEPTED,,Euphorbiaceae,EXACT,95
+Tithymalus antiquorum,Tithymalus antiquorus,SPECIES,SYNONYM,Euphorbia antiquorum,Euphorbiaceae,FUZZY,95
+Tora,Tracheophyta,PHYLUM,ACCEPTED,,,HIGHERRANK,80
+Tortilis,Torilis,GENUS,ACCEPTED,,Apiaceae,FUZZY,85
+Tragia involucrata,Tragia involucrata,SPECIES,ACCEPTED,,Euphorbiaceae,EXACT,100
+Trapa bispinosa,Trapa bispinosa,SPECIES,SYNONYM,Trapa natans,Lythraceae,EXACT,100
+Trewia nudiflora,Trewia nudiflora,SPECIES,ACCEPTED,,Euphorbiaceae,EXACT,99
+Tribulus,Tribulus,GENUS,ACCEPTED,,Zygophyllaceae,EXACT,96
+Tribulus lanuginosus,Tribulus,GENUS,ACCEPTED,,Zygophyllaceae,HIGHERRANK,99
+Trichodesma zeylanicum,Trichodesma zeylanicum,SPECIES,ACCEPTED,,Boraginaceae,EXACT,100
+Trichosanthes,Trichosanthes,GENUS,ACCEPTED,,Cucurbitaceae,EXACT,96
+Trichosanthes anguina,Trichosanthes anguina,SPECIES,SYNONYM,Trichosanthes cucumerina,Cucurbitaceae,EXACT,100
+Trichosanthes bracteata,Trichosanthes bracteata,SPECIES,ACCEPTED,,Cucurbitaceae,EXACT,100
+Trichosanthes dioeca,Trichosanthes dioica,SPECIES,ACCEPTED,,Cucurbitaceae,FUZZY,95
+Trichosanthes dioeca roxb,Trichosanthes dioica,SPECIES,ACCEPTED,,Cucurbitaceae,HIGHERRANK,95
+Trichosanthes palmata,Cucurbitaceae,FAMILY,ACCEPTED,,Cucurbitaceae,HIGHERRANK,99
+Trigonella corniculata,Trigonella corniculata,SPECIES,ACCEPTED,,Fabaceae,EXACT,99
+Trigonella foenum graecum,Trigonella,GENUS,ACCEPTED,,Fabaceae,HIGHERRANK,96
+Trilobus lanuginosus,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Trophis aspera,Trophis aspera,SPECIES,SYNONYM,Streblus asper,Moraceae,EXACT,100
+Turdus ginginianus,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Turdus macrourus,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Typha angustifolia,Typha angustifolia,SPECIES,ACCEPTED,,Typhaceae,EXACT,99
+Unguis odoratus,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Upas,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Uraria,Uraria,GENUS,ACCEPTED,,Fabaceae,EXACT,96
+Uraria lagopodioides,Uraria lagopodioides,SPECIES,ACCEPTED,,Fabaceae,EXACT,99
+Vachellia farnesiana,Vachellia farnesiana,SPECIES,ACCEPTED,,Fabaceae,EXACT,100
+Valeriana,Valeriana,GENUS,ACCEPTED,,Caprifoliaceae,EXACT,96
+Valeriana jaṭāmāṃsī,Valeriana,GENUS,ACCEPTED,,Caprifoliaceae,HIGHERRANK,96
+Vallaris dichotomus,Vallaris,GENUS,ACCEPTED,,Apocynaceae,HIGHERRANK,96
+Vallaris dichotomus wall,Vallaris,GENUS,ACCEPTED,,Apocynaceae,HIGHERRANK,96
+Valleriana,Valeriana,GENUS,ACCEPTED,,Caprifoliaceae,FUZZY,85
+Vallisneria,Vallisneria,GENUS,ACCEPTED,,Hydrocharitaceae,EXACT,96
+Vanda roxburghii,Vanda roxburghii,SPECIES,SYNONYM,Vanda tessellata,Orchidaceae,EXACT,100
+Vangueria spinosa,Vangueria spinosa,SPECIES,SYNONYM,Meyna spinosa,Rubiaceae,EXACT,100
+Variegata,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Vatica,Vatica,GENUS,ACCEPTED,,Dipterocarpaceae,EXACT,96
+Vatica robusta,Vatica robusta,SPECIES,SYNONYM,Shorea robusta,Dipterocarpaceae,EXACT,100
+Ventilago madraspatana,Ventilago madraspatana,SPECIES,ACCEPTED,,Rhamnaceae,EXACT,99
+Verbesina,Verbesina,GENUS,ACCEPTED,,Asteraceae,EXACT,96
+Verbesina prostrata,Asteraceae,FAMILY,ACCEPTED,,Asteraceae,HIGHERRANK,99
+Verbesina scandens,Verbesina scandens,SPECIES,ACCEPTED,,Asteraceae,EXACT,99
+Vernonia anthelminthica,Vernonia anthelmintica,SPECIES,SYNONYM,Baccharoides anthelmintica,Asteraceae,FUZZY,97
+Vernonia anthelmintica,Vernonia anthelmintica,SPECIES,SYNONYM,Baccharoides anthelmintica,Asteraceae,EXACT,100
+Vespa solitaria,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Villarsia cristata,Villarsia cristata,SPECIES,SYNONYM,Nymphoides hydrophylla,Menyanthaceae,EXACT,100
+Villarsia indica,Villarsia indica,SPECIES,ACCEPTED,,Menyanthaceae,EXACT,99
+Vitex,Vitex,GENUS,ACCEPTED,,Lamiaceae,EXACT,96
+Vitex alata,Vitex,GENUS,ACCEPTED,,Lamiaceae,HIGHERRANK,99
+Vitex negundo,Vitex negundo,SPECIES,ACCEPTED,,Lamiaceae,EXACT,99
+Vitex paniculata,Vitex paniculata,SPECIES,SYNONYM,Vitex trifolia,Lamiaceae,EXACT,100
+Vitex trifolia,Vitex trifolia,SPECIES,ACCEPTED,,Lamiaceae,EXACT,100
+Vitis pedata wall,Vitis pedata,SPECIES,SYNONYM,Cayratia pedata,Vitaceae,HIGHERRANK,99
+Vitis quadrangularis,Vitis quadrangularis,SPECIES,SYNONYM,Cissus quadrangularis,Vitaceae,EXACT,99
+Webera corymbosa,Webera corymbosa,SPECIES,ACCEPTED,,Rubiaceae,EXACT,99
+Wedelia calendulacea,Asteraceae,FAMILY,ACCEPTED,,Asteraceae,HIGHERRANK,99
+Wrightea antidysenterica,Wrightia antidysenterica,SPECIES,ACCEPTED,,Apocynaceae,FUZZY,88
+Wrightia antidysenterica,Wrightia antidysenterica,SPECIES,ACCEPTED,,Apocynaceae,EXACT,99
+Xantboxylum alatum,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Xanthochymus pictorius,Xanthochymus pictorius,SPECIES,SYNONYM,Garcinia xanthochymus,Clusiaceae,EXACT,100
+Xanthophyllum virens,Xanthophyllum virens,SPECIES,ACCEPTED,,Polygalaceae,EXACT,100
+Xanthorrhiza,Xanthorhiza,GENUS,ACCEPTED,,Ranunculaceae,FUZZY,83
+Xanthoxylon alatum,Xanthoxylon,GENUS,SYNONYM,,Rutaceae,HIGHERRANK,96
+Ximenia aegyptiaca,Ximenia aegyptiaca,SPECIES,ACCEPTED,,Ximeniaceae,EXACT,99
+Xylocarpus granatum,Xylocarpus granatum,SPECIES,ACCEPTED,,Meliaceae,EXACT,99
+Zanthoxylon alatum,Zanthoxylon,GENUS,SYNONYM,,Rutaceae,HIGHERRANK,96
+Zanthoxylon hastile,Zanthoxylum hastile,SPECIES,ACCEPTED,,Rutaceae,FUZZY,81
+Zanthoxylon rhetsa,Zanthoxylon,GENUS,SYNONYM,,Rutaceae,HIGHERRANK,96
+Zedoary,Plantae,KINGDOM,ACCEPTED,,,HIGHERRANK,99
+Zerumbet,Zingiberaceae,FAMILY,ACCEPTED,,Zingiberaceae,HIGHERRANK,94
+Zingiber zerumbet,Zingiber zerumbet,SPECIES,ACCEPTED,,Zingiberaceae,EXACT,99
+Zizyphus,Zizyphus,GENUS,ACCEPTED,,Rhamnaceae,EXACT,95
+Zizyphus cenoplia,Zizyphus,GENUS,ACCEPTED,,Rhamnaceae,HIGHERRANK,95
+Zizyphus jujuba,Zizyphus jujuba,SPECIES,SYNONYM,Ziziphus mauritiana,Rhamnaceae,EXACT,99
+Zizyphus scandens,Ziziphus scandens,SPECIES,SYNONYM,Ziziphus oenopolia,Rhamnaceae,FUZZY,88
+Zizyphus xylopyrus,Ziziphus xylopyrus,SPECIES,ACCEPTED,,Rhamnaceae,FUZZY,86

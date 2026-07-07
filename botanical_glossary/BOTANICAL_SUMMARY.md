@@ -37,6 +37,9 @@
 - `mw_botanical_glossary.csv` — per-occurrence: headword (SLP1+IAST), species
   (canonical+raw), L-number, page, citation, lexicographer-only flag, DCS band.
 - `species_to_sanskrit.json` — canonical species → sorted Sanskrit synonym ring.
+- `homograph_control_headwords.csv` — one row per botanical headword with the
+  homograph-control flags (lexicographer_only_any, botanical_only, dcs_attested,
+  clean_confirmation); every count above reproduces by filtering this file.
 
 ## Notes
 - Canonicalisation: Genus capitalised, epithet lowercase, notes/punctuation
