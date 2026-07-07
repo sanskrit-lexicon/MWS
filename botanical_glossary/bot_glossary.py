@@ -136,6 +136,35 @@ clean = [r for r in L_rows if r[0] in bot_only and r[8] != '']
 clean_heads = set(r[0] for r in clean)
 top_syn = sorted(species_json.items(), key=lambda kv: -len(kv[1]))[:12]
 
+# --- homograph-control audit list (issue #74; A45 §3.4/§4.5) ---
+# One row per distinct botanical headword, with the flags that define the
+# homograph control, so a referee can audit every headline count directly from a
+# committed file: 7,063 botanical headwords, 5,054 L.-only, 4,148 botanical-only
+# (no non-plant homograph), 1,567 clean confirmations. The botanical_only flag
+# depends on the full MW sense inventory in `k1_kind`, which the released
+# per-occurrence CSV alone does not carry — hence this dedicated audit file.
+head_iast = {}
+for r in rows:
+    head_iast.setdefault(r[0], r[1])
+audit = []
+for k1 in sorted(head_iast):
+    d = k1_kind.get(k1, {'bot': True, 'nonbot': False})
+    is_bot_only = d['bot'] and not d['nonbot']
+    L_only_any = k1 in L_heads
+    band = dcs_band(k1) or ''
+    attested = band != ''
+    audit.append([k1, head_iast[k1],
+                  'yes' if L_only_any else 'no',         # >=1 lexicographer-only botanical occurrence
+                  'yes' if is_bot_only else 'no',        # botanical_only (no non-plant homograph)
+                  'yes' if attested else 'no',           # dcs_attested (lemma-level)
+                  band, BAND.get(band, '') if band else '',
+                  'yes' if (is_bot_only and L_only_any and attested) else 'no'])  # clean confirmation
+with open(os.path.join(HERE, 'homograph_control_headwords.csv'), 'w', newline='', encoding='utf-8') as f:
+    w = csv.writer(f)
+    w.writerow(['k1_slp1', 'k1_iast', 'lexicographer_only_any', 'botanical_only',
+                'dcs_attested', 'dcs_band', 'dcs_band_label', 'clean_confirmation'])
+    w.writerows(audit)
+
 S = []
 S.append('# MW botanical glossary (#74) — summary\n')
 S.append(f'- `<bot>` occurrences: **{n_occ:,}**')
@@ -162,6 +191,9 @@ S.append('\n## Files')
 S.append('- `mw_botanical_glossary.csv` — per-occurrence: headword (SLP1+IAST), species')
 S.append('  (canonical+raw), L-number, page, citation, lexicographer-only flag, DCS band.')
 S.append('- `species_to_sanskrit.json` — canonical species → sorted Sanskrit synonym ring.')
+S.append('- `homograph_control_headwords.csv` — one row per botanical headword with the')
+S.append('  homograph-control flags (lexicographer_only_any, botanical_only, dcs_attested,')
+S.append('  clean_confirmation); every count above reproduces by filtering this file.')
 S.append('\n## Notes')
 S.append('- Canonicalisation: Genus capitalised, epithet lowercase, notes/punctuation')
 S.append('  trimmed — folds `Abrus Precatorius`/`Abrus precatorius` into one species.')
