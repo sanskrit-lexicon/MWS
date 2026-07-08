@@ -17,8 +17,10 @@ and regenerate the candidate worklist so the August batch starts from families 5
 ## Steps
 
 1. **Fold-rule fix**: in [scripts/lib/source-siglum.mjs](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/scripts/lib/source-siglum.mjs)
-   `baseForm` (and the Python port in
-   [scripts/obs/siglum_families.py](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/scripts/obs/siglum_families.py)):
+   `foldSiglum()` (and its Python port `fold_siglum()` in
+   [scripts/obs/siglum_families.py](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/scripts/obs/siglum_families.py) —
+   note: there is no separate `baseForm` function; the roman-numeral strip goes inside
+   these two fold functions):
    strip trailing lowercase roman-numeral tokens before clustering. Add unit cases:
    `raghiii→ragh`, `dhatupxxxii→dhatup`, `paniv→pan`, `mbhi→mbh`, `susri→susr`,
    and negative cases `hariv→hariv` (the v is part of the siglum!), `divyav→divyav`,
