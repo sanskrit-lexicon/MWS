@@ -35,9 +35,13 @@ and the siglum adjudication batch delivered to csl-atlas
 
 1. **W1 layer priority** (was "awaiting M.G."): **overtaken by events** — layers (a) and (b)
    shipped 30-06. July W1 = **layer (c) scan-link targets**, opening with the
-   citation-weight leaders that have unambiguous editions (Suśr., Kathās., ŚBr.), and
-   honoring the cross-repo decision-master recommendation to **build the per-work
-   page-index first**, then per-citation links → [SPEC-1](https://github.com/sanskrit-lexicon/MWS/blob/master/planning/specs/2026-07/SPEC-1-w1c-scanlink.md).
+   citation-weight leaders (Suśr., Kathās., ŚBr.), and honoring the cross-repo
+   decision-master recommendation to **build the per-work page-index first**, then
+   per-citation links → [SPEC-1](https://github.com/sanskrit-lexicon/MWS/blob/master/planning/specs/2026-07/SPEC-1-w1c-scanlink.md).
+   **Correction 08-07-2026 (Sonnet 5 `claude-sonnet-5`):** "unambiguous editions" does not
+   hold up — MW's preface names no edition at all for any of the three (bare
+   abbreviation-expansion list only); SPEC-1 execution stopped at step 1 per its own
+   guardrail, see [MWS#234](https://github.com/sanskrit-lexicon/MWS/issues/234).
    Pāṇ. stays excluded until the August sūtra-scheme decision (working recommendation from
    the 02-07 decisions-master triage: ashtadhyayi.com URLs, which would make it agent-doable).
 2. **[#217](https://github.com/sanskrit-lexicon/MWS/issues/217) residual identity calls** —
