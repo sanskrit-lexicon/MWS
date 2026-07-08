@@ -39,6 +39,14 @@
 | spṛh | 10 | 6 | y |
 | styā | 1 | 4 | y |
 | taḍ | 10 | 2 | y |
+| trā | 1 | 2,4 |  |
+| tul | 10 | 1 |  |
+| ukṣ | 1 | 6 |  |
+| vruḍ | 6 | 1 | y |
+| vyā | 1 | 4 | y |
+| śyā | 1 | 4 | y |
+| ḍamb | 10 | 1 | y |
+| ṭaṅk | 10 | 1 |  |
 
 ## Notes
 - Class extracted from MW `cp` digits (`1P,1Ā`→{1}); Whitney roman→arabic.

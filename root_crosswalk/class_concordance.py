@@ -122,7 +122,7 @@ S.append(f'- Of these, {wg_n:,} also carry a Westergaard/Dhātupāṭha anchor �
 S.append(f'  grammarian class is available as a tiebreaker for them.')
 S.append('\n| root | MW class | Whitney class | Dhātup.? |')
 S.append('|---|---|---|---|')
-for b, mwc, wc, wg in sorted(conflicts)[:18]:
+for b, mwc, wc, wg in sorted(conflicts):
     S.append(f'| {b} | {",".join(map(str,mwc))} | {",".join(map(str,wc))} | {"y" if wg else ""} |')
 S.append('\n## Notes')
 S.append('- Class extracted from MW `cp` digits (`1P,1Ā`→{1}); Whitney roman→arabic.')
