@@ -1,10 +1,10 @@
 # 3-way verbal-root crosswalk: MW ↔ Whitney ↔ DCS
 
 ## MW side
-- MW verbal-root records (`verb="genuineroot"` or `"root"`): **2,113**
+- MW verbal-root records (`verb="genuineroot"` or `"root"`): **750**
 - …with a Whitney anchor (`<info whitneyroots>`): 813
 - …with a Westergaard anchor (`<info westergaard>`): 1,309
-- Distinct MW-anchored roots matched to the hub: 734;
+- Distinct MW-anchored roots matched to the hub: 810;
   **unmatched (candidate anchor errors): 3** → `mw_whitney_unmatched.csv`
 
 ## Coverage of the 935-root Whitney hub
@@ -31,3 +31,7 @@
   (max 210, many roots share a page), NOT a root id — decoded here.
 - `mw_whitney_unmatched.csv` are MW anchors with no hub root after
   normalisation: either MW-side typos or roots absent from the hub.
+- MW side is read from the canonical `csl-orig/v02/mw/mw_roots.tsv`
+  (SHARED_CODE.md §11); the join itself lives in
+  `WhitneyRoots/scripts/root_triangulation.py` (SHARED_CODE.md §16) — this
+  script is a thin MWS-side consumer, not a second implementation.
