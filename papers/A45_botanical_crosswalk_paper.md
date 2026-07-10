@@ -1,8 +1,8 @@
 ---
 paper_id: A45
 title: "Naming the Plants: A Corpus-Attested Sanskrit-to-Linnaean Crosswalk from the Monier-Williams Dictionary"
-status: draft (skeleton, 2/5) — scaffolded 2026-06-26
-readiness: 2/5
+status: full draft — scaffolded 2026-06-26, author-voice pass 2026-07-10
+readiness: 3/5 (pending author sign-off)
 venue: "Lexikos / Biodiversity Data Journal / Journal of Open Humanities Data (JOHD)"
 author: "**Mārcis Gasūns**, independent scholar ([ORCID 0000-0003-4513-884X](https://orcid.org/0000-0003-4513-884X)), gasyoun@ya.ru"
 data_source: "MWS/botanical_glossary/ (mw_botanical_glossary.csv + species_to_sanskrit.json + BOTANICAL_SUMMARY.md; built by bot_glossary.py from csl-orig mw.txt; DCS-2021 attestation via VisualDCS/dcs_lemma_summary.json)"
@@ -10,20 +10,21 @@ data_source: "MWS/botanical_glossary/ (mw_botanical_glossary.csv + species_to_sa
 
 # Naming the Plants: A Corpus-Attested Sanskrit-to-Linnaean Crosswalk from the Monier-Williams Dictionary
 
-> **Draft status (2026-07-08, readiness 3/5).** Manuscript built directly on the FAIR dataset
-> in [`../botanical_glossary/`](../botanical_glossary/). All numerical claims below are
-> transcribed from that dataset and re-count from the committed
+> **Draft status (2026-07-10, readiness 3/5 pending author sign-off).** Manuscript built directly
+> on the FAIR dataset in [`../botanical_glossary/`](../botanical_glossary/). Every numerical claim
+> below re-counts from the committed
 > [`mw_botanical_glossary.csv`](../botanical_glossary/mw_botanical_glossary.csv),
-> [`species_to_sanskrit.json`](../botanical_glossary/species_to_sanskrit.json), and
-> [`homograph_control_headwords.csv`](../botanical_glossary/homograph_control_headwords.csv).
-> **Done this pass:** §2 Related work written; the homograph-control figures (4,148 botanical-only
-> / 1,567 clean confirmations) are now emitted as an auditable committed CSV and reproduce from it;
-> the GBIF nomenclatural-currency pass is run and §3.5/§4.6 report the accepted-vs-synonym split;
-> the synonym-ring distribution is quantified (§4.3). **Open before submission (author/@DO):**
-> (1) finalise byline + ORCID (in front matter, to confirm); (2) cite A38 once its DCS-2026 release
-> DOI is minted, and decide DCS-2021 (83,239 lemmas) vs DCS-2026 (98,606) as the attestation base;
-> (3) pick the venue and do the final read; (4) mint the dataset DOI and fill the per-file SHA256s
-> in §"Data and reproducibility".
+> [`species_to_sanskrit.json`](../botanical_glossary/species_to_sanskrit.json),
+> [`homograph_control_headwords.csv`](../botanical_glossary/homograph_control_headwords.csv), and
+> [`species_currency.csv`](../botanical_glossary/species_currency.csv); all were re-verified against
+> those files on 2026-07-10.
+> **Open before submission (author/@DO):** (1) confirm byline + ORCID in the front matter;
+> (2) cite A38 once its DCS-2026 release DOI is minted, and decide DCS-2021 (83,239 lemmas) vs
+> DCS-2026 (98,606) as the attestation base — the band labels would not change, the coverage would
+> rise; (3) pick the venue and do the final read; (4) mint the dataset DOI and fill the per-file
+> SHA256s in §"Data and reproducibility", pinning the `mw.txt` source commit.
+> The voice calls made in the author pass are itemised in
+> [`SIGNOFF_A45_author_pass.md`](SIGNOFF_A45_author_pass.md).
 >
 > **Anti-salami note.** This paper is the *resource + corpus-coverage* contribution. The
 > evidentiary-gradient interpretation of corpus-confirmed kośa vocabulary is the subject of
@@ -32,25 +33,26 @@ data_source: "MWS/botanical_glossary/ (mw_botanical_glossary.csv + species_to_sa
 
 ## Abstract
 
-The botanical layer of a great historical Sanskrit dictionary is a record of two different
-kinds of knowledge: plant names the lexicographer read in running texts, and plant names he
-collected from the indigenous synonym lexicons (kośas and nighaṇṭus) without a textual
-witness. We extract the complete botanical layer of Monier-Williams' *A Sanskrit-English
-Dictionary* (1899) — **8,923** `<bot>` tags spanning **7,063** distinct Sanskrit headwords
-mapped to **1,223** canonical Linnaean species — and release it as the first machine-readable
-Sanskrit-to-botanical-Latin crosswalk derived from a Cologne dictionary. Two further layers are
-joined per occurrence: the dictionary's own lexicographer-only marker (`<ls>L.</ls>`), which
-flags a sense attested only in the synonym lexicons, and lemma-level attestation against the
-Digital Corpus of Sanskrit (DCS). We find the botanical layer is **predominantly kośa-derived**:
-**72%** of botanical headwords (5,054 of 7,063; 6,064 occurrences) carry their plant sense as
-lexicographer-only. A naive corpus join would overstate textual support, because common words
-carry rare plant senses as homographs (e.g. *kṛṣṇa*, *indra*, *kāla*); after a homograph control
-that restricts attention to headwords whose every sense is a plant (4,148 such headwords), a
-substantial share — 1,567 — is nonetheless DCS-attested (see §4.5, reproducible from the committed
-audit file). The contribution is the dataset and its corpus-coverage
-characterisation, not the evidentiary-gradient interpretation of the corpus-confirmed subset,
-which we cite to companion work. The release is FAIR, reproducible from the open Cologne source,
-and intended as a reusable bridge between Sanskrit lexicography and biodiversity informatics.
+The botanical layer of a historical Sanskrit dictionary records two different kinds of knowledge:
+plant names the lexicographer read in running texts, and plant names he took from the indigenous
+synonym lexicons (kośas and nighaṇṭus) without a textual witness. We extract the complete
+botanical layer of Monier-Williams' *A Sanskrit-English Dictionary* (1899) — **8,923** `<bot>`
+tags spanning **7,063** distinct Sanskrit headwords mapped to **1,223** canonical Linnaean
+species — and release it as the first machine-readable Sanskrit-to-botanical-Latin crosswalk
+derived from a Cologne dictionary. We join two further layers per occurrence: the dictionary's own
+lexicographer-only marker (`<ls>L.</ls>`), which flags a sense attested only in the synonym
+lexicons, and lemma-level attestation against the Digital Corpus of Sanskrit (DCS). The botanical
+layer proves **predominantly kośa-derived**: **72%** of botanical headwords (5,054 of 7,063; 6,064
+occurrences) carry their plant sense as lexicographer-only. A naive corpus join overstates textual
+support, because common words carry rare plant senses as homographs (*kṛṣṇa*, *indra*, *kāla*);
+we therefore restrict the coverage statistic to the 4,148 headwords whose every sense is a plant,
+of which 1,567 are DCS-attested (§4.5, reproducible from the committed audit file). A GBIF pass
+finds that 346 of the 726 binomials resolvable at species rank are now superseded synonyms, which
+is why the crosswalk keeps MW's names verbatim and attaches the accepted name as a separate field.
+Our contribution is the dataset and its corpus-coverage characterisation; the evidentiary-gradient
+reading of the corpus-confirmed subset belongs to companion work, which we cite. The release is
+FAIR, reproducible from the open Cologne source, and intended as a durable bridge between Sanskrit
+lexicography and biodiversity informatics.
 
 ## 1. Introduction
 
@@ -154,9 +156,7 @@ directly from the entry.
 frequency summary ([`dcs_lemma_summary.json`](../../VisualDCS/dcs_lemma_summary.json),
 **DCS-2021**, 83,239 attested lemmas, CC BY, Oliver Hellwig). A headword that matches a DCS lemma
 receives a frequency **band**: hapax (1), rare (2–9), uncommon (10–99), common (100–999), or
-very-common (1000+), on a log10-orders rule. *(TODO: decide whether to re-run against DCS-2026,
-98,606 lemmas, before submission — see A38; the band labels would not change, the coverage would
-rise.)*
+very-common (1000+), on a log10-orders rule.
 
 ### 3.4 The homograph control
 A naive lemma-level join between "lexicographer-only botanical headword" and "DCS-attested lemma"
@@ -198,8 +198,8 @@ direction ([`species_to_sanskrit.json`](../botanical_glossary/species_to_sanskri
 ### 4.2 The layer is predominantly kośa-derived
 **6,064** occurrences — **5,054** distinct headwords, **72%** of all botanical headwords — carry
 the plant sense as lexicographer-only. The botanical vocabulary of MW is therefore mostly the
-indigenous synonym tradition rather than text-citable plant names: exactly the channel where a
-nighaṇṭu is richest.
+indigenous synonym tradition rather than text-citable plant names — the channel where a nighaṇṭu
+is richest and a running text thinnest.
 
 ### 4.3 Synonym rings
 The species-to-Sanskrit direction holds 1,223 species and 8,859 synonym entries, a mean of 7.2
@@ -247,14 +247,16 @@ attested (band non-empty). The attested occurrences distribute across frequency 
 ### 4.5 Coverage after the homograph control
 A naive lemma-level join of lexicographer-only botanical headwords against DCS attestation
 recovers a large but **contaminated** set: of the 5,054 headwords carrying a lexicographer-only
-botanical sense, 3,348 are DCS-attested by lemma — but the high-band hits are dominated by
-homograph collisions (the *kṛṣṇa/indra/kāla* problem of §3.4), so lemma attestation does not
-confirm the plant sense for them. Restricting to **botanical-only** headwords (no non-plant
-homograph) gives the defensible figure: MW has **4,148 botanical-only headwords, of which 1,567
-are both lexicographer-only and DCS-attested** — plant vocabulary MW carried only from the
-lexicons that the modern corpus nonetheless attests, with no homograph escape hatch. All four
-counts (7,063 botanical headwords; 5,054 lexicographer-only; 4,148 botanical-only; 1,567 clean
-confirmations) reproduce directly from the committed
+botanical sense, 3,348 are DCS-attested by lemma. The contamination concentrates in the upper
+frequency bands, exactly as the *kṛṣṇa/indra/kāla* problem of §3.4 predicts — among these naive
+hits, homograph-bearing headwords are 90.9% of the *uncommon* band, 99.4% of the *common* band,
+and all 84 of the *very-common* band, so for them lemma attestation says nothing about the plant
+sense. Restricting to **botanical-only** headwords (no non-plant homograph) gives the defensible
+figure: MW has **4,148 botanical-only headwords, of which 1,567 are both lexicographer-only and
+DCS-attested** — plant vocabulary MW carried only from the lexicons that the modern corpus
+nonetheless attests, with no homograph escape hatch. All four counts (7,063 botanical headwords;
+5,054 lexicographer-only; 4,148 botanical-only; 1,567 clean confirmations), and the per-band split
+above, reproduce directly from the committed
 [`homograph_control_headwords.csv`](../botanical_glossary/homograph_control_headwords.csv). The
 interpretation of the 1,567-headword subset as an evidentiary gradient — corpus vindication of
 kośa-only vocabulary — is developed in companion work (A18/P3) and is not argued here.
@@ -265,8 +267,8 @@ species rank** (a full binomial identification), 272 at genus rank (genus-only M
 family rank, and 164 only to kingdom Plantae — i.e. 164 of MW's names are not in the modern
 backbone at all, and are neither confirmed nor superseded, only unlocated.
 
-The currency verdict is clearest on the 726 species-rank binomials, and it is striking: **only
-about half of MW's identifiable binomials are still accepted names.**
+The currency verdict is clearest on the 726 species-rank binomials: **only about half of MW's
+identifiable binomials are still accepted names.**
 
 | GBIF status (species-rank matches) | species | % |
 |---|--:|--:|
@@ -277,37 +279,38 @@ about half of MW's identifiable binomials are still accepted names.**
 Almost half of the binomials MW gave (346 of the 723 accepted-or-synonym) are now historical
 synonyms of a currently accepted name — *Acacia arabica* → *Vachellia nilotica*, *Acacia
 farnesiana* → *Vachellia farnesiana*, *Achyranthes aquatica* → *Centrostachys aquatica*, and so
-on. This is exactly why the release keeps MW's name verbatim and attaches the accepted name as a
-separate resolvable field (`accepted_name` in
+on. This is why the release keeps MW's name verbatim and attaches the accepted name as a separate
+resolvable field (`accepted_name` in
 [`species_currency.csv`](../botanical_glossary/species_currency.csv)) rather than modernising the
 identifications in place: the dataset is a *historical-lexicographic* record whose taxonomy can be
 brought current on demand, not a claim about present-day botanical identity. (Counting all 1,216
 resolved names including genus-rank matches gives 68.2% accepted / 31.8% synonym, but that figure
 is inflated by genus-only tags that are trivially "accepted" at genus rank; the species-rank split
-is the defensible one.) The most-represented families are Fabaceae (142), Poaceae (55),
-Apocynaceae (43), Malvaceae and Lamiaceae (41 each) — the legumes, grasses, and mints of the
-subcontinent's economic and medicinal flora.
+is the defensible one.) Across all 1,223 resolved names, the most-represented families are
+Fabaceae (142), Poaceae (55), Apocynaceae (43), Malvaceae and Lamiaceae (41 each) — the legumes,
+grasses, and mints of the subcontinent's economic and medicinal flora.
 
 ## 5. Discussion
 
 The botanical layer of MW is, by its own marking, mostly an inheritance from the kośa tradition
-rather than a harvest from running text — 72% lexicographer-only is a strong, dictionary-internal
-statement about where a 19th-century lexicographer's plant knowledge came from. Releasing this
-layer as a machine-readable crosswalk turns an internal apparatus into a reusable bridge: a
+rather than a harvest from running text. That 72% of botanical headwords are lexicographer-only is
+a dictionary-internal statement about where a nineteenth-century lexicographer's plant knowledge
+came from, made in MW's own apparatus rather than imputed from outside. Releasing the layer as a
+machine-readable crosswalk turns that internal apparatus into a reusable object: a
 Sanskrit-to-Linnaean lookup with provenance, usable from the biodiversity-informatics side
 (species → attested Sanskrit names) and from the lexicographic side (headword → species + textual
-support). The homograph control is the methodological point that makes any corpus-coverage claim
-honest: a plain lemma join silently imports the frequency of the wrong sense. The further question
-of what the corpus-confirmed, homograph-controlled subset *means* for the evidentiary status of
-kośa vocabulary is deferred to A18.
+support). The homograph control is what makes any corpus-coverage claim honest here; a plain lemma
+join silently imports the frequency of the wrong sense, and does so worst precisely where the
+frequencies are largest. What the corpus-confirmed, homograph-controlled subset *means* for the
+evidentiary status of kośa vocabulary we leave to A18.
 
-The nomenclatural-currency pass adds a second, independent reason to treat the crosswalk as a
+The nomenclatural-currency pass gives a second, independent reason to treat the crosswalk as a
 historical document rather than a modern determination: nearly half of the binomials MW gave are,
 a century and a quarter later, superseded names. Rather than modernise the identifications — which
-would erase what MW actually wrote and bake in a 2020s taxonomy that will itself age — we keep MW's
-name and attach the current accepted name as a separate field. The crosswalk is thus usable in
-both directions in time: as a record of what a great nineteenth-century lexicographer identified,
-and, through the GBIF layer, as a bridge to present-day biodiversity data.
+would erase what MW wrote and bake in a 2020s taxonomy that will itself age — we keep MW's name and
+attach the current accepted name as a separate field. The crosswalk is therefore legible in both
+temporal directions: as a record of what a nineteenth-century lexicographer identified, and,
+through the GBIF layer, as a bridge to present-day biodiversity data.
 
 ## 6. Limitations
 
@@ -322,8 +325,11 @@ and, through the GBIF layer, as a bridge to present-day biodiversity data.
   against DCS-2026 (98,606 lemmas; see A38) would raise coverage. The 2021 figure is stated
   explicitly so it is not conflated with the larger 2026 release.
 - **Derived homograph-controlled figures.** The 4,148 / 1,567 figures depend on the full MW sense
-  inventory and are reported here per `BOTANICAL_SUMMARY.md`; they are to be regenerated with a
-  committed headword list before submission.
+  inventory, which the per-occurrence release CSV does not carry. They are therefore emitted to a
+  dedicated audit file,
+  [`homograph_control_headwords.csv`](../botanical_glossary/homograph_control_headwords.csv), from
+  which both reproduce by filtering; the `botanical_only` flag it records is only as good as MW's
+  own sense segmentation.
 - **Canonicalisation folds at the binomial level**; genus-only tags (e.g. *Abrus*, *Areca*) remain
   distinct from their binomials by design and are counted as separate canonical species.
 
@@ -334,8 +340,10 @@ species — is predominantly kośa-derived (72% lexicographer-only), and we rele
 machine-readable, corpus-attested Sanskrit-to-botanical-Latin crosswalk from a Cologne dictionary.
 A homograph-controlled join to the Digital Corpus of Sanskrit measures how much of this
 lexicon-only vocabulary the modern corpus nonetheless attests, while leaving the evidentiary
-interpretation to companion work. The dataset is reproducible from the open Cologne source and is
-intended as a durable bridge between Sanskrit lexicography and biodiversity informatics.
+interpretation to companion work; a GBIF pass records how much of MW's nineteenth-century
+nomenclature modern botany has since superseded. Both layers are attached to MW's text rather
+than substituted for it, which is what allows the dataset to be read as a historical document and
+used as a current bridge between Sanskrit lexicography and biodiversity informatics.
 
 ## Data and reproducibility
 
@@ -352,5 +360,8 @@ ring), [`homograph_control_headwords.csv`](../botanical_glossary/homograph_contr
 `python bot_glossary.py` from the Cologne `mw.txt` source plus the DCS-2021 summary
 [`dcs_lemma_summary.json`](../../VisualDCS/dcs_lemma_summary.json); the currency pass regenerates
 with `python gbif_currency.py` (cached against the GBIF Backbone Taxonomy). The work is an analysis
-layer only — it never edits `mw.txt`. *(TODO: DOI + per-file SHA256 after release; pin the `mw.txt`
-source commit; cite A38 for the DCS denominator and A18 for the evidentiary-gradient analysis.)*
+layer only — it never edits `mw.txt`. We cite A38 for the DCS denominator and A18 for the
+evidentiary-gradient analysis.
+
+*(Pre-submission, to be filled at release: the dataset DOI, the per-file SHA256 checksums, and the
+pinned `mw.txt` source commit — see the draft-status note above.)*
