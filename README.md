@@ -1,9 +1,10 @@
-MWS
-===
+# MWS
+
+_Created: 16-01-2014 · Last updated: 10-07-2026_
 
 Monier Monier-Williams, Sir; *A Sanskrit-English Dictionary*. Oxford, 1899.
 
-This repository holds corrections, enhancements, and tooling for the [Cologne digitization](http://www.sanskrit-lexicon.uni-koeln.de/) of the MW dictionary. The canonical source data (`mw.txt` in SLP1 encoding) lives in [csl-orig](https://github.com/sanskrit-lexicon/csl-orig); the build system is in [csl-pywork](https://github.com/sanskrit-lexicon/csl-pywork). Issues and corrections are tracked at the [MWS GitHub issue tracker](https://github.com/sanskrit-lexicon/MWS/issues).
+This repository holds corrections, enhancements, and tooling for the [Cologne digitization](http://www.sanskrit-lexicon.uni-koeln.de/) of the MW dictionary. The canonical source data ([`mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) in SLP1 encoding) lives in [csl-orig](https://github.com/sanskrit-lexicon/csl-orig); the build system is in [csl-pywork](https://github.com/sanskrit-lexicon/csl-pywork). Text corrections are never made directly to the source — they are expressed as change files applied by scripts, following the canonical [correction workflow](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md). Issues and corrections are tracked at the [MWS GitHub issue tracker](https://github.com/sanskrit-lexicon/MWS/issues); the dictionary is served online through the [Cologne interface](http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php), and this repository publishes a [GitHub Pages landing page](http://sanskrit-lexicon.github.io/MWS/).
 
 ## Contents
 
@@ -27,32 +28,20 @@ This repository holds corrections, enhancements, and tooling for the [Cologne di
 | `transcodeExample/` | Example transcoder PHP/Python scripts and SLP1→IAST table |
 | `basic04a/` | Simple two-dictionary web display sample |
 | `list02php/` | PHP-based display sample |
-| `prefaces/` | Front-matter OCR (title page, Preface, Introduction §§ I–V) with Russian translation — see [Front matter](#front-matter-prefaces) below |
+| [`prefaces/`](https://github.com/sanskrit-lexicon/MWS/tree/master/prefaces) | Front-matter OCR (title page, Preface, Introduction §§ I–V) with Russian translation — see [Front matter](#front-matter-prefaces) below |
 
-## Front matter (`prefaces/`)
+## Front matter (prefaces)
 
-Faithful OCR of the 29 front-matter scan pages of the New Edition (Oxford, at the Clarendon Press, 1899) — the title page, the *Preface to the New Edition* (pp. v–x, including the *Postscript* added by the author's son M. F. Monier-Williams), and the *Introduction* in five sections (pp. xi–xxxii) — each in the **English source** plus a **Russian** translation, with consolidated single-file editions and a [`prefaces/README.md`](prefaces/README.md) index. Source: the Cologne [csldoc preface scans](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/mwpref.html). Because the source is already English there are no per-page `.en.md` files (the base `.md` *is* the English edition); the consolidated outputs are [`mwpref_all.en.md`](prefaces/mwpref_all.en.md) and [`mwpref_all.ru.md`](prefaces/mwpref_all.ru.md). Devanāgarī/Sanskrit is kept verbatim with full diacritics; the p. xxvii comparative-alphabet table (Phœnician → Greek/Roman/English and Brāhma → Nāgarī) is preserved (archaic glyphs marked, Nāgarī column in Unicode); digitizer header/footer stamps are omitted. The Preface is signed *“Indian Institute, Oxford, 1899. — Monier Monier-Williams”*; the Postscript records the author's death at Cannes, in the south of France, on 11 April 1899.
+Faithful OCR of the 29 front-matter scan pages of the New Edition (Oxford, at the Clarendon Press, 1899) — the title page, the *Preface to the New Edition* (pp. v–x, including the *Postscript* added by the author's son M. F. Monier-Williams), and the *Introduction* in five sections (pp. xi–xxxii) — each in the **English source** plus a **Russian** translation, with consolidated single-file editions and a [prefaces/README.md](https://github.com/sanskrit-lexicon/MWS/blob/master/prefaces/README.md) index. Source: the Cologne [csldoc preface scans](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/mwpref.html). Because the source is already English there are no per-page `.en.md` files (the base `.md` *is* the English edition); the consolidated outputs are [mwpref_all.en.md](https://github.com/sanskrit-lexicon/MWS/blob/master/prefaces/mwpref_all.en.md) and [mwpref_all.ru.md](https://github.com/sanskrit-lexicon/MWS/blob/master/prefaces/mwpref_all.ru.md). Devanāgarī/Sanskrit is kept verbatim with full diacritics; the p. xxvii comparative-alphabet table (Phœnician → Greek/Roman/English and Brāhma → Nāgarī) is preserved (archaic glyphs marked, Nāgarī column in Unicode); digitizer header/footer stamps are omitted. The Preface is signed *“Indian Institute, Oxford, 1899. — Monier Monier-Williams”*; the Postscript records the author's death at Cannes, in the south of France, on 11 April 1899.
 
-<details>
-<summary><strong>OCR run notes (2026-06-17)</strong> — cost, timing, and technical lessons</summary>
-
-Produced by the `/cologne-preface-ocr` skill (vision OCR + translation subagents). Process retrospective, not part of the deliverable.
-
-**Cost.** Subagents (exact, from harness telemetry): 15 agents, **≈827,800 output tokens**, 284 tool calls — 9 OCR agents (≈452,000 tokens / 222 calls; one of them, pages 17–19, was killed by a 400 content-filter error after 23 calls and produced nothing) + 6 Russian-translation agents (≈375,800 tokens / 62 calls). Main thread (estimate, dominated by ~22 native-resolution image-crop reads plus two hand repairs): ≈150k tokens. **Total ≈0.95–1.0M tokens.**
-
-**Time.** Wall-clock ≈25–35 min. The OCR agents overlapped (gated by the 353 s pages-14–16 agent) and the translation agents overlapped (gated by the 231 s pages-21–25 agent); the foreground downloads, crop→read repairs, and consolidated builds were sequential by nature.
-
-**Technical lessons (reusable):**
-
-1. **MW's csldoc scans are `.jpg`, not `.png`, and low-resolution (1200×1686).** 1200 px is the maximum available; native-resolution crop bands beat a full-page Read, but final fidelity is capped by the scan itself.
-2. **Trust the toctree order over filename sort.** Pages 26/27 embed scans `mw010034` / `mw010033` (swapped).
-3. **Verify subagent output against the scan; don't trust self-reports.** One agent silently *truncated* page 27 — dropping the SECTION V heading and its first two paragraphs — and *mis-split* the p. 24/25 boundary (it duplicated a table-note onto p. 25 and moved a page-24 paragraph + footnote there). A scripted continuity check (every page tail → next-page head) plus verifying each page's true first line against the scan top surfaced both.
-4. **A subagent can die mid-run on a 400 content-filter error** and produce nothing; redo those pages in the foreground with proper crops.
-5. **Heading levels matter for the consolidated build.** In-body section headings (POSTSCRIPT, SECTION n) must be `##` not `#`, or `build_combined.py`'s H2 sanity-count overshoots.
-6. **Encoding.** All 60 `.md` files written UTF-8 **no BOM**; git's LF→CRLF warning on Windows is cosmetic (committed blobs are LF).
-7. **Push raced a moved remote** — resolved with an add-only `fetch` + `rebase origin/master` + `push` (conflict-free, all files new).
-
-</details>
+> **OCR run notes (2026-06-17) — process retrospective, not part of the deliverable.** Produced by the `/cologne-preface-ocr` skill (vision OCR + translation subagents). Reusable technical lessons:
+>
+> 1. **MW's csldoc scans are `.jpg`, not `.png`, and low-resolution (1200×1686).** 1200 px is the maximum available; native-resolution crop bands beat a full-page read, but final fidelity is capped by the scan itself.
+> 2. **Trust the toctree order over filename sort.** Pages 26/27 embed scans `mw010034` / `mw010033` (swapped).
+> 3. **Verify subagent output against the scan; don't trust self-reports.** One agent silently truncated page 27 (dropping the SECTION V heading and its first two paragraphs) and mis-split the p. 24/25 boundary. A scripted continuity check (every page tail → next-page head) plus verifying each page's true first line against the scan top surfaced both.
+> 4. **A subagent can die mid-run on a 400 content-filter error** and produce nothing; redo those pages in the foreground with proper crops.
+> 5. **Heading levels matter for the consolidated build.** In-body section headings (POSTSCRIPT, SECTION n) must be `##` not `#`, or `build_combined.py`'s H2 sanity-count overshoots.
+> 6. **Encoding.** All `.md` files written UTF-8 no BOM; git's LF→CRLF warning on Windows is cosmetic (committed blobs are LF).
 
 ## Timeline
 
@@ -80,25 +69,27 @@ Work is organised into four GitHub Projects (org-level kanban boards), each mirr
 
 | Project | Milestone | Open | Closed | Scope |
 |---|---|---|---|---|
-| [**Dictionary to Book**](https://github.com/orgs/sanskrit-lexicon/projects/5) | [milestone](https://github.com/sanskrit-lexicon/MWS/milestone/5) | 4 | 8 | Link targets and link splitting |
+| [**Dictionary to Book**](https://github.com/orgs/sanskrit-lexicon/projects/5) | [milestone](https://github.com/sanskrit-lexicon/MWS/milestone/5) | 5 | 8 | Link targets and link splitting |
 | [**Digitization Quality**](https://github.com/orgs/sanskrit-lexicon/projects/6) | [milestone](https://github.com/sanskrit-lexicon/MWS/milestone/6) | 6 | 74 | Scan quality, encoding, bug fixes, text corrections |
-| [**Structured Data**](https://github.com/orgs/sanskrit-lexicon/projects/7) | [milestone](https://github.com/sanskrit-lexicon/MWS/milestone/7) | 10 | 61 | Markup normalisation, structured data improvements, editorial questions |
-| [**Major Enhancements**](https://github.com/orgs/sanskrit-lexicon/projects/8) | [milestone](https://github.com/sanskrit-lexicon/MWS/milestone/8) | 12 | 14 | Display upgrades, new data, large structural additions |
+| [**Structured Data**](https://github.com/orgs/sanskrit-lexicon/projects/7) | [milestone](https://github.com/sanskrit-lexicon/MWS/milestone/7) | 11 | 63 | Markup normalisation, structured data improvements, editorial questions |
+| [**Major Enhancements**](https://github.com/orgs/sanskrit-lexicon/projects/8) | [milestone](https://github.com/sanskrit-lexicon/MWS/milestone/8) | 15 | 14 | Display upgrades, new data, large structural additions |
+
+_Issue counts as of 10-07-2026 (live figures shift as issues are opened and closed)._
 
 ```mermaid
 pie title Closed issues by milestone
     "Digitization Quality" : 74
-    "Structured Data" : 61
+    "Structured Data" : 63
     "Major Enhancements" : 14
     "Dictionary to Book" : 8
 ```
 
 ```mermaid
 pie title Open issues by milestone
-    "Major Enhancements" : 12
-    "Structured Data" : 10
+    "Major Enhancements" : 15
+    "Structured Data" : 11
     "Digitization Quality" : 6
-    "Dictionary to Book" : 4
+    "Dictionary to Book" : 5
 ```
 
 ## Issue Typology
@@ -107,13 +98,13 @@ Issues track two broad concerns: **enriching the XML** (markup, link targets) an
 
 ```mermaid
 pie title Issues by type label
-    "markup" : 51
-    "text-correction" : 48
-    "content-enhancement" : 26
-    "bug" : 29
-    "question" : 21
+    "markup" : 53
+    "text-correction" : 46
+    "content-enhancement" : 29
+    "question" : 22
+    "bug" : 19
+    "link-target" : 12
     "encoding" : 10
-    "link-target" : 11
     "scan-quality" : 3
     "link-splitting" : 1
 ```
@@ -124,25 +115,24 @@ pie title Issues by type label
 |---|---|---|
 | **Link targets** | Building clickable references from `<ls>` abbreviations to scanned PDF pages (7 issues). | Hyperlinking MW to Panini [#77](https://github.com/sanskrit-lexicon/MWS/issues/77), Gram. link [#159](https://github.com/sanskrit-lexicon/MWS/issues/159), VIKRAMORVAŚĪ [#188](https://github.com/sanskrit-lexicon/MWS/issues/188), Ramayana [#151](https://github.com/sanskrit-lexicon/MWS/issues/151) |
 | **Link splitting** | Splitting combined `N,N` refs into per-page links (1 issue). | Dhātup. links [#126](https://github.com/sanskrit-lexicon/MWS/issues/126) |
-| **Markup** | Normalising XML tag content and structure: `<ls>`, `<ab>`, `<lex>`, `<bot>`, `<hom>`, `<bio>` (44 issues). | Missing ls tags [#112](https://github.com/sanskrit-lexicon/MWS/issues/112), RV `<ls>` cleanup [#134](https://github.com/sanskrit-lexicon/MWS/issues/134), `<hom>` consistency [#131](https://github.com/sanskrit-lexicon/MWS/issues/131), 6800 missing ¦ [#132](https://github.com/sanskrit-lexicon/MWS/issues/132) |
+| **Markup** | Normalising XML tag content and structure: `<ls>`, `<ab>`, `<lex>`, `<bot>`, `<hom>`, `<bio>` (45 issues). | Missing ls tags [#112](https://github.com/sanskrit-lexicon/MWS/issues/112), RV `<ls>` cleanup [#134](https://github.com/sanskrit-lexicon/MWS/issues/134), `<hom>` consistency [#131](https://github.com/sanskrit-lexicon/MWS/issues/131), 6800 missing ¦ [#132](https://github.com/sanskrit-lexicon/MWS/issues/132) |
 | **Text corrections** | Corrections to headwords, definitions, accent marks, and orthography (46 issues). | Accent correction phase 1–4 [#141](https://github.com/sanskrit-lexicon/MWS/issues/141), [#142](https://github.com/sanskrit-lexicon/MWS/issues/142), [#145](https://github.com/sanskrit-lexicon/MWS/issues/145), typos [#102](https://github.com/sanskrit-lexicon/MWS/issues/102) |
 | **Content enhancement** | Display upgrades, new data, structural additions (14 issues). | Cross-entry links [#64](https://github.com/sanskrit-lexicon/MWS/issues/64), supplement [#83](https://github.com/sanskrit-lexicon/MWS/issues/83), verbs01 [#75](https://github.com/sanskrit-lexicon/MWS/issues/75) |
 | **Encoding** | SLP1/IAST/Devanagari transcoding, Greek and Lithuanian rendering (8 issues). | Lithuanian IAST [#79](https://github.com/sanskrit-lexicon/MWS/issues/79), Greek text [#153](https://github.com/sanskrit-lexicon/MWS/issues/153), German encoding [#42](https://github.com/sanskrit-lexicon/MWS/issues/42) |
 | **Scan quality** | Replacing missing or poor-quality scan pages (3 issues). | Two missing pages [#81](https://github.com/sanskrit-lexicon/MWS/issues/81), scan review [#144](https://github.com/sanskrit-lexicon/MWS/issues/144) |
-| **Bug fixes** | Broken display, XML errors, broken links (27 issues). | Abnormal `<root/>` tag [#27](https://github.com/sanskrit-lexicon/MWS/issues/27), punctuation in ls refs [#54](https://github.com/sanskrit-lexicon/MWS/issues/54), nikāya lost [#128](https://github.com/sanskrit-lexicon/MWS/issues/128) |
-| **Questions resolved** | Scholarly and editorial questions researched and answered (18 issues). | MW missing feminine data [#84](https://github.com/sanskrit-lexicon/MWS/issues/84), ŚivaPurāṇa refs [#125](https://github.com/sanskrit-lexicon/MWS/issues/125), Zend language [#114](https://github.com/sanskrit-lexicon/MWS/issues/114) |
+| **Bug fixes** | Broken display, XML errors, broken links (17 issues). | Abnormal `<root/>` tag [#27](https://github.com/sanskrit-lexicon/MWS/issues/27), punctuation in ls refs [#54](https://github.com/sanskrit-lexicon/MWS/issues/54), nikāya lost [#128](https://github.com/sanskrit-lexicon/MWS/issues/128) |
+| **Questions resolved** | Scholarly and editorial questions researched and answered (17 issues). | MW missing feminine data [#84](https://github.com/sanskrit-lexicon/MWS/issues/84), ŚivaPurāṇa refs [#125](https://github.com/sanskrit-lexicon/MWS/issues/125), Zend language [#114](https://github.com/sanskrit-lexicon/MWS/issues/114) |
 
 #### Open (work ahead)
 
 | Type | Description | Examples |
 |---|---|---|
-| **Link targets** | Sources still needing index and links installed (4 open issues). | PAÑCATANTRA [#185](https://github.com/sanskrit-lexicon/MWS/issues/185), ŚĀKUNTALA [#186](https://github.com/sanskrit-lexicon/MWS/issues/186), MĀLAVIKĀGNIMITRA [#187](https://github.com/sanskrit-lexicon/MWS/issues/187), missing links [#129](https://github.com/sanskrit-lexicon/MWS/issues/129) |
-| **Markup** | XML tag normalisation still in progress (7 open issues). | New markup for alternates [#147](https://github.com/sanskrit-lexicon/MWS/issues/147), tag inventory [#168](https://github.com/sanskrit-lexicon/MWS/issues/168), titular abbreviations [#172](https://github.com/sanskrit-lexicon/MWS/issues/172) |
-| **Text corrections** | Dictionary text errors still to be fixed (2 open issues). | Feminine headword [#183](https://github.com/sanskrit-lexicon/MWS/issues/183), two headwords [#192](https://github.com/sanskrit-lexicon/MWS/issues/192) |
-| **Content enhancement** | Display upgrades and new data (12 open issues). | Display variant part 2 [#73](https://github.com/sanskrit-lexicon/MWS/issues/73), resolving idems [#98](https://github.com/sanskrit-lexicon/MWS/issues/98), grouped entries [#163](https://github.com/sanskrit-lexicon/MWS/issues/163), web font [#170](https://github.com/sanskrit-lexicon/MWS/issues/170) |
+| **Link targets** | Sources still needing index and links installed (5 open issues). | PAÑCATANTRA [#185](https://github.com/sanskrit-lexicon/MWS/issues/185), ŚĀKUNTALA [#186](https://github.com/sanskrit-lexicon/MWS/issues/186), MĀLAVIKĀGNIMITRA [#187](https://github.com/sanskrit-lexicon/MWS/issues/187), missing links [#129](https://github.com/sanskrit-lexicon/MWS/issues/129) |
+| **Markup** | XML tag normalisation still in progress (8 open issues). | New markup for alternates [#147](https://github.com/sanskrit-lexicon/MWS/issues/147), tag inventory [#168](https://github.com/sanskrit-lexicon/MWS/issues/168), titular abbreviations [#172](https://github.com/sanskrit-lexicon/MWS/issues/172) |
+| **Content enhancement** | Display upgrades and new data (15 open issues). | Display variant part 2 [#73](https://github.com/sanskrit-lexicon/MWS/issues/73), resolving idems [#98](https://github.com/sanskrit-lexicon/MWS/issues/98), grouped entries [#163](https://github.com/sanskrit-lexicon/MWS/issues/163), web font [#170](https://github.com/sanskrit-lexicon/MWS/issues/170) |
 | **Encoding** | Transcoding edge cases (2 open issues). | IAST to ISO 15919 [#155](https://github.com/sanskrit-lexicon/MWS/issues/155), recoding shortlong [#164](https://github.com/sanskrit-lexicon/MWS/issues/164) |
 | **Bug fixes** | Known display and link errors (2 open issues). | &c. abbreviation [#86](https://github.com/sanskrit-lexicon/MWS/issues/86), MW links to Mn. [#189](https://github.com/sanskrit-lexicon/MWS/issues/189) |
-| **Questions / interpretation** | Open scholarly questions (3 open issues). | cf. accord. to some [#45](https://github.com/sanskrit-lexicon/MWS/issues/45), Ka or KA [#93](https://github.com/sanskrit-lexicon/MWS/issues/93), genders in bold [#108](https://github.com/sanskrit-lexicon/MWS/issues/108) |
+| **Questions / interpretation** | Open scholarly questions (5 open issues). | cf. accord. to some [#45](https://github.com/sanskrit-lexicon/MWS/issues/45), Ka or KA [#93](https://github.com/sanskrit-lexicon/MWS/issues/93), genders in bold [#108](https://github.com/sanskrit-lexicon/MWS/issues/108) |
 
 ## Labels
 
@@ -185,3 +175,5 @@ Every issue carries one **type** label and one **severity** label.
 ## Homophone corrections and enhancements
 
 See the [readme.txt](https://github.com/sanskrit-lexicon/MWS/blob/master/homophone/readme.txt) in the homophone directory.
+
+_Dr. Mārcis Gasūns_
