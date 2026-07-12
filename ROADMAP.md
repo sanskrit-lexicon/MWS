@@ -1,5 +1,7 @@
 # MWS Roadmap — 2026 H2
 
+_Created: 23-05-2026 · Last updated: 08-07-2026_
+
 Forward plan for June–November 2026, superseding the 2026-05-27 snapshot.
 It sequences four workstreams chosen 2026-06-12 and bakes in a model-tier
 policy so that frontier-model (Fable-class) sessions are spent only where
@@ -299,3 +301,5 @@ Vedic accent expansion beyond 16.6%, `<ls>L.</ls>` verification (40,213 citation
   [ENTRY_GUIDE.md](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md),
   [DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/MWS/blob/master/DATA_DICTIONARY.md),
   [CONTRIBUTING.md](https://github.com/sanskrit-lexicon/MWS/blob/master/CONTRIBUTING.md).
+
+_Dr. Mārcis Gasūns_
