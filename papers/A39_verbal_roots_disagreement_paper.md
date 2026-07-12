@@ -13,7 +13,7 @@ data_source: "WhitneyRoots/crosswalk/ (ppp_validation.json, token_attribution.js
 _Created: 08-07-2026 · Last updated: 08-07-2026_
 
 > **Draft status (2026-07-08, readiness 2/5).** Skeleton scaffolded per
-> [H158](https://github.com/gasyoun/Uprava/blob/main/handoffs/H158-Fable_WhitneyRoots_a39_verbal_roots_disagreement_scaffold_04.07.26.md).
+> [H158](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H158-Fable_WhitneyRoots_a39_verbal_roots_disagreement_scaffold_04.07.26.md).
 > Every numerical claim below is transcribed from a committed artifact and carries a row in the
 > claim→artifact inventory (§ Data and reproducibility). Sections marked ⬜ are outlined, not yet prose.
 > **Open before drafting continues (author/@DO):** (1) venue choice (WSC 2027 / Lexikos / IIJ /

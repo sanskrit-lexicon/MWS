@@ -5,7 +5,7 @@ _Created: 10-07-2026 · Last updated: 10-07-2026_
 Read-and-sign record for the author-voice pass over
 [`A45_botanical_crosswalk_paper.md`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/A45_botanical_crosswalk_paper.md),
 run under handoff
-[H048](https://github.com/gasyoun/Uprava/blob/main/handoffs/H048-Fable_SanskritLexicography_botanical_crosswalk_26.06.26.md)
+[H048](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H048-Fable_SanskritLexicography_botanical_crosswalk_26.06.26.md)
 by Fable 5 (`claude-fable-5`) on 10-07-2026. Pass scope was **voice, register, and framing**; no
 number, claim, or citation was altered. Budget the read at ~30 minutes: the manuscript does not
 need a full reread, only the calls below.

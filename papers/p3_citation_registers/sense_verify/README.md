@@ -58,6 +58,6 @@ itself stays a human gate** — nothing here decides sense identity.
 - `../../../../VisualDCS/src/DCS-data-2026/dcs_full.sqlite` — the DCS-2026 master, sibling repo (per [PROJECT_INTERLINKS](https://github.com/gasyoun/Uprava/blob/main/PROJECT_INTERLINKS.md): consume, don't re-parse CoNLL-U)
 - IAST→SLP1 transcoder reused from [ls_L_dcs2026.py](https://github.com/sanskrit-lexicon/MWS/blob/master/lexicographer_dcs/ls_L_dcs2026.py)
 
-Built 04-07-2026 by Fable 5 (`claude-fable-5`) per [H150](https://github.com/gasyoun/Uprava/blob/main/handoffs/H150-Fable_MWS_a18_citation_registers_corpus_prep_04.07.26.md).
+Built 04-07-2026 by Fable 5 (`claude-fable-5`) per [H150](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H150-Fable_MWS_a18_citation_registers_corpus_prep_04.07.26.md).
 
 _Dr. Mārcis Gasūns_

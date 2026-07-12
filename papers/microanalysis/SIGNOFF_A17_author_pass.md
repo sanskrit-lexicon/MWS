@@ -3,7 +3,7 @@
 _Created: 11-07-2026 · Last updated: 11-07-2026_
 
 **Paper:** [PAPER_RU.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER_RU.md) (A17, «лексикографический хедж», RU; площадка Восток · Oriens)
-**Pass:** author-voice pass per [H681](https://github.com/gasyoun/Uprava/blob/main/handoffs/H681-Fable_MWS_a17-lexicographic-hedge-author-pass_11.07.26.md), Fable 5 (`claude-fable-5`), 11-07-2026. Предшествующий рецензионный проход: [A17_review_fable5.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/A17_review_fable5.md) (03-07-2026, все агентно-исправимые находки закрыты, [PR #226](https://github.com/sanskrit-lexicon/MWS/pull/226)).
+**Pass:** author-voice pass per [H681](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H681-Fable_MWS_a17-lexicographic-hedge-author-pass_11.07.26.md), Fable 5 (`claude-fable-5`), 11-07-2026. Предшествующий рецензионный проход: [A17_review_fable5.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/A17_review_fable5.md) (03-07-2026, все агентно-исправимые находки закрыты, [PR #226](https://github.com/sanskrit-lexicon/MWS/pull/226)).
 **Scope discipline:** ни одно число, утверждение или библиографическая ссылка не изменены; проверено пословным диффом — все числовые токены в диффе сбалансированы (удалено = восстановлено без изменений), единственный несбалансированный токен — добавленные даты правки 2026 г.
 
 **Инструкция:** прочитать этот файл (~30 минут вместе с выборочной сверкой мест ниже), наложить вето на неудачные правки голоса (каждая обратима одним revert-редактированием), закрыть три открытых гейта §2 — после этого A17 поднимается до 5/5.
