@@ -209,7 +209,7 @@ Each chapter, regardless of tier, must carry at least the following before being
 | License | The repo's LICENSE | Single line; CC-BY-SA-4.0 for all CDSL dicts. |
 | Reproducibility manifest line | `analysis/<dict>_block_matrix.py` output | The chapter must name the script that produced its numbers. |
 
-Optional-but-strongly-encouraged (drives reader trust): one figure (the dict's own block-heatmap or its single most distinctive figure — see [FIGURES.md](FIGURES.md)) and one cross-link to the corresponding section in [PAPER.md](../PAPER.md) or [DICT_PROFILE](../../DICT_PROFILE.md).
+Optional-but-strongly-encouraged (drives reader trust): one figure (the dict's own block-heatmap or its single most distinctive figure — see [FIGURES.md](FIGURES.md)) and one cross-link to the corresponding section in [PAPER.md](../PAPER.md) or [DICT_PROFILE](../../../DICT_PROFILE.md).
 
 ### 29.4 — Authoring order ≠ presentation order
 

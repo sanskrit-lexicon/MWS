@@ -496,7 +496,7 @@ papers/microanalysis/figures/
 
 ```
 
-Each file is self-contained Markdown with a single Mermaid code-fence. GitHub renders both natively. Cross-linking between English/Russian variants is via plain Markdown `[Русская версия](timeline-ru.md)` / `[English version](timeline-en.md)`.
+Each file is self-contained Markdown with a single Mermaid code-fence. GitHub renders both natively. Cross-linking between English/Russian variants is via plain Markdown `[Русская версия](figures/timeline-ru.md)` / `[English version](figures/timeline-en.md)`.
 
 **Rationale (vs the alternative parallel-blocks approach):**
 - Cleaner: each file presents the diagram in one language only — no visual clutter.

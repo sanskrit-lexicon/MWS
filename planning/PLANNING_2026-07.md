@@ -5,7 +5,7 @@ _Created: 02-07-2026 · Last updated: 02-07-2026_
 The monthly frontier-tier planning session scheduled by
 [ROADMAP.md](https://github.com/sanskrit-lexicon/MWS/blob/master/ROADMAP.md) §Model-tier policy.
 Session: **Fable 5 (`claude-fable-5`)**, 02-07-2026 (window-plan S1,
-[handoff](https://github.com/gasyoun/Uprava/blob/main/handoffs/H013-Fable_MWS_planning_02.07.26.md)).
+[handoff](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H013-Fable_MWS_planning_02.07.26.md)).
 Outputs: the adjudications below, the re-sequenced July cadence row in ROADMAP.md,
 five executable Sonnet specs in [planning/specs/2026-07/](https://github.com/sanskrit-lexicon/MWS/tree/master/planning/specs/2026-07),
 and the siglum adjudication batch delivered to csl-atlas
