@@ -135,6 +135,34 @@ the dictionary" 160–199 · Ch. 7 "Planning the entry" 200–259 · Ch. 8 "Word
 
 ---
 
+## 6 · Wiegand & Smit (eds.) 2013 — verdict: **WRONG-EDITORS, corrected** (second-pass catch)
+
+An independent second verification pass (same session series, H1077; four parallel web
+agents re-auditing the whole reference list to the Major-5 standard) caught one defect the
+first pass left in place: the reference "Wiegand, H. E. & Smit, M. (eds.) (2013).
+*Dictionaries: An International Encyclopedia of Lexicography*. Supplementary Volume. De
+Gruyter" has the **wrong editors**. The volume is HSK 5.4 and its editors are **Gouws,
+Heid, Schweickard & Wiegand** — there is no editor named Smit (Maria Smit is a Wiegand
+translator/co-author on other works). Evidence, three independent records quoting the
+full editor list verbatim:
+
+- [ZrP 2014 review](https://www.degruyterbrill.com/document/doi/10.1515/zrp-2014-0114/html?lang=en): "Rufus Gouws / Ulrich Heid / Wolfgang Schweickard / Herbert Ernst Wiegand (edd.), Dictionaries. An International Encyclopedia of Lexicography. Supplementary volume … (HSK, 5.4), Berlin/Boston, De Gruyter Mouton, 2013, 1579 p."
+- [Springer *Lexicography* review](https://link.springer.com/article/10.1007/s40607-015-0013-8): "Rufus H. Gouws, Ulrich Heid, Wolfgang Schweickard and Herbert Ernst Wiegand (eds.) … (HSK Vol. 5.4). Berlin: De Gruyter Mouton, 2013. XIII + 1,579 pp. ISBN 978-3-11-023812-9"
+- [Project MUSE review](https://muse.jhu.edu/article/604749/pdf): "ed. by Rufus Gouws et al."
+
+**Applied to PAPER.md (vetoable):** reference entry replaced with the Gouws/Heid/
+Schweickard/Wiegand form (HSK 5.4, Berlin/Boston: De Gruyter Mouton); the Appendix A
+framing cite "Wiegand & Smit 2013" → "Gouws et al. 2013".
+
+The same second pass independently re-derived and **confirmed** the §1–§3 verdicts above
+(Schreyer phantom + Vogel 1979 as the real survey; Hausmann 1985 → *Handbuch der
+Lexikologie* 367–411; 416–425 falling in the Mikrostruktur concept article, not the
+Makrostruktur one; the Wiegand 1995 Popp-Festschrift referent with the 8–12 figure
+unconfirmable) — two blind agent passes agreeing is itself sign-off evidence. For §5
+(A&R) the second pass, working TOC-only from the [Library of Congress page-numbered
+TOC](https://catdir.loc.gov/catdir/toc/ecip0816/2008016902.html), flagged p. 199 as its
+strongest fabrication candidate — converging with §5's full-text MISMATCH finding.
+
 ## Residual observations (not applied — noted for the author)
 
 1. Appendix C's framing attributes the *Kommentare* sequence to "Hausmann (1977, 1985)";
