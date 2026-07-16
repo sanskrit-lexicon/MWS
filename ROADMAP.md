@@ -26,10 +26,10 @@ and the SanskritLexicography 12-month publication roadmap (P1–P6).
 | Authority records on disk ([mwauthorities_init.txt](https://github.com/sanskrit-lexicon/MWS/blob/master/mwauthorities/mwauthorities_init.txt)) | **568** (≥`<expandMW>`); **230** also carry `<expandNorm>` |
 | Distinct canonical authorities linked from text | 513 (via 650 text-spelling variants) |
 | **True orphans (cited authority with no record at all)** | **~0** — every canonical authority cited already has a record |
-| `<ls>` citations carrying a numeric locator | 59.8% (40.2% are bare abbreviations) |
-| **Meta / hedge / relative citations** (`L.`+`ib.`+`W.`+`MW.`+`Cat.`) | **69,603 = 22.3%** — structurally cannot link to a primary-text scan |
+| `<ls>` citations carrying a locator | **18.96%** (measured on MW, H1076 — see note below) |
+| **Meta / hedge / relative citations** (`L.`+`ib.`+`W.`+`MW.`+`Cat.`) | **69,603 = 21.70%** — structurally cannot link to a primary-text scan |
 | Vedic accent coverage | 16.6% of `<k2>` fields |
-| `<ls>L.</ls>` lexicographer hedges | 40,212 (12.9% of citations) — unique to MW among CDSL dicts |
+| `<ls>L.</ls>` lexicographer hedges | 40,212 (**12.53%** of citations) — unique to MW among CDSL dicts |
 | `<etym>` tags (IE cognate forms; **absent from DATA_DICTIONARY**) | 2,637 |
 
 > **Correction (2026-06-13):** the previous snapshot's "232 with authority record
@@ -37,9 +37,23 @@ and the SanskritLexicography 12-month publication roadmap (P1–P6).
 > **measurement artifact**: the 232 ≈ the **230 records carrying `<expandNorm>`**,
 > not record existence. 568 records already exist; there are essentially **no true
 > orphans**. W1 is therefore three distinct jobs, not one — see §W1. The
-> "64%→85% coverage" target also collides with the 22.3% meta-citation ceiling
-> above and the 40.2% bare-locator gap: the scan-linkable-to-primary-text fraction
+> "64%→85% coverage" target also collides with the meta-citation ceiling
+> above and the bare-abbreviation gap: the scan-linkable-to-primary-text fraction
 > is well below 85%. *Reprioritization pending maintainer decision.*
+
+> **Correction (16-07-2026, Fable 5 `claude-fable-5`, H1076 —
+> [register_census/](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/p3_citation_registers/register_census/)).**
+> This table previously read "59.8% carry a numeric locator (40.2% are bare abbreviations)". **Neither
+> number was ever measured on MW**: the pair is the *corpus-wide* CDSL figure, imported from a
+> since-superseded 43-dictionary revision of csl-atlas'
+> [CITATION_REGISTERS.md](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/docs/CITATION_REGISTERS.md)
+> and dominated by PWG (4.61 `<ls>`/entry against MW's 1.09). MW's own locator-bearing share is
+> **18.96%**; its largest stratum is a work named with **no** passage (59.35%). The scan-link ceiling
+> for layer (c) is therefore roughly **half** what this roadmap assumed — one citation in five, not
+> two in five. The percentages in this table are now on the census's own rule (denominator 320,828
+> citations, which includes the 8,668 attributed-shape citations a literal `<ls>` regex misses); the
+> raw counts (69,603, 40,212) are literal-match and unchanged. Full argument:
+> [A18 §6.1](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/p3_citation_registers/A18_citation_registers_paper.md).
 
 **Velocity note:** ~1 issue/month sustained, bursts when a maintainer is active.
 Everything below is therefore decomposed into self-contained, resumable units.
@@ -83,9 +97,11 @@ open decision** (W1 rescope question):
 | **(b) Add `<expandNorm>`** — ✅ **DONE 2026-06-30** ([#218](https://github.com/sanskrit-lexicon/MWS/issues/218), commit `4c20222`): 568/568 records covered | — | — | docs-pass metric now 100% | — |
 | **(c) Scan-link targets** per work — **July's active layer** ([SPEC-1](https://github.com/sanskrit-lexicon/MWS/blob/master/planning/specs/2026-07/SPEC-1-w1c-scanlink.md): page-index-first, Suśr./Kathās./ŚBr.) | per-work, slow | scholarly (edition ID + pagination) | the real "unlock thousands of cites" leverage — but capped (see below) | Sonnet + Fable for edition calls |
 
-**Hard ceiling on layer (c):** 22.3% of all citations are meta/hedge/relative
+**Hard ceiling on layer (c):** 21.70% of all citations are meta/hedge/relative
 (`L.` 40,212 · `ib.` 10,094 · `W.` 8,285 · `MW.` 5,710 · `Cat.` 5,302) and can
-never point to a primary-text scan; another 40.2% are bare (no locator). So the
+never point to a primary-text scan; another **59.35%** name a work but carry no
+locator (measured on MW, H1076 — the "40.2%" this line previously gave was a
+corpus-wide import, see the correction above). So the
 realistic scan-linkable-now ceiling is far below the old "85%" target. **But `ib.`
 is recoverable:** the resolver in
 [relative_refs/](https://github.com/sanskrit-lexicon/MWS/tree/master/relative_refs)
@@ -249,7 +265,7 @@ bounds what W4 may copy into other dictionaries.
 | # | Weakness | Evidence | Consequence |
 |---|---|---|---|
 | 1 | ~~No structural sense markers~~ **Revised 2026-06-13** — MW's sense unit *is* the record: **282,199 of 286,560 records carry exactly one `¦` gloss** (only 3 have two; **0** use `(a)…(b)` or `1)…2)` in-prose enumeration). 92,670 letter-suffixed `<e>` codes (1A/2A/3A…) are continuation senses. | measured on live mw.txt; `agni`/`Darma` each explode one-sense-per-record | **Not a weakness — a positive paper result (W2).** Atlas excluded MW from [sense-depth.json](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/src/data/dicts/sense-depth.json) only because its detector reads `<div>`, not record-boundary+`¦`. Cross-dict tooling needs to group records; the data is fully machine-readable |
-| 2 | **22.3% of citations are meta/hedge/relative + 40.2% bare** | measured 2026-06-13: `L.`+`ib.`+`W.`+`MW.`+`Cat.` = 69,603; bare-locator from [CITATION_REGISTERS.md](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/docs/CITATION_REGISTERS.md) | Scan-linkable-to-primary-text ceiling is well under 85%; `ib.` (10,094) needs antecedent-resolution first ([#98](https://github.com/sanskrit-lexicon/MWS/issues/98) family) |
+| 2 | **21.70% of citations are meta/hedge/relative + 59.35% name a work with no locator; only 18.96% are locator-bearing** | re-measured 16-07-2026 (H1076, [register_census/](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/p3_citation_registers/register_census/)) directly on `mw.txt`. ⚠️ The former "40.2% bare" was a corpus-wide import from a superseded revision of [CITATION_REGISTERS.md](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/docs/CITATION_REGISTERS.md), never an MW measurement | Scan-linkable-to-primary-text ceiling is well under 85%; `ib.` (10,094) needs antecedent-resolution first ([#98](https://github.com/sanskrit-lexicon/MWS/issues/98) family) |
 | 3 | **Siglum chaos** — case/diacritic variants, ~265 prefix families | 13,021 raw → 9,180 folded sigla org-wide | Inflates the orphan count; W4 track 1 attacks this |
 | 4 | **Shallow microstructure by design** — derivatives/preverbs promoted to headwords | M1 density 0.48 vs PWK 3.77, PWG 2.35; M2 = 0 | MW is the wrong template for subentry-rich targets; use PWG/PWK there |
 | 5 | **Homonym splitting partly discretionary** | 64–65% split concordance with PWG/PW | Homonym numbering can't be mechanically reconciled cross-dict |

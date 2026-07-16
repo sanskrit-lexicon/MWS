@@ -43,6 +43,17 @@ text citation, a recoverable hedge, and an irrecoverable kośa attestation — t
 evidentiary statuses in one formal register. This is "evidence-graded
 lexicography" (the book's Ch. 2 method) applied to the citation apparatus itself.
 
+> ⚠️ **Corrected 16-07-2026 (Fable 5 `claude-fable-5`, H1076,
+> [register_census/](register_census/)).** This section previously gave MW's apparatus ceiling as
+> "22.3% meta + 40.2% bare-locator", implying a ~37.5% text-linkable fraction. **The 40.2% was
+> never an MW measurement**: it is the *corpus-wide* bare-abbreviation share across all CDSL
+> dictionaries, imported from a since-superseded 43-dictionary revision of
+> [CITATION_REGISTERS.md](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/docs/CITATION_REGISTERS.md)
+> (an aggregate dominated by PWG at 4.61 `<ls>`/entry against MW's 1.09). The two components were
+> also computed over different populations, so "22.3% + 40.2%" was never a valid subtraction from
+> 100%. **MW's own locator-bearing share is 18.96%** — the ceiling is roughly half what this memo
+> claimed. Full argument: [A18](A18_citation_registers_paper.md) §6.1.
+
 A corollary refines the register's *measured size*. Of MW's citations, **22.3%**
 are meta / relative (`L.`, `ib.`, `W.`, `MW.`, `Cat.`) — structurally unable to
 point at a primary-text scan. But the relative class is largely an artefact of
@@ -62,7 +73,7 @@ counts suggest.
 | 2 | Corpus-absent residue | ~69% of purely-lexical lemmas; **259** roots with 0 DCS | the hard floor of the lexicographic/grammatical register | [lexicographer_dcs/](../../lexicographer_dcs/), [root_crosswalk/](../../root_crosswalk/) |
 | 3 | `ib.` resolvability | 57.1% same-cluster (high-conf); 74.7% upper bound — *resolvable, not verified* | the relative apparatus is largely recoverable; "meta" overstates sourcelessness | [relative_refs/](../../relative_refs/) |
 | 4 | Botanical sub-register | 72% of 7,063 plant headwords `L.`-only; **1,567** corpus-confirmed | the gradient in one semantic field — kośa technical vocabulary partly corpus-real | [botanical_glossary/](../../botanical_glossary/) |
-| 5 | Apparatus ceiling | 22.3% meta + 40.2% bare-locator | the true text-linkable fraction of Register A | [ROADMAP §W1](../../ROADMAP.md) |
+| 5 | Apparatus ceiling | **18.96% locator-bearing** (21.70% meta; ~59% a work named with no passage) | the true text-linkable fraction of Register A | [register_census/](register_census/) |
 
 ## Methodological control (must travel with the claim)
 
