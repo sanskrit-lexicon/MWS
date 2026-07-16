@@ -251,7 +251,7 @@ Triangulated against three external traditions, the grounded reading is corrobor
 
 ## Appendix A — The Wiegand-theoretic reading (condensed)
 
-**Framing:** Wiegand's microstructure theory (1989a, 1989b, 1996a, 1996b, 2002; Wiegand & Smit 2013). An XML markup language *is*, in Wiegand's terms, a system of **structural indicators** (*Strukturanzeiger*) — each tag a typographically-distinct signal of an item-class (*Angabeklasse*).
+**Framing:** Wiegand's microstructure theory (1989a, 1989b, 1996a, 1996b, 2002; Gouws et al. 2013). An XML markup language *is*, in Wiegand's terms, a system of **structural indicators** (*Strukturanzeiger*) — each tag a typographically-distinct signal of an item-class (*Angabeklasse*).
 
 **A.1 — Microstructure type.** Wiegand distinguishes *integrated* from *non-integrated* (purely additive) microstructures, with partially integrated subtypes (1989b: 462–501); the *semi-integrated* label is his later refinement (1996b: 1–82). **MW is fully integrated at the macro level and additive at the micro level for thin entries.** The `<e>1` → `<e>1A` → `<e>2` → `<e>3` hierarchy ([data](../../ENTRY_GUIDE.md#entry-hierarchy-distribution)) realises a 4-deep integration; the `<e>1A` continuation — a sub-article whose lemma is suppressed (33.9% retain `<s>`) and whose existence is intelligible only relative to the preceding `<e>1` — is the archetypal integrated-microstructure marker. Two caveats keep MW from maximal integration: (i) `<e>1A` continuations are formally *separate* `<L>` records rather than nested under their parent, integrated only by adjacency and the `<e>1A` indicator (**adjacency-integration**); (ii) lexicographer-only entries are often internally *additive* (one sense + one `<ls>L.</ls>`).
 
@@ -334,7 +334,7 @@ MW 1899's *structural* innovation — promoting the hedge from a typographic mar
 - Wiegand, H. E. (1996a). *Über die Mediostrukturen bei gedruckten Wörterbüchern*. In A. Zettersten & V. H. Pedersen (eds.), *Symposium on Lexicography VII* (Lexicographica Series Maior 76). Tübingen: Niemeyer, 11–43.
 - Wiegand, H. E. (1996b). *Das Konzept der semiintegrierten Mikrostrukturen: Ein Beitrag zur Theorie zweisprachiger Printwörterbücher*. In H. E. Wiegand (ed.), *Wörterbücher in der Diskussion II*. Tübingen: Niemeyer, 1–82.
 - Wiegand, H. E. (2002). *Equivalence in Bilingual Lexicography: Criticism and Suggestions*. Lexikos 12: 239–255. DOI [10.5788/12-0-772](https://doi.org/10.5788/12-0-772).
-- Wiegand, H. E. & Smit, M. (eds.) (2013). *Dictionaries: An International Encyclopedia of Lexicography*. Supplementary Volume. De Gruyter.
+- Gouws, R. H., Heid, U., Schweickard, W. & Wiegand, H. E. (eds.) (2013). *Dictionaries. An International Encyclopedia of Lexicography. Supplementary Volume: Recent Developments with Focus on Electronic and Computational Lexicography* (HSK 5.4). Berlin/Boston: De Gruyter Mouton.
 
 ---
 
