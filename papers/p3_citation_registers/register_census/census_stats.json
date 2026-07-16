@@ -1,0 +1,33 @@
+{
+  "counts": {
+    "bare": 190403,
+    "attested": 60820,
+    "hedge": 40213,
+    "relative": 10094,
+    "authority": 19298
+  },
+  "stats": {
+    "total_entries": 286525,
+    "entries_with_ls": 226712,
+    "total_ls": 320828,
+    "ls_per_entry": 1.12,
+    "iti_hits": 250,
+    "iti_per_entry": 0.001,
+    "meta_share_pct": 21.7,
+    "attested_share_pct": 18.96,
+    "hedge_only_entries": 38538,
+    "mixed_entries": 1425,
+    "distinct_sigla_attested": 510,
+    "distinct_sigla_bare": 824,
+    "a08_visible": 312160,
+    "a08_visible_locator": 47289,
+    "attributed": 8668,
+    "attributed_locator": 8666,
+    "attributed_share_pct": 2.7,
+    "attributed_arabic": 7077,
+    "roman_only_plain": 4866,
+    "a08_bare_bucket": 264871,
+    "a08_bare_bucket_pct": 84.85,
+    "locator_undercount_rel_pct": 28.61
+  }
+}
