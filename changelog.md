@@ -8,6 +8,8 @@ ready for a dated entry.
 
 ## [Unreleased]
 
+## [1.0.3] - 2026-07-16
+
 ### Added - A18 paper (evidentiary stratification of MW's citation apparatus) + register census
 
 - [papers/p3_citation_registers/A18_citation_registers_paper.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/p3_citation_registers/A18_citation_registers_paper.md) — A18 drafted outline → full manuscript (readiness 2/5 → 3/5, H1076, Fable 5 `claude-fable-5`), venue *Dictionaries* (2027). Argues MW's single formal citation register (A08's Register A) decomposes into five **evidentiary** strata, and reads the `<ls>L.</ls>` hedge as Register-B kośa content compressed into a Register-A slot with the source name deleted.
