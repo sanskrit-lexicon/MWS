@@ -113,8 +113,16 @@ revision sessions after G5 closes, plus a citation-verification pass, reach subm
      Scharf, P. M. & Hyman, M. D. (2011), *Linguistic Issues in Encoding Sanskrit* (Providence:
      The Sanskrit Library / Delhi: Motilal Banarsidass) in
      [#227](https://github.com/sanskrit-lexicon/MWS/pull/227), matching the A17 review's m1 fix.
-     Schreyer 1985, Funderburk et al. 2014, Hausmann 1985, Wiegand 1989 pages, Wiegand 1995 and
-     the four A&R page cites remain open (human @DO).
+     ~~Schreyer 1985, Funderburk et al. 2014, Hausmann 1985, Wiegand 1989 pages, Wiegand 1995 and
+     the four A&R page cites remain open (human @DO).~~
+     *Update 17-07-2026:* **ALL remaining Major-5 items CLOSED** — pre-verified with quoted
+     evidence by H1077 (Fable 5 `claude-fable-5`, five parallel verification agents), corrections
+     applied in [#244](https://github.com/sanskrit-lexicon/MWS/pull/244), and the
+     [citation dossier](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/papers/microanalysis/SIGNOFF_A16_citation_dossier.md)
+     **signed by the author 17-07-2026** with no vetoes. Headline verdicts: Schreyer 1985 was a
+     phantom (removed, D20 precedent); A&R "2008: 168" had inverted the book's actual
+     recommendation; "median density 4–5" was never an A&R statistic (now attributed to our own
+     count); Funderburk et al. 2014 is genuine (WIL TEI header).
    - Apresjan 2002, Hanks 2013, Hartmann 2001 are in the references but never cited in the
      body; IJL copy-editing will strip them — cite or cut.
    - The four Atkins & Rundell page cites (2008: 168, 199, 263, 386) need one human pass with
