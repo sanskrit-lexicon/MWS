@@ -11,8 +11,11 @@ Executed by Fable 5 (`claude-fable-5`), H1077; verification agents ran against K
 DNB, OpenLibrary, WorldCat-indexed web, De Gruyter/BBAW bibliographies, the CDSL TEI
 headers, and a full-text copy of Atkins & Rundell 2008.
 
-**What remains for a human: read the six verdicts, veto or accept the applied wordings,
-sign. The ~2h library pass is no longer needed — every source is quoted below.**
+**✅ SIGNED by the author 17-07-2026 — all verdicts and applied wordings accepted
+without veto. Review Major 5 (citation integrity) is CLOSED; the corrections stand as
+merged in [PR #244](https://github.com/sanskrit-lexicon/MWS/pull/244). A16's remaining
+gates are submission mechanics only: the [#195](https://github.com/sanskrit-lexicon/MWS/issues/195)
+docs-pass → master merge (end-of-July default) and IJL formatting + supplement DOI.**
 
 ---
 
