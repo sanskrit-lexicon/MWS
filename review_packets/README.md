@@ -49,3 +49,7 @@ vs.
 - Sanskrit in glosses is SLP1 (as in the source); headwords are shown in IAST.
 - Built by [`build_packets.py`](build_packets.py) from the committed module outputs +
   `dcs_full.sqlite`. Re-runnable.
+- **18-07-2026 (Sonnet 5 `claude-sonnet-5`, H966):** confirmed A/B/C are **not
+  agent-fillable** — every verdict is a genuine Sanskritist judgement call
+  with no reproducible procedure. Still 100% blank, awaiting a human reviewer.
+  See [H966_KILL_GATE_FINDING.md](H966_KILL_GATE_FINDING.md).
