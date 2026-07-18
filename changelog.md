@@ -8,6 +8,9 @@ ready for a dated entry.
 
 ## [Unreleased]
 
+### Added - H966 kill-gate finding on review packets A/B/C
+- [review_packets/H966_KILL_GATE_FINDING.md](https://github.com/sanskrit-lexicon/MWS/blob/master/review_packets/H966_KILL_GATE_FINDING.md) (Sonnet 5 `claude-sonnet-5`, [PR #251](https://github.com/sanskrit-lexicon/MWS/pull/251)) — confirmed packets A/B/C (`ib.` resolution, band-3 `L.`→DCS, MW-vs-Whitney class conflicts) are not agent-fillable: every verdict is a genuine Sanskritist judgement call with no reproducible procedure. 0 verdicts fabricated; all three remain 100% blank pending human review.
+
 ## [1.0.3] - 2026-07-16
 
 ### Added - A18 paper (evidentiary stratification of MW's citation apparatus) + register census
