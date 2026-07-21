@@ -1,6 +1,6 @@
 # A17 (Микроструктура, RU / PAPER_RU) — Hostile Pre-Submission Review
 
-_Created: 03-07-2026 · Last updated: 03-07-2026_
+_Created: 03-07-2026 · Last updated: 21-07-2026_
 
 **Paper:** [papers/microanalysis/PAPER_RU.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER_RU.md) (A17, Russian companion to A16; target Восток · Oriens)
 **Reviewer:** Fable 5 (`claude-fable-5`), adversarial referee pass in the A10/A34/A36 mold; three parallel agents (also Fable 5, `claude-fable-5`): block/typology figures, cross-dictionary + hedge-history figures, A16↔A17 conclusion-overlap + link audit. External web checks: Scharf & Hyman, Kochergina.
@@ -71,5 +71,9 @@ _Created: 03-07-2026 · Last updated: 03-07-2026_
 
 - **Author/MG:** byline finalisation (shared with A16); the ŚABDAC/Verzeichniss spot-check; the dual-submission disclosure sentence in both cover letters when they exist.
 - **Agent (queued):** the A16 shared-defect fix pass (item 4 above) — **A16 should not be sent before it**; the analysis-doc ground-truth sweep.
+
+## 7. Post-review addendum (21-07-2026, H1380) — M3's fix superseded by withdrawal
+
+The "64.0 % current source coverage" this review listed among **confirmed-exact** figures (§1), and the "с 64,0 % до ≈ 77 % (+12,9 п. п.)" wording M3 applied, were second-order-corrected by [H1380](https://github.com/gasyoun/Uprava/blob/main/handoffs/H1380-Fable_MWS_a17-hedge-projection-base-measured-band_20.07.26.md): the 64.0 % base is [`ENTRY_GUIDE.md`](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md)'s **authority-record coverage** join (199,743 of 311,932 citations whose abbreviation has a record in `linkmwauthorities_init.txt`) — a different metric from hedge-resolution coverage, computed on the census that [DOUBTS D23](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/DOUBTS.md) has since superseded. The value was exact; its use as the projection's base was not. The projection was withdrawn from `PAPER_RU.md` §8(3) rather than re-banded — full reasoning in [DOUBTS D24](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/DOUBTS.md). This review's M3 arithmetic check remains correct as a check; what it could not see was the base's identity. Session: Fable 5 (`claude-fable-5`).
 
 _Dr. Mārcis Gasūns_
