@@ -8,6 +8,12 @@ ready for a dated entry.
 
 ## [Unreleased]
 
+## [1.0.5] - 2026-07-21
+
+### Changed - A39 paper (grammar/dictionary/corpus verbal-root disagreement) skeleton → full draft
+
+- [papers/A39_verbal_roots_disagreement_paper.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/A39_verbal_roots_disagreement_paper.md) — A39 drafted skeleton → full prose manuscript (readiness 2/5 → 3/5, H1383, Fable 5 `claude-fable-5`). All seven outlined sections written; every headline count now carries its instrument + error exposure inline (red-team C3 discipline); §4.1 case studies (cūṣ = real two-tradition class split the unaccented corpus cannot adjudicate; paś = join-key homonym artifact, MW's classed record is Dhātup. paś "bind" cl. 10 while Whitney's IV is paś "see"); two stale skeleton figures corrected against current artifacts (MW-side 750/810 per [PR #238](https://github.com/sanskrit-lexicon/MWS/pull/238), §-concordance 9,878 edges/790 roots); inventory grown 12 → 14 rows, row 7's revert-commit citation resolved ([6aa5adc](https://github.com/gasyoun/WhitneyRoots/commit/6aa5adc) + [PR #9](https://github.com/gasyoun/WhitneyRoots/pull/9)).
+
 ## [1.0.4] - 2026-07-18
 
 ### Added - H966 kill-gate finding on review packets A/B/C
