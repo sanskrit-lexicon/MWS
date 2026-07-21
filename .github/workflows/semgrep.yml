@@ -1,0 +1,44 @@
+name: Semgrep
+
+# CodeQL has no PHP analyzer, so the PHP files in this repo get no SAST from it.
+# Semgrep DOES support PHP: this fills that gap (and also covers Python via the
+# security-audit ruleset). Results upload to the repo's Security tab.
+# Non-blocking, like the CodeQL workflow. Mirrors csl-websanlexicon/semgrep.yml.
+
+on:
+  push:
+    branches: [master, main]
+  pull_request:
+    branches: [master, main]
+  schedule:
+    - cron: '0 4 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  security-events: write
+
+jobs:
+  semgrep:
+    name: Semgrep SAST
+    runs-on: ubuntu-latest
+    container:
+      image: semgrep/semgrep
+    # The semgrep container ships its own Python; skip on Dependabot (no token).
+    if: github.actor != 'dependabot[bot]'
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Run Semgrep
+        run: |
+          semgrep scan \
+            --config p/php \
+            --config p/security-audit \
+            --sarif --output semgrep.sarif \
+            --metrics off || true
+
+      - name: Upload SARIF to Security tab
+        uses: github/codeql-action/upload-sarif@v3
+        if: always()
+        with:
+          sarif_file: semgrep.sarif

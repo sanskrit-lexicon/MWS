@@ -1,3 +1,4 @@
+{% raw %}
 # MW1899 — Microstructural working notes
 
 **Working document.** Exhaustive block-by-block analysis of the Monier-Williams *Sanskrit-English Dictionary* (1899) as digitized in [CDSL `mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt). This file is the **data source** for the consolidated [paper](PAPER.md) in this directory ([README](README.md)).
@@ -24,7 +25,7 @@ A *formal block* is a discriminable structural component of an MW entry that can
 | F10 | **Sense gloss** | English text after `¦` separator | Sense | 286,488 | ~100% |
 | F11 | **Sense division** | numbered `1)` / lettered `a)`, or implicit by semicolon | Sense | many (informal) | varies |
 | F12 | **Source citation** | `<ls>…</ls>` (with optional numeric coordinate) | Evidentiary | ~230,000 | ~80% |
-| F13 | **Hedge marker (L.)** | `<ls>L.</ls>` specifically — "lexicographers only" | Evidentiary (hedged) | 38,414 entries / 40,213 cites | 13.4% / 12.9% of all cites |
+| F13 | **Hedge marker (L.)** | `<ls>L.</ls>` specifically — "lexicographers only" | Evidentiary (hedged) | 39,962 entries / 40,212 cites (audited; see `analysis/SPOTCHECK.md`) | 13.9% / 12.9% of all cites |
 | F14 | **Botanical name** | `<bot>…</bot>` | Encyclopedic | 8,923 tags / ~8,059 entries | 2.8% |
 | F15 | **Biographical content** | `<bio>…</bio>`, `<s1>…</s1>` (proper-name Sanskrit) | Encyclopedic | many | ~few % |
 | F16 | **Cross-reference** | `q.v.`, `<ab>cf.</ab>`, `<ab>id.</ab>`, "see X" | Discourse | ~25,000 | ~9% |
@@ -85,7 +86,7 @@ Orthogonal properties are **flags** attached to any primary type. An entry can c
 | Property | Defined by | Count | % of 286,561 | Most concentrated in |
 |---|---|--:|--:|---|
 | **Vedic-accented** | `/` in `<k2>` | 47,598 | 16.6% | nominals, especially Vedic vocabulary |
-| **Lex-hedged** | `<ls>L.</ls>` present | 40,212 entries | ≈ 14.0% | 100% of former "lexicographer_only" bucket; 72% of botanicals, 65% of biographicals |
+| **Lex-hedged** | `<ls>L.</ls>` present | 39,962 entries (40,212 hedge *instances* — a record can carry more than one) | 13.9% | 100% of former "lexicographer_only" bucket; 72% of botanicals, 65% of biographicals |
 | **IE-cognate-bearing** | `<lang>` tag(s) | 2,099 | 0.73% | roots (35%) |
 
 ### 3.3 · Cross-tabulation of primary types × orthogonal properties
@@ -449,3 +450,4 @@ This working notes file *depends on* and *extends* the existing docs-pass conten
 ---
 
 *Last computed: 2026-05-23 against [mw.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt). Python source: `/tmp/mw_block_matrix.py` in [the docs-pass build artifacts](https://github.com/sanskrit-lexicon/MWS/tree/docs-pass).*
+{% endraw %}

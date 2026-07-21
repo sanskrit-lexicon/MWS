@@ -1,3 +1,4 @@
+{% raw %}
 # Data Dictionary — MWS
 
 Tag inventory and field reference for `csl-orig/v02/mw/mw.txt`.
@@ -22,6 +23,7 @@ space-separated on the first line and are not XML-tagged:
 | `<pc>P,C` | `<pc>527,2` | Page and column in the print edition |
 | `<k1>word` | `<k1>napAtka` | Primary headword in SLP1, no accents |
 | `<k2>word` | `<k2>napAtka` | Secondary headword in SLP1; may include Vedic accent marks |
+| `<h>N` | `<k2>Da/rma<h>1<e>2` | Homonym index in the header (5,738); pairs with the in-body `<hom>` display number |
 | `<e>N` | `<e>2` | Hierarchy/homophone code |
 
 ---
@@ -40,11 +42,44 @@ Counts are opening+closing pairs (balanced unless noted).
 | `<lang>` | 3,968 | Foreign language label | `<lang>Gk.</lang>` |
 | `<bot>` | 8,923 | Botanical name | `<bot>Ficus benghalensis</bot>` |
 | `<bio>` | 358 | Biographical name | `<bio>Pāṇini</bio>` |
+| `<s1>` | 52,169 | Sanskrit proper name / title, in **IAST** (already transcoded — *not* SLP1 like `<s>`) | `<s1>Viṣṇu</s1>` |
+| `<etym>` | 2,637 | Etymological / Indo-European cognate form | `<etym>ignì-s</etym>` |
+| `<gk>` | 1,127 | Greek-script form (in cognate notes) | `<gk>ὦμος</gk>` |
+| `<pcol>` | 1,553 | Page–column pointer inside a cross-reference | `See <pcol>p. 510, col. 3</pcol>` |
+| `<hom>` | 11,517 | Homonym **display** number before a homonymous headword | `<hom>1.</hom>` |
+| `<ns>` | 2,210 | Religious / community designation a term is associated with | `<ns>Buddhist</ns>`, `<ns>Brāhman</ns>`, `<ns>Jain</ns>` |
+| `<arab>` | 97 | Arabic / Persian / Hindustani script span (carries `lang=`) | `<arab lang="Hindustani">…</arab>` |
 | `<zoo>` | 0 | Zoological name | `<zoo>Elephas maximus</zoo>` |
 | `<b>` | 0 | Bold / emphasis | `<b>word</b>` |
 | `<i>` | 197 | Italic / transliteration note | `<i>id est</i>` |
 
 <!-- Add additional tags found in this dict above this comment. -->
+
+> **Encoding note.** Not every Sanskrit-bearing tag is SLP1. `<s>`, `<k1>`, `<k2>`
+> hold **SLP1**; but `<s1>`, `<ls>`, `<ab>`, `<bot>`, `<bio>`, `<etym>` hold
+> **IAST** (or plain text) directly in the source. `<gk>` holds Greek script and
+> `<arab>` holds Arabic/Persian script.
+> *(Tags below the original `<i>` row and all sections below were added 2026-06-13
+> from live `mw.txt`; counts are from that date, not the 2026-05-22 audit.)*
+
+---
+
+## Block & structural markers (self-closing)
+
+Markers that divide or annotate an entry body without wrapping a span.
+
+| Tag | Count | Role |
+|---|--:|---|
+| `<div n="…"/>` | 15,312 | Intra-entry block divider. `n` encodes the block type: `to` (11,000) a sense gloss ("to go…"); `vp` (3,792) a verbal-derivative block (Caus./Desid./Intens.); `P` (512) a sub-entry/sense block (often nominal); rare `p`/`1`. |
+| `<srs/>` | 37,041 | Sandhi / vowel-coalescence junction marker **inside** `<s>` SLP1 spans | 
+| `<pb n="P,C"/>` | 532 | Print page-break, page,column in the 1899 edition | 
+| `<listinfo n="…"/>` | 936 | Section flag: `sup` (921, supplement entry), `rev` (15, revision) |
+
+`<div n="to"/>` is how a polysemous **verb** entry separates its senses — the
+counterpart, inside one record, to the one-sense-per-record pattern that nominal
+entries use (see [ANALYSIS.md](ANALYSIS.md) / the sense-segmentation note).
+
+*Negligible / vestigial:* `<is>` (2 — a caste/social label, e.g. `<is>Śūdra</is>`, cf. `<ns>`) and `<br/>` (1 — a stray line break). Listed for completeness; no consumer should depend on them.
 
 ---
 
@@ -52,8 +87,69 @@ Counts are opening+closing pairs (balanced unless noted).
 
 | Tag | Count | Role |
 |---|---|---|
-| `<info …/>` | 292,603 | Grammatical attribute packet (`lex="m:f:n"`, `vn="…"`, etc.) |
+| `<info …/>` | 292,603 | Machine-annotation packet — see the attribute family below |
 | `<ab n="…">` | 12,779 | Abbreviation with explicit expansion in `n` attribute |
+
+### `<info>` attribute family
+
+`<info …/>` carries different attributes for different annotation jobs:
+
+| Attribute | Count | Role |
+|---|--:|---|
+| `lex="…"` | 258,392 | Grammatical packet (`lex="m:f:n"`, etc.) — the common case |
+| `verb="…"` | 10,387 | Genuine-root flag + conjugation classes (`verb="genuineroot" cp="1P,1Ā"`) |
+| `hui="…"` | 10,020 | Headword display/index flag *(exact role not yet confirmed)* |
+| `parse="…"` | 7,088 | Morphological parse of a (usually verbal) form — `parse="anu+paS"`, `parse="aMSI+kf"` |
+| `n="…"` | 6,533 | Section flag: `n="sup"` (6,254, supplement entry), `n="rev"` (279, revision) |
+| `phwchild="…"` | 2,364 | Phrasal-headword child link (see below) |
+| `phwparent="…"` | 2,362 | Phrasal-headword parent back-link |
+| `westergaard="…"` | 1,362 | Dhātupāṭha (Westergaard) verbal-root anchor — `root,Dhātup-ref,NN.NNNN` |
+| `whitneyroots="…"` | 813 | Whitney root-list anchor — `root,page` (Whitney's 1885 appendix page) |
+| `lexcat="…"` | 369 | Lexical-category flag; **also carries the inflection/morphology packet** (below) |
+
+The verbal-root anchors (`whitneyroots`, `westergaard`) are analysed in
+[root_crosswalk/](root_crosswalk/).
+
+#### Inflection / morphology packet
+
+A few `<info>` annotations carry sub-structured morphology inside the `lexcat`
+value, generated by the inflection pipeline:
+
+```
+<info lexcat="LEXID=fap,STEM=a-karizyat,ROOTCLASS=kf"/>
+```
+
+Sub-keys: `LEXID` (lexical-form id), `STEM`, `ROOTCLASS`, `INFLECTID`. **The
+authoritative specification of these is [csl-inflect](https://github.com/sanskrit-lexicon/csl-inflect)**,
+not this file — they are machine annotation emitted by that pipeline; documented
+here only so the tag is not mistaken for an undocumented gap.
+
+### `<lex type="…">` variants
+
+Beyond the plain grammatical `<lex>`, a `type` attribute marks headword-structural roles:
+
+| `type` | Count | Role |
+|---|--:|---|
+| `phw` | 2,357 | Phrasal headword — an inline phrase promoted to an addressable sub-entry |
+| `hw` | 1,417 | Headword form |
+| `hwifc` | 875 | Headword *in fine compositi* (compound-final form) |
+| `hwalt` | 846 | Alternate headword form |
+| `nhw` | 669 | Nominal headword form |
+| `hwinfo` | 444 | Headword annotation |
+| `part` | 100 | Participle |
+
+### Phrasal-headword (phw) cross-reference graph
+
+A bidirectional structured-data layer: a parent sense links to inline phrases
+promoted into their own micro-records, and the children link back —
+
+```
+parent  <info phwchild="99930.1"/>          (in the gloss: <lex type="phw">…)
+child   <info phwparent="99906,Darma"/>
+```
+
+2,364 edges, 99.3% reciprocal; reconstructed and integrity-audited in
+[phw_graph/](phw_graph/).
 
 ---
 
@@ -70,11 +166,22 @@ Counts are opening+closing pairs (balanced unless noted).
 
 ## Correction-record format
 
-In-file corrections use double-brace records:
+MW carries corrections in **two** forms.
+
+**1. Double-brace records** (the `updateByLine.py` toolchain):
 ```
 {{old text -> new text || YYYY-MM-DD | author | URL |}}
 ```
-These are preserved verbatim and processed by the `updateByLine.py` toolchain.
+Preserved verbatim and applied by the script.
+
+**2. Structured `<chg>` markup** (38 records) — an inline old/new wrapper, used for
+print-edition revisions and paired with `<info n="rev" pc="…"/>`:
+```
+<chg type="chg" n="1" src="mw"><old><ls>AV.</ls></old><new>applied to the Vedi, <ls>AV. xi, 1, 23</ls></new></chg>
+```
+`type` is `chg` (change, 35) or `del` (deletion, 4); `src` names the correction's
+source (`mw` = a Monier-Williams revision). The `<old>`/`<new>` pair carries the
+superseded and replacement text; consumers render `<new>`.
 
 ---
 
@@ -93,6 +200,15 @@ See `mwissues/markup_fix/markup_audit.txt` for annotated samples.
 ---
 
 ## Abbreviations
+
+> **Scope.** "Abbreviation work" in MW means the **`<ab>` tooltip system** below —
+> the **308** distinct in-text `<ab>` forms resolved through the 424-entry operative
+> list, plus the 12,779 `<ab n="…">` self-contained expansions. By that definition
+> it is **complete**. The **`<ls>` source abbreviations** (e.g. `<ls>RV.</ls>`) are a
+> *separate* workstream — authority records and link targets (roadmap **W1**), where
+> ~340 sigla remain unlinked ([mwauthorities/link_candidates/](mwauthorities/link_candidates/)).
+> `<ls>` is a literary-source citation, not an `<ab>`-style abbreviation, and is not
+> counted here.
 
 Abbreviations appearing as `<ab>X</ab>` resolve through two different files (different formats, different scopes):
 
@@ -149,3 +265,4 @@ Grammatical-category abbreviations are placed in `<lex>…</lex>` instead of
 These arise where a tooltip expansion is baked directly into the tag rather than
 looked up from the abbreviation table. All 12,779 have real (non-placeholder)
 expansions as of the 2026-05 markup-fix audit.
+{% endraw %}

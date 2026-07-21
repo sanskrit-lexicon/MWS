@@ -1,3 +1,4 @@
+{% raw %}
 # Entry Reading Guide — MWS
 
 A practical reference for reading and interpreting entries in `mw.txt`. Worked
@@ -564,3 +565,4 @@ collection."
 Compound sub-entries in MW are stored as siblings of the parent rather than as
 nested records, with the parent–child relationship implicit in adjacency and
 the `<e>3` hierarchy code.
+{% endraw %}
