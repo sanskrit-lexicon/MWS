@@ -188,6 +188,79 @@ if crd:
         check(f'{code} records: cross-dict ({crd_rec:,}) == blocks ({blk_rec:,})',
               crd_rec == blk_rec, f'diff={crd_rec - blk_rec}')
 
+# ---- 7. Twin block tables (PAPER.md / PAPER_RU.md) vs SPOTCHECK ----
+# H1379: the EN and RU §4 block-rate tables drifted apart for weeks (seven rows,
+# including a <1%-vs-2.5% category error) because nothing gated the PROSE tables,
+# only the figure JSON. This section asserts (a) both twins carry the same 18 rows,
+# (b) each row's value reads identically in EN and RU after notation normalisation
+# (, vs . decimals, ≈ vs ~, footnote daggers), and (c) every exact decimal value
+# matches the audited SPOTCHECK.md rate. An edit to one twin now fails the check.
+print()
+print('--- 7. Twin block tables (PAPER.md / PAPER_RU.md) vs SPOTCHECK.md ---')
+import re
+
+def parse_spotcheck():
+    path = os.path.join(HERE, 'SPOTCHECK.md')
+    rates = {}
+    with open(path, encoding='utf-8') as f:
+        for line in f:
+            m = re.match(r'\s+(F\d{2}):\s+[\d,]+\s+\(\s*([\d.]+)%\)', line)
+            if m:
+                rates[m.group(1)] = float(m.group(2))
+    return rates
+
+def parse_twin_table(fname):
+    path = os.path.normpath(os.path.join(HERE, '..', fname))
+    rows = {}
+    with open(path, encoding='utf-8') as f:
+        for line in f:
+            m = re.match(r'\|\s*(?:\*\*)?(F\d{2})\b', line)
+            if not m:
+                continue
+            fid = m.group(1)
+            cells = [c.strip() for c in line.split('|')]
+            # cells[0] is empty, cells[1] the block name, cells[2] the rate
+            if len(cells) > 2 and fid not in rows:
+                rows[fid] = cells[2]
+    return rows
+
+def normalise(val):
+    v = val.replace('**', '')
+    v = re.sub(r'\\?[*†‡¶§]', '', v)   # footnote markers
+    v = v.replace('≈', '~').replace(',', '.')
+    v = re.sub(r'\s+', '', v)
+    return v
+
+spot = parse_spotcheck()
+en_rows = parse_twin_table('PAPER.md')
+ru_rows = parse_twin_table('PAPER_RU.md')
+
+check('EN and RU block tables carry the same row set',
+      set(en_rows) == set(ru_rows),
+      f'EN-only: {sorted(set(en_rows) - set(ru_rows))}; RU-only: {sorted(set(ru_rows) - set(en_rows))}')
+
+twin_mismatch = []
+for fid in sorted(set(en_rows) & set(ru_rows)):
+    if normalise(en_rows[fid]) != normalise(ru_rows[fid]):
+        twin_mismatch.append(f'{fid}: EN "{en_rows[fid]}" vs RU "{ru_rows[fid]}"')
+check(f'all {len(set(en_rows) & set(ru_rows))} twin rows agree EN vs RU',
+      not twin_mismatch, '; '.join(twin_mismatch[:5]))
+
+spot_mismatch = []
+audited = 0
+for fid, raw in sorted(en_rows.items()):
+    v = normalise(raw)
+    # only exact decimal values are gated against SPOTCHECK; rounded ints
+    # (96%, 76%) and bounded values (~100%, <1%) state a coarser claim
+    m = re.fullmatch(r'(\d+\.\d+)%', v)
+    if not m or fid not in spot:
+        continue
+    audited += 1
+    if abs(float(m.group(1)) - spot[fid]) > 0.05:
+        spot_mismatch.append(f'{fid}: table {v} vs SPOTCHECK {spot[fid]}%')
+check(f'{audited} exact decimal rows match SPOTCHECK audited rates',
+      not spot_mismatch, '; '.join(spot_mismatch[:5]))
+
 # ---- Summary ----
 print()
 print('=== Summary ===')

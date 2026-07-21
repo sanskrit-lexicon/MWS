@@ -38,7 +38,7 @@ This profile follows the CDSL-wide conventions used across the [docs-pass branch
 - **L-record format:** `<L>9` (integer) or `<L>10.020` (decimal for sub-entries). Referenced in prose as `L9`.
 - **Page/column citation:** `<pc>1,1` = page 1, column 1 of the [1899 Clarendon print](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/index.php). Cited as "p. 1, col. 1".
 - **`<e>` hierarchy code:** number + optional letter (`1`, `1A`, `2B`, `3C`). [Full inventory](ENTRY_GUIDE.md#entry-hierarchy-distribution).
-- **`<ls>` citations:** roman, not italic. Numeric coordinates follow as Roman-book + Arabic-verse: `<ls>RV. v, 86, 5</ls>`. [15.1% have coordinates](ENTRY_GUIDE.md#coverage-of-ls-citations).
+- **`<ls>` citations:** roman, not italic. Numeric coordinates follow as Roman-book + Arabic-verse: `<ls>RV. v, 86, 5</ls>`. [18.96% bear a locator coordinate](ENTRY_GUIDE.md#coverage-of-ls-citations) (arabic or roman; A18 register census of 2026-07-16 — the earlier arabic-digit-only audit rule scored 15.1%).
 
 ---
 
@@ -496,7 +496,7 @@ fictitiously formed to serve as root), a share, portion, part, party
 - `<lex>n.</lex>` — neuter noun.
 - No source citation: this compound is a transparent semantic combination that
   MW glosses without naming a specific attestation — typical for descriptive
-  compounds. [264,705 of 311,932 `<ls>` tags (84.9%)](ENTRY_GUIDE.md#coverage-of-ls-citations) lack a numeric coordinate, and many compounds carry no `<ls>` at all.
+  compounds. [260,008 of 320,828 `<ls>` citations (81.04%)](ENTRY_GUIDE.md#coverage-of-ls-citations) lack a locator coordinate (A18 register census; the earlier arabic-digit-only rule read 264,705 of 311,932, 84.9%), and many compounds carry no `<ls>` at all.
 
 ---
 

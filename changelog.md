@@ -8,6 +8,10 @@ ready for a dated entry.
 
 ## [Unreleased]
 
+### Changed - A16 adopts A18's apparatus census + twin-table drift gate (H1379)
+- [papers/microanalysis/PAPER.md](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/papers/microanalysis/PAPER.md) App. B.3 restates MW's citation apparatus as **320,828 citations / 18.96% locator-bearing** per the A18 register census (run 2026-07-16, `mw.txt` @ 286,525 records), disclosing the superseded arabic-digit-only rule (311,932 / 15.1%) and its 28.6% undercount inline; §4's nine-dict PWG comparison deliberately keeps the literal rule, stated inline (author's ruling 21-07-2026, recorded as [DOUBTS D23](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/papers/microanalysis/DOUBTS.md); Fable 5 `claude-fable-5`). [ENTRY_GUIDE.md](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/ENTRY_GUIDE.md) + [DICT_PROFILE.md](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/DICT_PROFILE.md) updated in the same pass so A16's citation links agree with the paper.
+- [papers/microanalysis/analysis/check_figure_consistency.py](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/papers/microanalysis/analysis/check_figure_consistency.py) gains section 7: the EN/RU §4 block-rate prose tables are now gated three ways (same row set, EN==RU after notation normalisation, exact decimals match `SPOTCHECK.md`) — the drift class that let the twins disagree on seven rows can no longer pass silently.
+
 ## [1.0.4] - 2026-07-18
 
 ### Added - H966 kill-gate finding on review packets A/B/C

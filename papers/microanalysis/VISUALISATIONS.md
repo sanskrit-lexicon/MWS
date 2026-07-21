@@ -873,7 +873,7 @@ Embedded in `palette-tokens.json` as `"font-family": "Noto Sans"`.
 
 ### Decision 19 — License: CC-BY-SA-4.0
 
-All figures, data dumps, and the microsite are released under [**CC-BY-SA-4.0**](https://creativecommons.org/licenses/by-sa/4.0/), matching the [MWS digital edition's license](../../LICENSE.md). Rationale:
+All figures, data dumps, and the microsite are released under [**CC-BY-SA-4.0**](https://creativecommons.org/licenses/by-sa/4.0/), matching the [MWS digital edition's license](../../LICENSE). Rationale:
 
 - Consistency across CDSL artefacts.
 - Attribution + share-alike is the long-established CDSL norm.

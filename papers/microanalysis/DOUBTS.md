@@ -319,6 +319,14 @@ Lumping Cappeller `*` and Benfey `†` as "the precedent" while *omitting* the t
 
 ---
 
+### D23 — The apparatus census (311,932 / 15.1%) was superseded by A18's two-shape census — **RESOLVED 2026-07-21** by adoption · *was important, now closed*
+
+Appendix B.3 published MW's citation apparatus as **311,932 `<ls>` citations, 15.1% with a numeric coordinate** — figures produced by a single-tag-shape, arabic-digit-only extraction rule. The companion citation-registers study (A18, `papers/p3_citation_registers/`) measures the same apparatus at **320,828 citations, 18.96% locator-bearing (60,820)** and demonstrates (its §6.2) that the older rule cannot see MW's 8,668 attributed-shape citations (8,666 of which bear a locator) nor any roman-only locator, understating the linkable core by **28.6%**. Until this resolution, A16 carried no pointer to A18 at all, and its own supporting docs (`ENTRY_GUIDE.md`, `DICT_PROFILE.md`) circulated the superseded figures as the authority.
+
+**Resolution (2026-07-21, author's ruling, H1379):** **adopt** A18's census as the measurement of record. Appendix B.3 now leads with 320,828 / 18.96% (pinned to A18's run of 2026-07-16, `mw.txt` at 286,525 records) and discloses the superseded rule and its 28.6% undercount inline. One deliberate boundary remains: §4's PWG-vs-MW comparison (570,817 vs 311,932; ~4× per-entry density) **keeps the literal rule**, stated inline, because the nine-dictionary cross-audit applies that rule uniformly and A18 measured only MW — restating MW alone would make the comparison rule-inconsistent. `ENTRY_GUIDE.md` and `DICT_PROFILE.md` were updated in the same pass; the ENTRY_GUIDE authority/tooltip coverage join (64.0% / 96.1%) is retained under its stated 2026-05 rule, since re-running that join belongs to a future extractor pass. The alternative (keep 311,932 with a stated-boundary note only) was drafted and rejected by the author.
+
+---
+
 ### Recording-only notice
 
 Per the O7 prompt mandate, these seven doubts are **recorded, not fixed**. D21 in particular is rated *blocking* because if MW 1872 turns out to have the systematic hedge already, the §7.2(ii) and Appendix C.2 narrative reverses — and the IJL cover letter would need to claim the stronger version of "MW innovation." Resolution work for D16–D22 should be scheduled before submission; recommended order: **D21 first** (it is a 2-hour check that gates the others), then D17 (a footnote), then D16 (a paragraph rewrite), then D18 / D19 / D20 (each ≈ 1 hour of audit and one paragraph of rewrite), then D22 (one table). Total estimated work: 6–10 hours.
