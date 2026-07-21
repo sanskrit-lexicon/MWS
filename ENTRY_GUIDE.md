@@ -1,3 +1,4 @@
+{% raw %}
 # Entry Reading Guide — MWS
 
 A practical reference for reading and interpreting entries in `mw.txt`. Worked
@@ -279,19 +280,29 @@ Requests to add a new scan link use the [**Link target** issue template](https:/
 
 ### Coverage of `<ls>` citations
 
-Computed from the 2026-05 audit of [mw.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) cross-referenced with [linkmwauthorities_init.txt](https://github.com/sanskrit-lexicon/MWS/blob/master/mwauthorities/linkmwauthorities_init.txt) and [tooltip.txt](https://github.com/sanskrit-lexicon/MWS/blob/master/mwauthorities/tooltip.txt).
+**Census of record** (the [A18 register census](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/p3_citation_registers/A18_citation_registers_paper.md), run of 2026-07-16 on `mw.txt` at 286,525 records; counts **both** `<ls>` tag shapes — plain and attributed — and both arabic and roman locators):
 
 | Metric | Value |
 |---|---|
-| Total `<ls>` citations | **311,932** |
+| Total `<ls>` citations | **320,828** |
+| Locator-bearing (arabic or roman coordinate) | **60,820 (18.96%)** |
+| No locator (bare work-citations, hedges `L.`, anaphors `ib.`, authority pointers) | **260,008 (81.04%)** |
+
+The earlier 2026-05 audit below used a **single-tag-shape, arabic-digit-only** rule; it counted 311,932 citations and scored 15.1% as locator-bearing, understating MW's linkable core by 28.6% (it cannot see the 8,668 attributed-shape citations — 8,666 of which bear a locator — nor any roman-only locator; see A18 §6.2). Its cross-reference rows are retained unchanged because the authority/tooltip coverage join was computed on that extraction:
+
+Computed from the 2026-05 audit of [mw.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) cross-referenced with [linkmwauthorities_init.txt](https://github.com/sanskrit-lexicon/MWS/blob/master/mwauthorities/linkmwauthorities_init.txt) and [tooltip.txt](https://github.com/sanskrit-lexicon/MWS/blob/master/mwauthorities/tooltip.txt).
+
+| Metric (2026-05 audit rule) | Value |
+|---|---|
+| Total `<ls>` citations (single tag shape) | 311,932 |
 | Unique `<ls>` abbreviations | **821** |
 | With record in [linkmwauthorities_init.txt](https://github.com/sanskrit-lexicon/MWS/blob/master/mwauthorities/linkmwauthorities_init.txt) | 232 abbreviations (28.3%) — covering 199,743 citations (**64.0%**) |
 | With tooltip expansion in [tooltip.txt](https://github.com/sanskrit-lexicon/MWS/blob/master/mwauthorities/tooltip.txt) | 603 abbreviations (73.4%) — covering 299,846 citations (**96.1%**) |
 | Orphan abbreviations (no authority record) | 589 (71.7% of uniques, but only 36.0% of citations) |
-| With numeric coordinate (e.g. *RV. v, 86, 5*) | **47,227 (15.1%)** — points to a specific verse |
+| With arabic numeric coordinate (e.g. *RV. v, 86, 5*) | 47,227 (15.1% of 311,932) — points to a specific verse |
 | &nbsp;&nbsp;— with Roman book number (e.g. *v, 86*) | 43,898 |
 | &nbsp;&nbsp;— with Arabic numbers only | 3,212 |
-| Bare work citation (no coordinate) | **264,705 (84.9%)** — work named, no locus |
+| Bare work citation (no arabic coordinate) | 264,705 (84.9% of 311,932) — work named, no locus |
 
 ### Top 25 most-cited sources
 
@@ -564,3 +575,4 @@ collection."
 Compound sub-entries in MW are stored as siblings of the parent rather than as
 nested records, with the parent–child relationship implicit in adjacency and
 the `<e>3` hierarchy code.
+{% endraw %}

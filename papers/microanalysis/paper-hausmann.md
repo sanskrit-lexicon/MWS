@@ -1,3 +1,4 @@
+{% raw %}
 # *Monier-Williams 1899* through the Hausmann–Wiegand comment-class lens
 
 > **Supplementary extended draft — superseded by [PAPER.md](PAPER.md).** One of four single-framework drafts consolidated into the single submission paper per [DOUBTS.md D4](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking). This Hausmann-Wiegand reading (including the proposed *Provenienz-Komment*) is condensed into [PAPER.md Appendix C](PAPER.md#appendix-c--the-hausmann-wiegand-comment-class-reading-condensed); this fuller draft is retained as supplementary material only. **For the canonical paper, read [PAPER.md](PAPER.md).**
@@ -141,7 +142,7 @@ Two MW blocks — F17 (`<info>` machine annotation) and F18 (`{{old -> new || ..
 
 F17 is near-universal (96% of entries). It carries machine-readable encoding of the form-comment information already given in human-readable form (`<info lex="m"/>` duplicates `<lex>m.</lex>`). It exists to support the [SQLite generation pipeline](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/makotemplates/pywork/sqlite/sqlite.py) and the web display.
 
-F18 is vanishingly rare (< 30 instances). It records in-file corrections with author/date/URL provenance. The fact that there are so few of these is itself informative: corrections in MW are happening **exclusively via the GitHub issue-tracker** ([34 open, 157 closed](../../ROADMAP.md#status-snapshot-2026-05-27)) rather than via in-file correction records. The infrastructure exists but is not used.
+F18 is vanishingly rare (< 30 instances). It records in-file corrections with author/date/URL provenance. The fact that there are so few of these is itself informative: corrections in MW are happening **exclusively via the GitHub issue-tracker** ([34 open, 157 closed](../../ROADMAP.md#status-snapshot-2026-06-12)) rather than via in-file correction records. The infrastructure exists but is not used.
 
 ## 9. The Hausmann-Wiegand article-type signature
 
@@ -205,3 +206,4 @@ The most consequential MW-specific contribution to scholarly lexicography is the
 ---
 
 *Source data: [MICROANALYSIS.md](MICROANALYSIS.md). Companion framework papers: [Wiegand](paper-wiegand.md) · [Atkins-Rundell](paper-atkins-rundell.md) · [Grounded](paper-grounded.md). All four analyse the same MW1899 dataset through different theoretical lenses.*
+{% endraw %}

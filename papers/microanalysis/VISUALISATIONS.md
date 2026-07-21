@@ -496,7 +496,7 @@ papers/microanalysis/figures/
 
 ```
 
-Each file is self-contained Markdown with a single Mermaid code-fence. GitHub renders both natively. Cross-linking between English/Russian variants is via plain Markdown `[Русская версия](timeline-ru.md)` / `[English version](timeline-en.md)`.
+Each file is self-contained Markdown with a single Mermaid code-fence. GitHub renders both natively. Cross-linking between English/Russian variants is via plain Markdown `[Русская версия](figures/timeline-ru.md)` / `[English version](figures/timeline-en.md)`.
 
 **Rationale (vs the alternative parallel-blocks approach):**
 - Cleaner: each file presents the diagram in one language only — no visual clutter.
@@ -873,7 +873,7 @@ Embedded in `palette-tokens.json` as `"font-family": "Noto Sans"`.
 
 ### Decision 19 — License: CC-BY-SA-4.0
 
-All figures, data dumps, and the microsite are released under [**CC-BY-SA-4.0**](https://creativecommons.org/licenses/by-sa/4.0/), matching the [MWS digital edition's license](../../LICENSE.md). Rationale:
+All figures, data dumps, and the microsite are released under [**CC-BY-SA-4.0**](https://creativecommons.org/licenses/by-sa/4.0/), matching the [MWS digital edition's license](../../LICENSE). Rationale:
 
 - Consistency across CDSL artefacts.
 - Attribution + share-alike is the long-established CDSL norm.

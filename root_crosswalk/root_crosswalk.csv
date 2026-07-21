@@ -1,0 +1,936 @@
+whitney_id,root,in_MW,mw_L,mw_classes,dcs_status,dcs_freq
+1,aṃh,yes,114,,matched,0
+2,1 akṣ,yes,423,"1,5",homonym_shared,4
+3,2 akṣ,yes,423,"1,5",homonym_shared,4
+4,aṅg,yes,1492,"1P,10P",matched,4
+5,ac,yes,1767,"1P,1Ā",unmatched,0
+6,aj,yes,1927,1P,matched,55
+7,añj,yes,2267,"7P,7Ā",matched,708
+8,aṭ,yes,2337,"1P,1Ā",matched,60
+9,aṇṭh,yes,2447,1Ā,matched,0
+10,at,yes,2490,"1P,1Ā",matched,8
+11,ad,yes,3575,2P,matched,699
+12,an,yes,4782,2P,matched,10
+13,am,yes,13748,0Ā,matched,14
+14,ay,no,,,unmatched,0
+15,arc,yes,15701,"1P,1Ā",matched,413
+16,arj,no,,,unmatched,0
+17,art,no,,,unmatched,0
+18,arh,yes,16483,"1P,1Ā",matched,2380
+19,av,yes,16938,1P,matched,867
+20,1 aś,yes,19412,"0Ā,0P",homonym_shared,1948
+21,2 aś,yes,19412,"0Ā,0P",homonym_shared,1948
+22,1 as,yes,20353,"2P,2Ā",homonym_shared,35753
+23,2 as,yes,20353,"2P,2Ā",homonym_shared,35753
+24,ah,yes,21629,,matched,9447
+25,āñch,yes,23212,0,matched,5
+26,āp,yes,24743,"5P,5Ā",matched,2314
+27,ār,yes,25983,4P,matched,6
+28,ās,yes,27851,2Ā,matched,1955
+29,1 i,yes,28539,"2P,2Ā",homonym_shared,3673
+30,2 i,yes,28539,"2P,2Ā",homonym_shared,3673
+31,iṅg,yes,28638,"1P,1Ā",matched,15
+32,ich,no,,,homonym_shared,4842
+33,iṭ,yes,28677,1P,unmatched,0
+34,iḍ,no,,,homonym_shared,352
+35,idh,yes,29258,7Ā,unmatched,0
+36,in,no,,,unmatched,0
+37,inakṣ,no,,,matched,11
+38,iyakṣ,no,,,matched,27
+39,irajy,no,,,matched,14
+40,iradh,no,,,matched,1
+41,il,yes,29396,"6P,10P",matched,0
+42,1 iṣ,yes,29439,"1P,1Ā,4P,4Ā",homonym_shared,4842
+43,2 iṣ,yes,29439,"1P,1Ā,4P,4Ā",homonym_shared,4842
+44,ī,no,,,matched,192
+45,īkṣ,yes,29695,1Ā,matched,473
+46,īṅkh,yes,29714,1P,matched,1
+47,īj,no,,,matched,0
+48,īḍ,yes,29721,"2Ā,2P",homonym_shared,352
+49,īr,yes,29761,"2Ā,2P",matched,87
+50,īrṣy,yes,29797,1P,matched,4
+51,īś,yes,29827,2Ā,matched,425
+52,īṣ,yes,29921,"1Ā,1P",matched,24
+53,īh,yes,29985,"1Ā,1P",matched,101
+54,u,no,,,matched,1
+55,1 ukṣ,yes,30072,"1P,1Ā",homonym_shared,191
+56,2 ukṣ,yes,30072,"1P,1Ā",homonym_shared,191
+57,uc,yes,30209,"4P,4Ā",matched,51
+58,uch,no,,,unmatched,0
+59,ujh,yes,30600,6P,matched,50
+60,uñch,yes,30615,"1,6P",matched,9
+61,ud,yes,32059,"7P,6P,6Ā",unmatched,0
+62,ubj,yes,37050,6P,matched,15
+63,ubh,yes,37051,"9P,6P",matched,4
+64,1 uṣ,no,,,homonym_shared,33
+65,2 uṣ,no,,,homonym_shared,33
+66,1 ūrṇu,no,,,unmatched,0
+67,1 ūh,yes,38375,"1P,1Ā",homonym_shared,98
+68,2 ūh,yes,38375,"1P,1Ā",homonym_shared,98
+69,ṛ,yes,38410,"1,3,5P,5Ā",unmatched,0
+70,ṛc,no,,,unmatched,0
+71,1 ṛj,yes,15739,"1P,1Ā",homonym_shared,44
+72,2 ṛj,yes,15739,"1P,1Ā",homonym_shared,44
+73,ṛt,yes,38911,0Ā,unmatched,0
+74,ṛd,yes,16095,"6P,1P,7",matched,6
+75,ṛdh,yes,38930,"6,2,4,5,7P",matched,392
+76,ṛś,no,,,unmatched,0
+77,ṛṣ,yes,39001,1P,matched,147
+78,ej,yes,39975,"1P,1Ā",matched,85
+79,edh,yes,40096,"1Ā,1P",matched,172
+80,katth,yes,42681,1Ā,matched,28
+81,kath,no,,,matched,57
+82,kad,yes,42779,1Ā,unmatched,0
+83,kan,yes,46909,0,matched,56
+84,kam,yes,43768,"1Ā,1P",matched,82
+85,kamp,yes,43913,"1Ā,1P",matched,237
+86,kal,yes,45580,"10P,10Ā",matched,1
+87,kaṣ,yes,46728,"1P,1Ā",matched,10
+88,kas,yes,46861,1P,matched,0
+89,kā,no,,,unmatched,0
+90,kāṅkṣ,yes,47271,"1P,1Ā",matched,202
+91,kāś,yes,49812,"1Ā,4P,4Ā",matched,45
+92,kās,yes,50091,"1Ā,1P",matched,10
+93,ku,no,,,unmatched,0
+94,kuc,yes,51417,"1P,6P",unmatched,0
+95,kuñj,yes,51471,1P,unmatched,0
+96,kuṭṭ,yes,51676,10,matched,4
+97,kuṇṭh,yes,51824,"1P,10",unmatched,0
+98,kuth,yes,52041,4P,unmatched,0
+99,kup,yes,52181,"4P,4Ā",matched,521
+100,kuṣ,yes,53477,"9P,6",matched,5
+101,kū,yes,53778,"2P,1Ā,6,9P,9Ā,1P",matched,1
+102,kūj,yes,53796,1P,matched,101
+103,kūḍ,yes,53917,10P,matched,0
+104,kūṇ,yes,53919,"1P,1Ā",unmatched,0
+105,kūrd,yes,54039,"1P,1Ā",matched,4
+106,1 kṛ,yes,54148,"2P,2Ā,1P,1Ā,5P,5Ā,8P,8Ā",homonym_shared,40799
+107,2 kṛ,yes,54148,"2P,2Ā,1P,1Ā,5P,5Ā,8P,8Ā",homonym_shared,40799
+108,3 kṛ,yes,54148,"2P,2Ā,1P,1Ā,5P,5Ā,8P,8Ā",homonym_shared,40799
+109,1 kṛt,yes,54777,"6P,6Ā,1P",homonym_shared,220
+110,2 kṛt,yes,54777,"6P,6Ā,1P",homonym_shared,220
+111,kṛp,yes,54858,"6Ā,10P",matched,14
+112,kṛś,yes,55010,4P,matched,8
+113,kṛṣ,yes,55083,"1P,1Ā,6P,6Ā",matched,360
+114,kḷp,yes,55571,"1Ā,1P",unmatched,0
+115,knū,yes,57606,"1Ā,1P",unmatched,0
+116,krakṣ,yes,57647,0,unmatched,0
+117,krath,yes,57713,1P,unmatched,0
+118,krand,yes,57730,"1P,1Ā",matched,183
+119,kram,yes,57749,"1P,1Ā,4P,4Ā",matched,414
+120,krī,yes,58088,"9P,9Ā",matched,439
+121,krīḍ,yes,58135,"1P,1Ā",matched,494
+122,kru,no,,,unmatched,0
+123,krudh,yes,58231,"4P,4Ā",matched,1659
+124,kruś,yes,58298,"1P,1Ā",matched,238
+125,krūḍ,yes,58229,"6P,10P",unmatched,0
+126,klath,yes,58538,1P,unmatched,0
+127,kland,no,,,unmatched,0
+128,klam,yes,58545,"1,4",matched,90
+129,klav,yes,58562,1Ā,unmatched,0
+130,klid,yes,58564,"4Ā,4P",matched,125
+131,kliś,yes,58603,"9P,4P,4Ā",matched,213
+132,kvaṇ,yes,58692,1P,matched,28
+133,kvath,yes,58702,1Ā,matched,91
+134,kṣad,yes,58898,1Ā,matched,7
+135,kṣan,yes,58916,"8P,8Ā",matched,276
+136,kṣap,yes,58968,"1P,1Ā",matched,16
+137,kṣam,yes,59030,"1Ā,1P,2P,4P,4Ā",matched,439
+138,kṣar,yes,59141,"1P,1Ā,2P",matched,220
+139,kṣal,yes,59234,10P,unmatched,0
+140,kṣā,yes,60470,1P,matched,1
+141,1 kṣi,yes,59266,1P,homonym_shared,1181
+142,2 kṣi,yes,59266,1P,homonym_shared,1181
+143,kṣip,yes,59502,"6P,6Ā,4P,4Ā",matched,2461
+144,kṣu,yes,59841,2P,matched,20
+145,kṣud,yes,59877,"1P,1Ā,7P,7Ā",matched,60
+146,kṣudh,yes,60072,4P,matched,98
+147,kṣup,yes,60118,6P,unmatched,0
+148,kṣubh,yes,60128,"1Ā,4P,4Ā,5P,9P,9Ā",matched,236
+149,kṣṇu,yes,60596,2P,matched,9
+150,kṣmā,no,,,unmatched,0
+151,kṣviḍ,yes,60633,1P,homonym_shared,17
+152,kṣvid,no,,,homonym_shared,17
+153,kṣvel,yes,60659,1P,unmatched,0
+154,khac,yes,60863,"1P,9P,10P",matched,18
+155,khañj,yes,60884,1P,matched,5
+156,khad,yes,61228,6P,homonym_shared,369
+157,khan,yes,61265,"1P,1Ā",matched,352
+158,kharj,yes,61509,1P,matched,1
+159,khall,yes,61663,1Ā,unmatched,0
+160,khā,no,,,unmatched,0
+161,khād,yes,61789,"1P,1Ā",homonym_shared,369
+162,khid,yes,61905,"6,7Ā,4Ā,4P",matched,141
+163,khud,yes,61977,6P,matched,1
+164,khel,yes,62053,1P,matched,7
+165,khyā,yes,62110,"2P,2Ā",matched,777
+166,gach,no,,,homonym_shared,18341
+167,gad,yes,62868,"1P,10P",matched,466
+168,gadh,yes,62957,4,matched,0
+169,gabh,no,,,unmatched,0
+170,gam,yes,63409,"1P,2P,3P,1Ā",homonym_shared,18341
+171,garj,yes,63862,1P,matched,179
+172,gard,yes,63914,"1P,10",matched,1
+173,garh,yes,64179,"1,10P,10Ā",matched,185
+174,gal,yes,64198,"1P,1Ā",matched,212
+175,galbh,yes,64303,1Ā,matched,0
+176,1 gā,yes,64493,"3P,3Ā,2P,2Ā",homonym_shared,1911
+177,2 gā,yes,64493,"3P,3Ā,2P,2Ā",homonym_shared,1911
+178,gāh,yes,65024,"1Ā,1P",matched,69
+179,gir,no,,,unmatched,0
+180,gu,yes,65341,"1Ā,1P",matched,0
+181,guñj,yes,65392,1P,matched,13
+182,guṇṭh,yes,65822,10P,matched,1
+183,gup,yes,65899,"0Ā,0P",matched,563
+184,guph,yes,65959,6,unmatched,0
+185,gur,yes,65978,"6,4",matched,22
+186,gulph,no,,,unmatched,0
+187,guh,yes,66258,"1P,1Ā",matched,468
+188,gūrd,yes,66402,1P,unmatched,0
+189,gūrdh,yes,66407,10P,unmatched,0
+190,1 gṛ,yes,66808,"9P,9Ā",homonym_shared,399
+191,2 gṛ,yes,66808,"9P,9Ā",homonym_shared,399
+192,3 gṛ,yes,66808,"9P,9Ā",homonym_shared,399
+193,gṛdh,yes,66434,"4P,4Ā",matched,61
+194,gai,no,,,unmatched,0
+195,grath,yes,68437,"9P,1P,1Ā",unmatched,0
+196,grabh,yes,68591,"9P,9Ā",unmatched,0
+197,gras,yes,68546,"1P,1Ā",matched,519
+198,glap,no,,,unmatched,0
+199,glah,yes,69145,"1Ā,1P",matched,9
+200,glā,yes,69170,"1P,1Ā,2P,2Ā",matched,85
+201,ghaṭ,yes,69219,"1Ā,1P",matched,119
+202,ghaṭṭ,yes,69346,"1Ā,10P",matched,2
+203,ghar,no,,,matched,0
+204,ghas,yes,69692,1,matched,73
+205,ghuṭ,yes,69785,"6P,1Ā",unmatched,0
+206,ghuṣ,yes,69841,"1P,1Ā",matched,30
+207,ghūrṇ,yes,69925,"1P,1Ā",matched,53
+208,ghṛ,yes,69935,"3P,1,10P",matched,25
+209,ghṛṣ,yes,70114,"1P,1Ā",matched,156
+210,ghrā,yes,70246,"1,3P,3Ā,2P",matched,130
+211,cak,yes,70295,"1P,1Ā",matched,48
+212,cakās,yes,70306,"2P,1Ā",matched,20
+213,cakṣ,yes,70640,"2Ā,2P",matched,103
+214,cañc,yes,70764,1P,matched,23
+215,caṭ,yes,70830,1P,matched,2
+216,cat,yes,71064,"1P,1Ā",matched,11
+217,can,yes,71515,,matched,2
+218,cand,no,,,matched,1
+219,cam,yes,72049,"1,5",matched,0
+220,car,yes,72173,"1Ā,1P",matched,4027
+221,carc,yes,72401,"1,10Ā",unmatched,0
+222,carv,yes,72562,"10,1",matched,151
+223,cal,yes,72587,1Ā,matched,491
+224,cāy,yes,73035,1Ā,matched,30
+225,1 ci,yes,73297,"5Ā,5P",homonym_shared,763
+226,2 ci,yes,73297,"5Ā,5P",homonym_shared,763
+227,cit,yes,73474,"1,2Ā,3Ā,3P",matched,266
+228,cint,yes,74105,"10,1",unmatched,0
+229,cud,yes,74573,1Ā,matched,31
+230,cup,yes,74614,1,matched,4
+231,cumb,yes,74627,1Ā,matched,71
+232,cur,yes,74646,"10,1",unmatched,0
+233,culump,yes,74694,1,unmatched,0
+234,cūṣ,yes,74874,1,matched,22
+235,cṛt,yes,74888,"6,1,10",matched,25
+236,ceṣṭ,yes,74971,1,matched,200
+237,cyu,yes,75258,"1P,1Ā",matched,715
+238,cyut,yes,75341,1,matched,8
+239,chad,no,,,matched,270
+240,chand,yes,75556,"10,1Ā",matched,22
+241,chā,yes,76143,4,matched,7
+242,chid,yes,75907,"7,9Ā",matched,2139
+243,chuṭ,no,,,unmatched,0
+244,chur,yes,76084,6,matched,0
+245,chṛd,yes,76102,"7P,7Ā,1Ā",matched,15
+246,1 jakṣ,yes,76186,0,homonym_shared,114
+247,2 jakṣ,yes,76186,0,homonym_shared,114
+248,jagh,no,,,unmatched,0
+249,jan,yes,76735,"1,10Ā,10P,3Ā,10,4,2Ā,1Ā",matched,9247
+250,jap,yes,77153,1Ā,matched,1702
+251,jam,yes,77252,1,unmatched,0
+252,jambh,yes,77183,1,unmatched,0
+253,jar,no,,,unmatched,0
+254,jalp,yes,78292,1Ā,matched,126
+255,jas,yes,78362,"1Ā,1P,4P",matched,9
+256,jah,no,,,unmatched,0
+257,jā,no,,,unmatched,0
+258,1 ji,yes,79180,"1Ā,9Ā",homonym_shared,4082
+259,2 ji,yes,79180,"1Ā,9Ā",homonym_shared,4082
+260,jīv,yes,79622,1Ā,matched,2222
+261,jur,no,,,unmatched,0
+262,juṣ,yes,80017,"6Ā,6P,3P,1P,1Ā",matched,1226
+263,jū,yes,80068,"1Ā,9P,1P",matched,88
+264,jūrv,yes,80115,1P,matched,2
+265,1 jṛ,yes,80005,"4,6P,6Ā",homonym_shared,1414
+266,2 jṛ,yes,80005,"4,6P,6Ā",homonym_shared,1414
+267,jṛmbh,yes,80122,"1Ā,1P",matched,88
+268,jeh,yes,80186,1Ā,matched,5
+269,jñā,yes,80318,"9P,9Ā,3Ā,3P",matched,5041
+270,jyā,yes,80523,"9P,4Ā",matched,93
+271,jyut,yes,80662,"1Ā,1P",matched,1
+272,jri,yes,80851,1P,matched,1
+273,jvar,yes,80857,1,matched,8
+274,jval,yes,80890,"1P,1Ā",matched,827
+275,jhaṭ,yes,80979,1,unmatched,0
+276,jhaṇ,yes,80982,1,unmatched,0
+277,jhar,no,,,unmatched,0
+278,ṭaṅk,yes,81181,10,matched,1
+279,ṭal,yes,81222,1P,unmatched,0
+280,ṭīk,yes,81264,"1Ā,1P",matched,0
+281,ṭup,no,,,unmatched,0
+282,ḍam,yes,81340,1P,unmatched,0
+283,ḍamb,yes,81348,10,matched,0
+284,ḍī,yes,81442,"1,4Ā",matched,0
+285,ḍval,no,,,unmatched,0
+286,ḍhauk,yes,81523,1Ā,matched,10
+287,taṃs,yes,81566,"1P,1Ā,10",matched,5
+288,tak,yes,81570,"2,1",matched,7
+289,takṣ,yes,81602,"1P,1Ā,2,5Ā",matched,161
+290,tañc,yes,81660,7,matched,3
+291,taṭ,yes,81663,1P,matched,1
+292,taḍ,yes,81685,10,matched,1
+293,1 tan,yes,82220,4,homonym_shared,716
+294,2 tan,yes,82220,4,homonym_shared,716
+295,tand,yes,82581,1Ā,matched,3
+296,tap,yes,82608,"1Ā,4,4Ā,4P",matched,2065
+297,tam,yes,82867,4Ā,matched,99
+298,tark,yes,83341,10,unmatched,0
+299,tarj,yes,83427,1Ā,matched,9
+300,tas,no,,,matched,0
+301,tā,no,,,unmatched,0
+302,tāy,yes,84221,1,unmatched,0
+303,tāv,no,,,matched,0
+304,ti,no,,,unmatched,0
+305,tij,yes,84753,1P,matched,6
+306,tim,yes,84973,4P,matched,7
+307,tir,no,,,unmatched,0
+308,til,no,,,unmatched,0
+309,tu,yes,85705,2,matched,5
+310,tuc,no,,,unmatched,0
+311,tuj,yes,85813,"6Ā,6P,1",matched,35
+312,tud,yes,85879,6P,matched,99
+313,tur,no,,,matched,16
+314,turv,yes,86098,1P,homonym_shared,9
+315,tul,yes,86105,10Ā,unmatched,0
+316,tuś,yes,86263,1,matched,12
+317,tuṣ,yes,86265,4,matched,840
+318,tūrv,no,,,homonym_shared,9
+319,tṛ,yes,86817,"1P,1Ā,5,3,6P,6Ā",matched,862
+320,tṛd,yes,86720,7Ā,matched,39
+321,tṛp,yes,86723,"4,5,6Ā,6P,1Ā",matched,696
+322,tṛṣ,yes,86774,4Ā,matched,55
+323,tṛh,yes,86816,"7,6",matched,19
+324,tyaj,yes,87337,"1P,1Ā",matched,2417
+325,trap,yes,87422,1,matched,2
+326,tras,yes,87510,"1,4Ā",matched,267
+327,trā,yes,88647,1Ā,matched,445
+328,truṭ,yes,88608,"6,4Ā",matched,28
+329,tvakṣ,yes,88987,1,matched,0
+330,tvaṅg,yes,88990,1,matched,3
+331,tvac,yes,88991,6,unmatched,0
+332,tvar,yes,89087,1,matched,539
+333,tviṣ,yes,89141,"1Ā,1P",matched,16
+334,tsar,yes,89175,1,matched,8
+335,daṃś,yes,89231,"1,6Ā",matched,296
+336,daṃs,yes,89295,"1,10",matched,0
+337,dakṣ,yes,89316,"1P,1Ā",matched,8
+338,dagh,yes,89565,"5,4",matched,18
+339,dad,no,,,matched,2
+340,dadh,no,,,unmatched,0
+341,dan,no,,,matched,1
+342,dabh,yes,90227,"1,5Ā",matched,96
+343,dam,yes,90246,"4P,9Ā",matched,342
+344,day,yes,90342,1Ā,matched,38
+345,daridrā,no,,,unmatched,0
+346,dal,yes,90700,1,matched,27
+347,das,yes,91129,"1,4Ā",matched,22
+348,dah,yes,91164,"1P,1Ā",matched,2275
+349,1 dā,yes,89874,1,homonym_shared,12008
+350,2 dā,yes,89874,1,homonym_shared,12008
+351,3 dā,yes,89874,1,homonym_shared,12008
+352,4 dā,yes,89874,1,homonym_shared,12008
+353,dāś,yes,91851,"1P,1Ā,2,5P",matched,290
+354,dās,no,,,matched,2
+355,div,no,,,homonym_shared,110
+356,diś,yes,92472,"3P,6",matched,186
+357,dih,yes,92642,"2P,2Ā",matched,185
+358,1 dī,yes,92645,"4P,4Ā",homonym_shared,12
+359,2 dī,yes,92645,"4P,4Ā",homonym_shared,12
+360,dīkṣ,yes,92691,1Ā,matched,855
+361,dīdhī,no,,,unmatched,0
+362,dīp,yes,92769,4Ā,matched,1162
+363,1 dīv,yes,92228,"1P,10P,10Ā",homonym_shared,110
+364,2 dīv,yes,92228,"1P,10P,10Ā",homonym_shared,110
+365,du,yes,93282,"5P,4Ā",homonym_shared,82
+366,dudh,yes,93568,1P,matched,8
+367,dul,yes,94723,10P,unmatched,0
+368,duṣ,yes,94747,4P,matched,829
+369,duh,yes,94848,"2P,2Ā,6P,6Ā,4Ā",matched,806
+370,dū,no,,,homonym_shared,82
+371,1 dṛ,yes,95065,6Ā,homonym_shared,151
+372,2 dṛ,yes,95065,6Ā,homonym_shared,151
+373,dṛp,yes,95246,4P,matched,106
+374,dṛbh,yes,95255,6P,matched,2
+375,dṛś,yes,95263,"0P,0Ā",matched,14866
+376,dṛh,yes,95068,"1P,1Ā,4P,4Ā",matched,274
+377,dev,no,,,unmatched,0
+378,dyu,yes,97279,2P,unmatched,0
+379,dyut,yes,97391,"1Ā,1P",matched,75
+380,dram,yes,97543,1P,unmatched,0
+381,1 drā,yes,97755,"2P,2Ā",homonym_shared,21
+382,2 drā,yes,97755,"2P,2Ā",homonym_shared,21
+383,drāḍ,yes,97787,1Ā,unmatched,0
+384,dru,yes,97846,"1P,1Ā",matched,1073
+385,druh,yes,97951,"4P,4Ā",matched,70
+386,drū,yes,97987,"9P,5P",matched,3
+387,dvar,no,,,unmatched,0
+388,dviṣ,yes,98962,"2P,2Ā",matched,1343
+389,dhan,yes,99257,3P,matched,2
+390,dhanv,yes,99639,"1P,1Ā",matched,47
+391,dham,yes,99700,"1P,1Ā",matched,1162
+392,dhav,yes,100554,1Ā,matched,3
+393,1 dhā,yes,100607,"3P,3Ā,1P,1Ā,2P,4Ā,4P",homonym_shared,4694
+394,2 dhā,yes,100607,"3P,3Ā,1P,1Ā,2P,4Ā,4P",homonym_shared,4694
+395,1 dhāv,yes,101159,"1P,1Ā",homonym_shared,582
+396,2 dhāv,yes,101159,"1P,1Ā",homonym_shared,582
+397,dhi,yes,101191,5P,matched,31
+398,dhī,yes,92760,2Ā,matched,52
+399,dhukṣ,yes,101393,1Ā,matched,0
+400,dhū,yes,101481,"5P,5Ā,6P,9P,9Ā,1P,2Ā",matched,245
+401,dhūrv,yes,101761,1P,matched,50
+402,dhṛ,yes,101815,"1P,1Ā",matched,1229
+403,dhṛṣ,yes,101933,"5P,1P",matched,133
+404,dhmā,no,,,unmatched,0
+405,dhyā,yes,102185,"1P,2",matched,1164
+406,dhraj,yes,102255,"1P,1Ā",matched,8
+407,dhvaṃs,yes,102398,"1P,1Ā",matched,130
+408,dhvan,yes,102497,1P,matched,32
+409,dhvṛ,yes,102614,"1P,1Ā",matched,12
+410,naṃś,no,,,unmatched,0
+411,nakṣ,yes,102824,"1P,1Ā",matched,57
+412,naṭ,yes,103176,1P,matched,6
+413,nad,yes,103308,1P,matched,460
+414,nand,yes,103420,1P,matched,129
+415,nabh,yes,103699,"1Ā,1P,4,9P,9Ā",matched,40
+416,nam,yes,103825,"1P,1Ā",matched,666
+417,nard,yes,104307,1P,matched,116
+418,1 naś,yes,104757,"1P,1Ā",homonym_shared,1418
+419,2 naś,yes,104757,"1P,1Ā",homonym_shared,1418
+420,nas,yes,104828,1Ā,matched,10
+421,nah,yes,104854,"4P,4Ā",matched,131
+422,nāth,yes,105448,1Ā,matched,52
+423,niṃs,yes,106315,2Ā,matched,7
+424,nikṣ,yes,107972,1P,matched,4
+425,nij,yes,108251,"2Ā,3P,3Ā",matched,21
+426,nind,yes,108659,1P,matched,649
+427,nī,yes,111189,"1P,1Ā",matched,2350
+428,nīḍ,no,,,unmatched,0
+429,1 nu,yes,111761,1Ā,homonym_shared,1
+430,2 nu,yes,111761,1Ā,homonym_shared,1
+431,nud,yes,111772,"6P,6Ā",matched,332
+432,nṛ,no,,,unmatched,0
+433,nṛt,yes,112031,4P,matched,353
+434,ned,yes,112174,1P,matched,2
+435,pac,yes,113414,"1P,1Ā,4Ā",matched,2058
+436,paj,yes,113507,0Ā,unmatched,0
+437,paṭ,yes,114263,"1P,10",matched,0
+438,paṭh,yes,114524,1P,homonym_shared,582
+439,paṇ,yes,114550,1Ā,matched,36
+440,1 pat,yes,114697,4Ā,homonym_shared,3123
+441,2 pat,yes,114697,4Ā,homonym_shared,3123
+442,path,yes,115104,1P,homonym_shared,582
+443,pad,yes,115170,4Ā,matched,134
+444,pan,yes,115833,1Ā,matched,8
+445,pard,yes,119581,1Ā,unmatched,0
+446,1 paś,yes,120516,"0P,0Ā",homonym_shared,4732
+447,2 paś,yes,120516,"0P,0Ā",homonym_shared,4732
+448,1 pā,yes,120795,"1P,1Ā,2Ā,2P",homonym_shared,5393
+449,2 pā,yes,120795,"1P,1Ā,2Ā,2P",homonym_shared,5393
+450,3 pā,yes,120795,"1P,1Ā,2Ā,2P",homonym_shared,5393
+451,pāy,yes,122352,1Ā,unmatched,0
+452,pi,yes,124606,"1Ā,2Ā,3P,3Ā",unmatched,0
+453,pinv,yes,124299,"1P,1Ā",matched,182
+454,pibd,yes,124399,0Ā,matched,1
+455,piś,yes,124422,"6P,6Ā",matched,36
+456,piṣ,yes,124541,"7P,7Ā",matched,1062
+457,pis,yes,124600,"4P,1,10",unmatched,0
+458,1 pī,no,,,homonym_shared,7
+459,2 pī,no,,,homonym_shared,7
+460,pīḍ,yes,124649,10P,matched,2
+461,pīy,yes,124968,1P,unmatched,0
+462,puṭ,yes,125192,"6P,1P,10P",matched,418
+463,puth,yes,125645,"4P,4Ā",unmatched,0
+464,puṣ,yes,126760,"1P,4P,9P",matched,438
+465,pū,yes,127307,"9P,9Ā,1Ā,1P",matched,2162
+466,pūj,yes,127377,"10P,10Ā,1P",unmatched,0
+467,pūy,yes,127469,"1P,1Ā",matched,10
+468,pūr,no,,,unmatched,0
+469,1 pṛ,yes,128300,"3P,9P",homonym_shared,1512
+470,2 pṛ,yes,128300,"3P,9P",homonym_shared,1512
+471,3 pṛ,yes,128300,"3P,9P",homonym_shared,1512
+472,pṛc,yes,128314,"7P,7Ā,2,1P,3P,3Ā",matched,133
+473,pṛṇ,no,,,matched,99
+474,pṛt,no,,,unmatched,0
+475,pṛś,no,,,unmatched,0
+476,pyā,yes,129743,1Ā,matched,165
+477,prach,yes,130824,"6P,6Ā",aliased,2851
+478,prath,yes,134465,"1Ā,1P",matched,365
+479,prā,yes,138761,"2P,2Ā",matched,40
+480,prī,yes,140436,"9P,9Ā,4Ā,4P",matched,1770
+481,pru,yes,140856,1Ā,matched,0
+482,pruth,yes,140858,"1P,1Ā",matched,7
+483,pruṣ,yes,140871,"5P,5Ā,10P,10Ā,9P,4P",matched,7
+484,plī,no,,,unmatched,0
+485,plu,yes,141468,"1Ā,1P",matched,297
+486,pluṣ,yes,141564,"1,4P,9P",matched,21
+487,psā,yes,141584,2P,matched,6
+488,phakk,yes,141600,1P,unmatched,0
+489,phaṇ,yes,141623,1P,matched,0
+490,phar,yes,141702,0,unmatched,0
+491,1 phal,yes,141719,"1P,1Ā",homonym_shared,127
+492,2 phal,yes,141719,"1P,1Ā",homonym_shared,127
+493,baṃh,yes,142296,1Ā,matched,0
+494,bandh,yes,142512,"9P,9Ā,1P,1Ā,4P,4Ā",matched,2654
+495,bal,yes,143060,0,unmatched,0
+496,bādh,yes,144318,"1Ā,1P",matched,456
+497,budh,yes,145569,"1P,1Ā,4Ā,4P",matched,1118
+498,bul,yes,145995,10P,unmatched,0
+499,bṛṃh,no,,,matched,18
+500,1 bṛh,yes,146037,1P,unmatched,0
+501,2 bṛh,yes,146037,1P,unmatched,0
+502,brū,yes,147490,"2P,2Ā",matched,9781
+503,blī,no,,,unmatched,0
+504,bhakṣ,yes,147534,"10P,10Ā,1P,1Ā",matched,162
+505,bhaj,yes,147598,"1P,1Ā",matched,1164
+506,bhañj,yes,147928,"7P,7Ā",matched,754
+507,bhaṭ,yes,148086,"1P,10P",unmatched,0
+508,bhaṇ,yes,148185,1P,matched,73
+509,bhan,yes,148250,1P,matched,4
+510,bhand,yes,148252,1Ā,matched,5
+511,bharts,yes,148908,"10Ā,10P,1",matched,6
+512,bharv,yes,148918,1P,matched,3
+513,bhal,yes,148923,"1Ā,10Ā",unmatched,0
+514,bhaṣ,yes,149277,"1P,1Ā",matched,11
+515,bhas,yes,149289,3P,matched,25
+516,bhā,yes,149418,2P,matched,741
+517,bhām,yes,149869,"1Ā,10P",unmatched,0
+518,bhāṣ,yes,150479,"1Ā,1P",matched,1532
+519,bhās,yes,150552,"1Ā,1P",matched,112
+520,bhikṣ,yes,150663,"1Ā,1P",matched,103
+521,bhid,yes,150727,"7P,7Ā,1P",matched,2047
+522,bhiṣaj,yes,150928,0,matched,5
+523,bhī,yes,150969,"3P,3Ā,1Ā,10P,10Ā",matched,1384
+524,1 bhuj,yes,151217,6P,homonym_shared,2725
+525,2 bhuj,yes,151217,6P,homonym_shared,2725
+526,bhur,yes,151434,"0P,0Ā",matched,3
+527,bhuraj,yes,151447,0Ā,matched,1
+528,bhū,yes,151456,"1P,1Ā",matched,40393
+529,bhūṣ,yes,152466,"1P,1Ā",matched,48
+530,bhṛ,yes,152494,"1P,1Ā,3P,3Ā,2P,2Ā",matched,1822
+531,bhṛjj,yes,153489,"6P,6Ā",matched,93
+532,bhyas,yes,153446,1Ā,matched,1
+533,bhraṃś,yes,153448,"1Ā,1P,4P,4Ā",matched,340
+534,bhram,yes,153524,"1P,4P",matched,592
+535,bhrāj,yes,153678,"1Ā,1P",matched,219
+536,bhrī,yes,153766,9P,matched,1
+537,bhreṣ,yes,153856,"1P,1Ā",matched,4
+538,maṃh,yes,153892,"1Ā,10",unmatched,0
+539,majj,yes,154347,6P,matched,343
+540,mañc,yes,154395,1Ā,unmatched,0
+541,maṇ,yes,154588,1P,unmatched,0
+542,maṇṭ,yes,154846,10P,matched,2
+543,maṇḍ,yes,154854,"1P,1Ā",unmatched,0
+544,math,yes,155187,"1,9P,9Ā",matched,475
+545,mad,yes,155288,"4P,1P,1Ā,3P,3Ā",matched,1085
+546,man,yes,156626,"8,4Ā",matched,4697
+547,mah,no,,,matched,60
+548,1 mā,yes,161693,"3P,3Ā",homonym_shared,680
+549,2 mā,yes,161693,"3P,3Ā",homonym_shared,680
+550,3 mā,yes,161693,"3P,3Ā",homonym_shared,680
+551,mārg,yes,163363,"1,10P,10Ā",matched,94
+552,1 mi,no,,,homonym_shared,99
+553,2 mi,no,,,homonym_shared,99
+554,mikṣ,yes,164094,"0,0Ā",matched,25
+555,migh,no,,,unmatched,0
+556,mith,yes,164311,"1P,1Ā",matched,6
+557,mid,no,,,unmatched,0
+558,mil,yes,164465,"6P,6Ā",matched,346
+559,miṣ,yes,164547,6P,matched,83
+560,mih,yes,164576,"1P,1Ā",matched,70
+561,mī,yes,164607,"9P,9Ā",matched,103
+562,mīl,yes,164715,"1P,1Ā",matched,6
+563,mīv,yes,164724,1P,matched,0
+564,muc,yes,165082,"6P,6Ā",matched,3850
+565,muṭ,yes,165355,"1,6,10P",unmatched,0
+566,mud,yes,165450,"1Ā,1P",matched,612
+567,muṣ,yes,165859,"9,1P,6P",matched,162
+568,muh,yes,166006,"4P,4Ā",matched,1103
+569,mū,no,,,unmatched,0
+570,mūrch,yes,165763,1P,matched,189
+571,1 mṛ,yes,166607,"6Ā,6P,1P,1Ā",homonym_shared,2615
+572,2 mṛ,yes,166607,"6Ā,6P,1P,1Ā",homonym_shared,2615
+573,mṛkṣ,yes,168873,"1P,10",matched,1
+574,mṛc,yes,167114,"10P,4P",matched,1
+575,mṛch,yes,167120,6Ā,matched,2
+576,mṛj,yes,167121,"2P,2Ā,6P,6Ā,1P,1Ā,10",matched,298
+577,mṛḍ,yes,167161,"6P,6Ā,9P,10",matched,131
+578,mṛṇ,no,,,matched,28
+579,mṛd,yes,167219,"9P,1P,1Ā",matched,692
+580,mṛdh,yes,167410,"1P,1Ā,6P,6Ā",matched,22
+581,mṛś,yes,167423,"6P,6Ā",matched,33
+582,mṛṣ,yes,167430,"4P,4Ā,1P,1Ā,10",matched,150
+583,med,yes,164438,"1Ā,4P,10P",matched,9
+584,mokṣ,no,,,matched,3
+585,mnā,yes,168870,1P,matched,2
+586,myakṣ,yes,168872,1P,matched,13
+587,mrad,no,,,matched,1
+588,mrit,yes,168890,4P,matched,1
+589,mruc,yes,168901,1P,matched,3
+590,mreḍ,yes,168896,1P,matched,0
+591,mlā,yes,168938,1P,matched,89
+592,mluc,no,,,unmatched,0
+593,mlup,no,,,unmatched,0
+594,mlech,yes,168905,"1P,10P",matched,2
+595,yakṣ,yes,169014,"1P,1Ā,10Ā",matched,1
+596,yach,no,,,homonym_shared,1093
+597,yaj,yes,169114,"1P,1Ā",matched,6755
+598,yat,yes,169552,"1Ā,1P,10Ā,10P",matched,548
+599,yabh,yes,170253,"1P,1Ā",matched,1
+600,yam,yes,170258,"1P,1Ā",homonym_shared,1093
+601,yas,yes,171002,4P,matched,2
+602,yah,no,,,unmatched,0
+603,yā,yes,171018,2P,matched,5649
+604,yāc,yes,171236,"1P,1Ā",matched,755
+605,yād,yes,171383,0Ā,matched,5
+606,1 yu,yes,171682,"3P,3Ā",homonym_shared,199
+607,2 yu,yes,171682,"3P,3Ā",homonym_shared,199
+608,yuj,yes,171731,"7P,7Ā",matched,5933
+609,yudh,yes,172012,"4Ā,4P,1P",matched,1267
+610,yup,yes,172139,4P,matched,11
+611,yeṣ,no,,,matched,2
+612,raṃh,yes,173028,"1P,1Ā,10P",matched,11
+613,rakṣ,yes,173050,"1P,1Ā",matched,1929
+614,raṅg,yes,173261,1P,unmatched,0
+615,rac,yes,173266,10P,matched,1
+616,1 raj,yes,173342,"1,4P,4Ā",unmatched,0
+617,2 raj,yes,173342,"1,4P,4Ā",unmatched,0
+618,rañch,no,,,unmatched,0
+619,raṭ,yes,174063,1P,matched,10
+620,raṇv,yes,174222,1P,matched,7
+621,rad,yes,174789,"1P,1Ā",matched,34
+622,radh,yes,174809,4P,matched,45
+623,1 ran,yes,174075,"1,4P",homonym_shared,45
+624,2 ran,yes,174075,"1,4P",homonym_shared,45
+625,rap,yes,174860,1P,matched,11
+626,rapś,yes,174863,,matched,5
+627,raph,yes,174867,1P,unmatched,0
+628,rabh,yes,174870,1Ā,matched,67
+629,ram,yes,174928,"1Ā,1P",matched,1553
+630,ramb,yes,175239,1Ā,unmatched,0
+631,rambh,yes,175244,1Ā,unmatched,0
+632,raś,no,,,unmatched,0
+633,ras,yes,175478,"1P,1Ā",matched,51
+634,rah,yes,175925,"1P,10P",matched,15
+635,1 rā,yes,176008,"2P,2Ā",homonym_shared,214
+636,2 rā,yes,176008,"2P,2Ā",homonym_shared,214
+637,rāj,yes,176246,"1P,1Ā",matched,405
+638,rādh,yes,177153,"5,4P",matched,240
+639,1 rās,yes,177844,1Ā,unmatched,0
+640,2 rās,yes,177844,1Ā,unmatched,0
+641,ri,yes,178179,"9P,4P,4Ā",homonym_shared,60
+642,rikh,yes,177953,"1P,6P",unmatched,0
+643,riñkh,no,,,unmatched,0
+644,ric,yes,177975,"7P,7Ā,1P,4Ā,10",matched,206
+645,rip,yes,178040,,matched,3
+646,riph,yes,178088,6P,matched,1
+647,ribh,yes,178103,"1P,1Ā",matched,26
+648,riś,yes,178131,6P,matched,2
+649,riṣ,yes,178139,"1,4P",matched,257
+650,rih,yes,178173,"6,2P,2Ā",matched,47
+651,rī,no,,,homonym_shared,60
+652,1 ru,yes,178213,2P,homonym_shared,86
+653,2 ru,yes,178213,2P,homonym_shared,86
+654,ruc,yes,178244,"1Ā,1P",matched,501
+655,ruj,yes,178446,"6P,10",matched,129
+656,ruṭh,yes,178489,"1P,1Ā",unmatched,0
+657,rud,yes,178506,2P,matched,669
+658,1 rudh,yes,178751,1P,homonym_shared,892
+659,2 rudh,yes,178751,1P,homonym_shared,892
+660,rup,yes,178856,4P,matched,6
+661,ruṣ,yes,178916,"1,4P,4,10",matched,102
+662,ruh,yes,178960,1P,matched,487
+663,rūṣ,yes,179276,"1P,10P",unmatched,0
+664,rej,yes,179363,"1P,1Ā",matched,40
+665,reḍ,yes,179371,1Ā,unmatched,0
+666,rebh,no,,,unmatched,0
+667,lakṣ,yes,180331,"1Ā,1P,10P,10Ā",matched,39
+668,lag,yes,180704,"1P,10",matched,236
+669,laṅgh,yes,181121,"1P,1Ā,10P",matched,32
+670,lajj,yes,181156,6Ā,matched,109
+671,laḍ,yes,181234,"1P,10P",matched,7
+672,lap,yes,181338,1P,matched,26
+673,labh,yes,181359,1Ā,matched,3345
+674,lam,yes,181467,0,unmatched,0
+675,lamb,yes,181488,1Ā,matched,130
+676,lal,yes,181587,"1P,1Ā",matched,101
+677,laṣ,yes,181985,"1,4P,4Ā,10P",matched,0
+678,las,yes,181992,"1P,10",matched,59
+679,lā,yes,182054,2P,unmatched,0
+680,lāñch,yes,182184,1P,unmatched,0
+681,likh,yes,182337,"6P,6Ā",matched,509
+682,lip,yes,182615,"6,1P,1Ā",matched,778
+683,liś,yes,182704,"4Ā,6P",matched,7
+684,lih,yes,182726,"2P,2Ā",matched,405
+685,1 lī,yes,182753,"9P,1P,4Ā,4P",homonym_shared,268
+686,2 lī,yes,182753,"9P,1P,4Ā,4P",homonym_shared,268
+687,luñc,yes,182888,1P,matched,11
+688,1 luṭh,yes,182907,"1P,1Ā,10P",homonym_shared,26
+689,2 luṭh,yes,182907,"1P,1Ā,10P",homonym_shared,26
+690,luḍ,yes,182922,"1P,6P",matched,1
+691,lup,yes,182956,"6P,6Ā,4P,4Ā",matched,117
+692,lubh,yes,183010,"6P,4P",matched,325
+693,lul,yes,183058,"1P,1Ā",matched,42
+694,lū,yes,183125,"9P,9Ā",matched,81
+695,lok,yes,183229,"1Ā,10",matched,0
+696,loc,yes,183561,"1Ā,10P",unmatched,0
+697,vak,no,,,unmatched,0
+698,vakṣ,yes,184521,1P,matched,45
+699,vac,yes,184615,"2P,3P,3Ā",matched,33948
+700,vaj,yes,184793,"1P,10P",matched,0
+701,vañc,yes,184348,1Ā,matched,24
+702,vaṇṭ,yes,185343,"1,10P",matched,1
+703,vat,no,,,matched,4
+704,vad,yes,185521,"1P,1Ā",matched,3914
+705,vadh,yes,185579,,matched,1236
+706,van,yes,185710,"1P,8P,8Ā",matched,220
+707,vand,yes,186179,1Ā,matched,632
+708,1 vap,yes,186277,"1P,1Ā",homonym_shared,320
+709,2 vap,yes,186277,"1P,1Ā",homonym_shared,320
+710,vam,yes,186417,1P,matched,223
+711,val,yes,188075,"1Ā,1P",matched,54
+712,valg,yes,188205,"1P,1Ā",matched,42
+713,valh,yes,188380,"1Ā,10P",matched,0
+714,vaś,yes,188394,"2P,1,3",matched,302
+715,1 vas,yes,188560,6P,homonym_shared,2538
+716,2 vas,yes,188560,6P,homonym_shared,2538
+717,3 vas,yes,188560,6P,homonym_shared,2538
+718,vah,yes,189238,"1P,1Ā",homonym_shared,1845
+719,1 vā,yes,189436,2P,homonym_shared,298
+720,2 vā,yes,189436,2P,homonym_shared,298
+721,3 vā,yes,189436,2P,homonym_shared,298
+722,vāñch,yes,190461,1P,matched,180
+723,vāś,yes,192249,4Ā,matched,73
+724,vāh,yes,192697,1Ā,homonym_shared,1845
+725,1 vic,yes,194682,"7P,7Ā,3",homonym_shared,8
+726,2 vic,yes,194682,"7P,7Ā,3",homonym_shared,8
+727,vij,yes,194956,"6Ā,1P,3P,3Ā",matched,27
+728,1 vid,yes,195626,2P,homonym_shared,11314
+729,2 vid,yes,195626,2P,homonym_shared,11314
+730,1 vidh,yes,196453,6P,homonym_shared,209
+731,2 vidh,yes,196453,6P,homonym_shared,209
+732,vindh,yes,197339,0Ā,unmatched,0
+733,vip,yes,197416,1Ā,matched,156
+734,viś,yes,200376,"6P,6Ā",matched,1053
+735,viṣ,yes,201614,"3P,1P,3",matched,29
+736,viṣṭ,yes,206478,1Ā,matched,2
+737,vī,yes,203329,"2P,2Ā",matched,770
+738,vīj,yes,203453,"1P,1Ā,10",matched,5
+739,vīḍ,yes,203469,"0P,0Ā",matched,0
+740,1 vṛ,yes,203978,"5,9,1P,1Ā",homonym_shared,2083
+741,2 vṛ,yes,203978,"5,9,1P,1Ā",homonym_shared,2083
+742,vṛṃh,yes,146435,"1P,1Ā,10P",unmatched,0
+743,vṛj,yes,204309,"1,7P,2Ā",matched,283
+744,vṛt,yes,204340,1Ā,matched,2479
+745,vṛdh,yes,204573,"1Ā,1P,10",matched,1619
+746,vṛṣ,yes,204858,"1P,1Ā",matched,580
+747,vṛh,yes,146034,6P,matched,54
+748,ven,yes,206222,1P,matched,19
+749,vell,yes,206315,1P,matched,11
+750,veṣṭ,no,,,matched,43
+751,vyac,yes,208354,"6P,3",matched,20
+752,vyaj,no,,,matched,0
+753,vyath,yes,208633,1Ā,matched,397
+754,vyadh,yes,208671,"4P,4Ā",matched,1636
+755,vyay,yes,208870,"1P,1Ā,10P",unmatched,0
+756,vyā,yes,210345,"1P,1Ā",aliased,46
+757,vraj,yes,210432,"1P,10P",matched,1202
+758,vrad,yes,210707,0Ā,matched,1
+759,vran,yes,210509,1P,unmatched,0
+760,vraśc,yes,210711,6P,matched,145
+761,vrādh,yes,210761,0,matched,10
+762,vrīḍ,yes,210765,"1Ā,4P,10P",matched,84
+763,vruḍ,yes,210816,6P,unmatched,0
+764,vlag,no,,,matched,0
+765,vlī,yes,210822,9P,matched,18
+766,śaṃs,yes,210841,"1P,1Ā",matched,1785
+767,śak,yes,210897,5P,matched,1952
+768,śaṅk,yes,211426,"1Ā,1P",matched,273
+769,śat,no,,,unmatched,0
+770,1 śad,yes,212483,"1,6Ā,6P",homonym_shared,19
+771,2 śad,yes,212483,"1,6Ā,6P",homonym_shared,19
+772,śap,yes,212543,"1,4P,4Ā",matched,484
+773,1 śam,yes,212911,"4P,9",homonym_shared,1159
+774,2 śam,yes,212911,"4P,9",homonym_shared,1159
+775,3 śam,yes,212911,"4P,9",homonym_shared,1159
+776,śal,yes,214062,"1Ā,1P,10Ā",unmatched,0
+777,śaś,yes,214294,1P,unmatched,0
+778,śas,yes,214531,1P,matched,2
+779,śā,yes,216481,"3P,5P,5Ā",matched,519
+780,1 śās,yes,216290,2P,homonym_shared,533
+781,2 śās,yes,216290,2P,homonym_shared,533
+782,śikṣ,no,,,matched,345
+783,śiṅgh,yes,216828,1P,unmatched,0
+784,śiñj,yes,216845,"2Ā,1,10Ā",matched,12
+785,śip,no,,,unmatched,0
+786,śim,no,,,matched,9
+787,śiṣ,yes,218104,"7P,10",matched,194
+788,1 śī,yes,218170,"2Ā,1",homonym_shared,1116
+789,2 śī,yes,218170,"2Ā,1",homonym_shared,1116
+790,śuc,yes,219184,"1P,4P,4Ā",matched,777
+791,śuj,yes,219308,0,matched,2
+792,śudh,yes,219366,"1P,1Ā,4P,4Ā",matched,2410
+793,śubh,yes,219616,"1Ā,6P,6Ā",matched,547
+794,1 śuṣ,yes,219943,4P,homonym_shared,166
+795,2 śuṣ,yes,219943,4P,homonym_shared,166
+796,śū,yes,224480,1P,unmatched,0
+797,1 śṛ,yes,220783,"9P,9Ā",homonym_shared,278
+798,2 śṛ,yes,220783,"9P,9Ā",homonym_shared,278
+799,3 śṛ,yes,220783,"9P,9Ā",homonym_shared,278
+800,śṛdh,yes,220772,"1P,1Ā",matched,23
+801,ścand,yes,71529,1,unmatched,0
+802,ścam,no,,,matched,1
+803,ścut,yes,221945,1P,matched,13
+804,śnath,yes,221953,1P,matched,21
+805,śyā,yes,222309,"1P,1Ā",matched,6
+806,śrath,yes,222382,"9P,9Ā",matched,16
+807,śran,yes,222320,"1P,10P",unmatched,0
+808,śram,yes,222401,4P,matched,382
+809,śrambh,yes,222476,1Ā,matched,0
+810,śrā,yes,222686,"1,4P,2P",unmatched,0
+811,śri,yes,222829,"1P,1Ā",matched,451
+812,śriṣ,no,,,matched,2
+813,1 śrī,yes,222857,"9P,9Ā",homonym_shared,644
+814,2 śrī,yes,222857,"9P,9Ā",homonym_shared,644
+815,śru,yes,223393,"5P,5Ā",matched,10505
+816,śruṣ,no,,,matched,6
+817,ślath,no,,,matched,2
+818,ślā,no,,,unmatched,0
+819,ślāgh,yes,224011,1Ā,matched,186
+820,śliṣ,yes,224043,"4P,4Ā",matched,92
+821,śvañc,yes,224190,1Ā,matched,0
+822,śvas,yes,224373,2P,matched,154
+823,śvā,no,,,unmatched,0
+824,śvit,yes,224494,1Ā,matched,6
+825,ṣṭhīv,yes,225563,"1,4P",matched,18
+826,sakṣ,yes,227845,1P,unmatched,0
+827,sagh,yes,227922,5P,matched,13
+828,sac,yes,228852,"1Ā,1P",matched,323
+829,saj,yes,229218,"1P,1Ā",unmatched,0
+830,sad,yes,230505,"1,6P",matched,953
+831,san,yes,231023,"1P,8P,8Ā",matched,196
+832,sap,yes,232210,"1P,1Ā",matched,23
+833,sarj,yes,237906,1P,matched,3
+834,saśc,no,,,unmatched,0
+835,sas,yes,239787,2P,matched,23
+836,sah,yes,239967,"1Ā,10",matched,791
+837,1 sā,yes,243722,"5,9P,9Ā",homonym_shared,75
+838,2 sā,yes,243722,"5,9P,9Ā",homonym_shared,75
+839,sādh,yes,241500,"1P,1Ā,4,5",matched,86
+840,si,no,,,matched,13
+841,sic,yes,244032,"6P,6Ā",matched,687
+842,1 sidh,yes,244298,1P,homonym_shared,2028
+843,2 sidh,yes,244298,1P,homonym_shared,2028
+844,sī,no,,,unmatched,0
+845,sīv,yes,244996,4P,matched,67
+846,su,no,,,matched,878
+847,sul,no,,,unmatched,0
+848,subh,yes,248170,"9,6P,1",matched,3
+849,sū,yes,245237,"1,2P",matched,532
+850,sūd,yes,251301,"1Ā,10",matched,13
+851,sūrkṣ,yes,251816,1P,matched,13
+852,sṛ,yes,251838,"1,3P,3Ā,10P,10Ā",matched,204
+853,sṛk,no,,,unmatched,0
+854,sṛj,yes,251924,"6P,6Ā",matched,2749
+855,sṛp,yes,252008,1P,matched,192
+856,sev,yes,252262,1Ā,matched,1328
+857,skand,yes,254077,"1P,1Ā",matched,247
+858,skambh,yes,254241,"5,9P,1Ā",matched,20
+859,sku,yes,254257,"5,9P,9Ā",matched,1
+860,skṛ,no,,,unmatched,0
+861,skhal,yes,254272,1P,matched,118
+862,stan,yes,254307,1P,matched,20
+863,stambh,yes,254463,"5,9P,1Ā",matched,291
+864,stā,yes,254884,1P,unmatched,0
+865,stigh,yes,254590,"5P,5Ā",matched,0
+866,stim,yes,254599,4P,unmatched,0
+867,1 stu,yes,254632,"2P,2Ā",homonym_shared,2204
+868,2 stu,yes,254632,"2P,2Ā",homonym_shared,2204
+869,stubh,yes,254799,"1P,1Ā",matched,55
+870,stṛ,yes,254842,"5,9P,9Ā,5P,5Ā",matched,334
+871,stṛh,yes,254870,6P,matched,1
+872,styā,yes,254911,"1P,1Ā",unmatched,0
+873,sthag,yes,255154,1P,unmatched,0
+874,sthā,yes,255316,"1P,1Ā",matched,9268
+875,snā,yes,256200,"2P,4P,4Ā",matched,1648
+876,snih,yes,256298,"4P,1P,10P",matched,125
+877,snu,yes,256456,2P,matched,3
+878,spand,yes,256488,1Ā,matched,52
+879,spaś,no,,,unmatched,0
+880,spūrdh,no,,,unmatched,0
+881,spṛ,yes,256588,5P,matched,160
+882,spṛdh,yes,256521,"1Ā,1P",matched,186
+883,spṛś,yes,256602,6P,matched,1059
+884,spṛh,yes,256712,10P,matched,34
+885,sphaṭ,yes,256740,"1P,10P",unmatched,0
+886,sphar,no,,,matched,1
+887,sphal,yes,256804,1P,unmatched,0
+888,sphā,yes,256812,1Ā,unmatched,0
+889,sphuṭ,yes,256860,"6P,1P,1Ā",matched,154
+890,sphur,no,,,matched,357
+891,sphūrj,yes,257031,1P,matched,10
+892,sphṛ,yes,256968,6P,unmatched,0
+893,smi,yes,257075,1Ā,matched,227
+894,smṛ,yes,257112,"1P,1Ā",matched,4142
+895,syand,yes,257403,1Ā,matched,106
+896,sraṃs,yes,257528,1Ā,matched,133
+897,sridh,yes,257614,1P,matched,12
+898,srīv,yes,257618,4P,unmatched,0
+899,sru,yes,257621,1P,matched,538
+900,svaj,yes,258776,1Ā,matched,39
+901,svad,yes,258787,"1Ā,1P",matched,81
+902,svan,yes,258909,1P,matched,19
+903,svap,yes,258948,2P,matched,1100
+904,svar,yes,259868,1P,matched,39
+905,svād,no,,,matched,1
+906,svid,yes,259802,"1Ā,1P",matched,369
+907,had,yes,260291,"1P,1Ā",unmatched,0
+908,han,yes,260297,"2P,2Ā,1",matched,8744
+909,har,no,,,homonym_shared,2792
+910,has,yes,262056,1P,matched,419
+911,1 hā,yes,262501,3Ā,homonym_shared,2739
+912,2 hā,yes,262501,3Ā,homonym_shared,2739
+913,hās,no,,,matched,3
+914,hi,yes,262717,"5P,5Ā",matched,224
+915,hiṃs,yes,262731,"1,7P,7Ā,10P",matched,788
+916,hikk,yes,262789,"1P,1Ā",matched,2
+917,hiṇḍ,yes,262850,1Ā,matched,2
+918,hīḍ,yes,263406,"0P,0Ā",matched,29
+919,hu,yes,263443,"3P,3Ā",matched,6418
+921,hū,yes,264875,"1P,1Ā",unmatched,0
+922,hūrch,yes,263569,1P,matched,1
+923,1 hṛ,yes,263626,"1P,1Ā",homonym_shared,2792
+924,2 hṛ,yes,263626,"1P,1Ā",homonym_shared,2792
+925,hṛṣ,yes,263915,"1P,1Ā,4P",matched,1147
+926,heṭh,yes,263975,"1P,1Ā,9P",unmatched,0
+927,heḍ,no,,,unmatched,0
+928,heṣ,yes,264415,1Ā,matched,26
+929,hnu,yes,264643,2Ā,matched,6
+930,hras,yes,264681,"1P,1Ā",matched,28
+931,hrād,yes,264747,1Ā,matched,0
+932,hrī,yes,264772,3P,matched,28
+934,hreṣ,yes,264815,"1Ā,1P",matched,2
+935,hlād,yes,264827,1Ā,matched,3
+936,hval,yes,264858,1P,matched,13
+937,hvṛ,yes,264806,9P,matched,48
