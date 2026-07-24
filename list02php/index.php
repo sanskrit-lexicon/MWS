@@ -21,11 +21,12 @@ error_reporting(E_ALL & ~E_NOTICE);
 <!-- links to jquery, using CDNs -->
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/3.0.5/js.cookie.min.js"></script>
 <!-- jquery-ui is used -->
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
-<script type="text/javascript" src="http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/sample/dictnames.js"></script>
-<script type="text/javascript" src="http://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/sample/cookieUpdate.js"></script>
+<script type="text/javascript" src="https://www.sanskrit-lexicon.uni-koeln.de/scans/awork/apidev/sample/dictnames.js"></script>
+<!-- Local cookieUpdate (js-cookie API); avoids depending on server deploy of sample/ -->
+<script type="text/javascript" src="cookieUpdate.js"></script>
 
 <style>
 body {
