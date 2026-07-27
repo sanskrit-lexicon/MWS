@@ -8,6 +8,15 @@ ready for a dated entry.
 
 ## [Unreleased]
 
+### Added - H1763 Russian preface register pass: house style for RU dictionary-preface editions
+
+- [prefaces/RU_STYLE.md](https://github.com/sanskrit-lexicon/MWS/blob/master/prefaces/RU_STYLE.md) (Fable 5 `claude-fable-5`, [H1763](https://github.com/gasyoun/Uprava/blob/main/handoffs/H1763-Fable_MWS_mw-1899-preface-russian-register-pass_27.07.26.md)) — first register/terminology ruling set for the MW 1899 Russian preface edition, intended as the house register for every other dictionary's RU preface: archaised register declared deliberate (never de-archaise), follow-source primacy (italics span-parity verified 29/29, `&c.`-as-cited-symbol, layout), terminology table (семитический unified from mixed семитский/семитический ×12; строение for "structure of a language"; наречие for dialect/vernacular; арийский vs индоевропейский never interchangeable — the distinction is MW's own; напр./например follow e.g./for example), the two-register transliteration rule (Latin IAST for cited terms and script names, plain Cyrillic without macrons for assimilated realia — hybrid нāгарӣ-type forms banned), and explicit divergences from pwg_ru [RU_STYLE_MECHANICAL.md](https://github.com/gasyoun/SanskritLexicography/blob/master/RussianTranslation/pwg_ru/RU_STYLE_MECHANICAL.md) (R1 no-ё shared; R2/R3 terseness deliberately not applied to running prose).
+
+### Fixed - preface footnote apparatus (EN + RU, scan-verified) and RU terminology drift
+
+- Footnote-marker repair against the print scans on seven page pairs (pp. ix, xii, xiii, xviii, xix, xxiv, xxv): dropped body markers restored (Saṃskṛita¹/Semitic² on p. xii, inflective¹ on p. xiii, *prāṇa-pratishṭhā*² on p. xviii, hyphen¹ on p. xix, 400 B.C.² on p. xxiv, *lipi*⁴ on p. xxv), cascaded renumbering corrected (p. xii ×4, p. xxiv ×2, p. xviii work²→⁴), a note merged into its neighbour split back out (p. ix note ⁴), OCR `?` for `²,` repaired, spurious `)` after markers removed. Pages xiv and xxvii verified print-faithful as-is (double reference to one note; cross-page numbering + `*`/`§` table notes).
+- RU terminology/transliteration unification across 16 page files (69 replacements total incl. the footnote repairs): all 25 hybrid Cyrillic-with-macron / mixed-script tokens removed (нāгарӣ→Nāgarī, Брāхманами→Брахманами, пāли→пали, āрийской→арийской, Кātyāyana→Kātyāyana &c.), семитический ×12, «арамейскому (или арамейскому)» doublet mistranslation → «(или арамеянскому)» (p. xii note ²), пракритского диалекта→наречия (p. xxvi), строй→строение (p. viii), e.g.→напр. ×2 (pp. xvi, xxviii). Both combined editions regenerated via [build_combined.py](https://github.com/sanskrit-lexicon/MWS/blob/master/prefaces/build_combined.py) — [mwpref_all.ru.md](https://github.com/sanskrit-lexicon/MWS/blob/master/prefaces/mwpref_all.ru.md) never hand-edited.
+
 ## [1.0.5] - 2026-07-21
 
 ### Changed - A39 paper (grammar/dictionary/corpus verbal-root disagreement) skeleton → full draft

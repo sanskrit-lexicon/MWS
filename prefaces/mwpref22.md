@@ -23,7 +23,7 @@ This view was first propounded in the writings of the learned Professor A. Weber
 
 These inscription-alphabets are of two principal kinds:—
 
-The first kind is now called Kharoshṭhī (or 'Ass's lip' form of writing, *lipi* being understood). This belongs to the North-west corner of the Panjāb and Eastern Afghānistān. It was used by King Aśoka for a few of his rock and stone inscriptions, and is a kind of writing the prototype of which was probably introduced into Persia about 500 B.C, and brought by Persian rulers into Northern India in the fourth
+The first kind is now called Kharoshṭhī (or 'Ass's lip' form of writing, *lipi* being understood)⁴. This belongs to the North-west corner of the Panjāb and Eastern Afghānistān. It was used by King Aśoka for a few of his rock and stone inscriptions, and is a kind of writing the prototype of which was probably introduced into Persia about 500 B.C, and brought by Persian rulers into Northern India in the fourth
 
 ----
 

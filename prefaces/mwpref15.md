@@ -13,7 +13,7 @@ Hence it must be understood that RV.¹ &c. &c. denotes that a word occurs in the
 
 And again, when a word had not yet been met with in any published literary work, but only in native lexicons, it was decided to denote this by the letter L.
 
-As to the words and meanings given on my authority and marked MW., many of them have been taken by me from commentaries or from the notes which I made after conversations with learned Pandits in their own country. For it seems to me that Sanskrit Dictionaries ought sometimes to give important modern words and meanings as used by modern educated Sanskrit scholars in India—such, for example, as the meaning of *prāṇa-pratiṣṭhā* (see Additions under **Prāṇa**, p. 1330).
+As to the words and meanings given on my authority and marked MW., many of them have been taken by me from commentaries or from the notes which I made after conversations with learned Pandits in their own country. For it seems to me that Sanskrit Dictionaries ought sometimes to give important modern words and meanings as used by modern educated Sanskrit scholars in India—such, for example, as the meaning of *prāṇa-pratishṭhā*² (see Additions under **Prāṇa**, p. 1330).
 
 Then a third improvement in the present edition, as every true scholar will admit, is the accentuation of words occurring in accentuated texts, although it will be found, I fear, that occasional accidental omissions occur, and in cross-references the accent has often been designedly dropped. Many accents, too, which are only known from Pāṇini and the Phiṭ-sūtras have been intentionally omitted.
 
@@ -27,7 +27,7 @@ Further, by Pāṇ. vi, 1, 223 and vi, 2, 1 all compounds have different meaning
 
 That this holds good in all languages is shown by the careful way in which accentuation is marked in modern English Dictionaries. How, indeed, could it be otherwise when the transference of an accent from one syllable to another often makes such important alteration in the sense as may be noted in the words 'gállant' and 'gallánt,' 'récord' and 'recórd,' 'présent' and 'presént,' 'aúgust' and 'augúst,' 'désert' and 'desért.' The bearing, too, of Sanskrit accentuation on comparative philology will be evident to any one who has noted the coincidences between the accentuation of Greek and Sanskrit words.
 
-Manifestly then it would have been inexcusable had we omitted all accentuation in the present enlarged and improved work². It must be admitted, however, that incidence of accent has not been treated with exact uniformity in every page of this volume.
+Manifestly then it would have been inexcusable had we omitted all accentuation in the present enlarged and improved work⁴. It must be admitted, however, that incidence of accent has not been treated with exact uniformity in every page of this volume.
 
 In Pāṇini's system, as is well known, the position of the accent is generally denoted by some indicatory letter, attached to the technical names given by him to his affixes and suffixes, including the terminations
 
