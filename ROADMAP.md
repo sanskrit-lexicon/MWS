@@ -220,9 +220,12 @@ Four tracks, in leverage order:
    corpus-absent roots as a P3/P4 signal. Westergaard layer (1,362) not yet joined.
 6. **phw cross-reference graph (audited 2026-06-13).**
    [phw_graph/](https://github.com/sanskrit-lexicon/MWS/tree/master/phw_graph)
-   maps MW's undocumented phrasal-headword graph (2,364 edges, 99.3% reciprocal)
-   — a queryable structured-data layer. Two concrete spin-offs: **(i)** a
-   `bug`+`markup` batch fixing the **31 broken links** (`phw_integrity.csv`);
+   maps MW's undocumented phrasal-headword graph (2,369 edges, 100.0% reciprocal
+   post-fix) — a queryable structured-data layer. Two concrete spin-offs: **(i)**
+   ~~a `bug`+`markup` batch fixing the **31 broken links** (`phw_integrity.csv`)~~
+   **DONE 2026-07-27** (H1500) — parked via `/cologne-correction-queue`
+   (`csl-corrections/batch_pending/dictionaries/mw/change_mw_2.txt`), ships to
+   `csl-orig` in the next `/cologne-batch-pr`;
    **(ii)** ~~document the `phwchild`/`phwparent`/`<lex type="phw">` family and
    `<etym>` in DATA_DICTIONARY.md~~ **DONE 2026-06-13** — [DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/MWS/blob/master/DATA_DICTIONARY.md)
    now documents `<s1>`, `<etym>`, `<gk>`, `<pcol>`, `<div>`, `<srs/>`, `<listinfo>`,

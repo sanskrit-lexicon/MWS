@@ -5,41 +5,37 @@ inline phrases promoted into their own micro-records (`<info phwchild>`), which
 point back (`<info phwparent>`). Reconstructed and integrity-checked here.
 
 ## Size
-- `<info phwchild>` edges: **2,364** from **2,078** parent senses
-  to **2,354** child records.
-- `<info phwparent>` back-links: 2,362
+- `<info phwchild>` edges: **2,369** from **2,082** parent senses
+  to **2,369** child records.
+- `<info phwparent>` back-links: 2,369
 - `<lex type="phw">` in-gloss markers: 2,074
-- Children targeted by >1 parent: 1
+- Children targeted by >1 parent: 0
 
 ## Integrity
-- **Reciprocal (parent↔child both link): 2,348 / 2,364 (99.3%)**
-- **Distinct broken parent↔child links: 31** (equals the issue-row total here:
+- **Reciprocal (parent↔child both link): 2,369 / 2,369 (100.0%)**
+- **Distinct broken parent↔child links: 0** (equals the issue-row total here:
   this data has no mismatched-triangle case that a single defect would flag from both sides; the
   dedup is a safeguard for that case, not a correction to this count — CODE_REVIEW #9).
-- Issue rows by kind:
-  - `orphan_backlink`: 14
-  - `dangling_phwchild`: 9
-  - `child_missing_backlink`: 7
-  - `dangling_phwparent`: 1
+- No issues — graph is fully consistent.
 
 See `phw_integrity.csv` for the exact records (maintainer-fixable).
 
 ## What gets promoted (child `<lex>` distribution)
 | child lex | count |
 |---|--:|
-| `n.` | 789 |
-| `ind.` | 533 |
-| `f.` | 509 |
-| `mfn.` | 257 |
-| `m.` | 237 |
-| `(none)` | 29 |
+| `n.` | 797 |
+| `ind.` | 536 |
+| `f.` | 512 |
+| `mfn.` | 258 |
+| `m.` | 238 |
+| `(none)` | 28 |
 
 ## Notes
-- Promoted children span `n.` (789), `ind.` (533, adverbial phrases like
-  `dharmeṇa`), `f.` (509), `mfn.` (257), `m.` (237) — inline derivative forms
-  MW made separately addressable. A genuine structured-data layer (queryable
+- Promoted children span the `<lex>` distribution above (dominated by `n.`,
+  `ind.` adverbial phrases like `dharmeṇa`, `f.`, `mfn.`, `m.`) — inline derivative
+  forms MW made separately addressable. A genuine structured-data layer (queryable
   phrase sub-entries), undocumented in DATA_DICTIONARY. Candidate W4 export.
-- **The 31 broken links are real, fixable markup bugs** (mostly off-by-one
-  L-number typos in `phwchild` targets; `child_missing_backlink` vs `child_wrong_parent`
-  now distinguish an absent back-link from a mis-pointed one). `phw_integrity.csv` is the
-  actionable list — a ready `bug`+`markup` correction batch. Analysis only, no mutation.
+- The 31 broken links originally found here (mostly off-by-one L-number typos in
+  `phwchild`/`phwparent` targets, plus two `{{Lbody=}}`-alias redirects and one
+  duplicate pointer) were corrected in `csl-corrections/batch_pending/dictionaries/mw/`
+  (H1500) — this script only analyses/audits, it never mutates `mw.txt`.
