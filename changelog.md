@@ -8,6 +8,8 @@ ready for a dated entry.
 
 ## [Unreleased]
 
+## [1.0.6] - 2026-07-28
+
 ### Added - H1763 Russian preface register pass: house style for RU dictionary-preface editions
 
 - [prefaces/RU_STYLE.md](https://github.com/sanskrit-lexicon/MWS/blob/master/prefaces/RU_STYLE.md) (Fable 5 `claude-fable-5`, [H1763](https://github.com/gasyoun/Uprava/blob/main/handoffs/H1763-Fable_MWS_mw-1899-preface-russian-register-pass_27.07.26.md)) — first register/terminology ruling set for the MW 1899 Russian preface edition, intended as the house register for every other dictionary's RU preface: archaised register declared deliberate (never de-archaise), follow-source primacy (italics span-parity verified 29/29, `&c.`-as-cited-symbol, layout), terminology table (семитический unified from mixed семитский/семитический ×12; строение for "structure of a language"; наречие for dialect/vernacular; арийский vs индоевропейский never interchangeable — the distinction is MW's own; напр./например follow e.g./for example), the two-register transliteration rule (Latin IAST for cited terms and script names, plain Cyrillic without macrons for assimilated realia — hybrid нāгарӣ-type forms banned), and explicit divergences from pwg_ru [RU_STYLE_MECHANICAL.md](https://github.com/gasyoun/SanskritLexicography/blob/master/RussianTranslation/pwg_ru/RU_STYLE_MECHANICAL.md) (R1 no-ё shared; R2/R3 terseness deliberately not applied to running prose).
