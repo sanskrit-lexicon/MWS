@@ -8,7 +8,9 @@ ready for a dated entry.
 
 ## [Unreleased]
 
-## [1.0.6] - 2026-07-28
+### Added - H1786 pipeline operator manual
+
+- [docs/PIPELINE_MANUAL.md](https://github.com/sanskrit-lexicon/MWS/blob/master/docs/PIPELINE_MANUAL.md) + [docs/PIPELINE_MANUAL.meta.md](https://github.com/sanskrit-lexicon/MWS/blob/master/docs/PIPELINE_MANUAL.meta.md) (Fable 5 `claude-fable-5`, [H1786](https://github.com/gasyoun/Uprava/blob/main/handoffs/H1786-Fable_MWS_correction-pipeline-tooling-manual_28.07.26.md)) — first repo-wide operator manual: the universal correction loop (`temp_mw_N.txt` → `diff_to_changes_dict.py` → `updateByLine.py` → `generate_dict.sh`/`xmlchk` → batch queue), a 26-row lifecycle map of every workspace (Live / Re-runnable / Frozen), path-corrected commands for the flat `GitHub/` layout vs the legacy XAMPP-era readme paths, walkthroughs for corrections, link targets (`mwauthorities/`), the 2026 zero-arg analysis modules, extractors, prefaces regenerate and web samples, an explicit what-not-to-re-run register (homophone applied 2015, H966 packet kill-gate, py2 roster), a 13-row symptom→cause→cure table, and a maintainer appendix (invariants + 8 known traps). README gains a Documentation index table linking the manual and the six root reference docs.
 
 ### Added - H1763 Russian preface register pass: house style for RU dictionary-preface editions
 
