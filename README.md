@@ -1,10 +1,23 @@
 # MWS
 
-_Created: 16-01-2014 · Last updated: 10-07-2026_
+_Created: 16-01-2014 · Last updated: 28-07-2026_
 
 Monier Monier-Williams, Sir; *A Sanskrit-English Dictionary*. Oxford, 1899.
 
 This repository holds corrections, enhancements, and tooling for the [Cologne digitization](http://www.sanskrit-lexicon.uni-koeln.de/) of the MW dictionary. The canonical source data ([`mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) in SLP1 encoding) lives in [csl-orig](https://github.com/sanskrit-lexicon/csl-orig); the build system is in [csl-pywork](https://github.com/sanskrit-lexicon/csl-pywork). Text corrections are never made directly to the source — they are expressed as change files applied by scripts, following the canonical [correction workflow](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md). Issues and corrections are tracked at the [MWS GitHub issue tracker](https://github.com/sanskrit-lexicon/MWS/issues); the dictionary is served online through the [Cologne interface](http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php), and this repository publishes a [GitHub Pages landing page](http://sanskrit-lexicon.github.io/MWS/).
+
+## Documentation
+
+| Doc | What it covers |
+|---|---|
+| [docs/PIPELINE_MANUAL.md](https://github.com/sanskrit-lexicon/MWS/blob/master/docs/PIPELINE_MANUAL.md) | **Operator manual** — the universal correction loop, every re-runnable pipeline with exact commands, what is frozen, symptom→cause→cure |
+| [DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/MWS/blob/master/DATA_DICTIONARY.md) | Tag and field reference for `mw.txt` |
+| [ENTRY_GUIDE.md](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md) | How to read an MW entry |
+| [DICT_PROFILE.md](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md) | The dictionary itself — editions, history, when to use |
+| [ANALYSIS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/ANALYSIS.md) | The five read-only 2026 analysis modules |
+| [ROADMAP.md](https://github.com/sanskrit-lexicon/MWS/blob/master/ROADMAP.md) | 2026 H2 plan (workstreams W1–W4) |
+| [CONTRIBUTING.md](https://github.com/sanskrit-lexicon/MWS/blob/master/CONTRIBUTING.md) | Correction workflow for contributors |
+| [CHANGELOG.md](https://github.com/sanskrit-lexicon/MWS/blob/master/CHANGELOG.md) | Dated maintenance snapshots |
 
 ## Contents
 
