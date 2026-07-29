@@ -8,6 +8,12 @@ ready for a dated entry.
 
 ## [Unreleased]
 
+## [1.0.8] - 2026-07-29
+
+### Added - SPEC-5 §3 `<lex type=X>` inventory (MWS issue #215 evidence)
+
+- [planning/specs/2026-07/lex_type_inventory.py](https://github.com/sanskrit-lexicon/MWS/blob/master/planning/specs/2026-07/lex_type_inventory.py) + generated [lex_type_inventory.md](https://github.com/sanskrit-lexicon/MWS/blob/master/planning/specs/2026-07/lex_type_inventory.md) (Sonnet 5 `claude-sonnet-5`, H1881) — the SPEC-5 §3 evidence table: every `<lex type=X>` value in `mw.txt` with count, 3 sample records, co-occurrence with `<info lex=>` (derivability check), and which tools read it. Real distinct-value count is **7** (`phw`/`hw`/`hwifc`/`hwalt`/`nhw`/`hwinfo`/`part`, matching DATA_DICTIONARY.md), not the "215" the originating handoff assumed — `#215` is [MWS issue #215](https://github.com/sanskrit-lexicon/MWS/issues/215)'s number, not a type count. Evidence only; the keep/drop ruling is the August planning session's.
+
 ## [1.0.7] - 2026-07-28
 
 ### Added - H1786 pipeline operator manual
