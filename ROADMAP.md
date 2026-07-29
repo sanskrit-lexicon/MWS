@@ -1,5 +1,14 @@
 # MWS Roadmap — 2026 H2
 
+_Last touched: 08-07-2026 · staleness note added 29-07-2026 (H1877)_
+
+> **Staleness note (29-07-2026):** this file's W1–W4 narrative prose predates
+> ~30+ subsequent commits (A16/A17/A18/A39/A45/A46 paper work, H1077's Major-5
+> citation dossier, H1379/H1380, the `root_crosswalk`↔WhitneyRoots-canonical
+> join sync). Treat the prose below as a snapshot, not current status — verify
+> against [`.ai_state.md`](https://github.com/sanskrit-lexicon/MWS/blob/master/.ai_state.md) and `git log` before acting on any
+> single workstream description here.
+
 Forward plan for June–November 2026, superseding the 2026-05-27 snapshot.
 It sequences four workstreams chosen 2026-06-12 and bakes in a model-tier
 policy so that frontier-model (Fable-class) sessions are spent only where
