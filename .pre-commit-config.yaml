@@ -7,3 +7,5 @@ repos:
       - id: trailing-whitespace
         args: [--markdown-linebreak-ext=md]
       - id: check-merge-conflict
+      - id: mixed-line-ending
+        args: [--fix=lf]
