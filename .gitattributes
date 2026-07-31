@@ -1,0 +1,29 @@
+# Normalize text files to LF in the repository and working tree.
+* text=auto eol=lf
+# Common source, docs, and generated data files.
+*.cff text eol=lf
+*.css text eol=lf
+*.csv text eol=lf
+*.html text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.sh text eol=lf
+*.tsv text eol=lf
+*.txt text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+# Binary assets (never normalize or diff as text).
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.zip binary
+*.gz binary
+*.bz2 binary
+*.sqlite binary
+*.ifo binary
+*.idx binary
+*.dz binary
