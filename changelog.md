@@ -29,6 +29,16 @@ ready for a dated entry.
 - Footnote-marker repair against the print scans on seven page pairs (pp. ix, xii, xiii, xviii, xix, xxiv, xxv): dropped body markers restored (Saṃskṛita¹/Semitic² on p. xii, inflective¹ on p. xiii, *prāṇa-pratishṭhā*² on p. xviii, hyphen¹ on p. xix, 400 B.C.² on p. xxiv, *lipi*⁴ on p. xxv), cascaded renumbering corrected (p. xii ×4, p. xxiv ×2, p. xviii work²→⁴), a note merged into its neighbour split back out (p. ix note ⁴), OCR `?` for `²,` repaired, spurious `)` after markers removed. Pages xiv and xxvii verified print-faithful as-is (double reference to one note; cross-page numbering + `*`/`§` table notes).
 - RU terminology/transliteration unification across 16 page files (69 replacements total incl. the footnote repairs): all 25 hybrid Cyrillic-with-macron / mixed-script tokens removed (нāгарӣ→Nāgarī, Брāхманами→Брахманами, пāли→пали, āрийской→арийской, Кātyāyana→Kātyāyana &c.), семитический ×12, «арамейскому (или арамейскому)» doublet mistranslation → «(или арамеянскому)» (p. xii note ²), пракритского диалекта→наречия (p. xxvi), строй→строение (p. viii), e.g.→напр. ×2 (pp. xvi, xxviii). Both combined editions regenerated via [build_combined.py](https://github.com/sanskrit-lexicon/MWS/blob/master/prefaces/build_combined.py) — [mwpref_all.ru.md](https://github.com/sanskrit-lexicon/MWS/blob/master/prefaces/mwpref_all.ru.md) never hand-edited.
 
+## [1.0.6] - 2026-07-28
+
+### Added - H1763 Russian preface register pass (release notes)
+
+- [prefaces/RU_STYLE.md](https://github.com/sanskrit-lexicon/MWS/blob/master/prefaces/RU_STYLE.md) ([H1763](https://github.com/gasyoun/Uprava/blob/main/handoffs/H1763-Fable_MWS_mw-1899-preface-russian-register-pass_27.07.26.md), Fable 5 `claude-fable-5`) — house register/terminology ruling set for the MW 1899 Russian preface edition (archaised register kept deliberate, follow-source primacy, terminology table, two-register transliteration rule, explicit divergences from pwg_ru's `RU_STYLE_MECHANICAL.md`). Content also summarized under [1.0.7](#107---2026-07-28) below; this section is the tag's own release notes, shipped in [PR #262](https://github.com/sanskrit-lexicon/MWS/pull/262).
+
+### Fixed - preface footnote apparatus (EN + RU, scan-verified) and RU terminology drift
+
+- Footnote-marker repair against print scans on seven page pairs, RU terminology/transliteration unification across 16 page files (69 replacements). Full detail under the [1.0.7](#107---2026-07-28) entry above, which folds this tag's shipped work into the same day's summary.
+
 ## [1.0.5] - 2026-07-21
 
 ### Changed - A39 paper (grammar/dictionary/corpus verbal-root disagreement) skeleton → full draft
@@ -75,3 +85,11 @@ ready for a dated entry.
 - 2026-06-13 Reproducibility review: re-sync to corrected DCS data, kill drift hazards
 - 2026-06-13 Apply red-team fixes: soften overstated claims across docs + generators
 - 2026-06-13 Adversarial red-team of session findings; fix sense-as-record overclaim
+
+## [submission-v1] - 2026-05-27
+
+### Historical summary (pre-1.0 development, 2014-2026, 393 commits) — coarse milestone entry, not a full commit log
+
+- **2014-2020 (~30 commits):** original Cologne-era correction work — homophone corrections, `<L ` markup entries, factual-correction lists (`corrections-factual.txt`), transcoder examples.
+- **2021-2025 (~268 commits):** bulk of research and pipeline tooling development — correction pipeline build-out, adjudication review cycles, early paper drafts.
+- **2026 through 2026-05-27 (81 commits):** dominated by a `docs-pass:` batch (58 commits) — submission-readiness sweep culminating in this tag: O1-O9 paper/cover-letter polish, D16-D22 open doubts resolved, PNG/SVG parity checks, link/lint audits, README sync, manifest rebuilds.
