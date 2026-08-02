@@ -148,9 +148,9 @@ Five of the top-15 most-cited `<ls>` values are **editorial annotations**, not l
 
 | Marker | What it means | Count | Treat as |
 |---|---|--:|---|
-| `L.` | **Lexicographers** — recorded in indigenous Sanskrit lexicons but not attested in any published text | 40,213 (12.9%) | A *hedge*: weaker than a textual citation. MW signals "the word exists in the dictionary tradition, but I cannot point to a real attested use." |
+| `L.` | **Lexicographers** — recorded in indigenous Sanskrit lexicons but not attested in any published text (MW 1899 preface) | 40,213 (12.9%) | A *hedge*: weaker than a textual citation. **Not** a Wilson siglum. European transmission of that dictionary-tradition stream is traced via **WIL 1819 → PWG** (PWG names koshas; MW collapses them to `L.`) — see [WIL edition lineage](https://github.com/sanskrit-lexicon/WIL/blob/main/docs/WIL_EDITION_LINEAGE_1819_1832.md) |
 | `ib.` | *ibidem* — "the same source as the immediately preceding `<ls>`" | 10,100 | Resolves to the previous `<ls>`; never a work in itself |
-| `W.` | Wilson — Horace Hayman Wilson's [1832 Sanskrit-English dictionary](https://github.com/sanskrit-lexicon/WIL) | 8,286 | Editorial cross-reference to a predecessor lexicon |
+| `W.` | Wilson — Horace Hayman Wilson's authority (CDSL text = [1832](https://github.com/sanskrit-lexicon/WIL); MW preface: meanings marked `W.` rest on Wilson) | 8,286 | Editorial cross-reference to Wilson (**1832** in CDSL; distinct from PWG's **1819** print base) |
 | `MW.` | Monier-Williams himself — a self-reference to his own earlier annotation or to the 1872 first edition | 5,711 | Editorial self-citation |
 | `Cat.` | Catalogue — manuscript catalogue entries (e.g. India Office library catalogues) | 5,302 | Catalogue/bibliographic, not a text citation |
 
@@ -170,11 +170,12 @@ When evaluating a gloss, count the **non-editorial** citations — that's the ac
 
 | Dictionary | Relationship to MW |
 |---|---|
-| [PWG](https://github.com/sanskrit-lexicon/PWG) (Böhtlingk-Roth, 1855–1875) | German Sanskrit-Wörterbuch — the principal source MW [condensed and reworked](#beyond-pwg--what-mw-contributes) into English |
+| [PWG](https://github.com/sanskrit-lexicon/PWG) (Böhtlingk-Roth, 1855–1875) | German Sanskrit-Wörterbuch — principal source MW [condensed and reworked](#beyond-pwg--what-mw-contributes); **print base = WIL 1819** (not the CDSL 1832 text) |
 | [PWK](https://github.com/sanskrit-lexicon/PWK) (Böhtlingk, 1879–1889) | Abridged "kürzerer Fassung" of PWG; contemporary with MW's first edition |
+| [MW72](https://github.com/sanskrit-lexicon/MW72) (Monier-Williams, 1872) | First English edition — **WIL 1832 English base + PWG matter**; MW1899 brings English meanings forward from here |
 | [AP90](https://github.com/sanskrit-lexicon/AP90) (Apte, 1890) | Student-oriented English Sanskrit dictionary — narrower scope but cleaner pedagogy |
 | [AP](https://github.com/sanskrit-lexicon/AP) (Apte, 1957–59 *Practical*) | Apte's later revised and expanded English Sanskrit dictionary |
-| [WIL](https://github.com/sanskrit-lexicon/WIL) (Wilson, 1832) | Earlier English Sanskrit dictionary by the first Boden Professor — superseded by MW |
+| [WIL](https://github.com/sanskrit-lexicon/WIL) (Wilson, **1832** CDSL; also 1819 print) | Earlier English Sanskrit dictionary; **1832** = CDSL + MW72 English base; **1819** = PWG base, not fully OCR'd — [lineage note](https://github.com/sanskrit-lexicon/WIL/blob/main/docs/WIL_EDITION_LINEAGE_1819_1832.md) |
 | [SKD](https://github.com/sanskrit-lexicon/SKD) (*Śabdakalpadruma*, 1822–1858) | Sanskrit→Sanskrit monolingual encyclopedic lexicon by Rāja Rādhākānta Deva — the indigenous Indian lexicographical tradition's masterpiece, frequently cited by MW |
 | [ARMH](https://github.com/sanskrit-lexicon/armh) (Halāyudha, ~10th c.) | *Abhidhānaratnamālā* (*Halāyudhakośa*) — classical synonymic kosha; PWG cites it 5,114 times as `HALĀY.` |
 | [ABCH](https://github.com/sanskrit-lexicon/abch) (Hemacandra, ~12th c.) | *Abhidhānacintāmaṇi* — classical synonymic kosha; PWG cites it 17,337 times as `H.` (most-cited kosha in PWG); the [`Pariśiṣṭa`](https://github.com/sanskrit-lexicon/acph) and [`Śiloñcha`](https://github.com/sanskrit-lexicon/acsj) supplements are separate CDSL repos |
@@ -363,6 +364,17 @@ A transparent compound. Tells you everything about which lexicons enumerate vs g
 
 The user observation **"WIL is based on Koshas, MW is based on PWG"** is correct and can be quantitatively demonstrated from the data files themselves. The two dictionaries draw on different intellectual ancestries that meet at almost the same headwords.
 
+### Edition-basis split (1819 vs 1832) — do not collapse Wilson
+
+Wilson exists in **two** print editions that feed **different** European dictionaries. CDSL digitises only 1832; treating "Wilson" as a single text confounds PWG- vs MW-side ancestry tests. Full note: [WIL edition lineage 1819/1832](https://github.com/sanskrit-lexicon/WIL/blob/main/docs/WIL_EDITION_LINEAGE_1819_1832.md).
+
+| Edition | Feeds | CDSL body OCR? |
+|---|---|---|
+| **WIL 1819** (1st) | **PWG** print base; European path of the dictionary-tradition stream MW later marks `L.` | **No** (preface OCR is the bounded next unit; full body not in scope) |
+| **WIL 1832** (2nd) | **MW72** English-gloss base (PWG matter added on top); MW1899 carries English forward from MW72; MW `W.` points here in CDSL | **Yes** — this repo's sibling [WIL](https://github.com/sanskrit-lexicon/WIL) / `csl-orig/v02/wil` |
+
+Rule of thumb: **PWG ← WIL 1819; MW (via MW72) ← WIL 1832.**
+
 ### The four Cologne koshas
 
 | CDSL repo | Title | Author | Date | Type |
@@ -400,9 +412,10 @@ The lineage is provable by counting `<ls>` citations of named kosha sources in e
 
 ### What this proves
 
-- **WIL ← Koshas** (direct lineage, via the [Fort William College](https://en.wikipedia.org/wiki/Fort_William_College) pandits — confirmed by [WIL's own subtitle](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/wil/wilheader.xml) and CDSL's `koSa` subject classification).
-- **MW ← PWG** (confirmed by MW's own preface and by the [structural alignment shown in the *aṃśa* sample-entry comparison](#same-entry-across-seven-dictionaries) above).
-- **The koshas enter MW twice**: directly (the senses themselves, ultimately traceable to AK./H./MED./HALĀY.) and indirectly (via PWG, which named the kosha sources, then MW which abridged them as `L.`).
+- **WIL ← Koshas** (direct lineage, via the [Fort William College](https://en.wikipedia.org/wiki/Fort_William_College) pandits — confirmed by [WIL's own subtitle](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/wil/wilheader.xml) and CDSL's `koSa` subject classification). Distinguish **1819** (PWG base) vs **1832** (CDSL / MW72 English base).
+- **MW ← PWG** for structure, German philology, and named-source condensation (confirmed by MW's own preface and by the [structural alignment shown in the *aṃśa* sample-entry comparison](#same-entry-across-seven-dictionaries) above).
+- **MW English glosses ← MW72 ← WIL 1832 (+ PWG matter)** — MW1899 brings English meanings forward from the 1872 edition rather than re-Englishing PWG from scratch.
+- **The koshas enter MW twice**: directly (the senses themselves, ultimately traceable to AK./H./MED./HALĀY.) and indirectly (via PWG, which named the kosha sources — itself based on WIL **1819** as European intermediate — then MW which abridged them as `L.`).
 
 ### Citation-discipline contrast — the deepest scholarly point
 
