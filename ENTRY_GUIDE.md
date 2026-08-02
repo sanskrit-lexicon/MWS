@@ -314,7 +314,7 @@ The five top sources include **two editorial markers** (`L.`, `ib.`) — see [DI
 | 12 | `Kathās.` | 6,757 | [Kathāsaritsāgara](https://en.wikipedia.org/wiki/Kathasaritsagara) |
 | 13 | `Hariv.` | 6,314 | [Harivaṃśa](https://en.wikipedia.org/wiki/Harivamsa) |
 | 14 | `Suśr.` | 6,200 | [Suśruta-Saṃhitā](https://en.wikipedia.org/wiki/Sushruta_Samhita) (medical) |
-| 15 | `MW.` | 5,711 | Monier-Williams' own annotation (self-reference) |
+| 15 | `MW.` | 5,711 | On MW's authority — many from pandit notes/commentaries; **some from SKD** (*Śabdakalpadruma*); not 1872 self-citation ([DICT_PROFILE](DICT_PROFILE.md#citation-markers--not-all-are-literary-works)) |
 | 16 | `Cat.` | 5,302 | Catalogue (manuscript catalogues) |
 | 17 | `Kāv.` | 4,667 | Kāvya / Kāvyādarśa |
 | 18 | `VarBṛS.` | 3,467 | Varāhamihira's [Bṛhatsaṃhitā](https://en.wikipedia.org/wiki/Brihat_Samhita) |

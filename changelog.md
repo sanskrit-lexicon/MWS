@@ -8,6 +8,10 @@ ready for a dated entry.
 
 ## [Unreleased]
 
+### Fixed
+
+- **`MW.` is not a 1872 self-citation** (Grok 4.5 `grok-4.5`, 02-08-2026, [H2214](https://github.com/gasyoun/Uprava/blob/main/handoffs/H2214-Grok_MWS_mw-dot-not-self-cite-skd_02.08.26.md)): [DICT_PROFILE.md](DICT_PROFILE.md) and [ENTRY_GUIDE.md](ENTRY_GUIDE.md) had misread the siglum as "Monier-Williams himself / first-edition self-reference." MW's 1899 Introduction is explicit: words marked `MW.` are *on his authority* — many from commentaries and pandit notes (p. xviii); **some rest on the *Śabda-kalpa-druma* (SKD)** of Rādhākānta Deva (p. xxxii); some from his own books. Cologne `mwauthorities` expansion "1st edition with marginal notes" was the same mechanical error (tooltip corrected).
+
 ### Changed
 
 - **Wilson edition-basis split in DICT_PROFILE** (Grok 4.5 `grok-4.5`, 02-08-2026): PWG ← WIL 1819; MW72/MW English ← WIL 1832; `L.` remains "native lexicons" (not Wilson) with European transmission via 1819; `W.` stays Wilson/1832 CDSL. Canonical note: [WIL docs/WIL_EDITION_LINEAGE_1819_1832.md](https://github.com/sanskrit-lexicon/WIL/blob/main/docs/WIL_EDITION_LINEAGE_1819_1832.md).
