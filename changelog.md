@@ -8,6 +8,10 @@ ready for a dated entry.
 
 ## [Unreleased]
 
+### Changed
+
+- **Wilson edition-basis split in DICT_PROFILE** (Grok 4.5 `grok-4.5`, 02-08-2026): PWG ← WIL 1819; MW72/MW English ← WIL 1832; `L.` remains "native lexicons" (not Wilson) with European transmission via 1819; `W.` stays Wilson/1832 CDSL. Canonical note: [WIL docs/WIL_EDITION_LINEAGE_1819_1832.md](https://github.com/sanskrit-lexicon/WIL/blob/main/docs/WIL_EDITION_LINEAGE_1819_1832.md).
+
 ## [1.0.8] - 2026-07-29
 
 ### Added - SPEC-5 §3 `<lex type=X>` inventory (MWS issue #215 evidence)
