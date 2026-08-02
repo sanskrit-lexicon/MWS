@@ -315,7 +315,7 @@
 05:22	Matsyas.	matsyas	ti	<abbr><slp cap="true">matsyas</slp></abbr><expandMW><ti><slp cap="true">matsyasUkta</slp>, <slp cap="true">Sabdak</slp>.</ti></expandMW><expandNorm><au><slp cap="true">matsyasUkta</slp></au> in <ti><slp cap="true">Sabdakalpadruma</slp></ti></expandNorm>
 05:23	Megh.	meG	ti	<abbr><slp cap="true">meG</slp></abbr><expandMW><ti><slp cap="true">meGadUta</slp></ti></expandMW>
 05:24	Megh.*.	meG.*	ti	<abbr><slp cap="true">meG</slp>.*</abbr><expandMW><ti><slp cap="true">meGadUta</slp></ti>, 15 additional verses</expandMW>
-05:25	MW.	MW	ti	<abbr>MW</abbr><expandMW><au>MonierWilliams</au>, 1st edition of <litcat>Dictionary</litcat>, with marginal notes</expandMW><expandNorm><au>Monier-Williams</au>' <ti>Sanskrit-English Dictionary</ti>, 1st edition with marginal notes</expandNorm>
+05:25	MW.	MW	ti	<abbr>MW</abbr><expandMW><au>MonierWilliams</au> authority mark (pandit notes / commentaries / <ti>Sabdakalpadruma</ti> / own books — not 1872 edition self-cite)</expandMW><expandNorm><au>Monier-Williams</au>' authority (many from pandit notes/commentaries; some from <ti>Śabdakalpadruma</ti>/SKD; some from his own books — not the 1872 first edition)</expandNorm>
 05:26	MWB.	MWB	ti	<abbr>MWB</abbr><expandMW><ti>MonierWilliams Buddhism</ti></expandMW><expandNorm><au>Monier-Williams</au>' <ti>Buddhism in its connexion with <slp cap="true">brAhmaR</slp>ism &amp; <slp cap="true">hindU</slp>ism: and in its contrast with Christianity</ti></expandNorm>
 05:27	Mṛcch.	mfcC	ti	<abbr><slp cap="true">mfcC</slp></abbr><expandMW><ti><slp cap="true">mfcCakawikA</slp></ti></expandMW>
 05:28	Mudr.	mudr	ti	<abbr><slp cap="true">mudr</slp></abbr><expandMW><ti><slp cap="true">mudrArAkzasa</slp></ti></expandMW>

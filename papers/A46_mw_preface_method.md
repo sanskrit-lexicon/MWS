@@ -257,8 +257,10 @@ whole literature", "Mn. &c. signifies that the use of a word is restricted to th
 later literature", and — the decisive one for evidence-grading — "when a word had
 not yet been met with in any published literary work, but only in native lexicons,
 it was decided to denote this by the letter L." (p. xviii, `mwpref15`). Words "given
-on my authority" are "marked MW." (p. xviii, `mwpref15`); "All the words and meanings
-marked W. … rest on his [Wilson's] authority" (p. xxx, `mwpref27`).
+on my authority" are "marked MW." (p. xviii, `mwpref15`) — and he later repeats that
+**some** of those `MW.`-marked words "rest on the authority of the Śabda-kalpa-druma"
+(SKD; p. xxxii, `mwpref29`), not a self-citation of the 1872 first edition; "All the
+words and meanings marked W. … rest on his [Wilson's] authority" (p. xxx, `mwpref27`).
 
 **Measured.** The apparatus is real and vast: **320,828** `<ls>` citation instances
 (recomputed; frame: every `<ls…>` element including attributed forms — the project's
