@@ -1,129 +1,63 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+_Created: 06-05-2026 · Last updated: 16-08-2026_
 
-## Project Overview
+**MWS** is the correction, enhancement, and tooling layer for the Cologne
+digitisation of Monier-Williams, *A Sanskrit-English Dictionary* (1899).
+Generated XML input used by processing scripts is
+`../mwsxml/mws.xml` (sibling checkout). Canonical digitised source is
+[`csl-orig/v02/mw/mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt)
+(SLP1). The generator is
+[csl-pywork](https://github.com/sanskrit-lexicon/csl-pywork).
 
-MWS is a corrections and enhancements repository for the Cologne digitization of Monier Monier-Williams' *A Sanskrit-English Dictionary* (1899). The canonical source data lives in the companion repository `csl-orig/v02/mw/mw.txt`. This repo holds tooling, issue-specific correction workflows, and derived files.
+Operator manual:
+[docs/PIPELINE_MANUAL.md](https://github.com/sanskrit-lexicon/MWS/blob/master/docs/PIPELINE_MANUAL.md).
+Tag reference: [DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/MWS/blob/master/DATA_DICTIONARY.md).
 
-The assumed local directory layout (adjust `$BASE` to your installation):
-```
-$BASE/sanskrit-lexicon/
-  MWS/          ← this repo
-$BASE/cologne/
-  csl-orig/     ← source data repo (mw.txt lives here)
-  csl-pywork/   ← build tools (generate_dict.sh, xmlchk_xampp.sh)
-```
-Set `$BASE` in your shell before running any commands below:
-```bash
-export BASE=/c/xampp/htdocs  # adjust to your installation
-```
+**Projects 5–8** (not 1–4) — 1–4 were already taken when MWS was onboarded.
+Taxonomy itself is the org standard.
 
-## Data Format
+## What to run
 
-The primary data file (`mw.txt`) uses **SLP1 encoding** for Sanskrit, wrapped in custom XML-like tags:
+Transcode (`mwtranscode/`):
 
-```
-<L>103697<pc>527,2<k1>napAtka<k2>napAtka<e>2
-<s>napAtka</s> ¦ <lex>mfn.</lex> ...<info lex="m:f:n"/>
-<LEND>
-```
-
-- `<L>` — record number (can be decimal like `116525.7`)
-- `<pc>` — page,column in the 1899 print edition
-- `<k1>` — headword key1 in SLP1
-- `<k2>` — headword key2 in SLP1 (may include accent marks)
-- `<e>` — hierarchy code
-- `<s>...</s>` — Sanskrit text spans (transcoded by tooling)
-- `<LEND>` — end of record
-
-## Common Commands
-
-### Transcoding (`mwtranscode/`)
-
-Convert `mw.txt` (SLP1) to IAST or Devanagari:
-```bash
+```sh
 python mw_transcode.py slp1 roman mw.txt mw_iast.txt
 python mw_transcode.py slp1 deva  mw.txt mw_deva.txt
 ```
 
-Verify invertibility (round-trip back to SLP1):
-```bash
-python mw_transcode.py roman slp1 mw_iast.txt temp_mw_slp1.txt
-diff mw.txt temp_mw_slp1.txt
-```
+Rebuild + validate after a correction (from `csl-pywork/v02/`; do **not**
+write the result back to csl-orig):
 
-### Homophone pipeline (`homophone/pywork/`)
-
-Sequential steps starting from a local copy of `monier.xml` (not included in this repo — fetch it first):
-```bash
-cp $BASE/cologne/csl-orig/v02/mw/monier.xml .
-python removeHom.py monier.xml monier_pg2.xml
-python hierMod.py   monier_pg2.xml monier_pg2a.xml
-python extract_keys.py   monier.xml extract_keys.txt
-python extract_keys_a.py extract_keys.txt extract_keys_a.txt
-python extract_keys_b.py extract_keys_a.txt extract_keys_b.txt
-python newHom.py extract_keys_b.txt monier_pg2a.xml mod_hom.txt monier_pg3.xml > newHom_log.txt
-```
-
-### Rebuild & validate XML (run from `csl-pywork/v02/`)
-
-After editing `mw.txt`, copy it into place, regenerate, and check.
-`N` increments with each round of corrections within an issue (0 = original copy, 1 = first round, 2 = second, …):
-```bash
-cp temp_mw_N.txt $BASE/cologne/csl-orig/v02/mw/mw.txt
-cd $BASE/cologne/csl-pywork/v02
-sh generate_dict.sh mw  ../../mw
+```sh
+sh generate_dict.sh mw ../../mw
 sh xmlchk_xampp.sh mw
 ```
 
-### Auxiliary extraction tools
+On Windows without `xmllint`, `make_xml.py` printing
+`All records parsed by ET` is the validate signal.
 
-```bash
-# Bot/bio tag extraction (from botbio/)
-python tagunique.py bot ../../../cologne/csl-orig/v02/mw/mw.txt mw_bot.txt
-python tagunique.py bio ../../../cologne/csl-orig/v02/mw/mw.txt mw_bio.txt
+Issue folders under `mwsissues/issueNNN/` snapshot `mw.txt` to
+`temp_mw_0.txt`, apply change files incrementally, then validate. Commit
+documentation back **here**. Park a validated source change with
+[`/cologne-correction-queue`](https://github.com/gasyoun/claude-config/blob/main/commands/cologne-correction-queue.md);
+do not push csl-orig. Full sequence:
+[csl-corrections/docs/correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md).
 
-# Verb parsing pipeline (from mwverbs/)
-python mwverb.py mw ../../../../cologne/csl-orig/v02/mw/mw.txt mwverbs.txt
-python mwverbs1.py mwverbs.txt mwverbs1.txt
-python mwverbs2.py mwverbs1.txt mwverbs2.txt
-```
+`updateByLine.py` change-file format: paired `NNN old` / `NNN new` lines,
+UTF-8, no BOM.
 
-### History — cp1252 to UTF-8 conversion (`history/`)
+## Do not
 
-```bash
-python cp1252-to-utf8.py MONIER.ALL mw_orig_utf8.txt
-```
+- Commit or push [csl-orig](https://github.com/sanskrit-lexicon/csl-orig).
+- Assign MWS issues to projects 1–4.
+- Recopy the org label/milestone tables into this file.
 
-## Issue Correction Workflow
+## Primer
 
-Each `mwsissues/issueNNN/` directory follows this pattern:
+[SANSKRIT_CONTEXT_PRIMER.md](https://github.com/gasyoun/github-spine/blob/main/SANSKRIT_CONTEXT_PRIMER.md).
 
-1. Copy the current `mw.txt` to a local `temp_mw_0.txt` (not tracked by git)
-2. Apply corrections incrementally as `temp_mw_1.txt`, `temp_mw_2.txt`, etc.
-3. Rebuild XML and validate with `generate_dict.sh` + `xmlchk_xampp.sh`
-4. Commit the corrected file to `csl-orig`, then sync to Cologne
-5. Commit the issue documentation files back to this repo
+Issues use the Cologne taxonomy — see
+[`/cologne-issue-runbook`](https://github.com/gasyoun/claude-config/blob/main/commands/cologne-issue-runbook.md).
 
-The `readme.txt` / `readme2.txt` / `readme3.txt` files in each issue folder record the exact diff/correction steps and the case-by-case rationale.
-
-## Transcoder
-
-Transcoding rules are XML files in `mwtranscode/transcoder/`:
-- `slp1_roman.xml` — SLP1 → IAST
-- `roman_slp1.xml` — IAST → SLP1
-- `slp1_deva.xml` / `deva_slp1.xml` — SLP1 ↔ Devanagari
-- Also: `hk`, `itrans`, `wx`, `as` variants
-
-Three known non-invertible words exist in the SLP1→IAST→SLP1 round-trip (documented in `mwtranscode/readme.txt`).
-
-## Note on Milestones
-
-MWS uses **projects 5–8** (not 1–4) because projects 1–4 were already taken when MWS was onboarded. The taxonomy itself is identical to the org standard — see the org-level CLAUDE.md.
-
-## Related Repositories
-
-- **[csl-orig](https://github.com/sanskrit-lexicon/csl-orig)** — canonical source data (`mw.txt` and other dict sources)
-- **[csl-pywork](https://github.com/sanskrit-lexicon/csl-pywork)** — build system (`generate_dict.sh`, `xmlchk_xampp.sh`, display generation)
-- **[csl-corrections](https://github.com/sanskrit-lexicon/csl-corrections)** — cross-dictionary corrections tracker (GitHub issues referenced from MWS issues)
+_Dr. Mārcis Gasūns_
