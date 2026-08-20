@@ -1,14 +1,16 @@
 # CLAUDE.md
 
-_Created: 06-05-2026 · Last updated: 16-08-2026_
+_Created: 06-05-2026 · Last updated: 20-08-2026_
 
 **MWS** is the correction, enhancement, and tooling layer for the Cologne
 digitisation of Monier-Williams, *A Sanskrit-English Dictionary* (1899).
-Generated XML input used by processing scripts is
-`../mwsxml/mws.xml` (sibling checkout). Canonical digitised source is
+Canonical digitised source is
 [`csl-orig/v02/mw/mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt)
-(SLP1). The generator is
-[csl-pywork](https://github.com/sanskrit-lexicon/csl-pywork).
+(SLP1), a sibling checkout on this machine (`../csl-orig/v02/mw/mw.txt`).
+Generated XML (`mw.xml` / `monier.xml`) is a
+[csl-pywork](https://github.com/sanskrit-lexicon/csl-pywork) build product of
+`generate_dict.sh mw`, not a committed sibling `mwsxml` repo (that path does
+not exist).
 
 Operator manual:
 [docs/PIPELINE_MANUAL.md](https://github.com/sanskrit-lexicon/MWS/blob/master/docs/PIPELINE_MANUAL.md).
@@ -45,11 +47,19 @@ do not push csl-orig. Full sequence:
 [csl-corrections/docs/correction-workflow.md](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md).
 
 `updateByLine.py` change-file format: paired `NNN old` / `NNN new` lines,
-UTF-8, no BOM.
+UTF-8, no BOM. Canonical copies travel with issue dirs (for example
+[mwsissues/issue182/updateByLine.py](https://github.com/sanskrit-lexicon/MWS/blob/master/mwsissues/issue182/updateByLine.py))
+and [mwtranscode/revdoc/updateByLine.py](https://github.com/sanskrit-lexicon/MWS/blob/master/mwtranscode/revdoc/updateByLine.py).
+
+Homophone `extract_keys*.py` live in
+[homophone/pywork/pykeysxml/](https://github.com/sanskrit-lexicon/MWS/tree/master/homophone/pywork/pykeysxml);
+that workspace is frozen (see the operator manual).
 
 ## Do not
 
 - Commit or push [csl-orig](https://github.com/sanskrit-lexicon/csl-orig).
+- Invent a sibling `../mwsxml/mws.xml` checkout — generated XML comes from
+  csl-pywork.
 - Assign MWS issues to projects 1–4.
 - Recopy the org label/milestone tables into this file.
 
