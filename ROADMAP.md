@@ -1,6 +1,19 @@
 # MWS Roadmap — 2026 H2
 
-_Last touched: 08-07-2026 · staleness note added 29-07-2026 (H1877)_
+_Created: 23-05-2026 · Last updated: 27-08-2026_
+
+_Prose last touched 08-07-2026 · staleness note added 29-07-2026 (H1877) · header
+regularised 27-08-2026 (H3002)._
+
+> **Slice-4 note, 27-08-2026 (Opus 5 `claude-opus-5`, [H3002](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H3002-Opus_multi_stale-roadmap-s4-cologne-ask-replan_17.08.26.md)).**
+> This pass regularised the date line into the house `_Created … Last updated_` form (it was
+> the only Cologne roadmap dated in an ad-hoc shape) and changed **nothing else**. The
+> staleness note below is this file's last substantive edit, made by
+> [H1877 (Sonnet 5) — multi-repo roadmap-drift sweep, Cologne cluster](https://github.com/gasyoun/Uprava/blob/main/handoffs/archive/H1877-Sonnet_multi_roadmap-drift-sweep-cologne-cluster_29.07.26.md),
+> and the slice-4 programme explicitly forbids re-opening H1877–H1880's catalogue — so the
+> W1–W4 prose is deliberately left as the snapshot that note already declares it to be, with
+> its own instruction to verify against `.ai_state.md` and `git log` standing unchanged. The
+> file carries no open checkboxes.
 
 > **Staleness note (29-07-2026):** this file's W1–W4 narrative prose predates
 > ~30+ subsequent commits (A16/A17/A18/A39/A45/A46 paper work, H1077's Major-5
