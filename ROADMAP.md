@@ -1,6 +1,12 @@
 # MWS Roadmap — 2026 H2
 
-_Created: 23-05-2026 · Last updated: 27-08-2026_
+_Created: 23-05-2026 · Last updated: 02-09-2026_
+
+> **Truth-pass 02-09-2026** (H3775) — `roadmap_handoff_truth.py --check` flagged this
+> page drained but still living: **8 of 8 referenced handoffs have shipped, zero remain OPEN**.
+> Kept at this path per MG ruling 31-08-2026 (do not archive) — the strategy/plan
+> layer still holds even though its backlog has fully closed. A future session
+> reopening work here should mint a fresh H### rather than un-close these.
 
 _Prose last touched 08-07-2026 · staleness note added 29-07-2026 (H1877) · header
 regularised 27-08-2026 (H3002)._
