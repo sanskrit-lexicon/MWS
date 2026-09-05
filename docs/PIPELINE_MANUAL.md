@@ -5,7 +5,7 @@ _Created: 28-07-2026 · Last updated: 28-07-2026_
 How to operate the Monier-Williams (MW) correction and extraction tooling in this
 repository: the universal correction loop against
 [csl-orig](https://github.com/sanskrit-lexicon/csl-orig)'s
-[mw.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt),
+mw.txt,
 the link-target machinery, the 2026 zero-argument analysis modules, and every
 extractor that is still re-runnable — plus an explicit list of what is frozen and
 must not be re-run. Scope is **tooling operations only**: the papers under
@@ -13,7 +13,7 @@ must not be re-run. Scope is **tooling operations only**: the papers under
 specs under
 [planning/](https://github.com/sanskrit-lexicon/MWS/tree/master/planning) carry
 their own passports and are out of scope here (see
-[Pipeline ops vs papers](#pipeline-ops-vs-papers--the-boundary)).
+[Pipeline ops vs papers](#pipeline-ops-vs-papers-the-boundary)).
 
 The documents describing this repo, with different jobs:
 

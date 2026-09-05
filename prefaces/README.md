@@ -7,7 +7,7 @@ Faithful OCR transcription, plus a Russian translation, of the **front matter** 
 > **A Sanskrit-English Dictionary**, etymologically and philologically arranged with special reference to cognate Indo-European languages, by **Sir Monier Monier-Williams**, M.A., K.C.I.E. (Boden Professor of Sanskrit). *New Edition, greatly enlarged and improved*, with the collaboration of Professor E. Leumann and Professor C. Cappeller and other scholars. **Oxford, at the Clarendon Press, 1899.**
 
 Source scans come from the Cologne Digital Sanskrit Lexicon (CDSL) csldoc build:
-[mwpref.html](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/mwpref.html). The dictionary data itself lives in [csl-orig `v02/mw/mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt); this folder covers only the prefatory pages, which are not part of `mw.txt`.
+[mwpref.html](https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dictionaries/prefaces/mwpref.html). The dictionary data itself lives in csl-orig `v02/mw/mw.txt`; this folder covers only the prefatory pages, which are not part of `mw.txt`.
 
 **Source language: English.** The 29 pages comprise the title page, the *Preface to the New Edition* (pp. v–ix) with a *Postscript* (p. x), and the *Introduction* (pp. xi–xxxii) in five sections:
 

@@ -2,7 +2,7 @@
 
 _Created: 03-07-2026 · Last updated: 03-07-2026_
 
-Sample: 200 stratified records ([sampling addendum](https://github.com/sanskrit-lexicon/MWS/blob/master/review_packets/g5/G5_SAMPLING_ADDENDUM.md)), source [mw.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) pinned @ `392ed6b`. Gold = Pass A (rule-based, Sonnet 5 `claude-sonnet-5`) × Pass B (reading pass, Sonnet 5 `claude-sonnet-5`), every disagreement adjudicated per-record by Fable 5 (`claude-fable-5`) — see [disagreements.csv](https://github.com/sanskrit-lexicon/MWS/blob/master/review_packets/g5/disagreements.csv). Detector = `detect_blocks()` from `figures/scripts/export_data.py` (docs-pass @ `0901c81`), scorer ported from `analysis/gold_score.py` (docs-pass @ `d0270a4`).
+Sample: 200 stratified records ([sampling addendum](https://github.com/sanskrit-lexicon/MWS/blob/master/review_packets/g5/G5_SAMPLING_ADDENDUM.md)), source mw.txt pinned @ `392ed6b`. Gold = Pass A (rule-based, Sonnet 5 `claude-sonnet-5`) × Pass B (reading pass, Sonnet 5 `claude-sonnet-5`), every disagreement adjudicated per-record by Fable 5 (`claude-fable-5`) — see [disagreements.csv](https://github.com/sanskrit-lexicon/MWS/blob/master/review_packets/g5/disagreements.csv). Detector = `detect_blocks()` from `figures/scripts/export_data.py` (docs-pass @ `0901c81`), scorer ported from `analysis/gold_score.py` (docs-pass @ `d0270a4`).
 
 Inter-annotator exact agreement (full block set per record): **85/200** (42.5%). Adjudicated records: 115.
 

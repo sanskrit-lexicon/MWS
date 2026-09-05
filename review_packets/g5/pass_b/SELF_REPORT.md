@@ -20,7 +20,7 @@ a personal codebook/checklist as an aid is fine, but no blanket script may produ
 
 **Final method (what actually produced this CSV).** I discarded the script's output and read all
 200 full `<L>…<LEND>` records individually, pulled directly from
-[csl-orig/v02/mw/mw.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt)
+csl-orig/v02/mw/mw.txt
 (not the clipped `record_excerpt` column, which truncates long entries). For each record I applied
 judgment against MICROANALYSIS.md §1's published marker definitions, but did **not** apply them
 mechanically — in particular, for every record with 2+ `<s>` tags I read whether the second tag was

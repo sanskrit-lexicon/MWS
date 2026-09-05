@@ -3,9 +3,9 @@ _Created: 23-05-2026 · Last updated: 05-09-2026_
 {% raw %}
 # MW1899 — Microstructural working notes
 
-**Working document.** Exhaustive block-by-block analysis of the Monier-Williams *Sanskrit-English Dictionary* (1899) as digitized in [CDSL `mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt). This file is the **data source** for the consolidated [paper](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md) in this directory ([README](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/README.md)).
+**Working document.** Exhaustive block-by-block analysis of the Monier-Williams *Sanskrit-English Dictionary* (1899) as digitized in CDSL `mw.txt`. This file is the **data source** for the consolidated [paper](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md) in this directory ([README](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/README.md)).
 
-All counts computed 2026-05-23 against [mw.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) (286,561 records, 48.9 MB).
+All counts computed 2026-05-23 against mw.txt (286,561 records, 48.9 MB).
 
 ---
 
@@ -61,7 +61,7 @@ A *semantic block* is the kind of information conveyed, independent of its forma
 
 ## 3 · Article-type typology (8 primary types + 3 orthogonal properties)
 
-Per [DOUBTS D5](DOUBTS.md#d5--article-type-typology--14-is-too-many--overlapping--important), the original 14-bucket classification conflated two orthogonal axes — *what kind of entry this is* (primary type) versus *what additional information it happens to carry* (orthogonal property). The refactored typology separates them. The original 14 buckets are preserved in [§3.1 below](#31--the-original-14-bucket-classification-legacy) for traceability and for anyone running the legacy detector.
+Per [DOUBTS D5](DOUBTS.md#d5--article-type-typology--14-is-too-many--overlapping--important), the original 14-bucket classification conflated two orthogonal axes — *what kind of entry this is* (primary type) versus *what additional information it happens to carry* (orthogonal property). The refactored typology separates them. The original 14 buckets are preserved in [§3.1 below](#31-the-original-14-bucket-classification-legacy) for traceability and for anyone running the legacy detector.
 
 ### 3 · The 8 primary types
 
@@ -110,7 +110,7 @@ Approximate joint counts (`E` = encyclopedic; counts derive from the same `mw_bl
 
 ### 3.1 · The original 14-bucket classification (legacy)
 
-Retained for reproducibility of the [§4 matrix](#4--the-block-by-article-type-matrix) and the [mw_block_matrix.py](#methods--corrections-log) detector. Counts reflect overlapping buckets — an entry can be (e.g.) `noun_m` AND `vedic_accented` AND `biographical`.
+Retained for reproducibility of the [§4 matrix](#4-the-block-by-article-type-matrix) and the mw_block_matrix.py detector. Counts reflect overlapping buckets — an entry can be (e.g.) `noun_m` AND `vedic_accented` AND `biographical`.
 
 | Type code | Defined by | Count | % of 286,561 |
 |---|---|--:|--:|
@@ -228,7 +228,7 @@ I propose a 5-tier scale for descriptive use:
 
 Each sample shows: the raw `mw.txt` content, the formal blocks present, the semantic-block mapping, and the fullness tier.
 
-### Sample A: Verbal root — [L9 *aṃś*](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L52) (T5 Elaborate)
+### Sample A: Verbal root — L9 *aṃś* (T5 Elaborate)
 
 ```
 <L>9<pc>1,1<k1>aMS<k2>aMS<e>1
@@ -252,7 +252,7 @@ also occasionally <ab>Ā.</ab> <s>aMSayate</s>, <ls>L.</ls>; also <s>aMSApayati<
 
 **Blocks present: 9.** Tier T5 (Elaborate). Semantic categories covered: S1, S2, S3, S5, S6 — Identity / Form / Grammar / Sense / Evidentiary. The triple `<ls>L.</ls>` is the most striking feature: the root is real but its productive forms are *not textually attested* — a hedge MW makes explicit ([PWG would have named the kosha here](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#lineage-wil--koshas-mw--pwg)).
 
-### Sample B: Masculine noun with etymology — [L10 *áṃśa*](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L55) (T5 Elaborate)
+### Sample B: Masculine noun with etymology — L10 *áṃśa* (T5 Elaborate)
 
 ```
 <L>10<pc>1,1<k1>aMSa<k2>a/MSa<e>1
@@ -275,9 +275,9 @@ fictitiously formed to serve as root), a share, portion, part, party
 | F10 sense gloss | "a share, portion, part, party" | S5 |
 | F17 machine annotation | `<info lex="m"/>` | M |
 
-**Blocks present: 9.** Tier T5. The editorial commentary block here is **classic MW** — interpolated reasoning rejecting the kosha derivation (Sample A) in favour of an IE-comparable one. Note the absence of F07 (`<lang>`) on this entry despite the etymology — the IE cognates for *aṃsa* "shoulder" appear at [L92.1](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L307), a separate entry.
+**Blocks present: 9.** Tier T5. The editorial commentary block here is **classic MW** — interpolated reasoning rejecting the kosha derivation (Sample A) in favour of an IE-comparable one. Note the absence of F07 (`<lang>`) on this entry despite the etymology — the IE cognates for *aṃsa* "shoulder" appear at L92.1, a separate entry.
 
-### Sample C: Compound sub-entry — [L57 *aṃśu-jāla*](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L199) (T3 Typical)
+### Sample C: Compound sub-entry — L57 *aṃśu-jāla* (T3 Typical)
 
 ```
 <L>57<pc>1,2<k1>aMSujAla<k2>aMSu—jAla<e>3
@@ -296,7 +296,7 @@ fictitiously formed to serve as root), a share, portion, part, party
 
 **Blocks present: 5.** Tier T2/T3 boundary. **No citation** (F12 absent), **no etymology** (F06 absent), **no encyclopedic block** (F14/F15 absent). The em-dash in `<k2>` does carry compound-segmentation information — this is *structural* in F01 itself, not a separate block.
 
-### Sample D: IE-etymological — [L92.1 *aṃsa*](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L307) (T5 Elaborate)
+### Sample D: IE-etymological — L92.1 *aṃsa* (T5 Elaborate)
 
 ```
 <L>92.1<pc>1,2<k1>aMsa<k2>aMsa<e>2E
@@ -316,7 +316,7 @@ fictitiously formed to serve as root), a share, portion, part, party
 
 **Blocks present: 5.** Tier T2/T3. Note the absence of F10 (sense gloss) — this entry exists *purely* to carry IE cognates; the gloss "shoulder" appears at a different L-record. This is **the IE-etymological article type** and it has its own atypical block profile.
 
-### Sample E: Botanical — [L72 *aṃśu-matī*](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L244) (T4 Rich)
+### Sample E: Botanical — L72 *aṃśu-matī* (T4 Rich)
 
 ```
 <L>72<pc>1,2<k1>aMSumatI<k2>aMSu—ma/tI<e>3B
@@ -334,7 +334,7 @@ fictitiously formed to serve as root), a share, portion, part, party
 
 **Blocks present: 5.** Tier T3. Note the genre alignment: botanical entries are typically cited from **medical texts** (Suśruta) rather than literary works. F02 (display headword) is suppressed — `<bot>` itself is the display. F04 absent — the `<info lex="inh"/>` tells the renderer to inherit the parent's `<lex>f.</lex>`.
 
-### Sample F: Biographical — [L830 *agastya-mārga*](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L2997) (T4 Rich)
+### Sample F: Biographical — L830 *agastya-mārga* (T4 Rich)
 
 ```
 <L>830<pc>4,3<k1>agastyamArga<k2>agastya—mArga<e>3
@@ -353,7 +353,7 @@ fictitiously formed to serve as root), a share, portion, part, party
 
 **Blocks present: 5.** Tier T3. **Two biographical entities**: the proper-name Sanskrit `<s1>Agastya</s1>` (the sage) and the astronomical `<bio>Canopus</bio>` (the star). This dual encoding is **how MW links Sanskrit mythology to Western astronomy** — a knowledge-bridging move worth flagging in any framework analysis.
 
-### Sample G: Lexicographer-only — [L8 *a-ṛṇin*](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L49) (T2 Compact)
+### Sample G: Lexicographer-only — L8 *a-ṛṇin* (T2 Compact)
 
 ```
 <L>8<pc>1,1<k1>afRin<k2>a-fRin<e>1
@@ -373,7 +373,7 @@ fictitiously formed to serve as root), a share, portion, part, party
 
 **Blocks present: 6.** Tier T3. The **minimal lex-only article**: 1 sense, 1 citation, that citation is `L.`. There are 38,414 such entries — 13% of MW.
 
-### Sample H: Continuation — [L11 *áṃśa* sub-entry](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L58) (T1 Vestigial)
+### Sample H: Continuation — L11 *áṃśa* sub-entry (T1 Vestigial)
 
 ```
 <L>11<pc>1,1<k1>aMSa<k2>a/MSa<e>1A
@@ -386,7 +386,7 @@ fictitiously formed to serve as root), a share, portion, part, party
 | F01 header | `<L>11<pc>1,1<k1>aMSa<k2>a/MSa<e>1A` | S1, S2 |
 | F10 sense gloss | "partition, inheritance" | S5 |
 
-**Blocks present: 2.** Tier T1 (Vestigial). Note F02 (display headword) is **absent** — the continuation inherits its headword from the preceding `<e>1` entry [L10](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L55). This **headword-suppression** is a defining feature of `<e>1A`: 66.1% of continuation entries lack F02 (1 − 33.9% from the matrix).
+**Blocks present: 2.** Tier T1 (Vestigial). Note F02 (display headword) is **absent** — the continuation inherits its headword from the preceding `<e>1` entry L10. This **headword-suppression** is a defining feature of `<e>1A`: 66.1% of continuation entries lack F02 (1 − 33.9% from the matrix).
 
 ---
 
@@ -451,7 +451,7 @@ This working notes file *depends on* and *extends* the existing docs-pass conten
 
 ---
 
-*Last computed: 2026-05-23 against [mw.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt). Python source: `/tmp/mw_block_matrix.py` in [the docs-pass build artifacts](https://github.com/sanskrit-lexicon/MWS/tree/docs-pass).*
+*Last computed: 2026-05-23 against mw.txt. Python source: `/tmp/mw_block_matrix.py` in [the docs-pass build artifacts](https://github.com/sanskrit-lexicon/MWS/tree/docs-pass).*
 {% endraw %}
 
 _Dr. Mārcis Gasūns_

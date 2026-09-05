@@ -45,7 +45,7 @@ and the SanskritLexicography 12-month publication roadmap (P1–P6).
 
 | Metric | Value |
 |---|--:|
-| Records in [mw.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) | 286,561 |
+| Records in mw.txt | 286,561 |
 | Open issues | 34 |
 | Closed issues (historical) | 157 |
 | Closed in last 12 months (velocity signal) | 4 |

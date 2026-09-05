@@ -24,7 +24,7 @@ Atkins & Rundell's *Oxford Guide to Practical Lexicography* (2008) is the standa
 
 This is precisely why the framework is useful. Atkins & Rundell offer a vocabulary for naming and rating lexicographic *choices* — and MW's choices are crisp, consistent, and recoverable from the digital edition. Applying the framework backwards — from finished product to inferred design decision — lets us read MW as a coherent system rather than as a curiosity. Where A&R's prescriptions and MW's practice diverge, we get to see what 19th-century scholarly Sanskrit lexicography assumed about its readers.
 
-The data source for this paper is our companion [working notes](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md), built from the [CDSL `mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) digital edition (286,561 records).
+The data source for this paper is our companion [working notes](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md), built from the CDSL `mw.txt` digital edition (286,561 records).
 
 ## 2. The framework in brief
 
@@ -66,7 +66,7 @@ In A&R terms: MW exhibits a **maximally explicit headword inventory policy** for
 
 A&R's chapter 6 ("Splitting") discusses how to divide a polysemous word into senses. The fundamental tension is between **lumping** (one entry, many senses inside) and **splitting** (multiple entries). A&R recommend lumping for learners (fewer senses, more memorable) and splitting for scholars (each nuance gets its own treatment).
 
-MW uses a **distinctive mixed strategy**: the polysemous lemma gets a single `<e>1` entry **and** a tail of `<e>1A` continuation entries. The paradigmatic case is [L10 *áṃśa*](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L55), whose principal sense ("a share, portion, part, party") sits at `<L>10` and whose nine further senses ([L11–L19](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L58-L82)) follow as separate `<L>` records with `<e>1A`. The continuation senses extend *áṃśa* to: partition, share of booty, earnest money, stake (with `<ls>RV. v, 86, 5</ls>`), a lot, fraction denominator, latitude degree, day, and the proper name of an Āditya.
+MW uses a **distinctive mixed strategy**: the polysemous lemma gets a single `<e>1` entry **and** a tail of `<e>1A` continuation entries. The paradigmatic case is L10 *áṃśa*, whose principal sense ("a share, portion, part, party") sits at `<L>10` and whose nine further senses (L11–L19) follow as separate `<L>` records with `<e>1A`. The continuation senses extend *áṃśa* to: partition, share of booty, earnest money, stake (with `<ls>RV. v, 86, 5</ls>`), a lot, fraction denominator, latitude degree, day, and the proper name of an Āditya.
 
 This is **neither lumping nor splitting in A&R's sense** — it is a *third* option: physically separate sub-entries that share a headword and rely on adjacency for cohesion. The 9,294 `<e>1A` entries in mw.txt all follow this pattern.
 
@@ -87,7 +87,7 @@ A&R's chapter 7 distinguishes three definition styles:
 - **Analytic definition** (Aristotelian genus-and-differentia: "A part; especially, a part allotted or received").
 - **Translation equivalent** (the bilingual norm: "*aṃśa* = share, portion, part, party").
 
-MW uses the **third** style — comma-separated translation equivalents — almost exclusively. From the [L10 entry](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L55):
+MW uses the **third** style — comma-separated translation equivalents — almost exclusively. From the L10 entry:
 
 > *aṃśa*: m. (probably fr. √ 1. *aś*, perf. *ān-áṃśa*, and not from the above √ *aṃś* fictitiously formed to serve as root), **a share, portion, part, party**.
 

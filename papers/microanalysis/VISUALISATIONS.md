@@ -14,7 +14,7 @@ Quick recap of the quantitative dimensions available:
 
 | Dimension | Source | Cardinality |
 |---|---|---:|
-| Total entries | [mw.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) | 286,561 |
+| Total entries | mw.txt | 286,561 |
 | Formal blocks | [MICROANALYSIS.md §1](MICROANALYSIS.md#1--formal-block-inventory-18-blocks) | 18 |
 | Semantic blocks | [MICROANALYSIS.md §2](MICROANALYSIS.md#2--semantic-block-taxonomy-8-categories) | 8 |
 | Article types | [MICROANALYSIS.md §3](MICROANALYSIS.md#3--article-type-typology-14-types) | 14 |
@@ -296,13 +296,13 @@ The choice of normalisation strategy materially affects what the visualisations 
 
 | Dict | Entries | `<ls>` tags | Unique `<ls>` labels | `<ls>L.</ls>` |
 |---|--:|--:|--:|--:|
-| [MW](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) | **286,561** | **311,932** | 821 | **40,212** |
-| [PWG](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/pwg/pwg.txt) | 123,366 | **570,817** | **2,420** | 0 |
-| [PWK](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/pw/pw.txt) | 170,556 | 86,750 | 915 | 0 |
-| [AP](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/ap/ap.txt) | 90,654 | 62,656 | 608 | 1 |
-| [VCP](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/vcp/vcp.txt) | 50,135 | 0 | 0 | 0 |
-| [WIL](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/wil/wil.txt) | 44,577 | 230 | 5 | 0 |
-| [SKD](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/skd/skd.txt) | 42,531 | 0 | 0 | 0 |
+| MW | **286,561** | **311,932** | 821 | **40,212** |
+| PWG | 123,366 | **570,817** | **2,420** | 0 |
+| PWK | 170,556 | 86,750 | 915 | 0 |
+| AP | 90,654 | 62,656 | 608 | 1 |
+| VCP | 50,135 | 0 | 0 | 0 |
+| WIL | 44,577 | 230 | 5 | 0 |
+| SKD | 42,531 | 0 | 0 | 0 |
 
 **Visual story this tells:** "MW is the largest single-volume Sanskrit-English dictionary, but PWG (across its 7-volume run) carries 1.8× more `<ls>` citations across nearly 3× as many distinct source labels."
 

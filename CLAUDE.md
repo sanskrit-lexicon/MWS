@@ -5,7 +5,7 @@ _Created: 06-05-2026 · Last updated: 20-08-2026_
 **MWS** is the correction, enhancement, and tooling layer for the Cologne
 digitisation of Monier-Williams, *A Sanskrit-English Dictionary* (1899).
 Canonical digitised source is
-[`csl-orig/v02/mw/mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt)
+`csl-orig/v02/mw/mw.txt`
 (SLP1), a sibling checkout on this machine (`../csl-orig/v02/mw/mw.txt`).
 Generated XML (`mw.xml` / `monier.xml`) is a
 [csl-pywork](https://github.com/sanskrit-lexicon/csl-pywork) build product of

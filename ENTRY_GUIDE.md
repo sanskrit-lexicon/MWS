@@ -7,7 +7,7 @@ A practical reference for reading and interpreting entries in `mw.txt`. Worked
 examples and annotations verified against the live `csl-orig/v02/mw/mw.txt`.
 
 For the org-wide primer (SLP1 cheatsheet, abbreviation lookup) see the
-[Entry Reading Primer](https://github.com/sanskrit-lexicon/csl-homepage/blob/master/docs/ENTRY_READING_PRIMER.md).
+Entry Reading Primer.
 
 ---
 
@@ -99,7 +99,7 @@ The transcoders live in [`mwtranscode/`](https://github.com/sanskrit-lexicon/MWS
 | In `<k1>` lookup key | No separator | `aMSujAla` |
 | In `<k2>` display key | Em-dash `—` between members | `aMSu—jAla` |
 | In IAST prose | Hyphen `-` | *aṃśu-jāla* |
-| `<e>` hierarchy code | `3` (or `3A`/`3B`/`3C`) | [L57 *aṃśu-jāla*](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L199) |
+| `<e>` hierarchy code | `3` (or `3A`/`3B`/`3C`) | L57 *aṃśu-jāla* |
 
 ### Record references
 
@@ -109,8 +109,8 @@ The transcoders live in [`mwtranscode/`](https://github.com/sanskrit-lexicon/MWS
 | Sub-entry | `<L>N.NNN` with decimal | `<L>4.020`, `<L>4.022` |
 | In prose | `L<number>` (no period) | `L9`, `L57`, `L4.020` |
 | Page/column source | `<pc>P,C` (data) → "p. P, col. C" (prose) | `<pc>1,2` → p. 1, col. 2 |
-| Line number in GitHub URL | `mw.txt#L<line>` (raw file line, not record) | [`mw.txt#L52`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L52) for record L9 |
-| Range of records | GitHub line-range syntax | [`mw.txt#L58-L82`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L58-L82) for L11–L19 |
+| Line number in GitHub URL | `mw.txt#L<line>` (raw file line, not record) | `mw.txt#L52` for record L9 |
+| Range of records | GitHub line-range syntax | `mw.txt#L58-L82` for L11–L19 |
 
 ### Citation conventions
 
@@ -282,7 +282,7 @@ Requests to add a new scan link use the [**Link target** issue template](https:/
 
 ### Coverage of `<ls>` citations
 
-Computed from the 2026-05 audit of [mw.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) cross-referenced with [linkmwauthorities_init.txt](https://github.com/sanskrit-lexicon/MWS/blob/master/mwauthorities/linkmwauthorities_init.txt) and [tooltip.txt](https://github.com/sanskrit-lexicon/MWS/blob/master/mwauthorities/tooltip.txt).
+Computed from the 2026-05 audit of mw.txt cross-referenced with [linkmwauthorities_init.txt](https://github.com/sanskrit-lexicon/MWS/blob/master/mwauthorities/linkmwauthorities_init.txt) and [tooltip.txt](https://github.com/sanskrit-lexicon/MWS/blob/master/mwauthorities/tooltip.txt).
 
 | Metric | Value |
 |---|---|
@@ -369,7 +369,7 @@ These are highly-cited `<ls>` abbreviations that have **no authority record** in
 
 ## Structural & content stats
 
-From the 2026-05 audit of [mw.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt).
+From the 2026-05 audit of mw.txt.
 
 ### Entry hierarchy distribution
 
@@ -386,7 +386,7 @@ From the 2026-05 audit of [mw.txt](https://github.com/sanskrit-lexicon/csl-orig/
 | `<e>3A` | Compound sub-variant | 16,542 | 5.8% |
 | `<e>3B` | Compound sub-variant | 14,943 | 5.2% |
 | `<e>1B` | Top-level variant | 9,703 | 3.4% |
-| `<e>1A` | Continuation sense (sees [L11–L19](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L58-L82) of *áṃśa*) | 9,294 | 3.2% |
+| `<e>1A` | Continuation sense (sees L11–L19 of *áṃśa*) | 9,294 | 3.2% |
 | `<e>3C` | Compound sub-variant | 781 | 0.3% |
 | `<e>1C` | Top-level variant | 637 | 0.2% |
 | (others) | smaller categories | < 600 each | < 0.5% |
