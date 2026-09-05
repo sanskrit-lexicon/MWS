@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # `<ls>L.</ls>` → DCS corpus verification
 
 MW marks **40,212** senses `<ls>L.</ls>` = *"lexicographers only"* — attested
@@ -16,7 +18,7 @@ Lemma-level join, no transcoding (MW `<k1>` and DCS lemmas are both SLP1):
 1. Group MW records by headword `<k1>`; tally `L.` vs non-`L.` `<ls>` and uncited glosses.
 2. **Strict purely-lexicographic lemma** = every `<ls>` is `L.`, *and* no uncited
    gloss or cross-ref stub. (The strict filter matters — see the method note in
-   [SUMMARY.md](SUMMARY.md); a coarse test misclassifies common words like
+   [SUMMARY.md](https://github.com/sanskrit-lexicon/MWS/blob/master/lexicographer_dcs/SUMMARY.md); a coarse test misclassifies common words like
    `anta`/`anila` that leave their main sense uncited.)
 3. Look each up in [`dcs_lemma_summary.json`](../../VisualDCS/dcs_lemma_summary.json)
    (DCS-2021, 83,239 lemmas, frequency-banded).
@@ -40,24 +42,24 @@ The 2026 join transcodes DCS IAST → SLP1 (validated: only 11/5,871 of the 2021
 drop out, all plain-ASCII so not a transcode failure).
 
 ✅ **Fixed 2026-06-13 — the 31.4% (DCS-2026) cell is now computed** (CODE_REVIEW #6). Both sides of the stability line are now computed from the loaded data
-([`ls_L_dcs2026.py:118`](ls_L_dcs2026.py#L118), [CODE_REVIEW.md](../papers/CODE_REVIEW.md) #6),
+([`ls_L_dcs2026.py:118`](ls_L_dcs2026.py#L118), [CODE_REVIEW.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/CODE_REVIEW.md) #6),
 so the figure tracks a DCS refresh instead of going stale.
 
 Strongest tier = bands 2–3 (rare/uncommon), mostly plant/medical/technical terms
 MW had only from kośas, now corpus-attested: `SAlaparRī` (Desmodium, 14×), `BfNgaja`
 (Agallochum, 10×), `AvAri` ("a shop", 18×), `ISAnī` (silk-cotton tree, 21×). See
-[SUMMARY.md](SUMMARY.md) / [SUMMARY_2026.md](SUMMARY_2026.md) for bands and caveats
+[SUMMARY.md](https://github.com/sanskrit-lexicon/MWS/blob/master/lexicographer_dcs/SUMMARY.md) / [SUMMARY_2026.md](https://github.com/sanskrit-lexicon/MWS/blob/master/lexicographer_dcs/SUMMARY_2026.md) for bands and caveats
 (band-1 hapax = weak; top-band short strings = homograph collisions).
 
 ## Files
 
 | File | What |
 |---|---|
-| [`ls_L_dcs_pilot.py`](ls_L_dcs_pilot.py) | the DCS-2021 analysis (re-run: `python ls_L_dcs_pilot.py`) |
-| [`ls_L_dcs2026.py`](ls_L_dcs2026.py) | DCS-2026 re-join with IAST→SLP1 transcoder (`python ls_L_dcs2026.py`) |
+| [`ls_L_dcs_pilot.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/lexicographer_dcs/ls_L_dcs_pilot.py) | the DCS-2021 analysis (re-run: `python ls_L_dcs_pilot.py`) |
+| [`ls_L_dcs2026.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/lexicographer_dcs/ls_L_dcs2026.py) | DCS-2026 re-join with IAST→SLP1 transcoder (`python ls_L_dcs2026.py`) |
 | `purely_lexicographic_attested.csv` / `_2026.csv` | retire-candidates: lemma, L-sense count, DCS band/tokens, gloss |
 | `purely_lexicographic_unattested.csv` | hedge stands (corpus-absent, 2021) |
-| [`SUMMARY.md`](SUMMARY.md) / [`SUMMARY_2026.md`](SUMMARY_2026.md) | headline numbers, bands, interpretation, caveats |
+| [`SUMMARY.md`](https://github.com/sanskrit-lexicon/MWS/blob/master/lexicographer_dcs/SUMMARY.md) / [`SUMMARY_2026.md`](https://github.com/sanskrit-lexicon/MWS/blob/master/lexicographer_dcs/SUMMARY_2026.md) | headline numbers, bands, interpretation, caveats |
 
 ## Next (sense-level, not yet done)
 
@@ -66,3 +68,5 @@ hedged **sense** (*sense-next*) needs sense-tagged corpus data — and the 10,26
 *partially*-hedged lemmas (excluded here) need exactly that, since their lemma is
 already text-attested in other senses. A hand-verified band-3 subset (~180 lemmas)
 would be the publication-ready core for P3.
+
+_Dr. Mārcis Gasūns_

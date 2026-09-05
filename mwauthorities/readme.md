@@ -1,3 +1,5 @@
+_Created: 13-07-2016 · Last updated: 05-09-2026_
+
 
 
 The MWWorksAuthorsCurrentMarkup3.xml is the reference document for the
@@ -50,4 +52,4 @@ This is derived (by program tooltip.py) from mwauth.txt.  It contains
     Devanagari, or other encodings of Sanskrit words denoted by `<slp>` tag.
 * type of literary source, based on the 4th field of mwauth.txt.
 
-
+_Dr. Mārcis Gasūns_

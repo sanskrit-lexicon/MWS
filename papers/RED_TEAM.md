@@ -1,9 +1,11 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # Adversarial red-team — 2026-06-13 session findings
 
 > **Note (post-fix):** the numbers here are the *pre-fix* state. A later code review found
 > and **fixed** 15 script bugs; corrected figures (e.g. Register-B 46.7%→40.5%, class
 > conflicts 32→26; the root-crosswalk 809/550 were correct, only a label was off) are in
-> [CODE_REVIEW.md](CODE_REVIEW.md).
+> [CODE_REVIEW.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/CODE_REVIEW.md).
 
 A hostile-reviewer pass over the session's eight deliverables: where would a
 *Dictionaries* / IJL referee break each? Severity: 🔴 **needs work** (a referee
@@ -95,3 +97,5 @@ to hedge: `hui` ("role not confirmed" — good), the `<div n="P">` reading, and
   a *surprising number*, never by design. Where it was **not** surprising, it may
   still lurk (the root bare-root union; SKD de-inflection precision). A clean
   finding is not proof the control was unnecessary.
+
+_Dr. Mārcis Gasūns_

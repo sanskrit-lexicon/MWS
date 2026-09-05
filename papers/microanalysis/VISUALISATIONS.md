@@ -1,8 +1,10 @@
+_Created: 23-05-2026 · Last updated: 05-09-2026_
+
 # Visualisation catalogue — MW1899 microanalysis and beyond
 
-**Planning document.** A comprehensive catalogue of visualisations the data collected for the [microanalysis](README.md) supports, organised by purpose, with implementation notes and a tiered prioritisation. Useful for (a) figure selection for the consolidated [paper](PAPER.md) (body + [Appendices A–C](PAPER.md#appendix-a--the-wiegand-theoretic-reading-condensed)), (b) embedding in the docs-pass branch (DICT_PROFILE / ENTRY_GUIDE / ROADMAP), and (c) the reusable Phase-4 pattern for other CDSL dictionaries.
+**Planning document.** A comprehensive catalogue of visualisations the data collected for the [microanalysis](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/README.md) supports, organised by purpose, with implementation notes and a tiered prioritisation. Useful for (a) figure selection for the consolidated [paper](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md) (body + [Appendices A–C](PAPER.md#appendix-a--the-wiegand-theoretic-reading-condensed)), (b) embedding in the docs-pass branch (DICT_PROFILE / ENTRY_GUIDE / ROADMAP), and (c) the reusable Phase-4 pattern for other CDSL dictionaries.
 
-Data source: [MICROANALYSIS.md](MICROANALYSIS.md) and the docs-pass material in the parent directory.
+Data source: [MICROANALYSIS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md) and the docs-pass material in the parent directory.
 
 ---
 
@@ -18,17 +20,17 @@ Quick recap of the quantitative dimensions available:
 | Article types | [MICROANALYSIS.md §3](MICROANALYSIS.md#3--article-type-typology-14-types) | 14 |
 | Block-by-type matrix | [MICROANALYSIS.md §4](MICROANALYSIS.md#4--the-block-by-article-type-matrix) | 18 × 14 = 252 cells |
 | Fullness tiers | [MICROANALYSIS.md §5](MICROANALYSIS.md#5--fullness-scale) | 5 |
-| `<ls>` citation totals | [ENTRY_GUIDE](../../ENTRY_GUIDE.md#coverage-of-ls-citations) | 311,932 across 821 unique abbreviations |
-| Top sources | [ENTRY_GUIDE](../../ENTRY_GUIDE.md#top-25-most-cited-sources) | top 25 with counts + periods |
-| Period buckets | [ENTRY_GUIDE](../../ENTRY_GUIDE.md#period-breakdown) | 14 (Epic, Vedic, Lex, Editorial, …) |
-| `<lang>` IE cognates | [ENTRY_GUIDE](../../ENTRY_GUIDE.md#ie-cognate-density--lang-breakdown) | 112 languages, 3,960 tags |
-| `<e>` hierarchy codes | [ENTRY_GUIDE](../../ENTRY_GUIDE.md#entry-hierarchy-distribution) | 21 sub-codes |
-| `<lex>` distribution | [ENTRY_GUIDE](../../ENTRY_GUIDE.md#entry-type-breakdown-by-content) | m./f./n./mfn./ind./mn./… |
-| Cross-dict comparison | [DICT_PROFILE Same entry](../../DICT_PROFILE.md#same-entry-across-seven-dictionaries) | MW / PWG / AP / WIL / SKD |
-| Kosha lineage data | [DICT_PROFILE Lineage](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) | 6 named kosha sources in PWG vs 1 (`L.`) in MW |
-| Issue tracker | [ROADMAP](../../ROADMAP.md) | 34 open, 157 closed, 9 label classes |
-| Authority coverage | [ENTRY_GUIDE](../../ENTRY_GUIDE.md#coverage-of-ls-citations) | 232 / 821 with records (28.3%) |
-| Timeline anchors | [DICT_PROFILE Historical background](../../DICT_PROFILE.md#historical-background) | 8 events from ~6th c. to 2024 |
+| `<ls>` citation totals | [ENTRY_GUIDE](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md#coverage-of-ls-citations) | 311,932 across 821 unique abbreviations |
+| Top sources | [ENTRY_GUIDE](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md#top-25-most-cited-sources) | top 25 with counts + periods |
+| Period buckets | [ENTRY_GUIDE](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md#period-breakdown) | 14 (Epic, Vedic, Lex, Editorial, …) |
+| `<lang>` IE cognates | [ENTRY_GUIDE](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md#ie-cognate-density--lang-breakdown) | 112 languages, 3,960 tags |
+| `<e>` hierarchy codes | [ENTRY_GUIDE](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md#entry-hierarchy-distribution) | 21 sub-codes |
+| `<lex>` distribution | [ENTRY_GUIDE](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md#entry-type-breakdown-by-content) | m./f./n./mfn./ind./mn./… |
+| Cross-dict comparison | [DICT_PROFILE Same entry](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#same-entry-across-seven-dictionaries) | MW / PWG / AP / WIL / SKD |
+| Kosha lineage data | [DICT_PROFILE Lineage](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) | 6 named kosha sources in PWG vs 1 (`L.`) in MW |
+| Issue tracker | [ROADMAP](https://github.com/sanskrit-lexicon/MWS/blob/master/ROADMAP.md) | 34 open, 157 closed, 9 label classes |
+| Authority coverage | [ENTRY_GUIDE](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md#coverage-of-ls-citations) | 232 / 821 with records (28.3%) |
+| Timeline anchors | [DICT_PROFILE Historical background](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#historical-background) | 8 events from ~6th c. to 2024 |
 
 ---
 
@@ -62,15 +64,15 @@ The 18 × 14 block-by-article-type matrix from [MICROANALYSIS.md §4](MICROANALY
 
 ## Category 3 · Cross-dictionary comparison
 
-MW against PWG / AP / WIL / SKD — the comparative dimension of the [Beyond PWG analysis](../../DICT_PROFILE.md#beyond-pwg--what-mw-contributes).
+MW against PWG / AP / WIL / SKD — the comparative dimension of the [Beyond PWG analysis](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#beyond-pwg--what-mw-contributes).
 
 | # | Visualisation | Data | What it shows | Effort | Format |
 |--:|---|---|---|---|---|
 | 3.1 | **Multi-bar comparison: 5 dicts × 4 metrics** | records (MW 286K / PWG 123K / AP 91K / WIL 45K / SKD 43K) + `<ls>` totals + kosha cites + L. cites | The "block economy" claim quantified across the 5 dicts in one chart | Low | matplotlib grouped bar |
 | 3.2 | **Parallel-coordinates / slope chart** | 5 dicts × 6 normalised metrics | Tracks each dictionary's "fingerprint" across dimensions; reveals MW's atypical L.-spike | Medium | D3 parallel-coords, Plotly |
 | 3.3 | **Microstructure fingerprints (small multiples)** | 5 dicts × 18 block frequencies | Each dict gets a small heat-strip placed side by side — instant visual comparison | Medium | matplotlib subplots grid |
-| 3.4 | **Sankey: PWG kosha cites → MW `L.` collapse** | PWG `H.` 17,337 + `AK.` 14,473 + `MED.` 13,055 + `H. an.` 9,771 + `TRIK.` 8,365 + `HALĀY.` 5,114 → MW `L.` 40,213 | **The definitive visualisation of the lineage finding.** Six PWG flows merging into one MW flow. Would be the killer figure of the [Lineage section](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) | Medium | Plotly Sankey, D3 Sankey |
-| 3.5 | **Side-by-side entry-anatomy** | the *aṃśa* entry across 5 dicts | Pull from [DICT_PROFILE Same entry](../../DICT_PROFILE.md#same-entry-across-seven-dictionaries) — visualise as 5 columns with block annotations | Medium | Hand-crafted SVG or HTML |
+| 3.4 | **Sankey: PWG kosha cites → MW `L.` collapse** | PWG `H.` 17,337 + `AK.` 14,473 + `MED.` 13,055 + `H. an.` 9,771 + `TRIK.` 8,365 + `HALĀY.` 5,114 → MW `L.` 40,213 | **The definitive visualisation of the lineage finding.** Six PWG flows merging into one MW flow. Would be the killer figure of the [Lineage section](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) | Medium | Plotly Sankey, D3 Sankey |
+| 3.5 | **Side-by-side entry-anatomy** | the *aṃśa* entry across 5 dicts | Pull from [DICT_PROFILE Same entry](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#same-entry-across-seven-dictionaries) — visualise as 5 columns with block annotations | Medium | Hand-crafted SVG or HTML |
 
 ---
 
@@ -121,7 +123,7 @@ MW against PWG / AP / WIL / SKD — the comparative dimension of the [Beyond PWG
 | # | Visualisation | Data | Where | Effort | Format |
 |--:|---|---|---|---|---|
 | 8.1 | **CDSL pipeline architecture** | csl-orig → csl-pywork → csl-sqlite → csl-app | Already partly in [csl-sqlite ARCHITECTURE.md](https://github.com/sanskrit-lexicon/csl-sqlite/blob/docs-pass/ARCHITECTURE.md); could be extracted as standalone figure | Low | **Mermaid `graph LR`** |
-| 8.2 | **Per-issue correction workflow** | temp_mw_N.txt → generate_dict.sh → xmlchk_xampp.sh → commit | Already in [CONTRIBUTING.md](../../CONTRIBUTING.md#correction-workflow-per-issue); visualise as sequence | Low | Mermaid `sequenceDiagram` |
+| 8.2 | **Per-issue correction workflow** | temp_mw_N.txt → generate_dict.sh → xmlchk_xampp.sh → commit | Already in [CONTRIBUTING.md](https://github.com/sanskrit-lexicon/MWS/blob/master/CONTRIBUTING.md#correction-workflow-per-issue); visualise as sequence | Low | Mermaid `sequenceDiagram` |
 | 8.3 | **Roadmap burndown / Gantt** | 34 open issues × 4 quarters | Q1/Q2/Q3 plan vs realistic 4-per-year velocity | Low | Mermaid `gantt` |
 | 8.4 | **Issue-closure velocity (historical)** | 157 closed issues with `closedAt` dates | Closures per quarter over the project's lifetime | Low | Stepped line / bar |
 
@@ -157,10 +159,10 @@ High impact, low effort. These are the four images that would most strengthen th
 
 | Rank | Visualisation | Why | Best home |
 |:--:|---|---|---|
-| **#1** | [2.1] 18 × 14 block × type heatmap | Central figure of the paper. The "what is MW's microstructure" image | `papers/microanalysis/figures/heatmap.svg` referenced from [MICROANALYSIS.md §4](MICROANALYSIS.md#4--the-block-by-article-type-matrix) and [PAPER.md](PAPER.md) |
-| **#2** | [3.4] PWG kosha → MW `L.` collapse Sankey | Killer figure for the lineage finding. Visually proves the kosha-collapse claim | `papers/microanalysis/figures/lineage-sankey.svg` referenced from [DICT_PROFILE Lineage section](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) |
-| **#3** | [4.1] Lexicographic timeline (Mermaid) | Inline-renderable in GitHub markdown; zero infrastructure; orients the lineage for any reader | Embedded directly in [DICT_PROFILE Historical background](../../DICT_PROFILE.md#historical-background) |
-| **#4** | [1.1] Article-type treemap | Single image for the dictionary's composition — the "what is MW?" overview | `papers/microanalysis/figures/typology-treemap.svg` referenced from [DICT_PROFILE Article types](../../DICT_PROFILE.md#article-types--what-youll-encounter) |
+| **#1** | [2.1] 18 × 14 block × type heatmap | Central figure of the paper. The "what is MW's microstructure" image | `papers/microanalysis/figures/heatmap.svg` referenced from [MICROANALYSIS.md §4](MICROANALYSIS.md#4--the-block-by-article-type-matrix) and [PAPER.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md) |
+| **#2** | [3.4] PWG kosha → MW `L.` collapse Sankey | Killer figure for the lineage finding. Visually proves the kosha-collapse claim | `papers/microanalysis/figures/lineage-sankey.svg` referenced from [DICT_PROFILE Lineage section](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) |
+| **#3** | [4.1] Lexicographic timeline (Mermaid) | Inline-renderable in GitHub markdown; zero infrastructure; orients the lineage for any reader | Embedded directly in [DICT_PROFILE Historical background](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#historical-background) |
+| **#4** | [1.1] Article-type treemap | Single image for the dictionary's composition — the "what is MW?" overview | `papers/microanalysis/figures/typology-treemap.svg` referenced from [DICT_PROFILE Article types](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#article-types--what-youll-encounter) |
 
 **Total effort:** ~1–2 hours with matplotlib + Plotly + Mermaid inline.
 
@@ -220,7 +222,7 @@ Estimated effort if undertaken: ~2–4 weeks for a polished microsite.
 
 ## Reusability for Phase 4 (other CDSL dicts)
 
-Each visualisation type generalises to any CDSL dictionary by re-running the block-detection script ([`mw_block_matrix.py`](../microanalysis/MICROANALYSIS.md#9--open-analytical-questions-for-the-paper)) against that dict's data file. The pattern:
+Each visualisation type generalises to any CDSL dictionary by re-running the block-detection script ([`mw_block_matrix.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md#9--open-analytical-questions-for-the-paper)) against that dict's data file. The pattern:
 
 ```
 For each CDSL dict (PWG, AP, WIL, SKD, GRA, BHS, +the four koshas):
@@ -271,7 +273,7 @@ The CSS strategy lets us:
 - Tier 1 figures (heatmap, Sankey, timeline, treemap) are produced **twice**: once as static SVG with embedded palette, once as interactive HTML/JS.
 - Tier 3 items (type comparator, entry browser, citation tracer) become *deliverables*, not "future-if-funded."
 - Data binding strategy: the data lives in JSON files (`papers/microanalysis/figures/data/`) consumed by both the static renderer (Python) and the interactive renderer (D3 / Vega-Lite).
-- Hosting target: resolved in [decisions/MICROSITE.md](decisions/MICROSITE.md) (new `csl-atlas` repo, GitHub Pages).
+- Hosting target: resolved in [decisions/MICROSITE.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/MICROSITE.md) (new `csl-atlas` repo, GitHub Pages).
 
 ### Decision 3 — Bilingual labels: English + Russian
 
@@ -284,7 +286,7 @@ The CSS strategy lets us:
 - Interactive microsite has a locale-switcher control.
 - Sanskrit terms (lemmas, abbreviations, tag names) are preserved in their conventional rendering (IAST in italic, SLP1 in code blocks); they are not translated, only the surrounding labels are.
 
-The exact convention for how Sanskrit terms appear inside Russian text is resolved in [decisions/I18N.md](decisions/I18N.md).
+The exact convention for how Sanskrit terms appear inside Russian text is resolved in [decisions/I18N.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/I18N.md).
 
 ### Decision 4 — Cross-dictionary normalisation: detailed analysis
 
@@ -390,7 +392,7 @@ Counts unique `<k1>` SLP1-form values across the entire dict, ignoring homophone
 
 For each source X, what fraction of each dict's entries cite X at all?
 
-**WIL is excluded from this table** (always 0% — Wilson does not use the `<ls>` apparatus; see [DICT_PROFILE Lineage](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) for why). Per [@gasyoun](https://github.com/gasyoun)'s request, **PWK is included in the comparison** to show the middle term between PWG (kosha-rich) and MW (L.-collapsed):
+**WIL is excluded from this table** (always 0% — Wilson does not use the `<ls>` apparatus; see [DICT_PROFILE Lineage](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) for why). Per [@gasyoun](https://github.com/gasyoun)'s request, **PWK is included in the comparison** to show the middle term between PWG (kosha-rich) and MW (L.-collapsed):
 
 | Source | MW | PWG | PWK | AP |
 |---|--:|--:|--:|--:|
@@ -496,7 +498,7 @@ papers/microanalysis/figures/
 
 ```
 
-Each file is self-contained Markdown with a single Mermaid code-fence. GitHub renders both natively. Cross-linking between English/Russian variants is via plain Markdown `[Русская версия](figures/timeline-ru.md)` / `[English version](figures/timeline-en.md)`.
+Each file is self-contained Markdown with a single Mermaid code-fence. GitHub renders both natively. Cross-linking between English/Russian variants is via plain Markdown `[Русская версия](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/figures/timeline-ru.md)` / `[English version](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/figures/timeline-en.md)`.
 
 **Rationale (vs the alternative parallel-blocks approach):**
 - Cleaner: each file presents the diagram in one language only — no visual clutter.
@@ -656,7 +658,7 @@ Aligns with the [W3C SVG accessibility spec](https://www.w3.org/TR/SVG2/struct.h
 
 ### Decision 15 — Figure numbering: single continuous sequence
 
-Now that the study is **one paper** ([PAPER.md](PAPER.md)), figures are numbered in a single continuous sequence (Fig 1, Fig 2, …) across the body and the appendices — appendix figures may carry an `A`/`B`/`C` prefix (Fig A1, Fig B1) per the standard journal convention. Earlier drafts numbered per-paper; that convention is retired with the consolidation ([DOUBTS.md D4](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking)).
+Now that the study is **one paper** ([PAPER.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md)), figures are numbered in a single continuous sequence (Fig 1, Fig 2, …) across the body and the appendices — appendix figures may carry an `A`/`B`/`C` prefix (Fig A1, Fig B1) per the standard journal convention. Earlier drafts numbered per-paper; that convention is retired with the consolidation ([DOUBTS.md D4](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking)).
 
 A separate **stable figure-ID manifest** (`papers/microanalysis/figures/manifest.json`) maps each figure's slug → its number. This survives reviewer-driven renumbering.
 
@@ -943,6 +945,8 @@ Both share the same underlying data + palette + locale strings.
 
 ## Status
 
-This document is the **planning catalogue**. None of the visualisations listed are yet built. Tier-1 (4 figures) is the recommended next step. The Python data is already in [MICROANALYSIS.md](MICROANALYSIS.md) and the working scripts are at [`mw_block_matrix.py`](MICROANALYSIS.md) (regenerable in seconds against any updated mw.txt).
+This document is the **planning catalogue**. None of the visualisations listed are yet built. Tier-1 (4 figures) is the recommended next step. The Python data is already in [MICROANALYSIS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md) and the working scripts are at [`mw_block_matrix.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md) (regenerable in seconds against any updated mw.txt).
 
-When figures are built, they should land in `papers/microanalysis/figures/` (created on first commit) and be referenced from both MICROANALYSIS.md and the [paper](PAPER.md), plus DICT_PROFILE.md where they support the cross-dict and lineage sections.
+When figures are built, they should land in `papers/microanalysis/figures/` (created on first commit) and be referenced from both MICROANALYSIS.md and the [paper](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md), plus DICT_PROFILE.md where they support the cross-dict and lineage sections.
+
+_Dr. Mārcis Gasūns_

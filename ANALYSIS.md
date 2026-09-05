@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # MW analysis modules — index & architecture notes
 
 Read-only analytical studies of `mw.txt` (and joins to external corpora) added
@@ -43,7 +45,7 @@ Known debt (from the 2026-06-13 architecture review):
    the IAST→SLP1 `_MAP` has **diverged** between `ls_L_dcs2026.py` and
    `link_candidates.py` (CODE_REVIEW #14), and the META "non-text citation" set
    is **defined differently** across scripts (CODE_REVIEW #15).
-2. **Reinvented transcoder.** [mwtranscode/transcoder.py](mwtranscode/transcoder.py)
+2. **Reinvented transcoder.** [mwtranscode/transcoder.py](https://github.com/sanskrit-lexicon/MWS/blob/master/mwtranscode/transcoder.py)
    (`transcoder_processString`) is importable and complete; the hand-rolled maps
    are partial (no accents) and will drift from canonical.
 3. **Cross-repo coupling.** Modules read `csl-orig`, `VisualDCS`, `WhitneyRoots`
@@ -85,7 +87,7 @@ security, concern.
 ## Code review (2026-06-13)
 
 An extra-high-effort review of the analysis scripts found **15 issues — all FIXED 2026-06-13**,
-recorded in [papers/CODE_REVIEW.md](papers/CODE_REVIEW.md). All are **quiet
+recorded in [papers/CODE_REVIEW.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/CODE_REVIEW.md). All are **quiet
 wrong-number bugs, not crashes** — the failure mode that matters when output
 feeds papers. **3 change a published number** (the register_b `iti`-citation
 regex + de-inflection biased the Register-B figures (now corrected to **40.5% / 51.3%**) — the
@@ -93,3 +95,5 @@ highest-value fix); the rest are latent drift (hardcoded `31.4%`),
 supporting-figure miscounts (root-anchor leak, homonym double-counts),
 misclassifications (phw issue buckets), and the duplication divergences below.
 **Status: documented, not yet fixed.**
+
+_Dr. Mārcis Gasūns_

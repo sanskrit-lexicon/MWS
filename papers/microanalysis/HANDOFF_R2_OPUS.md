@@ -1,10 +1,12 @@
+_Created: 27-05-2026 · Last updated: 05-09-2026_
+
 # HANDOFF_R2_OPUS — Round 2 Opus session (atlas chapters 2–9)
 
 **Purpose:** let a fresh Claude Opus chat pick up Round 2 atlas authoring without losing context.
 
 ## Goal
 
-Author the 8 remaining csl-atlas dict chapters following [Decision 29 ordering and template tiers](decisions/MICROSITE.md#decision-29--phase-4-dictionary-ordering-chapter-templates-minimum-data-added-2026-05-27). MW chapter (position 1) is already done as the worked example.
+Author the 8 remaining csl-atlas dict chapters following [Decision 29 ordering and template tiers](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/MICROSITE.md#decision-29--phase-4-dictionary-ordering-chapter-templates-minimum-data-added-2026-05-27). MW chapter (position 1) is already done as the worked example.
 
 ## Working dirs
 
@@ -162,6 +164,8 @@ After all chapters done (or session running out):
 If a fresh Claude Opus chat picks this file up now, the table above shows all 10 prompts as ✅ done. The next session's work would be either:
 
 - **Round 3 (not yet planned)** — would likely focus on the Phase-5 kosha-resolution paper (resolving MW's 40,212 `<ls>L.</ls>` hedges against the four kosha repos ARMH/ABCH/ACPH/ACSJ), or on actually submitting the IJL paper.
-- **Maintenance** — keeping the 9-chapter atlas in sync with any new MWS docs-pass changes; running the Haiku/Sonnet refresh tasks from [HANDOFF_PROMPTS.md Round 2](HANDOFF_PROMPTS.md) sections 3A and 4A.
+- **Maintenance** — keeping the 9-chapter atlas in sync with any new MWS docs-pass changes; running the Haiku/Sonnet refresh tasks from [HANDOFF_PROMPTS.md Round 2](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/HANDOFF_PROMPTS.md) sections 3A and 4A.
 
 The atlas itself is content-complete; the next moves are research-direction decisions, not chapter-authoring.
+
+_Dr. Mārcis Gasūns_

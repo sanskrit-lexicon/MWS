@@ -1,3 +1,5 @@
+_Created: 23-05-2026 · Last updated: 05-09-2026_
+
 # Lexicographic timeline — from *kośa* to CDSL
 
 The Sanskrit-lexicographic tradition from the ~6th-century synonymic *kośas* through to the 2024 Cologne Digital Sanskrit Lexicon. Each repository link points to its CDSL home.
@@ -60,8 +62,10 @@ timeline
 
 ---
 
-**Sources:** [CDSL csl-orig](https://github.com/sanskrit-lexicon/csl-orig) (all dictionary data files); [DICT_PROFILE Lineage section](../../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) (full evidentiary discussion); [Wikipedia: Sanskrit grammarians](https://en.wikipedia.org/wiki/Sanskrit_grammar) (dates and authors).
+**Sources:** [CDSL csl-orig](https://github.com/sanskrit-lexicon/csl-orig) (all dictionary data files); [DICT_PROFILE Lineage section](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) (full evidentiary discussion); [Wikipedia: Sanskrit grammarians](https://en.wikipedia.org/wiki/Sanskrit_grammar) (dates and authors).
 
 **License:** CC-BY-SA-4.0 · **Build:** 2026-05-23
 
-[Русская версия →](timeline-ru.md)
+[Русская версия →](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/figures/timeline-ru.md)
+
+_Dr. Mārcis Gasūns_

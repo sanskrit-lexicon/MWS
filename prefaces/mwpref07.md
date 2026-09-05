@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010014.jpg
 source_page: Page x: Postscript
@@ -28,3 +30,5 @@ This Dictionary, to which my father devoted so many years of labour, was complet
 [footnote ⁴, continued from p. ix] tionary:—'I received a copy of Professor Monier Williams' English and Sanskṛit Dictionary at a time when I was about to commence a translation into Sanskṛit of portions of the Old Testament. I have used it daily for the last seven years, and the more I have consulted it the more excellent I have found it. I feel bound to say that he appears to have succeeded, not only beyond my previous ideas of what was likely, but also of what was feasible, to be accomplished at the present time. The Pundits whom I employ have likewise expressed their unqualified admiration of the labour and erudition which his volume displays. The Rev. J. Parsons of Benares, who has been engaged for some years past in preparing a new Hindee version of the New Testament, has likewise derived material assistance from Professor M. W.'s work. Indian missionaries generally owe him a large debt of gratitude.'
 
 Let me add that I hope the present Sanskṛit-English Dictionary will furnish some young scholar with materials for the compilation of a far more satisfactory English-Sanskṛit Dictionary than that which I began to compile more than half a century ago.
+
+_Dr. Mārcis Gasūns_

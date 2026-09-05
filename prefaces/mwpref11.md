@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010018.jpg
 source_page: xiv
@@ -36,3 +38,5 @@ It will also be seen that words which are different in meaning, but appear ident
 ----
 
 ¹ I use the expression 'Indo-Romanic' and 'Indo-Italic' to denote the expanded Roman and Italic alphabets adapted by the use of diacritical points and marks to the expression of Sanskrit and other Indian languages. The thick Indo-Romanic type employed in this volume is a product of the Oxford Clarendon Press, and therefore named Clarendon type.
+
+_Dr. Mārcis Gasūns_

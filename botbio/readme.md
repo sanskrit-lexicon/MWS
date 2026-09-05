@@ -1,3 +1,5 @@
+_Created: 19-06-2020 · Last updated: 05-09-2026_
+
 Extract list of bot, bio tags from MW, using digitization mw.txt
 
 We extract from digitization csl-orig/v02/mw/mw.txt
@@ -15,3 +17,5 @@ python tagunique.py bio ../../../cologne/csl-orig/v02/mw/mw.txt mw_bio.txt
 ----------------------------------------------------------------
 04-03-2024
 Recompute mw_bot.txt and mw_bio.txt (using current value of mw.txt)
+
+_Dr. Mārcis Gasūns_

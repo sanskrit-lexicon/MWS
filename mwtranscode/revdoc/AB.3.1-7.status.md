@@ -1,3 +1,5 @@
+_Created: 23-02-2021 · Last updated: 05-09-2026_
+
 These represent the current correction status of the 'BEGIN-END' blocks
 within the seven parts AB_3.1.txt through AB_3.7.txt.
 For those marked as 'DONE', a crude type classification is provided.
@@ -204,3 +206,5 @@ DONE 193 sanisrasa MARKUP
 DONE 194 sthiraśaṅkukarṇa ACCENT
 
 ```
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010030.jpg
 source_page: Page xxvi
@@ -32,3 +34,5 @@ It should not, however, be forgotten that an interval of nearly seven centuries 
 ⁴ These letters are shown in Professor Bühler's tables.
 
 ⁵ Our invaluable decimal notation certainly came from India, and may be said to conform to Semitic methods in the direction
+
+_Dr. Mārcis Gasūns_

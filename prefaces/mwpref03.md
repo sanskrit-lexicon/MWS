@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010010.jpg
 source_page: Page vi
@@ -24,3 +26,5 @@ It was for this and other cognate reasons² that—with the consent and approbat
 ¹ Some of these books are referred to in the present Dictionary; for example, that on 'Hindūism' (published by the S. P. C. K., 13th edition); that on 'Brāhmanism' &c. (also called 'Religious Thought and Life in India;' published by Mr. J. Murray, Albemarle Street, 4th ed., referred to as RTL.); that on 'Indian Wisdom' (published by Messrs. Luzac of Great Russell Street, 4th ed., referred to as IW.); that on 'Buddhism' (also published by Mr. Murray, 2nd ed., referred to as MWB.).
 
 ² One of these was the founding of an Indian Institute for the promotion of Indian studies in my own University of Oxford. Another was to induce the Government of India to found six Government scholarships for enabling deserving Indians to finish their education at our University.
+
+_Dr. Mārcis Gasūns_

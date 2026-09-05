@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # MW botanical glossary (#74) — summary
 
 - `<bot>` occurrences: **8,923**
@@ -48,3 +50,5 @@
 - DCS attestation is lemma-level (DCS-2021 summary). Re-run against DCS-2026
   for fuller coverage (see ../lexicographer_dcs/).
 - Supersedes the frequency-only `botbio/mw_bot.txt`; this is the FAIR export.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 07-11-2017 · Last updated: 05-09-2026_
+
 
 ## MW abbreviations
 
@@ -41,3 +43,4 @@ The abbreviations for MW that are used for tooltips in the displays
 is in csl-pywork repository. Namely:
 https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/distinctfiles/mw/pywork/mwab/mwab_input.txt.
 
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # `<ls>L.</ls>` -> DCS-**2026** verification — results
 
 Same 18,930 strict purely-lexicographic MW lemmas, re-joined against the full
@@ -38,3 +40,5 @@ DCS-2026 token corpus (5.69M tokens, 270 texts) instead of the DCS-2021 summary.
   summary, so coverage rises; the delta is the value of the corpus refresh.
 
 _DCS-2026: Oliver Hellwig / DCS, CoNLL-U snapshot in VisualDCS, CC BY._
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 07-05-2026 · Last updated: 05-09-2026_
+
 ## PR Type
 - [ ] data
 - [ ] build
@@ -36,3 +38,5 @@
 - If `build`: side effects on import, generated artifact scope, rollback path
 - If `docs`: stale wording removed, authoritative docs confirmed
 - If `navigation`: links tested, discoverability improved in 1-2 clicks
+
+_Dr. Mārcis Gasūns_

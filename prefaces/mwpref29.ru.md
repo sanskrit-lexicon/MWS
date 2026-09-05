@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010036.jpg
 source_page: Page xxxii
@@ -32,3 +34,5 @@ translation_of: mwpref29.md
 «МОНЬЕ МОНЬЕ-УИЛЬЯМС.»
 
 «Индийский институт, Оксфорд.»
+
+_Dr. Mārcis Gasūns_

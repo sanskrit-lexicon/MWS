@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # Packet C — MW vs Whitney conjugation-class conflicts (32)
 
 Roots where MW and Whitney assign **disjoint** conjugation classes. **All MW homonym records** are shown (the class conflict may sit on one of several), with the Dhātupāṭha (Westergaard) reference where MW records it. Decide the correct class (MW / Whitney / both / other).
@@ -135,3 +137,4 @@ Roots where MW and Whitney assign **disjoint** conjugation classes. **All MW hom
   - *(no MW genuine-root record found for this bare root)*
 - **Correct class? (MW / Whitney / both / other; which homonym?)** Verdict: ____
 
+_Dr. Mārcis Gasūns_

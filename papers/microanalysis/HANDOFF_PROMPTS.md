@@ -1,6 +1,8 @@
+_Created: 27-05-2026 · Last updated: 05-09-2026_
+
 # HANDOFF_PROMPTS — three prompt lists, one per model
 
-**Companion to [HANDOFF.md](HANDOFF.md).** Where HANDOFF.md describes the *state*, this file gives the **paste-ready prompts** for new Claude chats — organised by **which model to pick**, with explicit **downshift criteria** so you know when to stop paying for Opus.
+**Companion to [HANDOFF.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/HANDOFF.md).** Where HANDOFF.md describes the *state*, this file gives the **paste-ready prompts** for new Claude chats — organised by **which model to pick**, with explicit **downshift criteria** so you know when to stop paying for Opus.
 
 The decision flow you actually want:
 
@@ -63,7 +65,7 @@ Now: [PASTE ONE TASK LINE FROM THE OPUS / SONNET / HAIKU LIST BELOW]
 
 **Round 1 (O1-O10 / S1-S12 / H1-H10) is complete** — see the historical sections further down. All 10 Opus prompts and the 7 follow-up hostile-review doubts (D16-D22) closed in a single autonomous session 2026-05-27. Submission-v1 tag pushed. csl-atlas MW chapter live.
 
-**Round 2 focuses on the atlas**: 8 remaining dict chapters (PWG, PWK, AP, BEN, CAE, WIL, SKD, VCP) authored per [Decision 29](decisions/MICROSITE.md#decision-29--phase-4-dictionary-ordering-chapter-templates-minimum-data-added-2026-05-27). All three model tiers can contribute, with a *recommended* (but **not required**) pipeline:
+**Round 2 focuses on the atlas**: 8 remaining dict chapters (PWG, PWK, AP, BEN, CAE, WIL, SKD, VCP) authored per [Decision 29](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/MICROSITE.md#decision-29--phase-4-dictionary-ordering-chapter-templates-minimum-data-added-2026-05-27). All three model tiers can contribute, with a *recommended* (but **not required**) pipeline:
 
 ```
 Haiku (refresh data + figures)        ← optional / freshening
@@ -81,11 +83,11 @@ Opus (author each chapter from the exports + Decision 29 template tier)   ← wh
 
 ## 2A. OPUS — Round 2: atlas chapters 2–9
 
-**Authoring order** per [Decision 29 §29.4](decisions/MICROSITE.md): MW (done) → PWG → CAE → BEN → PWK → AP → WIL → SKD → VCP. Each chapter follows the [Tier A / B / C template](decisions/MICROSITE.md#292--chapter-template-variants-three-tiers) appropriate to the dict. Each chapter ~2–3 h; the MW chapter at [`csl-atlas/src/dicts/mw.md`](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/src/dicts/mw.md) is the worked example.
+**Authoring order** per [Decision 29 §29.4](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/MICROSITE.md): MW (done) → PWG → CAE → BEN → PWK → AP → WIL → SKD → VCP. Each chapter follows the [Tier A / B / C template](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/MICROSITE.md#292--chapter-template-variants-three-tiers) appropriate to the dict. Each chapter ~2–3 h; the MW chapter at [`csl-atlas/src/dicts/mw.md`](https://github.com/sanskrit-lexicon/csl-atlas/blob/main/src/dicts/mw.md) is the worked example.
 
 ### O1 · PWG chapter (Tier A — full template)
 
-**Effort: ~3h** ([Decision 29 #2](decisions/MICROSITE.md), position 2 in the atlas)
+**Effort: ~3h** ([Decision 29 #2](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/MICROSITE.md), position 2 in the atlas)
 
 ```
 Author csl-atlas/src/dicts/pwg.md as Tier A (full template, 8 sections).
@@ -109,7 +111,7 @@ from analysis/LS_HEDGE_CHECK.md.
 
 ### O2 · CAE chapter (Tier B — compact + typography)
 
-**Effort: ~2h** ([Decision 29 #6](decisions/MICROSITE.md), position 6 in the atlas)
+**Effort: ~2h** ([Decision 29 #6](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/MICROSITE.md), position 6 in the atlas)
 
 ```
 Author csl-atlas/src/dicts/cae.md as Tier B (compact + typography
@@ -132,7 +134,7 @@ section). Key CAE-specific facts:
 
 ### O3 · BEN chapter (Tier B — compact + typography)
 
-**Effort: ~2h** ([Decision 29 #5](decisions/MICROSITE.md), position 5 in the atlas)
+**Effort: ~2h** ([Decision 29 #5](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/MICROSITE.md), position 5 in the atlas)
 
 ```
 Author csl-atlas/src/dicts/ben.md as Tier B. Key BEN facts:
@@ -152,7 +154,7 @@ Author csl-atlas/src/dicts/ben.md as Tier B. Key BEN facts:
 
 ### O4 · PWK chapter (Tier A — full template)
 
-**Effort: ~2.5h** ([Decision 29 #3](decisions/MICROSITE.md), position 3 in the atlas)
+**Effort: ~2.5h** ([Decision 29 #3](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/MICROSITE.md), position 3 in the atlas)
 
 ```
 Author csl-atlas/src/dicts/pwk.md as Tier A. Key PWK facts:
@@ -173,7 +175,7 @@ Author csl-atlas/src/dicts/pwk.md as Tier A. Key PWK facts:
 
 ### O5 · AP chapter (Tier A — full template)
 
-**Effort: ~2.5h** ([Decision 29 #4](decisions/MICROSITE.md), position 4 in the atlas)
+**Effort: ~2.5h** ([Decision 29 #4](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/MICROSITE.md), position 4 in the atlas)
 
 ```
 Author csl-atlas/src/dicts/ap.md as Tier A. Key AP facts:
@@ -194,7 +196,7 @@ Author csl-atlas/src/dicts/ap.md as Tier A. Key AP facts:
 
 ### O6 · WIL chapter (Tier B — compact + typography)
 
-**Effort: ~2h** ([Decision 29 #7](decisions/MICROSITE.md), position 7 in the atlas)
+**Effort: ~2h** ([Decision 29 #7](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/MICROSITE.md), position 7 in the atlas)
 
 ```
 Author csl-atlas/src/dicts/wil.md as Tier B. Key WIL facts:
@@ -216,7 +218,7 @@ Author csl-atlas/src/dicts/wil.md as Tier B. Key WIL facts:
 
 ### O7 · SKD chapter (Tier C — genre-bound)
 
-**Effort: ~2.5h** ([Decision 29 #8](decisions/MICROSITE.md), position 8 in the atlas)
+**Effort: ~2.5h** ([Decision 29 #8](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/MICROSITE.md), position 8 in the atlas)
 
 ```
 Author csl-atlas/src/dicts/skd.md as Tier C (genre-bound). Key SKD facts:
@@ -239,7 +241,7 @@ Author csl-atlas/src/dicts/skd.md as Tier C (genre-bound). Key SKD facts:
 
 ### O8 · VCP chapter (Tier C — genre-bound)
 
-**Effort: ~2h** ([Decision 29 #9](decisions/MICROSITE.md), position 9 in the atlas)
+**Effort: ~2h** ([Decision 29 #9](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/MICROSITE.md), position 9 in the atlas)
 
 ```
 Author csl-atlas/src/dicts/vcp.md as Tier C. Key VCP facts:
@@ -642,7 +644,7 @@ linking-rule-compliant summary of what changed.
 
 ### O7 · Hostile peer-review of PAPER.md (new doubts)
 
-**Effort: ~1.5h** ([D-surface](DOUBTS.md))
+**Effort: ~1.5h** ([D-surface](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/DOUBTS.md))
 
 ```
 Read PAPER.md as a hostile peer reviewer would. Surface any new doubts: under-
@@ -1113,4 +1115,6 @@ LOOKING FOR THE PAPER? Read PAPER.md (canonical) + analysis/README.md (audits).
 
 ---
 
-*Maintained alongside [HANDOFF.md](HANDOFF.md). Update when new task patterns emerge from real usage. Sample-prompt §6 examples should be refreshed after each major project phase.*
+*Maintained alongside [HANDOFF.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/HANDOFF.md). Update when new task patterns emerge from real usage. Sample-prompt §6 examples should be refreshed after each major project phase.*
+
+_Dr. Mārcis Gasūns_

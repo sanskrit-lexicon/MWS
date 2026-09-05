@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010025.jpg
 source_page: Page xxi
@@ -30,3 +32,5 @@ No doubt the vast area of India's philosophical literature has not yet been exha
 ² The late Professor Bühler has shown that the inscriptions of about 500 A.D. quote the Mahā-bhārata and describe it as containing 100,000 verses.
 
 ³ I do not mean this remark to apply to Buddhistic literature, which is very extensive, and is partly in Sanskṛit, and has much still unedited and untranslated. The *Divyâvadāna*, edited by Professor E. B. Cowell and Mr. Neil, is an example. It is written in Sanskṛit or rather in a kind of Sanskṛitized Pāli, or Pāli disguised in Sanskṛit garb. Other Buddhist Texts, written in Sanskṛit, are now being ably edited by the well-known Tibetan traveller, Rai Śarat Candra Dās, Bahādur, C.I.E., to whom I was greatly indebted for help in my researches at Darjeeling and its neighbourhood. Much Jaina philosophical literature, too, is still unedited, although well worthy of attention, and although only occasionally referred to in this Dictionary. It is written in Sanskṛit as well as in Ardha-Māgadhī Prākṛit, for the elucidation of which Professor Leumann has done such excellent work. In fact, the Sanskṛit form of Jaina philosophical literature (now being ably expounded by Mr. Vircand Ghāndhī at Chicago) still offers an almost wholly unexplored field of investigation. Furthermore, it must be admitted that in some cases better editions of pure Sanskṛit works are needed. For example, a better critical edition of the Mahā-bhārata than those of Calcutta and Bombay is a desideratum. The Southern Recension of that immense work is I believe engaging the attention of Dr. Lüders, Librarian of the Indian Institute.
+
+_Dr. Mārcis Gasūns_

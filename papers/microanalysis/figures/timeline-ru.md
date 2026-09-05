@@ -1,3 +1,5 @@
+_Created: 23-05-2026 · Last updated: 05-09-2026_
+
 # Хронология санскритской лексикографии — от *kośa* до CDSL
 
 Санскритская лексикографическая традиция от синонимических *kośa* ~VI века до Кельнского цифрового санскритского лексикона 2024 года. Каждая ссылка ведет в репозиторий CDSL.
@@ -60,8 +62,10 @@ timeline
 
 ---
 
-**Источники:** [CDSL csl-orig](https://github.com/sanskrit-lexicon/csl-orig) (все файлы данных словарей); [Раздел DICT_PROFILE по линиям происхождения](../../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) (полное обсуждение свидетельств); [Wikipedia: Санскритская грамматика](https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D1%81%D0%BA%D1%80%D0%B8%D1%82) (даты и авторы).
+**Источники:** [CDSL csl-orig](https://github.com/sanskrit-lexicon/csl-orig) (все файлы данных словарей); [Раздел DICT_PROFILE по линиям происхождения](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) (полное обсуждение свидетельств); [Wikipedia: Санскритская грамматика](https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D1%81%D0%BA%D1%80%D0%B8%D1%82) (даты и авторы).
 
 **Лицензия:** CC-BY-SA-4.0 · **Сборка:** 2026-05-23
 
-[← English version](timeline-en.md)
+[← English version](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/figures/timeline-en.md)
+
+_Dr. Mārcis Gasūns_

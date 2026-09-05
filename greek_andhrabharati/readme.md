@@ -1,3 +1,5 @@
+_Created: 03-01-2021 · Last updated: 05-09-2026_
+
 # MW_Gk_words.txt
 
 File received from Mr. Nagabhushana Rao of Andhrabharati on 02 January 2020.
@@ -16,4 +18,4 @@ in the following format
 line
 ```
 
-
+_Dr. Mārcis Gasūns_

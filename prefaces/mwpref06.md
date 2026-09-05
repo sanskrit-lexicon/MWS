@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010013.jpg
 source_page: Page ix
@@ -28,3 +30,5 @@ Surely then it need not be thought surprising, if following in the footsteps of 
 ³ Lieutenant-Colonel Boden, of the Bombay Native Infantry, returned to England in 1807 and died at Lisbon, Nov. 21, 1811. His daughter died Aug. 24, 1827, whereupon his bequest passed to the University of Oxford, but the first election to the Chair, for some reason unknown to me, did not take place till 1832.
 
 ⁴ In his address proposing himself for election to the Boden Electors, Professor H. H. Wilson laid stress on what he had done for 'the rendering of Scripture Terms into the Sanskṛit language.' It was doubtless on this account that after he was elected he urged me to compile an English-Sanskṛit Dictionary—a work never before attempted. I laboured at this for about seven years, and although the result (published in a thick volume by the Directors of the East India Company in 1851) cannot, I fear, be said to meet the needs of the present day, yet it should be borne in mind that it was *pioneering work*. Nor can it be said to have been useless, seeing that seven years after its publication the following testimony to its utility was voluntarily tendered by the Rev. J. Wenger, translator of the Bible into Sanskṛit and Editor of Dr. Yates' Sanskṛit Dic-
+
+_Dr. Mārcis Gasūns_

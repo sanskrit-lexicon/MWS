@@ -1,3 +1,5 @@
+_Created: 09-07-2026 · Last updated: 05-09-2026_
+
 ---
 paper_id: A46
 title: "The Lexicographer's Own Method: Monier-Williams' 1899 Preface as a Methodological Document, Read Against the Digitized Dictionary"

@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010031.jpg
 source_page: Page xxvii
@@ -52,3 +54,5 @@ And indeed the modest equipment of twenty-two letters which satisfied the Phœni
 ⁸ A similar line is often drawn in English copybooks and on writing paper as an aid to straight writing, but always *below*, not above the letters.
 
 ² Dr. Lüders, of the Indian Institute, has kindly assisted me in the right formation of some of the inscription letters. The roughness of some is due to their being photographs from original impressions.
+
+_Dr. Mārcis Gasūns_

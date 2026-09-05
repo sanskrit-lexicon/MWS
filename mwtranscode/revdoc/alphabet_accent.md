@@ -1,3 +1,5 @@
+_Created: 04-03-2021 · Last updated: 05-09-2026_
+
 
 ## SLP1 to IAST conversion used at Cologne Sanskrit-lexicon
 
@@ -85,3 +87,5 @@
 |~|̃|COMBINING TILDE|
 |ai|aï|LATIN SMALL LETTER A + LATIN SMALL LETTER I WITH DIAERESIS|
 |au|aü|LATIN SMALL LETTER A + LATIN SMALL LETTER U WITH DIAERESIS|
+
+_Dr. Mārcis Gasūns_

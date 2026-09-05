@@ -1,3 +1,5 @@
+_Created: 04-03-2021 · Last updated: 05-09-2026_
+
 These are suggested change ideas related to MW digitization at Cologne.
 Most are from @Andhrabharati; a few are from @funderburkjim.
 
@@ -147,3 +149,5 @@ But the marking of A.D as <ls>A.</ls>D. needs to be corrected as
 <ab>A.D.</ab> as discussed elsewhere.
 To be done globally sometime later.
 ```
+
+_Dr. Mārcis Gasūns_

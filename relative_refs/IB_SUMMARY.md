@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # `<ls>ib.</ls>` resolution — results
 
 > **These figures are *resolvable*, not *verified*.** The walk mechanically
@@ -45,3 +47,5 @@
   candidate map for a future enrichment pass (maintainer-gated).
 - Sibling task: `<ab>id.</ab>` (4,401, issue #98) is the *sense*-level analog
   (resolve to the preceding gloss); see IDEM_NOTE.md.
+
+_Dr. Mārcis Gasūns_

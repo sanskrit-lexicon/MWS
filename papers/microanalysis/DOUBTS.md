@@ -1,9 +1,11 @@
+_Created: 23-05-2026 · Last updated: 05-09-2026_
+
 {% raw %}
 # DOUBTS.md — critical review of architecture decisions
 
 **Mandate (2026-05-23):** [@gasyoun](https://github.com/gasyoun) — "Review everything. Doubt everything, all architecture solutions."
 
-This document records honest reservations about the 28 design decisions in [VISUALISATIONS.md](VISUALISATIONS.md), the 4-paper plan in [README.md](README.md), and the broader docs-pass + microanalysis + atlas trajectory. Each doubt is rated **blocking** (must be resolved before further build) / **important** (should be resolved before publication) / **nice-to-resolve** (can ship without).
+This document records honest reservations about the 28 design decisions in [VISUALISATIONS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/VISUALISATIONS.md), the 4-paper plan in [README.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/README.md), and the broader docs-pass + microanalysis + atlas trajectory. Each doubt is rated **blocking** (must be resolved before further build) / **important** (should be resolved before publication) / **nice-to-resolve** (can ship without).
 
 The goal is not to undo decisions but to make their weaknesses visible. If a doubt survives scrutiny, it should be documented as a known limitation in the paper(s) rather than hidden.
 
@@ -13,7 +15,7 @@ The goal is not to undo decisions but to make their weaknesses visible. If a dou
 
 ### D1 — Is "block economy" a genuine principle or print-economic artifact? · *important*
 
-> **Result ([analysis/CROSS_DICT.md](analysis/CROSS_DICT.md)):** the doubt is borne out. The block-economy *shape* (small modal kernel + long tail) is **general to all eight CDSL dictionaries**, not MW-specific (modal blocks/entry: MW 5, PWG 4, PWK 3, AP 2, WIL 3, Benfey 3). PWG is ~4× denser per entry. PAPER.md §4 and §9.3 now soften the claim to "characteristic of single-volume scholarly dictionaries." A per-type follow-up ([analysis/CROSS_DICT_PROFILES.md](analysis/CROSS_DICT_PROFILES.md)) now covers all nine dicts: **single-volume** dicts differentiate `<lex>` types (MW 11.3, PWK 7.7, AP 15.2 pts) while **multi-volume PWG cites uniformly** (0.4) — type-differentiation is itself a single-volume economy. The **Sanskrit-Sanskrit lexica (SKD/VCP)** fall outside the framework (no `<lex>`/`<ls>`; inline `iti` citation) — the apparatus is genre-bound to structured bilingual dicts.
+> **Result ([analysis/CROSS_DICT.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/CROSS_DICT.md)):** the doubt is borne out. The block-economy *shape* (small modal kernel + long tail) is **general to all eight CDSL dictionaries**, not MW-specific (modal blocks/entry: MW 5, PWG 4, PWK 3, AP 2, WIL 3, Benfey 3). PWG is ~4× denser per entry. PAPER.md §4 and §9.3 now soften the claim to "characteristic of single-volume scholarly dictionaries." A per-type follow-up ([analysis/CROSS_DICT_PROFILES.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/CROSS_DICT_PROFILES.md)) now covers all nine dicts: **single-volume** dicts differentiate `<lex>` types (MW 11.3, PWK 7.7, AP 15.2 pts) while **multi-volume PWG cites uniformly** (0.4) — type-differentiation is itself a single-volume economy. The **Sanskrit-Sanskrit lexica (SKD/VCP)** fall outside the framework (no `<lex>`/`<ls>`; inline `iti` citation) — the apparatus is genre-bound to structured bilingual dicts.
 
 
 Our [paper](PAPER.md#4-the-block-economy-thesis) names "block economy" as MW's defining structural choice: a 6-block kernel reused across 286,561 entries with type-driven enrichment. But this could be just a **side-effect of being a single-volume print dictionary** — every printed dictionary economises blocks to fit pages. PWK (also single-volume, also condensed) might exhibit identical economy without anyone calling it a principle.
@@ -24,7 +26,7 @@ Our [paper](PAPER.md#4-the-block-economy-thesis) names "block economy" as MW's d
 
 ### D2 — The `<ls>L.</ls>` claim, refined: MW *systematised* a convention pioneered typographically · *resolved 2026-05-27*
 
-> **Resolution.** Print-preface read of Cappeller 1891 and Benfey 1866 (Wilson 1832 OCR partial; convention not attested in digital record) ([analysis/LS_HEDGE_CHECK.md §"Print-preface read"](analysis/LS_HEDGE_CHECK.md#print-preface-read-added-2026-05-27-closes-the-digital-only-gap)) establishes that the *concept* of an inline lexicographer-only hedge predates MW by 33 years. Cappeller 1891 defines asterisk `*` as "a word taught only by grammarians or lexicographers" — semantically the *exact* analogue of MW's `<ls>L.</ls>` — and Cappeller co-edited MW 1899, making the lineage direct. Benfey 1866 dagger `†` is a weaker variant ("no authoritative references"). **The "MW innovation" claim is downgraded:** MW's innovation is *structural* (promoting the hedge into the source-citation slot — 40,212 `<ls>L.</ls>` tags occupy the same XML position as `<ls>MBh.</ls>`), not *semantic* (the conceptual marker is older). [PAPER.md §7.2(ii)](PAPER.md#72-three-findings-all-three-frameworks-reach) and [Appendix C §C.2](PAPER.md#appendix-c--the-hausmann-wiegand-comment-class-reading-condensed) have been rewritten accordingly.
+> **Resolution.** Print-preface read of Cappeller 1891 and Benfey 1866 (Wilson 1832 OCR partial; convention not attested in digital record) ([analysis/LS_HEDGE_CHECK.md §"Print-preface read"](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/LS_HEDGE_CHECK.md#print-preface-read-added-2026-05-27-closes-the-digital-only-gap)) establishes that the *concept* of an inline lexicographer-only hedge predates MW by 33 years. Cappeller 1891 defines asterisk `*` as "a word taught only by grammarians or lexicographers" — semantically the *exact* analogue of MW's `<ls>L.</ls>` — and Cappeller co-edited MW 1899, making the lineage direct. Benfey 1866 dagger `†` is a weaker variant ("no authoritative references"). **The "MW innovation" claim is downgraded:** MW's innovation is *structural* (promoting the hedge into the source-citation slot — 40,212 `<ls>L.</ls>` tags occupy the same XML position as `<ls>MBh.</ls>`), not *semantic* (the conceptual marker is older). [PAPER.md §7.2(ii)](PAPER.md#72-three-findings-all-three-frameworks-reach) and [Appendix C §C.2](PAPER.md#appendix-c--the-hausmann-wiegand-comment-class-reading-condensed) have been rewritten accordingly.
 
 > **Earlier digital-record evidence:** MW has 40,212 `L.` hedges; PWG (of 570,817 `<ls>` tags), PWK, WIL, CAE, SKD, VCP have 0; AP has 1; Benfey 1866 has 0 of 14,708 `<ls>` tags (because his hedge is the typographic dagger `†`, not a tagged `<ls>`). The CDSL digitisation of CAE has 0 `<ls>` tags but uses `*` (1,370×) and `†` (903×) typographically — now interpretable from the 1891 print preface above.
 
@@ -43,7 +45,7 @@ We claim WIL is "the kosha tradition translated" based on (a) the subtitle ("lea
 
 ### D4 — 4 framework papers from the same data — is this honest? · *blocking*
 
-> **Resolution:** consolidated to **one paper** ([PAPER.md](PAPER.md)), per option (a) below. The data-grounded reading is the body; the Wiegand / Atkins-Rundell / Hausmann readings are condensed into [Appendices A–C](PAPER.md#appendix-a--the-wiegand-theoretic-reading-condensed) and reframed (in [PAPER.md §7](PAPER.md#7-triangulation-three-external-frameworks-converge)) as *convergent triangulation* rather than parallel publications. The four standalone `paper-*.md` drafts are retained in this directory as supplementary extended drafts, each banner-linked back to PAPER.md.
+> **Resolution:** consolidated to **one paper** ([PAPER.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md)), per option (a) below. The data-grounded reading is the body; the Wiegand / Atkins-Rundell / Hausmann readings are condensed into [Appendices A–C](PAPER.md#appendix-a--the-wiegand-theoretic-reading-condensed) and reframed (in [PAPER.md §7](PAPER.md#7-triangulation-three-external-frameworks-converge)) as *convergent triangulation* rather than parallel publications. The four standalone `paper-*.md` drafts are retained in this directory as supplementary extended drafts, each banner-linked back to PAPER.md.
 
 We wrote 4 papers each analysing the same 286,561 records through a different theoretical lens. The danger: **a journal may see this as salami-slicing** (one finding split into four publications). The IJL editorial board specifically flags multi-version submission of the same data.
 
@@ -66,7 +68,7 @@ Right now we're presenting 4 simultaneous parallel papers, which is unusual.
 
 ### D6 — Block detection is regex-based and approximate · *important*
 
-> **Result ([analysis/SPOTCHECK.md](analysis/SPOTCHECK.md)):** detector reproduces the 286,561 count exactly. Confirmed and quantified: **F08 over-counts** (36.5% of its hits are compound `<e>3*` members, not inflected forms); **F09 over-counts** (66.7% of hits outside any root/etymological context). Downgraded: the **F11 under-count is negligible** (+0.02 pts under a broader pattern). New: the §4 "display headword 99%" was the structural-key rate; the *rendered* `<s>` rate is **76%** (corrected). A 100-record labelled sample (`analysis/SPOTCHECK_SAMPLE.txt`, seed 42) awaits per-entry Sanskritist review.
+> **Result ([analysis/SPOTCHECK.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/SPOTCHECK.md)):** detector reproduces the 286,561 count exactly. Confirmed and quantified: **F08 over-counts** (36.5% of its hits are compound `<e>3*` members, not inflected forms); **F09 over-counts** (66.7% of hits outside any root/etymological context). Downgraded: the **F11 under-count is negligible** (+0.02 pts under a broader pattern). New: the §4 "display headword 99%" was the structural-key rate; the *rendered* `<s>` rate is **76%** (corrected). A 100-record labelled sample (`analysis/SPOTCHECK_SAMPLE.txt`, seed 42) awaits per-entry Sanskritist review.
 
 
 The `mw_block_matrix.py` script uses regular expressions to detect 18 blocks. Several are heuristic:
@@ -81,7 +83,7 @@ The `mw_block_matrix.py` script uses regular expressions to detect 18 blocks. Se
 
 ### D7 — The block-by-article-type matrix has *no* statistical significance test · *nice-to-resolve*
 
-> **Result ([analysis/SIGNIFICANCE.md](analysis/SIGNIFICANCE.md)):** every headline contrast is significant at α = 0.05 (chi-square / Fisher; Wilson 95% CIs reported). The specific small difference this doubt named — noun_m F08 (21.6%) vs noun_f F08 (22.6%) — is **not significant (p = 0.07)**, confirming the concern; gender-level F08 differences are dropped as findings. Biographical F13 has a wide CI [59.6, 69.6] (N = 346) now stated in PAPER.md §9.2.
+> **Result ([analysis/SIGNIFICANCE.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/SIGNIFICANCE.md)):** every headline contrast is significant at α = 0.05 (chi-square / Fisher; Wilson 95% CIs reported). The specific small difference this doubt named — noun_m F08 (21.6%) vs noun_f F08 (22.6%) — is **not significant (p = 0.07)**, confirming the concern; gender-level F08 differences are dropped as findings. Biographical F13 has a wide CI [59.6, 69.6] (N = 346) now stated in PAPER.md §9.2.
 
 
 We report percentages like "F09 commentary at 78.1% in roots vs ~5% baseline." But:
@@ -97,7 +99,7 @@ We report percentages like "F09 commentary at 78.1% in roots vs ~5% baseline." B
 
 ### D8 — Observable Framework is heavy infrastructure for a research microsite · *blocking*
 
-> **Resolution:** **keep Observable Framework** ([Decision 10](decisions/MICROSITE.md#decision-10--stack-observable-framework)). The user accepts the build-pipeline and lock-in trade-offs in exchange for built-in i18n routing, reactive D3/Plot, and Markdown pages, which match the [per-locale-file strategy](decisions/I18N.md) and [JSON-data architecture](decisions/MICROSITE.md#decision-2--build-both-static-paper-and-interactive-microsite). The static figures remain plain SVG/PNG (already built), so the paper does not depend on Observable; the framework is used only for the interactive microsite. The mitigations below (pin the Framework version; keep the highest-interactivity tools isolated; ensure figures degrade to static) become *implementation notes* rather than reasons to switch stacks.
+> **Resolution:** **keep Observable Framework** ([Decision 10](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/MICROSITE.md#decision-10--stack-observable-framework)). The user accepts the build-pipeline and lock-in trade-offs in exchange for built-in i18n routing, reactive D3/Plot, and Markdown pages, which match the [per-locale-file strategy](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/I18N.md) and [JSON-data architecture](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/MICROSITE.md#decision-2--build-both-static-paper-and-interactive-microsite). The static figures remain plain SVG/PNG (already built), so the paper does not depend on Observable; the framework is used only for the interactive microsite. The mitigations below (pin the Framework version; keep the highest-interactivity tools isolated; ensure figures degrade to static) become *implementation notes* rather than reasons to switch stacks.
 
 We chose Observable Framework as the microsite stack (Decision 10). Pros: i18n routing, reactive D3, Markdown pages. Cons:
 - Requires Node + npm + build pipeline.
@@ -223,7 +225,7 @@ This doubt review is itself a deliverable: it documents the project's known-unkn
 
 ## Hostile peer-review pass — D16–D22 (added 2026-05-27, O7)
 
-The seven doubts below were generated by reading [PAPER.md](PAPER.md) *as an adversarial IJL reviewer would*, looking for under-evidenced claims, regex brittleness, over-generalisation, attribution sloppiness, and rhetorical overreach. They are **recorded, not fixed**; each is rated *blocking* / *important* / *nice-to-resolve* and carries a test recipe so that closure work can be scheduled.
+The seven doubts below were generated by reading [PAPER.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md) *as an adversarial IJL reviewer would*, looking for under-evidenced claims, regex brittleness, over-generalisation, attribution sloppiness, and rhetorical overreach. They are **recorded, not fixed**; each is rated *blocking* / *important* / *nice-to-resolve* and carries a test recipe so that closure work can be scheduled.
 
 ### D16 — "Block economy" is named three times and means three things · *important*
 
@@ -245,7 +247,7 @@ A constraint is a thing the world imposes on you; a shape is a property the arte
 
 ### D18 — Audit of the "other" residual — **RESOLVED 2026-05-27** as verbal-lemma promotion · *was nice-to-resolve, now closed*
 
-> **Resolution.** Ran the canonical `classify_type` from [figures/scripts/export_data.py](figures/scripts/export_data.py) over all 271,148 parsed records and sub-bucketed the 18,513 "other" residuals:
+> **Resolution.** Ran the canonical `classify_type` from [figures/scripts/export_data.py](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/figures/scripts/export_data.py) over all 271,148 parsed records and sub-bucketed the 18,513 "other" residuals:
 >
 > | Sub-bucket | Records | % of "other" | % of corpus |
 > |---|--:|--:|--:|
@@ -266,7 +268,7 @@ A constraint is a thing the world imposes on you; a shape is a property the arte
 
 ### D19 — Statistical significance at N = 286,561 is necessarily near-universal — **RESOLVED 2026-05-27** with practical-relevance threshold · *was important, now closed*
 
-> **Resolution.** Computed pt-differences (absolute % difference from corpus baseline) for all 225 cells in [SIGNIFICANCE_FULL.md](analysis/SIGNIFICANCE_FULL.md):
+> **Resolution.** Computed pt-differences (absolute % difference from corpus baseline) for all 225 cells in [SIGNIFICANCE_FULL.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/SIGNIFICANCE_FULL.md):
 > - FDR-significant: 200 / 225 cells (88.9 %)
 > - |pt-diff| ≥ 5 pts: 88 / 225 cells (39.1 %)
 > - Both (recommended threshold): 88 / 225 (39.1 %) — overlap is essentially full
@@ -275,7 +277,7 @@ A constraint is a thing the world imposes on you; a shape is a property the arte
 
 [PAPER.md §9.2](PAPER.md#9-methodological-limitations) reports "every headline contrast is significant at α = 0.05" plus "217 of 270 cells significant under Benjamini–Hochberg (q = 0.05)." At N ≈ 286,561, a 0.5-pt absolute difference is significant; the field-relevant question is the **effect size**, not the p-value. The single example of *non*-significance (noun_m vs noun_f F08, 21.6% vs 22.6%, *p* = 0.07) is a 1.0-pt difference — practically also uninteresting. The paper does not state a *minimum interesting effect size* (e.g. ≥ 5pt absolute or Cohen's *w* ≥ 0.1). A reviewer will reject the "significance" claim as a calibration error: at this sample size, significance reports the data's *power*, not its *content*.
 
-**Test:** for every headline % contrast in PAPER.md, compute the absolute pt-difference and Cohen's *w*. Define and pre-register a minimum interesting threshold (proposal: ≥ 5pt absolute and Cohen's *w* ≥ 0.10). Replace the "every headline is significant" sentence with "every headline difference exceeds 5pt and Cohen's *w* > 0.10 (audit table at [SIGNIFICANCE_FULL.md](analysis/SIGNIFICANCE_FULL.md))."
+**Test:** for every headline % contrast in PAPER.md, compute the absolute pt-difference and Cohen's *w*. Define and pre-register a minimum interesting threshold (proposal: ≥ 5pt absolute and Cohen's *w* ≥ 0.10). Replace the "every headline is significant" sentence with "every headline difference exceeds 5pt and Cohen's *w* > 0.10 (audit table at [SIGNIFICANCE_FULL.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/SIGNIFICANCE_FULL.md))."
 
 ### D20 — Reichmann 1999 citation **unverifiable** — RESOLVED 2026-05-27 by removal · *was important, now closed (negatively)*
 
@@ -287,7 +289,7 @@ A constraint is a thing the world imposes on you; a shape is a property the arte
 
 ### D21 — Cappeller-precedent narrative checked against MW 1872 — **PARTIALLY RESOLVED 2026-05-27**, finding: three-stage lineage · *was blocking, now closed*
 
-> **Resolution.** Per the [MW 1872 preface + body check](analysis/LS_HEDGE_CHECK.md#mw-1872-preface-and-body-check-added-2026-05-27-d21-resolution): MW 1872 preface § II explicitly declares the L.-convention ("when a word had not yet been met with in any published literary work, but only in native lexicons, it was decided to denote this by the letter L."), but the MW 1872 *body* does not systematically implement it — 0 tagged instances; the 17 inline " L." occurrences are mostly Linnaean botanical attributions. The corrected three-stage lineage is: **1872 (MW declares concept)** → **1891 (Cappeller `*` first systematic typographic implementation, 1,370 instances)** → **1899 (MW + Cappeller as co-editor: tagged & scaled, 40,212 instances)**. The O1 downgrade direction is *correct* but *softer* than the original O1 text implied: MW's role is concept (1872) + tagged-implementation (1899), Cappeller's is systematic-typographic-implementation (1891). PAPER.md §7.2(ii), Appendix C.2, IJL_COVER_LETTER.md, and PAPER_RU.md §6.5–6.6 to be revised to the three-stage framing. Original D21 text retained below for traceability.
+> **Resolution.** Per the [MW 1872 preface + body check](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/LS_HEDGE_CHECK.md#mw-1872-preface-and-body-check-added-2026-05-27-d21-resolution): MW 1872 preface § II explicitly declares the L.-convention ("when a word had not yet been met with in any published literary work, but only in native lexicons, it was decided to denote this by the letter L."), but the MW 1872 *body* does not systematically implement it — 0 tagged instances; the 17 inline " L." occurrences are mostly Linnaean botanical attributions. The corrected three-stage lineage is: **1872 (MW declares concept)** → **1891 (Cappeller `*` first systematic typographic implementation, 1,370 instances)** → **1899 (MW + Cappeller as co-editor: tagged & scaled, 40,212 instances)**. The O1 downgrade direction is *correct* but *softer* than the original O1 text implied: MW's role is concept (1872) + tagged-implementation (1899), Cappeller's is systematic-typographic-implementation (1891). PAPER.md §7.2(ii), Appendix C.2, IJL_COVER_LETTER.md, and PAPER_RU.md §6.5–6.6 to be revised to the three-stage framing. Original D21 text retained below for traceability.
 
 [PAPER.md §7.2(ii)](PAPER.md#72-three-findings-all-three-frameworks-reach) and [Appendix C §C.2](PAPER.md#appendix-c--the-hausmann-wiegand-comment-class-reading-condensed) now downgrade the "MW innovation" claim because Cappeller 1891 uses `*` for "word taught only by grammarians or lexicographers." But **MW's first edition is 1872, not 1899** ([archive.org/details/1872sanskriten00moniuoft](https://archive.org/details/1872sanskriten00moniuoft)). The 1899 edition is a revision of 1872, completed with Leumann and Cappeller. If MW 1872 *already contains* the systematic `<ls>L.</ls>` tagged hedge (or its print analogue), then Cappeller's 1891 asterisk **postdates** MW's tagged system by 19 years — and the lineage runs the *opposite* direction (Cappeller followed MW). The O1 downgrade may be wrong; the original "MW innovation" claim may be right (or even underclaimed: it predates Cappeller, not the other way around).
 
@@ -323,3 +325,5 @@ Lumping Cappeller `*` and Benfey `†` as "the precedent" while *omitting* the t
 
 Per the O7 prompt mandate, these seven doubts are **recorded, not fixed**. D21 in particular is rated *blocking* because if MW 1872 turns out to have the systematic hedge already, the §7.2(ii) and Appendix C.2 narrative reverses — and the IJL cover letter would need to claim the stronger version of "MW innovation." Resolution work for D16–D22 should be scheduled before submission; recommended order: **D21 first** (it is a 2-hour check that gates the others), then D17 (a footnote), then D16 (a paragraph rewrite), then D18 / D19 / D20 (each ≈ 1 hour of audit and one paragraph of rewrite), then D22 (one table). Total estimated work: 6–10 hours.
 {% endraw %}
+
+_Dr. Mārcis Gasūns_

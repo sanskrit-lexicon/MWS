@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010028.jpg
 source_page: Page xxiv
@@ -40,3 +42,5 @@ But the most patriotic of India's patriots must acknowledge that the Hindūs hav
 ⁵ Hindī when so transliterated is called Hindūstānī or Urdū.
 
 ⁶ *Litera,* 'a letter,' is derived from *lino,* 'to smear,' just as Sanskrit *lipi* from *lip.* If a corresponding word were to be used in Sanskrit it would be *lipi-śāstra.* The word *akshara,* which is the Sanskrit for a letter, properly means 'indelible,' and this meaning seems to point to the use of letters in early times for inscriptions on stones and metal. Similarly the first meaning of *lekha* is 'scratching with a sharp point.'
+
+_Dr. Mārcis Gasūns_

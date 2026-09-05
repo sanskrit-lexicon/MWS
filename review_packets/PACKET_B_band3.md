@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # Packet B — band-3 `<ls>L.</ls>` lemmas vs DCS (with corpus example)
 
 167 MW headwords whose entire attestation is the lexicographer hedge `L.`, yet which DCS attests 10–99×. For each, decide whether the **DCS example sentence uses MW's word in MW's sense** (confirm) or a **homograph** (reject).
@@ -839,3 +841,4 @@
 - **DCS example:** balāpunarnavairaṇḍaśūrpaparṇīdvayena tu
 - **Confirm corpus = MW sense? (Y / homograph / unsure)** Verdict: ____
 
+_Dr. Mārcis Gasūns_

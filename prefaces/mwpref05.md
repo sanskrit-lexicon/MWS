@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010012.jpg
 source_page: Page viii
@@ -22,3 +24,5 @@ At all events I feel sure that I may affirm for my collaborators, as well as for
 And here it is my duty to notify, in justice as much to my assistants as to myself, that I must be held primarily responsible, not only for the plan, but for the general character of the whole Dictionary. This will be understood when I state that I have from the first exercised a strict superintendence over the details of both editions—not only in carefully supervising the manuscript, but in adding new words, in modifying or amplifying meanings, in subjoining explanations from my own literary notes—made during my sojourning at the chief seats of learning in India—in examining and re-examining every proof-sheet.
 
 I ought to state, however, that during occasional attacks of illness I have been
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # mw.txt structural-integrity review
 
 A single-pass structural check of the canonical
@@ -9,7 +11,7 @@ not the tooling. Analysis only; mutates nothing.
 286,560 records, perfectly `<L>`/`<LEND>`-balanced, **no BOM**, **no duplicate
 L-numbers**, **no replacement chars**, and every paired tag + brace marker
 (`{# #}`, `{% %}`, `{{ }}`) balanced within every record. See
-[INTEGRITY_REPORT.md](INTEGRITY_REPORT.md).
+[INTEGRITY_REPORT.md](https://github.com/sanskrit-lexicon/MWS/blob/master/mw_integrity/INTEGRITY_REPORT.md).
 
 **One** cosmetic flag in 286,560 records: **L27713.2** has two trailing spaces
 after `<e>2` (a supplement entry, page 1320,2). Not structure-breaking, but a
@@ -42,6 +44,8 @@ maintainer-gated like any `mw.txt` edit.
 
 | File | What |
 |---|---|
-| [`mw_integrity.py`](mw_integrity.py) | the checker (`python mw_integrity.py`) |
+| [`mw_integrity.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/mw_integrity/mw_integrity.py) | the checker (`python mw_integrity.py`) |
 | `integrity_issues.csv` | every flagged record (currently 1) |
-| [`INTEGRITY_REPORT.md`](INTEGRITY_REPORT.md) | the report |
+| [`INTEGRITY_REPORT.md`](https://github.com/sanskrit-lexicon/MWS/blob/master/mw_integrity/INTEGRITY_REPORT.md) | the report |
+
+_Dr. Mārcis Gasūns_

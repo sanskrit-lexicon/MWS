@@ -1,3 +1,5 @@
+_Created: 08-07-2026 · Last updated: 05-09-2026_
+
 ---
 paper_id: A39
 title: "Grammar, Dictionary, Corpus: Where the Three Authorities Disagree about Sanskrit Verbal Roots"

@@ -1,3 +1,5 @@
+_Created: 03-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mwe_Page_05_Image_0001.png
 source_page: Contractions
@@ -47,3 +49,5 @@ loc. c. — locative case.
 conj. — conjunction.
 interj. — interjection.
 exclam. — exclamation.
+
+_Dr. Mārcis Gasūns_

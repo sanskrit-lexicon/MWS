@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010029.jpg
 source_page: Page xxv
@@ -34,3 +36,5 @@ The first kind is now called Kharoshṭhī (or 'Ass's lip' form of writing, *lip
 ³ Aśoka, who called himself Priya-darśin, was the grandson of Candra-gupta, did for Buddhism what Constantine did for Christianity, by adopting it as his own creed. Buddhism then became the religion of the whole kingdom of Magadha, and therefore of a great portion of India; and Aśoka's edicts, inscribed on rocks and pillars (about the middle of the third century B.C.), furnish the first authentic records of Indian history. Yet the language of these inscriptions cannot be said to be exactly identical with so-called Māgadhī Prākṛit, nor with the Pāli of the Buddhist sacred scriptures, although those forms of Prākṛit may be loosely called either Māgadhī or Pāli. Nor was the name Pāli originally applied to the *language* of the Buddhist Canon, but rather to the *line or series of passages* constituting a text (cf. the use of *tantra*). According to Professor Oldenberg the Vinaya portion of the texts existed in its present form as early as 400 B.C. The later Buddhist texts were written down not long after, and commentaries have since been compiled in the language of Ceylon, Siam, and Burma; the Pāli of Ceylon being affected by intercourse with Kalinga (Orissa).
 
 ⁴ See this Kharoshṭhī fully described in Professor Bühler's book. The first names given to it were Ariano-Pāli, Bactro-Pāli, Indo-Bactrian, North Aśoka &c. Sir A. Cunningham called it Gāndhārian. Pandit Gaurī-Śaṃkar, in his interesting work Prācīna-lipi-mālā written in Hindī, calls it *Gāndhāra-lipi.* Some think that Kharoshṭhī is derived from the name of the inventor.
+
+_Dr. Mārcis Gasūns_

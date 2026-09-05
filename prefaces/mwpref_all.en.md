@@ -1,6 +1,8 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 # Front matter — complete (English, source language)
 
-Per-page files: `mwprefNN.md`. Index: [README.md](README.md).
+Per-page files: `mwprefNN.md`. Index: [README.md](https://github.com/sanskrit-lexicon/MWS/blob/master/prefaces/README.md).
 
 ## Contents
 
@@ -993,3 +995,5 @@ As to the books used by myself, many of them, of course, are identical with thos
 MONIER MONIER-WILLIAMS.
 
 Indian Institute, Oxford.
+
+_Dr. Mārcis Gasūns_

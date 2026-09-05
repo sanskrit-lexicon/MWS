@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010036.jpg
 source_page: Page xxxii
@@ -30,3 +32,5 @@ As to the books used by myself, many of them, of course, are identical with thos
 MONIER MONIER-WILLIAMS.
 
 Indian Institute, Oxford.
+
+_Dr. Mārcis Gasūns_

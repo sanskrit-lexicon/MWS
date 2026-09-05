@@ -1,11 +1,13 @@
+_Created: 23-05-2026 · Last updated: 05-09-2026_
+
 {% raw %}
 # The microstructure of *Monier-Williams 1899*: a Wiegand-theoretic analysis
 
-> **Supplementary extended draft — superseded by [PAPER.md](PAPER.md).** One of four single-framework drafts consolidated into the single submission paper per [DOUBTS.md D4](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking). This Wiegand-theoretic reading is condensed into [PAPER.md Appendix A](PAPER.md#appendix-a--the-wiegand-theoretic-reading-condensed); this fuller draft is retained as supplementary material only. **For the canonical paper, read [PAPER.md](PAPER.md).**
+> **Supplementary extended draft — superseded by [PAPER.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md).** One of four single-framework drafts consolidated into the single submission paper per [DOUBTS.md D4](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking). This Wiegand-theoretic reading is condensed into [PAPER.md Appendix A](PAPER.md#appendix-a--the-wiegand-theoretic-reading-condensed); this fuller draft is retained as supplementary material only. **For the canonical paper, read [PAPER.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md).**
 
 **Draft for the [*International Journal of Lexicography*](https://academic.oup.com/ijl) (Oxford University Press).** ~8K words target.
 
-**Theoretical framing:** Wiegand's microstructure theory (Wiegand 1989, 1996, 2002; Wiegand & Smit 2013). One of four parallel framework analyses of the same MW1899 data — see [README](README.md). Data source: [MICROANALYSIS.md](MICROANALYSIS.md).
+**Theoretical framing:** Wiegand's microstructure theory (Wiegand 1989, 1996, 2002; Wiegand & Smit 2013). One of four parallel framework analyses of the same MW1899 data — see [README](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/README.md). Data source: [MICROANALYSIS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md).
 
 ---
 
@@ -29,7 +31,7 @@ This paper applies the framework to a dataset that Wiegand himself never analyse
 
 We proceed by mapping the digital tags onto Wiegandian categories and then asking three questions: (i) what is the microstructure type of MW (additive, semi-integrated, integrated)? (ii) which structural indicators carry the most discriminative load? (iii) how does the microstructure vary across the dictionary's internal article-type typology?
 
-The data for this analysis are the 18 formal blocks and 14 article types catalogued in our companion [working notes](MICROANALYSIS.md). All counts are computed from the live mw.txt (2026-05).
+The data for this analysis are the 18 formal blocks and 14 article types catalogued in our companion [working notes](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md). All counts are computed from the live mw.txt (2026-05).
 
 ## 2. Wiegandian apparatus
 
@@ -37,7 +39,7 @@ For the analysis below we use the following Wiegand terminology (numbered in his
 
 - **Article** (*Artikel*): the complete entry from `<L>` to `<LEND>` in the digital edition; a *fully-coded article* in Wiegand's typology.
 - **Lemma** (*Lemma*): the headword identified by `<k1>` and displayed by `<s>` (see Wiegand 1989: 410ff.).
-- **Lemma-sign** (*Lemmazeichen*): the lemma plus its [phonetic, accent, and graphic indicators](../../ENTRY_GUIDE.md#orthographical-conventions) — what MW realises as `<k2>` plus the optional `/` accent marker.
+- **Lemma-sign** (*Lemmazeichen*): the lemma plus its [phonetic, accent, and graphic indicators](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md#orthographical-conventions) — what MW realises as `<k2>` plus the optional `/` accent marker.
 - **Item** (*Angabe*): a discrete unit of information about the lemma. The 18 formal blocks of MICROANALYSIS.md §1 are *Angaben* in Wiegand's sense.
 - **Item-class** (*Angabeklasse*): an abstract category of items (e.g. *grammatical category*); MW's 8 semantic blocks (MICROANALYSIS.md §2) are item-classes.
 - **Structural indicator** (*Strukturanzeiger*): a typographic or positional device signalling an item's class membership. In MW these are realised as XML tags: `<lex>`, `<ls>`, `<bot>`, etc.
@@ -82,7 +84,7 @@ Wiegand distinguishes three microstructure types (1989: 416–425):
 
 ### 4.1 The `<e>` hierarchy
 
-The `<e>1` → `<e>1A` → `<e>2` → `<e>3` series ([data](../../ENTRY_GUIDE.md#entry-hierarchy-distribution)) realises a 4-deep integration:
+The `<e>1` → `<e>1A` → `<e>2` → `<e>3` series ([data](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md#entry-hierarchy-distribution)) realises a 4-deep integration:
 
 ```
 <e>1  primary lemma                            (32,116 entries)
@@ -121,11 +123,11 @@ This indicator achieves a 100%/0% split: present in 100% of verbal-root articles
 
 Present in **100% of lexicographer-only articles** (definitionally) but also striking off-diagonals: **71.5% of botanical articles** and **64.7% of biographical articles**. The lexicographer-hedge is not merely a category marker — it is a **transverse indicator** that cuts across article types, signalling that *this particular article's evidence base is the indigenous lexicon, not a published text*, regardless of what kind of article it is.
 
-This indicator is **specific to MW**: PWG's [571,152 `<ls>` citations](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) contain zero instances of `<ls>L.</ls>`. PWG handled the same situation by citing the specific kosha (`H.` Hemacandra 17,337 times, `AK.` Amarakośa 14,473 times, `MED.` Medinīkośa 13,055 times, etc.). MW collapsed these into the single `L.` indicator. In Wiegandian terms this is a **deliberate impoverishment** of the structural-indicator system — gaining typographic compactness but losing source granularity. The trade-off is documented in MW's own preface and discussed in [DICT_PROFILE Lineage](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg).
+This indicator is **specific to MW**: PWG's [571,152 `<ls>` citations](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) contain zero instances of `<ls>L.</ls>`. PWG handled the same situation by citing the specific kosha (`H.` Hemacandra 17,337 times, `AK.` Amarakośa 14,473 times, `MED.` Medinīkośa 13,055 times, etc.). MW collapsed these into the single `L.` indicator. In Wiegandian terms this is a **deliberate impoverishment** of the structural-indicator system — gaining typographic compactness but losing source granularity. The trade-off is documented in MW's own preface and discussed in [DICT_PROFILE Lineage](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#lineage-wil--koshas-mw--pwg).
 
 ### 5.3 `<lang>` — the comparative-cognate indicator
 
-Present in 100% of IE-etymological articles (by definition) and < 1% elsewhere. As with `genuineroot`, this is a **type-defining** indicator. Its presence concentrates in just 0.7% of records (2,099 entries) but those entries carry MW's distinctive philological contribution — the [comparative-IE apparatus](../../ENTRY_GUIDE.md#ie-cognate-density--lang-breakdown) absent or muted in WIL, AP90, and SKD.
+Present in 100% of IE-etymological articles (by definition) and < 1% elsewhere. As with `genuineroot`, this is a **type-defining** indicator. Its presence concentrates in just 0.7% of records (2,099 entries) but those entries carry MW's distinctive philological contribution — the [comparative-IE apparatus](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md#ie-cognate-density--lang-breakdown) absent or muted in WIL, AP90, and SKD.
 
 ## 6. Article-type microstructure profiles
 
@@ -215,5 +217,7 @@ The digital edition's XML markup makes the analysis tractable for the first time
 
 ---
 
-*Source data: [MICROANALYSIS.md](MICROANALYSIS.md). Companion framework papers: [Atkins-Rundell](paper-atkins-rundell.md) · [Hausmann-Wiegand](paper-hausmann.md) · [Grounded](paper-grounded.md). All four analyse the same MW1899 dataset through different theoretical lenses.*
+*Source data: [MICROANALYSIS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md). Companion framework papers: [Atkins-Rundell](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/paper-atkins-rundell.md) · [Hausmann-Wiegand](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/paper-hausmann.md) · [Grounded](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/paper-grounded.md). All four analyse the same MW1899 dataset through different theoretical lenses.*
 {% endraw %}
+
+_Dr. Mārcis Gasūns_

@@ -1,17 +1,19 @@
+_Created: 23-05-2026 · Last updated: 05-09-2026_
+
 {% raw %}
 # *Monier-Williams 1899* through the Hausmann–Wiegand comment-class lens
 
-> **Supplementary extended draft — superseded by [PAPER.md](PAPER.md).** One of four single-framework drafts consolidated into the single submission paper per [DOUBTS.md D4](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking). This Hausmann-Wiegand reading (including the proposed *Provenienz-Komment*) is condensed into [PAPER.md Appendix C](PAPER.md#appendix-c--the-hausmann-wiegand-comment-class-reading-condensed); this fuller draft is retained as supplementary material only. **For the canonical paper, read [PAPER.md](PAPER.md).**
+> **Supplementary extended draft — superseded by [PAPER.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md).** One of four single-framework drafts consolidated into the single submission paper per [DOUBTS.md D4](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking). This Hausmann-Wiegand reading (including the proposed *Provenienz-Komment*) is condensed into [PAPER.md Appendix C](PAPER.md#appendix-c--the-hausmann-wiegand-comment-class-reading-condensed); this fuller draft is retained as supplementary material only. **For the canonical paper, read [PAPER.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md).**
 
 **Draft for the [*International Journal of Lexicography*](https://academic.oup.com/ijl) (Oxford University Press).** ~7K words target.
 
-**Theoretical framing:** Hausmann (1977, 1985) + Wiegand (1989) hybrid — comment-classes (Form-Komment, Semantischer Komment, Pragmatischer Komment, Quellen-Komment). One of four parallel framework analyses — see [README](README.md). Data source: [MICROANALYSIS.md](MICROANALYSIS.md).
+**Theoretical framing:** Hausmann (1977, 1985) + Wiegand (1989) hybrid — comment-classes (Form-Komment, Semantischer Komment, Pragmatischer Komment, Quellen-Komment). One of four parallel framework analyses — see [README](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/README.md). Data source: [MICROANALYSIS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md).
 
 ---
 
 ## Abstract
 
-The pre-Wiegandian framework most cited as a precursor to modern microstructure theory is Franz Josef Hausmann's *comment-classes* (Hausmann 1977, 1985, *Lexikographische Auswahl*): the proposal that each dictionary article decomposes into a small number of **functional comments** about the lemma — *form-comment* (orthographic/phonetic), *semantic-comment* (definition), *pragmatic-comment* (register), *source-comment* (citation). Wiegand's later (1989, 2002) work refines and largely subsumes Hausmann's categories. Where Hausmann-Wiegand hybrid analysis remains most useful is for **19th-century scholarly dictionaries** like Monier-Williams 1899 — works that predate Wiegandian rigour but whose comment-classes are sharply distinguishable and **historically attested as the lexicographer's own working categories**. This paper applies the Hausmann-Wiegand hybrid to MW's 286,561 records. We show that MW's 18 formal blocks (see [MICROANALYSIS.md](MICROANALYSIS.md)) cleanly partition into four comment-classes plus an evidential-hedge sub-class that constitutes Hausmann's only theoretical gap. We propose that MW's `<ls>L.</ls>` lexicographer-hedge, missing from Hausmann's original four-comment system, fits into a fifth class we call **provenance-comment** (*Provenienz-Komment*) — a 19th-century lexicographic device whose modern equivalent is the *register/usage-label*.
+The pre-Wiegandian framework most cited as a precursor to modern microstructure theory is Franz Josef Hausmann's *comment-classes* (Hausmann 1977, 1985, *Lexikographische Auswahl*): the proposal that each dictionary article decomposes into a small number of **functional comments** about the lemma — *form-comment* (orthographic/phonetic), *semantic-comment* (definition), *pragmatic-comment* (register), *source-comment* (citation). Wiegand's later (1989, 2002) work refines and largely subsumes Hausmann's categories. Where Hausmann-Wiegand hybrid analysis remains most useful is for **19th-century scholarly dictionaries** like Monier-Williams 1899 — works that predate Wiegandian rigour but whose comment-classes are sharply distinguishable and **historically attested as the lexicographer's own working categories**. This paper applies the Hausmann-Wiegand hybrid to MW's 286,561 records. We show that MW's 18 formal blocks (see [MICROANALYSIS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md)) cleanly partition into four comment-classes plus an evidential-hedge sub-class that constitutes Hausmann's only theoretical gap. We propose that MW's `<ls>L.</ls>` lexicographer-hedge, missing from Hausmann's original four-comment system, fits into a fifth class we call **provenance-comment** (*Provenienz-Komment*) — a 19th-century lexicographic device whose modern equivalent is the *register/usage-label*.
 
 **Keywords:** Hausmann, Wiegand, comment-classes, scholarly lexicography, Monier-Williams, Sanskrit, koshic provenance
 
@@ -34,7 +36,7 @@ Wiegand's later work (1989 onward) reframes these as *item-classes* and adds fur
 
 This paper takes that observation seriously. MW1899 is older than Hausmann's framework and far older than Wiegand's. Its lexicographer — Monier Monier-Williams himself, with Leumann and Cappeller — would have recognised four broad comment categories in his own work: *form, meaning, register, source*. That this map onto Hausmann's four is not coincidence but reflects the **continuity of European scholarly lexicography from the early modern period through the 20th century**. Applying Hausmann-Wiegand to MW therefore *recovers the lexicographer's own working categories*, not an alien framework.
 
-Our data is the 18 formal blocks of [MICROANALYSIS.md](MICROANALYSIS.md), partitioned below.
+Our data is the 18 formal blocks of [MICROANALYSIS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md), partitioned below.
 
 ## 2. Partitioning MW's 18 blocks into Hausmann-Wiegand comment-classes
 
@@ -65,7 +67,7 @@ This yields five comment-classes — Form, Semantic, Pragmatic (residual), Sourc
 
 Hausmann emphasises that **form-comment is what distinguishes a scholarly dictionary from a learner's dictionary**. Learner dictionaries reduce form-comment to a minimum (pronunciation, irregular inflection); scholarly dictionaries elaborate it. MW is exemplary.
 
-MW's form-comment realises **eight distinct formal blocks** — F01 through F08 plus the etymological portion of F09. The distribution across article types ([MICROANALYSIS.md §4](MICROANALYSIS.md)):
+MW's form-comment realises **eight distinct formal blocks** — F01 through F08 plus the etymological portion of F09. The distribution across article types ([MICROANALYSIS.md §4](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md)):
 
 | Form-comment sub-block | % entries with it | Most concentrated in |
 |---|--:|---|
@@ -114,11 +116,11 @@ In MW the provenance-comment class is realised by exactly one block, F13. Its di
 
 The 71.5% incidence in botanicals is the most informative datum. Botanical Sanskrit vocabulary in MW is overwhelmingly *koshic*: the indigenous medical lexicons (Suśruta, *Nighaṇṭus*) identified plants without textual attestation in literary Sanskrit. MW marks this provenance via `L.` — and this is the **only** way the reader learns it.
 
-The Provenienz-Komment is in this sense a **19th-century lexicographic invention**. Hausmann did not name it because his French and German source-dictionaries did not need it: French and German lexicographers didn't have to mark indigenous-lexicographer-only vocabulary. Sanskrit lexicography did. MW's solution — the binary `L.`-vs-named-source provenance system — is a tool tailored to the [koshic-textual evidential duality of Sanskrit lexicography](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg).
+The Provenienz-Komment is in this sense a **19th-century lexicographic invention**. Hausmann did not name it because his French and German source-dictionaries did not need it: French and German lexicographers didn't have to mark indigenous-lexicographer-only vocabulary. Sanskrit lexicography did. MW's solution — the binary `L.`-vs-named-source provenance system — is a tool tailored to the [koshic-textual evidential duality of Sanskrit lexicography](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#lineage-wil--koshas-mw--pwg).
 
 ## 6. Quellen-Komment (source-comment) proper
 
-The non-`L.` source-comments in MW name a literary work. The [top-25 source list](../../ENTRY_GUIDE.md#top-25-most-cited-sources) shows the spread: Epic (MBh., R., Hariv.), Vedic (RV., AV., TS., VS.), Sūtra (Pāṇ., KātyŚr.), Brāhmaṇa (ŚBr., TBr.), Smṛti (Mn., Yājñ.), Story (Kathās., Pañcat.), kāvya, Purāṇic, medical (Suśr.), astronomical (VarBṛS.), chronicle (Rājat.).
+The non-`L.` source-comments in MW name a literary work. The [top-25 source list](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md#top-25-most-cited-sources) shows the spread: Epic (MBh., R., Hariv.), Vedic (RV., AV., TS., VS.), Sūtra (Pāṇ., KātyŚr.), Brāhmaṇa (ŚBr., TBr.), Smṛti (Mn., Yājñ.), Story (Kathās., Pañcat.), kāvya, Purāṇic, medical (Suśr.), astronomical (VarBṛS.), chronicle (Rājat.).
 
 The **distinction between Quellen-Komment (cite a text) and Provenienz-Komment (cite the lexical tradition)** is sharpest in MW. PWG made the same distinction but used **named koshas** (`<ls>H.</ls>`, `<ls>AK.</ls>`, etc.) where MW uses `L.`. In Hausmann-Wiegand terms: PWG distributed the provenance-comment across multiple Quellen-Komment indicators; MW collapsed them into a single Provenienz-Komment indicator. We treat this as a deliberate **typological simplification** — a 19th-century design choice — rather than a degradation.
 
@@ -142,7 +144,7 @@ Two MW blocks — F17 (`<info>` machine annotation) and F18 (`{{old -> new || ..
 
 F17 is near-universal (96% of entries). It carries machine-readable encoding of the form-comment information already given in human-readable form (`<info lex="m"/>` duplicates `<lex>m.</lex>`). It exists to support the [SQLite generation pipeline](https://github.com/sanskrit-lexicon/csl-pywork/blob/master/v02/makotemplates/pywork/sqlite/sqlite.py) and the web display.
 
-F18 is vanishingly rare (< 30 instances). It records in-file corrections with author/date/URL provenance. The fact that there are so few of these is itself informative: corrections in MW are happening **exclusively via the GitHub issue-tracker** ([34 open, 157 closed](../../ROADMAP.md#status-snapshot-2026-05-27)) rather than via in-file correction records. The infrastructure exists but is not used.
+F18 is vanishingly rare (< 30 instances). It records in-file corrections with author/date/URL provenance. The fact that there are so few of these is itself informative: corrections in MW are happening **exclusively via the GitHub issue-tracker** ([34 open, 157 closed](https://github.com/sanskrit-lexicon/MWS/blob/master/ROADMAP.md#status-snapshot-2026-05-27)) rather than via in-file correction records. The infrastructure exists but is not used.
 
 ## 9. The Hausmann-Wiegand article-type signature
 
@@ -178,7 +180,7 @@ This **fivefold signature taxonomy** is a Hausmann-Wiegand finding: it abstracts
 Hausmann (1985: §4) argues that **the pragmatic-comment is the most under-realised class in older scholarly dictionaries**. Our analysis confirms this for MW: pragmatic-comment is residual, outsourced to citation pattern. A modern revision following Hausmann-Wiegand would:
 
 - Explicitly fill the pragmatic-comment class — register labels (*literary*, *Vedic*, *late Sanskrit*, *medical*, *Tantric*, *koshic-only*).
-- Subdivide the Provenienz-Komment — break `L.` back into named-kosha citations as PWG had ([see Lineage section](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg)).
+- Subdivide the Provenienz-Komment — break `L.` back into named-kosha citations as PWG had ([see Lineage section](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#lineage-wil--koshas-mw--pwg)).
 - Add a Beispielkomment (example-comment) class — currently entirely absent.
 
 The first two are *resolvable* against the existing digital evidence (the koshas at [ARMH](https://github.com/sanskrit-lexicon/armh), [ABCH](https://github.com/sanskrit-lexicon/abch), [ACPH](https://github.com/sanskrit-lexicon/acph), [ACSJ](https://github.com/sanskrit-lexicon/acsj) provide what's needed for de-hedging `L.`); the third requires fresh corpus work.
@@ -205,5 +207,7 @@ The most consequential MW-specific contribution to scholarly lexicography is the
 
 ---
 
-*Source data: [MICROANALYSIS.md](MICROANALYSIS.md). Companion framework papers: [Wiegand](paper-wiegand.md) · [Atkins-Rundell](paper-atkins-rundell.md) · [Grounded](paper-grounded.md). All four analyse the same MW1899 dataset through different theoretical lenses.*
+*Source data: [MICROANALYSIS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md). Companion framework papers: [Wiegand](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/paper-wiegand.md) · [Atkins-Rundell](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/paper-atkins-rundell.md) · [Grounded](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/paper-grounded.md). All four analyse the same MW1899 dataset through different theoretical lenses.*
 {% endraw %}
+
+_Dr. Mārcis Gasūns_

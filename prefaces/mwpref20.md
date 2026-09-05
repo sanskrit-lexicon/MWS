@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010027.jpg
 source_page: Page xxiii
@@ -40,3 +42,5 @@ Here, however, I seem to hear some learned native of India remark:—It may be t
 ⁴ Notwithstanding the elaborate proofs given by the Abbé Van Drival in his ingenious and interesting treatise on '*l'origine de l'écriture.*'
 
 ⁵ See note 2, p. xxvi.
+
+_Dr. Mārcis Gasūns_

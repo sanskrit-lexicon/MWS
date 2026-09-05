@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # Packet A — `ib.` resolution check (sample of 50)
 
 `ib.` = "ibidem". The resolver assigned each to the preceding source by document order. For each, read the gloss and decide whether the **resolved source is the one MW meant**. 35 same-cluster (high-confidence) + 15 crossed-headword (the weaker class).
@@ -204,3 +206,4 @@
 - apehi—vARijA | (scil. kriyA) f. a ceremony from which merchants are excluded, ib.
 - **Is `ib.` here = Mn.? (Y/N/unsure)** Verdict: ____
 
+_Dr. Mārcis Gasūns_

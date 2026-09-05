@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010020.jpg
 source_page: xvi
@@ -30,3 +32,5 @@ And let me at once say that, as it was intended to give explanations of even mor
 Let any critic, then, who may feel inclined to pass a severe judgment on the contrivances for abbreviation in the present edition of the Dictionary, think for a moment of the difficulties in which its compilers found themselves involved. It was only gradually that the actual fact revealed itself—the very startling fact that we had to provide for the treatment of about one half more Sanskrit words, simple and compound, than in the first edition. That is to say, calculating as I had done that the number of Sanskrit words—simple and compound—in the first edition amounted to about 120,000, it became evident to us, as the work proceeded, that the number to be provided for in the new edition could not be reckoned at less than 180,000. It was as if a builder employed in repairing one of his own buildings had been told that he had to provide for the crowding of 1,800 human beings into a room, originally constructed by him to hold only twelve hundred.
 
 Or perhaps the difficulty may be better illustrated thus :—A traveller, after having made a voyage round the world, starts some time afterwards for a second similar journey. The rules of the ship in
+
+_Dr. Mārcis Gasūns_

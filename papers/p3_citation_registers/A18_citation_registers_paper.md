@@ -1,3 +1,5 @@
+_Created: 17-07-2026 · Last updated: 05-09-2026_
+
 ---
 paper_id: A18
 title: "One Slot, Many Warrants: The Evidentiary Stratification of the Citation Apparatus in Monier-Williams' Sanskrit-English Dictionary"
@@ -13,10 +15,10 @@ data_source: "MWS/papers/p3_citation_registers/register_census/ (register_census
 _Created: 16-07-2026 · Last updated: 16-07-2026_
 
 > **Draft status (2026-07-16, readiness 3/5 pending author sign-off).** Every count in §3 is
-> computed by [`register_census/register_census.py`](register_census/register_census.py) over
+> computed by [`register_census/register_census.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/p3_citation_registers/register_census/register_census.py) over
 > `csl-orig` `v02/mw/mw.txt` and persisted to
-> [`register_census/CENSUS.md`](register_census/CENSUS.md) +
-> [`census_stats.json`](register_census/census_stats.json); the run is deterministic
+> [`register_census/CENSUS.md`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/p3_citation_registers/register_census/CENSUS.md) +
+> [`census_stats.json`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/p3_citation_registers/register_census/census_stats.json); the run is deterministic
 > (re-running reproduces every artifact byte-identically). Corpus figures in §5 are carried
 > from the committed modules cited there and are **not** re-derived here.
 > **Open before submission (author/@DO):** (1) confirm byline + venue and do the final read;
@@ -149,7 +151,7 @@ complementary one: *within* a register, density is still not evidence.
 
 We parse the canonical Cologne source `csl-orig` `v02/mw/mw.txt` directly — 286,525
 `<L>`…`<LEND>` records — and classify every tagged citation in it. The script
-([`register_census/register_census.py`](register_census/register_census.py)) is committed, its
+([`register_census/register_census.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/p3_citation_registers/register_census/register_census.py)) is committed, its
 outputs are persisted next to it, and a re-run reproduces every artifact byte-identically.
 
 Two features of MW's markup govern the method, and getting either wrong changes the answer

@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # MW phrasal-headword (phw) cross-reference graph
 
 An undocumented bidirectional structured-data layer in MW. A parent sense links to
@@ -12,7 +14,7 @@ child   L99930.1 (DarmeRa "according to rule")   <info phwparent="99906,Darma"/>
 
 This is real queryable data — MW's mechanism for making an inline phrase
 (`dharmeṇa`) a first-class, linkable sub-entry. It is absent from
-[DATA_DICTIONARY.md](../DATA_DICTIONARY.md) (as is `<etym>`, 2,637 tags).
+[DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/MWS/blob/master/DATA_DICTIONARY.md) (as is `<etym>`, 2,637 tags).
 
 ## Findings
 
@@ -33,7 +35,7 @@ This is real queryable data — MW's mechanism for making an inline phrase
 | `child_missing_backlink` | 7 | parent→child but child has no back-link |
 | `dangling_phwparent` | 1 | child points to a missing parent |
 
-✅ **Fixed 2026-06-13** ([CODE_REVIEW.md](../papers/CODE_REVIEW.md) #9, #10): the count
+✅ **Fixed 2026-06-13** ([CODE_REVIEW.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/CODE_REVIEW.md) #9, #10): the count
 may double-count a single broken pair flagged by both the parent and child passes, and an
 a child-with-no-backlink was bucketed the same as a wrong-parent mismatch — **now fixed**:
 the buckets are split (`child_missing_backlink` / `child_wrong_parent`) and the summary reports
@@ -49,16 +51,18 @@ the whole corpus ever carries an `<info>` tag). See `phw_integrity.csv` — now 
 
 | File | What |
 |---|---|
-| [`phw_audit.py`](phw_audit.py) | reconstruct + audit (`python phw_audit.py`) |
+| [`phw_audit.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/phw_graph/phw_audit.py) | reconstruct + audit (`python phw_audit.py`) |
 | `phw_edges.csv` | full graph: parent_L, parent_k1, child_L, child_k1, child_lex, reciprocal |
 | `phw_integrity.csv` | integrity issues — actionable fix list (0 rows since H1500) |
-| [`PHW_SUMMARY.md`](PHW_SUMMARY.md) | headline + integrity + child distribution |
+| [`PHW_SUMMARY.md`](https://github.com/sanskrit-lexicon/MWS/blob/master/phw_graph/PHW_SUMMARY.md) | headline + integrity + child distribution |
 
 Analysis only — no `mw.txt` mutation.
 
 ## Follow-ups
 
 - ~~Document the phw family + `<etym>` in DATA_DICTIONARY.md~~ — **done**
-  ([DATA_DICTIONARY.md](../DATA_DICTIONARY.md), 2026-06-13).
+  ([DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/MWS/blob/master/DATA_DICTIONARY.md), 2026-06-13).
 - ~~Fix the 31 broken links~~ — **done** (H1500, 2026-07-27): change file parked via
   `/cologne-correction-queue`, ships to `csl-orig` in the next `/cologne-batch-pr`.
+
+_Dr. Mārcis Gasūns_

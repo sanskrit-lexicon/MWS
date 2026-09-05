@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010033.jpg
 source_page: Page xxx
@@ -42,3 +44,5 @@ Nor need I repeat the expression of my sense of obligation to my predecessor in 
 ⁴ See especially my paper read before the R.A.S., April 21, 1890.
 
 ⁵ In 1858 I wrote strong letters to the Rev. Henry Venn, deprecating the system of transliteration then adopted by the C.M.S. It has been recently remodelled on the lines of the Geneva Congress report.
+
+_Dr. Mārcis Gasūns_

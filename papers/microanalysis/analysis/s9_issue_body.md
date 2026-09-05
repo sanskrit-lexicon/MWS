@@ -1,3 +1,5 @@
+_Created: 27-05-2026 · Last updated: 05-09-2026_
+
 @funderburkjim @Andhrabharati — please review the `docs-pass` branch.
 
 Branch: [`docs-pass`](https://github.com/sanskrit-lexicon/PWK/tree/docs-pass) of [`PWK`](https://github.com/sanskrit-lexicon/PWK).
@@ -59,3 +61,5 @@ condensation preferentially dropped citations. The profile spread across gender-
 between [PWG](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/papers/microanalysis/analysis/CROSS_DICT_PROFILES.md)
 (0.4 pts) and [MW](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/papers/microanalysis/analysis/CROSS_DICT_PROFILES.md)
 (11.3 pts). See [cross-dictionary comparison figures](https://github.com/sanskrit-lexicon/MWS/blob/docs-pass/papers/microanalysis/analysis/CROSS_DICT.md) for visualisation.
+
+_Dr. Mārcis Gasūns_

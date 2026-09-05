@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010027.jpg
 source_page: Page xxiii
@@ -42,3 +44,5 @@ translation_of: mwpref20.md
 ⁴ Несмотря на подробные доказательства, приведенные аббатом Ван Дривалем в его остроумном и интересном трактате об '*l'origine de l'écriture.*'
 
 ⁵ См. прим. 2, стр. xxvi.
+
+_Dr. Mārcis Gasūns_

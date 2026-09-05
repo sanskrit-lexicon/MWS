@@ -1,21 +1,23 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # MW botanical glossary (issue #74)
 
 A FAIR Sanskrit ↔ Linnaean botanical dataset extracted from MW's 8,923 `<bot>`
 tags, with provenance and corpus attestation. Supersedes the frequency-only
-[`botbio/mw_bot.txt`](../botbio/mw_bot.txt).
+[`botbio/mw_bot.txt`](https://github.com/sanskrit-lexicon/MWS/blob/master/botbio/mw_bot.txt).
 
 ## Contents
 
 | File | What |
 |---|---|
-| [`bot_glossary.py`](bot_glossary.py) | builds everything (`python bot_glossary.py`) |
+| [`bot_glossary.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/botanical_glossary/bot_glossary.py) | builds everything (`python bot_glossary.py`) |
 | `mw_botanical_glossary.csv` | one row per `<bot>` occurrence: headword (SLP1+IAST), species (canonical + raw), L-number, page/col, sense citation, lexicographer-only flag, DCS band |
 | `species_to_sanskrit.json` | canonical species → sorted Sanskrit synonym ring |
 | `homograph_control_headwords.csv` | one row per botanical headword with the homograph-control flags (`lexicographer_only_any`, `botanical_only`, `dcs_attested`, `clean_confirmation`); every headline count reproduces by filtering it |
-| [`gbif_currency.py`](gbif_currency.py) | GBIF nomenclatural-currency pass (`python gbif_currency.py`) |
+| [`gbif_currency.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/botanical_glossary/gbif_currency.py) | GBIF nomenclatural-currency pass (`python gbif_currency.py`) |
 | `species_currency.csv` | per-species GBIF resolution: accepted vs synonym, accepted name, family |
-| [`CURRENCY_SUMMARY.md`](CURRENCY_SUMMARY.md) | accepted-vs-synonym split of MW's binomials |
-| [`BOTANICAL_SUMMARY.md`](BOTANICAL_SUMMARY.md) | headline numbers + the L. cross-link |
+| [`CURRENCY_SUMMARY.md`](https://github.com/sanskrit-lexicon/MWS/blob/master/botanical_glossary/CURRENCY_SUMMARY.md) | accepted-vs-synonym split of MW's binomials |
+| [`BOTANICAL_SUMMARY.md`](https://github.com/sanskrit-lexicon/MWS/blob/master/botanical_glossary/BOTANICAL_SUMMARY.md) | headline numbers + the L. cross-link |
 
 ## Headline
 
@@ -45,3 +47,5 @@ charantia, `amlī`=Oxalis corniculata, …).
   coverage. Sense-level confirmation of the *plant* meaning needs sense-tagged
   corpus (the homograph caveat above).
 - Analysis only — no `mw.txt` mutation.
+
+_Dr. Mārcis Gasūns_

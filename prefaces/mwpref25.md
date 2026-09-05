@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010032.jpg
 source_page: Page xxviii
@@ -32,3 +34,5 @@ And be it understood that such an acceptance of the Romanic alphabet involves no
 ¹ The oldest known inscription in Sanskṛit is on a rock at Junā-garh in Kāthiāwār. It is called the Rudra-dāman inscription, and dates from the second century A.D. It is not in Nāgarī, but in old inscription letters. The Bower MS. of about 400 A.D. shows a great advance towards the Nāgarī, while Danti-durga's inscription of about 750 A.D. exhibits a complete set of symbols very similar to the Nāgarī now in use. It is noteworthy, however, that the first *manuscript* in really modern Nāgarī is not older than the eleventh century A.D.
 
 ² This *ă* is the *a* of our words 'vocal organ' (pronounced *vocal organ*). Sanskṛit does not possess the sound of *a* in our 'man,' nor that of *o* in our 'on.' As a consonant cannot be pronounced without a vowel, the Brāhmans chose the commonest of their vowels for the important duty of enabling every consonant to be pronounced. Hence every consonant is named by pronouncing it with *a* (e.g. *ka*, *kha*, *ga* &c.). It is, I suppose, for a similar reason that we have used the common vowel symbol *e* for naming many of our English letters.
+
+_Dr. Mārcis Gasūns_

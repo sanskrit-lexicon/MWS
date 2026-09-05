@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010023.jpg
 source_page: Page xix
@@ -37,3 +39,5 @@ Much space, too, has been gained by the application of the symbols ^ ^ ^ ^ (adop
 
 ----
 ¹ Some compound words which are formed by Taddhita affixes supposed to be added to the *whole word* ought not strictly to have a hyphen.
+
+_Dr. Mārcis Gasūns_

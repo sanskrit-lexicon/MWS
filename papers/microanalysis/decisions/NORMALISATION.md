@@ -1,8 +1,10 @@
+_Created: 23-05-2026 · Last updated: 05-09-2026_
+
 # Decisions — cross-dictionary normalisation strategy
 
-Covers decision **4** — the most substantive single decision, with seven normalisation options enumerated. See [decisions/README.md](README.md) for the full index.
+Covers decision **4** — the most substantive single decision, with seven normalisation options enumerated. See [decisions/README.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/README.md) for the full index.
 
-This document is the **canonical reference** for which normalisation to use in which figure. All percentages and counts here are computed against the live data files (2026-05-23) — see [VISUALISATIONS.md §Decision 4](../VISUALISATIONS.md#decision-4--cross-dictionary-normalisation-detailed-analysis) for the full data with caveats.
+This document is the **canonical reference** for which normalisation to use in which figure. All percentages and counts here are computed against the live data files (2026-05-23) — see [VISUALISATIONS.md §Decision 4](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/VISUALISATIONS.md#decision-4--cross-dictionary-normalisation-detailed-analysis) for the full data with caveats.
 
 ---
 
@@ -160,7 +162,9 @@ The figure caption must state the normalisation. Worked examples:
 
 ## Cross-links
 
-- [VISUALISATIONS.md §Decision 4](../VISUALISATIONS.md#decision-4--cross-dictionary-normalisation-detailed-analysis) — full discussion with "what it obscures" notes per option
-- [FIGURES.md](FIGURES.md) — figure design conventions
-- [DICT_PROFILE Lineage section](../../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) — qualitative narrative of the kosha-collapse
-- [Lineage Sankey](../figures/sankey-en.svg) — the visualisation that uses Option F
+- [VISUALISATIONS.md §Decision 4](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/VISUALISATIONS.md#decision-4--cross-dictionary-normalisation-detailed-analysis) — full discussion with "what it obscures" notes per option
+- [FIGURES.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/FIGURES.md) — figure design conventions
+- [DICT_PROFILE Lineage section](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) — qualitative narrative of the kosha-collapse
+- [Lineage Sankey](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/figures/sankey-en.svg) — the visualisation that uses Option F
+
+_Dr. Mārcis Gasūns_

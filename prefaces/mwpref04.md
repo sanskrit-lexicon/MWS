@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010011.jpg
 source_page: Page vii
@@ -26,3 +28,5 @@ Without having recourse to this convenient way of discomfiting critics of the *C
 ----
 
 ¹ The three Viceroys were Lord Northbrook, the late Lord Lytton, and Lord Ripon. I owe a deep debt of gratitude to Lord Ripon for receiving me as his guest at Government House, Calcutta, in 1883-4; and to Sir Richard Temple for receiving me at Government House, Belvedere, during the Prince of Wales' visit in 1875-6; and to Sir James Fergusson for receiving me at Government House, Bombay, in 1884.
+
+_Dr. Mārcis Gasūns_

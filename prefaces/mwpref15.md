@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010022.jpg
 source_page: Page xviii
@@ -39,3 +41,5 @@ In Pāṇini's system, as is well known, the position of the accent is generally
 ³ The absence of accent was only permitted in calling out to a person in the distance, Pāṇ. i, 2, 33.
 
 ⁴ The importance of correct accentuation and intonation in a language, the very sound of which is held by the Hindūs to be divine, and the bearing of Sanskrit accentuation on that of Greek, had become so impressed on me, that when I was sent as a Delegate to the Berlin International Congress of Orientalists by the Government of India in 1881, I requested Pandit Śyāmajī Kṛishṇa-varmā (who was also a Government Delegate) to illustrate my paper on Vedic hymns by repeating them with the right accentuation. The Pandit's illustrations were not only much appreciated, but received with grateful acknowledgments at the time by the eminent Chairman, Prof. A. Weber, and other Sanskrit scholars present, but were misconstrued by one of my auditors—the well-known and most energetic Hon. Secretary of the Royal Asiatic Society. That gentleman made the Pandit's illustrative additions the subject of an extraordinary criticism in a paper on 'Oriental Congresses,' written by him and published in the Calcutta Review, No. CLXI (1885), and quite recently reprinted. A letter received by me from Professor A. Weber, and printed last year in the Asiatic Quarterly Review, expresses the astonishment which we both felt at the statements in that paper.
+
+_Dr. Mārcis Gasūns_

@@ -1,6 +1,8 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # Register-B corpus test (the indigenous `iti` register)
 
-Extends the P3 [synthesis](../SYNTHESIS.md) to **Register B** — the in-prose
+Extends the P3 [synthesis](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/p3_citation_registers/SYNTHESIS.md) to **Register B** — the in-prose
 `iti <source>` quotative of the Sanskrit-Sanskrit dictionaries **SKD**
 (Śabdakalpadruma) and **VCP** (Vācaspatya), which carry ~0 `<ls>` tags. The
 genuinely novel extension flagged in the synthesis.
@@ -42,9 +44,11 @@ control proving it corrects rather than inflates.
 
 | File | What |
 |---|---|
-| [`register_b_dcs.py`](register_b_dcs.py) | the test (`python register_b_dcs.py`) |
+| [`register_b_dcs.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/p3_citation_registers/register_b/register_b_dcs.py) | the test (`python register_b_dcs.py`) |
 | `register_b_summary.csv` | per-dict records, headwords, `iti`→kośa %, DCS % |
-| [`REGISTER_B_SUMMARY.md`](REGISTER_B_SUMMARY.md) | findings + caveats |
+| [`REGISTER_B_SUMMARY.md`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/p3_citation_registers/register_b/REGISTER_B_SUMMARY.md) | findings + caveats |
 
 Cross-dict work — conceptual home is **csl-atlas**; kept here with the P3 evidence
-for now (placement deferred, per [ANALYSIS.md](../../../ANALYSIS.md)).
+for now (placement deferred, per [ANALYSIS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/ANALYSIS.md)).
+
+_Dr. Mārcis Gasūns_

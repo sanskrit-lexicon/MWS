@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # Register-B corpus test — the indigenous `iti` register vs DCS
 
 Parallel to the Register-A (`<ls>L.</ls>`→DCS) result. SKD/VCP headwords and
@@ -47,3 +49,5 @@ So the indigenous lexical inventory is **not** a closed self-referential univers
   floor with a fuzzy boundary, not a sharp count.
 - VCP lexical-share unmeasured (kośa list is SKD-specific). The nine-dict register
   comparison is the atlas CITATION_REGISTERS work, not this memo.
+
+_Dr. Mārcis Gasūns_

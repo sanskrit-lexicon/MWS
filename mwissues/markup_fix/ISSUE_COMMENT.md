@@ -1,3 +1,5 @@
+_Created: 21-05-2026 · Last updated: 05-09-2026_
+
 ### Location
 
 Counterpart of https://github.com/sanskrit-lexicon/PWG/issues/175 (PWG) and https://github.com/sanskrit-lexicon/PWK/issues/113 (PWK) for `mw.txt`.
@@ -90,3 +92,5 @@ The markup structure is much richer than PWG/PWK: 22 paired tags plus specialize
 ### Severity
 
 minor — a handful of whitespace fixes, hundreds of singletons to audit, no structural problems.
+
+_Dr. Mārcis Gasūns_

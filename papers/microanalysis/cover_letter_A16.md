@@ -1,3 +1,5 @@
+_Created: 26-06-2026 · Last updated: 05-09-2026_
+
 ---
 to: Editor-in-Chief, *International Journal of Lexicography* (Oxford University Press)
 from: Mārcis Gasūns (sole author, corresponding author)
@@ -50,3 +52,5 @@ The §3 audit paragraph from the old letter (100-record SPOTCHECK estimate) was 
 verbatim because the measured 200-entry gold P/R + kappa do not yet exist (gold harness is empty); add a
 measured-audit paragraph once GOLD_STANDARD_SCORES is populated. See SUBMISSION_READINESS_A16.md.
 -->
+
+_Dr. Mārcis Gasūns_

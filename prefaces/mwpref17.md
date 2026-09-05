@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010024.jpg
 source_page: "Page xx: Section III"
@@ -27,3 +29,5 @@ Finally, I have thought it wise to shorten some of the articles on mythology, an
 I stated in the Preface to the first edition of this work—written in 1872—that I had sometimes been asked by men learned in all the classical lore of Europe, whether Sanskṛit had any literature. Happily, since then, a great advance in the prosecution of Indian studies and in the diffusion of a knowledge of India has been effected. The efforts and researches of able Orientalists in almost every country have contributed to this result, and I venture to claim for the Oxford Indian Institute and its staff of Professors and Tutors a large share in bringing this about.
 
 Nevertheless much ignorance still prevails, even among educated English-speakers, in respect of the exact position occupied by Sanskṛit literature in India—its relationship to that of the spoken
+
+_Dr. Mārcis Gasūns_

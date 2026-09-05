@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # `<ab>id.</ab>` (idem) — sibling task, scoped for issue #98
 
 `<ab>id.</ab>` (**4,401** instances) is the *sense*-level analog of `ib.`: it
@@ -34,3 +36,5 @@ record→antecedent-gloss map) is a ~1-session job once the policy is set.
 |---|--:|---|---|
 | `<ls>ib.</ls>` | 10,094 | preceding `<ls>` | **built** — `ib_resolve.py` (57.1% same-cluster high-confidence; 74.7% upper bound, resolvable not verified) |
 | `<ab>id.</ab>` | 4,401 | preceding gloss | spec only (this note), issue #98 |
+
+_Dr. Mārcis Gasūns_

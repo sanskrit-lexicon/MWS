@@ -1,3 +1,5 @@
+_Created: 03-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mwe_Page_08_Image_0001.png
 source_page: Preface, 3
@@ -18,3 +20,5 @@ Among philological scholars, whether in Europe or the East, the need of a comple
 With respect to the civil servants of India, there can be no doubt that the want of a Reverse Sanskrit Dictionary has contributed to render unpopular the study of a language which must force itself, however distastefully, on their observation, by the influence which it exercises on the spoken dialects of India—an influence far greater than that of Latin on English, Italian, or French. But it is by the candidates for the civil service who are educated at the East-India College that this want has been chiefly acknowledged. Here it has seriously affected the popularity of a study which, above all others, ought to be cultivated, if on no other grounds, at least on the score of its adapting itself, more than any other, to the condition of students, who, being ignorant of their precise destination in India, are undergoing that course of general training which is best suited to fit them for the special requirements of particular localities.
 
 Such is the want, then, which the Compiler of this dictionary has attempted to supply. But not even his firm persuasion of its magnitude could have emboldened him to address himself to a task of so much difficulty, had he not been liberally encouraged by the Honourable Directors of the East-India Company, whom he has the honour to serve. The public does not require to be informed, that it is the desire of those generous Rulers to win the attachment of their Indian subjects, by furthering every undertaking which aims at improving the knowledge of their languages and
+
+_Dr. Mārcis Gasūns_

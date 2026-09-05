@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # W1 (a) — unlinked `<ls>` siglum candidates
 
 Review candidates only — **nothing is written to any authority file.**
@@ -29,3 +31,5 @@ known canonical key (diacritic sigla like `Pāṇ.`→`pAR`).
   existing canonical record); **no-match** rows are candidate new authorities.
 - A maintainer reviews, then the accepted rows are added to
   `linkmwauthorities_init.txt` via the normal authority workflow. Not automated.
+
+_Dr. Mārcis Gasūns_

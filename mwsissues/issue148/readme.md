@@ -1,3 +1,5 @@
+_Created: 11-01-2023 · Last updated: 05-09-2026_
+
 # MW_corrected_by_AB.txt
 
 This is the text file, which Andhrabharati would give after corrections.
@@ -17,4 +19,4 @@ This is the file generated from two files MW_corrected_by_AB.txt and trailing_in
 
 Script to combine the MW_corrected_by_AB.txt and trailing_info_tags.txt file and generate MW_new.txt file. This is the workhose.
 
-
+_Dr. Mārcis Gasūns_

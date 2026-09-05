@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010035.jpg
 source_page: Page xxxi
@@ -30,3 +32,5 @@ Then followed an interval during which my sources of aid were too fitful to be r
 In September, 1886, Dr. Leumann, who had meanwhile been appointed Professor of Sanskrit in the University of Strasburg, renewed his co-operation, but only in an intermittent manner, and while still resident in Germany. Unhappily the pressure of other duties obliged him in September, 1890, to withdraw from all work outside that of his Professorship. He laboured with me in a scholarly way as far as p. 474; but his collaboration did not extend beyond 355 pages, because he took no part in pp. 137–256, which represent the period of Dr. Schönberg's collaboration.
 
 It was not till December, 1890, that Dr. Carl Cappeller, Professor of Sanskrit in the University of Jena, began his painstaking co-operation, which, starting from the word Dāda (p. 474), he has prosecuted per-
+
+_Dr. Mārcis Gasūns_

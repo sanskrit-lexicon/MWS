@@ -1,3 +1,5 @@
+_Created: 23-05-2026 · Last updated: 05-09-2026_
+
 # HANDOFF — MW1899 microanalysis + csl-atlas
 
 **Purpose:** let a fresh Claude session pick up this work without losing context.
@@ -9,7 +11,7 @@ This document is **self-contained** — read it (and follow the links) before do
 
 ## 1. Five-line orientation
 
-The Cologne Digital Sanskrit Lexicon (CDSL) project, sanskrit-lexicon org on GitHub, runs an org-wide **docs-pass** across ~76 repos to standardise documentation. The MWS (Monier-Williams) docs-pass is the flagship pilot, completed and reviewable via [issue #195](https://github.com/sanskrit-lexicon/MWS/issues/195). On top of that, we built a [**microanalysis** of MW1899's microstructure](README.md) (286,561 records, 18 formal blocks, 14 article types, 28 design decisions) — originally four parallel framework papers, **now consolidated into a single paper** ([PAPER.md](PAPER.md), per [D4](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking)): a data-grounded body + three condensed framework appendices — plus a [visualisation catalogue](VISUALISATIONS.md), six [Tier-1 + cross-dict figures](figures/), and a full [empirical-audit suite](analysis/) that has now resolved or substantially advanced the analytical doubts D1, D2, D6, D7. The next strategic phase is [**csl-atlas**](decisions/MICROSITE.md) — a 9-dict **Observable Framework** microsite (stack confirmed per [D8](DOUBTS.md#d8--observable-framework-is-heavy-infrastructure-for-a-research-microsite--blocking)) covering MW + PWG + AP + WIL + SKD + ARMH + ABCH + ACPH + ACSJ + VCP + PWK.
+The Cologne Digital Sanskrit Lexicon (CDSL) project, sanskrit-lexicon org on GitHub, runs an org-wide **docs-pass** across ~76 repos to standardise documentation. The MWS (Monier-Williams) docs-pass is the flagship pilot, completed and reviewable via [issue #195](https://github.com/sanskrit-lexicon/MWS/issues/195). On top of that, we built a [**microanalysis** of MW1899's microstructure](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/README.md) (286,561 records, 18 formal blocks, 14 article types, 28 design decisions) — originally four parallel framework papers, **now consolidated into a single paper** ([PAPER.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md), per [D4](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking)): a data-grounded body + three condensed framework appendices — plus a [visualisation catalogue](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/VISUALISATIONS.md), six [Tier-1 + cross-dict figures](figures/), and a full [empirical-audit suite](analysis/) that has now resolved or substantially advanced the analytical doubts D1, D2, D6, D7. The next strategic phase is [**csl-atlas**](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/MICROSITE.md) — a 9-dict **Observable Framework** microsite (stack confirmed per [D8](DOUBTS.md#d8--observable-framework-is-heavy-infrastructure-for-a-research-microsite--blocking)) covering MW + PWG + AP + WIL + SKD + ARMH + ABCH + ACPH + ACSJ + VCP + PWK.
 
 ---
 
@@ -29,40 +31,40 @@ The Cologne Digital Sanskrit Lexicon (CDSL) project, sanskrit-lexicon org on Git
 
 | File | Purpose |
 |---|---|
-| [DICT_PROFILE.md](../../DICT_PROFILE.md) | Reader-facing profile of MW. Contains: At-a-Glance, Orthographical conventions, Historical background, Scholarly significance, When to use (with [14-row article typology](../../DICT_PROFILE.md#article-types--what-youll-encounter) + [citation markers callout](../../DICT_PROFILE.md#citation-markers--not-all-are-literary-works)), Relationship to other CDSL dicts, [Beyond PWG analysis](../../DICT_PROFILE.md#beyond-pwg--what-mw-contributes), [Same entry across 7 dictionaries (MW+PWG+PWK+AP+WIL+SKD+VCP)](../../DICT_PROFILE.md#same-entry-across-seven-dictionaries), [Lineage section](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg), Sample entries L9/L10/L57, Known issues, Further reading, BibTeX. |
-| [ENTRY_GUIDE.md](../../ENTRY_GUIDE.md) | Reader's guide. Encoding, [Orthographical conventions (full)](../../ENTRY_GUIDE.md#orthographical-conventions), Common tags, `<ls>` coverage stats, [Top-25 cited sources](../../ENTRY_GUIDE.md#top-25-most-cited-sources), Period breakdown, Top orphans, [Entry hierarchy distribution](../../ENTRY_GUIDE.md#entry-hierarchy-distribution), [Entry-type breakdown](../../ENTRY_GUIDE.md#entry-type-breakdown-by-content), [IE cognate density](../../ENTRY_GUIDE.md#ie-cognate-density--lang-breakdown), Vedic accent coverage, Cross-reference patterns, mwauthorities/. |
-| [DATA_DICTIONARY.md](../../DATA_DICTIONARY.md) | Tag inventory, `<INFER/>`/`<UNMARKED>`/`<UNUSED/>` taxonomy, `<lex>` vs `<ab>` distinction, `<ab n="…">` variant, operative-vs-audit `mwab_input.txt` distinction (csl-pywork 2024 vs MWS 2017). |
-| [CONTRIBUTING.md](../../CONTRIBUTING.md) | Issue templates, label taxonomy, multi-step correction workflow. |
-| [CITATION.cff](../../CITATION.cff) | Full title, Leumann + Cappeller editors, 286,561 entry count. |
-| [ROADMAP.md](../../ROADMAP.md) | 34 open + 157 closed MWS issues synthesised; 10 task subtypes; quarterly cadence. |
-| [DOCS_ISSUE.md](../../DOCS_ISSUE.md) | The issue-body draft for [#195](https://github.com/sanskrit-lexicon/MWS/issues/195). |
+| [DICT_PROFILE.md](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md) | Reader-facing profile of MW. Contains: At-a-Glance, Orthographical conventions, Historical background, Scholarly significance, When to use (with [14-row article typology](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#article-types--what-youll-encounter) + [citation markers callout](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#citation-markers--not-all-are-literary-works)), Relationship to other CDSL dicts, [Beyond PWG analysis](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#beyond-pwg--what-mw-contributes), [Same entry across 7 dictionaries (MW+PWG+PWK+AP+WIL+SKD+VCP)](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#same-entry-across-seven-dictionaries), [Lineage section](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#lineage-wil--koshas-mw--pwg), Sample entries L9/L10/L57, Known issues, Further reading, BibTeX. |
+| [ENTRY_GUIDE.md](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md) | Reader's guide. Encoding, [Orthographical conventions (full)](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md#orthographical-conventions), Common tags, `<ls>` coverage stats, [Top-25 cited sources](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md#top-25-most-cited-sources), Period breakdown, Top orphans, [Entry hierarchy distribution](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md#entry-hierarchy-distribution), [Entry-type breakdown](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md#entry-type-breakdown-by-content), [IE cognate density](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md#ie-cognate-density--lang-breakdown), Vedic accent coverage, Cross-reference patterns, mwauthorities/. |
+| [DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/MWS/blob/master/DATA_DICTIONARY.md) | Tag inventory, `<INFER/>`/`<UNMARKED>`/`<UNUSED/>` taxonomy, `<lex>` vs `<ab>` distinction, `<ab n="…">` variant, operative-vs-audit `mwab_input.txt` distinction (csl-pywork 2024 vs MWS 2017). |
+| [CONTRIBUTING.md](https://github.com/sanskrit-lexicon/MWS/blob/master/CONTRIBUTING.md) | Issue templates, label taxonomy, multi-step correction workflow. |
+| [CITATION.cff](https://github.com/sanskrit-lexicon/MWS/blob/master/CITATION.cff) | Full title, Leumann + Cappeller editors, 286,561 entry count. |
+| [ROADMAP.md](https://github.com/sanskrit-lexicon/MWS/blob/master/ROADMAP.md) | 34 open + 157 closed MWS issues synthesised; 10 task subtypes; quarterly cadence. |
+| [DOCS_ISSUE.md](https://github.com/sanskrit-lexicon/MWS/blob/master/DOCS_ISSUE.md) | The issue-body draft for [#195](https://github.com/sanskrit-lexicon/MWS/issues/195). |
 
 ### Microanalysis suite — [`papers/microanalysis/`](.)
 
 | File | Purpose |
 |---|---|
-| [PAPER.md](PAPER.md) | **THE canonical paper (~5.7K words; room to grow toward IJL's ~8–10K).** Data-grounded body (five constructs — block / slot / profile / hedge / infrastructure; the **block-economy** thesis); §7 triangulation showing three external frameworks converge; condensed appendices **A** Wiegand · **B** Atkins-Rundell · **C** Hausmann-Wiegand + proposed *Provenienz-Komment* 5th class; §9 methodological-limitations section (regex spot-check + significance + cross-dict + `L.`-innovation + typology overlap). Supersedes the four `paper-*.md` drafts. |
-| [MICROANALYSIS.md](MICROANALYSIS.md) | **Data backbone** — 18 formal blocks, 8 semantic blocks, 14 article types, the [block-by-type matrix](MICROANALYSIS.md#4--the-block-by-article-type-matrix), [fullness scale T1–T5](MICROANALYSIS.md#5--fullness-scale), 8 worked entry samples, co-occurrence pairs. |
-| [paper-grounded.md](paper-grounded.md), [paper-wiegand.md](paper-wiegand.md), [paper-atkins-rundell.md](paper-atkins-rundell.md), [paper-hausmann.md](paper-hausmann.md) | **Supplementary extended drafts** — superseded by PAPER.md but retained as fuller per-framework treatments. Each carries a banner pointing back to PAPER.md. |
-| [README.md](README.md) | Indexes PAPER.md + the consolidation rationale + the triangulation summary. |
-| [VISUALISATIONS.md](VISUALISATIONS.md) | Catalogue of ~40 visualisation ideas across 10 categories, prioritised Tier 1/2/3. **Redirects to thematic decisions/* sub-docs for the 28 design decisions.** |
-| [DOUBTS.md](DOUBTS.md) | **Critical review.** 15 substantive doubts (D1–D15). **D1/D2/D4/D6/D7/D8 now have "Result" blocks at the top citing the empirical audit.** Read this before publishing anything. |
-| [HANDOFF.md](HANDOFF.md) | This file. |
+| [PAPER.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md) | **THE canonical paper (~5.7K words; room to grow toward IJL's ~8–10K).** Data-grounded body (five constructs — block / slot / profile / hedge / infrastructure; the **block-economy** thesis); §7 triangulation showing three external frameworks converge; condensed appendices **A** Wiegand · **B** Atkins-Rundell · **C** Hausmann-Wiegand + proposed *Provenienz-Komment* 5th class; §9 methodological-limitations section (regex spot-check + significance + cross-dict + `L.`-innovation + typology overlap). Supersedes the four `paper-*.md` drafts. |
+| [MICROANALYSIS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md) | **Data backbone** — 18 formal blocks, 8 semantic blocks, 14 article types, the [block-by-type matrix](MICROANALYSIS.md#4--the-block-by-article-type-matrix), [fullness scale T1–T5](MICROANALYSIS.md#5--fullness-scale), 8 worked entry samples, co-occurrence pairs. |
+| [paper-grounded.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/paper-grounded.md), [paper-wiegand.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/paper-wiegand.md), [paper-atkins-rundell.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/paper-atkins-rundell.md), [paper-hausmann.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/paper-hausmann.md) | **Supplementary extended drafts** — superseded by PAPER.md but retained as fuller per-framework treatments. Each carries a banner pointing back to PAPER.md. |
+| [README.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/README.md) | Indexes PAPER.md + the consolidation rationale + the triangulation summary. |
+| [VISUALISATIONS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/VISUALISATIONS.md) | Catalogue of ~40 visualisation ideas across 10 categories, prioritised Tier 1/2/3. **Redirects to thematic decisions/* sub-docs for the 28 design decisions.** |
+| [DOUBTS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/DOUBTS.md) | **Critical review.** 15 substantive doubts (D1–D15). **D1/D2/D4/D6/D7/D8 now have "Result" blocks at the top citing the empirical audit.** Read this before publishing anything. |
+| [HANDOFF.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/HANDOFF.md) | This file. |
 
 ### Empirical-audit suite — [`papers/microanalysis/analysis/`](analysis/) (NEW — added 2026-05-24)
 
-Reproducible scripts that audit PAPER.md's claims against the live dictionary data. Each script reuses the **published** block-detection algorithm via [`_common.py`](analysis/_common.py), so the audits test the actual algorithm that produced the figures. See [analysis/README.md](analysis/README.md) for the full mapping.
+Reproducible scripts that audit PAPER.md's claims against the live dictionary data. Each script reuses the **published** block-detection algorithm via [`_common.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/_common.py), so the audits test the actual algorithm that produced the figures. See [analysis/README.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/README.md) for the full mapping.
 
 | Script | Report | Doubt addressed | Headline finding |
 |---|---|---|---|
-| [`spotcheck_blocks.py`](analysis/spotcheck_blocks.py) | [SPOTCHECK.md](analysis/SPOTCHECK.md) + [SPOTCHECK_SAMPLE.txt](analysis/SPOTCHECK_SAMPLE.txt) | [D6](DOUBTS.md#d6--block-detection-is-regex-based-and-approximate--important) | Detector reproduces 286,561 count exactly; **F08 over-counts** (36.5% are compound members not inflections); **F09 over-counts** (66.7% outside philological context); **F11 under-count is negligible**; "display headword 99%" was the structural-key rate — rendered `<s>` is **76%** (corrected in [PAPER.md §4](PAPER.md#4-the-block-economy-thesis)) |
-| [`significance.py`](analysis/significance.py) | [SIGNIFICANCE.md](analysis/SIGNIFICANCE.md) | [D7](DOUBTS.md#d7--the-block-by-article-type-matrix-has-no-statistical-significance-test--nice-to-resolve) | Every headline contrast is **significant** (p ≈ 0 with Wilson 95% CIs); the small noun_m-vs-noun_f F08 difference is **not** (p = 0.07) — confirming the doubt |
-| [`significance_full.py`](analysis/significance_full.py) | [SIGNIFICANCE_FULL.md](analysis/SIGNIFICANCE_FULL.md) | [D7](DOUBTS.md#d7--the-block-by-article-type-matrix-has-no-statistical-significance-test--nice-to-resolve) | Full 270-cell table with **Benjamini–Hochberg FDR correction**: 217/270 significant at q=0.05 |
-| [`ls_hedge_check.py`](analysis/ls_hedge_check.py) | [LS_HEDGE_CHECK.md](analysis/LS_HEDGE_CHECK.md) | [D2](DOUBTS.md#d2--the-lslls-mw-innovation-claim--under-checked--important) | MW has 40,212 `L.` hedges; **PWG, PWK, WIL, CAE, SKD, VCP have 0; AP has 1; Benfey 1866 has 0** (despite 14,708 `<ls>` cites — strengthens innovation claim). **Cappeller (CAE) added**: zero `<ls>` apparatus but **undocumented `*` (1,370×) and `†` (903×) markers** — meaning needs Cappeller's 1891 print preface |
-| [`cross_dict_kernel.py`](analysis/cross_dict_kernel.py) | [CROSS_DICT.md](analysis/CROSS_DICT.md) | [D1](DOUBTS.md#d1--is-block-economy-a-genuine-principle-or-print-economic-artifact--important) | Block-economy *shape* is **general to all single-volume CDSL dictionaries**, not MW-specific (modal blocks/entry: MW 5, PWG 4, PWK 3, AP 2, WIL 3, Benfey 3, Cappeller 3); PWG is ~4× denser. Claims softened in [PAPER.md §4/§8/§9.3](PAPER.md#4-the-block-economy-thesis) |
-| [`cross_dict_profiles.py`](analysis/cross_dict_profiles.py) | [CROSS_DICT_PROFILES.md](analysis/CROSS_DICT_PROFILES.md) | [D1](DOUBTS.md#d1--is-block-economy-a-genuine-principle-or-print-economic-artifact--important) (deepening) | Single-volume dicts **differentiate `<lex>` types** (MW 11.3, PWK 7.7, AP 15.2 pts) while **multi-volume PWG cites uniformly** (0.4) — type-differentiation is itself a single-volume economy. SKD/VCP fall outside the framework (no `<lex>`/`<ls>`; inline `iti` citation) |
-| [`make_supplement.py`](analysis/make_supplement.py) | [SUPPLEMENT_MANIFEST.md](analysis/SUPPLEMENT_MANIFEST.md) | [Decision 16](decisions/SUPPLEMENTARY.md) | Builds the reproducibility ZIP (paper + scripts + reports + figures), gitignored output |
-| [`check_docs.py`](analysis/check_docs.py) | (prints) | docs-integrity | Validates every relative link + `#anchor` across microanalysis + docs-pass markdown |
+| [`spotcheck_blocks.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/spotcheck_blocks.py) | [SPOTCHECK.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/SPOTCHECK.md) + [SPOTCHECK_SAMPLE.txt](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/SPOTCHECK_SAMPLE.txt) | [D6](DOUBTS.md#d6--block-detection-is-regex-based-and-approximate--important) | Detector reproduces 286,561 count exactly; **F08 over-counts** (36.5% are compound members not inflections); **F09 over-counts** (66.7% outside philological context); **F11 under-count is negligible**; "display headword 99%" was the structural-key rate — rendered `<s>` is **76%** (corrected in [PAPER.md §4](PAPER.md#4-the-block-economy-thesis)) |
+| [`significance.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/significance.py) | [SIGNIFICANCE.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/SIGNIFICANCE.md) | [D7](DOUBTS.md#d7--the-block-by-article-type-matrix-has-no-statistical-significance-test--nice-to-resolve) | Every headline contrast is **significant** (p ≈ 0 with Wilson 95% CIs); the small noun_m-vs-noun_f F08 difference is **not** (p = 0.07) — confirming the doubt |
+| [`significance_full.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/significance_full.py) | [SIGNIFICANCE_FULL.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/SIGNIFICANCE_FULL.md) | [D7](DOUBTS.md#d7--the-block-by-article-type-matrix-has-no-statistical-significance-test--nice-to-resolve) | Full 270-cell table with **Benjamini–Hochberg FDR correction**: 217/270 significant at q=0.05 |
+| [`ls_hedge_check.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/ls_hedge_check.py) | [LS_HEDGE_CHECK.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/LS_HEDGE_CHECK.md) | [D2](DOUBTS.md#d2--the-lslls-mw-innovation-claim--under-checked--important) | MW has 40,212 `L.` hedges; **PWG, PWK, WIL, CAE, SKD, VCP have 0; AP has 1; Benfey 1866 has 0** (despite 14,708 `<ls>` cites — strengthens innovation claim). **Cappeller (CAE) added**: zero `<ls>` apparatus but **undocumented `*` (1,370×) and `†` (903×) markers** — meaning needs Cappeller's 1891 print preface |
+| [`cross_dict_kernel.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/cross_dict_kernel.py) | [CROSS_DICT.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/CROSS_DICT.md) | [D1](DOUBTS.md#d1--is-block-economy-a-genuine-principle-or-print-economic-artifact--important) | Block-economy *shape* is **general to all single-volume CDSL dictionaries**, not MW-specific (modal blocks/entry: MW 5, PWG 4, PWK 3, AP 2, WIL 3, Benfey 3, Cappeller 3); PWG is ~4× denser. Claims softened in [PAPER.md §4/§8/§9.3](PAPER.md#4-the-block-economy-thesis) |
+| [`cross_dict_profiles.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/cross_dict_profiles.py) | [CROSS_DICT_PROFILES.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/CROSS_DICT_PROFILES.md) | [D1](DOUBTS.md#d1--is-block-economy-a-genuine-principle-or-print-economic-artifact--important) (deepening) | Single-volume dicts **differentiate `<lex>` types** (MW 11.3, PWK 7.7, AP 15.2 pts) while **multi-volume PWG cites uniformly** (0.4) — type-differentiation is itself a single-volume economy. SKD/VCP fall outside the framework (no `<lex>`/`<ls>`; inline `iti` citation) |
+| [`make_supplement.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/make_supplement.py) | [SUPPLEMENT_MANIFEST.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/SUPPLEMENT_MANIFEST.md) | [Decision 16](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/SUPPLEMENTARY.md) | Builds the reproducibility ZIP (paper + scripts + reports + figures), gitignored output |
+| [`check_docs.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/check_docs.py) | (prints) | docs-integrity | Validates every relative link + `#anchor` across microanalysis + docs-pass markdown |
 
 ### Figures — [`papers/microanalysis/figures/`](figures/)
 
@@ -75,11 +77,11 @@ Reproducible scripts that audit PAPER.md's claims against the live dictionary da
 | **Fig 5 — Cross-dict block profiles** (NEW 2026-05-24) | [cross-dict-blocks-en.svg/png](figures/) | Per-type block-incidence across 7 structured bilingual dicts |
 | **Fig 6 — Cross-dict citation density** (NEW 2026-05-24) | [cross-dict-density-en.svg/png](figures/) | `<ls>` per entry across all 9 dicts; PWG ~4× denser |
 
-Plus: [palette-tokens.json](figures/palette-tokens.json), [palette.css](figures/palette.css), [palette.py](figures/palette.py), [mermaid-theme.json](figures/mermaid-theme.json), [locales/{en,ru}.json](figures/locales/), [data/](figures/data/), [scripts/](figures/scripts/).
+Plus: [palette-tokens.json](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/figures/palette-tokens.json), [palette.css](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/figures/palette.css), [palette.py](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/figures/palette.py), [mermaid-theme.json](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/figures/mermaid-theme.json), [locales/{en,ru}.json](figures/locales/), [data/](figures/data/), [scripts/](figures/scripts/).
 
 ### Decisions — [`papers/microanalysis/decisions/`](decisions/)
 
-7 thematic sub-docs (split from VISUALISATIONS.md): [PALETTE](decisions/PALETTE.md), [I18N](decisions/I18N.md), [MICROSITE](decisions/MICROSITE.md), [FIGURES](decisions/FIGURES.md), [NORMALISATION](decisions/NORMALISATION.md), [SUPPLEMENTARY](decisions/SUPPLEMENTARY.md), [BUILD-ORDER](decisions/BUILD-ORDER.md). All 28 design decisions are catalogued with cross-references. See [decisions/README.md](decisions/README.md) for the index.
+7 thematic sub-docs (split from VISUALISATIONS.md): [PALETTE](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/PALETTE.md), [I18N](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/I18N.md), [MICROSITE](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/MICROSITE.md), [FIGURES](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/FIGURES.md), [NORMALISATION](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/NORMALISATION.md), [SUPPLEMENTARY](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/SUPPLEMENTARY.md), [BUILD-ORDER](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/BUILD-ORDER.md). All 28 design decisions are catalogued with cross-references. See [decisions/README.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/README.md) for the index.
 
 ### Memory files (persist across sessions)
 
@@ -103,7 +105,7 @@ In reverse chronological order:
 
 | SHA | Summary |
 |---|---|
-| `1f8090c` | Reproducibility supplement builder (Decision 16) — `make_supplement.py` + [SUPPLEMENT_MANIFEST.md](analysis/SUPPLEMENT_MANIFEST.md) |
+| `1f8090c` | Reproducibility supplement builder (Decision 16) — `make_supplement.py` + [SUPPLEMENT_MANIFEST.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/SUPPLEMENT_MANIFEST.md) |
 | `9d3bcca` | Full FDR stats appendix + docs-integrity pass (fix broken links/anchors) — 217/270 cells significant at q=0.05 |
 | `8e17f09` | Add cross-dictionary comparison figures (Fig 5–6) |
 | `b5cbaf4` | Complete cross-dict profiles for all 9 dicts (PWG/PWK/SKD/VCP) |
@@ -142,15 +144,15 @@ The empirical-audit pass ([analysis/](analysis/)) addressed the most important d
 
 ### What survived (claims confirmed and strengthened)
 
-- **MW's `<ls>L.</ls>` hedge IS a distinctive innovation.** Audited across 8 dictionaries: MW 40,212 hedges; PWG 0 (of 570,817 `<ls>` cites); PWK 0; WIL 0; CAE 0; SKD 0; VCP 0; AP 1; **Benfey 1866 0** (with full 14,708-cite `<ls>` apparatus, an earlier English-Sanskrit dictionary that **did not** invent the device). [LS_HEDGE_CHECK.md](analysis/LS_HEDGE_CHECK.md).
-- **The block-by-type matrix percentages are statistically robust.** 217 of 270 cells (~80%) are significant at q=0.05 with Benjamini-Hochberg FDR correction. Every headline contrast in PAPER.md §4 holds. [SIGNIFICANCE_FULL.md](analysis/SIGNIFICANCE_FULL.md).
-- **Block-detection reproduces the 286,561 record count exactly.** [SPOTCHECK.md](analysis/SPOTCHECK.md).
+- **MW's `<ls>L.</ls>` hedge IS a distinctive innovation.** Audited across 8 dictionaries: MW 40,212 hedges; PWG 0 (of 570,817 `<ls>` cites); PWK 0; WIL 0; CAE 0; SKD 0; VCP 0; AP 1; **Benfey 1866 0** (with full 14,708-cite `<ls>` apparatus, an earlier English-Sanskrit dictionary that **did not** invent the device). [LS_HEDGE_CHECK.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/LS_HEDGE_CHECK.md).
+- **The block-by-type matrix percentages are statistically robust.** 217 of 270 cells (~80%) are significant at q=0.05 with Benjamini-Hochberg FDR correction. Every headline contrast in PAPER.md §4 holds. [SIGNIFICANCE_FULL.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/SIGNIFICANCE_FULL.md).
+- **Block-detection reproduces the 286,561 record count exactly.** [SPOTCHECK.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/SPOTCHECK.md).
 
 ### What softened (claims requiring qualification)
 
-- **"Block economy" is general to single-volume scholarly dictionaries, not MW-specific.** Modal blocks/entry: MW 5, PWG 4, PWK 3, AP 2, WIL 3, Benfey 3, Cappeller 3. PAPER.md §4 and §9.3 now phrase the claim as "characteristic of single-volume scholarly dictionaries." [CROSS_DICT.md](analysis/CROSS_DICT.md).
-- **F08 (inflection forms) over-counts by 36.5%** — many hits are compound members, not inflections. **F09 (editorial commentary) over-counts by 66.7%** — many parenthetical hits are not philological. **F02 "display headword 99%" was the structural-key rate; rendered `<s>` is 76%.** All three caveats are now in [PAPER.md §4 + §9](PAPER.md). [SPOTCHECK.md](analysis/SPOTCHECK.md).
-- **Type-differentiation IS the single-volume economy** (deepening of D1). Single-volume dicts differentiate `<lex>` types: MW 11.3, PWK 7.7, AP 15.2 pts. Multi-volume PWG cites uniformly: 0.4 pts. **Sanskrit-Sanskrit lexica (SKD, VCP) fall outside the framework** — no `<lex>`/`<ls>`; inline `iti` citation. [CROSS_DICT_PROFILES.md](analysis/CROSS_DICT_PROFILES.md).
+- **"Block economy" is general to single-volume scholarly dictionaries, not MW-specific.** Modal blocks/entry: MW 5, PWG 4, PWK 3, AP 2, WIL 3, Benfey 3, Cappeller 3. PAPER.md §4 and §9.3 now phrase the claim as "characteristic of single-volume scholarly dictionaries." [CROSS_DICT.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/CROSS_DICT.md).
+- **F08 (inflection forms) over-counts by 36.5%** — many hits are compound members, not inflections. **F09 (editorial commentary) over-counts by 66.7%** — many parenthetical hits are not philological. **F02 "display headword 99%" was the structural-key rate; rendered `<s>` is 76%.** All three caveats are now in [PAPER.md §4 + §9](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md). [SPOTCHECK.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/SPOTCHECK.md).
+- **Type-differentiation IS the single-volume economy** (deepening of D1). Single-volume dicts differentiate `<lex>` types: MW 11.3, PWK 7.7, AP 15.2 pts. Multi-volume PWG cites uniformly: 0.4 pts. **Sanskrit-Sanskrit lexica (SKD, VCP) fall outside the framework** — no `<lex>`/`<ls>`; inline `iti` citation. [CROSS_DICT_PROFILES.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/CROSS_DICT_PROFILES.md).
 
 ### What's still open (audit identified but did not resolve)
 
@@ -162,14 +164,14 @@ The empirical-audit pass ([analysis/](analysis/)) addressed the most important d
 
 ## 5. Critical doubts — D1–D15 status
 
-(Full review with empirical "Result" blocks at the top of each doubt in [DOUBTS.md](DOUBTS.md).)
+(Full review with empirical "Result" blocks at the top of each doubt in [DOUBTS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/DOUBTS.md).)
 
 | # | Title | Status |
 |---|---|---|
-| **D1** | Is "block economy" MW-specific? | ✅ **AUDITED.** General to single-volume dicts; claim softened in [PAPER.md §4/§8/§9.3](PAPER.md). |
+| **D1** | Is "block economy" MW-specific? | ✅ **AUDITED.** General to single-volume dicts; claim softened in [PAPER.md §4/§8/§9.3](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md). |
 | **D2** | The `<ls>L.</ls>` "MW innovation" claim | ✅ **AUDITED + strengthened.** MW innovation against 8 dicts including Benfey 1866. Open: Cappeller 1891 + WIL + Benfey print prefaces. |
 | D3 | The kosha-lineage of WIL is over-narrated | Nice-to-resolve. Open. |
-| **D4** | Four framework papers from same data — salami-slicing? | ✅ **RESOLVED.** Consolidated to [PAPER.md](PAPER.md). |
+| **D4** | Four framework papers from same data — salami-slicing? | ✅ **RESOLVED.** Consolidated to [PAPER.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md). |
 | D5 | 14 article types — too many, overlapping | Important. Open. |
 | **D6** | Block detection is regex-based and approximate | ✅ **AUDITED.** F08 + F09 over-counts quantified; F11 under-count negligible; F02 corrected. [§9 limitations](PAPER.md#9-methodological-limitations) added. |
 | **D7** | No statistical significance tests | ✅ **AUDITED.** 217/270 cells significant at q=0.05 with FDR. Caveats on the small contrasts called out. |
@@ -182,7 +184,7 @@ The empirical-audit pass ([analysis/](analysis/)) addressed the most important d
 | D14 | Memory file inflation | Nice-to-resolve. Open. |
 | D15 | Issue-tracker as cross-repo task management | Nice-to-resolve. Open. |
 
-**5 of the 15 doubts now have empirical Result blocks** at the top of [DOUBTS.md](DOUBTS.md); D4 + D8 are decided. The remaining 8 are mostly *procedural* (translation review, scoping, MVP cut) rather than *analytical*.
+**5 of the 15 doubts now have empirical Result blocks** at the top of [DOUBTS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/DOUBTS.md); D4 + D8 are decided. The remaining 8 are mostly *procedural* (translation review, scoping, MVP cut) rather than *analytical*.
 
 ---
 
@@ -202,13 +204,13 @@ Once reviewed, **Phase 4 (org-wide rollout)** can proceed: waves of ~15 repos.
 
 ### 6b. Microanalysis publication path
 
-**Decided (2026-05-23):** one consolidated paper ([PAPER.md](PAPER.md)) for [IJL](https://academic.oup.com/ijl). Grounded body + three condensed appendices + §7 triangulation.
+**Decided (2026-05-23):** one consolidated paper ([PAPER.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md)) for [IJL](https://academic.oup.com/ijl). Grounded body + three condensed appendices + §7 triangulation.
 
 **Outstanding before submission:**
 - Read **Cappeller 1891** + **Benfey 1866** + **WIL 1832 print prefaces** to verify no pre-MW `L.`-hedge precedent.
 - Polish [§9 limitations](PAPER.md#9-methodological-limitations) given the audit results.
 - Final pass on §5 (article-type typology) to address [D5](DOUBTS.md#d5--article-type-typology--14-is-too-many--overlapping--important): distinguish primary article types from orthogonal properties.
-- Russian-language venue (per [Decisions 3, 6, 11](decisions/I18N.md)) — content TBD.
+- Russian-language venue (per [Decisions 3, 6, 11](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/I18N.md)) — content TBD.
 
 ### 6c. csl-atlas microsite
 
@@ -257,14 +259,14 @@ Memory files at `C:/Users/user/.claude/projects/D--claude/memory/`. One fact per
 ## 8. Files to read first (priority order, for a new chat)
 
 1. **This file** — HANDOFF.md
-2. [DOUBTS.md](DOUBTS.md) — read the "Result" blocks at the top of D1/D2/D4/D6/D7/D8 first
-3. [PAPER.md](PAPER.md) — the consolidated submission paper
-4. [analysis/README.md](analysis/README.md) — audit-suite overview and headline findings
-5. [MICROANALYSIS.md](MICROANALYSIS.md) — the data backbone behind the matrix
-6. [VISUALISATIONS.md](VISUALISATIONS.md) — design-decision index
-7. [decisions/README.md](decisions/README.md) — 7 thematic decision sub-docs
-8. [../../ROADMAP.md](../../ROADMAP.md) — MWS issue synthesis + quarterly plan
-9. [../../DICT_PROFILE.md](../../DICT_PROFILE.md) — reader-facing MW profile
+2. [DOUBTS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/DOUBTS.md) — read the "Result" blocks at the top of D1/D2/D4/D6/D7/D8 first
+3. [PAPER.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md) — the consolidated submission paper
+4. [analysis/README.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/README.md) — audit-suite overview and headline findings
+5. [MICROANALYSIS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md) — the data backbone behind the matrix
+6. [VISUALISATIONS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/VISUALISATIONS.md) — design-decision index
+7. [decisions/README.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/README.md) — 7 thematic decision sub-docs
+8. [../../ROADMAP.md](https://github.com/sanskrit-lexicon/MWS/blob/master/ROADMAP.md) — MWS issue synthesis + quarterly plan
+9. [../../DICT_PROFILE.md](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md) — reader-facing MW profile
 10. [project_docs_review.md](file:///C:/Users/user/.claude/projects/D--claude/memory/project_docs_review.md) — full project history
 
 For a fresh session **with no prior context**, files 1–4 are mandatory; files 5–10 are reference-as-needed.
@@ -277,25 +279,25 @@ The blocking analytical doubts are resolved. The remaining work clusters into fo
 
 **Thread A — Pre-submission paper polish.**
 - Read the three print prefaces (Cappeller 1891 / Benfey 1866 / WIL 1832) and decide whether to soften or keep the "MW innovation" claim in [PAPER.md Appendix C](PAPER.md#appendix-c--the-hausmann-wiegand-comment-class-reading-condensed).
-- Address [D5](DOUBTS.md#d5--article-type-typology--14-is-too-many--overlapping--important): refactor the 14 article types into primary types + orthogonal properties in [PAPER.md §5](PAPER.md).
-- Run `make_supplement.py` to produce the reproducibility ZIP (per [Decision 16](decisions/SUPPLEMENTARY.md)).
+- Address [D5](DOUBTS.md#d5--article-type-typology--14-is-too-many--overlapping--important): refactor the 14 article types into primary types + orthogonal properties in [PAPER.md §5](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md).
+- Run `make_supplement.py` to produce the reproducibility ZIP (per [Decision 16](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/SUPPLEMENTARY.md)).
 - Decide submission timing.
 
 **Thread B — Russian translation review** (per [D11](DOUBTS.md#d11--russian-translations-bootstrapped-by-claude--important)).
-- Walk @gasyoun through [locales/ru.json](figures/locales/ru.json) bootstrap.
+- Walk @gasyoun through [locales/ru.json](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/figures/locales/ru.json) bootstrap.
 - Flag any low-confidence translations (any with `(?)` markers).
 - Regenerate `-ru.svg/png` figures after corrections.
 
 **Thread C — csl-atlas scaffolding** (per [D10](DOUBTS.md#d10--csl-atlas-is-named-before-scoped--important)).
-- Scaffold `D:/claude/csl-atlas/` locally (Observable Framework, per [Decision 10](decisions/MICROSITE.md)).
+- Scaffold `D:/claude/csl-atlas/` locally (Observable Framework, per [Decision 10](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/MICROSITE.md)).
 - Choose Phase-4 dict ordering (PWG first? AP? GRA?).
-- Populate using the data from [CROSS_DICT_PROFILES.md](analysis/CROSS_DICT_PROFILES.md) (already covers 9 dicts).
+- Populate using the data from [CROSS_DICT_PROFILES.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/CROSS_DICT_PROFILES.md) (already covers 9 dicts).
 - Push to org only after scope is approved.
 
 **Thread D — Phase 4 (org-wide docs-pass rollout)** (blocked by [§6a](#6a-user-review-of-the-5-pilot-docs-passes)).
 - Wait for maintainer review of the 5 pilots.
 - Apply the established pattern to waves of ~15 repos (see [`sanskrit-lexicon-docs-review/runbooks/`](file:///D:/claude/sanskrit-lexicon-docs-review/runbooks/)).
-- Each dict-repo docs-pass yields its own ROADMAP.md following the [MWS ROADMAP](../../ROADMAP.md) template.
+- Each dict-repo docs-pass yields its own ROADMAP.md following the [MWS ROADMAP](https://github.com/sanskrit-lexicon/MWS/blob/master/ROADMAP.md) template.
 
 **If addressing user feedback** that lands in a new turn:
 - Read the user's message carefully — they often push back on specific claims with evidence (e.g. WIL "bare minimum" correction; kosha-lineage assertion; stale `mwab_input.txt` link; WIL→PWK substitution in Option F).
@@ -337,18 +339,18 @@ The blocking analytical doubts are resolved. The remaining work clusters into fo
 
 Pick whichever is most actionable:
 
-1. ~~**D4 paper consolidation**~~ ✅ **DECIDED** — one paper to IJL ([PAPER.md](PAPER.md)).
+1. ~~**D4 paper consolidation**~~ ✅ **DECIDED** — one paper to IJL ([PAPER.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md)).
 2. ~~**D8 microsite stack**~~ ✅ **DECIDED** — keep Observable Framework.
 3. ~~**Methodological limitations**~~ ✅ **DONE** — [PAPER.md §9](PAPER.md#9-methodological-limitations).
-4. ~~**Cross-dict block matrices for D1**~~ ✅ **DONE** — [CROSS_DICT_PROFILES.md](analysis/CROSS_DICT_PROFILES.md) covers all 9 dicts.
-5. ~~**Statistical significance for D7**~~ ✅ **DONE** — [SIGNIFICANCE_FULL.md](analysis/SIGNIFICANCE_FULL.md), 217/270 cells significant at q=0.05.
+4. ~~**Cross-dict block matrices for D1**~~ ✅ **DONE** — [CROSS_DICT_PROFILES.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/CROSS_DICT_PROFILES.md) covers all 9 dicts.
+5. ~~**Statistical significance for D7**~~ ✅ **DONE** — [SIGNIFICANCE_FULL.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/SIGNIFICANCE_FULL.md), 217/270 cells significant at q=0.05.
 6. ~~**Cappeller / Benfey / WIL print prefaces**~~ ✅ **DONE 2026-05-27 (O1)** — D2 closed and downgraded: Cappeller `*` 1891 and Benfey `†` 1866 are typographic precedents; MW's innovation is structural promotion to the source-citation slot. See [DOUBTS D2](DOUBTS.md#d2--the-lsllls-claim-refined-mw-systematised-a-convention-pioneered-typographically--resolved-2026-05-27).
-7. **Russian translation review:** when can [@gasyoun](https://github.com/gasyoun) review the bootstrap RU translations in [locales/ru.json](figures/locales/ru.json)? **(Opus pre-review pass complete 2026-05-27 (O4) — 4 string corrections + 2 (?)-clearances; 3 medium-confidence terms still flagged.)**
-8. ~~**Phase-4 scope**~~ ✅ **DONE 2026-05-27 (O5)** — 9-chapter ordering and 3 template tiers documented in [decisions/MICROSITE.md Decision 29](decisions/MICROSITE.md#decision-29--phase-4-dictionary-ordering-chapter-templates-minimum-data-added-2026-05-27).
+7. **Russian translation review:** when can [@gasyoun](https://github.com/gasyoun) review the bootstrap RU translations in [locales/ru.json](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/figures/locales/ru.json)? **(Opus pre-review pass complete 2026-05-27 (O4) — 4 string corrections + 2 (?)-clearances; 3 medium-confidence terms still flagged.)**
+8. ~~**Phase-4 scope**~~ ✅ **DONE 2026-05-27 (O5)** — 9-chapter ordering and 3 template tiers documented in [decisions/MICROSITE.md Decision 29](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/MICROSITE.md#decision-29--phase-4-dictionary-ordering-chapter-templates-minimum-data-added-2026-05-27).
 9. **MVP cut:** does the user accept shipping PAPER.md + one figure now, deferring everything else?
 10. **csl-atlas repo creation:** scaffold locally now? Phase-4 ordering decided?
 11. ~~**[D5](DOUBTS.md#d5--article-type-typology--refactored-to-8-primary-types--3-orthogonal-properties--resolved-2026-05-27) typology refactor**~~ ✅ **DONE 2026-05-27 (O2)** — 8 primary types + 3 orthogonal properties in [PAPER.md §5](PAPER.md#5-profiles-as-the-unit-of-typology) and [MICROANALYSIS.md §3](MICROANALYSIS.md#3--article-type-typology-8-primary-types--3-orthogonal-properties); legacy 14-bucket table preserved as §3.1.
-12. **Russian-language venue:** which publication, what length, what overlap with the IJL paper? **(O9 in flight — drafting [PAPER_RU.md](PAPER_RU.md) ~5K words for Russian indological venue.)**
+12. **Russian-language venue:** which publication, what length, what overlap with the IJL paper? **(O9 in flight — drafting [PAPER_RU.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER_RU.md) ~5K words for Russian indological venue.)**
 
 ### Maintainer-review status (5 pilots, 2026-05-27 after O6)
 
@@ -370,4 +372,6 @@ This work is a collaboration between [@gasyoun](https://github.com/gasyoun) (Mā
 
 ---
 
-**End of HANDOFF.** A new chat session reading this file from top to bottom — plus [DOUBTS.md](DOUBTS.md), [PAPER.md](PAPER.md), [analysis/README.md](analysis/README.md), and [project_docs_review.md](file:///C:/Users/user/.claude/projects/D--claude/memory/project_docs_review.md) — should be productive within minutes.
+**End of HANDOFF.** A new chat session reading this file from top to bottom — plus [DOUBTS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/DOUBTS.md), [PAPER.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md), [analysis/README.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/README.md), and [project_docs_review.md](file:///C:/Users/user/.claude/projects/D--claude/memory/project_docs_review.md) — should be productive within minutes.
+
+_Dr. Mārcis Gasūns_

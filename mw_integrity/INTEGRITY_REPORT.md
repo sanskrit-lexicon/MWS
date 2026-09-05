@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # `mw.txt` structural-integrity review
 
 - Records: **286,560** `<L>` / **286,560** `<LEND>` ✅ balanced
@@ -21,3 +23,5 @@
 The only flag is **1 record(s)** — listed above; cosmetic, not structure-breaking. Note: the per-record paired-tag check only validates *count* balance, not nesting order.
 
 Analysis only — no `mw.txt` change.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # Conjugation-class concordance: MW `cp` vs Whitney `classes`
 
 - MW genuine roots with both a Whitney anchor and a `cp` class: **737**
@@ -57,3 +59,5 @@
   therefore conservative — real disagreements, not homonym artefacts.
 - Conflicts are candidates for the Whitney class-verdict review and a P4 signal;
   the Dhātupāṭha (Westergaard) class can adjudicate where present.
+
+_Dr. Mārcis Gasūns_

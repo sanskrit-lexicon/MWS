@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010026.jpg
 source_page: Page xxii: Section IV
@@ -36,3 +38,5 @@ And a still more remarkable event has happened. Europe has learnt to perceive th
 ¹ A section of it has been printed in Calcutta.
 
 ² The use made of some of the series is thankfully acknowledged at p. xxxii; but it is surprising that the long line of 49 thick octavo volumes includes no complete translation of India's most sacred book—the Ṛig-veda. Only about 180 out of 1017 hymns are translated in vols. xxxii and xlvi, when a continuous English version of all the hymns might have been given in one volume. It is regrettable, too, that vol. xlii only gives about a third of the Atharva-veda hymns, and that the Bhāgavata-purāṇa, which is a bible of modern Hindūism, has no place in the list, while some volumes give translations of far less important works, and some give re-translations of works previously translated by good scholars.
+
+_Dr. Mārcis Gasūns_

@@ -1,6 +1,8 @@
+_Created: 24-05-2026 · Last updated: 05-09-2026_
+
 # Reproducibility supplement — manifest (Decision 16)
 
-Built by [`make_supplement.py`](make_supplement.py) into `mw-microanalysis-supplementary.zip` (a gitignored build artefact). The raw dictionary `.txt` files are not bundled — they live in [csl-orig](https://github.com/sanskrit-lexicon/csl-orig); the included scripts regenerate every derived artefact from them.
+Built by [`make_supplement.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/make_supplement.py) into `mw-microanalysis-supplementary.zip` (a gitignored build artefact). The raw dictionary `.txt` files are not bundled — they live in [csl-orig](https://github.com/sanskrit-lexicon/csl-orig); the included scripts regenerate every derived artefact from them.
 
 **104 files**, 2368 kB uncompressed.
 
@@ -126,3 +128,5 @@ python make_supplement.py
 - `figures/locales/ru.json`
 
 </details>
+
+_Dr. Mārcis Gasūns_

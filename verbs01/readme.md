@@ -1,3 +1,5 @@
+_Created: 07-07-2020 · Last updated: 05-09-2026_
+
 
 # MWS/verbs01
 
@@ -113,3 +115,4 @@ For the mw verb aMS, the dictionaries with verb entries mapping to
 * aMSApay is pwg only
 * aMSa are skd, vcp, and wil.
 
+_Dr. Mārcis Gasūns_

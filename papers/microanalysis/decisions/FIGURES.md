@@ -1,6 +1,8 @@
+_Created: 23-05-2026 · Last updated: 05-09-2026_
+
 # Decisions — figure design and conventions
 
-Covers decisions **13**, **14**, **15**, **17**, **21**, **22**, **23**, **26**, **28**. See [decisions/README.md](README.md) for the full index.
+Covers decisions **13**, **14**, **15**, **17**, **21**, **22**, **23**, **26**, **28**. See [decisions/README.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/README.md) for the full index.
 
 ---
 
@@ -24,7 +26,7 @@ Aligns with [W3C SVG accessibility spec](https://www.w3.org/TR/SVG2/struct.html#
 
 ## Decision 15 — Figure numbering: single continuous sequence + stable-slug manifest
 
-The study is now **one paper** ([PAPER.md](../PAPER.md)), so figures use a single continuous sequence (Fig 1, Fig 2, …) across body and appendices; appendix figures may take an `A`/`B`/`C` prefix (Fig A1, Fig B1). The earlier per-paper numbering is retired with the consolidation ([DOUBTS.md D4](../DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking)).
+The study is now **one paper** ([PAPER.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md)), so figures use a single continuous sequence (Fig 1, Fig 2, …) across body and appendices; appendix figures may take an `A`/`B`/`C` prefix (Fig A1, Fig B1). The earlier per-paper numbering is retired with the consolidation ([DOUBTS.md D4](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking)).
 
 A separate **stable figure-ID manifest** (`figures/manifest.json`, TBD) will map each figure's slug → its number. Survives reviewer-driven renumbering.
 
@@ -127,9 +129,11 @@ Footer text incorporates both Git short SHA and build date. Reviewer can `git sh
 
 ## Cross-links
 
-- [VISUALISATIONS.md](../VISUALISATIONS.md) — catalogue + tier prioritisation
-- [PALETTE.md](PALETTE.md) — colour tokens used by figures
-- [I18N.md](I18N.md) — bilingual labels
-- [MICROSITE.md](MICROSITE.md) — interactive renditions
-- [NORMALISATION.md](NORMALISATION.md) — captions need to state normalisation
+- [VISUALISATIONS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/VISUALISATIONS.md) — catalogue + tier prioritisation
+- [PALETTE.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/PALETTE.md) — colour tokens used by figures
+- [I18N.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/I18N.md) — bilingual labels
+- [MICROSITE.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/MICROSITE.md) — interactive renditions
+- [NORMALISATION.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/NORMALISATION.md) — captions need to state normalisation
 - All rendered figures: [`figures/`](../figures/)
+
+_Dr. Mārcis Gasūns_

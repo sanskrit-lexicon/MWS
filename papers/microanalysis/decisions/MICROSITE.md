@@ -1,6 +1,8 @@
+_Created: 23-05-2026 · Last updated: 05-09-2026_
+
 # Decisions — csl-atlas interactive microsite
 
-Covers decisions **2**, **7**, **10**, **20**, **24**, **27**. See [decisions/README.md](README.md) for the full index.
+Covers decisions **2**, **7**, **10**, **20**, **24**, **27**. See [decisions/README.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/README.md) for the full index.
 
 ---
 
@@ -31,13 +33,13 @@ The microsite lives in a new repo, **`csl-atlas`** under the `sanskrit-lexicon` 
 ## Decision 10 — Stack: Observable Framework
 
 [Observable Framework](https://observablehq.com/framework). Rationale:
-- Built-in i18n routing (matches per-locale-file strategy from [I18N.md](I18N.md)).
+- Built-in i18n routing (matches per-locale-file strategy from [I18N.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/I18N.md)).
 - Reactive data + D3 + Markdown pages out of the box.
 - Static output (HTML/JS) deployable to GitHub Pages.
 - First-class declarative data files (JSON/CSV) → matches our JSON-data architecture.
 - Polished research-microsite aesthetic.
 
-**[DOUBTS.md D8](../DOUBTS.md#d8--observable-framework-is-heavy-infrastructure-for-a-research-microsite--blocking) — RESOLVED 2026-05-23: keep Observable Framework.** The lock-in / build-pipeline trade-offs are accepted in exchange for built-in i18n routing, reactive D3/Plot, and Markdown pages. The vanilla-HTML+D3 alternative is *not* adopted. Mitigations become implementation notes: pin the Framework version, keep the static SVG/PNG figures independent of the framework (the paper does not depend on it), and reserve Observable for the interactive tools.
+**[DOUBTS.md D8](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/DOUBTS.md#d8--observable-framework-is-heavy-infrastructure-for-a-research-microsite--blocking) — RESOLVED 2026-05-23: keep Observable Framework.** The lock-in / build-pipeline trade-offs are accepted in exchange for built-in i18n routing, reactive D3/Plot, and Markdown pages. The vanilla-HTML+D3 alternative is *not* adopted. Mitigations become implementation notes: pin the Framework version, keep the static SVG/PNG figures independent of the framework (the paper does not depend on it), and reserve Observable for the interactive tools.
 
 ## Decision 20 — Navigation: hybrid (paper-tours + standalone tools)
 
@@ -123,7 +125,7 @@ Phase 4 commits the atlas to chapters for **nine** dictionaries. With chapter au
 
 ### 29.1 — Ordering: framework-fit first, then precedent, then genre-bound
 
-The 9 chapters are sequenced to mirror the paper's argument arc: start at the framework's *home*, work outward through *direct ancestors* and *modern successors*, then visit the *typographic precedents* discovered in [O1](../analysis/LS_HEDGE_CHECK.md#print-preface-read-added-2026-05-27-closes-the-digital-only-gap), and finish at the *genre limit* where the framework stops applying.
+The 9 chapters are sequenced to mirror the paper's argument arc: start at the framework's *home*, work outward through *direct ancestors* and *modern successors*, then visit the *typographic precedents* discovered in [O1](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/LS_HEDGE_CHECK.md#print-preface-read-added-2026-05-27-closes-the-digital-only-gap), and finish at the *genre limit* where the framework stops applying.
 
 | # | Code | Dictionary | Year | Why this position |
 |--:|---|---|---|---|
@@ -132,7 +134,7 @@ The 9 chapters are sequenced to mirror the paper's argument arc: start at the fr
 | 3 | **PWK** | Böhtlingk, *kürzeres* PW | 1879–89 | PWG's own abridgement; demonstrates that single-volume economy is independent of the editor. |
 | 4 | **AP** | Apte, *Practical* | 1957 | The modern successor; differentiates types (spread 15.2 pts, largest among CDSL); shows the framework on a 20th-century artefact. |
 | 5 | **BEN** | Benfey | 1866 | First typographic precedent for the `<ls>L.</ls>` hedge (dagger `†` = "no authoritative references"); IE-cognate-heavy. |
-| 6 | **CAE** | Cappeller | 1891 | Second typographic precedent (asterisk `*` = "taught only by grammarians or lexicographers"); Cappeller co-edited MW 1899, so the lineage is direct. The "structural innovation" claim in [§7.2(ii)](../PAPER.md#72-three-findings-all-three-frameworks-reach) lives here. |
+| 6 | **CAE** | Cappeller | 1891 | Second typographic precedent (asterisk `*` = "taught only by grammarians or lexicographers"); Cappeller co-edited MW 1899, so the lineage is direct. The "structural innovation" claim in [§7.2(ii)](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md#72-three-findings-all-three-frameworks-reach) lives here. |
 | 7 | **WIL** | Wilson | 1832 | Earliest CDSL dict; minimal `<ls>` apparatus (224 of 230 tags = `<ls>Rox.</ls>`); the **base from which the European tradition departs**. The reader who has seen MW, PWG, PWK, AP, BEN, CAE now sees the starting point. |
 | 8 | **SKD** | *Śabdakalpadruma* | 1822–58 | Sanskrit-Sanskrit lexicon (kosha-style). Framework's first genre-bound limit: no `<lex>`/`<ls>` markup, marks gender inline, cites via inline `iti` quotation (1.70/record). |
 | 9 | **VCP** | *Vācaspatya* | 1873–84 | Second Sanskrit-Sanskrit lexicon. Confirms the genre boundary (inline `iti` at 0.26/record — even sparser). Closes the atlas with the explicit statement: **the block apparatus is genre-bound to structured bilingual dictionaries.** |
@@ -142,9 +144,9 @@ The 9 chapters are sequenced to mirror the paper's argument arc: start at the fr
 - *Not by record count* (would put MW first, then AP — but AP is a 20th-century outlier that belongs after PWG/PWK).
 - *Not alphabetical* (no narrative arc).
 
-**Rationale.** The ordering encodes a narrative: (1–4) build up the framework on data-rich, differentiated dictionaries; (5–6) discover the typographic precedents that downgrade the "MW innovation" claim; (7) return to the base; (8–9) show where the framework stops. A reader following this order learns the framework, then learns its history, then learns its limits — and that is the same arc as [PAPER.md](../PAPER.md) itself.
+**Rationale.** The ordering encodes a narrative: (1–4) build up the framework on data-rich, differentiated dictionaries; (5–6) discover the typographic precedents that downgrade the "MW innovation" claim; (7) return to the base; (8–9) show where the framework stops. A reader following this order learns the framework, then learns its history, then learns its limits — and that is the same arc as [PAPER.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md) itself.
 
-**The four kosha repos** ([ARMH](https://github.com/sanskrit-lexicon/armh), [ABCH](https://github.com/sanskrit-lexicon/abch), [ACPH](https://github.com/sanskrit-lexicon/acph), [ACSJ](https://github.com/sanskrit-lexicon/acsj)) are **not** Phase-4 chapters — they are the *resolution targets* for `<ls>L.</ls>` (per [PAPER.md §8](../PAPER.md#8-implications-for-future-cdsl-work)) and belong in a future Phase-5 "kosha lineage" companion area, not as full atlas chapters of the same shape as MW/PWG. Treating them as chapters would imply they are dictionaries to read; they are sources to resolve hedges *to*.
+**The four kosha repos** ([ARMH](https://github.com/sanskrit-lexicon/armh), [ABCH](https://github.com/sanskrit-lexicon/abch), [ACPH](https://github.com/sanskrit-lexicon/acph), [ACSJ](https://github.com/sanskrit-lexicon/acsj)) are **not** Phase-4 chapters — they are the *resolution targets* for `<ls>L.</ls>` (per [PAPER.md §8](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md#8-implications-for-future-cdsl-work)) and belong in a future Phase-5 "kosha lineage" companion area, not as full atlas chapters of the same shape as MW/PWG. Treating them as chapters would imply they are dictionaries to read; they are sources to resolve hedges *to*.
 
 ### 29.2 — Chapter template variants (three tiers)
 
@@ -209,7 +211,7 @@ Each chapter, regardless of tier, must carry at least the following before being
 | License | The repo's LICENSE | Single line; CC-BY-SA-4.0 for all CDSL dicts. |
 | Reproducibility manifest line | `analysis/<dict>_block_matrix.py` output | The chapter must name the script that produced its numbers. |
 
-Optional-but-strongly-encouraged (drives reader trust): one figure (the dict's own block-heatmap or its single most distinctive figure — see [FIGURES.md](FIGURES.md)) and one cross-link to the corresponding section in [PAPER.md](../PAPER.md) or [DICT_PROFILE](../../../DICT_PROFILE.md).
+Optional-but-strongly-encouraged (drives reader trust): one figure (the dict's own block-heatmap or its single most distinctive figure — see [FIGURES.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/FIGURES.md)) and one cross-link to the corresponding section in [PAPER.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md) or [DICT_PROFILE](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md).
 
 ### 29.4 — Authoring order ≠ presentation order
 
@@ -219,11 +221,13 @@ The presentation order is fixed (29.1). The **authoring** order can differ — d
 
 ## Cross-links
 
-- [VISUALISATIONS.md](../VISUALISATIONS.md) — catalogue
-- [I18N.md](I18N.md) — locale routing
-- [FIGURES.md](FIGURES.md) — what the microsite renders
-- [CROSS_DICT_PROFILES.md](../analysis/CROSS_DICT_PROFILES.md) — empirical basis for the 9-dict ordering (Part A bilingual / Part B genre-bound)
-- [LS_HEDGE_CHECK.md](../analysis/LS_HEDGE_CHECK.md) — preface-read evidence that places CAE and BEN at positions 5–6
-- [DOUBTS.md D8, D10](../DOUBTS.md) — known doubts about stack choice and premature naming
+- [VISUALISATIONS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/VISUALISATIONS.md) — catalogue
+- [I18N.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/I18N.md) — locale routing
+- [FIGURES.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/FIGURES.md) — what the microsite renders
+- [CROSS_DICT_PROFILES.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/CROSS_DICT_PROFILES.md) — empirical basis for the 9-dict ordering (Part A bilingual / Part B genre-bound)
+- [LS_HEDGE_CHECK.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/LS_HEDGE_CHECK.md) — preface-read evidence that places CAE and BEN at positions 5–6
+- [DOUBTS.md D8, D10](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/DOUBTS.md) — known doubts about stack choice and premature naming
 - [csl-atlas local scaffold](file:///D:/claude/csl-atlas/) — current local state
 - Future: `https://github.com/sanskrit-lexicon/csl-atlas` — pending push
+
+_Dr. Mārcis Gasūns_

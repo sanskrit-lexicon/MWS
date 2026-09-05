@@ -1,6 +1,6 @@
 # G5 Sampling Addendum — pinned deterministic algorithm
 
-_Created: 02-07-2026 · Last updated: 02-07-2026_
+_Created: 02-07-2026 · Last updated: 05-09-2026_
 
 Companion to
 [G5_GOLD_SAMPLE_SPEC.md](https://github.com/sanskrit-lexicon/MWS/blob/master/review_packets/G5_GOLD_SAMPLE_SPEC.md),
@@ -21,7 +21,7 @@ into their own `pass_<x>/annotations.csv` and fill independently.
 
 ## Algorithm
 
-Script: [`build_sample.py`](build_sample.py) in this directory. Deterministic
+Script: [`build_sample.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/review_packets/g5/build_sample.py) in this directory. Deterministic
 seed: `20260702` (int; the date this addendum was ratified). Steps:
 
 1. Parse `mw.txt` into records split on `<L>` / `<LEND>` boundaries.

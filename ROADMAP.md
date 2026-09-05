@@ -346,3 +346,5 @@ Vedic accent expansion beyond 16.6%, `<ls>L.</ls>` verification (40,213 citation
   [ENTRY_GUIDE.md](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md),
   [DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/MWS/blob/master/DATA_DICTIONARY.md),
   [CONTRIBUTING.md](https://github.com/sanskrit-lexicon/MWS/blob/master/CONTRIBUTING.md).
+
+_Dr. Mārcis Gasūns_

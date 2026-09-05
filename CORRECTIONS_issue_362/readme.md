@@ -1,3 +1,5 @@
+_Created: 03-10-2021 · Last updated: 05-09-2026_
+
 # Input files
 
 1. `MW_lang.lines.xlsx` - File received from Andhrabharati. See https://github.com/sanskrit-lexicon/CORRECTIONS/issues/362#issuecomment-915318257.
@@ -12,3 +14,4 @@
 
 1. `log.txt` - Differences between two versions. Based on this, corrections in AB or Cologne data would be made. Ultimate goal is to have log.txt blank.
 
+_Dr. Mārcis Gasūns_

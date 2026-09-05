@@ -1,3 +1,5 @@
+_Created: 22-05-2026 · Last updated: 05-09-2026_
+
 {% raw %}
 # Entry Reading Guide — MWS
 
@@ -59,7 +61,7 @@ SLP1 quick reference — **consonants:**
 **Vowels:** `a A i I u U f F x X e E o O M H`
 
 Three round-trip non-invertibilities exist (SLP1 → IAST → SLP1); see
-[mwtranscode/readme.txt](mwtranscode/readme.txt).
+[mwtranscode/readme.txt](https://github.com/sanskrit-lexicon/MWS/blob/master/mwtranscode/readme.txt).
 
 ---
 
@@ -170,7 +172,7 @@ In-file corrections use double-brace syntax (processed by [`updateByLine.py`](ht
 ## Common tags
 
 Tag counts shown are from the markup-fix audit of `mw.txt` (2026-05) — see
-[DATA_DICTIONARY.md](DATA_DICTIONARY.md) for the full inventory.
+[DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/MWS/blob/master/DATA_DICTIONARY.md) for the full inventory.
 
 | Tag | Count | Role | Example |
 |---|--:|---|---|
@@ -194,7 +196,7 @@ or unmarked prose.
 
 **`<ab n="…">` variant:** 12,779 abbreviation tags carry an explicit expansion in
 the `n` attribute (`<ab n="some full phrase">X</ab>`), bypassing the lookup table.
-These all have real (non-placeholder) expansions — see [DATA_DICTIONARY.md](DATA_DICTIONARY.md).
+These all have real (non-placeholder) expansions — see [DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/MWS/blob/master/DATA_DICTIONARY.md).
 
 ---
 
@@ -474,7 +476,7 @@ The 16.6% accent coverage is partial. For accent-sensitive Vedic work, [Grassman
   ```
   Processed by `updateByLine.py`; never appears in rendered output.
 - **Supplement entries** (from the 1899 print supplement) are integrated into the
-  main entry sequence; see [6602-entries-from-supplements-MW.txt](6602-entries-from-supplements-MW.txt).
+  main entry sequence; see [6602-entries-from-supplements-MW.txt](https://github.com/sanskrit-lexicon/MWS/blob/master/6602-entries-from-supplements-MW.txt).
 
 ---
 
@@ -566,3 +568,5 @@ Compound sub-entries in MW are stored as siblings of the parent rather than as
 nested records, with the parent–child relationship implicit in adjacency and
 the `<e>3` hierarchy code.
 {% endraw %}
+
+_Dr. Mārcis Gasūns_

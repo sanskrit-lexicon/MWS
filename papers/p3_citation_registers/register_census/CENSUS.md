@@ -42,7 +42,7 @@ Distinct sigla: 510 in the attested stratum, 824 in the bare stratum.
 
 ## Reconciliation with the previously published MW counts
 
-[`SYNTHESIS.md`](../SYNTHESIS.md) publishes `L.` = 40,212 and meta = 69,603, both from a
+[`SYNTHESIS.md`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/p3_citation_registers/SYNTHESIS.md) publishes `L.` = 40,212 and meta = 69,603, both from a
 **literal** tag match. This census classes a citation by its **siglum**, so a meta siglum
 that happens to carry a locator stays with its siglum. All of MW contains exactly
 **2** such citations — `<ls>L. i</ls>` and `<ls>W. 1</ls>` — so the strata run +1 hedge / +1 authority against the

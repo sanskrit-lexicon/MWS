@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # 3-way verbal-root crosswalk: MW ↔ Whitney ↔ DCS
 
 ## MW side
@@ -35,3 +37,5 @@
   (SHARED_CODE.md §11); the join itself lives in
   `WhitneyRoots/scripts/root_triangulation.py` (SHARED_CODE.md §16) — this
   script is a thin MWS-side consumer, not a second implementation.
+
+_Dr. Mārcis Gasūns_

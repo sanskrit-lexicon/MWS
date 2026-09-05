@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # MW phrasal-headword (phw) graph — audit
 
 Undocumented bidirectional cross-reference structure: a parent sense links to
@@ -39,3 +41,5 @@ See `phw_integrity.csv` for the exact records (maintainer-fixable).
   `phwchild`/`phwparent` targets, plus two `{{Lbody=}}`-alias redirects and one
   duplicate pointer) were corrected in `csl-corrections/batch_pending/dictionaries/mw/`
   (H1500) — this script only analyses/audits, it never mutates `mw.txt`.
+
+_Dr. Mārcis Gasūns_

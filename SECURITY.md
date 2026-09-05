@@ -1,3 +1,5 @@
+_Created: 07-05-2026 · Last updated: 05-09-2026_
+
 # Security policy
 
 This repository contains scholarly text data and tooling, not user-facing services with authentication. The principal security concerns are:
@@ -23,3 +25,5 @@ We will acknowledge within five working days and triage privately.
 ## Licence
 
 This security policy itself is licensed CC BY 4.0.
+
+_Dr. Mārcis Gasūns_

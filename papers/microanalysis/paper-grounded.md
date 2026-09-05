@@ -1,10 +1,12 @@
+_Created: 23-05-2026 · Last updated: 05-09-2026_
+
 # The microstructure of *Monier-Williams 1899*: a data-grounded framework
 
-> **Supplementary extended draft — superseded by [PAPER.md](PAPER.md).** One of four single-framework drafts consolidated into the single submission paper per [DOUBTS.md D4](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking). The data-grounded reading below is now the **body** of [PAPER.md](PAPER.md); this fuller draft is retained as supplementary material only. **For the canonical paper, read [PAPER.md](PAPER.md).**
+> **Supplementary extended draft — superseded by [PAPER.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md).** One of four single-framework drafts consolidated into the single submission paper per [DOUBTS.md D4](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking). The data-grounded reading below is now the **body** of [PAPER.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md); this fuller draft is retained as supplementary material only. **For the canonical paper, read [PAPER.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md).**
 
 **Draft for the [*International Journal of Lexicography*](https://academic.oup.com/ijl) (Oxford University Press).** ~8K words target.
 
-**Theoretical framing:** *None* (deliberately). Builds the analytic apparatus from the data itself. One of four parallel framework analyses — see [README](README.md). Data source: [MICROANALYSIS.md](MICROANALYSIS.md).
+**Theoretical framing:** *None* (deliberately). Builds the analytic apparatus from the data itself. One of four parallel framework analyses — see [README](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/README.md). Data source: [MICROANALYSIS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md).
 
 ---
 
@@ -22,13 +24,13 @@ Scholarly metalexicography is dominated by frameworks built between 1977 and 200
 
 We propose a complementary exercise. **What does MW1899 look like if we build the analytical apparatus from MW itself**, only consulting external frameworks at the end for comparison? The answer, we argue, is a *minimal* framework — five constructs — that captures MW's design with no superfluous categories, and lets us see what is **specific to MW** that the imported frameworks dilute or miss.
 
-Our data is the [working notes file](MICROANALYSIS.md), built by parsing every `<L>...<LEND>` record in mw.txt and counting formal-block occurrences.
+Our data is the [working notes file](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md), built by parsing every `<L>...<LEND>` record in mw.txt and counting formal-block occurrences.
 
 ## 2. The five grounded constructs
 
 ### Construct 1 — *Block*
 
-A **block** is a discriminable structural component of an MW entry. We identify 18 such blocks (see [MICROANALYSIS.md §1](MICROANALYSIS.md)). The block is the **atomic unit** of analysis. We make no a priori claim about what blocks *should* be present, and no a priori taxonomy of block-roles.
+A **block** is a discriminable structural component of an MW entry. We identify 18 such blocks (see [MICROANALYSIS.md §1](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md)). The block is the **atomic unit** of analysis. We make no a priori claim about what blocks *should* be present, and no a priori taxonomy of block-roles.
 
 A block has:
 - A **marker** — a tag, glyph, or stereotyped position that lets us detect it.
@@ -54,13 +56,13 @@ The slot view is also the **renderer's view** — MW's [SQLite generation pipeli
 
 ### Construct 3 — *Profile*
 
-A **profile** is the *block-set characteristic of an article type*. We identify 14 article types (see [MICROANALYSIS.md §3](MICROANALYSIS.md)). Each type has a characteristic profile:
+A **profile** is the *block-set characteristic of an article type*. We identify 14 article types (see [MICROANALYSIS.md §3](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md)). Each type has a characteristic profile:
 
 - A **necessary-block set**: blocks present in ≥ 95% of entries of this type.
 - An **enriched-block set**: blocks present at substantially higher rates than baseline (e.g. F09 commentary at 78% in roots vs ~10% baseline).
 - An **omitted-block set**: blocks present at substantially lower rates than baseline (e.g. F02 display headword at 33.9% in continuations vs ~99% baseline).
 
-The profile is the **lexicographer's strategic choice** for handling a type of lemma. Each of MW's 14 profiles is internally coherent — see the [Article-type matrix](MICROANALYSIS.md).
+The profile is the **lexicographer's strategic choice** for handling a type of lemma. Each of MW's 14 profiles is internally coherent — see the [Article-type matrix](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md).
 
 ### Construct 4 — *Hedge*
 
@@ -71,7 +73,7 @@ Hedges are distinct from blocks-in-general because they:
 - Have a **transverse distribution**: they appear across many article types, not concentrated in one (see MICROANALYSIS.md §4: F13 at 71.5% of botanicals, 64.7% of biographicals, 100% of lexicographer-only).
 - Carry **reader-guidance**: they tell the user how to weight the entry's content.
 
-MW has exactly one hedge. PWG had zero (a different design choice — see [Lineage section](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg)). The hedge is the **single most distinctive block** in MW's design.
+MW has exactly one hedge. PWG had zero (a different design choice — see [Lineage section](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#lineage-wil--koshas-mw--pwg)). The hedge is the **single most distinctive block** in MW's design.
 
 ### Construct 5 — *Infrastructure*
 
@@ -112,7 +114,7 @@ We name this **block economy**. Quantitatively:
 
 This is **block economy** in the explicit sense: **a 19th-century printed dictionary cannot afford to elaborate every block in every entry**. Print space is finite; setting cost is real; the user must be able to scan. MW's design rationalises this by maintaining a 6-block kernel and adding to it only when the article-type demands.
 
-The block-economy is **not** present in MW's source dictionary PWG, which we calculated has [571,152 `<ls>` citations against MW's 312,159](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) — PWG is roughly 1.8× more citation-dense per entry. PWG can afford this density because it's a multi-volume work. MW1899 is one volume; block-economy is the print-economic constraint made explicit.
+The block-economy is **not** present in MW's source dictionary PWG, which we calculated has [571,152 `<ls>` citations against MW's 312,159](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) — PWG is roughly 1.8× more citation-dense per entry. PWG can afford this density because it's a multi-volume work. MW1899 is one volume; block-economy is the print-economic constraint made explicit.
 
 ## 4. Profiles as the unit of typology
 
@@ -219,8 +221,8 @@ This table is the **single most useful diagnostic** for the working CDSL editor:
 
 Three concrete implications:
 
-- **For dictionary editing**: the [ROADMAP](../../ROADMAP.md) currently lists 34 open issues + new strategic categories (authority records, Vedic accent expansion, `L.` verification). The block-profile view suggests that **the highest-leverage editorial work is filling Profile-specific gaps** — e.g. systematically reducing F13 hedge incidence in botanical entries (currently 72%, target: lower via better named-source citation; covered by [our Atkins-Rundell paper §10](paper-atkins-rundell.md#10-what-modern-lexicography-would-change)).
-- **For cross-dictionary work**: each CDSL dict ([PWG](https://github.com/sanskrit-lexicon/PWG), [AP](https://github.com/sanskrit-lexicon/ap), [WIL](https://github.com/sanskrit-lexicon/WIL), [SKD](https://github.com/sanskrit-lexicon/SKD), [GRA](https://github.com/sanskrit-lexicon/GRA), [BHS](https://github.com/sanskrit-lexicon/BHS)) and the four koshas ([ARMH](https://github.com/sanskrit-lexicon/armh), [ABCH](https://github.com/sanskrit-lexicon/abch), [ACPH](https://github.com/sanskrit-lexicon/acph), [ACSJ](https://github.com/sanskrit-lexicon/acsj)) should be analysed with the same 18-block framework. A comparative table of profile-distributions would surface intellectual lineages and design contrasts that no single-dictionary study can. The [Lineage section in DICT_PROFILE.md](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) gives the qualitative version; a quantitative version would be a natural follow-up.
+- **For dictionary editing**: the [ROADMAP](https://github.com/sanskrit-lexicon/MWS/blob/master/ROADMAP.md) currently lists 34 open issues + new strategic categories (authority records, Vedic accent expansion, `L.` verification). The block-profile view suggests that **the highest-leverage editorial work is filling Profile-specific gaps** — e.g. systematically reducing F13 hedge incidence in botanical entries (currently 72%, target: lower via better named-source citation; covered by [our Atkins-Rundell paper §10](paper-atkins-rundell.md#10-what-modern-lexicography-would-change)).
+- **For cross-dictionary work**: each CDSL dict ([PWG](https://github.com/sanskrit-lexicon/PWG), [AP](https://github.com/sanskrit-lexicon/ap), [WIL](https://github.com/sanskrit-lexicon/WIL), [SKD](https://github.com/sanskrit-lexicon/SKD), [GRA](https://github.com/sanskrit-lexicon/GRA), [BHS](https://github.com/sanskrit-lexicon/BHS)) and the four koshas ([ARMH](https://github.com/sanskrit-lexicon/armh), [ABCH](https://github.com/sanskrit-lexicon/abch), [ACPH](https://github.com/sanskrit-lexicon/acph), [ACSJ](https://github.com/sanskrit-lexicon/acsj)) should be analysed with the same 18-block framework. A comparative table of profile-distributions would surface intellectual lineages and design contrasts that no single-dictionary study can. The [Lineage section in DICT_PROFILE.md](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) gives the qualitative version; a quantitative version would be a natural follow-up.
 - **For digital-edition methodology**: the **infrastructure construct** (§5) is a transferable analytical tool. Any future digital edition of a historical dictionary needs to track what was added in digitisation vs what was in the original. The CDSL `<info>` system is one example; XML attributes like `@type="digital"` could formalise the distinction across the project.
 
 ## 10. Conclusion
@@ -246,4 +248,6 @@ Whether a grounded framework is *preferable* to an external one depends on the a
 
 ---
 
-*Source data: [MICROANALYSIS.md](MICROANALYSIS.md). Companion framework papers: [Wiegand](paper-wiegand.md) · [Atkins-Rundell](paper-atkins-rundell.md) · [Hausmann-Wiegand](paper-hausmann.md). All four analyse the same MW1899 dataset through different theoretical lenses.*
+*Source data: [MICROANALYSIS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md). Companion framework papers: [Wiegand](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/paper-wiegand.md) · [Atkins-Rundell](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/paper-atkins-rundell.md) · [Hausmann-Wiegand](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/paper-hausmann.md). All four analyse the same MW1899 dataset through different theoretical lenses.*
+
+_Dr. Mārcis Gasūns_

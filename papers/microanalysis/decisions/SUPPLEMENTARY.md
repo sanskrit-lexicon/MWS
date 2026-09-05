@@ -1,6 +1,8 @@
+_Created: 23-05-2026 · Last updated: 05-09-2026_
+
 # Decisions — attribution and supplementary materials
 
-Covers decisions **5** and **16**. See [decisions/README.md](README.md) for the full index.
+Covers decisions **5** and **16**. See [decisions/README.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/README.md) for the full index.
 
 ---
 
@@ -11,13 +13,13 @@ All figures, papers, and supplementary materials cite **"CDSL `mw.txt` 2026-05-2
 If a journal requires citing the print original (MW 1899), figures can be regenerated against the print at that point — but the digital edition is what we computed against, and the date stamp captures the exact state.
 
 Implementation:
-- Every static figure carries a small grey footer (per [FIGURES.md Decision 26](FIGURES.md)).
+- Every static figure carries a small grey footer (per [FIGURES.md Decision 26](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/FIGURES.md)).
 - Every paper section that quotes a count points to where the count came from.
 - The interactive microsite carries the same attribution in a persistent footer.
 
 ## Decision 16 — Supplementary materials: self-contained ZIP
 
-**Implemented:** built by [`analysis/make_supplement.py`](../analysis/make_supplement.py) → `mw-microanalysis-supplementary.zip` (87 files, ~1.5 MB; a gitignored build artefact). Contents and rebuild steps are recorded in [`analysis/SUPPLEMENT_MANIFEST.md`](../analysis/SUPPLEMENT_MANIFEST.md). The raw dictionary `.txt` files are not bundled (they live in [csl-orig](https://github.com/sanskrit-lexicon/csl-orig)); the included scripts regenerate every derived artefact from them.
+**Implemented:** built by [`analysis/make_supplement.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/make_supplement.py) → `mw-microanalysis-supplementary.zip` (87 files, ~1.5 MB; a gitignored build artefact). Contents and rebuild steps are recorded in [`analysis/SUPPLEMENT_MANIFEST.md`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/analysis/SUPPLEMENT_MANIFEST.md). The raw dictionary `.txt` files are not bundled (they live in [csl-orig](https://github.com/sanskrit-lexicon/csl-orig)); the included scripts regenerate every derived artefact from them.
 
 The IJL submission includes a single ZIP archive `mw-microanalysis-supplementary.zip` containing:
 
@@ -50,7 +52,7 @@ Survives:
 
 ## Implementation status (2026-05-23)
 
-- [x] Per-figure attribution footer implemented (Decision 5, see [FIGURES.md](FIGURES.md))
+- [x] Per-figure attribution footer implemented (Decision 5, see [FIGURES.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/FIGURES.md))
 - [x] All data files exported to JSON in [`figures/data/`](../figures/data/)
 - [x] All Python scripts in [`figures/scripts/`](../figures/scripts/)
 - [x] Static figures rendered as SVG + PNG with sidecar alt/desc files
@@ -59,7 +61,9 @@ Survives:
 
 ## Cross-links
 
-- [VISUALISATIONS.md](../VISUALISATIONS.md) — catalogue
-- [FIGURES.md](FIGURES.md) — footer typography
-- [PALETTE.md](PALETTE.md) — license (CC-BY-SA-4.0)
-- [BUILD-ORDER.md](BUILD-ORDER.md) — when the ZIP gets packaged
+- [VISUALISATIONS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/VISUALISATIONS.md) — catalogue
+- [FIGURES.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/FIGURES.md) — footer typography
+- [PALETTE.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/PALETTE.md) — license (CC-BY-SA-4.0)
+- [BUILD-ORDER.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/BUILD-ORDER.md) — when the ZIP gets packaged
+
+_Dr. Mārcis Gasūns_

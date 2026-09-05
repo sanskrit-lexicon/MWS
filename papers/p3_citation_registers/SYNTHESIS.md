@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # P3 contribution — the corpus test: evidentiary status within the European (`<ls>`) register
 
 *A synthesis of the 2026-06-13 MW corpus findings as one evidence block for paper
@@ -52,7 +54,7 @@ lexicography" (the book's Ch. 2 method) applied to the citation apparatus itself
 > (an aggregate dominated by PWG at 4.61 `<ls>`/entry against MW's 1.09). The two components were
 > also computed over different populations, so "22.3% + 40.2%" was never a valid subtraction from
 > 100%. **MW's own locator-bearing share is 18.96%** — the ceiling is roughly half what this memo
-> claimed. Full argument: [A18](A18_citation_registers_paper.md) §6.1.
+> claimed. Full argument: [A18](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/p3_citation_registers/A18_citation_registers_paper.md) §6.1.
 
 A corollary refines the register's *measured size*. Of MW's citations, **22.3%**
 are meta / relative (`L.`, `ib.`, `W.`, `MW.`, `Cat.`) — structurally unable to
@@ -112,7 +114,7 @@ does not entail a corpus-detached *vocabulary*. Remaining open (shared with P4):
 VCP's lexical-citation share (its source vocabulary differs from SKD's) and
 sense-level verification.
 
-> ✅ **Fixed 2026-06-13** ([CODE_REVIEW.md](../CODE_REVIEW.md) #1–#3, #7): the iti-citation regex and the de-inflection are corrected; the figures here (**40.5%** kośa share, **51.3%** SKD grounding) are the post-fix values.
+> ✅ **Fixed 2026-06-13** ([CODE_REVIEW.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/CODE_REVIEW.md) #1–#3, #7): the iti-citation regex and the de-inflection are corrected; the figures here (**40.5%** kośa share, **51.3%** SKD grounding) are the post-fix values.
 
 ## What this is **not**
 
@@ -122,3 +124,5 @@ sense-level verification.
 - Not committed to any paper draft yet: this memo is the **evidence block** to be
   pulled into the canonical P3 draft (which will live in the SanskritLexicography
   paper pipeline, not in MWS).
+
+_Dr. Mārcis Gasūns_

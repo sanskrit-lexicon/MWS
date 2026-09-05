@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # 3-way verbal-root crosswalk: MW ↔ Whitney ↔ DCS
 
 Joins MW's verbal roots to the [WhitneyRoots](../../WhitneyRoots) hub (935 roots)
@@ -32,7 +34,7 @@ Anchoring integrity is near-perfect: only **3** MW anchors fail to match the hub
 after normalisation (`jañj`, `thurv`, `riṅkh` — candidate typos/hub gaps,
 `mw_whitney_unmatched.csv`).
 
-✅ **Fixed 2026-06-13** ([CODE_REVIEW.md](../papers/CODE_REVIEW.md) #4, #5): the
+✅ **Fixed 2026-06-13** ([CODE_REVIEW.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/CODE_REVIEW.md) #4, #5): the
 809 / 86.5% "in MW" count is built from ALL whitneyroots anchors, not only
 `verb=genuineroot`, so non-genuine-root anchors leak in (813 anchored > 750
 genuine roots). The class-concordance `N` below counts MW records, double-counting
@@ -48,7 +50,7 @@ the ~50 homonym roots that carry two records each. Both are now **fixed**: the j
 
 ## Companion: conjugation-class concordance
 
-[`class_concordance.py`](class_concordance.py) cross-checks the conjugation class
+[`class_concordance.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/root_crosswalk/class_concordance.py) cross-checks the conjugation class
 MW assigns (`cp="1P,1Ā"` → {1}) against Whitney's (`classes` roman → arabic), for
 the 737 distinct roots both anchor. **96.0% agree or overlap** (376 agree, 249 overlap);
 only **26 genuine conflicts** (disjoint class sets) — research signals behind the
@@ -61,12 +63,14 @@ hub class-completeness rather than true disagreement — see the summary caveat.
 
 | File | What |
 |---|---|
-| [`root_crosswalk.py`](root_crosswalk.py) | builds the crosswalk (`python root_crosswalk.py`) |
+| [`root_crosswalk.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/root_crosswalk/root_crosswalk.py) | builds the crosswalk (`python root_crosswalk.py`) |
 | `root_crosswalk.csv` | per Whitney root: id, root, in_MW, mw_L, mw_classes, dcs_status, dcs_freq |
 | `mw_whitney_unmatched.csv` | the 3 MW anchors with no hub match |
-| [`ROOT_CROSSWALK_SUMMARY.md`](ROOT_CROSSWALK_SUMMARY.md) | the crosswalk numbers |
-| [`class_concordance.py`](class_concordance.py) / `class_concordance.csv` | MW-vs-Whitney class check |
-| [`CLASS_CONCORDANCE_SUMMARY.md`](CLASS_CONCORDANCE_SUMMARY.md) | concordance numbers + the 26 conflicts |
+| [`ROOT_CROSSWALK_SUMMARY.md`](https://github.com/sanskrit-lexicon/MWS/blob/master/root_crosswalk/ROOT_CROSSWALK_SUMMARY.md) | the crosswalk numbers |
+| [`class_concordance.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/root_crosswalk/class_concordance.py) / `class_concordance.csv` | MW-vs-Whitney class check |
+| [`CLASS_CONCORDANCE_SUMMARY.md`](https://github.com/sanskrit-lexicon/MWS/blob/master/root_crosswalk/CLASS_CONCORDANCE_SUMMARY.md) | concordance numbers + the 26 conflicts |
 
 Analysis only — no `mw.txt` mutation. The Westergaard `GG.SSSS` third field
 (range 01–35, not the 1–10 gaṇa) is left undecoded rather than guessed.
+
+_Dr. Mārcis Gasūns_

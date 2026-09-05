@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010016.jpg
 source_page: Page xii
@@ -34,3 +36,5 @@ Now if I am asked a second question, as to what most striking feature distinguis
 ⁵ See note 3, p. xxv, on Pāli and on the Prākṛit of the inscriptions.
 
 ⁶ As to the Avesta, commonly called Zend (more correctly Zand), this is that ancient language of Eastern Īrān in which are written the sacred books of the Zoroastrians, commonly called Zend-Avesta—books which constitute the bible and prayer-book of the Pārsīs—those fugitives from Persia who are scattered everywhere throughout India, and are now among the most energetic and loyal of our Indian fellow-subjects.
+
+_Dr. Mārcis Gasūns_

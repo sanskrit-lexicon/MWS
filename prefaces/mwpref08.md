@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010015.jpg
 source_page: Page xi: Introduction Section I
@@ -30,3 +32,5 @@ Nevertheless I could not quite renounce an idea which my classical training at O
 ² The main object was really a missionary one, as I have shown in the Preface to this volume (p. ix), and in my Life of H. H. Wilson appended to my Reminiscences of Old Haileybury College (published by A. Constable & Co.).
 
 ³ His first Dictionary was published in 1819, and his second in 1832, while he was a candidate for the Boden Professorship.
+
+_Dr. Mārcis Gasūns_

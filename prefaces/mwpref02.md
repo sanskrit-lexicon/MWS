@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010009.jpg
 source_page: Page v: Preface
@@ -18,3 +20,5 @@ The words and the meanings of the words of a Dictionary can scarcely be proved b
 In saying this I am not claiming any superiority for my own method over that of the two great German Sanskrit scholars—which, of course, has advantages of its own. Nor am I detracting one whit from the tribute of admiration which I and other lexicographers are always desirous of rendering to the colossal monument of industry and scholarship represented by their work. I am merely repeating my claim to the production of a Sanskrit-English Dictionary on a wholly unique plan—a plan the utility of which has been now proved by experience.
 
 It was not thought desirable to print off more than a thousand copies of the first edition of my book. These—notwithstanding the necessarily high publishing price—were sold off in a few years. It then became a question as to how the continuous demand for the Dictionary was to be met, and the Delegates decided to provide for it by a supplementary facsimile edition, produced by a photo-lithographic process. Copies printed by that process have been procurable ever since. Of course I am well satisfied with the factual evidence thus afforded of the
+
+_Dr. Mārcis Gasūns_

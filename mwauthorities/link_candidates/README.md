@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # W1 (a) — unlinked `<ls>` siglum candidates
 
 Enumerates the distinct `<ls>` source abbreviations in live `mw.txt` that have
@@ -31,9 +33,9 @@ medium (0.80–0.89) / low (0.70–0.79) / no-match.
 
 | File | What |
 |---|---|
-| [`link_candidates.py`](link_candidates.py) | the generator (`python link_candidates.py`) |
+| [`link_candidates.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/mwauthorities/link_candidates/link_candidates.py) | the generator (`python link_candidates.py`) |
 | `link_candidates.csv` | siglum, citation count, SLP1, suggested canonical, score, confidence |
-| [`LINK_CANDIDATES_SUMMARY.md`](LINK_CANDIDATES_SUMMARY.md) | counts, validation, tiers |
+| [`LINK_CANDIDATES_SUMMARY.md`](https://github.com/sanskrit-lexicon/MWS/blob/master/mwauthorities/link_candidates/LINK_CANDIDATES_SUMMARY.md) | counts, validation, tiers |
 
 ## How to use
 
@@ -50,3 +52,5 @@ automated here.**
   no-match and need a human call.
 - "linked" means *a link row exists*, not that the linked record has a scan target
   (that's layer (c)).
+
+_Dr. Mārcis Gasūns_

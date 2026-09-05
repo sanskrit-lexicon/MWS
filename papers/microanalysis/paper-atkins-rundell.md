@@ -1,10 +1,12 @@
+_Created: 23-05-2026 · Last updated: 05-09-2026_
+
 # Reading *Monier-Williams 1899* with Atkins & Rundell: a practical-lexicography microanalysis
 
-> **Supplementary extended draft — superseded by [PAPER.md](PAPER.md).** One of four single-framework drafts consolidated into the single submission paper per [DOUBTS.md D4](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking). This Atkins-Rundell reading is condensed into [PAPER.md Appendix B](PAPER.md#appendix-b--the-atkins-rundell-practical-lexicography-reading-condensed); this fuller draft is retained as supplementary material only. **For the canonical paper, read [PAPER.md](PAPER.md).**
+> **Supplementary extended draft — superseded by [PAPER.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md).** One of four single-framework drafts consolidated into the single submission paper per [DOUBTS.md D4](DOUBTS.md#d4--4-framework-papers-from-the-same-data--is-this-honest--blocking). This Atkins-Rundell reading is condensed into [PAPER.md Appendix B](PAPER.md#appendix-b--the-atkins-rundell-practical-lexicography-reading-condensed); this fuller draft is retained as supplementary material only. **For the canonical paper, read [PAPER.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md).**
 
 **Draft for the [*International Journal of Lexicography*](https://academic.oup.com/ijl) (Oxford University Press).** ~7.5K words target.
 
-**Theoretical framing:** Atkins & Rundell, *The Oxford Guide to Practical Lexicography* (2008). One of four parallel framework analyses — see [README](README.md). Data source: [MICROANALYSIS.md](MICROANALYSIS.md).
+**Theoretical framing:** Atkins & Rundell, *The Oxford Guide to Practical Lexicography* (2008). One of four parallel framework analyses — see [README](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/README.md). Data source: [MICROANALYSIS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md).
 
 ---
 
@@ -22,7 +24,7 @@ Atkins & Rundell's *Oxford Guide to Practical Lexicography* (2008) is the standa
 
 This is precisely why the framework is useful. Atkins & Rundell offer a vocabulary for naming and rating lexicographic *choices* — and MW's choices are crisp, consistent, and recoverable from the digital edition. Applying the framework backwards — from finished product to inferred design decision — lets us read MW as a coherent system rather than as a curiosity. Where A&R's prescriptions and MW's practice diverge, we get to see what 19th-century scholarly Sanskrit lexicography assumed about its readers.
 
-The data source for this paper is our companion [working notes](MICROANALYSIS.md), built from the [CDSL `mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) digital edition (286,561 records).
+The data source for this paper is our companion [working notes](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md), built from the [CDSL `mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) digital edition (286,561 records).
 
 ## 2. The framework in brief
 
@@ -39,7 +41,7 @@ We work through MW against each in turn.
 
 ## 3. Headword inventory: a deliberate over-enumeration
 
-A&R devote chapter 4 to **headword selection**. Their criterion is **user-need**: include a word if and only if a likely user will look for it. For learner dictionaries, this typically means 30K–80K headwords. For unabridged monolinguals, 200K–500K is common. MW's [286,561 records](../../ENTRY_GUIDE.md#entry-hierarchy-distribution) puts it in the unabridged-monolingual range — but the internal composition is unusual.
+A&R devote chapter 4 to **headword selection**. Their criterion is **user-need**: include a word if and only if a likely user will look for it. For learner dictionaries, this typically means 30K–80K headwords. For unabridged monolinguals, 200K–500K is common. MW's [286,561 records](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md#entry-hierarchy-distribution) puts it in the unabridged-monolingual range — but the internal composition is unusual.
 
 | Article type | Count | % of total | Comparable in A&R typology |
 |---|--:|--:|---|
@@ -56,7 +58,7 @@ Why? Two interrelated reasons:
 
 (a) Sanskrit is famously agglutinative — long compounds (six, ten, sometimes twenty members) are productive and frequent. A&R-style sub-entries would explode the parent article. MW's enumeration policy is a **scalability** decision.
 
-(b) MW's source PWG also enumerates compounds, but not as systematically; we calculated in our [Beyond PWG analysis](../../DICT_PROFILE.md#beyond-pwg--what-mw-contributes) that MW has 2.3× as many records as PWG, and the compound count is the chief contributor. MW's editorial discipline was *systematic* compound enumeration where PWG was selective.
+(b) MW's source PWG also enumerates compounds, but not as systematically; we calculated in our [Beyond PWG analysis](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#beyond-pwg--what-mw-contributes) that MW has 2.3× as many records as PWG, and the compound count is the chief contributor. MW's editorial discipline was *systematic* compound enumeration where PWG was selective.
 
 In A&R terms: MW exhibits a **maximally explicit headword inventory policy** for compounds. This is consistent with A&R's principle of *user-need* — but only if the user is an academic Sanskritist who needs every compound found and indexed, not a learner who needs the productive lexicon.
 
@@ -68,7 +70,7 @@ MW uses a **distinctive mixed strategy**: the polysemous lemma gets a single `<e
 
 This is **neither lumping nor splitting in A&R's sense** — it is a *third* option: physically separate sub-entries that share a headword and rely on adjacency for cohesion. The 9,294 `<e>1A` entries in mw.txt all follow this pattern.
 
-A&R do not have a term for this. We propose **adjacency-sub-entries** as the most economical name. Their characteristics, recoverable from the matrix in [MICROANALYSIS.md §4](MICROANALYSIS.md):
+A&R do not have a term for this. We propose **adjacency-sub-entries** as the most economical name. Their characteristics, recoverable from the matrix in [MICROANALYSIS.md §4](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md):
 
 - **Display headword suppressed in 66.1% of cases** (only 33.9% retain `<s>`).
 - **Grammatical category suppressed in 99.7%** (inheriting from the parent `<e>1`).
@@ -91,7 +93,7 @@ MW uses the **third** style — comma-separated translation equivalents — almo
 
 The bold portion is the definition. The parenthetical that precedes is **embedded etymology** — what would, in a modern dictionary, be a separate `[Etym]` field. MW interweaves it into the definition body. This is a 19th-century practice that A&R explicitly recommend against (2008, p. 263): "Etymology should be a separable field that the user can ignore if they wish."
 
-But MW's choice is consistent within itself. The [Article-type matrix](MICROANALYSIS.md) shows that **F09 editorial commentary** (the parenthetical block) is concentrated in two article types:
+But MW's choice is consistent within itself. The [Article-type matrix](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md) shows that **F09 editorial commentary** (the parenthetical block) is concentrated in two article types:
 
 - **Verbal root**: 78.1% — almost every root has an editorial comment.
 - **IE-etymological entry**: 38.4%.
@@ -102,7 +104,7 @@ Elsewhere F09 runs at 3–10%. The embedded-etymology habit is **not pervasive**
 
 A&R chapter 8 is the longest in the book: it argues that **illustrative examples** are the heart of a modern dictionary. Modern English dictionaries (LDOCE, OALD, Collins COBUILD) all carry quoted or constructed examples for each sense.
 
-MW carries **none**. The [311,932 `<ls>` citations](../../ENTRY_GUIDE.md#coverage-of-ls-citations) in mw.txt are **locators**, not quotations: they tell the user *where to look* in the cited text but do not reproduce the citing passage. Of those 311,932 citations:
+MW carries **none**. The [311,932 `<ls>` citations](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md#coverage-of-ls-citations) in mw.txt are **locators**, not quotations: they tell the user *where to look* in the cited text but do not reproduce the citing passage. Of those 311,932 citations:
 
 - 15.1% carry a numeric coordinate (`<ls>RV. v, 86, 5</ls>` — book / hymn / verse).
 - 84.9% are bare work-citations (`<ls>RV.</ls>` — just the work).
@@ -111,7 +113,7 @@ A user wanting to *see* the citing passage must consult the printed text of the 
 
 But MW's omission has a hidden benefit: it makes the dictionary much smaller than it would otherwise be (a constant problem for unabridged Sanskrit dictionaries, where the cited literature itself runs to thousands of pages). A&R-style example provision would have made MW unprintable as a single volume. The choice was practical.
 
-The exception worth noting: the **lexicographer-hedge `<ls>L.</ls>`** — present in [40,213 citations (12.9% of all citations)](../../DICT_PROFILE.md#citation-markers--not-all-are-literary-works) — is **not a locator at all**. It is a *meta-annotation*: "this sense exists in the indigenous lexica only." In A&R's terms, this is a **register marker** — closer to *archaic* or *literary* than to a citation. We return to it in §8 below.
+The exception worth noting: the **lexicographer-hedge `<ls>L.</ls>`** — present in [40,213 citations (12.9% of all citations)](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#citation-markers--not-all-are-literary-works) — is **not a locator at all**. It is a *meta-annotation*: "this sense exists in the indigenous lexica only." In A&R's terms, this is a **register marker** — closer to *archaic* or *literary* than to a citation. We return to it in §8 below.
 
 ## 7. Syntactic and lexical patterns
 
@@ -130,7 +132,7 @@ We have already noted (§6) that `<ls>L.</ls>` is unusual. A&R offer a vocabular
 
 A word marked `L.` carries the implicit pragmatic note: *"This word is recorded in the indigenous Sanskrit lexicons (Amarakośa, Hemacandra's Abhidhānacintāmaṇi, Halāyudha's Abhidhānaratnamālā, etc.) but has not been found in any published Sanskrit text."* The lexicographer-hedge is therefore both an evidential marker (no textual citation) AND a register marker (specifically: of the lexicographic tradition).
 
-Its [distribution across article types](MICROANALYSIS.md):
+Its [distribution across article types](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md):
 
 - **100%** of lexicographer-only articles (by definition).
 - **71.5%** of botanical articles — most plant names exist only in kosha/medical-text identifications.
@@ -162,7 +164,7 @@ If a modern team were to revise MW1899 along A&R's prescriptions, the high-impac
 
 1. **Add real examples** — quoted passages from RV/MBh/Pāṇ etc. for the principal senses. This is now technically possible via [GRETIL](http://gretil.sub.uni-goettingen.de/) and DCS corpora.
 2. **Separate etymology from definition** — move the parenthetical `(probably fr. √…)` into a dedicated `<etym>` field.
-3. **Convert `<ls>L.</ls>` into named-kosha citations** — replace the binary hedge with the specific kosha source (recovering PWG's discipline). [The lineage section](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) discusses why this matters.
+3. **Convert `<ls>L.</ls>` into named-kosha citations** — replace the binary hedge with the specific kosha source (recovering PWG's discipline). [The lineage section](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) discusses why this matters.
 4. **Add collocational data** — verb-noun pairings extracted from the digitised corpus.
 5. **Modernise the gloss register** — many MW glosses ("an ascetic", "a ritual sacrifice") use 19th-century English that has shifted register.
 6. **Re-evaluate the compound-enumeration policy** — perhaps too much for modern users; merge transparent compounds into run-on lists under their parents.
@@ -188,4 +190,6 @@ A working modern revision of MW would need to retain the retrieval-dictionary ar
 
 ---
 
-*Source data: [MICROANALYSIS.md](MICROANALYSIS.md). Companion framework papers: [Wiegand](paper-wiegand.md) · [Hausmann-Wiegand](paper-hausmann.md) · [Grounded](paper-grounded.md). All four analyse the same MW1899 dataset through different theoretical lenses.*
+*Source data: [MICROANALYSIS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/MICROANALYSIS.md). Companion framework papers: [Wiegand](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/paper-wiegand.md) · [Hausmann-Wiegand](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/paper-hausmann.md) · [Grounded](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/paper-grounded.md). All four analyse the same MW1899 dataset through different theoretical lenses.*
+
+_Dr. Mārcis Gasūns_

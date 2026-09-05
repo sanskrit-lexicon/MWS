@@ -1,3 +1,5 @@
+_Created: 03-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mwe_Page_07_Image_0001.png
 source_page: Preface, 2
@@ -16,3 +18,5 @@ With reference to some of the spoken languages of the East, much has been done t
 Such as it is, however, this Volume appears before the public as the result of the first attempt that has yet been made to meet a want, which the experience of every day renders increasingly felt. For it is not too much to allege, that the great development of the study of Sanskrit, during late years, has caused the absence of a Reverse Dictionary to be recognised as a want by many very different and very important members of the community, both at home and abroad; by students and civilians, by scholars and philologists, by chaplains and missionaries; by all those zealous men who have devoted themselves to the social, religious, and intellectual improvement of the natives of our Indian Empire.
 
 With missionaries, and other philanthropists and scholars, whose aim has been to communicate scriptural and scientific truth to the learned natives, through the medium of their classical language, and to the uneducated, through their vernacular tongues, the absence of an aid to composition has doubtless enhanced the difficulties by which their labours have been retarded. It will be sufficient to mention the well-known names of Dr. Carey and Dr. Yates, whose translations of parts of the Bible are valued by all promoters of the cause of Christianity in the East; of Dr. Mill, formerly
+
+_Dr. Mārcis Gasūns_

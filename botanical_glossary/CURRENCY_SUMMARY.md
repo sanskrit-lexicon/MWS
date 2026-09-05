@@ -1,3 +1,5 @@
+_Created: 08-07-2026 · Last updated: 05-09-2026_
+
 # MW botanical crosswalk — GBIF nomenclatural-currency pass
 
 Resolved **1,223** canonical species against the GBIF Backbone Taxonomy (`/species/match`, kingdom Plantae; folds POWO + IPNI + Catalogue of Life).
@@ -53,3 +55,5 @@ Resolved **1,223** canonical species against the GBIF Backbone Taxonomy (`/speci
 - `/species/match` is the GBIF fuzzy-matching endpoint; `matchType` EXACT/FUZZY/HIGHERRANK/NONE records how each name resolved. Genus-only MW tags (e.g. *Sesamum*, *Abrus*) match at genus rank and are counted here as resolved at that rank.
 - `accepted_name` is filled only when GBIF marks the MW name a SYNONYM; it is the GBIF `species` field of the accepted taxon.
 - Reproduce: `python gbif_currency.py` (uses `species_currency_cache.json`; delete it to refetch from GBIF).
+
+_Dr. Mārcis Gasūns_

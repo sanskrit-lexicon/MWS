@@ -1,7 +1,9 @@
+_Created: 23-05-2026 · Last updated: 05-09-2026_
+
 {% raw %}
 # MW1899 — Microstructural working notes
 
-**Working document.** Exhaustive block-by-block analysis of the Monier-Williams *Sanskrit-English Dictionary* (1899) as digitized in [CDSL `mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt). This file is the **data source** for the consolidated [paper](PAPER.md) in this directory ([README](README.md)).
+**Working document.** Exhaustive block-by-block analysis of the Monier-Williams *Sanskrit-English Dictionary* (1899) as digitized in [CDSL `mw.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt). This file is the **data source** for the consolidated [paper](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md) in this directory ([README](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/README.md)).
 
 All counts computed 2026-05-23 against [mw.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt) (286,561 records, 48.9 MB).
 
@@ -32,7 +34,7 @@ A *formal block* is a discriminable structural component of an MW entry that can
 | F17 | **Machine annotation** | `<info …/>` self-closing | Meta | 292,603 tags / ~275,000 entries | ~96% |
 | F18 | **Correction record** | `{{old -> new \|\| YYYY-MM-DD \| author \| URL \|}}` | Meta (provenance) | tiny | < 0.01% |
 
-**Note F12 vs F13:** F13 (`L.`) is technically a special case of F12 (any `<ls>`). They are tracked separately because of their distinct evidentiary value — see [DICT_PROFILE Citation markers](../../DICT_PROFILE.md#citation-markers--not-all-are-literary-works) and the [PWG↔MW lineage analysis](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg).
+**Note F12 vs F13:** F13 (`L.`) is technically a special case of F12 (any `<ls>`). They are tracked separately because of their distinct evidentiary value — see [DICT_PROFILE Citation markers](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#citation-markers--not-all-are-literary-works) and the [PWG↔MW lineage analysis](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#lineage-wil--koshas-mw--pwg).
 
 **Note F08:** "Inflection form" detected as `<s>…</s>` count ≥ 2. Roots typically have 3-5 (P., Ā., causative, intensive, perfect…).
 
@@ -158,7 +160,7 @@ Each cell: percentage of entries of that type that contain that formal block.
 | F17 machine annotation | **100** | 99.8 | 99.6 | 99.9 | **100** | 99.9 | 96.3 | 95.1 | 98.6 | 99.2 | 63.0 | 99.5 | 99.7 | 97.9 | 82.2 |
 | F18 correction record | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
 
-**Reading the matrix.** Each row is a block; each column is an article type. Bold cells highlight the **type-defining blocks** (>50%) or the most striking concentrations. Diagonal-like patterns: F14 botanical → botanical type 100%, F15 biographical → biographical type 100%, F13 hedge → lexicographer_only 100%. **The off-diagonals matter most**: F13 (L.) at 71.5% in botanicals and 64.7% in biographicals reveals that MW's botanical and mythological identifications come overwhelmingly from indigenous lexica, not from textual attestation — a hedging that the [Beyond PWG section](../../DICT_PROFILE.md#beyond-pwg--what-mw-contributes) does not surface.
+**Reading the matrix.** Each row is a block; each column is an article type. Bold cells highlight the **type-defining blocks** (>50%) or the most striking concentrations. Diagonal-like patterns: F14 botanical → botanical type 100%, F15 biographical → biographical type 100%, F13 hedge → lexicographer_only 100%. **The off-diagonals matter most**: F13 (L.) at 71.5% in botanicals and 64.7% in biographicals reveals that MW's botanical and mythological identifications come overwhelmingly from indigenous lexica, not from textual attestation — a hedging that the [Beyond PWG section](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#beyond-pwg--what-mw-contributes) does not surface.
 
 ---
 
@@ -248,7 +250,7 @@ also occasionally <ab>Ā.</ab> <s>aMSayate</s>, <ls>L.</ls>; also <s>aMSApayati<
 | F13 hedge L. | all three are `L.` — entry is lexicographer-only | S6 (hedged) |
 | F17 machine annotation | `<info verb="genuineroot" cp="10P,10Ā"/>` | M (meta) |
 
-**Blocks present: 9.** Tier T5 (Elaborate). Semantic categories covered: S1, S2, S3, S5, S6 — Identity / Form / Grammar / Sense / Evidentiary. The triple `<ls>L.</ls>` is the most striking feature: the root is real but its productive forms are *not textually attested* — a hedge MW makes explicit ([PWG would have named the kosha here](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg)).
+**Blocks present: 9.** Tier T5 (Elaborate). Semantic categories covered: S1, S2, S3, S5, S6 — Identity / Form / Grammar / Sense / Evidentiary. The triple `<ls>L.</ls>` is the most striking feature: the root is real but its productive forms are *not textually attested* — a hedge MW makes explicit ([PWG would have named the kosha here](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#lineage-wil--koshas-mw--pwg)).
 
 ### Sample B: Masculine noun with etymology — [L10 *áṃśa*](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt#L55) (T5 Elaborate)
 
@@ -423,13 +425,13 @@ The 20 most frequent block-pairs across the first 50K entries:
 
 This working notes file *depends on* and *extends* the existing docs-pass content:
 
-- [DICT_PROFILE.md Article types](../../DICT_PROFILE.md#article-types--what-youll-encounter) — typology source
-- [DICT_PROFILE.md Citation markers](../../DICT_PROFILE.md#citation-markers--not-all-are-literary-works) — F13 analysis
-- [DICT_PROFILE.md Lineage: WIL ← Koshas](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) — F13 as MW's editorial invention vs PWG
-- [ENTRY_GUIDE.md Entry hierarchy](../../ENTRY_GUIDE.md#entry-hierarchy-distribution) — `<e>` distribution
-- [ENTRY_GUIDE.md Entry-type breakdown](../../ENTRY_GUIDE.md#entry-type-breakdown-by-content) — `<lex>` counts
-- [ENTRY_GUIDE.md Coverage of `<ls>`](../../ENTRY_GUIDE.md#coverage-of-ls-citations) — F12 evidentiary stats
-- [DATA_DICTIONARY.md](../../DATA_DICTIONARY.md) — formal tag inventory
+- [DICT_PROFILE.md Article types](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#article-types--what-youll-encounter) — typology source
+- [DICT_PROFILE.md Citation markers](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#citation-markers--not-all-are-literary-works) — F13 analysis
+- [DICT_PROFILE.md Lineage: WIL ← Koshas](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#lineage-wil--koshas-mw--pwg) — F13 as MW's editorial invention vs PWG
+- [ENTRY_GUIDE.md Entry hierarchy](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md#entry-hierarchy-distribution) — `<e>` distribution
+- [ENTRY_GUIDE.md Entry-type breakdown](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md#entry-type-breakdown-by-content) — `<lex>` counts
+- [ENTRY_GUIDE.md Coverage of `<ls>`](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md#coverage-of-ls-citations) — F12 evidentiary stats
+- [DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/MWS/blob/master/DATA_DICTIONARY.md) — formal tag inventory
 
 ---
 
@@ -439,15 +441,17 @@ This working notes file *depends on* and *extends* the existing docs-pass conten
 
 2. **What is F17's status?** Is `<info>` part of the microstructure (a structural indicator in Wiegand's sense) or is it metadata about the microstructure?
 
-3. **Is F13 (the L. hedge) a *citation* or a *commentary*?** Functionally it's both — formally it's an `<ls>`, but semantically it shifts the entire entry's evidentiary weight. PWG handles this differently (named-kosha citations) — see [Lineage section](../../DICT_PROFILE.md#lineage-wil--koshas-mw--pwg).
+3. **Is F13 (the L. hedge) a *citation* or a *commentary*?** Functionally it's both — formally it's an `<ls>`, but semantically it shifts the entire entry's evidentiary weight. PWG handles this differently (named-kosha citations) — see [Lineage section](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md#lineage-wil--koshas-mw--pwg).
 
 4. **Continuation entries (`<e>1A`, T1 Vestigial)** — are they entries at all in the lexicographic sense, or are they sub-articles within a larger article? Different frameworks answer differently.
 
 5. **The 1.4% of T5 Elaborate entries (10+ blocks)** — what fraction of dictionary *usage* do they account for? These are likely the high-traffic lemmas (*ātman*, *karma*, *dharma*, *bhakti*, …) and account for far more than 1.4% of consultations. Hypothesis testable against query logs if available.
 
-6. **F18 correction records** — virtually zero in mw.txt. Are corrections happening exclusively in the issue-tracker rather than in-file? Cross-reference [ROADMAP.md velocity note](../../ROADMAP.md#status-snapshot-2026-05-27).
+6. **F18 correction records** — virtually zero in mw.txt. Are corrections happening exclusively in the issue-tracker rather than in-file? Cross-reference [ROADMAP.md velocity note](https://github.com/sanskrit-lexicon/MWS/blob/master/ROADMAP.md#status-snapshot-2026-05-27).
 
 ---
 
 *Last computed: 2026-05-23 against [mw.txt](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/mw/mw.txt). Python source: `/tmp/mw_block_matrix.py` in [the docs-pass build artifacts](https://github.com/sanskrit-lexicon/MWS/tree/docs-pass).*
 {% endraw %}
+
+_Dr. Mārcis Gasūns_

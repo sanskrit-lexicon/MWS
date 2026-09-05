@@ -1,3 +1,5 @@
+_Created: 03-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mwe_Page_13_Image_0001.png
 source_page: Preface, 8
@@ -18,3 +20,5 @@ It is not unlikely, however, that under some heads an exception may be taken to 
 In rendering such words, respect has been paid to the learned Hindús in their study of English. The comprehension of European ideas by the educated natives is as necessary to reciprocal sympathy as the comprehension of Hindú ideas by ourselves.
 
 In the rendering of the verbs some difficulty has been experienced. It is usual in an English Dictionary to prefix to the verb the infinitive sign 'to.' Consistently with this, in Greek and Latin, and some other Reversed Dictionaries, the infinitive of the equivalent verb is generally exhibited. But in Sanskrit the infinitive is a form of the verb very limited in its application, resembling, in some respects, the Latin supines in um and u. It has therefore been thought more proper to exhibit
+
+_Dr. Mārcis Gasūns_

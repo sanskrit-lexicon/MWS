@@ -1,3 +1,5 @@
+_Created: 22-05-2026 · Last updated: 05-09-2026_
+
 @funderburkjim @Andhrabharati — please review the `docs-pass` branch.
 All Track B content has been researched and written (no `[DRAFT]` placeholders remain).
 
@@ -45,3 +47,5 @@ Part of the org-wide docs-pass for ~73 sanskrit-lexicon repos.
 - [ ] `CITATION.cff` fields verified (entry count, date-released, editors)
 - [ ] `CONTRIBUTING.md` correction workflow accurate for your local setup
 - [ ] Branch merged to master
+
+_Dr. Mārcis Gasūns_

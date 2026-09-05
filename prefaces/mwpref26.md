@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010034.jpg
 source_page: Page xxix
@@ -22,3 +24,5 @@ Fairness, however, demands that a few of the obvious defects of the Indo-Romanic
 ² Forster gives an example of one compound word consisting of 152 syllables. This might be matched by even longer specimens from what is called Campū composition.
 
 ³ We may, at least, entertain a hope that the hyphen will not be denied to Sanskrit for the better understanding of the more complex words, such, for example, as *vaidikamanvādipraṇitasmṛtitivāt, karmaphalarūpalariradhārijīvanirmitatvābhāvamātreṇa*, taken at haphazard from Dr. Muir's Texts. We may even express a hope that German scholars and other Europeans, who speak forms of Āryan speech, all of them equally delighting in composition, may more frequently condescend to employ the hyphen for some of their own Sesquipedalia Verba, thereby imitating the practical Englishman in his Parliamentary compounds, such, for example, as *Habeas-corpus-suspension-act-continuance-Ireland-bill*.
+
+_Dr. Mārcis Gasūns_

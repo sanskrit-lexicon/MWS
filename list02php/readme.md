@@ -1,3 +1,5 @@
+_Created: 27-02-2017 · Last updated: 05-09-2026_
+
 
 ### list02php
 
@@ -12,3 +14,4 @@ server and returns data into an iframe.
 As of this revision, the program does NOT work properly with a 'div' instead
 of an 'iframe'.
 
+_Dr. Mārcis Gasūns_

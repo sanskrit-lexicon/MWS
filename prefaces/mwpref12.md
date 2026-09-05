@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010019.jpg
 source_page: xv
@@ -34,3 +36,5 @@ Another distinctive peculiarity of this Dictionary consists in the articles on m
 ¹ In this first case the hyphen used in the transliterated form is no doubt sufficient to distinguish the two forms from each other. Hence, to economize space, the figures have occasionally towards the end of the work been omitted (see *samānā*, *Sa-māna*, p. 1160).
 
 ² I must, however, here repeat the acknowledgment of my original indebtedness to 'Westergaard's Radices;' nor must I omit to mention Whitney's valuable Index of Roots, Verb-forms and Primary Derivatives.
+
+_Dr. Mārcis Gasūns_

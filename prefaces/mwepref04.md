@@ -1,3 +1,5 @@
+_Created: 03-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mwe_Page_06_Image_0001.png
 source_page: Preface, 1
@@ -12,3 +14,5 @@ Roger Ascham, in bearing testimony to the classical proficiency of his illustrio
 In unison with these opinions, the framers of the Statutes of the East-India College have provided, that no student shall be pronounced qualified for Indian service until he can make an intelligible translation from an English passage into the Oriental languages in which he has been instructed. And if this requirement has been wisely made, as a test of scholarship in the spoken dialects, much more has it so been made in regard to Sanskrit, the classical language of India, which bears a far closer relation to those dialects than Greek and Latin bear to the living languages of Europe. If at our Universities and Colleges, where are educated many who are destined to fill the highest offices in our home government, the composition of Latin prose is demanded of all candidates for degrees, with much more reason may Sanskrit composition be made an essential at this Institution, where are trained the whole body of civilians to whom the government of our Indian Empire is to be intrusted.
 
 Nevertheless, it must be admitted that a student can hardly be expected to practice composition and translation in a difficult language, if the usual aids are not placed at his disposal. That such aids have not hitherto been made available in Sanskrit has been owing to the great difficulty of compiling a good English and Sanskrit Dictionary. Reverse Dictionaries are sufficiently within the reach of the student of Greek and Latin. In truth, the time that has been spent in investigating these languages, during many centuries, by a succession of learned men, each improving upon the results of his predecessor's labours, has led to the production of such a variety of dictionaries,
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 03-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mwe_Page_02_Image_0001.png
 source_page: Title
@@ -17,3 +19,5 @@ Monier Williams
 
 MOTILAL BANARSIDASS PUBLISHERS
 PRIVATE LIMITED • DELHI
+
+_Dr. Mārcis Gasūns_

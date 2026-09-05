@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010001.jpg
 source_page: Title
@@ -38,3 +40,5 @@ HON. D.C.L. OXON, HON. LL.D. CALCUTTA, HON. PH.D. GÖTTINGEN
 Оксфорд
 
 КЛАРЕНДОН ПРЕСС
+
+_Dr. Mārcis Gasūns_

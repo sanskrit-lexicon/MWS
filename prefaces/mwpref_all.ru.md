@@ -1,6 +1,8 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 # Предварительные материалы — полностью (русский)
 
-Per-page files: `mwprefNN.ru.md`. Index: [README.md](README.md).
+Per-page files: `mwprefNN.ru.md`. Index: [README.md](https://github.com/sanskrit-lexicon/MWS/blob/master/prefaces/README.md).
 
 ## Contents
 
@@ -991,3 +993,5 @@ Imprimis, вся последняя часть великого семитомн
 «МОНЬЕ МОНЬЕ-УИЛЬЯМС.»
 
 «Индийский институт, Оксфорд.»
+
+_Dr. Mārcis Gasūns_

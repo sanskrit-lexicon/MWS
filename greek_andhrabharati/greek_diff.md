@@ -1,3 +1,5 @@
+_Created: 03-01-2021 · Last updated: 05-09-2026_
+
 |headword|pagecolumn|cologne|andhrabharati|
 |---|---|---|---|
 |[As](https://sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=As)|[159,3](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=159,3)||ἧ,(σ),-μαι,ἧς,ται|
@@ -105,3 +107,5 @@
 |[yaj](https://sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yaj)|[839,1](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=839,1)|ἁγνός,ἄγος,ἅζομαι||
 |[zaw](https://sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=zaw)|[1108,1](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=1108,1)||ἕξ|
 |[zaz](https://sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=zaz)|[1108,1](https://www.sanskrit-lexicon.uni-koeln.de/scans/csl-apidev/servepdf.php?dict=MW&page=1108,1)|ἕξ||
+
+_Dr. Mārcis Gasūns_

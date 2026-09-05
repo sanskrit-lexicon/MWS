@@ -1,12 +1,14 @@
+_Created: 23-05-2026 · Last updated: 05-09-2026_
+
 # Decisions — palette, design tokens, font, license
 
-Covers decisions **1**, **9**, **18**, **19** from the visualisation-planning phase. See [decisions/README.md](README.md) for the full index.
+Covers decisions **1**, **9**, **18**, **19** from the visualisation-planning phase. See [decisions/README.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/decisions/README.md) for the full index.
 
 ---
 
 ## Decision 1 — Shared colour palette via CSS
 
-The [paper](../PAPER.md) + the interactive [csl-atlas](https://github.com/sanskrit-lexicon/csl-atlas) microsite use the same colour palette for the 14 article types. Implementation: **via CSS** (custom properties / design tokens), so a single source-of-truth defines colours that flow through (a) the static SVG figures generated for the paper, (b) the Mermaid diagrams embedded in markdown docs, and (c) the interactive microsite.
+The [paper](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/PAPER.md) + the interactive [csl-atlas](https://github.com/sanskrit-lexicon/csl-atlas) microsite use the same colour palette for the 14 article types. Implementation: **via CSS** (custom properties / design tokens), so a single source-of-truth defines colours that flow through (a) the static SVG figures generated for the paper, (b) the Mermaid diagrams embedded in markdown docs, and (c) the interactive microsite.
 
 The CSS strategy lets us:
 
@@ -16,7 +18,7 @@ The CSS strategy lets us:
 
 ## Decision 9 — JSON-first design tokens
 
-Single source of truth: [`figures/palette-tokens.json`](../figures/palette-tokens.json). A build step generates downstream artifacts:
+Single source of truth: [`figures/palette-tokens.json`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/figures/palette-tokens.json). A build step generates downstream artifacts:
 
 ```
 palette-tokens.json   ← THE source of truth
@@ -39,7 +41,7 @@ palette-tokens.json   ← THE source of truth
 | `chart-element` | background, panel, grid, axis, text, muted, accent, highlight | Universal chart scaffolding |
 | `footer` | text-color, font-size, font-style | Per-figure attribution footer |
 
-WCAG-checked, colour-blind-safe flag baked into `_meta`. Build tool: [`scripts/build_palette.py`](../figures/scripts/build_palette.py) — simple, no [Style Dictionary](https://amzn.github.io/style-dictionary/) overkill.
+WCAG-checked, colour-blind-safe flag baked into `_meta`. Build tool: [`scripts/build_palette.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/figures/scripts/build_palette.py) — simple, no [Style Dictionary](https://amzn.github.io/style-dictionary/) overkill.
 
 ## Decision 18 — Font: Noto Sans
 
@@ -67,16 +69,18 @@ Released under CC-BY-SA-4.0 · Source: CDSL mw.txt 2026-05-23
 
 ## Implementation status (2026-05-23)
 
-- [x] `palette-tokens.json` written ([figures/palette-tokens.json](../figures/palette-tokens.json))
-- [x] `build_palette.py` written and run ([figures/scripts/build_palette.py](../figures/scripts/build_palette.py))
-- [x] `palette.css` generated ([figures/palette.css](../figures/palette.css))
-- [x] `mermaid-theme.json` generated ([figures/mermaid-theme.json](../figures/mermaid-theme.json))
-- [x] `palette.py` generated ([figures/palette.py](../figures/palette.py))
+- [x] `palette-tokens.json` written ([figures/palette-tokens.json](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/figures/palette-tokens.json))
+- [x] `build_palette.py` written and run ([figures/scripts/build_palette.py](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/figures/scripts/build_palette.py))
+- [x] `palette.css` generated ([figures/palette.css](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/figures/palette.css))
+- [x] `mermaid-theme.json` generated ([figures/mermaid-theme.json](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/figures/mermaid-theme.json))
+- [x] `palette.py` generated ([figures/palette.py](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/figures/palette.py))
 - [ ] `palette.tex` not yet generated (LaTeX export reserved for paper-submission phase)
 - [ ] Colour-blind-safe variant not yet validated against Sim Daltonism (planned)
 
 ## Cross-links
 
-- [VISUALISATIONS.md](../VISUALISATIONS.md) — catalogue + tier prioritisation
-- [DOUBTS.md D9](../DOUBTS.md) — "JSON-first tokens may be over-engineered" — known doubt
+- [VISUALISATIONS.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/VISUALISATIONS.md) — catalogue + tier prioritisation
+- [DOUBTS.md D9](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/microanalysis/DOUBTS.md) — "JSON-first tokens may be over-engineered" — known doubt
 - [csl-atlas README](https://github.com/sanskrit-lexicon/csl-atlas) — Pages target
+
+_Dr. Mārcis Gasūns_

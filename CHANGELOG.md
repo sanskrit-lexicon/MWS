@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # Changelog
 
 All notable changes to MWS are documented here.
@@ -10,7 +12,7 @@ ready for a dated entry.
 
 ### Fixed
 
-- **`MW.` is not a 1872 self-citation** (Grok 4.5 `grok-4.5`, 02-08-2026, [H2214](https://github.com/gasyoun/Uprava/blob/main/handoffs/H2214-Grok_MWS_mw-dot-not-self-cite-skd_02.08.26.md)): [DICT_PROFILE.md](DICT_PROFILE.md) and [ENTRY_GUIDE.md](ENTRY_GUIDE.md) had misread the siglum as "Monier-Williams himself / first-edition self-reference." MW's 1899 Introduction is explicit: words marked `MW.` are *on his authority* — many from commentaries and pandit notes (p. xviii); **some rest on the *Śabda-kalpa-druma* (SKD)** of Rādhākānta Deva (p. xxxii); some from his own books. Cologne `mwauthorities` expansion "1st edition with marginal notes" was the same mechanical error (tooltip corrected).
+- **`MW.` is not a 1872 self-citation** (Grok 4.5 `grok-4.5`, 02-08-2026, [H2214](https://github.com/gasyoun/Uprava/blob/main/handoffs/H2214-Grok_MWS_mw-dot-not-self-cite-skd_02.08.26.md)): [DICT_PROFILE.md](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md) and [ENTRY_GUIDE.md](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md) had misread the siglum as "Monier-Williams himself / first-edition self-reference." MW's 1899 Introduction is explicit: words marked `MW.` are *on his authority* — many from commentaries and pandit notes (p. xviii); **some rest on the *Śabda-kalpa-druma* (SKD)** of Rādhākānta Deva (p. xxxii); some from his own books. Cologne `mwauthorities` expansion "1st edition with marginal notes" was the same mechanical error (tooltip corrected).
 
 ### Changed
 
@@ -101,3 +103,5 @@ ready for a dated entry.
 - **2014-2020 (~30 commits):** original Cologne-era correction work — homophone corrections, `<L ` markup entries, factual-correction lists (`corrections-factual.txt`), transcoder examples.
 - **2021-2025 (~268 commits):** bulk of research and pipeline tooling development — correction pipeline build-out, adjudication review cycles, early paper drafts.
 - **2026 through 2026-05-27 (81 commits):** dominated by a `docs-pass:` batch (58 commits) — submission-readiness sweep culminating in this tag: O1-O9 paper/cover-letter polish, D16-D22 open doubts resolved, PNG/SVG parity checks, link/lint audits, README sync, manifest rebuilds.
+
+_Dr. Mārcis Gasūns_

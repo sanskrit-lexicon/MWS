@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010021.jpg
 source_page: Page xvii
@@ -27,3 +29,5 @@ And further, it became a question whether we were not bound to indicate by a ref
 
 ----
 ¹ Unfortunately in noting down words for insertion I omitted to quote the sources whence they were taken, as I did not at the time contemplate improving my new edition by the addition of references.
+
+_Dr. Mārcis Gasūns_

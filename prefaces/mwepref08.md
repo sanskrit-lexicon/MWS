@@ -1,3 +1,5 @@
+_Created: 03-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mwe_Page_10_Image_0001.png
 source_page: Preface, 5
@@ -16,3 +18,5 @@ Having thus progressed as far as the letter C, and the exigency of the case seem
 But he avails himself of this opportunity of gratefully acknowledging his obligation to his friend and colleague, Professor Johnson, for furnishing him with a list of words, collected by him in the course of his reading, chiefly from the following standard classical works:—The Text of Manu, with the Commentary of Kullúka; the two law-treatises of Jímútaváhana, called Dáyabhága and Mitákshara; the Vikramorvaśí, Sakuntalá, Mrichchhakati, Málatímádhava, Mudrárákshasa, Ratnávalí, Uttararámacharitra, and the Rájataranginí, published by Capt. Troyer.
 
 Having enriched his store of materials with words and phrases from these approved sources, the composition and printing of his Dictionary was gradually advanced to the end of the letter H. At this point a copy of Major Candy's English and Maráthi Dictionary came first to hand. Had an impression of this work been received earlier, it would have saved the Compiler the time and labour
+
+_Dr. Mārcis Gasūns_

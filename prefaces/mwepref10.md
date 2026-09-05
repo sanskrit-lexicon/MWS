@@ -1,3 +1,5 @@
+_Created: 03-07-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mwe_Page_12_Image_0001.png
 source_page: Preface, 7
@@ -16,3 +18,5 @@ If objection be raised to the multiplication of Sanskrit equivalents under each 
 It should be observed, notwithstanding, that no distinction is rightly to be made, in an English and Sanskrit Dictionary, between strictly prose and strictly poetical terms. Sanskrit is peculiarly the language of poetry. Nearly the whole of its immense and wonderful literature is poetical; and the little prose that exists makes free use of poetical expressions. In fact, the commonest names for some of the most ordinary objects are proofs that a rich poetical vein runs throughout the language. Thus, one of the common words for 'earth' is, 'repository of wealth,' वसुधा; for the sea, 'receptacle of water,' जलनिधिः; for a cloud, 'water-giver,' जलदः, or 'water-holder,' जलभृत्; for fire, 'purifier,' पावकः; for the moon, lord of the night,' निशापतिः; for the sun, 'generator,' सविता; for a good man, 'mine of merit,' गुणाकरः, or 'ocean of merit,' गुणसागरः. And if the remaining equivalents under each of these heads were examined many of them would be found to possess a still more poetical character. In proof of which the reader is referred to the words Sun, Moon, Cloud, as they stand in the pages of the Dictionary.
 
 Again, the English verb 'to kill,' may be rendered in Sanskrit either by the use of the simple root हन्, or by वधं कृ, 'to make killing,' or by प्राणहत्यां कृ, 'to make destruction of life,' or by पञ्चत्वं गम्, in the causal form, 'to cause to go the state of the five elements,' or by लोकान्तरं गम्, 'to cause to go to the other world.' All these expressions are legitimate, whatever be the form of composition; but the student, in writing prose, will do well to adopt those which come first in order.
+
+_Dr. Mārcis Gasūns_

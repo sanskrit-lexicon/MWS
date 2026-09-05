@@ -1,3 +1,5 @@
+_Created: 17-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: mw010017.jpg
 source_page: Page xiii
@@ -34,3 +36,5 @@ On the other hand I had to reflect that to compile a Sanskṛit Dictionary accor
 ⁴ For other illustrations of this see I. *kṛi*, p. 300; I. *śru*, p. 1100; I. *sthā*, p. 1262 of this volume.
 
 ⁵ The number of distinct Dhātus or radical forms given in some collections is 1,750, but as many forms having the same sound have different meanings, and are conjugated differently, they are held to be distinct forms and the number is thereby swelled to 2,490. It should be noted, too, that a great many of these Dhātus are modifications or developments of simpler elements, and this Dictionary does not always decide as to which of two, three or more roots is the simplest, although when roots are allied their connexion is indicated. Probably the real number of elementary radicals in Sanskṛit might be reduced to a comparatively small catalogue—even, as some think, to a list not more than about 120 primitive roots. Many Sanskṛit roots have alternative Prākṛit forms or vice versā, and both forms are allowed to co-exist, as *bhan* and *bhaṇ*, *dhan* and *dhaṇ*, *nṛit* and *naṭ*; others whose initials are aspirated consonants have passed into other aspirated consonants or have retained only the aspirate, as in *bhṛi*, *dhṛi*, *dhvṛi*, *hvṛi*, *hṛi* &c. Again, such a root as *svad* is probably nothing but a compound of *su* and root *ad*, and such roots as *stubh*, *stumbh*, *stambh* are plainly mere modifications of each other.
+
+_Dr. Mārcis Gasūns_

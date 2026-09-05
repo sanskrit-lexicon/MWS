@@ -1,3 +1,5 @@
+_Created: 07-05-2026 · Last updated: 05-09-2026_
+
 {% raw %}
 # Contributing to MWS
 
@@ -108,8 +110,8 @@ templating engine treats two CDSL markup conventions as template syntax:
 A page containing either marker outside an escape block breaks the Pages
 build. The fix applied across this repo is to wrap the entire affected
 file in `{% raw %}` and the matching closing tag. See
-[DATA_DICTIONARY.md](DATA_DICTIONARY.md), [ENTRY_GUIDE.md](ENTRY_GUIDE.md),
-[DICT_PROFILE.md](DICT_PROFILE.md) and the `papers/microanalysis/` notes
+[DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/MWS/blob/master/DATA_DICTIONARY.md), [ENTRY_GUIDE.md](https://github.com/sanskrit-lexicon/MWS/blob/master/ENTRY_GUIDE.md),
+[DICT_PROFILE.md](https://github.com/sanskrit-lexicon/MWS/blob/master/DICT_PROFILE.md) and the `papers/microanalysis/` notes
 for working examples (PRs [#198](https://github.com/sanskrit-lexicon/MWS/pull/198), [#200](https://github.com/sanskrit-lexicon/MWS/pull/200), [#201](https://github.com/sanskrit-lexicon/MWS/pull/201)).
 
 When adding a new `.md` documenting `<L>` records, markup conventions, or
@@ -137,5 +139,7 @@ for the org-wide taxonomy.
 ## Code of conduct
 
 All contributors are expected to follow the
-[CDSL Code of Conduct](CODE_OF_CONDUCT.md).
+[CDSL Code of Conduct](https://github.com/sanskrit-lexicon/MWS/blob/master/CODE_OF_CONDUCT.md).
 {% endraw %}
+
+_Dr. Mārcis Gasūns_
