@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-_Created: 06-05-2026 · Last updated: 20-08-2026_
+_Created: 06-05-2026 · Last updated: 05-09-2026_
 
 **MWS** is the correction, enhancement, and tooling layer for the Cologne
 digitisation of Monier-Williams, *A Sanskrit-English Dictionary* (1899).
