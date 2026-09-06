@@ -1,4 +1,4 @@
-_Created: 08-07-2026 · Last updated: 05-09-2026_
+_Created: 08-07-2026 · Last updated: 06-09-2026_
 
 ---
 paper_id: A39
@@ -12,7 +12,7 @@ data_source: "WhitneyRoots/crosswalk/ (ppp_validation.json, token_attribution.js
 
 # Grammar, Dictionary, Corpus: Where the Three Authorities Disagree about Sanskrit Verbal Roots
 
-_Created: 08-07-2026 · Last updated: 21-07-2026_
+_Created: 08-07-2026 · Last updated: 06-09-2026_
 
 > **Draft status (2026-07-21, readiness 3/5).** Full prose draft per
 > [H1383](https://github.com/gasyoun/Uprava/blob/main/handoffs/H1383-Fable_WhitneyRoots_a39-verbal-root-disagreement-skeleton-to-draft_20.07.26.md),
@@ -26,6 +26,7 @@ _Created: 08-07-2026 · Last updated: 21-07-2026_
 > §-concordance size (9,878 edges on 790 roots — the skeleton's 7,315/785 predated the
 > category-detection fixes logged in
 > [WhitneyRoots/.ai_state.md](https://github.com/gasyoun/WhitneyRoots/blob/main/.ai_state.md)).
+> Author-voice pass 06-09-2026 ([SIGNOFF_A39_author_pass.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/SIGNOFF_A39_author_pass.md)).
 >
 > **Open before submission (author/@DO):**
 > (1) **venue** — WSC 2027 / Lexikos / IIJ / a later ISCLS edition; the standing ruling
@@ -62,7 +63,7 @@ dictionary (Monier-Williams 1899, itself compiled from the Petersburg lexicons a
 indigenous Dhātupāṭha class tradition in its `cp` attribute), and the annotated corpus (the
 Digital Corpus of Sanskrit). Digitization makes the three comparable at scale for the first time
 — and they systematically disagree about root identity, conjugation class (gaṇa), and attested
-participial forms. We quantify the disagreement over a 935-root hub keyed to Whitney's roots:
+participial forms. I quantify the disagreement over a 935-root hub keyed to Whitney's roots:
 of **651** roots where both MW and Whitney assign a present class, the two **agree outright on
 57.8%**, **overlap on 38.2%**, and **conflict on 4.0%** (26 roots, 18 of them adjudicable by the
 Westergaard/Dhātupāṭha class as a third witness). Against the corpus, **86.5%** of the hub is
@@ -73,11 +74,11 @@ three-verifier panel found that not one
 corpus-corroborated mismatch is an error in the grammatical record**: every apparent
 "correction" the corpus suggests is a homonym artifact or a legitimate aniṭ/seṭ doublet. The
 central methodological finding is therefore a caution: corpus signal against a curated root
-inventory is a **homonym and variant detector, not a correction list**. We show two structural
+inventory is a **homonym and variant detector, not a correction list**. I show two structural
 reasons why: (i) the unaccented corpus cannot distinguish class I from VI, or class IV presents
 from passives, which silently manufactures agreement where the grammar is in fact specific; and
 (ii) the corpus "class" is lexicon metadata inherited from the same Petersburg tradition as the
-dictionary, so grammar-vs-corpus class comparisons are largely lexicon-vs-lexicon. We release
+dictionary, so grammar-vs-corpus class comparisons are largely lexicon-vs-lexicon. I release
 the disagreement inventory as an adjudication queue with per-item Grammar-§ evidence, and
 position it as the validation layer for homonym-key alignment across the Cologne dictionaries.
 
@@ -115,14 +116,14 @@ restates one of the parties rather than witnessing independently. The disagreeme
 survive this filtering are few, and they are precisely the philologically interesting ones.
 The paper's central finding is methodological and deliberately negative: **corpus signal
 measured against a curated root inventory functions as a homonym and variant detector, not as
-a correction list.** We state this as a result, not a limitation, because acting on the
-opposite assumption demonstrably corrupts the inventory: in our own pipeline, a naive
+a correction list.** I state this as a result, not a limitation, because acting on the
+opposite assumption demonstrably corrupts the inventory: in this project's own pipeline, a naive
 corpus-verification pass wrote 117 spurious class assignments before being caught and
 reverted (§5.1).
 
 Why is disagreement the interesting object at all? Because the three authorities fail in
 *different* ways. The grammar errs by singular judgment — Whitney read everything, but he read
-it alone, and we exhibit a case where his own paragraphs contradict one another (§4.5). The
+it alone, and I exhibit a case where his own paragraphs contradict one another (§4.5). The
 dictionary errs by inheritance — its class data descends through the Petersburg lexicons from
 the Dhātupāṭha, so a dictionary "confirmation" of the Dhātupāṭha is often the same witness
 counted twice. The corpus errs by conflation — homonyms lumped under one lemma, accent lost,
@@ -137,7 +138,7 @@ corpus-corroborated participle mismatches are homonym and doublet signals, not c
 (0 of 13 genuine errors, §4.3); (3) the negative result turned method: two structural corpus
 blind spots — the class I/VI accent collapse and the class IV/passive collapse — that any
 grammar-vs-corpus comparison must control for, quantified at 117 manufactured assignments in
-our own pipeline before the control existed (§5); and (4) a FAIR adjudication queue with
+this project's own pipeline before the control existed (§5); and (4) a FAIR adjudication queue with
 pre-pulled Grammar-§ evidence, released for expert review rather than auto-applied (§6).
 
 ## 2. Related work
@@ -146,9 +147,9 @@ This paper sits inside a small cluster of sibling studies on the Cologne Digital
 Dictionaries and takes care to consume rather than restate them. The homonym-aware key scheme
 that aligns root entries across the Cologne dictionaries is the contribution of A04, which this
 paper *validates* on the verbal-root domain and supplies with a citation base; the key scheme
-itself is not re-derived here. The DCS-2026 extraction that supplies our attestation
+itself is not re-derived here. The DCS-2026 extraction that supplies this paper's attestation
 denominator — 98,606 corpus lemmata — is the contribution of A38, which documents the
-extraction pipeline and its release; we cite its canonical figure and do not re-describe the
+extraction pipeline and its release; I cite its canonical figure and do not re-describe the
 pipeline. The census of how the ten Cologne dictionaries encode Pāṇinian root derivations is
 A35's. A39's own territory is the *disagreement layer*: what happens when the aligned sources
 are actually compared.
@@ -156,21 +157,21 @@ are actually compared.
 On the corpus side, the relevant NLP lineage is Hellwig's. Hellwig & Nehrdich (2018)
 established neural sandhi and compound segmentation for Sanskrit; Nehrdich, Hellwig & Keutzer
 (2024) unified segmentation, lemmatization, and morphosyntactic tagging in a single
-ByT5-Sanskrit model. The framing that matters for this paper: that model *produces* the DCS
-lemma attribution we treat as "corpus evidence" throughout. Lemmatizer error is therefore not
+ByT5-Sanskrit model. What matters for this paper is that this model *produces* the DCS
+lemma attribution I treat as "corpus evidence" throughout. Lemmatizer error is therefore not
 background noise but a first-class candidate explanation for any individual grammar-vs-corpus
 mismatch (§5.5), and the corpus column of every table in §4 should be read with that
 provenance in mind. (Hellwig's Vedic treebank work, e.g. the 2020 LREC release, concerns the
 syntax layer and is not directly disputed here.)
 
-As a generative witness we use vidyut-prakriya, an open-source Pāṇinian derivation engine:
-given a root and class, it generates the paradigm the Pāṇinian system licenses. We use it
+As a generative witness I use vidyut-prakriya, an open-source Pāṇinian derivation engine:
+given a root and class, it generates the paradigm the Pāṇinian system licenses. I use it
 strictly in an *advisory* role — paradigm generation and participle validation, never
 auto-correction — following the pilot finding, reproduced in §3.3, that generator evidence can
 bind a gaṇa only through the present system: the past passive participle is formed from the
 root, not the present stem, and so cannot discriminate between candidate classes at all.
 
-Finally, the source digitizations themselves: the machine-readable Whitney's *Roots* is the
+Finally, there are the source digitizations themselves: the machine-readable Whitney's *Roots* is the
 warnemyr.com digitization (mirrored for this project), whose transcription quirks — apparatus
 bleed, ASCII romanization collapse, doublet truncation — turn out to be measurable
 contributors to apparent disagreement (§5.6); and Westergaard's *Radices linguae Sanscritae*
@@ -209,7 +210,7 @@ source's numbering — which is why every cross-source join below either unions 
 (§3.2) or binds them by morphological feature (§3.3), never by homonym number alone. No human
 gold pass has been run over the spine extraction itself; its reliability is argued from the
 audit trail (a 23-flag Phase-0 audit against the re-harvested mirror) rather than from an
-inter-annotator statistic — a gap we flag rather than hide, and return to in §7.
+inter-annotator statistic — a gap I flag here and return to in §7.
 
 ### 3.2 The MW-side crosswalk (MWS `root_crosswalk/` — canonical for the §4.1–4.2 numbers)
 
@@ -278,11 +279,11 @@ form is not a grammatical rule, a caveat carried from the source dataset and enf
 verdict logic (§4.3's "attestation, not a rule" residue class).
 
 *Instrument and exposure.* The harness's own metadata block states its epistemic status
-better than we could: it is *"Advisory; never edits the spine"*, and its surviving
+better than I could: it is *"Advisory; never edits the spine"*, and its surviving
 corpus-corroborated mismatch class *"is a HOMONYM/VARIANT detector, NOT a correction signal"*
 ([`ppp_validation.json`](https://github.com/gasyoun/WhitneyRoots/blob/main/crosswalk/ppp_validation.json)
 `_meta.note`) — the instrument's self-description is, in effect, this paper's thesis, written
-at the point of measurement. Its blind spots: vidyut-prakriya generates what Pāṇini licenses,
+at the point of measurement. It has blind spots of its own: vidyut-prakriya generates what Pāṇini licenses,
 so genuinely Vedic formations that fall outside the Pāṇinian system can only surface as
 mismatches (a bias *toward* flagging the oldest material); and the corpus side inherits the
 DCS lemmatization's homonym conflation, which is exactly what the panel in §4.3 found the
@@ -306,7 +307,7 @@ because it is the paper's main exposure to reliability critique: the §4.3 findi
 **three-verifier Sanskritist panel** that examined the 13 corpus-corroborated participle
 mismatches and reached unanimity on all 13 (13/13). That is a small expert panel with complete
 agreement — it is *not* an inter-annotator reliability study, no κ statistic is computable
-from a unanimous panel of three on 13 items, and we do not present it as one. The verdicts
+from a unanimous panel of three on 13 items, and I do not present it as one. The verdicts
 are, however, fully auditable: each carries its evidence row (the recorded form, the generated
 form, the corpus form, and the homonym or doublet that resolves the apparent clash) in
 [`DECISIONS_NEEDED.md §3`](https://github.com/gasyoun/WhitneyRoots/blob/main/docs/DECISIONS_NEEDED.md).
@@ -320,7 +321,7 @@ scope.
 Of the 651 comparable roots, the two traditions **agree outright on 376 (57.8%)**, **overlap
 on 249 (38.2%)**, and assign **disjoint class sets on 26 (4.0%)** —
 [class_concordance.csv](https://github.com/sanskrit-lexicon/MWS/blob/master/root_crosswalk/class_concordance.csv).
-Read against the instrument's deliberate leniency (§3.2), the striking figure is the smallness
+Read against the instrument's deliberate leniency (§3.2), the figure that matters is the smallness
 of the conflict rate: after a century-and-a-half of independent transmission — Whitney reading
 texts, Monier-Williams compiling lexica, the Dhātupāṭha propagating through both — the two
 inventories place fewer than one root in twenty-five in genuinely different classes. Of the 26
@@ -342,7 +343,7 @@ is silent on the question: its sole mention of cūṣ (§240b) is phonological, 
 illustrating ū/o alternation, so the class-IV attribution rests on the 1885 *Roots* record
 alone. Here, then, are the two Western sources genuinely split, with the indigenous tradition
 siding with the dictionary — under the §3.4 authority order the Grammar cannot break the tie
-(it says nothing), and the row goes to the expert queue. Could the corpus decide? No — and the
+(it says nothing), and the row goes to the expert queue. The corpus cannot decide, and the
 reasons are instructive. DCS attests the root at all of 22 tokens, its per-lemma class
 metadata says "1" — but that metadata descends from the same Petersburg tradition as MW
 (§5.4), so it is the dictionary's vote counted twice, not independent evidence. Worse, the
@@ -433,7 +434,7 @@ The consequence, stated at the scale this evidence licenses: on this layer, with
 unanimous panel of three, **every apparent corpus correction to the curated participle record
 resolved to homonymy or legitimate variation.** That is the paper's thesis in miniature —
 corpus-vs-inventory signal detects conflation and doublets; it does not correct scholarship —
-and we resist generalizing it beyond the participle layer: it is a strong finding on a small
+and I resist generalizing it beyond the participle layer: it is a strong finding on a small
 n, from a panel, not a reliability study.
 
 ### 4.4 Homonym attribution: how far the corpus can be split
@@ -453,8 +454,8 @@ The ceiling is structural. Of the 38 homonym groups DCS lumps under a single lem
 **5 are gaṇa-distinct** — separable by any morphological signal at all. The remaining 33 share
 a gaṇa, so no paradigm-based tool can split them even in principle: both vidyut-prakriya and a
 word-sense-style alignment dataset were piloted against this residue, and neither raised
-coverage. Past this point homonym splitting is a lexical-semantic task — the honest statement
-of where the morphological program ends.
+coverage. Past this point homonym splitting is a lexical-semantic task; that is where the
+morphological program ends.
 
 ### 4.5 The grammar disagreeing with itself
 
@@ -489,7 +490,7 @@ readers passed over.
 ## 5. Sources of spurious disagreement (caveats as first-class results)
 
 Every comparison in §4 is shadowed by channels that manufacture disagreement — or, worse,
-manufacture agreement — without any authority being wrong. We treat these as results, not
+manufacture agreement — without any authority being wrong. I treat these as results, not
 limitations: each was measured in this pipeline, several at material scale, and any
 grammar-vs-corpus comparison in this domain will hit all six.
 
@@ -533,7 +534,7 @@ discipline applies to the participle layer: attestation frequency is magnitude-o
 **5.5 Lemmatizer error.** Every DCS lemma and tag in this study is model output
 (ByT5-Sanskrit; Nehrdich et al. 2024). Model error is therefore a standing candidate
 explanation for any *individual* mismatch, alongside genuine variation — one more reason the
-protocol (§3.4) routes candidate corrections to humans rather than applying them. We name
+protocol (§3.4) routes candidate corrections to humans rather than applying them. I name
 this channel rather than quantify it: no gold pass over the DCS annotations was run here, and
 the corpus columns of §4 are conditioned on the annotation pipeline's correctness.
 
@@ -594,20 +595,20 @@ Put together, the 4.0% hard-conflict rate on classes and the 0-of-13 panel resul
 participles argue that the curated inventories are substantially more reliable than raw
 corpus signal would suggest. Where the corpus appeared to correct Whitney, it was — in every
 panel-examined case — detecting something real but different: a homonym split the lemma layer
-collapses, a doublet the record abbreviates, a capture gap in the digitization. That is
-genuine value. A corpus run against a curated inventory is a powerful *detector* — of
+collapses, a doublet the record abbreviates, a capture gap in the digitization. That detection is
+genuine value: a corpus run against a curated inventory is a powerful *detector* — of
 homonymy, of variation, of transcription loss — and this study's queues, filled by exactly
 that detector, are its constructive output. What the corpus signal is not, on this evidence,
 is a *correction list*; the asymmetry deserves to be stated plainly because the opposite
 default — auto-applying corpus "corrections" to curated resources — is the natural engineering
-temptation, and in our own pipeline it lasted exactly one review cycle.
+temptation, and in this project's own pipeline it lasted exactly one review cycle.
 
 The limits of this study are the limits its instruments disclose. The headline counts rest on
 extractors and a generator with no human-gold reliability pass (§3.1–§3.3); the one human
 verdict is a unanimous three-expert panel on thirteen items, not an inter-annotator study
 (§3.4); the corpus columns are conditioned on a neural annotation pipeline (§5.5); and the
 accent evidence that would resolve both §5.1 and §5.2 — and Whitney's own §4.5 contradiction —
-exists only for the accented Vedic slice of the corpus, where our first measurement returned
+exists only for the accented Vedic slice of the corpus, where the first measurement returned
 n = 2. Each of these is a stated exposure, and together they define the follow-up program: a
 human-gold pass with a reliability statistic per instrument, homonym-level alignment as the
 join key (A04's layer, for which this study supplies the validation case), and accented-corpus
