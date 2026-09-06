@@ -1,9 +1,9 @@
-_Created: 26-06-2026 · Last updated: 05-09-2026_
+_Created: 26-06-2026 · Last updated: 06-09-2026_
 
 ---
 paper_id: A45
 title: "Naming the Plants: A Corpus-Attested Sanskrit-to-Linnaean Crosswalk from the Monier-Williams Dictionary"
-status: full draft — scaffolded 2026-06-26, author-voice pass 2026-07-10
+status: full draft — scaffolded 2026-06-26, author-voice pass 2026-07-10, author-voice pass 06-09-2026 ([SIGNOFF_A45_author_pass.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/SIGNOFF_A45_author_pass.md))
 readiness: 3/5 (pending author sign-off)
 venue: "Lexikos / Biodiversity Data Journal / Journal of Open Humanities Data (JOHD)"
 author: "**Mārcis Gasūns**, independent scholar ([ORCID 0000-0003-4513-884X](https://orcid.org/0000-0003-4513-884X)), gasyoun@ya.ru"
@@ -62,8 +62,8 @@ A historical bilingual dictionary of a classical language inherits its subject v
 two channels. Some words the lexicographer met in texts and could cite; others he took on the
 authority of the indigenous lexical tradition — for Sanskrit, the kośas and nighaṇṭus, the verse
 synonym-lists that name a plant a dozen poetic ways without ever quoting a passage. Botanical
-vocabulary sits squarely at this fault line: the plant world is exactly where a synonym lexicon
-is richest and a running text is thinnest. Monier-Williams marks the distinction in his own
+vocabulary sits at this fault line: the plant world is where a synonym lexicon is richest and a
+running text is thinnest. Monier-Williams marks the distinction in his own
 apparatus — a sense given on lexical authority alone is tagged `<ls>L.</ls>` ("Lexicographers") —
 and the Cologne digitisation preserves that marker, alongside an explicit `<bot>…</bot>` span
 naming the Linnaean binomial for each botanical sense.
@@ -100,7 +100,7 @@ running text than through the synonym lexicons — the *kośa* and *nighaṇṭu
 *Amarakośa* devotes a whole section (the *vanauṣadhi-varga*) to the names of trees and herbs, and
 the medical *nighaṇṭus* — the *Dhanvantarīya-*, *Rāja-*, and *Bhāvaprakāśa-nighaṇṭu* among them —
 list a single plant under a dozen or more poetic synonyms, typically without a textual citation.
-This is precisely the material Monier-Williams marked "L." ("Lexicographers"): a botanical sense
+This is the material Monier-Williams marked "L." ("Lexicographers"): a botanical sense
 carried on the authority of these lists rather than an attested passage. Our dataset makes that
 lexical stratum machine-readable and measurable for the first time.
 
@@ -164,7 +164,7 @@ very-common (1000+), on a log10-orders rule.
 A naive lemma-level join between "lexicographer-only botanical headword" and "DCS-attested lemma"
 is contaminated, because a common word can carry a rare *plant* sense as a homograph: *kṛṣṇa*,
 *indra*, and *kāla* are all high-frequency words whose corpus frequency is the non-plant sense,
-yet each has a botanical sense MW marked `L.` Lemma attestation therefore does **not** confirm the
+yet each has a botanical sense MW marked `L.` Lemma attestation therefore does not confirm the
 *botanical* sense for such headwords. The defensible coverage statistic restricts attention to
 **botanical-only headwords** — lemmas whose *every* MW sense is a plant, so no non-plant homograph
 can supply the corpus frequency. The filter is fully auditable: the generator emits
@@ -250,14 +250,15 @@ attested (band non-empty). The attested occurrences distribute across frequency 
 A naive lemma-level join of lexicographer-only botanical headwords against DCS attestation
 recovers a large but **contaminated** set: of the 5,054 headwords carrying a lexicographer-only
 botanical sense, 3,348 are DCS-attested by lemma. The contamination concentrates in the upper
-frequency bands, exactly as the *kṛṣṇa/indra/kāla* problem of §3.4 predicts — among these naive
+frequency bands, as the *kṛṣṇa/indra/kāla* problem of §3.4 predicts — among these naive
 hits, homograph-bearing headwords are 90.9% of the *uncommon* band, 99.4% of the *common* band,
 and all 84 of the *very-common* band, so for them lemma attestation says nothing about the plant
 sense. Restricting to **botanical-only** headwords (no non-plant homograph) gives the defensible
 figure: MW has **4,148 botanical-only headwords, of which 1,567 are both lexicographer-only and
 DCS-attested** — plant vocabulary MW carried only from the lexicons that the modern corpus
-nonetheless attests, with no homograph escape hatch. All four counts (7,063 botanical headwords;
-5,054 lexicographer-only; 4,148 botanical-only; 1,567 clean confirmations), and the per-band split
+nonetheless attests, with no non-plant homograph to supply the corpus frequency. All four counts
+(7,063 botanical headwords; 5,054 lexicographer-only; 4,148 botanical-only; 1,567 clean
+confirmations), and the per-band split
 above, reproduce directly from the committed
 [`homograph_control_headwords.csv`](https://github.com/sanskrit-lexicon/MWS/blob/master/botanical_glossary/homograph_control_headwords.csv). The
 interpretation of the 1,567-headword subset as an evidentiary gradient — corpus vindication of
@@ -302,14 +303,14 @@ machine-readable crosswalk turns that internal apparatus into a reusable object:
 Sanskrit-to-Linnaean lookup with provenance, usable from the biodiversity-informatics side
 (species → attested Sanskrit names) and from the lexicographic side (headword → species + textual
 support). The homograph control is what makes any corpus-coverage claim honest here; a plain lemma
-join silently imports the frequency of the wrong sense, and does so worst precisely where the
-frequencies are largest. What the corpus-confirmed, homograph-controlled subset *means* for the
+join silently imports the frequency of the wrong sense, and does so worst where the frequencies
+are largest. What the corpus-confirmed, homograph-controlled subset *means* for the
 evidentiary status of kośa vocabulary we leave to A18.
 
 The nomenclatural-currency pass gives a second, independent reason to treat the crosswalk as a
 historical document rather than a modern determination: nearly half of the binomials MW gave are,
 a century and a quarter later, superseded names. Rather than modernise the identifications — which
-would erase what MW wrote and bake in a 2020s taxonomy that will itself age — we keep MW's name and
+would erase what MW wrote and fix in place a 2020s taxonomy that will itself age — we keep MW's name and
 attach the current accepted name as a separate field. The crosswalk is therefore legible in both
 temporal directions: as a record of what a nineteenth-century lexicographer identified, and,
 through the GBIF layer, as a bridge to present-day biodiversity data.
