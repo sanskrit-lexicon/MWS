@@ -1,9 +1,9 @@
-_Created: 17-07-2026 · Last updated: 05-09-2026_
+_Created: 17-07-2026 · Last updated: 06-09-2026_
 
 ---
 paper_id: A18
 title: "One Slot, Many Warrants: The Evidentiary Stratification of the Citation Apparatus in Monier-Williams' Sanskrit-English Dictionary"
-status: full draft — outline 2026-06-13, drafted 2026-07-16 (H1076)
+status: full draft — outline 2026-06-13, drafted 2026-07-16 (H1076), author-voice pass 06-09-2026 ([SIGNOFF_A18_author_pass.md](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/p3_citation_registers/SIGNOFF_A18_author_pass.md))
 readiness: 3/5 (pending author sign-off)
 venue: "Dictionaries: Journal of the Dictionary Society of North America (2027)"
 author: "**Mārcis Gasūns**, independent scholar ([ORCID 0000-0003-4513-884X](https://orcid.org/0000-0003-4513-884X)), gasyoun@ya.ru"
@@ -12,7 +12,7 @@ data_source: "MWS/papers/p3_citation_registers/register_census/ (register_census
 
 # One Slot, Many Warrants: The Evidentiary Stratification of the Citation Apparatus in Monier-Williams' *Sanskrit-English Dictionary*
 
-_Created: 16-07-2026 · Last updated: 16-07-2026_
+_Created: 16-07-2026 · Last updated: 06-09-2026_
 
 > **Draft status (2026-07-16, readiness 3/5 pending author sign-off).** Every count in §3 is
 > computed by [`register_census/register_census.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/p3_citation_registers/register_census/register_census.py) over
@@ -83,9 +83,9 @@ it is sharp: 28 of 44 dictionaries carry no tagged citations at all, and a count
 the tagged form ranks the densest indigenous citers at zero. MW sits unambiguously on the
 European side of it.
 
-This paper asks what is inside that single formal register once you look. Our claim is that
+This paper asks what is inside that single formal register once you look. Its one claim is that
 **register is one axis and warrant is another**, and that the second is invisible to the first.
-We contribute:
+Four contributions carry that claim:
 
 1. **An exhaustive evidentiary census** of MW's apparatus (§3): every one of its 320,828 tagged
    citations classified into five mutually exclusive warrant strata, computed by a committed,
@@ -122,7 +122,7 @@ counter mis-ranks the densest citers in the corpus as citation-free. Corpus-wide
 1,245,644 citations, of which 59.3% carry a locator; the remaining ~41% name a source and no
 passage.
 
-Two things follow for the present paper, and it is worth separating them.
+Two things follow for the present paper, and they need to be kept apart.
 
 The first is that MW is a Register-A dictionary, and we confirm this rather than assume it (§3.1):
 its indigenous-register footprint is 250 word-boundary `iti` hits across the whole dictionary,
@@ -214,8 +214,8 @@ records carrying a hedge and no citation of a named work at all — neither atte
 38,538 remain. For that population the hedge is not a qualifier sprinkled onto otherwise-evidenced
 entries; it is the entire warrant. Only 548 records (0.24% of citing records) place a hedged sense
 beside an attested one. And the strata are per citation *occurrence*, not per sense: an entry
-mixing warrants contributes to both, which is precisely why the corpus test in §5 needs a strict
-subset rather than a naive join.
+mixing warrants contributes to both, which is why the corpus test in §5 needs a strict subset
+rather than a naive join.
 
 ## 4. The hedge is Register B in a Register-A slot
 
@@ -264,9 +264,8 @@ have.
 Joining MW's strictly hedged lemmas against the Digital Corpus of Sanskrit
 ([`lexicographer_dcs/`](../../lexicographer_dcs/)): of 18,930 lemmas whose entire attestation is
 `L.`, **31.0%** occur in DCS-2021 and **31.4%** in the fuller DCS-2026 token corpus. The stability
-across snapshots is worth exactly what it is worth and no more — these are two versions of one
-corpus project, one annotation tradition, so the agreement controls for *version*, not for DCS's
-conventions.
+across snapshots should not be over-read: these are two versions of one corpus project, one
+annotation tradition, so the agreement controls for *version*, not for DCS's conventions.
 
 So the hedge is **not** a statement of non-existence. Roughly a third of it dissolves on contact
 with a modern corpus. What MW recorded as "the lexicons say so and I cannot show you a text" was,
@@ -288,7 +287,7 @@ direction.
 
 The 31% is the **controlled** figure: it restricts to the 18,930 lemmas whose *every* sense is
 hedged, so that any corpus occurrence is at least an occurrence of a hedged lemma. The
-restriction is not fussiness. A further **10,264 lemmas are partially hedged** — they carry both
+restriction does real work. A further **10,264 lemmas are partially hedged** — they carry both
 `L.` and real citations ([`lexicographer_dcs/`](../../lexicographer_dcs/)) — and they are excluded
 precisely because there the corpus cannot distinguish which sense it is attesting: an
 uncontrolled join would credit the hedged sense with the evidence belonging to its attested
@@ -391,18 +390,18 @@ same breath as the number. For MW both decisions are load-bearing and neither is
 result. Together they hide 13,532 locator-bearing citations, and they split cleanly: 8,666 are lost
 to counting one tag shape instead of two, and 4,866 to reading only arabic digits as locators.
 (Against that, the older rule counts one citation as located that we class as authority — the
-`<ls>W. 1</ls>` of §8 — so the net understatement of MW's linkable core is 13,531, or **28.6%**.) A third decision — whether the roman test is
-case-sensitive — silently reclassified some 46,000 citations and erased the hedge stratum outright
-in an early run of our own script, and it was caught only because the hedge count was known
-independently. The census's rules are stated in §3.1 for exactly this reason, and its
-limitations (§8) in the same spirit.
+`<ls>W. 1</ls>` of §8 — so the net understatement of MW's linkable core is 13,531, or **28.6%**.)
+A third decision — whether the roman test is case-sensitive — silently reclassified some 46,000
+citations and erased the hedge stratum outright in an early run of our own script, and it was
+caught only because the hedge count was known independently. The census's rules are stated in
+§3.1 for this reason, and its limitations (§8) in the same spirit.
 
 ## 7. Consequence: the apparatus is a matrix, not a list
 
 Put the two axes together. The register distinction sorts *dictionaries* by citation form.
 The warrant strata sort *citations* by what they evidence. Neither reduces to the other, and the
 cells of the resulting matrix are the objects a reader, a lexicographer, and a parser each
-actually need:
+need:
 
 | | Register A (tagged apparatus) | Register B (`iti` quotative) |
 |---|---|---|
@@ -419,8 +418,8 @@ marked `L.` is a genuinely different epistemic object from a sense marked `MBh. 
 1899 dictionary says so — it is the digital reduction to a uniform tag that hides it.
 
 **For the digital apparatus.** Any tool that treats `<ls>` as a boolean "has a citation" feature
-is measuring a slot, not evidence. This is not hypothetical: it is exactly how the two errors in
-§6 arose, and it is how a hedge — MW's explicit statement that he has *no* text — gets counted as
+is measuring a slot, not evidence. This is not hypothetical: it is how the two errors in §6
+arose, and it is how a hedge — MW's explicit statement that he has *no* text — gets counted as
 a citation *of* a text. The strata are cheap to compute, deterministic, and derivable from the
 open source; there is no reason for a downstream consumer to keep flattening them.
 
@@ -433,7 +432,7 @@ sits inside the same headword — which is the defensible core; the remaining 42
 boundary and want a spot-check before use ([`relative_refs/`](../../relative_refs/)). The two splits
 are independent and should not be collapsed into a single "high-confidence real-source" rate: that
 figure has not been measured. All of it is **resolvable, not hand-verified**, and we report it as
-such. But they establish the direction: the meta share overstates how much of MW's
+such. But the numbers establish the direction: the meta share overstates how much of MW's
 apparatus is genuinely detached from a source, just as the bare share understates how much of it
 names a real work.
 
