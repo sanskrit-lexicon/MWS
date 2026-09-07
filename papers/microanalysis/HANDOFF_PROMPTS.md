@@ -51,7 +51,7 @@ Dictionary data at /tmp/  (= C:/Users/user/AppData/Local/Temp/  on Windows):
   armh.txt, abch.txt, acph.txt, acsj.txt.
 
 Conventions:
-- Every verifiable claim in issues or docs must be a `[text](URL)` hyperlink.
+- Every verifiable claim in issues or docs must be a `text` hyperlink.
 - git commits prefixed `docs-pass:`, trailer `Co-Authored-By: Claude <MODEL> <noreply@anthropic.com>`.
 - Never push to master; only `docs-pass`.
 
@@ -835,7 +835,7 @@ dict's csl-orig source. Commit on docs-pass branch.
 ```
 Compose the tracking-issue body for the {REPO} docs-pass branch. Apply the
 linking rule (feedback_issue_links.md) strictly: every filename in tables,
-prose, AND checklists is a `[text](URL)` hyperlink to the docs-pass branch;
+prose, AND checklists is a `text` hyperlink to the docs-pass branch;
 every record number links to mw.txt line anchor; every abbreviation links
 to its definition; every section description links to its section anchor.
 @-mention @funderburkjim and @Andhrabharati for review.
