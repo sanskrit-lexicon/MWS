@@ -1,9 +1,9 @@
 # CLAUDE.md
 
-_Created: 06-05-2026 · Last updated: 05-09-2026_
+_Created: 06-05-2026 · Last updated: 12-09-2026_
 
-**MWS** is the correction, enhancement, and tooling layer for the Cologne
-digitisation of Monier-Williams, *A Sanskrit-English Dictionary* (1899).
+This repo is **MWS**, the correction, enhancement, and tooling layer for the
+Cologne digitisation of Monier-Williams, *A Sanskrit-English Dictionary* (1899).
 Canonical digitised source is
 `csl-orig/v02/mw/mw.txt`
 (SLP1), a sibling checkout on this machine (`../csl-orig/v02/mw/mw.txt`).
@@ -19,7 +19,7 @@ Tag reference: [DATA_DICTIONARY.md](https://github.com/sanskrit-lexicon/MWS/blob
 **Projects 5–8** (not 1–4) — 1–4 were already taken when MWS was onboarded.
 Taxonomy itself is the org standard.
 
-## What to run
+## How to run
 
 Transcode (`mwtranscode/`):
 
@@ -36,7 +36,8 @@ sh generate_dict.sh mw ../../mw
 sh xmlchk_xampp.sh mw
 ```
 
-On Windows without `xmllint`, `make_xml.py` printing
+On Windows without `xmllint`, the build's assembled
+`<outdir>/pywork/make_xml.py` printing
 `All records parsed by ET` is the validate signal.
 
 Issue folders under `mwsissues/issueNNN/` snapshot `mw.txt` to
