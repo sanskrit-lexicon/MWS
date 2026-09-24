@@ -81,7 +81,7 @@ entry. On that number alone MW looks like a densely evidenced work, and by the s
 nineteenth-century bilingual lexicography it is.
 
 The number is also nearly meaningless, and the reason is the subject of this paper. A citation
-is a *warrant*: it is the lexicographer's answer to the question "how do you know?". Counting
+is a *warrant*: it is the lexicographer's answer to the question "how do you know?" Counting
 citations assumes that every citation answers that question in the same way. In MW it demonstrably
 does not. Some citations name a work and a verse and can, in principle, be walked to a page.
 Some name a work and nothing else. Some name no work at all—they are MW's own admission that a
@@ -153,7 +153,7 @@ by their markup shape. It is therefore silent on the question a lexicographer ac
 about: what does this citation *warrant*? A tagged `<ls>MBh. iii, 12</ls>` and a tagged
 `<ls>L.</ls>` are both Register A, both one citation, both counted once. The first says "this
 sense occurs in the Mahābhārata at book 3, verse 12." The second says "this sense is in the
-lexicons and I have no text for it". Treating those as the same datum is not a rounding error;
+lexicons and I have no text for it." Treating those as the same datum is not a rounding error;
 it is a category mistake, and at 40,213 occurrences it is a category mistake with a large
 denominator.
 
@@ -278,7 +278,7 @@ read `L.` as just another citation.
 
 ## 5. The corpus test: is the hedge a gap or a wall?
 
-If `<ls>L.</ls>` means "no text known **to MW**", it is a claim about the state of textual
+If `<ls>L.</ls>` means "no text known **to MW**," it is a claim about the state of textual
 knowledge in 1899, not about the language. It is therefore testable against a corpus MW did not
 have.
 
@@ -345,7 +345,7 @@ Both were markup shape read as scholarly substance.
 ### 6.1 MW's linkable ceiling is ~19%, not ~37.5%
 
 The project's own synthesis memo and roadmap state MW's apparatus ceiling as "22.3% meta + 40.2%
-bare", implying that ~37.5% of MW's citations are text-linkable. The 22.3% is a real MW
+bare," implying that ~37.5% of MW's citations are text-linkable. The 22.3% is a real MW
 measurement—the meta strata, 69,603 citations by a literal tag match, which our census
 reproduces to within the two documented anomalies of §8 (69,605). The 40.2% is not a measurement
 of MW at all: it is the **corpus-wide** bare-abbreviation share, imported from the atlas table—
@@ -480,7 +480,7 @@ such. But the numbers establish the direction: the meta share overstates how muc
 apparatus is genuinely detached from a source, just as the bare share understates how much of it
 names a real work.
 
-The honest summary of MW's apparatus is therefore neither "320,828 citations" nor "18.96% usable".
+The honest summary of MW's apparatus is therefore neither "320,828 citations" nor "18.96% usable."
 It is: a large apparatus, overwhelmingly naming works rather than passages, resting on the
 indigenous lexical tradition for an eighth of its warrants, with a linkable core of about one
 citation in five and a partly recoverable anaphoric layer on top. That sentence is longer than a
