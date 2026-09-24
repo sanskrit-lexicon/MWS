@@ -85,7 +85,7 @@ a locator-shaped token (`L. i`, `W. 1`) and is documented in PR #266's own body.
 
 ### 4.3 Venue fit applied (style sheet → manuscript)
 
-1. American spelling (artefact→artifact, digitisation→digitization, characterisable, normalisation, defence, programme, catalogue, capitalised — 14 tokens).
+1. American spelling (artefact→artifact, digitisation→digitization, characterisable, normalisation, defence, programme, catalogue, capitalised — 14 tokens; verifier round 1 caught two more, neighbour and travelled, plus "New edn." → "New ed." and one period-outside-quote — fixed in the follow-up PR).
 2. Em dashes closed (66 spaced " — " → "—"; the two inside the §3.1 code fence left alone).
 3. Tables numbered and titled (Table 1 rules · Table 2 census · Table 3 atlas before/after · Table 4 matrix), each referred to by number in the text.
 4. Glosses in single quotes ('Lexicographers'), centuries in words (19th→nineteenth, 3×), dates in MONTH DAY, YEAR where they occur in the body.

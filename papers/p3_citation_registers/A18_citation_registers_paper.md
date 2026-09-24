@@ -152,7 +152,7 @@ The second is what the register distinction, by construction, cannot see. It cla
 by their markup shape. It is therefore silent on the question a lexicographer actually cares
 about: what does this citation *warrant*? A tagged `<ls>MBh. iii, 12</ls>` and a tagged
 `<ls>L.</ls>` are both Register A, both one citation, both counted once. The first says "this
-sense occurs in the Mahābhārata at book 3, verse 12". The second says "this sense is in the
+sense occurs in the Mahābhārata at book 3, verse 12." The second says "this sense is in the
 lexicons and I have no text for it". Treating those as the same datum is not a rounding error;
 it is a category mistake, and at 40,213 occurrences it is a category mistake with a large
 denominator.
@@ -168,7 +168,7 @@ complementary one: *within* a register, density is still not evidence.
 We parse the canonical Cologne source `csl-orig` `v02/mw/mw.txt` directly—286,525
 `<L>`…`<LEND>` records—and classify every tagged citation in it. The script
 ([`register_census/register_census.py`](https://github.com/sanskrit-lexicon/MWS/blob/master/papers/p3_citation_registers/register_census/register_census.py)) is committed, its
-outputs are persisted next to it, and a re-run reproduces every artifact byte-identically.
+outputs are persisted next to it, and a re-run reproduces every count and `census_stats.json` byte-identically (the generated `CENSUS.md` and CSVs differ from the committed copies only by a later link rewrite and by line endings).
 
 Two features of MW's markup govern the method, and getting either wrong changes the answer
 materially (§6.2). First, MW writes a citation in **two different shapes**:
@@ -314,7 +314,7 @@ restriction does real work. A further **10,264 lemmas are partially hedged**—t
 `L.` and real citations ([`lexicographer_dcs/`](../../lexicographer_dcs/))—and they are excluded
 precisely because there the corpus cannot distinguish which sense it is attesting: an
 uncontrolled join would credit the hedged sense with the evidence belonging to its attested
-neighbour. The strict set is narrower still than the obvious one: a coarse "every citation is
+neighbor. The strict set is narrower still than the obvious one: a coarse "every citation is
 `L.`" rule admits 20,146 lemmas, and 1,216 of those are dropped for carrying an uncited gloss or
 stub, leaving the 18,930 genuinely known only from the kośas. Each exclusion costs population and
 buys the only figure that means what it says. A naive join reports a higher number, and the higher
@@ -423,7 +423,7 @@ Both errors have the same shape. A number was computed by a rule that encoded an
 *how the markup is written*—one tag shape, arabic locators, one bare bucket—and the number was
 then read as a fact about *what the lexicographer did*. The assumption was invisible because it
 lived in a regex, and the resulting figure was plausible, quotable, and propagated: the 40.2%
-travelled from a superseded corpus-wide table into a memo, a roadmap, and a paper outline, and at
+traveled from a superseded corpus-wide table into a memo, a roadmap, and a paper outline, and at
 no point did it stop looking like a fact about Monier-Williams.
 
 The defense is not better regexes. It is that any number characterizing a historical apparatus
@@ -497,7 +497,7 @@ number, and it is the shortest true thing we can say.
   Siglum normalization and abbreviation-family merging are the atlas's owned layer, with a curated
   alias table and a human review queue; we deliberately do not duplicate it, and the per-stratum
   distinct-siglum counts (510 attested, 824 bare) are therefore upper bounds. That layer's
-  case-and-diacritic fold already unites `MBH.`/`MBh.` (75,548 citations corpus-wide) and
+  case-and-diacritic fold already unites `MBH.`/`MBh.` (75,548 citations corpus-wide in the atlas's 2026-06 siglum pass, run on the pre-fix extraction) and
   `ṚV.`/`RV.` (32,316); family merging of the `R.` = `Rām.` = `Rāmāy.` kind is a curated review
   queue, and the atlas's resolvability band has not yet been re-run on the corrected extraction.
 - **The strata are per citation occurrence, not per sense.** An entry mixing warrants contributes
@@ -526,7 +526,7 @@ from `csl-atlas` `data/obs/citation_registers.json` at commit
 [`c89e679`](https://github.com/sanskrit-lexicon/csl-atlas/commit/c89e67979bc3f50809aac3817a5ef6c61806374c) (July 17, 2026). The census script,
 its CSV outputs, its JSON statistics and its generated summary are committed at
 [`papers/p3_citation_registers/register_census/`](register_census/). The run is deterministic—
-re-running reproduces every artifact byte-identically, which is the property that makes the §6.2
+re-running reproduces every count and `census_stats.json` byte-identically, which is the property that makes the §6.2
 divergence a *finding* rather than an anecdote.
 
 ```sh
@@ -550,7 +550,7 @@ Gasūns, Mārcis. 2026. Two citation registers, quantified (OBS-C). *csl-atlas*,
 
 Hellwig, Oliver. 2010–2026. *Digital Corpus of Sanskrit* (DCS). http://www.sanskrit-linguistics.org/dcs/ (accessed September 24, 2026).
 
-Monier-Williams, Monier. 1899. *A Sanskrit-English Dictionary, Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages*. New edn. Oxford: Clarendon Press.
+Monier-Williams, Monier. 1899. *A Sanskrit-English Dictionary, Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages*. New ed. Oxford: Clarendon Press.
 
 Whitney, William Dwight. 1885. *The Roots, Verb-Forms, and Primary Derivatives of the Sanskrit Language*. Leipzig: Breitkopf and Härtel.
 
