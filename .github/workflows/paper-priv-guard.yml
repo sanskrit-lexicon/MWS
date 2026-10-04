@@ -1,0 +1,125 @@
+# paper-priv-guard — block manuscript-shape files outside the allowlist.
+# STANDING_POLICY_PAPER_WORK_PRIVATE_REPOS_ONLY: manuscripts live only in
+# gasyoun/Uprava/papers (private). A PR adding/modifying manuscript-shape files
+# that are not allowlisted in .paper-priv-allowlist FAILS this check; a push to
+# the default branch that lands such files opens a `paper-priv-violation` issue
+# (no auto-revert — a human/agent decides).
+# Secretless by design (public repo): contents:read + issues:write only.
+# Allowlist syntax: one shell-glob per line; every active line REQUIRES a
+# reason comment on the same line or on the comment line(s) directly above.
+name: paper-priv-guard
+
+on:
+  pull_request:
+  push:
+    branches:
+      - master
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  paper-priv-guard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Collect changed files
+        env:
+          EVENT: ${{ github.event_name }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          BEFORE: ${{ github.event.before }}
+        run: |
+          set -euo pipefail
+          : > /tmp/changed.txt
+          if [ "$EVENT" = "pull_request" ]; then
+            if git rev-parse -q --verify "HEAD^2" >/dev/null 2>&1; then
+              # merge commit: parent 1 = base tip, parent 2 = PR head
+              git diff --name-only "HEAD^1" "HEAD^2" >> /tmp/changed.txt || true
+            else
+              git fetch --no-tags --depth=1 origin "$BASE_SHA" || true
+              git diff --name-only "$BASE_SHA" "HEAD" >> /tmp/changed.txt || true
+            fi
+          else
+            ZERO=0000000000000000000000000000000000000000
+            if [ -n "$BEFORE" ] && [ "$BEFORE" != "$ZERO" ] && git cat-file -e "$BEFORE" 2>/dev/null; then
+              git diff --name-only "$BEFORE" "$GITHUB_SHA" >> /tmp/changed.txt || true
+            elif git rev-parse -q --verify "HEAD~1" >/dev/null 2>&1; then
+              git diff --name-only "HEAD~1" "$GITHUB_SHA" >> /tmp/changed.txt || true
+            else
+              # new-branch push without history: full-tree scan (fail-closed)
+              git ls-files >> /tmp/changed.txt
+            fi
+          fi
+          sort -u /tmp/changed.txt -o /tmp/changed.txt
+
+      - name: Check manuscript-shape files against allowlist
+        id: check
+        run: |
+          set -euo pipefail
+          ALLOW=".paper-priv-allowlist"
+          pats=(); errs=()
+          if [ -f "$ALLOW" ]; then
+            prev_comment=""
+            while IFS= read -r line || [ -n "$line" ]; do
+              trimmed="$(printf '%s' "$line" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')"
+              if [ -z "$trimmed" ]; then prev_comment=""; continue; fi
+              case "$trimmed" in
+                \#*) prev_comment="$trimmed"; continue;;
+              esac
+              pat="$(printf '%s' "$trimmed" | sed 's/#.*//' | sed 's/[[:space:]]*$//')"
+              if [ -z "$pat" ]; then prev_comment="$trimmed"; continue; fi
+              if [ -n "$prev_comment" ] || printf '%s' "$trimmed" | grep -q '#'; then
+                pats+=("$pat")
+              else
+                errs+=("$pat")
+              fi
+              prev_comment=""
+            done < "$ALLOW"
+          fi
+          if [ "${#errs[@]}" -gt 0 ]; then
+            echo "::error::.paper-priv-allowlist: every active line needs a reason comment (same line or line above):"
+            for e in "${errs[@]}"; do echo "  - $e"; done
+            exit 1
+          fi
+          : > /tmp/hits.txt
+          while IFS= read -r f; do
+            [ -z "$f" ] && continue
+            case "$f" in
+              papers/*|*/papers/*|*.tex|SIGNOFF_*|*/SIGNOFF_*|*cover_letter*|*submission_checklist*|*_paper.md|*paper_pack*) ;;
+              *) continue;;
+            esac
+            ok=0
+            for p in ${pats[@]+"${pats[@]}"}; do
+              case "$f" in $p) ok=1; break;; esac
+            done
+            [ "$ok" -ne 1 ] && printf '%s\n' "$f" >> /tmp/hits.txt
+          done < /tmp/changed.txt
+          if [ ! -s /tmp/hits.txt ]; then
+            echo "paper-priv-guard: OK — no non-allowlisted manuscript-shape files."
+            exit 0
+          fi
+          echo "::error::рукописи только в gasyoun/Uprava/papers (STANDING_POLICY_PAPER_WORK_PRIVATE_REPOS_ONLY)"
+          echo "paper-priv-guard: MANUSCRIPT-SHAPE FILES OUTSIDE ALLOWLIST:"
+          cat /tmp/hits.txt
+          exit 1
+
+      - name: Open paper-priv-violation issue (default-branch pushes only)
+        if: github.event_name == 'push' && failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          # the check step failed on a default-branch push → file an issue
+          # (dedup: comment on the existing open violation issue if one exists)
+          files="$(sed 's/^/  - /' /tmp/hits.txt)"
+          body="$(printf 'STANDING_POLICY_PAPER_WORK_PRIVATE_REPOS_ONLY: manuscript-shape files landed on the default branch.\n\nFiles:\n%s\n\nNo auto-revert — a human/agent decides. Manuscripts live in gasyoun/Uprava/papers. To exempt a path: `.paper-priv-allowlist` line + reason comment (published/preprint/license).' "$files")"
+          existing="$(gh issue list -R "$REPO" --state open --search "paper-priv-violation in:title" --json number --jq '.[0].number' 2>/dev/null || true)"
+          if [ -n "$existing" ]; then
+            gh issue comment "$existing" -R "$REPO" --body "$body"
+          else
+            gh issue create -R "$REPO" --title "paper-priv-violation: $(date -u +%F)" --body "$body"
+          fi
