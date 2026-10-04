@@ -88,6 +88,9 @@ jobs:
           : > /tmp/hits.txt
           while IFS= read -r f; do
             [ -z "$f" ] && continue
+            # deletions always pass: removing a manuscript from the public
+            # repo is the goal, never a violation
+            git cat-file -e "HEAD:$f" 2>/dev/null || continue
             case "$f" in
               papers/*|*/papers/*|*.tex|SIGNOFF_*|*/SIGNOFF_*|*cover_letter*|*submission_checklist*|*_paper.md|*paper_pack*) ;;
               *) continue;;
