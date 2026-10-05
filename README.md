@@ -1,5 +1,7 @@
 # MWS
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21429504.svg)](https://doi.org/10.5281/zenodo.21429504)
+
 _Created: 16-01-2014 · Last updated: 28-07-2026_
 
 Monier Monier-Williams, Sir; *A Sanskrit-English Dictionary*. Oxford, 1899.
