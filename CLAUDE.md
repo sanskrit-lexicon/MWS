@@ -1,6 +1,13 @@
 # CLAUDE.md
 
-_Created: 06-05-2026 · Last updated: 20-09-2026 (H5176 SLA review: transcode + issue-dir workflow paths re-verified current)_
+_Created: 06-05-2026 · Last updated: 09-10-2026 (H5885 truth refresh: v1.0.10 + A18 fixes + LF policy + DOI facts)_
+
+Recent state (09-10-2026): `v1.0.10` cut (#305); A18 verifier rounds 1–2
+landed (H5326, #306/#307 — five period/comma-inside-quote fixes with
+narrowed claims); the tree is renormalized to LF per the org `.gitattributes`
+policy (H2004, #311 — no content change); Zenodo concept DOI
+`10.5281/zenodo.21429504` is pinned in `CITATION.cff` with a README badge
+(#317).
 
 **MWS** is the correction, enhancement, and tooling layer for the Cologne
 digitisation of Monier-Williams, *A Sanskrit-English Dictionary* (1899).
