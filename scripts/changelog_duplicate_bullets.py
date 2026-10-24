@@ -16,6 +16,14 @@ legitimate one, so no single section reads as wrong, and only a diff of the
 
   python scripts/changelog_duplicate_bullets.py           # check (exit 1 if dupes)
   python scripts/changelog_duplicate_bullets.py --json    # machine-readable
+  python scripts/changelog_duplicate_bullets.py --staged  # staged blob, not working tree
+  python scripts/changelog_duplicate_bullets.py --ref <sha>  # pushed blob at <sha>:CHANGELOG.md
+
+--staged and --ref read the changelog via `git show`, so a pre-push hook can
+check the content actually being pushed (a rebase or a different worktree can
+leave the working-tree file out of sync with what a given sha carries) the
+same way changelog_released_headings.py's `--staged` mode does; the working-
+tree read stays the default so pre-commit / ad-hoc runs are unaffected.
 
 THE UNIT OF COMPARISON IS THE ENTRY, NOT THE BULLET LINE
 
@@ -61,6 +69,7 @@ continuation lines are part of their parent entry.
 import json
 import os
 import re
+import subprocess
 import sys
 from collections import defaultdict
 
@@ -90,6 +99,27 @@ def _normalise(bullet):
     t = t.strip().strip('.:;').strip()
     t = re.sub(r'^\((.*)\)$', r'\1', t).strip()     # "(none in this release)"
     return t.lower()
+
+
+def git_show(repo_root, spec):
+    """Content of `spec` (e.g. `HEAD:CHANGELOG.md`), or None if unavailable."""
+    try:
+        res = subprocess.run(['git', 'show', spec], cwd=repo_root,
+                             capture_output=True, text=True, encoding='utf-8',
+                             errors='replace', timeout=30)
+    except Exception:
+        return None
+    return res.stdout if res.returncode == 0 else None
+
+
+def repo_root_of(start):
+    try:
+        res = subprocess.run(['git', 'rev-parse', '--show-toplevel'], cwd=start,
+                             capture_output=True, text=True, encoding='utf-8',
+                             errors='replace', timeout=30)
+    except Exception:
+        return None
+    return res.stdout.strip() if res.returncode == 0 else None
 
 
 def load_allowlist(repo_root):
@@ -166,20 +196,43 @@ def find_duplicates(text, allowlist=()):
 
 
 def main():
-    repo = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    path = next((os.path.join(repo, n) for n in CHANGELOG_NAMES
+    argv = sys.argv[1:]
+    as_json = '--json' in argv
+    staged = '--staged' in argv
+    ref = None
+    if '--ref' in argv:
+        i = argv.index('--ref')
+        if i + 1 >= len(argv):
+            print('--ref needs a revision', file=sys.stderr)
+            return 2
+        ref = argv[i + 1]
+
+    here = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    repo = repo_root_of(here) or here
+    name = next((n for n in CHANGELOG_NAMES
                  if os.path.isfile(os.path.join(repo, n))), None)
-    if path is None:
+    if name is None:
         print('no changelog found in {0} — nothing to check'.format(repo))
         return 0
 
-    as_json = '--json' in sys.argv
-    with open(path, encoding='utf-8') as fh:
-        text = fh.read()
+    if staged:
+        text = git_show(repo, ':{0}'.format(name))
+        if text is None:
+            print('{0}: not staged — nothing to check'.format(name))
+            return 0
+    elif ref is not None:
+        text = git_show(repo, '{0}:{1}'.format(ref, name))
+        if text is None:
+            # Shallow clone or the changelog is new at this revision — nothing
+            # to compare is not the same as a real duplicate.
+            print('{0}: no copy at {1} — nothing to check'.format(name, ref))
+            return 0
+    else:
+        with open(os.path.join(repo, name), encoding='utf-8') as fh:
+            text = fh.read()
 
     allowlist = load_allowlist(repo)
     dupes, skipped = find_duplicates(text, allowlist)
-    name = os.path.basename(path)
 
     if as_json:
         print(json.dumps(
