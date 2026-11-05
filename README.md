@@ -2,11 +2,52 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21429504.svg)](https://doi.org/10.5281/zenodo.21429504)
 
-_Created: 16-01-2014 · Last updated: 28-07-2026_
+_Created: 16-01-2014 · Last updated: 05-11-2026_
 
 Monier Monier-Williams, Sir; *A Sanskrit-English Dictionary*. Oxford, 1899.
 
 This repository holds corrections, enhancements, and tooling for the [Cologne digitization](http://www.sanskrit-lexicon.uni-koeln.de/) of the MW dictionary. The canonical source data (`mw.txt` in SLP1 encoding) lives in [csl-orig](https://github.com/sanskrit-lexicon/csl-orig); the build system is in [csl-pywork](https://github.com/sanskrit-lexicon/csl-pywork). Text corrections are never made directly to the source — they are expressed as change files applied by scripts, following the canonical [correction workflow](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md). Issues and corrections are tracked at the [MWS GitHub issue tracker](https://github.com/sanskrit-lexicon/MWS/issues); the dictionary is served online through the [Cologne interface](http://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php), and this repository publishes a [GitHub Pages landing page](http://sanskrit-lexicon.github.io/MWS/).
+
+## Join the proofreading
+
+The dictionary was digitised by hand from the printed book, and the text is checked against the page scans one entry at a time. You can help at any level — no git, no setup, no Sanskrit degree needed to start.
+
+> [!TIP]
+> **The three-step ladder.** ① Spot an error → ② Verify an entry against the scan → ③ Prepare the change file. Start at ①; stop whenever you like — every rung is a real contribution.
+
+### ① Spot an error — no git needed
+
+Reading the dictionary and comparing it with the printed page **is** the work. When the digital text and the scan disagree, open one correction issue:
+
+**[Report a correction](https://github.com/sanskrit-lexicon/MWS/issues/new?template=data-correction.yml)**
+
+The form asks only for the headword, the reading you see, the reading you expect, and your evidence. What to collect before you click: [Report a Typo](https://sanskrit-lexicon.github.io/csl-guides/contributing/report-a-typo).
+
+### ② Verify an entry against the scan
+
+Turn a reported error into a verified one: find the source line, compare it with the printed scan, and decide whether it is a digital typo, a print correction, a markup problem, or a question. The walkthrough holds your hand through one full case — a real MW entry, start to finish: [Process One Correction](https://sanskrit-lexicon.github.io/csl-guides/contributing/process-one-correction).
+
+### ③ Prepare the change file
+
+Corrections are never typed into the dictionary directly — they travel as small change files with an audit trail, reviewed and applied in monthly batches: [the correction workflow](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/docs/correction-workflow.md).
+
+### How a correction travels
+
+From the printed page to the screen in your browser, and back to the source when a reader spots an error:
+
+![How a correction travels](docs/assets/pipeline.svg)
+
+Where MW stands among the Cologne dictionaries — corrections recorded to date, from the org observatory snapshot:
+
+![MW progress](docs/assets/progress-mw.svg)
+
+One real correction, before and after ([batch_20240616, case 688](https://github.com/sanskrit-lexicon/csl-corrections/blob/main/batch_20240616/dictionaries/mw/batch1.txt); the entry's printed page comes from the source metaline):
+
+![One real correction, before and after](docs/assets/correction-example.svg)
+
+### Use the dictionary
+
+Browse the dictionary online at the [Cologne MW display](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/indexcaller.php), or learn to read entries the way lexicographers built them: [the MW reading guide](https://sanskrit-lexicon.github.io/csl-guides/users/reading-monier-williams).
 
 ## Documentation
 
@@ -20,6 +61,7 @@ This repository holds corrections, enhancements, and tooling for the [Cologne di
 | [ROADMAP.md](https://github.com/sanskrit-lexicon/MWS/blob/master/ROADMAP.md) | 2026 H2 plan (workstreams W1–W4) |
 | [CONTRIBUTING.md](https://github.com/sanskrit-lexicon/MWS/blob/master/CONTRIBUTING.md) | Correction workflow for contributors |
 | [CHANGELOG.md](https://github.com/sanskrit-lexicon/MWS/blob/master/CHANGELOG.md) | Dated maintenance snapshots |
+| [docs/assets/](https://github.com/sanskrit-lexicon/MWS/tree/master/docs/assets) | README visuals — pipeline diagram, MW progress card, before/after panel (sources and refresh recipe) |
 
 ## Contents
 
