@@ -1,10 +1,10 @@
-cd ../code1
+cd ../code1 || exit 1
 file1="../rev1a/temp_rev1a_ab_slp1.txt"
 python mw_transcode.py roman slp1 ../rev1a/temp_rev1a_ab_iast.txt $file1
 
 echo "exiting convert_rev1a"
 
-cd ../rev1a
+cd ../rev1a || exit 1
 
 file2="temp_rev1a_ab1.txt" 
 python ../code1/convert_ab2a.py ab,cdsl $file1 $file2

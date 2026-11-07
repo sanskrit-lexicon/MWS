@@ -3,7 +3,7 @@
 # 0
 dirin="../../issue176"
 filepfx="temp_mw_17"
-cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue178/code1
+cd /c/xampp/htdocs/sanskrit-lexicon/MWS/mwsissues/issue178/code1 || exit 1
 file1="${dirin}/${filepfx}.txt"  # cdsl form
 file2="${filepfx}_ab1.txt"   # first AB form
 file3="${filepfx}_ab2a.txt"  # second AB form

@@ -1,7 +1,7 @@
-cd ../code1
+cd ../code1 || exit 1
 python mw_transcode.py roman slp1 ../rev1/temp_rev1_ab_iast.txt ../rev1/temp_rev1_ab.txt
 
-cd ../rev1
+cd ../rev1 || exit 1
 
 file1="temp_rev1_ab.txt"  # from AB  assume it is in 'ab2a' form
 file2="temp_rev1_ab1.txt" 
