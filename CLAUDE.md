@@ -1,13 +1,17 @@
 # CLAUDE.md
 
-_Created: 06-05-2026 · Last updated: 09-10-2026 (H5885 truth refresh: v1.0.10 + A18 fixes + LF policy + DOI facts)_
+_Created: 06-05-2026 · Last updated: 08-11-2026 (Y6Y freshness truth-pass: v1.0.10 re-verified latest, CI additions #319–#322, H7720 on-ramp, SC2164 #328; prev H5885 09-10-2026)_
 
-Recent state (09-10-2026): `v1.0.10` cut (#305); A18 verifier rounds 1–2
-landed (H5326, #306/#307 — five period/comma-inside-quote fixes with
-narrowed claims); the tree is renormalized to LF per the org `.gitattributes`
-policy (H2004, #311 — no content change); Zenodo concept DOI
-`10.5281/zenodo.21429504` is pinned in `CITATION.cff` with a README badge
-(#317).
+Recent state (08-11-2026): latest release is still `v1.0.10` (#305, cut
+24-09); the last content corrections remain the A18 verifier rounds 1–2
+(H5326, #306/#307 — five period/comma-inside-quote fixes with narrowed
+claims); the tree stays LF-normalized per the org `.gitattributes` policy
+(H2004, #311 — no content change); Zenodo concept DOI
+`10.5281/zenodo.21429504` stays pinned in `CITATION.cff` with a README badge
+(#317). Since 18-10: CI grew the pinned F821 undefined-name gate (H7243,
+#320) and the changelog duplicate-entry guard (#319/#321); docs got the
+'Join the proofreading' enthusiast on-ramp with three README visuals (H7720,
+#326); SC2164 `cd` guards landed at 9 sites (H7788, #328).
 
 This repo is **MWS**, the correction, enhancement, and tooling layer for the
 Cologne digitisation of Monier-Williams, *A Sanskrit-English Dictionary* (1899).
