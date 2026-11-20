@@ -21,7 +21,7 @@ AB: Need to keep in mind as TODO yet in all comp. words throughout, looking at t
 ;; The actual O(27,3) entry (under the main HW anāgāmin) mentions this HW as an-āgamī [with the ending ī given separately, in braces]. And the reference MWB. 133 has it thus- He is therefore called An-āgāmī, ‘one who will not come back to earth.’
 ;; This is another example of the word-endings case, I was vocal about.
 ;; Probably this correction can take place here, when all those word-endings are added to the data.
-AB: Need to keep in mind as TODO yet in all those places.
+AB: Need to keep in mind as TODO yet in all those places.
 * 042 aśvaripu
 ;; But L. is mentioned in the book, only if no other literary citations are known, as a practice.
 ;; Does it mean Bhpr. is to be replaced by L., to be in line with the book's "idea"?
@@ -29,7 +29,7 @@ AB: We might re-think on such matters sometime later.
 
 * 069 āśīviṣa
 ;; Another session for id. & idem. entries can handle these sometime later. (as being discussed under MWS issue #98)
-AB: Need to keep in mind as TODO yet in all those places.
+AB: Need to keep in mind as TODO yet in all those places.
 * 072 āsandīvat
 ;; Probably this entry also needs the accent mark change, being in ŚBr. In such a case it would be as under-
 AB: Need to keep in mind as TODO yet in all comp. words throughout, looking at the specific accent markings whereever given.
